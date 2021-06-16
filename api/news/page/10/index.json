@@ -2,6 +2,521 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-08-razer-sets-its-sights-on-saving-the-seven-seas-with-smart-robots.md",
+      "title": "Razer sets its sights on saving the seven seas with smart robots",
+      "excerpt": "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "originalUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ArX5GiV6iXsKD7fnbtaKY6-480-80.png",
+          "width": 480,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
+      "publishedDateTime": "2021-06-07T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
+      "title": "Video chat apps tout ‘inclusive’ AI features",
+      "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
+      "originalUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1224957012.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
+      "publishedDateTime": "2021-06-07T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-my-pick-for-the-ai-gaming-industry.md",
+      "title": "My Pick for the AI Gaming Industry",
+      "excerpt": "Source: Gorodenkoff / Shutterstock.com But one area of the AI sphere that is often looked over is a fun one: gaming. AI not only improves gaming, but gaming is also a great way for AI to be improved by humans through a similar collective experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
+      "originalUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
+      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
+      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
+      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
+          "width": 1320,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
+      "publishedDateTime": "2021-06-07T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
+      "title": "Newtown fitness center offer AI, robotics technology-based workout",
+      "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
+      "originalUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/01/NBCC/247017d9-b282-4dd2-bf88-bda1e8ebae19-exercisecoach.jpg?auto=webp&crop=4175,2349,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.buckscountycouriertimes.com/amp/5094535001",
+      "cdnAmpWebUrl": "https://amp-buckscountycouriertimes-com.cdn.ampproject.org/c/s/amp.buckscountycouriertimes.com/amp/5094535001",
+      "publishedDateTime": "2021-06-07T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bucks County Courier Times",
+        "domain": "buckscountycouriertimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
+      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
+      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
+          "width": 1318,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-using-watson-to-diagnose-skin-cancer-interview-with-ibm-computer-vision-scientist-noel-codella.md",
+      "title": "Using Watson to Diagnose Skin Cancer: Interview with IBM Computer Vision Scientist, Noel Codella",
+      "excerpt": "Thankfully, researchers at IBM have been studying how to take ... our own experimentation on using machine learning and artificial intelligence to see how well we can get this system to recognize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
+      "originalUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-07-unlock-near-3x-performance-gains-with-xgboost-and-amazon-sagemaker-neo.md",
+      "title": "Unlock near 3x performance gains with XGBoost and Amazon SageMaker Neo",
+      "excerpt": "When a model gets deployed to a production environment, inference speed matters. Models with fast inference speeds require less resources to run, which translates to cost savings, and applications that consume the models’ predictions benefit from the improved performance. For example, let’s say your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/26/1-2007-Arch.jpg",
+          "width": 800,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T16:19:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-start-your-morning-with-ai-weiwei.md",
+      "title": "Start Your Morning With Ai Weiwei",
+      "excerpt": "The latest is the Chinese artist and activist Ai Weiwei, who has splashed the ceramic cups and saucers with color and gilding. The designs were inspired by the “Colored Vases” project he began in 2006.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/09/dining/07Burner-cup/07Burner-cup-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html",
+      "publishedDateTime": "2021-06-07T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-expect-an-orwellian-future-if-ai-isnt-kept-in-check-microsoft-exec-says.md",
+      "title": "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says",
+      "excerpt": "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/orwellian-artifical-intelligence-future.html",
+      "originalUrl": "https://www.livescience.com/orwellian-artifical-intelligence-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livescience.com/amp/orwellian-artifical-intelligence-future.html",
+      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html",
+      "publishedDateTime": "2021-06-07T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.md",
+      "title": "Localized Prostate Cancer Therapy: Interview with Shyam Natarajan, CEO of Avenda Health",
+      "excerpt": "Avenda Health, a medtech company based in Santa Monica, California has developed the Focal Therapy System. It provides AI-powered prostate cancer therapy with the aim of treating only tumorous tissues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
+      "originalUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-computer-vision-firm-grabango-raises-39m-in-new-funding.md",
+      "title": "Computer Vision Firm Grabango Raises $39M in New Funding",
+      "excerpt": "The technology that allows retail stores to offer checkout-free shopping is coming to 4 additional Giant Eagle outlets this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/Grabango-GetGo-Checkout-CloseUp_1598964895_1623092600.jpg?L1Ub1ks4_v8DcUa4pkshmYjDGsptMGr.",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
+      "publishedDateTime": "2021-06-07T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-apple-moves-siris-speech-recognition-offline-with-new-privacy-updates.md",
       "title": "Apple moves Siri's speech recognition offline with new privacy updates",
       "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. For Siri, processing audio locally will alleviate some of the privacy concerns associated with audio recordings.",
@@ -50,6 +565,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
+      "title": "Intento Named a 2021 Cool Vendor by Gartner",
+      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21457975",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21457975",
+      "publishedDateTime": "2021-06-07T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -330,6 +879,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-07-prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision.md",
+      "title": "Prospera Technologies Named a Cool Vendor in the 2021 Gartner Cool Vendors in AI for Computer Vision",
+      "excerpt": "Prospera Technologies, an agricultural technology company recently acquired by Valmont® Industries Inc. (NYSE: VMI), announced today that Gartner has recognized the company in its report, “Cool Vendors in AI for Computer Vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
+      "originalUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-study-shows-ai-generated-fake-reports-fool-experts.md",
       "title": "Study shows AI-generated fake reports fool experts",
       "excerpt": "Takeaways · AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defen",
@@ -526,654 +1109,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-3-ai-startups-revolutionizing-nlp.md",
-      "title": "3 AI startups revolutionizing NLP",
-      "excerpt": "Deep learning has yielded amazing advances in natural language processing. Tap into the latest innovations with Explosion, Huggingface, and John Snow Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
-      "originalUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_machine_learning_autonomous_automation_virtual_reality_vr_digital_mind_brain_thinkstock_892854798-100749920-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3621022/3-ai-startups-revolutionizing-nlp.amp.html",
-      "publishedDateTime": "2021-06-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-best-ai-based-cyber-security-tools-for-improved-safety.md",
-      "title": "Best AI-Based Cyber Security tools for Improved Safety",
-      "excerpt": "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
-      "originalUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
-      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
-      "publishedDateTime": "2021-06-07T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technotification.com",
-        "domain": "technotification.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-nsw-police-force-is-using-ai-to-analyse-cctv-footage.md",
-      "title": "NSW Police Force is using AI to analyse CCTV footage",
-      "excerpt": "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
-      "publishedDateTime": "2021-06-07T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-agritech-startup-fyllo-secures-inr-3-cr-in-seed-round-from-ian.md",
-      "title": "Agritech Startup Fyllo Secures INR 3 Cr In Seed Round From IAN",
-      "excerpt": "The startup will use the capital raised to expand in new markets and towards research and development to support more crops",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373822",
-      "originalUrl": "https://www.entrepreneur.com/article/373822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623054985-Fyllo-FoundersSudhanshuSumit21.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373822",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373822",
-      "publishedDateTime": "2021-06-07T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-iit-roorkee-launches-mtech-in-artificial-intelligence-data-science.md",
-      "title": "IIT Roorkee Launches MTech in Artificial Intelligence, Data Science",
-      "excerpt": "Roorkee has launched two new MTech programs in Artificial Intelligence (AI) and Data Science (DS) under the recently established Centre for Artificial Intelligence and Data Science (CAIDS). The two MTech programs will train students with an in-depth knowledge of the tools and techniques necessary to translate data into actionable decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
-      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623051074_online-learning.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-mtech-in-artificial-intelligence-data-science-3818579.html",
-      "publishedDateTime": "2021-06-07T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-deepmind-ai-taught-digital-people-to-play-football-from-scratch.md",
-      "title": "DeepMind AI taught digital people to play football from scratch",
-      "excerpt": "AI taught digital players who start out able to only make random movements how to run, dribble a football, kick it into the goal and work as a team",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/",
-      "originalUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/06/04224524/04-june_football-ai.jpg?width=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2279928-deepmind-ai-taught-digital-people-to-play-football-from-scratch/amp/",
-      "publishedDateTime": "2021-06-07T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard.md",
-      "title": "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard",
-      "excerpt": "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-machine-learning-at-the-edge-tinyml-is-getting-big.md",
-      "title": "Machine learning at the edge: TinyML is getting big",
-      "excerpt": "Being able to deploy machine learning applications at the edge is the key to unlocking a multi-billion dollar market. TinyML is the art and science of producing machine learning models frugal enough to work at the edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "originalUrl": "https://www.zdnet.com/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/07/8c750b40-7b33-44e4-b928-10e4b45291bc/tinyml.jpg",
-          "width": 1031,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-at-the-edge-tinyml-is-getting-big/",
-      "publishedDateTime": "2021-06-06T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-machine-learning-security-needs-new-perspectives-and-incentives.md",
-      "title": "Machine learning security needs new perspectives and incentives",
-      "excerpt": "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
-      "originalUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2021/06/early-exit-architecture-examples.jpg",
-          "width": 884,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
-      "publishedDateTime": "2021-06-06T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-displaying-items-by-tag-cognitive-services.md",
-      "title": "Displaying items by tag: cognitive services",
-      "excerpt": "The NSW Police Force is rolling out Azure cloud technology to further support the recent introduction of cognitive services including ethical artificial intelligence (AI) and machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/freelancer-sp-720/tag/cognitive services.html",
-      "originalUrl": "https://itwire.com/freelancer-sp-720/tag/cognitive services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-did-a-man-make-a-mind-controlled-prosthetic-out-of-junk.md",
-      "title": "Did a Man Make a Mind-Controlled Prosthetic Out of Junk?",
-      "excerpt": "A welder claims to have rigged together an ultralow-budget bionic arm after a disease left his left arm paralyzed. But is it real? After 31-year-old Balinese man found himself unable to provide for his family after suffering from a stroke, he says he took ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/did-man-make-mind-controlled-prosthetic-out-junk",
-      "originalUrl": "https://www.mddionline.com/rd/did-man-make-mind-controlled-prosthetic-out-junk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
-      "title": "2 Leading Tech Stocks to Buy in 2021",
-      "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F629373%2Fgrowth-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/06/2-leading-tech-stocks-to-buy-in-2021/",
-      "publishedDateTime": "2021-06-06T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
-      "title": "Artificial Intelligence Market is slated to grow rapidly in the coming years",
-      "excerpt": "This research service provides a strategic analysis of the Artificial Intelligence Market 2021-2027. This report also studies the global market competition landscape, market drivers and trends, opportunities and challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-slated-to-grow-rapidly-in-the-coming-years-2021-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of first DeepRacer Women's League in India",
+      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
+      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
+      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
+          "width": 625,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "publishedDateTime": "2021-06-03T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars.md",
+      "title": "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars",
+      "excerpt": "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-06-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
       "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
       "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
@@ -1220,163 +1361,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-apple-seeks-to-bite-into-self-driving-electric-vehicle-market.md",
-      "title": "Apple Seeks To Bite Into Self-Driving Electric Vehicle Market",
-      "excerpt": "The scramble for the $5 trillion car market is afoot. Apple﻿﻿ is one of many tech companies planning to revolutionize the staid, 130 year-old industry. Soon, cars will be joining cell phones in morphing into personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
-      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae53b5af931c3c2f08b5b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/05/26/apple-seeks-to-bite-into-self-driving-electric-vehicle-market/amp/",
-      "publishedDateTime": "2021-05-26T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-and-fsd-subscription-once-again.md",
-      "title": "Elon Musk updates Tesla Full Self-Driving Beta v9 timeline and FSD Subscription once again",
-      "excerpt": "Elon Musk has again updated the timeline for Tesla releasing its highly-anticipated Full Self-Driving Beta v9 software update and FSD Subscription. Here’s the long history of Tesla’s FSD v9 and FSD Subscription timelines: Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
-      "originalUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/",
-      "publishedDateTime": "2021-05-26T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-tesla-aspires-to-become-a-robotics-firm-in-artificial-intelligence.md",
-      "title": "Tesla aspires to become a robotics firm in Artificial Intelligence",
-      "excerpt": "Tesla CEO Elon Musk recently announced that the company is no longer just a manufacturer of electric cars, but that they are currently dabbling in artificial intelligence with the development of one of the strongest hardware and software AI teams in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372898",
-      "originalUrl": "https://www.entrepreneur.com/article/372898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621967000-tesla.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372898",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372898",
-      "publishedDateTime": "2021-05-25T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T15:52:00Z
 originalUrl: "https://www.raconteur.net/business-strategy/risk/voice-id-security-fraud/"
 webUrl: "https://www.raconteur.net/business-strategy/risk/voice-id-security-fraud/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Raconteur

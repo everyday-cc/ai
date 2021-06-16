@@ -2,6 +2,760 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-05-26-the-worlds-smallest-fruit-picker-controlled-by-artificial-intelligence.md",
+      "title": "The world's smallest fruit picker controlled by artificial intelligence",
+      "excerpt": "Inspired by insects that suck nutrients directly from plant veins, physicists have studied whether valuable chemical substances can be harvested directly from the cells of plants. Using a harvester measuring only a few microns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210526115531.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210526115531.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-maine-may-limit-use-of-facial-recognition-tech-by-police.md",
+      "title": "Maine May Limit Use of Facial Recognition Tech by Police",
+      "excerpt": "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
+      "originalUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/99195c7/2147483647/strip/true/crop/940x490+0+80/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/maine-may-limit-use-of-facial-recognition-tech-by-police?_amp=true",
+      "publishedDateTime": "2021-05-26T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-dumbed-down-ai-rhetoric-harms-everyone.md",
+      "title": "Dumbed Down AI Rhetoric Harms Everyone",
+      "excerpt": "By ignorance or malice, policymakers use sweeping platitudes to regulate artificial intelligence, which may prosecute citizens more than protect them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/",
+      "originalUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60ad87830744ea4218d0e6c1/master/pass/ideas-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dumbed-down-ai-rhetoric-harms-everyone/amp",
+      "publishedDateTime": "2021-05-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa.md",
+      "title": "GM and Lockheed Martin are making a self-driving Moon buggy for NASA",
+      "excerpt": "NASA’s astronauts need a new Moon ride, and GM and Lockheed Martin are aiming to hand them the keys to not just one but a whole fresh generation of lunar vehicles. The Lunar Terrain Vehicle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
+      "originalUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Lockheed_GM_Defense_LunarVehicles.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gm-and-lockheed-martin-are-making-a-self-driving-moon-buggy-for-nasa-26674595/amp/",
+      "publishedDateTime": "2021-05-26T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity.md",
+      "title": "Gain valuable ML skills with the AWS Machine Learning Engineer Nanodegree Scholarship from Udacity",
+      "excerpt": "Amazon Web Services is partnering with Udacity to help educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Scholarship Program by Udacity by offering 425 scholarships, with a focus on women and underrepresented groups. Machine learning is an exciting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gain-valuable-ml-skills-with-the-aws-machine-learning-engineer-nanodegree-scholarship-from-udacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T08:50:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-sony-ai-working-with-first-party-ps5-devs-on-ai-machine-learning.md",
+      "title": "Sony AI working with first-party PS5 devs on AI machine learning",
+      "excerpt": "Sony's experimental AI division will team up with first-party devs and use machine learning to create next-gen AI in PS5 games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79579_3_sony-ai-working-with-first-party-ps5-devs-on-machine-learning.png",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79579/sony-ai-working-with-first-party-ps5-devs-on-machine-learning/amp.html",
+      "publishedDateTime": "2021-05-26T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-memorial-day-traveling-in-an-era-of-ai-self-driving-cars.md",
+      "title": "Memorial Day Traveling In An Era Of AI Self-Driving Cars",
+      "excerpt": "A close look at how Memorial Day weekend traveling will take place once we have an abundance of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a81c8ef2c043dc140a70d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2122%26cropY1%3D0%26cropY2%3D1415",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/26/memorial-day-traveling-in-an-era-of-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-26T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-nokia-unveils-the-worlds-first-telecom-ai-library.md",
+      "title": "Nokia unveils the world’s first telecom AI library",
+      "excerpt": "Nokia has released a library of artificial intelligence (AI) use cases for telecommunication providers through a public cloud, an industry first. Developed in collaboration with Microsoft, the Nokia AVA AI-as-a-service combines Nokia's security framework with Microsoft Azure's digital architecture to help communications service providers (CSPs) take on 5G and cloud computing challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615893259/itpro/NokiaSign_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359682/nokia-unveils-the-worlds-first-telecom-ai-library?amp",
+      "publishedDateTime": "2021-05-26T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-ai-with-swarm-intelligence.md",
+      "title": "AI with swarm intelligence",
+      "excerpt": "Following a similar principle - called \"swarm learning\" - an international research team has trained artificial intelligence algorithms to detect blood cancer, lung diseases and COVID-19 in data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/d-gc-aws052421.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/d-gc-aws052421.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals.md",
+      "title": "Mumbai: Railway cops to have a facial recognition app to identify criminals",
+      "excerpt": "The Government Railway Police (GRP) is on the verge of developing an in house software to identify criminal with the previous criminal records. The software would have a facial recognition system which will enable the police to go through previous criminal history of a person with just a click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2019-10/3cadeda3-d9ee-48f8-9d87-f4165d72dc90/MUMBAI_GRP.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "publishedDateTime": "2021-05-26T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
+      "title": "Rock picking robotics startup TerraClear raises $25 million",
+      "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "originalUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S1ELdkR1Bbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/amp/",
+      "publishedDateTime": "2021-05-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia.md",
+      "title": "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia",
+      "excerpt": "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
+      "originalUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Kodiak-Truck-Sunset.jpg?w=1024",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
+      "publishedDateTime": "2021-05-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-driverless-cars-hitting-streets-of-fremont-milpitas-irvine.md",
+      "title": "Driverless cars hitting streets of Fremont, Milpitas, Irvine",
+      "excerpt": "The company, which was founded in Fremont in 2016 by James Peng and Tiancheng Lou, both formerly of Baidu and Google, has been testing cars equipped with its self-driving technology suite since 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "originalUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/05/SJM-L-FREMONTCAR-0525-2.jpeg?w=680&h=452",
+          "width": 680,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/24/driverless-cars-hitting-streets-of-fremont-milpitas-irvine/amp/",
+      "publishedDateTime": "2021-05-26T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot.md",
+      "title": "Tesla Model 3, Model Y Ditch Radar To Adopt Camera-Based 'Tesla Vision' For Autopilot",
+      "excerpt": "Up until this point, Tesla vehicles have used a combination of front-facing radar, ultrasonic sensors, and computer vision systems to enable its Autopilot self-driving system. However, the company announced this week that it is making a significant change in how the system works on its entry-level Model 3 and Model Y electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "originalUrl": "https://hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/55210/content/tesla_model_3_news.jpg",
+          "width": 708,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-model-3-model-y-ditch-radar-to-adopt-camera-based-tesla-vision-for-autopilot",
+      "publishedDateTime": "2021-05-26T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-research-team-improves-fetal-heart-defect-detection-using-machine-learning.md",
+      "title": "Research team improves fetal heart defect detection using machine learning",
+      "excerpt": "UC San Francisco researchers have found a way to double doctors' accuracy in detecting the vast majority of complex fetal heart defects in utero—when interventions could either correct them or greatly improve a child's chance of survival—by combining routine ultrasound imaging with machine-learning computer tools.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-heart.jpg",
+          "width": 1920,
+          "height": 1289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-team-fetal-heart-defect-machine.amp",
+      "publishedDateTime": "2021-05-26T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny.md",
+      "title": "Tesla drops radar from lower-priced cars amid ‘self-driving’ scrutiny",
+      "excerpt": "Tesla said it is dropping radar systems in its lower-priced electric cars in favor of cameras and other AI equipment — even as the company faces growing scrutiny over its “autonomous",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
+      "originalUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/tesla-model-3-2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/26/tesla-drops-radar-from-lower-priced-cars-amid-self-driving-scrutiny/amp/",
+      "publishedDateTime": "2021-05-26T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-covid-19-impact-on-voice-recognition-market-to-witness-expansion-during-2020-2026.md",
       "title": "Covid-19 Impact on Voice Recognition Market to Witness Expansion During 2020-2026",
       "excerpt": "Voice Recognition Market is likely to witness an impressive CAGR of 17.5% during the forecast period.The growth of the market is influenced by a number of factors that have a direct or indirect effect on demand.",
@@ -377,705 +1131,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
-      "title": "Laser-driven ion acceleration with deep learning",
-      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
-      "originalUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/laser-driven-ion-accel.jpg",
-          "width": 1358,
-          "height": 1210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-laser-driven-ion-deep.amp",
-      "publishedDateTime": "2021-05-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-kms-lighthouse-now-available-in-microsoft-azure-marketplace.md",
-      "title": "KMS Lighthouse Now Available in Microsoft Azure Marketplace",
-      "excerpt": "KMS Lighthouse, a global leader in knowledge management, announced today the availability of the Lighthouse solution on the Microsoft Azure Marketplace, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kms-lighthouse-now-available-in-microsoft-azure-marketplace/article_d697feb3-5f08-5e8e-8f1e-9ea617be8faf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia.md",
-      "title": "SK partnership brings Kodiak Robotics’ autonomous technology to Asia",
-      "excerpt": "Kodiak Robotics strikes a partnership with South Korea’s SK conglomerate to move its autonomous trucking software to Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia",
-      "originalUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/052621-Kodiak-SK.jpg",
-          "width": 595,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/sk-partnership-brings-kodiak-robotics-autonomous-technology-to-asia/amp",
-      "publishedDateTime": "2021-05-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-forrester-total-economic-impact-of-ibm-openpages-with-watson.md",
-      "title": "Forrester Total Economic Impact of IBM OpenPages With Watson",
-      "excerpt": "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
-      "originalUrl": "https://www.cio.com/resources/219338/forrester-total-economic-impact-of-ibm-openpages-with-watson",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Investment Analysis | Microsoft, Google, IBM",
-      "excerpt": "A new business intelligence report released by JCMR with Global Natural Language Processing For Healthcare And Life Sciences Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/26/natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm/",
-      "originalUrl": "https://ksusentinel.com/2021/05/26/natural-language-processing-for-healthcare-and-life-sciences-market-investment-analysis-microsoft-google-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Global-Natural-Language-Processing-For-Healthcare-And-Life-Sciences-Market-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-and-fsd-subscription-once-again.md",
-      "title": "Elon Musk updates Tesla Full Self-Driving Beta v9 timeline and FSD Subscription once again",
-      "excerpt": "Elon Musk has again updated the timeline for Tesla releasing its highly-anticipated Full Self-Driving Beta v9 software update and FSD Subscription. Here’s the long history of Tesla’s FSD v9 and FSD Subscription timelines: Tesla Full Self-Driving beta Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
-      "originalUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/05/26/elon-musk-updates-tesla-full-self-driving-beta-v9-timeline-fsd-subscription/amp/",
-      "publishedDateTime": "2021-05-26T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai.md",
-      "title": "A Close Look at Cloud-Based Machine Learning Platforms: Microsoft Azure ML, Google Vertex AI",
-      "excerpt": "This is the second part of the ML PaaS series where we explore Azure Machine Learning services and Google’s Vertex AI platform. We follow the same framework of classifying the features and services of these platforms into the five stages of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/",
-      "originalUrl": "https://thenewstack.io/a-close-look-at-cloud-based-machine-learning-platforms-microsoft-azure-ml-google-vertex-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thenewstack.io/media/2021/05/cfb51125-hans-otto-theater-3873684_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenewstack.io",
-        "domain": "thenewstack.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-google-uses-io-to-flex-its-ai-prowess.md",
-      "title": "Google uses I/O to flex its AI prowess",
-      "excerpt": "AI announcements at Google I/O last week trigger discussion of Google’s position vis-a-vis AI services at other cloud platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
-      "originalUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2020-03/shutterstock-Merydolla-395593495.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
-      "publishedDateTime": "2021-05-26T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-temenos-transforms-banking-with-the-temenos-banking-cloud-to-accelerate-saas-and-ai-adoption-with-instant-access-to-sandbox-banking-services.md",
-      "title": "Temenos transforms banking with The Temenos Banking Cloud to accelerate SaaS and AI adoption with instant access to Sandbox, Banking Services, and MarketPlace",
-      "excerpt": "Temenos (SIX: TEMN), the banking software company, is accelerating its leadership in the cloud by introducing the next-generation in SaaS, The Temenos",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210525005869/en/Temenos-transforms-banking-with-The-Temenos-Banking-Cloud-to-accelerate-SaaS-and-AI-adoption-with-instant-access-to-Sandbox-Banking-Services-and-MarketPlace",
-      "originalUrl": "https://www.businesswire.com/news/home/20210525005869/en/Temenos-transforms-banking-with-The-Temenos-Banking-Cloud-to-accelerate-SaaS-and-AI-adoption-with-instant-access-to-Sandbox-Banking-Services-and-MarketPlace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-betterhalfai-raises-3-mn-in-pre-series-a-round.md",
-      "title": "Betterhalf.ai Raises $3 Mn In Pre-Series A Round",
-      "excerpt": "The company plans to utilize the funds to boost user engagement on the app, adding monetization features, and increasing product discovery across organic channels",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372905",
-      "originalUrl": "https://www.entrepreneur.com/article/372905",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622020333-Betterhalf-team.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372905",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372905",
-      "publishedDateTime": "2021-05-26T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-natural-language-processing-market-business-revolution-opportunity-prospects-2021-and-growing-demand-in-business-profile.md",
-      "title": "Natural Language Processing Market Business Revolution, Opportunity Prospects 2021 and Growing Demand in Business Profile",
-      "excerpt": "Integration of natural language processing in text analytics has led to growth of advanced text analytics solutions. Natural language processing helps convert human language to machine language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2290712/natural-language-processing-market-business-revolution",
-      "originalUrl": "https://www.openpr.com/news/2290712/natural-language-processing-market-business-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/5/U526554785_g.jpg",
-          "width": 800,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2290712/natural-language-processing-market-business-revolution",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2290712/natural-language-processing-market-business-revolution",
-      "publishedDateTime": "2021-05-26T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-military-artificial-intelligence-ai-market-growth-status-and-outlook-2021-2026.md",
-      "title": "Military Artificial Intelligence (AI) Market Growth (Status and Outlook) 2021-2026",
-      "excerpt": "The latest report on the Military Artificial Intelligence (AI) is designed to give emerging as well as established industry players a strategic edge by allowing them to better grasp industry events and gather insights on past and current industry happenings that will have a significant impact on the global Shower Installation and Repair Services market’s growth in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/26/military-artificial-intelligence-ai-market-growth-status-and-outlook-2021-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/05/26/military-artificial-intelligence-ai-market-growth-status-and-outlook-2021-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-rezoai-raises-seed-funding-led-by-modulor-capital.md",
-      "title": "Rezo.ai Raises Seed Funding Led By Modulor Capital",
-      "excerpt": "Conversational AI startup Rezo.ai on Wednesday informed to have raised an undisclosed amount in Seed funding led by Modulor Capital, Dexter Angel Network, Veda, and prominent angels including Bhavesh Manglani (co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372901",
-      "originalUrl": "https://www.entrepreneur.com/article/372901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622016398-ManishRashiGuptaCo-foundersRezoai1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372901",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372901",
-      "publishedDateTime": "2021-05-26T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-aws-to-open-data-centers-in-uae.md",
-      "title": "AWS to Open Data Centers in UAE",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that it plans to open an infrastructure region in the United Arab Em",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210525006052/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210525006052/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-squirro-launches-the-app-studio-a-no-codelow-code-platform-to-build-ai-powered-applications.md",
-      "title": "Squirro launches the App Studio - a no code/low code platform to build AI-powered applications",
-      "excerpt": "Launch will take place at upcoming App Building Day, an expert-led training session, where attendees will learn how to build a Cognitive Search app in just a few steps Zürich, 26 May 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://squirro.com/",
-      "originalUrl": "https://pressreleases.responsesource.com/news/101312/squirro-launches-the-app-studio-a-no-code-low/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://squirro.com/wp-content/uploads/2020/07/M_GenericWorld-01.png",
-          "width": 3130,
-          "height": 1646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "responsesource.com",
-        "domain": "responsesource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027.md",
-      "title": "Artificial Intelligence (AI) In Retail Market Size to Record 29.7% CAGR Through 2027",
-      "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution, Services), by Function, by Technology and Regional Forecasts 2020-2027',",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027-2021-05-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027-2021-05-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

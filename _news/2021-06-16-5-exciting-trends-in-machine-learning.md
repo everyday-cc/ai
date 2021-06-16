@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T14:30:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2021/06/16/449142-5-exciting-trends-machine-learning.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2021/06/16/449142-5-exciting-trends-machine-learning.htm"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: TMCnet
@@ -14,7 +17,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
-secured: "pOwScUdLbETncM169Wf7mlibJEoUX5gW4AbeAE4yNo61w9myLD1sbMuSRnYf+gjDmtqA/Z7jFU2MNNVsQhaOiRSoKT6Os+5YkxBZFDZpRcR4nxB6bIySaQbeUCn0Ts+qTUrNo5hsGEwyySDjxQ5Vemf8B7e1Ru6AKDGMJMQuY1EtQo5mBOvCApyhN8yJNIIdzitI+rLBinB2gP32dhiWeHIBIZmJYSEOhnMeo7RkB8gOjdaj/SvK21/TGanl5AKTA1zYW3zZiFYfJ9/1lvsMK9ijGjTwNepaWWiRVIIXBTLrlN7lPF118ud6qUmQy8cU6vM9RscjwJJ0msNj37covX1H2Ml3mhgjyL7xxPBMue71mLQjLeMLMM3p3O5yis8Q1YpXd5aY1gH6WTBODNfroYIUNexg4fTzwhx+VHYxmxLi9bMByi41RJ+4LS54lTrV9kVj8pp6FCkP52MbmdugAaqjCZ/X3xYHKHlRqMqu0EU2ZrJluuXM7jQ2RC01I8cLz4Oa8DETpE8pKYt7GXmuzg==;t1gy+wyMblf+N3SNUrN5IA=="
+images:
+  - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/6892721920-machine-learning1.png"
+    width: 1000
+    height: 667
+    isCached: true
+
+secured: "qdZ8q/+jBEScfsc/7bUw2GcRc5gJT92OXC/llxSbwHzEylEovtkBfPPJBj+NlJkglxjQCePVP85AXz2NVUJufJL7iGSm1380tAPcYRdF7KGxBldfJQtlyWy9fGXPFGliPDErB/r1HSlkAyisEi3n+HWuCrKcOFlDbPpWY+coy/dk0zXZFVm1xVMYbZtnSP2+LcP93byGFGLNSDL9Hh4oZcuOw5szWSckCVJIQb/c+0rkPr7lOQNjE25OhVOHtaxymNH/jxszY/u6asgyU+LfoS3xGHKPYJNsigSp9E9v2tfBK0wg6NXR7O5C6v0UoaA0LaoqCmPpZYgXvtP5s9IlFnzTbQqPF5bn0RYedsMYuGE=;mBXlUpVLutE2XIjhl07CAg=="
 ---
 

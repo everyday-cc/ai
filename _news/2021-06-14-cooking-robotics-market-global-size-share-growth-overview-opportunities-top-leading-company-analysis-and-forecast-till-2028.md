@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
+    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+    publishedDateTime: 2021-06-15T21:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
     publishedDateTime: 2021-06-16T05:08:00Z
@@ -104,7 +113,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

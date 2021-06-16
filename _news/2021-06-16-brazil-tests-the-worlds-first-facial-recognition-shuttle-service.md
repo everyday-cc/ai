@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T11:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210616005505/en/Brazil-Tests-the-Worlds-First-Facial-Recognition-Shuttle-Service"
 webUrl: "https://www.businesswire.com/news/home/20210616005505/en/Brazil-Tests-the-Worlds-First-Facial-Recognition-Shuttle-Service"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business Wire

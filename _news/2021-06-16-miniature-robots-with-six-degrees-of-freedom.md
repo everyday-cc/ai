@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T15:43:00Z
 originalUrl: "https://www.machinedesign.com/medical-design/article/21167141/miniature-robots-with-six-degrees-of-freedom"
 webUrl: "https://www.machinedesign.com/medical-design/article/21167141/miniature-robots-with-six-degrees-of-freedom"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Machine Design

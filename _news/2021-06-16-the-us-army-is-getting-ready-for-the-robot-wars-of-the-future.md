@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T15:07:00Z
 originalUrl: "https://nationalinterest.org/blog/buzz/us-army-getting-ready-robot-wars-future-187837"
 webUrl: "https://nationalinterest.org/blog/buzz/us-army-getting-ready-robot-wars-future-187837"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The National Interest

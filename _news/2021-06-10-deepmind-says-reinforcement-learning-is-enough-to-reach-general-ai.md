@@ -1,25 +1,24 @@
 ---
 category: news
 title: "DeepMind says reinforcement learning is ‘enough’ to reach general AI"
-excerpt: "Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from sticking to the principle of reward maximization."
-publishedDateTime: 2021-06-10T06:40:00Z
-originalUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/"
-webUrl: "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ..."
+publishedDateTime: 2021-06-10T05:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799"
 type: article
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Google AI
+  - AI
 
-secured: "6OPzZ6750QFYZMSrpj0endK7LnuYCcUFTK0Sa1dX0Ti5N2StSh1NI3gW9bbf3F2Q0NMuqUw1OHdYBwNw0sXBzyKwJBlxCXwn0dqT94Px/nJf+rDZcZm0jaWzguLcu2sXOzj2fvYOvb3sqdomYtF4I+sBSRMuWES0i8Pb8LoC+f5+rcLjJDxIEshTKjFTGKvElx6dLEF2nEGrZHCo+xlJooQWMWZfEI3cBJLzPZMsYqygXD9/Z02RXA6OqDwgWHRYwOatTEHr+FJob36IOLRzp8ml9PsKqGJEo6DPYAdtBpeOEcWDNXKfRc8FT9sWAmra3LShhIT6PYoxV+qf5kHCwXQ54ZL9ACxNUqLu1O7Jhe4lnxqi7smh+FR8aEsV8eufMrThX1zTmcQbfyz/6V74n0DrZmleBF4TVop/gEMu9rTgWuLOoXRaMfObbBH4aTADHDEsjxPUkqUARJGOI4UHmOMPkxqEkdmcjCzdugXKtrQOdHkE0fHoZNmJ/KlCq/kJb7kfsitJtU7MC/tTK7eMsg==;dFFJ7BNCsxM/rqNzA/y5sw=="
+secured: "eo6lnMNaVhIiIStdc7jvLOI9dLWZm9+3zQdD+22vEdi3hHxVCslK/mAyGJLxG9j4WyF5l/ZQ2fkugcKY1548qO26RdaTM4XOZsOHnIVNs9it3ZLuIu/VRgMf7RXsAHGF0TeOnTQi39jH4H8VqzlQyQWoxixbpTCwuguTV9tQCFaG52TNwar/ytILghi35XYyUg7nlhbWHPi8PzoGuriWxm6rW1WCAKbNGfP9q1LJLjoI60FmWCwAYfLsnnaoDi0Ag0hAEOJDa78JSI/EYTeQEWKvy3sX43AvO1I2vlfSyT0w15R7BQazHV+Jyx8XyvL+2oPurvMdvu0yZwyseHfgZBKK29kVyR/WuMZImmaYxx8=;Tv+7gxFmqigTOHjHnPeGtA=="
 ---
 

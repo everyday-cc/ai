@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credij
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -41,6 +41,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "FinTech Novo Grabs $40.7 Million To Fuel Growth"
+    excerpt: "Novo, a financial technology company, has pulled in $40.7 million in funding. The FinTech focuses on digital banking for small- to medium-sized business (SMBs)."
+    publishedDateTime: 2021-06-16T14:57:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-novo-grabs-funding-to-fuel-growth/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 4
 
 secured: "F9tBnpNt06AxtwszJNB+h2E1dr8xoDFFpG1kgJL/qZxqtERh9suyB0W8+pTeUC/wQAmhTQ6yi0tQLG1VEXup68/fP080E0BgXx7jKNYvg8Pc/j2/V6Jx8t0uNuVPIDsU7VbjsRDkIhKGXxHBjU6ze06hpcupEnB3GaAm2DkCsM/u0vH1i4Mg4VeBCkI4u2MKQTeegRMZL8qN3JXGvyJDiZQZHkVyU06Tvn5TIdePf7d2twMRAdGCTiCMiW3ykyu+BTscZV5taZHNEciPiDxoOhxpAxZG8rPxkETcU1dfpLXhmOyDRiqeOafwD9psz6AQoPfsY3ydIeE1XFQzcsXENKdYFVLqJBS/Ixy7s9pVRXtj8tzvBf9Gj6CA2RODaVBopdbXnS3IMLJg13oixQOxB6BGpJjzIo+8SaL8iHQK9VoTyZzM2MzeSzT8oTb9P1jwLUpwH9Q3Zf5VKo1QAZ8AYyloteavvRW+oZJaor4zVjNaszqg3bd3JsJR0gu+OHoROpuNrIvxPVvEj0bfkLG42Q==;tx0N4jG22gEtF34NWlH6rA=="
 ---

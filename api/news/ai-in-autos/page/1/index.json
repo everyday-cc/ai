@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-16-alphabets-self-driving-unit-waymo-raises-25b-in-funding-round.md",
+      "title": "Alphabet’s self-driving unit Waymo raises $2.5B in funding round",
+      "excerpt": "Alphabet’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/",
+      "originalUrl": "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/waymo-raises-2.5-billion.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/",
+      "publishedDateTime": "2021-06-16T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone.md",
+      "title": "Self-driving trucks startup Kodiak Robotics snags investment, partnership from Bridgestone",
+      "excerpt": "Tire-making giant Bridgestone has taken a minority stake in Kodiak Robotics, the Silicon Valley-based startup developing autonomous trucks, as part of a broader partnership to test and develop smart tire technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
+      "originalUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-chinese-startup-ponyai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022.md",
       "title": "Chinese startup Pony.ai plans to launch a driverless robotaxi service in California in 2022",
       "excerpt": "Pony.ai, the robotaxi startup that operates in China and the United States, has started testing driverless vehicles on public roads in California ahead of plans to launch a commercial service there in 2022.",
@@ -62,7 +149,7 @@
       "originalUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -638,8 +725,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-09T21:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -655,6 +742,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-ai-expert-ditches-uber-to-start-toronto-self-driving-company-waabi.md",
+      "title": "AI expert ditches Uber to start Toronto self-driving company, Waabi",
+      "excerpt": "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-engineering.com/3coVa/",
+      "originalUrl": "https://www.design-engineering.com/3coVa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "design-engineering.com",
+        "domain": "design-engineering.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1284,147 +1405,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
-      "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
-      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
-      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
-          "width": 625,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
-      "publishedDateTime": "2021-06-03T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars.md",
-      "title": "That California Woman Using Her Car To Thwart A Mountain Lion And Save Her Beloved Dog Provides Valuable Lessons For AI Self-Driving Cars",
-      "excerpt": "A woman in California quickly jumped into her car to drive toward and scare off a mountain lion that was attacking her beloved canine. This provides interesting lessons for the advent of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6aaafc9419076987167ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1706%26cropY1%3D41%26cropY2%3D1000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/03/that-california-woman-using-her-car-to-thwart-a-mountain-lion-and-save-her-beloved-dog-provides-valuable-lessons-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

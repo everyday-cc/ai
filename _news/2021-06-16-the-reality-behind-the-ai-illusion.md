@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-b
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 90
 published: true
 
 provider:

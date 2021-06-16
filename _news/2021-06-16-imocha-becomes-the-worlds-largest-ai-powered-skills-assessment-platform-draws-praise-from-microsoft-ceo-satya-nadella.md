@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T14:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/imocha-becomes-the-world-s-largest-ai-powered-skills-assessment-platform-draws-praise-from-microsoft-ceo-satya-nadella-1030528646"
 webUrl: "https://markets.businessinsider.com/news/stocks/imocha-becomes-the-world-s-largest-ai-powered-skills-assessment-platform-draws-praise-from-microsoft-ceo-satya-nadella-1030528646"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Business Insider

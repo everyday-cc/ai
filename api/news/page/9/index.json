@@ -2,6 +2,608 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-08-ai-powered-transcription-startup-verbit-raises-157m.md",
+      "title": "AI-powered transcription startup Verbit raises $157M",
+      "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-transcription-startup-verbit-raises-$157m-10218780",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-transcription-startup-verbit-raises-$157m-10218780",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-who-won-the-latest-ai-drag-race-aws-or-nvidia.md",
+      "title": "Who Won The Latest AI Drag Race? AWS Or NVIDIA?",
+      "excerpt": "There is a quiet drama simmering over AI chip benchmarks. This isn’t the first time, and will certainly not be the last. Keeps me busy. This time, it is between Amazon Web Services (AWS) and NVIDIA. It is always NVIDIA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609be739b8030e51b55f606a%2F0x0.png",
+          "width": 627,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/08/who-won-the-latest-ai-drag-race-aws-or-nvidia/amp/",
+      "publishedDateTime": "2021-06-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-foundations-of-trustworthy-ai-how-mature-is-your-ai-governance.md",
+      "title": "Foundations of trustworthy AI: How mature is your AI governance?",
+      "excerpt": "As organizations scale their use of AI, they increasingly need to do so in a responsible and governed manner. This is driven by many complementary forces: brand reputation, anticipated regulations [1,2,3], AI complexity, and social justice. Each of these alone would merit the need for AI governance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/ai-governance-maturity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_implement-governance_2000x1000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T08:30:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-can-ai-and-cloud-automation-slash-a-cloud-bill-in-half.md",
+      "title": "Can AI and cloud automation slash a cloud bill in half?",
+      "excerpt": "Many companies don’t realize how dramatically their cloud spend can increase given that those expenses aren’t charged up-front.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1622706374516.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/can-ai-and-cloud-automation-slash-a-cloud-bill-in-half/amp/",
+      "publishedDateTime": "2021-06-08T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots.md",
+      "title": "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots",
+      "excerpt": "Proving that Central and Eastern Europe remains a powerhouse of hardware engineering matched with software, Gideon Brothers (GB), a Zagreb, Croatia-based robotics and AI startup, has raised a $31 million Series A round led by Koch Disruptive Technologies (KDT),",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
+      "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Gideon_Brothers_Autonomous_Mobile_Robots_10.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
+      "publishedDateTime": "2021-06-08T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology.md",
+      "title": "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology",
+      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-why-is-artificial-intelligence-the-fastest-growing-industry.md",
+      "title": "Why is Artificial Intelligence the fastest growing industry?",
+      "excerpt": "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373983",
+      "originalUrl": "https://www.entrepreneur.com/article/373983",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373983",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983",
+      "publishedDateTime": "2021-06-08T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
+      "title": "Snowflake previews data marketplace, governance tools, management features",
+      "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Snowflake-Data-Consumer-Montization-Example-.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
+      "publishedDateTime": "2021-06-08T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-composeai-raises-21m-to-help-everyone-write-faster.md",
+      "title": "Compose.ai raises $2.1M to help everyone write faster",
+      "excerpt": "Compose.ai, which built its own language model to help folks write faster, landed a $2.1 million seed round led by Craft Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
+      "originalUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-539000490.jpg?w=1024",
+          "width": 1024,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
+      "publishedDateTime": "2021-06-08T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models.md",
+      "title": "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models",
+      "excerpt": "The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,” said Christian González, CEO, Wovenware. “The issuance of this new patent recognizes Wovenware’s unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/",
+      "originalUrl": "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments.md",
+      "title": "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments",
+      "excerpt": "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on the Apple Store. The Voiceitt app can be downloaded for free by individuals or in volume by institutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
+      "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
+      "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be5936c3c83c5a7cf355c9%2F0x0.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
+      "publishedDateTime": "2021-06-08T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
+      "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
+      "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "originalUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Sm2WuGsTp4hBiyFbT3B42H-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "cdnAmpWebUrl": "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
+      "publishedDateTime": "2021-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld.com",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-ibm-releases-ai-model-toolkit-to-help-developers-measure-uncertainty.md",
       "title": "IBM releases AI model toolkit to help developers measure uncertainty",
       "excerpt": "IBM has released a toolkit designed to help developers measure uncertainty in an AI and machine learning model.",
@@ -605,555 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-razer-sets-its-sights-on-saving-the-seven-seas-with-smart-robots.md",
-      "title": "Razer sets its sights on saving the seven seas with smart robots",
-      "excerpt": "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "originalUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ArX5GiV6iXsKD7fnbtaKY6-480-80.png",
-          "width": 480,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "publishedDateTime": "2021-06-07T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
-      "title": "Video chat apps tout ‘inclusive’ AI features",
-      "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1224957012.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
-      "publishedDateTime": "2021-06-07T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-my-pick-for-the-ai-gaming-industry.md",
-      "title": "My Pick for the AI Gaming Industry",
-      "excerpt": "Source: Gorodenkoff / Shutterstock.com But one area of the AI sphere that is often looked over is a fun one: gaming. AI not only improves gaming, but gaming is also a great way for AI to be improved by humans through a similar collective experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
-      "originalUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
-      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
-      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "publishedDateTime": "2021-06-07T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
-      "title": "Newtown fitness center offer AI, robotics technology-based workout",
-      "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
-      "originalUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/01/NBCC/247017d9-b282-4dd2-bf88-bda1e8ebae19-exercisecoach.jpg?auto=webp&crop=4175,2349,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.buckscountycouriertimes.com/amp/5094535001",
-      "cdnAmpWebUrl": "https://amp-buckscountycouriertimes-com.cdn.ampproject.org/c/s/amp.buckscountycouriertimes.com/amp/5094535001",
-      "publishedDateTime": "2021-06-07T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bucks County Courier Times",
-        "domain": "buckscountycouriertimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
-      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
-      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
-          "width": 1318,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-using-watson-to-diagnose-skin-cancer-interview-with-ibm-computer-vision-scientist-noel-codella.md",
-      "title": "Using Watson to Diagnose Skin Cancer: Interview with IBM Computer Vision Scientist, Noel Codella",
-      "excerpt": "Thankfully, researchers at IBM have been studying how to take ... our own experimentation on using machine learning and artificial intelligence to see how well we can get this system to recognize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
-      "originalUrl": "https://www.medgadget.com/2017/06/using-watson-diagnose-skin-cancer-interview-ibm-computer-vision-scientist-noel-codella.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-unlock-near-3x-performance-gains-with-xgboost-and-amazon-sagemaker-neo.md",
-      "title": "Unlock near 3x performance gains with XGBoost and Amazon SageMaker Neo",
-      "excerpt": "When a model gets deployed to a production environment, inference speed matters. Models with fast inference speeds require less resources to run, which translates to cost savings, and applications that consume the models’ predictions benefit from the improved performance. For example, let’s say your",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlock-performance-gains-with-xgboost-amazon-sagemaker-neo-and-serverless-artillery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/26/1-2007-Arch.jpg",
-          "width": 800,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T16:19:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-start-your-morning-with-ai-weiwei.md",
-      "title": "Start Your Morning With Ai Weiwei",
-      "excerpt": "The latest is the Chinese artist and activist Ai Weiwei, who has splashed the ceramic cups and saucers with color and gilding. The designs were inspired by the “Colored Vases” project he began in 2006.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/09/dining/07Burner-cup/07Burner-cup-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/07/dining/ai-weiwei-illy-cup.amp.html",
-      "publishedDateTime": "2021-06-07T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
-      "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53084026-intento-named-a-2021-cool-vendor-by-gartner-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53084026-intento-named-a-2021-cool-vendor-by-gartner-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-expect-an-orwellian-future-if-ai-isnt-kept-in-check-microsoft-exec-says.md",
-      "title": "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says",
-      "excerpt": "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livescience.com/orwellian-artifical-intelligence-future.html",
-      "originalUrl": "https://www.livescience.com/orwellian-artifical-intelligence-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XzcsabCGgMLoKQLgBzFk9E-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livescience.com/amp/orwellian-artifical-intelligence-future.html",
-      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/orwellian-artifical-intelligence-future.html",
-      "publishedDateTime": "2021-06-07T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Live Science",
-        "domain": "livescience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.md",
-      "title": "Localized Prostate Cancer Therapy: Interview with Shyam Natarajan, CEO of Avenda Health",
-      "excerpt": "Avenda Health, a medtech company based in Santa Monica, California has developed the Focal Therapy System. It provides AI-powered prostate cancer therapy with the aim of treating only tumorous tissues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
-      "originalUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-computer-vision-firm-grabango-raises-39m-in-new-funding.md",
-      "title": "Computer Vision Firm Grabango Raises $39M in New Funding",
-      "excerpt": "The technology that allows retail stores to offer checkout-free shopping is coming to 4 additional Giant Eagle outlets this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/Grabango-GetGo-Checkout-CloseUp_1598964895_1623092600.jpg?L1Ub1ks4_v8DcUa4pkshmYjDGsptMGr.",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "publishedDateTime": "2021-06-07T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

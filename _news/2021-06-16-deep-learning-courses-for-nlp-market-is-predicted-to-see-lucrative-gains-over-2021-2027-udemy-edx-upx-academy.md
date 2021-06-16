@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T15:11:00Z
 originalUrl: "https://www.openpr.com/news/2306951/deep-learning-courses-for-nlp-market-is-predicted-to-see"
 webUrl: "https://www.openpr.com/news/2306951/deep-learning-courses-for-nlp-market-is-predicted-to-see"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: openpr.com

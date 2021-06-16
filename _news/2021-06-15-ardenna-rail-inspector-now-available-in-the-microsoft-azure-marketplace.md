@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ardenna
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace/article_fa3bfd81-54c1-52d6-86b5-1beb0a8cbdba.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T16:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19860269.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z

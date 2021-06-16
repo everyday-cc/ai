@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-marke
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
+    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
+    publishedDateTime: 2021-06-15T21:00:00Z
+    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
     excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
     publishedDateTime: 2021-06-14T15:11:00Z
@@ -105,7 +114,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

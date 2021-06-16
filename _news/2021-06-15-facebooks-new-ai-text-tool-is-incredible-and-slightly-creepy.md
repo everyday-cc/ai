@@ -43,6 +43,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Facebook AI aims to identify deepfake images and trace their creators"
+    excerpt: "Facebook has developed an artificial intelligence that it claims can detect deepfake images and even reverse-engineer them to figure out how they were made and perhaps trace their creators"
+    publishedDateTime: 2021-06-16T16:06:00Z
+    webUrl: "https://www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/"
+    ampWebUrl: "https://www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/16142711/16-june_facebook-deepfakes.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
     excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
     publishedDateTime: 2021-06-13T00:22:00Z

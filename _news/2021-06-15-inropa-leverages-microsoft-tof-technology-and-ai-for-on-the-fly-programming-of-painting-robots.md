@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-14T22:06:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 type: article
+quality: 22
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
+    excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
+    publishedDateTime: 2021-06-14T06:30:00Z
+    webUrl: "https://www.constructionweekonline.com/business/272936-ai-powered-fifthedge-joins-global-microsoft-for-startups-programme"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 34
 
 secured: "mIFzKLqmbRiqOXScZfKKJ+fmnHrT0M2sHA+7KGPg+iJL1B4oN6ykQ0j6mh+W+L/ORulCHDvNgg9DOFJvrJSZMFqAoHLZohzjlYDXs3s7syGsmsSi1+JO41qRvh2fBBANKITm+CFbm4ov8G1Li17t5gG2ZW3RJRM+W69xmvRzUdxGZTZIhwg39UEOHqKT6XN9XeE9xyI35Mr1Ymycc3H+0uUVczu15jSYtoL+rJV0g2zWZjRh3AKf7qxJBfrb0xzHY2J8uoRQsHDO88wAfSNY2sm6nBXzlDZ9G68WxYd+8YAlFds0yVuwJIyIa/I5SO89tlZRq7BJXdnz2Tp//hhxGfln69BXAS6Tj2+CljV+HsI=;NUhgnvuhNipoRQes4LQzGw=="
 ---

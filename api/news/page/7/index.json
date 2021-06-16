@@ -2,6 +2,552 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-10-deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.md",
+      "title": "Deep neural network model can accurately predict the brain age of healthy patients",
+      "excerpt": "A study shows that a deep neural network model can accurately predict the brain age of healthy patients based on electroencephalogram data recorded during an overnight sleep study, and EEG-predicted brain age indices display unique characteristics within populations with different diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
+      "publishedDateTime": "2021-06-09T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
+      "title": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao",
+      "excerpt": "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-bmo-signs-deal-with-amazon-web-services-to-help-digital-shift.md",
+      "title": "BMO Signs Deal With Amazon Web Services to Help Digital Shift",
+      "excerpt": "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer.md",
+      "title": "Daily Crunch: A crowded market for exits and acquisitions forecasts a hot AI summer",
+      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
+      "originalUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Generic-WP-Header.png?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/daily-crunch-a-crowded-market-for-exits-and-acquisitions-forecasts-a-hot-ai-summer/amp/",
+      "publishedDateTime": "2021-06-09T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-rws-announces-revival-of-language-weaver-brand.md",
+      "title": "RWS Announces Revival of Language Weaver Brand",
+      "excerpt": "CHALFONT SAINT PETER, England–(BUSINESS WIRE)–RWS, the world’s leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
+      "originalUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
+      "publishedDateTime": "2021-06-09T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-develop-and-deploy-ml-models-using-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot.md",
+      "title": "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot",
+      "excerpt": "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T14:01:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications.md",
+      "title": "FPGA IP accelerates neural network computing for edge and embedded AI applications",
+      "excerpt": "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases",
+      "sourceUrl": null,
+      "webUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
+      "originalUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EPT",
+        "domain": "www.ept.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai.md",
+      "title": "Decades-old ASCII adventure Nethack may hint at the future of AI",
+      "excerpt": "Machine learning models have already mastered Chess, Go, Atari games, and more, but in order for it to ascend to the next level, researchers at Facebook intend for AI to take on a different kind of game: the notoriously difficult and infinitely complex Nethack.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
+      "originalUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/nethack-gif.gif?w=770",
+          "width": 770,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
+      "publishedDateTime": "2021-06-09T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-global-encoder-market-2021-to-2026-increasing-demand-for-artificial-intelligence-based-systems-presents-opportunities.md",
+      "title": "Global Encoder Market (2021 to 2026) - Increasing Demand for Artificial Intelligence-Based Systems Presents Opportunities",
+      "excerpt": "The global encoder market is expected to grow from USD 2.3 billion in 2021 to USD 3.7 billion by 2026, at a CAGR of 10%. The growth of this market is mainly driven by the need for high-end automation across industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9387545.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9387545.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-ai-expert-ditches-uber-to-start-toronto-self-driving-company-waabi.md",
+      "title": "AI expert ditches Uber to start Toronto self-driving company, Waabi",
+      "excerpt": "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-engineering.com/3coVa/",
+      "originalUrl": "https://www.design-engineering.com/3coVa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "design-engineering.com",
+        "domain": "design-engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-robotics-startup-realtime-used-this-pitch-deck-to-convince-toyota-to-invest-in-its-31-million-series-a-round.md",
+      "title": "Robotics startup Realtime used this pitch deck to convince Toyota to invest in its $31 million Series A round",
+      "excerpt": "Startup Realtime Robotics recently extended its Series A, adding about $19 million in funding at an $80 million valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
+      "originalUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60bfad2c2feb6f00181ed9ac?width=1200&format=jpeg",
+          "width": 940,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-meet-grace-the-healthcare-robot-covid-19-created.md",
+      "title": "Meet Grace, the healthcare robot COVID-19 created",
+      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/meet-grace-the-healthcare/",
+      "originalUrl": "https://www.metro.us/meet-grace-the-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/meet-grace-the-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/",
+      "publishedDateTime": "2021-06-09T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-the-future-of-ai-in-finance-is-here-reducing-the-cost-of-accuracy.md",
       "title": "The future of AI in finance is here: Reducing the cost of accuracy",
       "excerpt": "Finance professionals are no longer willing to endure painstaking manual reviews and the threat of inaccurate data in forecasts and plans.",
@@ -666,542 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence.md",
-      "title": "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19847777.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19847777.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-salesforces-ai-surfaces-relationships-to-drive-sales.md",
-      "title": "Salesforce’s AI surfaces relationships to drive sales",
-      "excerpt": "Salesforce's new tool, Einstein Relationship Insights, finds relationships between customers, prospects, and companies",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/",
-      "publishedDateTime": "2021-06-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
-      "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
-      "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-351065/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
-      "publishedDateTime": "2021-06-09T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-ai-in-oil-and-gas-market-thematic-research.md",
-      "title": "Artificial Intelligence (AI) in Oil and Gas Market - Thematic Research",
-      "excerpt": "The oil and gas O G industry faces many severe challenges The shortage of easily accessible hydrocarbon reserves forces companies to use remote reserves that are hard to discover costly and risky Moreover sustainability concerns are shifting demand away from",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "originalUrl": "https://www.openpr.com/news/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U609148836_g.jpg",
-          "width": 800,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2301457/artificial-intelligence-ai-in-oil-and-gas-market-thematic",
-      "publishedDateTime": "2021-06-09T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it.md",
-      "title": "Programmers, Lawmakers Want AI to Eliminate Bias, Not Promote It",
-      "excerpt": "But as it has proliferated, studies have shown that AI can be biased against people of color. In housing, AI has helped perpetuate segregation, redlining and other forms of racial discrimination against Black families,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
-      "originalUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewtrusts.org/-/media/post-launch-images/2021/06/ap_20079007012691/16x9_m.jpg",
-          "width": 1820,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it?amp=1",
-      "cdnAmpWebUrl": "https://www-pewtrusts-org.cdn.ampproject.org/c/s/www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/09/programmers-lawmakers-want-ai-to-eliminate-bias-not-promote-it?amp=1",
-      "publishedDateTime": "2021-06-09T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Charitable Trusts",
-        "domain": "pewtrusts.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference.md",
-      "title": "Breakthrough Concrete Artificial Intelligence Tool to Debut at ENR FutureTech Virtual Conference",
-      "excerpt": "Giatec®, the leader in concrete testing technology, is proud to debut the world's first concrete artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21487352/breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21487352/breakthrough-concrete-artificial-intelligence-tool-to-debut-at-enr-futuretech-virtual-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21487352",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21487352",
-      "publishedDateTime": "2021-06-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027.md",
-      "title": "Artificial Intelligence (AI) Accelerator Market [ PDF ] To Witness Significant Growth By 2021-2027",
-      "excerpt": "New Analysis Of Artificial Intelligence (AI) Accelerator Market overview, spend analysis, imports, segmentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-amazon-adds-global-clusters-to-documentdb.md",
-      "title": "Amazon Adds Global Clusters to DocumentDB",
-      "excerpt": "Amazon recently announced support for global clusters on DocumentDB, the document-oriented database compatible with MongoDB. The new feature allows users to deploy clusters that span across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/06/documentdb-global-clusters/",
-      "originalUrl": "https://www.infoq.com/news/2021/06/documentdb-global-clusters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/06/documentdb-global-clusters/en/headerimage/header-1623155564489.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report.md",
-      "title": "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report",
-      "excerpt": "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "originalUrl": "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623229612_shutterstock_1831313974.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "publishedDateTime": "2021-06-09T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
-      "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
-      "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
-      "originalUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/coronavirus-4842056_1280-2.jpg",
-          "width": 716,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
-      "publishedDateTime": "2021-06-09T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
-      "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
-      "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "publishedDateTime": "2021-06-09T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-rws-announces-revival-of-language-weaver-brand.md",
-      "title": "RWS Announces Revival of Language Weaver Brand",
-      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19847012.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19847012.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

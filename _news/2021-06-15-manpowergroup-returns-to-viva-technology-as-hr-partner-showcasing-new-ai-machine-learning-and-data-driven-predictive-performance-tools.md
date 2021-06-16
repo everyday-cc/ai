@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-15T15:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 type: article
+quality: 16
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -18,6 +21,38 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Invention uses machine-learned human emotions to 'drive' autonomous vehicles"
+    excerpt: "Americans have one of the highest levels of fear in the world when it comes to technology related to robotic systems and self-driving cars. Addressing these concerns is paramount if the technology hopes to move forward."
+    publishedDateTime: 2021-06-16T06:08:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/invention-uses-machine.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Motion Grazer uses machine learning to assess status of sows"
+    excerpt: "It's not quite up there with \"what's good for the goose is good for the gander,\" but Madonna Benjamin, a former pig farmer in Ontario turned agtech professor at Michigan State University, hopes there will be a lot of revenue for her startup,"
+    publishedDateTime: 2021-06-13T04:12:00Z
+    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/motion-grazer-uses-machine-learning-assess-status-sows"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 39
+    images:
+      - url: "https://www.crainsdetroit.com/s3/files/styles/800x600/public/MGAI%20Madonna%20Benjamin%20with%20pigs-main_i.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ud9NXXpKBo20Mt8MszvXNDOS3KcSYbHn5+YgSZqMMeo9X8cDfxXr/C6QZopMOAdUogu6P9TurfLpCh18wKgZTHQE1vg0aES76e36tVP9hfy7+A3Z7EtI4Yn1HzqHDIbb/Kxx/eljFCeI6t7Nmj9RMoXh8ECbrNs7KQzoVZifmBDZB0+wTjhpu6GnJZVrRHknFBiGC4QAYxOJykZdCkDqAlBvN0AwZzxPam0RbYWXt9nU/1I0Ym69wZBiRxphBy3y0Q2pbTytt3UA5LU6xUWKce/kvxGzfJvjOv5gOr08noYJdOWr9wz7DdoLhkVATPY++iwAELFtJugM0r1SjYI/f3Uz2w5t1i9o5wJIvXgB0CWOQpLwi0qsqas4B6/70UPGmKr5ssaupXbbKJ/hKRWB2iJI2BnNI/xqgyR0N1YfPeD7JmJuMVV5cQv7QnZxYiR9t3iiU95XgBC0PHTXDgplc8Mjzw7kVvsKdJIWjz434nRIaTB1iJL6T8WB9Hk5XM5pQVGEbwAyc9rD5k2orGfa/Q==;DatPVGbxNFBx9FBFB0UHCQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "FinTech Novo Grabs $40.7 Million To Fuel Growth"
+    excerpt: "Novo, a financial technology company, has pulled in $40.7 million in funding. The FinTech focuses on digital banking for small- to medium-sized business (SMBs)."
+    publishedDateTime: 2021-06-16T14:57:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-novo-grabs-funding-to-fuel-growth/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 4
 
 secured: "I0COBpIo05ujhhNiNrhbvUeXYsTpTA0p0s7d1iDNaQ3kzdbbyMx3PU9NR7LDo9IK8pn++6eA/QQNJ5mMeCO2vjGjpVOKWL7PP4h3hH5yDop9qNhkQKa7VLRohs8LTWXQKSGVHMSlxjZdTk5nzNMZogp3QOwR0I4O+sDM8H1qbvjCu1+a3yJMdYUZiGXFbn95vdlYhti5irC4jOxsjUhyM9iwLZ5h4mBH9M0beCghHzIbX0Wl4s7J4R3ejWeYbVUH3MGUFaIVaEBgkpIN/gXqgHBJKhnpMbuc9/3jcoifXheEkN9/GkULfxt9/o+fRzjcu6JrFOqhHB0AYUhBFSwCL/hxEgukEY9A1Z+nvEcgF3I=;EcJ18h9luXyPtUuuYVadpw=="
 ---

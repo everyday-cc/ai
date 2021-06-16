@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
-excerpt: "Astra announced today that Stratos Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple."
-publishedDateTime: 2021-06-16T13:02:00Z
-originalUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
-webUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
+excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
+publishedDateTime: 2021-06-16T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "FSO+wm5vjpkLjxENVDuEOK8k0VNYYtweOQcQ3+yh1tnix6213b81N0bLBt1KMMMBZ3Nnu9PJ9rI/aBlI62tOQn+UdC57hvvMtYWiHIUn9EGTgrsn87pXAcrgaMMeGwSW3Oag5hVE2+w6ZWzyeXu4UKrgoUQI5UP2UyEf7Hbm4+6WIEZCMc7+CkA0Anc6CTRUKwHMF8Oz/J6FaBOZfAzona/lER6jZkw4k+qvHC5pMY00ZRwrwMQwWqQejsa96Hqhh3LnYQWgjb9YPBOsKPMT0Ft9w8wonoGBJUygI7ASbhz/9XGMJ5LVImcisKg4u2k+L9cXK9ZMhPk1KLPzVn133Hdn5jPMgRlMc3ZF9OyjOlY=;tVi46adPJfCQ6WwYRqoH+A=="
+secured: "PuTuj/vjHe7OO2SXB+J2exzThTjQtLzHxSOhlj0sT897ac75ovovZDbme14w6SPenJHxMnzuPJYhUFkRWOdc8YXYAcI77G82Hh2ATRwoBMjXBUmgFpgMzLOA1OHmBriKPzN/MOL5s/SLxW+44GMrIe2ImJWyoX7dFYBl/2927F2brgkBvnmjOfMU45kZvgrPN4WhUImDesw4kb7Rt8aGwCHt28MjtDzkyGA+7V0demIv06Ls0Sny77h4cHWOLpj2iRyXxKif5WquXhgoI/c9QaFdW4HeN91vps7nIYpMErWlxFuSDbZrboNmbCKP1n1RjDgR/9O4hXH1TTBjrAcvP6rcRxtEksxBk9rRLzkivRo=;sYveRReVVbdj8/pc3fRU0Q=="
 ---
 

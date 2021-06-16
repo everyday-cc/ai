@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Lawmakers Re-Introduce Bill That Would Ban Facial-Recognition Technology"
+    excerpt: "The bill, which only has Democratic support, would bar federal agencies from using the technology without approval from Congress."
+    publishedDateTime: 2021-06-16T13:38:00Z
+    webUrl: "https://www.wsj.com/articles/lawmakers-re-introduce-bill-that-would-ban-facial-recognition-technology-11623854310"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 53
+    images:
+      - url: "https://images.wsj.net/im-354723/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Baltimore City Council approves moratorium on facial recognition technology; City police exempt from ban"
     excerpt: "Democratic Councilman Kristerfer Burnett's bill would bar the use of the technology by residents, businesses and most of Baltimore city government until December 2022."
     publishedDateTime: 2021-06-14T22:19:00Z

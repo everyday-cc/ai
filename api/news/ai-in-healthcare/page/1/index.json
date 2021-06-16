@@ -431,6 +431,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-08-el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology.md",
+      "title": "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology",
+      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.md",
       "title": "Localized Prostate Cancer Therapy: Interview with Shyam Natarajan, CEO of Avenda Health",
       "excerpt": "Avenda Health, a medtech company based in Santa Monica, California has developed the Focal Therapy System. It provides AI-powered prostate cancer therapy with the aim of treating only tumorous tissues,",
@@ -1344,40 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-top-start-ups-to-use-artificial-intelligence-in-mental-healthcare.md",
-      "title": "Top Start-ups to Use Artificial Intelligence in Mental Healthcare",
-      "excerpt": "Around the world, startups are gearing up for treating mental healthcare issues with more seriousness than ever. Using artificial intelligence for healthcare is not new and nowadays this technology is also being used by companies treating mental health issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-start-ups-to-use-artificial-intelligence-in-mental-healthcare/",
-      "originalUrl": "https://www.analyticsinsight.net/top-start-ups-to-use-artificial-intelligence-in-mental-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

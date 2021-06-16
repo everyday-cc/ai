@@ -43,6 +43,20 @@ related:
         width: 1118
         height: 630
         isCached: true
+  - title: "Tigera's Calico Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Tigera today announced the availability of Calico Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. Tigera customers can now take advantage of the scalability,"
+    publishedDateTime: 2021-06-16T16:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19860269.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "cQdRgfigV4rF7x4Qym7+aMWWDfVy0lwxdDhNhPp6llY2yEIYaYHN8Ij7rwUup33GYIRsSWTBsVxK0eX1EbR7eBBMZAEORHulAERLYXBU6LDNIRq+DPpEI927MDZd9h5sB7MlObIG6vGAa1PMz59r2cdejl/06S6vw8zH4yXRWo4bwuS3x/yZKYZD12aOeh2ax8nVgjnOFv8QBJpTEZh43ck5C8VPbw6Yhk/WzjESoghOn/UWHOrwp3+y/IJkl9hGnt5w0YpeYq4Z3Iln0n7mt1vJm/51k6X/SqfUHfLuQOhJqVamo6jolIa9VmRFuI2duvJZZw2s/tpLdG5GGH+OQ56vTR3kQLHFWUj9+x8FwrQ=;ujo00rNzQx3YBeEvIRhQTA=="
 ---

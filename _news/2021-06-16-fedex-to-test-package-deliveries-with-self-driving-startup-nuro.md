@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DR1F9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DR1F9"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg"
         width: 1440
         height: 849
+        isCached: true
+  - title: "FedEx partners with AI robotics company on last-mile delivery"
+    excerpt: "Both FedEx and Nuro will explore use cases for on-road autonomous same-day delivery services across the Houston area."
+    publishedDateTime: 2021-06-16T13:59:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 69
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/06/16x9/FedEx_Nuro_AI.60c915ebe6bb5.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
         isCached: true
   - title: "FedEx signs multi-year partnership with Nuro to test self-driving delivery vehicles"
     excerpt: "FedEx said the exponential growth of e-commerce has accelerated the demand for reliable, autonomous solutions across all stages of the supply chain. By continuing to innovate"
@@ -119,6 +133,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "+hGjw3u+RDhbNYwQPjREde8STLsoKz7LmZwDrzp9xHmnK0lC4N1kEKHexHIVdenRrCXdRQ8BkOk3oKXJ1AT2sstM9AJssKtONl7fz1EvUxHuye7e5twxdRRRVXMPE87GSfzBjLU8wyUHxb0v6IocnT/ElqIGvZysaRTdqzyxqE1J60J/h+UOiBPR60Y7+EOVXonPEK+kwDXcDpWEWHLU2CI8ie3MXTdlAt2FFaULHJ2KtM28KTS18dn4cNeM7mptDCCkB3+aTKEd55TWfN7iXkTRpGgFmZJJX27dBsw2Xlcb8Q2wM9zQV0IXRTyqlPmRFon6df+JIONlYPGEcn8DGqY8aw+InquD9tJv7uSFgOk=;h6//loDXMMrjeDLGc51RRg=="
+secured: "VDMYiTb6G50KsS/VjE1iAbBUhWIvjNLvotwo3MPiIII9ZB95jxXFngg7t6hzSSbhmaHgwGxbEeCXhjcGVLh/MlsCpMlPQlNBL308CoVN3/HgC77TB6kWRxNinQZUB/XSigIaxRWuXs+ANTFsLOjUsGLlLtJncnyBSwfoAjOWtvbMSn6UsVW6807sCYYqkt0KwEIs0SbVGf+jpfxYQQDt3sKrgHSIiClprh/EgHygbRZdiJjhHPYTQa/VLp79vvGr9zR00ZtULzwoXH+XCMXJ1S2iJtEjMPeu9NyAM7xquRbGGne4qz/P1xPaUUtIcRotAecz29fb9ynsCgw5h/1uZNs36lE/zPiCdlzYNN9e1bI1UY2wPKf2ASJLTAoXwJa4iPwCwd5zb1ftwjeZnOjSeAUKDswqwR49boO2L89dk/xGEP+mU+xvaTT+D9AORs/xY21whb36rmfIV/JD/HDxzr8hAbWFPvvlOVNf6tsMb4pPrNX8kSHbtTxvzGyC0P/b6vEigbCi8DZYsJeb+eQTIQ==;u9K1qpeVpzkt67ZMLOGCaw=="
 ---
 

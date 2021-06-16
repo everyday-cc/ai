@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T13:10:00Z
 originalUrl: "https://www.forbes.com/wheels/news/gm-spends-on-evs-battery-plants-self-driving-fuel-cells/"
 webUrl: "https://www.forbes.com/wheels/news/gm-spends-on-evs-battery-plants-self-driving-fuel-cells/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

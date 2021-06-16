@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T14:37:00Z
 originalUrl: "https://medcitynews.com/2021/06/northpond-5am-ventures-lead-45m-funding-for-camp4s-trek-to-new-rna-therapies/"
 webUrl: "https://medcitynews.com/2021/06/northpond-5am-ventures-lead-45m-funding-for-camp4s-trek-to-new-rna-therapies/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MedCity News

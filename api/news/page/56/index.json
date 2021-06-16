@@ -2,6 +2,764 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-05-05-rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for-delivery-of-high-value-data-for-survey-analysis.md",
+      "title": "Rackspace Technology Works with McChrystal Group to Leverage Machine Learning for Delivery of High Value Data for Survey Analysis",
+      "excerpt": "Rackspace Technology ®, a leading end-to-end multicloud technology solutions company, announced today its relationship with McChrystal Group, a renowned advisory services and leadership development firm that helps organizations identify opportunities to improve their performance so they can operate optimally in today’ s complex environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for",
+      "originalUrl": "https://www.nasdaq.com/press-release/rackspace-technology-works-with-mcchrystal-group-to-leverage-machine-learning-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-us-chip-startups-long-shunned-in-favor-of-internet-bets-stir-excitement-again.md",
+      "title": "U.S. chip startups, long shunned in favor of internet bets, stir excitement again",
+      "excerpt": "Silicon Valley venture capitalists, long focused on software and internet companies, are again pouring money into the semiconductor industry, lured by the promise of a new generation of artificial-intelligence chips that could challenge incumbents like Intel Corp and",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S",
+      "originalUrl": "https://www.reuters.com/article/venture-capital-semiconductors-funding-idINKBN2CM10S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210505&t=2&i=1560981592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH440J4",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2CM10S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2CM10S",
+      "publishedDateTime": "2021-05-05T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question.md",
+      "title": "Kyndi Launches Game-changing Cognitive Search Solution, Enabling Business Users to Quickly Obtain Accurate Answers to Natural Language Question",
+      "excerpt": "Kyndi, Inc., an industry leader in delivering next-generation AI solutions for business users, announced today a game-changing intelligent search product powered by its proprietary cloud AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kyndi-launches-game-changing-cognitive-search-solution-enabling-business-users-to-quickly-obtain-accurate-answers-to-natural-language-question-1030390623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-fast-companys-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category.md",
+      "title": "Fast Company's 2021 World Changing Ideas Awards Distinguishes IDX Privacy with Honorable Mention in Apps Category",
+      "excerpt": "IDX, the leading consumer privacy platform and data breach services provider, announced the mobile app of its flagship product, IDX Privacy, has received an honorable mention in Fast Company's World Changing Ideas Awards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/apply/world-changing-ideas",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fast-company-s-2021-world-changing-ideas-awards-distinguishes-idx-privacy-with-honorable-mention-in-apps-category-1030391333",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-how-to-build-compliance-into-ai-projects.md",
+      "title": "How to Build Compliance into AI Projects",
+      "excerpt": "Dana Rao, General Counsel and Corporate Secretary at Adobe, presents a case study on how to incorporate AI into compliance projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-projects/C551F757-57C3-4317-B799-22AE672561BB.html",
+      "originalUrl": "https://www.wsj.com/video/events/how-to-build-compliance-into-ai-projects/C551F757-57C3-4317-B799-22AE672561BB.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20210505/050521rc7casestudy/050521rc7casestudy_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-an-artificial-neural-network-joins-the-fight-against-receding-glaciers.md",
+      "title": "An artificial neural network joins the fight against receding glaciers",
+      "excerpt": "What makes a neuron? In the 1940s, at the dawn of the computer age, researchers gave the word a second meaning. In the case of neural networks, the artificial neurons comprising them are more simple than one might expect: structure a unit of code to take in information,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.html",
+      "originalUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/an-artificial-neural-n.jpg",
+          "width": 637,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-artificial-neural-network-receding-glaciers.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-neural-network-receding-glaciers.amp",
+      "publishedDateTime": "2021-05-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health.md",
+      "title": "What We Can Learn From AI Healthcare Initiatives Like Watson Health",
+      "excerpt": "Healthcare professionals aren't going to rely on AI as a decision-maker. Rather, they might use AI analysis as a tool integrated into their workflow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60917b0413d3bd3e5f840878%2F0x0.jpg",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/05/what-we-can-learn-from-ai-healthcare-initiatives-like-watson-health/amp/",
+      "publishedDateTime": "2021-05-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-impact-of-autonomous-vehicles-on-businesses.md",
+      "title": "Impact of Autonomous Vehicles on Businesses",
+      "excerpt": "And let’s face it, like any other tech, with autonomous vehicles too, an innumerable businesses are expected to take a hit worldwide",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
+      "originalUrl": "https://www.finsmes.com/2021/05/impact-of-autonomous-vehicles-on-businesses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2016/07/Depositphotos_29760661_m-2015.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-trifo-lucy-robot-vacuum-review-eyes-that-prioritize-security-over-cleaning.md",
+      "title": "Trifo Lucy Robot Vacuum review: Eyes that prioritize security over cleaning",
+      "excerpt": "The Trifo Lucy is a highly anticipated robot vacuum that not only vacuums but can also double as a useful security camera for the home when you're not there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/",
+      "originalUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/trifo-lucy-robot-vacuum-review/?amp",
+      "publishedDateTime": "2021-05-05T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto.md",
+      "title": "DeepMind extends hunt for the world’s best A.I. researchers to Toronto",
+      "excerpt": "DeepMind already has a member of its team working out of a Google office in Toronto. DeepMind, which also has offices in Montreal and Edmonton, employs 51 people across Canada, according to LinkedIn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1532563838",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "publishedDateTime": "2021-05-05T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-wixcom-buys-riseai-to-add-gift-cards-to-e-commerce-platform.md",
+      "title": "Wix.com buys Rise.ai to add gift cards to e-commerce platform",
+      "excerpt": "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/wixcom-buys-riseai-to-add-gift-cards-to-e-commerce-platform/ar-BB1gnWI2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/mFsTeRDVaZSBYyNQyRZ_iS3Nexg=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7D3O47K3ZMMHFQA6RFCBWCIHI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T06:08:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
+        "domain": "reuters.com/technology/wixcom-buys-riseai-add-gift-cards-e-commerce-platform-2021-05-05/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-alkymi-patterns-tool-uses-ai-to-extract-data-from-documents.md",
+      "title": "Alkymi Patterns tool uses AI to extract data from documents",
+      "excerpt": "Business intelligence platform Alkymi's new Patterns product leverages AI and machine learning to identify data in documents and emails.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
+      "originalUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
+          "width": 999,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/05/alkymi-patterns-tool-uses-ai-to-extract-data-from-documents/amp/",
+      "publishedDateTime": "2021-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-this-startup-wants-to-bring-clarity-to-the-complex-world-of-ivf.md",
+      "title": "This startup wants to bring clarity to the complex world of IVF",
+      "excerpt": "About 180 million people globally suffer from infertility. In the United States, one in eight families have trouble conceiving. The statistics are only getting worse, as male infertility and miscarriages continue to increase.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/",
+      "originalUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/08/gettyimages-117452594.jpg?w=1024",
+          "width": 1024,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/05/alifehealth-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/05/alifehealth-seed/amp/",
+      "publishedDateTime": "2021-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-curiosity-powers-sas-biggest-brand-move-in-20-years.md",
+      "title": "Curiosity powers SAS’ biggest brand move in 20 years",
+      "excerpt": "Curiosity is transformative. It enables humans to ask bold questions and sparks innovation. Curiosity is also the heartbeat driving SAS’ new brand campaign, ” Curiosity Forever.” The company unveiled the multi-year campaign designed to reintroduce SAS as the world’s analytics leader in advance of its popular AI and analytics conference,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-technology-c9dd827918d41c8f644a8296542726e8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-technology-c9dd827918d41c8f644a8296542726e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026.md",
+      "title": "Global Artificial Intelligence for Healthcare Applications Market Outlook, Industry Analysis and Prospect 2021-2026",
+      "excerpt": "The Artificial Intelligence for Healthcare Applications market report provides a detailed analysis of global market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026-2021-05-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-healthcare-applications-market-outlook-industry-analysis-and-prospect-2021-2026-2021-05-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-musicians-including-ratms-tom-morello-urge-spotify-never-to-use-patented-voice-recognition-tech.md",
+      "title": "Musicians, including RATM's Tom Morello, urge Spotify never to use patented voice recognition tech",
+      "excerpt": "Spotify’s patent, granted on January 12, describes analyzing users’ voice and background noise to detect their mood and social setting, such as whether they are in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "originalUrl": "https://www.techspot.com/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-28.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89558-musicians-including-ratm-tom-morello-urge-spotify-never.html",
+      "publishedDateTime": "2021-05-05T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-imago-visionai-artificial-intelligent-camera-supports-tensorflow-lite-and-automl-vision-edge.md",
       "title": "Imago VisionAI artificial intelligent camera supports Tensorflow Lite and AutoML Vision Edge",
       "excerpt": "Developers and Tensorflow enthusiasts may be interested in a new smart artificial intelligent camera in the form of the Imago VisionAI. The VisionAI",
@@ -419,692 +1177,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-blockchaincom-announces-acquisition-of-aix-assets.md",
-      "title": "Blockchain.com Announces Acquisition of AiX Assets",
-      "excerpt": "Blockchain.com, a leading cryptocurrency services provider, announced that the company has acquired assets of technology firm AiX.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/",
-      "originalUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2020/06/cryptocurrency.jpg",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/blockchain-com-announces-acquisition-of-aix-assets/amp/",
-      "publishedDateTime": "2021-05-05T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-2-top-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Top Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Image source: Tesla In February 2020, Tesla Director of Artificial Intelligence Andrej Karpathy ... By comparison, Alphabet's Waymo stated it had over 20 million miles of data in March 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?time=1620216251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-self-driving-car-stocks-to-buy-in-2021-2021-05-05?amp",
-      "publishedDateTime": "2021-05-05T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-correction-extracting-family-history-information-from-electronic-health-records-natural-language-processing-analysis.md",
-      "title": "Correction: Extracting Family History Information From Electronic Health Records: Natural Language Processing Analysis.",
-      "excerpt": "Either your web browser doesn't support Javascript or it is currently turned off. In the latter case, please turn on Javascript support in your web browser and reload this page.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/33939618",
-      "originalUrl": "https://europepmc.org/article/MED/33939618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-gene-therapy-in-alzheimers-disease-mouse-model-preserves-learning-and-memory.md",
-      "title": "Gene Therapy in Alzheimer’s Disease Mouse Model Preserves Learning and Memory",
-      "excerpt": "Novel gene therapy treatment prevents learning impairments and memory loss in mouse models of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
-      "originalUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/05/alzheimers-gene-therapy-neurosciences-public.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
-      "publishedDateTime": "2021-05-04T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025.md",
-      "title": "At 36% CAGR, Artificial Intelligence (AI) Market Size and Forecasts Research Report up to 2025",
-      "excerpt": "Market Forecast Report provides details analysis of Artificial Intelligence (AI) industry which will accelerate your business. Artificial Intelligence (AI) market report covers the current state of business and the growth prospects of the worldwide Artificial Intelligence (AI) Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025-2021-05-05?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-driverless-taxis-are-now-operating-in-beijing-china.md",
-      "title": "Driverless taxis are now operating in Beijing, China",
-      "excerpt": "There are now fully autonomous taxis operating in China. This was made possible thanks to tech giant Baidu who recently launched the self-driving taxi service. Called the Apollo Go Robotaxi, the autonomous transport is currently seeing service in Beijing’s Shougang Park - one of the venues for the 2022 Bejing Winter Olympics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china.html",
-      "originalUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoindustriya.com/images/posts/post20065.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china/amp",
-      "cdnAmpWebUrl": "https://www-autoindustriya-com.cdn.ampproject.org/c/s/www.autoindustriya.com/auto-industry-news/driverless-taxis-are-now-operating-in-beijing-china/amp",
-      "publishedDateTime": "2021-05-04T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AutoIndustriya.com",
-        "domain": "autoindustriya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-musicians-ask-spotify-to-promise-itll-never-use-its-creepy-speech-recognition-patent.md",
-      "title": "Musicians Ask Spotify to Promise It'll Never Use Its Creepy Speech-Recognition Patent",
-      "excerpt": "Acoalition of more than 180 artists and human rights organizations has written Spotify a letter asking the company to publicly commit to abandoning its patented dystopian speech-recognition tech.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558",
-      "originalUrl": "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/de713433904ddf5ecc22008a805a49b8.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/musicians-ask-spotify-to-promise-itll-never-use-its-cre-1846823558/amp",
-      "publishedDateTime": "2021-05-04T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-zogby-poll-51-want-congressional-probe-into-911-actions-by-bush-and-cheney.md",
-      "title": "ZOGBY POLL: 51% Want Congressional Probe into 9/11 Actions by Bush and Cheney",
-      "excerpt": "Must hit the road for a bunch of hours today (Utah here we come! For a few hours, anyway.) so I'll leave you with the following press release from Zogby sent out this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bradblog.com/?p=5039",
-      "originalUrl": "https://www.bradblog.com/?p=5039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Brad Blog",
-        "domain": "bradblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-why-autonomous-ai-based-software-tests-save-costs.md",
-      "title": "Why Autonomous , AI-based Software Tests Save Costs",
-      "excerpt": "When you weigh test cases by severity and frequency that a failure can impact the business, you can much better prioritize what to test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/news/why-autonomous-ai-based-software-tests-save-costs/",
-      "originalUrl": "https://www.eweek.com/news/why-autonomous-ai-based-software-tests-save-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/02/eWEEK.logo_.DataPoints-blue.border2020-1.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
-      "title": "Baidu rolls out paid driverless taxi service in Beijing",
-      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/",
-      "originalUrl": "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/baidu-rolls-out-paid-driverless-taxi-service-in-beijing/?amp=1",
-      "publishedDateTime": "2021-05-04T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-wipro-limited-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
-      "title": "Wipro Limited: Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
-      "excerpt": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today said it has earned the Microsoft Windows Virtual De",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-05/52866824-wipro-limited-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-05/52866824-wipro-limited-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future.md",
-      "title": "AI bias is an ongoing problem, but there's hope for a minimally biased future",
-      "excerpt": "Removing bias from AI is nearly impossible, but one expert sees a future with potentially bias-free decisions made by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/04/a450f184-16dc-4234-9724-c469662cf2fd/thumbnail/1200x675/e2469348a801d2b2c0131a6fa89fbeb5/20210429-aibias-karen-fixed.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-bias-is-an-ongoing-problem-but-theres-hope-for-a-minimally-biased-future/",
-      "publishedDateTime": "2021-05-04T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-achieve-12x-higher-throughput-and-lowest-latency-for-pytorch-natural-language-processing-applications-out-of-the-box-on-aws-inferentia.md",
-      "title": "Achieve 12x higher throughput and lowest latency for PyTorch Natural Language Processing applications out-of-the-box on AWS Inferentia",
-      "excerpt": "AWS customers like Snap, Alexa, and Autodesk have been using AWS Inferentia to achieve the highest performance and lowest cost on a wide variety of machine learning (ML) deployments. Natural language processing (NLP) models are growing in popularity for real-time and offline batched use cases. Our customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-12x-higher-throughput-and-lowest-latency-for-pytorch-natural-language-processing-applications-out-of-the-box-on-aws-inferentia/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-12x-higher-throughput-and-lowest-latency-for-pytorch-natural-language-processing-applications-out-of-the-box-on-aws-inferentia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/28/2-Inf1.jpg",
-          "width": 700,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T14:09:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-zammo-unfurls-conversational-ai-integration-service.md",
-      "title": "Zammo unfurls conversational AI integration service",
-      "excerpt": "Zammo.ai launched a platform for integrating a diverse range of conversational AI technologies across a workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
-      "originalUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Zammo-UI-Builder.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/04/zammo-unfurls-conversational-ai-integration-service/amp/",
-      "publishedDateTime": "2021-05-04T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-arista-networks-beats-q1-estimates-delivers-strong-q2-outlook.md",
-      "title": "Arista Networks beats Q1 estimates, delivers strong Q2 outlook",
-      "excerpt": "\"Arista begins the 2021 year with a flying start,\" Ullal said in a statement. \"Clearly, the focus on our cognitive cloud networking suite is resonating with customers across diverse data sets and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
-      "originalUrl": "https://www.zdnet.com/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arista-networks-beats-q1-estimates-delivers-strong-q2-outlook/",
-      "publishedDateTime": "2021-05-04T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

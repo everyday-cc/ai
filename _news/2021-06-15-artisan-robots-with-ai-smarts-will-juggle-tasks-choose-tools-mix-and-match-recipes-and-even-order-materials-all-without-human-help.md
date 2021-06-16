@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-15T13:04:00Z
 originalUrl: "https://www.timesunion.com/news/article/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
 webUrl: "https://www.timesunion.com/news/article/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Times Union

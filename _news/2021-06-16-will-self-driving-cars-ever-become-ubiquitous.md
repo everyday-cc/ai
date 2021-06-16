@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T14:03:00Z
 originalUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/16/449143-will-self-driving-cars-ever-become-ubiquitous.htm"
 webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/16/449143-will-self-driving-cars-ever-become-ubiquitous.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Tech Zone 360

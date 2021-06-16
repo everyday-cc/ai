@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T14:00:00Z
 originalUrl: "https://magicvalley.com/news/local/education/students-volunteers-paint-over-hate-speech-on-rocks-at-twin-falls-high-schools/article_bceac699-9693-58e7-ae73-a2310f3b78da.html"
 webUrl: "https://magicvalley.com/news/local/education/students-volunteers-paint-over-hate-speech-on-rocks-at-twin-falls-high-schools/article_bceac699-9693-58e7-ae73-a2310f3b78da.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Times-News

@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "BdTVMaRYwJbm1MKQM4qT4bBf1ktB4xzK54vXG8f18mqvIUG92zEEVt0gqtq9Ovh8MceRjaCK86oH9G8NTPzWN4qsOxdVNDoQG/MrJjTfdrr6C5qNFgW56CWNiU4eMKHMVyU+ijlnEBSjpcSMSC9haiN53VKuqhkOuCpxtzMWDWrcQ/RMsS2o/dof22n3VF/QpMtv0KVALJSRFG70eeB0eE18n+7EWicbBjd6jRc4Khpl3zFOFrhDd2H0TDXoBTlFMTYst3VfwvLDRT/On54Urx58cEIYhppYevxKgpFRQqY+09Qng1t/EahLIenTIURxOF52IotoTelbCW0+GlUCCcgAPFPvEqHP8H8hmyYwwfk=;17FunWrYC9bR7Mjo1vQ7IQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
+    width: 2700
+    height: 1413
+    isCached: true
+
+secured: "NhzmOjEqIR9Ts7k3bise7Vr8EKke0gLbXZhR2/UE8ElAAj23o7kd5Es2eyfSa24NT/aZGWZI2EDj2eHIEzAcLty07e2NQiSll/Yd984iLUIIqFT6ATLkzN3sdr9xSoMtZoZjLAGwZE7mCFJK2XX0jDD5K5XO7K0GyZ+t3fIxb7tW1s9yuVDiS7m1BMIaGAyLrUixXA15KODHhTYNlBFRGNLQFBvJajBu6yUywd2ekV47aHw9h/hk9K+rzKpXYHX5P8HswrElD5KeczaWXkXnvQkOTH5qXTT9ZJWW9S0nJAF0CuUrq1/NqEbY+tD3CiiNKzGoelHnLY92UKweXPkF/ZyNr3h563KGPBlDgMJ8QKc=;G9dBTrFAWB02cD67jy8XbQ=="
 ---
 

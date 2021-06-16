@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough
 webUrl: "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Deepmind Is Using AI To 'Solve' Soccer"
-    excerpt: "After Go, Chess, and protein folding, the world's most famous AI company is taking on the challenge of a uniquely human sport."
-    publishedDateTime: 2021-06-11T22:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-deepmind-is-using-ai-to-solve-soccer"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 54
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/6pkoPvmj1WFVtAfXLVogrT/9eac0bd4fc9b8ee8550901fac6693058/shutterstock_652647784.jpg"
-        width: 1000
-        height: 583
-        isCached: true
   - title: "DeepMind AI Taught Digital People to Play Football from Scratch"
     excerpt: "An a (AI)-trained computer learned to play football from scratch, using digital players. Researchers at Alphabet's U.K.-based AI subsidiary DeepMind used motion-capture data from real players to teach the digital footballers to get up and run."
     publishedDateTime: 2021-06-15T18:57:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-16T14:25:00Z
 originalUrl: "https://techcrunch.com/2021/06/16/introhive-raises-100m-for-ai-powered-sales-tools-to-help-companies-build-relationship-graphs/"
 webUrl: "https://techcrunch.com/2021/06/16/introhive-raises-100m-for-ai-powered-sales-tools-to-help-companies-build-relationship-graphs/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: TechCrunch

@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facial Recognition Bill Gets Initial Approval in Maine"
+    excerpt: "A proposal for Maine to require statewide regulations on the use of facial recognition by police and other agencies has cleared its first hurdle in the Legislature."
+    publishedDateTime: 2021-06-16T16:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2021-06-16/facial-recognition-bill-gets-initial-approval-in-maine"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
     excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
     publishedDateTime: 2021-06-16T02:25:00Z
@@ -151,34 +160,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Opinion: Regulate DNA Data, Facial Recognition, but No Bans"
-    excerpt: "When police overuse DNA databases and facial recognition, they violate rights, often disproportionately. Policy should limit use of DNA databases and facial recognition to cases involving significant danger to society."
-    publishedDateTime: 2021-06-11T23:20:00Z
-    webUrl: "https://www.govtech.com/policy/opinion-regulate-dna-data-facial-recognition-but-no-bans"
+  - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
+    excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
+    publishedDateTime: 2021-06-16T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21591655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21591655"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/0455fd7/2147483647/strip/true/crop/1119x544+0+43/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F41%2F78%2F84b614e0d370d84ae4ac738ee0a7%2Fshutterstock-1139687675.jpg"
-        width: 1440
-        height: 700
-        isCached: true
-  - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
-    excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."
-    publishedDateTime: 2021-06-11T22:58:00Z
-    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/petition-calls-on-states-to-stop-requiring-facial-recognition-for-unemployment-benefits"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 31
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e20ed22/2147483647/strip/true/crop/2880x1512+0+144/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F21%2F7f%2Fa28876dd4bf8be85d3b63a70ca2f%2Fscreen-shot-2021-06-11-at-6.13.12%20PM.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Privacy commissioners issue draft guidance on police use of facial recognition technology"
     excerpt: "The Office of the Privacy Commissioner of Canada and the provincial and territorial privacy regulators have jointly released draft guidance on the use of facial recognition technology by police agencies so that stakeholders and the public can comment on it."
     publishedDateTime: 2021-06-15T19:40:00Z

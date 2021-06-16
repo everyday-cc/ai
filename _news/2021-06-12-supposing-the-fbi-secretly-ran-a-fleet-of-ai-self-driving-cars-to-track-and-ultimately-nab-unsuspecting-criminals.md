@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Secret Is Out That Confidential Computing Is A Hot Trend And Seriously Crucial To AI And For Self-Driving Cars Too"
+    excerpt: "Here's a breezy explanation about the nature of confidential computing, along with a look at how AI systems are impacted and likewise AI-based self-driving cars."
+    publishedDateTime: 2021-06-16T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/16/the-secret-is-out-that-confidential-computing-is-a-hot-trend-and-seriously-crucial-to-ai-and-for-self-driving-cars-too/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/16/the-secret-is-out-that-confidential-computing-is-a-hot-trend-and-seriously-crucial-to-ai-and-for-self-driving-cars-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/16/the-secret-is-out-that-confidential-computing-is-a-hot-trend-and-seriously-crucial-to-ai-and-for-self-driving-cars-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c99439ffe76b7634764df6%2F0x0.jpg%3FcropX1%3D445%26cropX2%3D3133%26cropY1%3D0%26cropY2%3D2015"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     publishedDateTime: 2021-06-15T05:02:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Huawei Wants to Develop Self-driving Cars by 2025"
-    excerpt: "This includes Baidu, Xiaomi, and others that are attempting ... Now, the company has been working on developing its own self-driving car technology. During this period, it has also launched ..."
-    publishedDateTime: 2021-06-12T00:00:00Z
-    webUrl: "https://propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/"
-    ampWebUrl: "https://propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 44
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
-        width: 500
-        height: 300
         isCached: true
   - title: "How AI Is Transforming Venture Capital"
     excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"

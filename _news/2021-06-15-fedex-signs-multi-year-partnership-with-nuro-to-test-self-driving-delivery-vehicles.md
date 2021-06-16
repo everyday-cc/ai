@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 849
         isCached: true
+  - title: "FedEx partners with AI robotics company on last-mile delivery"
+    excerpt: "Both FedEx and Nuro will explore use cases for on-road autonomous same-day delivery services across the Houston area."
+    publishedDateTime: 2021-06-16T13:59:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 69
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/06/16x9/FedEx_Nuro_AI.60c915ebe6bb5.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
     excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
     publishedDateTime: 2021-06-15T21:37:00Z

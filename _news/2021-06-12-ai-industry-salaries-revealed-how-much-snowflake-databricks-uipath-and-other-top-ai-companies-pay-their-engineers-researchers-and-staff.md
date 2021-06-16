@@ -6,6 +6,9 @@ publishedDateTime: 2021-06-12T15:30:00Z
 originalUrl: "https://www.businessinsider.com/salaries-ai-artificial-intelligence-snowflake-databricks-uipath-2021-6"
 webUrl: "https://www.businessinsider.com/salaries-ai-artificial-intelligence-snowflake-databricks-uipath-2021-6"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Business Insider

@@ -2,6 +2,728 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-05-21-sofic-news-microsoft-socom-discuss-ethical-use-of-artificial-intelligence.md",
+      "title": "SOFIC NEWS: Microsoft, SOCOM Discuss Ethical Use of Artificial Intelligence",
+      "excerpt": "Tech giant Microsoft is doing a “significant amount” of research and development work to ensure that its artificial intelligence products are in line with its ethical principles, according to the company's CEO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/5/20/sofic-news-microsoft-investing-in-ai-ethics-rd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/01_covers/may_cover.ashx?h=793&w=601&la=en&hash=2A0B7FC465C936EDFB5D8EB19D5A3113",
+          "width": 601,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-industrial-robotics-market-to-grow-at-a-cagr-of-95-during-the-forecast-period-2020-2025.md",
+      "title": "Industrial Robotics Market to Grow at a CAGR of 9.5% During the Forecast Period 2020-2025",
+      "excerpt": "Industrial Robotics Market size was valued at 28 9 Million in 2019 and it is estimated to grow at a CAGR of 9 5 during 2020 2025 The advent of numerous sorts of techniques committed to production control and introduction",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
+      "originalUrl": "https://www.openpr.com/news/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U520628557_g.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2287733/industrial-robotics-market-to-grow-at-a-cagr-of-9-5-during",
+      "publishedDateTime": "2021-05-20T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-in-the-race-for-tech-talent-the-us-should-look-to-mexico.md",
+      "title": "In the race for tech talent, the US should look to Mexico",
+      "excerpt": "Amid a backdrop of skyrocketing tech valuations, the U.S. tech sector should look to Mexico as a key growth market and partner. The time is now for the U.S. to tap into Mexico's surplus tech talent.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1164223141.jpg?w=1024",
+          "width": 1024,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/in-the-race-for-tech-talent-the-us-should-look-to-mexico/amp/",
+      "publishedDateTime": "2021-05-20T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
+      "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
+      "excerpt": "Most able-bodied people take their ability to perform simple daily tasks for granted—when they reach for a warm mug of coffee, they can feel its weight and temperature and adjust their grip accordingly so that no liquid is spilled.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/brain-stimulation-evok-1.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-brain-evoking-robotic-arm.amp",
+      "publishedDateTime": "2021-05-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
+      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
+      "excerpt": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210520005301/en/Heru-Series-A-Funding-Accelerates-Cloud-and-Artificial-Intelligence-Enabled-Wearable-Vision-Diagnosis-and-Therapy",
+      "originalUrl": "https://www.businesswire.com/news/home/20210520005301/en/Heru-Series-A-Funding-Accelerates-Cloud-and-Artificial-Intelligence-Enabled-Wearable-Vision-Diagnosis-and-Therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns.md",
+      "title": "Disorderly transition to net zero could pose risk to financial system, Lane warns",
+      "excerpt": "A disorderly or incomplete transition to net zero carbon emissions poses a major risk to the global financial system ... eletricity would be two to tree times what it is now if the transition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "originalUrl": "https://www.irishtimes.com/news/environment/disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns-1.4569591",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F273bcfd2-ad78-4020-9426-e44dae599de6.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "publishedDateTime": "2021-05-20T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
+      "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
+      "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "originalUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/abstract-robot-thinking-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "cdnAmpWebUrl": "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "publishedDateTime": "2021-05-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-jim-kellers-tenstorrent-secures-200-million-in-new-funding-looks-to-surpass-nvidias-ai.md",
+      "title": "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI",
+      "excerpt": "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-20-image-16.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "publishedDateTime": "2021-05-20T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-geospatial-startup-unfoldedai-acquired-by-foursquare.md",
+      "title": "Geospatial startup Unfolded.ai acquired by Foursquare",
+      "excerpt": "Well, that was fast. Just a few months after raising its seed round, Unfolded.ai announced today that it is being acquired by Foursquare. Terms of the deal were not disclosed. The startup had raised a total of about $6 million when we last checked in with them.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GaryLittle.jpg?w=600",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/geospatial-startup-unfolded-ai-acquired-by-foursquare/amp/",
+      "publishedDateTime": "2021-05-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-11-ways-were-innovating-with-ai.md",
+      "title": "11 ways we're innovating with AI",
+      "excerpt": "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "originalUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/innovating-with-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/",
+      "publishedDateTime": "2021-05-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-deep-learning-enables-dual-screening-for-cancer-and-cardiovascular-disease.md",
+      "title": "Deep learning enables dual screening for cancer and cardiovascular disease",
+      "excerpt": "Heart disease and cancer are the leading causes of death in the United States, and it's increasingly understood that they share common risk factors, including tobacco use, diet, blood pressure, and obesity.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-enables.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-deep-enables-dual-screening-cancer.amp",
+      "publishedDateTime": "2021-05-20T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-slicing-up-pizza-robots.md",
+      "title": "Slicing up pizza robots",
+      "excerpt": "So, true story. Over the weekend I was talking to someone about restaurant robotics. It’s a concept people often have trouble visualizing — and understandably so. Among other things, there’s really no commonly accepted form factor in a category that sometimes is literally a robot arm",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
+      "originalUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Pj1j9cioj_w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/robotics-roundup-12/amp/",
+      "publishedDateTime": "2021-05-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-industrywired-names-top-revolutionary-digital-transformation-companies-in-the-world.md",
+      "title": "IndustryWired Names 'Top Revolutionary Digital Transformation Companies in the World'",
+      "excerpt": "IndustryWired has announced 'Top Revolutionary Digital Transformation Companies in the World' in its May magazine issue. The issue recognizes ten disruptive companies leveraging leading-edge technologies to redefine customer experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-industrywired-names-top-revolutionary-digital-transformation-companies-the-/2021/05/20/9374601.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques.md",
+      "title": "Numenta Demonstrates 100x Performance Acceleration in Deep Learning Networks Using Sparse Techniques",
+      "excerpt": "announced it has achieved greater than 100x performance improvements on inference tasks in deep learning network",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/article_51a78bad-488f-5ddd-b24f-3be5494b5950.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/numenta-demonstrates-100x-performance-acceleration-in-deep-learning-networks-using-sparse-techniques/article_51a78bad-488f-5ddd-b24f-3be5494b5950.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/7/b1/7b1c2f04-0f3f-55a7-9452-e57ed4f76396/60a67d8b237a1.image.jpg?resize=982%2C398",
+          "width": 982,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-bluewire-aims-to-stop-false-narratives-against-trucking.md",
+      "title": "Bluewire aims to stop false narratives against trucking",
+      "excerpt": "Artificial intelligence is putting the virtual pedal ... hubs in the U.S. “Operating in that environment, we can test our Waymo Driver on highly dense highways and shipping lanes, further ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
+      "originalUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/dreamstime_xxl_40196175_judge_verdict_Andrey_Popov.609bcb5585865.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today.md",
+      "title": "Artificial Intelligence Identifies Ethan Allen Interiors And Yum China Holdings As Trending Stocks Today",
+      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. Today, our deep-learning algorithms have identified Ethan Allen Interiors and Yum China Holdings among the trending stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77a29dc7b02d000666d9fe%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/20/artificial-intelligence-identifies-ethan-allen-interiors-and-yum-china-holdings-as-trending-stocks-today/amp/",
+      "publishedDateTime": "2021-05-20T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-vital-signs-positive-for-ai-in-european-healthcare.md",
       "title": "Vital signs positive for AI in European healthcare",
       "excerpt": "AI can improve care outcomes, patient experiences, and access to healthcare services while empowering healthcare systems to provide additional and better care to more people. It can also support the faster delivery of care,",
@@ -396,737 +1118,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 1)",
-      "excerpt": "As AI is the arrowhead of digital transformation, enterprises must quickly learn how to use the technology to create meaningful value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a578e6aa73d4db775ea400%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/20/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-1/amp/",
-      "publishedDateTime": "2021-05-20T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-harvard-medtech-names-monica-mohring-as-vice-president-of-market-partnerships.md",
-      "title": "Harvard MedTech Names Monica Mohring as Vice President of Market Partnerships",
-      "excerpt": "Harvard MedTech, a breakthrough digital health company dedicated to healing trauma through a proprietary blend of virtual reality, artificial intelligence and behavioral interventions, announced today the appointment of Monica Mohring as Vice President of Market Partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9374005.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9374005.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-eliminating-bias-in-ai-how-cpos-and-chros-can-help.md",
-      "title": "Eliminating Bias In AI: How CPOs And CHROs Can Help",
-      "excerpt": "As leaders tasked with ensuring an equitable work environment, it is crucial that CHROs and CPOs discuss and acknowledge the biases and gaps that exist within the technology and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601167ca1d105c17d557e98e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/20/eliminating-bias-in-ai-how-cpos-and-chros-can-help/amp/",
-      "publishedDateTime": "2021-05-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing.md",
-      "title": "Qualcomm Cloud AI 100 Is 3X More Efficient. What’s Missing?",
-      "excerpt": "As the Cambrian Explosion reverberates across the landscape of AI chips, the benchmarking silence of challengers stands in sharp contrast to their marketing claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a59d8ab6781ac1335ea3fe%2F0x0.jpg%3FcropX1%3D5%26cropX2%3D1545%26cropY1%3D0%26cropY2%3D865",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/05/20/qualcomm-cloud-ai-100-is-3x-more-efficient-whats-missing/amp/",
-      "publishedDateTime": "2021-05-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork.md",
-      "title": "Dooly raises $80M more for its AI tools to help salespeople manage their busywork",
-      "excerpt": "Salespeople have more tools than ever these days to help them with their work, whether they are tools to source new leads, keep those leads interested or informed about what’s being sold, to track how the sales process is going,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-173607777.jpg?w=1024",
-          "width": 1024,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/",
-      "publishedDateTime": "2021-05-20T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum-japan-monstar-screen-2-trial.md",
-      "title": "Caris Life Sciences and National Cancer Center Japan Announce Exclusive Collaboration to Launch The SCRUM-Japan MONSTAR-SCREEN-2 Trial",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today they",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
-      "originalUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/inforney.com/content/tncms/assets/v3/editorial/5/ff/5ffcd25b-7333-518e-bb6a-6f66d5176c83/606c3c27ea886.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News in Forney",
-        "domain": "inforney.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-future-with-all-challenges-and-opportunity-of-natural-language-processing-market.md",
-      "title": "Future with all challenges and opportunity of Natural Language Processing Market",
-      "excerpt": "The most important of these discoveries was that of natural language processing, which turned out to the most sought after technological and linguistic advancement in the world. In the 1900s, a professor at the University of Geneva,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-New-Report-27.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-equinix-uses-precision-robotics-in-healthcare-tech-quest.md",
-      "title": "Equinix uses Precision Robotics in healthcare tech quest",
-      "excerpt": "Digital infrastructure firm Equinix has announced that Precision Robotics, a surgical robotics startup from Imperial College London, has deployed an NVIDIA DGX A100 system in Equinix International Business Exchange HK4 in Hong Kong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
-      "originalUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theasset.com/storage/Image/2021/May/1621487663robosurg4c.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asset",
-        "domain": "theasset.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research.md",
-      "title": "Artificial Intelligence Market 2021 Trending Technologies, Distributors, Future Growth and Geographical Regions 2025 | Says Kenneth Research",
-      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence Market, which has been categorized by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research-2021-05-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-trending-technologies-distributors-future-growth-and-geographical-regions-2025-says-kenneth-research-2021-05-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce.md",
-      "title": "Artificial Intelligence in IoT Market Size and Growth 2021-2027 | Top Companies – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce",
-      "excerpt": "Verified market reports recently published a research report on the Artificial Intelligence in IoT Market that provides an in-depth analysis of the key factors that can help well-known companies in the industry formulate appropriate future action plans.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ai-and-data-science-jobs-are-hot-heres-what-employers-want.md",
-      "title": "AI and data science jobs are hot. Here's what employers want",
-      "excerpt": "Up to 10,000 jobs in AI and data science open each month, and the trend is only growing - but candidates often lack the right skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "originalUrl": "https://www.zdnet.com/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/20/1542e485-4a71-4a41-adb6-6608a5b1f96a/gettyimages-1206260104.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/there-are-hundreds-of-thousands-of-jobs-in-ai-those-are-the-skills-you-need-to-get-one/",
-      "publishedDateTime": "2021-05-19T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
-      "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
-      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1514656/AInnovation_Named_a_Gartner_Cool_Vendor.jpg",
-          "width": 400,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-how-ai-is-reimagining-the-customer-experience.md",
-      "title": "How AI Is Reimagining the Customer Experience",
-      "excerpt": "Customers know that AI-driven tools exist for personalizing the experience because they encounter the technology everywhere they go online: Amazon, Netflix, Spotify, etc. Fortunately, organizations of all sizes can use AI-driven tools to power their customer experience and compete in the big leagues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/119731-viewpoints-digitalhandshake-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-aws-21st-century-forecasting-for-the-travel-hospitality-industry.md",
-      "title": "AWS: 21st Century forecasting for the travel & hospitality industry",
-      "excerpt": "Notably, it serves to review improvements in forecasting, the use of machine learning and artificial intelligence, and metrics, to assess a forecast's value, as Wesley Story, enterprise strategist at AWS explains. “Travel and Hospitality companies have ...",
-      "sourceUrl": null,
-      "webUrl": "https://centreforaviation.com/analysis/reports/aws-21st-century-forecasting-for-the-travel--hospitality-industry-561544",
-      "originalUrl": "https://centreforaviation.com/analysis/reports/aws-21st-century-forecasting-for-the-travel--hospitality-industry-561544",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cdn.centreforaviation.com/stories/GettyImages-1205428317-1024x.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Centreforaviation.com",
-        "domain": "centreforaviation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024.md",
-      "title": "Global Artificial Intelligence (AI) Speakers Market Size, Share, Value, and Competitive Landscape 2024",
-      "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.”  The report demonstrates detail coverage of Artificial Intelligence (AI) Speakers industry and main market trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024-2021-05-19-23175437",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-prosthesis-powered-by-googles-machine-learning-lets-amputee-drummer-play-naturally-again.md",
-      "title": "Prosthesis powered by Google’s machine learning lets amputee drummer play naturally again",
-      "excerpt": "Google’s machine learning technology has given an amputee drummer the ability to play again, highlighting developments in robotic prostheses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
-      "originalUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.musictech.net/wp-content/uploads/2021/05/Jason-Barnes-Google@1400x1050.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
-      "cdnAmpWebUrl": "https://www-musictech-net.cdn.ampproject.org/c/s/www.musictech.net/news/music/prosthetic-powered-google-machine-learning-amputee-drummer-play-naturally/?amp=1",
-      "publishedDateTime": "2021-05-19T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MusicTech",
-        "domain": "musictech.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

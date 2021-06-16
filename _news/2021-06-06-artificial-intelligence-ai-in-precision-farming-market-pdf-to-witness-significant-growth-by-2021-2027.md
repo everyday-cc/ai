@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Precision Farming Market [ PDF ] To Witness Significant Growth By 2021-2027"
-excerpt: "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :- , Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk,"
+excerpt: "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :-, Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk, DTN, Resson, Vision Robotics, CropX, John Deere ..."
 publishedDateTime: 2021-06-06T12:13:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "fT7Q2A34XZBBEK6IRD3Sm4Uq0W+B61/16XByn9jin4ZNstglz2tayWOEngLTP1KcUq5mHB8Y+eTVI9zOTlxS5H2jaPCf98tPAyEPM/jzjJFbCtHUSCF0VXfAaJEY9whAesD3yr2ZmiKp65UMn7CIMzNaKSUYppmZw+QlpSUWHyBENQ5Gd0eFRolVc8UtQrmo/UEqYqD43VRm/+UBmIR2JsOHWigDDqpQWhRfkrYomIj+IaGjCrqg8qe9CqTc6H7QQyY/nxC88HBcO8TBuUJy9NCml1HrxJlJB7lKG0EKnddjDiVL5it+aPSwGkL1aEQ7asGlOMPzcaECGl5f3EW1CqzalH1DDRFW8futdGELI4Q=;wq38PUOAgbyfllwrCQ2E4Q=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "9PCHXvln4OG1MnftHP3CF1UqRtiM5G8tl2LSeuHrzuEGtvF5HpmDAcAG2iAe5+ZGtPXvm6dkGH/eILzDRbGyeKNInVw20tVUlj8SZXrKWIXRu35FNLAG2O8eE57Eia0dXvOMQ9moJ4GSn2WXiGxOsFNIQMnEqQkN+IR/6Im15Wi6xyh+4nLiDHF5yliLoAzREAloa+U7F2uq+UE7hzI8WjIowuhZCMqGMIQ2PCmMjRwKw6FbGjwXVMN4KxPYSwoZ1gAul/ie7mpr8WBcCOIPZ7ixOTA5vyl+ZmnCSGz2IcPoout21uEJrIS3S/qrnFkbHZpzpu+6F2bD+Mqg+e/UOCOAHG72z4HPHLEYlKCcxko=;3/Se4bJ/ZkAiVDm/KC+CEQ=="
 ---
 

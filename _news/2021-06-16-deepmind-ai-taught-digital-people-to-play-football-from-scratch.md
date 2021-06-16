@@ -33,20 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Deepmind Is Using AI To 'Solve' Soccer"
-    excerpt: "After Go, Chess, and protein folding, the world's most famous AI company is taking on the challenge of a uniquely human sport."
-    publishedDateTime: 2021-06-11T22:00:00Z
-    webUrl: "https://www.discovermagazine.com/technology/how-deepmind-is-using-ai-to-solve-soccer"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 54
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/6pkoPvmj1WFVtAfXLVogrT/9eac0bd4fc9b8ee8550901fac6693058/shutterstock_652647784.jpg"
-        width: 1000
-        height: 583
-        isCached: true
 
 secured: "TbN8O0uhQlQ1gt4DpTtNC6cRbFZqQtHZAJ4WxIHKeJhY5QgPhTG9XgDQnfpfbfRQs49JbDl6VPlnUoPoAuIcENDKNXpLVYxgIh3deuJ+M/zBF49FDpFu0eQLxVDHW+7p78fg3Nf3v8Y7aAE2SYVm9nuO/QoTkBovBUKWSBY7Xox+ki59jHwPInk2ozmZFKT+itZfl+z+jkDyPiPh5ub7CadKdhZ+Tc7xEwTuvXWCiUPUfk2wFHEo4RbOyB4Z2uMXaVXhkzBEz2kHqyHb+5D2qW9rbFx2U6P1qO4Qsk0LRcu5snlJtdazOW6rMDCkNqzUflNz+9r80t345LhMgjeAIJB1haiGFOkzGYuJdGUiVLw=;rYZHIbLclSivgulqg+KchA=="
 ---
