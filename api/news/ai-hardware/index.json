@@ -145,21 +145,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-12-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
-      "title": "Google team uses AI to create next-gen chips faster than humans",
-      "excerpt": "To achieve this, the Google team used a dataset of 10,000 chip layouts for a machine-learning model, which was then trained with reinforcement learnin..",
+      "path": "_news/2021-06-12-google-team-creates-next-gen-chips-using-ai.md",
+      "title": "Google team creates next-gen chips using AI",
+      "excerpt": "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial",
       "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
+      "webUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
+      "originalUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
       "featuredContent": null,
       "highlight": null,
       "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83463614,imgsize-318247,width-800,height-434,overlay-ettelecom/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.jpg",
-          "width": 800,
-          "height": 434,
+          "url": "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg",
+          "width": 400,
+          "height": 248,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -167,13 +167,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
-      "publishedDateTime": "2021-06-12T08:09:00-07:00",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
+      "publishedDateTime": "2021-06-12T07:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
         "images": null,
         "publishers": null,
         "authors": null

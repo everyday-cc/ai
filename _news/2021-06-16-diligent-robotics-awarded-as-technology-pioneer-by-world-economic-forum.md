@@ -2,21 +2,17 @@
 category: news
 title: "Diligent Robotics Awarded as Technology Pioneer by World Economic Forum"
 excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the World Economic Forum's \"Technology Pioneers.\" Diligent Robotics, led by two female founders,"
-publishedDateTime: 2021-06-15T17:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-1030525332"
-webUrl: "https://markets.businessinsider.com/news/stocks/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-1030525332"
+publishedDateTime: 2021-06-15T18:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -37,7 +33,16 @@ related:
         width: 420
         height: 630
         isCached: true
+  - title: "Diligent Robotics Awarded as Technology Pioneer by World Economic Forum"
+    excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the World Economic Forum's \"Technology Pioneers.\" Diligent Robotics, led by two female founders,"
+    publishedDateTime: 2021-06-15T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210615da11891/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
-secured: "W4Rcpl9gqnemu9VxVJGztMAg0oGLQ2zXhuhpnjAPa+QIwNsnpFve6vnD0JGqHti59dysChzQXT2pNtPFucTeIyapSaPayrwXJDXzYUUi4THju+LUPyW0mCKtG50HyKeAih80kFqhRrnOUfRhDBPgiS+j961/UdsWsli/qx2EJtwIB8i4nimi7Uhm1kVRT0AjbzDrms2iI+jPBgbpCNIHmTCuZmKcSWdMIZeVYbjUx7Pk+lQxU3hUyaQj77f7gTW46QhI5wMRjBE4fajueHvIeXFcMU+QeGVF6ovxROUw+15gZtpKKTeWQFQxXBrgbwwzXc/n51rZtbgcBfFa8BnpcbH9qG7w7arpJge076TTn8U=;bYlPOEOZIhOSdRCb8yh41g=="
+secured: "WkrO+zjEfCqPVDHoz/wdiUKkyL2Rf86DHPtIzZ2vPyhCncXxZG1RtWHgHJtIYil2LZj4WVCjIkPPVd7DcWB2lfoKCDSnTJu0oM8hujS8aZsskf7nPj98TsrxlnFcm/tNdqu0ubIPu9MX6bZ49P3gYuITTY97KM9COrrTgkSzyLwksPBQEHs14ZnQBhZjcd7v0cPp5U4fXL5GHvgJBg5mh0GlBSHM+SP0GfXCx+KgJc4WeBOu+6f+iNzf9X3+lPsSN/FzW322GQ+dUReg5J5+YL+5EWtg/GLoUxPo5uTtEZQwciE9d1/QhZ7ytuPHjN6ADjTM3qv4Sema5dmxLgWeEhLajrjFMd7FVTbWh6bXMKk=;jrBHs4soG0Yqtu010OXXfg=="
 ---
 

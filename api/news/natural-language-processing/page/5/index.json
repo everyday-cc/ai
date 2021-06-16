@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-30-speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio.md",
+      "title": "Speech Recognition Market including top key players Nuance, Microsoft, Agnitio",
+      "excerpt": "The study provides company profiling, product picture and specifications, sales, market share and contact information of key manufacturers of Speech Recognition Market, some of them listed here are Nuance,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
+      "originalUrl": "https://ksusentinel.com/2021/04/30/speech-recognition-market-including-top-key-players-nuance-microsoft-agnitio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Speech-Recognition-Market.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-how-your-voice-can-help-spot-fraud.md",
+      "title": "How Your Voice Can Help Spot Fraud",
+      "excerpt": "It’s a newish field,” said Nigel Cannings, CTO and founder of Intelligent Voice. “We’re trying to detect fraud using indicators of deception.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b689bd48145be176050b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1106%26cropY1%3D89%26cropY2%3D628",
+          "width": 1106,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/30/how-your-voice-can-help-spot-fraud/amp/",
+      "publishedDateTime": "2021-04-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-6-tips-for-expanding-your-smb-internationally.md",
       "title": "6 tips for expanding your SMB internationally",
       "excerpt": "Virk predicts that the need for human translators will increase as more content is produced from AI translation engines. Heather Shoemaker, CEO of Language I/O, explained how to make ...",

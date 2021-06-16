@@ -137,21 +137,21 @@ related:
         width: 2811
         height: 1582
         isCached: true
-  - title: "US Lawmakers Introduce Bicameral Legislation To Ban Use Of Facial Recognition Tech By Govt"
-    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools,"
-    publishedDateTime: 2021-06-16T06:47:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
+  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
+    excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
+    publishedDateTime: 2021-06-16T08:48:00Z
+    webUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+    ampWebUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 49
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg"
-        width: 768
-        height: 439
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_784798353.jpg"
+        width: 723
+        height: 482
         isCached: true
   - title: "Automotive Voice Recognition System Market Sales and Revenue by Companies, Regions, Type and Application till 2027 | ARC"
     excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."

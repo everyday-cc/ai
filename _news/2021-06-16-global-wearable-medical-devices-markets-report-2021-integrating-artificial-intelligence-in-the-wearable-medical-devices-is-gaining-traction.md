@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
-excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-publishedDateTime: 2021-06-15T19:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21576113/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wea"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21576113/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wea"
-ampWebUrl: "https://www.benzinga.com/amp/content/21576113"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21576113"
+excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
+publishedDateTime: 2021-06-15T19:37:00Z
+originalUrl: "https://www.lelezard.com/en/news-19858090.html"
+webUrl: "https://www.lelezard.com/en/news-19858090.html"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
@@ -30,7 +34,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
-secured: "mr0z8wbJJD/9IC+G376Zr5LqbwTcmSZ23VfVUD/If0mHu81umGk4u3qef4s1rfaKWBh5Q/Q/xLtVDbqr0IjxPr4i5cZs0C7y7oqEG67hU3r6iFeCfQxuJ4M00QaNBjm1BHM545tgZn43N8Q2KMkD19B3mB4y1kRm++/4D/N3cnaug9J6b6rm06DL6Xqb8oXwUStwhH9FF0dTUNAA85+RbmgJ/b/06ASIZWoh4FFMUw7NUjz/KF0+k9wxKD4jO7zc0jQcKTxKqUJRG0HSQ3+wdSvk7pQ4mAlCnvdXMz9h2eU5EQj5DfUK3bOvvUt+cpEJUhI3OAtM5Dlh3ji0pvVUyFmh/C4FFPgeKtjvS+ukK40=;UWvJVBtRtFPplPdGCl7fjQ=="
+secured: "rJsdtpZnfGrh6CVOxUEceN8/7OB+T/X/cl47ch1DNEDyyy+7TpB/NQu00nmDiypYGV9y4DjK1ZU5+5cFy10SL2rmCC2hYARlATfvJgIwnnEpndZ3pqjgGdkB2tdhfbL0/v6IyGDa68x8m2hDysbSoeZAkUr//OmbL64PXuwb3KiS+0RGkvC7WhQ2gmgBQaJbk2qFqPHn/pzHL7uiAkH6MUZ/D4mziftKEOTQDgJG8jDg7/ukrJBADmYcI+tLG5mGMm/0FRn1shlJtYFsIBIXT64a8PeMBZoxfFhJQQnYNMYYx59eSgxR0Y94LyTn62ALCBQ8a985KvDmpuo+5VE+vGbAHFumm4rTqp5rJ8T7ZMI=;YrY6hL66W+161krpKhlEig=="
 ---
 

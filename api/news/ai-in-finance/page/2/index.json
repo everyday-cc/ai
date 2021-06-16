@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
+      "title": "AI Removes Friction From Challenger Bank Onboarding",
+      "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "originalUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/biometrics-AI-banking-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
+      "publishedDateTime": "2021-05-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-baker-mckenzie-creates-data-and-machine-learning-team-deepening-ai-partnership.md",
       "title": "Baker McKenzie creates data and machine learning team, deepening AI partnership",
       "excerpt": "Building on a pilot partnership with an artificial intelligence company it launched last year, Baker McKenzie is upping its bet that machine ... serves the financial services, insurance ...",
@@ -1289,49 +1332,6 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
-      "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
-      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
-      "originalUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

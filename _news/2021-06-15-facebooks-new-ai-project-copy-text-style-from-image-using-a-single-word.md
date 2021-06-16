@@ -115,15 +115,6 @@ related:
         width: 965
         height: 543
         isCached: true
-  - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
-    excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
-    publishedDateTime: 2021-06-11T16:08:00Z
-    webUrl: "https://www.publicnow.com/view/FADABB81DD2E53EA62DBA9553AFA53CB1EE4A8E1"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 21
 
 secured: "XYUHemVIThGzu8YxcddsBLSs1rOtvLgLO3zD5O0NnopSIbdF9jsQeAwDn/g9F2TutoPHR1cmxuariDYO/z5rUZ4nalnBURvetYZX9xEJQ0ql//od4MgRVBLTOljxfDjKzD3WJizlQNMMPhvg7ZSAwN3euGwX6WHiuh6aj5I0QU/7vYcmhe93hiT4kLkJnwP+g18+cJj1wkOJGn0v2W1lfhtAA0DGybjT5dNCNdUlWw2IinYVFdbyjeqRYjMvg5agMmcE/cfLlJB6djXHNsm3qmIVpzR+mPq/jm6AKr9j5IH7CLwIkxU9Z9t1aSczDAjHlWZc0cKC4YxxVRBhKeeeHIqAXMmUVun7wMtzJpcfQlyU1UCysA7bJgAWEVqsXrYdGuWUDmGmThYS3i24CqmszLqdTA+fYAmiXpTUFMBFegqenuul6JXBWXgTfeZNpn2vkQKVgqoWXrOGUJ3nWC2M+mSTtnPF/4xhkKl2eSLNvCVZZuMLCSlJWqfDdm4ETzcRgbYz2+QQ4eZfpbtbZ/yypQ==;+QdiY5sc6pOCCv9Ly/FJyg=="
 ---

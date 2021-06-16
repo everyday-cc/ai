@@ -150,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-15-transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102.md",
+      "title": "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2",
+      "excerpt": "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for t",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg",
+          "width": 400,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-heres-how-ai-can-determine-the-taste-of-coffee-beans.md",
       "title": "Here’s How AI Can Determine The Taste Of Coffee Beans",
       "excerpt": "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor.",
@@ -262,7 +314,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -348,6 +400,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-rws-announces-revival-of-language-weaver-brand.md",
+      "title": "RWS Announces Revival of Language Weaver Brand",
+      "excerpt": "CHALFONT SAINT PETER, England–(BUSINESS WIRE)–RWS, the world’s leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
+      "originalUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/rws-announces-revival-of-language-weaver-brand/amp/",
+      "publishedDateTime": "2021-06-09T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1311,104 +1406,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
-      "title": "NVIDIA pivots to AI for enterprises",
-      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
-          "width": 1124,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "publishedDateTime": "2021-06-02T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-use-amazon-translate-in-amazon-sagemaker-notebooks.md",
-      "title": "Use Amazon Translate in Amazon SageMaker Notebooks",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-translate-in-amazon-sagemaker-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T12:45:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -115,15 +115,6 @@ related:
         width: 965
         height: 543
         isCached: true
-  - title: "AI Can Now Copy Text Style in Images Using Just a Single Word"
-    excerpt: "We're introducing TextStyleBrush, an AI research project that can copy the style of text in a photo using just a single word. With this AI model, you can edit and replace text in images. Unlike most AI systems that can do this for well-defined,"
-    publishedDateTime: 2021-06-11T16:08:00Z
-    webUrl: "https://www.publicnow.com/view/FADABB81DD2E53EA62DBA9553AFA53CB1EE4A8E1"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 21
 
 secured: "dxdPrfYzuhHKDdj+Rv+b0wdFkD3lq+MvjIjYkGXMi5kbok+TIwrarc7UnslGrcTelp4x2WG8SXgnXKQaUalJ+X66AQBH4/RmENIrBfXAIfGDJZGXgPr6cxaY1tRvwM630ZOpiDBqM0I+xeI5CeCyU5nX5y58I9vdmpbyoirrFfYqhhpCmZVf4M99+wjFsGlAkaDlY8itvxeJh0iqAzrSfxwzm9vRLVc0/ZE6XFRIDRszsM79SzMjtF37VZfP+fXXGnDRMZ9G+zgAUVZyDnWJNLvrFQBznLIgOvLKmbcyXXOouoWCOJYPhE5v240yU5RQtfHdgY7EWofmic8pMeNT8gQlj8tlDsMVqaNqiLibaXhUW3SwzxO3ljnuPZ1jOiscnCu1EsWFC2SOzHJ5Hi+kuxLg0kNOvt+b1rIOWuIWMD6qShdnOw1PKdHo6K2ptb5sRMBIRfO/29aaEYOMLRZmdkqThb9vk2CK8XSmdZ5mHE6Rc3QWbgmHO4nZDY8cNBtKItoSHjUyWLIV0qUs8/JDzQ==;jeAlKg1KeOacsmoXnOg8mQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1240
         height: 780
         isCached: true
+  - title: "Telexistence Closes $20M Series A-2 Financing"
+    excerpt: "Telexistence, Inc., a Tokyo, Japan-based innovator in remote-controlled robotics with artificial intelligence, closed a $20M Series A-2 financing"
+    publishedDateTime: 2021-06-16T09:00:00Z
+    webUrl: "https://www.finsmes.com/2021/06/telexistence-closes-20m-series-a-2-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/06/Telexistence-002.jpg"
+        width: 1229
+        height: 689
+        isCached: true
 
 secured: "/mJtxHsGd8Le8UJLq8X1Q8x+f/Z0S+oaBxS+RcKX2AYVsmJj0Qw08j9BWoRNzT1D5LvHRQvIStXPEDNBwEILrZ82ksE2DdieIZd8ATNptESU9K/H+eoI0K/OexD1vwN1joeYdQPM9t4TPKYtaqGdogHhGMhBMRquCP04W8FoNUn189TV83FaWzRuMob6rwwdHnJr1/mW0uAl2Ojq0VKEk3uvRHwaNgQ7rL/bDqiyAzlhYFvUxEHIJxEi4tWhF2vDwkilFuQwO1TXWzSYHc3gBaTN/QDIk+b2D5E8hIrP5LiPWQE7D7YU8K1LAdpdmQqh2Ns2fLTQw/IxXkru87finiEU5Vv1fhrFS0316FN3CIDQ6qDMIvvS9WrBIlrEoiRNyhQ2QuADx6qD09xjRq9/7eVZ3Ad5smDUsYdyR0yeZNW9FriwZRfIu/9MB0oR0UGZ4M7Y4dGWRSIrC4bvGjlWwVaWt3bD14gUZn1Iw8d5EhYmmyhRgyQApJLBeUuCl8RYFrx9HELV/6ijJwLA9HR7aA==;+RLke3NOwZPfQI3I+dptfQ=="
 ---

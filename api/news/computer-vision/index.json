@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-16-trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out.md",
+      "title": "Trigo bags $10M for its computer-vision based checkout tech to rival Amazon’s ‘Just Walk Out’",
+      "excerpt": "While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a customer.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
+      "originalUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Caption_-REWEs-cashierless-checkout-store-in-downtown-Cologne-Germany.-Credit_-REWE.jpeg?w=1024",
+          "width": 1024,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
+      "publishedDateTime": "2021-06-16T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-democrats-reintroduce-bill-to-ban-government-use-of-facial-recognition.md",
       "title": "Democrats reintroduce bill to ban government use of facial recognition",
       "excerpt": "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday.",
@@ -202,49 +254,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-12-king-county-councils-ban-of-facial-recognition-technology-is-misguided.md",
-      "title": "King County Council’s ban of facial recognition technology is ‘misguided’",
-      "excerpt": "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/",
-      "originalUrl": "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg",
-          "width": 620,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/",
-      "publishedDateTime": "2021-06-12T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-12-deepmind-researchers-say-reinforcement-learning-is-the-key-to-cracking-general-ai.md",
       "title": "DeepMind researchers say reinforcement learning is the key to cracking general AI",
       "excerpt": "DeepMind scientist suggest that reward maximization and trial-and-error experience are enough to lead to the development of artificial general intelligence.",
@@ -295,6 +304,49 @@
         "Google AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1319,49 +1371,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-field-deployable-computer-vision-wood-identification-of-peruvian-timbers.md",
-      "title": "Field-Deployable Computer Vision Wood Identification of Peruvian Timbers",
-      "excerpt": "Illegal logging is a major threat to forests in Peru, in the Amazon more broadly, and in the tropics globally. In Peru alone, more than two thirds of logging concessions showed unauthorized tree harvesting in natural protected areas and indigenous territories,",
-      "sourceUrl": null,
-      "webUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
-      "originalUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.frontiersin.org/files/MyHome%20Article%20Library/647515/647515_Thumb_400.jpg",
-          "width": 400,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Frontiers",
-        "domain": "frontiersin.org",
         "images": null,
         "publishers": null,
         "authors": null

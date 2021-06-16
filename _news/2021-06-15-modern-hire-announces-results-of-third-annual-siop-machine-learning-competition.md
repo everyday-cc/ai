@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Modern Hire Announces Results of Third Annual SIOP Machine Learning Competition"
-excerpt: "Modern Hire, a science-based hiring platform that enables organizations to continuously improve hiring experiences and outcomes with trusted science and technology, today revealed the winners of the third annual Society for Industrial and Organizational Psychology (SIOP) Machine Learning Competition,"
-publishedDateTime: 2021-06-15T11:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-modern-hire-announces-results-third-annual-siop-machine-/2021/06/15/9390196.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-modern-hire-announces-results-third-annual-siop-machine-/2021/06/15/9390196.htm"
+excerpt: "Modern Hire, a science-based hiring platform that enables organizations to continuously improve hiring experiences and outcomes with trusted science and technology, today revealed the winners of the third annual Society for Industrial"
+publishedDateTime: 2021-06-15T11:25:00Z
+originalUrl: "https://www.lelezard.com/en/news-19855838.html"
+webUrl: "https://www.lelezard.com/en/news-19855838.html"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1002767/Modern_Hire_Logo.jpg"
-    width: 400
-    height: 216
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "osd0BhnHHocTkAe5llPgfLE+qyWQHoGVr5MhKXo0jOB89ezk3sXAJlo7MOV+IfdnTP7JBQP/acS8kuLpEqhdWvgxj9EzwciS0QXXAaKtNp7VjJ6RxUJmF/ZLEs9ZfYE9NZcFIjmD3N8ukOHS9PxPxV0u4QqbyWFKCCL227ZqN4kLjEeExJhRyw5VA0KY/CH/cbl2Z/3LdUha1WOTSjioZV+q2/HuYRu8OFZR/CStSmq1p6W9hXeBtDcnBJ43+4+SnoHXBAzi6BfBt9eo/mW7Oxb+sXP1Zdr+UYBp08fEH7SEeNuMmSCPaVp0M7McN6VHMZYWmmBOPzI1N7fRjb2b48g/OHtH7LuVptABCAmCIis=;7eKJvOYn8/wcBpNHV+8oDQ=="
+secured: "EP/Bzh4x1rQeyQgOjwY4uCp89rdCUE1WJ7MjVILmc3WO76S+9MBVZ8t2NOT4DxsMSefQJkYMZx1PdIY0z6IKgrivS1wJgQbHyjKMWOW71Dmmt6oFJtQ0QRFdXqGavhoGqTJMaiP4M7YAIM6Fon38z2AtXozdJ9VK2CKb20KzsGYljBWS0k1ltzMUVzwylOCZF4dur3zzDp7aV9dfZiPwYsjstCsiUKWs9Mjp5ImQ06x7aqN1sApX7feY7V3m4IlNZ5SosOBr/+AlSPQ2XzfTbpCV7rrxznL++sOukJT2gwJO5XICH5QppTov8Xf374QY5xPqxkkcEguTojOERTsS/Wn0kPiFpxP2uC8prCiSMSQ=;JJDsr8YL19P73s/VflL0wQ=="
 ---
 

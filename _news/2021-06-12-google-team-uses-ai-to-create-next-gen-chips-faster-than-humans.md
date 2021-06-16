@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/google-team-us
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
 type: article
 quality: 74
-heat: 174
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google team creates next-gen chips using AI"
+    excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
+    publishedDateTime: 2021-06-12T14:44:00Z
+    webUrl: "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695"
+    ampWebUrl: "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
+    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
+    type: article
+    provider:
+      name: Madhyamam
+      domain: madhyamam.com
+    quality: 74
+    images:
+      - url: "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg"
+        width: 400
+        height: 248
+        isCached: true
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
     publishedDateTime: 2021-06-12T18:46:00Z
@@ -107,36 +123,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "A Google AI Designed a Computer Chip as Well as a Human Engineer—But Much Faster"
-    excerpt: "The team trained their agent with over 10,000 chip floorplans. With that library of knowledge, the agent could then explore various alternatives."
-    publishedDateTime: 2021-06-15T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/"
-    ampWebUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 69
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/06/google-AI-computer-chip.jpg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "Google’s AI Designs AI Chips Better Than Human Engineers"
-    excerpt: "Google has proven that it uses AI algorithms to design AI chips. It takes 6 hours instead of a few months if people do."
-    publishedDateTime: 2021-06-11T16:46:00Z
-    webUrl: "https://www.gizchina.com/2021/06/11/googles-ai-designs-ai-chips-better-than-human-engineers/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 54
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/06/googleAI-1280x720-1-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google AI team creates next-gen chips faster than humans"
     excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation Artificial-Intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
     publishedDateTime: 2021-06-12T11:57:00Z
@@ -178,6 +164,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
         width: 700
         height: 535
+        isCached: true
+  - title: "Artists use artificial intelligence to bring their creations to life"
+    excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
+    publishedDateTime: 2021-06-12T13:13:00Z
+    webUrl: "https://www.cbsnews.com/video/artists-use-artificial-intelligence-to-bring-their-creations-to-life/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/12/637b96f2-baff-40c9-8a3e-e52cc3d25007/thumbnail/1200x630/9a0e4a50d7bf6eb0ce3ece37e29a0481/0612-satmo-aiart-slivabraga-733346-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cSdI0G99Wu29BmYSi/cf+bEmEI5mS9V0NnftXZvofllk/PH6RPfxy3Ik5aC191vJG++HI/DcliF2JY8sLCdo53wUCU+SJ3fQR8SkSfEE8Ric0Pr3WeBN8aAr09LZ1ysebKzWLmXtObww2vlrAmD/o+fyf6eFfNmX1xHq6g7zB7olf+2uxQERK3OZ9tM6n86DUXrVZ3xlvkvUWlzAFGhX0mMKvMKVKoM+ZOqG+AjzcTDlAlj3XTjLOUQErJhfBf5Be2yoQgN1Y6zTS0tKOT/MmXe1Lhj2ut3MH9t+xnOHpNNh0eW4r3eZwWztfF865MvTqnokCU+iV2vSJ8qmkSncH7b/GPKGm8GM2FC3AlSbKhi5KxKF48ltl4v0EcjSU7UnvCEJR5uspzF2u8DxZjaeh+UchNgK7oMq9VOoYUPRgHka+SLC3rLGGMqTcaorH6t0PMmDJPRlQ26cOd1QwIMAfMrhE94caffa2kIPlb+zmAU6bMjKd08EFDi7NkMlWEX5DO2ldCQUi89DE69vbiZrTQ==;jV49YbNlNykpIjSaabR3CA=="

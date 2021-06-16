@@ -1,29 +1,29 @@
 ---
 category: news
-title: "US Lawmakers Introduce Bicameral Legislation To Ban Use Of Facial Recognition Tech By Govt"
-excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools,"
-publishedDateTime: 2021-06-16T06:47:00Z
-originalUrl: "https://www.republicworld.com/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
-webUrl: "https://www.republicworld.com/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
-ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
-cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt.html"
+title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
+excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
+publishedDateTime: 2021-06-16T08:48:00Z
+originalUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+webUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+ampWebUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: RepublicWorld
-  domain: republicworld.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg"
-    width: 768
-    height: 439
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_784798353.jpg"
+    width: 723
+    height: 482
     isCached: true
 
 related:
@@ -210,6 +210,6 @@ related:
         height: 600
         isCached: true
 
-secured: "alF3rI2OK+9I5R5FQNPigot+3QFJ1XWJNnJaeuozYkrCTJZBOl+S//o9SqGAbS2+S+3jH+sTtAjzJay1F1rWbqN412lkp79WNiPvsFIY1/7gxZvg3KuvWvQe2yHgraY3k+IEz3UEcdtbqUbSls2AmS0LdJKhkYKXY72atrWYuVkmXh6tvvWfZgbjKTtL+sAMD3AVSeCOlXMlh9k5gXk1lSgfOxY1GK+tmsIHh61sLKK9aNBXQsjr9kTQ+GE9k/Jwpogcdd6yqxUcfMJBP7HV5uuWFjnutUkEol4raHuqmjvNdOHBvScw2V9TtagBZtosFwnWabFb1xpTTURNAjzhQXsURbjYlISMY0ggt2seZog=;H0aQ0HYKo9V3U4ti0jr5uA=="
+secured: "Yau4oYyOFLhOzi0enHj44OKOy6Qg51WVPFSFltITh2hpoeDVv7MvVUNBk1Kqe89rkVlUo0P9byCUlQmDvazoW4CLGHgB0UXQ/Mmc7ZJdQon7cVxHYPO7s0BQwisIfEZvTSaUY7OkK3swnPDg+alDqID/jHaXuO2Kmm3sEhYpKBzbPNNEjQOhn3XzAlMPWUEBsjMHjDvnyVh37iBC5bOlLW78eiW6szHkPyaKP8A+2759ILg/WUatLE05iIJ01oosd9U8GCSjHx1Mb/wnHNtkcbpCguvcit7I1PXysd7ksjvFfJ4nirnPelWy0fletq22AeWUqsdJE4dng8Z/K8GOiXuRA93NU1TdIVFAFCJWXTs=;9eZK0tQRgk4Tn2XnySC+wg=="
 ---
 

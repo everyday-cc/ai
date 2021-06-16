@@ -1220,33 +1220,24 @@
     {
       "path": "_news/2021-06-03-digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin.md",
       "title": "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin",
-      "excerpt": "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,",
+      "excerpt": "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21404950/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21404950/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platform",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/483540/Digital_Realty_Trust_Logo.jpg",
-          "width": 400,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:36:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21404950",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21404950",
+      "publishedDateTime": "2021-06-03T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

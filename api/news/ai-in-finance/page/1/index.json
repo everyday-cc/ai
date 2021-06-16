@@ -691,10 +691,10 @@
     {
       "path": "_news/2021-06-03-even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial-services-marketplace.md",
       "title": "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace",
-      "excerpt": "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the company's personal loan products on the Even platform.",
+      "excerpt": "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/02/9382822.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -704,11 +704,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T15:40:00-07:00",
+      "publishedDateTime": "2021-06-02T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -904,6 +904,41 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-potential-impact-of-machine-learning-in-financial-world.md",
+      "title": "Potential impact of Machine Learning in financial world",
+      "excerpt": "Machine learning cab be used to design and understand ... and thirdly helping to be in threshold limits to comply the financial laid guidelines. Rome was not made in a day, but it will be made ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/20409/potential-impact-of-machine-learning-in-financial-world",
+      "originalUrl": "https://www.finextra.com/blogposting/20409/potential-impact-of-machine-learning-in-financial-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1328,49 +1363,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-removes-friction-from-challenger-bank-onboarding.md",
-      "title": "AI Removes Friction From Challenger Bank Onboarding",
-      "excerpt": "The Tracker explores how biometrics, behavioral analytics and IP address verification can help confirm user identities, smooth onboarding and prevent fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
-      "originalUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/05/biometrics-AI-banking-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/artificial-intelligence-removes-friction-challenger-bank-onboarding/amp/",
-      "publishedDateTime": "2021-05-25T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

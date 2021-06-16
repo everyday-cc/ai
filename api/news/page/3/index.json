@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-13-amazon-offers-online-course-in-machine-learning.md",
+      "title": "Amazon Offers Online Course in Machine Learning",
+      "excerpt": "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "originalUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
+      "publishedDateTime": "2021-06-13T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-13-mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired.md",
+      "title": "Mojo Vision’s Smart Contact Lens Could Be Transformative For Sight Impaired",
+      "excerpt": "Mojo Vision, a California-based startup, is developing an electronic contact lens that can digitally enhance what the wearer sees. The company intends for Mojo Lens’ initial application to be as an assistive device to help people with sight impairments see the world in an entirely new way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c52a1420ff18bf417d3713%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
+      "publishedDateTime": "2021-06-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
       "title": "What Waabi’s launch means for the self-driving car industry",
       "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
@@ -210,64 +305,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-12-king-county-councils-ban-of-facial-recognition-technology-is-misguided.md",
-      "title": "King County Council’s ban of facial recognition technology is ‘misguided’",
-      "excerpt": "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence.",
+      "path": "_news/2021-06-12-google-team-creates-next-gen-chips-using-ai.md",
+      "title": "Google team creates next-gen chips using AI",
+      "excerpt": "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial",
       "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/",
-      "originalUrl": "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg",
-          "width": 620,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/",
-      "publishedDateTime": "2021-06-12T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
-      "title": "Google team uses AI to create next-gen chips faster than humans",
-      "excerpt": "To achieve this, the Google team used a dataset of 10,000 chip layouts for a machine-learning model, which was then trained with reinforcement learnin..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
+      "webUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
+      "originalUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
       "featuredContent": null,
       "highlight": null,
       "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83463614,imgsize-318247,width-800,height-434,overlay-ettelecom/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.jpg",
-          "width": 800,
-          "height": 434,
+          "url": "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg",
+          "width": 400,
+          "height": 248,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -275,13 +327,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614",
-      "publishedDateTime": "2021-06-12T08:09:00-07:00",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
+      "publishedDateTime": "2021-06-12T07:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -543,49 +595,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree.md",
-      "title": "University of Toronto deep learning pioneer Geoffrey Hinton receives honorary degree",
-      "excerpt": "When you translate a sentence using Google, or ask Siri to send a text, or play a song recommended by Spotify, you are using a technology that owes much to the innovative research of Geoffrey Hinton.T",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-toronto-deep-learning-pioneer-geoffrey-hinton-receives-honorary-degree/",
-      "publishedDateTime": "2021-06-11T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1053,7 +1062,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/11/facebooks-ai-can-copy-the-style-of-text-in-photos-from-a-single-word/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1193,21 +1202,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-german-bundestag-passes-new-law-on-supply-chain-ethics.md",
-      "title": "German Bundestag passes new law on supply chain ethics",
-      "excerpt": "The law will require German companies to report human rights or environmental abuses by suppliers. Supporters say it is a milestone, rights groups say it falls short.",
+      "path": "_news/2021-06-11-ai-in-computer-vision-market-worth-513-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),",
       "sourceUrl": null,
-      "webUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "originalUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dw.com/static/stills/images/vdt/2021/beng210611_005_qwilieferweb_01g.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229",
+          "width": 669,
+          "height": 229,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1215,13 +1224,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
-      "publishedDateTime": "2021-06-11T06:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Deutsche Welle",
-        "domain": "dw.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1231,7 +1240,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Computer Vision",
         "AI"
       ]
     }
