@@ -48,7 +48,7 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
         width: 800

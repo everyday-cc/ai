@@ -145,6 +145,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
+    publishedDateTime: 2021-06-16T16:36:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article252157813.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article252157813.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article252157813.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 32
   - title: "Waymo begins self-driving freight trials in Texas"
     excerpt: "Waymo, the autonomous driving wing of Google, has started self-driving testing of freight in Texas with J.B. Hunt Transport Services, a supply chain transportation company based in North America. The test run will use Waymo Via, its autonomous Class 8 ..."
     publishedDateTime: 2021-06-16T12:56:00Z

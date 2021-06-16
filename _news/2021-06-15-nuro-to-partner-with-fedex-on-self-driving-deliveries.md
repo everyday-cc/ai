@@ -127,6 +127,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "FedEx Tests Self-Driving Deliveries With Start-Up Nuro"
+    excerpt: "\"Instead of dispatching a driver to get those packages,\" she explained, \"a device like Nuro could be super helpful.\" The company’s unmanned vehicles are already making deliveries in the Houston area for grocery chain Kroger and Domino’s Pizza."
+    publishedDateTime: 2021-06-16T20:31:00Z
+    webUrl: "https://www.chron.com/business/article/FedEx-Tests-Self-Driving-Deliveries-With-Start-Up-16252442.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/47/10/21131781/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "rQP3gxPJp+kvSdrWtMib/2eKjBaYUqaI9gkQWbdXKrgz6hue6gGZR4t+33Cu0dtc30qZueGt45rohmt452Dl4WkalJXyUJLDFTOGq8ZG7XLv7+YbEs8TJewHXesSZ7IlVCNspRvk07V10eHeCMGLGTwSeHpyBsw2gua9tTELcp5UY0fIvPt2wIGRwJ3feU+7vOrfYY4c+28W8mz3u2v+SPvAyIqlRa1TvZC52nnB/30pBxuVHunqZYA5jeMtj3QuNz7Ntv0K381h4eTggzjW12RFgLCv2mNeHdIVm/oa8R3O1oF0IkVzfsg/oHvxAOqoIaUDwJ50SbWu0osLcyyuee5FbLuzdS1WpJV0apCGhESKiHrXpDztv35P01oka3r8rmWLw8GCxg8nFYJ9c9uT/mu1xyu6JoLIQMrCJ/pTUhnqlt8SPNF2MYtMcAuIa/6xsrZxy1LJs+7Ge+HJb1c56putkQy75J0/9lj4P1n6hW/joXvPD1NY3oucN3r98Rn4+QnFd0tgzBjJT+52nl+YOg==;bnMga30me7sgCACbIuPafg=="
 ---

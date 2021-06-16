@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Halo Infinite: Who is the new Cortana-like AI companion?"
+    excerpt: "The Halo Infinite trailer at Xbox E3 2021 introduced us to The Weapon, a brand new AI that looks and sounds a whole lot like Cortana, yet is noticeably different in a few major ways. Who is this character and where did she come from?"
+    publishedDateTime: 2021-06-16T19:52:00Z
+    webUrl: "https://www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion"
+    ampWebUrl: "https://www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/06/chief-and-weapon-pic.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "4pc6TZUZsRum9Cv4S4ggybRtttLThTU6fdk1tcSlvWxflh1cx7R/RNFtFlStlzlc8wb/hHkY+BOOJ57N5JRWEA9bWdY96HVuhiqe5owZBYD2qJx2to55b0xGNx0o9LpxGe9lJIVLj+vwG95D0FPdbZjAiD4c3ZM9E/EUfv+qKM6FdLWB3yvkJ/Ai9GiKYeoUj0diqhQIRiHJQnGAegPLFjCTdr8NaAy+lnguB/lMFxs3Mkc5+JI7gUv0nfm+4JMqPKEmJ2tWvZ9+GeDrwChw65gqxxB48681zi848m9L+tJ4kiE7LrQayEFyomILIL91YhcOzjmGr58oUUkUia+ASL4tyRlF6viubaZ9nopuqe4=;rAz7TTV9877bNRkVA0i2lg=="
 ---

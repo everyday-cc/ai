@@ -137,6 +137,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
+    publishedDateTime: 2021-06-16T16:36:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article252157813.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article252157813.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article252157813.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 32
   - title: "Hyundai Motor chief tests self-driving during US visit"
     excerpt: "Chung tested a self-driving Ioniq 5 electric vehicle during his visit to Motional’s Boston headquarters and discussed ways to expand the partnership with its senior executives, Hyundai Motor said. The chairman made his first visit to Motional since ..."
     publishedDateTime: 2021-06-16T09:40:00Z
@@ -156,6 +167,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "NEaLk/j1erKQ2+uycbmPsFIwfjxybvl/DxzajSf/nnG7JEcmyhXhS4Yzp668F51xxXqR2PPbG5U9/1V/g+jJRx0S0Jxc6792O1QkGzp5nPUdMwO3nmw1PtE8qOaUomve+uJtnW5Qbhk3NNsT8ZZZL1+HybINMj0LZQXzhnylMQyVR3q4TEn5l3Clee117Dz0N13n7Aw0XsV/7jP+KiPCnYa9U45h3+YUnhUqz1G2DPPMYAEx6X37ZXQkPrlUzk/LMImOrPkiJRQvQcMNi2Ne0lNxEEB8bDO6MnSYHmYEAkCrbDTHUjdNI4jWHzctzWn4JeN7+z+x76cl77Ur8FBaHT1Yt3yWQvY1el9d4crtIY0=;ll9lc50ipQdxxq97nhDjrA=="
+secured: "A3mfbs5HC75LiDZQcIv7oWCfdes03FDL+9PjGAAfUKZNLjt+/sv2V+1CTuVAM1Z8YgPsi5iYEqHxxG9ToFozcyfnPzYhEejC2OOyZg0DGVbUJvtGxkgL1vh8RdW0hnBSe9pTNG/85ieV7J7w0Kk52IJN2sCDS+UvRoSZLgLeyTGGm2+sb+x/q6BZZD0iGViT0DAMFiPnjUOieXJnkTbHDXRhjkszw8HFCq1aalqwsw26c6mlwvl1ZTu73YuVo22WZyM0VO5LPfKlmMIxYjVpwq3PHulw4YA2zu8ObEkKMGJL4i11lawz1RlP28wrHvLdcrwMcHwMHhxmgmXbUG1OfzThnu4FrpU53nefcVBiLkoVqmmXidpNzL0Wh1RYkAVYiRlhfEQsoj2DZVvI/apGPvh4xFRxR6y5pqWbCZNL/5IQUH+pzOSPZdFaW+q/3yYZiAkfnH3XmpWlBmYpMvlZf7xtn2r/oAv/bIX61jQThY+Y/KX0ymNUQAKUcMhdGvRHW9AxKYSbOAwca/UGNi3Xsg==;FUI2zSup718u4PmU0HXbTw=="
 ---
 

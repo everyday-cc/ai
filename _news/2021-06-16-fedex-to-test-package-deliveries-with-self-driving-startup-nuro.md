@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DR1F9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DR1F9"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2021/06/FedExNuro.jpg?fit=1000%2C666&quality=98&ssl=1"
         width: 1000
         height: 666
+        isCached: true
+  - title: "FedEx Tests Self-Driving Deliveries With Start-Up Nuro"
+    excerpt: "\"Instead of dispatching a driver to get those packages,\" she explained, \"a device like Nuro could be super helpful.\" The company’s unmanned vehicles are already making deliveries in the Houston area for grocery chain Kroger and Domino’s Pizza."
+    publishedDateTime: 2021-06-16T20:31:00Z
+    webUrl: "https://www.chron.com/business/article/FedEx-Tests-Self-Driving-Deliveries-With-Start-Up-16252442.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/47/10/21131781/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Nuro to partner with FedEx on self-driving deliveries"
     excerpt: "Nuro Inc. signed a multi-year agreement with FedEx Corp. to test its self-driving vehicles in the package delivery company’s network. #siliconvalley"

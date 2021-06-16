@@ -9,8 +9,8 @@ ampWebUrl: "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortan
 cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Den Of Geek
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Halo Infinite: Who is the new Cortana-like AI companion?"
+    excerpt: "The Halo Infinite trailer at Xbox E3 2021 introduced us to The Weapon, a brand new AI that looks and sounds a whole lot like Cortana, yet is noticeably different in a few major ways. Who is this character and where did she come from?"
+    publishedDateTime: 2021-06-16T19:52:00Z
+    webUrl: "https://www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion"
+    ampWebUrl: "https://www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/06/chief-and-weapon-pic.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Who Is That Mystery AI In The E3 2021 Halo Infinite Trailer"
     excerpt: "She resembles Cortana but it's not her. So who is it? During the E3 2021 Xbox & Bethesda Showcase, we finally got to see new footage of Halo Infinite. And while we were picking out jaws off the ground,"
     publishedDateTime: 2021-06-14T19:02:00Z

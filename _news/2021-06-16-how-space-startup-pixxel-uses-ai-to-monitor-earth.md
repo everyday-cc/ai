@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-16T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-space-startup-pixxel-uses-ai-to-monitor-earth/"
 webUrl: "https://analyticsindiamag.com/how-space-startup-pixxel-uses-ai-to-monitor-earth/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/pIXXEL.jpg"

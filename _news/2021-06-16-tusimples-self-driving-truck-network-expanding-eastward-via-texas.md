@@ -23,22 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving tech company testing autonomous big rigs across North Texas roads"
-    excerpt: "FORT WORTH, Texas - If you’re driving the Houston-Fort Worth corridor, you may soon share the road with driverless semis. That’s the goal of a company new to the North Texas landscape. Open roads, decent weather and an established logistics hub and supportive lawmakers are ripe conditions for the autonomous vehicle industry — especially autonomous big rigs."
-    publishedDateTime: 2021-06-15T22:35:00Z
-    webUrl: "https://www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads"
-    ampWebUrl: "https://www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads.amp"
+  - title: "TuSimple Stock: The Driverless Truck Stock That Counts NVIDIA and Cathie Wood as Investors"
+    excerpt: "We're going to take a look at TuSimple (NASDAQ:TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15."
+    publishedDateTime: 2021-06-16T15:00:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
     type: article
     provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 40
+      name: The Motley Fool
+      domain: fool.com
+    quality: 79
     images:
-      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/06/932/470/596-530P-TZ_AUTONOMOUS-TRUCKING_00.00.08.20.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630573%2Ftsp-stock-tusimple-stock-driverless-vehicle-stocks-autonomous-truck-stocks-ev-stocks-nvda-stock-cathie-wood-stocks-is-tsp-stock-a-buy-in-2021-2.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "TSP Stock Blasts Off After TuSimple Sends Self-Driving Truck Across the U.S."
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips TuSimple’s (NASDAQ:TSP) recent rally began when TSP successfully sent"
+    publishedDateTime: 2021-06-14T20:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us-1030521336"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "uLFb6S6F5MqCgQLtlK9PlxbrZjR7HxnlQQGvqK3zMo2IugAtZdJaOPYwwcd8mnnaTJObxn9NlhtabvNKX4QxNsu7UJid5l/bWY5GWWijmWuID3mwMy1XLkkmEmoe9LoF7HGI/deZD5fxuYFeFBkM7q3OswRvVT3KlRnhmGT0vHgddDHlKQpHV9RSCb9itArAZXWMUZxPxLDF8VNdpuit5nk+wflHECbNQWEYSuQlZaU0/sP2XgWJ6q508iNZ19QqODC97MZIeh8fXNEVgwv+rlpjE5MTZVgD1x04ZFQ4BwVR0Ixxvp8WpPR0U2/E1Yc4ltFhz2VoqgjsAMLYKtbb1+xSadlpaWvwyYJU1L7pVyY=;Uj2DXm302Jyx6D4ZyrmsnA=="
 ---

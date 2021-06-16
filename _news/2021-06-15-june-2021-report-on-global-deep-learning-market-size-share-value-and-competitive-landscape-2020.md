@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-glob
 webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-deep-learning-market-size-share-value-and-competitive-landscape-2020-2021-06-15"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1623416872.jpeg"
         width: 2000
         height: 1334
-        isCached: true
-  - title: "Global Machine Learning as a Service Market 2021 Research Objectives, Major Competitor and Strategies Regional Outlook by 2026"
-    excerpt: "MRInsightsbiz has published a new report titled Global Machine Learning as a Service Market Growth Status and Outlook 2021-2026"
-    publishedDateTime: 2021-06-12T04:52:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269855745/global-machine-learning-as-a-service-market-2021-research-objectives-major-competitor-and-strategies-regional-outlook-by-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 13
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623507578758.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"

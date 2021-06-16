@@ -35,7 +35,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
         width: 3065
@@ -193,7 +193,7 @@ related:
     provider:
       name: Security
       domain: securityinfowatch.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
         width: 1200

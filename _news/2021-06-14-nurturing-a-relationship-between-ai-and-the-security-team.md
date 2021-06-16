@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "The future of automation: Robots are coming, but they won’t take your job"
+    excerpt: "This, in a somewhat cyberbolic nutshell, is the biggest immediate threat many fear when it comes to automation: Not a robopocalypse brought on by superintelligence, but rather one that ushers in an age of technological unemployment."
+    publishedDateTime: 2021-06-16T20:50:00Z
+    webUrl: "https://www.digitaltrends.com/features/the-future-of-automation/"
+    ampWebUrl: "https://www.digitaltrends.com/features/the-future-of-automation/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/the-future-of-automation/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/retail-turns-more-and-more-to-machines.jpg"
+        width: 2000
+        height: 1406
+        isCached: true
   - title: "Training next generation of leaders in responsible use of artificial intelligence"
     excerpt: "Artificial intelligence (AI) is transforming our world in powerful ways, from improving medical care and changing the retail landscape to"
     publishedDateTime: 2021-06-16T10:20:00Z

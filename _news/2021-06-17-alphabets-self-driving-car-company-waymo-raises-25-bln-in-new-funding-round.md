@@ -140,6 +140,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
+    publishedDateTime: 2021-06-16T16:36:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article252157813.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article252157813.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article252157813.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 32
   - title: "Hyundai Motor chief tests self-driving during US visit"
     excerpt: "Chung tested a self-driving Ioniq 5 electric vehicle during his visit to Motional’s Boston headquarters and discussed ways to expand the partnership with its senior executives, Hyundai Motor said. The chairman made his first visit to Motional since ..."
     publishedDateTime: 2021-06-16T09:40:00Z

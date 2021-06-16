@@ -29,7 +29,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
         width: 3065
@@ -179,6 +179,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
+  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
+    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
+    publishedDateTime: 2021-06-16T19:04:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 31
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "Privacy commissioners issue draft guidance on police use of facial recognition technology"
     excerpt: "The Office of the Privacy Commissioner of Canada and the provincial and territorial privacy regulators have jointly released draft guidance on the use of facial recognition technology by police agencies so that stakeholders and the public can comment on it."
     publishedDateTime: 2021-06-15T19:40:00Z
@@ -192,20 +206,6 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0382_637593841165545028.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
-    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
-    publishedDateTime: 2021-06-16T19:04:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 29
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 796
         isCached: true
 
 secured: "wSsG3Nxdja6fbXEOadsT9NZhfnG8La3J/PclHaXYMqNl8Zq9TpgN4EHEyVYp+sdtFpElIGkW8l7q4hDsiA+WQ+m0zgOiFniC+VCUh2nKNiKWs/jQpNNlUl/Ta+hXwwBLTuzlLj/oErSC1o119YGbRSI6vcz5/fCIwlsFkrH6/qWF2vpcfnG79rnZrs1JJsxJ3YzUlOS0y4+Ec1JIrLQ2Cz/k/BHbe4CNokJsc+wEA1QlR1cZyWNF7b6HAjpzgPZh2O5XZfifLFPcdpAn1uNIYzi5wE5CzuFSxk8WDxL5zb8lul4MCZymjcNbrlmlnwG9iV5bE5h/qwN+6DifKYH9Dj/riJ3jimT8Htf8WzpaSXBZtdSsX2yntY+YPt2rlp1ivAHNPzOS74Pw23/74UNEKR/wV7gvwIq52Tz3Aq1yKJRNQ4kcufdn/EswBRt0CUkUzWytpzzfC/cDwIGfdzITgS8VVRaULiVhhsNi7sajDPxzFFe0N5wvqu37TGxzTI3LWruRBOBnA8x8JqzZLpqlPw==;zhe4xyh1PQOjWhBO7Ae6ng=="

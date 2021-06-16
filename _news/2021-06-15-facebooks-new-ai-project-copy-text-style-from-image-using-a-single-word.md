@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
 type: article
 quality: 90
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/CTDoFTKpnyaAwYHmSigCQd-480-80.png"
         width: 480
         height: 265
+        isCached: true
+  - title: "Facebook AI can now use just one word to mimic text style from images"
+    excerpt: "Facebook has announced their new AI project TextStyleBrush, a software capable of copying the style of handwritten or printed text in an image using only one word. Users can utilize this model to alter and replace text in photos."
+    publishedDateTime: 2021-06-16T20:09:00Z
+    webUrl: "https://techxplore.com/news/2021-06-facebook-ai-word-mimic-text.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-facebook-ai-word-mimic-text.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-facebook-ai-word-mimic-text.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/facebook-ai-can-now-us.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Facebook AI aims to identify deepfake images and trace their creators"
     excerpt: "Facebook has developed an artificial intelligence that it claims can detect deepfake images and even reverse-engineer them to figure out how they were made and perhaps trace their creators"
