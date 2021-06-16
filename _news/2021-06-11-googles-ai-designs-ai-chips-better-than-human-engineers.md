@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Now Google is using AI to design chips, far faster than human engineers can do the job"
-    excerpt: "Google's AI has revealed a new model that can automate a complex process at the heart of chip design, saving engineers months-worth of work."
-    publishedDateTime: 2021-06-11T07:43:00Z
-    webUrl: "https://www.zdnet.com/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/11/dd66fb7b-7293-4b83-bd1a-bada8989a926/gettyimages-1094304672.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google team creates next-gen chips using AI"
     excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
     publishedDateTime: 2021-06-12T14:44:00Z
@@ -272,16 +256,19 @@ related:
         height: 742
         isCached: true
   - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
-    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-    publishedDateTime: 2021-06-15T19:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21576113/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wea"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21576113"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21576113"
+    excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
+    publishedDateTime: 2021-06-15T19:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19858090.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 19
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "8xAICfWUW5kF6LlcIT8lt9MhjjVT0PdqLK4YTj1aUzGfyaj/ieJUX2PZ9ZlgaTWf/ratf1DeZbUMxXaHu6YwjrSgCs4KCbBXvpa9Pqvsyysu1mfmWHqS7sntZSC4s13qkhOaPmU3TmHcC0n7/EyfeXHNNvixlnz1ta6e37fA6ksEDEnBkgNQ7ziBkeLKIDMAwzUM5XWRU6eSZ0NjlRRbAi9wMN5H0W4AvBuj84WDEHDoaphJPxp1UGfblu5q5sGsQlN2xhEVgg2Ya8zwDhpNiZPsqztLGY+T6uuaaFNGgAg36wKS7fS9YGjHeP8t194IRGM99gwJTAO5um2kugh2hfE9FMHG3z5wBYIQn72ZqIcnoLEQxvlToNFuMg4KixvbqJr0o4ACnLJqSL0hcduPBXlVqjngLKp3Zyvr75YFQZ+UeaNFL2dLsFXMcbuWWHB88IIW/OIOB17Dyw+kjP+gOWeEu/ydTgaiC7K7xNlOYsvF2nvkk2zMXuAwqDxBYMkatjV+5iCiO6PZfkf1HWpG+Q==;vUstTROLtdu3Tz/I3xx1eA=="
 ---

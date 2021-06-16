@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Graphic Processing Unit (GPU) Market Size Worth US$ 198.77 Bn by 2027: Precedence Research"
-    excerpt: "The graphic processing unit (GPU) market, in terms of value, is projected to grow at a healthy CAGR of 33.4% from 2020 to 2027. The market was accounted for US$ 19.82 billion in 2019 and is expected to reach a market size of US$ 198."
-    publishedDateTime: 2021-06-11T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-size-worth-us-19877-bn-by-2027-precedence-research-2021-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
     excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
     publishedDateTime: 2021-06-14T22:02:00Z

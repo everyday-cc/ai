@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/nvidia-to-acquire-high-definition-m
 webUrl: "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Nvidia strengthens self-driving expertise with acquisition of mapping startup DeepMap"
-    excerpt: "Nvidia said it has agreed to buy DeepMap, a startup building high-definition maps for autonomous vehicles, for an undisclosed"
-    publishedDateTime: 2021-06-11T07:09:00Z
-    webUrl: "https://www.telecompaper.com/news/nvidia-strengthens-self-driving-expertise-with-acquisition-of-mapping-startup-deepmap--1386339"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
 secured: "J/L8/bqaM0lp6nWcVHNf4kBvL9Hi3Fnmt6f11xtS869JLU/FthTM8qJw3ZoFhlo0YaJFIkbRy5o/nof2dPqmeHDRBO83VqB2GecvVlNte9bURY/cmPaNWLLarOSg3f+tVIWh9suMurxGaxOKPaj/Rws7nJjPVZYygO/P8+elKQOb/SoFkc7VsVT+j/RvN5IXGh5/wccOx1Ww7Nz6EI95FP5wPMR0aOn7VWVOz90VTfaGzOq2E+aQH12FL33crtH6OnahAb0LT3J02G2GtR4CuOzugpLLPDhHFPZCKrpR5cir86zL6AHgfv7oHB2im3TW4wbNvki3bsiIhXLOw3GURVrnENzZd1cF7cWRZtYUuzg=;zV3uedMtNzibxaMZ9KL4hQ=="
 ---

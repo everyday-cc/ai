@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -90,22 +90,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/ledgermatic-digital-asset-treasurer-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
-    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
-    publishedDateTime: 2021-06-11T08:29:00Z
-    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
     excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
@@ -189,6 +173,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+9iCR8WgTbqgjNBPwHz4HTnXzcyS2aVz3duBV9UYn34dcuaNlE0mQUNwUlGCnmROg9GwgaUGmsI8DLNKGLO1wYeADeZg2l9GMkgipODCDKr2onzGOG1EHtdeuwrtJcU2F/e15evy2q47i6k9IkMdyxD9awOlSmxNN2xZjN7XMvR7PWHaMkjCYkMMslOvbg2upAd8JEKmH9i23E1TxiOilgheOMkiw499M/oWe2O5MnHk3+PFlYrrC7+nuLmMNOOlzJ4kMkGrquj3uUKAqb9scONSRVruuALpyvAgocMFgtpMNbncvtmxhiU9bgrEatGItrTHVPAsCs1X1fPyZoo6p2LJAivyUjxHWWwpP2RiEOE=;MyhZ6TKDEmd8giV3Cn00uA=="
+secured: "axi23vZ0Dmq/nNwfU22Xi8f6vT8fYCABs09RdC5daWQuM3ysnC9OENDHklJ9eNYQjAzxgcieUeunYtHcuF9hxl4xquO+ZVS0CVbzvqE9T7DWq6ickCSslPykFCKpl0E4mdLdMnU8OAs7fkm8pLmGg0Qa2MnuGBOe6dgyWH2qKFOkVDkGClwDvEyGS/gajFRAiLUtVcV/9ITwSqnA/RhItWU1TKoA7gA44qWV7u8AXTMinQj6HCNXs/4gorWVg8R0mBXUA+HOT2715oFJg9iG9bPIf9oxFtpNKIIgre5d/vddm9ogyM6Fkm5CF+pNPdrQdVJu7tF2GcEaXbPRPHrKyMggV1GfjbUcxHFMUOTa9AOWV2SNoZVtvUvdQQdXJd/qHdsNXGVzINdErPa3mAIWOsRzfYAletPQUatAHUivE3L6hnkJ/mneWFX9BBclYA6w8kAKFeCIkd39kxB+gid/w78A1Y1DUoKOchFMTSM3lYeiH31p1KYWe2JG7QhCGt9rSgQKNqad6U++p7Xecem1vQ==;81/DhfsDYV5JpvWNMJYDUQ=="
 ---
 

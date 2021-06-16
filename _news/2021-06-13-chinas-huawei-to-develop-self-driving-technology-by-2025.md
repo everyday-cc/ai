@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Huawei seeks to develop its driverless car technology by 2025"
-    excerpt: "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry."
-    publishedDateTime: 2021-06-11T07:39:00Z
-    webUrl: "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "China's Huawei aims to develop self-driving tech by 2025"
     excerpt: "China's Huawei Technologies aims to develop driverless-car technology by 2025, an executive said, as the world's largest telecommunications equipment maker diversifies its business in the face of U.S."
     publishedDateTime: 2021-06-11T10:23:00Z
@@ -52,34 +38,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/huawei_i.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Hunt sets driverless truck test in Texas"
-    excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ..."
-    publishedDateTime: 2021-06-11T07:32:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Kodiak eyes 2023 for driverless freight transport, targets autonomous trucks for US and Asia"
-    excerpt: "Artificial intelligence (AI) firm Kodiak Robotics has set its sights on introducing self-driving trucks on US highways by 2023, and will be gradually"
-    publishedDateTime: 2021-06-11T09:50:00Z
-    webUrl: "https://techhq.com/2021/06/kodiak-eyes-2023-for-driverless-freight-transport-targets-autonomous-trucks-for-us-and-asia/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 28
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/063_1190466188.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "To diversify, China's Huawei to develop self-driving technology"
     excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"

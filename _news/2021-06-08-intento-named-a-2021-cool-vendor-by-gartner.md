@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ..."
-publishedDateTime: 2021-06-07T18:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788"
-webUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500788"
+excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,"
+publishedDateTime: 2021-06-07T18:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "EyASEmj4+PAf6qQrXj5hfh4ZFWtbl41BWJvXrlQn6aY7Yh528hWFOFOq4H7k7v4U+qVz0HD/DbDeMz+esEbP30HcH5sa/LbjZ/wFNkakVaJw4LxqWe2JSo649AzFe59BBwwVjTGU0/4aM4QwJfuGOh1v2gt+SE9gguzoxHCDd+lhxb54YgiMHNGfpSmi2Y+efuyBg8AOF4V0+SsXEeuZRQTk2Vj+cmoQLCkkwGzVZDuOUoPXiFRJShYaqovMi9lzX5NsQEZWExS+BCf3iVvghkbO5fXGOLLBi/Gs6qTJpRNu9eomAa4Pt0iFQ7Q6NwggTt9zTrQNJh9CtWEeGqOiXA3/OdXQ/K7LwMAsp5BjDgU=;IxMbROMB7YJrDqAkIdVGwg=="
+secured: "McBGyvcy0DxOqL7P2tROaf4KaXmCCAImXCzHfJn7Wn/08zp5uLDoUK3q37R0RUNhyBmHC31DdkUbqMmh9JuaWvtXkHUmijHlat0wc/6zyXIlfWSacx+wvdj39vaRV1koQFFkcMDiW2Yx1sNJ4WDhZQe1GZfyt1r05xqPBAaE7lwsfAFZu9XooIet6ro58n77phkDnJOylf0WhIEQRtF/xo6yrTaGxkYK5gaEhLN9fStZlKEAvNfgBAssxHrFUNrQ0hBuvg+pQfxAOfGxAuyczYT/XorKrHZQa0Ae9dAGxyccehOkhT9v4NEX7qs8iQNo4BOTAwuNTnNANl4KcjTMKk7Y8/KpC4qjK24f9eYbH+I=;d4RufJQlSpJ9d19WJpp+qg=="
 ---
 

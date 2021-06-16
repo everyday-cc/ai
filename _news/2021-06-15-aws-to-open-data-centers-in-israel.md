@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "AWS to Open Data Centers in Israel"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced it will open an infrastructure region in Israel in the first h"
-    publishedDateTime: 2021-06-11T08:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210610006031/en/AWS-to-Open-Data-Centers-in-Israel"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-
 secured: "9QLo+FlKJox3OdBq8PEz/qHMKcqF/3LmEads4tRNh+Io9rd8+LNI6LSTsENckUWpOlYvqaXsAFy4/1OrCJpsy19bkA6TIrHItXFX7Y+Np+admg94bNttykKNQboTtSJ+N0XI9au6TMwWwl/hNJpXUD85O+wIPdJqnCFrJF2ckRixyCycA+T17C3G2NesHDs94+pJL7e5omr40eqSHmlVfSNnIS063oNs7iLR2a3OgH08sY2z8fF4M2X7qTgOXVHca2CNmT8BW+xoSOiOu63ZxUBXPfbgTemEzr4ZwRV7DT4JBcfYWrkQeEp0WiVSvR/LXP5biUIxPw/6DMXgB/Bv1U8InMSBJulepoF368sriwQ=;RN360XGbaf8tnU0sOE37jg=="
 ---
 

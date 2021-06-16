@@ -3,23 +3,29 @@ category: news
 title: "Artisan robots with AI smarts will juggle tasks, choose tools, mix and match recipes and even order materials - all without human help"
 excerpt: "But there’s a declining number of technicians with the right skills, and the quality of things made by hand is subject to the skills and mood of the artisan on the day the part is made. Both problems could soon be solved by artificially intelligent robotic technicians."
 publishedDateTime: 2021-06-15T13:04:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
+originalUrl: "https://www.timesunion.com/news/article/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
+webUrl: "https://www.timesunion.com/news/article/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Artisan-robots-with-AI-smarts-will-juggle-tasks-16248686.php"
 type: article
-quality: 22
-heat: 22
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "nDapXjme03gMXRSO2GeAkrLH/zNMP0F2B6g+RhVM9PMbG5dyy2kChw7nRXy1TVVeoyeSjTjQuelaS+NXynHbau0GaXHv902ej3d6C2N0RGkHMnf+6SQl0EZ2/QR3RYkyLJp6wRwtyUxSbMswwpW/fyQ+lYOtpITwgLz1Ql7BsLuTUs3sGaFpYgubZRD1Bd+Z5RJip/wdJJsOc2ABVQUvN4iiuAA4BFAsIzR4ulqLzpNcJhtpKekw7e3FCpVDfLdPke6VXGRRtDbNEas6/47qJXHtbWIdf/3Nz2BDSnJpEylo9E1rfEirGlbUiesv4+Hhc47xcBSlrMLaMfDpUF6rL4w23qk4mmEVh2/nHNC61lM=;u3vCKJvl7BC74BJNbdt8Pg=="
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
+
+secured: "EcTTv6yDzJH+BANC0MCjG17DZFHCs9TsKl+OuRGWZQ4qbwhGAzGJRUFuGwTHCDfjt1MMR0Ruc2oMpCxYFvLB98r9uQYwyKXSEyf8td0kHWGcLQQqS9DGxqQGOw/YYh2gjDNEUcp2Pe5ZTlbO0wPFH1OfcRNNwBHnFy/Yih2/1aKW4IvlJfxtm04ICoTV5zwWEOxM0DlL+YTLIGFMQjPyeI3ZmE5zQq7q9EGklJn+WyhnnUv6pPNfSOoMlWJVkieb4OO8WExUkSwbjHKrdIXnIM5SrDxazXtKGOze54AMvcZ0uWQtat0Y66PuwzehNeKh2h/Q2d9rnRaYzmcvYDLtqM73mriIXkllZmh+swKl72c=;i0g/ZzvuOlN9FlB5hZ3U5g=="
 ---
 

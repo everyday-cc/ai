@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
-excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-publishedDateTime: 2021-06-15T19:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21576113/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wea"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21576113/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wea"
-ampWebUrl: "https://www.benzinga.com/amp/content/21576113"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21576113"
+excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
+publishedDateTime: 2021-06-15T19:37:00Z
+originalUrl: "https://www.lelezard.com/en/news-19858090.html"
+webUrl: "https://www.lelezard.com/en/news-19858090.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Google is training AI to design the next generation of chips"
@@ -51,22 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
         width: 1200
         height: 960
-        isCached: true
-  - title: "Now Google is using AI to design chips, far faster than human engineers can do the job"
-    excerpt: "Google's AI has revealed a new model that can automate a complex process at the heart of chip design, saving engineers months-worth of work."
-    publishedDateTime: 2021-06-11T07:43:00Z
-    webUrl: "https://www.zdnet.com/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-google-is-using-ai-to-design-chips-far-faster-than-human-engineers-can-do-the-job/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/11/dd66fb7b-7293-4b83-bd1a-bada8989a926/gettyimages-1094304672.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google team creates next-gen chips using AI"
     excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
@@ -281,6 +270,6 @@ related:
         height: 742
         isCached: true
 
-secured: "SmLhcBHQq/qCvBNME8mRObaInSzgc7vTkST9fqHXug4TLTV2Hsr3WXTkS5Kvufk+CGU+fhD0EprrtWMcIffxgLCfHslJW7oV3AsLVPBH+qzPQTmr+HpKxy/jb6SGCKGcUfm6jmgc/h7zB81BpCt4YbN1ggq5AnI/S9QA4Jcji7lPApfLnekp3JVek88mXXFJRH7O+ASKhnNT2NGkdRUQRmCRcJ59NpGq274yDWRBhVp81DkyNHpZ3FmvaPHKzzWpcOHJZe/1ou5xdOznkCyhfcSP7H9A0IivdZcvynvVpuTwfQKG6ghacUNTPka7BTS3QaPCo2X/MpEAwx+ci56ndj2Hrrj08a3s+yZGD30TCNY=;E4m6EmtnH9C+cvY+g5FS2A=="
+secured: "juqw0trSezKCybwbWiWDXeHVbjYABczds0XBFvXL7xAABpC8OOdlGH/H+9csXmnBRb7rCYeggeJ9Ng8/3Ya6jlF60hQsu0qxsSgMN6HpVjSq9zS2+j0YLsXlHaIGwjC4JswWBk72cNlbk1gVp2Mblf1rlUgjYElFydPuBqColmuFlrQmBqaDJlZTEDmO1EA3AYOmcmrGKLEB0fo93lm0N7Vv3oMfpkw9M+WvoLRuAkKaJUNXVLeGu7sDaoIpw83mbc7nIXuleJnCHu7bUMChsfm9APz1gNQcYmLdIQ+P0LCqeLOFRT53zfxPEjcVo2Tr1EcievidaC8uyer3YOIYlSuYTUy03Az04uWBbmSFxhw=;+dgakjYSVs1Vh5kcTERybg=="
 ---
 

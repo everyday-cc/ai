@@ -53,15 +53,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Nvidia strengthens self-driving expertise with acquisition of mapping startup DeepMap"
-    excerpt: "Nvidia said it has agreed to buy DeepMap, a startup building high-definition maps for autonomous vehicles, for an undisclosed"
-    publishedDateTime: 2021-06-11T07:09:00Z
-    webUrl: "https://www.telecompaper.com/news/nvidia-strengthens-self-driving-expertise-with-acquisition-of-mapping-startup-deepmap--1386339"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 0
 
 secured: "zRuPqRh93bUbaFzNMKtEHfk7PS5Hqdyhg4IJ6wqrJ0u7tTseEb08RvdbGKNRgaJIJOp8OiVlaZCET8NEnCanRm3kuj3IH8izxRGcVME6XrcMLyTPJngqiGDiEi4ff/LcuxJp2B/0rpndcVpsJlAXJ0L+/zxT04M1lv4spJ/t5XEB0bTVhS0UzwCz1UvYqnRoEBFSC9R06bIIuwtzsyOYXXhJPZoqh5x5aDUiAlY0mrxoyfHLze2yC6+H3G+HLmxj/hrMjomuvVUYp82mEpP40UNfg+SnYcQ6ILeqiIf/CceBu5uk22zGg0426fU8tBHwjr7eqD6BSrP9vg6eo+oG4aJ5wW5fgiIbKj39ig16JaNbYEOBrolyhrhUpb7BsBA9LT0Are69bB4xzNZBPr/MdouwYxWOk3IDbvZNB5XXnoTTbeiR6z7Z6NP1s6+twAKPJCHRgnux5iQzJwqDIS1Li38UYL/Wqdh+KPEbkiVrIccAoVCVOhQeAIH3fgN+Xj4Xxo3qWL4HzzT1+/WhCfuObg==;gMmVZwC/wyLUD0tDIdaJIw=="
 ---

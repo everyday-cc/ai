@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 931
         height: 520
         isCached: true
-  - title: "Rezolve.ai Introduces New Features for Its Microsoft Teams Enterprise Service Management Platform"
-    excerpt: "Rezolve.ai, a leading AI-powered Microsoft Teams employee support and engagement solution, announces new advanced features in the platform’s latest release."
-    publishedDateTime: 2021-06-11T07:06:00Z
-    webUrl: "https://www.pr.com/press-release/838162"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 21
 
 secured: "zfqmv6/UUrgxeKPI4DfGlfzlEhWbqyymQLUXGkd3CUhaJqa1clYhAnmqefEi8RpuktKwDU/wc9iFaxoZ5ycSvBARAOqUL8nF22uQ7ImbCyzvtcGwGNAp8cKHkCKMWIMdQXHN0L1SwX0f2XEfQHgwOYoDzZnbsMZClf8taOUxF9rGES01bB77MWuDRGV4tuBm0QPOVVCShhWpjS9xW27mZvvOEstjimXvBE1tEZS8JioOT+z8LY1CzzKphEBpfPeuZZdR6puLbMFNkbSWPPLbOAC6c0AEpNeg2+Tlol96RLMvnQJbWP2roSP2B+XkUoG6GpuGlOUxXTtg+hBk4xv6kgJYyivm66pKqwm64ht3/yONdY72ZOsu7fwmnN2/l8PM6Ih9Z1rfe7hVBQNFemM1m6QqF8jrWfySHg51LTMOvWrEbjvYDq8d/Jpma/QtXrQm3NQuPtNiibjSnyGeW8NBs514mwaTDuR/X5EuJlw7S/YfCQL/HNcpY/DpFkkTenwwvNlgQhenEdCl0dvO2e49Rg==;osGmbhfIpkWCSjGCbRhx4w=="
 ---

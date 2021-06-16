@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-07-why-wait-for-a-crash-to-invest-these-3-top-stocks-are-already-down-more-than-40.md",
+      "title": "Why Wait for a Crash to Invest? These 3 Top Stocks Are Already Down More Than 40%",
+      "excerpt": "Some top-quality stocks are already down by 30%, 40%, or even more from their all-time highs. Case in point: Shares of Zillow Group ( NASDAQ:ZG) ( NASDAQ:Z), Baidu ( NASDAQ:BIDU), and Teladoc ( NYSE:TDOC) are all trading at least 40% below their recent highs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624941%2Fgettyimages-534824667.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
+      "publishedDateTime": "2021-05-06T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-minds-without-brains-the-promise-and-peril-of-artificial-intelligence.md",
       "title": "Minds Without Brains? The promise and peril of artificial intelligence",
       "excerpt": "In the view of many scientists, Artificial Intelligence (AI) isn’t living up to the hype of its proponents. We don’t yet have safe driverless cars—and we’re not likely to in the near future. Nor are robots about to take on all our domestic drudgery so that we can devote more time",
@@ -1282,49 +1334,6 @@
       "provider": {
         "name": "ABCNews",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-tech-giant-rolls-out-first-driverless-taxi-service-in-china.md",
-      "title": "Tech giant rolls out first driverless taxi service in China",
-      "excerpt": "Chinese tech giant Baidu has rolled out a driverless taxi service in Beijing, making it the first company to commercialise autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in the capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.breakingnews.ie/world/tech-giant-rolls-out-first-driverless-taxi-service-in-china-1120770.html",
-      "originalUrl": "https://www.breakingnews.ie/world/tech-giant-rolls-out-first-driverless-taxi-service-in-china-1120770.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjFcXFwvMDVcXFwvMDIxNDI3MDlcXFwvMi41OTUzMDkwNy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjJmMTU3NmIzNWZiNzgzNGViNTBjY2UyNmU0ODVkZTEwMWIxYjU0N2EifQ==/tech-giant-rolls-out-first-driverless-taxi-service-in-china.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.breakingnews.ie/world/tech-giant-rolls-out-first-driverless-taxi-service-in-china-1120770.html",
-      "cdnAmpWebUrl": "https://www-breakingnews-ie.cdn.ampproject.org/c/s/www.breakingnews.ie/world/tech-giant-rolls-out-first-driverless-taxi-service-in-china-1120770.html",
-      "publishedDateTime": "2021-05-02T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BreakingNews.ie",
-        "domain": "breakingnews.ie",
         "images": null,
         "publishers": null,
         "authors": null

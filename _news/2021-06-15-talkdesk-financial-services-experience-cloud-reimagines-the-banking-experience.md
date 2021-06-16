@@ -95,22 +95,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
-    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
-    publishedDateTime: 2021-06-11T08:29:00Z
-    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
     excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
     publishedDateTime: 2021-06-14T19:52:00Z
