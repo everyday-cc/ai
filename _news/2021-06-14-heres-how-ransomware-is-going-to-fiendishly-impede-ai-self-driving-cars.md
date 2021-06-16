@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
         width: 1366
         height: 913
+        isCached: true
+  - title: "Huawei Wants to Develop Self-driving Cars by 2025"
+    excerpt: "This includes Baidu, Xiaomi, and others that are attempting ... Now, the company has been working on developing its own self-driving car technology. During this period, it has also launched ..."
+    publishedDateTime: 2021-06-12T00:00:00Z
+    webUrl: "https://propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/"
+    ampWebUrl: "https://propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
+        width: 500
+        height: 300
         isCached: true
   - title: "How AI Is Transforming Venture Capital"
     excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"

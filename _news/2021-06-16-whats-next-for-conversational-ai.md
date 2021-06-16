@@ -42,20 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Should Organizations Fear Artificial Intelligence? 9 Reasons Humanity Should Fear an AI Takeover"
-    excerpt: "Artificial Intelligence (AI) is a transformative technology. It may undoubtedly prove beneficial for the future but a complete AI takeover is also highly likely, if due measures aren’t taken now. AI is creating fear and excitement by disrupting several industries."
-    publishedDateTime: 2021-06-11T10:55:00Z
-    webUrl: "https://www.bbntimes.com/technology/should-organizations-fear-artificial-intelligence-9-reasons-humanity-should-fear-an-ai-takeover"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Takeover.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ykuHqwCC6u1LNIiVTUw/+4nhs5iSfdoAkdALMrZ8+KpLwYkuNaCvud2kKK8K9SGF3TLuCj0nVja4nOCzFq6SJTYYNzjtm1+Yklx2tum6wCImWddEkbnkoQse1AV/bnONPGsp8qBRXHgxqVt1ueLdU+IocxnD/Pyf3B/p7AtpItOPh9PyRHQ5YSRoUOBP5AfwzctaiwmT66G4c2j6tTDENmwGG9O9eFuoDorQakJypAt1BrDlx71FclyneOHxFlmj0ApRNRPC5gpc98hTovpOTRP+BP69lKTVsYcFWVboiBIDCoVxpLVujyKYteQSlHluvEG+IyRfRTjl7ROTOgVXwBmRGnRlAfADJE0fL42CIOr99iwYaAxGVZsEtlhO2W/qyp0JgpiE7MNZLlYrTt+eLG9Ppo2YWaS28agIyMSEwroJRZt8/v2NlpYQrgAAQEGAxyx1jBpTbSXJuRJwr7I8FC2dOUSHrR6yz4n4iUwePLkL9BcYkXfLX4zSTNubhMIR9+t/IYnZK4knrYswSZVzhw==;rdoq+yze4CoxLnvHhK3ROg=="
 ---

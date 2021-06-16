@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.cmswire.com/-/media/caaef8bed56a4fd49add84d98adbc896.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "Should Organizations Fear Artificial Intelligence? 9 Reasons Humanity Should Fear an AI Takeover"
-    excerpt: "Artificial Intelligence (AI) is a transformative technology. It may undoubtedly prove beneficial for the future but a complete AI takeover is also highly likely, if due measures aren’t taken now. AI is creating fear and excitement by disrupting several industries."
-    publishedDateTime: 2021-06-11T10:55:00Z
-    webUrl: "https://www.bbntimes.com/technology/should-organizations-fear-artificial-intelligence-9-reasons-humanity-should-fear-an-ai-takeover"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 41
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Takeover.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "Ga3PTvJ4FCoMwW+J37Boe6qXFtGdVtglIFJLNlEGmSaLQ8IW16XDhi+0Kk4u9rzoCrQa5fVzGoV/bOfy5yzIo+B36JG1kmnS75X6PnVCsTKxFEZeUwBd4mfY/I8fE7r9URGf8Tq6RDuJonKKC8eXQrwFJtQaNVTPsllEh3CpzR2AVpyVGRom25OkwoJi7U39uDVfp8lP5fQxgjrMSXIKPI8KBH0tjlcfn4cDL8nZShP9TiE8ufVpdiKEQmvuy0j0OBnY9Da7BWzXKTFTZYKrN5lQFLwkHiusI9n/7SjE6VQ9a4mgSeLExyiZJiSCGyU5AyFzazFs8ePavmlnBrPQ5zBBCImoLSVPnN9eAHsYrXeeyBBWlAEdF/nuiJoP/BMDHEs9UZWxs9jqUqCfP2gAncbKW1msDlfIL3wuiwGe83TDauZW+DfMUnG1Sk48kzxRWz8jkBvbOkfUMg13FqUXo7VXrn1p6+Kvon/mgTl50soeiD1ukqRatvzrhL1u5crT7hBdpFagMS9esiOkYyR/fg==;cQCERHvUFS7Y+bmPRmQ9Jg=="

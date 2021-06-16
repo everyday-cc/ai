@@ -84,6 +84,22 @@ related:
         width: 1366
         height: 913
         isCached: true
+  - title: "Huawei Wants to Develop Self-driving Cars by 2025"
+    excerpt: "This includes Baidu, Xiaomi, and others that are attempting ... Now, the company has been working on developing its own self-driving car technology. During this period, it has also launched ..."
+    publishedDateTime: 2021-06-12T00:00:00Z
+    webUrl: "https://propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/"
+    ampWebUrl: "https://propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/12/huawei-wants-to-develop-self-driving-cars-by-2025/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Watch This Guy Make a Self-Driving Bike that Can Stand on Its Own"
     excerpt: "The buzz around self-driving cars has exploded in recent years, with many big names, including Waymo, GM, and Elon Musk's Tesla, getting behind the concept. While everyone's attention is focused on four-wheel vehicles,"
     publishedDateTime: 2021-06-15T03:34:00Z

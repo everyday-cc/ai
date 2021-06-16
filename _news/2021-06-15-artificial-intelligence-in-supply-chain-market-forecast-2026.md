@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -41,15 +41,40 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application"
-    publishedDateTime: 2021-06-11T13:34:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53129540-ai-in-computer-vision-market-worth-dollar-51-3-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models,"
+    publishedDateTime: 2021-06-11T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-computer-vision-market-worth-51-3-billion-by-2026--exclusive-report-by-marketsandmarkets-301310788.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
+    publishedDateTime: 2021-06-14T15:12:00Z
+    webUrl: "https://www.openpr.com/news/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+    ampWebUrl: "https://www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
+  - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
+    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
+    publishedDateTime: 2021-06-15T09:47:00Z
+    webUrl: "https://ksusentinel.com/2021/06/15/ai-in-drug-discovery-market-value-projected-to-surge-remarkably-at-double-digit-cagr-during-2020-2026/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 2
 
 secured: "EmF9wiMGpa4reD7hJY0s7tnp3agIKjUTm0jHUNHNt2O+vLQ3s5umoo0LtRLVVJRaRhkAgupyJVKlsFhLZLrHzA+junR8+6Y2VKaCSbJVwEc6iA5dyXvwA4VmzfPIeHsYQb9N/cB5JFFPDrVNdEaIxw/Qiz7UuvDfA8z64jCHJj4fCWA5nIQtjJcJyFFdxXWd0tagx2ii3N2DIN6pgFbD07L7Kv98IFrEute2GUJwVCYqJPF05as7RyJ/qe1z6c+iI4x0Pz1An/rmRagzIehSbYD1eirIAOxcLbwehLmmq/1HUC2cFPlQAaEQdGwDBL/GtVk+h+U3dlvO58wHXZis9kZ5GkMSIcVP2Dz+MsnRxmA2hj8fWERUgerojuF13TKnbUnNgAmGOyKheDnEwXfyHtmQj+fllfwL6y30lwX1H/DN3K6+BHRs2G/lXHAtOK5uJUMQemeJhCeyy5MCe6q0s1/M8SERCa9h7BnOSX8PWakKOap0L0ZhaLv9IzFvbOuw6jgxvLXuKsxgdiXDQq7N/A==;6pU5Nw+GQIIXryDNLftWcg=="
 ---

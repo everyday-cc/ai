@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is training AI to design the next generation of chips"
-    excerpt: "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads."
-    publishedDateTime: 2021-06-11T09:17:00Z
-    webUrl: "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
-    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
-    publishedDateTime: 2021-06-14T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
-        width: 1200
-        height: 960
-        isCached: true
-  - title: "Google team creates next-gen chips using AI"
-    excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
-    publishedDateTime: 2021-06-12T14:44:00Z
-    webUrl: "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    ampWebUrl: "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    type: article
-    provider:
-      name: Madhyamam
-      domain: madhyamam.com
-    quality: 74
-    images:
-      - url: "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg"
-        width: 400
-        height: 248
-        isCached: true
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "To achieve this, the Google team used a dataset of 10,000 chip layouts for a machine-learning model, which was then trained with reinforcement learnin.."
     publishedDateTime: 2021-06-12T15:09:00Z
@@ -155,21 +107,21 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "How artificial intelligence is changing the future of air transportation"
-    excerpt: "A George Washington University School of Engineering and Applied Science professor is working on an interdisciplinary research project funded by NASA that aims to design and develop a safety management system for electric autonomous aircraft."
-    publishedDateTime: 2021-06-11T14:29:00Z
-    webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+  - title: "A Google AI Designed a Computer Chip as Well as a Human Engineer—But Much Faster"
+    excerpt: "The team trained their agent with over 10,000 chip floorplans. With that library of knowledge, the agent could then explore various alternatives."
+    publishedDateTime: 2021-06-15T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/"
+    ampWebUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 73
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
+      - url: "https://singularityhub.com/wp-content/uploads/2021/06/google-AI-computer-chip.jpg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Google’s AI Designs AI Chips Better Than Human Engineers"
     excerpt: "Google has proven that it uses AI algorithms to design AI chips. It takes 6 hours instead of a few months if people do."
@@ -226,48 +178,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
         width: 700
         height: 535
-        isCached: true
-  - title: "Airport Customs Division trains staff on use of artificial intelligence to improve operations"
-    excerpt: "The Customs Division of the Airport has began training in line with efforts to equip its staff with skills to examine goods that go through the airport"
-    publishedDateTime: 2021-06-13T15:15:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Airport-Customs-Division-trains-staff-on-use-of-artificial-intelligence-to-improve-operations-1285303"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 41
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/src/Jan_2019_Kotoka_Airport_Terminal_3.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
-    excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
-    publishedDateTime: 2021-06-11T11:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-build-better-ai-hardware-accelerators"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2017/04/TPU-Feature.jpg"
-        width: 1344
-        height: 742
-        isCached: true
-  - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
-    excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
-    publishedDateTime: 2021-06-15T19:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19858090.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 19
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "Inc03iXGT8+SzBHFnWcUpe2PCzRlVssMiraWYA4hH0LH0QZzs92hR1HS7gtjF199vPswozhRUiQtP97pyVhPR+tifdtaLiH+w5LzqUyhYKEdVbj1CbzOeqQFVnnlykCLK9cJ+Qrbuqjs7FDAuLSi+AHYe0aVSMesSS0qbYEnsi8b34LrZodNTlPvmTddbImf+PyNvhUX7/oJXPJUKKPoyXrgOesHL4eAnX4y9PXj40asZsBqDiQe5MoOtzaeYyG8wQvna7KCcw+RyFYMku0shC1k99IxOYmDBkvwing6r4ozXOLGnGOQttWA9fSWwSSTIM5y9k6hDNthnpzkeQzl3ZX87Hf+g7eX5QbduglBQEg=;G1/naUliaiaPy/RP6fUxNg=="

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zillow Taps AI to Improve Its Home Value Estimates"
+    excerpt: "By employing a neural network, the company says its numbers will be more accurate—and allow it to offer to buy more homes."
+    publishedDateTime: 2021-06-15T16:53:00Z
+    webUrl: "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/"
+    ampWebUrl: "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/60c7f9fe84a20f8f38b93271/master/pass/business_zillow_1182960600.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Zillow Launches New Neural Zestimate, Yielding Major Accuracy Gains"
     excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly"
     publishedDateTime: 2021-06-15T13:05:00Z

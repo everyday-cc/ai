@@ -70,20 +70,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 6
-  - title: "Industrial Robots for Automotive Market by Latest Trends, Future Scope of Key Players, CAGR Status, and SWOT Analysis by Regions Forecast To 2023"
-    excerpt: "In a recent published report, Kenneth Research has updated the   report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-06-11T09:33:00Z
-    webUrl: "https://menafn.com/1102210405/Industrial-Robots-for-Automotive-Market-by-Latest-Trends-Future-Scope-of-Key-Players-CAGR-Status-and-SWOT-Analysis-by-Regions-Forecast-To-2023"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?812528"
-        width: 455
-        height: 250
-        isCached: true
 
 secured: "sRKRY9J+dC8Dg0NR6sHPS6AhCOHqffV8CAy6zS3VIhRpmrg3qTAN4apb1tDuCM+OmmTbkF/ACcRzW7fJSAnYx86/o9A/wSeDR2eveMWlGvZJeyEPARByJiG+l+jCxAZOuJk9PeDLBAnhsr2YKTMK11AlQLaFHrBbv0A9Y+VOmfyNMFXTuPirCmOaV+Sl1b9ukFGYWS2PflqGjUsnx1Vw1ckWszQ47e0yn8u4vXPRoNDsygzb1abP6wnFs+79/pRs5O27kX5xh0w8mVQyxbc429Z6XSD7/4nym36nlj7EJ+CLXzFFWUdlnSjrx9MQQEHcIzD5WXkjr5IXcNaiz2Zu7Xa9RhKlsQi9qTifiybRkGs=;zCngGldRwKex+theDqoozw=="
 ---

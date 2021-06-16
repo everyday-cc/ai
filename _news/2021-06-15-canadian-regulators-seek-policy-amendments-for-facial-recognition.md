@@ -77,6 +77,22 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
+    excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
+    publishedDateTime: 2021-06-16T02:25:00Z
+    webUrl: "https://www.business-standard.com/article/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-09/20/full/1505925633-2101.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Federal, state lawmakers push for stricter rules on controversial facial recognition technology"
     excerpt: "Facial recognition is a largely unregulated technology that has been lambasted for its potential civil liberty violations and inaccuracies."
     publishedDateTime: 2021-06-15T18:52:00Z
@@ -106,20 +122,6 @@ related:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "DHS on hunt for next generation of facial recognition technology"
-    excerpt: "A facial recognition showcase in September will give the Department of Homeland Security a peek into the private sector’s latest biotechnology innovations."
-    publishedDateTime: 2021-06-11T10:45:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/dhs-on-hunt-for-next-generation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2019/07/facial-recognition.png"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Opinion: Regulate DNA Data, Facial Recognition, but No Bans"
     excerpt: "When police overuse DNA databases and facial recognition, they violate rights, often disproportionately. Policy should limit use of DNA databases and facial recognition to cases involving significant danger to society."

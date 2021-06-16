@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Your next FedEx package may arrive courtesy self-driving vehicles"
+    excerpt: "FedEx Corp has partnered with robotics company Nuro. Fedex and Nuro will test self-drive vehicles for package delivery..Self-drive vehicles could be cost-effective and allow for late-night pickups from far flunk places."
+    publishedDateTime: 2021-06-16T03:30:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles-41623814027056.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/06/16/600x338/Fedex_1623814103431_1623814109937.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Alibaba set to roll out self-driving delivery trucks and robots"
     excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
     publishedDateTime: 2021-06-11T11:45:00Z

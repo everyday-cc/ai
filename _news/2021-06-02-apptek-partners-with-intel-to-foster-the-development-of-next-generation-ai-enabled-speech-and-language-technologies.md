@@ -1,22 +1,26 @@
 ---
 category: news
 title: "AppTek Partners with Intel to Foster the Development of Next Generation AI-Enabled Speech and Language Technologies"
-excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), natural language ..."
-publishedDateTime: 2021-06-02T12:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21387911/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-lang"
-ampWebUrl: "https://www.benzinga.com/amp/content/21387911"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21387911"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced a partnership with Intel to accelerate and enhance performance benchmarks for the company's award-winning AI-enabled ASR and NMT technologies as part of the Intel AI Builders program."
+publishedDateTime: 2021-06-02T12:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-partners-with-intel-to-foster-the-development-of-next-generation-ai-enabled-speech-and-language-technologies-301303952.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "3x880YiaVrZs446waQq/AsRDoT/Bin/ZFAGKWws5phMgezdLwxaM+Xhj9Z3GuINkmjUfsIMY1aeoAZmoxj4ATNk1erBmiWsoS9vexN23KQ2QgWGsiCApp/aNFuE7okTLeYhYr8dS8h6oS1X+NPoJvDyag8d5t/up79cZRWYQIgz6gXtcbWOEAGTy3/+bs1Dyeop6+86ZUzhsZgjlGpihutAbCr4fKfha2Ej4VSFuPlGcBy9qJzFZjcLEM1uBSRH443Fk0Qv2FXf6xyuklEsUD+CBcHAXJIDd6LS3Sm6esF6cZ1nuOinTDtiyxugHJ8PadWQexyN9HrR8Dl/OZ01saZLF9DNqK2Lz7UuERLw2q8k=;SBsWX9nHbm+a9fvHyHfl6A=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "jjzhjzvm477bnR7utlPp7JyQX76EvXvxzFCBX6II+uym3r3c9SOqTJTQK8hJsHW1i3rlsA2EWJfkCC1rF2xN7hpznc+xgFhrUikeNYfT1Uvj4mkwUVnUjZGx+r9yOuhEBF3ApCUvwWgfgq9mik207mA7ZTH/C6ysRjNDRAhw94vZGIhSB5A8iAd+puOUQBUvapnTJRm4nt+CDh6TsF4x4uQoM3PXcQT3Rp7FkhcqBGZ4B5K9M+bqrCdotYkLvdAXrFDFBwl1y5MyJe4f0TCinZ5VIbSis3FGO2alqwItGjHytk/cUZAt4msL6RcCPRB5mojldFlXeCfBMh/YfmBfCH9qODJ+DF8bF5tK19oHPJ4=;ow6qG8sW6qbQOIR/i3Telw=="
 ---
 

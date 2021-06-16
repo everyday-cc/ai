@@ -1,33 +1,29 @@
 ---
 category: news
 title: "ManpowerGroup Returns to Viva Technology as HR Partner, Showcasing New AI, Machine-Learning and Data-Driven Predictive Performance Tools"
-excerpt: "ManpowerGroup (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online this week. ManpowerGroup will share innovation that improves people's lives and solves one of the world's most pressing social issues - how to provide meaningful,"
-publishedDateTime: 2021-06-15T13:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
-webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
+excerpt: "PRNewswire/ -- (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online"
+publishedDateTime: 2021-06-15T13:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data/article_dc6cc4e1-4fc9-53da-a662-088418d8f936.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data/article_dc6cc4e1-4fc9-53da-a662-088418d8f936.html"
 type: article
-quality: 36
-heat: 36
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/391655/ManpowerGroup_Logo.jpg"
-    width: 400
-    height: 217
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/83/483c9309-6d7c-50bb-b666-954d8e6a9ea1/604ef6669f076.image.jpg?resize=1159%2C630"
+    width: 1159
+    height: 630
     isCached: true
 
-secured: "FC9sF7UzlY0Mi8wq+QC9OkDXyvT0fL4Q6y4zfou/oJ2OHXb/pTlfbQsJnIofiA3JG4xR8n0o28GiuSaYAE5LonPFgPC8IBvNoLDZlLR7qi7z8Jb5NNwBUl3EU60+ne8dip71x5SKahsy2Q5HqK/UUwKsgMHztX6sYMQliyG6FpbY2Uxe1ELN6PNTtkeJ+jEEkrV6aZ9uKYQrJzgkj3ThxjXd/jp9/+FQTyC/Fa02+S5yz6GuAqYXjwi7tYgjeaG6JZT2Dtt0SlwoGncEMlTHfWnSEwUaNsyT6qf52LOaNy6QwICZrN72+4tHFlIPBr/Zp3zYC3yI+ZvWoErqvPwa8FD9Fa7D+ILnYr0Qfkmj1Fs=;ieO/m7f3+XL4VJjCT2xDXg=="
+secured: "/WX/HC3QJyd0QEWl0Xi+o4uYxUbc1x9flJnCVh6Ftn/qG3fA4rflkH1YBowf8Qnq5wXyp1VxJ7AxY1E9wp4dcALcC4ZiUc7IkpSznwnHS2V6UdQymdNcIrGZWXiozf7qMZb/CsUDl8k3ytYvKyQvVLp3Qh/iQU7C5hyEut+7zLcPlWyk53Z2PWhwO12fg8ew4UM673zKg2E+YEsLwYZOCXLekaadvgyfDEeeJecsXQ7TqS2feX1vv3YW2oz/QXfWCE8NLgojlYFOiaclyntY/rLYm360Qo6nTQMGZ8fcNGwMeG96YYvQs79vhwxxWpR637XxeBTojojFcMc/cx6wztVmAZlxKheYuhS0M2MBhEM=;K9cB/I6XyUiCT9Rvkwr1gw=="
 ---
 

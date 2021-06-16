@@ -1,23 +1,23 @@
 ---
 category: news
 title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
-excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
-publishedDateTime: 2021-06-14T11:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389406.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389406.htm"
+excerpt: "VANCOUVER, BC, June 14, 2021 /PRNewswire/ - TechX Technologies Inc. (\"TechX'' or \"the Company'') (CSE: TECX) (OTC: TECXF) (FRA: C0B1), a company focused on emerging technologies across growth sectors including: crypto, blockchain, AI and cloud ..."
+publishedDateTime: 2021-06-14T11:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen/article_cfecc466-12a1-516f-8e2c-c3bf29fc697d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen/article_cfecc466-12a1-516f-8e2c-c3bf29fc697d.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "1yIq3jb7QIzbQNAVlUDNC27Kz2gxK+Go78wWzjalFp1j8NNzA9p62U9KXx9ubhs1euAQ9NQKTca4NacVV+OvGtsytC/WMbvPbZ/UgJAR5hiUPbbBeoA7pfp5slyxxreiIGOO9xR1NYFP0uB3DFRf6wBvse58eklJBUzv009oV+8bFJotBXHjNnyh6E2RubDe4jIb7vTm+c/Yr2Vu9w1ASbaRbDP9/rQpJ61m8FNhwJs6pp2LfFxnfgGu4BAOyESnSTmwpNXdWhBd+InR7XqZh61oawUwZ+dto1C045ZxbQi0rzwIflVFI9QjXtk08UlZc0TWJ//wddO7VxZ1nV8mRhgzELuBK9JuQ+gZISQ9gYI=;WGvaRI2w1yQunUPQOsMGYQ=="
+secured: "zSAnMHM2vVB7nl0reFPsb+68+EBrDk9gn4T1B1vhp6mRNpHP4/RE9hTGeHwI3Ay0H06DihrfU3AkKYxKo5EhtArexaqnRHGdxxfGOm9AYsSac/TschRIPDWDWHqOruvmUTUBM79YmoWJ3B6EHtwhT1TdkzyS17tWnPeeoKP52dvHu3wnj3VrqxCZBMdKkwULtw0oy/Pq2s5jMvRoMuRMIz8qQd5RW2N34xYmlFhSOxZLDs0YtnUXXxiKKAl8d+uFIJK0n2DX1jAofFBK/5e2QrpgQA/ER9JsMgXt6uS9M8C8c+SQLuMod2tfo/vi9iqwQfHOHTTmSMHLSaofpWl9HNfHBjYe23I0yiB0w8vz+SE=;mo+OUrdtKrZrwU6Kx0myHQ=="
 ---
 

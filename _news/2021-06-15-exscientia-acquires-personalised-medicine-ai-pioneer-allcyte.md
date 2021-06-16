@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte"
-excerpt: "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution."
-publishedDateTime: 2021-06-15T12:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
+excerpt: "First AI platform clinically validated to improve treatment outcomes in a prospective study Exscientia, a clinical stage pharmatech company, has entered into a binding agreement to acquire Allcyte, a leader in artificial intelligence (AI) based precision medicine."
+publishedDateTime: 2021-06-15T12:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210615005584/exscientia-acquires-personalised-medicine-ai-pioneer-allcyte"
+webUrl: "https://www.morningstar.com/news/business-wire/20210615005584/exscientia-acquires-personalised-medicine-ai-pioneer-allcyte"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "6qFvR3WQkSNJGvH34u6CDjMIXK1h6gBrg08vRouN23WWBcj4vs7H6vOiMJMOtc2QS2/tWAdSf3LwTB/fkbQJxnxm2FkGmJ93Oe44NPBCwgJ/O2w3DypF6wNYrcK8CoHX2ZK4Epoe6c+CdkWFsK0za5pEMPAHWpjcGAZ4rY1VUtm2nbRIBKvWdflBymcD6oa+zhom4xLZApLDXzDvcMLFO9zkZupQdt4N1UGIjsMlMeV5zGz0ePWnsVUHuT42GfFMwPmSTqE/jtoVgZuPgqVUHx2ctPF9paFqqyf4jixIk4RhHw8TECpN1tORg+pHPrdXk5o5NteeVT4OrpBYwV+k2bXDXZg0AELHmAz28JJXeaQ=;sBBmLxAkjbSJcuGItO7jdA=="
+secured: "Oz+hgPPBomlVCcM04rMlESI+U9pB2f1JQIUOXbHkyEYMF4Mr97N4lcOfJ6Y5uPViHTCfU+ZSONspqtHYp++CdJqiCn2kYiwZ5dbH29Fd7VJg8wNJNHYMGQ+2H6VtrlXuclO0+sio2p49zdArhSmLj/G4eRf0ZbcpUdd3WPl3Pfpq4kPz1E6y2xA+w8cJJH5SdIDpQqde8HtWlbl61nzIQty4OuIXLx3FZdtxIoit2UraJ4pq9kTRdpoCKYeBjeRCTGrfzRtJZPqdiscOKX/ngRr/TM8mmhNnJJZZybNodqlRZuP7o+39MmMu5cRYH7Yz1w1G1cD2IyzhtvBpBwSUo/AJ0n4sxSnv6R8PAop4kGs=;Wvtm3oXHEdCOfap9VPsH8g=="
 ---
 

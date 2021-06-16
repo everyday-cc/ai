@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-deve
 webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Huawei aims to develop self-driving tech by 2025"
-    excerpt: "China's Huawei Technologies aims to develop driverless-car technology by 2025, an executive said, as the world's largest telecommunications equipment maker diversifies its business in the face of U.S."
-    publishedDateTime: 2021-06-11T10:23:00Z
-    webUrl: "https://europe.autonews.com/automakers/chinas-huawei-aims-develop-self-driving-tech-2025"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/huawei_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "To diversify, China's Huawei to develop self-driving technology"
     excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
     publishedDateTime: 2021-06-13T10:45:00Z

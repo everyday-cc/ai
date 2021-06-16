@@ -1,19 +1,17 @@
 ---
 category: news
-title: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao"
-excerpt: "Alibaba to Develop Self-Driving Trucks With Logistics Unit Cainiao HANGZHOU, China/BEIJING (Reuters) - Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with ..."
-publishedDateTime: 2021-06-10T04:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-10/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao?context=amp"
+title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
+excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc (9888.HK), accelerate work on self-driving vehicle systems ..."
+publishedDateTime: 2021-06-10T08:27:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/alibaba-develop-self-driving-trucks-with-logistics-unit-cainiao-2021-06-10/"
+webUrl: "https://www.reuters.com/business/autos-transportation/alibaba-develop-self-driving-trucks-with-logistics-unit-cainiao-2021-06-10/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "SdAxl/857WMfrKJKFAqSBYsxLO0Q6ilwxFleiFdb18O0b9nh9dv+mq6oaq7wz0f2IQLc93ufABzJTLPA1tahMozSe5B2AUl7zqjpbnp8CWNlqrnRxukON30tEKYsIlHpBJjhyfqB4CcH9TVjd8Zy4tir20linX2VIuz5XJ1jtHedOltSFZ9Rd3YBI+GH2VnRJ233icSz4Jb6Qp9s24GI2DCN2nvVb2qtSLEm1ikr10yvkrr5qZZdulyWRGGv8IUprQv30jMUvxX+MnGV7/VmQVZBmKoYgU8LNERKhYdSj+qUzLIpPXI2n/fQAz5qHzRwtPsTDL7gadHEUvoZNACQ5/uEAqZlmFYy9UhGTbvueLo=;/IT55GXvfjVWrwoj0NkDMw=="
+images:
+  - url: "https://www.reuters.com/resizer/Z5m3xamOgWzlXRXgis1rgSw-qig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VYP6LFKAZZLOBH7ANEWWEALBAY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "kXeH0CVaHXsyKizSJG74E+NBpoRPJsulykH4M5UsbJbwDnjoGkVaTjTgweJ7LNzCn4seWMlUK4yWbA6RoHXDoh3s7nBgRcBwKku/2kB5du8n1IUvd80jqDbuw9G19OOuaLk6kA96fapTSbDbUB8srIcZIhQozaZkfPplCyqNqioVpoTcKVR2wDGn4NRqSDjpa+upyRDZqPb78+WCrpbFeL1lD5GP0qK+A0kOkRxWvZR7Ir7IC302vTFV1ItbQ+mFASxmbyu5NyR5LafTDtma8e1w0TZyDbkhJTr1JSrG5HAHyoMWYwLai0v278+cNZHbTKTTq1nLBjIiYrvMkhMYYR0KsYNh9uXe5hcQnHcD+hg=;o9js0Fhc+yEjejvB8Kiutw=="
 ---
 

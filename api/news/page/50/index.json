@@ -2,6 +2,101 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-08-ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018.md",
+      "title": "AI, Azure, and second chance tech: Highlights from Microsoft’s Build 2018",
+      "excerpt": "This gives developers the software and hardware needed to create camera-based IoT solutions, and it comes packed with Azure Machine Learning services. Microsoft CEO Satya Nadella also reiterated the company’s responsibility to trusted and responsible AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
+      "originalUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/05/Photo-Satya-Nadella-Microsoft-Build-2018.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ai-azure-and-second-chance-tech-highlights-from-microsofts-build-2018/101635?amp=1",
+      "publishedDateTime": "2021-05-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-tesla-refutes-elon-musks-timeline-on-full-self-driving.md",
+      "title": "Tesla refutes Elon Musk’s timeline on ‘full self-driving’",
+      "excerpt": "What Tesla CEO Elon Musk says publicly about the company’s progress on a fully autonomous driving system doesn’t match up with “engineering reality,” according to a memo that summarizes a meeting between California regulators and employees at the automaker.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "originalUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1130604490.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/07/tesla-refutes-elon-musks-timeline-on-full-self-driving/amp/",
+      "publishedDateTime": "2021-05-07T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-harnessing-the-power-of-machine-learning-with-mlops.md",
       "title": "Harnessing the power of machine learning with MLOps",
       "excerpt": "MLOps is a relatively new discipline that draws on operations teams, data scientists, and software developers.",
@@ -1090,108 +1185,6 @@
         "name": "Daily",
         "domain": "medicaldialogues.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-how-voice-ai-is-changing-the-way-people-order-food.md",
-      "title": "How Voice AI Is Changing The Way People Order Food",
-      "excerpt": "As consumers continue to leverage voice-to-order from restaurants and voice-enabled technology continues to thrive, it’s clear that voice AI solutions should be a priority for restaurant leaders across the country this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
-      "publishedDateTime": "2021-05-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring.md",
-      "title": "Battling Bias: Why Employers Should Not Fear AI For Diversity Hiring",
-      "excerpt": "As more businesses look to achieve workplace equality this year, they will have to overcome a significant barrier to successful DE&I recruitment: unconscious bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093f6129323f405fd0e69e7%2F0x0.jpg",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/05/07/battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring/amp/",
-      "publishedDateTime": "2021-05-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

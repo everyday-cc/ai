@@ -62,20 +62,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 6
-  - title: "Industrial Robots for Automotive Market by Latest Trends, Future Scope of Key Players, CAGR Status, and SWOT Analysis by Regions Forecast To 2023"
-    excerpt: "In a recent published report, Kenneth Research has updated the   report for for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-06-11T09:33:00Z
-    webUrl: "https://menafn.com/1102210405/Industrial-Robots-for-Automotive-Market-by-Latest-Trends-Future-Scope-of-Key-Players-CAGR-Status-and-SWOT-Analysis-by-Regions-Forecast-To-2023"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?812528"
-        width: 455
-        height: 250
-        isCached: true
   - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
     excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-06-14T13:51:00Z
