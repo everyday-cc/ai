@@ -8,7 +8,7 @@ webUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-re
 ampWebUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
 cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Democrats reintroduce bill to ban government use of facial recognition"

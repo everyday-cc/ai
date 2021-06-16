@@ -41,6 +41,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Self-driving tech company testing autonomous big rigs across North Texas roads"
+    excerpt: "FORT WORTH, Texas - If you’re driving the Houston-Fort Worth corridor, you may soon share the road with driverless semis. That’s the goal of a company new to the North Texas landscape. Open roads, decent weather and an established logistics hub and supportive lawmakers are ripe conditions for the autonomous vehicle industry — especially autonomous big rigs."
+    publishedDateTime: 2021-06-15T22:35:00Z
+    webUrl: "https://www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads"
+    ampWebUrl: "https://www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 40
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/06/932/470/596-530P-TZ_AUTONOMOUS-TRUCKING_00.00.08.20.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "tY+BvtCJiRlPBjGHRfgBIOpbqtw0p6YYmOAycuBUlpOsTIt9PlZAVncs5km+oOfK+slfNUU2JNlziOgONTKtXY+p6pFHseYHVjox8QDWNxTb1G3e20NpoLvurmecSyyQKkMasYObhu57ZVjugQ1n4fxTT4Dg8SB/lXFOjCWk23KXvGfMqf+0OJiu6wPDXW+8HT7nk3GpZ6LqfjQitKiyn5oHb4iD+SQNw4Alp5LB8Pu3gTPxmlA9srXyPGWqjzEEfvTYqcn+Ar05GKm3HpF/CFsg78nm7d90+Ytdbb30wDZgIFZMf+BnqGCpqqSiYUiQ+YBnkB9qAUG4/rNk2W3uWavhsD4KcpwYrK1pSuN8Jq9Klav+CbBnhODzWhMqw7tvXUEE6aWM2AK/vTWq7W/MbFexGXseXM4LHcctBRR8o78ETYn0uZfLWy6dtSlwzL0MbvP4ZT+OlKKAgA+7r+CeKF6xP0jxPUdii/nDqY/LctdpHbBtarGNIbuo0lWKj1PneB9Adyzd55/HzX6L+3DKfQ==;eWdZp50/uSrP2HKyzz9aCw=="
 ---

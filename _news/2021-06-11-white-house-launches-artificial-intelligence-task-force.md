@@ -40,22 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Google team creates next-gen chips using AI"
-    excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
-    publishedDateTime: 2021-06-12T14:44:00Z
-    webUrl: "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    ampWebUrl: "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    type: article
-    provider:
-      name: Madhyamam
-      domain: madhyamam.com
-    quality: 74
-    images:
-      - url: "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg"
-        width: 400
-        height: 248
-        isCached: true
   - title: "Artists use artificial intelligence to bring their creations to life"
     excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
     publishedDateTime: 2021-06-12T13:13:00Z
@@ -69,6 +53,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/12/637b96f2-baff-40c9-8a3e-e52cc3d25007/thumbnail/1200x630/9a0e4a50d7bf6eb0ce3ece37e29a0481/0612-satmo-aiart-slivabraga-733346-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A new trajectory for life sciences tech as AI accelerates data sharing"
+    excerpt: "Technological advances in big data, artificial intelligence and cloud computing have altered the trajectory of research and development, energizing and influential industry. The COVID-19 pandemic bolstered telemedicine and eHealth solutions,"
+    publishedDateTime: 2021-06-15T22:53:00Z
+    webUrl: "https://siliconangle.com/2021/06/15/new-trajectory-life-sciences-tech-ai-accelerates-data-sharing-awsshowcase2q21/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/healthcare-life-sciences-data-doctor-virus-covid-vaccine-research-development.jpg"
+        width: 6000
+        height: 3208
         isCached: true
   - title: "White House partners with NSF to stand up National AI Research Resource Task Force"
     excerpt: "The task force will look at how to expand access to AI education and other critical resources, and it includes members from NIST, Energy and top universities."

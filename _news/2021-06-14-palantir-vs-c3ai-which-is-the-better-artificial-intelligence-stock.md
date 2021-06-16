@@ -2,23 +2,33 @@
 category: news
 title: "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?"
 excerpt: "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i"
-publishedDateTime: 2021-06-13T19:48:00Z
-originalUrl: "https://www.nasdaq.com/articles/palantir-vs.-c3.ai%3a-which-is-the-better-artificial-intelligence-stock-2021-06-13"
-webUrl: "https://www.nasdaq.com/articles/palantir-vs.-c3.ai%3a-which-is-the-better-artificial-intelligence-stock-2021-06-13"
-ampWebUrl: "https://www.nasdaq.com/articles/palantir-vs.-c3.ai%3A-which-is-the-better-artificial-intelligence-stock-2021-06-13?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/palantir-vs.-c3.ai%3A-which-is-the-better-artificial-intelligence-stock-2021-06-13?amp"
+publishedDateTime: 2021-06-13T23:48:00Z
+originalUrl: "https://www.fool.com/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/"
+webUrl: "https://www.fool.com/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/"
 type: article
-quality: 82
-heat: 82
+quality: 102
+heat: 102
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "JilrMBwQnQ3dTAlClaAMhMjz0rtEBgQ5DvcXadtvgYbMRIQWc5L19Q3YgN0yp3GWg2S/PissM3CifyHke2ar/ttdYWq73YDyvzH45Jy2F/Yvr4rEt+C901V4E9ppZdKWR3Kn+Akbu3T6oM5yAzXaLrWAePXQei3oLMNkuG6qZOQdqH5JHePiErmoBKpYhl0KyDuwlbcU1xdz2fvYe7NypZcdq3EAXLJAVBVDiUgAHi+7ntx+K5GGfSfcspeO8XqO/2/qyrD6F7VGOvk02ZYUQPB2JtfIQ+jGbw5QkgS+pHXzJ3GFzf/tJiCW6+0zhp6iOlonuX4eRaUpm07b5Qv25CIX7EKQU1qENutCrbcWzmA=;QrzQFY39N9Wzae72nHfl9w=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630124%2Fgettyimages-1223301957.jpg&w=1200&op=resize"
+    width: 1200
+    height: 646
+    isCached: true
+
+secured: "tQe1wI0DHlfjOg/gsZ2tz5klaG8KwwiltavxMfC5HMdLTsaql81YEWD9R5ZHL4hxdEmci6YoUgeNFABYXKikrYWAUbACSoLI16IANqwOuc0wKGeEYaED5fqhUINRiB6Zp/TdJGDFo/0VU426rsiciSIFoYFx4aRS7qgjvPgDyBW9WpxxKhuW9rSFcUTuebNpxwK7zHUmclxSFi/b13s9LREtORqCtLMEZNHZbyHL4UZ7JMkO9e2BmdrbndOrnwAAdktOJmmbE7yQhutj/OMQ4BREBZNa53n89Q5Vejo4YC0yW8O7ATjsDPDJ5S/PqE0nSEOpaHbvQ94S7lx/Nwg7X1R0TCpmQIlmCS28CeQRbfE=;o69A3SFOfxkLOs3qjP3wKw=="
 ---
 

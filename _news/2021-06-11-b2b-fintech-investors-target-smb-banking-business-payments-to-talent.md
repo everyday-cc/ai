@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
+    excerpt: "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated."
+    publishedDateTime: 2021-06-15T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c9264d6ad664d7f331b552%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2504%26cropY1%3D201%26cropY2%3D1610"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in Fintech Market Size & Business Planning, Innovation to See Modest Growth"
     excerpt: "AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast \"A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
     publishedDateTime: 2021-06-11T13:09:00Z
@@ -36,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "June 2021 Report on Global AI in Fintech Market Overview, Size, Share and Trends 2021-2026"
+    excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of AI in Fintech in"
+    publishedDateTime: 2021-06-14T10:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-ai-in-fintech-market-overview-size-share-and-trends-2021-2026-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -103,6 +133,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "The Future Of Wall Street: Fintech 50 2021"
+    excerpt: "Stock markets trade almost entirely electronically and many of Wall Street’s most valuable companies now provide data, technology and software to the big banks, private equity firms and hedge funds th"
+    publishedDateTime: 2021-06-14T01:38:00Z
+    webUrl: "https://forbes.kz/finances/the_future_of_wall_street_fintech_50_2021/"
+    type: article
+    provider:
+      name: Forbes Kazakhstan
+      domain: forbes.kz
+    quality: 24
+    images:
+      - url: "https://static.forbes.kz/img/articles/b0b9e32faf03f7347ff463fad4fe4d4a-og.jpg"
+        width: 720
+        height: 479
+        isCached: true
   - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
     excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
     publishedDateTime: 2021-06-15T12:22:00Z
@@ -117,33 +161,29 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Enzyme Replacement Therapy Market to Eyewitness Stunning Growth by 2026 Covid-19 Analysis"
-    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” Enzyme Replacement Therapy Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2021 COVID-19 Worldwide Spread) “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
-    publishedDateTime: 2021-06-11T09:11:00Z
-    webUrl: "https://ksusentinel.com/2021/06/11/enzyme-replacement-therapy-market-to-eyewitness-stunning-growth-by-2026-covid-19-analysis/"
+  - title: "Talkdesk Financial Services Experience Cloud™ Reimagines the Banking Experience"
+    excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Financial Services Experience Cloud, the industry's first enterprise-grade contact center product built for financial services."
+    publishedDateTime: 2021-06-15T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-talkdesk-financial-services-experience-cloudtrade-reimagines-banking-experience-/2021/06/15/9390978.htm"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 10
-  - title: "United Fintech has six experts in its Advisory Board"
-    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
-    publishedDateTime: 2021-06-15T09:37:00Z
-    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-in-its-advisory-board/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "B9 Raises $1.7 Million in Pre-Seed Round to Launch Fintech Platform to Deliver Full Suite of Personal Financial Services"
+    excerpt: "B9 Inc., a fintech startup, announced today it is launching a full suite of app-based financial services. The company raised $1.7 million in an ongoing pre-seed funding round and is building out a platform to address the needs of a huge market"
+    publishedDateTime: 2021-06-15T15:30:00Z
+    webUrl: "https://www.lelezard.com/en/news-19856835.html"
     type: article
     provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 4
-  - title: "United Fintech has six experts to its Advisory Board"
-    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
-    publishedDateTime: 2021-06-15T09:44:00Z
-    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-to-its-advisory-board/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 4
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "dXMBIZ6gKFF7PMICz67mvri+79YJFu16zF89GS/T65q9rg2T8uGEOtp+y8JYJLgNkdH8wZLj36y+J12WXLlPM2s3nmlQmwUSZRvMJjIiGsH2E9VVr3WHXli6Ii4Do1ya2v2cPe6V+waDGraOmxnUaPKuWeqQxBbM0Z0KbD43zSjEZqtytE3JRf9QJYsCog9nN+Ud8osj12aDRzF42lslaU35d3dwrZVOUZyJ6rcXhsHN5bVL6q9tm8VC5z2V16Pc3KyuxHyFPXaJxXuSaddxWNHXhMyNoIaQWFWnNVgcAMluppcPOTII2iZFrjlo1uXkkuxmM91u3ZDucneCwTVaMNWRR7eRS2oR+YSlbP+eYRq0jdH017k1tEFGOnQ7OjJ36tqx4NbierGWQMwNBb9y40+9A+UhEJvyXoTD0IOo2jN2b7G1qJd5Iuv/aVXs/dBCyofIyWoG5+HIIatjB7LfBKSpN/+3ggeuyLWBELoyM4Vbx7o6WITBCm9cH0RzZRklB9TVkBxycofdHsrEHUe+8g==;xTMSq1VEhBgF/OfAIuYdUw=="
 ---

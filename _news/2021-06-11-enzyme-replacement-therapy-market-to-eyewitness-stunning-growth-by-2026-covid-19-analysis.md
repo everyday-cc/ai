@@ -19,130 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "AI in Fintech Market Size & Business Planning, Innovation to See Modest Growth"
-    excerpt: "AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast \"A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
-    publishedDateTime: 2021-06-11T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11"
+  - title: "Voice Recognition for Automotive Market [ PDF ] To Witness Significant Growth By 2021-2027"
+    excerpt: "This research service provides a strategic analysis of the Voice Recognition for Automotive Market 2021-2027. The market study covers the Voice Recognition for Automotive market size across segments."
+    publishedDateTime: 2021-06-11T16:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-automotive-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "B2B FinTech Investors Target SMB Banking, Business Payments To Talent"
-    excerpt: "Nubank's digital banking service for both consumers and small businesses took the lead in this week's B2B venture capital roundup."
-    publishedDateTime: 2021-06-11T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/amp/"
+  - title: "Voice Recognition for Smartphones MarketVoice Recognition for Smartphones Market Will Witness Substantial Growth in the Upcoming years"
+    excerpt: "The report titled Global Voice Recognition for Smartphones Market showcases an in-depth analysis of the overall Voice Recognition for Smartphones market in terms of market size, segmentation for Voice Recognition for Smartphones providers,"
+    publishedDateTime: 2021-06-11T16:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-marketvoice-recognition-for-smartphones-market-will-witness-substantial-growth-in-the-upcoming-years-2021-06-11"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Nubank-investment-Berkshire-Hathaway-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "As FinTech Business Models Shift, Asset-Based Funding Evolves, Too"
-    excerpt: "James Sagan, founder and CEO of Architect Capital, discusses how asset-based finance can evolve as the business models of the FinTechs it services evolve, too."
-    publishedDateTime: 2021-06-11T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/ledgermatic-digital-asset-treasurer-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
-  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
-    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
-    publishedDateTime: 2021-06-11T08:29:00Z
-    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
-    excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
-    publishedDateTime: 2021-06-14T19:52:00Z
-    webUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/"
-    ampWebUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/06/fintech-real-estate.png"
-        width: 1005
-        height: 575
-        isCached: true
-  - title: "Running a fintech from India during a pandemic"
-    excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
-    publishedDateTime: 2021-06-14T04:31:00Z
-    webUrl: "https://www.altfi.com/article/7994_running-a-fintech-from-india-during-a-pandemic"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 720
+        height: 630
         isCached: true
-  - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
-    excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
-    publishedDateTime: 2021-06-15T12:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19856354.html"
+  - title: "Global Machine Learning as a Service Market 2021 Research Objectives, Major Competitor and Strategies Regional Outlook by 2026"
+    excerpt: "MRInsightsbiz has published a new report titled Global Machine Learning as a Service Market Growth Status and Outlook 2021-2026"
+    publishedDateTime: 2021-06-12T04:52:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269855745/global-machine-learning-as-a-service-market-2021-research-objectives-major-competitor-and-strategies-regional-outlook-by-2026"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 13
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://cdn.bignewsnetwork.com/cus1623507578758.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "United Fintech has six experts in its Advisory Board"
-    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
-    publishedDateTime: 2021-06-15T09:37:00Z
-    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-in-its-advisory-board/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 4
-  - title: "United Fintech has six experts to its Advisory Board"
-    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
-    publishedDateTime: 2021-06-15T09:44:00Z
-    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-to-its-advisory-board/"
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 4
 
 secured: "p0Htc4m1DH6IG1vuKwJ+4AxEg/e9/byW1DQcF8DDydSRUBKT0PFYHebhAMY74h+Hck5H6+G187eLZFkAOhIcMfYAO2oJkfJjgbYVmLTWh5f5+kMd+ISPax89JjM5uCQnSs10WO+3fe5z/IDB1NfiasjUKVxGqsn5RT0oWi5IUGqUqm0q4mOf/qOGHPtapQvZzlXpuCyTxZGZhvHi1WT0WzJ2lBk7ftE012vx01midP23Fq0dx7c6dyWrX5MbOAJDDAMePXaReQ2Po3rNtyTrUsALn8zYIM0PgCtbSun0logiFB/au+/WPJGFzYTwNv1Bj0vr7eU+T2NyhqRyeF01smvbSmvyNU0VKxlen2EftYs=;HyGyH0No3ZvjdfxT9Km1CA=="
 ---

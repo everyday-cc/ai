@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-tes
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
+    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
+    publishedDateTime: 2021-06-15T21:23:00Z
+    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
+    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
     excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
     publishedDateTime: 2021-06-15T21:37:00Z
@@ -63,6 +79,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
     excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
     publishedDateTime: 2021-06-15T21:04:00Z
@@ -87,6 +112,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "mAD6aqQZePVFGbqZUrKc9dAjefPeA57NOK3lMebcBmTD78qECuTeqCLZBDVhk12LaPvCx+sNBQe5NozDGuEbNdpPtxsisVk4MyST9oivvPcEaN1cjzICGO/s0zfCB3rYkuMabl+afOvc4GMhXzB3o5ypkS6hMluPk5zFdJHmtiCHPATct09d4xlOuiVsit5KHGN7gBhbuhurt6J0OGDIHR97RrbG3MBb2fv202HkUfjjmR2MOLHb5Zjyh5hjAXRGpdDv1O29bNWOpo+tve924pGWjIo+6ElDp8Cl+6KSWZDDEF5GU1yy94MaUr4zAX/4rCSVv9DHzTbp3UtDGGS7GeHVzR9OJ/6rAsqIOE4TbsA=;Sa1JoMFaudwToBQre5Xu1Q=="
+secured: "F5nO+mxZ9OW/ttveblqkH5zjE3NZcVzcFp8wHQI4W+AhQB38Iyxu9EXomzghut/eUd5OL5VMreJka3wmEybkNFi1oRB/5DXAW3y5aRmleC3XXREKPG7+HnZ5yoSvJj7KMl1/+jyPISwOz9N1+AtD/ncOlIWUfvk56NJEpc4mPsLvDETWc3SSSJo3sQmo/cdUgdQ0YoYqhpcIer/O6vTpP/j8ci3NTJfTPOh2CGU8MEWIuMtQjmYQnylnVO1FwXRNsLNd064KzyXOQLNLwX+T/dQ4VUHFUkOR1TzaVaXA0DQxxpOLIxAeUrNj2IFIXL6t4xIj+I2fpCaqaAdgkjVUD65fcgDMKRH8jxq9wlwmkgFCRXUzHAbCeNILarSMZSJjWUhgjU/Wa8BV41vLxSyW85NyGm7uDjcPcK9boBv/PMkeFmyu0WEdOdZX7gS4cBsP8yIPWuIxU3He+dO0zRRypCizT/JwpajRKaKo/GTTlFXeGVu9EIaOK0t98tugk/TzGIbbh701SRZfIW4tySYdjA==;KQ5qTbLech6x3V/zlHGGaw=="
 ---
 

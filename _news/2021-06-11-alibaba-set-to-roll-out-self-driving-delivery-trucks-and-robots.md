@@ -23,94 +23,93 @@ topics:
   - AI
 
 related:
-  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-    excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry."
-    publishedDateTime: 2021-06-11T05:48:00Z
-    webUrl: "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
+  - title: "FedEx and Nuro launch pilot program to test self-driving delivery vehicle"
+    excerpt: "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a"
+    publishedDateTime: 2021-06-15T20:34:00Z
+    webUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/"
+    ampWebUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: SlashGear
+      domain: slashgear.com
+    quality: 73
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O"
-        width: 817
-        height: 545
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg"
+        width: 1440
+        height: 849
         isCached: true
-  - title: "Alibaba to develop self-driving trucks; aims to disrupt transportation sector"
-    excerpt: "Alibaba has said it intends to develop self-driving trucks. The Chinese e-commerce giant will work with its logistics subsidiary Cainiao, which expects to roll out 1,000 delivery robots next year, the firm's Chief Technology Officer Cheng Li said,"
-    publishedDateTime: 2021-06-11T07:47:00Z
-    webUrl: "https://www.businesstoday.in/sectors/auto/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/story/441378.html"
-    ampWebUrl: "https://m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
-    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
+  - title: "FedEx signs multi-year partnership with Nuro to test self-driving delivery vehicles"
+    excerpt: "FedEx said the exponential growth of e-commerce has accelerated the demand for reliable, autonomous solutions across all stages of the supply chain. By continuing to innovate"
+    publishedDateTime: 2021-06-15T15:07:00Z
+    webUrl: "https://www.techspot.com/news/90069-fedex-signs-multi-year-partnership-nuro-test-self.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90069-fedex-signs-multi-year-partnership-nuro-test-self.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90069-fedex-signs-multi-year-partnership-nuro-test-self.html"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 56
+      name: TechSpot
+      domain: techspot.com
+    quality: 68
     images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alibaba_505_100621103106.jpg?size=1200:675"
-        width: 1200
-        height: 675
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-15-image-15.jpg"
+        width: 2560
+        height: 1706
         isCached: true
-  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    publishedDateTime: 2021-06-15T05:02:00Z
-    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
+  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
+    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
+    publishedDateTime: 2021-06-15T21:23:00Z
+    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
+    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 45
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
-        width: 1200
-        height: 630
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
-    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
-    publishedDateTime: 2021-06-11T11:22:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+  - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
+    excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
+    publishedDateTime: 2021-06-15T21:37:00Z
+    webUrl: "https://abc13.com/technology/self-driving-robots-booting-up-to-deliver-fedex-packages-in-houston/10794117/"
+    ampWebUrl: "https://abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
+      name: abc13.com
+      domain: abc13.com
+    quality: 44
     images:
-      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
-        width: 560
-        height: 306
+      - url: "https://cdn.abcotvs.com/dip/images/10794127_061521-ktrk-nuro-fedex-self-driving-delivery-irios-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "China's Huawei to develop self-driving technology by 2025"
-    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T11:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
+  - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
+    excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
+    publishedDateTime: 2021-06-15T21:04:00Z
+    webUrl: "https://sourcingjournal.com/topics/logistics/fedex-nuro-last-mile-logistics-autonomous-vehicle-delivery-self-driving-285410/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: sourcingjournal
+      domain: sourcingjournal.com
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
+      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2021/06/FedExNuro.jpg?fit=1000%2C666&quality=98&ssl=1"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "To diversify, China's Huawei to develop self-driving technology"
-    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T10:45:00Z
-    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
+  - title: "Nuro to partner with FedEx on self-driving deliveries"
+    excerpt: "Nuro Inc. signed a multi-year agreement with FedEx Corp. to test its self-driving vehicles in the package delivery company’s network. #siliconvalley"
+    publishedDateTime: 2021-06-15T14:33:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/15/nuro-to-partner-with-fedex-on-self-driving-deliver.html"
     type: article
     provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "cKM52MKI/fNIn4DLpQyX7nqDqly25GqIQnEkrZOpwokjFD0let1Hb7SfRcchZa60u1dAZp6ElHtMVc5CGFiFhL1O0/ftOQL2I7xYHfVtVMuuOAC08hrD/EofY1ooWGzPJAkKbAlH6DG6xxwOiR7o72pBo5X9STJ5HbwHSbPtafhOqaOMXP+ChBWnOAWwf2xcQKw/rFBf9+dWYP9t5d15BEVlmrAmdAXTt+n+scV/q9opGrGpORn0oIkeVavSojqNir8bbrH3X0EIm5hcOkXUnVsW37gCnZICnJHQFOQ8xhKvKECw/lO4+PAcJgkbZQ7/YGZYwcSNkI34coEf9yHI28WVFqjI7uNk+F+pm5Te7xc=;8xJc01p5Uihl9IC2+ZM0aA=="
 ---

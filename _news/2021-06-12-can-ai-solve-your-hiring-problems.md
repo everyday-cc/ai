@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "What if AI is the problem, not the solution?"
-    excerpt: "If data is the new oil, AI could be the new snake oil. Artificial intelligence is a kind of modern alchemy. It promises to put the spark of humanity into inanimate objects. It says it can transmute dross into gold - taking heaps of formless data and magically creating new insights from it."
-    publishedDateTime: 2021-06-11T07:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/opinions/what-if-ai-is-the-problem-not-the-solution/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Diseno_sin_titulo_1_kqy3Jho.2e16d0ba.fill-1200x630.png"
-        width: 880
-        height: 462
-        isCached: true
 
 secured: "Ggiemjxo/5v5E376ltdpPfOJw7GNtqeWhQQ/G8hwdiTi/8IsJiHQgAdFsn77yBPUN4VsqpTbqrMTDZ4MNCFgMWxYgDgQsZCU7BUWtum/E11UrRd5SC9KJNN+M9qzjKz3xIA1fomcW0PsOU7FonE7e9Fk7tNZgOm4MXZaf2G83sYm8WBjK3E+rQ5a28hWanwO+vAirOCOYZSyjEWByr3JGVY0MX5ahrhd3h7WCFyf3n982xQ0qJRtonLzCKKrsWtsl8vMMemfLjOEIjU+DjbPl9wZTxIT1aQzzYAO+qw2XQIONdd+ivyHxTdAwiioYhHhWyZ3FG9AOP0eFcmN3Vao9Iz4Vnt6DbhjZbgnuJXEyz0buTcOTFrNn8h3tOilJ4i/in8bc0vaerSaoR8/xMkCfpQhlafRxzAByw5L1ayAvLKxkjMQ1Gck10lNrCJ0jMmRQIkIj6+yOE/DENHGhIrKa7hPuEPZOWmlaUWlAMax4LGbnKuFoKSMRxFDkmR9vADjKqjw8JXX7iKfRN+i1xFuYg==;2rN5WYp7LDlaLL1HYsg5CQ=="
 ---

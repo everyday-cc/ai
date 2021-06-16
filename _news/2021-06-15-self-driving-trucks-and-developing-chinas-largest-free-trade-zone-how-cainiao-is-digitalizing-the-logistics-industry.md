@@ -29,88 +29,79 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-    excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry."
-    publishedDateTime: 2021-06-11T05:48:00Z
-    webUrl: "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
+  - title: "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars"
+    excerpt: "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so."
+    publishedDateTime: 2021-06-14T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Alibaba to develop self-driving trucks; aims to disrupt transportation sector"
-    excerpt: "Alibaba has said it intends to develop self-driving trucks. The Chinese e-commerce giant will work with its logistics subsidiary Cainiao, which expects to roll out 1,000 delivery robots next year, the firm's Chief Technology Officer Cheng Li said,"
-    publishedDateTime: 2021-06-11T07:47:00Z
-    webUrl: "https://www.businesstoday.in/sectors/auto/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/story/441378.html"
-    ampWebUrl: "https://m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
-    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/alibaba-to-develop-self-driving-trucks-aims-to-disrupt-transportation-sector/1/441378.html"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 56
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alibaba_505_100621103106.jpg?size=1200:675"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Alibaba Developing Self-Driving Trucks With Logistics Arm Cainiao"
-    excerpt: "Alibaba is working with its logistics arm Cainiao to develop self-driving trucks, signaling long-distance freight ambitions to match its development of robots for last-mile deliveries. That was the message from Alibaba Chief Technology Officer Cheng Li at ..."
-    publishedDateTime: 2021-06-11T11:22:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-11/alibaba-developing-self-driving-trucks-with-logistics-arm-cainiao-101726314.html"
+  - title: "Supposing The FBI Secretly Ran A Fleet Of AI Self-Driving Cars To Track And Ultimately Nab Unsuspecting Criminals"
+    excerpt: "Recent news about the FBI sting operation using an encrypted messaging platform gives rise to other high-tech leveraging for crimefighting such as the use of AI self-driving cars."
+    publishedDateTime: 2021-06-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/12/supposing-the-fbi-secretly-ran-a-fleet-of-ai-self-driving-cars-to-track-and-ultimately-nab-unsuspecting-criminals/"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 48
     images:
-      - url: "https://img.caixin.com/2021-06-11/1623411022323485_560_373.jpg"
-        width: 560
-        height: 306
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c292f036bb154568861833%2F0x0.jpg%3FcropX1%3D97%26cropX2%3D869%26cropY1%3D23%26cropY2%3D458"
+        width: 772
+        height: 435
         isCached: true
-  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
-    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
-    publishedDateTime: 2021-06-11T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+  - title: "Huawei Plans On Making Self-Driving Cars By 2025"
+    excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
+    publishedDateTime: 2021-06-11T18:06:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/huawei-plans-on-making-self-driving-cars-by-2025.html/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "China's Huawei to develop self-driving technology by 2025"
-    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T11:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/01/Huawei-logo-2018-AM-AH-2.jpg"
+        width: 1366
+        height: 913
+        isCached: true
+  - title: "How AI Is Transforming Venture Capital"
+    excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"
+    publishedDateTime: 2021-06-14T22:00:00Z
+    webUrl: "https://www.brinknews.com/how-ai-is-transforming-venture-capital/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Brink – The Edge of Risk
+      domain: brinknews.com
+    quality: 37
+    images:
+      - url: "https://www.brinknews.com/wp-content/uploads/2021/06/pexels-photo-3861969.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "Watch This Guy Make a Self-Driving Bike that Can Stand on Its Own"
+    excerpt: "The buzz around self-driving cars has exploded in recent years, with many big names, including Waymo, GM, and Elon Musk's Tesla, getting behind the concept. While everyone's attention is focused on four-wheel vehicles,"
+    publishedDateTime: 2021-06-15T03:34:00Z
+    webUrl: "https://www.autoevolution.com/news/watch-this-guy-make-a-self-driving-bike-that-can-stand-on-its-own-163251.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "To diversify, China's Huawei to develop self-driving technology"
-    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T10:45:00Z
-    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
+      - url: "https://s1.cdn.autoevolution.com/images/news/watch-this-guy-make-a-self-driving-bike-can-stand-on-its-own-too-163251-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "T18ePRvrf0GeTymcVxoJhG/yzUK+0N2ajHU44Iit4Yneo9YZSsnqhTB0pUMU6GxB+VtmlHgi9Ce69a6A0Eq9G4Wk0Y5Pfr1ouiODjzjGajm//eGS11DEGDMACWWp8Tk+nMjwCv+wG0UNqWqV0F0cv0ojLv7KYRXD8JpvnM3g7xfPxCesJs7NQUDL+aFOvj17TrpW5enUzKWGJSx2I4bh8kQe9hIQRA/Do8siJp7WTF94ieyoWzJ6RDysQrDn/ne9p+TvUG0Uzul3Xil4pjNDWO1/pgYvhLhnj0mQwOyrJ12pC28jWCwEYdSf8Q9FjzvsA+RkdXIjTXE0bTORcy40CBCnRSM0WycDn+wvyfu87mF3qofs6sene7sq9C2Sr7rTJVfk6neSL5nEZymfxttPfQqw5DIAx1gFAQu9ozrWzj2IQNCmx+RmXvZTrFLkYw/6CddneYK9dZRJIykAbSbgEPomgXjPLD8m/prgbz6xqHDTHHZ9ecyyDXJvEqspg7XQ4mb3nn9KeO4LJ06ygUGsOA==;fT5j4vAk/Gx4fihqPm8Rkw=="

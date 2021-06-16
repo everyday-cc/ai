@@ -57,6 +57,22 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
+    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
+    publishedDateTime: 2021-06-15T21:23:00Z
+    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
+    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
     excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
     publishedDateTime: 2021-06-15T21:37:00Z
@@ -73,6 +89,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Nuro to partner with FedEx on self-driving deliveries"
     excerpt: "Nuro Inc. signed a multi-year agreement with FedEx Corp. to test its self-driving vehicles in the package delivery company’s network. #siliconvalley"
     publishedDateTime: 2021-06-15T14:33:00Z
@@ -83,6 +108,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "rtuREqqZK1tRVK2vD7f98RxbAmPU899J5hxzh0KKRZFnjj8+Df+4smrwO6afeSpvkCqHER5n0kglURv9oMGx3Cboa2gSBZf3fMRtYCtofyiOQgdtoJq/tWbKXrdOlmMShn7/fJME1dYpe51m7K4ckT0WPHAoe6ynxlYPV0ot0iM0aWa0sfPWWc/KVD4vrh3REf6a5oi/YxDVnZoBKo6Y2ScpjQPk1MsaqiqPBZmZqz/1ub+oCFvAolnFG4+7I8en2ZBm+aJLsDL92W8LzYZkH2TTcNipm2M2EXy9Y/COK6YvUAQeyre2+ak6aFZqZAbbldm8aNp/KEoWg8HZWcNlTBr9lwdtQn6lDqbLu7a5K5E=;aGJQ1Usxc0PqCVrYfh7aWw=="
+secured: "AeGHevQ1S2STFDQYXuTVwfpvNbsuyID3ohE3j6TrgPegZ+8wxhHOySyeZbR338bHnm33/8iA//Kns/ZjBw18ydTHqc3l6L6xhYZ4MP6EjXCAHSZOda4zdwM7Jikjnrf2Ew5H3WSEPkjPsTSIUIJj6OVav63Xlapv0ULDH4ZEHdjBU8qHsMMCcI8js/N/ZNkeV5fqOxL+IgJqUaYewLIEoHCTe5GB4zUqzDseaa37vDrh7p/XUQ0sAX/pzqFzJzAifhaCNRgwEm/gZjmt/UL8UiVQFXmfNDpGAukhxm4fJ6TfYB+PxPuQ5gQZQbHGMRNhAi77ltvGc4DFdgNgdAGuSmKYIsrNY+S+I/nZ4q/qJ4iV7nw7yx+W4Fm/Yid2/VGF8sz2HNC4egPDRRQg77/iTtuAy6UrQ5MZKZi/91ALn49X59vrMu4kQejrYWAMMQrw8Nfx6SFavLC076MH634RyXYRMvjrPINyN13jvCY384ubpizwvaOXF07QaQPAN5zCQihTz2E3BTYho3A/AiqlEA==;/D/NoqWMvdnKmV9g31rM3w=="
 ---
 

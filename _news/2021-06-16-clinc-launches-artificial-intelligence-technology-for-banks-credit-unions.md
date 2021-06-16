@@ -27,7 +27,7 @@ related:
   - title: "Speakeasy AI Receives USPTO Technology Patent for \"Speech To Intent\""
     excerpt: "Speakeasy AI, award-winning provider of conversational AI solutions across omnichannel self-service and live agent care , announced today the grant of patent"
     publishedDateTime: 2021-06-15T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -53,6 +53,6 @@ related:
         height: 480
         isCached: true
 
-secured: "f8UtOD1tK4/QIBoOVXKJ1sZeuFPN/hw7YnGo/kEzMEDAFhzjOgpNYqvTPl7w9aFfROawrW/vgWfn6klkqJ4RAyNWGoz1GL/QcRStB+42/9cdruibjjGWUjIMqNDFrVhCT0QXaa69sVCViCoUSJEUb7r99s4YQJH/VxqLwt+cRtex906EVduND+KOYOPewAkbM7oa3uY46NC+5WXwOY9Cxg1jP6xrHM+4Ieprt1XXe1t3S75ttRMVyxR98s8w7lQT1+trzw/jLXosb/IJ7LsLZdlGZETS6b62KsxrhgmIbKsxOi8n6eD/kLc1/Za81KkIykAyBNIYZ9CSk7WfPJKAat9UHDC96APZUGLnhXFAEQ4=;1s1gZi6vA2euRhxWrzlTUA=="
+secured: "t26UsD4j4JznqLeNID7rEUAaINojTKXya/uWCTyiyT66T+S0MN66uTv//pp22RroXDZYhi2ZJ6VO63iEMDW85xWZnGJTU+x+7nrJKIIGJde36Db8K02EBfBk+GlNoMbUpUFgJfh0akohEgPWYgrnp2IUEEIfwcO/jbjM8PXc2MuZBu+suc7sXFcorWD3hZFr1p30XKYTwCioMwJWElGahhPpOnbbvsAmCxomc/Fatj8R+cVu8H1VQITZPUOCdnsOjvt4o1OMoRv5wgBIxetsLoUXu7lCO7XBqGqmWvtLws13GqKkMRGFN5CTa8/46TPZyan6othpkbIqQIo/sy8seagffVJJCh3XGLOw6y4KTgOaNehYou40zS4j5uv0i0yZAknAkN+7vI8vDxeyw99qzcDgyPicHsiVvVA+zZEZabPtozw+byZ4ZkOpz+PYG9WJLdYpyxoSWbaH9SiljrM49xVGhtyU4t9UQno7N4gPrFQZEfbUbtQylElo71kBupMoo2W7EdZY/eQtWgkJHLGWVA==;DJiCfpQH9ORZK3sIWn+xeA=="
 ---
 

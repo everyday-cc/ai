@@ -95,7 +95,7 @@ related:
     provider:
       name: Reason
       domain: reason.com
-    quality: 29
+    quality: 31
   - title: "Senators Markey, Merkley Lead Colleagues on Legislation to Ban Government Use of Facial Recognition, Other Biometric Technology"
     excerpt: "Legislation stops federal entities’ use of facial recognition tools and effectively strips federal support for state and local law enforcement entities that use biometric technology · Place a prohibition on the use of facial recognition technology by federal entities,"
     publishedDateTime: 2021-06-15T17:31:00Z

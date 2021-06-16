@@ -2,17 +2,21 @@
 category: news
 title: "Diligent Robotics Awarded as Technology Pioneer by World Economic Forum"
 excerpt: "Diligent Robotics, a company based in Austin, TX that was founded in 2017, was selected among hundreds of candidates as one of the World Economic Forum's \"Technology Pioneers.\" Diligent Robotics, led by two female founders,"
-publishedDateTime: 2021-06-15T18:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391095.htm"
+publishedDateTime: 2021-06-15T17:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-1030525332"
+webUrl: "https://markets.businessinsider.com/news/stocks/diligent-robotics-awarded-as-technology-pioneer-by-world-economic-forum-1030525332"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -34,6 +38,6 @@ related:
         height: 630
         isCached: true
 
-secured: "miziQKUYznFshFC2FdPFcZJeW5yuKizxQPgxaRl9jKA7JAmWXV+Do0hE0Hge+oo0598vIPZZih+i/0qwZP5oRWvS9+VN3NCDurMB4Ns3DSdLvWRRos4dKluJqep5wHUnMIhIgBJOaEKTvBpum0AktXN/9vwdtr//BgFzZZinEdDc6WnSGXwY67Tf/lfRwZCHmNh27Pxd3DKvXCpsrcICIKqdaz1fN2Frf4wiwpZmWageUuHOPJ5+kCY6qFcM6s+Cz931n9iMGWT+MaRtIZHbi0DYViNzvrODd5xKa40FtdfJr3bVFwUuA29uXRs3HUVZ0u3pGGjFpOCBgoPapV6w/zIA6k6so3miyAfcGzxGWOc=;p8dd2cNQLWE3nUw0xaR3HQ=="
+secured: "YRC9gDKAFSgdIZMXKGb7cipb/g0XZV/cTY3lDvz1kcojwmX6TxlZHrvZX6pMaQyqqnWO2R/C436YvGX6yUvj8iTx0xQ08JQ6vc/DT2xF2Y3Pl7HygeyVCL5qlJBZktVDGPtEhLXXf5tRl6sPBbTESRfKd3Njufo+iaklu8wA156wyKYDnzHMNoziffOMVAGQEeYC0mHpAUGMkzwuEjQjEs+Axq2Na5A1TXwyQCAatKd2CpkZmNXImWa9DWBBXXYo08hM9aRcjRy/3z1PO+K3EGCCOuTnlEaoWvlrZYj/L/uFk8ASriSb0QVOgxf7fIVPbSKqXdzoRl+Q8uK9er4CKQhmw+IwVb25cuM6M3f2JNo=;gV6hY6yPp9xsxmYLLDWiAg=="
 ---
 

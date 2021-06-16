@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://media2.fdncms.com/metrotimes/imager/u/original/27387219/facial_recognition_photo_neavling.jpg"
         width: 4032
         height: 3024
-        isCached: true
-  - title: "Bill Regulating Government Use of Facial Recognition Moves Out of Maine House Committee with Unanimous Support"
-    excerpt: "Maine is on its way to becoming the first state in the nation to regulate the use of facial recognition technology by public officials. The bill, LD 1585, received unanimous and bipartisan support from the nine members present at the Criminal Justice and Public Safety Committee’s work session yesterday."
-    publishedDateTime: 2021-06-11T05:14:00Z
-    webUrl: "https://www.aclu.org/press-releases/bill-regulating-government-use-facial-recognition-moves-out-maine-house-committee"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 34
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Petition calls on states to stop requiring facial recognition for unemployment benefits"
     excerpt: "A national petition is circulating, calling on states to stop requiring facial recognition for unemployment benefits."

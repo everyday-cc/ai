@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 849
         isCached: true
+  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
+    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
+    publishedDateTime: 2021-06-15T21:23:00Z
+    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
+    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
     excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
     publishedDateTime: 2021-06-15T21:37:00Z
@@ -63,6 +79,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
     excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
     publishedDateTime: 2021-06-15T21:04:00Z

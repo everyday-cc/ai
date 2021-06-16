@@ -29,138 +29,165 @@ images:
     isCached: true
 
 related:
-  - title: "June 2021 Report on Global Artificial Intelligence (AI) in Education Market Overview, Size, Share and Trends 2021-2026"
-    excerpt: "The Artificial Intelligence (AI) in Education market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-06-11T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11"
+  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
+    excerpt: "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated."
+    publishedDateTime: 2021-06-15T22:15:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c9264d6ad664d7f331b552%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2504%26cropY1%3D201%26cropY2%3D1610"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI in Fintech Market Size & Business Planning, Innovation to See Modest Growth"
+    excerpt: "AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast \"A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
+    publishedDateTime: 2021-06-11T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-business-planning-innovation-to-see-modest-growth-2021-06-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "June 2021 Report on Global Deep Learning Market Size, Share, Value, and Competitive Landscape 2020"
-    excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of Deep Learning in"
-    publishedDateTime: 2021-06-15T10:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-deep-learning-market-size-share-value-and-competitive-landscape-2020-2021-06-15"
+  - title: "B2B FinTech Investors Target SMB Banking, Business Payments To Talent"
+    excerpt: "Nubank's digital banking service for both consumers and small businesses took the lead in this week's B2B venture capital roundup."
+    publishedDateTime: 2021-06-11T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/nubank-venture-capital-smb-banking/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Nubank-investment-Berkshire-Hathaway-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Towards Broad Artificial Intelligence (AI) & The Edge in 2021"
-    excerpt: "Artificial intelligence (AI) has quickened its progress in 2021. A new administration is in place in the US and the talk is about a major push for Green Technology and the need to stimulate next generation infrastructure including AI and 5G to generate economic recovery with David Knight forecasting that 5G has the potential - the potential - to drive GDP growth of 40% or more by 2030."
-    publishedDateTime: 2021-06-14T20:57:00Z
-    webUrl: "https://www.bbntimes.com/science/towards-broad-artificial-intelligence-ai-the-edge-in-2021"
+  - title: "As FinTech Business Models Shift, Asset-Based Funding Evolves, Too"
+    excerpt: "James Sagan, founder and CEO of Architect Capital, discusses how asset-based finance can evolve as the business models of the FinTechs it services evolve, too."
+    publishedDateTime: 2021-06-11T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/architect-capital-asset-based-business-model/amp/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Developments.jpg"
-        width: 1200
-        height: 778
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/01/ledgermatic-digital-asset-treasurer-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
-  - title: "Edge Artificial Intelligence Software Market Growth, Industry Analysis | Global and Regional Market Forecast to 2020-2028"
-    excerpt: "The global edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected"
-    publishedDateTime: 2021-06-11T08:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-software-market-growth-industry-analysis-global-and-regional-market-forecast-to-2020-2028-2021-06-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
-    publishedDateTime: 2021-06-14T15:12:00Z
-    webUrl: "https://www.openpr.com/news/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    ampWebUrl: "https://www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
+  - title: "Global Fintech Market Size & Analysis - Forecast to 2026"
+    excerpt: "As per the research conducted by GME the Global Fintech Market will grow with a CAGR value of 23 7 percent The expansion of the FinTech market is being spurred by the ubiquitousness of technology and innovation in the marketplace"
+    publishedDateTime: 2021-06-11T08:29:00Z
+    webUrl: "https://www.openpr.com/news/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303162/global-fintech-market-size-analysis-forecast-to-2026"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 16
-  - title: "COVID-19 Impact on Mobile Artificial Intelligence Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Mobile Artificial Intelligence Market size is expected to grow at an annual average of 26 3 during 2021 2027 Virtual assistants and bots will become more prevalent and smarter in the near future freeing employees from monotonous tasks"
-    publishedDateTime: 2021-06-11T12:37:00Z
-    webUrl: "https://www.openpr.com/news/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2303432/covid-19-impact-on-mobile-artificial-intelligence-market"
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/6/U611684167_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
+    excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
+    publishedDateTime: 2021-06-14T19:52:00Z
+    webUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/"
+    ampWebUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
-    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
-    publishedDateTime: 2021-06-15T09:47:00Z
-    webUrl: "https://ksusentinel.com/2021/06/15/ai-in-drug-discovery-market-value-projected-to-surge-remarkably-at-double-digit-cagr-during-2020-2026/"
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/06/fintech-real-estate.png"
+        width: 1005
+        height: 575
+        isCached: true
+  - title: "Running a fintech from India during a pandemic"
+    excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
+    publishedDateTime: 2021-06-14T04:31:00Z
+    webUrl: "https://www.altfi.com/article/7994_running-a-fintech-from-india-during-a-pandemic"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
-  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
-    publishedDateTime: 2021-06-15T00:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "The Future Of Wall Street: Fintech 50 2021"
+    excerpt: "Stock markets trade almost entirely electronically and many of Wall Street’s most valuable companies now provide data, technology and software to the big banks, private equity firms and hedge funds th"
+    publishedDateTime: 2021-06-14T01:38:00Z
+    webUrl: "https://forbes.kz/finances/the_future_of_wall_street_fintech_50_2021/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
-    publishedDateTime: 2021-06-15T00:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: Forbes Kazakhstan
+      domain: forbes.kz
+    quality: 24
+    images:
+      - url: "https://static.forbes.kz/img/articles/b0b9e32faf03f7347ff463fad4fe4d4a-og.jpg"
+        width: 720
+        height: 479
+        isCached: true
+  - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
+    excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
+    publishedDateTime: 2021-06-15T12:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19856354.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Talkdesk Financial Services Experience Cloud™ Reimagines the Banking Experience"
+    excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Financial Services Experience Cloud, the industry's first enterprise-grade contact center product built for financial services."
+    publishedDateTime: 2021-06-15T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-talkdesk-financial-services-experience-cloudtrade-reimagines-banking-experience-/2021/06/15/9390978.htm"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "B9 Raises $1.7 Million in Pre-Seed Round to Launch Fintech Platform to Deliver Full Suite of Personal Financial Services"
+    excerpt: "B9 Inc., a fintech startup, announced today it is launching a full suite of app-based financial services. The company raised $1.7 million in an ongoing pre-seed funding round and is building out a platform to address the needs of a huge market"
+    publishedDateTime: 2021-06-15T15:30:00Z
+    webUrl: "https://www.lelezard.com/en/news-19856835.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "nDnk4wnrnjc27sAgdXygGu/ZY60KRfAU58r4iUTXa5HNb9hVG+RkBLkSMxOuyeXz6Zeeq7rgzSzHUhEVEKeOlgNyzxm1JQj/Zesq6IOPe04Pq94CkLwy0YZqR13kwMXWKOP3d381Ho3rLyn7VrD4IEtAnFAfmd+DhVzy3XfJjk+ZFaRe3wp7C69YwMHVF4RWi1U1xQi6Xi0vmBGX5PBr3/5A+Ge8QmKAE8NGatO2zSwB9R3t1wz03PujPTGYwKXLzj+04my02hT45zFlFDYrPOUfC7P/As45FjGila5drndnSH6UnRjQcxxJu/Ovw4G+7Rz1Gp2NZT8yYRLKboNLiJ4vxQ3tEmmwWq7386rtlfU=;EaBhngBXrkUf91eVXI3Ezg=="
 ---

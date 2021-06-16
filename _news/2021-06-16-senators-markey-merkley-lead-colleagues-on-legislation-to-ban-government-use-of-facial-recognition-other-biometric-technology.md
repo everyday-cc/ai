@@ -96,7 +96,7 @@ related:
     provider:
       name: Reason
       domain: reason.com
-    quality: 29
+    quality: 31
   - title: "Congress Re-introduces Bill that Effectively Bans Law Enforcement Use of Facial Recognition Technology"
     excerpt: "Today lawmakers in the House and Senate jointly re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021, which would effectively ban law enforcement use of facial recognition in the United States."
     publishedDateTime: 2021-06-15T17:47:00Z

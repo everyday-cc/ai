@@ -67,6 +67,34 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "China's Huawei to develop self-driving technology by 2025"
+    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T11:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "To diversify, China's Huawei to develop self-driving technology"
+    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
+    publishedDateTime: 2021-06-13T10:45:00Z
+    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Huawei targeting self-driving cars by 2025"
     excerpt: "With the vendor’s smartphone business suffering as a result of US sanctions, emerging technologies in the automotive sector could prove fruitful"
     publishedDateTime: 2021-06-14T13:14:00Z
@@ -110,6 +138,6 @@ related:
         height: 629
         isCached: true
 
-secured: "YEq6WcPezY5bj8k+P8wdbbZCR5nasUf86o+chMOZ7bBFGN9MDp+x2tM8fCldY+kTobCUE0b44Sw0LLABVuEPeSCBNO0Ws5PMJ3dxt+3OnTbjEZjEeD9kktyOW4VvI8WkCCXswSG6ejIZiUqnGo5rmb7Ab1sonUKxTXlqzMPBHi2tfDMcuxjcb3p+Wbm0K/pSKxxTWNJZ82H6ZifNnl1haToku2fKpMe0c9/iLtGB2wxE3SEFGyOnBDuRZxfztQawZGd/s0UxmEwaPoCV8W0j68X3XzsgOoI+aPknFIxM3ERD8kRwIBJu7Ky/2McCaJtGgKDaBKBmEJKNf4AcKyOJRov0tATJ1At5bcBr2T3cdKg=;S6W5/8V/q3BtinDlOCRlAw=="
+secured: "CpclGBmsjHj2dnxgZulfF7Oj1vd/t9O4syuqJIF/hq+JXhJir1C750im0BScmN52mz7MhKtP8FYRKeqanWC4VciUigM/V6YT8tdJBhBYTeeKKYFWq8SuFmlj9gP8e2Ykmk/wRCotlLa0c27GjRBJk34+kvS8tQMRIsJCqvlRlEF6DCIZ+UHw8W763tYRFGexrsmMn69MC3x5Gt/jT7pkRrWVkJ8axe6iO0lslrJaUOxp0fWh0nnX2XP51AKQch8zhbf9LcdIfM5S8+bV/xsWrKa2crxboBuLN6AfAn6fS4Ttkxz+AhsCCZtbdA6n24DjsJB7MU1KpW3D+Dv8p97BD53zf3m9XUeB6ctdDg7Y/6M=;jedhui9vBubAz6frdMVBsw=="
 ---
 

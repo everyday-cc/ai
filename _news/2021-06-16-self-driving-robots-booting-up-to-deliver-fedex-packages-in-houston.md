@@ -59,6 +59,31 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
+    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
+    publishedDateTime: 2021-06-15T21:23:00Z
+    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
+    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
+    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
+    publishedDateTime: 2021-06-11T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
     excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
     publishedDateTime: 2021-06-15T21:04:00Z
@@ -83,6 +108,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "ypMh2igT/0U8ha/lcuz6NQKIa7vpQL7EuIw28bQhehCNPMGIBQ2qly2prS3HD8LECLop+nW8DIo9ba6lM2d1lwXBX9t0Tidrfu3OG159oOvyfwMyC2Tl+WQjYTa9Hr5SQ9v3JefVEIMzOkIFBF4XVtKLKoYyy/G+2mVFfVfTGmUPQKxlypFiqRZBLZRLaPX6cl8QEFNRMStWJ2PMbn+sO1RA3ACjgx0BzstbJVyNdWRXj4bB47blTieJp9t657L2NIlK0DSqb3FHFplhPSLniejgVpD87KduSqIvK6Now3LH4XyJvd1KwsFUSba0VBk8ERR9jOHCqm5dD4/ABZ5k4iNvx/mGHSeM++ZA6jo2Hl4=;vQtF5N3xSNbgscgs17Xpig=="
+secured: "VngOW0BHtVLAeDb6r6Nu/YpJstMHzmzW5Q6lt1HKofoSVtLrhkPzZld9GRdOEJqJbbHmuLJasN4N5M7xjfRrMIbumDboqbVg92DiUzwoNUX69823pe8HEQe/+70M8RqCNzXnnz135dsVkWaxrxZL36Gn/lN4m7+Z7GI+/IERdmfSh0eYMG31Rmx3OI1qcwoZPaahsgpiwH09V1AdaypLsoagGl2g+FldghtowzXjIYg2WRxpVDcL1TYPblgnflJyu9W9/lfE8SBTmpYu0nTzxv7U08NReAMzu9E7amtSAQZBPc8Pw2K+X2MCO9PnEZyH4SL3aYk5Tdj06zrQ/axm5LyY2nl7yY+fIsAVPV3+C7aC5NDs900dsTggaHUyfnNa/W8cFo+M4TIC07RE4sjGqlDl5cLudijSALpbmD/Ks9CIEKmHNqhKrCPtFPiO4ENcRBzYeRPt91Z+eiA4WDuaJDEtS0TGk2ti8aHP4uaFo1LgNFy+4mQOaMTri+PUh+aaYRYFM/UosoXX3Kxq85WSrA==;f9AcEa2aerezhU8eoz4rXA=="
 ---
 

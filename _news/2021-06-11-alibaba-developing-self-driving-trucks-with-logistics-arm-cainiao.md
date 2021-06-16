@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-    excerpt: "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry."
-    publishedDateTime: 2021-06-11T05:48:00Z
-    webUrl: "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2NS05C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Alibaba to develop self-driving trucks; aims to disrupt transportation sector"
     excerpt: "Alibaba has said it intends to develop self-driving trucks. The Chinese e-commerce giant will work with its logistics subsidiary Cainiao, which expects to roll out 1,000 delivery robots next year, the firm's Chief Technology Officer Cheng Li said,"
     publishedDateTime: 2021-06-11T07:47:00Z
@@ -56,57 +40,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/alibaba_505_100621103106.jpg?size=1200:675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    publishedDateTime: 2021-06-15T05:02:00Z
-    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 45
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Alibaba set to roll out self-driving delivery trucks and robots"
-    excerpt: "Alibaba has announced that it plans to deploy 1,000 autonomous delivery robots across Chinese university campuses and local communities over the"
-    publishedDateTime: 2021-06-11T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alibaba-set-to-roll-out-self-driving-delivery-trucks-and-robots-10230736"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "China's Huawei to develop self-driving technology by 2025"
-    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T11:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "To diversify, China's Huawei to develop self-driving technology"
-    excerpt: "China's Huawei Technologies, the world's largest telecommunications equipment manufacturer, has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T10:45:00Z
-    webUrl: "https://www.malaysiasun.com/news/269875273/to-diversify-china-huawei-to-develop-self-driving-technology"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "7xpJl0tFjtjidPgwVOC7lkt/jdOGdkRtH5C7dr944PL+7HYsvIk70gCC/C8wTYWWfXvITh+60QyltFQW+/jAluKtatMC47Zwsl7nGTkRO2tAo0d9CrpBlkm9pbnPBFIzioBCT8nBHu8pXH/r/sJGUtg++U+7gAd+eikcuhZKgVaBr1as66/tfiSVARB+Pe+U9fk8XGIcgJ/og7HABFtb8KKcDLLFjaDZUx+mqmIBFPOp6bjDVZIm1Tz0Fg9a6ehvUGSRWq5L3wf/oFJRDEMtAKHq3AzaKQCP0hs7zrFqNibW884xkwNuNL0zUy8jCO0xiS92I12Vi3EE6061BanTd3ENQUVhG9njhBzgr4UFj3I=;81hYRZ4i0/q9TU5KqVSB3Q=="

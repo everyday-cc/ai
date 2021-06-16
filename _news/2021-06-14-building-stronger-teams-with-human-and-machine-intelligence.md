@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

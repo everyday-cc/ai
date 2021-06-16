@@ -41,7 +41,7 @@ related:
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 104
+    quality: 106
     images:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623768264/Gigabyte_G482-Z54_AMD_logo.jpg"
         width: 1260

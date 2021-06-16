@@ -28,7 +28,7 @@ related:
   - title: "Speakeasy AI Receives USPTO Technology Patent for \"Speech To Intent\""
     excerpt: "Speakeasy AI, award-winning provider of conversational AI solutions across omnichannel self-service and live agent care , announced today the grant of patent"
     publishedDateTime: 2021-06-15T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
     type: article
     provider:
       name: WFMZ-TV

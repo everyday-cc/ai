@@ -27,20 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Wall Street: Fintech 50 2021"
-    excerpt: "Stock markets trade almost entirely electronically and many of Wall Street’s most valuable companies now provide data, technology and software to the big banks, private equity firms and hedge funds th"
-    publishedDateTime: 2021-06-14T01:38:00Z
-    webUrl: "https://forbes.kz/finances/the_future_of_wall_street_fintech_50_2021/"
+  - title: "United Fintech has six experts in its Advisory Board"
+    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
+    publishedDateTime: 2021-06-15T09:37:00Z
+    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-in-its-advisory-board/"
     type: article
     provider:
-      name: Forbes Kazakhstan
-      domain: forbes.kz
-    quality: 24
-    images:
-      - url: "https://static.forbes.kz/img/articles/b0b9e32faf03f7347ff463fad4fe4d4a-og.jpg"
-        width: 720
-        height: 479
-        isCached: true
+      name: Leaprate
+      domain: leaprate.com
+    quality: 4
+  - title: "United Fintech has six experts to its Advisory Board"
+    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
+    publishedDateTime: 2021-06-15T09:44:00Z
+    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-to-its-advisory-board/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 4
   - title: "United Fintech reveals Advisory Board with six experts"
     excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
     publishedDateTime: 2021-06-15T09:52:00Z

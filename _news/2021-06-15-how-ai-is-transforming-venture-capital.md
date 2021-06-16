@@ -54,6 +54,20 @@ related:
         width: 772
         height: 435
         isCached: true
+  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
+    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
+    publishedDateTime: 2021-06-15T05:02:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 45
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Huawei Plans On Making Self-Driving Cars By 2025"
     excerpt: "Chinese tech giant Huawei is in the works of developing its own self-driving car. Huawei's self-driving car is set to launch in 2025."
     publishedDateTime: 2021-06-11T18:06:00Z

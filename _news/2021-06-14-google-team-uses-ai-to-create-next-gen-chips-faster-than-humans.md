@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google claims it is using A.I. to design chips faster than humans"
-    excerpt: "Google claims that it has developed artificial intelligence software that can design computer chip \"floorplans\" faster than humans can."
-    publishedDateTime: 2021-06-11T05:10:00Z
-    webUrl: "https://www.cnbc.com/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/10/google-is-using-ai-to-design-chip-floorplans-faster-than-humans.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104473984-TPU_PERSON_FORWEBONLY_FINAL.jpg?v=1529475121"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Google is training AI to design the next generation of chips"
     excerpt: "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads."
     publishedDateTime: 2021-06-11T09:17:00Z
@@ -59,6 +43,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
+    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
+    publishedDateTime: 2021-06-14T11:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
+        width: 1200
+        height: 960
+        isCached: true
   - title: "Now Google is using AI to design chips, far faster than human engineers can do the job"
     excerpt: "Google's AI has revealed a new model that can automate a complex process at the heart of chip design, saving engineers months-worth of work."
     publishedDateTime: 2021-06-11T07:43:00Z
@@ -74,6 +74,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/11/dd66fb7b-7293-4b83-bd1a-bada8989a926/gettyimages-1094304672.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google team creates next-gen chips using AI"
+    excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
+    publishedDateTime: 2021-06-12T14:44:00Z
+    webUrl: "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695"
+    ampWebUrl: "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
+    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
+    type: article
+    provider:
+      name: Madhyamam
+      domain: madhyamam.com
+    quality: 74
+    images:
+      - url: "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg"
+        width: 400
+        height: 248
         isCached: true
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "To achieve this, the Google team used a dataset of 10,000 chip layouts for a machine-learning model, which was then trained with reinforcement learnin.."
@@ -107,6 +123,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Google Believes AI Will Help Design Next-Gen Chips"
+    excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
+    publishedDateTime: 2021-06-14T10:02:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Google is using AI to design chipsets in just six hours"
     excerpt: "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area."
     publishedDateTime: 2021-06-14T07:06:00Z
@@ -139,21 +171,21 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "A Google AI Designed a Computer Chip as Well as a Human Engineer—But Much Faster"
-    excerpt: "The team trained their agent with over 10,000 chip floorplans. With that library of knowledge, the agent could then explore various alternatives."
-    publishedDateTime: 2021-06-15T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/"
-    ampWebUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
+  - title: "How artificial intelligence is changing the future of air transportation"
+    excerpt: "A George Washington University School of Engineering and Applied Science professor is working on an interdisciplinary research project funded by NASA that aims to design and develop a safety management system for electric autonomous aircraft."
+    publishedDateTime: 2021-06-11T14:29:00Z
+    webUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-artificial-intelligence-future-air.amp"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 69
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 73
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/06/google-AI-computer-chip.jpg"
-        width: 1068
-        height: 601
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
         isCached: true
   - title: "Google’s AI Designs AI Chips Better Than Human Engineers"
     excerpt: "Google has proven that it uses AI algorithms to design AI chips. It takes 6 hours instead of a few months if people do."
@@ -183,6 +215,20 @@ related:
         width: 790
         height: 530
         isCached: true
+  - title: "Next-level chips coming from AI, says Google"
+    excerpt: "Well … it was bound to happen. Artificial intelligence, taking over from humans, when it comes to semiconductor chip design. Pretty soon, these AI algorithms will be designing our toasters, our TVs, our computers,"
+    publishedDateTime: 2021-06-12T01:29:00Z
+    webUrl: "https://menafn.com/1102255042/Next-level-chips-coming-from-AI-says-Google"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-06/11/AT_1f49dimage_story.png"
+        width: 1020
+        height: 647
+        isCached: true
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
     publishedDateTime: 2021-06-14T18:35:00Z
@@ -197,6 +243,45 @@ related:
         width: 700
         height: 535
         isCached: true
+  - title: "Airport Customs Division trains staff on use of artificial intelligence to improve operations"
+    excerpt: "The Customs Division of the Airport has began training in line with efforts to equip its staff with skills to examine goods that go through the airport"
+    publishedDateTime: 2021-06-13T15:15:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Airport-Customs-Division-trains-staff-on-use-of-artificial-intelligence-to-improve-operations-1285303"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 41
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/src/Jan_2019_Kotoka_Airport_Terminal_3.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Google Deploys AI to Build Better AI Hardware Accelerators"
+    excerpt: "Google reports that it is now using AI to build its future Tensor Processing Units. The company has published some work in this area before, about a year ago, but the announcement today indicates the technology has matured."
+    publishedDateTime: 2021-06-11T11:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/323638-google-deploys-ai-to-build-better-ai-hardware-accelerators"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2017/04/TPU-Feature.jpg"
+        width: 1344
+        height: 742
+        isCached: true
+  - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
+    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
+    publishedDateTime: 2021-06-15T19:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21576113/global-wearable-medical-devices-markets-report-2021-integrating-artificial-intelligence-in-the-wea"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21576113"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21576113"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "dptIK+ZoeLwD2HIBna98XK77xm/syg/bLU6I7iq8Xfw3P9is+upA2fyToGMBvjAr1/KyKUrrXDJ3eDgQezE8LiAJ0aHmfaKLtePpyfJnidLMdpRqaLNVPfMrFisPtbEmkKdJvF9s0EFz+9UqOHpK6pR9hHwP6u6tMENmjnHKGJKEvafelb4d5rKkOHKmwibWJABEXEsxTOp70LzBVqyhJGMOpZ8xAtP6FHP0zETgYhdLzICOhz5dqdLN3ySyf5oxz0ehbyiAbSFKnP37Fh+5lQXm/BmjUN2PIHp4pWqxmlkzGIDt7clOXrY7WJY/D9QrPMQeXVHSE5QvCNK2AHCKuEJXkcLhUvDFxbvlZpo878cb/eniITsMR5+9pwFTHgHSnJFC9DsZ3VfcWCQf1hbmxzPc74bkNWkV6cn09oZVQKJoaNfT+yxrjZ7PCPIwSWN8E1pBogpG4IZ15CPrl4OFgkwL2PiwfrwOaY5FFfscdzY3sJo6N9fVio1mudTChFOTCuHItUc7ZNFYJ9yXdaixEg==;GrgS77Wd9StINRotSD2cqw=="
 ---

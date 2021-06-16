@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2021/06/11/waymo-self-driving-trucks-will
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/11/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving tech company testing autonomous big rigs across North Texas roads"
+    excerpt: "FORT WORTH, Texas - If you’re driving the Houston-Fort Worth corridor, you may soon share the road with driverless semis. That’s the goal of a company new to the North Texas landscape. Open roads, decent weather and an established logistics hub and supportive lawmakers are ripe conditions for the autonomous vehicle industry — especially autonomous big rigs."
+    publishedDateTime: 2021-06-15T22:35:00Z
+    webUrl: "https://www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads"
+    ampWebUrl: "https://www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads.amp"
+    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/self-driving-tech-company-testing-autonomous-big-rigs-across-north-texas-roads.amp"
+    type: article
+    provider:
+      name: KDFW
+      domain: fox4news.com
+    quality: 40
+    images:
+      - url: "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/06/932/470/596-530P-TZ_AUTONOMOUS-TRUCKING_00.00.08.20.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Waymo, J.B. Hunt Teaming Up on Self-Driving Experiment"
     excerpt: "Autonomous tech company Waymo plans to team up with trucking company J.B. Hunt to haul freight using trucks equipped with AV systems between Houston and Fort Worth along the I-45 corridor. Get the story at TheDetroitBureau."
     publishedDateTime: 2021-06-11T19:12:00Z

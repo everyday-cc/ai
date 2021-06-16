@@ -99,6 +99,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
+      "title": "AWS Announces General Availability of Amazon Location Service",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Location Service, a new service that makes it easier and more cost-effective for customers to add location functionality to their applications without compromising on user privacy or data security.",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/",
+      "originalUrl": "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-amazon-sns-gains-message-archiving-and-analytics-via-amazon-kinesis-data-firehose.md",
       "title": "Amazon SNS Gains Message Archiving and Analytics via Amazon Kinesis Data Firehose",
       "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. Steve Cosenza discusses why Twitter's ...",
@@ -192,40 +235,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
-      "title": "AWS Announces General Availability of Amazon Location Service",
-      "excerpt": "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
