@@ -8,8 +8,8 @@ webUrl: "https://www.houstonchronicle.com/business/energy/article/Sourcewater-to
 ampWebUrl: "https://www.houstonchronicle.com/business/energy/amp/Sourcewater-to-use-cell-phone-data-machine-16244834.php"
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/energy/amp/Sourcewater-to-use-cell-phone-data-machine-16244834.php"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "gXCIjIhrdTw4y+ZRVlXv8Jc8xFqpx6ATTVaahcXBMdC3V3sHZgXCWPNBhmzGT5LPnl91AEJ2aGQrrgxrdSX1ABN8AocB/ykSk9QorChaNgntVtO62SNsz4E1mofSFJE10mv9dov6y6by2bYCRtAt9vQLdL84p65ZyoeG0mcXEia5p3YPy0c8jID5rmAQDiX+lOyJYnTdStkU2+v4O9FGf4NcPEGITGXVRBPPoM2NZN41h6AjDzJbOmunIbPOa8CxDchTZ2ymM8tQNwBm+rZthpNbGbTcwUSW+dzIKlCqJCuirHEtctW9fgl0Wb2vsWBffFhJxwsc0xrrmm0ikowiMB2T2PeEo6rwWC2a5Z/hYOg=;eRy2pDHfx3WPlJFQ7Wg2AQ=="
+images:
+  - url: "https://s.hdnux.com/photos/01/20/44/10/21119531/5/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "QmfrHZc9x4G7XlVrvMQSG9XJ7X0horg7e6c9EawpCaS/+b+phbBpbNriYJvjpR9ovzmf3oM77boQ+tUlZtinYjtDaSMe0KRUhZ+3Cm0Jm4JnOiHG23tpkeQO64TnHKVFNXMOo/fTCSTZ2+WZgpVqIekJI77tiE9q6seMcWQgf1vmg5z870b/d2o/wJoaTk8rlRvFaoBxdkZc/HCIQ2J5JxBoIc8moWYNO53fXdEKGssY4NZG5+/u6nWnQLe/tnj5b+u53jPGDkjtjqbYtbH5TemeJCq5L+x1SDSUsxbvNG047aOlLgNV8/4185b86yBkmvqIB6spWwn2jaMAQfdnkf2eWDeEYUfvDLq8A8zuJiU=;0NDMC1aiwSeLJWWM24iIgA=="
 ---
 

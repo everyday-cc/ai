@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/alphabets-wa
 webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
 type: article
 quality: 84
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -118,6 +118,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
+    publishedDateTime: 2021-06-16T16:40:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
     publishedDateTime: 2021-06-16T14:14:00Z

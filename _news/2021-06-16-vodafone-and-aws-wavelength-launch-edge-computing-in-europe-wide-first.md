@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-l
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Vodafone to Offer Low-latency MEC Services in London using AWS Wavelength"
+    excerpt: "Vodafone has partnered with AWS to launch Multi-access Edge Compute (MEC) services delivered with AWS Wavelength for"
+    publishedDateTime: 2021-06-17T02:19:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20011-vodafone-to-offer-low-latency-mec-services-in-london-using-aws-wavelength"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e6e53316dab589701282337c324db2a8.jpg?t=20210617_021816"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "Dp9ek8xqvWj4NE4kHFZxZ/OGHwne5YS4RLZcobvnOIRmucfnKORTKEJ6duSLom0gXxsoN0HS/rykY6zoNkkJHfrAs/hQ0WkMolY3FcR8B8MHnLl9rJ4Vwtde2PFPb3RuSiAaTMwwRK+RD1x8RMNcu1tGghM06sXLu2FefjMgSp4QL1tKhP+kkV+LNS0cLSpbQdm2G/YydqAipveP17j1GPOICRTRkbmBJPXPwCQn1jqQVdvbTY/QlOu8V0zGoHJcvCYVV42Uc9FvtBje1eRcySzHvRVarayqKQeSdywr6YTIpzZ0mapMiwONGTlP30eANf/6Hnl1Zhg2N6RFJQOpyGzg7RZkAzh8vpAAbpfuTapTML+4BU3O4MVN7uyTjpLWxyy2VVOSGK80yYDOVGSliQVKHHCsB1WleXksNbtbHbcralnQ3KFgB2716hWZg0s9ULyc7jQ5wRjGfii0oAFIKlppDw4+P/8D7NFuDPzABcCPTuaPpC04B0pYKEPkzGuLCCoqGP0+WVm1ow/ach04AA==;GqSaslJlYzIcnfbS1mRJyw=="
 ---

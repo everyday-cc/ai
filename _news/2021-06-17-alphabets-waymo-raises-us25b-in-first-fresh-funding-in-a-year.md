@@ -128,6 +128,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
+    publishedDateTime: 2021-06-16T16:40:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
     publishedDateTime: 2021-06-16T14:14:00Z
@@ -174,6 +190,6 @@ related:
       domain: newsobserver.com
     quality: 32
 
-secured: "NulcW78FFS8dgXmocKlkZeEyjrCKR255mdWeFDXBRnjSYD0886LB8by6SEfkuZ2g/qKFVWsMiLWzAQg9j6HMx0jjXjidVKnVBBBP/3S9eaM3MgqqKidkk0DLNUJHDZ94Ap190K9M+hPBzrAc+3bOSprm/p76HLRn2zm5N1gWmUf5p3ZqEDN6XV/ra9PYaITV34p+A/1GoHLo2rg8t0Llp5nBWucL14REaFNWIeBJQ9y/AjdMvwIQe7054I4jpEK4a8H6un1nvmDmFmXbG/F/+M/oYNg4VeMVw+1jKzZZQdBcxlcsjjlkTYi156BDkyHqcZtzFIBR75esuTZ0ej5JbmXakv60t8Kc8ZuzDScdpB0=;NCM0g3jRjNkqSqBKm9HRJA=="
+secured: "EWt27T+zK6JiD3j1couodLhi3afcBKbROwe0vc0RmO6QzP1KgOLkdQlhd32eUZ40UA8/YH8BG2smqclAMSVjj6GUGS3QRayHKMBPPppGRX4TGDBkpjRJL0rDWdNU8IS9DEDe/J5FZcTAAlaqwBJOe6bUmr0b09IW2olYzWR7ZiYODU4tlqb7KW7iovySjaWgKwoox51sNw/r9CPfujR8JPUJe7fGkvGjR+VeqIO/YST+7gV12NC4XL7bbNB0X0uAGxgHceS7VDB4umgaDJf/BSwMVF1IlJwYILa2DzFhquBxM2G0TTo/JPyETzsIPMqpuPpB77m1Hn95EAxttXXu3MVM+LIN5x7A0vZ6CXsdlzkcOG2L5uz+GlIz/8wuUSlFmPdf8JA8pB810kfo+RFxT+Nhl0lHwkWf+ZL0UXyMpOD/ONfKNobmOs+60inS0WrjYZNW4qT18HyVUB5D3F3q8cY5rLdGsWVj1dS+iaNx9MQd9bmFg/NDSCWFQITmc7sTqNArFqZA+tk9HGByzncREg==;mHdhPkynbSIjYr67XHaTYg=="
 ---
 

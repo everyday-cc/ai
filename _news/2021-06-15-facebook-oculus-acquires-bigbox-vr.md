@@ -26,6 +26,24 @@ images:
     height: 274
     isCached: true
 
+related:
+  - title: "Facebook Tests In-Headset VR Ads For Oculus"
+    excerpt: "Facebook is furthering its virtual reality (VR) project with a “small test” of in-headset ads, which could ultimately become available across the Oculus landscape."
+    publishedDateTime: 2021-06-17T02:54:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/facebook-tests-in-headset-virtual-reality-ads-oculus/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-tests-in-headset-virtual-reality-ads-oculus/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-tests-in-headset-virtual-reality-ads-oculus/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_613702247-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+
 secured: "ZxpmaiKsxCnFM3x3gnkSDdSx/mi4W67lRdApuvNtRT9NXXnaij5YdKmEJy+4cy+6vIR6zJBUkj6i72uK+W9SSz/bvU6zmUy1FT+Zfz9M2uFi25rqFKnQ73vZAEkec7LjcduQmgBXvJameTgX1yaYUb9FRZ0zhm5oigowfSifrmW/uX+HTAAS7qmbAjGfSwWUMlTKh4t2/qbJGi9hrAsBoWLMCV9RZYaqeVE0lJe0sBSgwK6wCrqSxPA1Gi6d1RK4VvXQjktWhSbpSTpwZPqsgItmXyySf8w+8LvVnUlXNHLalYCpIcBxKit3rB1GsYQxQZ6sCf2wAk24h5gwrh1QUDrP8VKiFLBqoBnRrQqcE72Bli6hxqwuiLyPIrLmdRrmr7+tUrjh+H9MOf752qimMtejClAykaVeqtv5iDmXax+Pu1k1UpIgRM5edvMR736aFLyK7wXnBGqz21Mj7TPh0QhzEuPdNubEJW6+lLh8m1w54zilUrfV/VulLrBOqNh5wb0vZOQYhvO+SlROQO9zYg==;hswROWvZ1DoKgp8n5I9Zag=="
 ---
 

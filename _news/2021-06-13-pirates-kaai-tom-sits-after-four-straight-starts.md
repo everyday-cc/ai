@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-sit
 cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-sits-after-four-straight-starts/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Pirates' Ka'ai Tom: Struggles continue Friday"
-    excerpt: "Struggles continue Friday"
-    publishedDateTime: 2021-06-12T10:48:00Z
-    webUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-struggles-continue-friday/"
-    ampWebUrl: "https://www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-struggles-continue-friday/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/fantasy/baseball/news/pirates-kaai-tom-struggles-continue-friday/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 37
 
 secured: "ndkIBHiZimz6YLteXlMVC5qta/FrIuBCGaltBpW6EWD0TBh6neoaPXSH7BkUqCrikQpaeAdfkOTkf6yMptbeBOvF2tCy6rBQdIgXaiivHXlNh9ZUMJN/zqi1e5lPVF2hEbjydNuXIMNvpwWu+Jkifs7lnQ3fGYQDqzkFaa4I8r0ZteaZsodJinyGszUnkvvT7xXjQvjp4ekmw4zcoqLwnDTFAUf+vPtwt/MWBFS1R4Y6YLhnNnEL4EFdpMKB6+nvUkZkZ1HAEQ8jPpbPa47aCCWzBPfds3PFHGqthh2RLc9YATtVgDgXKjPwbVPc/5OBOt/jRbl+9FO7lwkj+6B9hYhI0Pa18gqMkGOnCiyHEkNisSMa22Yy1VGsPYD+GzRwLj4FbC8HTzoH0OI+H2P4sWy/6GOUA+q8zVH4kgmI4CVx8u90tw/TOwMQmSuplvNLK86EfW4Qs9y6zVhO4oSibFouhoq6NkX039CUm1zgCZxM6aj6rD/w+ZGekphi01wg8EF/HySatRWFs0L5Y6OowA==;M44aCDs6PJizBdHcLtKyqg=="
 ---

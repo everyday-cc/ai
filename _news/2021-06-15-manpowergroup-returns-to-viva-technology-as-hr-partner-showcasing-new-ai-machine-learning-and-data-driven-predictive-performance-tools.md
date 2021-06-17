@@ -1,29 +1,65 @@
 ---
 category: news
 title: "ManpowerGroup Returns to Viva Technology as HR Partner, Showcasing New AI, Machine-Learning and Data-Driven Predictive Performance Tools"
-excerpt: "PRNewswire/ -- (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online"
-publishedDateTime: 2021-06-15T13:23:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data/article_dc6cc4e1-4fc9-53da-a662-088418d8f936.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data/article_dc6cc4e1-4fc9-53da-a662-088418d8f936.html"
+excerpt: "ManpowerGroup (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online this week. ManpowerGroup will share innovation that improves people's lives and solves one of the world's most pressing social issues - how to provide meaningful,"
+publishedDateTime: 2021-06-15T15:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
+webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 type: article
-quality: 6
-heat: 6
+quality: 36
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/83/483c9309-6d7c-50bb-b666-954d8e6a9ea1/604ef6669f076.image.jpg?resize=1159%2C630"
-    width: 1159
-    height: 630
+  - url: "https://mma.prnewswire.com/media/391655/ManpowerGroup_Logo.jpg"
+    width: 400
+    height: 217
     isCached: true
 
-secured: "4jK0VbZGW7c4D8ll6Ccm3uK+9lh5wRNm7wVAtKSeAehnQKgIRJ3u0BZNywnMTB5YK1e3x7QhDUCKvacm09u/soXSZnYSe/0YthR8qnCn3GEciv0lfW/fCDKDLt068TlIzBDhxbj1ARvCwYR6dReNNKUf70Iv8v91G3Z1GfwEOiEybifXf5toRM6K037i2vrYoq5WGqVlllfIA5mbCmjq375r9HOL7agC4p2nyR2EOemEeaPr7awaO5bCqKf1gZ4PNFQXHTKe4qImwFrBtn8AQHqRf7bSHQrqd/3w1PKgoHd/TvZcZjEU+UzxqQsLBwYCISr/rSyVtvY1Dp+3WerbimfWCOXM4qtW9G2tTWY/ASw=;s0kcUSQVGmGTCq4arP+xqQ=="
+related:
+  - title: "Invention uses machine-learned human emotions to 'drive' autonomous vehicles"
+    excerpt: "Americans have one of the highest levels of fear in the world when it comes to technology related to robotic systems and self-driving cars. Addressing these concerns is paramount if the technology hopes to move forward."
+    publishedDateTime: 2021-06-16T06:08:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-learned-human-emotions-autonomous-vehicles.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/invention-uses-machine.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
+  - title: "Motion Grazer uses machine learning to assess status of sows"
+    excerpt: "It's not quite up there with \"what's good for the goose is good for the gander,\" but Madonna Benjamin, a former pig farmer in Ontario turned agtech professor at Michigan State University, hopes there will be a lot of revenue for her startup,"
+    publishedDateTime: 2021-06-13T04:12:00Z
+    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/motion-grazer-uses-machine-learning-assess-status-sows"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 39
+    images:
+      - url: "https://www.crainsdetroit.com/s3/files/styles/800x600/public/MGAI%20Madonna%20Benjamin%20with%20pigs-main_i.png"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "5NpPXZtbO5yToQVZAmZZLC5msyEam9OeJS3MBFjoWiHYeDUU6km15WfWsIYJmZ8fdaFZmea5lrBXmou30k4nX5HiK9VeO1EHCPFU0n6cuLhAC2JVq3ZITKcmv21mSgDQ3c5HlQ5Fyh5PZ0FIGPzqx7Oh8g1KBdlN/otkhcHLZm71pBi1bq8DOenIP6OlhV+lUvQQ+tpDkeherUDjj0SwEpBjWESaduK0U7M97JpSwcCuTp/OMrz+UFZbSLBu3NrHS5NpD4cJn9NoA5tKIiMaXCCJX0oSL07aygzJ/SFDoiJv+ZxC/ZTSwnTVjoPaPzxRsh7ZCFmSVH72hLjzay8+wsfpiF1B+gq34U6bACEJJ7w=;cWM4GNkKQdT1nhVtjaAs7A=="
 ---
 
