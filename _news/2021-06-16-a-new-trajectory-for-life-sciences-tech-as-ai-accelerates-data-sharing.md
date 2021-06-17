@@ -38,6 +38,20 @@ related:
         width: 400
         height: 307
         isCached: true
+  - title: "AI-Powered Automation is Enterprise Automation 2.0"
+    excerpt: "To meet this demand, we are turbocharging automation with artificial intelligence (AI) to enable enterprises to automate a broader set of tasks, as the following examples illustrate: Task elimination targets simple,"
+    publishedDateTime: 2021-06-14T16:27:00Z
+    webUrl: "https://www.cio.com/article/3621994/ai-powered-automation-is-enterprise-automation-2-0.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1205896326-100892145-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "/nvcIzWQZB83VFEOTpiD5p92Z4YE4T2R1hQEJ7XXdLk3YqFY96bYuofPHOUlLVFPXmMiezxcBQbQv4LIFamNmBOJ9ewmzAQSxUpOMxEOvpjzMmpN0TAVSlc+rCjrgdzcFuQdeDah+eZq7PUGJJ7hI4LyQL8TftnkIH9C/jhwtOCmPwQZ9Da2Hm6IZME7OdTScBhQaRK+z4E9SgWg6y14+Un1Xe52rpNaK3KW3KgJX/Iu0+vx4gynUPLT16rcSeSYi4gIodcLj3SjznWKSER4xfCrx0Er2/QMTdNdPnXy8giJ8thQJscW+zqQHwn/KGAi+Ato03feOhHfiYgf4sVBK3IGR4RCFm2vP+JZTRJnQtElPR34rfGR05kXccsCFHRgKh/K+5q2X/kdZG7gYkt4tFgDyFEg3SysqRNbKljkUakPSfz4IJZ+k0OizxZfXG0B2Qd7XxyTvWvXGxMhs87+zURaH08ByWmdoVhdEzT9cpd3i4Oo11Pf7Qx0cJmx3HwvKwHF50vv2YtiLjSXUyddVw==;K/fiMZT1q9/ImOsi9tYF9A=="
 ---

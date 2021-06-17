@@ -44,14 +44,19 @@ related:
         height: 518
         isCached: true
   - title: "AI system-on-chip runs on solar power"
-    excerpt: "Engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,"
-    publishedDateTime: 2021-06-17T13:35:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210617082735.htm"
+    excerpt: "CSEM engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,"
+    publishedDateTime: 2021-06-17T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/scfe-asr061521.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/267932_web.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Two-tier AI system-on-a-chip can run on tiny solar cell"
     excerpt: "Engineers from the Swiss Centre for Electronics and Microtechnology (CSEM) have developed a system-on-a-chip which executes AI operations locally and can run on either a tiny battery or a solar cell."
     publishedDateTime: 2021-06-17T13:00:00Z
@@ -67,6 +72,6 @@ related:
         height: 450
         isCached: true
 
-secured: "AryF/m87mpx2X93jrpq1QgaZqeAfUee9flw39YgMAuY4fAitX+D6V21mifTLhRQNgGnMvpYS0iHJbbao22Q0oD99Efd4tUWqdw/ZdFMBSABnsuqIcfjCg9mYpmALYry9WYjEGiwsbf0DS/Il1Xp2/uLmrHiNcQUS3GeHt+2LROOhquO54boj3x/9JnPENTqzpOVGN3blt/N27dFoo3s+qMhyf8mHNl0vAgQtqxwy+tyC9Z+mLaiZ6Y10Juw25ArNw8wBfZKvlGlE+In0VTlUeqaYSZuaydGY1yghmTCwM6eFLLvB02gAvkmcchX5lQ+crBEMwNzWMgoHKxwmlqRge8KXWUFPPmfp9d7YtcW+KNU=;MLzSo5Us0Ui/sqAcmzNwBA=="
+secured: "nO2/dqqsch/GB1pPN5GoRLR/Pu8qnGtHa0tutwvK8jxFrcRz6Fn4Oy01THSKPc+JoAUJ1ugNxScBGw8FHsSoQLtBt+XeEI+WQ7nS3WqFG8xLlq0j2sUR5g/+tkm0uJZRPQ4c1Iw12SI/h/H2dD5Lx/NBEecU5/im0k9dGSBKvZHoicfU/RMpiN0ISxhw42lO69dLFSZamBd1Vevbb5kzahSg1jK1zF4rhku/fsMyGXq4r5R2XpoWPeHCaxW6Hkm6sO+rCpz6ElAtgsD6F83NFYKHpht/9NEwqnEDiCDSlYNfhLRVCqpyZ15Go4WWDxFtebqwGs+sSou59qYKlixnR4aEA/ykcPMqG7Mibt+YQ2lAB0YCjtvzbpQCuqNom39gqJHBSNtwjHEGi/ElX9stiylJmNA8dI/L9PoHAzf9vkIlg/R/g72ERG7yJqAhHbtrrgjF0PHIEpoLHY5tyS6Cv3Zs0kHhnZdPteLeoq0LwtfvZ/Dbv9VKR5NEv2azI7Yfv0K3ehNcOPaIeKnA5hSwew==;Y/1vN3sY1WkNvz45EzvPYw=="
 ---
 

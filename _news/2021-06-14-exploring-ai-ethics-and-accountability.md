@@ -44,6 +44,17 @@ related:
         width: 1195
         height: 672
         isCached: true
+  - title: "Nurturing a Relationship between AI and the Security Team"
+    excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
+    publishedDateTime: 2021-06-14T08:50:00Z
+    webUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/"
+    ampWebUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 58
 
 secured: "w2mKes1VYB6aP86gT86rybgjwF0CmdWp/yVjzPfuDaVrD3lLZd5loq8NeRMV42ENffx7yNbGMjNRTKEd64MUBnqtNnCeZelcr0mKO2lX7+Sx6Zh5a1v3J+HKN6UxJ6JVKymWAByQuumVxoWjDgO52k0JwGrOYvBI4Jk4df9UBJWu98qeabqcNIZkpevLJDjv+C+EEQsPale7/wxypXuGmxAHkHHvolr01GQ8mZ4uLaKosQrdmih7qwXGPvWJ8FQu+7kRLNnGdrOBlsXczkk3+YHeXJ31Qn7hmNGewtKi0QHI/HRhS7a94LIliliIKhhIkL9wLYrXEapJ1cFpFp910yNnvX48R7q8FBrgenRavEU=;HIvQRAg5y1L3KX184hNcuw=="
 ---

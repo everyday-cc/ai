@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook, Michigan State University Researchers Develop Tech To Pinpoint Origin Of Deepfakes"
+    excerpt: "opefully, this will also help keep deepfakes in the realm of being silly and fun, rather than becoming a threat to democracy, journalism, and communications for all people."
+    publishedDateTime: 2021-06-17T17:42:00Z
+    webUrl: "https://hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
+    ampWebUrl: "https://amp.hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55430/content/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool.jpg"
+        width: 708
+        height: 354
+        isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
     excerpt: "Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear realistic. They've become harder to detect."
     publishedDateTime: 2021-06-17T10:47:00Z

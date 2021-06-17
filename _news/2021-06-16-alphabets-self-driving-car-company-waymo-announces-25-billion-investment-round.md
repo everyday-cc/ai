@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-b
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
 type: article
 quality: 154
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -140,20 +140,20 @@ related:
         height: 336
         isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
+    publishedDateTime: 2021-06-16T18:34:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    ampWebUrl: "https://www.sfchronicle.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.hdnux.com/photos/01/20/47/10/21131791/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
@@ -225,6 +225,15 @@ related:
     provider:
       name: electronics360.globalspec
       domain: globalspec.com
+    quality: 19
+  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
+    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX. The Class 8 trucks equipped with Waymo Driver autonomous software and hardware system will operate on Interstate 45 carrying a trained ..."
+    publishedDateTime: 2021-06-17T17:26:00Z
+    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "7QCKWVza2tbzkp1/SocTApvNYuqIc9M6PgXI8jiR9ftzsVPrtgMyQO7NwHuggMbIZqN6SpNksjmyjjs5S0/YMwFG1JG1pE2tZhZtpMV/czUStMkqyr34uGLgPWXdWpIczNMVWdv499D9zNLnzfnkwTU5xAw35YxWrynluoZzmVTeCEYSEQHQGIHHTyfNzdKv6snmxT6TRfJoOqla/6/sHdn5je6K5YVT+D1rShdAcPx5LP0yWSoK4WrOhdzvADe8/qGMbylV+kh0JQLKbPjzVPRTvjAn73sPaH+/HJCtNTEJ6LeoXvR/fR5JTEIuJKLNUd7Z29OVU4sqXjwfizdXfGf/q3fQNbDRy37dUqaKLKA=;JWphUlop9FoF9g1Ys0V1Gg=="

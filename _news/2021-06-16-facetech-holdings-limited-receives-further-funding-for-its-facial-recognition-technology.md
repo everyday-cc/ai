@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
+    excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
+    publishedDateTime: 2021-06-17T17:16:00Z
+    webUrl: "https://www.voanews.com/silicon-valley-technology/facial-recognition-technology-solves-crimes-what-cost"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 39
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/kaltura-video-thumbs/1_1/1_1ug7wck0.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Comparitech facial recognition report highlights growing, variable global market"
     excerpt: "Comparitech analyzed 100 countries’ facial recognition technology use within government, police, airports, schools, banking, workplaces, and public transport."
     publishedDateTime: 2021-06-14T21:11:00Z

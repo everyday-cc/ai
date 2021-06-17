@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 681
     isCached: true
 
-secured: "nsQBJEldzg6GA6pHpkVqnp41WpzXrWp+GNLV82ItkUwGYkv848V1sd2xNrhggS+GU9KkDYRUIg9mVV9RRv8VByPgI/kZW4ydyGUWIIPPw3O01ABsexfGqVeG1aB2ItLIDOm4a2c+I0sjnq609JivPaGk4GFWnqNOFyRtnr/jI9oZE0JtlcVT49/lvLfTwJbLGiH/hZxavPfYXtpKK6jfFZBr8tUKiW3YDXLWGjhV8DILUc2+qZxIS5ns+Sfe85Suwn85Xvl2WgNvaCYwfQyluMOq6+geBjktnhcggYqxTHo24Q583E53898uf8Pqv0TDIh9g4pNYrz8p+wW/x7gOGnd5/Nkxar/pNboF/Jg0z9I=;ywn64a1JvDe/GvP9h0FwtQ=="
+secured: "JMor2l5/lYUgs705XoMe6fgv1aQ1A3LwnA1sTnJ4EERAL5mKZjtiTcyaH3W3Mk8xW2oTjdxj/URFdi9+/cLCY4HSoTJbjrnf9yeJ4EE2PcXL9bl98+IeVewIBScDleQl+INc7/EEoQgkAkVELBe8BmpH2ivObxRrlnKlFAerc2ilpA8OPRGusAmFzwYXA6dEZvJErAWVV2FkPfKq5n/2d31e35adDaOUHi0m9LpIXYQsHcpPVDiCakMCOdJPi6KbuC5GPWOLlI8esIudw6eyCIHObGQlu98YyAAOIn45BvZpo/cLuxixXV3Iiie7oUQNav7FYPMRvxKfJsn6K8PHlucxP5CBu3M2WRCSq5Q/caUamXVANxuu9GuR4S+0NoD7ZGHVme1G9CM1/dnnynN9zkzJ/mKk8E0E/dJsViso3lDdwoGhW0rGdIgj5yCsvSKRDeDQGvh/xjbTYNSRFU/6Tyrx9C0xWETVxbhwxKYA3VIZAEHh68QLgxonyMYUaLgwbPwl6ITnVjOZAvycRNL94g==;a4TjQrwietXCuDLJtiO8tQ=="
 ---
 

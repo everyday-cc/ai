@@ -2,6 +2,177 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-05-21-heru-series-a-funding-accelerates-cloud-and-artificial-intelligence-enabled-wearable-vision-diagnosis-and-therapy.md",
+      "title": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
+      "excerpt": "Heru Series A Funding Accelerates Cloud and Artificial Intelligence-Enabled Wearable Vision Diagnosis and Therapy",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210520005301/en/Heru-Series-A-Funding-Accelerates-Cloud-and-Artificial-Intelligence-Enabled-Wearable-Vision-Diagnosis-and-Therapy",
+      "originalUrl": "https://www.businesswire.com/news/home/20210520005301/en/Heru-Series-A-Funding-Accelerates-Cloud-and-Artificial-Intelligence-Enabled-Wearable-Vision-Diagnosis-and-Therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns.md",
+      "title": "Disorderly transition to net zero could pose risk to financial system, Lane warns",
+      "excerpt": "A disorderly or incomplete transition to net zero carbon emissions poses a major risk to the global financial system ... eletricity would be two to tree times what it is now if the transition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "originalUrl": "https://www.irishtimes.com/news/environment/disorderly-transition-to-net-zero-could-pose-risk-to-financial-system-lane-warns-1.4569591",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F273bcfd2-ad78-4020-9426-e44dae599de6.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/61c1945c-d153-4d58-b9c5-dffd99a6919e",
+      "publishedDateTime": "2021-05-20T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-robotics-technology-market-tipped-to-skyrocket-to-189-billion-by-2027.md",
+      "title": "Robotics Technology Market Tipped To Skyrocket To $189 billion By 2027",
+      "excerpt": "In wake of COVID-19, demand of robotics technology is expected to increase among several industries such as supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "originalUrl": "https://www.techbooky.com/robotics-market-189b-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/abstract-robot-thinking-800x450-1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "cdnAmpWebUrl": "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/robotics-market-189b-2027/?amp=1",
+      "publishedDateTime": "2021-05-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-jim-kellers-tenstorrent-secures-200-million-in-new-funding-looks-to-surpass-nvidias-ai.md",
+      "title": "Jim Keller's Tenstorrent secures $200 million in new funding, looks to surpass Nvidia's AI",
+      "excerpt": "Tenstorrent is currently working on the Grayskull AI processor, which has already been sampling with select early customers. The Grayskull architecture uses proprietary Tensix cores, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "originalUrl": "https://www.techspot.com/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-20-image-16.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89763-jim-keller-tenstorrent-secures-200-million-new-funding.html",
+      "publishedDateTime": "2021-05-20T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-geospatial-startup-unfoldedai-acquired-by-foursquare.md",
       "title": "Geospatial startup Unfolded.ai acquired by Foursquare",
       "excerpt": "Well, that was fast. Just a few months after raising its seed round, Unfolded.ai announced today that it is being acquired by Foursquare. Terms of the deal were not disclosed. The startup had raised a total of about $6 million when we last checked in with them.",
@@ -953,187 +1124,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork.md",
-      "title": "Dooly raises $80M more for its AI tools to help salespeople manage their busywork",
-      "excerpt": "Salespeople have more tools than ever these days to help them with their work, whether they are tools to source new leads, keep those leads interested or informed about what’s being sold, to track how the sales process is going,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/",
-      "originalUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-173607777.jpg?w=1024",
-          "width": 1024,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/20/dooly-raises-80m-more-for-its-ai-tools-to-help-salespeople-manage-their-busywork/amp/",
-      "publishedDateTime": "2021-05-20T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum-japan-monstar-screen-2-trial.md",
-      "title": "Caris Life Sciences and National Cancer Center Japan Announce Exclusive Collaboration to Launch The SCRUM-Japan MONSTAR-SCREEN-2 Trial",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today they",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
-      "originalUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/inforney.com/content/tncms/assets/v3/editorial/5/ff/5ffcd25b-7333-518e-bb6a-6f66d5176c83/606c3c27ea886.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News in Forney",
-        "domain": "inforney.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-future-with-all-challenges-and-opportunity-of-natural-language-processing-market.md",
-      "title": "Future with all challenges and opportunity of Natural Language Processing Market",
-      "excerpt": "The most important of these discoveries was that of natural language processing, which turned out to the most sought after technological and linguistic advancement in the world. In the 1900s, a professor at the University of Geneva,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/future-with-all-challenges-and-opportunity-of-natural-language-processing-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/Market-Research-New-Report-27.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-equinix-uses-precision-robotics-in-healthcare-tech-quest.md",
-      "title": "Equinix uses Precision Robotics in healthcare tech quest",
-      "excerpt": "Digital infrastructure firm Equinix has announced that Precision Robotics, a surgical robotics startup from Imperial College London, has deployed an NVIDIA DGX A100 system in Equinix International Business Exchange HK4 in Hong Kong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
-      "originalUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theasset.com/storage/Image/2021/May/1621487663robosurg4c.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asset",
-        "domain": "theasset.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to invest in robotics and artificial intelligence"
+    excerpt: "While Big Tech companies are investing heavily in robotics and AI, they will not be the only winners Investors can gain broad exposure to these long-term structural trends through funds Robotics and artificial intelligence (AI) are often associated with science fiction and futuristic visions of how we might one day live and work."
+    publishedDateTime: 2021-06-17T17:44:00Z
+    webUrl: "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-machines-how-to-invest-in-robotics-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Investors Chronicle
+      domain: investorschronicle.co.uk
+    quality: 69
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fic-ez-prod%2Fez%2Fimages%2F1%2F4%2F3%2F8%2F4798341-1-eng-GB%2Fdominik-scythe-Sot0f3hQQ4Y-unsplash+%281%29.jpg?source=invchron"
+        width: 4928
+        height: 2845
+        isCached: true
 
 secured: "BDYAGySb/AjXBm5ERdpko/d/jL9AjdEGyLcZcyp5iZuO9KPn2J9aZhaddtmAajNnd2oI+jO0umY4A/CY+sdagSx5H96i+lUBtQ73q4rqFi6PbOEgtGRU0bbBQhTRCQ/JRz65WE0/jPtYb7aJnTrVLDITn3m3mH9H/ezyTQSIAa105qGwbGYeFH7bdf26tkGiARAj9DsDhrOTP3kWVcMmLxSmwI48O+u7+RVK4vEiQLpuHUBJETfSYpEZuJ2Lm5sJFIq5aQKmpLFshoZ9Xc8sf6wb+Ma/rQYNrj5u5LlK4dCRr8ESQOoCxZ0J8m91BG9rtqKyuJ0p95kdFoNKxx4oeYoemCYWfq0BfZV31RZzEmE=;DFITS08S9mhaC4u6TKU8uQ=="
 ---

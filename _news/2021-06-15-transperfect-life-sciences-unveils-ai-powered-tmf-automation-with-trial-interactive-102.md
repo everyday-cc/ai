@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/transperfect-life-
 webUrl: "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Automation is Enterprise Automation 2.0"
+    excerpt: "To meet this demand, we are turbocharging automation with artificial intelligence (AI) to enable enterprises to automate a broader set of tasks, as the following examples illustrate: Task elimination targets simple,"
+    publishedDateTime: 2021-06-14T16:27:00Z
+    webUrl: "https://www.cio.com/article/3621994/ai-powered-automation-is-enterprise-automation-2-0.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1205896326-100892145-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "A new trajectory for life sciences tech as AI accelerates data sharing"
     excerpt: "Technological advances in big data, artificial intelligence and cloud computing have altered the trajectory of research and development, energizing and influential industry. The COVID-19 pandemic bolstered telemedicine and eHealth solutions,"
     publishedDateTime: 2021-06-15T22:53:00Z

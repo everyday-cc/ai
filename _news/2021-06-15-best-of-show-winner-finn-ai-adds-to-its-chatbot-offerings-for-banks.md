@@ -7,8 +7,8 @@ originalUrl: "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatb
 webUrl: "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: finovate.com
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ann Arbor’s Clinc launches artificial intelligence products for banks, credit unions"
+    excerpt: "Clinc AI announced this week a new suite of patented conversational artificial intelligence products for credit unions and banks. The company’s conversational AI platform acts as a foundation of the new technology,"
+    publishedDateTime: 2021-06-17T16:25:00Z
+    webUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/"
+    ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/MNZR3SZOLRBSLIUEECCBWR4YGA.jpg"
+        width: 640
+        height: 359
+        isCached: true
   - title: "Finn AI adds three new chatbot service levels"
     excerpt: "Finn AI, the leading provider of conversational AI for banks, today announces three new chatbot service Levels, each built on the same AI foundation, designed to let banks and credit unions choose an optimal path for delivering AI enhanced experiences to their customers and members."
     publishedDateTime: 2021-06-14T20:07:00Z

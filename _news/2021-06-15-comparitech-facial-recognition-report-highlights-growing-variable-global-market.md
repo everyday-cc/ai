@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
+    excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
+    publishedDateTime: 2021-06-17T17:16:00Z
+    webUrl: "https://www.voanews.com/silicon-valley-technology/facial-recognition-technology-solves-crimes-what-cost"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 39
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/kaltura-video-thumbs/1_1/1_1ug7wck0.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "eWxl3kXIqPWvjm0xtpRCyIPepZZj6OPj+aVTq7GRuMRni6cPwlZ5MqazI5tCHkPm1Lv7qmn/NMO9oPd+vbzbdyxB/iJKuGwl/LuxP/AocmaAToEBWxyZ6ZxNtLY0jt5ADqSxpJGR32GX25vH7Dt1ND21reIHmTyp+I3XlV55ycUpJBxFIZI25UV0QJ/pglN7WtwqZJFP3WLzDijo8HYwppT5IqgtR/5mdtcAXEwgxs2eeI7BMqhIrrZYFNMXAA0/JpBIb3x8Kbxm3BFK1gYSPVaqaneE9defNPG7j4G8nVXfI8gXeUNaICJyVSqWbBug5botlJooBpi3Rcw5FFG1WMYwGG2wwWR5kIYIYH/8ENqGyTovE9uLbcAxBykEA2y5GXQL1pa025NnvHIBhlK8rg2dT3EsRhwWoQqdsx8caCvBfoWcsgSo0kKfV4DjtRLuFtYDexHdVKEGdIiyU9kE4sRJ/3+vRjMpybEv95G7FSAwKdv0CHNHcDIi9A1ZfF/y6AiOR7acyd9tQaSClG03QA==;j+fNJAW54hr9FXOcp3wj1A=="
 ---

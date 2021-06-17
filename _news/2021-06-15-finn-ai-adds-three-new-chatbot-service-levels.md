@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Ann Arbor’s Clinc launches artificial intelligence products for banks, credit unions"
+    excerpt: "Clinc AI announced this week a new suite of patented conversational artificial intelligence products for credit unions and banks. The company’s conversational AI platform acts as a foundation of the new technology,"
+    publishedDateTime: 2021-06-17T16:25:00Z
+    webUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/"
+    ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/MNZR3SZOLRBSLIUEECCBWR4YGA.jpg"
+        width: 640
+        height: 359
+        isCached: true
 
 secured: "BYKg5//szXuxgbN3BlElLHm0PkoPdSJankU0yJDenYxgjsC8nry539FR+OhhTk5LY43sWqw8e3xHoLhE0t/K0i29sEu2cpVDib3Z9FeI7HNsi89c1ok1OXGOYjFk6XjABgGV1vg5xnCU0a1ctKQY0Y2ZjAj+qwp9c4DjzJjwLBz+wvqQPZOkp4wdfQkdnDnuTMmYQK3+Q49jGrjjwwnMVIl4o1m1SAF4r7w3m/YXZEwUAi8IC/5jM1RBVPjY1BvOe0ugI0xGlG6F3InHJ0uLopA4TnIPRIWk2WLlWkQTnOJdU8Ah52FF2rW4AYVsZ839RUmXANG952F64O7yn94SqZe0Y9JDqaXWRo2oAhFbi6A=;n+vPYWwaliHRDm0gBBWemg=="
 ---

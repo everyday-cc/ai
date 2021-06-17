@@ -141,15 +141,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook Unveils AI Model That Copies Text Style From Images Using a Single Word"
-    excerpt: "Researchers have developed the first self-supervised AI model that can replicate text in handwritten and real-world scenes by using just a single example word."
-    publishedDateTime: 2021-06-13T00:22:00Z
-    webUrl: "https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 42
   - title: "Facebook AI project works on turning your handwriting into a font"
     excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
     publishedDateTime: 2021-06-15T15:35:00Z
@@ -207,6 +198,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/today-in-payments-3-2-457x208.png"
         width: 457
         height: 208
+        isCached: true
+  - title: "Facebook’s latest AI can now reverse engineer deep fakes for source information"
+    excerpt: "Facebook has partnered with Michigan State Uni. to develop Artificial intelligence model that can detect and reverse engineer deep fakes."
+    publishedDateTime: 2021-06-17T16:46:00Z
+    webUrl: "https://techstory.in/facebooks-latest-ai-can-now-reverse-engineer-deep-fakes-for-source-information/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 35
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/MzM4ODEwNw.jpeg"
+        width: 1240
+        height: 746
         isCached: true
   - title: "Facebook reverse-engineers deepfakes to detect the AI models used to create them"
     excerpt: "Facebook Inc.’s artificial intelligence research unit has teamed up with Michigan State University on what the company says is a new and extremely accurate tool that can not only detect deepfakes but also understand how they were were built."

@@ -40,6 +40,20 @@ related:
         width: 354
         height: 235
         isCached: true
+  - title: "AI-Powered Automation for Driving Business Performance"
+    excerpt: "Will AI and automation “replace” jobs? Some of the more hyperbolic headlines would have you believe that millions of jobs are being superseded by AI and machines. McKinsey cites studies that suggest that between 75 million and 375 million people around the world will need to change occupational categories and acquire new skills by 2030,"
+    publishedDateTime: 2021-06-15T15:22:00Z
+    webUrl: "https://www.cio.com/article/3621783/ai-powered-automation-for-driving-business-performance.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/picture1-100892365-orig.jpg"
+        width: 907
+        height: 605
+        isCached: true
 
 secured: "3x3TAj5JXad/FNOf3f2oR3hsV22ztlOaBDRiuYHqhzS1b2/LG9qDl9nxVgdVlvqJ0tLdKq8cxMae9N3s1US2gxdUfMudUfAfWWGIoVmuPFevBga8FRWP0FLIfvJJIPww8UcYoT9dlNmTTd6zcJP4meWnZY2YyT1PbeE3ON6TOIc14EhRhX7nt7QYjAQp0WPGHCxBLLJMpcutvzdfHB7D9KknB7RB0PBuGl95ME6KGhHYXuUakoLvwuF+ySJnQ4Z6O9ABVUPd6PKpjUlXU/8JvzkfEs1IPYcHcMF/tsUFbST3giRg6rq8k4f8JudM+nhpABIDhmNvjcUvnVvWVFuPyl7ktF0PpUqNw9hUhhXAFOcyYieOLEUfkVr21YT2s6hZxlEPiUqhMd6rKA+FkzQW32dWb0AsVBdXTOXMCAVPOgtpRGhRyuXyhlVtCgCrRqWzVdFwXxxJU7PD7cWptr4R5a9JWMwXF2yYVpJQy9tVzW252oaezzOFv+o9T6TQdZooAU+edetnTJncAdOXNdD9tQ==;LA8a5lwrnvaibup8Qa6ujA=="
 ---

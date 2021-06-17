@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-realit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 765
         height: 540
         isCached: true
+  - title: "Nurturing a Relationship between AI and the Security Team"
+    excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
+    publishedDateTime: 2021-06-14T08:50:00Z
+    webUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/"
+    ampWebUrl: "https://securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/06/nurturing-a-relationship-between-ai-and-the-security-team/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 58
 
 secured: "Iu7qtyWUBOEOFJ+CDX/8scOiGa3VgPRnIuKGVtvwN3uQmWM5wAIY1x1LqRNwTYYDk7tCPumUOWe2jDCO5sXsSPtti5qltMUsNfEwZ14V8O0gr6BNEi+aOPhvTlCOlu7s9qVlzpNW1v/03L4oi6MhudAMFgAAn1yjsFURYoTxTmVIvQJuAKd+GbHJ3ZHDvJwn4kYpN2V+ts2aEA2EzsxhdmuR1EgNfnUvn4dj6yBJiQE25GB/uzvwZN1jCGXUsfa8rggOm3g2Rvgkl9+z/uyewtzyXVbemVGK0rbCnu0dtpksb6TIoP5IzfFALPXLKOcw8ZzKhDTr+XDZABQp68CYNw5VzJPFn9cjazxJESoQnK7bvXb2oMCB4mERNUkszwYU0eTEUuBHN2dsMYHk5sN8ExvXHsl8FMnyY7yngjvjrmulvxYTq4YnOLe+DWgYzKPbS1X5GdfshPlnPxo1vtU6jSBTQCmOBURLU8sbZve2knMlGa9lDBGlFu2Hf1jUxaCyxr1nuRFBuv9E/LUekZ9ywg==;vzevHl3OB1/zjq/WJwItKA=="
 ---

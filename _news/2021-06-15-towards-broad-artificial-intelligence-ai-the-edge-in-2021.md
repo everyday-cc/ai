@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/towards-broad-artificial-intellig
 webUrl: "https://www.bbntimes.com/science/towards-broad-artificial-intelligence-ai-the-edge-in-2021"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 778
     isCached: true
-
-related:
-  - title: "Driving The Next Generation of Artificial Intelligence (AI)"
-    excerpt: "Artificial intelligence (AI) is disrupting a multitude of industries. This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) and late 1980s (the second AI winter with the fall of Expert Systems) with the arrival and growth of the internet,"
-    publishedDateTime: 2021-06-16T11:42:00Z
-    webUrl: "https://www.bbntimes.com/science/driving-the-next-generation-of-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Driving_the_Next_Generation_of_AI.jpg"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "ub6ba5lD2PUYQ9eH3a4d1/Fgi7R0TN4oNKjGoDqLa6L4PZ+2Q2JstT5sXv1rs+h17W7GAXQ/PPv+LC5X7EW/rz4xpUVRvCVlvhiO4Kzw9sUlov0P/nOgnXx7bYb/nSJyuAhCA1ubZn4DWCzWWLcTK3w755P4ZrTHoOjtF3/4PVlRwq7NjVey6FwaUFuHrAYCC1sR0eyeFQAturTgz5bHGTUNoGQMZEusAtgHdTqmJCH0+3GT0MMS/Jb7YCRsS/rW8NjHdONYrHzJ/UUK5cvtmI/dFXFPQNTkUDLLr+SC72NfljdvwShdmUwFztrVsaq3DKOc2uCa82I5zezXSrSjDCowCyRP0xGG7h745ou+KTc=;LRGcGX92axW8lcj53q5C4Q=="
 ---

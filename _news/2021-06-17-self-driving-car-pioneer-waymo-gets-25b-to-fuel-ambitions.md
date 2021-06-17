@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
-publishedDateTime: 2021-06-16T17:35:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
+publishedDateTime: 2021-06-16T18:34:00Z
+originalUrl: "https://www.sfchronicle.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+webUrl: "https://www.sfchronicle.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+ampWebUrl: "https://www.sfchronicle.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/20/47/10/21131791/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -226,7 +226,16 @@ related:
       name: electronics360.globalspec
       domain: globalspec.com
     quality: 19
+  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
+    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX. The Class 8 trucks equipped with Waymo Driver autonomous software and hardware system will operate on Interstate 45 carrying a trained ..."
+    publishedDateTime: 2021-06-17T17:26:00Z
+    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
-secured: "cxxX6ODX6g1AFPwIfCMFTNq1en1DskTUuOuWhqbT4E/YAfK0Rc1OjXJEMrdUur2ykaSJO1w2DmOUMfTR/hZCyA1L1pPgDFMVZ9iFFtn8EI31llfBm2OrJByWg1JEzmVzXqkmPSDnwTQLD7I74G9bl89WOukag8QBWfps8zuMxJuiDWTtMaYKBiFffinGnYIu/arZ3uciDA2SNKGBFkudY1LffxoL/VlsT3WUoCRPTcHdX4kZz+P/JKYQ6KRzDOyiQD9t/nXHkaBq6eufQ+ZEVtczM1kxBxyYaIPnX0lwFFeO5d/UCLEo5DMBfbljdwrDHom0HA+coXHGNyUnNCd/ERWi7+udUbPiMDyylKl0iio=;vF3PcSqnLjMzojS63x+C0w=="
+secured: "BvKs9VYrwx/nQ6k9u2+CMdzqkhXZY2w1F5OIyPnpsTRRvc+4QvC1p/xbyeNlnxZ6EYTVETVFWW1JGMBQK/5KvUAGSqx/Ig6AHQugSLOSriVlyK7ndFsLqV3RmIYzUCpClb+e5o5n9xjUGTieuPzPm+DTWECv+JjTRhpQhOED5xCv7qrs133j+ndUTqXUipkd0R1h+fQxibVMsk1H1E3K7UKtXM2DSAV3TkKRHjEteuZ5+yOQAbCNDhkg1oruacm/7mSCvyTxKEscIcjM7fj3APJYblZgveD8v3CIKpk3BQLMq28S11haTJciQ+lRJ8kNrnwrIXpd7vuPKDcN6k3iWaI/PB+1YESpMjaV+Fu/rCk=;uPtIJyymfswjDBG6grPGDQ=="
 ---
 

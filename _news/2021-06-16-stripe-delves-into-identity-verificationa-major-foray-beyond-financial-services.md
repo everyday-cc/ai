@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/stripe-hints-growth-strategy-with-id
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stripe-hints-growth-strategy-with-identity-verification-rollout-2021-6?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1024
         height: 563
         isCached: true
-  - title: "Digital Identity: Payments Giant Mastercard Finalizes Acquisition of ID Verification Service Ekata"
-    excerpt: "Mastercard revealed on Friday (June 11, 2021) that it has finalized its acquisition of Ekata, a provider of identity verification services that assist companies or businesses with"
-    publishedDateTime: 2021-06-12T23:21:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176536-digital-identity-payments-giant-mastercard-finalizes-acquisition-of-id-verification-service-ekata/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 10
 
 secured: "xxskfgRrBelxIs0/jqI4uBz5B9hLDEgiSJUwJYBMKfcLtmwwrlEjzaj6mQdNj3jOS1s9csTG8X72dzHGYdkvndFdDMKNCSUZStVpETuLzWTDBa+VoIS4ldouv6/zGHbwVt/j2VCsIu+0IGVL8gri5xNzCqOnFksOI0xi7AXjwgarWDNKVgJ+HiVXLfhnik3199eUeIA38IWmyJpvfGhBgNnd7TOS8c962HX/Xbb9jdEQGXvc+ykqQq2fvS1PsctJy9eE7kUILHItjjE0Zfi/xF2zXV+i+0HqbGxwnAYjwwLuBTUG7AXSDsysL5Nzgac05zXIWzrA6EzQL7Xuo587IGTTc80tSL+jmW6v80E3oiE=;4cSaX7EML/ZXUXdMvw5KPw=="
 ---

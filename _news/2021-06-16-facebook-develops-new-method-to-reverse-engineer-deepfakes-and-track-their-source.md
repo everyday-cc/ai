@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534690/facebook-de
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters"
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/deepfake.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook, Michigan State University Researchers Develop Tech To Pinpoint Origin Of Deepfakes"
+    excerpt: "opefully, this will also help keep deepfakes in the realm of being silly and fun, rather than becoming a threat to democracy, journalism, and communications for all people."
+    publishedDateTime: 2021-06-17T17:42:00Z
+    webUrl: "https://hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
+    ampWebUrl: "https://amp.hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55430/content/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool.jpg"
+        width: 708
+        height: 354
         isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And..."
     excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using reverse engineering. Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear like the real thing."

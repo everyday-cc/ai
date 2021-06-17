@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
+    publishedDateTime: 2021-06-14T18:35:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
+        width: 700
+        height: 535
+        isCached: true
   - title: "Google using AI to make next-gen AI chips, humans are now far too slow"
     excerpt: "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months."
     publishedDateTime: 2021-06-15T01:47:00Z
@@ -90,20 +106,6 @@ related:
       - url: "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg"
         width: 620
         height: 348
-        isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
-    publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
-        width: 700
-        height: 535
         isCached: true
 
 secured: "c4r/8zkboUcXm15QLDapVH/P22D8eSJB3wJjrOvo5ZPN4RVgI0nWXFjgmvA1H9UVcFJ8GGanACJY2f6XBUCj2+pRqEmQ3KTmvIcILjYViR8oO0CE8sj2MR0s166hCsSrqPV4nDq5uXNo8S4NsjKkSW+4dHSXWHOgxGr+1bJzVDDHVfJrHT/yf+HRcUxai+V2wirjpVqhGSN3Ii0vZyaCSTXGlxNZkG+tFYk10bXktPuRBrBJ6p1tdqkfFo3DOHABusNYpSG5DxWERV7vhLsxLN3iuELneldiuR/M92j750U6yXer57tMWpAluIwftrUd7AMJbTep53MvoeMBBGf/NXIByafJ3hvYUZO/wY4eaH3GR0MHrF4y78Rkn3/bT7QYbFYE0UR2aADL6klxWBONNSmHp79EgmZq0xBqTuYY3K6MifIjcbhiqA4cxIcdPo2qDLyKKgCRGmbdK3cPIrlOvdkSKoH/bXMTmTAM3lpPztL7uYPkJ6caW0b7A4kwJZdY4RRDKBdPp1vLh+LyvCbpag==;vIzVvwCYwfyh0bz0uhQnOg=="
