@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies"
-excerpt: "State of AI Report Finds a Shift to Internal Efficiencies. AI budgets up significantly and decisions moving from C-suite to technologists, away from “silver bul"
-publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210615005050/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies"
-webUrl: "https://www.morningstar.com/news/business-wire/20210615005050/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies"
+title: "Appen's Annual State of AI Report Finds a Shift to Internal Efficiencies"
+excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year's report reveals a significant year-over-year increase in AI budgets,"
+publishedDateTime: 2021-06-15T12:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-appens-annual-state-ai-report-finds-shift-internal-/2021/06/15/9390378.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-appens-annual-state-ai-report-finds-shift-internal-/2021/06/15/9390378.htm"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
@@ -50,6 +50,6 @@ related:
         height: 533
         isCached: true
 
-secured: "+YDwVHw7DSVpwsCbDsapB7Fmj6roXnQpThaITtfb/n93XYgh8EwZWRiEHoaJrHptprHWC1Gx+WYnTaNKcVNRS6YETN5thY0Z9YEq3b+gKdN1hrU88ruRSYln5igrR1GsR+LIEiPkQADfD3tml+OVlZvVLixNG7IxhS9B18imMtFM01rMsbo7zwMy8qjctuV7jNPnNW2XTF8ojk9D4nQ5AypQ7exUqyVlDf1Z0AJA2iqjgnDrG+AJYHnAhLE5l5X/wJwmSRmbnXFUChtfT62wD+JlDR1zKjncSTahp4+C94mtIy02/MxG0kQdDi1HjwgzzQs3I8FkgrVaRac4dUvaOcibsKfMTxYnQw1rMsnpaMQ=;u/18ajhKMMUkxOsj42Mc0w=="
+secured: "f5DC183My6kxzGkASMeJ+3u79I0f2b7cMQ8faiDoXOMpJyXfBbsYB1wyiB7noWYMJeYfRpWFTl3G31YCWJUMzTZu+Rjv/ihtfAYdU1W7L0PDsq9sqPFDT3dbKoukTi7LSEtw3mFrjiS4ftDuISo0ihhXfQmtihUJIdFCjyR0r7cWlhbBDMHRoh83+h/UT0cc21VSzUWntuhcMkjOdvMJHL1jBkFCAd1g3tqAhaqshpNflBJe6ybmCFC+J2eObbx8dzZmg9n2wti1UnG6ovo2ZAFU91FlJCmDjLFpuHYu0LT3g0knWj9Fpj8JnThmqT8vXP0e/X2+uRj9LA8Mping4tG2ryIOKuAODb8IZofWwOY=;4zGsHMNe2b0DiIFFHlGVNw=="
 ---
 

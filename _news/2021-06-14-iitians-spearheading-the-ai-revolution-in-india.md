@@ -80,6 +80,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Amazon India Introduces Machine Learning Summer School"
+    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
+    publishedDateTime: 2021-06-16T20:44:00Z
+    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "TsBYgfbAk22UQ+mhwSReXdShFqcAfAw1LpP3uQtmFaDJaMht7T88ICzp3MRCtoQnvUMpP0y8a0o3cKbRCVroDj2b1yZGOzYjmurZAx8npRU8OQiABXPm+yIP0i+9Y+N4tPwmC62BQEpd0ZT8DRtUc+QQpLrwDwD8lNctZ+AuRAgm5Aa8nxG0L86HzHc5fUzWnLpvGD95Cq6f/fqMPPekLJfOsTYr37FBm22Kh/GKyLhTjNZVziw60b6BOSQWbNP1gb920efLeK4ERUCXTUPyZ0rtlmHcRk7KlEkpRbcVzLtD6EvTdhQHY/Q+OJwhHZtlONJFJvObJxbEHjvnqKDXjTnKx93FBfhBHrMVxpKTK3aFvi12EcyNGb2PcmZD2fPS8AXLqenW+WQGo0fGs4A5NEIMmCKjGy0nitbQMiwX99Rq3YQ3qlA5xE0bRyApLXYwAB4IX+lojj8CHfYU0EhGyR66Dm36pZWYu3zYOuFoNrO6G5vQGYRo12xpJT7HpvATTQyRWxnI5WyfS5DEQIBn0w==;qt/P/1AsZYffK2TbJ3Wzdw=="
 ---

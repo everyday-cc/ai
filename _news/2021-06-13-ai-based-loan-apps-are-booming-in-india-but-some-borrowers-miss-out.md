@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 19
+  - title: "Amazon India Introduces Machine Learning Summer School"
+    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
+    publishedDateTime: 2021-06-16T20:44:00Z
+    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "eebDD9OtjL8z+0teSiTylFmdl21TwgH2MYiU9oSo6YeWGrw4J0+qkbnRnP5TCuK1mrk3rEpyMb8zBdLC88pkqxgkG1M2qZ0RRrMaOIeak8sX3U9a/a05UqHKmZlch9HhCfaOi2qJIUP7110S/WARdjEBuBmSs4iQjGAlJ8UxSjr/X3naXKsnO0DpU0LE3UthZD8oWWQDA0xuH4f9+zZMa9YJIC/3uCSZlyixJozlcT6860KAZG9mgT0KpL1l3k6Fjrj8VF59L2ntHvFs6ZtmuOWq2pV50pyuGgIQOry4OjX69kR65qg59dRuS7Wmv3jvyVm1dagtRPrRioRefL0VicHjxhvXYzoEc9TAT0pxtJ/ch2j/hUj7QY3p0R7wE7PwVImgL/6vzbRVPgRkKqeUlsGQjOT9uVt8SkxrGknSDm2ERTG124QZwNB3V8D9+gwhxLhW/o/xPd1Oc83hAr5Av2QvVTHfg5nNbolHc2HiQg8o4RzypzWZVWFYHg7OQAjIyXwMbi/FC69n6ieg3q6RMg==;4Mlonim5FtFP/oQx5d5scA=="

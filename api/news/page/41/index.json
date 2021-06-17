@@ -2,6 +2,196 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-05-18-getting-distracted-during-video-meetings-youre-not-alone-says-microsoft.md",
+      "title": "Getting distracted during video meetings? You're not alone, says Microsoft",
+      "excerpt": "A study of Microsoft employees in the US shines a light ... \"Sometimes people lose their concentration due to high cognitive load under such meetings of low relevance,\" researchers said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/getting-distracted-during-video-meetings-youre-not-alone-says-microsoft/",
+      "originalUrl": "https://www.techrepublic.com/article/getting-distracted-during-video-meetings-youre-not-alone-says-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/17/184df827-a861-49ee-88c2-3e6a4a636182/resize/1200x/b27cd41a73dd90c1e646b8af28b387e5/remote-working-man-distracted-meeting.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/getting-distracted-during-video-meetings-youre-not-alone-says-microsoft/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/getting-distracted-during-video-meetings-youre-not-alone-says-microsoft/",
+      "publishedDateTime": "2021-05-18T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future.md",
+      "title": "Smart Ways Artificial Intelligence Could Change Online Casinos in the Future",
+      "excerpt": "Artificial Intelligence is reshaping the gaming industry through availability of VR headsets in these recent years. Online casinos and other online gaming websites are booming in enhancing the exciting experience to the gamelovers at home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future/",
+      "originalUrl": "https://www.analyticsinsight.net/smart-ways-artificial-intelligence-could-change-online-casinos-in-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-11.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights.md",
+      "title": "Image Recognition Market Latest Industry Size, Growth, Share, Demand, Trends, Competitive Landscape and Forecasts to 2028, Fortune Business Insights",
+      "excerpt": "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights-2021-05-18?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-latest-industry-size-growth-share-demand-trends-competitive-landscape-and-forecasts-to-2028-fortune-business-insights-2021-05-18?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-machine-learning-ai-accurately-predicts-cardiac-arrest-risk.md",
+      "title": "Machine learning (AI) accurately predicts cardiac arrest risk",
+      "excerpt": "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest—when the heart suddenly stops beating—using a combination of timing and weather data,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-cardiac.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
+      "publishedDateTime": "2021-05-18T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-logitech-intros-ai-powered-whiteboard-camera-scribe.md",
       "title": "Logitech intros AI-powered whiteboard camera Scribe",
       "excerpt": "PC accessories and peripherals maker Logitech on Tuesday introduced Scribe, a new AI-powered whiteboard camera product for hybrid offices and classrooms.  Scribe is Logitech's answer for mimicking whiteboarding sessions virtually for dispersed teams.",
@@ -983,185 +1173,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-ai-in-automotive-market.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market",
-      "excerpt": "Latest added Artificial Intelligence (AI) in Automotive Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/17/artificial-intelligence-ai-in-automotive-market-is-increasing-rapidly-2021-2027-global-players-audi-ag-bmw-ag-daimler-ag-didi-chuxing-ford-motor-company/",
-      "originalUrl": "https://ksusentinel.com/2021/05/17/artificial-intelligence-ai-in-automotive-market-is-increasing-rapidly-2021-2027-global-players-audi-ag-bmw-ag-daimler-ag-didi-chuxing-ford-motor-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week.md",
-      "title": "Artificial Intelligence Identifies IBM And Netflix Among Trending Stocks This Week",
-      "excerpt": "Q.ai runs daily factor models to get the most up-to-date reading on stocks and ETFs. This time, our artificial intelligence systems have identified IBM and Netflix among other trending stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a29349196dab928cb87605%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/17/artificial-intelligence-identifies-ibm-and-netflix-among-trending-stocks-this-week/amp/",
-      "publishedDateTime": "2021-05-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024.md",
-      "title": "Deposits keep TuSimple on pace for driverless trucks by 2024",
-      "excerpt": "Ten fleets put down deposits on nearly 7,000 Navistar tractors running TuSimple's self-driving solution that would run across the Southern U.S. by 2024 and possibly curtail the industry's driver shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21164330/deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21164330/deposits-keep-tusimple-on-pace-for-driverless-trucks-by-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/TuSimple_Fleet.60a28571ab906.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-provectus-cto-on-how-enterprises-can-boost-ai-implementation.md",
-      "title": "Provectus CTO on how enterprises can boost AI implementation",
-      "excerpt": "Provectus, a consulting firm that helps enterprises navigate AI adoption, is adding new tools via a Tecton partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
-      "originalUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data.GettyImages-1173239901.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
-      "publishedDateTime": "2021-05-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

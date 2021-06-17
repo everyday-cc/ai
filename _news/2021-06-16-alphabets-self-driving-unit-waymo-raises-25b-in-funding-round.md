@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-rais
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/"
 type: article
 quality: 74
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
+    excerpt: "Alphabet Inc's (GOOGL.O) self-driving unit Waymo said on Wednesday it raised $2.5 billion in its first fresh funding round in a year, after a string of defections of executives rekindled concerns about the technology struggling to scale up."
+    publishedDateTime: 2021-06-16T11:49:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/s1ecHHtxuKpo3OVoURQIIAwO68c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3NUHQPGSJNNNPLMX7UPVOM5Z4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Alphabet’s Waymo raises $2.5 billion in fresh funding in a year"
     excerpt: "\"at-above-post addthis_tool\" data-url=\" Hyunjoo Jin and Chavi Mehta (Reuters) -Alphabet Inc’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about the technology struggling to scale up."
     publishedDateTime: 2021-06-16T15:09:00Z
@@ -42,6 +56,22 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5F0Q5-BASEIMAGE.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Alphabet Self-Driving Unit Waymo Raises $2.5B in Latest Funding"
+    excerpt: "After its latest funding round, Alphabet's self-driving unit, Waymo, is now valued at just over $30 billion, according to some estimates."
+    publishedDateTime: 2021-06-16T19:46:00Z
+    webUrl: "https://www.thestreet.com/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ5MzgxNTcwMDI5MTkx/royal-caribbean-reports-mixed-quarterly-results.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Alphabet’s Waymo raises $2.5 billion in second external funding round"
     excerpt: "Waymo, a subsidiary of Alphabet Inc. and Google’s former self-driving project, has raised $2.5 billion in its second external funding round."
@@ -123,20 +153,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Ophelos Raises $2.3M in Funding"
-    excerpt: "Ophelos, a London UK-debt management platform company, raised $2.3M in funding led by Connect Ventures and Fly Ventures"
-    publishedDateTime: 2021-06-15T09:26:00Z
-    webUrl: "https://www.finsmes.com/2021/06/ophelos-raises-2-3m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/06/ophelos.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-16T16:36:00Z
@@ -148,24 +164,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 32
-  - title: "Hyundai Motor chief tests self-driving during US visit"
-    excerpt: "Chung tested a self-driving Ioniq 5 electric vehicle during his visit to Motional’s Boston headquarters and discussed ways to expand the partnership with its senior executives, Hyundai Motor said. The chairman made his first visit to Motional since ..."
-    publishedDateTime: 2021-06-16T09:40:00Z
-    webUrl: "https://www.glamsham.com/world/technology/hyundai-motor-chief-tests-self-driving-during-us-visit"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 19
-  - title: "Waymo begins self-driving freight trials in Texas"
-    excerpt: "Waymo, the autonomous driving wing of Google, has started self-driving testing of freight in Texas with J.B. Hunt Transport Services, a supply chain transportation company based in North America. The test run will use Waymo Via, its autonomous Class 8 ..."
-    publishedDateTime: 2021-06-16T12:56:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16835/waymo-begins-self-driving-freight-trials-in-texas"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 19
 
 secured: "qap6+hgZ1iz4ni3O6lNJOdYlUIZaZNDs0ZC0dsU5C53aIXkfqP3xSC9OiWpn/oLGEpJDBuof8Q/uD9L6kiGdEasdGVJHuP6BGOUwIZxFABATXiK+i1hbBiTInFiQSEyaInczmMHgarHBFo13Ek5hI2ifLaS9+5/xb459ZKrOxJhq7igUzLj0bnmiwcfVTTa6UWNvUkBZr2kig6lPw1xbi6Tt92zY859pTK10yYJgNxEQoix6tBbnPjdlXE5UH4k5rT8F3hA4pjQo2FL0422x99dGDG0B97EY05KoTJ5i17FswyJk86RFVGgyEvDQUTF8bIxf8+i92rvcg76MXiwT4/RY4aCJPQ94GVSMcfJTgybLBrJaDGBdGnClfiDCs2h23EDDxsT3DOFmimcC5FlhkRCAdPFIBQYaW8gfcQ8U9fCAWH8vxRj/H5tkEGGNo55npryr38A2Zo9nZ+n2zWAKBwSm3lf4N02pjmiZrFP2TPRwdQ5xAVlU+oS91pU4dE5oIF4acClofvuS9xloVfba6A==;Dw3kM1OHudMOs6KzfbTQoA=="
 ---

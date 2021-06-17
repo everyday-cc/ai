@@ -79,6 +79,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Amazon India Introduces Machine Learning Summer School"
+    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
+    publishedDateTime: 2021-06-16T20:44:00Z
+    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "F7jHPQwRBOfUgkh1Qgi0UPrSj45CcDujakjFFkU0oiiaUfuIC44jQya1JLzwZDiLLOMY+fa/SBkthVrDcIM9yRVqzeQCy+gyzNAArFw0o2LYvyyzabKC0y4UxJYzpozLjESywg//9Wn7pot5xJuBxaUscg6R8LIr+HBAfUfGLVhlBXlOy57BBsm44cNEPWJQRldo309oQU+CRzfngM9hbN/pZoQ5p8Ak9FtiKWJayZV0W2n2IFry1EdsCmRUSj2AVJ5XOtDiZ28jENAEXioSdH87pdq9/3uvkHQHjZJtB1lzt6FKKlNhgxutJ97NN++sOj5KrOLDCFvmXswrWjJ8vwWIrxM8xyPtrtuPATc1BNo=;QcfELVTx1bPGI5FBwIVung=="
 ---

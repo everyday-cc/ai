@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition.md",
+      "title": "Artificial Intelligence for conservation: Australian researchers to test koala 'facial recognition'",
+      "excerpt": "Australian researchers are launching a koala \"facial recognition\" study that aims to better monitor the marsupials' behaviour and ultimately aid in their conservation. The team from Griffith University is attempting to use artificial intelligence (AI) to recognise individual furry mammals when they use wildlife road crossings in Queensland state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160",
+      "originalUrl": "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/06/03/197140-untitled-design-2021-06-03t121927387.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/trending/artificial-intelligence-for-conservation-australian-researchers-to-test-koala-facial-recognition-389160/amp",
+      "publishedDateTime": "2021-06-02T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
       "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
       "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused",
@@ -1313,58 +1356,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
-      "title": "Computer Vision Is Like Investing In The Internet In The ‘90s",
-      "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/",
-      "originalUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60acceb37e888667457f4a3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1079",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenmcbride1/2021/05/25/computer-vision-is-like-investing-in-the-internet-in-the-90s/amp/",
-      "publishedDateTime": "2021-05-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

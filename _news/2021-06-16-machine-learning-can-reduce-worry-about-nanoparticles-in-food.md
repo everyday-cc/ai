@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning can now reduce worry about nanoparticles in food"
+    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
+    publishedDateTime: 2021-06-16T23:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210616143157.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine learning can now reduce worry about nanoparticles in food"
     excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
     publishedDateTime: 2021-06-16T04:00:00Z

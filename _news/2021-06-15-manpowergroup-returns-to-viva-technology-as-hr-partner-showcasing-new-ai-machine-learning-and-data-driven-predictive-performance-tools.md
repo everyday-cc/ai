@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-15T15:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
 type: article
-quality: 16
+quality: 38
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://mma.prnewswire.com/media/391655/ManpowerGroup_Logo.jpg"
+    width: 400
+    height: 217
+    isCached: true
 
 related:
   - title: "Invention uses machine-learned human emotions to 'drive' autonomous vehicles"
@@ -54,6 +61,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ud9NXXpKBo20Mt8MszvXNDOS3KcSYbHn5+YgSZqMMeo9X8cDfxXr/C6QZopMOAdUogu6P9TurfLpCh18wKgZTHQE1vg0aES76e36tVP9hfy7+A3Z7EtI4Yn1HzqHDIbb/Kxx/eljFCeI6t7Nmj9RMoXh8ECbrNs7KQzoVZifmBDZB0+wTjhpu6GnJZVrRHknFBiGC4QAYxOJykZdCkDqAlBvN0AwZzxPam0RbYWXt9nU/1I0Ym69wZBiRxphBy3y0Q2pbTytt3UA5LU6xUWKce/kvxGzfJvjOv5gOr08noYJdOWr9wz7DdoLhkVATPY++iwAELFtJugM0r1SjYI/f3Uz2w5t1i9o5wJIvXgB0CWOQpLwi0qsqas4B6/70UPGmKr5ssaupXbbKJ/hKRWB2iJI2BnNI/xqgyR0N1YfPeD7JmJuMVV5cQv7QnZxYiR9t3iiU95XgBC0PHTXDgplc8Mjzw7kVvsKdJIWjz434nRIaTB1iJL6T8WB9Hk5XM5pQVGEbwAyc9rD5k2orGfa/Q==;DatPVGbxNFBx9FBFB0UHCQ=="
+secured: "441y3dS0fRmve7CIGFQOvTqj42t1UsLqDpoHrd5LTDjybcVadv7oCTSG6z+VRkjrKHoRvfxjOnwVI5y5/Or20XR6iaKwAP1EZf8kcIx8+FoVBMKHZ2NPtX4Bc34W86S7smcCrY+6rWEeXtyvb5GzpusJvTyyAFMhiuYPqK8Ok/kwXi/haDe8WL7jl8KiAIz2BVNlUsBa+TT6r9iAsj19gnDZO4aOsCOyYr0RptYLhjrihrPq70oSpU8MVBgjgC1+eUHBAIqge1hXKYjHRtPgdfgSSohIEVnL8bmb8B1VPdZfVkrRqeXVqY0gXqlXmUTdBq0mnKMOfCgVO3tf36tAE/3SP0gruEjGf4WaFNwVnNY=;lMpnwR/KJCgwXOg/4NOGkQ=="
 ---
 

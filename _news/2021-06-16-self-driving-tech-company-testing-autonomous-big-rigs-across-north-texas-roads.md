@@ -26,6 +26,17 @@ images:
     height: 470
     isCached: true
 
+related:
+  - title: "Waymo begins self-driving freight trials in Texas"
+    excerpt: "Waymo, the autonomous driving wing of Google, has started self-driving testing of freight in Texas with J.B. Hunt Transport Services, a supply chain transportation company based in North America. The test run will use Waymo Via, its autonomous Class 8 ..."
+    publishedDateTime: 2021-06-16T12:56:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16835/waymo-begins-self-driving-freight-trials-in-texas"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
+
 secured: "xF8SuPheB74GUzwRUi6Y6fqjHn9jJO+JAzQLs0I9w5rL3lkV7G4LRlAIncNK+J1D6eVMC4LlHF65gwfCjbB+7rsA+8NURCf0xhyo+twCfJOUjONkOqPNiRo6SqQlwUoIQjLtOFLePvEKYJF9nXQl1QMbHxhQFm1SrNGdAsrapEwpUd9jkQfto1XatKMlp9WoqYX8iRNt4BmC5jQl8YYSaFsSjQCclFcQFUK7UAVW2atpCeEGLQ5GBjbSJ7Cbm1fvCOhUzQwmVpLOWgZ6m+omTXoaoW8lb0CdqJo/eTY+bQYpUDK0b+4vY4NUnDynJr/jKqCaWYXOlz/uVEZaZsElldtrgQ6Yxep8UaLlRPqn/k0VeGgcMton1TH9u08krkOsylrlDKEs9apC8dnepqsn4XLllrFebUFhH/xOktbQHS6O6B3lHHxxpGvCbd6hCBegXNhdE8esFgZvhT3ihNgMnxwnnvDOI0rkI6MCFq1ZcxtBjkYA0oXd8m/ZJoLAzzHEayuNkf2anVaNUJI2q6q3Jw==;eFHnG7gQbGyr1iI+7b9E2w=="
 ---
 

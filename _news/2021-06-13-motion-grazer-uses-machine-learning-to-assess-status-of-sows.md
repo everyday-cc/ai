@@ -49,7 +49,12 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 16
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/391655/ManpowerGroup_Logo.jpg"
+        width: 400
+        height: 217
+        isCached: true
 
 secured: "uhpSy0vXZY6oYLnCV5J5lKM5fwOrN16nShwEJyGX4e8muPRoT0OHagMUga9Dp78R82t5rQM1gTOVKoSI10EcNCiEMaIyAXP9QZ4qoKTWslHl8JYlSpklQz1ntdmalJXlw9g/itJG0elcMe1kX+L9tQS6AdddcrDqzhVXacQxgqkBEuIBuUBUMNnG7NAL52ayWHy1p2L2L7kcugZEY62cvTrnZILUd3v0RaJhC4mgZ/XyFL80yUf3cV7onO/uyKRGxQykRrWhdHUjKHt08zl0rNMatWvygPKJDT4kQa4E+9Ze7zf7DboGTksNvyvN7poSJVWn4wvWx+6iNeVxAtiuD1fBKJTaDoqkJ/JwssywZlJ2Yo8m+QubIuyKo3UInLC0s6sCBw9hzBLLDK3arnj6hPgdAJUX2hZP/13smmBr6WaJTDuIlY2NQYlX+eajv26yuKUwL7eypnUemZVQLG/fqfwaLegOmiMLNoZqZZ5DIu0F2lxmX2Uq4xNbhf+HCFFgnjHuxrXBJPJ7YVSZS6Owiw==;JC3imw4aRR3tdLkVv/BEGA=="
 ---

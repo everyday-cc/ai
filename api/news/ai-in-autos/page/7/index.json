@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-03-chinese-tech-giant-baidu-rolls-out-paid-driverless-taxi-service-in-beijing.md",
+      "title": "Chinese tech giant Baidu rolls out paid driverless taxi service in Beijing",
+      "excerpt": "Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday ... Kelly Wang and her husband, who both work in the artificial intelligence industry, said they had a smooth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/motoring/300290696/chinese-tech-giant-baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "originalUrl": "https://www.stuff.co.nz/motoring/300290696/chinese-tech-giant-baidu-rolls-out-paid-driverless-taxi-service-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/s/9/s/7/image.related.StuffLandscapeSixteenByNine.1420x800.4ys9s8.png/1619981195463.jpg",
+          "width": 1420,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-in-a-year-of-major-shifts-the-self-driving-car-market-is-consolidating.md",
       "title": "In a year of major shifts, the self-driving car market is consolidating",
       "excerpt": "Toyota and Lyft's $550 million deal shows wealthy companies that can bear delayed return on investment dominate the autonomous vehicle market.",

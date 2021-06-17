@@ -2,6 +2,187 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-21-finding-any-cartier-watch-in-under-3-seconds.md",
+      "title": "Finding any Cartier watch in under 3 seconds",
+      "excerpt": "Cartier is legendary in the world of luxury — a name that is synonymous with iconic jewelry and watches, timeless design,  savoir-faire and exceptional customer service. Maison Cartier’s collection dates back to the opening of Louis-François Cartier’s very first Paris workshop in 1847. And with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "originalUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/03_11_21_GoogleBlog_Header_Cartier_animated.gif",
+          "width": 1600,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/google-cloud/finding-any-cartier-watch-under-3-seconds/amp/",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-have-ai-chatbots-come-of-age.md",
+      "title": "Have AI chatbots come of age?",
+      "excerpt": "“Chatbots are now a critical component in the customer omnichannel experience,” said Rob Dunlap, Associate Partner – Cognitive & Analytics Practice Leader with IBM at a recent CanadianCIO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
+      "originalUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/ai-bot-0041z.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/have-ai-chatbots-come-of-age/447679?amp=1",
+      "publishedDateTime": "2021-05-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-twitter-rolls-out-new-verification-system-dth.md",
+      "title": "Twitter Rolls Out New Verification System – DTH",
+      "excerpt": "Twitter begins rolling out its new verification system, Snap announces new true AR Spectacles, and Google reportedly ends negotiations to give DeepMind more autonomy. MP3 Please SUBSCRIBE HERE.",
+      "sourceUrl": null,
+      "webUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/",
+      "originalUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/amp/",
+      "cdnAmpWebUrl": "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2021/05/21/twitter-rolls-out-new-verification-system-dth/amp/",
+      "publishedDateTime": "2021-05-21T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Tech News Show",
+        "domain": "dailytechnewsshow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-vertical-farmer-appharvest-buys-robotics-start-up-root-ai.md",
+      "title": "Vertical farmer AppHarvest buys robotics start-up Root AI",
+      "excerpt": "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict...Read",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
+      "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-food.com/wp-content/uploads/sites/35/2021/05/2021-04-12-15-48-34241_cropped_90.jpg",
+          "width": 424,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just-Food",
+        "domain": "just-food.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-microsoft-partners-with-chinese-solution-provider-to-boost-it-efficiency-and-security.md",
       "title": "Microsoft Partners With Chinese Solution Provider to Boost IT Efficiency and Security",
       "excerpt": "Microsoft’s China arm is partnering with Chinese electronic shelf label (ESL) provider Hanshow to empower its global expansion in the retail industry. Under the strategic collaboration, Hanshow will adopt Microsoft Azure operated by 21Vianet for its operations while also prioritizing Microsoft technology for its solutions to retail clients.",
@@ -968,171 +1149,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-it-takes-a-lot-of-energy-for-machines-to-learn-heres-why-ai-is-so-power-hungry.md",
-      "title": "It takes a lot of energy for machines to learn – here's why AI is so power-hungry",
-      "excerpt": "One study has found that training BERT once has the carbon footprint of a passenger flying a round trip between New York and San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
-      "originalUrl": "https://www.britannica.com/story/it-takes-a-lot-of-energy-for-machines-to-learn--heres-why-ai-is-so-power-hungry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.britannica.com/56/222356-131-19F4FC94/geography-travel-health-medicine-science-technology.jpg",
-          "width": 900,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Britannica",
-        "domain": "britannica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "New sensation: pioneering mind-controlled arm restores sense of touch",
-      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "originalUrl": "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "cdnAmpWebUrl": "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News.com.au",
-        "domain": "news.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-using-tensorflow-to-recognize-your-own-objects.md",
-      "title": "Using TensorFlow To Recognize Your Own Objects",
-      "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
-      "originalUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-a-sense-of-touch-boosts-speed-accuracy-of-mind-controlled-robotic-arm.md",
-      "title": "A Sense Of Touch Boosts Speed, Accuracy Of Mind-Controlled Robotic Arm",
-      "excerpt": "A robotic arm with a sense of touch has allowed a man who is paralyzed to quickly perform tasks like pouring water from one cup into another. The robotic arm provides tactile feedback directly to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
-      "originalUrl": "https://www.wshu.org/post/sense-touch-boosts-speed-accuracy-mind-controlled-robotic-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/998729746.jpg",
-          "width": 800,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-20T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSHU news",
-        "domain": "wshu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
