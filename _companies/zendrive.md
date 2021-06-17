@@ -2,7 +2,7 @@
 name: "Zendrive"
 overview: "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money."
 type: "profile"
-heat: 41
+heat: 50
 
 website: http://www.zendrive.com/
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "kQklUp+Ap7RUIPytpECOet0mgvJHJ+78c9CTb2Du9+pYO6s9F4yc8K/WRaffV3sXQzqdJ7f6OT6ZCyk7z8MbWFLPMI8eBEhdLjiw9rBskrxSQ645LHWRqQsmHs6Kk+7Q62E5ZsHvi0kq05KuyFC5QooqheU/9KlwXjZd5OACISh0EtsgaLj0nhv9grXATmwNmPWwQN+6+KisgeTO7y/5xH5bDJBauFfEF6ds59LVHU+78ZDWiHl99Vf/hRjDYcanh92otgKGRzg3yr4DRLAuun08n8BsZIqc6rDMO/VXzPPR/h1vgnE/xkBL06Q3/BTWqiAZrZDeUx0SnnD4DZBo9z1OSCCAdnQYMISvg/2ohyTE5cHw+B4okYkJo91vtDPXnZ/F2anCE1a70/weNn2ILgS2N68Z4OajKcLJcjLATA8=;hSDeGIHFSAAvyeS8Ruehsg=="
+secured: "usE2NlvkelDRl6FJ5GD8lQGAPAIkepKWMDJGgplIOj8BGFCNsjufjqlzmz52m/FCmCTNDlNrG6JLXi35Rh5M9mCMYaghOi+gaUIVdx0TYneQZL0rHmi7ynqeSE7JHORa1tOKilQ6NRqpyDvLbk0gnor9quCCqmOl/f8DJrHBMmEo4ZvIFpzEI5kRwp+XCf7WUcBnzCo0Zgz7rBaXmJlvzdoDPuEbicB6RLDCwpynH4WremVNXRt6M7Uo2okGq3JD4Bj2CckjvNkP7likzmvZ2IIPC0mkzAr7xc7bWSH+E9v7lTPWXbOKXiIx57nIRJj3eQQWhnrHB7vgQyY3eKFUOwd9bwom1w0ySxA06ZvWNAiUd22e4NaRz3iNuCaG9vMj5AaC0IRmOmRU2wkCDWp8tzOzBnIthe2Z+6CNGhDVZ4c=;hBookVFPs81ESyVQFzfyhA=="
 ---
 

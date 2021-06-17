@@ -2,7 +2,7 @@
 name: "Primaa"
 overview: "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people"
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://www.primaalab.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3CQMfhc6Atc"
 
-secured: "lXEACUIH5ovg5bk2fjmR7BkYrTfusmKdk8F3IBD3uOAEgJ49Ph3nx6jUbzw8kXcCde1N8HZZbnM4qKAyt/zdlYEpZmU38EFMUVILdWewAhSOZaJI6g5N7igoQYgWVaAREpt/HEi8x2+4dIYA4mgzePmXRZv0v7HTNhlZgHZLeSQ5q1kTTTLShfBcIlQdaKt3JN8LxoFW/8TBf/hVuw30xTc9To6lQIDo3C+spOX0CjXsDEVwkOYI8Htd3vHZEk6KsLZZIF7SWQMkW9bcT3CNT0ScHGwTFG2JdmSb9qAFXalXstPlQ+cCXZCpb6We++T1ObdFWbc+CzLCb501KXBeWV45CDS1YXgLzdhisPywP+ph+w23uy+3To08m+mssxJtNFqInD3yphAIX6UByWK9aw==;wT3dbjRf56h3cFELfxs1kA=="
+secured: "k4hVB55ZpzLWrHB7mPqSrCXahqp/kzrWQgTshF6D2bq4wD98hickS8m5pW07whzCRnulbkDTmLUOBP18AuSnysp+t7XXnn7M3DwUjtWv+JvHbwG/gVJ+GniNcKAtIIScnfnIw5hhU6mxtrqJNxcogj1afeY9BKE8oqz8pWmkFaazX3/iMWFZgAmS5YkiYGwM4X7K4CnCejQUZMxUKJOBKIR89m0XK/39H2JwoREdidhufVr1bTMhGstSp/Gh5jXuU+6+2efP/TnJKVC+3NYfYCyQ0zz71uqJC7cLhefurupjtJCHiIKfu3cWY/94RkCeJ/t7X26m7Z+VwRsEeAXJp4aYU2NpCaqtr+ghNxTVWgrpOn3CLiYEoHPH87KmmpY5Z0wmfGbV8Z88MCM3IezJuw==;nX3H+TOfumxGcriwoBhJHw=="
 ---
 
