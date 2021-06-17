@@ -40,6 +40,20 @@ related:
         width: 1463
         height: 823
         isCached: true
+  - title: "3 Incredible Ways Artificial Intelligence is Transforming the World of Online Casino Gambling (copy)"
+    excerpt: "With the need for food packaging to change soon, where might we see this area move in the future? Click here to find out what the future of food packaging"
+    publishedDateTime: 2021-06-17T06:30:00Z
+    webUrl: "https://www.state-journal.com/sponsored/3-incredible-ways-artificial-intelligence-is-transforming-the-world-of-online-casino-gambling-copy/article_86cbf4e6-cf6a-11eb-8360-436446114970.html"
+    type: article
+    provider:
+      name: State Journal
+      domain: state-journal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/state-journal.com/content/tncms/custom/image/756ad790-f8a2-11e8-9f46-7b6b764fb9ed.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BOYZU5maqWZ+7jQiPPYvDqANj9HYdTb7ClxssBjZYZ76OIqWUd1QnGn/qpW6GPLEMrQqQTGHNXCzsm9YjpDXvN05Qk4E/VS2YHZBv6VRkY450YHCBY2MXQq7gL6h3uaFxIlUpaH3QnOPqoRhG3j6/2GChgX2/UQ/bRsEmXRORO03yhuVAw0mElaB++iiukqMjAyh7XUFFPMrF4R3VGiqLmY47S2KOrVSM2/MMeCJ839P6+yzCGOd9a7dGJvS2QnveVJt7We88lZhnVLvzyrfxnpKW1bAM2Niks6F2DcHUr15HLSCWm5glI2lkntV1cqPCmB5bhUngBW/v1n6MJB3Q/FyoCNqYCrBCouEAcadBsc=;x+mhnpwpFuKvHQQXb5ybKQ=="
 ---

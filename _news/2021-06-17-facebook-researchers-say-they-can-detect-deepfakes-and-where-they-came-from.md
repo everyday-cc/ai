@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s AI reverse-engineers models used to generate deepfakes"
-    excerpt: "Facebook and Michigan State University created a system capable of reverse-engineering models used to create deepfakes."
+  - title: "Facebook develops new method to reverse-engineer deepfakes and track their source"
+    excerpt: "Deepfakes aren’t a big problem on Facebook right now, but the company continues to fund research into the technology to guard against future threats. Its latest work is a collaboration with academics from Michigan State University (MSU),"
     publishedDateTime: 2021-06-16T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/"
-    ampWebUrl: "https://venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/amp/"
+    webUrl: "https://www.theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters
+      domain: theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters
+    quality: 137
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.vox-cdn.com/thumbor/N7C2kk-WYF6bem6_FB4F4SF9CTM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69461364/acastro_210512_1777_deepfake_0001.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Facebook developes a method of detecting and attributing deepfakes"
     excerpt: "Deepfakes have been around for a while now, but recently they’ve become so realistic that it’s hard to tell a deepfake from a legitimate video. For those who might be unfamiliar, a"
@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook reverse-engineers deepfakes to detect the AI models used to create them"
-    excerpt: "Facebook Inc.’s artificial intelligence research unit has teamed up with Michigan State University on what the company says is a new and extremely accurate tool that can not only detect deepfakes but also understand how they were were built."
-    publishedDateTime: 2021-06-16T16:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/facebook-reverse-engineering-deepfakes-detect-ai-models-used-create/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/facebok-deepfake-detectuon.png"
-        width: 884
-        height: 477
-        isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And..."
     excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using reverse engineering. Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear like the real thing."
     publishedDateTime: 2021-06-17T11:00:00Z
@@ -86,6 +72,6 @@ related:
         height: 240
         isCached: true
 
-secured: "dz/KE5ql1qR4HCBtvYdqNVmFhKx9Qg2fNy23aohOdcM7TcKvclKSvvXt0Jp+NsQ21+QaZEiUz5hsXP3+BkUIuFZM8yDH+Al2VX4imzRNmLO48G1Q8p1i49KCotgUqTp2Fd7HzbtGPdEU3Xa4v1aazQT6cUzPLepAovXuRiunHftrZ1yvIKN2mlFvSicwzgB0Zk4j3BkGzs3qzJGACrBANXtlZU/YvgQrwLcxwH4oT2FmhQZAwKRYR+SYJ1s0iumRT833zQjNWv98JcEVDeRVwcJNiTi/2ZbXxkm1CeNPYt0zm/TFrPGPDeyMf6HU2JtyZ46z174La/AHY0eDUNlbYMTKCsj6hYP7u7VgySpQuFw=;H6bHeCNc+z/8d7hRR/T5+w=="
+secured: "IZ7qGVy4EtxzhSgYg578gspm/dg+HhY1TqEMv3M+eMEEHzpZpfUNSG2WYUqJPcNbzedJw/q6u4HTHMbUyGs6TLyNzhwuKSE8f1UhWbVZu+YF+mKUIX5UYG22hd/PE8yzUoHXaaMDuaknPUEimh2zeTur1dSmpteb+HI6DtA49AXRcHExcrWYpHEZCYk76mMAutel4mA4ZHTbwMKYkB0xEJ6KMcEEd+PDI520p5c8rgxr3lTtCcwEZUZA1spKF+U4XglLjB+dZF9/BEcXPNWR6U5EqumsLRiYlMNOZ0vHb2tqd0i8lRUamYCqmgfHdyQVUbCQNMzWQQuK5B7XvmmDemMJVlY2G6oSXlZCXXud71lUCq/kpRGms4bpQlB4fhLxC2CnalxtGM2UN5FH25K68qXYencYxjcbsfegHChgelI6wBUERqT8bU+8fgWVpVfs5R5BhPe+GUrxIank8B6PKITk9xYPMNuj4Kbqe92WfsP+OMgSzvKGPSe4uDdL0aiiXHqLyJlZ+dc/mF2PPCxOnw==;flUMpfCZTAFm200qunZfxQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates
 ampWebUrl: "https://www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/zillow-taps-ai-improve-home-value-estimates/amp"
 type: article
-quality: 87
-heat: 107
+quality: 187
+heat: 207
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 300
         isCached: true
 
-secured: "Q7P6tawXAWaKCtJyl67tAgQuKy8XYuGPSjqAxnwXFjmfspD+elPyPJM+vfnXxHkOzSgxg2JEzaysnupnyeWyBrpDDv4+mljQjxq6CXLKXfpF14kGgWuivGv85nuHVQC7XjmuSCYgawMnThlMr23GyAjqxl+zDbZYyjzAIVh6U5bmIF0sfMjw+KCkIrGrpgED3DHlPJRY6GPEk4rWs6v6tBl1cQpccEYGEpbdC2rK/morll32BcH/M/VvtZahVbzH0lFOpHhVcctV8Ts4Z42yGZKIDhUiYbsJdToDMqzbPw62iS+9uQ5JpqX9A+noIMRHiTr1j0grtM4jECr8RZh1vNGRB0yRwWDHIStNclALSn+fE8eXCgwUb7L/JcyfBotAoQKdCvoe2hJQP5J2Ml1i71O2EH4mYQG/7MUUoU2jfowhYuMIPjxtJBWOoBrNlF51osCl1cOsdJ/4SNU6LQYKYhFaALTSebEL2TkA6WFI/wQTV2Y/dK3UXebDFD6F6SnjY2GK3GXhF/CLGgltB2O0DA==;Qr5JP+S8SSp0sH2NUaSpUg=="
+secured: "u/wxsJCofnRdHuriYT5XLthmB3w1niTAJ7JbRsFskZu3Y3Dm3jOZzs25GX7HoNHeuUI99rYagwef1WOhwBQEKJI4kmCE4px2/5SHotACxnU+bOnYX3vc/mt3Dk76/Gw6jtzjyXW8UfNMeOG3yWghsY6+abk1uJ8Nt5rjQKp6TjBc+J8Oehte9S1Jw0Qw0kqCVzpxMewXGUHwYA1posf553sVoQ+9scMUWeA1v42E4LHuEATFE/drDarGHLYTeVcT5KmOKrUgwgfeCuZ1ntBuyXjHeGAbXbh86YQlaqeDIavI9VTh7B+8JT4AgI/sylnDzv+kTQIogYM0fyATOufJU5LrIwSgQXx48a0G/IDq47jHl9prP93FJE+vY5C6Mp+9n0P8tNBH0bj/vYV+WSK8DH2KXNlbi7CTKCBjirNVmXyoZW2ePG+QR2hnQqZ8t6DugA6AZaxG/6YC1ELubRLrY2tHRvr6FXtDlxOD9qWQ529Y7SYFVlS0p1VhvDwqxxeCVQv3wgG7PfI2qKneKCCRwuw0UfIV+PsWoYD1Hdor2LU=;+tnAxPGo/NqG8iBfJtk6Zg=="
 ---
 

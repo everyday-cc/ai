@@ -63,6 +63,15 @@ related:
         width: 1800
         height: 1202
         isCached: true
+  - title: "Artificial Intelligence Accountability Reporting Grants"
+    excerpt: "Governments and corporations worldwide increasingly are harnessing the power of artificial intelligence and predictive technologies to make policy decisions they hope can help solve some of"
+    publishedDateTime: 2021-06-17T13:36:00Z
+    webUrl: "https://pulitzercenter.org/artificial-intelligence-accountability-reporting-grants"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 17
 
 secured: "ojtIDgrqiXfWBEodJIKOp0C2A1G22uXDp3bcdLPBxnFLDI7v9Q1rtAtQneuRxpauqudV7UKaH4IyVNU58VMzgIO9yplTDqQFXubQPQ1EFdpJQtogfIei9Fr2Utch+Z/Dw8N/bFZvDdkTVVMqm4oP5yesN5pEwmsKc+q4ysdu69mLrOsOZnVX6glS/pq0etX/OGYxvVOZpg7NiuQycoZHaAOxHcIQ2QoWsJcQzzfgXoC4JtPEmMsPrbpWJ2P4pW19D3lR2FQIiopKALmr0Y+9YidJ26fi7iKd6LlMKv39zZp8xtHHB7EWIloX/QOAZ3naljvFn9cpV4Y15yuXYi79vWHYbGabK7XGwRUYu233XP8=;eCDjZ0yTwfVa3SoGCzsYMQ=="
 ---

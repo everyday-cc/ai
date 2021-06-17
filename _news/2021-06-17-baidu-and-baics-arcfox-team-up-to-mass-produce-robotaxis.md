@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-u
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
+    excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
+    publishedDateTime: 2021-06-17T10:34:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-17/baidu-partners-with-automaker-baic-on-new-apollo-robotaxi-101728372.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-17/1623924174246687_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Chinese EV Maker Arcfox, Baidu Launch New Self-Driving Car"
     excerpt: "Chinese electric automaker Arcfox launched a new autonomous driving vehicle today in partnership with internet giant Baidu. Called Apollo Moon and based on Arcfox’s electric sport utility vehicle, the Alpha T,"
     publishedDateTime: 2021-06-17T11:30:00Z

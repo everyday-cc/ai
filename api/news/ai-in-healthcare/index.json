@@ -106,7 +106,7 @@
       "originalUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -191,6 +191,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence.md",
+      "title": "Cadwell Partners with EnsoData to Transform the Patient-Clinician Relationship Using Artificial Intelligence",
+      "excerpt": "Cadwell Industries, Inc., a global leader in neurodiagnostic and neuromonitoring solutions, today announces a partnership with EnsoData, a healthcare artificial intelligence (AI) company",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence/article_75282421-3085-5468-81ee-f99b0093354a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence/article_75282421-3085-5468-81ee-f99b0093354a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1326,58 +1369,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-something-bothering-you-tell-it-to-woebot.md",
-      "title": "Something Bothering You? Tell It to Woebot.",
-      "excerpt": "But Woebot, which was introduced in 2017, is one of only a handful of apps that use artificial intelligence to deploy the principles of cognitive behavioral therapy, a common technique used to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/01/science/01SCI-WOEBOT/01SCI-WOEBOT-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.amp.html",
-      "publishedDateTime": "2021-05-31T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

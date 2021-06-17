@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The New AI Frontier in Retail: Data-Scarce Demand Forecasting"
+    excerpt: "As Accenture notes, the retail industry is quickly reaching the peak of the AI hype curve, as 86% of retailers are experimenting with it to forge new paths to growth. We are now seeing the boldest of retailers tackle a new frontier when it comes to AI adoption: data-scarce demand forecasting."
+    publishedDateTime: 2021-06-17T13:34:00Z
+    webUrl: "https://retailtouchpoints.com/topics/supply-chain-sourcing/the-new-ai-frontier-in-retail-data-scarce-demand-forecasting"
+    ampWebUrl: "https://retailtouchpoints.com/topics/supply-chain-sourcing/the-new-ai-frontier-in-retail-data-scarce-demand-forecasting/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/supply-chain-sourcing/the-new-ai-frontier-in-retail-data-scarce-demand-forecasting/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 57
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/05/virtual-supply-chain.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "World Wide Web of Artificial Intelligence"
     excerpt: "AI can be great to increase the wealth and happiness of humans but we must be making more intelligent choices about when to let it in, writes Akshat Tyagi as he warns against the manipulation/misuse o"
     publishedDateTime: 2021-06-14T16:46:00Z

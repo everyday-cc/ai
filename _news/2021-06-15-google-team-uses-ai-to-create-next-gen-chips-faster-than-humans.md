@@ -3,12 +3,10 @@ category: news
 title: "Google team uses AI to create next-gen chips faster than humans"
 excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
 publishedDateTime: 2021-06-14T18:35:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+originalUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -108,6 +106,6 @@ related:
         height: 682
         isCached: true
 
-secured: "q/mW9C6or6yLsGEI4YjtEZK8fanrLLJfmPVoMVbRzRAVX+q5OSWJz+sBx8W9bQKTiqECsUTIVDNYDZ7h4jv+IjIq5ZnNoaqZ132slmuoqD7Pb4bvxQugfZfJVBC6z9Oral02PcCACeCcH5/diE4qXCLSlaL5bBpdED9cdLygDjjrHFfIxn2aE8+ZMe4hzWQjHt3hTyIudk6kF5YtuROBGBKPbNUXgysoUiY1vbU2FY4zDkCSOBOrCFERTBMBxPsFSTpo6NT3svEJLivIgkkMpnJtV0g9DLr2WDBK1lZjSw9LXxhIITnA9BmUkwqx1SZ0CzY0hv1h0OC16YKWGzMwy5I4x986XwkY+QNtqpjxFaI=;QItiA8T2/oCfdPjGkbw9wg=="
+secured: "RYirFtfvAzRjuP1YAmvxIhEi8tR/zK8EyHN+uGLtsEeQNJfJozJ4Xki/V4g2yrnwjm7LBCAYg5mwM1UQqlAsN5qSlIZgKB0A9vBbz0xd/hr+BPD6aBwS02GUBgU81rMRAwzt0w8sixVgX2Yzb0l+sUZhCb+tkQyup/MJLkYbwfanN/jPT8YlI5Wh6Pz33OoMIK70qys24XOGfsWc63qUNhwPiIxCKRuXQfhphxlGI+dHk95VmTLemmjTVXkdrBJR6mQOSNleZ8pb847m5RbKf2kUuW0NtWw2Fqp+M8fRbL6wy5CQpzYewIUz6pSgyK2zn22HJYBzh7bFMGKzyhuUxg8IGkQxjOsN4+nzCcA/0ds=;TXkfq70/GGst6YoQIRz5KQ=="
 ---
 

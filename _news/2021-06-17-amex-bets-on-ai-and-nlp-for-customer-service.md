@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Affects Customer Experience in Retail"
-    excerpt: "This holds for the whole spectrum of industries, but its applications are rather intriguing in the context of the retail sector. This intrigue is rooted in more than just the sector’s expected annual spending of over $7."
-    publishedDateTime: 2021-06-12T19:12:00Z
-    webUrl: "https://customerthink.com/how-ai-affects-customer-experience-in-retail/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
     excerpt: "Talkdesk Retail Smart Service brings the power of artificial intelligence to customer self-service and agent interactions."
     publishedDateTime: 2021-06-15T15:15:00Z

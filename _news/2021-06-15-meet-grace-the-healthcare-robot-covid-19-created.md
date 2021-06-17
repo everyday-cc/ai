@@ -34,6 +34,17 @@ related:
         width: 940
         height: 788
         isCached: true
+  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
+    publishedDateTime: 2021-06-17T12:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
   - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
     excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
     publishedDateTime: 2021-06-15T12:00:00Z

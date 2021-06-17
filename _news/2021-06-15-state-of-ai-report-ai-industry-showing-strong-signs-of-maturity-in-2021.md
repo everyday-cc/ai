@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-sh
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: TDWI
       domain: tdwi.org
     quality: 19
+  - title: "Artificial Intelligence Accountability Reporting Grants"
+    excerpt: "Governments and corporations worldwide increasingly are harnessing the power of artificial intelligence and predictive technologies to make policy decisions they hope can help solve some of"
+    publishedDateTime: 2021-06-17T13:36:00Z
+    webUrl: "https://pulitzercenter.org/artificial-intelligence-accountability-reporting-grants"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 17
 
 secured: "g3MUE9SannhaK7/j8aBxYItob6kFIW+FcTlPNrJ9MCWnGtNqTKx4yn5dhG4fgpwsdjDcefvTM9XiviCsl5gzUY8vqfwGYeyft6RphBHGhdUaZmKYkeBXY3NqdZ+MAIPequUyFcwzFdAhRc8WO1IO+BkRNi+F7pT/2QkS2xsdqGZ91L0+BPi9sSdH19yxzORGgcpwyGy0lDlmH0MIGzRtKfdyGazjP4v/poire58LD5mIOmJZLkrkmMMvdHnthbwtcMnzvPyr0qkGNTJw7qm6xLMJbU9ZhDm7vRGXckF/ZYSViKNDzSCfoZD5LF1z7W/uEjKDJuN5w3WT0hbxZ8ncL290eH3L5bpQ6kdK4XBs3sHtKMHZWhdkRsLY/fPa9rFwEMLt2qT5m0ooG8OYG3iAjlL9ErkXOmt7N9hXTNunCvfNcrZD1brpTncvcDmP1Aj3L25AOPETnwmC7XtZTKs2g3d3SE5q/ru9vt8q9USb6xizSR370Yq6eN+YeIMieodn2YpY9NumQWjvprXFIQpXJQ==;trZN+fgDLbuhBAi/9BXbpQ=="
 ---

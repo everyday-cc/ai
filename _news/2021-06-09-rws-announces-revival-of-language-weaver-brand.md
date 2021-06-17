@@ -1,20 +1,26 @@
 ---
 category: news
 title: "RWS Announces Revival of Language Weaver Brand"
-excerpt: "\"By bringing together AI experts and technology from across ... was first to commercialize new approaches to automatic language translation based on machine learning. Its rich history and cutting ..."
+excerpt: "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation."
 publishedDateTime: 2021-06-09T07:06:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53099860-rws-announces-revival-of-language-weaver-brand-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53099860-rws-announces-revival-of-language-weaver-brand-004.htm"
+originalUrl: "https://www.lelezard.com/en/news-19847012.html"
+webUrl: "https://www.lelezard.com/en/news-19847012.html"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "89APjEbs3PMze6SrAIbxbT3sMJS4lrgPzfdN5eknAmk82fat8ecZpMoPUpQnLMHxZNHv26sgYriiYd6+83TCEgucW0JA8EYSwJdCDqUFAz+Td4oJIrN48oFFTCEVYMi5RFRjOdpn6G5GBL+7UvCKstEpXz4SqOzK9iNZobrZXu81KGj7AhnFmkwCBs99sQu3qq/6ysK/uFGCwj/BgPnhjHEdKjXyx4n62PAP4WWECp1BAoAhWTtzrdxGdXRCjSZW6eKnIRu1aD6tn9vIEJzyBPxN9PQ8PltW7UJqp/pi+u6bTFXXC2QBNLkHQY1WlJCXqs7X+qrr8d6vFdVkC3u36G5im1se4OjV0HwifkhH/zc=;Sxto36csl/J/GJJz4UO4Ew=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "pr61pTysZacxxk95sV+8O7FINI7sHI1Y9Vltbk3MCNahw/7AHjoojqYtnS+WgXZmRSBoy/5l86rKdv/phHaBW1jSOkL7mwXjSEObaFkrpKqH91Z3B9/qDS0iSKDc63D3P+LwvufSceOKXpDp5zIoElyRggY8t7ismr2MpvIDu0i0g3JnURMDmWjMm6cbFnZ3vdpFmSzumjH730w8ENKIAAflpYsOIYfygKqgfDjHgagRlI/040+ykmea687vFmF0TgaoW3GXH86hAmE+KTq1eI9+1Wxr28SaUZXMD6v16GuHX7w+PRTL/yLgjO6T+alzOjX6EAVGZaVIcCSaLJvzC+b1efV0DKxr9K6wKjT/T/8=;+ldNtJoo9sU/nnAr+qj7Ag=="
 ---
 

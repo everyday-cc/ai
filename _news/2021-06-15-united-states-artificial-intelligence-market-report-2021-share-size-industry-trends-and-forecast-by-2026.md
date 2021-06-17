@@ -65,6 +65,15 @@ related:
       name: TDWI
       domain: tdwi.org
     quality: 19
+  - title: "Artificial Intelligence Accountability Reporting Grants"
+    excerpt: "Governments and corporations worldwide increasingly are harnessing the power of artificial intelligence and predictive technologies to make policy decisions they hope can help solve some of"
+    publishedDateTime: 2021-06-17T13:36:00Z
+    webUrl: "https://pulitzercenter.org/artificial-intelligence-accountability-reporting-grants"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 17
 
 secured: "2FMzEBVbE1c9g9R3AKXJxYg2rXmhcQAjsvpK0LunxerFKHU3/FSCsDgvaeJZyxeTjveu42hY5+IiBeS+ynHK+9tcwqBVJ/71/PjjDfhTv+DTv0oOQce4Jm8LBkiRNaGSj9j32m/u+bBFvoSgx9BIRkqUq1yG951aChpxTvUygvNXHFHyeMpEgEOHICjx/7yOKZtGkdcvc66sKj/b64htiw/DRe9z9C0yr2NueR2DEPsWNUUL2du86Ir80RBoQS6PxqO21Aem9gbNmjV7i98JKyR8tWfcSd/kUaNWGouPhUtAkqu5+VxmLdpxkPS/rNv6mNVOUiCRTZ0+tQIp5PQyKbtA0DeLzvGhoMkAopygqEzlGGv6GrdJVJ9A0y36ucCI+hU4jMsfrKwDMt3s1zbxLMW0HHR17QPFbaYp81bq9mlOZKnTbkmaHJbAGESzFuu8EsyfDmFMLFPXR9gvqTc0ELj2n9xlVRIVUdMjhw+e6jnyR6fcyEZKqBVjCQto2QSJq4bZnY9eNF0TFb3wZHXYsg==;oJvU5NGgVIk6KR6MBP7kCA=="
 ---

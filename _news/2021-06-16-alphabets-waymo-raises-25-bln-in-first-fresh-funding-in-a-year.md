@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/alphabets-wa
 webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
 type: article
 quality: 84
-heat: 224
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet's self-driving car company Waymo announces $2.5 billion investment round"
+    excerpt: "Google sibling company Waymo announced a $2.5 billion investment round Wednesday, which will go toward advancing its autonomous driving technology and growing its team. The round includes funding from Waymo parent company Alphabet,"
+    publishedDateTime: 2021-06-16T12:30:01Z
+    webUrl: "https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
+    type: article
+    provider:
+      name: com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html
+      domain: com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html
+    quality: 154
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105930488-1558638540445gettyimages-1061811620.jpeg?v=1623845457"
+        width: 5300
+        height: 3535
+        isCached: true
   - title: "Alphabet’s self-driving unit Waymo raises $2.5B in funding round"
     excerpt: "Alphabet’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about"
     publishedDateTime: 2021-06-16T16:26:00Z
@@ -92,20 +108,6 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/10/waymo-self-driving-car-the-tech-portal.jpg"
         width: 1271
         height: 841
-        isCached: true
-  - title: "KeepTruckin Raises Fresh Funds Valuing Startup at $2.3 Billion"
-    excerpt: "KeepTruckin Inc. raised $190 million in a new funding round that values the San Francisco-based provider of fleet management software at $2.3 billion."
-    publishedDateTime: 2021-06-17T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/keeptruckin-raises-fresh-funds-valuing-startup-at-2-3-billion"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR4v3HVaA4mY/v0/1200x911.jpg"
-        width: 1200
-        height: 911
         isCached: true
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
@@ -214,6 +216,15 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 32
+  - title: "Waymo begins self-driving freight trials in Texas"
+    excerpt: "Waymo, the autonomous driving wing of Google, has started self-driving testing of freight in Texas with J.B. Hunt Transport Services, a supply chain transportation company based in North America. The test run will use Waymo Via, its autonomous Class 8 ..."
+    publishedDateTime: 2021-06-16T12:56:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16835/waymo-begins-self-driving-freight-trials-in-texas"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "JEDI+Is7yBo8M5JMo1OrA1spU4QSFyF6LvGplJR8A6as678ac7WZ/twmqgVlzrYzU3nydBaP1jyNrBl1L9D/ay5bxt/ZszUmXgnIXhIOt14Hk4oRowsh5+L+TkxQCavEHZc1pqd0jDWvCoKi/ZFlowtzG3SxHM5lF6CLuFOMYKztFwvigARvvShBftTfgwhOxxFkTU1RrVyDFMplOlbjCDTE4DDIST97c3pSCV72Q8sIY16I28IlZwboNgvh2So4E7t0fraN3KwwO3UTjCK1iplZTxNnIZbRIo35uVcZS3Tg0pLPiH1f03AfKXmOrf4Rv1sWDTtWPRPGCtnYQpOV+P4YYwy8umNpeze+D2E3N8EWKksybIUCgsEFGTkQSft8M40o5F+suF9iZZv6QG1/JYucG+qeWqQFELgxBxJ5EHlRBGpZOjLZj+kyBzILpd9iB3iEY4j3GKisod39fqCSAoeg5q++48t7YY+u48zYa7aYCpfOxo/wQJ9V1JGp2KOEK21NWfndJkW/ds0jgXElVg==;ss/xdCRmeodNDfw+ARH1Sg=="
 ---

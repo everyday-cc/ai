@@ -39,7 +39,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://media.wired.com/photos/60c7f9fe84a20f8f38b93271/master/pass/business_zillow_1182960600.jpg"
         width: 2400
