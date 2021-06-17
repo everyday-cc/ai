@@ -53,6 +53,20 @@ related:
         width: 1229
         height: 689
         isCached: true
+  - title: "KDDI Open Innovation Fund III Makes Additional Investment in Remote-Controlled and Artificially Intelligent Robot Developer Telexistence"
+    excerpt: "KDDI news release introduction, Notice on integration of KDDI Open Innovation Fund III Makes Additional Investment in Remote-Controlled and Artificially Intelligent Robot Developer Telexistence"
+    publishedDateTime: 2021-06-16T00:00:00Z
+    webUrl: "https://www.kddi.com/english/open-innovation-program/news/20210616/"
+    type: article
+    provider:
+      name: kddi
+      domain: kddi.com
+    quality: 6
+    images:
+      - url: "https://www.kddi.com/extlib/open-innovation-program/module/ogp_open-innovation.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/mJtxHsGd8Le8UJLq8X1Q8x+f/Z0S+oaBxS+RcKX2AYVsmJj0Qw08j9BWoRNzT1D5LvHRQvIStXPEDNBwEILrZ82ksE2DdieIZd8ATNptESU9K/H+eoI0K/OexD1vwN1joeYdQPM9t4TPKYtaqGdogHhGMhBMRquCP04W8FoNUn189TV83FaWzRuMob6rwwdHnJr1/mW0uAl2Ojq0VKEk3uvRHwaNgQ7rL/bDqiyAzlhYFvUxEHIJxEi4tWhF2vDwkilFuQwO1TXWzSYHc3gBaTN/QDIk+b2D5E8hIrP5LiPWQE7D7YU8K1LAdpdmQqh2Ns2fLTQw/IxXkru87finiEU5Vv1fhrFS0316FN3CIDQ6qDMIvvS9WrBIlrEoiRNyhQ2QuADx6qD09xjRq9/7eVZ3Ad5smDUsYdyR0yeZNW9FriwZRfIu/9MB0oR0UGZ4M7Y4dGWRSIrC4bvGjlWwVaWt3bD14gUZn1Iw8d5EhYmmyhRgyQApJLBeUuCl8RYFrx9HELV/6ijJwLA9HR7aA==;+RLke3NOwZPfQI3I+dptfQ=="
 ---

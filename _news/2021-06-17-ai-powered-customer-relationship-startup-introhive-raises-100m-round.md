@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T03:11:00Z
 originalUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-round/"
 webUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-round/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/introhive.png"
@@ -48,6 +49,6 @@ related:
         height: 889
         isCached: true
 
-secured: "AXviBAMZMt15Q2fwxk8wRZIITHl/ZujTq2gP9S1tFCWSXZNzpWXv20LajLBBlUpknB0Wmk/yAY7s3p4fZcfcz1UJ1RgLCQaVIn1cgl8YDcI4FGYeMltajkJokyHH49oIGPRfAYR4BUDMY9i8Dku2VF092s3oYusg5lmpUz5J51xZGnUdQvuva5EE5gGkreGkjtKrQCN2GcX1tVzwzfynBQUz8ikOjOPJeQfi6wlghpGEhWYqXuldZUmlzyr/EDr913x6JDi4nQfF7SFDlZ99T1hzFE/CVqbi6em83mn1HVgDD3hSXNg3jIcuKVLI4OPU0hxTECRRB01dhkhnW3lhKH5Ijaqocvc8uXrjwNSgrNk=;sZxRV5t9PUtLSZ4HuElbnA=="
+secured: "S1J7j1Axr+IU+U3oSqxBlXvno1Y92eqrBq3M/LdXMP+lHLkuN/E36jOwx7swjA0PjaIG56ogIvbm2XVj/dQez74NPT8LTvLR0TAVPanRu4X745gTzUYwBcj+kqtJzxjn2S2CSJKwfsQIsy8LqlREfgnnVqWF4s/XJPmfesqTLnzSUeXR5M6+GYyVDQ2UHQLIS7YlDGj0T+0NozBjvc148V8TrHey+HkPVsRU4N22adGoLdGnTnE8CMGzpOKVqtnNhm/fCi+6DSpf3GmLUGM5u/QyQ8nvCjXloO0zRnpfW0OgO7IjnKZLiR6fXcvsbsjm3O+KDdI3RRsdLcrImaJm4XzRivtoxoq/VaV/I3KinypOZGxIXgU2WSPmdGUO2AHxC17EcTtdBLihbH0oyxmgJYyZSNXrNF2jE2UBw7ru8O1GScFid+6LUTqJdKXFiCBvk8zBhfSHx2yIkVprL1KZsSftiWU77NNCPA6nA5tBaiPCFfJ5J43zUSMQIzT0LJcS7IKoXZZMQTvnLoIFjw0IHg==;Kvydc6VFkuSzaa5lyOk1qQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-17T03:14:00Z
 originalUrl: "https://www.cio.com/article/3622348/how-machine-learning-helps-improve-your-powers-of-prediction.html"
 webUrl: "https://www.cio.com/article/3622348/how-machine-learning-helps-improve-your-powers-of-prediction.html"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/06/istock-1256177994-100892645-large.jpg"

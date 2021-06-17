@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-24-ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software.md",
+      "title": "IBM’s Project CodeNet will test how far you can push AI to write software",
+      "excerpt": "IBM’s AI group released CodeNet, a 14-million-sample dataset for training machine learning models to help software developers be productive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "originalUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/05/Project-CodeNet-diversity.jpg",
+          "width": 1920,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "publishedDateTime": "2021-05-23T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-new-olivia-rodrigo-album-sour-stakes-her-claim-to-being-the-voice-of-gen-z-raw-and-real.md",
       "title": "New Olivia Rodrigo album 'Sour' stakes her claim to being the voice of Gen Z: Raw and real",
       "excerpt": "Sour' succeeds largely because it feels like reading pages torn out of a diary, or spending time with a close friend.",
@@ -1423,51 +1475,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM",
-      "excerpt": "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
-      "originalUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

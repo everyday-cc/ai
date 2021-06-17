@@ -29,13 +29,13 @@ images:
 related:
   - title: "Mydecine Unveils Artificial Intelligence Drug Discovery Program"
     excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing."
-    publishedDateTime: 2021-06-16T11:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8255104/mydecine-unveils-artificial-intelligence-drug-discovery-program"
+    publishedDateTime: 2021-06-16T11:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "5LY9Wz7zbMnbZIGVHAF2xgh6El8eJ4iCpealR4b7PysCDaidCG2S++nnN39RS/ZNKfSJeVYsxTWf7xbHbsFN3Nc9MMhfsWMOTx74olQekXd26h2ggnogIi7ZNgR83s53Jtzk5wDEpyW2ug15A+bnOvFeqzIZyAzinAEvIRVB/6MlTUkYxWwQJD4u15vFnf/8QYYRSc/ZGFN4RikahLMy/7goNHaH2X7LNxrx3nofv4agHSHE9lDh+E/I42HrDJi9mq2kcLo5/JpPskslAhr0+obHqi/IDcZ+CcWinaGVsj7bfKWkJzpC5kYfR867TuMYJA5ij0/RuHUQLd+a1tUWGEKPARSErPLsLIKP4ggmy6qeas0H32npvO2YlTpziuciaFhxO+UfFmB7F3nYtmPBlosw91G6kmzltk0nJqzW2ChgAvw/cgAbOuRNjKbyebAgD/7g1Ilro9Q5mB9bWCrPY+iaxXvnr+PWGJcC0rGhwD1if3z0AweMIxDD7wFrcbLRZn9xo8536vum5lxp73CZOg==;rb+ujuqp8l8iWmh4FYgkYg=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "RWS Announces Revival of Language Weaver Brand"
-excerpt: "\"By bringing together AI experts and technology from across ... was first to commercialize new approaches to automatic language translation based on machine learning. Its rich history and cutting ..."
+excerpt: "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation."
 publishedDateTime: 2021-06-09T07:06:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53099860-rws-announces-revival-of-language-weaver-brand-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53099860-rws-announces-revival-of-language-weaver-brand-004.htm"
+originalUrl: "https://www.lelezard.com/en/news-19847012.html"
+webUrl: "https://www.lelezard.com/en/news-19847012.html"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "wr0Yhy5VJ7737eLyHvd1g11RMaweo7hkmOhjyYpV/DkJkK2ZhiyDDy3hVi4X8kHrMUvQFdzHtuLmjREaKMPlIN4iyyPOfYc+LAq+wOwvVL4A/RX6FhI8oLnHsZQr+n/vAEbZnRgbYrwh81Rv1O3lJpYWhh7YFYmVKnyXV1Kius4Tq4/OqosiZaGhShziPF6J1t9f6SKLGHS0KWxreK5Hl/Dwm2cMZtDI9ZsLTkc3ErXFi2DQTlHQB/YctojkRYuG/+Kevhf0PJu/3a2GnvDCUo0pjCM0Wx9BAiROlk++4k4NuegG0XdVcUHUq1jLjgvaYCRuQgXMWNY+Ggt/rYd4zZ6n0q1VmLENwNAY4YzwvIg=;t7Yw6Yl9Mh+OA5TIfxKnAw=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "T+sO/7/nH7HCXo/TsqHmZYVPciOdx+2GD9AyWPCjEHSv63u2Qi1abzr7M/FNtI87k3fqBV2ChDjnU4axTbWG9rh/mLv7IiNVN0ujb/+6SI6UAuGHUXZJWo5xOEqfJwKUvxwWKqchgrhExn6zmzNH/Js7wY2N2fLZ7h+XjMJUdEkwO/JzdL6DQRqxc+KwFWaC8B5Oz5jS2PrRY3A+eJ9rntIrqcmwjOqWjRM7L0aHJVLvg8kLbepsOXqfcPYExv+1+7cUp6+WMyo1J6nif/Z7DSC3FcN29+lHAf2FLamlwIiGR/LxwBjznOCxq8uOZ507sF8A88ymQ9RqtlGSfUCCyC67ZrjvtumF60TzeKJH81U=;6MkA274ES4DjlItcqODIgw=="
 ---
 

@@ -2,20 +2,19 @@
 category: news
 title: "Mydecine Unveils Artificial Intelligence Drug Discovery Program"
 excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing."
-publishedDateTime: 2021-06-16T11:30:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8255104/mydecine-unveils-artificial-intelligence-drug-discovery-program"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8255104/mydecine-unveils-artificial-intelligence-drug-discovery-program"
+publishedDateTime: 2021-06-16T11:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
 type: article
-quality: 19
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -36,6 +35,6 @@ related:
         height: 740
         isCached: true
 
-secured: "u5fjN9u95zt/ayf7aJQ3DQdaq3kXJxuIlvOgMwgW15o3w/A7nU6cZMNUd112ij+liooz01PboR8rFXG532iUkrdAwz8qKjNzJBgATgvuOCwZ2mMFweWYVN018mf9AzX5Cx9n1hw0wAT47t+QMHBB3FLkYrR4NnRqUAPY7L6Si9ZxYHMhldJrh6Je9UTxXqEx8iJDri112a7vwP0fZIg4ZNAkzjp9TQ6m8r/sgJaaGp/G7RdwT1a7rhuZbkFnhcdQhne2oD7XOwYHi6d+90ewByCzwLEyv4q84TWHJlA7UcTOj4KIT+ipvFV8QTGdvUtOf4PDcXR/cHybpLVaLkNBYKFoHsbIiGZFzjG0QNkOmK4=;hS+Q2lQhWftMOVfYpdlMMw=="
+secured: "I9eLsLEgRAb7I3bU53ZbqKkhCzEMFAztj2YsQpp8ieDQ9Qs066Ffvno0opLIUrAggNU1tyxcWL4N01zGEnElywFts/Rjg+pFL7POU68rv/yHH+ArWg7Oz8LKiFjkDJj2UBwQ0QIXrFym0Ck7SCFEoTBMLkklwadk9bXKXZM6momQvrYVukHsMJo4Td95Vf/+pzr2fmJnG64r8+IgPCYCPflN8A8HSsNtJQB+VA2cnTYo0FmWf6py6XlB1hI8HOUZ4YXyBjnOsUH6zol1iq/KENSi+AFG11SDf+bQMdDv+bjRke7v0Gt/0N9kRo/41UlYjAuILWfElW1sLt08vlLnQOtm/U7zhFIY+KIEUEenqrg=;Y2vewLGCChHbpxgpwggCgA=="
 ---
 

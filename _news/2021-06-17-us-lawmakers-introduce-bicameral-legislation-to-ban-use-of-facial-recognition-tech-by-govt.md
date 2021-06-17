@@ -35,22 +35,6 @@ related:
         width: 3065
         height: 2043
         isCached: true
-  - title: "A year later, tech companies' calls to regulate facial recognition met with little progress"
-    excerpt: "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance."
-    publishedDateTime: 2021-06-12T11:30:00Z
-    webUrl: "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 83
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
-        width: 3065
-        height: 2043
-        isCached: true
   - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
     excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
     publishedDateTime: 2021-06-14T18:13:00Z
@@ -179,6 +163,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
+  - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
+    excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
+    publishedDateTime: 2021-06-16T17:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Even Financial Partners with Figure to Add Blockchain-Enabled Personal Loan Products to its Financial Services Marketplace"
-excerpt: "PRNewswire/ -- (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
+excerpt: "Even Financial (\"Even\"), the leading search, comparison, and recommendation engine for financial services, has announced a new partnership with Figure to launch the"
 publishedDateTime: 2021-06-02T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_3e89a4fe-3402-57f8-a12b-d2f10bd78079.html"
+originalUrl: "https://www.troyrecord.com/news/national/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_a32d1a89-9f54-541e-a9b4-7dfc8af25297.html"
+webUrl: "https://www.troyrecord.com/news/national/even-financial-partners-with-figure-to-add-blockchain-enabled-personal-loan-products-to-its-financial/article_a32d1a89-9f54-541e-a9b4-7dfc8af25297.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "FOp0mFisOs7xY9HUePT9mia+PTXIbK+0d9jZk4/2ugdbVIkz491eWU4ykghsVlh/dsN2sVOBrb69lbbsbkp+VtI5LPftTp6f1ctGC+JXbOgg53/+Zl69+dXzBjjRFwK9VH3BkLcUYIherCtziKZzcEXskiOTNjPrTAUe/1v7oaokStscZXVPXV9dmr0rPrln9eqi0JYcUf/ddyFeVEfqY4YN5NuBF10OqQbz6b92srEkc4aboiE+Zdhj/bRktxZx+ypjYkVHq+bflJCFDVDcB90NSgWGXW1RVEUCr3xRqcMMsN0vky5n/m9Gb+lqaIJ3qs9jevCXXn5bhHvbwI6AZGikJoSxwsPTPs7IwG/CrLk=;vk8XM184WwG+wa2m/aLnIg=="
+secured: "tuHDorBRDy5x9uZD9+FvnZKuPQIZ+sU9bcW6F3WmRRI5UrPbbXWYqhw81fWRc+IZ3guchbQk5QfE3JPTWEH6zJElYHgt5rxFVrV/KKoUnHZXqeR1aXeZHvYBrwh4UQ7JByGLWHPdjUfsHf1qGxn7mH77SttvbkB+YhTPaQdzL3zgwbW7mWDENAdFQE0BPxmEs+1ecwruWHaAhUXgNdSxdPU5E8qUG84llmcdppjnAwYLB2iUQ1xHjbELCA15Xh5YEDKb1v22yQmfV7VhOdYRUHdsnbZZrLY5VnbYqWooz2tluhUTgzCrDz8aMXr2cYVG66gKuSFzsb+uWWeEHilPJKDy6IqnKzWzzVD75VmbJAU=;CdQZMi5Q42GH1VK7eRXKQA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/06/16/overwatch-league-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/06/16/overwatch-league-hero-rankings-ibm-watson-ai-esports/amp/"
 type: article
 quality: 94
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Watson Orchestrate uses AI to help improve sales, HR and operations"
+    excerpt: "A new, personal interactive tool for professionals was recently unveiled at IBM's Think conference. As AI and machine learning become integral to success for companies, across the board ..."
+    publishedDateTime: 2021-06-14T16:19:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 121
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Airport Customs Division trains staff on use of artificial intelligence to improve operations"
+    excerpt: "The Customs Division of the Airport has began training in line with efforts to equip its staff with skills to examine goods that go through the airport"
+    publishedDateTime: 2021-06-13T15:15:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Airport-Customs-Division-trains-staff-on-use-of-artificial-intelligence-to-improve-operations-1285303"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 41
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/src/Jan_2019_Kotoka_Airport_Terminal_3.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Marketers on Fire: Randi Stipes, CMO of IBM’s Watson Advertising and Weather"
     excerpt: "Our monthly profile of an outstanding marketer whose leadership and campaigns are moving the needle for their brand. — Being CMO of IBM’s Weather Channel"
     publishedDateTime: 2021-06-13T12:17:00Z
@@ -45,6 +75,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
+    excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
+    publishedDateTime: 2021-06-16T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "jAbpO+WMUUuh8iADscAuToB6FdumK2qe0PfrixDuT0rOJqFFzBb8lWoWf4uecKnpzape7GMKNdEIvLTUgDr5OHHJZtZeVjI9BOjQE5GLWx+litH7uFODCVmnwd8d/IMsZo7hTnzumEvzDi44RUUXp+A/hU1s3pemiDiYDyW5OC6P8aawRktAlx9v8Z5kd31QYUEbo5nIbvxGLHORxVtdFfPtKsppsw6NZa29Ydhla43uMnFWp9251A8PrO9IOWAHNz5v2kDX1kRbY00BY+FJOkvt6DXT/AhqkNbSWMroKnfSFaz8PSmIXwIHzGK76J8i7GAjMdpydZaiMP7W9f872OCon2ELg/N3qASES6aEGbqttOyew9F+XVXkAoKDrjEm9QzcGpNA+wfvw2O8n50VKafGLMtDiqrv7y4zC7zArvCDw/bAs7EFsdHOVf09614eP/qofn8MQU//K14eSi3mL7qU7FN5BDY3fQqoDCtG7R/FHf8564p4m7mNEIcgm7WGEVB2XV68VDQBWHEo/Lf0EA==;lrnWDDIRFGZI+bJTCPxEPg=="
 ---

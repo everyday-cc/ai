@@ -317,10 +317,10 @@
     {
       "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
       "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
-      "excerpt": "Primers: What is AI? | What is machine learning? | What is deep learning? | What is artificial general intelligence? In an interview with Ng and Saha, we touched on a few notable points ...",
+      "excerpt": "Bratin Saha, vice president and general manager of machine learning services at AWS, said customers ... What is deep learning? | What is artificial general intelligence? In an interview ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "webUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "originalUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -328,9 +328,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "publishedDateTime": "2021-06-02T09:22:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "publishedDateTime": "2021-06-02T08:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -353,9 +353,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {

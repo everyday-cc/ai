@@ -20,6 +20,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all"
@@ -27,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "tBQ08Rs/c5a+hQsFg11J6d+kigqidX6NnH13/X/97/58dLyyZDbENaO8GOa+ssR00fgodnbMwFR4X9OZl1Sashnr+uu8Tr9ZnWHSUtlJzM5/EeT/Qu1YgOiLsevJ/cC9YMfYDEAS1ntplSqvtdBmWStfMe8LWEGVndVtoVgeVElZZQnJ2tPOYEkBnWmtAeJ+jAYlB5NPxgmkiYvNrhK51gP6XNyxHBk1NPI84h/YOHxOyCUsCJk8+6l2Njh+4CzDC0Kp5chkkA5bUJvSVCDyYxrI914q6/fX+xd5AuWD3lIjf4CFvIjNgXIJuEvZR+KaVrTj3BW4L9rWELyOpokyMxHYJpvi2pXoCPjDdoIRF7E=;AcKBvkNccRAPyEj2mC6xlA=="
+secured: "iK0cNPaxqbkpurRHg0uLoC68x/lv8Q49HlCdU8iHttasuUOkxBkQOmJxLnN0zHxvf/VV5fHHW6teQUV9KTG7YxAsBYoDhrwtLmtO6L97h8i111bzA5mVU1YkslKcPpROBOSPFAQxqf5eqeVgrRhoVU1UFUtCBni475xoSvSpjrwK++lG6AG5VT6F5M75ARGzcw1SQdfTVfiLZ1ZucyueNwAGHFAoZLPS9CPKiOgo3YM9RCOUJjLr+OaM1ZQK3vR4L5k3XAv+a1lgIcq7RWIv/qB8NnNxujXnv2AbUPmVwJsrLvQBrhD6ZgyjsF0O6pIbZW+bLQHPWEJY07ta5MEEeE1TyJ+UGCSzapLzMXuCOYJQKQSBI/CWSxQacxBP3UyTjhuB5XhBzFuklVIysa7utU2g26p4PCFZ2YebfZTSjuPlVme4b6tnd6LjmapVR+vyvTAFJkjOblG1xH3teHZMb9FQ01Pc5Zja9t10gAwgmeRFWBV9BntaUWCYJC0IbsMbSRUzFBpuX6p6KeM0EA3sow==;hGbSiQ0SnoGJPyWT5SSZ/g=="
 ---
 

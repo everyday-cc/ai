@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
-excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
-publishedDateTime: 2021-06-16T16:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
-ampWebUrl: "https://www.benzinga.com/amp/content/21591655"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21591655"
+title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
+excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
+publishedDateTime: 2021-06-16T17:35:00Z
+originalUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
+webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
 type: article
-quality: 35
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nextgov
+  domain: nextgov.com
 
 topics:
   - Computer Vision
   - AI
-  - AI in Security
+
+images:
+  - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Rules around facial recognition and policing remain blurry"
@@ -155,20 +158,17 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
-    excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
+  - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
+    excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
+    publishedDateTime: 2021-06-16T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21591655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21591655"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z
@@ -207,6 +207,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "QlSXgEc4lxDKET4o8tN2BJVJ54iQuy3ojv3f1PYhcfStAu82bNHITEwlHCTv/hHBflllHudF9YBPWxS9rPEA5tfDr9ywJMukGrSGd40Y/YjPCLaKpUxPKby2SKEAWX428ebS6FJLJkUqBOO1OInij5/BcANCunFHdSl+2ggkCMsbHxP0Skb2jiF+rdFohdzKsko7woMPxNY/UTGoBaF1am/KzWwtfHwEqk5eym3XHoexik6FzGRe+MW9HlxawbR/gFIhsdWj8PpbMusbcjQ2YblBHOmXg5j7AggZoi5IzHVk2xiwF4RKlgSaH/SLvPPMAs0zuAeHOeXd9Y+e+WsA/wKtxYxtr6Y2TPCUkg1n4T0=;l5aIejyOncIIwHfJhs5mtA=="
+secured: "C/yuOvfT1Nr3VgFow8Z+sC2A7svxh3QNUywCsTQMuVa4iRA8AX4cYqo9qQ/OH7UFqUdFvEKfk9kNTe4TWwIQoQ40tv+5y5oWRpPFZmpjsontpeFxJpZgGdab7FOQn9lYrVb8snMhCArKXHCL6y6bS7w8lvS98W+5V3mEYeXcYMK1w7RoLbkzQ5bFtyX41A4fX3WGqig5ArtKlrqAyKLoeca3Lj2BqKPX+nRfZmKUiqbBWx/r5ZLvIEhnQoG5PWHD0e9r7Z7EYZ/a7T79Gpsjuqf4nmp0weq3vPtl9k194Ryz1vCQPOyddjREZqsrVjR9WCD3Z4nugHtS/XTIba8snpeA0aHoxUuj7f9YwQhYuqc=;F2piycKuvLEeWnZYH4EHyA=="
 ---
 

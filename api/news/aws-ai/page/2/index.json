@@ -38,33 +38,24 @@
     {
       "path": "_news/2021-06-03-digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin.md",
       "title": "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin",
-      "excerpt": "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection solutions, announced today the deployment of Amazon Web Services (AWS) Direct Connect 100Gbps capability at the company's Westin Building Exchange in Seattle and on its Interxion Dublin Campus in Ireland,",
+      "excerpt": "Digital Realty, the largest global provider of cloud- and carrier-neutral data center, colocation and interconnection",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/03/9383019.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21404950/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21404950/digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platform",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/483540/Digital_Realty_Trust_Logo.jpg",
-          "width": 400,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T03:36:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21404950",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21404950",
+      "publishedDateTime": "2021-06-03T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -263,10 +254,10 @@
     {
       "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
       "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
-      "excerpt": "Primers: What is AI? | What is machine learning? | What is deep learning? | What is artificial general intelligence? In an interview with Ng and Saha, we touched on a few notable points ...",
+      "excerpt": "Bratin Saha, vice president and general manager of machine learning services at AWS, said customers ... What is deep learning? | What is artificial general intelligence? In an interview ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "webUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "originalUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -274,9 +265,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "publishedDateTime": "2021-06-02T09:22:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "publishedDateTime": "2021-06-02T08:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -299,9 +290,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -355,49 +346,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
-      "title": "AWS Announces General Availability of Amazon Location Service",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Location Service, a new service that makes it easier and more cost-effective for customers to add location functionality to their applications without compromising on user privacy or data security.",
-      "sourceUrl": null,
-      "webUrl": "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/",
-      "originalUrl": "https://gisuser.com/2021/06/aws-announces-general-availability-of-amazon-location-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -494,6 +442,40 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
+      "title": "AWS Announces General Availability of Amazon Location Service",
+      "excerpt": "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
+      "originalUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
