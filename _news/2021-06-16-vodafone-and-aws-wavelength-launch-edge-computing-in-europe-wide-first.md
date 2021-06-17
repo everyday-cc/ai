@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-l
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TelecomTV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vodafone, AWS Wavelength unveil Europe’s first multi-access edge computing services"
+    excerpt: "Cloud provider’s Wavelength system to be carried on European operator’s 4G and 5G networks to deliver ultra-low-latency capabilities to UK business customers and software developers serving the UK market."
+    publishedDateTime: 2021-06-17T05:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services"
+    ampWebUrl: "https://www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 53
+    images:
+      - url: "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Edge.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Vodafone to Offer Low-latency MEC Services in London using AWS Wavelength"
     excerpt: "Vodafone has partnered with AWS to launch Multi-access Edge Compute (MEC) services delivered with AWS Wavelength for"
     publishedDateTime: 2021-06-17T02:19:00Z

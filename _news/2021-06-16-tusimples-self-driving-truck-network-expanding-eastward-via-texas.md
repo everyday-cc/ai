@@ -24,21 +24,16 @@ topics:
 
 related:
   - title: "TuSimple Stock: The Driverless Truck Stock That Counts NVIDIA and Cathie Wood as Investors"
-    excerpt: "We're going to take a look at TuSimple (NASDAQ:TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15."
-    publishedDateTime: 2021-06-16T15:00:00Z
-    webUrl: "https://www.fool.com/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
+    excerpt: "W e're going to take a look at TuSimple (NASDAQ: TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15."
+    publishedDateTime: 2021-06-16T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 79
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630573%2Ftsp-stock-tusimple-stock-driverless-vehicle-stocks-autonomous-truck-stocks-ev-stocks-nvda-stock-cathie-wood-stocks-is-tsp-stock-a-buy-in-2021-2.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 59
   - title: "TSP Stock Blasts Off After TuSimple Sends Self-Driving Truck Across the U.S."
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips TuSimple’s (NASDAQ:TSP) recent rally began when TSP successfully sent"
     publishedDateTime: 2021-06-14T20:21:00Z

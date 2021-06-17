@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Zillow Launches New Neural Zestimate, Yielding Major Accuracy Gains"
-excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly"
-publishedDateTime: 2021-06-15T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-301312541.html"
-webUrl: "https://www.prnewswire.com/news-releases/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-301312541.html"
+excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly to current market trends and improve the national median error rate to 6."
+publishedDateTime: 2021-06-15T13:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-1030524110"
+webUrl: "https://markets.businessinsider.com/news/stocks/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-1030524110"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1533259/Zillow_Neural_Zestimate.jpg?p=facebook"
-    width: 1080
-    height: 564
+  - url: "https://mma.prnewswire.com/media/1533259/Zillow_Neural_Zestimate.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -56,6 +60,6 @@ related:
         height: 300
         isCached: true
 
-secured: "IV1QZBTVqQq8Qb6umUJ3dyBHUCr47n3TAM4sTfbhEhrTFuGq3WmMdD2ywQ2zOVyIBJHYDRDyJQx01TGgOm+XfOBlHPmI55XH+jsBxaTk6u6MkzYl+X8lGqMIeJSWE01abb+qE7m4CJea1icfQUrQz/IpORCq/phSTRRhbfPiVeiZRcxfjklV7PnDaorsLeIgbfj4YEBrx/IhYfY02r0VY81PBjyOZLdprO9OdvX2JPPdtnC/ZjxLVt/B9VMDu51GaHIb/CV3DtEAUgSRe5iG2uW3GK4LMVGi5lQ5Fab38We8zmrdLT5aZM6ExV0pX0Ft7f7i4dmBPVg3+urV5AuqlX3iz1CbbqRrMm+V/2W7+Dl5G2CFlMoa/S5oJg1Uz+Bq7S/2h1dPS1b/Yb0i+N3c/clrhDyJ4BPuPMn+SJKb7SPPN7j7iWOAUMw/eiBCTaRiq5u+Fl2mcTITGFk/YUAEk+/h2PY9TeTQrAjv8reUZs+m3Q8j3NbaRO40z7k3NcHpTVxcPmca3Wr2xA/m/s5yeQ==;MNvvxgRw6k2r9Ord0oCANQ=="
+secured: "zwmliBRB3LUw7T7I3DZedUSeCzJgAT3Ob3pSrhnrXu4n+CylcV2iq5snTQ7ZFAP1cQ6TcHCADUOK6tYdJqTQpvIW3jSCUqmXsUlQCPTdz9FewyXXn41HFjwg2ZXhEC/gDb6e/IdmGI0HlBrmch0qssKJP6HxWWHXjsk+42cAOMdmKoD3vbeF2O5yrR7ILnaRDdC8aoJ77k2e0Hqj50PJJ9UejxTVi6gJixJxmG1rn3vM5odo0EDz5tR1UKQ8gD9VZNl0W5R2QtpreKHLwtiJSqUzUWGh+Qj37KhItBfmli/0hSSCm7GbGbiBiBQSjOVPp7+slnueWbp1d58/ohkuiUBbfNnZwJi9zhc8RjHY7Yc=;GDpUTzZOy6FrXxpOgblb/w=="
 ---
 

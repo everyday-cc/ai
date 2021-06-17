@@ -104,21 +104,14 @@ related:
         height: 841
         isCached: true
   - title: "Waymo raises further $2.5bn for self-driving car project"
-    excerpt: "Waymo has raised an additional $2.5bn, as an array of investors continued to back its driverless car project, stoking concerns about the rate of cash burn at the Alphabet-owned company. Waymo, which started as a Google project in 2009,"
-    publishedDateTime: 2021-06-16T17:30:00Z
-    webUrl: "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
-    ampWebUrl: "https://amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
+    excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
+    publishedDateTime: 2021-06-16T19:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-raises-further-$2-5bn-for-self-driving-car-project-10247365"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5feecf-7435-4600-95c4-d69820be9aec.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Alphabet's Self-driving Car Company Waymo Raises $2.5 Bln In New Funding Round"
     excerpt: "Waymo, the autonomous driving technology development company owned by Google's parent Alphabet Inc. (GOOGL), Wednesday announced a"
     publishedDateTime: 2021-06-16T19:40:00Z
@@ -166,6 +159,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/waymo-is-among-several-automotive-and-tech-firms.jpg"
         width: 1024
         height: 640
+        isCached: true
+  - title: "Alphabet’s Waymo Raises More Than $2 Billion In A Year"
+    excerpt: "Waymo successfully raises $2.5 billion at its fresh funding. Despite analysts predicted it is not a good time for the company to go for IPO."
+    publishedDateTime: 2021-06-17T09:54:00Z
+    webUrl: "https://techstory.in/alphabets-waymo-raises-more-than-2-billion-in-a-year/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."

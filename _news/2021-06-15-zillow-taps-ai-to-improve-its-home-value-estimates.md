@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "Zillow Launches New Neural Zestimate, Yielding Major Accuracy Gains"
-    excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly"
-    publishedDateTime: 2021-06-15T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-301312541.html"
+    excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly to current market trends and improve the national median error rate to 6."
+    publishedDateTime: 2021-06-15T13:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-1030524110"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1533259/Zillow_Neural_Zestimate.jpg?p=facebook"
-        width: 1080
-        height: 564
+      - url: "https://mma.prnewswire.com/media/1533259/Zillow_Neural_Zestimate.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Zillow Launches Zestimate With Neural Enhancements"
     excerpt: "Zillow launched major updates to its Zestimate home valuation model, including an updated algorithm. The changes allow the algorithm to react more quickly to current market trends and improve the national median error rate to 6."

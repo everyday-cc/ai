@@ -24,22 +24,6 @@ images:
     height: 1035
     isCached: true
 
-related:
-  - title: "Face biometrics draws millions in investment, plus consideration, explanation and criticism"
-    excerpt: "Facial recognition is the theme of the most widely-read stories on Biometric Update this week, plus the Trulioo fundraising round and potential Clear IPO."
-    publishedDateTime: 2021-06-12T15:43:00Z
-    webUrl: "https://www.biometricupdate.com/202106/face-biometrics-draws-millions-in-investment-plus-consideration-explanation-and-criticism"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-
 secured: "D55vkRgELJvEGKfIIPGchkwcp+6ukG4d+3UqEnpOlGL1BUTNHJq9vRstPJPeSPiT9XLE2DCuYKEoaJc87oQahTcv3gUpj+hP3f5XCy3F4GAYATclUdMofp0cNcXCkNYrZkbGf1qKwy9RqnwOxMBxO4pmdG8w+ZdQQPxWTH/h6OXFtKeb3iHzy3hM4FhNSTiDhsaMwCzJRR4hdA2mDJMQaxtIW2e46gul33g5bZRHZW8HhZQtEn1AYRJUCKDMX+ZZ49/gf877eivouQJJyEUvi4Zvz7oD/tJxqI7fvLBlkENZmGNd5ruGTKgs//tQLdakb2mYhYhjJy88bR2vt5/1geukNyrhIv5oQO0J23Hyg6TTQ3VctRebY0lW2BRhx/cxq0TjD6OXdIbv3LE/ywoIaujpaZexLXhhrAqZLKrLgvT/9+jZMXXnZ+Psc3iPdJUpurNqVhUvDjvDt26NDc8KtnTXsIz8DbSMei/Iex7vN1/V3yVS4KGfqj/C5DAQ8p3T66NmBHBN/JQ+c5DpFa88vg==;FgkiDZYiSfa7ESLqMFXGsA=="
 ---
 

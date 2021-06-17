@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Waymo raises further $2.5bn for self-driving car project"
-excerpt: "Waymo has raised an additional $2.5bn, as an array of investors continued to back its driverless car project, stoking concerns about the rate of cash burn at the Alphabet-owned company. Waymo, which started as a Google project in 2009,"
-publishedDateTime: 2021-06-16T17:30:00Z
-originalUrl: "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
-webUrl: "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
-ampWebUrl: "https://amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885"
+excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
+publishedDateTime: 2021-06-16T19:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/waymo-raises-further-$2-5bn-for-self-driving-car-project-10247365"
+webUrl: "https://markets.businessinsider.com/news/stocks/waymo-raises-further-$2-5bn-for-self-driving-car-project-10247365"
 type: article
-quality: 74
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5feecf-7435-4600-95c4-d69820be9aec.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    isCached: true
 
 related:
   - title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
@@ -153,6 +149,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Alphabet’s Waymo Raises More Than $2 Billion In A Year"
+    excerpt: "Waymo successfully raises $2.5 billion at its fresh funding. Despite analysts predicted it is not a good time for the company to go for IPO."
+    publishedDateTime: 2021-06-17T09:54:00Z
+    webUrl: "https://techstory.in/alphabets-waymo-raises-more-than-2-billion-in-a-year/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Alphabet's Waymo raises US$2.5b in first fresh funding in a year"
     excerpt: "This comes after a string of defections of executives rekindled concerns about the technology struggling to scale up.. Read more at straitstimes.com."
     publishedDateTime: 2021-06-17T00:43:00Z
@@ -190,6 +200,6 @@ related:
       domain: newsobserver.com
     quality: 32
 
-secured: "7lrtw9w6FxWwczwJHP3kyBUijGMChe9NFSot3WCFYO3kPii5cgCYBjwimUWMkOU9vcYiFzxSdNjIY3t9q1YaCPiaottxP/b41nsi5YBZmX+UO9WbAWhrERyNQbp/9dCTKajpDMH3K8ml/PrI4/Kcc/oX8Dt00cz9OF9bEizcRq0skqtnfJ+BcsWdlO8Wwr8NZ5O9++FNBB9Slhn/mGr0SqyQSo9ikf/GiSHVsgu+J8Y/aLPylh9qx5j+xT01J+SjA01sjC76dVjatluY/b1Dy2DPmXpSBk0sfN/zQf0Z5L4Bi+T8g5TRal7Q8gVtcYCW0t09t8tgYqQhQfh2FNXF88ky1Uy9CtDS6P50dbZZhZohfVFzKY8Tf3J3QqoisNqvLh3jA5FQXXWIN9vXfu9Na60kxiFxjImdy8Ns+NEW/41dDGTn+ffcUJ3054Gf0nkF600zUrok4IlCrBi/8iNe5u3+QvfjyCPTeKMy2AUAcz7kvAr+/ywy3ok/hzqoCrTwGTdCypV0IZjltCqvcZFZ5g==;uJj30XmY9XPtyyZKrb0t2w=="
+secured: "XHImA18wnWFVRxPHODfyaarCAZ0MVB3SBPPFeX1lTipdQOD5C/3To9nHPPVliQbWA54J/hPUXDSQD7/H4luWEs24Au8N27UXiRttQYvFSkv1oRT8ELt4/mjEDoBEU/HF9AAZ6D9FgWh0RxywJjS6lw431+gRA52hEmOnhz2r3uB/UXzQQHrGZk+HP6XpGL3VmK0rv+RNZv3+rOdNOzZZQBVG3cOmEGqAHl5UMQYTLEmVospOR8e3VuFcS7H8KF0afRBoUrYG6MXHWaqJ7Ovx0c8jBqD6m6pshsVfiuLUQjP52ylJlSYGN7hbmf8P9KLYGRbfJneAV4IrXvs5SfQfZ5rZW7YTyA4Y2p0rU5irG/I=;uROYKTLZEGs9Tca524bprg=="
 ---
 

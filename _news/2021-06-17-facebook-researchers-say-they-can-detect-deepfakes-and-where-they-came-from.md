@@ -2,26 +2,26 @@
 category: news
 title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
 excerpt: "Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear realistic. They've become harder to detect."
-publishedDateTime: 2021-06-17T07:47:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1007472092"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1007472092"
+publishedDateTime: 2021-06-17T07:36:00Z
+originalUrl: "https://www.kpbs.org/news/2021/jun/17/facebook-researchers-say-they-can-detect/"
+webUrl: "https://www.kpbs.org/news/2021/jun/17/facebook-researchers-say-they-can-detect/"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: KPBS
+  domain: kpbs.org
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/06/17/ap18182526835003-721b3f8ef1f9f90eb6e6d6b04f8dd47469336d8e.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2021/06/17/ap18182526835003_wide-004d6fdfcf02984034021be0fbce77236c458709.jpg"
+    width: 9144
+    height: 5143
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 477
         isCached: true
 
-secured: "MVjM1CRIYs14m5PyGgqlFd2ShZY/mZx5miYBqZsseq+RoEgjNupPpbfO+LF+W3fwkje53bAi1iiXytLD0nwMao1S98ePTbiiO3A/iTu+ooslFxF6hPDT1KJKOmqTuGX5Xp+b9+Y1sFIuHr6kwQbp+oQw/bQM/3WTnTMfVITBXlX/mIUe0aMKMG1inqHzgBCPiljIJ96HQVV79q5eYUsvpqbv/BMsXcHeAagaGpo7GycNdqpoh113Rgmakj8t7XL7g8BR5ZiI18OX69KYJg6lft3BgI57iRjlUoaEEH99LXEme1m4EmtszSjYMj+EyXJizndMMLAq23gtJtWclfQOcT7gsH5+09OWpsxwAwOJ7MU=;Gle6lPROLTyanhgHZRaFjA=="
+secured: "RdxNe4bLRuf11kqFr7dM/D7734jqTw8EAPB4NLjCiS1zouxmngjrqi18pUwVxKv7lmpPTb0vqePeV3UXyy9GYqzBgJJW3E8Ln4xx+YyEhAYktoH6EQ8OOAzF/OmzuJaIjcnpywqRDr3zeV4so0YuhpkJtisjmqMc+NGger+q/K7XG/HzcfJuOXbCQTuzDlWL4deQyqOelZBDcJn/ecqS6KuGa2pBiYa93S4QZ/g9Kc3PY9ra5zbAq9ZRoP1tv77Y8B69a8t96BEuZa4AWEPyZVAoVjCekR/33dl5D5qfB0ZYVld0kTrGi2Vm2VQ3hD9rTN091rwqlykMXLkjk9ER1POB+pkogOB1zWyOjPL2+ms=;OIcrNtBsUyavfGwCGeEPfg=="
 ---
 

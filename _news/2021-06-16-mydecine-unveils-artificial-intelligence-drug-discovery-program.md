@@ -2,17 +2,17 @@
 category: news
 title: "Mydecine Unveils Artificial Intelligence Drug Discovery Program"
 excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing."
-publishedDateTime: 2021-06-16T11:30:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8255104/mydecine-unveils-artificial-intelligence-drug-discovery-program"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8255104/mydecine-unveils-artificial-intelligence-drug-discovery-program"
+publishedDateTime: 2021-06-16T11:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -36,6 +36,6 @@ related:
         height: 740
         isCached: true
 
-secured: "qbh33QyOPK5VJhOiPK4W5dFwPw8XshfFgnDkOEHsdXXGgnrazBdglJlstKMwBgPS5hKqNaZ6rX8+oRuFSc0bOLK5RlC6DK8RyusMrpUTBEDH2tV3duRl1H5YQbKUEQa56tIKNxUSXcSo7F7AEdrCEEOGxbduzQf+lEUqqJXqLJkQMO8YWvsRPAM+vX5dp4WZXKGI6p3Z8JYag+nh9SGZxEVygx/71OUEYNcN5WQKG2MGJSGpnOZR9Xq7KQ4858sVWzpFCXxqzl1yz1OrpRKyrZza/fqIVwkwOcIYKsAY1YSZHMeP2huDJ8b3CxfwYQ/PB7buCITNTtqITeNiCqeOy/GMqpDBgEgeCyCS7o5X4PI=;vt55fOelHJugtUGQUEuYEg=="
+secured: "0BAaWuKij+kw0e9XySRJBEht9kMsuJNatVWhRliIpAEvz8GuyK+vg2wkki1n/0xUGdZUSc7jwtIXVGsqphhb/Gy4ZaK/1gFKPXh0t18FB/Vkft5kRtM8TzpFKsxW/qVu84PY7oIVmFM2sjzslqc0SwEDrpViTpxkK2D+KsGi6Kls1VcS9wbRxs0tKQHYpPy7rUTfe9mZZosRtjqM/Mz3+gN/FcVvPsveci7o+AJKPpyhWhX68lOXER74hcHQ63269CtpVgR/UqfMNJI+8q2A1krKg61PGRbt6NtLiFG3MiKIkgWyReoOWLr4yl6prp3CHSM9P0h5bh8iTNSbHscfn9DGxEdUR9VdVxNM7cmJu8w=;WK49zLwT11QsXJRslElw5Q=="
 ---
 

@@ -32,7 +32,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize"
         width: 1200

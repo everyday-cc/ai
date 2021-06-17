@@ -1,34 +1,24 @@
 ---
 category: news
 title: "TuSimple Stock: The Driverless Truck Stock That Counts NVIDIA and Cathie Wood as Investors"
-excerpt: "We're going to take a look at TuSimple (NASDAQ:TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15."
-publishedDateTime: 2021-06-16T15:00:00Z
-originalUrl: "https://www.fool.com/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
-webUrl: "https://www.fool.com/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
+excerpt: "W e're going to take a look at TuSimple (NASDAQ: TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15."
+publishedDateTime: 2021-06-16T11:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors"
+webUrl: "https://www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors"
+ampWebUrl: "https://www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-stock%3A-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors?amp"
 type: article
-quality: 79
-heat: 99
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630573%2Ftsp-stock-tusimple-stock-driverless-vehicle-stocks-autonomous-truck-stocks-ev-stocks-nvda-stock-cathie-wood-stocks-is-tsp-stock-a-buy-in-2021-2.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "TuSimple's Self-Driving Truck Network Expanding Eastward Via Texas"
@@ -50,6 +40,6 @@ related:
       domain: businessinsider.com
     quality: 31
 
-secured: "6EaK1mx+9SzJ24kaeYfNjrZ/9e7sau9H1KsD5V7NANtd7JdkK/yU37npqfj3bfuTupCyzmrhC1HxQ6JpmXffz+0mkne5Jz0omGWDqHvtP6PXo8awCWxzn2oP0DXeJiCJNlqAj2qQ1tMjzDBd6pVqAurD8YXvYlHCLVBxKosigmygaNc+GjfAYFoOlAZO8Ea23+ZwiU3BI8zWn3ns0a035Bk+ZqbZFTbaSappEb4hOtRa06zBE/ie+q7fvPv4rWKFR4D71+YkRz9jZzhxeK7pty8gUOQ5S/ld7zLFq2gVcfw4QattaoasAvJYZa+2rTQmw0sIJ2xT3ymnuul2x7jafJWJMEkwQvhaiCPGKGbPnH5ok55SFh1q+b3R0wgaEsd6iKIBkzjKzRQGjWQ//29NNepiVZXP2zdejx7n6TUbD0JzuNq2YcjRTUYR1Sh6t88BvfKsIoUrkYEW84GcXg01io2VY5XvMYANlfKTRqgegEh/Ol8YHyFRHNsmUB4ZDlKQVm5qZYo2YqVsnM8wHcr1ag==;Wwv7bVr1elqWVPF7GrI0Gw=="
+secured: "LjsQTYkIGjKiFZjUhPb8KZ9qrRvrr72qHME2YsU8/BIfeQ1hXEjUaa56RmpUOkXDnV6m9aE7bTN9fXG0XYJcZlPT8ekkrjRZqLjf/gv80rqP9kWqIZX/mIt9NCjmpqCulbjdCRPuQEDugQH+r3lwDKvWYA9mU0z2DQC3g5v84IAf/CvkncUCCynNBWWQkwXsTFWJpz6eX4MkOpkd9asOj2I4U7sPz7TzEDssvzheiMOQ1XkyHSX3rUWydYWkB33TGSbChJV4irjgAwV5xHLRbxVmt4BzDkPPK43ULBVSTzC1bI8slX3Zyk1iEr55i6XIsEdKfkqTYS2btcICxiU/35oIRAPkyEcziSzbVdSVIAs=;7zaAsX2GovVuYqL7IrWpMw=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 509
         isCached: true
+  - title: "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022"
+    excerpt: "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022."
+    publishedDateTime: 2021-06-17T08:52:00Z
+    webUrl: "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
+        width: 731
+        height: 393
+        isCached: true
   - title: "AV startup Refraction AI's driverless robots to deliver pizza in Texas"
     excerpt: "Pizza lovers in certain areas of Austin, Texas, can now have their pies delivered via robot. The REV-1 robot is the product of Refraction AI, an Ann Arbor, Mich., autonomous vehicle startup. The company is expanding its reach,"
     publishedDateTime: 2021-06-16T18:40:00Z

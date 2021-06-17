@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-17T06:30:00Z
 originalUrl: "https://analyticsindiamag.com/ibm-research-engineer-abhishek-bhandwaldar-on-his-machine-learning-journey/"
 webUrl: "https://analyticsindiamag.com/ibm-research-engineer-abhishek-bhandwaldar-on-his-machine-learning-journey/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Abhishek-Bhandwaldar-IBM.jpg"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "H1+rTo8ET7xbJg5bRKiyJ0vWgHNouAnBSEyalsgEo5IILAaROeBNjPQxbHOSmI7P9glyhjFoYj2auYX0HRA0dVMz2Unu6oR9QvPdBahbM9AEofceQ8bU+Nr/orFd/nhmz4aIN3b5F6dEk5r6R4cYIkPjJ9vQcuGj0kpFnRn2Dw6S07iLve61Jq3nej+euc1emEIK4nWM6bV6veoonQqCD0fMe+p2LVjGfkSsewx/LDAitlJv9E8CxCjwI89/B9pGPSO0DYfw1pJ3rOMyaoKqbh8bah4Mof7Zwjp+9Rx+fmPGy8aH7b/VOz6UQD8LDCnASDJQDBceHITQ0QAVP6jhFkGlI30FTC3L/JxzyGJpHDk=;xLTEaCRf3mzKYb782MIPyQ=="
+secured: "4DVb/YI2Sk2/SUxL1Pc+aMQfv1zXIeYSBNeCZJFqOTRHMyJl4WrSH4wCXYv512d9RLRwlhb/Gyl/Kw2JZkyyxp8SRBRD+20QGhoqCw9lGL/IGyiC3V7exC3C7XEytIFwVCsSk4iKXCet/Lvk71Z9BGGL/n9U2+J006vWNHApiT22HV8rbE5VsPXW+CVSjdMKXyRUt0HxHpSBXu+mSzVhXDEUBfoCHptezmGLVtXclETvNysw5eeynV2fhAllHyPYgvCmleBtVxaGUq+ZhFf9OCM90AhIFRmeSXQ7fyuIfXyamaUPGxqVCB5/t2HA8XNjDSLHdK8iLOS+YJ63dGKpEJ8CMVo3VG4bABUKsxnE4F0413/z5AlKyAzIi1Yrbwzn8fRMsgi81tjCYXAW6Os8XhbilXANkUGLVOItIGIzhOdzrHIyAx7txOQHe/1U3UFfO/lhAb6aNP3rF/pUuUDWqeifTAgaHvpcYTpP/GxnbTVAeGRGfy6S2X4oJxSDCt5aRcLbmBg2nKShHxJveOBQZw==;MpUw3J5IbshRW50y97rcZA=="
 ---
 

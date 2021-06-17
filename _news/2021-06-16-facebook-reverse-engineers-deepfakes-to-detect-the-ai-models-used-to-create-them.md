@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
     excerpt: "Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear realistic. They've become harder to detect."
-    publishedDateTime: 2021-06-17T07:47:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1007472092"
+    publishedDateTime: 2021-06-17T07:36:00Z
+    webUrl: "https://www.kpbs.org/news/2021/jun/17/facebook-researchers-say-they-can-detect/"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
+      name: KPBS
+      domain: kpbs.org
     quality: 22
     images:
-      - url: "https://media.npr.org/assets/img/2021/06/17/ap18182526835003-721b3f8ef1f9f90eb6e6d6b04f8dd47469336d8e.jpg?s=6"
-        width: 948
-        height: 710
+      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2021/06/17/ap18182526835003_wide-004d6fdfcf02984034021be0fbce77236c458709.jpg"
+        width: 9144
+        height: 5143
         isCached: true
 
 secured: "vZMKIQLDQTl18ONTpaNR5pkeTjiMqNk3VjEgG/28Cym+RpI6k/4gVNvyV+O3O52nMdk6WegyNiFbKeFaMFYDVIM+ycwBjnG6gXcmeDRuQRUyHvve8HuLwnrarSnoiy5SD1QeJ8WVKjq14uEdaF7YGwagVmeHGJIdvBh7YR2XLdFWL17ywvsWZU4pVFT9sD5buFBGhhQtqMJbjCE2zbOmKcfcwfl6qEn7auQcNIyHA9Z1/Ik6po+T2lN7g/708OYSY1nJJwkZlDMWAS7T79EDQ/YE2t/g0t939qMCBBlEM8wCp0mc3mUS3aJ0Hb05q8MbKdaDDzZHpumwAmIrxq7J347+C2XJTDR/2dqhl7D3emd/hzHRO0WNYD0GG8gseXwXeFCsf6di94coCR699i5O4YzFnadkdzXon4zehpcBnTBr1Zrlw3Jg4gLdo5BwB102DxRLncWc7aWQuYvur9MtvMHkIkNNNPCU/LkVjzsAMekiengkIqvwlFy486khWu08OonBW421kIp/XbHoPeg5+A==;f/PI+Pezcb/eL3wwZakG4w=="

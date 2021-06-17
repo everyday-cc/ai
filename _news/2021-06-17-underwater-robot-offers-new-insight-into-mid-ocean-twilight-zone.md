@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Underwater robot offers new insight into mid-ocean 'twilight zone'"
-excerpt: "An innovative underwater robot known as Mesobot is providing researchers with deeper insight into the vast mid-ocean region known as the 'twilight zone.' Capable of tracking and recording high-resolution images of slow-moving and fragile zooplankton,"
-publishedDateTime: 2021-06-17T03:17:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/06/210616191511.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/06/210616191511.htm"
+excerpt: "An innovative underwater robot known as Mesobot is providing researchers with deeper insight into the vast mid-ocean region known as the \"twilight zone.\" Capable of tracking and recording high-resolution images of slow-moving and fragile zooplankton,"
+publishedDateTime: 2021-06-17T08:16:00Z
+originalUrl: "https://techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.html"
+webUrl: "https://techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.html"
+ampWebUrl: "https://techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "wVNCFiGZs4mWBxqkaf/Mvb9KYlLW3UKcnEUWn97XLXKNWpkUsEdQoauGYz9Q6+CXAR7adE7nvXYTmJg4rh9kSk4URrLEcvy+msCw1j4oTQJ+B+2dJbgRC7uu8BxndonNQFw9hmHosFplV8DbUtrxcte2ZExkoi69XfoWLlwktva0GCFndV9Ep70mKOzP0YlrXvWh5IOC9//zGTCN0GCBlPaLCePBbuVR3caAaSsulMPcov2FbwAtmUaMDnBMGB22x6b3vNvMVLKM2Vd//YqQ9Wdw+e8R9NOqnY2PbvWyKTLrYoP832A4rWsjW7zhjBQMMeKj5mufEa3+hvjj3fgc/UlRKcxcucDZ7ExyBvY2EHU=;u3teAcvBMs6hOZ6yrpqtTw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/underwater-robot-offer.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "Vi2E9RBfQLXtStZYS5gT5f3gvhGydKuUFlN0YU5JfQy8bH8Up2egXiSHWqu8deDbEBXsR6WG/b5WL9qUHMhDPE9QMVwxeKMeD9lCWxOhxuJH6iy/XQfDjcLV81jR4U4jhD7LTYxMaAYi4gMcpGN4wJfm0O5jGsq65vc+/68YGHtalTYXYAHPGf3N/QF5T+MrLSniisd6yO2pvFX5px+5oW+joKWPsx9Nm3ZJVTIiyGShmdN44PLmQ8ljrY+7TD3cfTV6sNyQ5bf/YlPe9BMfotl7KeLaxlrfVNXdZIfo4xObEJ3hGZRku0twfaH/O3ILtgh92oelieTEGeLZMkXRB8ov4eHc8pz50Z7/whvjHNc=;sjmgSpNPShgqa99aurYCsw=="
 ---
 

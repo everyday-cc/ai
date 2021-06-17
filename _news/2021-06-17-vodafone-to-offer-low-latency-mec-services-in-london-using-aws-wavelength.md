@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vodafone, AWS Wavelength unveil Europe’s first multi-access edge computing services"
+    excerpt: "Cloud provider’s Wavelength system to be carried on European operator’s 4G and 5G networks to deliver ultra-low-latency capabilities to UK business customers and software developers serving the UK market."
+    publishedDateTime: 2021-06-17T05:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services"
+    ampWebUrl: "https://www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 53
+    images:
+      - url: "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Edge.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "AQx+hLuMGMZtTwXJ7QIkyJwzWy5T+6wsZXJv7EKzVG07+9sAIHMcKlFqYcJJwZVvTMSQvXGDjyCgMhRs/NaXtTSvTm8uM3rXyIGyg2YIf5GD0MtyprlY6nIn5vcB4YfHaMc30ZgFu7s9p2hRygg8uPNL8qbVet1CTtsZL0iuHGkXNWuZsZwVyTCSoQMztrhRx7ruaQz+ycj0vEls3OD9A5FubpIKAt8U4f9ZutxagCGEzJG3e0/getAqh6YcNO03DbCbVTy05d4XgwB1h3mciISlgarFH9Q9rqqbSZSvM3JOsI8GEVv3WKdRdppEGDe7EBCle7/dMybklQ5J7rx+lqBhG+ksVJVYccu2WcNUGK+gKqkORuRmF3QuN5b8syFSTlHnSyg8QKXPlTM6OtHEo0BHwhhhyIbkzGQ7g0eJHdYjH/e8/6MHyHGlgju+ORtB8gtMUE2zCPNQFzmlm2anL0mybESRWxseWuBIeKLxASuQ1j73NYHCisnW1zgQgMTi9sEsJB8C+eCKN8tbNhQfJw==;M+oqTZaxmE0vgROE1YUnzA=="
 ---

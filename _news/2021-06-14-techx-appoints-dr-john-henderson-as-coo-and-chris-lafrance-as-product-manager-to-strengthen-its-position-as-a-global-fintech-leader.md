@@ -2,17 +2,17 @@
 category: news
 title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
 excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
-publishedDateTime: 2021-06-14T11:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389406.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389406.htm"
+publishedDateTime: 2021-06-14T11:30:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210614to09497/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210614to09497/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
@@ -43,6 +43,6 @@ related:
       domain: leaprate.com
     quality: 4
 
-secured: "2ZVDBw3vyGYs9aDHJl7wtxO1UhrmTiYyL0OBI4EKql2d6dmaFxSbItEr4m3uGmhQHJVOF0nXpuQ9eFS8R839JxYGmBgUv+9cDBISr3PI7bw4as94Dhp0EG9IrQJ0JXhsCSmzPBUPQkdDAe0g3p7p2RZZtk1wJ+JteS1qgk6VP2bTe3C8EJ5zsS3GCvFdqVkqqE1Hh17pgyi2tSsxz54s9pMV4zd9xb1P787LYell74ygGifq0W6yAUFx2XXFNDy4Te90EZE4hQ9MWZw2D08+5/ikKpUKVJ/5xUYzMNpWF+XMJvChvQPYwNangQr0oqCJ+G+7ZUGvyrNNyn7bw6jBZpJqWlF4v3HWHD6XdZ9asco=;eBrq//0x+YlQkR6LP/dT2w=="
+secured: "ZI3fqTciv/wir4/RSZH2n2DcZzlQzuCpO6vTNfA92o9QyAoAsutnVlg0rQjh2QPSRZCOJWVqkbNJLf5Od3zksT07BvvXxLm8XETmLQsf80rUJebfdlQ+luxuCNwxV+Vm3nnDMhnVr3+Xpd6kXA0fYtN/NgDf8ZTBMnUfxI+YPBCeM8m3Ofjf2OLECyNTxu1SZlry7HBZwxTHx0czk/GwKl8SyNqjskTv/2HirFug9xtiywTPqTK1uBrSiRlegPkFW77nh6hTUCAXuQ78/Ai0cqo3+YUSYz71pKh5YG+7w6fIa4MV8Cfcs42CuXvMk47zmVkGXKf4ixvf6iqHtQ2s6t2ZL4RqBqdyIyDD5ENAl2w=;6SNH6DtCKq93Z3E7yKUsAQ=="
 ---
 

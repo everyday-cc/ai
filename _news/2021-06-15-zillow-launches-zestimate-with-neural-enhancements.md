@@ -42,18 +42,18 @@ related:
         height: 1600
         isCached: true
   - title: "Zillow Launches New Neural Zestimate, Yielding Major Accuracy Gains"
-    excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly"
-    publishedDateTime: 2021-06-15T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-301312541.html"
+    excerpt: "Zillow today launches significant upgrades to its Zestimate® home valuation model. The changes allow the algorithm to react more quickly to current market trends and improve the national median error rate to 6."
+    publishedDateTime: 2021-06-15T13:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zillow-launches-new-neural-zestimate-yielding-major-accuracy-gains-1030524110"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1533259/Zillow_Neural_Zestimate.jpg?p=facebook"
-        width: 1080
-        height: 564
+      - url: "https://mma.prnewswire.com/media/1533259/Zillow_Neural_Zestimate.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "uaT4jmNQHX7AF83S9UbSwyo+JlpLfkUwgqixXe+vod0akowlL0+q/rF3CGszGQLR9X5tO2xp5F32k+XDMGTnrBtnYI4YBaZP1BUPBZc0mZXklYhz55aVf+SSscBzulmJy28tvpgD34Ttr8s6K1Iz0dHAsF6GoThEiVe0glARNLka7uw3uqQWyfQwzSd5/eYnVcyzx4iOlU4GGDLxItTZVdr7F6hhy1LzT1QXgMo90ccjXxcB7ZycqadNeflgKbqA5qEshCI5GmW/rRzLqXK+GNgnXTM7sVAjmEQfqWapcQYBV+DHmcsN9wUHYly/o1n9TxRzUq8p1sR1DjEuxo4QdhH/kgRoYwPPCzICowEN4pEw2Hx5wdu/BFzlQRaHmRvMyVZMN+ob/QnuhJjrEHDvNQ5ibe8gBGvsqM/IzPTzaGuA5pg2UzkVsWM/w2mwthDKdazowGBy9a+bsuNOFJpRwbM2BKuxJl2s8VC1fbpJJe5KZ+8tsPXTSpcDMySoLxUZr5Sky9EWgxAvR4IFjutHTA==;l9LfLwLoeZpgvatlGWxG6Q=="

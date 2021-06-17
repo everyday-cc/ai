@@ -57,6 +57,15 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Artificial Intelligence aids the analysis of microscopy images"
+    excerpt: "Gulbenkian Science/DICYT Researchers develop a new platform of artificial intelligence able to explore microscopy data and hasten new biomedical discoveries in health and disease. The platform— ZeroCostDL4Mic —is available in open access and allows anyone with little to no experience in coding to quickly use it and develop powerful actions,"
+    publishedDateTime: 2021-06-17T09:31:00Z
+    webUrl: "https://www.dicyt.com/viewNews.php?newsId=44109"
+    type: article
+    provider:
+      name: DiCYT
+      domain: dicyt.com
+    quality: 34
   - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
     excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
     publishedDateTime: 2021-06-15T13:00:00Z

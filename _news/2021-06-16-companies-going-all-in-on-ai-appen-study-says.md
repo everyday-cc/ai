@@ -41,15 +41,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies"
-    excerpt: "State of AI Report Finds a Shift to Internal Efficiencies. AI budgets up significantly and decisions moving from C-suite to technologists, away from “silver bul"
-    publishedDateTime: 2021-06-15T07:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210615005050/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 18
 
 secured: "yvE9+pNIWot2q9EwHNs4rErVcu0HdDdE0EIIQuQxdd2mukNYLPUFcXA0dNhlm6a4NIVCtGnbN4TgCw1v8e5Mr0hmLfeCsYacn961X8tJmqmDS9CyNQ0QernH+kcjivVzoarl6grBPNIm/3Lo+sVGMksgoN93Y5AFW+Ea3KUdMRIcRM0+4CT0Bwzl6P2eZZNTcfA403/Pn/42j4cLm4wakMdq2tdeibmkZOlEEL2wdJ8fSrHAOc26LvJRhKFWFQZEUp6VyfYm+mC5xRNiewFbhgLK2VU9vUY0SeIfOaGpdbGHg1NBt8VqFJtNyTYeUeue+cMkeYrhrO5864M+ZJF0QqdW9fLcIqfyOIt4V1+zZvBm3RJ8jpBnKzmhZVkkaKAmD8YP3titynZXPoiD7i/PGF+Tn7B3YVkF7xJ4v5MSx2b7uwje3kdMgNWXLt7zDpA39kjpNnbYjTaC71eLgRjAvwcePUyaQ3qhfoPZontewd6DHXFjPsPqnMwJ6u0707UayAjA8NO6E23yTUnmqgUz2Q==;oXSroIlg8jCWascT5yNtNg=="
 ---

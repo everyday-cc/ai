@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors"
-publishedDateTime: 2021-06-07T18:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner"
-ampWebUrl: "https://www.benzinga.com/amp/content/21457975"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21457975"
+excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,"
+publishedDateTime: 2021-06-07T18:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "ejSySctLsQ3DC/wEPnUEPcB9W2ojSwmhWUia6epEmoH79L1Y2w+oE78oiI9gTpiA8hTI9IZliskC+ag3ZHvfZievzKd9cUzEIzm+sPheilygYlJHXyCWEKQ27xyP7YE2CO5jPCIt/qMUNyp0S6Qv71qdxE6j53QHjFXeeve8hiO3cK9xhxpSf108iEkJgkKqt73Q35SyGcrn0ut7plqfLH1ZjFYFNwW4cm+vLpwZQWiRk/8GqI9KoPDKwVsmZ7WivX42thw2XRzWXgzFNLmvk6T4Sf/v6UzIZREoMraR4QNJsfNLiXh6fvo2raAbq39mzfHG43R07uV9g8F7g30rDdx9IZR1dpXb4dQ5yYaVPwE=;ho2qUoHP91VTaDo28QqVng=="
+secured: "ssKPIhnBz58MjtKSBa0qb3gNKcUXywYjP+q0LwobdnwPKF4zaqMM7J5GDGfVbrWe30FR4Z8T3n0zaio9dnaPkyafALVvcsh/IdS7EFUxO7YgiAvOk/EhCMM98mKoaejSaZNkezXwVqQaRW5AkVAnn71W71SaBxL4gAOPkm5/2ctmDoTA2glmDqt9g/f3xIffyGchwTmTWJ2HkTBLMo8kB7/AzEiycE1gPRMINzxJtm1qXZ2e3aUoH2EkAdQP1eiPu1vdYgKYVccGV0k+0zHSJs7ASuoTS0kIRcWmj8So7p9UAfkuMde6UXdo68xsURsfZcFU6WUvfLRaib0qN4aJdbKNnO2IWyZaJPniOe9jmLA=;MGTjOCYgzaG1th3fl4EguA=="
 ---
 
