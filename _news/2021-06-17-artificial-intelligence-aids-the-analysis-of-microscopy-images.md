@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T09:31:00Z
 originalUrl: "https://www.dicyt.com/viewNews.php?newsId=44109"
 webUrl: "https://www.dicyt.com/viewNews.php?newsId=44109"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 related:
   - title: "Webinar to explore impact of AI and analytics on physical security"

@@ -33,6 +33,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Massage Equipment Market (2020 to 2026) - Featuring OSIM International, Panasonic and Omron Among Others"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global massage equipment market provides qualitative"
+    publishedDateTime: 2021-06-17T11:56:00Z
+    webUrl: "https://www.lelezard.com/en/news-19861476.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
     excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-06-14T13:51:00Z

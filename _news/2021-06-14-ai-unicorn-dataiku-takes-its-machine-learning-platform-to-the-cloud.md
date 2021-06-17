@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
+    excerpt: "FIS AML Compliance Hub is the first in a new line of AI-based solutions from FIS for capital markets firms. New solution uses artificial technology to aggregate and analyze client data across financial crime detection systems such as know your customer (KYC) and anti-money laundering (AML) to improve outcomes."
+    publishedDateTime: 2021-06-17T09:41:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/fis-launches-first-new-series-ai-enabled-risk-solutions-c3-ai-financial"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 21
+    images:
+      - url: "https://financialit.net/sites/default/files/new_fis_logo_0.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "2DbifACBrdfbIDHy4Phcf4vmUiesGMSfHSsHXjp9hgTCxB9KjTpKBUWK63WrHFqmlaglezES2VHZy4gOMovx9YAjOMc1P1orGBNkdTL5Eyv0Dvxglghn1hFPBTyvwcJ2X8PqQlUjOh/Zhf6Qz01KeHvAcjuHj8eD7UTEftOScGOxnfTPZYO6dOBcb/6DfiR3Sx65hrVgzTqGIu1elTnVy425prdhhCZ+M7rkBU2vyFHHZG9X/hzGhWBwWw2YSt8m9oc0EiLoQHUEAv1aG6hPYLctLxPVDkrmoMpNG5/8nXwb9Q+rw6ttk9mnbgAjSCyBx3ep364VMdDDzs9R8KzPGZUAFVT3YLp0JXMm79SmVRFAJPeJDaTfNlDf+mvBx9el2fv3F1aH0BVh9D/QHuD+y4EYQwXJ99u4G/AbXVFHd4nUUP4sSdf6rggAz366pcGI4h6d1vKKt52u6OX/2VRHMAtDPH5CZvUDuJtxeUfWlB6oCCu7OABWSHoO9T2hehpcpq2dCN5g+nP/ijIIzEweJA==;0gwcGnxWgkqKOXNl9wINlA=="
 ---

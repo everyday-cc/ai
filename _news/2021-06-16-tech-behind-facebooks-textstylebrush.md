@@ -156,6 +156,20 @@ related:
         width: 965
         height: 543
         isCached: true
+  - title: "Facebook AI’s typography deepfake can scan real-life photos and emulate the text style"
+    excerpt: "TextBrushStyle is an AI research project that has the potential to translate street signs and text to different languages, as well as create personalised messages and captions."
+    publishedDateTime: 2021-06-17T11:13:00Z
+    webUrl: "https://www.itsnicethat.com/news/facebook-ai-textstylebrush-digital-170621"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 31
+    images:
+      - url: "https://admin.itsnicethat.com/images/N44zko7EVxuRvGC3Ea09l3MwV-E=/208138/width-1440/facebook-ai-text-brush-style-digital-itsnicethat-05.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "KBzZJdAbGWFKC07tveJTG24RMlKtg2oEU6vfyNeraiYfKy6uK6x/UCdwOsq718g6FrpyGjgxT9Lqph1j78VmFbpxtq5nWsSG9NjKRlGb0ju6akPEbqfPBsCzfWEnOJwxPEcdHszVnEyKXvZ2k05EzwfuOCXKYVzASBYk7+sWISZh40VzVbtNXm7EnVHEN00s7On3ZszyHruM5VR4opdyLncRJniG0wTRwgVq4t3Q/W6rOA2nEZBhddIL0A+4j8FweAIwRJMlXjM3Ojmskrvmfyooe54//bJGCA79k/1dUeJSz25CwfbrnxxX6s6eXB4sCEp7EBVPx7IVnzQgfh+Bw+/FJtGoN2TJ+wUlmpY+rj0=;tvfDZQrmsgfRpWWcXXF8RA=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "SYSTRAN Launches \"SYSTRAN Translate PRO\""
-excerpt: "SYSTRAN Translate PRO attempts to solve that. Their cutting-edge solution uses AI and Deep Learning in conjunction with 53 years of experience with linguists and language experts."
-publishedDateTime: 2021-06-03T09:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/systran-launches-systran-translate-pro-301304814.html"
-webUrl: "https://www.prnewswire.com/news-releases/systran-launches-systran-translate-pro-301304814.html"
+excerpt: "Today, SYSTRAN, the leader in AI-based translation technology, announces the launch of its newest cloud-based software, \"SYSTRAN Translate PRO\", designed to equip SMBs, freelancers and organizations with the ability to communicate across language borders and conquer new markets in just a few clicks."
+publishedDateTime: 2021-06-03T13:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-systran-launches-systran-translate-pro-/2021/06/03/9383367.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-systran-launches-systran-translate-pro-/2021/06/03/9383367.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg"
+    width: 400
+    height: 347
     isCached: true
 
-secured: "cJ86cgymAIffPH97KmpidZIdDDm1xH8jlXa6O0O4GkX5Wyfgg7Bf5Z+TIzytrSiQnCxg4TGERrKfHCDyYLpelD/A7+a81rwy3ep63PNM1th6W5fnTZFSQzO6oRYPKtUIXyW+pBhudtvIsS/EIokhs+Sj4737JJ+127BGn7VHsaptKu8L1xziZst0BXR/oCD2Ac5nnKSQqIH222W0Zfn8Ce9gNyvOy0ILwUsBoFBcRSHZ4R1OVqjI32cGGJwTfSEHAUJtq9eR7zkvwKXGVqhwvs+7d2ksH4OcMy/PAgTQ8x8wZ0jBYbuHXfFsQ2+5Cy2GO+hg9n8ufChXE8kOf+5OAkLNL1h8eCPwfKE485eYSRs=;gZs+oRRG9xJZaKIwjVqijg=="
+secured: "6nnhLrLJterNLuJGdvZdhEXsh6ZFAJZAKQBKKYdc+tKd7AirTOLaikaKXUWFtDZ7XqOIWF+ypGrfYOyRQYFa58WRiDme4xN9E7fOJPSLtsjhZljfHIDAvrrNqf0Oi6x6nucSSBLcnNbN3sSLOrCkMeJS+6VS+nxRxS0IzKDT9TfbEcj3NQ0PojG3ldMHtNCMF1BpRJsA2c0JB8bsn7aB7g/iz9tyf8zpIxfsQKj4igEAisf84DE0ExhRInifBZunoXi0klm/IpHbGHMgU9O/sTK6k9w8elCL23zRpqJ6pTKkOkYIyGRb99fgydpkkCqtRk5tvQN58ZOVANj7mPnfzB+IADp0jU+AUO2DNQRLhYI=;Je7c/aa/2iNkD5HMhAlQ7w=="
 ---
 

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DataRobot Makes 3 Executive Appointments; Dan Wright Quoted"
+    excerpt: "As we enter this next stage of explosive growth, our people, culture, technical innovation and brand visibility are more important than ever,” said DataRobot CEO Dan Wright. Wright added that he will work closely with the three appointees as the company aims to position itself as a global augmented intelligence provider."
+    publishedDateTime: 2021-06-17T10:02:00Z
+    webUrl: "https://www.govconwire.com/2021/06/datarobot-makes-3-executive-appointments/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 39
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/06/DataRobot-Makes-3-Executive-Appointments-Dan-Wright-Quoted.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "O8CSPnVd0kEaoBqlx7MaHhJXhBU4YfZguRTIfQRLnnqb/yl9GsdjPNB/L0MV/8yTAMhKyufAGCawwyhqR21UvAicl1qH7F2FewL4ztIKM1HlhHW+It1bagn8BjpYeLIMxlYoVJmZIXIA2532IBq+SW6RcYovcu/+cS/NgoSVQNPy8JOw/xXcSwkIRC+7xR9B4ACKfQFpOv4l6yyjv4/kFYs3y6v2+6jeG3uoS9a8TOkerM0IzFyfxnHYvukFO7XZEuzSh68Ri1YIl9yQtkk8GmbZNUuEk2QWm7kBAEwm3DJlEnH9r1mo6H5qldlOrLhAMUxe2ENSIQHvezxTs6DP5rs8Z82aryufGadhpSZl9Ps4Qev74F5vrCTzURlQ3fuMQO7mn/RQ4R3mN7OZsCmvUtBKb6joihNINv1qhvHxmIA6Hdl95WSrbnnRsiEEI3hbtAe/1WdyJxKG4k4Aqi/uCcxwbHWvMCznNNLaZVmzKD9vD3zILwPO9bZbWmY6kMgoHQzORv94v8+kttbD2HxjWA==;8SkB85H3EMiWVxkvIMirlw=="
 ---

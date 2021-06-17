@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Massage Equipment Market (2020 to 2026) - Featuring OSIM International, Panasonic and Omron Among Others"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global massage equipment market provides qualitative"
+    publishedDateTime: 2021-06-17T11:56:00Z
+    webUrl: "https://www.lelezard.com/en/news-19861476.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
     excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8."
     publishedDateTime: 2021-06-14T11:48:00Z

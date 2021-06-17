@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 490
         isCached: true
+  - title: "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures"
+    excerpt: "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs."
+    publishedDateTime: 2021-06-17T10:08:00Z
+    webUrl: "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "hIar/vVBXhpMCVZmnqjeQeP9aNVhYqM06gkM8YK6oNVi6tnicNydsYjWf/P0CelsG81Es+TR+RHRKlrs+bWiAEhRGjLP9Me/iN9y2GKzz1UfBLr78atlgy2mPelOqrBNOIhrrOeBCQX3z7VjZ+qSlpzaF2Swny1iPu4BfWwhLEQ6Hz4y+zGYY29ef+Iw1SoExnfrRb+ZkkiM2Ec/kRp2GXZw+fuEgDQTZQRuXEheO5AWc/qR8FVnH6ICwO06fXL/9paumGIFIX1s19rjCiZHMqHJIp7VphH4AKEJQY95o7arcRRHS4ar6cU2O/3rsxN4cBamkh0GDQ4krXfKzeCSHRpHUMbhK1ftMCSWe+nx3+g1y9042jG5vHUun3sK/8NchoSSjoAjvJ4y/U3gg9dABXS7Z9mVV6IJEBDYREV+JQXx4/qCBnye6BAOuNYEfGMrNCjfCCJgG+HNskpoNdLeOVAghrSfFuiaU9U1K2SRiK8QtsW2+v0X+WO1Ty6oxZT6T5i9ViaXbhCNkxDzMbm30g==;23gsiwNDU61E9pv5IIPFGQ=="
 ---

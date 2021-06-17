@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
 type: article
 quality: 90
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
         width: 965
         height: 543
+        isCached: true
+  - title: "Facebook AI’s typography deepfake can scan real-life photos and emulate the text style"
+    excerpt: "TextBrushStyle is an AI research project that has the potential to translate street signs and text to different languages, as well as create personalised messages and captions."
+    publishedDateTime: 2021-06-17T11:13:00Z
+    webUrl: "https://www.itsnicethat.com/news/facebook-ai-textstylebrush-digital-170621"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 31
+    images:
+      - url: "https://admin.itsnicethat.com/images/N44zko7EVxuRvGC3Ea09l3MwV-E=/208138/width-1440/facebook-ai-text-brush-style-digital-itsnicethat-05.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Tech Behind Facebook’s TextStyleBrush"
     excerpt: "We do not assume any form of supervision available on how styles are represented or the availability of segmented text labels."

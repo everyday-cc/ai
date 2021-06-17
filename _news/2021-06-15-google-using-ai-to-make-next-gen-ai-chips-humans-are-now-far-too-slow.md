@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
-    publishedDateTime: 2021-06-12T18:46:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Google Believes AI Will Help Design Next-Gen Chips"
     excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
     publishedDateTime: 2021-06-14T10:02:00Z
@@ -94,16 +78,34 @@ related:
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
     publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
     type: article
     provider:
       name: The Tribune
       domain: tribuneindia.com
-    quality: 54
+    quality: 74
     images:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
         width: 700
         height: 535
+        isCached: true
+  - title: "Google AI Designs Computer Chips Faster Than Humans Can"
+    excerpt: "Search engine giant Google has recently claimed that it developed a new artificial intelligence (AI) software capable of designing microchips much faster than humans can. In a paper recently published in the journal Nature,"
+    publishedDateTime: 2021-06-16T12:10:00Z
+    webUrl: "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891"
+    ampWebUrl: "https://www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/google-ai-designs-computer-chips-faster-humans-can-3224891?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/google-is-expanding-its-operations-in-health-with.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "Db5fofTGSv90/hCGlAB2MQR/3a/wpXiyhGmLBgFWDwytiWW+8UHxJiVEJ8bHYeb/W9sKH8XzpfazOkxC96zN6r8hosvvRxG2P/nEKmT+kXnzRkCdBMWMUfGX/UXnLNGHhcJWcuKIdkvOlSBq/2XaRBkLzoM1a7HKaTXAyh6x8G7o2+fmGJd0Q/h4yiCpCEDJ/XXFf4mbxhJZnO8dYBAKFsS3+qJUXOMbnUBCEMWDoiXKJeCe7arIKfFWfx/ibTVgEKShEehMfvxMcgimxiW7ejqaFvN1GalZblpj7BayRL1rzS5j5mViuRknYJdIOudWRrh5Dtxmi/SCDT0T6a/chf3Dipn/FCeZL/zzXs51EJ0=;sBZraFPj9YvI71P4PBfLyA=="

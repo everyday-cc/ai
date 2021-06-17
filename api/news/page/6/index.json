@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
+      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-huawei-seeks-to-develop-its-driverless-car-technology-by-2025.md",
+      "title": "Huawei seeks to develop its driverless car technology by 2025",
+      "excerpt": "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-hunt-sets-driverless-truck-test-in-texas.md",
       "title": "Hunt sets driverless truck test in Texas",
       "excerpt": "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ...",
@@ -1132,92 +1228,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025.md",
-      "title": "GPU as a Service Market Comprehensive Analysis, Growth Forecast from 2019 to 2025",
-      "excerpt": "Selbyville, Delaware Market Study Report LLC has added a new report on GPU as a Service market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-c3ai-ai-partners-snowflake-for-enterprise-ai-applications.md",
-      "title": "C3.ai (AI) Partners Snowflake for Enterprise AI Applications",
-      "excerpt": "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
-      "publishedDateTime": "2021-06-10T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

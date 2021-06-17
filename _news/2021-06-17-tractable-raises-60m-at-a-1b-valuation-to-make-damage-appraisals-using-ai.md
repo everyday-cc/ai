@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valua
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures"
+    excerpt: "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs."
+    publishedDateTime: 2021-06-17T10:08:00Z
+    webUrl: "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
     excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
     publishedDateTime: 2021-06-15T19:29:00Z

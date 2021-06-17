@@ -2,6 +2,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-08-my-pick-for-the-ai-gaming-industry.md",
+      "title": "My Pick for the AI Gaming Industry",
+      "excerpt": "Source: Gorodenkoff / Shutterstock.com But one area of the AI sphere that is often looked over is a fun one: gaming. AI not only improves gaming, but gaming is also a great way for AI to be improved by humans through a similar collective experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
+      "originalUrl": "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
+      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
+      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
+      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
+          "width": 1320,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
+      "publishedDateTime": "2021-06-07T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
       "title": "Newtown fitness center offer AI, robotics technology-based workout",
       "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
@@ -400,10 +477,10 @@
     {
       "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
       "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,",
+      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -411,13 +488,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T11:14:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21457975",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21457975",
+      "publishedDateTime": "2021-06-07T11:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1034,110 +1111,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-nsw-police-force-is-using-ai-to-analyse-cctv-footage.md",
-      "title": "NSW Police Force is using AI to analyse CCTV footage",
-      "excerpt": "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623057900/NSW_Police_Insights_Microsoft.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359780/nsw-police-implements-ai-and-ml-to-speed-up?amp",
-      "publishedDateTime": "2021-06-07T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-agritech-startup-fyllo-secures-inr-3-cr-in-seed-round-from-ian.md",
-      "title": "Agritech Startup Fyllo Secures INR 3 Cr In Seed Round From IAN",
-      "excerpt": "The startup will use the capital raised to expand in new markets and towards research and development to support more crops",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373822",
-      "originalUrl": "https://www.entrepreneur.com/article/373822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623054985-Fyllo-FoundersSudhanshuSumit21.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373822",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373822",
-      "publishedDateTime": "2021-06-07T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

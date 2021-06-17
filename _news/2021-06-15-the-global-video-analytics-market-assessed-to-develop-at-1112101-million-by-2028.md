@@ -65,7 +65,7 @@ related:
     provider:
       name: DiCYT
       domain: dicyt.com
-    quality: 34
+    quality: 36
   - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
     excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
     publishedDateTime: 2021-06-15T13:00:00Z

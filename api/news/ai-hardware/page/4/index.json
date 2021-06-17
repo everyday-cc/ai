@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-06-lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round.md",
+      "title": "Lightmatter’s photonic AI ambitions light up an $80M B round",
+      "excerpt": "AI is fundamental to many products and services today, but its hunger for data and computing cycles is bottomless. Lightmatter plans to leapfrog Moore’s law with its ultra-fast photonic chips specialized for AI work,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/",
+      "originalUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Lightmatter_BladeFront.jpg?w=1024",
+          "width": 1024,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/amp/",
+      "publishedDateTime": "2021-05-06T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-global-chip-shortage-wont-ease-soon.md",
       "title": "The Global Chip Shortage Won’t Ease Soon",
       "excerpt": "The world is suffering from a systemic shortage of chips. What is causing these shortages, and when will it improve? Answers to those questions are included here.",

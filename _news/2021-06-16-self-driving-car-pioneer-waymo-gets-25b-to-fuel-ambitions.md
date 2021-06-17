@@ -105,6 +105,20 @@ related:
         width: 1271
         height: 841
         isCached: true
+  - title: "KeepTruckin Raises Fresh Funds Valuing Startup at $2.3 Billion"
+    excerpt: "KeepTruckin Inc. raised $190 million in a new funding round that values the San Francisco-based provider of fleet management software at $2.3 billion."
+    publishedDateTime: 2021-06-17T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/keeptruckin-raises-fresh-funds-valuing-startup-at-2-3-billion"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR4v3HVaA4mY/v0/1200x911.jpg"
+        width: 1200
+        height: 911
+        isCached: true
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-06-16T19:30:00Z
@@ -175,15 +189,15 @@ related:
         height: 509
         isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-    publishedDateTime: 2021-06-17T07:48:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article252157813.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article252157813.html"
+    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that"
+    publishedDateTime: 2021-06-16T17:36:00Z
+    webUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/"
+    ampWebUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."

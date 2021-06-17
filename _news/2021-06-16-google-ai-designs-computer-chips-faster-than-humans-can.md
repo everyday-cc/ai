@@ -27,21 +27,85 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s How AI Can Determine The Taste Of Coffee Beans"
-    excerpt: "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor."
-    publishedDateTime: 2021-06-12T17:50:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/"
-    ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/"
+  - title: "Google Believes AI Will Help Design Next-Gen Chips"
+    excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
+    publishedDateTime: 2021-06-14T10:02:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3e7e24db754e75e88acec%2F0x0.jpg"
-        width: 1199
-        height: 808
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "Google is using AI to design chipsets in just six hours"
+    excerpt: "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area."
+    publishedDateTime: 2021-06-14T07:06:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/41suu1/article34810034.ece/ALTERNATES/LANDSCAPE_615/googlechip"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
+    publishedDateTime: 2021-06-14T13:37:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/google-app-1623677856.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google team uses AI to create next-gen chips faster than humans"
+    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
+    publishedDateTime: 2021-06-14T18:35:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
+        width: 700
+        height: 535
+        isCached: true
+  - title: "Google using AI to make next-gen AI chips, humans are now far too slow"
+    excerpt: "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months."
+    publishedDateTime: 2021-06-15T01:47:00Z
+    webUrl: "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg"
+        width: 620
+        height: 348
         isCached: true
 
 secured: "c4r/8zkboUcXm15QLDapVH/P22D8eSJB3wJjrOvo5ZPN4RVgI0nWXFjgmvA1H9UVcFJ8GGanACJY2f6XBUCj2+pRqEmQ3KTmvIcILjYViR8oO0CE8sj2MR0s166hCsSrqPV4nDq5uXNo8S4NsjKkSW+4dHSXWHOgxGr+1bJzVDDHVfJrHT/yf+HRcUxai+V2wirjpVqhGSN3Ii0vZyaCSTXGlxNZkG+tFYk10bXktPuRBrBJ6p1tdqkfFo3DOHABusNYpSG5DxWERV7vhLsxLN3iuELneldiuR/M92j750U6yXer57tMWpAluIwftrUd7AMJbTep53MvoeMBBGf/NXIByafJ3hvYUZO/wY4eaH3GR0MHrF4y78Rkn3/bT7QYbFYE0UR2aADL6klxWBONNSmHp79EgmZq0xBqTuYY3K6MifIjcbhiqA4cxIcdPo2qDLyKKgCRGmbdK3cPIrlOvdkSKoH/bXMTmTAM3lpPztL7uYPkJ6caW0b7A4kwJZdY4RRDKBdPp1vLh+LyvCbpag==;vIzVvwCYwfyh0bz0uhQnOg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/new-energy-efficient-ai-system-on-chip-runs
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-energy-efficient-ai-system-on-chip-runs-on-solar-power/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 518
     isCached: true
 
-secured: "rwH9RzcwdVcgnUQtLJJ2biWVAfUmWtdCOhponl3W68hmmFwWmHp9Ej5x66b92orBRAIw23o7J1XNlB2SQEF4PCQu8Xz/OCplXt9Ck+pXFi3J//0yhdazwyibcQ+/3cSkqNPvz613FGcekwLmMb+fCf268JOcKWGQHlxLmvJg7mRLncfoWo9FEFnlPfXKKIZ8P5HcK3yI2C7oJnfjoVvpJMh4fYp+Hf1ROOcfq1z3KGGWu3OJmf9DKqk9NZkaRCyEWG8K40X9uHy5F3uGcmX89tn4zkdkMAZzVSbIx7OSUTaAJYoReaUB0LwqIxJsQQUmhsYRfYGPVNaV3KvcWQOjaHjgF5I4PadusSB3BFeQAUY=;7hm3u3vYROMpca0Xl1tvYg=="
+related:
+  - title: "AI system-on-chip runs on solar power"
+    excerpt: "CSEM engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,"
+    publishedDateTime: 2021-06-17T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/scfe-asr061521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/267932_web.jpg"
+        width: 640
+        height: 360
+        isCached: true
+
+secured: "7bEjdwEvES1oltHCUUK/INhqDEWrLiYCEFXyB0FQNRB925dqCNhXs+Dqehjz0Hjy3VXQ4nje3I+WTqxxGHzFlNCHz5m34e8Rj6t3+oKsaqOSa4HWmLmO+GLvYeCTbhBBmjNmnrrwk0YRMs+h/k/SzWmytCxvNIkpf7A6ic91VxLEqatg5CIAcCtp5aqC0f+ed/zD2WV7zHMK/n8bUiKT6zwJP/ICwJ8lPmRVBiMcmds4jYieh/LcI8IvWyHfExkbcGddq8xBTCkPs7hvBRJBrrnfig+dMPwFZ8+DtIAHN6l0A/QxggFFgI5kpOoRS9RdX24OLaphbxyu9QHU4L3Ktv9jCSEdM2t6AFvQcuwpC5sBhWlwv66RKnf/GVi03puWJXjwOuTHVCjEwIDb2/lPJnLcSgr9L1j2hmO2nArsUjKnPHYXunGWDfMybxlG7uHF44Pqk2lzbBBueaKBLQzUcR1GP1TGAkNm8DEHlQK3/kF3tVWq5Q4WrvhnO5sEf3Z6reUzFAbcFJQmy7f/jGUSAw==;TT1w/zgh7Ny7pjNKAxb1Sw=="
 ---
 

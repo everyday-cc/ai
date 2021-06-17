@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-publishedDateTime: 2021-06-17T07:48:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
-webUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article252157813.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article252157813.html"
+excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that"
+publishedDateTime: 2021-06-16T17:36:00Z
+originalUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/"
+webUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/"
+ampWebUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Autos
@@ -98,6 +98,20 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/10/waymo-self-driving-car-the-tech-portal.jpg"
         width: 1271
         height: 841
+        isCached: true
+  - title: "KeepTruckin Raises Fresh Funds Valuing Startup at $2.3 Billion"
+    excerpt: "KeepTruckin Inc. raised $190 million in a new funding round that values the San Francisco-based provider of fleet management software at $2.3 billion."
+    publishedDateTime: 2021-06-17T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/keeptruckin-raises-fresh-funds-valuing-startup-at-2-3-billion"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR4v3HVaA4mY/v0/1200x911.jpg"
+        width: 1200
+        height: 911
         isCached: true
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
@@ -196,6 +210,6 @@ related:
       domain: newsobserver.com
     quality: 32
 
-secured: "BVcNiKavWfnySDjFEEnbKp3CcSlA2Yfv8mjl+iM7RWMKbAslbMXOPWogxE0xY/XbFsgbb81MJKZqTtDS2cX1kmf8pW+UVMyHnXoSGT+gfvix7BzpuU4qaMcuQHcQthFbeNZGx0xTZ+RshH4JZ2DIhvDKXAJjgHy/YM+3jePrz5voxrR2EeK9GcWV+K1nPw/K0qdqfBPaviMStV5tXaq7uMeXvmdRhJ3mPhDiFeMdxKwjoRBNC9s4t4TAvJxSETULpmbBy5xNuPmuouGYUux59tneDLtEwhellmhFnhrzUGSLyctMml4/W/vYSvO97HLgkMoUPL36PQeGSkC7zXCKy1mXWiVZhfRCvPoaPtjOUemGi5RahSAU7xoeZ83vuni3WKmQ+Nbbw4PGiLkjr63OureR//FQTJs9twXigKuNPp7ONK3kHph9TxiQ3NAObRRfqg8J7lPckW4RDGcDC/eykA8r7SGiVl1mn/p5fzomBb0R0SqN/RwjHhD1ww9bhN/jEIjWdxel1t7t2HrnEE0rhQ==;0g6EMrKrdKIogP/s72R4zg=="
+secured: "IyV5NVGTJtJlZD3N8kwSQi79B0LbBytqU0h+1SvWM7We15ZzqW6JwiW8H/TZe3U1MZ1r1uLS+MskTxiYOGfp+VwFiVMaIFkrfH2asM9Og34VMkFrr0cehgZQOYwguO1eDrPY84ViykPBywtz42KL+khuH1uypkbnCaWU+eQLMnD1MejY9B4pT60gOUSF5vqSpEdO20HnJBmcs9Qjw27l6O5uuklpMyiaXkrYyBToMsRxKWrlOGG6NIriIL3ou+L5wID8fyq2hA+ZOconMeF/8DaaT6LhjUuYHuW6FLONCCWGLiOoI7bxBFkXlqYt7fkqp/iXnh9hBef+U/3CvvpdGZTx9OSbleugmMusjwJSkLsds5QBh11m26HGbick2haMeIsaMIIU4CKgExwgdXkc32gXGRq1QlNDILpNZDkSofYYmKBAiASMbUuM46xH3pUCMbkaS+FJOO7KeqHgpm+zhu2Py6BTRlHitXRzMZCnaM1jpzKCGra9AORuLRnooe5WC7SXBxXSHCARbX6DddTugg==;hHaF4173Na0aa1XGJa5LQg=="
 ---
 

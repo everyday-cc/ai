@@ -2,25 +2,25 @@
 category: news
 title: "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors"
 excerpt: "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ..."
-publishedDateTime: 2021-06-10T12:40:00Z
-originalUrl: "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html"
-webUrl: "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html"
+publishedDateTime: 2021-06-10T12:07:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
+webUrl: "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html"
 type: article
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/e/8a/e8a6063f-fe16-5c8a-95f4-41e909d3a96b/60c20683c99ee.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
-    width: 840
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook"
+    width: 2700
+    height: 1413
     isCached: true
 
-secured: "okSRqgGpvn7dWzPzg2v+OPnmTzGQ+NEf0lzdNQq3ejPlZdF/Q6sQRIcUFcbv+5pFeJprd9j3XG3mrxZnaCzEmN9G+o7d9MukL7iwFdEKxtMv57/SaWxZIAgRAVDL/m67RkTtZa4J41j4fUgQik8CXW74FL5BbChk8Hq8n9JnL2IdclvGrfzeSqJ7KW+ScJCoGnuQquWJ6oMDSLhne6pnI+jmlz4UOqTXtVaA13qJ+tmd5J3cLPPuP+Wv7d82TEcQPc/ttYA1n9VJnOCgR+dWTL/Qg83nJVj4lFJ4oytNU8uNFLvIncuVTOfrANtfmWQ/N6WqoFVIpd8z4j7BuLN67/hDFSDLXWusQvzVmYRj65E=;PNGR2cKv1gRUeXXsch6qJg=="
+secured: "zu1ARL2biVRQ+r4ygVdtFtm9TzDwUvy8xyaS5Nz1xqcIwVE4gdOFw1Kj374Byg3Q2gJs3tahVQnT5ZX2aKQco6je3zlhUmZDvvwKOYhuv/ICy+QGupEjDTv6RQ+TZUTDu9OHFnwksegYRWSEHlhp4bHL/dcoKTojTdyA6vkYnhS5wu1rXHUNxsdRpl5Ac/Z7yUtjHXUyu/+ynBRNIFYp2BH2x6hnKX0k8M4nM6DVGM1cnTFiGuE0IR+LptCkvEROv+M6sbbA7dN+cmUyovvy/zcUi+gXvbRwJA0ES9bHvVGb5h+SgSMjAJq6Rc6OJwmvbNCrPoT9nOmJ0Jy2RmHnDGAQ6kB26Fodp/jksU0ilWo=;nzC0cfIcPljVmCvG3gMiYA=="
 ---
 

@@ -35,17 +35,6 @@ related:
         width: 940
         height: 788
         isCached: true
-  - title: "COVID-19 Flare-up Predicted by Artificial Intelligence"
-    excerpt: "Artificial Intelligence predicts how patients with viral infections, including COVID-19, will fare. Gene expression patterns associated with pandemic viral infections provide a map to help define patients' immune responses,"
-    publishedDateTime: 2021-06-12T18:26:00Z
-    webUrl: "https://www.medindia.net/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
     excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
     publishedDateTime: 2021-06-14T20:10:00Z

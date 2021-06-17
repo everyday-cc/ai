@@ -7,7 +7,7 @@ originalUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issue
 webUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 Flare-up Predicted by Artificial Intelligence"
-    excerpt: "Artificial Intelligence predicts how patients with viral infections, including COVID-19, will fare. Gene expression patterns associated with pandemic viral infections provide a map to help define patients' immune responses,"
-    publishedDateTime: 2021-06-12T18:26:00Z
-    webUrl: "https://www.medindia.net/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/covid-19-flare-up-predicted-by-artificial-intelligence-201697-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
   - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
     excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
     publishedDateTime: 2021-06-15T12:00:00Z

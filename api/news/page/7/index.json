@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-10-gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025.md",
+      "title": "GPU as a Service Market Comprehensive Analysis, Growth Forecast from 2019 to 2025",
+      "excerpt": "Selbyville, Delaware Market Study Report LLC has added a new report on GPU as a Service market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-c3ai-ai-partners-snowflake-for-enterprise-ai-applications.md",
+      "title": "C3.ai (AI) Partners Snowflake for Enterprise AI Applications",
+      "excerpt": "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
+      "publishedDateTime": "2021-06-10T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
       "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
       "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
@@ -353,17 +439,17 @@
       "title": "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors",
       "excerpt": "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html",
-      "originalUrl": "https://www.wyomingnews.com/news/state/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors/article_3cf0caa3-6f67-5d42-a398-782dc1c8650f.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/e/8a/e8a6063f-fe16-5c8a-95f4-41e909d3a96b/60c20683c99ee.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize",
-          "width": 840,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -373,11 +459,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T05:40:00-07:00",
+      "publishedDateTime": "2021-06-10T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wyoming News",
-        "domain": "wyomingnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1106,102 +1192,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications.md",
-      "title": "FPGA IP accelerates neural network computing for edge and embedded AI applications",
-      "excerpt": "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases",
-      "sourceUrl": null,
-      "webUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
-      "originalUrl": "https://www.ept.ca/2021/06/fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ept.ca/wp-content/uploads/2020/06/EPT_JUNEJULY2021_COV_SVA-ml-300x400.jpg",
-          "width": 300,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EPT",
-        "domain": "www.ept.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai.md",
-      "title": "Decades-old ASCII adventure Nethack may hint at the future of AI",
-      "excerpt": "Machine learning models have already mastered Chess, Go, Atari games, and more, but in order for it to ascend to the next level, researchers at Facebook intend for AI to take on a different kind of game: the notoriously difficult and infinitely complex Nethack.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
-      "originalUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/nethack-gif.gif?w=770",
-          "width": 770,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/09/decades-old-ascii-adventure-nethack-may-hint-at-the-future-of-ai/amp/",
-      "publishedDateTime": "2021-06-09T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all"
         width: 1000
         height: 620
+        isCached: true
+  - title: "DataRobot Makes 3 Executive Appointments; Dan Wright Quoted"
+    excerpt: "As we enter this next stage of explosive growth, our people, culture, technical innovation and brand visibility are more important than ever,” said DataRobot CEO Dan Wright. Wright added that he will work closely with the three appointees as the company aims to position itself as a global augmented intelligence provider."
+    publishedDateTime: 2021-06-17T10:02:00Z
+    webUrl: "https://www.govconwire.com/2021/06/datarobot-makes-3-executive-appointments/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 39
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/06/DataRobot-Makes-3-Executive-Appointments-Dan-Wright-Quoted.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "TmKZbnVvZQkkWgRFPINQtKabM6aCmi6/o/ZeHpvcPYUIcxXIJWjeN991xRjkGC3nM9R8jjfIPx0R4ORhgPo/zJ345knmG1V+8hdrklonjtW+z7NndsSQhmHVmsYBxg+i34sHpx+dqE69T+VyCIV9tH5+kYz2g5Tyo1LTTe/bSPJLdoevtAlHkFYUkPQW6s/WFovPTrMzaRAMrAiIZdMFlMknoxDLhy0Zss1kduJkpfkpPcY0RCPWXnBcnnX4AkmoHjVYG211JnIZ6U65Vrqt8Y+VVn4Mgo89rtcs7UIgGz3OqUNH7Q5wCNQtuHlyw7UeYcEV5h5XJL7uledzeeSKedC7dakx3/QM5DRJzD0ADHqdArZUo1wsylOdkGgPDpueJjt0dCug57oxvAzDYquiKnJ+J4PFLT6ijP0ddq+lzGHKGZOsHbOwz+e8lfz/zfCcUAnPkcoZ/iJtraiah+YREeHwMnoHJ5lcTzSwwEBLjNtXMov/ETCjqhTqXo9Vokzsh4LmZ8Kuu7St9+MuUuT/EQ==;X8/Hav9Gd7ruPfcqiWUMnw=="

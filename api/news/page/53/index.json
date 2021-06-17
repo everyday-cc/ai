@@ -2,6 +2,100 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-08-billcom-to-buy-expense-software-provider-divvy-for-25-billion.md",
+      "title": "Bill.com To Buy Expense Software Provider Divvy For $2.5 Billion",
+      "excerpt": "Bill.com, which provides back-office software, has struck a deal to buy Utah-based Divvy in a stock-and-cash transaction valued at about $2.5 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/05/bill-com-to-buy-divvy-for-2-5-billion.html",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/bill-com-to-buy-expense-software-provider-divvy-for-2-5-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2017/10/bill-400x293.png",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-build-an-intelligent-search-solution-with-automated-content-enrichment.md",
+      "title": "Build an intelligent search solution with automated content enrichment",
+      "excerpt": "Unstructured data belonging to the enterprise continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-search-solution-with-automated-content-enrichment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/2-Architecture2613.jpg",
+          "width": 800,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-07T11:36:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-ai-lending-discrimination-needs-to-be-tackled-with-legislation-says-house-financial-services-chair.md",
       "title": "AI Lending Discrimination Needs To Be Tackled With Legislation Says House Financial Services Chair",
       "excerpt": "We cannot wait for (federal financial regulatory agencies) to do better. We have to force better,” she told a Financial Services AI Task Force hearing.",
@@ -1102,101 +1196,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-can-federated-learning-save-the-world.md",
-      "title": "Can federated learning save the world?",
-      "excerpt": "Training the artificial intelligence models that underpin web search engines, power smart assistants and enable driverless cars, consumes megawatts of energy and generates worrying carbon dioxide emissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoc-cfl050721.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/uoc-cfl050721.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-ibms-new-2-nm-chips-have-transistors-smaller-than-a-strand-of-dna.md",
-      "title": "IBM's new 2-nm chips have transistors smaller than a strand of DNA",
-      "excerpt": "In a shining example of the inexorable march of technology, IBM has unveiled new semiconductor chips with the smallest transistors ever made. The new 2-nanometer (nm) tech allows the company to cram a staggering 50 billion transistors onto a chip the size of a fingernail.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
-      "originalUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/c077382/2147483647/strip/true/crop/2700x1800+0+180/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbc%2Fed%2Fec587f174302b746793b55afd657%2Fibm-2nm-1.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/ibm-2-nm-chips-transistors/?amp=true",
-      "publishedDateTime": "2021-05-06T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

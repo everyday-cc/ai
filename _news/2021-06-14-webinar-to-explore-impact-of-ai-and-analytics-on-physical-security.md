@@ -51,7 +51,7 @@ related:
     provider:
       name: DiCYT
       domain: dicyt.com
-    quality: 34
+    quality: 36
   - title: "The Global Video Analytics Market Assessed to Develop at $11121.01 Million by 2028"
     excerpt: "The Global Video Analytics Market” As per Triton’s research report, the global video analytics market attained $4235.82 million in 2020, and is evaluated to surge at a CAGR of 16.05% by 2028. A recent study by Triton Market Research titled ‘Global Video Analytics Market’ entails the Global Analysis and Forecasts by Deployment (On-premises,"
     publishedDateTime: 2021-06-14T22:02:00Z
