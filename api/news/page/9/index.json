@@ -2,6 +2,128 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
+      "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
+      "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/coronavirus-4842056_1280-2.jpg",
+          "width": 716,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
+      "publishedDateTime": "2021-06-09T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
+      "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
+      "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
+      "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
+      "publishedDateTime": "2021-06-09T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-rws-announces-revival-of-language-weaver-brand.md",
+      "title": "RWS Announces Revival of Language Weaver Brand",
+      "excerpt": "\"By bringing together AI experts and technology from across ... was first to commercialize new approaches to automatic language translation based on machine learning. Its rich history and cutting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53099860-rws-announces-revival-of-language-weaver-brand-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-06/53099860-rws-announces-revival-of-language-weaver-brand-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc.md",
       "title": "Artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 | ARC",
       "excerpt": "The global artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and projected to reach the market value of around US$ 6,762.3 Mn by 2027. The global Artificial Intelligence (AI) in Retail Market research report is inclusive of detailed and productive qualitative and quantitative information,",
@@ -1041,125 +1163,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-composeai-raises-21m-to-help-everyone-write-faster.md",
-      "title": "Compose.ai raises $2.1M to help everyone write faster",
-      "excerpt": "Compose.ai, which built its own language model to help folks write faster, landed a $2.1 million seed round led by Craft Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-539000490.jpg?w=1024",
-          "width": 1024,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
-      "publishedDateTime": "2021-06-08T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models.md",
-      "title": "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models",
-      "excerpt": "The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,” said Christian González, CEO, Wovenware. “The issuance of this new patent recognizes Wovenware’s unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/",
-      "originalUrl": "https://www.financialbuzz.com/wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments.md",
-      "title": "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments",
-      "excerpt": "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on the Apple Store. The Voiceitt app can be downloaded for free by individuals or in volume by institutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-15-facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word.md",
+      "title": "Facebook's new AI project: Copy text style from image using a single word",
+      "excerpt": "Facebook is working on a new Artificial Intelligence model through which users can rewrite any text the way it is written in any picture. All that will be needed to copy the writing style is just one word.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
+      "originalUrl": "https://www.techradar.com/in/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
+      "publishedDateTime": "2021-06-15T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
+      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
+      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
+      "publishedDateTime": "2021-06-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-zero-trust-networking-startup-elisity-raises-26m.md",
       "title": "Zero trust networking startup Elisity raises $26M",
       "excerpt": "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round.",
@@ -1146,101 +1251,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-building-stronger-teams-with-human-and-machine-intelligence.md",
-      "title": "Building Stronger Teams With Human And Machine Intelligence",
-      "excerpt": "Stay away from solutions that make it difficult to communicate across teams and collaborate with individuals and teams outside the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62f48c7e8ff000777bb2f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/",
-      "publishedDateTime": "2021-06-14T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-expect-an-orwellian-future-if-ai-isnt-kept-in-check-microsoft-exec-says.md",
-      "title": "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says",
-      "excerpt": "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,",
-      "sourceUrl": null,
-      "webUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
-      "originalUrl": "https://www.space.com/orwellian-artifical-intelligence-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.space.com/amp/orwellian-artifical-intelligence-future",
-      "cdnAmpWebUrl": "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future",
-      "publishedDateTime": "2021-06-14T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Space.com",
-        "domain": "space.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

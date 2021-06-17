@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
+      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
+      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "publishedDateTime": "2021-06-17T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-insurtech-ai-startup-akur8-closes-30m-series-b.md",
+      "title": "Insurtech AI startup Akur8 closes $30M Series B",
+      "excerpt": "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Akur8-team.jpg?w=738",
+          "width": 738,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
+      "publishedDateTime": "2021-06-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round.md",
+      "title": "AI-enabled talent management startup ‘Sense’ raises $16 million Series C round",
+      "excerpt": "The San Francisco based talent management startup has not only raised funds with the help of existing investors and India-based business-to-business (B2B) Avataar Ventures but also expanded its global footprint by doubling down on India operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm",
+      "originalUrl": "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg",
+          "width": 960,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp",
+      "publishedDateTime": "2021-06-16T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-uk-computer-vision-startup-tractable-reaches-unicorn-status.md",
       "title": "U.K. Computer Vision Startup Tractable Reaches Unicorn Status",
       "excerpt": "The London-based startup that uses AI to assess auto claims for insurers like Geico has raised $60 million at a $1 billion valuation.",
@@ -502,7 +638,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -647,49 +783,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-introhive-raises-100m-for-ai-powered-sales-tools-to-help-companies-build-relationship-graphs.md",
-      "title": "Introhive raises $100M for AI-powered sales tools to help companies build “relationship graphs”",
-      "excerpt": "By its nature, sales one of the most social faces of a business, so it’s no surprise that there are tools being built for sales teams that are tapping into some of the most interesting dynamics of the world of social networking,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/introhive-raises-100m-for-ai-powered-sales-tools-to-help-companies-build-relationship-graphs/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/introhive-raises-100m-for-ai-powered-sales-tools-to-help-companies-build-relationship-graphs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1140,110 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m.md",
-      "title": "Gloat, which uses AI to connect employees with internal work, raises $57M",
-      "excerpt": "Gloat, which gives enterprises visibility into their employees' skills and enables them to fill roles internally, has raised $57 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/",
-      "originalUrl": "https://venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Product-Visual-Insights-View.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/amp/",
-      "publishedDateTime": "2021-06-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-datas-double-edges-how-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management.md",
-      "title": "Data’s Double Edges: How To Use Machine Learning To Solve The Problem Of Unused Data In Risk Management",
-      "excerpt": "The world is awash in data, and data is there to be used — or not used — like at no other time. As a result, risk measurement systems today perform far better than the systems of even just three years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75e7bb3a15a212c6d4736%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
-      "publishedDateTime": "2021-06-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

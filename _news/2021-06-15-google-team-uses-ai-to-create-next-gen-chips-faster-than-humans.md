@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google team creates next-gen chips using AI"
-    excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
-    publishedDateTime: 2021-06-12T14:44:00Z
-    webUrl: "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    ampWebUrl: "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    type: article
-    provider:
-      name: Madhyamam
-      domain: madhyamam.com
-    quality: 74
-    images:
-      - url: "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg"
-        width: 400
-        height: 248
-        isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "To achieve this, the Google team used a dataset of 10,000 chip layouts for a machine-learning model, which was then trained with reinforcement learnin.."
-    publishedDateTime: 2021-06-12T15:09:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83463614,imgsize-318247,width-800,height-434,overlay-ettelecom/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model"
     publishedDateTime: 2021-06-12T18:46:00Z
@@ -136,20 +104,6 @@ related:
       - url: "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg"
         width: 620
         height: 348
-        isCached: true
-  - title: "Artists use artificial intelligence to bring their creations to life"
-    excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
-    publishedDateTime: 2021-06-12T13:13:00Z
-    webUrl: "https://www.cbsnews.com/video/artists-use-artificial-intelligence-to-bring-their-creations-to-life/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/12/637b96f2-baff-40c9-8a3e-e52cc3d25007/thumbnail/1200x630/9a0e4a50d7bf6eb0ce3ece37e29a0481/0612-satmo-aiart-slivabraga-733346-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "N4uZTDfvQXVorfc4GA6BpBNgSnPTMzVhkvSJsgQcDgCTq66asiK6YzR8jEraYeOtrMjIU61sCe1DyNsntlJFILQg8BJSgS/+I3e7kL7fKVsj8s/DRzc4y8PSiv6qevOxaQb820iJaSvMQMhMKW7wB7ozhTVVMCKXioHbuIz/U872Snb5XJtXnPrD2VtvYf/HycOReGdDLm7AJp0CFhuXw0MKcHL+1LUK7BbDjRjqiGK2SpZ1IFmNUF+Dt8IeFiTpPqUJzLiLj5xNg0XV4hsK/tnQGNcMRjskjC6DDqT+2xEbpwRJJi+XeaCQ3MWRYHh+LuP/mwbIP2TM43CLMGpwcYeiJBpvMpnTusV4IZPX2J6tdOvpYpM8xHiHTxw8c2/ERn+xXP4EUfeFYF5sI9qfIcF11ocVmyOQL8Fy6eKhZvqCszldzpwHgb8pUClicwpqd/pTPAbmYpEktFVMod3/0R2kH6FweB1NRL9mhkJX2SbQmYGWMfdC2VPt6/jHonkLtjfmZJ7qw4uH1QaV8allQQ==;ri8oayeqSZ718jXFVsDjPw=="

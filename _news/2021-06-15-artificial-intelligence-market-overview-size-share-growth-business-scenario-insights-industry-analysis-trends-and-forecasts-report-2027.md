@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-15T12:33:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

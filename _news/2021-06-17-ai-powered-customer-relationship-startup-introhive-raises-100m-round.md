@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Introhive raises $100M for AI-powered sales tools to help companies build “relationship graphs”"
-    excerpt: "By its nature, sales one of the most social faces of a business, so it’s no surprise that there are tools being built for sales teams that are tapping into some of the most interesting dynamics of the world of social networking,"
-    publishedDateTime: 2021-06-16T14:25:00Z
-    webUrl: "https://techcrunch.com/2021/06/16/introhive-raises-100m-for-ai-powered-sales-tools-to-help-companies-build-relationship-graphs/"
+  - title: "AI-enabled talent management startup ‘Sense’ raises $16 million Series C round"
+    excerpt: "The San Francisco based talent management startup has not only raised funds with the help of existing investors and India-based business-to-business (B2B) Avataar Ventures but also expanded its global footprint by doubling down on India operations."
+    publishedDateTime: 2021-06-17T06:07:00Z
+    webUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 52
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 53
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
+        width: 960
+        height: 539
+        isCached: true
   - title: "AI-powered customer relationship startup Introhive raises $100M for further growth"
     excerpt: "Artificial intelligence-powered customer relationship startup Introhive Services Inc. has raised $100 million in new funding for strategic acquisitions, to expand its global footprint and grow its headcount."
     publishedDateTime: 2021-06-17T02:48:00Z

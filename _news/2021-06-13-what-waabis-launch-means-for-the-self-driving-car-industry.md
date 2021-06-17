@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving startup Waabi just managed to net $83.5M — how?"
-    excerpt: "Waabi aims to solve the “scale” challenge of self-driving car research and “bring commercially viable self-driving technology to society.”"
-    publishedDateTime: 2021-06-12T15:10:00Z
-    webUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F3BDSF1.jpg&signature=ee711b8cc65af968e475a478d6d76c70"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Raquel Urtasun starts Toronto self driving company Waabi, after leaving Uber"
     excerpt: "TORONTO - After the COVID-19 pandemic turned travel demand upside down, Uber Technologies Inc. decided to hit the brakes on its six-year-old self-driving car"
     publishedDateTime: 2021-06-15T13:54:00Z

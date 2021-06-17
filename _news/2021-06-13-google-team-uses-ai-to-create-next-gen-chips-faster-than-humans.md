@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-team-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: The Hans India
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google team creates next-gen chips using AI"
-    excerpt: "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial"
-    publishedDateTime: 2021-06-12T14:44:00Z
-    webUrl: "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    ampWebUrl: "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    cdnAmpWebUrl: "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695"
-    type: article
-    provider:
-      name: Madhyamam
-      domain: madhyamam.com
-    quality: 74
-    images:
-      - url: "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg"
-        width: 400
-        height: 248
-        isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "To achieve this, the Google team used a dataset of 10,000 chip layouts for a machine-learning model, which was then trained with reinforcement learnin.."
-    publishedDateTime: 2021-06-12T15:09:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans/83463614"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83463614,imgsize-318247,width-800,height-434,overlay-ettelecom/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Google Believes AI Will Help Design Next-Gen Chips"
     excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
     publishedDateTime: 2021-06-14T10:02:00Z
@@ -136,20 +104,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
         width: 700
         height: 535
-        isCached: true
-  - title: "Artists use artificial intelligence to bring their creations to life"
-    excerpt: "Albert Einstein has been credited with saying \"creativity is intelligence having fun.\" Einstein would likely be impressed with the artificial intelligence now being used to help create modern works of art,"
-    publishedDateTime: 2021-06-12T13:13:00Z
-    webUrl: "https://www.cbsnews.com/video/artists-use-artificial-intelligence-to-bring-their-creations-to-life/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/12/637b96f2-baff-40c9-8a3e-e52cc3d25007/thumbnail/1200x630/9a0e4a50d7bf6eb0ce3ece37e29a0481/0612-satmo-aiart-slivabraga-733346-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "LdOX5z2qlnTyb9kHLS4mMkv3k8k4Gp5gyqpKFqEov+eX0c2k6hxL5W0nmnNPqWuNTGZKTpz2jqzBcIokuWJmYYyiFMcA6ARCXXalRQ+7i97y1PkGtQYHZ2mYedvnJjJy+cAwwOR1r02KEtGu6+QwlgTyM5BEKMzYCu4JgE++Cwiy0QB5QAgWi24No8L6W0Z/Mgmsem7To1GTV28aOe0eIDEi9UKbqVZm1Xzh8btkoAbV82cKV/rDW5OtsluB6bHWI/5wLkih3rJWuhgWTnocz3cYGiFrstHxGsSvgX0lbai4R4jWK9S6EFkOnFGGmQBgv+mo+Wb/2Qget6wCceZwVauMJB/aeEHZw1dgeAC83SJVaah7AskfI8omTacaU61ZTV2PIn+pFpP33JL1cXxps9J/a2bICmpeBEbmZhwML3bGoQ6jK1ao0ujdg2LnbL9rrDGqkcoOB5z05o1MVr7Sm5ubb8npyPVs9uNQRVNy7tHAuGpMluV4VHVK5sTeFn0aFgJEKzbF2pg+owekeNstVA==;i8J1ommF0zaJeekkZdPvLA=="

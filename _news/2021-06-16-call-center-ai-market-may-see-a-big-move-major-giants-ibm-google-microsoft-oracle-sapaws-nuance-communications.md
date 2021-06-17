@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
+    excerpt: "VANCOUVER, B.C, September 14, 2020 – The global Artificial Intelligence Market is expected to reach USD 348.99 Billion"
+    publishedDateTime: 2021-06-15T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence as a Service Market In-Depth Analysis including key players IBM, Google, Amazon Web Services"
     excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence as a Service Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-06-15T17:41:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/06/Artificial-Intelligence-as-a-Service-719x470.jpg"
         width: 719
         height: 470
-        isCached: true
-  - title: "Artificial Intelligence Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
-    excerpt: "VANCOUVER, B.C, September 14, 2020 – The global Artificial Intelligence Market is expected to reach USD 348.99 Billion"
-    publishedDateTime: 2021-06-15T12:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
     excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."

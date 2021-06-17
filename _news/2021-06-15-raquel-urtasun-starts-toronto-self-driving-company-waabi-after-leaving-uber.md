@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "Self-driving startup Waabi just managed to net $83.5M — how?"
-    excerpt: "Waabi aims to solve the “scale” challenge of self-driving car research and “bring commercially viable self-driving technology to society.”"
-    publishedDateTime: 2021-06-12T15:10:00Z
-    webUrl: "https://thenextweb.com/news/self-driving-startup-waabi-how-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F3BDSF1.jpg&signature=ee711b8cc65af968e475a478d6d76c70"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "/6PuNfsx2Mx/LVmg6Ln9eInh8nIUn4X5/gXS4+TxTdfmwRQ1yYRXouhtoGbQQg/TM2aqgyWhBvpqquBoHp/1EHzDK531usUePixWvA63VmMkdfTWGi54ubNDF5COcDoOjb6FYju/EWFR0fnT5bNicgeh0uz6W/Kag/AOKBCo95uFzZ2HhjFbje8tL05IujnNde9a0BLYAAIaH6/rqanQciwpcCNQs2n7M1XQ3l6TqlaP6bsTewjVN5QAeNMilAGK+Gly2mQgo7hC0rk/zLIYZFxxbm53HNNV83m8M9ZfeCu6zFyfWAOpyxxhmpH+bo8y8Ui9xJNdDiyDwlRGnHE7YvRdV9Zon4cs2wpwMeGA0HU=;uKmIkXy5DpCW5pVTR5jAvw=="
 ---

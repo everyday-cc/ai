@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
 excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-publishedDateTime: 2021-06-17T00:30:00Z
-originalUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
-webUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
-ampWebUrl: "https://amp.idahostatesman.com/news/business/article252157813.html"
-cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article252157813.html"
+publishedDateTime: 2021-06-17T07:48:00Z
+originalUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
+webUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/business/article252157813.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article252157813.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Idaho Statesman
-  domain: idahostatesman.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - AI in Autos
@@ -189,6 +189,6 @@ related:
       domain: newsobserver.com
     quality: 32
 
-secured: "nGmJdSSCsclaAO4cqU6UrRIrWvYhFQqm2vZurp6Le8QDwWMj2i3RH1R3kSnMNJ4bnio0+jDqtowL1B8d7NPP8on10MigxJY6noyjervyUxCcW6XpgBvaTxEPSKqqpKdvpJZKpoUtHlBdLe6hH2zlBMXA2vRN/bnIhYS90/Tz/ZGzfbtNbbDJmUV67TpSYyFGvzxlTsKSbQp8xedUXXFsq0PGilBfY+ZcIWEZxv7/EkiKtSL+YjwWHyENAu8zS+eFefECgu49VC7/Xo04ItJPKxRCFbytMALog3xH/RoKmHp51BTRWdHj7/3Rs6j4C06O4M4J59IxUvYY3Qc9xmZyESFtTra4F/DRb0jNoXvbu8M4X5NBuuPjyIyRtEUA8awZf4FzKiTNJv1UFIcJjrWuuBq5nowSg+EvboyYSns8eHVANVkxf+5viSqDpw1E+Vla6bUUopFzUwRZz+lLemlJDeNlpPX12STG/LOL73HW+CePx5XgC8bhPYLILOeqW4ZMdC0ksI3udqdBNMYYFiJC+A==;oMjlYL8+srU5NppMqVzc+g=="
+secured: "BVcNiKavWfnySDjFEEnbKp3CcSlA2Yfv8mjl+iM7RWMKbAslbMXOPWogxE0xY/XbFsgbb81MJKZqTtDS2cX1kmf8pW+UVMyHnXoSGT+gfvix7BzpuU4qaMcuQHcQthFbeNZGx0xTZ+RshH4JZ2DIhvDKXAJjgHy/YM+3jePrz5voxrR2EeK9GcWV+K1nPw/K0qdqfBPaviMStV5tXaq7uMeXvmdRhJ3mPhDiFeMdxKwjoRBNC9s4t4TAvJxSETULpmbBy5xNuPmuouGYUux59tneDLtEwhellmhFnhrzUGSLyctMml4/W/vYSvO97HLgkMoUPL36PQeGSkC7zXCKy1mXWiVZhfRCvPoaPtjOUemGi5RahSAU7xoeZ83vuni3WKmQ+Nbbw4PGiLkjr63OureR//FQTJs9twXigKuNPp7ONK3kHph9TxiQ3NAObRRfqg8J7lPckW4RDGcDC/eykA8r7SGiVl1mn/p5fzomBb0R0SqN/RwjHhD1ww9bhN/jEIjWdxel1t7t2HrnEE0rhQ==;0g6EMrKrdKIogP/s72R4zg=="
 ---
 

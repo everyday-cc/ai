@@ -3,8 +3,8 @@ category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
 excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
 publishedDateTime: 2021-06-14T22:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389944.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/14/9389944.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 type: article
 quality: 22
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: constructionweekonline.com
     quality: 34
 
-secured: "KT1/7nDnY6ngw5uQcZBznwzbkkeiO8H4MHl3BP2BcJ1Gx/NEGPr8jn+iItOEVynf/wNjFD3psPni5ig62D9lV4RPe7Nd6ovj4DOQ5shZjfqVBCRcbLSkpbpmgfiKFiSj/GWvW/lH4hRg57cfvoP65TYLTabSyv0Q+eWPdrErvNbHW9yVsNKpk6iGp1EmWyxCbBkcnzc/NtNHGxMhJFslt6A0lcb9HKHjGEpsf/NLPl523HL2eVSyq4R2dSlG6Z9ZP3kqphRlEOvQ0pdoxsnYtaGjauA9T/7ajhCQ9j6h1uToP7UrKfZ4kGQznHJRiD95vGhkwRhE9wHWPaffrf7oChqIUSosrEh6j5NQcW5rjFI=;GI2Nl+WWSMUdltRGERJOlw=="
+secured: "zoPbYx2mEYxSulvhfHdBztRhmVI9PI7lMKvsthDUHLv4RI8HTCC/ZE9+Q/XBmFXg1sQuOQzmgjICtleLgu/2M/T5MNuj8zIz8nMNvp6C2+BmeYWZfgpjsV4/MavAfr/4NoPQrYd/drg7YkT79foolTJWPI9oJqp8dNpnApPfhkFawV6geZuw/x0G4qDOyJDrV3+wU4D0RZyUkB0FvSPKtMLKgtzQ+MhDUrvorDkUk5suG8xkzxnibJGyRkOuOD1j941EUNvvuWbWzMDynIPH0avXAbR0wieAi0bu+DtZWRusEJZYkrbCGR3/6p8zrtC5SjwrjoVYWqAyraOz7qFGqWy9KRxBy/lOQahCGEyfRFY=;7RwFaiAlcR8TtGbnydNDjw=="
 ---
 

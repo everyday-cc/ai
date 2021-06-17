@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-16-gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m.md",
+      "title": "Gloat, which uses AI to connect employees with internal work, raises $57M",
+      "excerpt": "Gloat, which gives enterprises visibility into their employees' skills and enables them to fill roles internally, has raised $57 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Product-Visual-Insights-View.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m/amp/",
+      "publishedDateTime": "2021-06-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-datas-double-edges-how-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management.md",
+      "title": "Data’s Double Edges: How To Use Machine Learning To Solve The Problem Of Unused Data In Risk Management",
+      "excerpt": "The world is awash in data, and data is there to be used — or not used — like at no other time. As a result, risk measurement systems today perform far better than the systems of even just three years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75e7bb3a15a212c6d4736%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
+      "publishedDateTime": "2021-06-16T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark.md",
       "title": "To measure ultra-low power AI, MLPerf gets a TinyML benchmark",
       "excerpt": "The new suite of tests measures the latency and power consumption of an embedded system performing four representative machine learning tasks.",
@@ -642,41 +746,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-6-ai-stocks-to-watch-for-rapid-growth.md",
-      "title": "6 AI Stocks to Watch for Rapid Growth",
-      "excerpt": "AI is transformative not just for the investment landscape, but it will change how we live and work. As demand for this technology grows, it seems likely that so too will interest in AI stocks. There will be winners and losers to be sure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
-      "originalUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/6-ai-stocks-to-watch-for-rapid-growth-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-democrats-reintroduce-bill-to-ban-government-use-of-facial-recognition.md",
       "title": "Democrats reintroduce bill to ban government use of facial recognition",
       "excerpt": "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday.",
@@ -856,6 +925,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2021-06-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1132,111 +1252,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word.md",
-      "title": "Facebook's new AI project: Copy text style from image using a single word",
-      "excerpt": "Facebook is working on a new Artificial Intelligence model through which users can rewrite any text the way it is written in any picture. All that will be needed to copy the writing style is just one word.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "originalUrl": "https://www.techradar.com/in/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "publishedDateTime": "2021-06-15T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
-      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
-      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "publishedDateTime": "2021-06-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

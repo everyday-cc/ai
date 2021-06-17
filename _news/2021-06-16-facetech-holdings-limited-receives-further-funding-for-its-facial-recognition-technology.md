@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/facetech-holdings-
 webUrl: "https://markets.businessinsider.com/news/stocks/facetech-holdings-limited-receives-further-funding-for-its-facial-recognition-technology-1030526501"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "King County Council’s ban of facial recognition technology is ‘misguided’"
-    excerpt: "Daniel Castro with the Information Technology & Innovation Foundation says King County's ban of facial recognition tech wasn't based on real evidence."
-    publishedDateTime: 2021-06-12T15:12:00Z
-    webUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/"
-    ampWebUrl: "https://mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2963886/king-county-facial-recognition-ban-misguided/amp/"
+  - title: "Comparitech facial recognition report highlights growing, variable global market"
+    excerpt: "Comparitech analyzed 100 countries’ facial recognition technology use within government, police, airports, schools, banking, workplaces, and public transport."
+    publishedDateTime: 2021-06-14T21:11:00Z
+    webUrl: "https://www.biometricupdate.com/202106/comparitech-facial-recognition-report-highlights-growing-variable-global-market"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 58
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2021/06/GettyImages-825132714-e1623431714565.jpg"
-        width: 620
-        height: 370
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "YUDGBquHz6oaGBzw6T3Fe90PMdo0uJJIir0r1Edp4P4SeeFNAx0xsT13MJnLRi9EZCHrtZrY8AhSI5sisLALwJJ5LB7fR1JF3Z09LjZwhtacVp5WR9NmkeVTqQIPVYI8Efu08guVIEgeUAAsyBePm1BMhgdht5v1RdpErrigXekSg7BdUszYvbRm4vN3SdQdKBTl8prO/XkTJG0a9ZCF9UYgkcTiL7f2dhlG1OpS2IxZHO8jorSEKtGOu2LPnHkjaGdOnVwIRmbkGfp2Itp88y66UT5a5hwzh0CScjMarSJ39cJh+lUyUob+DH0iQvjI/H9N3S7JXqhHWjL81lGnk4PcmzhtXtYh/WpGg+Peknw=;roTWP8nYxl3ppcz9ofTJew=="

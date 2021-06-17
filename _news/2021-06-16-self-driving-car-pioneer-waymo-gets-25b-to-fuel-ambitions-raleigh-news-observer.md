@@ -179,14 +179,14 @@ related:
         isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-    publishedDateTime: 2021-06-17T00:30:00Z
-    webUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
-    ampWebUrl: "https://amp.idahostatesman.com/news/business/article252157813.html"
-    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article252157813.html"
+    publishedDateTime: 2021-06-17T07:48:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article252157813.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article252157813.html"
     type: article
     provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 39
 
 secured: "mGh+aw/AUJKjpXOpUtPEPLKdg6Vj99GET66NxnBHlYjoECxFt5lhkRuAICrovJnBAw/kZQypjXtF4sCjlWGB8GiSPXQzUtq66HOd0YYV8GC4LWt/fGRFxJxVfHD3cGLHOtjqsADcORxM5MzBIOOvj9u6W0Zr2k+mPMTfo91so9bUituTCxLM1+QWYE7gPpCJ4SfKFYuv2lzihlem8GhCP9kWioD60Sl7SdzOt4fqWkDrPXhxlZNUSMgjgZ/SqaGqMPHfkwuvDy+puQxRfyUnVxGoG22IITRDxUcJr/s7UHe5u/S0NCPAw6/khAw7pUvStOfWVjd3yFEZBWj4eBAV/BqfUa0eIsqrxBTvZqjW950=;l+Ji0hA327+LLIdBnnfbTw=="
