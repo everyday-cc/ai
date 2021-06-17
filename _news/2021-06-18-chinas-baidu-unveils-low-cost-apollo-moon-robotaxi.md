@@ -81,20 +81,15 @@ related:
         height: 480
         isCached: true
   - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "Baidu, Inc. (NASDAQ:BIDU and HKEX:9888) is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation"
+    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
     publishedDateTime: 2021-06-17T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
+    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
-        width: 2700
-        height: 1413
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 24
 
-secured: "7LrN2KnwcQYkPRl7seW8024fRfJO4Xqq2GfYPyF67hwr8ubrPCcp+VaWMmllS1euZMXmBNqR4Pt2l4uZiz7jN9XLG5H4RlWI2FxBxMURpKTvbo4wTTA82N+yqTQ1UeNNLu+17Dsh9Y13xtBMu6a1mD1uhMN1+7no2gXHuW3uJRoGs8+NdbtjTj0KjiYdJBHF+vCX2y9QdkxkvfjEtmmNvLlUsFsDGSTaFM2J2PXQxUVITzcotWAEu50CXCuLYVaB2YQcPOONVpEsWSgfl0F6AP0qVTNuwVm1A+lhUg0/pRsisUIknUfqINNSo7xArVARQ5JW1/V11LoB9Jjp+rtV2HbR8LUO0DHAyuioFPlTAr4=;0nvJgOqnB+lOTF5x1VRkmQ=="
+secured: "/WE39QbVuz7BATFLmBu5AQ/S6hivpzsYyESpAn7VPlbxMU8w4B8a2dYYrfwHuAxhju1DUMuTruqjsJXs3Z++VDt8h4/+vTHfd9JNUMvahkUVDcFOOAXNbGpjkgYdivCYuZnnrFpcbj7qWTmRsjmi/0drLYYnV5XwIEztAQna3uuFwjCFl8G7JWo/6cRSdkFwGK+GWmv2l7Feezh2PKPFPFzbeKNb7RyjTtOBItgAlcCwZcNUUlB0D2ftA3rG+S2SUIcz0jBsPCDdTgX+fgU6UdXkUIF4dn0iKj01p4t5xPqLMsognN97Dk/fVcZclpmnd3iLm0rmSD1MC4Fa001Fgv0UaTCBplU4+Y6VHwehtZ/YT8cxs6kEWDGwUpK63sUSNT+GMU9nj3sjkhiqoYgsNrAH4155BR2vV2OnHbcXRnzREHBKzQmPhucoUOtfTUXjkGZmqBL5GmcDpVl/dD9auio/WnkYFFk0Ioc6e1mQK7a2ufX39bD8s9SosliqdadNkF4wO12EccvvFhhOVrG90A==;Qoqd2n/+Xp8up29hKzfsWQ=="
 ---
 

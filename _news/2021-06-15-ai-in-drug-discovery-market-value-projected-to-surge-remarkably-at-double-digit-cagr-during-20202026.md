@@ -50,6 +50,20 @@ related:
         width: 439
         height: 310
         isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Trends, Top Key Players and Regional Forecast 2020-2026"
+    excerpt: "Jun 14, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC: An analysis of Artificial Intelligence (AI) in Food and Beverage market has been provided in the latest report added at Market Study Report LLC that primarily focuses on ..."
+    publishedDateTime: 2021-06-14T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-trends-top-key-players-and-regional-forecast-2020-2026-2021-06-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
     excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
     publishedDateTime: 2021-06-16T10:15:00Z
@@ -59,17 +73,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 28
-  - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
-    publishedDateTime: 2021-06-14T15:12:00Z
-    webUrl: "https://www.openpr.com/news/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    ampWebUrl: "https://www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "i6WU+6ndeziyrzZN2m9ZYwgDwHpG7esNNoLStvFJkR1y/ciihc/+OmtEl/UJPL3ryrqqyiEyURQuZupf6Njj345LZClpb0j+VhePhxM65evIDGClP+WpZx5t0D7Da25Ww0vzvbu8jIeFDz2jbhQHvFfrSdiQWUnuGfOQlJdQxhmVL0ctVSAvMzILYYUsPg6HkuJvp8H6oEqnKtrXh+Be2VK/Abg56gw2E7xTrAJd9rNmxcA7RbTzLxUFo0pBU0uM8jaHZed3mwVQaKbQ9Zv0e/rt7n9hW5c3u1hBiATJw7R95JygVTps8z5da0NYEPzCpxqmNRGuW8w1ussVFlGKdpKTsnAq8zqJxNCnF+YHvu8=;1USvcC2AwGTJnit9Di1jRw=="
 ---

@@ -28,6 +28,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 56
+  - title: "Bridgestone invests in self-driving startup Kodiak Robotics"
+    excerpt: "Tire giant Bridgestone Americas has made a minority investment in Kodiak Robotics. The deal will allow Bridgestone to integrate its smart-sensing tire technologies and fleet solutions into Kodiak’s Level 4 autonomous trucks."
+    publishedDateTime: 2021-06-17T21:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16841/bridgestone-invests-in-self-driving-startup-kodiak-robotics"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 36
   - title: "Bridgestone partners with Kodiak to integrate smart tires with self-driving trucks"
     excerpt: "Bridgestone will integrate its smart-sensing tire technologies into Kodiak’s autonomous trucks; the companies will also pilot future mobility technologies to enable safer, more sustainable autonomous operations."
     publishedDateTime: 2021-06-16T11:58:00Z

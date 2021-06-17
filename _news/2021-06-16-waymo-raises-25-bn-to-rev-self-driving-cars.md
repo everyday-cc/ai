@@ -153,6 +153,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "Waymo has raised another $2.5 billion from a group of investors ranging from venture capital firms such as Andreessen Horowitz to a major car dealer, AutoNation."
+    publishedDateTime: 2021-06-17T20:04:00Z
+    webUrl: "https://www.chicagotribune.com/autos/sns-self-driving-cars-waymo-two-billion-investment-20210617-7a3hfv5eazgdpkay6cs526isg4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/autos/sns-self-driving-cars-waymo-two-billion-investment-20210617-7a3hfv5eazgdpkay6cs526isg4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-self-driving-cars-waymo-two-billion-investment-20210617-7a3hfv5eazgdpkay6cs526isg4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 59
+    images:
+      - url: "https://www.chicagotribune.com/resizer/D_Nn1rsa8VXFWmuoI4EndWUPRWg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DCYULDVPI5HDZC4EWZNZKRZ5BU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
     publishedDateTime: 2021-06-16T14:14:00Z

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Verantos Receives Grant Award from the National Science Foundation"
-excerpt: "Verantos has received a grant from the National Science Foundation (NSF) to conduct research and development on real-world evidence (RWE) outcomes. This cooperative agreement will enable accurate identification of clinical outcomes from routinely collected data to further advance RWE."
-publishedDateTime: 2021-06-17T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-verantos-receives-grant-award-from-national-science-foundation-/2021/06/17/9392715.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-verantos-receives-grant-award-from-national-science-foundation-/2021/06/17/9392715.htm"
+excerpt: "Verantos has received a grant from the National Science Foundation (NSF) to conduct research and development on real-world evidence (RWE) outcomes. This"
+publishedDateTime: 2021-06-17T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/verantos-receives-grant-award-from-the-national-science-foundation/article_b2bd578c-e697-547b-96dc-53c317abd1ac.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/verantos-receives-grant-award-from-the-national-science-foundation/article_b2bd578c-e697-547b-96dc-53c317abd1ac.html"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "50UqhqFux9ZdFskDLH/WoMQs4gaalrUlfosbYkqDIhNx1edZrm7aURyHKp3nuDrP69CVmWfHJcHfIiHK6Qp2i4+69QEYX5/kv6fmJ7TYqhmsV2SBp73CQi8+/7vghiPclShyxiJwcHXhWNLzvKP4Zg9nZyOMHc9dGU6bfBSSUYXFbqYdWf20uLEOmmXd1gh6cJQaAgxU2aW927gklhMcIgQGZi82u6ge7sv2nq4OocQh6z2tvf/veP3BJRVvUxwNQuxavbA9GbsvuSwsOrLCisx8RMTABldqRNKdq1++2pEfQigIjYHewliwPv7C9PsKq94y5t0VBpYvAxPpBmBOU9XsxIFUZHABonfjyyOXWkw=;M5Fm7yktGuoz4eiNDOZy/A=="
+secured: "YLXARE6JC8pf+Rz/EV3OJlsidLmL+NsKIDl5xZvp+KoakdAetIt+m/ZBhVj2M24hzt0XlU0GGVbUks1rwhV4nu9DWdYzDsg9LxNn4oRM4YoLR97uywOL9Sh8szFrn9oRkCKKjyC5yDzV5YSCo7gnkMkzBUyWNhZJ5fmB9+Csk67hVIfDvuIZp9+x2gnzpjxbqVm9iublVws4r9+G9DH2yGoJ+lx7u1KY4kEU8P8ENYOnTi4cgacVFjBpslfACqtJRMd/1YNRdgJIXWolimRzIjXHi6eJvQ7CxgJ5MpxNY+O+posQYtA3rqgldbjCcLPyl4VlngYzI35SsShKdpurfWufDc2jGwihMD1y/JY84Ho=;DzamtXI8us0eMz/ui1HZGQ=="
 ---
 

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Motion Grazer uses machine learning to assess status of sows"
-    excerpt: "It's not quite up there with \"what's good for the goose is good for the gander,\" but Madonna Benjamin, a former pig farmer in Ontario turned agtech professor at Michigan State University, hopes there will be a lot of revenue for her startup,"
-    publishedDateTime: 2021-06-13T04:12:00Z
-    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/motion-grazer-uses-machine-learning-assess-status-sows"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
-    images:
-      - url: "https://www.crainsdetroit.com/s3/files/styles/800x600/public/MGAI%20Madonna%20Benjamin%20with%20pigs-main_i.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "ManpowerGroup Returns to Viva Technology as HR Partner, Showcasing New AI, Machine-Learning and Data-Driven Predictive Performance Tools"
     excerpt: "ManpowerGroup (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online this week. ManpowerGroup will share innovation that improves people's lives and solves one of the world's most pressing social issues - how to provide meaningful,"
     publishedDateTime: 2021-06-15T15:23:00Z

@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook Baby Steps Toward Identifying Deep Fake Images & Their Source"
+    excerpt: "Facebook and Michigan State University have revealed a new method for identifying deep fake images and tracing them back to their source. Or, at the very"
+    publishedDateTime: 2021-06-17T20:12:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook, Michigan State University Researchers Develop Tech To Pinpoint Origin Of Deepfakes"
     excerpt: "opefully, this will also help keep deepfakes in the realm of being silly and fun, rather than becoming a threat to democracy, journalism, and communications for all people."
     publishedDateTime: 2021-06-17T17:42:00Z
@@ -104,6 +120,6 @@ related:
         height: 710
         isCached: true
 
-secured: "l2VgnZAEDokuVCY4+NLzRU4DL3DZg+J5LCVPZvz5zfKS8DhoBDgtpODV5EwIxiR0JvjEbKV88UT2ZPAgXvcfrRfXOQHVY2UENlpVfUCFk2VIXzCrxKXokRFjO5xhZu9ZJT/tLlK3kB9/uV6+qTNu0/Ns+7Zn1hx0W1sobxGWnDPTsD++uIGQNJmQtFlijQoDzY5AEIvClFhCOb6BFWqxVEErf67UuSbC3qDr2QhnlVL58JMEnyqrtk8rAZeXzzpSL4vEIB+5JJtWXWbG3Hkt9zV2Td6OPO4tbG1MO8ztpRYpJiJdKhq4SL4kmSRWnyYxHZxmMw6XRs/ltua0BIrf2FKaCUZD2Xce8b20NuDU088=;6VCpsXpqpfaoVnKOT8A+lQ=="
+secured: "oV5m51O7AEZvyjnx7qcLpu5sdt8DFOqoNFJ3lG/6RbOQKShtxcC5Ap5leeLBCRltqeIkzhYN5ScqU7HIKF9Zr4mdEEN2iX3czuHFMhUzM8tMogXZRTENmKkHAoTYkMtxGjp8PCE3St35CZCYZVJ3yco/0xJg1M5lpeibeHW72J5QMMzBe5p6ZIbNC/RxPcnu9X5odJGxunM2VJa4C+MXm2aLkB/qWn12A7P4SrKbIYscPj56SX5HbeCdvedk9iRNGA2Fx/Xk/DtRPprRLUNk0G6m/sMxHAy7W9RkcO6550CKYEgk6YQJp6FbF3CIWXS3mAXG/AFM4a5JXQmO4xImaaXlIwbBE2R+v9zlZoZiQrFuc1uyvxP5Aa7Xwf+Uim6Dq6yRXo3z/akvp/yumn+B/LFyFQ6+Xf17jrgy3LCkZrtRE2UmjwhW8fI7zr4V9ZQGUiRt9LmneFMxYl/zJnBWmeE/pqxnbSonfW8b/15c7Fz4aX+SFBE1TkTq1Vltjav0EGS53M/4BO5FWO0lPEx64Q==;uMDf6gSpfFNMWIwiAnPiVQ=="
 ---
 

@@ -128,6 +128,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition may help you find your lost pet"
+    excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
+    publishedDateTime: 2021-06-17T09:05:00Z
+    webUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/"
+    ampWebUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 39
   - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
     excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
     publishedDateTime: 2021-06-15T19:05:00Z

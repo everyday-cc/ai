@@ -45,20 +45,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "Motion Grazer uses machine learning to assess status of sows"
-    excerpt: "It's not quite up there with \"what's good for the goose is good for the gander,\" but Madonna Benjamin, a former pig farmer in Ontario turned agtech professor at Michigan State University, hopes there will be a lot of revenue for her startup,"
-    publishedDateTime: 2021-06-13T04:12:00Z
-    webUrl: "https://www.crainsdetroit.com/crains-michigan-business/motion-grazer-uses-machine-learning-assess-status-sows"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 39
-    images:
-      - url: "https://www.crainsdetroit.com/s3/files/styles/800x600/public/MGAI%20Madonna%20Benjamin%20with%20pigs-main_i.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "q5lwNo07rFQrQTc7pvQZweiWbm/nwZd8PeBwkSfZ9zH8Fr+phCqBm9Dpvt2zeyh6pVGQKjUbqrGgm77hTEXBq9MzRBXXLyb1G57/vEqMSIPJRpzIRbWGSuSKjGYci52ubmpHVXse3t2WQJQd+pKZ4Q6F/VxP/dRGmFWYtXgsXyfEElfKWPYYsspYhJNjrF1YdJLTqBq0If3BUjKNDUSgDMEyE/SgptQtMVJVvTkQ3y1++nkDk2OR9ofJysEkjvQq6DiDDuUXPmKeTfzhE30AXBsFTeNC7QBO9HIVNnIBeE5DNq3RAFGkIfGCr1WcMw5HjqWHjVEbIHs3KUoYtjU6FLHPulG0Ym6U/1MU/vo0NSoF9aFyFUnN7iqEJEEkXO5ANhSeRGeLrXoVQDdcBD7/IWf9qMK1tJeIE1nwXfW2NWbzqC++36o6wmLKxWwecrBXonSbeSrbsocr8aIz9iULNdoNZsYsg0EncLwpWo8p3n6GhLZ60L5QH4udhmO4xUZWZtZdgqEGBUKLqOg+H5WcYg==;WfRmHEYhu2nYGAqY0pr7+w=="
 ---

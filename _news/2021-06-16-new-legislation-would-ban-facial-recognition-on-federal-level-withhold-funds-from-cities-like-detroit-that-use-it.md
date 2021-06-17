@@ -144,6 +144,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition may help you find your lost pet"
+    excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
+    publishedDateTime: 2021-06-17T09:05:00Z
+    webUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/"
+    ampWebUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 39
   - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
     excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
     publishedDateTime: 2021-06-16T16:05:00Z

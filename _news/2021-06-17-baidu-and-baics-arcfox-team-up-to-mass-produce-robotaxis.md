@@ -85,19 +85,14 @@ related:
         height: 512
         isCached: true
   - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "Baidu, Inc. (NASDAQ:BIDU and HKEX:9888) is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation"
+    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
     publishedDateTime: 2021-06-17T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
+    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
-        width: 2700
-        height: 1413
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 24
 
 secured: "znG6ncN9lTim/7qbmgsijHruJMMA5bjNmnRhtiEKrX5IoVUB0dB7KEeOxIPULgQ66GBLRomI6i85vaRWgK7F5oTNt485f+2GkGlGr41/iHEwkQxuHyY1cj5w9CjUz519arWIUoCey1Baj1COWSuBfooPImUj85yOX9n0U6zj3haUwlaTGAiNKFBmIPrbQvA4zW/3gKcCR0/pWjibtdtDXSFY4nmsUQk6ocsXPcDHYZ3MG7WMXmlN5DOlLX/lZl7NsFyE71mkT3nDNTx53VDC2WXaR0pXR+loGbQtrd5my4pc3UdtzerW/2IjHLD6o9sPwNKePyCjUiVA7EwCcDvBGy8pqa371s51wEpA/IY+lds=;uhMOeFx9eHL8Kk8dNMeAkg=="
 ---

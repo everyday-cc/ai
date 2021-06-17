@@ -20,56 +20,36 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Supply Chain Market Forecast 2026"
-    excerpt: "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a"
-    publishedDateTime: 2021-06-15T09:38:00Z
-    webUrl: "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
+  - title: "Transform 2021: Where does your enterprise stand on the AI adoption curve?"
+    excerpt: "Transform, the world’s leading event on applied AI for enterprise business & technology decision makers, will host thousands of executives across industries to share their AI and data technology stories."
+    publishedDateTime: 2021-06-17T20:10:00Z
+    webUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/"
+    ampWebUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://cdn.openpr.com/U/6/U615488872_g.jpg"
-        width: 400
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1225909162-e1619735173985.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Europe AI in Computer Vision Market"
-    excerpt: "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from"
-    publishedDateTime: 2021-06-16T04:54:00Z
-    webUrl: "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027"
+  - title: "AI spend rises as enterprises solve for scale, adoption"
+    excerpt: "Companies used AI to respond to the pandemic, but challenges in the next phase include internal alignment around technology deployment."
+    publishedDateTime: 2021-06-17T21:16:00Z
+    webUrl: "https://www.ciodive.com/news/AI-investment-trends-appen-2021/602009/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
     images:
-      - url: "https://cdn.openpr.com/U/6/U616144349_g.jpg"
-        width: 439
-        height: 310
+      - url: "https://www.ciodive.com/user_media/cache/69/9a/699a44d7a732a4b5bad6b3642c673606.jpg"
+        width: 770
+        height: 364
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
-    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
-    publishedDateTime: 2021-06-16T10:15:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 28
-  - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
-    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
-    publishedDateTime: 2021-06-15T09:47:00Z
-    webUrl: "https://ksusentinel.com/2021/06/15/ai-in-drug-discovery-market-value-projected-to-surge-remarkably-at-double-digit-cagr-during-2020-2026/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
 
 secured: "8EVLxjSvrhXDIEz4CqV8nfo9DHziPpDkCUDoojvqpZLsK8h7AF1Y7cVrCsl/45qAWYlSg57gppKBPNS9Hvqf/uKzzYY9NKTJIMrfd+tsxByUA4IDxY3jT7wobifqGiHpuP8sCuUS/9VPMnFWPAsZWpYu0EjAuplySuiaIYCFBBD1ziwQSmLcjrs8jEw791cej1ykyeoBb1DJa0YbDUYvx67RbjXK2g58ghFTqcYCC8D1iNKvQEEtGj+gdD6N9CACB9wVSMCCF4G+N0LAlXpJQSh3my5AQsiapYCBgMOQp0Ev30ruy8/tsrqbQxjrprreyWz6CjuQGY8BtHY+lSaDgJEj7fhblrMYqj29WD7F1Io=;2WekYiFm8XdZGpm28h+X+Q=="
 ---

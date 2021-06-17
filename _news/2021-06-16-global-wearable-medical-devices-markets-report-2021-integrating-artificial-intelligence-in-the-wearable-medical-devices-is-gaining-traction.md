@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-06-17T19:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-in-healthcare-market-2021-to-2026-by-sections-diagnosis-end-user-and-geography-1030533685"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+    publishedDateTime: 2021-06-17T19:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Global Massage Equipment Market (2020 to 2026) - Featuring OSIM International, Panasonic and Omron Among Others"
     excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global massage equipment market provides qualitative"
     publishedDateTime: 2021-06-17T11:56:00Z
@@ -57,28 +62,10 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 0
-  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
-    publishedDateTime: 2021-06-15T00:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
   - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
     publishedDateTime: 2021-06-15T00:04:00Z
     webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
     type: article
     provider:
       name: ReportsnReports
