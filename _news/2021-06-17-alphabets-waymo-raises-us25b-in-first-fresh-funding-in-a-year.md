@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-publishedDateTime: 2021-06-17T00:30:00Z
-originalUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
-webUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
-ampWebUrl: "https://amp.idahostatesman.com/news/business/article252157813.html"
-cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article252157813.html"
+title: "Alphabet's Waymo raises US$2.5b in first fresh funding in a year"
+excerpt: "This comes after a string of defections of executives rekindled concerns about the technology struggling to scale up.. Read more at straitstimes.com."
+publishedDateTime: 2021-06-17T00:43:00Z
+originalUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-us25b-in-first-fresh-funding-in-a-year"
+webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-us25b-in-first-fresh-funding-in-a-year"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Idaho Statesman
-  domain: idahostatesman.com
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/17/nz_waymo_170630.jpg?itok=doo1mu1F"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
@@ -147,20 +151,17 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Alphabet's Waymo raises US$2.5b in first fresh funding in a year"
-    excerpt: "This comes after a string of defections of executives rekindled concerns about the technology struggling to scale up.. Read more at straitstimes.com."
-    publishedDateTime: 2021-06-17T00:43:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-us25b-in-first-fresh-funding-in-a-year"
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
+    publishedDateTime: 2021-06-17T00:30:00Z
+    webUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/business/article252157813.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article252157813.html"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/17/nz_waymo_170630.jpg?itok=doo1mu1F"
-        width: 763
-        height: 509
-        isCached: true
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 39
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-16T16:36:00Z
@@ -173,6 +174,6 @@ related:
       domain: newsobserver.com
     quality: 32
 
-secured: "nGmJdSSCsclaAO4cqU6UrRIrWvYhFQqm2vZurp6Le8QDwWMj2i3RH1R3kSnMNJ4bnio0+jDqtowL1B8d7NPP8on10MigxJY6noyjervyUxCcW6XpgBvaTxEPSKqqpKdvpJZKpoUtHlBdLe6hH2zlBMXA2vRN/bnIhYS90/Tz/ZGzfbtNbbDJmUV67TpSYyFGvzxlTsKSbQp8xedUXXFsq0PGilBfY+ZcIWEZxv7/EkiKtSL+YjwWHyENAu8zS+eFefECgu49VC7/Xo04ItJPKxRCFbytMALog3xH/RoKmHp51BTRWdHj7/3Rs6j4C06O4M4J59IxUvYY3Qc9xmZyESFtTra4F/DRb0jNoXvbu8M4X5NBuuPjyIyRtEUA8awZf4FzKiTNJv1UFIcJjrWuuBq5nowSg+EvboyYSns8eHVANVkxf+5viSqDpw1E+Vla6bUUopFzUwRZz+lLemlJDeNlpPX12STG/LOL73HW+CePx5XgC8bhPYLILOeqW4ZMdC0ksI3udqdBNMYYFiJC+A==;oMjlYL8+srU5NppMqVzc+g=="
+secured: "NulcW78FFS8dgXmocKlkZeEyjrCKR255mdWeFDXBRnjSYD0886LB8by6SEfkuZ2g/qKFVWsMiLWzAQg9j6HMx0jjXjidVKnVBBBP/3S9eaM3MgqqKidkk0DLNUJHDZ94Ap190K9M+hPBzrAc+3bOSprm/p76HLRn2zm5N1gWmUf5p3ZqEDN6XV/ra9PYaITV34p+A/1GoHLo2rg8t0Llp5nBWucL14REaFNWIeBJQ9y/AjdMvwIQe7054I4jpEK4a8H6un1nvmDmFmXbG/F/+M/oYNg4VeMVw+1jKzZZQdBcxlcsjjlkTYi156BDkyHqcZtzFIBR75esuTZ0ej5JbmXakv60t8Kc8ZuzDScdpB0=;NCM0g3jRjNkqSqBKm9HRJA=="
 ---
 

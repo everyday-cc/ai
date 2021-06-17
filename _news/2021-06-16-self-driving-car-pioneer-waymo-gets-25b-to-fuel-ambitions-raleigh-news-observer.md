@@ -124,22 +124,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
     publishedDateTime: 2021-06-16T14:14:00Z
@@ -163,6 +147,31 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Alphabet's Waymo raises US$2.5b in first fresh funding in a year"
+    excerpt: "This comes after a string of defections of executives rekindled concerns about the technology struggling to scale up.. Read more at straitstimes.com."
+    publishedDateTime: 2021-06-17T00:43:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-us25b-in-first-fresh-funding-in-a-year"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/17/nz_waymo_170630.jpg?itok=doo1mu1F"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
+    publishedDateTime: 2021-06-17T00:30:00Z
+    webUrl: "https://www.idahostatesman.com/news/business/article252157813.html"
+    ampWebUrl: "https://amp.idahostatesman.com/news/business/article252157813.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article252157813.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 39
 
 secured: "mGh+aw/AUJKjpXOpUtPEPLKdg6Vj99GET66NxnBHlYjoECxFt5lhkRuAICrovJnBAw/kZQypjXtF4sCjlWGB8GiSPXQzUtq66HOd0YYV8GC4LWt/fGRFxJxVfHD3cGLHOtjqsADcORxM5MzBIOOvj9u6W0Zr2k+mPMTfo91so9bUituTCxLM1+QWYE7gPpCJ4SfKFYuv2lzihlem8GhCP9kWioD60Sl7SdzOt4fqWkDrPXhxlZNUSMgjgZ/SqaGqMPHfkwuvDy+puQxRfyUnVxGoG22IITRDxUcJr/s7UHe5u/S0NCPAw6/khAw7pUvStOfWVjd3yFEZBWj4eBAV/BqfUa0eIsqrxBTvZqjW950=;l+Ji0hA327+LLIdBnnfbTw=="
 ---

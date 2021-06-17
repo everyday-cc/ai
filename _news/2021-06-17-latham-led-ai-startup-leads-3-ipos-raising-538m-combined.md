@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1394668"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1394668"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "UK AI start-up Tractable becomes unicorn with latest funding"
-    excerpt: "Tractable has raised $60 million in a late-stage funding round led by investors Insight Partners and Georgian, which values the British artificial intelligence start-up at $1 billion. Tractable uses AI to speed up the time taken to process motor insurance claims and says its $1 billion valuation makes it the first British unicorn company focused on \"computer vision\" technology,"
-    publishedDateTime: 2021-06-16T21:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/uk-ai-start-up-tractable-becomes-unicorn-with-latest-funding-2021-06-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/uk-ai-start-up-tractable-becomes-unicorn-with-latest-funding-2021-06-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uk-ai-start-up-tractable-becomes-unicorn-with-latest-funding-2021-06-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "VvSOmoyV0p2qe2lqgtaAigncqm4CtG9R2zTeMtVMaGiws2skMLtJELeS6qz11FzK3SttPNa85zIsI/iA8yAwQbfloIJM39Vp+5KIorczxtyLCGQ4qq8A8qxKpYtNAjT2Q8VJEvQ231WcCTKLKQOhCabgO1I+OV6TzjA/tTSh7nsbrLsEeqj+TbA/s5ZvwOqHsMs+ho3vuIH8TjEDRJ7v1AIQuk9V0Xp3QGaTbowsIy718NGebWMPrku4Fiq7VOCOwODHi2595km8V/vvVUOSet7JyVkUnLLIguJ+usJ3poIVbPKeWosOKq4rVrEkMqWnOmUeH7zBUFiK1gkrZo6yD4EFQTFtASMWU2TJe+aABdc=;kEF3SmgDvVSNAKEO9cRPew=="
 ---

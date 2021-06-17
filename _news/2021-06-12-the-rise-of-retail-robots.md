@@ -7,7 +7,7 @@ originalUrl: "https://www.africaoutlookmag.com/index.php/industry-insights/artic
 webUrl: "https://www.africaoutlookmag.com/index.php/industry-insights/article/970-the-rise-of-retail-robots"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 880
     height: 512
     isCached: true
+
+related:
+  - title: "The slow rise of robots in the data center"
+    excerpt: "Robots are coming for the data center, but don’t expect transformational change any time soon Technologists love to point out the many flaws of humans. They make mistakes, they need breaks, they expect a salary."
+    publishedDateTime: 2021-06-14T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Robots.2e16d0ba.fill-1200x630.jpg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "Yn9oa1NQfgChkjKnZGCs7BSXDqd2rIovCkiJ8R3OHCvRkPRTHHF5bYLymqyT/mX2kXfuIv0wRNq6QnTTf+Q73lgQBbWlgl0IPqGojjA6/GMpVRlR1jnZWmrE9QAlk6TsFFsb9YYZHKWT5qi8z0AlPMkQbEnmqNeCQEAyRUYx9/97QSpYmdRdqxs7RmbkUElO3kIX4D7Hhi02JD6JRI09twXsGLpZkRit+YfOM0GwoCQMksXwMwAyJNJaAmfOdosaD4svg95P7vYFygJkRzOMTFkI7Z/wdxhlrGoDGX/VhHNDHs0PF/bViGsTVOJ8g3kcsV8W731dzk/DYoonl0nfeWiTEYACifyotUtRbfIHUNnvW63nkMI46pbarjQHMmWDo2kRJPeK428Wz9tmul6rZkR0yXXFCWYSuxkvbO61OVcLZcdt4/Aw+/kzSWjwbzqIZxlPfwu/c0enFz8iMY0uQMOzOtujtk/zdNTV9vU6tJOW2RNM/PNxjjGBbciYafCMP3CJi2nCT8YmWk+hFY69zw==;kMxfX3sYVnjnRJihdJugbQ=="
 ---

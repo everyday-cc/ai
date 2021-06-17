@@ -41,20 +41,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "ManpowerGroup Returns to Viva Technology as HR Partner, Showcasing New AI, Machine-Learning and Data-Driven Predictive Performance Tools"
-    excerpt: "ManpowerGroup (NYSE: MAN) joins the biggest names in tech as HR partner of the world-famous Viva Technology (VivaTech) conference held in Paris and online this week. ManpowerGroup will share innovation that improves people's lives and solves one of the world's most pressing social issues - how to provide meaningful,"
-    publishedDateTime: 2021-06-15T15:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manpowergroup-returns-to-viva-technology-as-hr-partner-showcasing-new-ai-machine-learning-and-data-driven-predictive-performance-tools-1030524198"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/391655/ManpowerGroup_Logo.jpg"
-        width: 400
-        height: 217
-        isCached: true
 
 secured: "uhpSy0vXZY6oYLnCV5J5lKM5fwOrN16nShwEJyGX4e8muPRoT0OHagMUga9Dp78R82t5rQM1gTOVKoSI10EcNCiEMaIyAXP9QZ4qoKTWslHl8JYlSpklQz1ntdmalJXlw9g/itJG0elcMe1kX+L9tQS6AdddcrDqzhVXacQxgqkBEuIBuUBUMNnG7NAL52ayWHy1p2L2L7kcugZEY62cvTrnZILUd3v0RaJhC4mgZ/XyFL80yUf3cV7onO/uyKRGxQykRrWhdHUjKHt08zl0rNMatWvygPKJDT4kQa4E+9Ze7zf7DboGTksNvyvN7poSJVWn4wvWx+6iNeVxAtiuD1fBKJTaDoqkJ/JwssywZlJ2Yo8m+QubIuyKo3UInLC0s6sCBw9hzBLLDK3arnj6hPgdAJUX2hZP/13smmBr6WaJTDuIlY2NQYlX+eajv26yuKUwL7eypnUemZVQLG/fqfwaLegOmiMLNoZqZZ5DIu0F2lxmX2Uq4xNbhf+HCFFgnjHuxrXBJPJ7YVSZS6Owiw==;JC3imw4aRR3tdLkVv/BEGA=="
 ---

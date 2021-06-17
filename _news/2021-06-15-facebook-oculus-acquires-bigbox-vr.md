@@ -26,22 +26,6 @@ images:
     height: 274
     isCached: true
 
-related:
-  - title: "Facebook Gives Away Its Largest Language Database For Free"
-    excerpt: "Facebook claims that its open-sourced database will enable developers to generate more diverse and locally relevant translation tools."
-    publishedDateTime: 2021-06-12T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-gives-away-its-largest-language-database-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FACEBOOK.png"
-        width: 1600
-        height: 800
-        isCached: true
-
 secured: "ZxpmaiKsxCnFM3x3gnkSDdSx/mi4W67lRdApuvNtRT9NXXnaij5YdKmEJy+4cy+6vIR6zJBUkj6i72uK+W9SSz/bvU6zmUy1FT+Zfz9M2uFi25rqFKnQ73vZAEkec7LjcduQmgBXvJameTgX1yaYUb9FRZ0zhm5oigowfSifrmW/uX+HTAAS7qmbAjGfSwWUMlTKh4t2/qbJGi9hrAsBoWLMCV9RZYaqeVE0lJe0sBSgwK6wCrqSxPA1Gi6d1RK4VvXQjktWhSbpSTpwZPqsgItmXyySf8w+8LvVnUlXNHLalYCpIcBxKit3rB1GsYQxQZ6sCf2wAk24h5gwrh1QUDrP8VKiFLBqoBnRrQqcE72Bli6hxqwuiLyPIrLmdRrmr7+tUrjh+H9MOf752qimMtejClAykaVeqtv5iDmXax+Pu1k1UpIgRM5edvMR736aFLyK7wXnBGqz21Mj7TPh0QhzEuPdNubEJW6+lLh8m1w54zilUrfV/VulLrBOqNh5wb0vZOQYhvO+SlROQO9zYg==;hswROWvZ1DoKgp8n5I9Zag=="
 ---
 
