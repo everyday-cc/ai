@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that"
-publishedDateTime: 2021-06-16T17:36:00Z
-originalUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/"
-webUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/"
-ampWebUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
+excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
+publishedDateTime: 2021-06-16T17:35:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Alphabet's self-driving car company Waymo announces $2.5 billion investment round"
@@ -221,6 +227,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "IyV5NVGTJtJlZD3N8kwSQi79B0LbBytqU0h+1SvWM7We15ZzqW6JwiW8H/TZe3U1MZ1r1uLS+MskTxiYOGfp+VwFiVMaIFkrfH2asM9Og34VMkFrr0cehgZQOYwguO1eDrPY84ViykPBywtz42KL+khuH1uypkbnCaWU+eQLMnD1MejY9B4pT60gOUSF5vqSpEdO20HnJBmcs9Qjw27l6O5uuklpMyiaXkrYyBToMsRxKWrlOGG6NIriIL3ou+L5wID8fyq2hA+ZOconMeF/8DaaT6LhjUuYHuW6FLONCCWGLiOoI7bxBFkXlqYt7fkqp/iXnh9hBef+U/3CvvpdGZTx9OSbleugmMusjwJSkLsds5QBh11m26HGbick2haMeIsaMIIU4CKgExwgdXkc32gXGRq1QlNDILpNZDkSofYYmKBAiASMbUuM46xH3pUCMbkaS+FJOO7KeqHgpm+zhu2Py6BTRlHitXRzMZCnaM1jpzKCGra9AORuLRnooe5WC7SXBxXSHCARbX6DddTugg==;hHaF4173Na0aa1XGJa5LQg=="
+secured: "cxxX6ODX6g1AFPwIfCMFTNq1en1DskTUuOuWhqbT4E/YAfK0Rc1OjXJEMrdUur2ykaSJO1w2DmOUMfTR/hZCyA1L1pPgDFMVZ9iFFtn8EI31llfBm2OrJByWg1JEzmVzXqkmPSDnwTQLD7I74G9bl89WOukag8QBWfps8zuMxJuiDWTtMaYKBiFffinGnYIu/arZ3uciDA2SNKGBFkudY1LffxoL/VlsT3WUoCRPTcHdX4kZz+P/JKYQ6KRzDOyiQD9t/nXHkaBq6eufQ+ZEVtczM1kxBxyYaIPnX0lwFFeO5d/UCLEo5DMBfbljdwrDHom0HA+coXHGNyUnNCd/ERWi7+udUbPiMDyylKl0iio=;vF3PcSqnLjMzojS63x+C0w=="
 ---
 

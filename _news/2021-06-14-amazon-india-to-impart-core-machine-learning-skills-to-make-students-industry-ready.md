@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Bengaluru: Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
+    publishedDateTime: 2021-06-13T18:08:00Z
+    webUrl: "https://www.freepressjournal.in/technology/amazon-india-introduces-machine-learning-summer-school"
+    ampWebUrl: "https://m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-06/e0efca79-0c15-4d62-8a00-ff7d0786bb87/amazon.jpg"
+        width: 760
+        height: 426
+        isCached: true
   - title: "Amazon launches Machine Learning Summer School"
     excerpt: "Amazon India has launched ML Summer School to help train students in ML and address the growing demand for talent with this skill set across various industries, Amazon India said in a statement."
     publishedDateTime: 2021-06-13T19:39:00Z
@@ -157,6 +173,24 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Amazon India introduces machine learning summer school"
+    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
+    publishedDateTime: 2021-06-13T10:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210613/3771050.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "Amazon India Introduces Machine Learning Summer School"
+    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
+    publishedDateTime: 2021-06-16T20:44:00Z
+    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "lz1c0TWc6dUjyKTDNIQ7RcVeRrL6eBOEcygURwN1bFvCKMYZU+2BOzkFZLSndw/UfF9/4SglkPWdmvzoG9Q1kSQZOGEqcY4UwB9JLYgUPaSN3msYiW1yAeXk54OonFiNr6iTYDQPJARWBg7lJ6LuWVTnqe7oZVOhYwruJfuFg+2XcBCAR2vJ/Jezg88bhF0uZmzl+VpnzdfbMXcQVLcDowKXIpm4TCh/2IZzokN1SW61fz7sFsJAkBMc7pvot1Q1sW9dE9YZXmQU4wa9BjAoLDqXr4E6f/yVKu2jpZtrfPRrjuHXYYMDapyO0LvhAm+JVF9VGYELBVFOai+4FnKpfPF86VVsEWlxMDm+UVF8uG/eNSwrGs8JwsjxHdmLUxv044ZyahyK/vDki+TJwPkRDhMxetFs2pIVua0sDqExAPpOxEb7LHGHd4rhHW+CA4UOdKyOMsC6kQyA2OCcwvF7xeRIHkGqJdMOFCizSEQVJxBU8PIS8CsCJT+ww+a+EsTmc6WZNXtDBPAnhCO4iOp3lQ==;ovnd7oJwp/IQXbJIJHVdDQ=="
 ---

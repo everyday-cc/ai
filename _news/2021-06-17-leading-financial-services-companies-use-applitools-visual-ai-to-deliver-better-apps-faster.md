@@ -1,26 +1,23 @@
 ---
 category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
-publishedDateTime: 2021-06-17T13:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
+excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
+publishedDateTime: 2021-06-17T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
 type: article
-quality: 37
-heat: 37
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Finance
   - AI
 
-secured: "hQimHgg1V3vQdc9m+GBPSYSi0lCY0nSRNF+qGP6x2vQIptLTgEVHIiz2s6xZx9z1+IsYFd8yg+R4qAoZyk9Ggx+oibA1SEnll9m79PHGH+GTLLgR5fakebj5lvQBV0mmyWH6JrEtI3t893dpC7XLbLLqhK79zpG7dlU8JmZAYo3S7NNaHLq1zZhSZZom5zMfg6Yj9pVpf8qpnf2xHAKEVNMl9s0RKK+U6SlaOk5Owjv46fAH5qUz1vJ8NNz97rFP8ubpiSdkoZI6DMg3oCueBW/h3mIbOoaSTXl/bYOIFlu8qPxOpW8flZ/tB1XZtnMDBChzVJw9wNJYhWM57Cmi9zMLbL0BPs5Da6egsa2b8YEVLfGFlYE6cCYEdAgDrrC3KQvJvaM1AQ5mR/nY6Ke4SKKZrobWRJlASTIY0Fr8AxQK5SD3rswwuxyNKFqLLD2y00ABmzYJT6hvj3kVTV4dAy1u7k28tNVf+GIkHOaLrHuhwMDGPEjdxlEsMIN33R8QFO/Kr8JltEINaJFkOr1POA==;AQMCZrjjBgN4s4Jll7wZ8Q=="
+secured: "fADvY04sSFAwEHCW+hcZpZ7XhkzqnFUeERLyCFhqMNo/xz0TmyxoEzx/coc8IJPHWBev84YXPq1ICc5P9oEfKbm3PO+LYqyzancXKIeBcQBe+GsJMqHeoV+65NtnJm+Zcwk1+rFS1wUa4nsb9jXISaGUSUwbtaNH1o6qdt2FbvXpWCDdolD97lDvPPmhDjSkZFOB/RAeu7DfvGYZCeaeIaAbNj5EMCOjQTVEMJj4wg1CnX8kfWgapLaiL5hhPzIWkw6NdYfGYxQMKi4wg8nCs/s/eRf0bE7nDw6jxV3rR2+JFpRv/DhRHIPo/psIPTN9pKUa2ImnFnOdSA3vw+351Tl3Sou80jpmNjXvfX7Pw91GSEVZNv9XixYlToq4WLtPbiiPl6yUrPwQhHdlvY+C+yPON8BY56K+4lXQcrOvKL70Ow7dvfm/LywNLoYU6I8GgHXXTtXtDo4xT2q1/yQ0Q3tJNo4TvgFnNQegAu6v/X5ZLtFgHFrT/AyZi1nT06g9S1Q3IrU+IV3TVhBmcHLmNA==;TCkoyK6E6R9CJdv9Puosyw=="
 ---
 

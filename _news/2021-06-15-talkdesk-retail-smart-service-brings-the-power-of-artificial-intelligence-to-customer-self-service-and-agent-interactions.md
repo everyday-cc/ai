@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 708
         isCached: true
+  - title: "Payers focus on artificial intelligence and machine learning"
+    excerpt: "More than half of executives believe startups will lead the way in driving technology innovation, facilitated by government policies and regulations."
+    publishedDateTime: 2021-06-17T15:11:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/payers-focus-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 56
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/StateofHealthcare.jpg"
+        width: 1120
+        height: 720
+        isCached: true
 
 secured: "yPEVHiIIhnKRKvRWZ7IE+XCfnlmHTdYumLsj1QIvpozqoTa6M34G5OM3OABkykO1gOoHjJSwseNO25Hh1tKNVrYXbVzxFR6q8A4ggf/IMiQlfkEho2mu2Z+uXhwTL7oVX6J2q/ovOiQRL96pa4KUCUb3S6maqOxKy+KuiDIL91ItGku5A4iUa3Fj60WaM9tzZ2KHPh63vc3NCYYrL7uN9pHfLj6BvuJGb/dA+fuByU52A8U6oB19J/VI2RSVlRynlzvjNdRtxPZtzAGlMMe15wAM0WN2YRIYCoWqbyvrrzllJtR0cvN69vZgzBqiL+VjMImuS0sINlNR6yNnP8Z+cJ41H5NBmOenz3YVabCLJJw=;xSwnlMyhPJInJi/E4e146Q=="
 ---

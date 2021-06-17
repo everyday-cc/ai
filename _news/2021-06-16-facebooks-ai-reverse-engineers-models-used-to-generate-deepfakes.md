@@ -230,7 +230,7 @@ related:
     provider:
       name: It’s Nice That
       domain: itsnicethat.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://admin.itsnicethat.com/images/N44zko7EVxuRvGC3Ea09l3MwV-E=/208138/width-1440/facebook-ai-text-brush-style-digital-itsnicethat-05.jpg"
         width: 720

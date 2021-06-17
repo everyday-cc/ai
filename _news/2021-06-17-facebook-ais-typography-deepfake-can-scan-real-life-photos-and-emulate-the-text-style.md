@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T11:13:00Z
 originalUrl: "https://www.itsnicethat.com/news/facebook-ai-textstylebrush-digital-170621"
 webUrl: "https://www.itsnicethat.com/news/facebook-ai-textstylebrush-digital-170621"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://admin.itsnicethat.com/images/N44zko7EVxuRvGC3Ea09l3MwV-E=/208138/width-1440/facebook-ai-text-brush-style-digital-itsnicethat-05.jpg"

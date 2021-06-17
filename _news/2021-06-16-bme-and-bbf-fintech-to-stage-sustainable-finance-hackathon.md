@@ -7,8 +7,8 @@ originalUrl: "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-
 webUrl: "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: fintechmagazine
@@ -34,15 +34,6 @@ related:
       name: Leaprate
       domain: leaprate.com
     quality: 4
-  - title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
-    excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
-    publishedDateTime: 2021-06-14T11:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210614to09497/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "k69lKlWZfsZyK+Ncq2xllqq3bVkyLbHsmhrwn5SpPlrYSlmPmI8+NzQrXXdZUb3yHcJ3qZoCKwQBNn6ozXuDdLiD0J02uZGhYj0XDmqvXttT6b4knlTj7ThAuQcug8Lnwge/qyWF7ynwUjOLYpQytRt92V/SAvKpQazGjYSIhG8vLCdMIMpVnfL/d/dyI1pENntDoroBleH7oU8p17MoqDQvmX6V5mtf0fXz49jqCEN/90s5cglhb8k2iu5fDHyXg2jLkdy0moEOQ5Yrro+qi5xN0mLZnj64CeAXPypkGKXUB21r42V7Xlw8az/dVV7FJPuj0KtR/cCysiSWpNFuhdNfOtxKIzwZ7QYNzbyV8Z7FVJ8j9C6HV6R87QBCK95AY0M8MGdDS09tXdoWHAW7Abzj5fDcIIKUUojp4kHLafn+rx5pUSDJGor+wHwNG11Y6bRXp5I3g+KLBR+lo9LVHIFY16Owi7J9/Enj7UHqfoQ8C6YDV2N9zLI4HkuKH0twWMRER/2lsM/p0Ek7qHhNfw==;I1N+QyNsylHWhdoDs9Jtdw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/is-your-teams-skill-a-barri
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/is-your-teams-skill-a-barrier-to-ai-adoption/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "Ethical AI will not see broad adoption by 2030, study suggests"
+    excerpt: "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon."
+    publishedDateTime: 2021-06-17T15:15:00Z
+    webUrl: "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/"
+    ampWebUrl: "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/scalability-e1619416261363.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9C7uGdarT7MSNjuiur/ovnLBbXDRdta8v4FmBiEgM3JM2kJkZxBD13kebuiXzDh/LTi15oL8Q1XdzVPYxv9ws+AVTcY0VJnnT/mLvvERdpA05qx6uzpab2MdrQDsiMOYRPofMQ9YyOvC0szwHbihPdCHfJjCd4BP1rRV/j6V6hCUNEBO4hnB/P3ywQGyhKEAQ/aIJgA5DDD3Zpgn1Ypj5pd0mFHboVhwpow8BQsDNMoDhZ8jdnQuXOAPzKs6eQPs0b2jRFMqanuWbRTM+icM2RBLzw/vsnOdp+MPfUATrIx3sTfaAK78lVMOG38IV8mAw7nOruDct5tbhUzwd1OIiI6i6QUqj4EOljbHD4YIF9c=;GTCcLzeEgsdpDa2P0EuBCQ=="
 ---

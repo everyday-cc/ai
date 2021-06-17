@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Engineers unveil solar-powered AI system-on-chip"
+    excerpt: "AI systems typically use lots of energy and rely on the cloud, which presents IT security issues. Scientists in Switzerland have addressed these problems by squeezing an AI system onto a single computer chip."
+    publishedDateTime: 2021-06-17T14:25:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4271623934810/2021/1/16239377247962/v1.5/Engineers-unveil-solar-powered-AI-system-on-chip.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "New Energy-Efficient AI System-on-Chip Runs on Solar Power"
     excerpt: "AI is used in an array of extremely useful applications, such as predicting a machine's lifetime through its vibrations, monitoring the cardiac activity of patients, and incorporating facial recognition capabilities into video surveillance systems."
     publishedDateTime: 2021-06-17T08:00:00Z

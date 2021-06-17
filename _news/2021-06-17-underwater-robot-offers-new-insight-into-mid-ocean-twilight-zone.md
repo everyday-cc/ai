@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Underwater robot offers new insight into mid-ocean 'twilight zone'"
-excerpt: "An innovative underwater robot known as Mesobot is providing researchers with deeper insight into the vast mid-ocean region known as the \"twilight zone.\" Capable of tracking and recording high-resolution images of slow-moving and fragile zooplankton,"
-publishedDateTime: 2021-06-17T08:16:00Z
-originalUrl: "https://techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.html"
-webUrl: "https://techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.html"
-ampWebUrl: "https://techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-underwater-robot-insight-mid-ocean-twilight.amp"
+excerpt: "An innovative underwater robot known as Mesobot is providing researchers with deeper insight into the vast mid-ocean region known as the 'twilight zone.' Capable of tracking and recording high-resolution images of slow-moving and fragile zooplankton,"
+publishedDateTime: 2021-06-17T03:17:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/06/210616191511.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/06/210616191511.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/underwater-robot-offer.jpg"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "YhmP8MRpDnPJOq+WpXOp3llSzJKHXwBj/UyUUOaVMbsnLoB8oZYv5KZZ81P9deLnSr/aTj2m6uHDnXht9TT3x+2za+eJsy7Zeg++33nL8MIjLPwshZPAZt+OkDVbRIVzYQt6oa1bga1y7UCB0qUGwN02zmRbXMMh+PQLVvPsaQzwd+RCt4Dqmp59xiLQbDLGGJMLJN7MSpugSh3t+R3Pg4ScWGIZSqBP9qnIN6zDsBkVPLLflpQyi8UYh0dO4YiYGRqnPJafcNz/3yw/vCdM5n9Oo/8oGBh9QP0UhWNbudiaux7wa8cXbNlDmQQP0xdf3idYsfOa4vL9n1sPmEEzkhNIu9R+J70sk5ZA0qq1/voxtp/ydtzZR8kqQU5x3s/swFsyM1CezprsGlq6GCiAaIGJiBAhVBEcXt4asBIKf+9HSSjsAEPo8RtP9PGL+TRADFMcMP3h1WrjDTZP0h4uZ3qGz7gStmXqxBOHGBBqO5+YaZcOAYMSw2m2AB2No9adNv1xYD2pgtUN+x+JK8PNrQ==;eC0IQZIb7oeNdKWb2n4TBQ=="
+secured: "TA1JaXvGwvFVFLCX29RF3p7Oe6IoEpsAkV/+u3xysmMFmk/jh7YRvBhTuZifmyd3DDUv4FfMtVM/DdULlGKGlGEw5XcO9fn/MjBUz3Nfz01ae3wTFnPjwvsL8+FYsSJYtGg1LVaPE4WFQFaWS+aEjUkaoKeQYY4pVj1Ql6n1LcW7cALeZWvOlGxospOye81qbtXRwxubIiMM93dyvZL5+uTt6Z0WlT1rCyxHjyJOtY3REu1LM+71SWTKEqA56hhvqLkRrzVWL6qtQ4gBvOGjVlHXI02YNb4s+nb4nKZYd7DBawNawC+KqvJoQizfkmABHXerTpYIFJHmmvzLwxdIfhpHY+eD3p0vEmbxLpODluA=;98y+y3jjbr99HW4k9PBltw=="
 ---
 

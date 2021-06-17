@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Payers focus on artificial intelligence and machine learning"
+    excerpt: "More than half of executives believe startups will lead the way in driving technology innovation, facilitated by government policies and regulations."
+    publishedDateTime: 2021-06-17T15:11:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/payers-focus-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 56
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/StateofHealthcare.jpg"
+        width: 1120
+        height: 720
+        isCached: true
   - title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
     excerpt: "Talkdesk Retail Smart Service brings the power of artificial intelligence to customer self-service and agent interactions."
     publishedDateTime: 2021-06-15T15:15:00Z

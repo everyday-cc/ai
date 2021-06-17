@@ -151,6 +151,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
+    publishedDateTime: 2021-06-16T17:35:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Waymo Raises $2.5 Bn To Rev Self-driving Cars"
     excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road. The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
     publishedDateTime: 2021-06-16T16:53:00Z
@@ -193,17 +209,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that"
-    publishedDateTime: 2021-06-16T17:36:00Z
-    webUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/"
-    ampWebUrl: "https://www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-16T16:36:00Z
