@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NIT Warangal Offers 5-Day Online Course on Artificial Intelligence at Rs 500"
+    excerpt: "NIT Warangal has invited applications for a 5-day online course on artificial intelligence for which interested participants may register before 4 July 2021"
+    publishedDateTime: 2021-06-17T19:22:00Z
+    webUrl: "https://www.dqindia.com/nit-warangal-offers-5-day-online-course-artificial-intelligence-rs-500/"
+    ampWebUrl: "https://www.dqindia.com/nit-warangal-offers-5-day-online-course-artificial-intelligence-rs-500/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-offers-5-day-online-course-artificial-intelligence-rs-500/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "IIIT Hyderabad Offers Online Course on Machine Learning for Engineering Students in India"
     excerpt: "IIIT Hyderabad has invited applications for an online course called Foundations of Modern Machine Learning for engineering students across the country"
     publishedDateTime: 2021-06-16T06:38:00Z

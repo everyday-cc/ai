@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sickos behind celebrity porn deepfakes can now be exposed by Facebook"
+    excerpt: "FACEBOOK is cracking down on fake images used to mislead its users. Scientists at the US tech titan said Wednesday that they developed software to not only identify “deepfake” images"
+    publishedDateTime: 2021-06-17T18:04:00Z
+    webUrl: "https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/"
+    ampWebUrl: "https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 44
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/COMP_RR_DEEPFAKES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And..."
     excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using reverse engineering. Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear like the real thing."
     publishedDateTime: 2021-06-17T11:00:00Z
@@ -88,6 +104,6 @@ related:
         height: 710
         isCached: true
 
-secured: "lmuxIJR7elfg62pIxodRn68jNdJPDGAYVNQ2VbAZB0XrLxvAivcwIR489Pm6ZRkhJUSWX/ZaODoQ3euwvHrchbO84KJfm2AO3nbV/ZVq2dz2P4B3KXb0lVil6FQJA94QJ82NaA7PcANMGfmAVm0QUDGPKVpOHbCp9KMcEft4P+4crxfI277VbzTNOqBGYYhfCbSnZJMIjXxB/xaqUaGZHmTh/WQPStz1OryuxsyG6FcFfHX7/3h0rihKXDX3vvcR342oUnMlHxweDSQCPEQX2IcZMbKH3RJXyDtmRmyUU5e/zQ/QpeRfbH7VuYl97upAp1cC5fnls0E4tk/GmHmfQibgNc+w2uhpbwXINDrWSNg=;BhQuL6g+q5mLUThDSTNXlQ=="
+secured: "rG8E+k+2KAoHehrwTvWy0xEcE/3dHFJhiQD2yCIiMZMB/Ccy2u6Ukdi9QooVX4SGS3uHhhVNS65GrAnmzwLIt63rBLqHII3OhbodgomqwE7DRiYh+3rrqX1ogHyTNeLPupNuHego1vGoEEY4SeUh9cLaZQ3BLKl4TyoQUOe37WRIM646wft98n+8hzRwV15Csgq4Lhr/2ONUhFTsGp7Q2RGv/Wzs3VNO7glXqjy1xNCnwGy+aPlDlgt8T2Qf0Rq5VN/ha77Vg6fFYbJZMrh4qZWAN6e+SYvyReIH+FNqY/76vl3yKSPKA1yNxR6KCPqNBn2/9QYLuXDhoCW8qwUCBZkWVxNXEzyhPSjj6dn8ha5NNcjkKSANpJuVrE+BJ26Cy+e8GldHRZFX8pWq040tcyAK2KcZLV2eAyNCtAD+1Kg2ygYBepmXBAd0tlYSXLmfZnoCtLo0fRs1/t1OX0SU5gJEo3/vse5JPonBp+gU+cGdSvu5jWWWydYCDAYlLJnEgrQ/J13x1IJ0h7TLM0jdOQ==;HG5cDGgaheh1/YWBKgit5g=="
 ---
 

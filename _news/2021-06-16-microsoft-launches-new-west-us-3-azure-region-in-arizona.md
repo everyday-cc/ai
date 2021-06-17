@@ -108,6 +108,20 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Microsoft expands telecom portfolio with Azure private MEC"
+    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
+    publishedDateTime: 2021-06-17T19:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
     excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
     publishedDateTime: 2021-06-14T20:46:00Z
@@ -168,15 +182,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-17T04:02:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
 
 secured: "8T/n37ovdoUMJyu5cfoHAXIKbtUUlALmpdAWJjZ5r8l9k40p8ivRP4b90mmL6yDTqtTdDi1QbZhs4O/TowmO0/Yqy1NNfFTpTl94s92kuI59dM74nvCs0lzTAv8683gp19k8heGLbBalbm/A05e5G+LFViIY9j6Oey0XrTT9551MC0Gtg/mj4MpR/AY5/A80K9vZgh4alS5cXLPbjKQ2DvjiSjIGjcD8lWDWJ5jSof3VMei71iHkdJ9PM6RrDFRVl2qScvOMC2iIW3fl9JAMLlUtGgEbj0RdK5SaKiE6srMgFlxfNW0RrsJOFY3n/Nc/bIRH5UKS3SDvkLMI+ppm9ay1RVNZ9aZ1LXRp66OcQPo=;goQbLiPHhzHVwfzFzUP3zQ=="
 ---

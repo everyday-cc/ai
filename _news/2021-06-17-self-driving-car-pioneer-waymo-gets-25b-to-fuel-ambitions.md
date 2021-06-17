@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
-publishedDateTime: 2021-06-16T18:34:00Z
-originalUrl: "https://www.sfchronicle.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-webUrl: "https://www.sfchronicle.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-ampWebUrl: "https://www.sfchronicle.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
+publishedDateTime: 2021-06-17T07:48:00Z
+originalUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
+webUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/business/article252157813.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article252157813.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/20/47/10/21131791/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Alphabet's self-driving car company Waymo announces $2.5 billion investment round"
@@ -236,6 +230,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "BvKs9VYrwx/nQ6k9u2+CMdzqkhXZY2w1F5OIyPnpsTRRvc+4QvC1p/xbyeNlnxZ6EYTVETVFWW1JGMBQK/5KvUAGSqx/Ig6AHQugSLOSriVlyK7ndFsLqV3RmIYzUCpClb+e5o5n9xjUGTieuPzPm+DTWECv+JjTRhpQhOED5xCv7qrs133j+ndUTqXUipkd0R1h+fQxibVMsk1H1E3K7UKtXM2DSAV3TkKRHjEteuZ5+yOQAbCNDhkg1oruacm/7mSCvyTxKEscIcjM7fj3APJYblZgveD8v3CIKpk3BQLMq28S11haTJciQ+lRJ8kNrnwrIXpd7vuPKDcN6k3iWaI/PB+1YESpMjaV+Fu/rCk=;uPtIJyymfswjDBG6grPGDQ=="
+secured: "T897UlZvkahRB7zyX5PfEtGiy6dOrUPAWl/aGOccZunJcFU3mZzqSoTHd+7MeUjttBnbAbc/JisbrpXsaE8wCTf3U8+KXOs0AydcBqiULdk8sxwI+43q70RBNmNagEBr/vdcbOq7tecTQQXBgB5OsJzKi1JmlzAyAKw8TNgCsWB4hOUJqFvUWr5u8fbKWPQL+xGK6X/Ez6nrAezzNEwX0vWW08idHtqBA9Gv2RSEFWws6iDYAcO6yMUsyJABnaD6R832TXTLVkiXiB6Uctv5JPcKHMVdKNxSi4QZJn+EV+3ys+Mifu5GLNdvHYDtYN+xSYTR25DiVw817cW/ZlUqQpSm451QszxDpSwR4ZEJfyu+MclfzxpnKr30MXXCl7Ff2JnI4yMUnAG5jT6jH5FI7DROuAhUuEp70oDmlQc3oYrKlZICpOcEqy1SwVpsSErjI/BFPIuxxYSEyzxcERrkmnVk3MBbbodXa6sTsnrY1QWSPTysXb9Z8u6JK+JVlioULkTQN0yqwSsfq11s41yp7g==;IZ+VBHWI+tIPrToNfRu0wQ=="
 ---
 

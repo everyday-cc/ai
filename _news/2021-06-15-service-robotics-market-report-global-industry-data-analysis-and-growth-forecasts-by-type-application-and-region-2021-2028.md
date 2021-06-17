@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-
 secured: "dmKNneYNbMjzKAEr7yU+ajmjcjaDV8/2TQRMXn9Ir4ozaf1tDArganzO1HPC3IdHIwyJ/qwkUyaAJvR7GZFg4WWZxXOfhphJQ36mtinCO5jCSaOUf37E+j+MItt+2UBqwoA+jwZ3T6OiK+NMPuSKNH3i07aglfQsgxgq4fLluHgcytJT1eZNmMhpziZnb/NUMCYFpUFBpRjJRRYhHPqVCpeYJGq3BkAPNa8kpNhQ/L9o3w6eiXE2XvbpHMMalbVQTqQBCJR0qw0qY27LHEHPWdqwlnBTsO/bg3YCI7BiR4EKXjzeJbKf5cB/hcbecFfr3AB14BuoyqFoxgDTncGFEcUnCWmzKlIhkcT9LDZAcOU=;z8Buk5iZ6SfQoYUAWQtguw=="
 ---
 

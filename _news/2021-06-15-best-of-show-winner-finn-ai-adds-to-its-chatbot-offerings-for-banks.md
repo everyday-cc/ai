@@ -7,7 +7,7 @@ originalUrl: "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatb
 webUrl: "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/MNZR3SZOLRBSLIUEECCBWR4YGA.jpg"
         width: 640
         height: 359
+        isCached: true
+  - title: "AI Chatbots for Dementia Patients Show Promise, But Need Work"
+    excerpt: "AI chatbots show extreme potential in healthcare, but a new study reveals that more work needs to be done to use chatbots for dementia patients and caregivers."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-chatbots-for-dementia-patients-show-promise-but-need-work"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
         isCached: true
   - title: "Finn AI adds three new chatbot service levels"
     excerpt: "Finn AI, the leading provider of conversational AI for banks, today announces three new chatbot service Levels, each built on the same AI foundation, designed to let banks and credit unions choose an optimal path for delivering AI enhanced experiences to their customers and members."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534690/facebook-de
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters"
 type: article
 quality: 137
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/deepfake.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sickos behind celebrity porn deepfakes can now be exposed by Facebook"
+    excerpt: "FACEBOOK is cracking down on fake images used to mislead its users. Scientists at the US tech titan said Wednesday that they developed software to not only identify “deepfake” images"
+    publishedDateTime: 2021-06-17T18:04:00Z
+    webUrl: "https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/"
+    ampWebUrl: "https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 44
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/COMP_RR_DEEPFAKES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook, Michigan State University Researchers Develop Tech To Pinpoint Origin Of Deepfakes"
     excerpt: "opefully, this will also help keep deepfakes in the realm of being silly and fun, rather than becoming a threat to democracy, journalism, and communications for all people."
@@ -87,6 +103,6 @@ related:
         height: 710
         isCached: true
 
-secured: "7yR88y6F7707Ogb8zAfg1PFy143TpuwhjfJVMDb01oT1giNybYJVgf3v9oEBWVq0rKNPHGWJnZpadUE7dilAsTIbgkA6wPHeSO+qKPakhPsmndXLs5KoR5MDxK0yDFreNFm+w+B5S9wQ3KYtG1wo5JObb0reYYTH0zLBZl4ZVUVFsnSs+pvBgZ8VXRb+W64fcQnEdz36YAjNXqZDcMnDK2Garq6erE+9PXszdgEGggnxSsYnDOAAuNAwk8SqbzE8hYaG8U7AeLWopGumgxFFcm+oei2wwfs1ovJJOvFzL29id1jfPbh6m3fisLW5pfDDL8HB/Q7Z7BOfb1jn0g8XWCqum+yd46yBeIIM8awr6J8=;VRCNxc+LU5ixoBZVuIahwQ=="
+secured: "K8fKbexVbJpD7eHPk+ceXaiYV+4zC4DndJcBK7Uu3bG/Gvg2maZyIKiHp3bepsiUIkYlAIA3vZ57S1KuesIIHNlrd9ajES39id3JpchnwABOJnftYPoPoGUOrfkAlv7Y93p7UHtk07opzKepddN/cK5sFuYt0Y1T/dZDW4/aTm+EoP+9nJ6h5y1VdMKmH5DtE/VoFY+E6dy4+jfVn1MK64tx2abACWZ6WRDtW4VTfY1H5KZftpj8jjFJBu/+miul0ijyOQnTEjk2tj6zomIMpSyvLSBCXDWeU//X/4+ogqri+WAagTgTVCxN5Hy8DQgjusp5nCQQzFaijxBAMAEMcpjev6pxrQqqLyMKbEVhnIggMKdJKMNXcM5S5EusFs5jyhYGxRui67Z87f7JZZB2XQOXW3AFM6BcTrnKEc1n/plxH9K+0o4CiVwH1Qkiyi8tZLI84VyBNoRZ3/3o2HdBcVLlBwqmgRx+Od6n8jyCK5/JA+ZBtaQxU8MP5nhwslinIqmNaFrBQzH8stcRBJzp7nLXaaCFExiPOWxN8PVzBVU=;vP6LpVWTBFfxoj/0Kmycfw=="
 ---
 

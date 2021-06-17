@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-watson-orchestra
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -62,19 +62,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
-    excerpt: "Astra announced today that Stratos Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple."
-    publishedDateTime: 2021-06-16T13:02:00Z
-    webUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
+  - title: "How automation and AI can be used to improve business resilience today"
+    excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."
+    publishedDateTime: 2021-06-17T14:29:00Z
+    webUrl: "https://www.cio.com/article/3622353/how-automation-and-ai-can-be-used-to-improve-business-resilience-today.html"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 38
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1295900106-2-100892758-large.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Marketers on Fire: Randi Stipes, CMO of IBM’s Watson Advertising and Weather"
     excerpt: "Our monthly profile of an outstanding marketer whose leadership and campaigns are moving the needle for their brand. — Being CMO of IBM’s Weather Channel"
@@ -90,6 +90,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
+    excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
+    publishedDateTime: 2021-06-16T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "TMEahfHDirkgJkptz/SKCHmfC9Tq+FwCujgShyAeN4DJKos60gdVxRLJ/FDoCnJxpHyq9Fz2LoeRQFhAdApzwreUUXchwStaMpGimM+KXqDm04BVNvFFtmOtwj+L3DYZqRJ3JNFAk5rh83J8f7+mKaGXcHEzGtrXXAF0cNgRJjQKyo5NHOLY0m6MPpaalPwo5ABjIUTOmqY7yqza5YkLlDLYgXHnz7sInimcH5rL6Q7OE3MqaObkjIqdeta3YbWScnpdb4vPL/zGE2CwpN0l2NcyGIn9Mo59niwZKec93nYCrmKOfOKm8BhbQ5UUUece2bVgInul+gMcuTWac4j+ZjLaqYsyhobYjd7Z8KHH2IY=;lkmXfxZaDU5jXIU+FKv3pQ=="
 ---

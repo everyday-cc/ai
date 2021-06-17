@@ -54,6 +54,20 @@ related:
         width: 640
         height: 359
         isCached: true
+  - title: "AI Chatbots for Dementia Patients Show Promise, But Need Work"
+    excerpt: "AI chatbots show extreme potential in healthcare, but a new study reveals that more work needs to be done to use chatbots for dementia patients and caregivers."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-chatbots-for-dementia-patients-show-promise-but-need-work"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
+        isCached: true
 
 secured: "BYKg5//szXuxgbN3BlElLHm0PkoPdSJankU0yJDenYxgjsC8nry539FR+OhhTk5LY43sWqw8e3xHoLhE0t/K0i29sEu2cpVDib3Z9FeI7HNsi89c1ok1OXGOYjFk6XjABgGV1vg5xnCU0a1ctKQY0Y2ZjAj+qwp9c4DjzJjwLBz+wvqQPZOkp4wdfQkdnDnuTMmYQK3+Q49jGrjjwwnMVIl4o1m1SAF4r7w3m/YXZEwUAi8IC/5jM1RBVPjY1BvOe0ugI0xGlG6F3InHJ0uLopA4TnIPRIWk2WLlWkQTnOJdU8Ah52FF2rW4AYVsZ839RUmXANG952F64O7yn94SqZe0Y9JDqaXWRo2oAhFbi6A=;n+vPYWwaliHRDm0gBBWemg=="
 ---

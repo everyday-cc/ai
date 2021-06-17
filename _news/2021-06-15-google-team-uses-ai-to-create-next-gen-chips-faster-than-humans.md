@@ -3,12 +3,10 @@ category: news
 title: "Google team uses AI to create next-gen chips faster than humans"
 excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
 publishedDateTime: 2021-06-14T18:35:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+originalUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -107,7 +105,18 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Google Uses AI to Design More Efficient Microchips in Less Than Six Hours"
+    excerpt: "Google has conducted a study revealing that AI software may be used to design microchips at least as well as humans, in less than six hours. The company is already manufacturing new microchips based on the AI floor plans."
+    publishedDateTime: 2021-06-17T19:07:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/17/449166-google-uses-ai-design-more-efficient-microchips-less.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/06/17/449166-google-uses-ai-design-more-efficient-microchips-less.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/06/17/449166-google-uses-ai-design-more-efficient-microchips-less.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 53
 
-secured: "YxJXLljrl626J01Dr5O+PE2mzjpdr+gTktJXmL+6GP/lOBsjLAOYLw1FW8xua5Y1qLxw5jOq3wwk5C4KmDlOlIgXfnU455gxiIXgUbFRm31TKoHhsjx3w56gau4C2MyT3Wcz0MT7tXr5vCVmWb6rReSehjsBNUDjQz2yNgeS9hxwxmo7PlWEkLXrcjMxlIGBNasAtLTA44WGhWA352eSJgVy1kf2Xmt74S4IH+m7A37odxBhsgov82FZFUczF01ds9Qewi7G6wwaGQ1VroncaEHs5MiBGEA9kjKQgifl2r6guUGLfXjRZfFuJwufyVQBtzA62IfrfOhV1VxmWy3OMx8fRMVFT+ST+dNuuQKCid0=;/P1Lmh7O8BBgGDrDa8H8bA=="
+secured: "XEq3kl4NFQ5aLWKj5UYly6Gb+F7AM0aX2c1yaHY17sQqW9MbDUnyzLPaC0+XNNDMjnZYyvKcturcrVmCpaMD4PP2iin3/iR7T5kwN+mT61hrAD9bc3DQuCa5VXKnCDYlK1kis1RDCtQWJZPbR1i4uDUkedLMldUaEJGLXB0f5gAVWJ5DtM8G//z2Vws7Lmxm9Iwo+KWvr97KPeKGaBMJ1cQuBN+NIUWv31E11vzufV2+MG28ubK7k0Njx9yZnjMpBtxaaubohzW0qKYpGvyeSqGKefVqLEV+e5Yf0Tz+O4ku091ZAXeEYXdWp8/5+854OcPuXW+6Szs0EGg39FuRNPmew5EBZAYIW/0RLSWu2v0=;S8bF4eV0MfEetNqvbRHeHQ=="
 ---
 

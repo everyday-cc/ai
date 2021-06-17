@@ -19,28 +19,69 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market 2021 Vital Drivers, Research Objectives, Future Aspects| Aware Inc, NEC Corporation, Ayonix Corp."
-    excerpt: "The latest research report titled, Global Facial Recognition Market Size, Status, Trends, Growth, Share and Forecast 2021-2030 has been recently published by MarketResearch.Biz. The Facial Recognition market has been hike remarkable strength in recent years."
-    publishedDateTime: 2021-06-14T07:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2021-vital-drivers-research-objectives-future-aspects-aware-inc-nec-corporation-ayonix-corp-2021-06-14"
+  - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-06-17T19:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-in-healthcare-market-2021-to-2026-by-sections-diagnosis-end-user-and-geography-1030533685"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
+    excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
+    publishedDateTime: 2021-06-15T19:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19858090.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Facial Recognition Market Shows Unbelievable Business Growth | Top Global Players – Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
-    excerpt: "Latest added Facial Recognition Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-06-14T18:30:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/facial-recognition-market-shows-unbelievable-business-growth-top-global-players-gemalto-nv-ayonix-face-technologies-cognitec-systems/"
+  - title: "Global Massage Equipment Market (2020 to 2026) - Featuring OSIM International, Panasonic and Omron Among Others"
+    excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global massage equipment market provides qualitative"
+    publishedDateTime: 2021-06-17T11:56:00Z
+    webUrl: "https://www.lelezard.com/en/news-19861476.html"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
+    publishedDateTime: 2021-06-15T00:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
     quality: 0
 
 secured: "CrWT4I9OPK3lcehM/rLWEzDop7X5oM25/+h+ayCBxD7roCnvtb3NILNjfQwQByfNGOpkVmTRrJyuNjGrf0ObfUUbUl+D9a2JPDhAMNP1XSDHiMaGzp/KaTEqGVo71IoRhwsNQe70RhjgERUcjRSO/478A5E5RhmkC/fae5haoONnC+UcHR9BoZfHZcT4KNkH44PeN0XDauI2skgSXcYy+p4LF1o0/DQOk/fGnAfeK0Qd7UMxqKUjCB6qyEjuKf7I9oWBplbfBT4cxA8sZ6Y4a/EPl7r/ikCOwcv8yaawl2nOiFuF2X4PrZdg3P4g50fsDU6PckQfASyKumw2rVvYxbpLgJNfmBsr+uSZaqfjQ6s=;4AD4kDbrvjbce9i7CF9rFQ=="

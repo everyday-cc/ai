@@ -2,6 +2,40 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-31-dawinks-korean-fintech-company-becoming-the-flagbearer-of-digital-foreign-remittance-atm-and-pos-in-the-world.md",
+      "title": "DAWINKS: Korean Fintech Company becoming the flagbearer of Digital Foreign Remittance, ATM, and POS in the world",
+      "excerpt": "When the world is witnessing the peak of digitization in times of pandemic, DAWINKS has been successful in shaking up fintech technology. For the past 16 years, the company has already established a significant market for its KYC and adult authentication service based on its patented technology for detecting ID cards and passport-related frauds/forgery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-dawinks-korean-fintech-company-becoming-flagbearer-digital-foreign-/2021/05/31/9380566.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-dawinks-korean-fintech-company-becoming-flagbearer-digital-foreign-/2021/05/31/9380566.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-31T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-why-ai-transformations-should-start-with-pricing.md",
       "title": "Why AI Transformations Should Start with Pricing",
       "excerpt": "Many companies want to apply AI to improve their processes. Those that focus first on pricing tend to get better results faster.",
@@ -1093,58 +1127,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-engineered-virus-and-goggles-restore-object-recognition-in-a-blind-man.md",
-      "title": "Engineered virus and goggles restore object recognition in a blind man",
-      "excerpt": "In an important proof of concept, researchers have now used a light-sensitive channel and some specialized goggles to allow someone who is otherwise blind to locate objects. The person who volunteered for the study suffers from retinitis pigmentosa,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/05/forget-vr-goggles-and-genetic-engineering-restore-some-sight/",
-      "originalUrl": "https://arstechnica.com/science/2021/05/forget-vr-goggles-and-genetic-engineering-restore-some-sight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/Screen-Shot-2021-05-28-at-11.42.49-AM-760x380.png",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

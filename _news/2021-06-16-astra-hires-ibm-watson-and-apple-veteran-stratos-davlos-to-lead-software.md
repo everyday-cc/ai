@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
-excerpt: "Astra announced today that Stratos Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple."
-publishedDateTime: 2021-06-16T13:02:00Z
-originalUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
-webUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
+excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
+publishedDateTime: 2021-06-16T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
 
 related:
   - title: "IBM Watson Orchestrate uses AI to help improve sales, HR and operations"
@@ -71,6 +65,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How automation and AI can be used to improve business resilience today"
+    excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."
+    publishedDateTime: 2021-06-17T14:29:00Z
+    webUrl: "https://www.cio.com/article/3622353/how-automation-and-ai-can-be-used-to-improve-business-resilience-today.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1295900106-2-100892758-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Marketers on Fire: Randi Stipes, CMO of IBM’s Watson Advertising and Weather"
     excerpt: "Our monthly profile of an outstanding marketer whose leadership and campaigns are moving the needle for their brand. — Being CMO of IBM’s Weather Channel"
     publishedDateTime: 2021-06-13T12:17:00Z
@@ -86,6 +94,6 @@ related:
         height: 536
         isCached: true
 
-secured: "YTxscSOig48PA09yfL/CIIHejvnceooBbqg1wFLU5117zsd4AET6KY8MIHROaxkYJW5IJRpm1YrwBcpJ743IMdhQWyyHYFyLrHTqR+Ex7pZhbV3MwbMJjp4HrTqA5Sg4aH9w2jAXBQk/g7YLayRgRnd4flp+/Js6bNP24JlHQ5po3biLK5N/FmpNLeVawaTzq9D/sCjLdI4yMfpxW3lLDrpZW9agW4MW7PLOqSZRs/JxxiGk6WWiPlk/HRlZiDaHAxs/K476c4zL6u7W/gyA3eo5UB+FqCniTpbHCe1dSr05vMHnCtvfupfQpARubivr+Hlubc9eJZ4sb+3418uA1wUtNWfHGbg6SOjRFnv4/Fs=;RlJqlkhLulUcpDc81ovc8Q=="
+secured: "EVh8QTXhKwwTkYB058r5k14t59vBSxtruVWjhxqYrblZS9yeIrt3JL7pcUkIv1blvzGJ6XbCF8k0SaNE1e4TXP+Dw5UU21nttfAeKKhFJh0Ss2mGjeK+DWRvD5iwDe9bRF64tnoKTAFC1s7PIFF78bG9Z8ONGK8Mt3+2mrYax+bKsMb4CVc6pBOtych4fpHE2eAZ2lwTlk3FkCko44Gk04zTdCoRWS3DU48WWuY6birvJXOcYOAVFwod6UxbzeRIfbdxBhejqpyCI50XM2ZkF2xGs2CfPUC1mhoZQPffoxgFcMgp0/W2Scm029mwgaQ5ABQuIv5H2rDNODuUz8Z1ZgncsZ7qpwk46rOYLX0etHY=;fdi9dvsckcBKJBkAzhpwfQ=="
 ---
 

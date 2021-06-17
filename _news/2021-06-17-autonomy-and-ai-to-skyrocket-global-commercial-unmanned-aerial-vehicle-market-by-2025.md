@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Autonomy and AI to Skyrocket Global Commercial Unmanned Aerial Vehicle Market by 2025"
-excerpt: "The global commercial UAS platform market is expected to reach $22.28 billion by 2025, finds Frost & SullivanSANTA CLARA, Calif., June 17, 2021"
+excerpt: "The global commercial UAS platform market is expected to reach $22.28 billion by 2025, finds Frost & SullivanSANTA CLARA, Calif., June 18, 2021"
 publishedDateTime: 2021-06-17T15:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/autonomy-and-ai-to-skyrocket-global-commercial-unmanned-aerial-vehicle-market-by-2025-1030532978"
-webUrl: "https://markets.businessinsider.com/news/stocks/autonomy-and-ai-to-skyrocket-global-commercial-unmanned-aerial-vehicle-market-by-2025-1030532978"
+originalUrl: "https://markets.businessinsider.com/news/stocks/autonomy-and-ai-to-skyrocket-global-commercial-unmanned-aerial-vehicle-market-by-2025-1030533495"
+webUrl: "https://markets.businessinsider.com/news/stocks/autonomy-and-ai-to-skyrocket-global-commercial-unmanned-aerial-vehicle-market-by-2025-1030533495"
 type: article
 quality: 60
 heat: 60
@@ -27,6 +27,6 @@ images:
     height: 266
     isCached: true
 
-secured: "lnbJK1m8caroyU97CPNAG3ycW8vVLxf80HAdQ60JWH7mg7TsAriDAQmba+l6+jrULsWGh4J7Mx6+XKmDxabzvDUZc3DHx926Azp3gBDChOJaOKzvSxkYwSO6QG+FwqeFmV29w+aaq2pwji2UQ/DgWl9h8cPRuIu3sei//ECPDu5z3gW7ZfGAKX+OkP2wmouG/aTssTanjkhNcX98iusmF/MoGNooHvJmUxW0N32z4uHA9TJ3FllWggLWIWH5/AEGDHcVt1GfnN/Y6e8D86ExOD3t+c9zOLXjeb057b0AcjGPIx6/prW5VmIOHW2YmIL0r6byiU/z90ZNLZQCPMhhnLV1ATqvIP0JlujC6te+SUU=;kw2ZTwmWL13PAXD6all9ig=="
+secured: "3yw8L12ZTdPf5zwtg6XRZHlGWSDoLWp8i1VZY/7brd3WDSXA5MgnTFUUkCadgSfDoO32ndCytr0DJ4xVwtTqYvmhowGMwOpbFVMGz3ARRvOQZXUGeTl9pl2jBMfruPn1hgn/zD94lF2RGxa48adAvGjx5WSWvGaEYAAVu2zhlemPh00yr3cfYZxR7nhcl7CpPBjRaGZWFoPC8r9LdxpdYCP+ZKxFtwd07NSwvCikFL3XBvKUWaxH2rqFH69eduQ1PLfmksPEAXLkg3pYRseMEprIdCTCW1miUVJJ59QLYcxWWvCcPxoyQZG0cPF+90tl9eQ+mMFGXTddjwSkQ0dFOyD4xljYnfi+PtXgFX481l0=;Gdbg8PECOGAef3J07HVO4A=="
 ---
 

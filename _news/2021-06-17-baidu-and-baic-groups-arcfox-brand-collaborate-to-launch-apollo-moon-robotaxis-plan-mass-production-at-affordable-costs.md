@@ -80,6 +80,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "China's Baidu unveils low-cost Apollo Moon robotaxi"
+    excerpt: "Dubbed Apollo Moon, the 5G-ready robotaxi is based on BAIC's luxury EV brand Arcfox and equipped with autonomous driving technology from Baidu's business unit Apollo. One big advantage is Apollo Moon's manufacturing cost of 480,"
+    publishedDateTime: 2021-06-17T18:09:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-unveils-low-cost-Apollo-Moon-robotaxi"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F8%252F9%252F8%252F34828983-1-eng-GB%252Fphoto_SXM2021061700004847_2048x1152.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "aTQqmS0URlGub0bXq5ImIkriaOEXBY/ah25/2c6w9/3wN0dbNhUHv9SmOh5b/9Sxi7KhYsvodrp5RT27uTQ6ny8E+Dd+7perGswk9vqhKRtx+OHg9uQR1b27JypXSrsaPtPXuiXbtD13hwNFVtXYp9pTWx9xet+BgNVbp7qTe14mKpY7rxUkDlmuyjq2dqFZMsszyGu7CAUM+O1i09reDvtuhPjeZ4PZ7Y9NZ69gzV1kxQoNDrFZWCwmSKJNU3DgGhnNPDCH/7uEOFwPVhGjRS1zcWkeDKd7EV4Ue2d3SOg4sfZIadpYEmTJZ1r/wG/etLfsLNbnkcs5F8XyUNMv7YUcRL1UtaIvQbM1zUUlGXcGG7eGQ1B4kbVKZUED2UK5WNeprEjo6brboLDhdyUDQUlHAc6xCTDLX9Ama1KBLpsrIrbqYn9a/L2g0bQqvciXsmTKxhKvuOQGMPPDL+ouWg2Gybb0WKGMujOgZ+XeQj4A2DdW76hnabOuxjN7kEcqC5oUOVu0y7rNN1dNvUmFjw==;D5MTKBHFLRYysifVA71JlQ=="
 ---

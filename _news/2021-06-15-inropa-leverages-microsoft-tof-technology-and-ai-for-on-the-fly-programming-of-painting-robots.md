@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft expands telecom portfolio with Azure private MEC"
+    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
+    publishedDateTime: 2021-06-17T19:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
     excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
     publishedDateTime: 2021-06-14T06:30:00Z
@@ -168,15 +182,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-17T04:02:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
 
 secured: "R9S2k/3o8jzjX4BUyThSTtZWciNQYuB6RqXxo1UbPgCM664pXWv68n2KK9QZbQGApK1DoX8/l0zWNSYbNuY+ECDNuTjAlsNSjvTE4U4l0arG0ZsOK/Q4CL/V+Lfpi84QU91lAq0jhlsVLwn609VvEmRSddKdL5yhQlxFeYiX0ofxHftOn5+P11TDm3mlZ2KErCebk7PxJfWUEQtT6yTMV+fwCE6cKjR9SiFCBhuTcGD9HSHE0di25ed39MyuvnalJRS7v+nAqwGOpSZ1JiKt0SyipjndP/uOcYhiSCadNu7orRONI8qLIGZQtgPxjBMAh4qVM/u4I4dUHA7zgPS/aB6KJUHBVtCOQOSi2liOekk=;cIej6ioNlQYEVexAE9zk9A=="
 ---

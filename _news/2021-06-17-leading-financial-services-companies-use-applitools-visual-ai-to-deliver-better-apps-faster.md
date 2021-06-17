@@ -3,8 +3,8 @@ category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
 excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
 publishedDateTime: 2021-06-17T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
 type: article
 quality: 9
 heat: 9
@@ -18,6 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "fADvY04sSFAwEHCW+hcZpZ7XhkzqnFUeERLyCFhqMNo/xz0TmyxoEzx/coc8IJPHWBev84YXPq1ICc5P9oEfKbm3PO+LYqyzancXKIeBcQBe+GsJMqHeoV+65NtnJm+Zcwk1+rFS1wUa4nsb9jXISaGUSUwbtaNH1o6qdt2FbvXpWCDdolD97lDvPPmhDjSkZFOB/RAeu7DfvGYZCeaeIaAbNj5EMCOjQTVEMJj4wg1CnX8kfWgapLaiL5hhPzIWkw6NdYfGYxQMKi4wg8nCs/s/eRf0bE7nDw6jxV3rR2+JFpRv/DhRHIPo/psIPTN9pKUa2ImnFnOdSA3vw+351Tl3Sou80jpmNjXvfX7Pw91GSEVZNv9XixYlToq4WLtPbiiPl6yUrPwQhHdlvY+C+yPON8BY56K+4lXQcrOvKL70Ow7dvfm/LywNLoYU6I8GgHXXTtXtDo4xT2q1/yQ0Q3tJNo4TvgFnNQegAu6v/X5ZLtFgHFrT/AyZi1nT06g9S1Q3IrU+IV3TVhBmcHLmNA==;TCkoyK6E6R9CJdv9Puosyw=="
+secured: "+0IN4Tdmd0uaDLMpkjKm5bryTKMci7aFYWKViQtTFL6KxGu0svbfgIJgy3HIAUCdeE4tFYryiBfdCFw5xxOMFf3XK9u4DRZQKGjcWNnOXQNj1X2BLljIcPwRgN058LpAYQS2+6tS8hy08P4Yftna1ohg4Cjz4L3/6GC4171Xff4Tzg2QDB+9BlQrU7H36JNI6Fmj25vf3XEuxnJHI+QNmgaxoLEUF4zUOBJZBCVEezXCoJ0RLknL9XDvdfhVddz1DMd+QhnNhCgcIyMq/QPXqOCBBDQMwzULRDDR9wzQZw47FL82Bu8vBnRpLT4qwsccfZe0kijuF4i4wWXwHKG7xuBZYKbdoQK4E1quQSQNP5I/NpRalj3+EFgB3G4ZNIm8Na5GZl6N5DitAz2PedENvN9Yq7LQVmTveYLQBLpz5Zb+OyvlpzWDrWuzSqQXsVWRWa2g7KIzXL210nK2tEw44fn3IXBYBpVF+VeyCReeV1CNVYpAhv6+su4AaHE5wqxqoLRFOLLuZyScBEPLg9zb/Q==;3j8fDhwECg4bc0slGjjBnw=="
 ---
 

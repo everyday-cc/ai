@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft expands telecom portfolio with Azure private MEC"
+    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
+    publishedDateTime: 2021-06-17T19:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
     excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
     publishedDateTime: 2021-06-14T20:46:00Z
@@ -172,15 +186,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-17T04:02:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-801441041.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
 
 secured: "cQdRgfigV4rF7x4Qym7+aMWWDfVy0lwxdDhNhPp6llY2yEIYaYHN8Ij7rwUup33GYIRsSWTBsVxK0eX1EbR7eBBMZAEORHulAERLYXBU6LDNIRq+DPpEI927MDZd9h5sB7MlObIG6vGAa1PMz59r2cdejl/06S6vw8zH4yXRWo4bwuS3x/yZKYZD12aOeh2ax8nVgjnOFv8QBJpTEZh43ck5C8VPbw6Yhk/WzjESoghOn/UWHOrwp3+y/IJkl9hGnt5w0YpeYq4Z3Iln0n7mt1vJm/51k6X/SqfUHfLuQOhJqVamo6jolIa9VmRFuI2duvJZZw2s/tpLdG5GGH+OQ56vTR3kQLHFWUj9+x8FwrQ=;ujo00rNzQx3YBeEvIRhQTA=="
 ---

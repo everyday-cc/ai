@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI Chatbots for Dementia Patients Show Promise, But Need Work"
+    excerpt: "AI chatbots show extreme potential in healthcare, but a new study reveals that more work needs to be done to use chatbots for dementia patients and caregivers."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-chatbots-for-dementia-patients-show-promise-but-need-work"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
+        isCached: true
   - title: "Finn AI adds three new chatbot service levels"
     excerpt: "Finn AI, the leading provider of conversational AI for banks, today announces three new chatbot service Levels, each built on the same AI foundation, designed to let banks and credit unions choose an optimal path for delivering AI enhanced experiences to their customers and members."
     publishedDateTime: 2021-06-14T20:07:00Z
@@ -55,6 +69,6 @@ related:
         height: 512
         isCached: true
 
-secured: "nZZE66WIrIfP/5f4WwJf4tC/n2iYxOXsCZk+qnMtc3XoFE0JJPmI6TEw1C6izLUrtbOE7Q5aN1NbtvRMXNDFBA4GhgPivi/BDzQbvEb7jBCzIhAGYVnKBiAbLmJq4shR9TmZIRfOSTbt5c51frCh8y9vz8D4ASDTur+pNJjzRbqChMZZJ3KjdQMBQugX7lGD/H16xHhxVXa4ygtoRRTIiahXOe37f1z+ssYQHILSn0eGbbQw0bYFNbUqGBaIQYJ8KANUlXMchpTzdVOzGl3ZeQzlqSNhj6qGBG/OuFnJo/FEAVDWoIQfoHkMLJHiOzpA48ZvQJExuAwPtdSQ5yFLXW8yQ2dPMzWvrv8r3zzzONQ=;kkskOmsMrE03nYsJ9bBuRQ=="
+secured: "GJVHWtN7zb/g4wEHiejEr9GWsyCVrbQX4ZGoP2GlZDe4iN4PQ/Ymq4+OORHgl7PT5/XUVr8pRnk77Iyv6lvI7hOKLqiPCDMuMeNtEVZbc1XTprxXuvXTjihlXIa60vWpLynuQufsiHRAMqA4iuobDHk+BZDHYqFTJ8T3oadjp2Y00HUe4P5Enpg9RtW8NuG7BUEcBsvlcDjUvpPvWsrrfExUuqBbhVGtKGQcZ01c5fjVoOuka+vH9PaGcH/P7Ivakk8vxEKGBtibD7dh3zU8p47NARXtz1KfqcnqQ2Uy8JV5Obp3vPzQP8xkd2K/N8tG7R/jwg5cGVDPAklcINpZKMNZ8HDS69jIp9dnB3AkSkIJpVpx7ZkzjeW8fDiccgViVDEZ6kqVU8jtbH+EVjR69ee4al36ZA5QYNZSibHfVDyv5dHvXF4jPqwiV6WpNyfzZryTphwkepKHMqDNHVvP45iBjhxsO0ai7thOhf8om5CtlzRCBY855SUVDVEP1MUQlz/xxvoGmYgZd4uo//j9Tg==;HpLHQAhsH8sAZ/XZ4UQsGw=="
 ---
 

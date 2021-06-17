@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Ambyint Leverages AWS to Deliver Production Optimization for Improved Profit Margins"
+    excerpt: "Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services, Inc. (A"
+    publishedDateTime: 2021-06-17T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005106/en/Ambyint-Leverages-AWS-to-Deliver-Production-Optimization-for-Improved-Profit-Margins"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
+
 secured: "IPqSeg1h9WtOu64kvKY1LVJUqiofq/MM2IVPm/LfHyVMOlVxaxLzBxUP5QANEftrEwIr1wXAKLPHL/OEpAv6YbzB5jDAWR5gEeZ/23qZ3o+oTwgTtCsBg6PtezU/TYFKfECwuJvsxpTod6SAHKdug76YQnP0B4n8ogR0VVNCeL52y0KU4o5iinRn9sALYUrd2juioKIvcFWpOJ1mNYK6gBcNirJTrTXS8UYqePD1qgNHV6exHWBW9E4XgxAvNkuVaofhvZwXXcBRfC8FjreAAAWwoNPFEeUnP+8x8F4K4Rn6Kyk2DsCYS3tf9PSAWIXFZNF+/E30CzbgI5htvScu2aoHqyX54kjYAt6yt3fOCtQ=;U/elR29xEUIp9FULzaYW+A=="
 ---
 
