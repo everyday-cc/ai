@@ -119,6 +119,20 @@ related:
         width: 1199
         height: 499
         isCached: true
+  - title: "Balancing ethics and innovation during tech transformation"
+    excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
+    publishedDateTime: 2021-06-18T14:17:00Z
+    webUrl: "https://www.raconteur.net/digital/balancing-ethics-and-innovation-tech-transformation/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/06/Data-protection-data-ethics.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Making operations safer with digitized data acquisition and AI"
     excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
     publishedDateTime: 2021-06-18T12:20:00Z
@@ -148,18 +162,18 @@ related:
         height: 540
         isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
     publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
     images:
-      - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1413
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+        width: 1200
+        height: 441
         isCached: true
 
 secured: "DTiXTWi6n2JuoQ67iCodaVXWoqec3tLQrwa68iDca77hB9VVxsP+PlHKGLDHu5EIzIb12zDmMudEXPCR4mxm/c8sDYVjKQEoCnhB1BGrCjC/BTi9oQjqq+Mt94SPA708ys9aMl5TYJxlM+t23OC01X3D60WptQJBz0jnqhaTyKrsqdPXDChrQVIu+NE14Y58KWAZ2SoevlB4Ovqe10ChzN2FyyfWVqKF17xJ3uKrrNcaOq2amFK7nsmXuXzEPaxNqnKPltESvrv/QNXbBrpPtEbFNUGrK5fylUlCJ7+8cr3CEEM85q96dyoYaSzuu22eaAgvO8v8rdoYdPyQjOOLlL7OX5NOGtIKrOAnEAWUS0SNQQ56OCQsvT91Pd8lcJUQzXKd4/CbvC7a63f1k/pDlJqRDDHWJfzRipVDUbGySjXKnvrhjcXOH3PvVJkI5dRSgT1THgMnqyHEN+ixkwgUgdRFxJy7mBRhKmhN5lE4sfsUDydypc7TlC2hxMXI5pPuzearV0fdaJW4QvUNVzjq/A==;/QqeORlDVVmPpx4TPxWR3Q=="

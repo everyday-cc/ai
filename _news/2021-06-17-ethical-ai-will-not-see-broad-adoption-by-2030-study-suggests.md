@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-ado
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

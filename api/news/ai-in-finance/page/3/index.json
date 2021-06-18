@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-11-3-ways-artificial-intelligence-ai-is-disrupting-fintech.md",
+      "title": "3 Ways Artificial Intelligence (AI) is Disrupting Fintech",
+      "excerpt": "Artificial intelligence (AI) is disrupting Fintech by providing personalized wealth management, automated customer support, intelligent financial assistance, fraud detection, accurate decision-making,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech",
+      "originalUrl": "https://www.bbntimes.com/financial/3-ways-artificial-intelligence-ai-is-disrupting-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_in_Fintech.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-security-challenges-within-the-fintech-sector.md",
       "title": "Security challenges within the FinTech sector",
       "excerpt": "As fintech becomes more common, how can organizations ensure they are identifying and managing the associated cybersecurity risks?",

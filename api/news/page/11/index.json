@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-09-amazon-adds-global-clusters-to-documentdb.md",
+      "title": "Amazon Adds Global Clusters to DocumentDB",
+      "excerpt": "Amazon recently announced support for global clusters on DocumentDB, the document-oriented database compatible with MongoDB. The new feature allows users to deploy clusters that span across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/06/documentdb-global-clusters/",
+      "originalUrl": "https://www.infoq.com/news/2021/06/documentdb-global-clusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/06/documentdb-global-clusters/en/headerimage/header-1623155564489.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report.md",
       "title": "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report",
       "excerpt": "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses.",
@@ -1113,57 +1156,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-why-is-artificial-intelligence-the-fastest-growing-industry.md",
-      "title": "Why is Artificial Intelligence the fastest growing industry?",
-      "excerpt": "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/373983",
-      "originalUrl": "https://www.entrepreneur.com/article/373983",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373983",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983",
-      "publishedDateTime": "2021-06-08T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -20,6 +20,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"

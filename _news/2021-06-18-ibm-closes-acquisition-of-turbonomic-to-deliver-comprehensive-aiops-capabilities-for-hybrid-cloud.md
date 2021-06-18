@@ -1,34 +1,44 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
-publishedDateTime: 2021-06-17T19:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere"
+publishedDateTime: 2021-06-17T19:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
 type: article
-quality: 56
-heat: 76
-published: true
+quality: 26
+heat: 26
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
+  - title: "IBM Closes Acquisition of Turbonomic"
+    excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
+    publishedDateTime: 2021-06-18T14:50:00Z
+    webUrl: "https://www.finsmes.com/2021/06/ibm-closes-acquisition-of-turbonomic.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
+        isCached: true
   - title: "IBM finalises Turbonomic acquisition"
     excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
     publishedDateTime: 2021-06-18T01:52:00Z
@@ -58,6 +68,6 @@ related:
         height: 457
         isCached: true
 
-secured: "KYs5Zq6woxJ0h/SciTI69lAfFQrLDhyvV68vGMETqQlyZN0QX7LSVg6yOQfHhQYQ4VXxfemu5j11ZB82m1Giy+hjMX0TFzsHflRWbRR6wx1iDCkNe3wT8wGXMK2JP5U7sRV7unTUh6/PccaM8mNumLnGuk2YeucLWMBxvH95wtSJ4ADj4TZ3Fy735eUEX14/bN6RkhkEcS9AVv3wFdgC80Qy+ZnNkdW/xW69cxnlstcdONprG5UEswmsbbLEUYoNV9+42YFtUsTA2RGig5qdJhwe6Fput3g8qBXCyjKx0RUibqlaFTzgAlYcTv6AadUt9a6SJVIjDRsmic6DcWXFLYBgtbumG77KuEGvkfThbrBa9NaY5/uvWYX/eohWmZt5UnFu03U0otKvHfGHwSn9gUfEM5py/wzR/v62MCQOtbl8j5fHp+MhAIWVmtCkefNEMR1YMc06KwXzLoDDxkRiU6PolEDDUvJVlTvA541pWnQTOnte14ZHYhtijwz+gxNXsYaQPpyvxpPpfgiM9jgmkQ==;ufY2spzwn57ZLC06EQQN1g=="
+secured: "DOOjShzaqSJUIiGNpBlNlI+TouGF2leZWyFfVoJHc5X2VZavDoOYCk6B1kaZ9WUeHkpia0eTJZnmhFKoHMED+q/ES5309xjMUxFIKCowTWnyaM79+uAIJr+PxqqVdmdewKSI9quHD0cX9NrkhHqSo8KAh+aj06GQ92sQpwSeku425693MVbifiwrGSy3OYDNefH0+zz0yoKFFwFzVsdGkBLfWEIGF334OvUJKxB7ftz7ko9uuFYhGmxZ7rcutVwIBpS4NiRb1XKXVdhFHkz02GuFZuUqk6IkR7nVOLByZZ4Ez7aAXW1ys2YgEeH3cKZg0JYYpb7LoN5jemiv/1prik/mIQBK6ecizPk6wCQoO/s=;RUL78QCk+mUelGTNUlMT+Q=="
 ---
 

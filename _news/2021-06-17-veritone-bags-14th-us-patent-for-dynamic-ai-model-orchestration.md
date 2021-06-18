@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/veritone-bags-14th
 webUrl: "https://markets.businessinsider.com/news/stocks/veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration-1030533252"
 type: article
 quality: 67
-heat: 98
+heat: 97
 published: true
 
 provider:

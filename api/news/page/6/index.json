@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-14-challenges-and-new-frontiers-of-ai.md",
+      "title": "Challenges and New Frontiers of AI",
+      "excerpt": "With significant adoption underway in all facets of life and business, the challenges and concerns around training AI with unbiased data, data scarcit..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-83500687,imgsize-130172,width-800,height-434,overlay-etcio/challenges-and-new-frontiers-of-ai.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
+      "publishedDateTime": "2021-06-13T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-palantir-vs-c3ai-which-is-the-better-artificial-intelligence-stock.md",
       "title": "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?",
       "excerpt": "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i",
@@ -1177,58 +1221,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-billionaire-larry-pages-kitty-hawk-is-making-an-all-in-bet-on-robot-air-taxis-its-program-head-is-out-in-disagreement-over-it.md",
-      "title": "Billionaire Larry Page’s Kitty Hawk Is Making An All-In Bet On Robot Air Taxis. Its Program Head Is Out In Disagreement Over It.",
-      "excerpt": "Kitty Hawk has an ambitious plan to leapfrog rivals by convincing regulators to let it fly passengers in electric air taxis without pilots -- within the next 3 years. The head of its aircraft program,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "originalUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3a37d601a34eec048fbed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D630%26cropY1%3D47%26cropY2%3D402",
-          "width": 630,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeremybogaisky/2021/06/11/larry-page-kitty-hawk-air-taxi-sebastian-thrun/amp/",
-      "publishedDateTime": "2021-06-11T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

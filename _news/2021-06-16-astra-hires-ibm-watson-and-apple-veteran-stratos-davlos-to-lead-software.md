@@ -3,8 +3,8 @@ category: news
 title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
 excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
 publishedDateTime: 2021-06-16T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-astra-hires-ibm-watson-apple-veteran-stratos-davlos-/2021/06/16/9391742.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391742.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391742.htm"
 type: article
 quality: 18
 heat: -1
@@ -66,6 +66,6 @@ related:
         height: 675
         isCached: true
 
-secured: "C1bYvjSmvlWbQNgpVwJvSfqXBDpi24d8eOsJ5yVTygYXrqRG7GDdROkdDbDvGZ882DMbk+mf5qokv+T93BrU3u5CW/vlbLdjPM+u85xKqiciBGOW6RnD3NplOUhMjQ0q3yu9QeyE7p6rPfpE+T78QivSIj4IqPlkXE2H9X4qom9LqYUr6mxH1/03OkdALSvJnX0Efl0jYqlw3fpc7mqcanwxkixVSY33oNT2qBFPLNLfYWF/5kyRaVj9jOjYJw47m6pIy50qHRpOvpt5+wfVHYtaMYUCCGhVdR598bRUEljyeudjlmM8IQ/j2NdqPfNaZuun7hC7oEbX0mFfbOc0VcgNMPgknIZXOlZLpsltqRY=;PcfHU4nlWLozmd+k45jCEg=="
+secured: "m/UYL8sjpmd72TJF3btknZjKFORX6G6AC4uj4dX9gmYYYPs0rUJ36XH5+QGKeXlkDIuWoJKxn6sqvS39FYHgY+J+a5WTtRRVAscpGaWroUGSF9jeLeKMTaWYekwIYemtbZ/eWQKR30E5Bv+ywqWYxVxJdizIxF5ZaQdmitrcM5QlDBGD4Zb8YfWEYHk6nipU8/nhoK7zmWNeAbxtblZqG2VlegCQxk/Yh1flS+Y1xv0D3+nTl90pxDgO00K2eBipDoLL1ADjKIQjjRtmUoT0kuVhvTrbK4aAYunBsvVFeyT/n+oCe+yE+LSu8I4vlZQ3K9/yT/igYNQYcPSM5Mk+v6NkY8YtVu5ZFDYu1L3Y3vw=;gNk1A9qrl0KM+EJqrWxe6g=="
 ---
 

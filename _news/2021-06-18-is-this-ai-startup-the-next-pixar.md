@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 900
         isCached: true
 
-secured: "IbiSphaPPIzj/RsaqpRMj4pllcCnDbXi3e0qxaQHmauP0U8KurfkI8C5Dn3Jg/qORgNHblSplib5IQCXBSE1gep470ye7wrsTRzs70PL3P9MFR1C9QLdnEDJS4EVUog7DfewsBfCMdIGelGJTQ/gGtfe8/9fRiJwJpwOXunSX7Wd2VwrfjQMmiY1DMDb9vfyT27pN0uTNmdsOFhLCznhdIMp3f2uNcxNPQZVu6+sdYC/Zq7iXSuoygcIgWTjsTKJDGP2Pcjt70bMNpHzpjg1RqjgSs4hRPQO0t/mlaCj2J+16x14nxUDvQkUN/1DDNzi5e9kIZxlb8vlLqkJur+v6T64+a6xCbO+Y8/pCO5dI30=;k8bDk+u2r+N0OIc/ZgDYew=="
+secured: "/HAcABuWuQFJxwTVRknKm4H3jX6dGNahFjIJMmlYzjRstq7D0JhIPFX8RNmqLIcvNDQo+Bxj+puHjWDb9YeTmtyflsTGMM+OhOlXJ8WLWX1n2GvByV7FY5vEXj4pQvhbJQuVmUuFF37Y+0QJTPohSofvTJ1AW89tUltX73rvIeO+7LP5ZmYjZnHFvpfR1UTNj0/gDH+19UGo8WLsm6Q0zMsONwlzGvbYvoO5+uzOF6hGGLKmyKRExQ22ONvLrWDlw0wiUSKrzzigfYYqpe3uMrE5JO5H9d+jZED+zIPbUvh924bOKp6XMdxdK3aqpgjw5jSbZ5hc7cyfB+jGNoObq+BI+Q8WUhYSZNWyZf1ovNvhMcOQhU0c+MR9DY2MgUagOWomRwxNi6q3GNz7GcQ18my/IC3UwTIa0dgpW9xed0xsARhUQDaTculfYO1XpYkzg8P5Ab2rtg0pF8+MQ8CuId4T2wN279wIbohmun6FexF+wF+eMvoziQ5tMI+nXevwK/FSMfJsMQyVOF4mcuj2Bw==;6ZuS1nIbJiUIPrxcMbJHOA=="
 ---
 

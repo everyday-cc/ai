@@ -19,10 +19,10 @@ topics:
   - AI
 
 related:
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+  - title: "Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Cellular Artificial Intelligence (AI) Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548772-cellular-artificial-intelligence-ai-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
     type: article
     provider:
       name: ReportsnReports

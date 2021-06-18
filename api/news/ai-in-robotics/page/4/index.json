@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-22-robotics-hub-carnegie-mellon-lands-150-million-grant.md",
+      "title": "Robotics Hub Carnegie Mellon Lands $150 Million Grant",
+      "excerpt": "The university will use half of the grant to expand research and staff for its advanced manufacturing program and to build a new center focused on robotics innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "originalUrl": "https://www.wsj.com/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342134/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotics-hub-carnegie-mellon-lands-150-million-grant-11621632046",
+      "publishedDateTime": "2021-05-21T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-mental-health-app-wysa-raises-55m-for-emotionally-intelligent-ai.md",
       "title": "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI",
       "excerpt": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence.",
@@ -1346,50 +1398,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-mit-researchers-commercializing-rfid-and-computer-vision-robotics.md",
-      "title": "MIT Researchers Commercializing RFID and Computer Vision Robotics",
-      "excerpt": "Researchers at the MIT Media Lab are employing radio frequency identification technology along with computer vision to enable robots to explore their environment in order to locate and move a targeted item that may not be visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "originalUrl": "https://www.rfidjournal.com/mit-researchers-commercializing-rfid-and-computer-vision-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rfidjournal.com/wp-content/uploads/2021/04/MITMediaLab-1.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -126,6 +126,22 @@ related:
         width: 640
         height: 420
         isCached: true
+  - title: "How Congress, trial lawyers, unions hobble the U.S. in race with China to develop driverless cars"
+    excerpt: "America is in a battle with China over who will dominate the auto market of the future when automated vehicles transport people and goods without anyone behind the steering wheel or even without steering wheels at all."
+    publishedDateTime: 2021-06-18T13:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/18/how-congress-trial-lawyers-unions-hobble-us-race-c/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/18/how-congress-trial-lawyers-unions-hobble-us-race-c/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/18/how-congress-trial-lawyers-unions-hobble-us-race-c/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 46
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/20/waymo_driverless_ride_hailing_70069_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
     excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
     publishedDateTime: 2021-06-17T23:00:00Z

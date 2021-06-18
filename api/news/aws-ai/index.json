@@ -4,25 +4,43 @@
     {
       "path": "_news/2021-06-18-ferrari-amazons-aws-enter-agreement-on-data.md",
       "title": "Ferrari, Amazon's AWS enter agreement on data",
-      "excerpt": "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,",
+      "excerpt": "Ferrari (RACE.MI) and Amazon Web Services (AWS) have entered an agreement to make Amazon's (AMZN.O) cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
-      "originalUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "webUrl": "https://www.reuters.com/technology/ferrari-amazons-aws-enter-agreement-data-2021-06-18/",
+      "originalUrl": "https://www.reuters.com/technology/ferrari-amazons-aws-enter-agreement-data-2021-06-18/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UmxiZBTZFpx7u8AjYham1QdPra8=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N3D3DZL6NRLFXNH6CDXLTFJ6RI.jpg",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
-      "publishedDateTime": "2021-06-18T03:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

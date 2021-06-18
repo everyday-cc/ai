@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T20:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their"
+publishedDateTime: 2021-06-14T22:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots/article_c3a08a23-98c8-5df9-a8e1-5fd034cf7441.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots/article_c3a08a23-98c8-5df9-a8e1-5fd034cf7441.html"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -217,6 +217,15 @@ related:
       domain: webindia123.com
     quality: 19
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
+    publishedDateTime: 2021-06-17T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/logility-partners-with-microsoft-azure-to-power-high-performing-cloud-environment-and-enhance-the-customer-experience/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 11
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
     publishedDateTime: 2021-06-17T17:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
@@ -226,6 +235,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "/IWi6t37Pn/mWreEpXRm9XFv/cily8Oc8P6qSSLUme/YVUXfb9bfTtwS9qWMPn5JUmnXdDrDe3ENwVKpYl1geaXExmel05Vh9SnYLBNOtpaV5O5eKCxfbOWkt5NNwFFoF0r9PJt3J+S7Ft+84kQNr30E21lZgorKN+ZfA7Ckzj5wyaWakJn0zu8qozkA9LqM0tjVTq1AaZ0dac+XgXA5VsnqMXE0fjjmGDwRjy0w5/DE3PiYEI3W4PvSQVTnjyTJB537wXGbEJtxm0ptTEdrKWkGBWABZoj4YpgnEz0EQ3gZMNlBfszTJLyFHWJhZ5DV8jTVS3KIiphIJseM9z2OrQ8hATBEaUQDJ+lBzEOvTGU=;Uk5t5HBiuUSG/jFnKWj7lA=="
+secured: "OBhShuD5+yntQfZkQrQ/V2pDG7Ta5YbuqRKEeNLA7Sd6amn1NSQyvePh4/9qbGDAPfbPPljMt1UrL+7QeKXchnw7FVGbISHpGpUCd0zRObG9b1J1QqQ1es0QxngbU5dHQoq5ebiaTeKYvAwouur5b/PHzSOJAN51pqM6/dQtLyFMCpxqx1l6dO3NZzxwIaIIMBhC9OcNk7zgwPUizOQah3BBKWLRUOTMW4nhw6/vk91G4E0xJF8kBkZ3eZdCzOEnktOlqwjBUE5z6hHEmdIv5Byq2Uwx8YFgV33/rfKS8K1/UZjsbDzh+1MOzYZDP0gNmbjhJfd4KM18XrkIA5m3xiWJ37m3VtPio6kiFqIM1w4=;Td/pY6f0EfC5WLsSlJUmTg=="
 ---
 

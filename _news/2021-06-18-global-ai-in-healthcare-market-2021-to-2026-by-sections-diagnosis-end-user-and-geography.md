@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of"
+excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
 publishedDateTime: 2021-06-17T19:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
@@ -20,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -91,6 +91,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "KObNl3qoH0HcsmYrE9mcPu+mgCtoTA25otibSArKL5bNya88Cc1UK+qVCNKvHVIc7uTGmfL2awNu/ZbXJ4bQ1pk3jVEE4u5qxg7h2d7GG/Nu7uP1u2nodbIOOzkVF366DxVM9Zw7mnbDYrdB4AqVqNBnuxnEsvh+oDlHvCpROt56TNvtGBF9g/bEKbB1OpGJgQLfQzFFTyoAz7Q+9IhwbuZGNYw6k5aBIakumURvspPdwxEEZt9UYeN0hnxOJTrGL7JBF2PL5X/dAeR58B7L9GTTDPu8BoTb697Gy3/WVwIIMYWVxM13jwfnF3sfSYJTWlEi9vB+nJ5z2TSeCbTjiQPsWESt/q1JpJFYw+hn4qs=;sQgGeMBgt+VVztsVZwgVWA=="
+secured: "/XA7AzjyAGi6CNSRAVVDWcIM4Y0DgnxQRUYuzWq/wmYnIIE5Fw0VhXUA5Lv3P1rAisUe4+KicZA/9q1vYSHW5Z8C/G5hkqsbGbiovpa5SFnQCWNTkLrQTQByt9lrxfuLizTv5XN6FcHJ/uYrxTtKjIESuAA/T/tgZrMQfTpEyH1LK1qShKRn2xIlS8K3ckUYOQQpkcy/LkiRAwrEjbu4U1DaGrp/FD8AHbL2AtnmV2kNx42Ot3H+g6f/shcqhDSxJs780cu4GZoWxQiWnpuiiK48v2QA/DajUiMC9ccrHeETCT0GlmsM65SHlsSctfPRkMYzH5ituTZ+CSvPWbvoSl8duzKWj8d+fZW2u3TOwOc=;ivudQJHX50GTexRyDyRJZA=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief"
+    excerpt: "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how."
+    publishedDateTime: 2021-06-18T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "The Secret Is Out That Confidential Computing Is A Hot Trend And Seriously Crucial To AI And For Self-Driving Cars Too"
     excerpt: "Here's a breezy explanation about the nature of confidential computing, along with a look at how AI systems are impacted and likewise AI-based self-driving cars."
     publishedDateTime: 2021-06-16T15:30:00Z

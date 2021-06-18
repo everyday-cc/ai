@@ -137,18 +137,18 @@ related:
         height: 630
         isCached: true
   - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T20:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their"
+    publishedDateTime: 2021-06-14T22:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots/article_c3a08a23-98c8-5df9-a8e1-5fd034cf7441.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 42
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
@@ -216,6 +216,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
+    publishedDateTime: 2021-06-17T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/logility-partners-with-microsoft-azure-to-power-high-performing-cloud-environment-and-enhance-the-customer-experience/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 11
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
     publishedDateTime: 2021-06-17T17:00:00Z

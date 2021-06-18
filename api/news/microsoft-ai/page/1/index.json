@@ -10,7 +10,7 @@
       "originalUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -704,8 +704,8 @@
       "title": "Bitvore Announces Integration With Microsoft Azure Synapse Analytics",
       "excerpt": "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9385938.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -774,40 +774,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
-      "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1355,6 +1321,40 @@
       "provider": {
         "name": "legalitprofessionals.com",
         "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-nfl-pledges-to-halt-race-norming-review-black-claims.md",
+      "title": "NFL pledges to halt ‘race-norming,’ review Black claims",
+      "excerpt": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive ... from wire services such as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
+      "originalUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Ferrari, Amazon's AWS enter agreement on data"
-excerpt: "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
-publishedDateTime: 2021-06-18T10:19:00Z
-originalUrl: "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18"
-webUrl: "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18"
-ampWebUrl: "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp"
+excerpt: "Ferrari (RACE.MI) and Amazon Web Services (AWS) have entered an agreement to make Amazon's (AMZN.O) cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
+publishedDateTime: 2021-06-18T14:19:00Z
+originalUrl: "https://www.reuters.com/technology/ferrari-amazons-aws-enter-agreement-data-2021-06-18/"
+webUrl: "https://www.reuters.com/technology/ferrari-amazons-aws-enter-agreement-data-2021-06-18/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/UmxiZBTZFpx7u8AjYham1QdPra8=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N3D3DZL6NRLFXNH6CDXLTFJ6RI.jpg"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Ferrari and AWS enter agreement on data"
@@ -53,19 +61,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-    publishedDateTime: 2021-06-18T06:31:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+  - title: "Ferrari and Amazon's AWS enter agreement on data"
+    excerpt: "MILAN: Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
+    publishedDateTime: 2021-06-18T15:15:00Z
+    webUrl: "https://www.carsifu.my/news/ferrari-and-amazons-aws-enter-agreement-on-data"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
+      name: CarSifu
+      domain: carsifu.my
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/06/E4K5zHUWEAMgGbl.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "AWS agrees technical and commercial deal with Ferrari"
     excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
@@ -85,7 +93,16 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
+  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
+    excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+    publishedDateTime: 2021-06-18T06:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
-secured: "tUmc42CCDvSsPt5S0o1xtnF+inIcfKknn/4Ve/bYqCpCzW9a1IZvS588MdPvCwkucESYcOFUnYIVLCqniQSP8uHCFGMWfn0esnHvWnPn+AtfLu6eWTK1svxX12hmkJtf0yov9Qlp+oeaNb1o9XVwDJ+NKOjvs3fLzo6r/SubFfrvtQdz8PGubBmJnNt0SZpB1+YVzRMBKdhVjVcEA0bxlE7cUNogEkcPk6rJp5IY6uydoYL8DKU5ujz4MBzmp3NvOyVwgn2VEGd+p7+6WnuN46zNEmzMSdV2zrL66qkS7V3fOwLquwVJrGdlEURYWBD6obDnpl7Ppy95q/5pOr7xVIxC2lCJfdsP2Asy47t50vSATS+YlGmuEIViPByknH/WN+0ldz8Pi+iAxyCRw4afRjfVHizbqxe7JoJhHCA46+AvBBmvrYLuP+CvOgYyOR5duimLNixNEAQdmY9gIeD2yLOgCc4OGz8bmtXD98HCAVeRPvhtznjqBwpbewUWQ5pGokydUGmi/zmb5tB0kFuP2g==;BBhHhr9agv37DTC3XB4nuw=="
+secured: "FxyKy7HMveSbMFwpGRmU45BRUMmp6Zs9HBX/ejqt/C3AIETdeYpIUb4Gum8IgZjB5FW1qR/HWBwiWmXW4T3r+nCT9RVaJLwO2aXgQLWy1zQqaK8gNFmUNKS/LutfwdM9UfH1hdnEVL6zJWqJnIrwf2hcClOj+EOsmXX/EEaM+2LOQ1JIo5TC2Um9H3+9iXGRUR8fVZLn7Sxr+kkjF4SjhA7/KFkWGxCA3ZnYelQfAHoMHL5VovmYHeirNa6jxC7ODz/pr7UqhE7wzfzJjcJfqnmWpA8IBFryG6Wzd6x6PA2wKtbw8Nt/Py2Bz/oDXkR1axYh6cW4Knjfx2qW3KjTp6CcnFq4w48mHXK38HvQ8RA=;8Q3sR1iRA4IFlrCuDkVk4A=="
 ---
 

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
 publishedDateTime: 2021-06-18T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
-webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
 type: article
-quality: 22
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1413
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
     isCached: true
 
 related:
@@ -130,6 +128,20 @@ related:
         width: 1199
         height: 499
         isCached: true
+  - title: "Balancing ethics and innovation during tech transformation"
+    excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
+    publishedDateTime: 2021-06-18T14:17:00Z
+    webUrl: "https://www.raconteur.net/digital/balancing-ethics-and-innovation-tech-transformation/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/06/Data-protection-data-ethics.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Making operations safer with digitized data acquisition and AI"
     excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
     publishedDateTime: 2021-06-18T12:20:00Z
@@ -159,6 +171,6 @@ related:
         height: 540
         isCached: true
 
-secured: "WlkeGM3vJcuidYAQUvBFAKi57XEX124dXsdzqLQAjf2pIyIl7SCsb+CT9U8r540jls64R22OZFz/u2QVJa0gzQDuq+pX0nU812vFb3WgsioMNgU5jwBPl6L6140poAphI+zzeQUfEbw1KRWfDvb3sch/V5cU1Hlsc9DQ1ztK/tD8V/yD6gFoakDVJAnpzgYjgl2tifgAfYh0VAAYuCKhWGY4kXFC8U2l5yApwPg2n3LCqXGdvmQ4wXyd7qC+6cZrz83czqExFspzJSJQjRuw4QFReRCoGzB9KZ9LgQhJKYcb4qDQuMR/uBOD5byxTMKDQzJqBsSiyDi5GUWZhI6XLV7YD9ueqhw7tNtk7YryWwA=;6i/T/hN7iNZsRrk1KqX5zw=="
+secured: "uQtQ6wlVUUBqFaDx3uMotr5LrO2UNVOVwjScJ9hkSgt467TdilEYLmLtKgy068bzobghgvCJmUFgEQDkFhSDnrvUXRBi2JNpFprbxS2xVmWSGy2/MSvr0Y8Cw75cEfBV5GOkVu24ofxSc/Gbmt1bGE07BpgdWrtp/McHr3sqghsyxrXPTOavigrzIbuHC7Im460KYlsXAjMmk7KKco8WKEiX3sD7UGz1x1LfJJRW2t5N1RO09Myy+4/DBUZnDDllQgxK/xEUKNyq0XXw5oblTa5pkuOh4oaDwNPDktopeuee6dSEc4usdasciotnVf2h/iF4HsE+QeGR+UFXOfgt5c/NJFdzBnc5IUMJhpKf+1c=;CT+xWm53kqVm5NV8bVLXYg=="
 ---
 
