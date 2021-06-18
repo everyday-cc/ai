@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-watson-orchestra
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bd9d22d9f27323e0ccfeba%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Airport Customs Division trains staff on use of artificial intelligence to improve operations"
-    excerpt: "The Customs Division of the Airport has began training in line with efforts to equip its staff with skills to examine goods that go through the airport"
-    publishedDateTime: 2021-06-13T15:15:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Airport-Customs-Division-trains-staff-on-use-of-artificial-intelligence-to-improve-operations-1285303"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 41
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/src/Jan_2019_Kotoka_Airport_Terminal_3.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "How automation and AI can be used to improve business resilience today"
     excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."

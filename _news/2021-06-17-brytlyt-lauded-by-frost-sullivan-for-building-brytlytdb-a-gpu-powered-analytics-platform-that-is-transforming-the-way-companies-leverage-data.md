@@ -28,6 +28,17 @@ images:
     height: 366
     isCached: true
 
+related:
+  - title: "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB, a GPU-powered Analytics Platform that Is Transforming the Way Companies Leverage Data"
+    excerpt: "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB."
+    publishedDateTime: 2021-06-18T09:47:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192286&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "J06Wj6fxCrHEKMC+DstX/ziTHNLP1qjJV+me8ehCUOMQYn58ZVs3hdB++m8hM84ldkK4VViO34cu/mU+m6Z2lNFk6F1QEBA9hASZf94bMG4UV7Cj2ZmoxJEBC6f0bH8C//EJO+Qb0EnFslBG8k3X0tz7uvLXhD7KFPKEiVxC/MfzTux0S4nkqwcxzu6tCvXUj1JB5rAA1nUNTjBRRv7CM0H4kW5JebeYWRC7IQjzdxjZHu/nFEyJRjVSHKPJxqOlNHajxh7H09QcJQ9tWZ5H8ZNTypmb2t1cx+p4nsVkvQ1/IHSF6KEibdcxpLEy0KneoIrM2NMTZ5Xdsaily3BEi9G1u0QOia1v17ULmW7pqV0=;2e7YxU+H/B5n+ca3sdMuXA=="
 ---
 

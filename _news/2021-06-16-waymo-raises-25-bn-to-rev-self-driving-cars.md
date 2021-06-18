@@ -245,6 +245,22 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
+    excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
+    publishedDateTime: 2021-06-17T01:16:00Z
+    webUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921"
+    ampWebUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/graze-sc-1.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-17T07:48:00Z
@@ -286,6 +302,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "turNqgInswK36bfaoH4EG57tYCwdQGIkQxtw24+njNb4PdkpRE3C+CaTnVW1mxAjQBx8hEzqi1cxZ7LYSlPx9cGnONAr78isx/aLnmNCZJsv6dp6dn7d2jT5hR3EMVjZjb9daO/95O9sqTHEdxg2HNNUyODgF/q17AuMORrxDyVFP+d4N+B0rLfeCkw6ukEMGthTlKNjInWixYVY0O3bNiwi6xySR1wRtOKDyMNOM8mHxauLtxSwrUeOn1Uk4e91SyN3ZqaAQqgL05PyFiMijh1Bh9ZMO1xxij1EFhVJ5ByNjTrumQWOqTZePGhVZTPbaTr4SkvjuPv3QCckzcZCCa4KVwqSzygmGU2mJP4jGzwYoXemjk4CX9wG5kOs9V1QhAJWyJkF0/XMjnTFwcn8Pb5q4Et5eXm94JqBu3a30SgIyxtZuztXwFiDswD/UaDcZDtFV3ZFChpf9ydsRxaQ59kRyn4vRrQk9SuKXMfblTNvs9VRQ1VHQ+XlKCY8n1FTTbog9Jv7s1tH8SdG7qwyrQ==;bL69BYj5aKJUJ3hYTzo5UA=="
+secured: "YseMQkZT4qa8Lmx6ZCKz7sRGcDRB4C78QuUp4lhzz5TovDzST8GbcdnPML73xX4Y1tix8Fv1FwsFABcjBelITax+fMeeZUN6Tr5Ie7HZ1XVO3JvfH44vkQAcSHfg+r3aNvhSu+1Uivvjhz8LXjOWt2JLbOWA3P21spesTkadmhH10JjGk0WzySZptD9XLsJVdDAMz2+RVLtSaZ8rbTAp+vTd7LLt/ZtNJAZ7UgTb5Q9hQ+C8yw91y5yn7tX0s7umwYGNUrXDP/CJR3fnAZ/q6CRTgl2GuegV4+muAlcIbHsAVsKmNsNS7qDuS3JklBodheLXLzOaUu6/q7LffGe+gi6NBz8o5/xjXKrGKe8o6kE=;wMhn7cw7xWRbkXe5vsgX4A=="
 ---
 

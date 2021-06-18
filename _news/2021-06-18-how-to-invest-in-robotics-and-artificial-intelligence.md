@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Thriving in an AI world"
-    excerpt: "WHEN Covid-19 upended the world, businesses doubled down on digital transformation and raced ahead using artificial intelligence (AI) to meet new challenges. Now, according to our research, many organizations appear to be experiencing Covid-induced AI whiplash."
-    publishedDateTime: 2021-06-13T16:49:00Z
-    webUrl: "https://businessmirror.com.ph/2021/06/14/thriving-in-an-ai-world/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 17
 
 secured: "EUPQoTUJSuwBmikVF2J+y7oigq8SocYEQ6xl+WhNqNpEuOt2ujSrHWj1OksHPxqKvTk3mLqw2D6WVb7UiD6Ud0XZQz1NsnixGnQZMzoitAcmk/KWMF+jD24c3iz13tT+OK56guFqMotS/uDfHfQza/1VSpCQbFiPH1OvY+bxS2zCU0TYUWkXAemwOU28GFJPjHNNmEbOdH+5N4mzZiTWS/YNOaGKcSgZ7c9NMI21uKiUFU9G3t5dZO4jrHqSLXe5+0mqnDPwzdZwWbl2Y/XBpdre/yTiUoabbCewU8zSzlffastV1ro8MOKh08B09lD5Yhhp/Bl3vw2iV3BCiLGa/dAgb4YHe4QBqL0aKWHehiTLUsCbxKBQvaBHjDtmudRz1CitbeO4Tdk1Go096JKpZQQvVPEWyX5ICw4CGleu8C+/TPj7sfCauHLuGZirbsmt3Pn6mub3+JcSanC3D2O07pEIVp+mlYfkrEemhejcPSNK/Y5ABi+EPSvh7BpxZqMo0OxgUyKI5fmJ8KIuRNC0uw==;LG0UFi5TtgD19wUQOpyL4A=="
 ---

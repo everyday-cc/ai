@@ -39,6 +39,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Crop Absorption of Potentially Toxic Nanoparticles Predicted by Machine Learning"
+    excerpt: "Researchers have developed an algorithm that could indicate how much plants accumulate nanoparticles in their roots and shoots."
+    publishedDateTime: 2021-06-18T08:03:00Z
+    webUrl: "https://www.technologynetworks.com/applied-sciences/news/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915"
+    ampWebUrl: "https://www.technologynetworks.com/applied-sciences/news/amp/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915.jpg?v=11288643"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machine learning can now reduce worry about nanoparticles in food"
     excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
     publishedDateTime: 2021-06-16T04:00:00Z

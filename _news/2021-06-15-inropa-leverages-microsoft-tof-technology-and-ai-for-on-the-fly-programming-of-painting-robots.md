@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T20:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T22:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/5493c92c7e44e88ec6b087154f8ffe367af63fe4-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Theum Now Available in the Microsoft Azure Cloud"
@@ -193,7 +187,16 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-18T09:45:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
-secured: "R9S2k/3o8jzjX4BUyThSTtZWciNQYuB6RqXxo1UbPgCM664pXWv68n2KK9QZbQGApK1DoX8/l0zWNSYbNuY+ECDNuTjAlsNSjvTE4U4l0arG0ZsOK/Q4CL/V+Lfpi84QU91lAq0jhlsVLwn609VvEmRSddKdL5yhQlxFeYiX0ofxHftOn5+P11TDm3mlZ2KErCebk7PxJfWUEQtT6yTMV+fwCE6cKjR9SiFCBhuTcGD9HSHE0di25ed39MyuvnalJRS7v+nAqwGOpSZ1JiKt0SyipjndP/uOcYhiSCadNu7orRONI8qLIGZQtgPxjBMAh4qVM/u4I4dUHA7zgPS/aB6KJUHBVtCOQOSi2liOekk=;cIej6ioNlQYEVexAE9zk9A=="
+secured: "wbSofBmd1euFr40gs3eJdO7dCau/tSl2tme09tALk219ddVOKmQJkOAhK9i1+YXu28kULppFRytqVSxYbxBEdsZVh+hnvS4SQ2NLCS7iunwEeuaIdpQmOSXiKy/JG2lHc4AAiNTgvc2iOIgYPyg1Iu/dWpHo73gX3JsX01x13oREJI5V+0eEGEZACavh2nyyo8Hljve/4TQCwl0BNkw7cRMN7OsNyFPiU2AfE/6FP6DRzTkUimkFxXw2XmaJlGX6VKZgS21UGhoUOWg0Kmd81eT172aNdnEuGRBQrtNME8y2BiAVsQcfTN/cgb+4ULZ4zRZ/selOT78fLrpf6PimpteeLxA9xjvXmJ2eK0x+tmQ=;5kEA4pV+C4ZxzHaBY2wqPQ=="
 ---
 

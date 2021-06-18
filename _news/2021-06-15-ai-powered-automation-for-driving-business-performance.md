@@ -40,6 +40,15 @@ related:
         width: 354
         height: 235
         isCached: true
+  - title: "Akamai Unveils Machine Learning That Intelligently Automates Application and API Protections and Reduces Burden on Security Professionals"
+    excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications,"
+    publishedDateTime: 2021-06-16T10:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "wvY/sVxH27h8kiiLUI757YRSL7jaalOqTF36savGxyqrWpWpUeaFCz4ttAPOB2pFOMTwGC12SS32iKqI8dV9JsSxjHdT9D86ktIuHO7UcVWeyG0ktRyZBN8uVeWNWyGJ48IX00oB/A4IaIGgya+FGkrCpszdJ61d2kL5//8Kd4NlnS5hXScAZxSVSFY4kacGvqJ+pGWthN9tIp3M4OAPxBqxOfOduhIXlrcA81VDBeCXoAzz5RRkT9U+XXAIvmIbEvz9Yl7lzoohYwdw92rm9wD/5WHjTPc98UuSYriJCxvoo9uqjNoCHgdp0i4IwN69X+62FFb2tSThPTW3hzPzbsi644bYb7lBWNBPZJnSzv8Mcwz/TWnXcW0Gq/BDUANzWc9DFVwiLZaZqW2WaWfsCioJczawpq102PuEWvAWKDZQBzJQTm/ILLOkyntHpfI1vGUUz+eIdln8B+GlOKtRe4dl3dkzUm5UjAcGA7fb5bcFYHNdT0dGXUgImMQlhCSKK+kri63aykZFH40+obVWyA==;ALb8/03RKXT1QLGO5qKy+w=="
 ---

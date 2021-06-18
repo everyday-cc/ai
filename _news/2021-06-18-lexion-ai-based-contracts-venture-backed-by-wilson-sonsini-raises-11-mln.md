@@ -2,9 +2,9 @@
 category: news
 title: "Lexion, AI-based contracts venture backed by Wilson Sonsini, raises $11 mln"
 excerpt: "Lexion, an artificial intelligence-powered contract management startup aimed at in-house legal teams at mid-market companies, said Thursday that it secured $11 million in a Series A funding round."
-publishedDateTime: 2021-06-17T21:41:00Z
-originalUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
-webUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
+publishedDateTime: 2021-06-17T20:28:00Z
+originalUrl: "https://www.reuters.com/legal/legalindustry/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-mln-2021-06-17/"
+webUrl: "https://www.reuters.com/legal/legalindustry/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-mln-2021-06-17/"
 type: article
 quality: 65
 heat: -1
@@ -112,6 +112,6 @@ related:
       domain: prnewswire.com
     quality: 4
 
-secured: "Uah1SimlWxM9mv7+MF59fsdOC7fecW06VbzpyH/scZm6Q6ymbyCcgICgvnp9Rhf3uyqefRXsvCydsZtgOq8nl2rg5HKRJF0cd2NKqv0IaZJCMrJNI87/79vXiVOyDqDmphZUziRtfNmckVPuvMGdJ+zuPFX5dhBrqWSa4D2D22kKa5kQhtCwbYFuPc0Yt+kCL7VB8A2jivssgEfq0pfYqXnFxxUi6bUs6Obtp4HUNeWyj3EmdIuWPSHEeMI2lNwnNzDd356tldv/fIPfwPzH+9EVvkjEqonwIrzETFep/TPYEr8I0FyxkdAQQVPwkDGUsr4AcAFtiyElRF2ntNnNSyH9fKqPy+Rwj0e86K9/wkH5DZtflk/q/z/lYGNcVXBlHOub7fW1jpSPHy1dfPZhZH4fxYZSAH0QKzbL5CB5xxi1iYishJ1MIUY5OVaMsaF0QZj47bPOD0DI/QhZj2Q8/wk7tYbqlCAB7URDBgaXRF7UUlFzOC3lebJ7UXRhP9XRiM4g+YokrjU41R1KYeSq1Q==;QBjMOQcDzWdKtqJxp6exAw=="
+secured: "QPnQz5Dqdhmzigh8LZyjd/dQfrPHcNnlBaQkIxotLcedqu1uRnPUxqj8ZTtfOYLdYPr4gnlpVox9XxIHj7uvjpFMGuK8rEGFpexeGiqaluK1cVdkoqIlFH1iRhz52F+HpLqkjTqxDzPzkvY7G8DiptecTfPdP8H+JrorlLEjRXecqoQxGIKQ6MG4aX6LUs5C755DLJa8P6U5DpnOiMKr5sbcnyeUFPoFVV0P0VsY3N5SZa1EqsRfnsGJkCVPDE8qMLCxuYJxxybpvC1MPL2r5BlS8LTirsdRZRxla7GLVYGbAU727X6NN60Q7+hvbcfUKC9jX3CcL9eEjKBYVK9FSm+4SzFWnaJ4McOfMrC9ln0=;RStbnHX9I75Lo4Mcp54tiA=="
 ---
 

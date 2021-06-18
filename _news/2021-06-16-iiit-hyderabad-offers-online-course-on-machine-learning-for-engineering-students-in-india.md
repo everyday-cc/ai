@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iiit-hyderabad-offers-online-course-machine-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/amp/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"
-    excerpt: "NIT Karnataka has invited applications for a free online summer school on Machine and Deep Learning for Remote Sensing Applications"
-    publishedDateTime: 2021-06-14T19:04:00Z
-    webUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/"
-    ampWebUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
+  - title: "IITs Offer 7-week Online Course on Deep Learning for Students and Professionals"
+    excerpt: "IITs that are NSM Nodal Centres for Training in HPC and AI, along with CDAC are offering a 7-week online course on deep learning for students"
+    publishedDateTime: 2021-06-18T08:23:00Z
+    webUrl: "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/"
+    ampWebUrl: "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/"
     type: article
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 41
+    quality: 55
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/head-4519964_640.jpg"
+        width: 846
+        height: 358
+        isCached: true
+  - title: "NIT Warangal Offers Online Course on Python for Machine Learning to Students at Rs 500"
+    excerpt: "NIT Warangal has invited applications from students and professionals for a short-term online course on Python for Machine Learning"
+    publishedDateTime: 2021-06-14T02:53:00Z
+    webUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/"
+    ampWebUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 51
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
+        width: 850
         height: 400
         isCached: true
 

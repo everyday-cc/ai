@@ -2,27 +2,21 @@
 category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
 excerpt: "Applitools serves the world's largest commercial banks, credit card providers, insurance companies, stock brokerages, financial technology (FinTech) companies and more. The sharp rise in Applitools Visual AI usage among the global financial services (FinServ) industry is obvious."
-publishedDateTime: 2021-06-17T22:27:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-870102118.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-870102118.html"
+publishedDateTime: 2021-06-18T09:46:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192283&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192283&cat=PR News Wire"
 type: article
-quality: 29
-heat: 29
+quality: 9
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/621068/Applitools_Logo.jpg?p=facebook"
-    width: 1498
-    height: 785
-    isCached: true
 
 related:
   - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
@@ -35,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "+Z5jsyxMaBI9w/TQCQEAd8yTydAUSod5D+zCAWgKRNGP/MLO9GhE42nKXOYVSH0xc5FEKNdxmByrB8xg1VkCxhiVz/X/sFPDLbOozXSaC5GFXgIOOny0cEI21poZAe+tDzMrU+YGlWfshgoSDwP3bmMRLRDLJQpvkYjiYyhsRimnMbYEV+dcKSCDOhcXYM31ZjrmeOcWxgnplNuwbaUEnX3l6ERwLUsSHJv4y7pziJwjMlxj/4xOAkkW+joPx1H9+5i3kL8ZB0Jb9W9ASAvY0b45L37L0YRV3fhOPdAkFnfrr1mQO2uTPmj/+OOFWegNagCr/ZMewe+ZurnwVtBTRL9m2tXubLWL6jyWMoD+egY=;+M9h7TpROEQLVssD6q1iIA=="
+secured: "XjzeUQ8SNWRIfpeIGnIYkpfwJK+fCc8ulita5Atcb63HAulOhD4jc11k2xu+0NpnsFo8CUp+Y5DXZlyp1cf6J789qzQmKIAUwInDlkPUVpumrjrayNIWdXvab9J4RTW9Sm7EELYKhPI6cAIyEBwJKLeEGqbZ96jzKkkYEY0+6sV85QJUMKXIdHXdZeLlU/S9lygY+DQ3PbYO+g87BuVJ+agx5QaBtTPezeCR2Vo8nAFEoqto1NdGOOmDqPGboHoGyyM5XCmgy1WOOC/JXCRnHazIPMSpB5uHilCmlY1ekNbpMmVnlgGl7ecM1oKDtaruaIWt9V+TSJRbamOpkOTW7kvUriWJkMP8wmfquwoqaao=;LCdwdcmiDDLRikMaebQuaQ=="
 ---
 

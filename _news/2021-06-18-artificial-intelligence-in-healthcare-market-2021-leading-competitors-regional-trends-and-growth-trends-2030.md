@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
 type: article
 quality: 65
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of"
     publishedDateTime: 2021-06-17T19:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Europe Artificial Intelligence Market 2021-26, Size, Analysis, Trends, Growth, Forecast and Research Report"
     excerpt: "Size, Analysis, Forecast and Research Report” According to the latest report by IMARC Group, titled “Europe Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,"
@@ -83,6 +83,15 @@ related:
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
+    quality: 0
+  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-17T11:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "mDud2MU9UfKF8rc9GSt3etvJDqDahNB8daq5/QxZxsXL3wMOl1InirNSDAvMUOIqfMb91CuVBjZwAfBb6FfmFtCYtmZVxwPVLuIZRIRmdbP2vhzoQ0Nr4rlOjA+wIwYsq8gOtaNg4ml0OYp50y8SWskXlDBdHLv8hUV3clj4c/RiQEgwhnOzsvmaJ6+9MysseKmjBxmldeNy5nOXfHd1COJiPfnrIVVsVBybMJLBUrk248WsuJkuSOKwY4IM3IRup3Cl9ZtNvUiUlcoH+gHAgpbnAEJpGQFHq4G9GsvX3o823/cBHAAM0yiPtq33yo5YwYK6yegVccFYfYbcKepFORbO/kzgUUR5TBw69wJOOHE=;v9lH+l7PKM8z6kBLp0T2NA=="

@@ -132,20 +132,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T20:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 42
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/5493c92c7e44e88ec6b087154f8ffe367af63fe4-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
     excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
     publishedDateTime: 2021-06-14T06:30:00Z
@@ -192,6 +178,24 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
+    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-14T22:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-18T09:45:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "XVPoPYy/9dR9OQwt3wYWLk3y7EG1mv83ODa4a7uOxI/r6br7Z+TOs148f2lKWJh57z8LyAwnbFXpeWdK4RMdNfyQfeVvkPjci8X1ZRkGrjGCJl53uXZ+Eb0C97VUiKAY7ESfJKB7TuIbTkfjYZDACd30rhNm1i50tKRJievLJdqCqvowGWNJed8db4g01GmqBaL+O7sgOMRmInorkwEtEqVJeCztm1aX3DMiyOjSTlRWRxsiEg9O3D2UpmnBryUtUQ13Bxu9/+OakfAIzLuEISf84iBWr/TUl2R1tOHZYKUO2aEHmgZjF1KHMFeiM0T3y3l68clt4hp50t9dLtlRf3kKMqw9LSTuhMNHIy5yNHU=;iuXAMBT6ix1p48KW/hpbKg=="
 ---

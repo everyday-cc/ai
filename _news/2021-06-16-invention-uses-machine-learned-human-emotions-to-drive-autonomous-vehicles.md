@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://mma.prnewswire.com/media/391655/ManpowerGroup_Logo.jpg"
         width: 400

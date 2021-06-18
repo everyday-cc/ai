@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Airport Customs Division trains staff on use of artificial intelligence to improve operations"
-    excerpt: "The Customs Division of the Airport has began training in line with efforts to equip its staff with skills to examine goods that go through the airport"
-    publishedDateTime: 2021-06-13T15:15:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Airport-Customs-Division-trains-staff-on-use-of-artificial-intelligence-to-improve-operations-1285303"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 41
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/src/Jan_2019_Kotoka_Airport_Terminal_3.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
     excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
     publishedDateTime: 2021-06-16T13:10:00Z

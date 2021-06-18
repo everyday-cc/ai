@@ -49,12 +49,12 @@ related:
         isCached: true
   - title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
     excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
-    publishedDateTime: 2021-06-14T11:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210614to09497/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader"
+    publishedDateTime: 2021-06-14T11:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-techx-appoints-dr-john-henderson-as-coo-chris-/2021/06/14/9389406.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "AVcFl2915C9F3xWUNBrXuFhm1FvUGjR6FJ5y04HCHkkYej+D/e13PwYiMbVlKhGMmz5gIMfIhe19Cxqbp7Ugtv+I2Nx6tcNqT6EG1eRzvIu3J/F1FQa3H0NrpnNGn05mi5tnfBpEpw7hCwelx+pGpYys3kvOgLtqQZOFj4K/4kPBKzh+6S5l1ALi0wBwTPOMGow3QMdvuXoEkeyS3V2E2QBRduVF/pdpwzyhzeh+8sTjTdVWDnX6n5TFkROBNULhZ+lqr9TlNbriWTLciELvHis9vMfr0WlFnUExqj1dLQNBCovxBemieMya+iAHH0LcqXYmty02kJPusqzod+WIoRRoqd1c+HJeEghya/5EHKeo1hThiBJ88tLAqMo9GprUEsekb3WlGTl3XF+OecwLL0i0JPC6zm5MZLXCm7rEotn2+6Uoyk/9yxe3NKk7QLhA9ItGdNQ8QQtklYbEdwLimKJh1YJ3o1gf59yENK3wkwZxgzvJumn34EFGIGLP4aMTM7hbjDSaYI3StGjAKiedqQ==;ONAVrPJmsiJugYUOuFZ6iw=="

@@ -1,31 +1,47 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
-publishedDateTime: 2021-06-17T18:20:00Z
-originalUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
-webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
+publishedDateTime: 2021-06-17T17:55:00Z
+originalUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Automation World
-  domain: automationworld.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
   - Machine Learning
 
 images:
-  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
+    width: 600
+    height: 338
     isCached: true
 
 related:
+  - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"
+    excerpt: "NIT Karnataka has invited applications for a free online summer school on Machine and Deep Learning for Remote Sensing Applications"
+    publishedDateTime: 2021-06-14T19:04:00Z
+    webUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/"
+    ampWebUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 41
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
     excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
     publishedDateTime: 2021-06-17T15:48:00Z
@@ -41,6 +57,6 @@ related:
         height: 313
         isCached: true
 
-secured: "U1501L/VmgUe51vDv5AGAN+GCsugw0MMDBUFajPF71vBx1OMcEdBPZldUeKLeYPLE9wAi8w5zkQEoXJv0//9gprEpZp+ygxgu9m2ZBJ7MOA8+8gf4n1j961oY0tabA2f+QH3qkfQexzCzA3XjpbyP0N9vGLu73Ux2cnHHu3opR09KDytsZGfKXJ1nKjOThdp7SooKP4o+ACbzzhYJYe9eUEx2alVhg3iDwiXP8ERKjJLJbDEsZjL6cJ1LL69wTAMhbfzwg+/uWb2iWQ1R9mLlnjPS141ISHn9syKIj2rI1LgIBxcFOKC7gwPq3l7tNriwZreWyNzKo+94i6Vr1vSfQGjM1siLN0wdC/9xy7OnG0=;d+Zn/ocrir5/KGaXfNpBfA=="
+secured: "GOOgLBMI9OMB+HFYKdlGvcNmL1DzLNBsfj38CGzX++vjlNOQQroZRi+CS2Def96rHm1ujxqUVnMXCLeu7+uzPgUOyt9i5+bOrAVRvU5srLlL0Itc+MFT55e0fzwSzg71asylf7CcNnFNE44TI7ojBKhBNBjpuKf6P1b/tSMZxz0b3WSjOjPzcnq4MiMc906dVSYn04fhD7F1P854WV/YhWDygYE9xVsX3rGK8JVmLkKXBbQQKel4LugsTVCry0YM9+/KQCtF28eM8HcnPSy366IgXtz8mHEwd69fzce5UNitm9+7/Sifyq37oIuT2RWjsKcg80MPgxD6VoKQGdA+HkY5IpzYkTlDurdeD2EPvIM=;GDZL167bmNScERgp0MS39A=="
 ---
 

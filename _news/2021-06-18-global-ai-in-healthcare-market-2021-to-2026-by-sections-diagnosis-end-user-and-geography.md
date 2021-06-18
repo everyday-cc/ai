@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of"
 publishedDateTime: 2021-06-17T19:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+originalUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -80,7 +81,16 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 0
+  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-17T11:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
-secured: "GX1M2wVKCxKx/c5EPcqC2xNKGPcM7OMRPGHYrGtBgcJQOu53qWGVeLBt8F9icVNlvWABhMeZlLP+GWsYaH8raBgvw4uvpQgpgIOLDkL7fq6RYNUiSCQzSrSxnBp2IZHsXZQY+lH4uS0glcOyZhrjT4jLh+s+njgDhF2vYJTkrZiu2b6NaAMoxl9zMO7YozBM3hwvE/VzpEmg2cBHPjiTo26EDuuO7V4IkrAcRSomlUslUbsWbtCbJRHFH9nIeVCHSknUr7mTf0Vwb/ZU7s3inmgl8iNunfk72A7LFDy6bqSKMBiVl80nOmLB2AyLH01Xvb5YqhcIeOelll16qyZ1t0OZG9uMicKQ2WEDBEOVC1k=;AQQNoF1TleoJTZaoDd7/KQ=="
+secured: "KObNl3qoH0HcsmYrE9mcPu+mgCtoTA25otibSArKL5bNya88Cc1UK+qVCNKvHVIc7uTGmfL2awNu/ZbXJ4bQ1pk3jVEE4u5qxg7h2d7GG/Nu7uP1u2nodbIOOzkVF366DxVM9Zw7mnbDYrdB4AqVqNBnuxnEsvh+oDlHvCpROt56TNvtGBF9g/bEKbB1OpGJgQLfQzFFTyoAz7Q+9IhwbuZGNYw6k5aBIakumURvspPdwxEEZt9UYeN0hnxOJTrGL7JBF2PL5X/dAeR58B7L9GTTDPu8BoTb697Gy3/WVwIIMYWVxM13jwfnF3sfSYJTWlEi9vB+nJ5z2TSeCbTjiQPsWESt/q1JpJFYw+hn4qs=;sQgGeMBgt+VVztsVZwgVWA=="
 ---
 

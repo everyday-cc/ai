@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-18-iits-offer-7-week-online-course-on-deep-learning-for-students-and-professionals.md",
+      "title": "IITs Offer 7-week Online Course on Deep Learning for Students and Professionals",
+      "excerpt": "IITs that are NSM Nodal Centres for Training in HPC and AI, along with CDAC are offering a 7-week online course on deep learning for students",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/",
+      "originalUrl": "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/head-4519964_640.jpg",
+          "width": 846,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/",
+      "publishedDateTime": "2021-06-18T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-build-xgboost-models-with-amazon-redshift-ml.md",
       "title": "Build XGBoost models with Amazon Redshift ML",
       "excerpt": "Amazon Redshift ML allows data analysts, developers, and data scientists to train machine learning (ML) models using SQL. In previous posts, we demonstrated how customers can use the automatic model training capability of Amazon Redshift to train their classification and regression models. Redshift ML",
@@ -263,7 +306,7 @@
       "originalUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -359,7 +402,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1369,49 +1412,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-ihp-offers-access-to-memristive-technology-for-edge-ai-computing-or-hardware-artificial-neural-networks-applications.md",
-      "title": "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications",
-      "excerpt": "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news770813",
-      "originalUrl": "https://idw-online.de/de/news770813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.idw-online.de/de/institutionlogo27391",
-          "width": 902,
-          "height": 1771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

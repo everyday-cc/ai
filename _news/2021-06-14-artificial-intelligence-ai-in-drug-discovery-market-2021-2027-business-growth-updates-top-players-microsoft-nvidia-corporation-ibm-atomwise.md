@@ -137,6 +137,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
+  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
+    publishedDateTime: 2021-06-18T08:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "jWnhgz3mUfE5OMuPx8YWZosMVv8fVM3S1UJBR0nNHKnM/WMOW2ZBRLjjQVuA4PLUX4/24ElsplqPr4XC0aof+3/LXytGZ+NxV5Y3/ojF/7jBp0p3QbDW54wsiognOKHygzs3+J4iTUTfJS9hGCdEza2QmRQkw9FN5uPxqQDR/azuvz2pGs7pYC7IlDtglNMr1IBFdCVKb9MdonqaxSUkQCJJhwh3XYMHC0S6sd0e6vDPKn8WoOdjwG9GPeG5l3IbdmEHvcIVI/IFM0/G98AqOwDvxTm8gbRxHTX7cQsk/lN2Y7+5eFkXsR6NDIWnZKhZs3LxJg8YrK1KR5pqBGsX95hN6r9+jukBPOn5W/qo/JM=;HrnqQTbmcfeeoc7XS/44Kg=="
 ---

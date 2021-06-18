@@ -248,6 +248,22 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
+    excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
+    publishedDateTime: 2021-06-17T01:16:00Z
+    webUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921"
+    ampWebUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/graze-sc-1.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-17T07:48:00Z

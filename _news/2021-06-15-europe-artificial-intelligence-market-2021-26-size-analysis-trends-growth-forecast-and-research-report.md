@@ -41,18 +41,18 @@ related:
         height: 630
         isCached: true
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of"
     publishedDateTime: 2021-06-17T19:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+    webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
     excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."
@@ -80,6 +80,15 @@ related:
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
+    quality: 0
+  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-17T11:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "6abTFC7b2Fw78VENSs+GLDXvhfUZFHbOXZd50kyal2JNxadpI8LSjc2cvG/exYQQ1kBpL23uOv0E0T6m1FpAwsYBDQEBGYOvGAWOwJFQ8gCazfYq5uEuHHwMOoCxvFgSC15/zvDe1YSZa5N3a4hfOknNep3WUyQz7uJvHMtbjdExF30Doa2Nzw33q7wDrzUBgMHueyItSDJw1dxIedq2c4rIoIHTi4ge7QaJK1jkXxT+HfaWmIlzk9iDBh8dynaTuA5ZfQby2ZSes8hllmG0Zxoz2QziFG0vE4GMKh8xfvgXxtr+pgzQjuIe6+8+v8xR+NpIWsQjjs+UzsKXaZaKp98+KvJ3cr7EAOgBoW9TUeeA+SrlD0qtwe0jiukHBTpalS2lSnGbZzrWm/8YsmqyIWYrSNRqm8oQXHnK5C/BDfRsapEqRd+1+1uGj87pCqfMjE7QtGTR6yiS/TNsosELWsn6Qp8binQeq2nbVoykhSBupAmGdurmUYg7N/qdR6TUqg0a4VoGUIJaD7E3EqNvhQ==;pHxUR9E3g0U58cjzYbOCHg=="
