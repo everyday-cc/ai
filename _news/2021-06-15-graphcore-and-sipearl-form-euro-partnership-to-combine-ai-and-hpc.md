@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Graphcore, SiPearl team for AI supercomputer"
+    excerpt: "Chip designers Graphcore and SiPearl have signed a strategic deal to develop integrated hardware and software for AI supercomputers."
+    publishedDateTime: 2021-06-18T12:45:00Z
+    webUrl: "https://www.eenewseurope.com/news/graphcore-sipearl-team-ai-supercomputer?fnid=138491"
+    type: article
+    provider:
+      name: eeNews Europe
+      domain: eenewseurope.com
+    quality: 39
+    images:
+      - url: "https://eenews.cdnartwhere.eu/sites/default/files/styles/facebook/public/images/01-picture-library/business-cooperation.jpg?itok=_m6CR3Ks"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Graphcore and SiPearl: strategic partnership to combine artificial intelligence and high performance computing"
     excerpt: "Graphcore and SiPearl have entered into a strategic partnership. By combining the best of artificial intelligence and high-performance computing technologies, this partnership will enable innovation in simulation and prediction essential in critical areas such as meteorology,"
     publishedDateTime: 2021-06-15T11:55:00Z

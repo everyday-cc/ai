@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-18-is-this-ai-startup-the-next-pixar.md",
+      "title": "Is This AI Startup The Next Pixar?",
+      "excerpt": "Israeli startup D-ID has developed AI with the potential to change how digital media is created, enhanced and used by the entertainment and media industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cba958f4ba964038764df8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D146%26cropY2%3D484",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/",
+      "publishedDateTime": "2021-06-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible.md",
+      "title": "The Future Of AI And ML Fairness In Southeast Asia: Who's Responsible?",
+      "excerpt": "Regulators, practitioners and businesses must collaboratively rise to the challenge of unlocking the power of data ethically in response to the evolving needs of SEA communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211552718%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
+      "publishedDateTime": "2021-06-18T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2.md",
       "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 2)",
       "excerpt": "Here's why the demand for proof of concepts (POCs) took us off the rails, what the core barriers of AI in production are and what we can do to overcome them.",
@@ -101,49 +204,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ferrari-and-aws-enter-agreement-on-data.md",
-      "title": "Ferrari and AWS enter agreement on data",
-      "excerpt": "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider, AWS s",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "originalUrl": "https://www.timeslive.co.za/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/GK5EIKs9aOifqgf6fF6HiQQ7zaioA5RDhyfY3W2e8FNf_fUeDUYq5-oE_OY89cxcIEJL7LaovV558PSRm7RrC3n_L3Gt7QRxKF8=s1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "publishedDateTime": "2021-06-18T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -302,6 +362,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-ferrari-amazons-aws-enter-agreement-on-data.md",
+      "title": "Ferrari, Amazon's AWS enter agreement on data",
+      "excerpt": "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat.md",
       "title": "Chinese AI Learns To Beat Top Fighter Pilot In Simulated Combat",
       "excerpt": "A Chinese AI system has defeated a top human pilot in simulated dogfight, according to Chinese media. This echoes DARPA's AphaDogfight result last year in which a machine also won, and signals how rapidly Chinese AI is maturing.",
@@ -310,7 +404,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -586,6 +680,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
+      "title": "2. Hopes about developments in ethical AI",
+      "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
+      "originalUrl": "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
       "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
       "excerpt": "Google Brain scientists published in Nature a deep reinforcement learning technique for floorplanning, or arranging components on chips.",
@@ -594,7 +731,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -954,7 +1091,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration-1030533252",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1098,161 +1235,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform.md",
-      "title": "Lexion raises $11M to expand its AI-powered contract management platform",
-      "excerpt": "Lexion, a platform leveraging AI to streamline legal contract management processes, has raised $11 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/smart-contract.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/",
-      "publishedDateTime": "2021-06-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
-      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
-      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability-e1619416261363.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/",
-      "publishedDateTime": "2021-06-17T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
-      "title": "Last-mile, landscaping and leaping robots",
-      "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZtlRVO8fpE0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
-      "publishedDateTime": "2021-06-17T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

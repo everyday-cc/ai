@@ -2,26 +2,30 @@
 category: news
 title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
 excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-publishedDateTime: 2021-06-18T11:01:00Z
-originalUrl: "https://www.bloombergquint.com/onweb/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
-webUrl: "https://www.bloombergquint.com/onweb/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+publishedDateTime: 2021-06-17T23:01:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -264,6 +268,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "CGmABy2FSG33gbdLbId0Y0YoPFo4jPQJzJnKzcTF6flq9V4YhLD6JkiQKdTkdgj6KValWyHN1ebYcLpflKujNekM0vQSIQ7Q13HLhFGo/rT8C/uA6B6kYt7ywvXmicxTfssHFYAmvdj+OXZsTzUmrX4FUu622Itrzi6lsuGPdHjI2iASBxhxCCJF/8VcG2OCzfkbi5l1HVozhLmFS1/8UhtXd9aZhtdiFNBHrEutQ8P6BHTK+F0y2zz4X1a1+MtfdmOaK7lRUX4WBjYDkxGKieWeml027aiVeCnW8LWhwPWhkhg841RJ7fYbqizQAazW47XLLFsx5WK9fwzpjc5nyvM2RW8IWGxcdv5X0yVURfE=;fAMpmkH278K0Z8ZmPCAsqA=="
+secured: "5SKI6n4Io87vQB77Li78kJDrn7QUsfV73rRl7ZoC+lMHVj2GE2f+BcruAlf9zxAfdKgRotvxB/ckqe0Zo4rEWogCdJ/0x2OakNW8iLleXbtHAhSTJuFM7yMwWZWJ9ycCcGMzMPbm0q2Apjs6ZbuTS8t7LDEK4bJpm3gaNaAal+GiTdKwEKSWHzDfqmDSV0h8Ig4KkZpOD75/dwBZZuVS+gcvKZMh+U7yUcjaSCVkd7aSKALOeR0eN8QNpYocBRfjVYZyqHqjTiC93N+dcf3vv4wh5kGeUi0XMnvaNiR0E9+hUV3xS1DmIuJVl6ZeTH0x1gwHV2yb0J66Wh8SaDE2Qy+O0onL5ou+05mqEYbbHrs=;2dCHZSiNO0m/FalEMBWYLA=="
 ---
 

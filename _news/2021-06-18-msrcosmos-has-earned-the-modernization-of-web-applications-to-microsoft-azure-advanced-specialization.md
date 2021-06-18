@@ -144,6 +144,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
+    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-14T20:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 42
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-06-16T18:31:00Z
@@ -201,15 +215,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T22:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "hezZxO74i1ZsTX/BUCg7YcWwTw4MVUTi4WfUpvEKNp6NiELVxLkNdHUYrniDFBjMK1u+85yKtRAKAIPixlfiY5w8KT+3vqsJtlG4iGmgQdq6Ry63BIrsI/7ls1gOQbgf+F1N+PIrLS2iD3pfXhWT0a+cle0WtT4mw5aF8rcRFQ3Pk4Zprzn5qgG97UBnPqOZQCBTpC7kwvj5F+U4v5Z21orS8LjjHJtdITMpaf7EJRDK524iLVgxvtc11SrndubAfYX7whxtZv57Gf3nxe6gHbTfsm6FyNhw5d7ZFXm8dZsjmhry96nx0Fj/lgA9yBxWfWvt77yOMrws5qt5iMXmnOMr3iZ3iUGPTuih+UtqPbQ=;2NY7ArYwcJulAu4bkRcBmA=="
 ---

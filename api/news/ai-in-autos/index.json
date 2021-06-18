@@ -53,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -94,6 +94,49 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years.md",
+      "title": "Baidu pushes to put driverless taxis on China's roads, pledging to build 1,000 in 3 years",
+      "excerpt": "Baidu has been testing driverless taxis but has now partnered with state-owned automaker BAIC Group to try and commercialize a robotaxi service in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+      "originalUrl": "https://www.msn.com/en-us/news/other/baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years/ar-AAL8cLn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106898520-1623904929198-gettyimages-1316042221-vcg111328269953.jpeg?v=1623905082",
+          "width": 5184,
+          "height": 3456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+      "publishedDateTime": "2021-06-16T23:26:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+        "domain": "com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -236,58 +279,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-chinese-startup-ponyai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022.md",
-      "title": "Chinese startup Pony.ai plans to launch a driverless robotaxi service in California in 2022",
-      "excerpt": "Pony.ai, the robotaxi startup that operates in China and the United States, has started testing driverless vehicles on public roads in California ahead of plans to launch a commercial service there in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/",
-      "originalUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-15-at-12.26.33-PM.png?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/",
-      "publishedDateTime": "2021-06-15T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-fedex-to-test-package-deliveries-with-self-driving-startup-nuro.md",
       "title": "FedEx to test package deliveries with self-driving startup Nuro",
       "excerpt": "FedEx Corp and robotics company Nuro on Tuesday announced a multi-year agreement to test self-driving vehicles in the package delivery company's network, starting with a pilot program in Houston.",
@@ -296,7 +287,7 @@
       "originalUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -586,8 +577,8 @@
       "title": "Hunt sets driverless truck test in Texas",
       "excerpt": "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?news-arkansas-nwa-academicstars",
-      "originalUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?news-arkansas-nwa-academicstars",
+      "webUrl": "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
+      "originalUrl": "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -606,11 +597,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T00:15:00-07:00",
+      "publishedDateTime": "2021-06-11T00:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Northwest Arkansas Democrat Gazette",
-        "domain": "nwaonline.com",
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -861,19 +852,19 @@
     {
       "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
-      "excerpt": "\"at-above-post addthis_tool\" data-url=\" China/BEIJING (Reuters) – Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday.",
+      "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ...",
       "sourceUrl": null,
-      "webUrl": "https://www.metro.us/alibaba-to-develop-self-driving/",
-      "originalUrl": "https://www.metro.us/alibaba-to-develop-self-driving/",
+      "webUrl": "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582",
+      "originalUrl": "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5903O-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg",
+          "width": 991,
+          "height": 557,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -881,13 +872,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.metro.us/alibaba-to-develop-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/alibaba-to-develop-self-driving/amp/",
-      "publishedDateTime": "2021-06-09T21:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T22:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null

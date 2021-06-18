@@ -71,20 +71,6 @@ related:
         width: 960
         height: 539
         isCached: true
-  - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
-    excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
-    publishedDateTime: 2021-06-15T19:29:00Z
-    webUrl: "https://siliconangle.com/2021/06/15/iterable-raises-200m-2b-valuation-ai-powered-marketing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/iterable.png"
-        width: 932
-        height: 521
-        isCached: true
   - title: "AI-powered customer relationship startup Introhive raises $100M for further growth"
     excerpt: "Artificial intelligence-powered customer relationship startup Introhive Services Inc. has raised $100 million in new funding for strategic acquisitions, to expand its global footprint and grow its headcount."
     publishedDateTime: 2021-06-17T02:48:00Z

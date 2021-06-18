@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon launches Machine Learning Summer School"
-    excerpt: "Amazon India has launched ML Summer School to help train students in ML and address the growing demand for talent with this skill set across various industries, Amazon India said in a statement."
-    publishedDateTime: 2021-06-13T19:39:00Z
-    webUrl: "https://www.indiatoday.in/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/amazon-launches-machine-learning-summer-school-1814402-2021-06-14"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 59
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/hands-545394_1920_0-647x363.jpeg?95GisF85ScWy.t0pfzy5lYNy7tYcC7NA"
-        width: 647
-        height: 363
-        isCached: true
-  - title: "Amazon India announces machine learning Summer School for engineering students"
-    excerpt: "The programme is opened to engineering students in their pre-final/final year of Bachelors, Masters or PhD studies across select tech campuses in 2021.Amazon said the students will get access to the A"
-    publishedDateTime: 2021-06-13T20:29:00Z
-    webUrl: "https://www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students-11623573382773.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students/amp-11623573382773.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/amazon-india-announces-machine-learning-summer-school-for-engineering-students/amp-11623573382773.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://images.livemint.com/img/2021/06/13/600x338/AFP_9BV9VX_1623574587089_1623574602270.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Amazon India Invites Applications for Free Online Machine Learning Summer School for Students, Check Details"
     excerpt: "Amazon India has invited applications from students for a three day free online machine learning summer school to be conducted from 9 to 11 July 2021"
     publishedDateTime: 2021-06-14T05:15:00Z
@@ -98,15 +66,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
-    excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML)"
-    publishedDateTime: 2021-06-13T19:24:00Z
-    webUrl: "https://www.dailyexcelsior.com/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 13
 
 secured: "LWFRPhrYMr+mRaVSA29MsxXAGsu1hb+uaQihYQwY1lrvE17EMTLHTyUB3Tr20cvN8QzHibyfqrpJlvXSZ72dt3rV51KArjVFd+stJDi+qus7hBI46OaAxMWrHWVJN++KoczqHZASfN8WF23gsRZ/qRyKK0ppFZ+erCLnONWooIBMHfQ2NVoaQIL7dIhOkaTtgFoVDgM6i5U4M/527/VliKCP/5ZURXHwtEA0rRxRDYl8kZebP2s/v2yvRYT9beJNVqKOxx+8l58NdYcI8NunISDAV5Yryjhu/b9ZVO9o3i8VKwXUcOrn1vPbQWMioZEGC56Rl/gk5rRn3cNcXX9thiCrK3dAhWER28PD9YTBAAqQn64xtpFNPrbmtbA/OCiKYKl5hTSd1VcPkqYwbnVx1mPjF49dubbiXroYQbugmlsPgZKWw3R6eAfZfy3zBhIHu4D7wuojspR+/9HP36rx4pJd7ANdNdipq313YgtBxnFslhqzaU8IfAg3ulhm7rwaGOb6t5lqgxiImSNdHEPl4Q==;VeWzPsTPGJqwOOKVtBtiLg=="
 ---

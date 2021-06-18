@@ -2,6 +2,299 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-05-14-4-artificial-intelligence-stocks-to-watch-right-now.md",
+      "title": "4 Artificial Intelligence Stocks To Watch Right Now",
+      "excerpt": "Top Artificial Intelligence Stocks To Watch In May 2021. As tech stocks continue to recover from this week’s losses, investors may be looking towards Artificial Intelligence (AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "originalUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-artificial-intelligence-stocks-to-watch-right-now-2021-05-14?amp",
+      "publishedDateTime": "2021-05-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts.md",
+      "title": "One Drop Receives CE Mark For AI-Powered Blood Glucose Forecasts",
+      "excerpt": "One Drop, a leader in precision health solutions for people living with chronic conditions, today announced it has achieved the Conformité Européenne (CE) Mark for its Blood Glucose Prediction Analysis Engine to accurately forecast glucose levels up to eight hours in advance for people living with prediabetes,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts-1030430512",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-drop-receives-ce-mark-for-ai-powered-blood-glucose-forecasts-1030430512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/837526/One_Drop___Automated_Decision_Support.jpg",
+          "width": 400,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-facebook-has-trained-an-ai-to-treat-irrelevant-data-like-spoiled-milk.md",
+      "title": "Facebook has trained an AI to treat irrelevant data like spoiled milk",
+      "excerpt": "Facebook researchers hope to help future ... Though still in the early stages of research, “As a next step in our research toward more humanlike AI systems, we're studying how to incorporate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/fb-trained-ai-to-treat-irrelevant-data-like-spoiled-milk-130038110.html",
+      "originalUrl": "https://www.engadget.com/fb-trained-ai-to-treat-irrelevant-data-like-spoiled-milk-130038110.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/6d490490-b44f-11eb-bcfe-f2faf631cdf8",
+          "width": 5234,
+          "height": 3489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-facebook-aims-to-help-ai-models-forget-with-expire-span.md",
+      "title": "Facebook aims to help AI models forget with Expire-Span",
+      "excerpt": "Benefits and risks of artificial intelligence Expire-Scan is still in the research phase and focuses on past experience memories. Facebook said it will study how to incorporate more memories into neural networks to better replicate the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/12/38de8040-e46d-4d0e-a6ac-3d03e3591991/expire-span-before-after.gif",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-aims-to-help-ai-models-forget-with-expire-span/",
+      "publishedDateTime": "2021-05-14T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-facebooks-new-technique-helps-ai-systems-forget-irrelevant-information.md",
+      "title": "Facebook’s new technique helps AI systems forget irrelevant information",
+      "excerpt": "Facebook claims to have developed a technique that enables AI models to forget irrelevant information while retaining relevant data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
+      "originalUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/14/facebooks-new-technique-helps-ai-systems-forget-irrelevant-information/amp/",
+      "publishedDateTime": "2021-05-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths.md",
+      "title": "AI under the sea: Autonomous robot to collect data from new depths",
+      "excerpt": "Terradepth CEO talks about a project to map out and collect data from all the oceans of the world. The company uses artificial intelligence and machine learning to gather and make sense of the data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/05/13/59c46818-1c37-4b71-ae79-2c8f9c294981/resize/350x/d3bedfd4616337fc874fdbd3fb2f3e33/terradepth-joe-judson-lake-test.jpg",
+          "width": 350,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-under-the-sea-autonomous-robot-to-collect-data-from-new-depths/",
+      "publishedDateTime": "2021-05-14T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-top-5-most-controversial-scandals-in-ai-and-big-data.md",
       "title": "Top 5 Most Controversial Scandals in AI and Big Data",
       "excerpt": "Hi-tech companies, who invest huge funds on managing and examining real-time data explosion, have experienced the most scandalous controversies in the history of AI and Big Data, which take years to s",
@@ -884,273 +1177,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
-      "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
-      "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
-      "originalUrl": "https://www.businesswireindia.com/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization-72975.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
-      "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
-      "excerpt": "These advanced analytics are the result of the new partnership announced in February 2021 when AWS was named the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success.md",
-      "title": "Positive Technology And The Cosmic Mission: How AI Is Helping Humans Achieve States Of High Energy And Success",
-      "excerpt": "Up until now, we have been on our own to deal with negative emotions. But there are promising indications that AI can help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609d594a890b77977267fd9a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/05/13/positive-technology-and-the-cosmic-mission-how-ai-is-helping-humans-achieve-states-of-high-energy-and-success/amp/",
-      "publishedDateTime": "2021-05-13T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-intel-applied-machine-learning-to-gta-v-and-it-looks-too-real.md",
-      "title": "Intel applied machine learning to GTA V, and it looks too real",
-      "excerpt": "The researchers’ work centers on enhancing the realism of synthetic images – in this instance, taking Grand Theft Auto V and making it look realistic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
-      "originalUrl": "https://www.techspot.com/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/05/2021-05-13-image-15.jpg",
-          "width": 2500,
-          "height": 1570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89671-intel-applied-machine-learning-gta-v-looks-real.html",
-      "publishedDateTime": "2021-05-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
-      "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
-      "excerpt": "(NASDAQ: AMZN), and the National Hockey League (NHL) announced they will debut two new advanced analytics during the 2021 Stanley Cup Playoffs. These new stats powered by AWS will appear as on-screen graphics and data visualizations during NHL games and give fans a better understanding and deeper appreciation of how their favorite players and teams perform during crucial moments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/",
-      "originalUrl": "https://www.financialbuzz.com/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-chef-robotics-raises-77m-to-help-automate-kitchens.md",
-      "title": "Chef Robotics raises $7.7M to help automate kitchens",
-      "excerpt": "A year and a half’s worth of global pandemic has had a profound impact on virtually every sector of the workforce. When it comes to future automation food prep isn’t quite at the top of the list (that distinction likely goes to warehouse fulfillment,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
-      "originalUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-913931820.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
-      "publishedDateTime": "2021-05-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

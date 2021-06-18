@@ -137,6 +137,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
+    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-14T20:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 42
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-06-16T18:31:00Z
@@ -194,15 +208,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T22:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-18T09:45:00Z
@@ -212,7 +217,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
-secured: "w2Ys1ZeCoC4mThuJBYucSsRe6Erkyb1HCSKKcKXIRUHyQs6R+qmU/s4NUR2xi5XhluLbOG6FnqwqQt7Ek7An9D/BxzxhC77LXeSAgA4pN/9+CU2QsehMnwjcUPKUwK0cdIN+1mC5KNOfOeQX4CXXL5AQ/HEHS614q0Q9PMA30kMxFgLV2lDYVV8O2W7960ZynNxkuvz3MV32fIg+jn2W4XyVoOL7iX/JE5VMTbHgXVQa9O51ZSsLJnrucyFaTxf7n7bP4r/2AbnUDSwuJet0T/BIlkB85sL3+Q3NFgzVPLdqe37CThtwvaMyICbSJ/06JQs/E040fMhmD8OIaw4BGIzGzLi1540t1iOWCBYsxlI=;2jXlOCVJzRJ52InVRv9PjQ=="
+secured: "yGPpRitwv3xbpJNnhBX/eJuFsdf86xjiFOGzDcS0MQM887CnOsKTeuP1ZaG5EG1Adfo3K67iQzUgkikGTYNIFEilJro7y/roJXViSqQfpY0Bg89Cv6dcS7dk28FayYrAJwWm/YY07OLbHHg6tqWw2VEn2SDHIn4ICNjuddfMVAu1NWRyHysBnHXsFBVcfxVgQXJVIBscmnOJAv+bd+bwiONDwicsfPcGMEDdDXPDdCg4gX0kLm8qsh27alBapDyZBW8Mofjo9ZE/WTO9CMuPxhqF18i6cB+CedFB5mlwB5zVZwGQj6J6Yw3e/eDHGuop5fHZLmOfCVulY2Hzif1K/D5nNO5SQ0CGImqX8G+qmTJvfi9dRC99Uzu+WR1NNQugu3CPQ4DzmfGpgyO51UuIv6jhHOvIPNWhHVeUx7+cqOVbaVzBilXwYOTK48IOsDArhgPYvBebYpmK2LxL2zUTMZ1t+X0x3RU/aUmkBktyAwzeEI9D2Xdt+SvyxpMaJxRIkgYFdHKyhhv/m/CrzyvLzg==;ecsGMD+ioRtV1JtVEFZo/A=="
 ---
 

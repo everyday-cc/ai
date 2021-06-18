@@ -2,6 +2,293 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
+      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
+      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T00:25:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud.md",
+      "title": "Unlocking the enterprise opportunity with 5G, edge compute, and cloud",
+      "excerpt": "The power of 5G, IoT, and real-time AI will unlock new and innovative services for enterprises across the world to accelerate their transformation toward Industry 4.0 as they evolve and adopt diverse new business models. Today, we’re introducing Azure private multi-access edge compute (MEC), new services",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
+      "originalUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa65174f-da4b-455a-9df3-f85a7f2fee42.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T00:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
+      "title": "NVIDIA and the battle for the future of AI chips",
+      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/nvidia-ai-chips/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp",
+      "publishedDateTime": "2021-06-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-japanese-robotics-startup-telexistence-closes-series-a-round-with-40m.md",
+      "title": "Japanese robotics startup Telexistence closes series A round with $40M+",
+      "excerpt": "Telexistence Tokyo-based Telexistence, the Japanese startup developing remote-controlled robots, announced today that it has secured about 2.2 billion yen (about $20",
+      "sourceUrl": null,
+      "webUrl": "https://thebridge.jp/en/2021/06/telexistence-series-a2-round-funding",
+      "originalUrl": "https://thebridge.jp/en/2021/06/telexistence-series-a2-round-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebridge.jp/en/wp-content/uploads/2021/06/Telexistence-Model-T.jpg",
+          "width": 1240,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thebridge.jp",
+        "domain": "thebridge.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc.md",
+      "title": "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc",
+      "excerpt": "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-movie.md",
+      "title": "Jennifer Lopez Will Battle a Killer AI in a New Netflix Movie",
+      "excerpt": "Deadline reports she’s set to star and produce a new film called Atlas, which is being made for Netflix. Brad Peyton ( Rampage, San Andreas) is attached to direct from an original script by Leo Sardarian (Crackle’s StartUp ),",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
+      "originalUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/230200c1759aa0f9748bfdf710315924.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
+      "publishedDateTime": "2021-06-15T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation.md",
       "title": "Hungryroot's AI-Powered Personalized Grocery Service Reaches $750M Valuation",
       "excerpt": "Artificial intelligence (AI) is becoming a greater part of multiple industries, including groceries. Investments in AI are also increasing as more companies look to technology to remain competitive, and more consumers continue to shop online.",
@@ -146,7 +433,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -242,58 +529,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-chinese-startup-ponyai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022.md",
-      "title": "Chinese startup Pony.ai plans to launch a driverless robotaxi service in California in 2022",
-      "excerpt": "Pony.ai, the robotaxi startup that operates in China and the United States, has started testing driverless vehicles on public roads in California ahead of plans to launch a commercial service there in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/",
-      "originalUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-15-at-12.26.33-PM.png?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/",
-      "publishedDateTime": "2021-06-15T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-enterprise-ai-budgets-are-up-55-over-2020-appen-says.md",
       "title": "Enterprise AI budgets are up 55% over 2020, Appen says",
       "excerpt": "Appen State of AI report found enterprises are accelerating their AI strategies as a result of the pandemic and increasing budgets.",
@@ -353,7 +588,7 @@
       "originalUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -995,238 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
-      "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
-      "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "originalUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U615488872_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "publishedDateTime": "2021-06-15T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-how-the-online-gaming-industry-gets-an-ai-boost.md",
-      "title": "How The Online Gaming Industry Gets An AI Boost",
-      "excerpt": "Technology in the last few years has made significant changes in how we communicate, collaborate, and even engage with our target markets. Gaming",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/04/Sony-Xperia-XZ2-Premium-AH-NS-gaming-PUBG-AH-2019.jpg",
-          "width": 1463,
-          "height": 823,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp",
-      "publishedDateTime": "2021-06-14T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-apples-ai-focus-privacy-by-design-iphone-by-default.md",
-      "title": "Apple's AI focus: Privacy by design, iPhone by default",
-      "excerpt": "At WWDC, Apple's smartphone received the lion's share of AI-driven features while the iPad and Mac improvements focused more on user interface refinement and tighter ecosystem integration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
-      "originalUrl": "https://www.zdnet.com/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/06/08/83628db0-ccf8-417d-b7c7-4127a9c7a3ab/thumbnail/1200x675/7471659177dd3ef7658478d69c529c3f/20210607-larry-jason-wwdc.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
-      "publishedDateTime": "2021-06-14T23:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm.md",
-      "title": "AI Ethics Q&A Series: Minimize And Mitigate Algorithmic Harm",
-      "excerpt": "Cornell's Manish Raghavan talks about ways to minimize and mitigate the negative impacts of AI and the most significant barriers to organizational change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
-      "publishedDateTime": "2021-06-14T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks.md",
-      "title": "Best of Show Winner Finn AI Adds to its Chatbot Offerings for Banks",
-      "excerpt": "Finn AI, the two-time Best of Show winner whose conversational AI technology has helped banks and credit unions add to their digital engagement solutions, announced a set of new additions of its own today.",
-      "sourceUrl": null,
-      "webUrl": "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/",
-      "originalUrl": "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/pexels-kaboompics-com-6069.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finovate.com",
-        "domain": "finovate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

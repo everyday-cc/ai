@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,7 +41,21 @@ related:
       name: Jane's Information Group
       domain: janes.com
     quality: 51
+  - title: "Chinese startup's AI-based system to analyze road conditions"
+    excerpt: "Beijing Sinoits Tech, a Chinese tech startup that develops vehicle recognition technology, has raised tens of millions of yuan ($3 million to $5 million) in a pre-Series A funding round, 36Kr has learned."
+    publishedDateTime: 2021-06-15T03:16:00Z
+    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-startup-s-AI-based-system-to-analyze-road-conditions"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F6%252F5%252F34745661-3-eng-GB%252FCropped-1623642014%25E4%25BA%25BA%25E3%2583%25BB%25E8%25BB%258A%25E3%2583%25BB%25E9%2581%2593%25E8%25B7%25AF%25E3%2583%25BB%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E5%259B%259B%25E8%25A6%2581%25E7%25B4%25A0%25E3%2582%2592%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A6%25E5%258D%2594%25E8%25AA%25BF.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "sAtK1WIAZBzoMymUK+Ocil6enhoecZd8sVlsitFzTy7xAlbRYPRWlqw/5Ip/bEIhVnxlSh/YPioUzqih7FjZGLXh1k0zplsi9BzcJVFPTeU02Pen3IOUqq7R+FqbP9eZnJYG+A4Z4C/NJhwPDHzmE4auEIv7ze9YybE/RvRR7xnmtiS1YkQPaR787IWJIj+jyRRGRU84/UIV0H+nRVGy10U3joTOG8o+kTSpYEMEho5OEXvtk0M2iKl4D+dYIYhV05vzctckHXjwaZJnCz22F3feUYirZzXft1lqS7H7UdZGgLuQzvfrfcSbmXWp/jJLRlAP+L/X6ZfZMsMc+NcSJ2krwwoXC8sEHHn8cKDZkH0=;aMGueQbWX+W3DYLKSreIzA=="
+secured: "8Y7m3+64Ib2US1LGaE3YxnujEaXzFEN3nV40kyGPTNoy339G6qMwE43vKi4T4b6fX1jAPedDHSvlcx1woWI8tFlGNeXmI+bb4EZQshawTRLPpXp3FISTmnYSR8US6GZvA99GXE9j9buF7B8Ff3Cng1l6AkIPrpYlgs1MCA/Dj8+wxo/nhiKSw/bhJy8Y0Hioe8HuR692Gq+c2LNN2a61bc7P+zd8al/gnLcQxZ7LDkC2kTx6QwkWPjN4009rcvvrfQmNfpwQvKRhdGceMDmkLX4ttACUhFRBuD0m347tKP0PTkKWepM37VpKXYIE/1V5b8OG4t44eIkdupMMkpBBhIy2dnvKcRIWoF16p8FStCfGooiuqxIM07PmylqajOtTtGN8r8+otidyyppUYfxvg3C7wkpkN/utsc0oDUFmuqRv+0s+MtKNVkHL62I7nT7s4ho2AXVx+jgrZ4MYMyosy+n2x7XkONrLj5UV/TtQo8LuKRjS5gjP2lXQUXBO+/wBAL9h1v0lKad9VZsyDelB7Q==;QnMzIep9zg2gCeJIJx00kg=="
 ---
 

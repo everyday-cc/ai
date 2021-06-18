@@ -141,6 +141,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Ford partners with Hermes for self-driving delivery programme"
+    excerpt: "Ford has announced a new Self-Driving Vehicle Research Programme to help businesses understand how autonomous vehicles can benefit them"
+    publishedDateTime: 2021-06-18T13:37:00Z
+    webUrl: "https://www.techdigest.tv/2021/06/ford-partners-with-hermes-for-self-driving-delivery-programme.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/HermesisfirstcustomertooperateFordresearchvehicle.jpg"
+        width: 2700
+        height: 1520
+        isCached: true
   - title: "FedEx begins trials for self-driving deliveries with Nuro"
     excerpt: "FedEx Corp. and Nuro have established a multi-year, multi-phase agreement to test autonomous deliveries for parcels. The collaboration began with a pilot program in Houston and a new pilot will expand the operation into parcel logistics and allows for FedEx to explore other use cases for on-road autonomous vehicle logistics."
     publishedDateTime: 2021-06-17T12:43:00Z

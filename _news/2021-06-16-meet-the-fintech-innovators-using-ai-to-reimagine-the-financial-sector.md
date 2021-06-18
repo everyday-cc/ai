@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
 type: article
 quality: 89
-heat: 170
+heat: 179
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Convergence of Telco and FinTech Businesses Can Drive Financial Inclusion In A Tough Economy"
+    excerpt: "New technologies available to telecommunications operators (telcos) and financial service providers (FinTechs) are combining to lead"
+    publishedDateTime: 2021-06-18T09:03:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/06/18/convergence-of-telco-and-fintech-businesses-can-drive-financial-inclusion-in-a-tough-economy/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 13
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/06/Mariam-Cassim.jpg"
+        width: 600
+        height: 940
         isCached: true
 
 secured: "axi23vZ0Dmq/nNwfU22Xi8f6vT8fYCABs09RdC5daWQuM3ysnC9OENDHklJ9eNYQjAzxgcieUeunYtHcuF9hxl4xquO+ZVS0CVbzvqE9T7DWq6ickCSslPykFCKpl0E4mdLdMnU8OAs7fkm8pLmGg0Qa2MnuGBOe6dgyWH2qKFOkVDkGClwDvEyGS/gajFRAiLUtVcV/9ITwSqnA/RhItWU1TKoA7gA44qWV7u8AXTMinQj6HCNXs/4gorWVg8R0mBXUA+HOT2715oFJg9iG9bPIf9oxFtpNKIIgre5d/vddm9ogyM6Fkm5CF+pNPdrQdVJu7tF2GcEaXbPRPHrKyMggV1GfjbUcxHFMUOTa9AOWV2SNoZVtvUvdQQdXJd/qHdsNXGVzINdErPa3mAIWOsRzfYAletPQUatAHUivE3L6hnkJ/mneWFX9BBclYA6w8kAKFeCIkd39kxB+gid/w78A1Y1DUoKOchFMTSM3lYeiH31p1KYWe2JG7QhCGt9rSgQKNqad6U++p7Xecem1vQ==;81/DhfsDYV5JpvWNMJYDUQ=="

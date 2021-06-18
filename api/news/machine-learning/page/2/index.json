@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-07-machine-learning-security-needs-new-perspectives-and-incentives.md",
+      "title": "Machine learning security needs new perspectives and incentives",
+      "excerpt": "The DeepSloth attack technique targets adaptive deep neural networks and is optimized for fast and sensitive operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
+      "originalUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2021/06/early-exit-architecture-examples.jpg",
+          "width": 884,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/06/machine-learning-security-needs-new-perspectives-and-incentives/amp/",
+      "publishedDateTime": "2021-06-06T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-ihp-offers-access-to-memristive-technology-for-edge-ai-computing-or-hardware-artificial-neural-networks-applications.md",
       "title": "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications",
       "excerpt": "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements.",
@@ -1319,40 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-a-new-frontier-of-ai-and-deep-learning-capabilities.md",
-      "title": "A New Frontier of AI and Deep Learning Capabilities",
-      "excerpt": "Thanks to robust HPC systems, compute capacity and data handling are powerful and affordable enough that many organizations are beginning to invest in a new frontier of AI and deep learning capabilities. HPC solutions coupled with advanced data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/",
-      "originalUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/?amp",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/hpe-solutions__trashed/new-frontier-ai-deep-learning-capabilities-2/?amp",
-      "publishedDateTime": "2021-05-28T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

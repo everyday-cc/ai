@@ -24,78 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese startup Pony.ai plans to launch a driverless robotaxi service in California in 2022"
-    excerpt: "Pony.ai, the robotaxi startup that operates in China and the United States, has started testing driverless vehicles on public roads in California ahead of plans to launch a commercial service there in 2022."
-    publishedDateTime: 2021-06-15T19:46:00Z
-    webUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/"
-    ampWebUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
+  - title: "Chinese AI Learns To Beat Top Fighter Pilot In Simulated Combat"
+    excerpt: "A Chinese AI system has defeated a top human pilot in simulated dogfight, according to Chinese media. This echoes DARPA's AphaDogfight result last year in which a machine also won, and signals how rapidly Chinese AI is maturing."
+    publishedDateTime: 2021-06-18T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/"
+    ampWebUrl: "https://www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/06/18/chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 94
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-15-at-12.26.33-PM.png?w=1024"
-        width: 1024
-        height: 509
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cc6e5548b6eb44420ee50c%2F0x0.jpg"
+        width: 959
+        height: 499
         isCached: true
-  - title: "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022"
-    excerpt: "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022."
-    publishedDateTime: 2021-06-17T08:52:00Z
-    webUrl: "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/"
+  - title: "Chinese air force applying artificial intelligence to air combat training"
+    excerpt: "The adoption of artificial intelligence (AI)-based technology in pilot training by China's People's Liberation Army Air Force (PLAAF) has progressed to use in"
+    publishedDateTime: 2021-06-16T00:00:00Z
+    webUrl: "https://www.janes.com/defence-news/news-detail/chinese-air-force-applying-artificial-intelligence-to-air-combat-training"
+    ampWebUrl: "https://www.janes.com/amp/chinese-air-force-applying-artificial-intelligence-to-air-combat-training/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+    cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/chinese-air-force-applying-artificial-intelligence-to-air-combat-training/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
-        width: 731
-        height: 393
-        isCached: true
-  - title: "AV startup Refraction AI's driverless robots to deliver pizza in Texas"
-    excerpt: "Pizza lovers in certain areas of Austin, Texas, can now have their pies delivered via robot. The REV-1 robot is the product of Refraction AI, an Ann Arbor, Mich., autonomous vehicle startup. The company is expanding its reach,"
-    publishedDateTime: 2021-06-16T18:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/av-startup-refraction-ais-driverless-robots-deliver-pizza-texas"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 71
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Baidu to make thousands of robotaxis for a driverless service in China"
-    excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
-    publishedDateTime: 2021-06-18T07:07:00Z
-    webUrl: "https://www.econotimes.com/Baidu-to-make-thousands-of-robotaxis-for-a-driverless-service-in-China-1611110"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 54
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202106183520da4606aa8075b_th_1024x0.jpeg"
-        width: 640
-        height: 420
-        isCached: true
-  - title: "Huawei targets driverless car by 2025"
-    excerpt: "Huawei is developing a self-driving system and will likely license the technology to established automakers in China and potentially elsewhere."
-    publishedDateTime: 2021-06-15T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132601_huawei-targets-driverless-car-by-2025"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-arcfox-alpha-s_100795744_h.jpg"
-        width: 1920
-        height: 1275
-        isCached: true
+      name: Jane's Information Group
+      domain: janes.com
+    quality: 51
 
 secured: "VAmw/s3JPGvVvc+1QhImbpF174kDmx/bmceZ8ryaottaIkvbTGN5RV+s1rz/z1bIvtr1hwI42QNj6fMgbNFl4B5uLAAJvgo297AvWGijWKbKZDiZuJ4TcYn9NYeQfilorpguPS3rSWq2yLZ/6BajYHxV6hyx5tNmTQbzPEVX3VZpR0xSYfLUCqbguPsyCsOD6V7TK2n/xefqi1RJgkl3R7bdHdZpnPZRYBAsb0vjuq9jctmJNwynWYnJQIalDlB+pP/YW6DfRboAG/MZqMBT4yjgMlAJHwuZrsVW0j6+OyR6tF68R+neqBwdVclYcK1SWbozAO/3YaOb1hhpqlunveV4hT3WPy1+tRyzEXup/KaKZ1aWHpZ7XNXXKK1qDLz2B0jDKLkxmofIq06qWZjQLcW3oLTtj98Em7/GOHwbQuth1v2oHAFgpb7JGUTsRyW0qoVEYH0QsDEY2zkUoo/C4Pr8YqiukL6eVrr+UgBbZPjTlm+26CnmJdScfOY39pTeyFpXFnSOgfJxvZTczjYQJA==;gyieVsPU9Ut9+IannZuAIQ=="
 ---

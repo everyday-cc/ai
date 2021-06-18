@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-30-ais-ethical-issues-are-exacerbated-by-increasing-scale.md",
+      "title": "AI’s ethical issues are exacerbated by increasing scale",
+      "excerpt": "Tiernan Ray says AI has always carried the risk of abuses such as bias. The increasing scale of the field, however, in terms of the size of neural network models, the escaping compute budget, and the proliferation of generated content such as fake faces and fake writing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
+      "originalUrl": "https://www.zdnet.com/video/ais-ethical-issues-are-exacerbated-by-increasing-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/04/29/c0df2498-b572-4614-ab39-dfa291102684/thumbnail/770x578/116643acf3953d9cd3021d90abf233c8/20210422-tiernan-karen-ai.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-google-led-paper-pushes-back-against-claims-of-ai-inefficiency.md",
       "title": "Google-led paper pushes back against claims of AI inefficiency",
       "excerpt": "In a newly released paper, Google pushes back against the notion that training AI models significantly harms the environment.",

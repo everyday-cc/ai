@@ -132,6 +132,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Convergence of Telco and FinTech Businesses Can Drive Financial Inclusion In A Tough Economy"
+    excerpt: "New technologies available to telecommunications operators (telcos) and financial service providers (FinTechs) are combining to lead"
+    publishedDateTime: 2021-06-18T09:03:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/06/18/convergence-of-telco-and-fintech-businesses-can-drive-financial-inclusion-in-a-tough-economy/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 13
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/06/Mariam-Cassim.jpg"
+        width: 600
+        height: 940
+        isCached: true
 
 secured: "uVUSgWIAkALpDbhGJwZpkmmP+3TcfM9s8Bv1MDhnX3PfmN/Ld8qXR6ccYQFFZHAhdebhmVY2d1jPSOLiF/ENBVktAfk8w/QStjitqVUX4czJGpIinhbkG1mQ5d47fjDBxm4Rz4LuwV8aWnaD/YlyxkKCFSwEOeBuSb5lOm1Dtnaqk/o9y2gqvcEyQPeRZ99ehSdteq1mrKs7meENKGFqXciYqbrEM2b7ExWQivMrX3fhwzGFxQntjYPDKspCI5fsrcxhSCf9ewwfDpe+QXxztvgTjlkpC7nMnonTrYyvxW0OETA5vBMWSdWr2jrAftIlwwTvm2WYNp5WXecQCHKrEmim9KJCuATAhX72b4N7oj0=;1efjW2heNBmnGT8Uty5U2g=="
 ---

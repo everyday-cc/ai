@@ -43,33 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu inks partnership to build 1,000 autonomous robotaxis"
-    excerpt: "Chinese tech vendor expands its partnership with state-owned manufacturer BAIC Group to build 1,000 autonomous electric vehicles, for 480,000 yuan ($74,987) each, over the next three years."
-    publishedDateTime: 2021-06-17T02:00:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Baidu To Build Autonomous Taxis With BAIC Group In China"
-    excerpt: "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand."
-    publishedDateTime: 2021-06-18T08:57:00Z
-    webUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/"
-    ampWebUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/05/Baidu-Autonomous-a-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
     excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
     publishedDateTime: 2021-06-17T10:34:00Z
@@ -97,6 +70,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/chinese-ev-maker-arcfox-baidu-launch-new-self-driving-car/14166626619359232.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Baidu and BAIC plan mass production of robotaxis"
+    excerpt: "Chinese internet services giant Baidu is partnering with BAIC Group’s EV brand ARCFOX to jointly release Apollo Moon, a new...Read"
+    publishedDateTime: 2021-06-18T12:25:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-and-baic-plan-mass-production-of-robotaxis/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/06/ApolloMoon.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "China's Baidu unveils low-cost Apollo Moon robotaxi"
     excerpt: "Dubbed Apollo Moon, the 5G-ready robotaxi is based on BAIC's luxury EV brand Arcfox and equipped with autonomous driving technology from Baidu's business unit Apollo. One big advantage is Apollo Moon's manufacturing cost of 480,"
@@ -126,20 +113,6 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
-    excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
-    publishedDateTime: 2021-06-17T23:00:00Z
-    webUrl: "https://www.futurecar.com/4689/Baidu-Inc-to-Deploy-1000-‘Apollo-Moon’-Level-4-Robotaxis-Over-the-Next-3-Years-in-China"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 30
-    images:
-      - url: "https://img.futurecar.com/202106/17/l_60cbcfb6715a8.png"
-        width: 800
-        height: 472
-        isCached: true
   - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
     excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
     publishedDateTime: 2021-06-17T07:00:00Z
@@ -150,6 +123,6 @@ related:
       domain: nasdaq.com
     quality: 24
 
-secured: "stcRkdKlv9iOJeIDsOtsAiVKVBBORBmLWU4ZPHfFersc1Wd+Z6D4EjhxdvVEPhIdOLiz1pkDzniusMLQ0uXcH6WaOtCxU2Z4dHAMy/Uztq/LXQmb6cVnGa2qIHFonduEEdT1zrnH0l6uFBK5W0aRhjYXVscZvrQWiq5zhWGVWPhxUVIPtWQCsSwkJZqR2p1CbUz5ex3y3D+w1AAO1ImOIU5Qsc5DgJ2bmIURx5pcQL1hUzBqEbqUJByyMtpAb+470HWI+3azgC2ojJ6Nt+LcoNsmxnc7BRfiKciIXWQobpfDIlvS34ocI0nNRxMaBD4ktk9Xb3Ima61uSLd+LXgt/vFpVYaiKqUO/pdcJs/9JcI=;TPTPk9IqROn2FIYvKFrHQw=="
+secured: "mvbxAm+idxukY9deAHA2DMNxSNNKPzsCnv/foJtmPOzy6ROJKe4Jeu9v1veBnjIMwz2OAbaBH128W6HFqQEN3QqRmUlgI3y7X5OcFrUA9mhqJ9iYa7IYl+Zq7kSZBV/DxuAxrVELOL2VdS/wrqLWizf25ZiiwJD0R0n+C4j+K3nELsjLZ7dqycgLlOVUG7RK02z51qP3kH5wBsOdCMfqLUR3mf5JwobqealmPSXyiN5okGHI2Zq04wfNiWFKqPd/M4yG6Dg8hBa0oWpFwHjMdjY2vhvPcahDtQ/o9Az3ec5DKcvMDa6BQvkp8T2KsrMM0YR/CcPMSgXWVzCf3mTbV5JDldw/YHW2qN4fLrteHQe5nTDKjdnk9PfaA9jkyGVyX3WQZB1EXBynWr5S0v/dH8GsJt7ObLJRcQz+4FkljJDg71WFCbJTteQhvmjkhP2Xn8yvsaBtFm7+ggXuVCWyuu7b1g6ayHb60vpxYnCHHnLiMTIyHluyqlDxbJRPLAOnnGjVwfVyl4lgPM6y2Q5r7A==;vt+IIMbB1OKIm/F4a6xCkw=="
 ---
 

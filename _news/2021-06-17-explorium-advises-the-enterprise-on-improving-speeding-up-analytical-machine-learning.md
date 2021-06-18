@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/06/16/explorium-advises-enterprise-i
 webUrl: "https://siliconangle.com/2021/06/16/explorium-advises-enterprise-improving-speeding-analytical-machine-learning-awsshowcase2q21/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Zach-Booth-AWS-Startup-Showcase-2021.jpg"
         width: 1920

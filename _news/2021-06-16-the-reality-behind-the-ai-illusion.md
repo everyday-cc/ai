@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-realit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring AI ethics and accountability"
-    excerpt: "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ..."
-    publishedDateTime: 2021-06-13T20:05:00Z
-    webUrl: "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/"
-    ampWebUrl: "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 76
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/06/15/GettyImages-1233463026-765x540.jpg"
-        width: 765
-        height: 540
-        isCached: true
   - title: "Nurturing a Relationship between AI and the Security Team"
     excerpt: "No matter the industry, adding AI technologies to work processes has made a lot of employees nervous. There is fear that automation is taking over and that robots will eventually push out the human workforce."
     publishedDateTime: 2021-06-14T08:50:00Z

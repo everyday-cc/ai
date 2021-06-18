@@ -60,20 +60,6 @@ related:
         width: 960
         height: 539
         isCached: true
-  - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
-    excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
-    publishedDateTime: 2021-06-15T19:29:00Z
-    webUrl: "https://siliconangle.com/2021/06/15/iterable-raises-200m-2b-valuation-ai-powered-marketing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/iterable.png"
-        width: 932
-        height: 521
-        isCached: true
   - title: "AI-powered customer relationship startup Introhive raises $100M round"
     excerpt: "Artificial intelligence-powered customer relationship management startup Introhive Services Inc. announced today it has raised $100 million in new funding to do strategic acquisitions and expand its global footprint."
     publishedDateTime: 2021-06-17T03:11:00Z
@@ -112,6 +98,6 @@ related:
       domain: prnewswire.com
     quality: 4
 
-secured: "52nvJ0x+O2vKM3ocUFczd/cSjvxvPXhpZFB1vFI91j2Iy+8A2YxDpUGbEf0q9YnPcanTYC9bJCmRBfUjS2r6Hw9koLdChW9VzTkdAh5aPcxWCW46tcPbj1yBZ4SDIQAWfJUWBi8DHx3Repk4JCGNlk5oyRuTbuvAjzpqLpp/W/IDtm16FYsf9rqEB/YvTrjLYVvT5PEEiNArUAxQPXMd9KATQeSciHYqiYAyxPzA2zlLe1XOI4vejkPhbe1sKI9E7owHkWqSewn6rFSdN4EJtsr+KdgCTPfF5dC1ebPfhAVQ0J6zxB8KYN848s0zWla8YmI+yQMReVTPiw8pravPbXCS0cfEXIswSjwWw5RRx9E=;+Qu3NHT6tDia7lDs+4VREw=="
+secured: "FFYr9ervXo0lm5HIjidVrYAKKSr5U1ie1O0UeNWE/pF9ChGBuy/Fh0YOak78W2WHuLRr/to/ObC9fSA5E0S0OUyqNhaj5SYa9DIG8jrBgZlVTkcnqU9Y8+8jreaSFtNVZBlRCwY9MGmBtrIciQLlZC3nmJueSjI5O51TEIVqWZ1BC+oBumkXPr91VCsDG0ukntBSjbvysOVYZBcQkcmDkrrB9OvAlXi02zamWgqoaaM86kT1fzJBgLRvSHWLEATHreHwZ2lMw1RxtOSheMDGmDDKqZAN3QWoNr2vTBBmmWp/eyfCWVtjuUkQw6mh9iFZwlM74roKI4Pg34DBuZssICZB4vk2TPKbzSfI9HafOlDzdojxUYZIcCWpMt7o6MeGzd9mi208mRLcp5ZXSIosldPaPaxZkxVBa6pD+cuR75Rev4Z308cHAinku6DKRADQ6NazeHzcv8Wn9zGxDbwP0ig5T9MdgqRBc5LFoWqOSalVg8tFqo0plHZsSsA0a4+lBqJU1vzJ1TbgQYEwGfUmlA==;8zE772bBJk5BRABWHprgUQ=="
 ---
 

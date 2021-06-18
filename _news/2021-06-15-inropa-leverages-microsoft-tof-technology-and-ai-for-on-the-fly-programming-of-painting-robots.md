@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T22:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T20:46:00Z
+originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Theum Now Available in the Microsoft Azure Cloud"
@@ -210,7 +216,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
-secured: "wbSofBmd1euFr40gs3eJdO7dCau/tSl2tme09tALk219ddVOKmQJkOAhK9i1+YXu28kULppFRytqVSxYbxBEdsZVh+hnvS4SQ2NLCS7iunwEeuaIdpQmOSXiKy/JG2lHc4AAiNTgvc2iOIgYPyg1Iu/dWpHo73gX3JsX01x13oREJI5V+0eEGEZACavh2nyyo8Hljve/4TQCwl0BNkw7cRMN7OsNyFPiU2AfE/6FP6DRzTkUimkFxXw2XmaJlGX6VKZgS21UGhoUOWg0Kmd81eT172aNdnEuGRBQrtNME8y2BiAVsQcfTN/cgb+4ULZ4zRZ/selOT78fLrpf6PimpteeLxA9xjvXmJ2eK0x+tmQ=;5kEA4pV+C4ZxzHaBY2wqPQ=="
+secured: "/IWi6t37Pn/mWreEpXRm9XFv/cily8Oc8P6qSSLUme/YVUXfb9bfTtwS9qWMPn5JUmnXdDrDe3ENwVKpYl1geaXExmel05Vh9SnYLBNOtpaV5O5eKCxfbOWkt5NNwFFoF0r9PJt3J+S7Ft+84kQNr30E21lZgorKN+ZfA7Ckzj5wyaWakJn0zu8qozkA9LqM0tjVTq1AaZ0dac+XgXA5VsnqMXE0fjjmGDwRjy0w5/DE3PiYEI3W4PvSQVTnjyTJB537wXGbEJtxm0ptTEdrKWkGBWABZoj4YpgnEz0EQ3gZMNlBfszTJLyFHWJhZ5DV8jTVS3KIiphIJseM9z2OrQ8hATBEaUQDJ+lBzEOvTGU=;Uk5t5HBiuUSG/jFnKWj7lA=="
 ---
 

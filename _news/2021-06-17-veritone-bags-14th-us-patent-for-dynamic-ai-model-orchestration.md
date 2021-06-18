@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/veritone-bags-14th
 webUrl: "https://markets.businessinsider.com/news/stocks/veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration-1030533252"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         height: 270
         isCached: true
   - title: "Veritone Awarded US Patent for Dynamic AI Model Orchestration"
-    excerpt: "(Nasdaq: VERI), the creator of the world's first operating system for artificial intelligence, aiWARE™, today announced it has received a new US patent for its Conductor technology that performs dynamic AI model orchestration through the use of a proprietary deep neural network (DNN)."
-    publishedDateTime: 2021-06-17T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-veritone-awarded-us-patent-dynamic-ai-model-orchestration-/2021/06/17/9392953.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Veritone Awarded US Patent for Dynamic AI Model Orchestration"
     excerpt: "Veritone awarded its 14th US patent for technology that performs dynamic AI model orchestration through a proprietary deep neural network."
     publishedDateTime: 2021-06-17T19:11:00Z
     webUrl: "https://www.businesswire.com/news/home/20210617005644/en/Veritone-Awarded-US-Patent-for-Dynamic-AI-Model-Orchestration"
@@ -59,6 +50,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 21
+  - title: "Veritone Awarded US Patent for Dynamic AI Model Orchestration"
+    excerpt: "(Nasdaq: VERI), the creator of the world's first operating system for artificial intelligence, aiWARE™, today announced it has received a new US patent for its Conductor technology that performs dynamic AI model orchestration through the use of a proprietary deep neural network (DNN)."
+    publishedDateTime: 2021-06-17T15:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-veritone-awarded-us-patent-dynamic-ai-model-orchestration-/2021/06/17/9392953.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "A8EXFf++34Na6Yui1jKiegy8Qhz83GBf4qhX8gQapWmSanEd9LOJYjCBG9OW/GWiRduHFs1sOEbhfkainHoSXfJabdAoMwuj161lZFIFw3QxUzMQwFguqXSow29C5OsmdIKn6WhbAmFDClrlTNeuV8edEPFwQ9IWVobMdEA0qgI37Ay3T3Kh8hVMtIf7NYp3AZsHIApoH9dREyxYJd0zWYUUKCnRQdBRun5jc408vEV3sWIJI5DbaRjxAHgR5j6bCr0z5BJBZX8kZAAAu5sh9kpNJRNf9RhrqqL+3l+aBVe5+JsNFaxeiGGMZZFEG2rcNhXABa0SRzyciIdxQU177i0GS5kFArF9rmlnb9tvpRfyzXMqZy9pCFhm+RIeSVbtXhzhv6ypb/m57tpiNx9S/5varztLnn4Q93jfsWAWJ9TGV3laCcWmu9mmHWBGtC0VXcMYFqigY4GuWAhRw8fykTe58ASH+6wHjc0pQ0XOSw4ziZ5Ih71OLpS67jyoF2fKRwfN0h0Uwjxm6kVKa/rMvA==;MOPcee6xiRzOfGRI8T8DzA=="

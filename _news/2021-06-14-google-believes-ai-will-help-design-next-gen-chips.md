@@ -57,6 +57,20 @@ related:
         width: 700
         height: 535
         isCached: true
+  - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
+    excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
+    publishedDateTime: 2021-06-18T13:29:00Z
+    webUrl: "https://nextconf.eu/2021/06/ai-assitive-intelligence/"
+    type: article
+    provider:
+      name: nextconf.eu
+      domain: nextconf.eu
+    quality: 47
+    images:
+      - url: "https://nextconf.eu/wp-content/uploads/2021/06/BlogShareImage_AssistiveIntelligence-1024x538.png"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "CZl38rrjE7NnLH31+2zL+PkdjerjfVEaZzNQTlZuGTdtggOw8MUchlHeJqKTM3cjvoTCcydhp0QkeRsJo9HyihEskY3lMrGl6jrUC76xtoDzi4+BRMaF040Fb/UzEhPufiFRNox6qXiZ+8oR6V28VEhvNzD1wtKudmKg0dpgHE/RpEzJcw9ba3imLw32PCGp54O4KBfktUD4LnbFQw84yXlW1WD/6h26rbVULzgR2qn5MkUwykSRbKPDU3FL4b4Fq7tmtJKk87mvqC4rFrGtC/nEWpIum2xy9WDmQg20QIo2QJoJpjqS9jMzxOBawq+0+fRRDEUDMuQKlCoU2vIf0MBJqjlTNC+HoYT7yzZ5RZkVGHTWUb6/Nay3nNMLs9PI8FeeF30J3YuSsXOwUuMehyJ45WXzc6aOxEpXlqHZ8tbjA7C1W05VCogc9czKOBgvvwgKnQHGpwsT2mPUaP61RRRZDgIk0Yx1fevdS++OTGp5UPBrX37AoBnng7R6Ztt5hBT/v2BBf9CfqmFWxSno9A==;ZowyliJmFw04zXcEqjrwBQ=="
 ---

@@ -144,6 +144,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
+    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-14T20:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 42
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-06-16T18:31:00Z
@@ -192,15 +206,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T22:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-18T09:45:00Z
@@ -210,6 +215,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
+    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "3TpXn4QdDf7A0dvs3UnusvFU594bt5Kip4FA8ksTA8qyKw9QoLyMCMTsL7mAK3monqyROLxxBEQiE/q94Qdaw3RzmDuP9NBNk+q0oTkCqMQgUDhcqkDbINnZk5waZ7Z8kwLIbqFSGCD0ZuL7DjH9IGeSLXY2nxX7t7MjkCtgRnvoEq37U2Qu0F+vQGV3N/tJXqdmTgMHHUWfDLkEHHdd23xV9oUJ5/d+kY4vgWPd+pvSrFaIKEXhu2WAk4vPxyhXXI6cNOFyuVUi/yMTJXXylTz7061WgTDrKiHohncAICaTTMui0XY+cBk7pT+HR0c7Kmyy4RA16K0zXDaJWBMMLTttaaEunbgAKJxD5ThU7/qwb48OxQfVK2RfD8q62wHKniqmipljkd3w+fIqfxlTRTJ+XciVAQmqHnBXGJDlwezz1fVIVHdLJ6c2GTzjVVMoDKdLTBp9uQ72LGVRFfGLjvYwxCTdtw2yU/aTD+OxtbacrBadedMtFvKWiEVgb8HN10rMaF+O4KfXO+utfi4REA==;OaRDVMK+1PBdLPEqYpL04A=="
 ---

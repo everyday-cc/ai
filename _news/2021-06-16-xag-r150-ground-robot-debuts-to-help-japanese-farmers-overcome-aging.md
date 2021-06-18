@@ -1,27 +1,27 @@
 ---
 category: news
 title: "XAG R150 ground robot debuts to help Japanese farmers overcome aging"
-excerpt: "Seeing the potential of drones in reshaping agriculture, Japanese farmers now expect the first mass-produced, lightweight farm robot XAG R150 to reap a"
+excerpt: "Seeing the potential of drones in reshaping agriculture, Japanese farmers now expect the first mass-produced, lightweight farm robot XAG R150 to reap a higher yield with quality fruits. As Japan's population is aging fast,"
 publishedDateTime: 2021-06-16T14:04:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xag-r150-ground-robot-debuts-to-help-japanese-farmers-overcome-aging/article_e6081b3a-4029-5fa0-b6fd-2e366b4e9530.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xag-r150-ground-robot-debuts-to-help-japanese-farmers-overcome-aging/article_e6081b3a-4029-5fa0-b6fd-2e366b4e9530.html"
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210616cn13206/xag-r150-ground-robot-debuts-to-help-japanese-farmers-overcome-aging"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210616cn13206/xag-r150-ground-robot-debuts-to-help-japanese-farmers-overcome-aging"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/fc/0fc3b4f6-5e1d-57ce-9cf1-645b7d8a0f89/60ca08463dcd5.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1534621/XAG_R150_Unmanned_Ground_Vehicle_roadshow_spray_mandarin_orange.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NeSvFdk5eU2wPi7MY3QMxD2Y8EQ/wyBU53Dd2pHwELd1rkfzob/e0rt6orBmPouCLm25+cEScPS8W6UvfTHWXKKHyKNF2XCs6QHhv0QJU5bBX5NBs0GGqzT9LTEhbUHcYIaqBTtvmeUP3o6CIQdcaHNJkR+IGELajTmAyhZdLiMdOdUJmJs5HL+6IlXzYNivagVuD4ZKgklFmlfd9nGxZWsk7/82PdsVSKb4JU1WPWIquCk3+b2Z4wuMsQXnPJOy+JB4scNnsLolxicEfQEw8N4s2WqOH07V6xfYo0zrO4hHDOHBMEaiIYLem7f075GZTA1eoXVrDCA0lUzjxZEdOzeAWG254AWdWLPIijTPzB4=;lTs+3tVPcQH+4t5wGLb8sg=="
+secured: "iP5AC/Muw/Y+BHc5+tO5Bx67d/ntGNbxA3JnkLVtKsRp1Wq8Fry/A208IWI8d+KMV4Ys73qSNrLUd+tKCZ8WXXhJxnj9JBfMIF719ZYZTLid0dB0DXv3SjKZQqXxEZKXi++J3P5voo9hzaE10oLu185aRlG2TTiMh0pH4RYyu3hhYGfvoMmch9DZLj5x0AFVGQDhwqHuPaBOxUDA0EhgFeCDV/91h35CGJxtOAJxB5cLvCvn5XfqSXCFMWr6a8++xfeFHBRfbqf1zQ+2InUZqXbuCeROmur0mIt9N9G3hMRUJ2ebtRSRyhnHgk8oBT1N9dT8YHmKB2dt1FyhgtEpH8yXneKRFN1F3BhHYbb+gAU=;Yuba7QI9mFyMPRbYsJurHQ=="
 ---
 

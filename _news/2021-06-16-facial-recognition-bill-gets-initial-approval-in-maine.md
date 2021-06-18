@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
+    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
+    publishedDateTime: 2021-06-17T23:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Information commissioner sets out facial recognition rules"
     excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
     publishedDateTime: 2021-06-18T10:51:00Z
@@ -174,20 +188,6 @@ related:
       name: WTOP News
       domain: wtop.com
     quality: 39
-  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
-    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-    publishedDateTime: 2021-06-18T11:01:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
     excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
     publishedDateTime: 2021-06-15T19:05:00Z

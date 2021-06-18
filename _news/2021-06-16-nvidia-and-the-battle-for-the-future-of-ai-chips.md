@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why maps are important to Nvidia’s self-driving strategy"
+    excerpt: "To Nvidia, maps are a critical component for self-driving cars, particularly regarding safety, which will be one of the main priorities to get consumers to adopt the technology. The acquisition of DeepMap adds AV-specific HD maps to Nvidia’s Drive platform — the company’s software-defined end-to-end AV product that includes deep neural network training and validation in the data center for compute in vehicles."
+    publishedDateTime: 2021-06-18T12:29:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16848/why-maps-are-important-to-nvidia-s-self-driving-strategy"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "WbvePs9vJVbepVJHHgJpwAOmDmQwaEmyTPkA2pN0vIo4RD60Ey3iK3FUCCX4k6BMMgWpuwMtnJ4rFe/ubQSWTjss4Vn/dGzAS3uAUPBBMZ8YFI3QXu7kCsW8L7MRScX1SdoyycWCPqczxpEqjx8bYXM65tgHGF8U+SlDWOKneqIRE3ofJtWtQuv/ZZwpohvX1pTd+5PPn+F8HAK6lUcK/jL2qkFavyM6N5MYy6tP6pvwgNg7/qjylOjvEjeo9hG6UagKGiXjK1DcYc2kmYQD8vlo4YzssIFLACgLjrtwJktQ9fGHryybubHkgXJBOJFl1trG9DzSSuA8F8P+dQ5sapSI6cWnWfWrmbdtJl31DTacyiTlOjwnzp/OhxutCg8lfwU0X5lQWFKSh36ApJpy3MdQOANrMIfS2OqDmg7hxEu1I4jJtbjgoa28W90kRrlaWAYtp1fWXRH1+XppY5dF3nAPOG59RVIEcoHc1UPL8YLmv0lYOBIBOaiImZVH8FZHvSujukzoauOEunKI92X3hQ==;bzPqCF4u3QN8UFE8LgsyEg=="
 ---

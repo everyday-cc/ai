@@ -2,6 +2,238 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
+      "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
+      "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "originalUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U615488872_g.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "publishedDateTime": "2021-06-15T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-how-the-online-gaming-industry-gets-an-ai-boost.md",
+      "title": "How The Online Gaming Industry Gets An AI Boost",
+      "excerpt": "Technology in the last few years has made significant changes in how we communicate, collaborate, and even engage with our target markets. Gaming",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/04/Sony-Xperia-XZ2-Premium-AH-NS-gaming-PUBG-AH-2019.jpg",
+          "width": 1463,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp",
+      "publishedDateTime": "2021-06-14T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-apples-ai-focus-privacy-by-design-iphone-by-default.md",
+      "title": "Apple's AI focus: Privacy by design, iPhone by default",
+      "excerpt": "At WWDC, Apple's smartphone received the lion's share of AI-driven features while the iPad and Mac improvements focused more on user interface refinement and tighter ecosystem integration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "originalUrl": "https://www.zdnet.com/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/06/08/83628db0-ccf8-417d-b7c7-4127a9c7a3ab/thumbnail/1200x675/7471659177dd3ef7658478d69c529c3f/20210607-larry-jason-wwdc.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "publishedDateTime": "2021-06-14T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm.md",
+      "title": "AI Ethics Q&A Series: Minimize And Mitigate Algorithmic Harm",
+      "excerpt": "Cornell's Manish Raghavan talks about ways to minimize and mitigate the negative impacts of AI and the most significant barriers to organizational change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
+      "publishedDateTime": "2021-06-14T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks.md",
+      "title": "Best of Show Winner Finn AI Adds to its Chatbot Offerings for Banks",
+      "excerpt": "Finn AI, the two-time Best of Show winner whose conversational AI technology has helped banks and credit unions add to their digital engagement solutions, announced a set of new additions of its own today.",
+      "sourceUrl": null,
+      "webUrl": "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/",
+      "originalUrl": "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/pexels-kaboompics-com-6069.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finovate.com",
+        "domain": "finovate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102.md",
       "title": "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2",
       "excerpt": "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for t",
@@ -849,7 +1081,7 @@
       "originalUrl": "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -967,237 +1199,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-palantir-vs-c3ai-which-is-the-better-artificial-intelligence-stock.md",
-      "title": "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?",
-      "excerpt": "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630124%2Fgettyimages-1223301957.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "publishedDateTime": "2021-06-13T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-who-and-the-sea-change-in-mental-health-interview-with-michelle-funk.md",
-      "title": "WHO and the Sea Change in Mental Health: Interview with Michelle Funk",
-      "excerpt": "MIA's Ana Florence interviews Michelle Funk about her leadership of the new WHO guidelines on rights-based mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/case-studies/mayflower/?utm_medium=OSocial&utm_source=Twitter&utm_content=000033YX&utm_term=10009339&social_post=4872084071&linkId=119738152",
-      "originalUrl": "https://www.madinamerica.com/2021/06/who-and-the-sea-change-in-mental-health-interview-with-michelle-funk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/case-studies/mayflower/static/Mayflower_img1_1200w.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mad in America",
-        "domain": "madinamerica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-amazon-offers-online-course-in-machine-learning.md",
-      "title": "Amazon Offers Online Course in Machine Learning",
-      "excerpt": "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "originalUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "publishedDateTime": "2021-06-13T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired.md",
-      "title": "Mojo Vision’s Smart Contact Lens Could Be Transformative For Sight Impaired",
-      "excerpt": "Mojo Vision, a California-based startup, is developing an electronic contact lens that can digitally enhance what the wearer sees. The company intends for Mojo Lens’ initial application to be as an assistive device to help people with sight impairments see the world in an entirely new way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c52a1420ff18bf417d3713%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
-      "publishedDateTime": "2021-06-13T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-neural-network-keeps-it-light.md",
-      "title": "Neural Network Keeps It Light",
-      "excerpt": "As the jobs we ask of neural networks get more complex, the networks require more artificial neurons. That’s why researchers are pursuing dense integrated neuron chips that could do for neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
-      "originalUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/11/nn.png",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

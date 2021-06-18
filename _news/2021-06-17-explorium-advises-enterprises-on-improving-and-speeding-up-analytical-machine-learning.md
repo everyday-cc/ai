@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-16T21:22:00Z
 originalUrl: "https://siliconangle.com/2021/06/16/explorium-advises-enterprise-improving-speeding-analytical-machine-learning-awsshowcase2q21/"
 webUrl: "https://siliconangle.com/2021/06/16/explorium-advises-enterprise-improving-speeding-analytical-machine-learning-awsshowcase2q21/"
 type: article
-quality: 31
-heat: -1
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Zach-Booth-AWS-Startup-Showcase-2021.jpg"

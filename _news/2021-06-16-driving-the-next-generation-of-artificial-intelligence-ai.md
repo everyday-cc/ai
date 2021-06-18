@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Five Recommendations For Creating More Ethical AI"
-    excerpt: "One of my favorite quotes that I feel sums it up well, famously attributed to Sun Tzu, is, \"If you know the enemy and know yourself, you need not fear the result of a hundred battles.” Using the same analogy in the business of creating ethical AI,"
-    publishedDateTime: 2021-06-18T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89b3125364e8f90ba67838%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI moving from POCs and pilots into operations"
     excerpt: "The COVID-19 pandemic accelerated the adoption of artificial intelligence and its use in day-to-day operations."
     publishedDateTime: 2021-06-15T15:34:00Z
@@ -133,6 +117,20 @@ related:
         width: 1199
         height: 499
         isCached: true
+  - title: "Making operations safer with digitized data acquisition and AI"
+    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
+    publishedDateTime: 2021-06-18T12:20:00Z
+    webUrl: "https://idw-online.de/de/news771038"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
+        isCached: true
   - title: "AI Stock Buying Levels, Ratings, Valuations and Trend Analysis into Market Correction"
     excerpt: "This is part 3 of my recent extensive analysis focused on updated buying levels for my AI tech stocks portfolio going into the summer stock market correction, of what I will be looking to accumulate at what price levels."
     publishedDateTime: 2021-06-17T21:09:00Z
@@ -146,6 +144,20 @@ related:
       - url: "http://www.marketoracle.co.uk/images/2021/May/Nvidia-stock-trend-analysis.jpg"
         width: 800
         height: 540
+        isCached: true
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
+    publishedDateTime: 2021-06-18T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1413
         isCached: true
 
 secured: "q9W/8Rq+A/jmW+xV045KEmbKofIoz19nAPu088Zrud3OjL9gk1or9x/geJOujQS5IGyuhETYxTDp9k05jTJ3gVpZHRQCYExv9pIeAOH3ossTqhgBmwlU3tQxjBhuFzyOaBPp/Eyh3TYro7K0yqzs/X777+HWiHBVAzw2e9fSgB/VTKXlr3+Tj3VzqKrhwerPmFokp07zMvNXHDXG1HM93i5Ac/b60VF4oV/NlUhEPH66WUCXQEdMNy2DjxJpSt2WP6elNkpI+veRKmrpqwvbPmdj2AyWRqEBHT8zxLnh6SgXCYaF9OTDvKP9VkO89ZmidPNqXMippQ183kQzuZ4PoCrCJyc1G/p3RsszPs0wclXcbFvrAcTOftw7GJfQ3SRzmiTpba4Ts6D85IS792HPLn21KdRc/dVvm0aC83aoApUYoZne7LmeKkcGdPeusclR1eHLr4AC9nJAwMhlP3II1gLZx9JHoqAz1xj4Xw8r+wWXLR5dph11dlkJxd9soEZsbdEOc1/aNJUrUZtCEUPemQ==;qHswldCFFC6rD7SWEWc1dQ=="

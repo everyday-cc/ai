@@ -10,7 +10,7 @@
       "originalUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -156,7 +156,7 @@
       "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -587,6 +587,41 @@
       ]
     },
     {
+      "path": "_news/2021-06-09-moduleq-the-people-facing-ai-company-achieves-iso-27001-certification-for-information-security.md",
+      "title": "ModuleQ, the People-Facing AI® Company, Achieves ISO 27001 Certification for Information Security",
+      "excerpt": "ModuleQ, the AI solutions company that empowers professionals with business-relevant timely insights, announced today the achievement of ISO 27001:2013 certification for its information security management practices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9387088.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9387088.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities.md",
       "title": "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities",
       "excerpt": "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities",
@@ -739,6 +774,40 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
+      "title": "Intento Named a 2021 Cool Vendor by Gartner",
+      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1286,74 +1355,6 @@
       "provider": {
         "name": "legalitprofessionals.com",
         "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-nfl-pledges-to-halt-race-norming-review-black-claims.md",
-      "title": "NFL pledges to halt ‘race-norming,’ review Black claims",
-      "excerpt": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive ... from wire services such as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
-      "originalUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azure-marketplace.md",
-      "title": "Uptake Fusion Cloud Datastore for Ignition by Inductive Automation Now Available on Microsoft Azure Marketplace",
-      "excerpt": "Uptake, the leader in Industrial AI and Analytics, announced today the availability of Uptake Fusion Cloud Datastore for Ignition",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21392407/uptake-fusion-cloud-datastore-for-ignition-by-inductive-automation-now-available-on-microsoft-azur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21392407",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21392407",
-      "publishedDateTime": "2021-06-02T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

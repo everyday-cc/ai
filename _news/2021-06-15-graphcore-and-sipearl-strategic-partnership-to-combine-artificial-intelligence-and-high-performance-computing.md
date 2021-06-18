@@ -32,6 +32,20 @@ related:
         width: 314
         height: 406
         isCached: true
+  - title: "Graphcore, SiPearl team for AI supercomputer"
+    excerpt: "Chip designers Graphcore and SiPearl have signed a strategic deal to develop integrated hardware and software for AI supercomputers."
+    publishedDateTime: 2021-06-18T12:45:00Z
+    webUrl: "https://www.eenewseurope.com/news/graphcore-sipearl-team-ai-supercomputer?fnid=138491"
+    type: article
+    provider:
+      name: eeNews Europe
+      domain: eenewseurope.com
+    quality: 39
+    images:
+      - url: "https://eenews.cdnartwhere.eu/sites/default/files/styles/facebook/public/images/01-picture-library/business-cooperation.jpg?itok=_m6CR3Ks"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "3AOwcP2Id1Eo7uKWXUVGjQ8gbyEnv+rVjJqzcYHdNZU6PtP0UPyz6NqhFatq2yjR8oHoSqDUDDjhiuDxyzJo4+vWE4Fp1CVu38LhvtCsS8oErcT3Ie3sajUQ3Yada/NxIGYKkQW9u1ZUTWhKAYbkO2RfGjZePEbEMGd4i24DsQ7bOHYoH8/O5YoKRV4XKATEOxpb5tuoXl15ax3NKrbdODxDtKuTgTb1Gu64D4XBr20pqj4q2/2+wSbxe904gYntOExzOojxqlpE+pHz7sifeloMxWTCKN2TVSHU5wqqrP/NLn0WiHxJsTB6rrLK0lAam2sXe8VybbvasPRiNUAgG58B3c3ZPN0AM54T2K9Ti2aXshsxpGIif6HKepwgULaoBkXYzPbV8Rd9+tuodMUUKoFcS9Me5+TyUiuhnNiMS7F7m3BTjTR7S0AYmwg5aWqc77axBMGXbTu5EBhX+2Eq7F1mVNLLMx3cAlVnKJfSov8m9AFeZPb800cecb57nZx76+qiQJvFhk/wb6nJHRTJjA==;QqdEC8fSm73Jpdv4sTBY2A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-l
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
 type: article
 quality: 94
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu pushes to put driverless taxis on China's roads, pledging to build 1,000 in 3 years"
+    excerpt: "Baidu has been testing driverless taxis but has now partnered with state-owned automaker BAIC Group to try and commercialize a robotaxi service in China."
+    publishedDateTime: 2021-06-17T06:26:21Z
+    webUrl: "https://www.cnbc.com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
+    type: article
+    provider:
+      name: com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html
+      domain: com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html
+    quality: 165
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106898520-1623904929198-gettyimages-1316042221-vcg111328269953.jpeg?v=1623905082"
+        width: 5184
+        height: 3456
+        isCached: true
   - title: "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022"
     excerpt: "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022."
     publishedDateTime: 2021-06-17T08:52:00Z
@@ -58,6 +74,33 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Baidu inks partnership to build 1,000 autonomous robotaxis"
+    excerpt: "Chinese tech vendor expands its partnership with state-owned manufacturer BAIC Group to build 1,000 autonomous electric vehicles, for 480,000 yuan ($74,987) each, over the next three years."
+    publishedDateTime: 2021-06-17T02:00:00Z
+    webUrl: "https://www.zdnet.com/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Baidu To Build Autonomous Taxis With BAIC Group In China"
+    excerpt: "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand."
+    publishedDateTime: 2021-06-18T08:57:00Z
+    webUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/"
+    ampWebUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/05/Baidu-Autonomous-a-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Baidu to make thousands of robotaxis for a driverless service in China"
     excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
@@ -87,19 +130,19 @@ related:
         width: 1920
         height: 1275
         isCached: true
-  - title: "Chinese startup's AI-based system to analyze road conditions"
-    excerpt: "Beijing Sinoits Tech, a Chinese tech startup that develops vehicle recognition technology, has raised tens of millions of yuan ($3 million to $5 million) in a pre-Series A funding round, 36Kr has learned."
-    publishedDateTime: 2021-06-15T03:16:00Z
-    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-startup-s-AI-based-system-to-analyze-road-conditions"
+  - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
+    excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
+    publishedDateTime: 2021-06-17T23:00:00Z
+    webUrl: "https://www.futurecar.com/4689/Baidu-Inc-to-Deploy-1000-‘Apollo-Moon’-Level-4-Robotaxis-Over-the-Next-3-Years-in-China"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 37
+      name: futurecar
+      domain: futurecar.com
+    quality: 30
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F6%252F5%252F34745661-3-eng-GB%252FCropped-1623642014%25E4%25BA%25BA%25E3%2583%25BB%25E8%25BB%258A%25E3%2583%25BB%25E9%2581%2593%25E8%25B7%25AF%25E3%2583%25BB%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E5%259B%259B%25E8%25A6%2581%25E7%25B4%25A0%25E3%2582%2592%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A6%25E5%258D%2594%25E8%25AA%25BF.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://img.futurecar.com/202106/17/l_60cbcfb6715a8.png"
+        width: 800
+        height: 472
         isCached: true
 
 secured: "RvQZ8KEEiy9XhsRcDZBvLUJGSPMunLu686zzO1yar2BHLalP4U1/FUOzeBCG5Jna5oJ6UmVjsc5y4P4okRjIBFjR8anUw5Nc4Auq5dSO9PifcMKEa5dD3xhOFsFhwyX+NXVcqQVSvdNkIRWbMava/o5AhhnIi9AmrVnJoylST49wnrRLyAw6PVJ5WLVlEWu0uoPz0yvRUke1TbnhWCY7pTLHdq6eE5zgnVTxkWw3FOvI/38IhB5cG5MLL8ES2xpoT9m7K7oSLgCfg6AdNZIJNqIPoxcVE6/h5uYdmze/GyEBdKw8fnjHybkzA6reJMjb2EQUSdOCHBm3xFA4Rqou+/2FuFpUY3nUiAdKFuKC83NRn0dckTlQdEakOzXKwQDegjQoNagmueov5Tvpm7vMqJ2OpXkOTjQcnrys+uOFNl+w4iVHGjsP60ildEdr++8LyIVfX/Kqb1gBN5Dl0q6SAs5AIaPRbZBvTIQO6uq0EJzRzFJ50VbbRWtMwAM8YjUOkthCrvP3EeQp9XlxRbg5RQ==;NOn6ITS4eAtjSzwVkusebg=="

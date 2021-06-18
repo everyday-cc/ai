@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T19:11:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210617005644/en/Veritone-Awarded-US-Patent-for-Dynamic-AI-Model-Orchestration"
 webUrl: "https://www.businesswire.com/news/home/20210617005644/en/Veritone-Awarded-US-Patent-for-Dynamic-AI-Model-Orchestration"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Veritone Bags 14th US Patent For Dynamic AI Model Orchestration"

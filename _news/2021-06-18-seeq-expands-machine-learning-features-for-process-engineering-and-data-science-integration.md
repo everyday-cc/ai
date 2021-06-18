@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T18:20:00Z
 originalUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
@@ -56,6 +57,6 @@ related:
         height: 313
         isCached: true
 
-secured: "UZwT9CugC7PnnaJuMb8R9uoXtoL+1mDAPZ4VGCCx8hQXTun1RTWHU+03C6FOs1PCIQgeUyFI3i2kB1wz5RVMhaML7Nbil6MrPPD0+F+koisVVVG8++Zygjgo6nzHAz6uQBxbj/P97qjK1eDwm6LxpEP32RkhDKx64hKPfRAx0v9gcmoyPmV1OOy+37vkH/6jLpcY02d0uz8tmDx88JeAbdwl2i8OfACs+8WflDPWSpO8M9I6syezcroAhyb14XGL7j7XEK50z8QSEsmnUo3xHiZrm3OKE+U8XUXESbtJC9UYf3YeVr8z0eRGIHZNPDxFXq9zUHzZ2oDVcj7fOqoJOTsHjxNeeainVEtH/Up4GBI=;4oAmpJkklEFrkSRUHXjB2Q=="
+secured: "nXbEqg87T1MnJ/Di1VDv72/phVk9SqxGsP+m1Y4WntGsm5921uP0OdtKUYBdPxtYGcOLLTt5hogGBUN+dHpQnZhydVyoCp9y0e5heRWFqA2ocr8ofDymLjx/Per1qJ0NBVXhjyhoY1aDG7hu3H4NldxWps2mEut+vz0F9gAywb4hqXvPMdBA/P+KuzsKaCz4GuTgkjcapDELcfplSw5bg55oDrF6IMF3Ql9CZzdttMLqAHINHZRjwvHOQJYBhHjJgG6keuB1+MGuGTtxkTwHgRYMmkD3pUzmkugYvmZZQpa/YHozTEUBKV3wYlvAzUlcUPFs7+E0RofO80PPgJnHV+tCTSxmWJsIsudeFLI30JUYJ1I5fBYbKs7CvcyKfme8ttzMnVnCFxNm9L3GJPjQUNCqy6H4KmfjV3NvOsg4snVALKSgg/pvlZ0fpJlHd5mWFoYR/1Q/Tj22bR/XgdpTGThJRKEPYaiyLSWwKHoNakrmNstWtPDAwLYWwqqoA+PuwRNkQmiJ2woCxTv89JVF/A==;HIiT9e8PNG6WFeBHBLnVHQ=="
 ---
 

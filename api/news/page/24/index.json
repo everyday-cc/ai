@@ -2,6 +2,309 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-05-29-rebel-ai-group-raises-record-cash-after-machine-learning-schism.md",
+      "title": "Rebel AI group raises record cash after machine learning schism",
+      "excerpt": "A breakaway group of artificial intelligence researchers has raised a record first round of financing for a new start-up involved in general-purpose AI, marking the latest attempt to create an organisation to guarantee the safety of the era’s most powerful technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "originalUrl": "https://www.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffedbcea4-dc08-4836-ae87-4fcf6a3cde59.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8de92f3a-228e-4bb8-961f-96f2dce70ebb",
+      "publishedDateTime": "2021-05-28T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines.md",
+      "title": "Intel’s image-enhancing AI is a step forward for photorealistic game engines",
+      "excerpt": "Intel's deep learning system turns 3D rendered graphics into photorealistic images, but it isn't ready yet to deliver real-time game engines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
+      "originalUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/31/intels-image-enhancing-ai-is-a-step-forward-for-photorealistic-game-engines/amp/",
+      "publishedDateTime": "2021-05-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels.md",
+      "title": "Automate weed detection in farm crops using Amazon Rekognition Custom Labels",
+      "excerpt": "Amazon Rekognition Custom Labels makes automated weed detection in crops easier. Instead of manually locating weeds, you can automate the process with Amazon Rekognition Custom Labels, which allows you to build machine learning (ML) models that can be trained with only a handful of images and yet are",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-weed-detection-in-farm-crops-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/28/8-3259-Comparison.jpg",
+          "width": 800,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T14:46:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-ai-in-a-post-pandemic-economy.md",
+      "title": "AI in a post-pandemic economy",
+      "excerpt": "Enteprises ramped up deployment plans for intelligent technologies during the pandemic, and the AI trend will continue post-pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/",
+      "originalUrl": "https://venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1213844380-e1622228315214.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/28/ai-in-a-post-pandemic-economy/amp/",
+      "publishedDateTime": "2021-05-28T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-on-thinking-machines-machine-learning-and-how-ai-took-over-statistics.md",
+      "title": "On Thinking Machines, Machine Learning, And How AI Took Over Statistics",
+      "excerpt": "In the sixty years since Arthur Samuel first published his seminal machine learning work, artificial intelligence has advanced from being not as smart as a flatworm to having less common sense than a house cat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b13f395e70ff270e5f6bc0%2F0x0.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/amp/",
+      "publishedDateTime": "2021-05-28T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn.md",
+      "title": "Anthropic is the new AI research outfit from OpenAI’s Dario Amodei, and it has $124M to burn",
+      "excerpt": "As AI has grown from a menagerie of research projects to include a handful of titanic, industry-powering models like GPT-3, there is a need for the sector to evolve — or so thinks Dario Amodei, former VP of research at OpenAI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
+      "originalUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/28/anthropic-is-the-new-ai-research-outfit-from-openais-dario-amodei-and-it-has-124m-to-burn/amp/",
+      "publishedDateTime": "2021-05-28T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
       "title": "India will see breakthrough application of AI",
       "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
@@ -880,282 +1183,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-artificial-intelligence-can-help-doctors-manage-covid-19.md",
-      "title": "Artificial Intelligence Can Help Doctors Manage COVID-19",
-      "excerpt": "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/COVID-Chest-X-rays.jpg",
-          "width": 777,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-help-doctors-manage-covid-19/amp/",
-      "publishedDateTime": "2021-05-27T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-this-5-billion-insurance-company-likes-to-talk-up-its-ai-now-its-in-a-mess-over-it.md",
-      "title": "This $5 billion insurance company likes to talk up its AI. Now it's in a mess over it",
-      "excerpt": "A key part of insurance company Lemonade's pitch to investors and customers is its ability to disrupt the normally staid insurance industry with artificial intelligence. It touts friendly chatbots like AI Maya and AI Jim,",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527152824-01-lemonade-insurance-app-ai-maya---screenshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/tech/lemonade-ai-insurance/index.html",
-      "publishedDateTime": "2021-05-27T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-the-lidar-range-wars-mine-is-longer-than-yours.md",
-      "title": "The LiDAR Range Wars - Mine Is Longer Than Yours",
-      "excerpt": "Its not a surprise given that 6 companies have gone public in the past 6 months and become LUnicorns via SPAC (Special Purpose Acquisition Companies) mergers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a04a594bb95cfc37bee15e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2021/05/27/the-lidar-range-wars-mine-is-longer-than-yours/amp/",
-      "publishedDateTime": "2021-05-27T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-robots-drones-and-ai-the-new-technology-making-waves-in-wash.md",
-      "title": "Robots, drones, and AI: The new technology making waves in WASH",
-      "excerpt": "From sanitizing open-air markets to identifying leaky pipes, robots and AI are increasingly found in the WASH space. Devex looks at the potential positives and pitfalls of engaging a \"robo-WASH\" workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312",
-      "originalUrl": "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh5.googleusercontent.com/DIrIWRji_Zokhv-x550QyWc7WwTJkHhX93_oSniSy9StDo8GvX6ryjuO083d1yMiRkuncZFccs-iAWenX0n0XY2kn2X7w-59eJQAUozXa2IzLTboF-E4zZUYwBa70UX4CcpEPC9u",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Devex",
-        "domain": "devex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-estimating-the-carbon-footprint-of-deep-learning-algorithms.md",
-      "title": "Estimating the carbon footprint of deep learning algorithms",
-      "excerpt": "IT students in Denmark have created a software program that can determine the energy consumption and the amount of CO2 generated by the development of deep learning algorithms. According to their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/09/estimating-the-carbon-footprint-of-deep-learning-algorithms",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/09/estimating-the-carbon-footprint-of-deep-learning-algorithms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/11/08/929991.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-google-ethical-ai-groups-turmoil-began-long-before-public-unravelling.md",
-      "title": "Google ethical AI group’s turmoil began long before public unravelling",
-      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

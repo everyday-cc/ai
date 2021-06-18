@@ -25,89 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Lexion raises $11M to expand its AI-powered contract management platform"
-    excerpt: "Lexion, a platform leveraging AI to streamline legal contract management processes, has raised $11 million in venture capital."
-    publishedDateTime: 2021-06-17T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/"
-    ampWebUrl: "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/"
+  - title: "Tractable raises $60M at a $1B valuation to make damage appraisals using AI"
+    excerpt: "As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding."
+    publishedDateTime: 2021-06-16T22:39:00Z
+    webUrl: "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 185
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/smart-contract.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01.png?w=1024"
+        width: 1024
+        height: 490
+        isCached: true
+  - title: "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures"
+    excerpt: "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs."
+    publishedDateTime: 2021-06-17T10:08:00Z
+    webUrl: "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg"
         width: 1200
-        height: 627
+        height: 600
         isCached: true
-  - title: "Lexion, AI-based contracts venture backed by Wilson Sonsini, raises $11 mln"
-    excerpt: "Lexion, an artificial intelligence-powered contract management startup aimed at in-house legal teams at mid-market companies, said Thursday that it secured $11 million in a Series A funding round."
-    publishedDateTime: 2021-06-18T01:28:00Z
-    webUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/7dMGSEvPpWtUrG2Pv2HyUMrjtxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PM3DYLXTWZNK7P3XCMCRTSQU64.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AI-enabled talent management startup ‘Sense’ raises $16 million Series C round"
-    excerpt: "The San Francisco based talent management startup has not only raised funds with the help of existing investors and India-based business-to-business (B2B) Avataar Ventures but also expanded its global footprint by doubling down on India operations."
-    publishedDateTime: 2021-06-17T06:07:00Z
-    webUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 53
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
-        width: 960
-        height: 539
-        isCached: true
-  - title: "AI-powered customer relationship startup Introhive raises $100M round"
-    excerpt: "Artificial intelligence-powered customer relationship management startup Introhive Services Inc. announced today it has raised $100 million in new funding to do strategic acquisitions and expand its global footprint."
-    publishedDateTime: 2021-06-17T03:11:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/introhive.png"
-        width: 1500
-        height: 889
-        isCached: true
-  - title: "AI-powered customer relationship startup Introhive raises $100M for further growth"
-    excerpt: "Artificial intelligence-powered customer relationship startup Introhive Services Inc. has raised $100 million in new funding for strategic acquisitions, to expand its global footprint and grow its headcount."
-    publishedDateTime: 2021-06-17T02:48:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-growth/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/introhive.png"
-        width: 1500
-        height: 889
-        isCached: true
-  - title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
-    excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance"
-    publishedDateTime: 2021-06-17T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-301314395.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "hIar/vVBXhpMCVZmnqjeQeP9aNVhYqM06gkM8YK6oNVi6tnicNydsYjWf/P0CelsG81Es+TR+RHRKlrs+bWiAEhRGjLP9Me/iN9y2GKzz1UfBLr78atlgy2mPelOqrBNOIhrrOeBCQX3z7VjZ+qSlpzaF2Swny1iPu4BfWwhLEQ6Hz4y+zGYY29ef+Iw1SoExnfrRb+ZkkiM2Ec/kRp2GXZw+fuEgDQTZQRuXEheO5AWc/qR8FVnH6ICwO06fXL/9paumGIFIX1s19rjCiZHMqHJIp7VphH4AKEJQY95o7arcRRHS4ar6cU2O/3rsxN4cBamkh0GDQ4krXfKzeCSHRpHUMbhK1ftMCSWe+nx3+g1y9042jG5vHUun3sK/8NchoSSjoAjvJ4y/U3gg9dABXS7Z9mVV6IJEBDYREV+JQXx4/qCBnye6BAOuNYEfGMrNCjfCCJgG+HNskpoNdLeOVAghrSfFuiaU9U1K2SRiK8QtsW2+v0X+WO1Ty6oxZT6T5i9ViaXbhCNkxDzMbm30g==;23gsiwNDU61E9pv5IIPFGQ=="
 ---

@@ -25,21 +25,65 @@ topics:
   - AI
 
 related:
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
-    publishedDateTime: 2021-06-17T09:42:00Z
-    webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+  - title: "Baidu pushes to put driverless taxis on China's roads, pledging to build 1,000 in 3 years"
+    excerpt: "Baidu has been testing driverless taxis but has now partnered with state-owned automaker BAIC Group to try and commercialize a robotaxi service in China."
+    publishedDateTime: 2021-06-17T06:26:21Z
+    webUrl: "https://www.cnbc.com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
+      name: com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html
+      domain: com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html
+    quality: 165
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/106898520-1623904929198-gettyimages-1316042221-vcg111328269953.jpeg?v=1623905082"
+        width: 5184
+        height: 3456
+        isCached: true
+  - title: "Chinese startup Pony.ai plans to launch a driverless robotaxi service in California in 2022"
+    excerpt: "Pony.ai, the robotaxi startup that operates in China and the United States, has started testing driverless vehicles on public roads in California ahead of plans to launch a commercial service there in 2022."
+    publishedDateTime: 2021-06-15T19:46:00Z
+    webUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/"
+    ampWebUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 94
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-15-at-12.26.33-PM.png?w=1024"
+        width: 1024
+        height: 509
+        isCached: true
+  - title: "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022"
+    excerpt: "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022."
+    publishedDateTime: 2021-06-17T08:52:00Z
+    webUrl: "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
+        width: 731
+        height: 393
+        isCached: true
+  - title: "AV startup Refraction AI's driverless robots to deliver pizza in Texas"
+    excerpt: "Pizza lovers in certain areas of Austin, Texas, can now have their pies delivered via robot. The REV-1 robot is the product of Refraction AI, an Ann Arbor, Mich., autonomous vehicle startup. The company is expanding its reach,"
+    publishedDateTime: 2021-06-16T18:40:00Z
+    webUrl: "https://www.autonews.com/mobility-report/av-startup-refraction-ais-driverless-robots-deliver-pizza-texas"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 71
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Baidu To Build Autonomous Taxis With BAIC Group In China"
     excerpt: "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand."
@@ -57,77 +101,33 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price"
-    excerpt: "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors."
-    publishedDateTime: 2021-06-18T11:32:00Z
-    webUrl: "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
-    ampWebUrl: "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
+  - title: "Baidu to make thousands of robotaxis for a driverless service in China"
+    excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
+    publishedDateTime: 2021-06-18T07:07:00Z
+    webUrl: "https://www.econotimes.com/Baidu-to-make-thousands-of-robotaxis-for-a-driverless-service-in-China-1611110"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
+      name: EconoTimes
+      domain: econotimes.com
     quality: 54
     images:
-      - url: "https://technode.com/wp-content/uploads/2021/06/image001-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://s1.econotimes.com/assets/uploads/202106183520da4606aa8075b_th_1024x0.jpeg"
+        width: 640
+        height: 420
         isCached: true
-  - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
-    excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
-    publishedDateTime: 2021-06-17T10:34:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-17/baidu-partners-with-automaker-baic-on-new-apollo-robotaxi-101728372.html"
+  - title: "Huawei targets driverless car by 2025"
+    excerpt: "Huawei is developing a self-driving system and will likely license the technology to established automakers in China and potentially elsewhere."
+    publishedDateTime: 2021-06-15T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1132601_huawei-targets-driverless-car-by-2025"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 39
     images:
-      - url: "https://img.caixin.com/2021-06-17/1623924174246687_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "Chinese EV Maker Arcfox, Baidu Launch New Self-Driving Car"
-    excerpt: "Chinese electric automaker Arcfox launched a new autonomous driving vehicle today in partnership with internet giant Baidu. Called Apollo Moon and based on Arcfox’s electric sport utility vehicle, the Alpha T,"
-    publishedDateTime: 2021-06-17T11:30:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ev-maker-arcfox-baidu-launch-new-self-driving-car"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ev-maker-arcfox-baidu-launch-new-self-driving-car/14166626619359232.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "China's Baidu unveils low-cost Apollo Moon robotaxi"
-    excerpt: "Dubbed Apollo Moon, the 5G-ready robotaxi is based on BAIC's luxury EV brand Arcfox and equipped with autonomous driving technology from Baidu's business unit Apollo. One big advantage is Apollo Moon's manufacturing cost of 480,"
-    publishedDateTime: 2021-06-17T18:09:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-unveils-low-cost-Apollo-Moon-robotaxi"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F8%252F9%252F8%252F34828983-1-eng-GB%252Fphoto_SXM2021061700004847_2048x1152.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "China's Baidu to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years"
-    excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
-    publishedDateTime: 2021-06-17T23:00:00Z
-    webUrl: "https://www.futurecar.com/4689/China’s-Baidu-to-Deploy-1000-‘Apollo-Moon’-Level-4-Robotaxis-Over-the-Next-3-Years"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 33
-    images:
-      - url: "https://img.futurecar.com/202106/17/l_60cbcfb6715a8.png"
-        width: 800
-        height: 472
+      - url: "https://images.hgmsites.net/hug/2021-arcfox-alpha-s_100795744_h.jpg"
+        width: 1920
+        height: 1275
         isCached: true
   - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
     excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
@@ -143,15 +143,6 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
-    publishedDateTime: 2021-06-17T07:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 24
 
 secured: "CNvyo/YMWxDxAh/kKeM9dWxp3QKA4XeRhvsSQmqXszej5SHYgHLFMI/PEGNeGVUfcVAsLRb/653aoth/TpTf/RXkgxqyQciUOB/nCaJBFmrmH5xKDfM7Q/pZV+JG8a5QIAt5Umh8Kcpc+hgQVaZKJ2QExvBwkt5LMqA2CAyl2tZbxeR4hTjgnfYZiAqjLCbUwvfeXcN0+hiOvlreKc/2Ijf3EeisCNlfQsK6UWMTF6xqUV8MgTtkFh4O0vtxK6qvNh9SK5HnkRrleUpmciCPEkvOKR5SNgDYx8uZyIgQ66rM+VjrF2PsxiDlpP6IMusvm1KWeIsqPSHk9TCNc1VwJJ8eXe8GmraayRH7+iv29etn4CjMa7x2+gj3Ly/Nm7SfURCKDIgwmobVuF/hlH19ZDvsGRQsojcNVR2/AJ2FsqjrdWP0DoHJjsPyMbr8egSXF9YTAUyqpdE3HrwxITc5glfZb6xOaktqFqbeqiDF0EGzuU5LWZeBFh6yEnPb/XovAFlnpUfGUweQLxDfbdPOaA==;Emot2skAMlJD3/+Ups1/ww=="
 ---

@@ -2,35 +2,26 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-18-ferrari-and-aws-enter-agreement-on-data.md",
-      "title": "Ferrari and AWS enter agreement on data",
-      "excerpt": "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider, AWS s",
+      "path": "_news/2021-06-18-ferrari-amazons-aws-enter-agreement-on-data.md",
+      "title": "Ferrari, Amazon's AWS enter agreement on data",
+      "excerpt": "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,",
       "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "originalUrl": "https://www.timeslive.co.za/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
+      "webUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 119,
       "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/GK5EIKs9aOifqgf6fF6HiQQ7zaioA5RDhyfY3W2e8FNf_fUeDUYq5-oE_OY89cxcIEJL7LaovV558PSRm7RrC3n_L3Gt7QRxKF8=s1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/",
-      "publishedDateTime": "2021-06-18T03:59:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T03:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

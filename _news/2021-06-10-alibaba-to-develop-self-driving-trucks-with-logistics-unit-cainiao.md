@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Alibaba to develop self-driving trucks with logistics unit Cainiao"
-excerpt: "\"at-above-post addthis_tool\" data-url=\" China/BEIJING (Reuters) – Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday."
-publishedDateTime: 2021-06-10T04:20:00Z
-originalUrl: "https://www.metro.us/alibaba-to-develop-self-driving/"
-webUrl: "https://www.metro.us/alibaba-to-develop-self-driving/"
-ampWebUrl: "https://www.metro.us/alibaba-to-develop-self-driving/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/alibaba-to-develop-self-driving/amp/"
+excerpt: "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ..."
+publishedDateTime: 2021-06-10T05:08:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
+webUrl: "https://www.channelnewsasia.com/news/business/alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao-14985582"
 type: article
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5903O-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14985580/16x9/991/557/348d4a21b4c91d2ba3e7633fc6d2a77d/tM/alibaba-group-cto-cheng-li-attends-the-global-smart-logistics-summit-in-hangzhou-4.jpg"
+    width: 991
+    height: 557
     isCached: true
 
-secured: "OiiOyXgnxsGqT9PqXACLHupwpNp4gGarBbLyzbCtGc8a0utrQlKBy/11eDHL0TVG7y4zdkMLXSl6dExSZDbDbI7yhUOl4rsHsXDDgb5K5o5brr266faEN4giZ8noTo+6xJnsQl/y5io1rrpl0D0LJI0+b+rIL7ST3JukKztoYLmax7dx709Y9KschdekniG9lySmihCh59NA9m3GV7evgYaGFLpBS981gVll1PFd0t9QL8+8k8FNOmK7b9xmKxOoA2WXXPDftpXlqX4DGIwmzGVdyh8QX+9It+eFYpVoVvhGasqchdEcOiqJs0krRQssr10kx5SkExThxEF3A4DSqJUT2EpPgyVR84GmDl5wQ8M=;S+aGNg2t29zUZSi1YzjYeA=="
+secured: "82gLrLfYCLKiNuNEbV0Av+st9/cMRsR2UttlURnw86GgfbG+mIXb6pM786kE+fLtLUZNvjqDyCwpfJP1pK5pwHlJc95+CR09aOp1esfa++b4L/wDSpLLUMyNjZmPOZMZaOSmqbTMyIzDfqB7kzpQTrag8ka5YlJ1EheOR7X6OwzspJ1Wf70GTHMXAZhTRWCtQZqEZwCXtwmNowtajk6RuQ/7+ez6kMAdRdhH1LM1/610PIsDvXjqgaJOIH/3d+9rCjLv6AD9F8aM6k4QtRGuEfrBn3rqx9BmGbFdb8Fmu0LRHwfo6VGdw1xhXR/SgyT/EHS0IgmL2Bcvf1uuyvE0YIoao9B3+Dzvj3wXimEdyQw=;H9n4jY2F7qNzkvZ759yAFg=="
 ---
 

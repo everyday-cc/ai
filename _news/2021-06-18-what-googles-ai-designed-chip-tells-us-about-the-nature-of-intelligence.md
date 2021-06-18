@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/"
 type: article
 quality: 103
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
         width: 700
         height: 535
+        isCached: true
+  - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
+    excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
+    publishedDateTime: 2021-06-18T13:29:00Z
+    webUrl: "https://nextconf.eu/2021/06/ai-assitive-intelligence/"
+    type: article
+    provider:
+      name: nextconf.eu
+      domain: nextconf.eu
+    quality: 47
+    images:
+      - url: "https://nextconf.eu/wp-content/uploads/2021/06/BlogShareImage_AssistiveIntelligence-1024x538.png"
+        width: 1024
+        height: 538
         isCached: true
 
 secured: "qIEwTBHP2q2aNaFpZecoLeVI2ExGrgLKUqvI3kXFU3CxEJgBt4mDNISi+TIoqTdmguqUzvnRiaCqiua8erQNPqH6R2ho5e4CCTwghT/0QkgA098OVMiUGAfZeX3kBPed3DPCsy/5uWkaOXAJY2ys1PtsT4lDKE5bIWAiS+V48X5TtyTsME7lBAFMjOWUIk2MrAsn03ZlSMhznFd0f4SIZJBX1W7jwOKH5id1lKJdvBHqWbP4B2+na8JnA+0EjsofsClXTo6XLEm/m8t2rF7o0n/cQauV8j91f2gbE0DIr6u1B7WKI/LCZL9Q/BDDj3KSEFtxxwHD5YErzNWj02SiNivoqgb8Hf/IFUH/wsIjUInrfRJFaolsIN5s81xsYv3Oa5EgDNP88fifhKtqGEFgKanOTnN8/C6jQONKWhl6j/75ISzV9q2WcrM4mZrQwMkBfPnHuc+Vy49wA71tpnhbu9JNI5ZSXTFgILuvvCDgKjj97DHxXWxOj+hPrD2j9jUg+pgeoerXvwvjcvkcorENaQ==;4uG0HV68zvhodtwVDgKh1g=="

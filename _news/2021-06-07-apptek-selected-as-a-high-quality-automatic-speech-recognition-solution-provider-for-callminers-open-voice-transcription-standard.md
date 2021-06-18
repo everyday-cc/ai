@@ -2,19 +2,19 @@
 category: news
 title: "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard"
 excerpt: "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions."
-publishedDateTime: 2021-06-07T07:34:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard"
+publishedDateTime: 2021-06-07T12:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-apptek-selected-as-high-quality-automatic-speech-recognition-/2021/06/07/9384888.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-apptek-selected-as-high-quality-automatic-speech-recognition-/2021/06/07/9384888.htm"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "W3NQt2DvdFU5r0QL2q06MIVFX7fxL4Mj6UG3CZ0SqE1QplbcNPsOIzv9k82RtVPbQNJbB89zF68b9aqenWt0UqEBWwg6KMaOGX7I0E1tdOIck4vWajwdC2AlOxR6MQbzZP0zZbZLwCIdTDwhbv9E0vphlighZPw7KQMENtX+glblkbzMOA4DET0bToJaVkvQtr+Ty9KXn7bMoK0NA1D5s75wL12+1AEBBeSfqNGil5ksoq3JrBYWbm4GRXPgDR/x5aJdSTlD3143xbs88uyHrl9k7pv0zOg91QY3rrrk/6J0wn0KbgjCGxwdmHTmUr5NlU33SvOGFRH7AjAAexBsg4868f/ka7XmaMqXM1U8iBM=;VaDPSn7KasAfAARcqYv9oA=="
+secured: "VRCJaDY3uMhxtfq3z5D3KcB8K/jDsX0N/4F0dYAypzdtlZBLUek7wZr7H6BznraoiWM5p99zMqjS7CfUk0UyE1PaZMGMfdqwm2ktndXGm3I13Ej1wQwko6Jlss2cIc88nP0MRAUge7kV9UNmMSDlRdz5eltGEBbIjFMrShhtg9zXPyojnlVyp1DE6vA9svrzMDObYf227hFikge7KnbzP0XMmGEkAxFOnqSP6rL7el+JnIu0BU+gx1L45NCQL1olZarhJea3sTgz5RjDHmuL/rE9JBuWdGdAOMds2g3MFmAPqAT0Diyjgy8RoeR9G3ieIglNtwenAPbFIz4ZyiGstQrsro9J5Csme3pau8T5AdM=;hL836c/BjN44f7qeIZEsJA=="
 ---
 

@@ -49,7 +49,7 @@ related:
     provider:
       name: Automation World
       domain: automationworld.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200

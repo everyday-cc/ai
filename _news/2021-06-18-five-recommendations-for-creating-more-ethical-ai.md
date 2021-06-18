@@ -31,125 +31,58 @@ images:
     isCached: true
 
 related:
-  - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
-    excerpt: "Industry focus on trustworthy AI is being driven by several forces — corporate social responsibility posture, concerns around reputational risk and a growing set of regulations. Organizations recognize that they need a systematic approach to ensure AI and machine learning can be trusted and operationalized."
-    publishedDateTime: 2021-06-17T05:00:06Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
+  - title: "2. Hopes about developments in ethical AI"
+    excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
+    publishedDateTime: 2021-06-18T01:34:00Z
+    webUrl: "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 154
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_operationalize-ai_2000x1000.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640"
+        width: 640
+        height: 360
         isCached: true
-  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
-    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
-    publishedDateTime: 2021-06-14T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
+  - title: "Building Ethical Guardrails into AI-Driven Robotic Assistants"
+    excerpt: "As more AI and machine learning developers work on robotics projects -- and even in the software-focused hyperautomation domain known as robotic process automation -- they will need to build safeguards into the algorithmic hearts of their creations to ensure that bots operate within ethical boundaries."
+    publishedDateTime: 2021-06-16T09:15:00Z
+    webUrl: "https://tdwi.org/articles/2021/06/16/adv-all-building-ethical-guardrails-into-ai-driven-robotic-assistants.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: TDWI
+      domain: tdwi.org
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
-        width: 1200
-        height: 960
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI17.jpg"
+        width: 976
+        height: 400
         isCached: true
-  - title: "AI moving from POCs and pilots into operations"
-    excerpt: "The COVID-19 pandemic accelerated the adoption of artificial intelligence and its use in day-to-day operations."
-    publishedDateTime: 2021-06-15T15:34:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-moving-from-pocs-and-pilots-into-operations/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-moving-from-pocs-and-pilots-into-operations/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-moving-from-pocs-and-pilots-into-operations/"
+  - title: "AI Foundation Acquires Lifekind Accelerate Development of AI-Native Humans"
+    excerpt: "The AI Foundation, the leading developer of the world's most advanced AI-native Humans as a Service, announced the acquisition of Lifekind, a leading creator of AI Personae of real people. As part of the acquisition,"
+    publishedDateTime: 2021-06-14T04:55:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-foundation-acquires-lifekind-accelerate-development-of-ainative-humans-nid-7906.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 35
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.cioapplications.com/newstransfer/upload/1ipxr450308.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "Regulators know teleoperation is key for self-driving vehicles to succeed"
-    excerpt: "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way."
-    publishedDateTime: 2021-06-17T17:02:00Z
-    webUrl: "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/"
-    ampWebUrl: "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/"
+  - title: "2. Hopes about developments in ethical AI"
+    excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
+    publishedDateTime: 2021-06-16T14:05:00Z
+    webUrl: "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
-        isCached: true
-  - title: "Driving The Next Generation of Artificial Intelligence (AI)"
-    excerpt: "Artificial intelligence (AI) is disrupting a multitude of industries. This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) and late 1980s (the second AI winter with the fall of Expert Systems) with the arrival and growth of the internet,"
-    publishedDateTime: 2021-06-16T11:42:00Z
-    webUrl: "https://www.bbntimes.com/science/driving-the-next-generation-of-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Driving_the_Next_Generation_of_AI.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Training next generation of leaders in responsible use of artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is transforming our world in powerful ways, from improving medical care and changing the retail landscape to"
-    publishedDateTime: 2021-06-16T10:20:00Z
-    webUrl: "https://www.miragenews.com/training-next-generation-of-leaders-in-578812/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 47
-    images:
-      - url: "https://www.mcgill.ca/newsroom/files/newsroom/styles/wysiwyg_large/public/channels/image/hackathon-mustgivephotocredit-645x430.jpg?itok=E3MftT3U"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Unlocking Value with AI-Powered Automation."
-    excerpt: "Adding AI to the automation toolkit helps organizations decide where to best apply automation to digital transformation."
-    publishedDateTime: 2021-06-15T15:29:00Z
-    webUrl: "https://www.cio.com/article/3622015/unlocking-value-with-ai-powered-automation.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/istock-1223005887-100892367-large.jpg"
-        width: 1199
-        height: 499
-        isCached: true
-  - title: "AI Stock Buying Levels, Ratings, Valuations and Trend Analysis into Market Correction"
-    excerpt: "This is part 3 of my recent extensive analysis focused on updated buying levels for my AI tech stocks portfolio going into the summer stock market correction, of what I will be looking to accumulate at what price levels."
-    publishedDateTime: 2021-06-17T21:09:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69041.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 32
-    images:
-      - url: "http://www.marketoracle.co.uk/images/2021/May/Nvidia-stock-trend-analysis.jpg"
-        width: 800
-        height: 540
-        isCached: true
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 34
 
-secured: "FpPkXg2r7rKnoy8keSYIXUEHhmOI9zR78Xvozv64KA50JDALXR4jVBzZ/qu71eYry/P0xM7P03BcEpGvpOFjStSYgTX75Y+I8fVOh22tUIYNpPai3Kta9tw+9TV9plg6RXlljIe0gSDJxhJ1QwwtJFXGh17GXrxOtv7ykXMe3QD0KU7V4cuHoo7fRwrddGtjOYZZ3V7VWojO864gCGiR1KmEaqbK7y+Su8hv9anhT94eKDcyhgujE7DesALG7Gw19SxW5yOThoiWLUr10rPPWvd6sPuvahUzhk7UWsZ56OAcRDPeJyRAuqlubbJCurfSc09DqsEN2B3pXoqAvh+BmAvzx6QBVBRFh1Zhvu6CquI=;Eg59E3SsIMjsir1unOfoKQ=="
+secured: "Rbe4xRis0YbRVIGX07Bu+BQQwBZG5bveSR+16Im2AnkeYMimuR1LNUCOrs+BI/D4QWwG8QjgCtOm/rvQmt2q3/UJc6c+YbT/0cOnq/wUqt9cTazLatv0y2Gp4w4Ql69VjC1pF6TpWtNng+zq3j2wv9uZIanJgtsiGDSCKntqNF9dXkcmYhZJq70dHf+eYES4LBf1KfkRPch+MlVP0hjy8KOCbesrm+3XoL/rVYgzWyiM7UsEiVq4n8ZB3VUqVXEdbVNbzY4XdDI/IN6F9CfXvc2d8nMkLNKFxGR5md0ai5FoiH7MolrjkGr/KzGLQ96nq80c8J6P7j64EFenJjQgCsGM7Y/xZ9D3CRuTm48Cap4L9coYsbXKkx/bmTffGlWqvu1roRlQZEmoZ928097OLknrPDPjmhcRwyD+DDAGQH02g+5ZNQWBnvagUoDG2zDPKfjzbzX5sA9uD1JXVxBFj8xS+Gd6RmFAXwQBuDJNrtIHDVZIgOTqYRimWTXM4nQHrNIRDyIfgsqbw90reWW2EQ==;E5Mgfx2oBgKKS7SG6/ZQyQ=="
 ---
 
