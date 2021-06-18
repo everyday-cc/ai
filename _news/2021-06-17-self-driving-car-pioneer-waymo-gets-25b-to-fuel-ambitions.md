@@ -284,15 +284,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "Vita Mobile Systems Announces LOI to Acquire an Artificial Intelligence Software Company"
-    excerpt: "Vita Mobile Systems, Inc. (OTC PINK: VMSI), a technology company focused on digital imaging in mobile devices, collection and management of big data and development of artificial intelligence, today announced it has signed a non-binding letter of intent (LOI) to acquire a technology company with proprietary Artificial Intelligence software."
-    publishedDateTime: 2021-06-17T05:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8255978/vita-mobile-systems-announces-loi-to-acquire-an-artificial-intelligence-software-company"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "T897UlZvkahRB7zyX5PfEtGiy6dOrUPAWl/aGOccZunJcFU3mZzqSoTHd+7MeUjttBnbAbc/JisbrpXsaE8wCTf3U8+KXOs0AydcBqiULdk8sxwI+43q70RBNmNagEBr/vdcbOq7tecTQQXBgB5OsJzKi1JmlzAyAKw8TNgCsWB4hOUJqFvUWr5u8fbKWPQL+xGK6X/Ez6nrAezzNEwX0vWW08idHtqBA9Gv2RSEFWws6iDYAcO6yMUsyJABnaD6R832TXTLVkiXiB6Uctv5JPcKHMVdKNxSi4QZJn+EV+3ys+Mifu5GLNdvHYDtYN+xSYTR25DiVw817cW/ZlUqQpSm451QszxDpSwR4ZEJfyu+MclfzxpnKr30MXXCl7Ff2JnI4yMUnAG5jT6jH5FI7DROuAhUuEp70oDmlQc3oYrKlZICpOcEqy1SwVpsSErjI/BFPIuxxYSEyzxcERrkmnVk3MBbbodXa6sTsnrY1QWSPTysXb9Z8u6JK+JVlioULkTQN0yqwSsfq11s41yp7g==;IZ+VBHWI+tIPrToNfRu0wQ=="
 ---

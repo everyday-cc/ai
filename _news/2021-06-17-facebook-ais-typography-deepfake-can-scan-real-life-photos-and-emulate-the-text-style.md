@@ -254,6 +254,20 @@ related:
         width: 884
         height: 477
         isCached: true
+  - title: "Facebook says its AI can detect deepfakes and identify their origin. – EzAnime.net"
+    excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create deepfakes by combining authentic images and videos. We've already"
+    publishedDateTime: 2021-06-18T02:04:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/06/18/facebook-says-its-ai-can-detect-deepfakes-and-identify-their-origin-ezanime-net/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 33
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "763djABDrw9+Lw4itJoNhKajK/FjM8QkIAdOI3MdEn/+THtIM1oZnRAIHZVstMyYQMAFLm1r/eepO7befip8FQFv57ZLSpnleFxsLyXUlhGkxz+vyKoczgC0QRQxXVtyoGZLFCkfHGC6gnthgfkmJo8tJ2Ip7pnhlRKQ17l7PfiSDo/lkXVTjLfjW/x+tWJyfcRTL3Ebs7I//pNl5F4yQEjnXtdzyUMLPwI+bSeuNx9iiTju0j+7ZIbNpfTAwgEkwhLHQzFtU0N6d5Bvy2eWipi9mA+bm3nj5yOQkmuCd73c47qYDjkk02rkDVQdN6AXtEN9aFjFkl7w3bVdPBrp1Svpc9OYIeFqmpCLjI4wLyw=;m0esPIuKTggnLBa79XNgdA=="
 ---

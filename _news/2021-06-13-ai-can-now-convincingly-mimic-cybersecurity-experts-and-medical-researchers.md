@@ -61,6 +61,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
+    excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
+    publishedDateTime: 2021-06-18T03:30:00Z
+    webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 39
+    images:
+      - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
+        width: 1280
+        height: 905
+        isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
     publishedDateTime: 2021-06-13T13:00:00Z

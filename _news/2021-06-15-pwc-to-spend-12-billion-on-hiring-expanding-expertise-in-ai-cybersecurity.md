@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-e
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
 type: article
 quality: 184
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-doctor.jpg&signature=0256260c9c534e5cd6e4a501569ac440"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
+    excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
+    publishedDateTime: 2021-06-18T03:30:00Z
+    webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 39
+    images:
+      - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
+        width: 1280
+        height: 905
         isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"

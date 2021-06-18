@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of"
+excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
 publishedDateTime: 2021-06-17T19:45:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
 type: article
-quality: 44
-heat: 44
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - IBM AI
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -63,16 +62,7 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 0
-  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
-secured: "Cm+QRX+u0nb+eqgRYyH+gts/ykq6WGGyuXanSF+O8d0rT1G2U+sGxhIZ7JsjCTUIJvvHz/Kf9C4qgo5tOCZDXVSUl86hjXJOI6UtyTGAmR29rFI++jen7i+4XcoG1wuISGVA6z0N593KPWHECHUKXnd2nJsoj9MzrMY+JjuFIfaxqytJEdLBCmWjdsGo7ehUK3O9ZrlGSpCyNyVl1yH8hM8cihS1zbnoH867xAfStnek0AyK7WQOQLoWZ2fGc2yzXo/+jbmgGELogYfIx+fuROdQ8ZNAdl7BXzfbJB1zk3q3WAMkJuaTuXWkldp4VkJPwAHqel7SGYgHLrqykjCANCqrVkqFV2wiMaCoXN9swR0=;OiyYB4hOePLnMxWkpviStg=="
+secured: "MxM9tZeK75r7ImqHPwQJPa1MgbZAupMh5GFA88QYpLpbysywUAV+1fz90oi/rIs9TaUk6p3yG7t8LVco89BKrPK5LMqH6tfRCiKBVII8VWUZnQxi1QHLvvoiVk4vuXxh7Qc7cknQHurKCQp/y6a+UTjcQ15GxA7HiOUov0jI3xq0bZGwZO1eUtt99XjVtx1QONSXTXd1hSswoQRX9WOS7uOlQAg5QUhb9lLNC8s69oIa3SLWON2VBAxXUDWIG+Oc1HlYbeTlfmm4YMCwsQR3GHA/+FZGTV3H7NsL+hn/9p6ZvTwSxLlXETy9jREMhlFZSBHe/nRxr0i/GQEDyj3Rh+lKVZDU6lafKtq3E/Jygp0=;xsK3PmTTsL1vChaTs2MRcA=="
 ---
 

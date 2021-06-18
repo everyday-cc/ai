@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-gr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting"
 type: article
 quality: 150
-heat: 300
+heat: 310
 published: true
 
 provider:
@@ -251,6 +251,20 @@ related:
       - url: "https://admin.itsnicethat.com/images/N44zko7EVxuRvGC3Ea09l3MwV-E=/208138/width-1440/facebook-ai-text-brush-style-digital-itsnicethat-05.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Facebook says its AI can detect deepfakes and identify their origin. – EzAnime.net"
+    excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create deepfakes by combining authentic images and videos. We've already"
+    publishedDateTime: 2021-06-18T02:04:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/06/18/facebook-says-its-ai-can-detect-deepfakes-and-identify-their-origin-ezanime-net/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 33
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "xCPfJ1bvYPaM7rbsPynWVWKt1vlN+RzG8OcIls5DzFVDHF5Aa38QpQr+dM3zcwr9F5SPp24UTde49jF35cYoCYHW6ytcXjj0JCRp/r9cbPfn+VFgZZWS0eYZeLsk07UXCxJPPRek98zVjhLm2gPsIT3pWuDu/001W5vN9NTRnRU6Q3NS7/izt9bcWfAwBBr8jdPGCezFOmTNU0X+Q1RNHbazRPW6aIJl4LDJ5jcvnaF9WPMiB6mf0Ezhn+YmwWMfTw2Ll49fC591bvtd2HLywiG/ikbmjwqHxV4UU7SjbWc4x10wqNowC2ZtESdqMhBxwaMs7DGEuDX1OFiJKLIr6Q2QEUsUyA2TpxZMvW2yMJvlaz4j/lepV+mukxOus3PdGiyaEWcuC1jqEAKip8fr/9WewcmBdElfJwQedbtpMr6rM+EXpRXaTaRWU1k8/P1ClVLCTC2Fyza236REPdIdIvC9jr321bAHVCK0oN0dccT+G0wE4tsRmUgYxEvEw653SQV6Sc3qwJX07WTQ8wOzSrPkP57+47B5nTgLPYkayHI=;/+jU0mwL2ufDCUcdZ1Vjzw=="

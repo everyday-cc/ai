@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Clinc launches Artificial Intelligence technology for Banks & Credit Unions"
-excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is"
-publishedDateTime: 2021-06-15T21:23:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions/article_eaf5540c-739a-55a1-8191-bef53088547b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions/article_eaf5540c-739a-55a1-8191-bef53088547b.html"
+excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is the foundation of the new products, with the vision to enable banks and credit unions to deliver a high-tech,"
+publishedDateTime: 2021-06-15T22:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391196.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391196.htm"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -47,6 +47,6 @@ related:
         height: 480
         isCached: true
 
-secured: "eXhypSGdXSqsbLJMK3vy4LZb90eCBleafOuJ6zFXsEhHB4iPc4NovKhipEWH34sAjiamAttvywKJfBFQIssBFh9LjSteAGMopcowoT7+FYD818+MO+S91rQxzn2k9sPpR17wKP8JfUWMDRrSt5kHRJbLLuCTnWRN/2TC1BOZ0hkTI3C/FEf4zE67uDnOhgrlHMIzm57MLmP9phqToxS/nYcRsFuJHTr+WwVAdYhynzI2fba95rvtzKT3uf0vfCj2TuxwIWNsnA1qQrKn4fP43CX0sj0H4b8fDNwbREecCCRdEVMFa1hMAj2PrDeGSGrQmVTgGry6q/INucCoruKCkbh4NAoki9+GVL/tyTbUdbJ0NuJqCO0Ra/8kyAL5msJBb85CHN+CSbdFKX9MBcxvT+Y1QzJE26aIrT7oo0RKMhVqteJWxiVQ0xhZI75XVV6fBLa8KtaqlPR+PX12vjo3rBP2xRWRs8Mhcx7NHq69l4PoXOP7GmHK+952TAgxRBjhDMU3yFWzu5hvNlxG29HscA==;WvOkiOY/YKwRM+bVyg8FWg=="
+secured: "agvNIHjA38iSMUzWQ94py8xxoNAuaNCL40FEhbko+Ii5L2rW+rfSxCKgDlLWUV5rAjAZ4dpCPfXFJ70WvgGlUp9A2nBmJECHIayaJW+ZEjsBXftmYJdsFM4UoPeWIP9nn3G3iK643H8zRec0NR3vUFSiFykGT1R1u9egwLYE9EYMWQM4OhYXgFuifWd3A0pQHORoby2kJRLKkIO06oJDOktk9knQamuhyeIkWS2Ap3nb0b1/tQ6gWz63LfUpnhxd6yrLKG2837SzpMXen9dBwZBLZciSjHvsSDnWhxDe/Vfoo4GQko5+oAQHSp/p5ImhvjhBCeSUfq+Z44rCQnc48sSH2qsxr+KLi8ssvYji+RtPNezQy+jJYB4Mz/iIOdf068upghEYdcFTazZrxRUxRhGv30X5FRkwJ7uEqkJDLdcq9pObH1YujxSgjWETEX8kkIY05Q2+SO3h41HK7bHZDwCMbBpfaxE/9rDJR4fArMIBJxHRwLFAj6Bmm6ZWugp9YvQlbJ7e5ZW9cKyGi5zRJg==;w7RJC+RdGRYPTzCBE04nPQ=="
 ---
 

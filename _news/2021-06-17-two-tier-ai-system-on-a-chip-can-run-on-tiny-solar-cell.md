@@ -58,19 +58,14 @@ related:
         height: 518
         isCached: true
   - title: "AI system-on-chip runs on solar power"
-    excerpt: "CSEM engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,"
-    publishedDateTime: 2021-06-17T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/scfe-asr061521.php"
+    excerpt: "Engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,"
+    publishedDateTime: 2021-06-17T13:35:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210617082735.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/267932_web.jpg"
-        width: 640
-        height: 360
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "bzwO5xYCWVCmrOT5EeOxNMPPYTbekwX2aWJYgWoxLVAUr2/8ieHiJobX8t18Ppi8SlNjKk1vyZ4S9fAlji67oUppmehVTpFgJW16Gv6vhd7SVDjG+VBZSXWrq5O7Vs4J72Igb3ZzFTseSU5H/NcM9u0SDvHsPaNce62hEMYx7PzKEj6IdiQAtWxCjI5SAk0exrE+9aTuACPJdCU2kN4Q2TDLrVVElZRslblkyk0gx5oKpmqi2EClvpo2CWGAYmK1MU1xKJAJKER79/bbJnwwKGc9wQEfXuvrsaEPj+37D3Wg7/ZkCMPrbzmqX05xLdPyDTioTBMwxui/Q9kI5Gr+H5vZhjacFtfgf0ajsWq1Qyk=;pilaNrTFPC99finI45tFPg=="
 ---

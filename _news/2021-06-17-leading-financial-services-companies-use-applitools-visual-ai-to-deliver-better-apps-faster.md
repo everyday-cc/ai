@@ -3,8 +3,8 @@ category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
 excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
 publishedDateTime: 2021-06-17T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
 type: article
 quality: 9
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 785
         isCached: true
 
-secured: "+0IN4Tdmd0uaDLMpkjKm5bryTKMci7aFYWKViQtTFL6KxGu0svbfgIJgy3HIAUCdeE4tFYryiBfdCFw5xxOMFf3XK9u4DRZQKGjcWNnOXQNj1X2BLljIcPwRgN058LpAYQS2+6tS8hy08P4Yftna1ohg4Cjz4L3/6GC4171Xff4Tzg2QDB+9BlQrU7H36JNI6Fmj25vf3XEuxnJHI+QNmgaxoLEUF4zUOBJZBCVEezXCoJ0RLknL9XDvdfhVddz1DMd+QhnNhCgcIyMq/QPXqOCBBDQMwzULRDDR9wzQZw47FL82Bu8vBnRpLT4qwsccfZe0kijuF4i4wWXwHKG7xuBZYKbdoQK4E1quQSQNP5I/NpRalj3+EFgB3G4ZNIm8Na5GZl6N5DitAz2PedENvN9Yq7LQVmTveYLQBLpz5Zb+OyvlpzWDrWuzSqQXsVWRWa2g7KIzXL210nK2tEw44fn3IXBYBpVF+VeyCReeV1CNVYpAhv6+su4AaHE5wqxqoLRFOLLuZyScBEPLg9zb/Q==;3j8fDhwECg4bc0slGjjBnw=="
+secured: "ugdGUwyYrdgR6Q7QY67BuQra9kuIz/qLH7k/uRSAYftXVyDlwXjGQesW0PUh53kxmGUbTIi9pgng7j7WLPVplRCReIfMf7inHDlsop5zpsw7fLjthuHglSrla7sVli5UpEC9+4t1uAGYnFwvdIKiTnSFsYU7Rjfg7VQm9S3IVoigXW4E5Wsb5BaUAigpR6OlHmD/gxI/xSwX7f8075kOduY8s4YCuXeX9WRDiPOPl3VhcKNp2vLRIlu9PONgYBnHz2YzB7XbdJSPgzMISgHdRQoP3KXk7+pnon5hGUfAVsdbsNoueJ2cSSX9SEPOls5sq85PZk+n0FVzRH3Byt8bcYKGi9OE4dk6sj7wWsuq2+5tPWBEY8i+KM4EpqP7TvGkXIb7c/MtlM29K91WUysZo46HRx/6mkdnBeAXZC7QXCNjzqIPHPpkANHVDAb0nri6hN1/7zPu/Fvlc2jEvP1PIxChMwZExbCxKr2GQ8Oo3xX3TgHhtEuAdpoj6adoUgzQY06Nl6UMfE8/4gYBHV2c8w==;Hju0bDTMZ5BMCs6rSEmfIA=="
 ---
 

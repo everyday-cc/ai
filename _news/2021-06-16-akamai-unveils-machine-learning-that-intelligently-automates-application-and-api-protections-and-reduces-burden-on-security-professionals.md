@@ -1,60 +1,41 @@
 ---
 category: news
 title: "Akamai Unveils Machine Learning That Intelligently Automates Application and API Protections and Reduces Burden on Security Professionals"
-excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications,"
-publishedDateTime: 2021-06-16T10:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
-webUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
+excerpt: "PRNewswire/ -- (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen"
+publishedDateTime: 2021-06-16T10:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on/article_eb7090ce-a15e-5f21-b471-cf422eabc831.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on/article_eb7090ce-a15e-5f21-b471-cf422eabc831.html"
 type: article
-quality: 48
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
   - AI in Security
 
-related:
-  - title: "New workload sharing framework drives breakthroughs in AI-based application performance"
-    excerpt: "Intel Deep Link technology lets CPUs and GPUs run AI-powered applications at blazing speeds and without compromising the user experience."
-    publishedDateTime: 2021-06-16T12:19:00Z
-    webUrl: "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/"
-    ampWebUrl: "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/image.png?w=1200&strip=all"
-        width: 354
-        height: 235
-        isCached: true
-  - title: "AI-Powered Automation for Driving Business Performance"
-    excerpt: "Will AI and automation “replace” jobs? Some of the more hyperbolic headlines would have you believe that millions of jobs are being superseded by AI and machines. McKinsey cites studies that suggest that between 75 million and 375 million people around the world will need to change occupational categories and acquire new skills by 2030,"
-    publishedDateTime: 2021-06-15T15:22:00Z
-    webUrl: "https://www.cio.com/article/3621783/ai-powered-automation-for-driving-business-performance.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/picture1-100892365-orig.jpg"
-        width: 907
-        height: 605
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/aa/9aa657a1-b7b5-5b53-ae28-7f45c5416cb0/60534511efac5.image.jpg?resize=1200%2C490"
+    width: 1200
+    height: 490
+    isCached: true
 
-secured: "3x3TAj5JXad/FNOf3f2oR3hsV22ztlOaBDRiuYHqhzS1b2/LG9qDl9nxVgdVlvqJ0tLdKq8cxMae9N3s1US2gxdUfMudUfAfWWGIoVmuPFevBga8FRWP0FLIfvJJIPww8UcYoT9dlNmTTd6zcJP4meWnZY2YyT1PbeE3ON6TOIc14EhRhX7nt7QYjAQp0WPGHCxBLLJMpcutvzdfHB7D9KknB7RB0PBuGl95ME6KGhHYXuUakoLvwuF+ySJnQ4Z6O9ABVUPd6PKpjUlXU/8JvzkfEs1IPYcHcMF/tsUFbST3giRg6rq8k4f8JudM+nhpABIDhmNvjcUvnVvWVFuPyl7ktF0PpUqNw9hUhhXAFOcyYieOLEUfkVr21YT2s6hZxlEPiUqhMd6rKA+FkzQW32dWb0AsVBdXTOXMCAVPOgtpRGhRyuXyhlVtCgCrRqWzVdFwXxxJU7PD7cWptr4R5a9JWMwXF2yYVpJQy9tVzW252oaezzOFv+o9T6TQdZooAU+edetnTJncAdOXNdD9tQ==;LA8a5lwrnvaibup8Qa6ujA=="
+related:
+  - title: "Akamai adds automation and machine learning to protect user accounts, APIs and applications"
+    excerpt: "Edge platform cybersecurity enhancements are intended to increase responsiveness and augment decision-making, the company said."
+    publishedDateTime: 2021-06-16T15:00:00Z
+    webUrl: "https://www.techrepublic.com/article/akamai-adds-automation-and-machine-learning-to-protect-user-accounts-apis-and-applications/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+
+secured: "2MMK1Qh9iFodlMtWcfnCuaezSzyn5JbFWX0PFBCOCAgpcNwCNvV38Nr8+hFQD9sy9gIJGx7MuLA55giPrLLSUQwmPQ1esTSoTSsYoNZkSVbXsRzLn2ReXQBScoC8nkcRdqQOvkpNTBxTjJrRUQE8weBwa55i9gZWXObNYq5ZFQsEojB268y51vtpmCnZ/dwZbbpAegpZCvXAVW4Vh4Pj+gGnl1j0/NGrHFqxfwRp6U6TRvmH9wA+BqtkH0DUzbZnJScrdoDOOfnIF42wzth03NQYfqvZWCJm8NPAZfhlocHZwuD3C27nH+wvxnQuTkVSpq5b6Y7j4UXmvMz2n3LnbTvTsZr771MopaGKg7PoZKI=;vJcUcpAU3JSxfQvZ0LoQDg=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM finalises Turbonomic acquisition"
+    excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
+    publishedDateTime: 2021-06-18T01:52:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-finalises-turbonomic-acquisition-566121"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "IBM Closes Turbonomic Buy To Help Clients Automate Cloud, Entire Enterprise"
     excerpt: "IBM expects Turbonomic’s application resource management and network performance management to help clients’ journey to the cloud."
     publishedDateTime: 2021-06-17T22:31:00Z

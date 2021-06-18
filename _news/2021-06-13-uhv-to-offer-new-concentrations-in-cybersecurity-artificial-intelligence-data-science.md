@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
+    excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
+    publishedDateTime: 2021-06-18T03:30:00Z
+    webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 39
+    images:
+      - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
+        width: 1280
+        height: 905
+        isCached: true
 
 secured: "oRAw07rBTaK9wVBZbI6axw86b1wl0NYvdgMFQzI7NbrulojpEKQBfa/DSTCTzRqvN11DjBRSB5HBZQICJEA6wJQH1Nij6qA5gcsd0RL8kpm2mg3M68wpLY/KH9P8wVqVnmUDYEmwApNZ4b7lY8fmFPUvl0fT5ZYYO8qOvcl4kQByf8MyQQXcdSAX8t9bprRTsmBZAE6JVBG3sZjvtkRRzyCyTLg0hNvJB+Z8xZXqlUEO2lTY1fQjO5IyQ6exdb+RddP09qTHTMW5mPP0hxVEH0HmZD2OPqIN09095Gasvx7+Xlkp01QyW7e8xiuaImvpsodDrJ74AKiQnvJG4CkR3W8JYkpeb6lAA+F26dpVeTrW+HrfAv8Qy4Mn3rYZhf6smlvd28kV6qo7IXlrpPOIqtIhk9t8MrK+9bM14ih7C0Q/TRxs9JlhCDfWZOAasJYkdkYfTkXhhfksXXXVpXmWCCaw1+NQgmtskprYDC2kedYEYXWnUJKeiqdogVGJsdyPgan5K4lrg858ONhQh42uxw==;HGpM6SFngV3L44S8azA1Vg=="
 ---

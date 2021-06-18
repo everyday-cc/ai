@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-17T13:31:00Z
 originalUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
 webUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/5493c92c7e44e88ec6b087154f8ffe367af63fe4-600x337.jpg"

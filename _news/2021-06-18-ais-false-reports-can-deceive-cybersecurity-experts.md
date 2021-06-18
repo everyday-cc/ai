@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Elisity raises $26M Series A to scale its AI cybersecurity platform"
-excerpt: "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,"
-publishedDateTime: 2021-06-15T16:55:00Z
-originalUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/"
-webUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/"
-ampWebUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
+title: "AI’s False Reports Can Deceive Cybersecurity Experts"
+excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
+publishedDateTime: 2021-06-18T03:30:00Z
+originalUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
+webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Wire
+  domain: thewire.in
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
+    width: 1280
+    height: 905
     isCached: true
 
 related:
@@ -46,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elisity raises $26M Series A to scale its AI cybersecurity platform"
+    excerpt: "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,"
+    publishedDateTime: 2021-06-15T16:55:00Z
+    webUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-847829192.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI can now convincingly mimic cybersecurity experts and medical researchers"
     excerpt: "Misinformation within communities of expertise has the potential for scary outcomes such as delivering incorrect medical advice to doctors and patients. This could put lives at risk. To test this threat,"
     publishedDateTime: 2021-06-13T11:05:00Z
@@ -59,20 +70,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-doctor.jpg&signature=0256260c9c534e5cd6e4a501569ac440"
         width: 1280
         height: 640
-        isCached: true
-  - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
-    excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
-    publishedDateTime: 2021-06-18T03:30:00Z
-    webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
-    type: article
-    provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 39
-    images:
-      - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
-        width: 1280
-        height: 905
         isCached: true
   - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
     excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
@@ -89,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VHJh7ezEHlA/1bIHxgDjkNHRNBXiHwxDISsy5usWcdXAapRJRL+l/R7lZLbDoYYPc5pfSBrxvuU9v+pVp0h//7+jD25cthYr14T0YbADJ+MFcIdGZ62bDbj75QOyH8l86Ufpzn7H1TIuHKLQDFsH1rU9OgHnB96H71gP+Xb42P59ZevzhCkiBKSlrXJ7VaZDIE/kWFimMV/MgoEKgzuvgVd5Zl1b2sltj0GJrNLPws/fCVfWILC/ZMLk9u+08VRBbU0TW2NZlei30pvh6FF0a7/k/VrdvzmrSPBlN17HGdpPQNqqygl1a5cDWfeIpdJuhaD47eWO2Ot9+dUA+zPzPl5zcvkqMYUQ7bZR30nYlEI=;1FRtD+PeHqMTE1GKaLUj5g=="
+secured: "rHy/rSh/9D45PhfAaR1W5JFb+4Kl8V0yHQ4VD0uk9HrId74DG34m4kMGG4Mxa6NoMRQUKFqdPDMvdZozKH9MJNdR0Ec8E9ZxKhYt2NdhR54H4MMHv0YecdClgB2KK8nIjGVfZeefjlGCqjeOYUJzIBWI+0RFWYZ9TrSEBgWaidSYHijtLkQ3Qpw8hLWu/VkR0PCIHq5BD4Y02suOjKYMUGlqXMT9IfT4AkICByjIdU3KKxerTYZiRFcRllSi5oLn5Ahjih7HWGN+xKhvMcT8JJkWD5k+W9PG+FNEMeqbmBR5w0/OuG/pGjzPvJz+OvSlpfccmOl4IhSIr9JW51QvJJX1ee01gxEl7czXrB/uMkE=;RHIGT/KFGdvH6YIt884Wfg=="
 ---
 

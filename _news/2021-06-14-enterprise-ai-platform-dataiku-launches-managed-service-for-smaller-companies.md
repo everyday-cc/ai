@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-lau
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 931
         height: 520
         isCached: true
+  - title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
+    excerpt: "Financial technology leader FIS ® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to help capital markets firms tap into the power of their organizational data to increase efficiency and better manage regulatory compliance and risk."
+    publishedDateTime: 2021-06-17T12:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fis-launches-first-a-new-series-ai-enabled-/2021/06/17/9392541.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "zfqmv6/UUrgxeKPI4DfGlfzlEhWbqyymQLUXGkd3CUhaJqa1clYhAnmqefEi8RpuktKwDU/wc9iFaxoZ5ycSvBARAOqUL8nF22uQ7ImbCyzvtcGwGNAp8cKHkCKMWIMdQXHN0L1SwX0f2XEfQHgwOYoDzZnbsMZClf8taOUxF9rGES01bB77MWuDRGV4tuBm0QPOVVCShhWpjS9xW27mZvvOEstjimXvBE1tEZS8JioOT+z8LY1CzzKphEBpfPeuZZdR6puLbMFNkbSWPPLbOAC6c0AEpNeg2+Tlol96RLMvnQJbWP2roSP2B+XkUoG6GpuGlOUxXTtg+hBk4xv6kgJYyivm66pKqwm64ht3/yONdY72ZOsu7fwmnN2/l8PM6Ih9Z1rfe7hVBQNFemM1m6QqF8jrWfySHg51LTMOvWrEbjvYDq8d/Jpma/QtXrQm3NQuPtNiibjSnyGeW8NBs514mwaTDuR/X5EuJlw7S/YfCQL/HNcpY/DpFkkTenwwvNlgQhenEdCl0dvO2e49Rg==;osGmbhfIpkWCSjGCbRhx4w=="
 ---

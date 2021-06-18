@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facebook Unveils AI Model That Copies Text Style From Images"
-excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
-publishedDateTime: 2021-06-14T18:08:00Z
-originalUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
-webUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
+title: "Facebook says its AI can detect deepfakes and identify their origin. – EzAnime.net"
+excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create deepfakes by combining authentic images and videos. We've already"
+publishedDateTime: 2021-06-18T02:04:00Z
+originalUrl: "https://debatepost.com/celebrity/2021/06/18/facebook-says-its-ai-can-detect-deepfakes-and-identify-their-origin-ezanime-net/"
+webUrl: "https://debatepost.com/celebrity/2021/06/18/facebook-says-its-ai-can-detect-deepfakes-and-identify-their-origin-ezanime-net/"
 type: article
-quality: 39
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: tech
-  domain: techstory.in
+  name: debatepost.com
+  domain: debatepost.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
-    width: 965
-    height: 543
+  - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -195,6 +195,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Unveils AI Model That Copies Text Style From Images"
+    excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
+    publishedDateTime: 2021-06-14T18:08:00Z
+    webUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
+        width: 965
+        height: 543
+        isCached: true
   - title: "Today In Payments: Web Inventor Will Auction Source Code As NFT; Shop Pay Available To Facebook, Google Merchants"
     excerpt: "The inventor of the World Wide Web is auctioning off its source code on an NFT, and Shop Pay will soon be available to Facebook and Google merchants."
     publishedDateTime: 2021-06-16T17:54:00Z
@@ -253,21 +267,7 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Facebook says its AI can detect deepfakes and identify their origin. – EzAnime.net"
-    excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create deepfakes by combining authentic images and videos. We've already"
-    publishedDateTime: 2021-06-18T02:04:00Z
-    webUrl: "https://debatepost.com/celebrity/2021/06/18/facebook-says-its-ai-can-detect-deepfakes-and-identify-their-origin-ezanime-net/"
-    type: article
-    provider:
-      name: debatepost.com
-      domain: debatepost.com
-    quality: 33
-    images:
-      - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
-        width: 500
-        height: 500
-        isCached: true
 
-secured: "Z9XTgaR48+M84fukGdidYsfdRNuIvHIdyqI427iKM2Pn9kAetXoqNCbhkDh5HSUYAfavJSh/S27m8oku0cVENOeImcXs8IKaRdfJsKVr/cyRzQ3UsfojEdV2pp++wG7zj4TkWn+lXNpu53K+OnZMDbgKXYKc9riTyDfhJSEcqJce6N5lvLMP9plYNXIiYjHaVrwJBIqlvHqOsngv8/xoC22FD6deR5mX1e9CdK1KCCHTdFDQSq32Wv6Ci5IUoBy5QYQqEw8o2dn0xpzkHHkZ1dE8Wdha5fPIEiDhoyofjH/QJjJARqebMHjGrLya/6R4DvWWmmYxrI6JXQrypbimZJGoMqVzwFcK1FjnoTAojOq83ViiFOvT+IUiFBzTNqgj8L2s9YOep614Xb3q0OwWW3FtFRlTbpkYdFLomJzH6pLBjxIaaKLS7sEHVI/Dx4O4wyq4No3DJH75Ej5sydQLq6CYvGaELa6o6JjFWeHThzHqL8x+sgBVMFX9FDUJeE1AiLLHNUV+BszRCjb3BB4xMQ==;HVbCr7SjRe9j89PJEMWjLQ=="
+secured: "T46pKIcOLrtLY+eiC+uFfFEjwcFn5rvo5snt1oO9P8sOx0OP3K4qXUcDWG8A5xRjnif+F3/ytgrr+7jOlfghrL3ieAFMFDiJo0RCTUmMyOqWt8JImXyTCKTWAJ4GwXBBByO4pMG0z7FAGuwDKqo/0UcZ+p05ZLfoZfQHWNY9omcUWxekgT0Ou6m3NQS6DqazkW2vHQLYoecHRo+kZpGw+NLoSWu3wmh1RhqzUjisWL7THe/Xe0nXpX3wroAJr2M0gV5PZzJa4YzIl12An+bcIQJ06rJik+uUcVwIGPM8M1ef2548Bd39PC6bnVHctM5bQurjGAvoYfWBS7PokqKhUuapLchWs55rUHQTIFIP0ks=;X3kcb2MxR/L6jtezk7p2lA=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
+    excerpt: "Financial technology leader FIS ® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to help capital markets firms tap into the power of their organizational data to increase efficiency and better manage regulatory compliance and risk."
+    publishedDateTime: 2021-06-17T12:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fis-launches-first-a-new-series-ai-enabled-/2021/06/17/9392541.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "2DbifACBrdfbIDHy4Phcf4vmUiesGMSfHSsHXjp9hgTCxB9KjTpKBUWK63WrHFqmlaglezES2VHZy4gOMovx9YAjOMc1P1orGBNkdTL5Eyv0Dvxglghn1hFPBTyvwcJ2X8PqQlUjOh/Zhf6Qz01KeHvAcjuHj8eD7UTEftOScGOxnfTPZYO6dOBcb/6DfiR3Sx65hrVgzTqGIu1elTnVy425prdhhCZ+M7rkBU2vyFHHZG9X/hzGhWBwWw2YSt8m9oc0EiLoQHUEAv1aG6hPYLctLxPVDkrmoMpNG5/8nXwb9Q+rw6ttk9mnbgAjSCyBx3ep364VMdDDzs9R8KzPGZUAFVT3YLp0JXMm79SmVRFAJPeJDaTfNlDf+mvBx9el2fv3F1aH0BVh9D/QHuD+y4EYQwXJ99u4G/AbXVFHd4nUUP4sSdf6rggAz366pcGI4h6d1vKKt52u6OX/2VRHMAtDPH5CZvUDuJtxeUfWlB6oCCu7OABWSHoO9T2hehpcpq2dCN5g+nP/ijIIzEweJA==;0gwcGnxWgkqKOXNl9wINlA=="
 ---

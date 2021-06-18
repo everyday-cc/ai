@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-en
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
 type: article
 quality: 85
-heat: 106
+heat: 107
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
       domain: openpr.com
     quality: 16
 
-secured: "4yDvPK7H7jLkbRU+Rv5CTW6bsyDwBzsOPvaq7c2usOZBl0/vJLXfizL891Zu5GU/PXdagTomQh3j5yYXJNmr4szmqebwuujRbThZhCrPGUPQoA2LAGGjbSryiVCEHHB/OhIZVM10ptxTi2rXBf7gV9Zwg9zZ69m2lz8iKvabMvdjSxudjaU/lUmZ5r5jd0YAQjahH89lfr780/pOihRFOc1pLbqfEcLhC07rmAK6KRekwxaFVr5WSbxopC/4YH+Q3LVZvJc7s5LC8qd7P/Bf2VEeAyuEMQvhoEypCMmzSPuSz4PGhALt50rzmQWK5yQYv3HbRQAgYAV1ErlSxTMquxgFahfkjTqHZ0Qh0HMKEZo=;mAhIXDmfYwMH8PluZ/qt0g=="
+secured: "X7bavYNmnEJLmkztYMnJwFUkYoKCQcY/feUXcT6nJnX+Km6n5JUK5eomto0GEqik/vDOk7qXuXKjHMd/kvaJZrVYgRANM5/MflfWa0W2//gr3C0gLXvEse8r/cikqWkDiT4WHd212NfINyjjYL/3PhlXETmcuV83Ub3rO171G/lsZyLkzSBJ80TuDR4Lz8XkCzzJHg6s8fc2nJzAVMDGmjpK1TK54aiktEMld41OZGmpErSC0qU7nCxCRvL84foHI+WWRSq8SGly+rAHoD1b8SoHO0Yt3aZbkeBWkNsBMuhAQMEdHB0vLyUZXnERfgYf6mJJF3AhGMScK3nEq+Ie/+Ok+A2yj3pHHuscuwfjKFDrttUnJtGPCs1SOGkwnZyQc19XLV5+dWNRtRNxLrRTA1SwqniGlMbJNJFqo9Vr1uuuJkOpfCw4hc7fPXEX6/LbY4/8bgdhWCDh04zfq2202TIiaroK3XMDqHy0hDQd9IB1uEX6NZQyYSDuJUsb6uxSui1MZ/dUloDqGqceQ9zUPA==;baSla29DbtSpY2Bp6q51KQ=="
 ---
 

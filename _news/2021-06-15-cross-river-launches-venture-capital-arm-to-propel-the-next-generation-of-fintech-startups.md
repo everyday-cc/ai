@@ -40,13 +40,13 @@ related:
         height: 720
         isCached: true
   - title: "Clinc launches Artificial Intelligence technology for Banks & Credit Unions"
-    excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is"
-    publishedDateTime: 2021-06-15T21:23:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/clinc-launches-artificial-intelligence-technology-for-banks-credit-unions/article_eaf5540c-739a-55a1-8191-bef53088547b.html"
+    excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is the foundation of the new products, with the vision to enable banks and credit unions to deliver a high-tech,"
+    publishedDateTime: 2021-06-15T22:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391196.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
 
 secured: "XDe3VtYjbXsWBR8ts8gRuGFcAm2jjK4t+dabM2wcRX26HMufOezGCerC9JZEbQ2U7EZSpzQuZCMkua9gX3tLWCyXDoNEYI0LSLcRdF1QBGV5qJ7yUWh1XQWCZhVsl2wJZn3OKTb5jVklAhBt2PeYyziAdRhKeskAfX1KCdNyQjq/j3jMOEUnZmY0t/20XPauJAzKJczaZg2DTKdGW6fTwr+ART9xbJW3CkyrLK0JKIglBUOrUPPcc65eZJx0OwfffP3XlvzNWJDjNfidR3cpyCk0d97WW5YMdnu3yirI2eYC7HYeQWO9zpTy636KRVYePhu1jJGGbFd0pTYy6RzvE/SirGxixyE6u1e3uW856WM=;Sl6kHiS61b0JTJmmi+gTlA=="

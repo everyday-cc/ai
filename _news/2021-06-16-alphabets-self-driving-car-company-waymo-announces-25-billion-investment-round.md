@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-b
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
 type: article
 quality: 154
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -285,15 +285,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
-  - title: "Vita Mobile Systems Announces LOI to Acquire an Artificial Intelligence Software Company"
-    excerpt: "Vita Mobile Systems, Inc. (OTC PINK: VMSI), a technology company focused on digital imaging in mobile devices, collection and management of big data and development of artificial intelligence, today announced it has signed a non-binding letter of intent (LOI) to acquire a technology company with proprietary Artificial Intelligence software."
-    publishedDateTime: 2021-06-17T05:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8255978/vita-mobile-systems-announces-loi-to-acquire-an-artificial-intelligence-software-company"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "7QCKWVza2tbzkp1/SocTApvNYuqIc9M6PgXI8jiR9ftzsVPrtgMyQO7NwHuggMbIZqN6SpNksjmyjjs5S0/YMwFG1JG1pE2tZhZtpMV/czUStMkqyr34uGLgPWXdWpIczNMVWdv499D9zNLnzfnkwTU5xAw35YxWrynluoZzmVTeCEYSEQHQGIHHTyfNzdKv6snmxT6TRfJoOqla/6/sHdn5je6K5YVT+D1rShdAcPx5LP0yWSoK4WrOhdzvADe8/qGMbylV+kh0JQLKbPjzVPRTvjAn73sPaH+/HJCtNTEJ6LeoXvR/fR5JTEIuJKLNUd7Z29OVU4sqXjwfizdXfGf/q3fQNbDRy37dUqaKLKA=;JWphUlop9FoF9g1Ys0V1Gg=="
 ---

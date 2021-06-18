@@ -67,22 +67,6 @@ related:
         width: 647
         height: 363
         isCached: true
-  - title: "Amazon India announces machine learning summer school for engineering students"
-    excerpt: "The curriculum of ML Summer School will cover the fundamental concepts in ML while linking them to practical industry applications through an immersive 3-day course."
-    publishedDateTime: 2021-06-13T09:37:00Z
-    webUrl: "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/"
-    ampWebUrl: "https://indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/amazon-india-announces-machine-learning-summer-school-for-engineering-students-7357004/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 55
-    images:
-      - url: "https://images.indianexpress.com/2020/08/ML.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Amazon India announces machine learning Summer School for engineering students"
     excerpt: "The programme is opened to engineering students in their pre-final/final year of Bachelors, Masters or PhD studies across select tech campuses in 2021.Amazon said the students will get access to the A"
     publishedDateTime: 2021-06-13T20:29:00Z
@@ -114,22 +98,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
         width: 850
         height: 576
-        isCached: true
-  - title: "Amazon India to impart core machine learning skills to make students industry-ready"
-    excerpt: "ML algorithms for improving address quality in India are being leveraged in other marketplaces to identify poor quality addresses and categorise addresses as Residential or Commercial, it added."
-    publishedDateTime: 2021-06-13T09:28:00Z
-    webUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/"
-    ampWebUrl: "https://www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazon-india-to-impart-core-machine-learning-skills-to-make-students-industry-ready/2270544/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
-    images:
-      - url: "https://images.financialexpress.com/2021/06/amazon1200.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Amazon India Announces Machine Learning Summer School"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
@@ -173,15 +141,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Amazon India introduces machine learning summer school"
-    excerpt: "Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
-    publishedDateTime: 2021-06-13T10:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210613/3771050.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Amazon India to impart core machine learning skills to make students industry-ready"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML)"
     publishedDateTime: 2021-06-13T19:24:00Z
