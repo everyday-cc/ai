@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-d
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: The Hindu
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Believes AI Will Help Design Next-Gen Chips"
-    excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
-    publishedDateTime: 2021-06-14T10:02:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
     publishedDateTime: 2021-06-14T13:37:00Z
@@ -91,20 +75,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
-    publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
-        width: 700
-        height: 535
-        isCached: true
   - title: "Google Uses AI to Design More Efficient Microchips in Less Than Six Hours"
     excerpt: "Google has conducted a study revealing that AI software may be used to design microchips at least as well as humans, in less than six hours. The company is already manufacturing new microchips based on the AI floor plans."
     publishedDateTime: 2021-06-17T19:07:00Z
@@ -116,6 +86,15 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 53
+  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "Inc03iXGT8+SzBHFnWcUpe2PCzRlVssMiraWYA4hH0LH0QZzs92hR1HS7gtjF199vPswozhRUiQtP97pyVhPR+tifdtaLiH+w5LzqUyhYKEdVbj1CbzOeqQFVnnlykCLK9cJ+Qrbuqjs7FDAuLSi+AHYe0aVSMesSS0qbYEnsi8b34LrZodNTlPvmTddbImf+PyNvhUX7/oJXPJUKKPoyXrgOesHL4eAnX4y9PXj40asZsBqDiQe5MoOtzaeYyG8wQvna7KCcw+RyFYMku0shC1k99IxOYmDBkvwing6r4ozXOLGnGOQttWA9fSWwSSTIM5y9k6hDNthnpzkeQzl3ZX87Hf+g7eX5QbduglBQEg=;G1/naUliaiaPy/RP6fUxNg=="
 ---

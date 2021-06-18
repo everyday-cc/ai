@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lexion, AI-based contracts venture backed by Wilson Sonsini, raises $11 mln"
+    excerpt: "Lexion, an artificial intelligence-powered contract management startup aimed at in-house legal teams at mid-market companies, said Thursday that it secured $11 million in a Series A funding round."
+    publishedDateTime: 2021-06-17T21:41:00Z
+    webUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/7dMGSEvPpWtUrG2Pv2HyUMrjtxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PM3DYLXTWZNK7P3XCMCRTSQU64.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI-enabled talent management startup ‘Sense’ raises $16 million Series C round"
     excerpt: "The San Francisco based talent management startup has not only raised funds with the help of existing investors and India-based business-to-business (B2B) Avataar Ventures but also expanded its global footprint by doubling down on India operations."
     publishedDateTime: 2021-06-17T06:07:00Z

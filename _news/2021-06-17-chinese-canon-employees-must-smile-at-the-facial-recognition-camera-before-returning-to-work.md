@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese air force applying artificial intelligence to air combat training"
-    excerpt: "The adoption of artificial intelligence (AI)-based technology in pilot training by China's People's Liberation Army Air Force (PLAAF) has progressed to use in"
-    publishedDateTime: 2021-06-16T00:00:00Z
-    webUrl: "https://www.janes.com/defence-news/news-detail/chinese-air-force-applying-artificial-intelligence-to-air-combat-training"
-    ampWebUrl: "https://www.janes.com/amp/chinese-air-force-applying-artificial-intelligence-to-air-combat-training/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
-    cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/chinese-air-force-applying-artificial-intelligence-to-air-combat-training/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+  - title: "Employees at a Beijing office have to smile for an AI camera to get through the front doors, change the temperature, or print documents"
+    excerpt: "A Chinese subsidiary of digital camera giant Canon introduced the workplace management system last year to create \"a positive and lively atmosphere.\""
+    publishedDateTime: 2021-06-17T18:19:00Z
+    webUrl: "https://www.businessinsider.com/workers-at-chinese-office-have-to-smile-at-ai-camera-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/workers-at-chinese-office-have-to-smile-at-ai-camera-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/workers-at-chinese-office-have-to-smile-at-ai-camera-2021-6?amp"
     type: article
     provider:
-      name: Jane's Information Group
-      domain: janes.com
-    quality: 51
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/60cb84f320bd1300181c6e5d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "F4GHBb01HXOwDekDc8AeGobgt8SVaTw3Ua00EW5yyUlewAYEx6AeinwXccqhitfsQlU9iXsi8ap/nrUwQs49XZToVywE7BwF/IgHU2msQl+KvLj8NtCmkODYNdeucueW4oXQx54w2w7vdGm/QTmeV8iM3XGkMZdfMgAa+RRAxC1ayoDpR71yLCLPEH3MVZCD1n+ImMwzhg/96FPjCbMSUF2BSDFvrGWgFR573KGbMChiETRj+vgRNH2qYhlCPaDOtUHxo+hZDgo8IqyqwiLy7qJzptpbyWyrNggyWuQ1kM7uU9xNmwr7Ie9N60UsOr6wRknLrQo8CzEMuGLGLK8FSz1Z6XvchUGAdps8qz6N5qg=;3jg9QDRY9zD981T9MpMKbQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

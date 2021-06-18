@@ -1,29 +1,29 @@
 ---
 category: news
 title: "CogStack wins an Artificial Intelligence in Health and Care Award"
-excerpt: "CogStack wins an Artificial Intelligence in Health and Care Award. Cogstack is an information retrieval, extraction and natural language processing platform develope"
-publishedDateTime: 2021-06-16T12:29:00Z
-originalUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
-webUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
+excerpt: "Cogstack is an information retrieval, extraction and natural language processing platform developed by researchers at the NIHR Maudsley BRC and"
+publishedDateTime: 2021-06-16T11:32:00Z
+originalUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
+webUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: kcl.ac.uk
-  domain: kcl.ac.uk
+  name: Armed robbery in Revesby
+  domain: miragenews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.kcl.ac.uk/image-library/ioppn-news/scientist-with-laptop-clipboard-and-display-of-human-anatomy.x2b64218b.jpg?w=808&h=440&crop=780,440,14,0&f=webp"
-    width: 780
-    height: 440
+  - url: "https://ballina.nsw.gov.au/cp_galleries/news_item_images/master/beautiful-minds1200-x-628px.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Mtv2yL6nTCPwVcanHSgb7jCjfZiqS529IOdtuwm44h80uATayL19StdbylZbGW3cYGoABpSlo1dqNpz0xXmVIGCZwTA2o4Spt1JXYPkEJF3uXK4TP6QJTM17F6N38yfCRpiN/6JrMr0x5S8JdBvUO+7fvSnRFPSwg4L/jnfTkDzHE4GnMor2wvAow5Otuy3r+hVM5crr7TaC1yoemc7wv8282ayNHIJrT6VEO+GxzUxoDYBRRoCPunH4cZwXVPwVHfBwIzYYRDRphGBw/ALZGsKwlx2O0l/MYanER/DsFFaD92zxdtkXmCmtTHLcrc1Nfh3SwAot0NItabkvMbeTCmgagYGdDs9yfJ0Mr0I1mV0=;NtvODAOFiUyQUNBFpO4uuw=="
+secured: "7X87te7pNbDj7ynHEESwfuIFvpHtdieMnrlwof9Gt5CplcJ2Tfs0owQaK/4GHQGiQhDq80MNL8uWaMF3wnellrFNcnerjbLKxFCZlR4X4MdYSk2zRw48raIgZqObObWhlPTm9z1CuGqVHQRKBENDak4yogLZuv6iisDFrTxKT7STR0A+aB76oROf3nbP21Da1N3Za34tT7DJ+4t0/T+67hKdbsIPMENLQwLDIvE9L2j7C+RiJPCc0RtVZe5MXF73Ohl2xcR+fgByH3m0qT0Shl69hh9nqvnetUGD/LrY0qpSp9Ng222P3bRYPgeJ00aweXnOuLrMU+ALGeQZYPkHEfBXP3RMf/GUKRBK1lgsMAk=;aMBP7PaHH+groCmQJbaiBg=="
 ---
 

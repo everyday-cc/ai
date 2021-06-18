@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-17-uk-computer-vision-startup-tractable-reaches-unicorn-status.md",
+      "title": "U.K. Computer Vision Startup Tractable Reaches Unicorn Status",
+      "excerpt": "The London-based startup that uses AI to assess auto claims for insurers like Geico has raised $60 million at a $1 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "originalUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca8ceaf4d0e7bf31d71929%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "publishedDateTime": "2021-06-16T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-uses-computer-vision-to-accelerate-insurance-claims.md",
+      "title": "Tractable uses computer vision to accelerate insurance claims",
+      "excerpt": "Tractable's AI performs a real-time analysis that helps insurance companies quickly decide whether a car can be fixed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01-e1623853027298.png?fit=800%2C383&strip=all",
+          "width": 770,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "publishedDateTime": "2021-06-16T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai.md",
+      "title": "Tractable raises $60M at a $1B valuation to make damage appraisals using AI",
+      "excerpt": "As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
+      "originalUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01.png?w=1024",
+          "width": 1024,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/",
+      "publishedDateTime": "2021-06-16T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-ibms-ai-mayflower-ship-is-crossing-the-atlantic-and-you-can-watch-it-live.md",
+      "title": "IBM’s A.I. Mayflower ship is crossing the Atlantic, and you can watch it live",
+      "excerpt": "IBM's autonomous, A.I.-powered ship is currently on its way across the Atlantic Ocean -- and thanks to some amazing tech, you can watch the journey live",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
+      "originalUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ibm-ai-mayflower-alone-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp",
+      "publishedDateTime": "2021-06-16T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-andrew-ng-launches-a-campaign-for-data-centric-ai.md",
       "title": "Andrew Ng Launches A Campaign For Data-Centric AI",
       "excerpt": "Data is eating the world so Andrew Ng wants to make sure we radically improve its quality. “Data is food for AI,” says Ng, and he is launching a campaign to shift the focus of AI practitioners from model/algorithm development to the quality of the data they use to train the models.",
@@ -209,7 +416,7 @@
       "originalUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -304,7 +511,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-develops-new-method-to-reverse-engineer-deepfakes-and-track-their-source/ar-AAL7bW2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -682,7 +889,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -734,7 +941,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabets-self-driving-car-company-waymo-announces-2425-billion-investment-round/ar-AAL6F70",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -1016,206 +1223,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-datas-double-edges-how-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management.md",
-      "title": "Data’s Double Edges: How To Use Machine Learning To Solve The Problem Of Unused Data In Risk Management",
-      "excerpt": "The world is awash in data, and data is there to be used — or not used — like at no other time. As a result, risk measurement systems today perform far better than the systems of even just three years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75e7bb3a15a212c6d4736%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/datas-double-edgeshow-to-use-machine-learning-to-solve-the-problem-of-unused-data-in-risk-management/amp/",
-      "publishedDateTime": "2021-06-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark.md",
-      "title": "To measure ultra-low power AI, MLPerf gets a TinyML benchmark",
-      "excerpt": "The new suite of tests measures the latency and power consumption of an embedded system performing four representative machine learning tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/16/a4e35268-613e-4e36-99ed-a6fe51afea57/mlperf-tiny-inference-layout-for-twitter.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/to-measure-ultra-low-power-ai-mlperf-gets-a-tinyml-benchmark/",
-      "publishedDateTime": "2021-06-16T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out.md",
-      "title": "Trigo bags $10M for its computer-vision based checkout tech to rival Amazon’s ‘Just Walk Out’",
-      "excerpt": "While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a customer.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Caption_-REWEs-cashierless-checkout-store-in-downtown-Cologne-Germany.-Credit_-REWE.jpeg?w=1024",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
-      "publishedDateTime": "2021-06-16T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
-      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
-      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T00:25:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

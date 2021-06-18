@@ -121,6 +121,15 @@ related:
         width: 1271
         height: 841
         isCached: true
+  - title: "Alphabet's Waymo Raises $2.5 Billion in First Fresh Funding in a Year"
+    excerpt: "The funding led by Alphabet and other existing shareholders is the second outside funding for Waymo, which last year raised $3.25 billion in its first external investment round since its inception 2009."
+    publishedDateTime: 2021-06-16T17:40:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-06-16/alphabets-waymo-raises-25-billion-in-funding-round"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-06-16T19:30:00Z
@@ -154,6 +163,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Waymo Pushes Toward More Staffing, Self-Driving Tech With New Funding"
+    excerpt: "Google's Waymo has now announced new funding to pay for more self-driving car technology and staff. In fact, according to recent reports, it's received"
+    publishedDateTime: 2021-06-17T22:10:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/08/AH-Self-Driving-Cars-Waymo.jpg"
+        width: 6500
+        height: 4333
         isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
@@ -206,6 +231,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Alphabet's Waymo raises $3.4b in first fresh funding in a year"
+    excerpt: "BERKELEY • Alphabet's self-driving unit Waymo said on Wednesday that it raised US$2.5 billion (S$3.4 billion) in its first fresh funding round in a year, when a string of defections of executives rekindled concerns about the technology struggling to scale up."
+    publishedDateTime: 2021-06-17T21:00:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-34b-in-first-fresh-funding-in-a-year"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/18/ST_20210618_VNWAYMO_6625614.jpg?itok=LH6014Pq"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-17T07:48:00Z
@@ -247,6 +286,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "NK1ykWHrR+A06RZJJBRDsEIG6itLgVIevvykaMpq/2xajfP/BA7PEwAVfn9B6b8i3CaMEomIAUHiuNBiZ9hu4FGYhT97xcVy8D8pCpVRdMK2m9UZpUKjFOPLe/L/Pw4cfdjuDpd3qQ35LeNAOvhXmTyooIae3hk3+rKIz1BOtgSmHNLPXjcOhk38mas358qHaYLmfPuBjk4IFnCBTEsqJacf4uvldwe3o4ALGqMh0PjNDCG4BOehKgfGqLzRs4pp32gT8QNgeaHaurOJtLWxKHm6g17Zd9JQnAXPuOqghKCL0SEiT3KpGx7mdzLkvXd1o6j1od+0wz9w2gl9+skbr1h+/18PouMlm8wgX4xbXl4=;5sjxSM6OMqhpekUSkfm/2Q=="
+secured: "MJov4e6jzqkeFI8tE8fZ+EYEOEU638cIh0++GNq94BmQos2rnYL8ky0K6yXX5UStKRxCYorYma720v/GNzt1vRUXD1CBWTcuzXzfe/tjri6txqb/v0lB1ZknA9bo8dSuuM+1/0/LhTbJ4OlrEf9+LC1y7ymSQ6Tgw8iAgWzB82QvuJK4G3AyzlZfrtWbJ1DiYmXfQhzsdwhI/JHgSeY/HAv90HqAC9GEwC0esuleIeFq/kTBAZ0X4lb4bB5KOMmvTIX6O8pGfoC/CXUGBGQpNxjQK9JVC2aiEN+HcVyEznhsA1BJSiK0CCiyCu9eNVKtlnpVbd4nMh+kZxOj4zLmd4rN+YNJrPHKEumBl3XMeJm7DCUhtrArAgGaNXy4m6HXt6lTO+s8NOdU2DU0uF0F0/0jHpTbmQdmXtgXb0zYQstLeI1xJAsKetmGTbDYE85gKOymMXCmvCxNgeDdMfeVzSdagpy0BylK7dOUm3gJVgHhPAamG/t+kr7bEBdi8uFXilO6Uf6utKHg9LNwYxndRA==;aHtO+DaGuYNAfH/uTausbw=="
 ---
 

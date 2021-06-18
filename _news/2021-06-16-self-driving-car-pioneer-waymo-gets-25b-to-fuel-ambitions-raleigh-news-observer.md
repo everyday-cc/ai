@@ -115,6 +115,15 @@ related:
         width: 1271
         height: 841
         isCached: true
+  - title: "Alphabet's Waymo Raises $2.5 Billion in First Fresh Funding in a Year"
+    excerpt: "The funding led by Alphabet and other existing shareholders is the second outside funding for Waymo, which last year raised $3.25 billion in its first external investment round since its inception 2009."
+    publishedDateTime: 2021-06-16T17:40:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-06-16/alphabets-waymo-raises-25-billion-in-funding-round"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-06-16T19:30:00Z
@@ -165,6 +174,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Waymo Pushes Toward More Staffing, Self-Driving Tech With New Funding"
+    excerpt: "Google's Waymo has now announced new funding to pay for more self-driving car technology and staff. In fact, according to recent reports, it's received"
+    publishedDateTime: 2021-06-17T22:10:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/08/AH-Self-Driving-Cars-Waymo.jpg"
+        width: 6500
+        height: 4333
+        isCached: true
   - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
     excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
     publishedDateTime: 2021-06-16T14:14:00Z
@@ -213,6 +238,20 @@ related:
     quality: 54
     images:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/17/nz_waymo_170630.jpg?itok=doo1mu1F"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Alphabet's Waymo raises $3.4b in first fresh funding in a year"
+    excerpt: "BERKELEY • Alphabet's self-driving unit Waymo said on Wednesday that it raised US$2.5 billion (S$3.4 billion) in its first fresh funding round in a year, when a string of defections of executives rekindled concerns about the technology struggling to scale up."
+    publishedDateTime: 2021-06-17T21:00:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-34b-in-first-fresh-funding-in-a-year"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/18/ST_20210618_VNWAYMO_6625614.jpg?itok=LH6014Pq"
         width: 763
         height: 509
         isCached: true

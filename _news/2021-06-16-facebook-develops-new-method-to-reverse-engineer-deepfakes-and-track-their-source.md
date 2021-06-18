@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534690/facebook-de
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters"
 type: article
 quality: 137
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "http://media.npr.org/assets/img/2021/06/17/ap18182526835003-721b3f8ef1f9f90eb6e6d6b04f8dd47469336d8e.jpg?s=6"
         width: 948
         height: 710
+        isCached: true
+  - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
+    excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using"
+    publishedDateTime: 2021-06-17T22:03:00Z
+    webUrl: "https://www.wemu.org/post/facebook-researchers-say-they-can-detect-deepfakes-and-where-they-came"
+    type: article
+    provider:
+      name: WEMU
+      domain: wemu.org
+    quality: 22
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202106/1007488219.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "K8fKbexVbJpD7eHPk+ceXaiYV+4zC4DndJcBK7Uu3bG/Gvg2maZyIKiHp3bepsiUIkYlAIA3vZ57S1KuesIIHNlrd9ajES39id3JpchnwABOJnftYPoPoGUOrfkAlv7Y93p7UHtk07opzKepddN/cK5sFuYt0Y1T/dZDW4/aTm+EoP+9nJ6h5y1VdMKmH5DtE/VoFY+E6dy4+jfVn1MK64tx2abACWZ6WRDtW4VTfY1H5KZftpj8jjFJBu/+miul0ijyOQnTEjk2tj6zomIMpSyvLSBCXDWeU//X/4+ogqri+WAagTgTVCxN5Hy8DQgjusp5nCQQzFaijxBAMAEMcpjev6pxrQqqLyMKbEVhnIggMKdJKMNXcM5S5EusFs5jyhYGxRui67Z87f7JZZB2XQOXW3AFM6BcTrnKEc1n/plxH9K+0o4CiVwH1Qkiyi8tZLI84VyBNoRZ3/3o2HdBcVLlBwqmgRx+Od6n8jyCK5/JA+ZBtaQxU8MP5nhwslinIqmNaFrBQzH8stcRBJzp7nLXaaCFExiPOWxN8PVzBVU=;vP6LpVWTBFfxoj/0Kmycfw=="

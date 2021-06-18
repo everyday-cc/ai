@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of"
 publishedDateTime: 2021-06-17T19:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+originalUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user-and-geography-301314928.html"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -53,15 +54,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
-    publishedDateTime: 2021-06-15T00:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
   - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
     excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
     publishedDateTime: 2021-06-15T00:04:00Z
@@ -71,7 +63,16 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 0
+  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
-secured: "AQxG0mHVfOFPpqtwA7tTovCqnvpyXk9W3TLF5gm23YY2oK+M1Zv/gfSRRPpSDss0YTZkP41iusTZzxG4S27tpz7wyFfTZ4dsumlq2Jvov8/oEb7u9dx7Eq2mzMohoup+Tzlr6oidRvp61qrAitar1xROJSfGxG7y+XVlhO3eeJQVqcP8xiQ13iXGevREsCB9qlTKC4J3oNNtchHBgRCQXGlnF0n9aLbLT5RiyciOFF1prRu0lLFx/hCirClG4s5vlvsBH2OJAJ8ukuNbe7vgdJ7L3XkPh19KfByUtRD3+8qikcxj+0glTPIq5o2bDUMs0aTRMKP/SHPC871FJALv9QHnQCtQaKXaN7/54qY/zsE=;+DQ8vEOSfPkrx/9yvo86dw=="
+secured: "/KYz7XGma7eMDkv+OIrb7ODBEv9Vf6bjssSqMXRr+VIKCBDBJsp7UX4O8E3EW0QNrG5QRavWpab4H8dEsnwiUOXXbOfHHNXI2RpROQL1B6SOeE+EtdmcsAXwdIRNoH2xvXwn3eU6zM+TbNccILjVywlyuSKFk7zJNHO/lFjMQuwzZu6rcQwzwVvNQsSa9MD0s5MKJVcn5Gs3O4Ct7th2W1JGOhX6jXz9svaYjYBSZa4ntqo6UBqGrMixfWauhXIQaNZ5XcmzvP0PmQrXxqw7TY38MwVeYZZUccpf/Z1DhLyU/oWJGZVWa5zCKQouWsfdQZ2/OqN5Weu/yhW3ComrlYSxtOTr1Se1H8NaeXeptEY=;8YYq658GEcw6OBxX7YFa3w=="
 ---
 

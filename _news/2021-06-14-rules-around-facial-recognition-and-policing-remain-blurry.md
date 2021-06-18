@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-call
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
 type: article
 quality: 106
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.wsj.net/im-353752/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
+    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
+    publishedDateTime: 2021-06-17T23:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facial Recognition Bill Gets Initial Approval in Maine"
     excerpt: "A proposal for Maine to require statewide regulations on the use of facial recognition by police and other agencies has cleared its first hurdle in the Legislature."

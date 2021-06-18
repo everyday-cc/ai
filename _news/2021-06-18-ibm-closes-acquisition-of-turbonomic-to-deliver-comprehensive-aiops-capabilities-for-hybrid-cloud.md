@@ -24,6 +24,22 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "IBM Closes Turbonomic Buy To Help Clients Automate Cloud, Entire Enterprise"
+    excerpt: "IBM expects Turbonomic’s application resource management and network performance management to help clients’ journey to the cloud."
+    publishedDateTime: 2021-06-17T22:31:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-closes-turbonomic-buy-to-help-clients-automate-cloud-entire-enterprise"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/026a-128b62d11702-49e841c9638a-1000/dinesh-nirmal-ibm.jpg"
+        width: 609
+        height: 457
+        isCached: true
+
 secured: "26Iz9NDNcYfwXjdJID+F2HuYyyLuOV4ILdy2FIcuKUN19ENdKMlsrh/QYScZ3KyjoTDeY8r+7850K8AeY6du4AtMECva4wDCG+ao/RLh+/kD1PjMd2DZYICdUk3V/YFQWh0GrA689ZhVnAsKIPM7zyvzaMNv+CS7rBTrfBVolmO5sg8qYr8fI+j1cyp+vAtH6dqNijB7gSFg8J1HQ51FV1ecvObuGeyCkz9Cp2Wnct3H/2dfl7L3doE0aHoDulaFrB5oH4gt6O+3uNNI07NdHXk2yZmLEibFRcE0JTKYacwNxrbccppf5BwlAZ+crSAjJO3tdhdTrpfWrWXanQvRGmHhJDwyb/HgAS1amxCC4vVrzp04ExWwKzC64oLTkYu7TFDFqDoNyqtMiuvlHTm8p5BfY1EjyEpDJpuyNggIz0fZYoQWsvd659jiv2BQbz9MGldsAtkYAndsey8/PVgCDtbhsgb6ZDEWNii2pMWCaXi2p8hZwsSsbxb/114ReZbbltw5/JIQd87kC73M7xfrxQ==;DDlr6Dg33Tf6jSRhBjn0lQ=="
 ---
 

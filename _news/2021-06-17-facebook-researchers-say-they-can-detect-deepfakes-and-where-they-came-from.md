@@ -119,6 +119,20 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
+    excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using"
+    publishedDateTime: 2021-06-17T22:03:00Z
+    webUrl: "https://www.wemu.org/post/facebook-researchers-say-they-can-detect-deepfakes-and-where-they-came"
+    type: article
+    provider:
+      name: WEMU
+      domain: wemu.org
+    quality: 22
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202106/1007488219.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "IZ7qGVy4EtxzhSgYg578gspm/dg+HhY1TqEMv3M+eMEEHzpZpfUNSG2WYUqJPcNbzedJw/q6u4HTHMbUyGs6TLyNzhwuKSE8f1UhWbVZu+YF+mKUIX5UYG22hd/PE8yzUoHXaaMDuaknPUEimh2zeTur1dSmpteb+HI6DtA49AXRcHExcrWYpHEZCYk76mMAutel4mA4ZHTbwMKYkB0xEJ6KMcEEd+PDI520p5c8rgxr3lTtCcwEZUZA1spKF+U4XglLjB+dZF9/BEcXPNWR6U5EqumsLRiYlMNOZ0vHb2tqd0i8lRUamYCqmgfHdyQVUbCQNMzWQQuK5B7XvmmDemMJVlY2G6oSXlZCXXud71lUCq/kpRGms4bpQlB4fhLxC2CnalxtGM2UN5FH25K68qXYencYxjcbsfegHChgelI6wBUERqT8bU+8fgWVpVfs5R5BhPe+GUrxIank8B6PKITk9xYPMNuj4Kbqe92WfsP+OMgSzvKGPSe4uDdL0aiiXHqLyJlZ+dc/mF2PPCxOnw==;flUMpfCZTAFm200qunZfxQ=="
 ---

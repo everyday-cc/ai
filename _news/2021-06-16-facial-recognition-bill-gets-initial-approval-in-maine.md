@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
+    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
+    publishedDateTime: 2021-06-17T23:01:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
     excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
     publishedDateTime: 2021-06-16T02:25:00Z

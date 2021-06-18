@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

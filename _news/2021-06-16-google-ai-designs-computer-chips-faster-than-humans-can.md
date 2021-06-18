@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Believes AI Will Help Design Next-Gen Chips"
-    excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
-    publishedDateTime: 2021-06-14T10:02:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Google is using AI to design chipsets in just six hours"
     excerpt: "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area."
     publishedDateTime: 2021-06-14T07:06:00Z
@@ -91,20 +75,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
-    publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
-        width: 700
-        height: 535
-        isCached: true
   - title: "Google Uses AI to Design More Efficient Microchips in Less Than Six Hours"
     excerpt: "Google has conducted a study revealing that AI software may be used to design microchips at least as well as humans, in less than six hours. The company is already manufacturing new microchips based on the AI floor plans."
     publishedDateTime: 2021-06-17T19:07:00Z
@@ -116,6 +86,15 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 53
+  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "c4r/8zkboUcXm15QLDapVH/P22D8eSJB3wJjrOvo5ZPN4RVgI0nWXFjgmvA1H9UVcFJ8GGanACJY2f6XBUCj2+pRqEmQ3KTmvIcILjYViR8oO0CE8sj2MR0s166hCsSrqPV4nDq5uXNo8S4NsjKkSW+4dHSXWHOgxGr+1bJzVDDHVfJrHT/yf+HRcUxai+V2wirjpVqhGSN3Ii0vZyaCSTXGlxNZkG+tFYk10bXktPuRBrBJ6p1tdqkfFo3DOHABusNYpSG5DxWERV7vhLsxLN3iuELneldiuR/M92j750U6yXer57tMWpAluIwftrUd7AMJbTep53MvoeMBBGf/NXIByafJ3hvYUZO/wY4eaH3GR0MHrF4y78Rkn3/bT7QYbFYE0UR2aADL6klxWBONNSmHp79EgmZq0xBqTuYY3K6MifIjcbhiqA4cxIcdPo2qDLyKKgCRGmbdK3cPIrlOvdkSKoH/bXMTmTAM3lpPztL7uYPkJ6caW0b7A4kwJZdY4RRDKBdPp1vLh+LyvCbpag==;vIzVvwCYwfyh0bz0uhQnOg=="
 ---

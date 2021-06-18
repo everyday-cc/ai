@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Believes AI Will Help Design Next-Gen Chips"
-    excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
-    publishedDateTime: 2021-06-14T10:02:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Google is using AI to design chipsets in just six hours"
     excerpt: "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area."
     publishedDateTime: 2021-06-14T07:06:00Z
@@ -101,20 +85,15 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
-    publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
+    publishedDateTime: 2021-06-15T00:05:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
-        width: 700
-        height: 535
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "ud6qWYMjwWlQQJlu++MiuJRyhgKROP+aar7ubmS2YxRDQodfQHe2ncHsn5ao3+oFC85q1XU7ThWDuVsnMylktOUno/x0f7MjVINQZT6UcsGzZT/nQu+MNzIKs/EMS7euC4Ag643tkHBOsvjQZx9EHk7d7PTNVLnIoM90hzVQjfIfra/Q0pHp4fgFX9nxQSgqnNNqQduy3IXZB8xW3wOEkfbUFbv0rHFDH2FxVuaHB8/uvP8KA+4fM43iochGlDRcYIqqjMf9p8s69fbS8MRoiB5rwBVk3Hk8dCMqi43hkxdnzJD7qpzdPjDEG7U/DdjlIm1OG8tsixzfT4/cdms1PhaX9u0HJ4DhNmYl/D6lJ6kib4a+1HeTeXYv9w3i9tjgOgTHXGd/eY95zB7C7S0+htgBEcS3PLidOrKbeZiYOloaDu7S35vix4jf0p3rQsXQduw0/B6VUa9gf6sVeQBXZMoVnClzP0oAHLEmyvmB1vKDSO30ip+wP4tqOtxZJHXjF/W67Mzm+wNqbXgQ9E+/Dw==;ubxPnPEbAXk7CV/pKCGy5Q=="
 ---

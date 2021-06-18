@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Lexion, AI-based contracts venture backed by Wilson Sonsini, raises $11 mln"
+    excerpt: "Lexion, an artificial intelligence-powered contract management startup aimed at in-house legal teams at mid-market companies, said Thursday that it secured $11 million in a Series A funding round."
+    publishedDateTime: 2021-06-17T21:41:00Z
+    webUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/7dMGSEvPpWtUrG2Pv2HyUMrjtxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PM3DYLXTWZNK7P3XCMCRTSQU64.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
     excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
     publishedDateTime: 2021-06-15T19:29:00Z
