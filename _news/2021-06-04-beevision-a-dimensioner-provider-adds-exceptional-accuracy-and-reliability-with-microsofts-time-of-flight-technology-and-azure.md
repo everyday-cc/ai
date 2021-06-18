@@ -2,19 +2,23 @@
 category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
 excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
-publishedDateTime: 2021-06-04T09:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+publishedDateTime: 2021-06-04T11:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
+webUrl: "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "/VOfU+kIlJmD2uaW2cMpVBaFMPIf556aNMy5G7Wta50uRCAJz0E/LxG5UFdEb3Lxy5brCzJCQ1EZ6QinRC3dV2lvRHOS2iR5HQ3vi+lvASNjltaQmVWDPbF3xjKzYBYlATREI6fLuIsRacTjFzoyQuErbV73epyQM7kOrEJjnFLNL7kVsNUA9d0Cj/X0uZt94HGCTnXvEarI1gp8wzfame3PzD72HtlgJ8moamWsrrK2hyj4n7708UwJPGbbyHS6SiFZXXa4QJdt3s/ijZAddXS+2G5WS0d4HxWYRUPHYJ0sJVQ3S1S9DqUhFdnJl/JIJypRQtmmqwMSDLrkzqse6u4ZCOamTybbw66QJXTzfRKVnU3/s/Tu39W2u1FM7wfDORTS3+hQjSefDr+VafsDRuEo1WL87Gi3r3in2Ae6tnpnAu5EvjCOVxe3z332TDpFpqSxBmCgOYt3EkJntBCEERdUr5Ogg57BxZODr7UZ82MQ4R/QMQWGfFgU8DhXJsrIKsuyqT5QOw7tBpnfH0InAw==;GKyq1iOm4sT4M6tXJL4Tyw=="
+secured: "X4h/CDg9+ELB3u1CJ5VUc4FBX7jKb87QwltzCeLfl71VcfZwTkAKgnWNjR6TMnpflYIP6kni/BaGM8+jVdj78iLNNlgFMhEyFkjnWISGh8jItpPhi/DjQaaM9Nn1aeFVV/URopxNSICzoiopXu536pjDJOfaav0bA22a+ZF4sYByfJfeojOAPvaoMnkM0RxAT69RpZCIiaX81S8ieMQPbRW+Qq+rZKUO/kd3k/ym6HctRSBWuDjzVwOKWVdTXyHXGBTQb9FJu3Tr7yhEPOK0IkAvO2fYCGCBh+N6Z+Ya6Q3bhNKuMnPDjcJp9wjNo0qxksEa/7aECWp6g/W//ZxqJzfuPOignm9oL/Cdw0pcox61EwkKjY8uM0EJkQh+/7JP37vbZrYmeH0La2STyqYwD7IehleWt0grQV5io8Ub08h9+3Fa96g5xxpwhE/3EQkZCBZW1LpIxOa/VtfGlCRx1OTjMNdKO5l80p2EIVNRzq7wVkyQwhbGOrMIh2eS2E7n7w1ZWWoUYCFlI/1FpehQag==;AdAgBlERlAy5DPW/sy/Kvg=="
 ---
 

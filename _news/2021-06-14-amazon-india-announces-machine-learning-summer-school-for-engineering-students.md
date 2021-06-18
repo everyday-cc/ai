@@ -91,20 +91,6 @@ related:
         width: 850
         height: 576
         isCached: true
-  - title: "Amazon India Launches Machine Learning Summer School Programme"
-    excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills."
-    publishedDateTime: 2021-06-13T13:10:00Z
-    webUrl: "https://www.republicworld.com/india-news/education/amazon-india-launches-machine-learning-summer-school-programme.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 39
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/rjz65pdflbphcbab_1623589783.jpeg"
-        width: 768
-        height: 437
-        isCached: true
   - title: "Amazon India Launches Machine Learning Summer School"
     excerpt: "The programme is open to engineering students in their pre-final and final year Bachelors, Masters, or PhD studies."
     publishedDateTime: 2021-06-14T06:52:00Z

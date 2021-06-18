@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/leading-financial-serv
 webUrl: "https://www.prnewswire.com/in/news-releases/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-870102118.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -26,28 +26,14 @@ images:
 
 related:
   - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-    excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
-    publishedDateTime: 2021-06-17T13:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532138"
+    excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
+    publishedDateTime: 2021-06-17T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-  - title: "Tractable becomes world's first computer vision unicorn for financial services"
-    excerpt: "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by"
-    publishedDateTime: 2021-06-17T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook"
-        width: 678
-        height: 355
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "+Z5jsyxMaBI9w/TQCQEAd8yTydAUSod5D+zCAWgKRNGP/MLO9GhE42nKXOYVSH0xc5FEKNdxmByrB8xg1VkCxhiVz/X/sFPDLbOozXSaC5GFXgIOOny0cEI21poZAe+tDzMrU+YGlWfshgoSDwP3bmMRLRDLJQpvkYjiYyhsRimnMbYEV+dcKSCDOhcXYM31ZjrmeOcWxgnplNuwbaUEnX3l6ERwLUsSHJv4y7pziJwjMlxj/4xOAkkW+joPx1H9+5i3kL8ZB0Jb9W9ASAvY0b45L37L0YRV3fhOPdAkFnfrr1mQO2uTPmj/+OOFWegNagCr/ZMewe+ZurnwVtBTRL9m2tXubLWL6jyWMoD+egY=;+M9h7TpROEQLVssD6q1iIA=="
 ---

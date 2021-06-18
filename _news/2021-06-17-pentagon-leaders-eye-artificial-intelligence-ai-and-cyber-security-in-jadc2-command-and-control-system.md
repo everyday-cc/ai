@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/computers/article/14205358/artif
 webUrl: "https://www.militaryaerospace.com/computers/article/14205358/artificial-intelligence-ai-cyber-security-command-and-control"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Pentagon leaders eye new policy on responsible artificial intelligence (AI) that is reliable and governable"
+    excerpt: "DOD guidance requires disciplined governance, warfighter trust, and a systems-engineering and risk-management approach to AI acquisitions."
+    publishedDateTime: 2021-06-18T06:38:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14205396/artificial-intelligence-ai-responsible-policy"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 34
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/06/Responsible_AI_18_June_2021.60cb4c2958e9d.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "B+en6jTBqJHt363W6g6Gkezohp520HwUZwd908tOoqfS5abS0VQ7Wxi+Bc02jFmSuifATF48WGaXxfoG3j3HonKq608TvWZwHlW1bqmJ0hgDYAsJ4tEy3AepMUXtPMaUgqbpWewaylejYrWcyTtj+BDkfEToyLimX4bucb2G6VWK01onDLCkjZWdv6FtPctZNvQGTUtyLHLMbUCO29v1Lkl1rlZb6mzxH7xEQuA5FDCkQaQKa8JctstXAkkTGGTagf2CIIjm2OBPujhxW3ZXCwkYkI/Ct3ctH8w1JV+ySKzVvvyiwopLccaSFifXHnhOpvJLsjiGoniq/3Rkzm9Wso+bwJiNYtekxSV+sBs74cII7XtOWQQV48cqM84eO8YSRSRzmJEDxcCwoKjkwtZnOqX48NzulSnn7iDr7MpcsjDiSkySS4Q/yy8ICN2WrXn7QAMd1kq2eAmFD8T42YQKKpx44dFHQrwWFJmb5U7vSUSIubsHaQujlorrp3LSn1s46zlCWjBpxZiwv+LOlz8JqA==;xoO6XRfiG6Uk+vcULtUPRw=="
 ---

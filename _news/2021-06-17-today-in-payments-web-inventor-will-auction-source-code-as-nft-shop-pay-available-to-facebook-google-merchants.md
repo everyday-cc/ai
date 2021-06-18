@@ -211,6 +211,20 @@ related:
         width: 965
         height: 543
         isCached: true
+  - title: "AI to Identify Facebook Deepfake Images"
+    excerpt: "New AI software to identify Facebook deepfake images. The fingerprint sensor will help in tracing of origination and catch the creators."
+    publishedDateTime: 2021-06-18T07:18:00Z
+    webUrl: "https://www.techthirsty.com/ai-to-identify-facebook-deepfake-images/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 39
+    images:
+      - url: "https://www.techthirsty.com/wp-content/uploads/2021/06/facbook-deepfake-images.jpg"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Facebook’s latest AI can now reverse engineer deep fakes for source information"
     excerpt: "Facebook has partnered with Michigan State Uni. to develop Artificial intelligence model that can detect and reverse engineer deep fakes."
     publishedDateTime: 2021-06-17T16:46:00Z

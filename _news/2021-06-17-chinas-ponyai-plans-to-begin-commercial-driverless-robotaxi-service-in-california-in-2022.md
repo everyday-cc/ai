@@ -59,6 +59,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu to make thousands of robotaxis for a driverless service in China"
+    excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
+    publishedDateTime: 2021-06-18T07:07:00Z
+    webUrl: "https://www.econotimes.com/Baidu-to-make-thousands-of-robotaxis-for-a-driverless-service-in-China-1611110"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 54
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202106183520da4606aa8075b_th_1024x0.jpeg"
+        width: 640
+        height: 420
+        isCached: true
   - title: "Huawei targets driverless car by 2025"
     excerpt: "Huawei is developing a self-driving system and will likely license the technology to established automakers in China and potentially elsewhere."
     publishedDateTime: 2021-06-15T18:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-an
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
+    excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
+    publishedDateTime: 2021-06-18T06:43:00Z
+    webUrl: "https://techwireasia.com/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/shutterstock_1198894387-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Artificial Intelligence aids the analysis of microscopy images"
     excerpt: "Gulbenkian Science/DICYT Researchers develop a new platform of artificial intelligence able to explore microscopy data and hasten new biomedical discoveries in health and disease. The platform— ZeroCostDL4Mic —is available in open access and allows anyone with little to no experience in coding to quickly use it and develop powerful actions,"
