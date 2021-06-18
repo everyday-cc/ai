@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Corsight AI announces pioneering enhancements to core technology"
+    excerpt: "Corsight AI, a foremost facial recognition technology provider, announced significant enhancements to its flagship product, Fortify. The system’s scalability has been increased to enable"
+    publishedDateTime: 2021-06-18T05:56:00Z
+    webUrl: "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 59
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/positives-of-using-facial-recognition-technology-in-cctv-surveillance-systems-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Corsight update promises ‘high-speed, real-time’ facial recognition, multi-channel processing"
     excerpt: "The technology is able to identify individuals on watchlists in even the most challenging conditions for biometric matching."
     publishedDateTime: 2021-06-16T17:46:00Z

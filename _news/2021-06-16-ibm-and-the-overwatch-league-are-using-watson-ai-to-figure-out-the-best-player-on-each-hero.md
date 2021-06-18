@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Marketers on Fire: Randi Stipes, CMO of IBM’s Watson Advertising and Weather"
-    excerpt: "Our monthly profile of an outstanding marketer whose leadership and campaigns are moving the needle for their brand. — Being CMO of IBM’s Weather Channel"
-    publishedDateTime: 2021-06-13T12:17:00Z
-    webUrl: "https://www.chiefmarketer.com/marketers-on-fire-randi-stipes-cmo-of-ibms-watson-advertising-and-weather/"
-    type: article
-    provider:
-      name: Chief Marketer
-      domain: chiefmarketer.com
-    quality: 36
-    images:
-      - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/02/mof-chm-v3.png"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
     excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
     publishedDateTime: 2021-06-16T13:10:00Z

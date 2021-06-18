@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19858090.html"
 webUrl: "https://www.lelezard.com/en/news-19858090.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
-    publishedDateTime: 2021-06-17T19:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Global Massage Equipment Market (2020 to 2026) - Featuring OSIM International, Panasonic and Omron Among Others"
     excerpt: "Global Industry Analysis, Trends, Market Size, and Forecasts up to 2026\" report has been added to ResearchAndMarkets.com's offering. The report on the global massage equipment market provides qualitative"
     publishedDateTime: 2021-06-17T11:56:00Z
@@ -53,14 +39,23 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+  - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
+    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8."
+    publishedDateTime: 2021-06-14T11:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210614005273/en/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
+    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-14T13:51:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
     quality: 0
 
 secured: "rJsdtpZnfGrh6CVOxUEceN8/7OB+T/X/cl47ch1DNEDyyy+7TpB/NQu00nmDiypYGV9y4DjK1ZU5+5cFy10SL2rmCC2hYARlATfvJgIwnnEpndZ3pqjgGdkB2tdhfbL0/v6IyGDa68x8m2hDysbSoeZAkUr//OmbL64PXuwb3KiS+0RGkvC7WhQ2gmgBQaJbk2qFqPHn/pzHL7uiAkH6MUZ/D4mziftKEOTQDgJG8jDg7/ukrJBADmYcI+tLG5mGMm/0FRn1shlJtYFsIBIXT64a8PeMBZoxfFhJQQnYNMYYx59eSgxR0Y94LyTn62ALCBQ8a985KvDmpuo+5VE+vGbAHFumm4rTqp5rJ8T7ZMI=;YrY6hL66W+161krpKhlEig=="

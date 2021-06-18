@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
-    publishedDateTime: 2021-06-17T19:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
     excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
     publishedDateTime: 2021-06-15T19:37:00Z
@@ -53,14 +39,23 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Machine to Machine (M2M) Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Connections Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Machine to Machine (M2M) Connections market overview  Machine to Machine"
-    publishedDateTime: 2021-06-15T00:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548676-machine-to-machine-m2m-connections-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+  - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
+    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8."
+    publishedDateTime: 2021-06-14T11:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210614005273/en/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
+    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-06-14T13:51:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
     quality: 0
 
 secured: "iYHpmwISSAneokZ+HCJCsJpBjhd6OpGQ8WnsQsPhrpCcai8IMUPc69HYzphpsW/Z8FIOxpk4f8ToegEfXovOYSTM7TH/OJHNxzjFVHgh1VBli8R3jSO9dqnqZHnR8LVrhlKRABv7mXrO5BD0Vk0m54rZjuVv5j5Fyfau/f1sC2qJia5bYfIylZ4Lstj31tqaeUG05CqMhRQhlg3ExUFLEry0DIZrhVhA29lNCqPgQ7fzEKXROe+xu/jN3bpzgwDDaxQt+GWtMmdhj6H/6cbh9+km0lHG/t5ghY6QCpQUMWAtCeJLxh7cxjV9rMk+ExyI8MntM7CvUpJehsf3/Yvip+f5OGUanhiYif0L5e0tAFw=;PsL7W8tjp+7qJNfYjdxD8g=="

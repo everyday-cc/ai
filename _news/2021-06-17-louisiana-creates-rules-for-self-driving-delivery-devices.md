@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdsu.com/amp/article/louisiana-creates-rules-for-self-dr
 cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/louisiana-creates-rules-for-self-driving-delivery-devices/36744623"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Louisiana creates rules for self-driving delivery devices"
+    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards. The new personal delivery device law sponsored by Republican Sen."
+    publishedDateTime: 2021-06-16T16:52:00Z
+    webUrl: "https://www.chron.com/news/article/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Louisiana enacts regulations for self-driving delivery robots"
     excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards."
     publishedDateTime: 2021-06-17T07:36:00Z

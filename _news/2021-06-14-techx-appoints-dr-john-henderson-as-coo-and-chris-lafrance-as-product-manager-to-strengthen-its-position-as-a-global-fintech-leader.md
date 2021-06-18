@@ -1,23 +1,62 @@
 ---
 category: news
 title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
-excerpt: "VANCOUVER, BC, June 14, 2021 /PRNewswire/ - TechX Technologies Inc. (\"TechX'' or \"the Company'') (CSE: TECX) (OTC: TECXF) (FRA: C0B1), a company focused on emerging technologies across growth sectors including: crypto, blockchain, AI and cloud ..."
+excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
 publishedDateTime: 2021-06-14T11:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen/article_cfecc466-12a1-516f-8e2c-c3bf29fc697d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen/article_cfecc466-12a1-516f-8e2c-c3bf29fc697d.html"
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210614to09497/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210614to09497/techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "xxp73umpV1luHvDJKBa+EaUMtvde7g6grQ0ClkWpoZiH0CrBq0mNr/tCWgQtZ4dktQlnPvGAGiKfGNRS17eSza63i0devVnPlBWuIPm2Ss6wEazox42hVuaFm86/ptaH2aeqDwBLAOzyXbQ5vPS59YwDSPgddFg+64E1+jCmWQGwWJK3XXhElC2iydo2IyhRRGkqh3TBsThdTLYbJ1iHfNRMZzajkfxgEbOAZgxrVHQfiXh+pO0taxqO1Q6XiLQyvXpN1bmbksM3GOdhhYSsGu+6meNzMC2rE+wSU/GCojOzwDTI6tIKfB74Ydpu+N/sGrQWQNyO5BV/BTul6T9FWoHly8D2ZWw+cdBikSqFLrc=;X4DKeOezSGr92CSnLxvepA=="
+related:
+  - title: "BME and BBF Fintech to stage sustainable finance hackathon"
+    excerpt: "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,"
+    publishedDateTime: 2021-06-16T16:05:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf"
+        width: 4096
+        height: 2160
+        isCached: true
+  - title: "Fintech South Keeps Georgia’s Rising Tech Hub on the ‘World Stage’"
+    excerpt: "The World Stage is back at the South’s largest financial technology conference starting June 22, building on an inaugural virtual summit last year that served to showcase Atlanta to a broader global audience."
+    publishedDateTime: 2021-06-18T03:32:00Z
+    webUrl: "https://www.globalatlanta.com/fintech-south-keeps-georgias-rising-tech-hub-on-the-world-stage/"
+    type: article
+    provider:
+      name: Global Atlanta
+      domain: globalatlanta.com
+    quality: 24
+    images:
+      - url: "https://www.globalatlanta.com/wp-content/uploads/Screen-Shot-2021-06-17-at-11.26.07-PM.png"
+        width: 1952
+        height: 842
+        isCached: true
+  - title: "United Fintech has six experts to its Advisory Board"
+    excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
+    publishedDateTime: 2021-06-15T09:44:00Z
+    webUrl: "https://www.leaprate.com/forex/executives/united-fintech-has-six-experts-to-its-advisory-board/"
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 4
+
+secured: "5jnFBFEq7HEzraaeHmMGfXOhqDq4yaYacIDPB0KAUyd9yNz8vCybbSXuDCNsS9IvcqaXuxEeXNXljKlqez591EG+GKoZBheTApqmT+NCX0P6AMrMzwXT4Yy8SM5+AJPTxVxc+CNc2ZZhAtcF8603FEcepgdZbuDZz2xzTrYWxlyMWc2OYgjNxjiQpG7oN+kxJfZQw59YMcJzgknWtLhFqxp7xkAfC+Rk8VJ6IsdcaL3PszxYFEUhlc7DYL7UJhKn5IP7nIvmPPzDCT9Pf1BxyT7NO51ieGyQhM0hO6wNr32P4Y/6sqqw7nW8bctWFUFjyPYcTbwlpqIkyOtkKyumxi6AhW8GU8k921ckoBEehwc=;WU1vmS/O/O5hu9LjCEjyxQ=="
 ---
 

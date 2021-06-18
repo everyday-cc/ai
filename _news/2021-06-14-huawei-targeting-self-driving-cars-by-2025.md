@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/509941/Huawei-targeting-self-driving-car
 webUrl: "https://www.totaltele.com/509941/Huawei-targeting-self-driving-cars-by-2025"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Huawei to develop self-driving technology by 2025"
-    excerpt: "China Huawei Technologies the world largest telecommunications equipment manufacturer has announced plans to develop self-driving vehicle technology by 2025"
-    publishedDateTime: 2021-06-13T11:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269875273/china-huawei-to-develop-self-driving-technology-by-2025"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1623479292946.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Huawei wants to have autonomous cars on roads by 2025"
     excerpt: "Apple, Amazon, and Google, are among the many tech giants looking to launch self-driving cars. Chinese alternatives such as Baidu and Alibaba have also been testing autonomous vehicles including long-distance trucks and local delivery vans. During an ..."
     publishedDateTime: 2021-06-14T16:04:00Z

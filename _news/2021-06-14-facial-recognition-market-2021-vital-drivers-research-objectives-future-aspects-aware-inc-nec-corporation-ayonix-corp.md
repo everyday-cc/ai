@@ -38,15 +38,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 0
-  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
-    publishedDateTime: 2021-06-15T00:02:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "vSISV7M8g8ZjyaVFUPlB1Y2v40op0ciOFkqpZfL55CG9vmKdXMdi0GgBwJOhy/jo3B0oedddXLrsaaxdszafUX0F1sE6NRwg+YPxXbwCd40GCS6qQaCDrppyYPd+2UqMk7TFIoJlnBnx+n2RJ4wp0SSpW2BTN/5EzaN6fKtcy9z/hQVqs+m9x3EAo7Q0yWVDYUQg7/B1CsLVqAE44tWGeUdV6LY2OCPsi1pdcJAlVc6nc+QxJ3UNebP46QS2oRX50RDchxJ/MdoHy0vnOn5oCKGOSlq7rQmTVFfl2kAvq4Yzk1dvY7K0WP5w+E0qJqs3WXrCHMcRGB0rQ4qd7pqgLkFPBByWNHRXq9EcCR25OIg=;ndgDAR+kYHdD6A/RtU82cw=="
 ---

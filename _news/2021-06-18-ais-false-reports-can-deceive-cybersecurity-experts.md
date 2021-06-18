@@ -57,34 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI can now convincingly mimic cybersecurity experts and medical researchers"
-    excerpt: "Misinformation within communities of expertise has the potential for scary outcomes such as delivering incorrect medical advice to doctors and patients. This could put lives at risk. To test this threat,"
-    publishedDateTime: 2021-06-13T11:05:00Z
-    webUrl: "https://thenextweb.com/news/ai-mimic-cybersecurity-experts-and-medical-researchers-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-doctor.jpg&signature=0256260c9c534e5cd6e4a501569ac440"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "UHV to offer new concentrations in cybersecurity, artificial intelligence, data science"
-    excerpt: "Beginning this fall, undergraduate and graduate students majoring in computer information systems at the University of Houston-Victoria can take new degree concentrations in the latest technologies, including cybersecurity,"
-    publishedDateTime: 2021-06-13T13:00:00Z
-    webUrl: "https://www.victoriaadvocate.com/news/uhv-to-offer-new-concentrations-in-cybersecurity-artificial-intelligence-data-science/article_d8457812-c9eb-11eb-9cac-47c16da03c61.html"
-    type: article
-    provider:
-      name: The Victoria Advocate
-      domain: victoriaadvocate.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/4/76/476bebd4-b96d-11eb-8e5a-1b7e1f0cae4a/60a660d5b653d.image.jpg?resize=420%2C630"
-        width: 420
-        height: 630
-        isCached: true
 
 secured: "rHy/rSh/9D45PhfAaR1W5JFb+4Kl8V0yHQ4VD0uk9HrId74DG34m4kMGG4Mxa6NoMRQUKFqdPDMvdZozKH9MJNdR0Ec8E9ZxKhYt2NdhR54H4MMHv0YecdClgB2KK8nIjGVfZeefjlGCqjeOYUJzIBWI+0RFWYZ9TrSEBgWaidSYHijtLkQ3Qpw8hLWu/VkR0PCIHq5BD4Y02suOjKYMUGlqXMT9IfT4AkICByjIdU3KKxerTYZiRFcRllSi5oLn5Ahjih7HWGN+xKhvMcT8JJkWD5k+W9PG+FNEMeqbmBR5w0/OuG/pGjzPvJz+OvSlpfccmOl4IhSIr9JW51QvJJX1ee01gxEl7czXrB/uMkE=;RHIGT/KFGdvH6YIt884Wfg=="
 ---

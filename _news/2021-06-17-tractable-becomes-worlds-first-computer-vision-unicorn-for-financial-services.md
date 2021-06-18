@@ -25,19 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Billion-dollar valuation for UK financial computer vision firm Tractable"
-    excerpt: "After helping some of the world’s largest car insurer’s to harness computer vision to ‘see’ their customers’ car claims, Tractable has raised $60m to help bring its tech to more of the financial services industry."
-    publishedDateTime: 2021-06-17T11:07:00Z
-    webUrl: "https://www.altfi.com/article/8014_billion-dollar-valuation-for-uk-financial-computer-vision-firm-tractable"
+  - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
+    excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
+    publishedDateTime: 2021-06-17T13:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532138"
     type: article
     provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
+    excerpt: "Applitools serves the world's largest commercial banks, credit card providers, insurance companies, stock brokerages, financial technology (FinTech) companies and more. The sharp rise in Applitools Visual AI usage among the global financial services (FinServ) industry is obvious."
+    publishedDateTime: 2021-06-17T22:27:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-870102118.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
     images:
-      - url: "https://www.altfi.com/images/featured/billion-dollar-valuation-for-uk-financial-computer-vision-firm-tractable.jpg"
-        width: 1200
-        height: 720
+      - url: "https://mma.prnewswire.com/media/621068/Applitools_Logo.jpg?p=facebook"
+        width: 1498
+        height: 785
         isCached: true
 
 secured: "gil5MrtF1/J8S8NIOawY+LfBXEj6M1LBu+fpzRtUKNTtYBi6b7Ga6akimchQlFW4QYvbwu0d91khkgtmz213qHexsKmn3gcJ/MmGgTwowgQHmbLWH8/NKwNc8IdWx7yU5bUMdttnpSvNIjSM1lkPUEXhKzPdcZegm8c7D8eNr++S80/5fEzjPHtmeXXuDDnQNYyjx7L8aoFJA3mnw4tVJ5jfKedrWxaaDu5u7MoEu7a/I5jrr/1mnV+eLY40nEqFQsYlaixgVnAUdrUVMoQgG5U/MgQ3VXQznWJc+71SAmzyqqS4d6ouVsAKJl9543WkysZIcmRNHiK+XdKEHXF5dQEw56yMavPLipLMhOKio02kAF0caYwI/OgDA5Ah4XADyV0c6mPxERHW6qI8/nA842sZxNMNGbiD38l76PDB/hcDQCpHi2sy+p4CBizfwD5AxjVynAT8/xWZbY6WRX8hEbA4DIWUTTaUfN3xiY33Fa1Se3P5ndCWuudQ5N6V3CDNNUiE8a+ZPVmkKeFB2tG6hg==;Z5isLqdDkjKiid/BTy9UbA=="

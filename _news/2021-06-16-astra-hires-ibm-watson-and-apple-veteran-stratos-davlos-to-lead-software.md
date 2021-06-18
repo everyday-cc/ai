@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Marketers on Fire: Randi Stipes, CMO of IBM’s Watson Advertising and Weather"
-    excerpt: "Our monthly profile of an outstanding marketer whose leadership and campaigns are moving the needle for their brand. — Being CMO of IBM’s Weather Channel"
-    publishedDateTime: 2021-06-13T12:17:00Z
-    webUrl: "https://www.chiefmarketer.com/marketers-on-fire-randi-stipes-cmo-of-ibms-watson-advertising-and-weather/"
-    type: article
-    provider:
-      name: Chief Marketer
-      domain: chiefmarketer.com
-    quality: 36
-    images:
-      - url: "https://www.chiefmarketer.com/wp-content/uploads/2020/02/mof-chm-v3.png"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "C1bYvjSmvlWbQNgpVwJvSfqXBDpi24d8eOsJ5yVTygYXrqRG7GDdROkdDbDvGZ882DMbk+mf5qokv+T93BrU3u5CW/vlbLdjPM+u85xKqiciBGOW6RnD3NplOUhMjQ0q3yu9QeyE7p6rPfpE+T78QivSIj4IqPlkXE2H9X4qom9LqYUr6mxH1/03OkdALSvJnX0Efl0jYqlw3fpc7mqcanwxkixVSY33oNT2qBFPLNLfYWF/5kyRaVj9jOjYJw47m6pIy50qHRpOvpt5+wfVHYtaMYUCCGhVdR598bRUEljyeudjlmM8IQ/j2NdqPfNaZuun7hC7oEbX0mFfbOc0VcgNMPgknIZXOlZLpsltqRY=;PcfHU4nlWLozmd+k45jCEg=="
 ---

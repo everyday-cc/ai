@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/education/news-amazon-india-launches
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
 type: article
 quality: 64
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
         width: 850
         height: 576
-        isCached: true
-  - title: "Amazon India Announces Machine Learning Summer School"
-    excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills, making them industry ready for careers in the new technology."
-    publishedDateTime: 2021-06-13T11:48:00Z
-    webUrl: "https://www.ndtv.com/education/amazon-india-impart-core-machine-learning-skills-make-students-industry-ready"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2021/6/13/shutterstock_1569353527.jpg"
-        width: 860
-        height: 430
         isCached: true
   - title: "Amazon India Launches Machine Learning Summer School Programme"
     excerpt: "Amazon India on Sunday announced the launch of an integrated learning programme for students to learn applied Machine Learning (ML) skills."
