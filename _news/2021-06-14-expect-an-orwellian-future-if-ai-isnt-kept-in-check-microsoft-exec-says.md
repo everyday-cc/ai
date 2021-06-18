@@ -95,6 +95,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Microsoft Teams for Android can now translate private chat messages"
+    excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
+    publishedDateTime: 2021-06-18T15:38:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-teams-for-android-can-now-translate-private-chat-messages"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 56
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Teams-Android-Google-Play-Store-Listing-Custom.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -138,18 +152,18 @@ related:
         height: 600
         isCached: true
   - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their"
-    publishedDateTime: 2021-06-14T22:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots/article_c3a08a23-98c8-5df9-a8e1-5fd034cf7441.html"
+    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-14T20:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 42
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"

@@ -158,20 +158,20 @@ related:
         height: 540
         isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+    excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
     publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+    webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-        width: 1200
-        height: 441
+      - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1413
         isCached: true
 
-secured: "nub3928WCMyIfXFALc/VN16vYbUlpmpNf/8+KJM8aKTw8VuglVum/T9a9Ut0Nyef05KpGOly+Ebupl1evjPDp9roi1GqrSwLvG6pxJPy8fpC3dYLw39owGB4Qppxa3Wo+VLFyEsjMNvXqq3Cz27fCRV5vQUIC06mQumH6QtXHRmucg+02JXV6FBKpdDS4faugA9FeQmwAMJ546YDgFB7tS6XaOZSqgtq0axLv7hIUpEizPGgPhyug93O0o1G7/K5+To5nzpGolAovG93RHIQvL1hAjaN5Br3hEzy60r7CPI/BM1HUzXrMjOUd71beqZ6hbi12Eqo4fibfSYQfoAjAlhITXAqO2rgAybNOPFmVWE=;WhuEf/FUOnTvFQ32LoHKAg=="
+secured: "m5ZQiEst2eCxf0LpqK8gwuaeiF7FKyMBRpvrmLU50BypnXkoiSmX1+yTqeSv+40Fr3jMWGcUwHJKiau34afUcMkMaeZdSuTXn96k117L5BXJ0/C7ZW34BgBbOrJEM1hpzNhWQmaYr3mDIMlK0nVzWCXb390QocG5DgV6I+4QULzUBd5fNu/tXbNTn0Y1IJEXo6yYNwr3PpDf2qbLuyBYBQ7CvYFTrq4pbSt+AGa7YUJAosSRgFVmRcKoNrhaI50iswZ+Dwo7hNhrv3zwN0BszfzIUePE+Z62gq2zkhX+qIjnPOzIGF4BvKloD4K0BWyAiPHJpCcqzyKTAkNEHCmvKL+KWbAaXhQ0++ncI8oof0/gZeN2TBFyihQHZby4YdGKXLO4WG7VL3USYWY6KHIcEFHyhG4V4QoxudqZnvujb7GWmf92IACjjG2o+SFGtVzShs8F2R47NI37wmZRdDrPpxtmhSzfD5N5+FUAcWTwBbfBt4cci+wGjMpnEmoBhaTEwo1SIaD7r8YPNXITfWLBeg==;H2t517gFoeMWjBTJ4qmvLA=="
 ---
 

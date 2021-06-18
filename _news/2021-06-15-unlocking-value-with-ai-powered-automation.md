@@ -158,18 +158,18 @@ related:
         height: 540
         isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+    excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
     publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+    webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-        width: 1200
-        height: 441
+      - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1413
         isCached: true
 
 secured: "IkXLBArwe68SvVkpXQ7L1b802T27CQRkCLMAOF75CC1BNwEGEhTH7m7atP5riCuj1RrRrycGcIBFnaRWKKTvct6d1CvFP3fZBuh1HpjYa6bcb3valFVyi+LRl00/IarV/254ejhep8C4OSB5QEf0nknXFnKib7lyZz+0+e28PIy9i6ZAq0TN8iebWiFhWttjq21gvcGMK44gfZnTSAZXmp95K6ldWvi+6jrKWi++Fxt7v6kCZ7RijHLmZGJbUR+1d3RL83bRw8Ladf15RtFuEbD5A/qSB5o+6pxuGWklVgK77QTIuDndTT73XYq+ivOcl4StPGweMpETk+gbI/yG22UB5U1ApiPLyQ2fF30xbBqYZvIpj7Br9pGkSSs+oI5hkr68TNCwnO1iLyTWzXH5XGb3r6snJ4g+Fe1SglNlRgce3LyOE9eTs+gHNYe/jlnbgz1PgCaZ4V/VBXx2GC7uO0Fd0JpMzrlfqf7lRfhWvHE/iRKbqWd8vLal2WlY1GDlnkfMFp0bQpUlcdEZ8Zxvyw==;4hAUMo5zrCyevhMdv+Qg4A=="

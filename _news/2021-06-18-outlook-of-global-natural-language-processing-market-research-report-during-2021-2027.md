@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2308389/outlook-of-global-natural-languag
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Neural Network Market to Rear Excessive Growth During 2021"
+    excerpt: "Advance Market Analytics published a new research publication on “ Artificial Neural Network Market Insights, to 2026 ” with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-06-18T16:00:00Z
+    webUrl: "https://manometcurrent.com/artificial-neural-network-market-to-rear-excessive-growth-during-2021/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 39
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Doughnuts-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
     excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
     publishedDateTime: 2021-06-15T19:37:00Z

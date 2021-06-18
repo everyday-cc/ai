@@ -1,0 +1,83 @@
+---
+category: news
+title: "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition"
+excerpt: "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
+publishedDateTime: 2021-06-18T15:05:00Z
+originalUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18"
+webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18"
+ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
+type: article
+quality: 69
+heat: 109
+published: true
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - IBM AI
+  - AI
+
+related:
+  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
+    publishedDateTime: 2021-06-17T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "IBM Closes Acquisition of Turbonomic"
+    excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
+    publishedDateTime: 2021-06-18T14:50:00Z
+    webUrl: "https://www.finsmes.com/2021/06/ibm-closes-acquisition-of-turbonomic.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
+        isCached: true
+  - title: "IBM finalises Turbonomic acquisition"
+    excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
+    publishedDateTime: 2021-06-18T01:52:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-finalises-turbonomic-acquisition-566121"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "IBM Closes Turbonomic Buy To Help Clients Automate Cloud, Entire Enterprise"
+    excerpt: "IBM expects Turbonomic’s application resource management and network performance management to help clients’ journey to the cloud."
+    publishedDateTime: 2021-06-17T22:31:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-closes-turbonomic-buy-to-help-clients-automate-cloud-entire-enterprise"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/026a-128b62d11702-49e841c9638a-1000/dinesh-nirmal-ibm.jpg"
+        width: 609
+        height: 457
+        isCached: true
+
+secured: "KIOMsw+hrXBRT7VKE0TylY0NdE48Q0QipUK4BQNch9TZD+P0+uYubJMqzMChXB/GHwfhPaDD/zCVduBTgzj3NmquG0jyQw2fxq7LMC7rLu8GTW7DtUJTsKXS38GeTuPdpsEe5jeWdEgrrHwSC5ngDihs0VhNwYzDvVmLFTOhvx4x5NnS2mJ7YACEL2Tl+XRxUZJSqEN9GxgWtZFc2oAhHkSCyudJx6b7PtggeaYpS43W3RLOAGOqlUfKZw3uvFH/vYfJEMPa5aTgUA3YvQ3AC66fuazOLgAzt4M5v1xoZ0eKiLcssIph5cvBdKR93Cp/wPCeaX3YCCluCjvlEfxDxqKf63+g3hyFf1Sh8OZtYvs=;abYObkDFLD33kTDsOM8+QA=="
+---
+

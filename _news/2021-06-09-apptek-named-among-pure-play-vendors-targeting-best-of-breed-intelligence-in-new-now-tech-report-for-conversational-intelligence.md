@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AppTek Named Among Pure-Play Vendors Targeting Best of Breed Intelligence in New Now Tech Report for Conversational Intelligence"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, today"
-publishedDateTime: 2021-06-09T12:47:00Z
-originalUrl: "https://www.lelezard.com/en/news-19847777.html"
-webUrl: "https://www.lelezard.com/en/news-19847777.html"
+excerpt: "a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing ..."
+publishedDateTime: 2021-06-09T12:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence-301308815.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-named-among-pure-play-vendors-targeting-best-of-breed-intelligence-in-new-now-tech-report-for-conversational-intelligence-301308815.html"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1528581/aptk_forester_Forrester.jpg?p=facebook"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "vF0RjoSTADdvHYZfz3RTKxeuiEGeEI+U9pPlyuGGrnQSjWhJKOQEUlovsTvZURaJYDnqzF6/Q083T+u3R1qjNg55jGnfehhXuNMTtE4/HoZpWY+1cuIHI2Eo8TdlMIDH9WCqWIRG//Ig0VEgJ2m4a8BdsRHsD4yZjwjaxoBqklF3h97TTr0aePlRXzplt+BDFx5D1B8ckSRzGcpKnGRWZ4GEkyQLY0qK1qIlTQvJLDhGbwxZtfzL8Nyn9iHVzSosnNv5eLRQnSqNsiCmIxSP0BOGHYl6c9uYFBlMtP9r7QeOPjTtGJhV6B/yf4qRmM7meZSHDfU4m+ZhnXev+oiV/ed0ooOECLgSWrRAVXopfwM=;RB/S+AZrNwJVR3/v2l5WbA=="
+secured: "pS0vTkaZBPn0QIpUsuVuIyNgIFM2YJcOXjxecId21v/hJRllq2OeLrpGn+dj92egB9CnyR5TkBNuRjbQHFIOcS+0nMD64VhS4QIDu8CV2wZCXQtV62BOE5A6LWUWSn4PgtXim80+oIOJFDjSJK6wLYI9O4clTtHrJJ/ZwCHMk4n1PSI1KTpAuUui9vMrUDXgrIGlM2aE/UJ63jhmDlx7Qm709s5pQXPAdARVfD62MmnCoXEW9KL6gg09b5f52JSvJIPgvLEPdEYS70hMztFnpfj99T2fdCxYgOzHlaS3owN8t23SorNmdOkgCWyEF1CMouFTWcOWsnx1Vn4fyCfcA8oVPdKU1R7CBr7r9hK6aEM=;Detq32KngVSpxpro83o9xw=="
 ---
 

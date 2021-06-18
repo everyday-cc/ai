@@ -147,6 +147,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
+    publishedDateTime: 2021-06-18T16:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575369-global-artificial-intelligence-ai-in-fintech-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 10
 
 secured: "HCJWssxZP+3BPl0KH4/C8ja6pKygBUWhMA+2kUTgzXxbdrnE9boOr6LV3zLTap282wLYe0AtxdTmg6G+ezNd41eE1TlEbIgZ/hv1ZTuC+RbtbIFYLAyakoD6wCjEBM1ZoKvA2Yu5Y+kRL4PtkACoj0PLpopbNNHTfJs+PCn7cE+mFQZG3gTcqaiJLJcAaY11I0NRoxd+rXAYe5B3bNnaTWiJe86KpUNzCUvMcyF9sLj6U7DE7sFMu0UpjK52g6puZrhLS5Ek4ITIA5ZXhXN6lF0IeyS6bnuiSiCYFi/y0CmuDQUVvZbPAQh/2enPjXrtEEKoqtAeMDtbXMSIEvVcVQBE8y1E6pBF+BYDyjgxD1A=;U9JEFsAe1YO1LKG2JiVtKQ=="
 ---

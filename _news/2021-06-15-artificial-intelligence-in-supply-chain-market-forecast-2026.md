@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 2
+  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
+    publishedDateTime: 2021-06-18T16:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "EmF9wiMGpa4reD7hJY0s7tnp3agIKjUTm0jHUNHNt2O+vLQ3s5umoo0LtRLVVJRaRhkAgupyJVKlsFhLZLrHzA+junR8+6Y2VKaCSbJVwEc6iA5dyXvwA4VmzfPIeHsYQb9N/cB5JFFPDrVNdEaIxw/Qiz7UuvDfA8z64jCHJj4fCWA5nIQtjJcJyFFdxXWd0tagx2ii3N2DIN6pgFbD07L7Kv98IFrEute2GUJwVCYqJPF05as7RyJ/qe1z6c+iI4x0Pz1An/rmRagzIehSbYD1eirIAOxcLbwehLmmq/1HUC2cFPlQAaEQdGwDBL/GtVk+h+U3dlvO58wHXZis9kZ5GkMSIcVP2Dz+MsnRxmA2hj8fWERUgerojuF13TKnbUnNgAmGOyKheDnEwXfyHtmQj+fllfwL6y30lwX1H/DN3K6+BHRs2G/lXHAtOK5uJUMQemeJhCeyy5MCe6q0s1/M8SERCa9h7BnOSX8PWakKOap0L0ZhaLv9IzFvbOuw6jgxvLXuKsxgdiXDQq7N/A==;6pU5Nw+GQIIXryDNLftWcg=="
 ---

@@ -1,30 +1,45 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere"
-publishedDateTime: 2021-06-17T19:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
+publishedDateTime: 2021-06-17T19:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
 type: article
-quality: 26
-heat: 26
+quality: 56
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
+  - title: "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition"
+    excerpt: "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
+    publishedDateTime: 2021-06-18T15:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
     publishedDateTime: 2021-06-18T14:50:00Z
@@ -68,6 +83,6 @@ related:
         height: 457
         isCached: true
 
-secured: "DOOjShzaqSJUIiGNpBlNlI+TouGF2leZWyFfVoJHc5X2VZavDoOYCk6B1kaZ9WUeHkpia0eTJZnmhFKoHMED+q/ES5309xjMUxFIKCowTWnyaM79+uAIJr+PxqqVdmdewKSI9quHD0cX9NrkhHqSo8KAh+aj06GQ92sQpwSeku425693MVbifiwrGSy3OYDNefH0+zz0yoKFFwFzVsdGkBLfWEIGF334OvUJKxB7ftz7ko9uuFYhGmxZ7rcutVwIBpS4NiRb1XKXVdhFHkz02GuFZuUqk6IkR7nVOLByZZ4Ez7aAXW1ys2YgEeH3cKZg0JYYpb7LoN5jemiv/1prik/mIQBK6ecizPk6wCQoO/s=;RUL78QCk+mUelGTNUlMT+Q=="
+secured: "IBsdCA1QIGBPqPN2bZeg1gnHJ3jKbxDwptVhdE61dxXSl1LStPhMH6KBp5b2tbd9aAKsG9QXHpfbDp27CvW2YlTf6agwLwNMUNXxgVKGrLx9FMUB4GtuqlO8AxtltPlWQvchVAYQ3h7K170DjmoL0IU0kQRa5L5WK3IMXjG/JbiN7emrBdgqvcx3O7bT/I1g7QSRzOgKevORqXFGF2WtuHKvRzXBYM/B7SNqTL4IcRp0uQbNKuonwFUV0TJGgk6YrKI2FbcXSFqWj7SBXgSlK2fRxy714pXPnx4fRP9Df92VLMKQs8ikEUXWSXogwaC0PNj29AG8VneARap+6PaiLrXzvNyEEilvqJccfwBnYOQ=;fRNPMjaBySBKwlSiarVVhA=="
 ---
 

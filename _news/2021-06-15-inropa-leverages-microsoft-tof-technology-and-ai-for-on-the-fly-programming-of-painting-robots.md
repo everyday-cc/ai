@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their"
-publishedDateTime: 2021-06-14T22:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots/article_c3a08a23-98c8-5df9-a8e1-5fd034cf7441.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots/article_c3a08a23-98c8-5df9-a8e1-5fd034cf7441.html"
+excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T20:46:00Z
+originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -108,6 +108,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Microsoft Teams for Android can now translate private chat messages"
+    excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
+    publishedDateTime: 2021-06-18T15:38:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-teams-for-android-can-now-translate-private-chat-messages"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 56
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Teams-Android-Google-Play-Store-Listing-Custom.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
     excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
     publishedDateTime: 2021-06-14T19:56:00Z
@@ -235,6 +249,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "OBhShuD5+yntQfZkQrQ/V2pDG7Ta5YbuqRKEeNLA7Sd6amn1NSQyvePh4/9qbGDAPfbPPljMt1UrL+7QeKXchnw7FVGbISHpGpUCd0zRObG9b1J1QqQ1es0QxngbU5dHQoq5ebiaTeKYvAwouur5b/PHzSOJAN51pqM6/dQtLyFMCpxqx1l6dO3NZzxwIaIIMBhC9OcNk7zgwPUizOQah3BBKWLRUOTMW4nhw6/vk91G4E0xJF8kBkZ3eZdCzOEnktOlqwjBUE5z6hHEmdIv5Byq2Uwx8YFgV33/rfKS8K1/UZjsbDzh+1MOzYZDP0gNmbjhJfd4KM18XrkIA5m3xiWJ37m3VtPio6kiFqIM1w4=;Td/pY6f0EfC5WLsSlJUmTg=="
+secured: "tfYPKf7aRpiGmea46nmYNoZ7JXv+bacD/VNp2XRjOOaOtZA/9MDBMZHdV+yrTMlUzKjZfqtzbVq2nMQvFyAUJakNpqsMBoCIzSKa0wWoszXyLSQkBP54lCw4igZByOIl06Ws90QUahhBYVJcYbGcp47/yiur+Gyx5qI7GGRrep1ocYCTc4Js1oz+MgjSrK+lToqICIInGq9a8liMknc/BlWKQauMVKGk+p6hu0hNxKZbQ2V9MEDwRd7nNmDQJ44SJoQ5dkd2uMrwKN1nkZdFt8zp0vbFfXhqN5PpgotLZn2W9W4QB8YVN9ZKSifKPLC5ImPEYCo5I2VxWEWaXTEcOnixuIxsNB1gJRDdqtjHv8c=;KWEy1yS381XvX9r05ut/Ww=="
 ---
 

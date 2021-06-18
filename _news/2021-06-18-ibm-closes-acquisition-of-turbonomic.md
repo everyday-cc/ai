@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere"
-    publishedDateTime: 2021-06-17T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
+  - title: "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition"
+    excerpt: "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
+    publishedDateTime: 2021-06-18T15:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
+    publishedDateTime: 2021-06-17T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
-        width: 1200
-        height: 627
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "IBM finalises Turbonomic acquisition"
     excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
@@ -68,6 +79,6 @@ related:
         height: 457
         isCached: true
 
-secured: "kQxupx88GXXTboOno55uv+WE9REpLHEmuZs1WJ43oWXjDkuhSpMikJ5h/XCfQOGqKM2h83GtUbfIlWkvF98//DRj8gBJg6179srYFWXHQ0B0NsuP6nSEjfetg24Hvp7RHyU+QrONnlzwTpXHDRRDJ1wqvjo6tTmBIUjFTKHZ7Yyk0Qu4UGgU62L8lyhekVUQnsp9/fW7O6g6pX59kbgfgmxIiks8Q0bQZAqP9n2IdE82+PDM4bFKvZxXEl+pxjEUuCt5KXJp8/UN9MPPzwXx3Pfo4rNhXesMpZrmYWtKD9Tbtrg8bA/jlyee++MhLmzDQzhQZzZ/hxEFXR16l7+FJScYNLOVrLUb9jFCTfdnhEw=;0iNcWb/wy2soG0miTpCiLw=="
+secured: "ct+EyuSqltcERC++JGSezFzcIiFL3yDPNx9JtDPOvNG1dP3Eh1/lUgl80jQjnnRy+dWRySav5fEBML8e4qkuCrL3CwBKTzxmRVZ/UG1zH1bkP3rJ4h25oGPV9Z9Y2vJ8ql09nzsomt0rQhB/JnoBrTn1jTZz0mR9hJzih+An0pB9FO2jKYrw32u7BVlVZrAKmUqnNTH9VOE7HMrO9g1qHC0CjTGjI+mH2SVB9YkTL9mFOH1QZW9aSoug8wga0bAaw8exAJpL7WGV35uns3xwG5b2k3TXeqsWZwKZor2xF6LnMOzSE9rB+GnwHKhiedOEtEwL/XywuJEGBbKOR1d5WtstWp2r3aQ518ZMLdynbxNRlelnAFYf3rz8xRiU9VvWwZ4nFJNr4prcUCDgCeDf/OTEFsOQ/oMyDakxj3wCzsZZEGrnaR7AWqfjfrgJLcvUvPZwhdaCr0XyAUCoATtXlYlMgpQQscHGXIVEV0JhfwSitxviNcjHXNlCwKb2UuYaC2XdzWOE0q6zW+FHeIUvXA==;OobPuxT1FqrvqrCehQ7SQg=="
 ---
 

@@ -59,6 +59,20 @@ related:
         width: 736
         height: 400
         isCached: true
+  - title: "LSET is Organising a Career Counselling Webinar on Machine Learning"
+    excerpt: "Empowering Future ML Professionals with a Webinar on ‘Career Opportunities in Machine Learning in the UK, US, and Europe’. A London-based educational institution, the London School of Emerging Technologies (LSET) has announced its upcoming webinar on the topic – ‘Career Opportunities in Machine Learning in the UK,"
+    publishedDateTime: 2021-06-18T16:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/lset-is-organising-a-career-counselling-webinar-on-machine-learning"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.getnews.info/wp-content/uploads/2021/06/1623754140.jpeg"
+        width: 1500
+        height: 900
+        isCached: true
 
 secured: "Sxb4QDpw1W+sZ2+DXmcykjnwM0MfRFmexoOyTwK06Q0dxJjT66OznXV8jMQ9y06Pggn8mQmYyzdEzdI7FKbtCb5htipNd1B3MEWbtrv6cI92XdHj1N5Y1Gg22yEt4CjRIOETa5++wMDVlYqK6HhW+lE6oCn0oM/ifCr7l9MJCr84qavVJg8ZpYfL+3RDeQDvYv+jH/AJFua2a9OlrTUX4+NK1tjJXAlYF6exL3+WXmQ1R4paxDMpNgD8jd65FFxL+PMVxUq/YiRMKE5+gjdVZkGA7XDP6VCkeRWVMbg4hMjyEqqlsmdJgodsk7rvRy7dpeR2BJ7htl9HIKQyv2zzsQpoK07s6/KWZvEUYQARHHP7kn/v1hks96szUb1NKEm7caqsFxRetWBXHAM5/G36hI0P9YtAuaXaPlH9xEbJz2yNdwWByHU0wbPdq+MLd1Kqzn2ZhXxW1dgxiGrYqFJhTXOmSd6xbkTshgVUc3rREWvXFe/vwK58rA1y2UilTcOslQlapZP94dlU8+NhTfot4w==;JXDL1UNigYA1+BuA89V6RA=="
 ---

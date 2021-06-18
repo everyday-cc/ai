@@ -1,26 +1,27 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
 publishedDateTime: 2021-06-18T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+originalUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
+webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-    width: 1200
-    height: 441
+  - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1413
     isCached: true
 
 related:
@@ -171,6 +172,6 @@ related:
         height: 540
         isCached: true
 
-secured: "uQtQ6wlVUUBqFaDx3uMotr5LrO2UNVOVwjScJ9hkSgt467TdilEYLmLtKgy068bzobghgvCJmUFgEQDkFhSDnrvUXRBi2JNpFprbxS2xVmWSGy2/MSvr0Y8Cw75cEfBV5GOkVu24ofxSc/Gbmt1bGE07BpgdWrtp/McHr3sqghsyxrXPTOavigrzIbuHC7Im460KYlsXAjMmk7KKco8WKEiX3sD7UGz1x1LfJJRW2t5N1RO09Myy+4/DBUZnDDllQgxK/xEUKNyq0XXw5oblTa5pkuOh4oaDwNPDktopeuee6dSEc4usdasciotnVf2h/iF4HsE+QeGR+UFXOfgt5c/NJFdzBnc5IUMJhpKf+1c=;CT+xWm53kqVm5NV8bVLXYg=="
+secured: "xcgeXpkGjbTgT9A6iMwM6lKz9Teuhzo/xcdrWq3i1nWEMuwg+h0xMOAb8zw1LPTrtRB7A28y0k2dZtpR8+ufQkGKpXEBno3m26m+eDxya2tw1Yej5SEr8LrKeKsTylCGGSYTQNhk3zkeYARl2pWHR1fwqZzU7Ue6fup7sQno4Nsw3FQx1o2vjkBzpSgKpyov/Uzj8OwcioI+odaB7Mta68xxn+pr7dsh9SMf4BtqADImkBos2mtUUrag14oG+4JeUB3Oz7ADxz79Vd/HkhDLLz/1lYuOTlSWE9SKKTopHxqzqzLImLofHEsPgq1vMMnXFlW0zHBUIj5KBuipadL+hP4Fm0tQRa/z4qHE3YTX27E=;C/mWMfE+AYukXflWUDKRxg=="
 ---
 

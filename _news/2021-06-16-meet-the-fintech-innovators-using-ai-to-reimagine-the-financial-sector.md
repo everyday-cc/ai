@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 600
         height: 940
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
+    publishedDateTime: 2021-06-18T16:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575369-global-artificial-intelligence-ai-in-fintech-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 10
 
 secured: "axi23vZ0Dmq/nNwfU22Xi8f6vT8fYCABs09RdC5daWQuM3ysnC9OENDHklJ9eNYQjAzxgcieUeunYtHcuF9hxl4xquO+ZVS0CVbzvqE9T7DWq6ickCSslPykFCKpl0E4mdLdMnU8OAs7fkm8pLmGg0Qa2MnuGBOe6dgyWH2qKFOkVDkGClwDvEyGS/gajFRAiLUtVcV/9ITwSqnA/RhItWU1TKoA7gA44qWV7u8AXTMinQj6HCNXs/4gorWVg8R0mBXUA+HOT2715oFJg9iG9bPIf9oxFtpNKIIgre5d/vddm9ogyM6Fkm5CF+pNPdrQdVJu7tF2GcEaXbPRPHrKyMggV1GfjbUcxHFMUOTa9AOWV2SNoZVtvUvdQQdXJd/qHdsNXGVzINdErPa3mAIWOsRzfYAletPQUatAHUivE3L6hnkJ/mneWFX9BBclYA6w8kAKFeCIkd39kxB+gid/w78A1Y1DUoKOchFMTSM3lYeiH31p1KYWe2JG7QhCGt9rSgQKNqad6U++p7Xecem1vQ==;81/DhfsDYV5JpvWNMJYDUQ=="
 ---
