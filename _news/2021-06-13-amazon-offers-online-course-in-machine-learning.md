@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/amazon-offers-onlin
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
     images:
       - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg"
         width: 736
-        height: 400
-        isCached: true
-  - title: "IIT Kharagpur Offers Free Online Course on Machine Learning That Can Be Completed in 8 Weeks"
-    excerpt: "IIT Kharagpur has offered a free online course on introduction to machine learning on the NPTEL platform that can be completed in 8 weeks"
-    publishedDateTime: 2021-06-13T08:52:00Z
-    webUrl: "https://www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/"
-    ampWebUrl: "https://www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-kharagpur-offers-free-online-course-on-machine-learning-that-can-be-completed-in-8-weeks/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 48
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Computer-Programming-Robot-2167836.jpg"
-        width: 640
         height: 400
         isCached: true
   - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"

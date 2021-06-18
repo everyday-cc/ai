@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Alva Named Winner in AI & Machine Learning Awards 2021"
-excerpt: "PRNewswire/ -- alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine Learning Awards. This award recognises alva's ESG Intelligence as a machine learning solution that brings something genuinely new to its users,"
-publishedDateTime: 2021-06-17T15:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-alva-named-winner-ai-machine-learning-awards-2021-/2021/06/17/9392976.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-alva-named-winner-ai-machine-learning-awards-2021-/2021/06/17/9392976.htm"
+excerpt: "June 17, 2021 – (Newswire.com) ​alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine Learning Awards."
+publishedDateTime: 2021-06-17T13:31:00Z
+originalUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
+webUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
   - Machine Learning
 
-secured: "780xNsx2xNvfJ4J13ODO71AuCrmgQ3QwbwFUuCwI+3af0pGXDEAPAZ91rkAXjPbY+AGzIcjxwbGz0yXH7UPzIZ6EtYaikiLw8knLPQhrPryem7mVMp7AbQZHa3VIMCuqmfG15GneY4f1vJQzJ1T/fDDx+aN24U5LobPovvVn4fCUCv1bC3rGmaGszZGlzVqor6yQZyIZumDFb78X0TDxyCNQdiXxDuQTzuksyenCs4Cv3BH0NzPxlHLZ+aeqP0M/2oW0Wh83b9C4He6p6hvOu9+rauIIpcpGaR1ndLu10LvqvZ8G4OOqahP8hep1AjCnDu8jA0Mgnbnd+zVVNweO4BuBxBmWIsFSD4/ZbRNDa8o=;31DhVgaQhRpKoHYoHSS6Pg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/5493c92c7e44e88ec6b087154f8ffe367af63fe4-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "TCE272lGx9vIpZGik3kLh/BXMv2dDElYH0y0cXbZdfyl6RbXbkecsDjzqvzjn3yF7P7n6lBAxHPT1H5G765jba+x0BcrWDM2DS8WI8Hp+vNQ7/PIaiaYcNRoBEZJcTQRyuhZwTWWJ26cR69ZkFzewhIJBNn8AfjP5iPTM0dpE+Z4jZNzTMWrgQ3he3YMiWEfxWUDtnAJPHlMoHKMHpwVbJVOu9uA5riMlNadVOGgsjWN3f8oKLk8BWFzGxewH79+FMVEGbnfFirkYa1iJH6mTqirVZTymIBphHsEtsd5fBnCrdj9+mHWFyDqNxlj+mkpf/qCY23SqtmKj9SiXH72zpYL9Z1LGoLAIjVuvS9xkcs=;J8D2x5eyM+DhUzv0kxMf7A=="
 ---
 

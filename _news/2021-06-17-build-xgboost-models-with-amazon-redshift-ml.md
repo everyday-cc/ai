@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-xgboost-models
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-xgboost-models-with-amazon-redshift-ml/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

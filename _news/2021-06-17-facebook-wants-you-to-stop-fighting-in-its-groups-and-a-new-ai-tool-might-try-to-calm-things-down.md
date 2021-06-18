@@ -137,6 +137,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facebook says its AI can detect deepfakes and identify their origin"
+    excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create “deepfakes” by combining authentic images and videos. We’ve seen some troubling deepfakes already"
+    publishedDateTime: 2021-06-18T01:41:00Z
+    webUrl: "https://bgr.com/tech/facebook-ai-deepfake-detection-and-fingerprinting-origin-tech-5932809/"
+    ampWebUrl: "https://bgr.com/tech/facebook-ai-deepfake-detection-and-fingerprinting-origin-tech-5932809/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/facebook-ai-deepfake-detection-and-fingerprinting-origin-tech-5932809/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/09/john-krasinski-deepfake-captain-america-marvel.jpg?quality=70&strip=all"
+        width: 1600
+        height: 831
+        isCached: true
   - title: "Facebook AI project works on turning your handwriting into a font"
     excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
     publishedDateTime: 2021-06-15T15:35:00Z

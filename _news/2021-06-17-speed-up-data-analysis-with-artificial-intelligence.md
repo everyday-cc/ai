@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "NOMS Healthcare deepens value-based care efforts with data"
-    excerpt: "Sandusky-based NOMS Healthcare is deepening its data efforts with an investment into new artificial intelligence technology and the addition of a chief data science and analytics officer. Write us: Crain's welcomes responses from readers."
-    publishedDateTime: 2021-06-13T08:00:00Z
-    webUrl: "https://www.crainscleveland.com/health-care/noms-healthcare-deepens-value-based-care-efforts-data"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/NOMS%20Justin%20Coran_i.jpg?h=cd484a20"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "NSis+bHYetAKNFYBS0ymnjR2h9j4z9+I7DEO3J6YddS2q5TBIVvZRphn254VL+lj8MMHqq8WjX0EVJ1cwP76bZ0t4mJjqhjDq6QnL/pRAKIMFivk2KRq3Y2b61IwVGEmsg02JziEq55oNkcpZ0a4BMZ1d6d1+FxGdoSncIrJKT5EV64U0LOdYoegBp0V8ngYUFCmQHwlT+Qdjt2U4JIVALtx79l9MswH1PL3h9Sq82tpzX9slCUJP6gbBU3KdXCa3WwS9cAjjXduC4lzPCRcCsBv9egIsdoBr1If4itLQpwPM0NAzti17lE7FnImgIgB7RGfi6ncdAQKdiUnHNHgAQw0vX7K5m0pi5MYMkYWo26XsulWLFU9+ESBjV4fC6BZSzhW98U0ViaH0Z1dGbzvFoOb2E7PxvBqk/OuvWNnTwjWHM0et3FdBRCrgFFjMlRCzhvW8TQ56r/JYTwXyeyZJP6eZ5ocpX28gHU6CULg71mIETIcNKQV8Bwwf2qZ9gs0hHJOF9kRlcsxZtZkE5hVew==;t+4VdjiLsGsPkgWwLX/v1g=="
 ---

@@ -121,13 +121,15 @@ related:
         isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594080/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21594080"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594080"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "UtFXMtqfmOuxseFnLZ0CPWow0eO/nwe6+Ek7IcbGkwX4PolTS2dcdxjMbh66Nj2rgVXrborMdfbM9v/Uu/59YJdaJEGdVBaSc8Uf8y4YX25fg3uC+vcMSpBxpyd8NUg+GE35BTTax6ZamtQ9RG2ASVFbv7qGMue2fr6dUDho5+5JtjgQYAoI1ag8USPReZLi4LMk7toOFzccyrQaD+RgBsNWm+EkMeHTji2r/vzHVsSaEUTMPsJH5nNzgoqsS0X8/oe4Obm2Z9TtG39ZzlHs67SarFknSYozlwjA1t/mi3wZNYp430zqGH377pjP+RVs/Dsn2PL+VZ0DU4ttnoxz1YLbVQukgPIULnHytJJCeQo=;4MXSnIM5SgMj1bA4uZ4tEQ=="
 ---

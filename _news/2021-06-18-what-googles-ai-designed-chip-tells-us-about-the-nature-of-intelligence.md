@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 124
 published: true
 
 provider:
@@ -62,6 +62,6 @@ related:
         height: 535
         isCached: true
 
-secured: "S/8hk01lc/0EXrE7Vvx7Gljw5N1hemZuvEuFsa4/JYoAmWE+SHVrrCHKJnAXVUotLRL3537UC2Q1vkWdwH2V8BA9VgGjepb9upiBjaoNiy35+wU7OJmXNVdF9Jhjp3d9ROVWdwpGHMJYJsW/5ek8+tIW1Dc/UfhTT1dhCbuJs8erL737dbKXRNYxT8EUt9rkCUsk5aJl7QwQLXb4LdSF1+BVOMC9PsTlMCuff3aI+kPdk88i9Y/VQ1aRez4PDDD1y0P/VNTSfVxIvl0XaIZziuCZK/3SrP2s/No7xS7V3t63k3b9HyRv+zI99JskfxkEsl0vdBH9WH24McBNpT5BSvlyvpgHJvO+A5d1mnToqz8=;aJXDLfkdtwZssLCrWPNvCA=="
+secured: "qIEwTBHP2q2aNaFpZecoLeVI2ExGrgLKUqvI3kXFU3CxEJgBt4mDNISi+TIoqTdmguqUzvnRiaCqiua8erQNPqH6R2ho5e4CCTwghT/0QkgA098OVMiUGAfZeX3kBPed3DPCsy/5uWkaOXAJY2ys1PtsT4lDKE5bIWAiS+V48X5TtyTsME7lBAFMjOWUIk2MrAsn03ZlSMhznFd0f4SIZJBX1W7jwOKH5id1lKJdvBHqWbP4B2+na8JnA+0EjsofsClXTo6XLEm/m8t2rF7o0n/cQauV8j91f2gbE0DIr6u1B7WKI/LCZL9Q/BDDj3KSEFtxxwHD5YErzNWj02SiNivoqgb8Hf/IFUH/wsIjUInrfRJFaolsIN5s81xsYv3Oa5EgDNP88fifhKtqGEFgKanOTnN8/C6jQONKWhl6j/75ISzV9q2WcrM4mZrQwMkBfPnHuc+Vy49wA71tpnhbu9JNI5ZSXTFgILuvvCDgKjj97DHxXWxOj+hPrD2j9jUg+pgeoerXvwvjcvkcorENaQ==;4uG0HV68zvhodtwVDgKh1g=="
 ---
 

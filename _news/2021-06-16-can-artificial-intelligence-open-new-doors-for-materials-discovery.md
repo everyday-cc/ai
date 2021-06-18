@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Can artificial intelligence open new doors for materials discovery?"
-excerpt: "A new take on artificial intelligence may open many doors for 3 D printing and designing advanced nuclear reactors. The future of clean energy is hot. Temperatures hit 800 Celsius"
-publishedDateTime: 2021-06-15T18:45:00Z
-originalUrl: "https://www.eurekalert.org/features/doe/2021-06/dnl-cai061521.php"
-webUrl: "https://www.eurekalert.org/features/doe/2021-06/dnl-cai061521.php"
+excerpt: "The future of clean energy is hot. Temperatures hit 800 Celsius in parts of solar energy plants and advanced nuclear reactors. Finding materials that can stand that type of heat is tough. So experts look to Mark Messner for answers."
+publishedDateTime: 2021-06-16T11:12:00Z
+originalUrl: "https://phys.org/news/2021-06-artificial-intelligence-doors-materials-discovery.html"
+webUrl: "https://phys.org/news/2021-06-artificial-intelligence-doors-materials-discovery.html"
+ampWebUrl: "https://phys.org/news/2021-06-artificial-intelligence-doors-materials-discovery.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-artificial-intelligence-doors-materials-discovery.amp"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
-    width: 300
-    height: 250
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/can-artificial-intelli.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "a8TKAPjQHihMgGfrsHiVl0ouw35qoKndQeVqwz+lbAKb/yr0eAeKDPpf1qkXz/HGofP+Qeb8jsLZp5DHeKHb8F/qkeLZmdgKuHMgXyFcN8AKDbTAQv/nkJloMKqbi1LIPGIHqXiEgvzwbk87alXdsaiM5+rVMsnHpqhrroVDqcNaiDeYlVigC+eG1+TGuJrTL6mwJasRHWKyiaqci96rFlXRqCtQseY2f5CkF5FpFzCARSpy0BmXEIGO3ECd2LsnGJdFvUBiMn3LBRjJwJcLWzN0RENRTYjZ/iE8ebOwls4t8pc3tyaRd7/fdeeqODgUHvYC6UgFkrthafeqnBkoTtmjcKv1iHY6gXuRVSdQGJA=;1OuKVAkpZBrzMg5L8FYbxg=="
+secured: "yUh0AJ5hMd483DohkPnGFPuPxFNiGN+7iWZ7/SB4MzuwVy3tZe0WROOYLCl3tekrbf5s8zPsDgTz+UxJIfwI5vqiQgC/w8gNHnfqhc0tiD+vhrKc9X0fKiJljqee5LURzhkKJXUCeddy+EpfuuH1h6uk6ILCR5/wQo2V9WoRwhs7diWoAy6od1ue1OGL/DJTWyZrLa2oIKMmDKJWLgcJZWr9gGC8EARaoCEMTYQkC6Xam5+sq8ThRpyvAPvvnNdWxrqDnKFaCgygrBjG8mKVQU5PG3xnZ7HxqC6u4Sf3y4kRu/0cyY+uPQ7UQZ1FqerZ2sQINJd5DDLp2REkXKXT0MgcZbVfITRSi5vWa9N+l/w=;89em+Fbt7MqV81RqBVj3pQ=="
 ---
 

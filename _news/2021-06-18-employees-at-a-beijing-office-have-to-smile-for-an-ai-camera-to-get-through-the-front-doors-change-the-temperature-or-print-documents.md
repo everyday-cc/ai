@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/workers-at-chinese-office-have-to-sm
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/workers-at-chinese-office-have-to-smile-at-ai-camera-2021-6?amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -46,7 +46,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Employees at a Chinese office have to smile for an AI camera to get through the front doors, change the temperature, or print documents"
+    excerpt: "A subsidiary of digital camera giant Canon introduced the workplace management system last year to create 'a positive and lively atmosphere.'"
+    publishedDateTime: 2021-06-17T18:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/workers-at-chinese-office-have-to-smile-at-ai-camera-2021-6-1030533459"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://images2.markets.businessinsider.com/60cb84f320bd1300181c6e5d?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
 
-secured: "WYjRxO5VqOwdOzHUAH/88+46L97fiye+jeEdKpScdxIqyGoQg8TJW3sU8o+OoCl4ncupmsTU55Ml1BKqB0P9CNMGjsOUzo6ZWTQIquK2jzYUh9iLeDY3ihh8VrMDbPLJgRwf9sfzEQbapERoKuC9ZZAXXLmR9YmHvcs3nmaCJu3ZhRmRfqYzS7ZOR7Wepaa2Cj8x2TgBKHMX7WZVp6NOnFV3bq/6H0kJXnNvZPsD57th7AGZAWzkhojZSDwoHo6FGg8kgAkDyDmCRI/WmVv8598Pdpncbj1657xRS+Nt7Hc74BtPKA5TTPHk1xI/RY6JfVu2RZntdSdMsawph7yWPeoxBuVk4cys05elm/UwJzA=;euNaIOvVfZqQXUV79El2WA=="
+secured: "DTUS6D+c/P35EyfRaU8Nx4TqhGFlFcSTWodPBv1pWQc3IJspQmBLMCF2yCEXYnL25R267/XWhA1LYVTq+meXl3e2o6FhN80oz3uequwPuTpNH1vLdCdsHekW8MfhbHGdPL1B+fYGGV7zHBhopbFM4SuFCngyBERBZL4DARnQKmr9xJS5cZwS2dquqyVaoUflwb9rbTW1kHT71xTz92wCc8v7sT+8kkIe5lw2yYNVNquS2l8p+8Cn6t+OwaAMGBBK7kuTISNXeUDHAH9TzaK/nw4jGn3zjBg/PY3YmXDydiIQnpKpPUeVix6xTa3IqIYeJqRm90S5iLMnBJ0hOh02UflI2XJl2E1Cc2AKvdqWCkkk42MQS6j42yNgPd87rNjbmArs8qFglgOFexKL54oBdf15OYzmRxgWDB2wa9nxKZrGGq2LZCQqhj3encOZhYHHcgowDJ3Ya74bR1bXoFKv6qth5TJzaar03huv01VJbyqlQF+sRFPJKmL4Tp/UnMrbSpRMNX+7kAOCqVDoiv+Wpw==;mpHT9itV9W8es+laKEvLvw=="
 ---
 

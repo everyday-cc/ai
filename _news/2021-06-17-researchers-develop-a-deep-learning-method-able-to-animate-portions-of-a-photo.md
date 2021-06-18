@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/researchers-develop-a-deep-learning-method
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/"
 type: article
 quality: 116
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "NOMS Healthcare deepens value-based care efforts with data"
-    excerpt: "Sandusky-based NOMS Healthcare is deepening its data efforts with an investment into new artificial intelligence technology and the addition of a chief data science and analytics officer. Write us: Crain's welcomes responses from readers."
-    publishedDateTime: 2021-06-13T08:00:00Z
-    webUrl: "https://www.crainscleveland.com/health-care/noms-healthcare-deepens-value-based-care-efforts-data"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/NOMS%20Justin%20Coran_i.jpg?h=cd484a20"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Speed up Data Analysis with Artificial Intelligence"
     excerpt: "AI-powered technologies have transformed the way organizations do business with the trading partner network. In fact, these solutions have powered up digital transformation across different industries including,"
     publishedDateTime: 2021-06-16T19:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/the-future-of-automation/?amp
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/the-future-of-automation/?amp"
 type: article
 quality: 88
-heat: 100
+heat: 101
 published: true
 
 provider:

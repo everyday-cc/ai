@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/"
 type: article
 quality: 74
-heat: 77
+heat: 79
 published: true
 
 provider:

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Employees at a Chinese office have to smile for an AI camera to get through the front doors, change the temperature, or print documents"
+    excerpt: "A subsidiary of digital camera giant Canon introduced the workplace management system last year to create 'a positive and lively atmosphere.'"
+    publishedDateTime: 2021-06-17T18:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/workers-at-chinese-office-have-to-smile-at-ai-camera-2021-6-1030533459"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://images2.markets.businessinsider.com/60cb84f320bd1300181c6e5d?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
 
 secured: "F4GHBb01HXOwDekDc8AeGobgt8SVaTw3Ua00EW5yyUlewAYEx6AeinwXccqhitfsQlU9iXsi8ap/nrUwQs49XZToVywE7BwF/IgHU2msQl+KvLj8NtCmkODYNdeucueW4oXQx54w2w7vdGm/QTmeV8iM3XGkMZdfMgAa+RRAxC1ayoDpR71yLCLPEH3MVZCD1n+ImMwzhg/96FPjCbMSUF2BSDFvrGWgFR573KGbMChiETRj+vgRNH2qYhlCPaDOtUHxo+hZDgo8IqyqwiLy7qJzptpbyWyrNggyWuQ1kM7uU9xNmwr7Ie9N60UsOr6wRknLrQo8CzEMuGLGLK8FSz1Z6XvchUGAdps8qz6N5qg=;3jg9QDRY9zD981T9MpMKbQ=="
 ---

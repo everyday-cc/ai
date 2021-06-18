@@ -3,8 +3,8 @@ category: news
 title: "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure"
 excerpt: "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,"
 publishedDateTime: 2021-06-04T09:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/04/9384047.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-beevision-dimensioner-provider-adds-exceptional-accuracy-reliability-with-/2021/06/04/9384047.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-beevision-dimensioner-provider-adds-exceptional-accuracy-reliability-with-/2021/06/04/9384047.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "xo+QeJNIRY9rf62tWxnFJ3Xra3IotiazawGw+JHetLB73n9dUkwvHVfFBBmi1EWf42ceGBoWS4Tz5q0HLdMK95vDVQ6qIg4V8t49CFLuqlaR4Z8LvF7G96BEF0lIhauPESYKpoX5RuH/wmGVZSvEzmsDUscgFHUsiRVg2ScRcp/m00A2n6Pb4UHldPDRGLRuMM6kvP2KxuI3G100hJjvgKh9C7vLpDvhtKhAwGFJTN8cQO3SbOwyeDdw2ntnJPq0dPq7IQWXN+T16Y8T1tlIrt2Z84PyYGaElDM+VgmT1RRXcqv5ExlI4b/aotoTwhWgUn58FxuNeC+qun5CZSW9XJomFR0jUpjk5JOSC0KxtoYm89knvJy9u6DzJk80bGQcbjpv9kWnxSKvEZykaKjQlUHcmUKdwC90EtJev1lTv27Me2cKZTvroyZRhoa+oEviHjB4SR+ed+zOV6wEXQuUC+0L7nveVVjX8Oakx6BWo3F0LVU0W8enWoeu92GqY9Ms1pess3GqFIVMe9cSbOuYgQ==;KHsrZ/MvSQP/GnWQk38Axw=="
+secured: "bWWoXkvxEQCFpja+hC9ccLJpjTuBY1SAWH8VB5J0VEC03SWNoj9U6CJOT3ZLTKoGy830AUFyupTmGnSbLX7x+wKevyY5PU5T7gR/O0SFBS845B+zJvRKOzEI/YGskQlW9bY6Swe0Kg073rE/ntWLEedXbLNJ/5LKv59OUwuCp3ToR0HkxAdMKVnW7S8M7doWIjWtFWd+4/HpLMn79i5VGkftlB46cSaAbAOv7bzeBHYu0XqEnaTQz30j+jDX8HPGu3+CvJIwiBfZag4651MOoBrv33V6e5RPk47b/HTm5HVE8XEYtVb9wlNkcjrlnC9EuQACeFrHYawcTnz+mQ0jQu3F4z0J16N5++ZIWbAdLTUaF3a0K3k/df8QsMWx22vxN1bDd+R9XTdx+ggpHaLXE0w8fFZ6a9DKL171i2SFl1cyIQ/9F+W03nfvJufJ6CU+KG8fGK90QciT/YOHmDU3TmmxKBaRKeNDWqMQLuTxLywef3muEcL7tpTj2bwTgLzoQE6KdQtiDvITWjYpTfxMKQ==;ZDc5mwVkLwcecOZ/nVuHwg=="
 ---
 
