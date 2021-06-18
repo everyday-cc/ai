@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Hunt sets driverless truck test in Texas"
-excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas to deliver goods between Houston and Fort Worth, the company said Thursday."
-publishedDateTime: 2021-06-11T06:55:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?business-arkansas"
-webUrl: "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/?business-arkansas"
+excerpt: "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ..."
+publishedDateTime: 2021-06-11T07:32:00Z
+originalUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
+webUrl: "https://www.arkansasonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/"
 type: article
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xJ4Hc7sz63Tp9gH8ayHMCEa5BY776XO5DCTTKJkxwVbMtOMTmzk1HvpeO4gshtEppEHysJacPZvb91fCqVdJFNrvmrw2an6UKHKCeChjyM/uuSH5pMkFjwXo55WvgK7TqoHXSOMbI3J7zBDZdjdKkyNZVtGuSmBevn6/RGB6AlOEtrLpTGy89ib5nww+DS/4bvTBw+JM2oDgrws+TbmAZ0OLkqwXUftd4wIY/wgxsiwVR9uEUx8FtzeeMSSL2UAn0Lgjoi2DgmrBRhzPOHlzoay9IayoK0ofb4UcBsfjjzoWM531Vz+ynhlEF7F5shVxPTgsd6AkMFqR0mAZ5zE1ZAs0FHFu48viNHelQQfiNL4=;Qk9dwqqf7Xu+RSfW4TBgpQ=="
+secured: "zaF7LThQjHMG2USD9nqnlZ9/Ctg0UM6GkGsMn4yJPxsW8weqk/OgQaBazf37kDdcklsoncgCwDHOtA4K0BaE1PLnbkO1SdME1mQeBNvgDgEq39HwxTgrNwjmL42ZxNG+r3uqv3upvSysxwHnbsRrCqW0fVEFBxyrRIsQk5zrtUAqlOHlr/F0oLbkV9qTLoxQjlh7YG5HovXFiQOCSzj8WfnLn2f+MdgvPPy7A8lMzK7TZw81j+wUVSWDxZjQceO+yOkt9R91i8tC5b3iSDxz/S0N7KP9CvEcFOCe/WX44kkH2t5ygq2x76xcPBn5NX1+HceARbZKmII0zXvchzoyBn+84jHMxFrqMPPFVrxAYiA=;YdgpUoqkYEEP5XzQFw/FCw=="
 ---
 

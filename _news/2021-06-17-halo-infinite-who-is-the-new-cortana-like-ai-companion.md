@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/halo-infinite-who-new-cortana-ai-comp
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/halo-infinite-who-new-cortana-ai-companion?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Halo Infinite: Who Is the New Cortana-Like AI?"
-    excerpt: "Meet The Weapon, Master Chief's new AI companion introduced in the Halo Infinite campaign trailer. Halo Infinite ‘s story and its connection to Halo 5: Guardians remains a closely guarded secret at 343 Industries,"
-    publishedDateTime: 2021-06-14T03:24:00Z
-    webUrl: "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/"
-    ampWebUrl: "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 57
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2021/06/halo-infinite-weapon-cortana-story-spoilers.jpeg?fit=1920%2C1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Who Is That Mystery AI In The E3 2021 Halo Infinite Trailer"
     excerpt: "She resembles Cortana but it's not her. So who is it? During the E3 2021 Xbox & Bethesda Showcase, we finally got to see new footage of Halo Infinite. And while we were picking out jaws off the ground,"
     publishedDateTime: 2021-06-14T19:02:00Z

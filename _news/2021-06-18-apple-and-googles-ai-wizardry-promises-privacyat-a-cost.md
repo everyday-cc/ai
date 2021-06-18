@@ -3,8 +3,8 @@ category: news
 title: "Apple and Google’s AI wizardry promises privacy—at a cost"
 excerpt: "Apple and Google both say on-device machine learning offers more privacy and snappier apps. Not transmitting personal data cuts the risk of exposure and saves time spent waiting for data to traverse the internet."
 publishedDateTime: 2021-06-18T11:13:00Z
-originalUrl: "https://arstechnica.com/gadgets/2021/06/apple-and-googles-ai-wizardry-promises-privacy-at-a-cost/"
-webUrl: "https://arstechnica.com/gadgets/2021/06/apple-and-googles-ai-wizardry-promises-privacy-at-a-cost/"
+originalUrl: "https://arstechnica.com/gadgets/2021/06/apple-and-googles-ai-wizardry-promises-privacy-at-a-cost/?comments=1"
+webUrl: "https://arstechnica.com/gadgets/2021/06/apple-and-googles-ai-wizardry-promises-privacy-at-a-cost/?comments=1"
 type: article
 quality: 67
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 666
         isCached: true
 
-secured: "lnZ10MlRhpC9vyTufqzN9aWtqUuWr3xV8fpWvd7FC069iCXVErHlPlYW+1AG+cpB8Ve+1bx64jEykqh4UTuEDD8YM5l1fIALhUJLE7ECgN9TbwtJET6Y6rtCdzeWxO1jxuwER0skcxD7zwDDWjAd1X2wjCpPZZkxTpmcobgIzZnSm7bfRKQzQ+hYW5xNJvmqw6SuNQCyv4D2jl2+lwPsNG3Zoxt9xuwqlJGdmPDPa0whvVSXDYJ2hsqoMO7TE89Le6vfcgGqi5WZb5nCoIcQ++hTHNYaIN2tscUwDCh+ne780TKQ0jmRb+D94cXWSnOeGCa6k+vQV051eqLX6P0teVwe+pRDA5sGydIhrcRVsYPieOdSs32Y6JKRjQV9Zq18wd/7i0FFUJe/5QALKVzH1IcdXfYatfFGW3CK2hlJVxm4wIQgBujwqo0UA1j4O0gqZRIlcGk1cdqF3/fR+LbR46uu5c1HORKR9SVWHMalMRR0O63R8p8lqEC1tvv2heq5gZbvN18ZVxloHQaNU97XxQ==;ou5t1SxQdlaywl+WsT19hw=="
+secured: "Br/opD58Wpe2CTxSvD6kRuX427hn3FhEhYowq9qvlZEP+kirnVSjgauY/rPU1kRlkLyWTh6h+wzqMctIlXmlNNCqrg85b5vGFr0F6T/C8edhDI07o7YnxrK49pVhqtk8G7IH7Zq4zI8mTSwZM+iwBPeoClSFHBCvKPa+Ddv8f2Ah7Lg4nO0kQkwrf5CqldVUPDJ6bUdoyhKwMJzVwKYj0cS2122+Nz7xvhjXugpxlO4SByumTKvurMHJbUZ7R/axA0jnGtsECB9KKko8XlgFMmTDZoqo96yDw+oSaj+ACmlGSy9qJYWGH73FjaNfCa8xAwY6+M4M9SD5TcTExBYSrnKwYlODOzMpogfQtkTjZEE=;apWh088mT5IrIoT+7tBSiw=="
 ---
 

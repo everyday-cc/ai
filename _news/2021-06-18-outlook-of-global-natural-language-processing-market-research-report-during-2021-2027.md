@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2308389/outlook-of-global-natural-languag
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
-  - title: "Graphics Processing Units (GPU) Database Market with Report In Depth Industry Analysis on Trends, Opportunities and Forecast 2027"
-    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-14T13:51:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/graphics-processing-units-gpu-database-market-with-report-in-depth-industry-analysis-on-trends-opportunities-and-forecast-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
     quality: 0
 
 secured: "jMeEh16HPk1guzfCHVJi9v4TQwaLsNi8wINZC/vf0myUNgXWwCvCQUKxO5JROSb+JBM0AWR3qNFrU+yLmBRdwVm/vaCUp/XYTc+o1eJqVxIOpE0UlQjiqtnc19yPkl+HvmcBUOCs6Jc3t3vAXbv8kZa1YyJop3YU13Amx28GlTjgg2fDzQvkDrK0QHhs/14GVwj2OAV6DApHQSBg/Kp6coayZlZ0W0A+AnC+q52tV5dendvaJFzeIFytRk0e88vCAblW8IADt8/wSegpSA/y9xaYajJongodiqc6jUGN49W5wXeiimHMbwIEVPX0dMpoBHxRCZ0worfPNOtzNnFbxX6IGJg6LB4MPp6IdhWHm9k7Iku9x5Fv+bhEZzxj0ZEC2K4km6W+ahM9t3dv+NC+vbfYntjDE3fB6PdKw05tb/DP7uob/dMC4x6JN3wyHg26aqNypgOHbkzIOECpetYf/WFDl57acyNTM1sfZ5Y4MS2f77LxYyIZI12Wn8Ny60dGIDer6RlwrhTxiktRkPt4pg==;fdgtq0xBJTtStYRyfQBqVw=="

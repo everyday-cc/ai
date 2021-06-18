@@ -82,20 +82,6 @@ related:
         width: 1005
         height: 575
         isCached: true
-  - title: "Running a fintech from India during a pandemic"
-    excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
-    publishedDateTime: 2021-06-14T04:31:00Z
-    webUrl: "https://www.altfi.com/article/7994_running-a-fintech-from-india-during-a-pandemic"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Talkdesk Financial Services Experience Cloud™ Reimagines the Banking Experience"
     excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Financial Services Experience Cloud, the industry's first enterprise-grade contact center product built for financial services."
     publishedDateTime: 2021-06-15T15:18:00Z

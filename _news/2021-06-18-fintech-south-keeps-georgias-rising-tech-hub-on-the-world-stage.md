@@ -48,6 +48,15 @@ related:
       name: Leaprate
       domain: leaprate.com
     quality: 4
+  - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
+    excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
+    publishedDateTime: 2021-06-18T20:05:00Z
+    webUrl: "https://www.econotimes.com/KT-to-invest-236-billion-won-in-fintech-Webcash-Group-1611096"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 4
   - title: "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader"
     excerpt: "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation."
     publishedDateTime: 2021-06-14T11:43:00Z

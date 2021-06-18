@@ -1,41 +1,60 @@
 ---
 category: news
 title: "Akamai Unveils Machine Learning That Intelligently Automates Application and API Protections and Reduces Burden on Security Professionals"
-excerpt: "PRNewswire/ -- (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen"
-publishedDateTime: 2021-06-16T10:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on/article_eb7090ce-a15e-5f21-b471-cf422eabc831.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on/article_eb7090ce-a15e-5f21-b471-cf422eabc831.html"
+excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications,"
+publishedDateTime: 2021-06-16T10:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
+webUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
 type: article
-quality: 38
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
   - AI in Security
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/aa/9aa657a1-b7b5-5b53-ae28-7f45c5416cb0/60534511efac5.image.jpg?resize=1200%2C490"
-    width: 1200
-    height: 490
-    isCached: true
-
 related:
-  - title: "Akamai adds automation and machine learning to protect user accounts, APIs and applications"
-    excerpt: "Edge platform cybersecurity enhancements are intended to increase responsiveness and augment decision-making, the company said."
-    publishedDateTime: 2021-06-16T15:00:00Z
-    webUrl: "https://www.techrepublic.com/article/akamai-adds-automation-and-machine-learning-to-protect-user-accounts-apis-and-applications/"
+  - title: "New workload sharing framework drives breakthroughs in AI-based application performance"
+    excerpt: "Intel Deep Link technology lets CPUs and GPUs run AI-powered applications at blazing speeds and without compromising the user experience."
+    publishedDateTime: 2021-06-16T12:19:00Z
+    webUrl: "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/"
+    ampWebUrl: "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/image.png?w=1200&strip=all"
+        width: 354
+        height: 235
+        isCached: true
+  - title: "AI-Powered Automation for Driving Business Performance"
+    excerpt: "Will AI and automation “replace” jobs? Some of the more hyperbolic headlines would have you believe that millions of jobs are being superseded by AI and machines. McKinsey cites studies that suggest that between 75 million and 375 million people around the world will need to change occupational categories and acquire new skills by 2030,"
+    publishedDateTime: 2021-06-15T15:22:00Z
+    webUrl: "https://www.cio.com/article/3621783/ai-powered-automation-for-driving-business-performance.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/picture1-100892365-orig.jpg"
+        width: 907
+        height: 605
+        isCached: true
 
-secured: "QdoGbyF+KvaeCsdom5KNRoLWygG4cYCBGW6cOX9KzTDjkREklHjONE6/XAkg8wCRn3oVS+cbqnMPWnVHdbaulkYEIXbMA6Rub3VTubFpUQUA4SftoyzM9S+D5JeQxHs7wdwc/lAGc+c62AW+5Noh/gHEtEjd7cPIXYkw6EyGUePHidM5u7OgtLOWhtWd0C4LTXWpMZ93A3QQ2ZcFnuH+FZi5mnjLqjlmRVWyTcDXGc8dsxVXy39CrVIpAvxPiCDhCp+xMoYZhg/kyEFqiEm1+Vcwx74hq9uKKV/sWAKl86O5Kye6wRTYiqll5E70zNLGveY9uvsnYwewgYaxA+F5uV3mrjMEjl12T/Dgmwd/Jw8=;YiNoXrcRZ2SC8YToDQHDnA=="
+secured: "MrH30zdSagpTSaPBDocp6XPkkkZJFhA8AetpzOXGg2slDp+I71MGPH5ilJpM9nZIP8T62RxMK2OK8tr9We9A67uvPs3W7/24Oa5M3b/2Osjm1MvGw1xc6PhZC3vp2+EoCaw6mXWOdunaIWQnQu3oOEGvzWRFpHP7zs2oeQ3iwA+5duJHCLLlMkxEusBsg2zssMYSg2rLDvU+QqHO9NMatjohvtoovZjyufj4wjAIdH96JF9E2FoyNCVzb+tGAuluhgnc6dZHPg1N6sEF+Fp/ylDijvOlb5typKiAjdcwDc/hzZIHjBKg6xR8B3xLYwE3fUM92/J1B4fP0VRvXSa5c+3CEFWykJ8qhIF9658L+1g3/q+PXI9iS0ola8EGjOO7gPszpoTAzEK+swcqTmUthIlxTWO4lcXIDb8W3f7sqe/KVuvmLMCCjznUjUTdTZrcKJZOolK/eCiwbQQhkckABSSMMJ0flru1dQD9nMNcQfhJ3qBKabQEkm52slUJxOb5naFwHAHpBkgxMZ6Ny+jE0w==;z4Awidd2EQwRAdZIKeUt7w=="
 ---
 

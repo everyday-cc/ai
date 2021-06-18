@@ -2,21 +2,17 @@
 category: news
 title: "Farm Tech Startup Iron Ox Hires First CFO and Head of Marketing As Company Prepares for Hypergrowth"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Chief Financial Officer and its first Head of Marketing this week as the company accelerates growth and expands its commercial footprint."
-publishedDateTime: 2021-06-17T12:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
-webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
+publishedDateTime: 2021-06-17T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
 type: article
-quality: 57
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -45,6 +41,6 @@ related:
         height: 337
         isCached: true
 
-secured: "fUSEhOI5lt1cp8k9rDLaZVL/FGdK5q0h7788TkK8meCU0YT0emxkWdMLt239gg+gVg5SJjI/WTtvykaYzaALP4bNPw/c7HdMoqQFlQHy1A4icg3QckLahhObi1CD/qGdu0UXCVGp5UyCWVT3fosmyYbIsTFC8EUuImJjMlM01TxvDFYuJ1+84Q8Oa5bHb+eSmQz+0pSw5OnljKPfqyAEeZ9eItxOMf34tKRxeHTSPmefeS7gc7m448YC78KwZ3/hHZnY0IlFwJfGTfeIqxjvg4BX1NTCAdFD0TRXFCGjMB/iZdjCeHLDyWMBe0s3FwbnAzkQXw6T/sKiqcAAmck4fnwVFo5wwe7BAiz+8XaJGT9QDkhVjd9Ytln87xgSmDSEpptEYslF47eDRQWi9NGWo8+YCqwn/ovUoPtKuedx9QnvxK1GH9WcQv8ue2l37y1LKG+y/RBDMjVGGzyZd35rhOshrAY7rl4A3rVAdpHzni7bzv5D6cAU/4lAAIkTBvgMFzK0blLVD2Z7/oz7IkcJmg==;dy2A75NQQ2VqaYtbz3QJlA=="
+secured: "AU7fRK8xqUkTQWdP0sju3Bsyx0IW74wEQ78SXXPrPBtlGzvoAM9jZFxYedWiJcKftfOoGzC4GszwRe4hGd+VGnrr0WH7ZEzuOeAhAp4pmZosgmtvUIcc0m78XiNApN4GEf1553fUSDV4Wuw66zk79qkYsLszw46Ogu8+beo5e0M9jbD4GtK3JB+HfUpCCUeQXBc7G3uHTng8O8vJ3vzicbAD/FXU0l6V9vBBmFfXzHVoxUDWCHYcXm2pjGfWQUj1UzudcNFgSWtzdz5piJxyVDJor/CNF17P680K4VZ1KTrmiu/G/NwaQGyWjs/K5tupFS2VSUI6x4r54lVeMXrGh8ixU3l1aIV+9k9xNmmct+Q=;6BEsAZdeo5R0aaq4FAvY4Q=="
 ---
 

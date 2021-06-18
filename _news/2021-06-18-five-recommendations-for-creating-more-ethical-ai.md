@@ -59,20 +59,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "AI Foundation Acquires Lifekind Accelerate Development of AI-Native Humans"
-    excerpt: "The AI Foundation, the leading developer of the world's most advanced AI-native Humans as a Service, announced the acquisition of Lifekind, a leading creator of AI Personae of real people. As part of the acquisition,"
-    publishedDateTime: 2021-06-14T04:55:00Z
-    webUrl: "https://www.cioapplications.com/news/ai-foundation-acquires-lifekind-accelerate-development-of-ainative-humans-nid-7906.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 35
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/1ipxr450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "2. Hopes about developments in ethical AI"
     excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
     publishedDateTime: 2021-06-16T14:05:00Z

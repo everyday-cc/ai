@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Challenges and New Frontiers of AI"
-    excerpt: "With significant adoption underway in all facets of life and business, the challenges and concerns around training AI with unbiased data, data scarcit.."
-    publishedDateTime: 2021-06-14T03:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687"
+  - title: "Drinking from the AI fountain at H&M - democratizing AI in retail"
+    excerpt: "H&M has set out to become the leader in applying AI tech and techniques in the fashion retail sector. Just as our founder Erling Persson once said he wants to democratize fashion, we are really about democratizing AI in our organization."
+    publishedDateTime: 2021-06-14T14:34:00Z
+    webUrl: "https://diginomica.com/drinking-ai-fountain-hm-democratizing-ai-retail"
+    ampWebUrl: "https://diginomica.com/drinking-ai-fountain-hm-democratizing-ai-retail?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/drinking-ai-fountain-hm-democratizing-ai-retail?amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83500687,imgsize-130172,width-800,height-434,overlay-etcio/challenges-and-new-frontiers-of-ai.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "World Wide Web of Artificial Intelligence"
-    excerpt: "AI can be great to increase the wealth and happiness of humans but we must be making more intelligent choices about when to let it in, writes Akshat Tyagi as he warns against the manipulation/misuse o"
-    publishedDateTime: 2021-06-14T16:46:00Z
-    webUrl: "https://www.dailypioneer.com/2021/sunday-edition/world-wide-web-of.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/world-wide-web-of-2021-06-13.jpg"
-        width: 1000
-        height: 800
+      - url: "http://diginomica.com/sites/default/files/images/2019-07/H%26M.jpg"
+        width: 1935
+        height: 1290
         isCached: true
 
 secured: "MLJfWNCy/6gTkC67zd7d7trb5uYVBVKTWJ+neyUmjnEPRZ0qK1UmEXLdluxZtJLXjPXGgtimx8mOnc15vQDlUlXQg706KvDEBmxtniJOiq+dzA6VzqQI42u/t7K0XC8TtL0Cx8NJ74RQf6Ra7DzRgyfTSc8K8tNnp/5uFaNsMmvKCJr/Jc2dW4KG5OKFalS/b5eIeRJLBK9c4k6/IrouZUwVoJbuTSQXoTd2AqDvgQvtb0oInwb5sYEHEJ0IciW1KY5N4yhkuynaYPPB1vuNCgAWlm5RaMV7HUkABTi2FI4wyRIkyQ4CxWyhgXfkjfRJkyugkFGkZF16Pm1ojRoL3aiQ+6q0xCD9SEW7XrR0Ub0=;chUfAHK5AlkLXc3KnsiSww=="

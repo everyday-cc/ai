@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/06/fintech-real-estate.png"
         width: 1005
         height: 575
-        isCached: true
-  - title: "Running a fintech from India during a pandemic"
-    excerpt: "The experience of running a fintech from abroad during the pandemic has prompted a wider debate on the opportunities remote work may create for UK fintechs, writes Chirag Shah, CEO, Nucleus Commercial Finance."
-    publishedDateTime: 2021-06-14T04:31:00Z
-    webUrl: "https://www.altfi.com/article/7994_running-a-fintech-from-india-during-a-pandemic"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
     excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"

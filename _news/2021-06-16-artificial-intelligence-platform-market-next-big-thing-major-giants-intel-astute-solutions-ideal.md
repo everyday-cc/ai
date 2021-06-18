@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-next-big-thing-major-giants--intel-astute-solutions-ideal-2021-06-16"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI Image Recognition Market Disclosing Latest and Technology Advancements – 2026 | IBM Corporation, Alphabet Inc., Amazon Inc., Intel Corp."
-    excerpt: "The AI Image Recognition market is highly competitive and consists of a number of major players. Top Companies like, MICRON TECHNOLOGY INC., Clarifai Inc., Microsoft Corporation, Nvidia Corporation, Qualcomm Corp."
-    publishedDateTime: 2021-06-14T04:26:00Z
-    webUrl: "https://manometcurrent.com/ai-image-recognition-market-disclosing-latest-and-technology-advancements-2026-ibm-corporation-alphabet-inc-amazon-inc-intel-corp/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "eNEPtlHJMdmG/sJOX20T2MKVHT4M1mlAei99UPcNMG8txuVugiKsdIXbS/gv05eX32Ox9I9euSaXyXzsClXuNEN5MlS1HPH8M9oT+8w21B3DZNs9g9va+PELZCUIOnW9Ga30w36Bs/KWkDJO/358yCHMGCVBfgUvyer/8WgJVPDJQQeN5ieKqJ2sECRocuPs9jH+y1kyBD2CQZQgcc1BAoKWFxICV2KThyg4AXvE8k+NLKbeT8hiNiTfA7ay0z2qAvBSc9LDR7svyAoyiCqiV0OZ8Y/OcjfaqYILCAkT7At8yMA5TnJBrb7/+mN96+2d7lyRTCseFEG9fZDLc38Ex274bogdIBTf9x3wnWTaPno=;INijtYlskFD75EATLfRaFg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-syste
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
     images:
       - url: "https://eandt.theiet.org/media/16094/ai-system-on-a-chip.jpg?crop=0,0.27258286429018136,0,0.23281113195747338&cropmode=percentage&width=1200&height=450&rnd=132684068740000000"
         width: 1200
+        height: 450
+        isCached: true
+  - title: "Going where few imagined AI would go — on a solar-powered chip"
+    excerpt: "Edge AI chipsets are expected to make up a market worth over $50 billion by 2025, with edge facial recognition accounting for $2.3 billion."
+    publishedDateTime: 2021-06-18T20:28:00Z
+    webUrl: "https://www.biometricupdate.com/202106/going-where-few-imagined-ai-would-go-on-a-solar-powered-chip"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
+        width: 800
         height: 450
         isCached: true
 

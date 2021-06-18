@@ -1,22 +1,28 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-publishedDateTime: 2021-06-18T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+publishedDateTime: 2021-06-18T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -175,6 +181,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "FzBhfASWR6oUvFILCuR/dafSrNfNbDkBsYZsBhDQykMlAYc3yuLJbXUlofyTjbU+qLXIy67kZW4NX/+QO6N1TA6+XNvP5yWH8d3KidhHQai9iu0NKSKEaNf7yGsZBcgOyBgttzRw803MULadxip60wJMd2GZ0aDNMnz/mw/Nnz+3DdVctFV5Qnj++yAtUJHa/HRJvDS4G9b/YkZ/WswphhELQW7jy+acC7U0ZFpENWoL7ZdvytGZsr9SvxqtblVn8f7EElBKJ0k9yvg9Ks0t5vPngIMjnFRj81gMdxoDeSJCY5o8fhbzSXkpSUc1nMdlf+lSasNPFbmxMOfocoYx1A1TiQw4THywZPzKw3kSHNDxQ9LmI0X3ObwTFXMwltCVEaNfcouep2ULHhiQ5SvXqVu6Rtsanl6aG6YSSqA8SH9kozVySjOFowNiEFMMlZPT2Ge2A4ybGextjuOQ+ttSPpiasEWv1oxpugM4zW7ooyTg3BRTc+yG7nyr3TyrVk6jA4OVEOyTOwnhg+bsOUFSeQ==;lhKIsCHsY/sUwjO8j6ZKGQ=="
+secured: "pz+nc6T+B9YU3gmvLqDRNQYHnh0AFZ0kWeFkmBmBnZ1eUgdnBEC1hRyEIFHpi5yKHhRwy0/5W9lftawy5NzPrCVliwyVE/FXKAicWeImGJufhWtuRzFJ9Fb35UBeWrl8f+udz3UxBjl79KVMTpwobbsKP3hYpWANuGBewoQ1BfO5t7vI1mSA0LYZOp//RDgm3+7HA6AkHnRYT0DWDZn0j81Ak/aNlXUS1LmXpc0naYVE6Yg0HljYon7UBvXwW8Rh13ua3NPrWbgbOdBN9zQ7AqRVSsq8Du5OL23GDprXVfsgV2Py5r1/aY3HWWUkyA+74w4xin3wxvYuNd7LS2CRHbB0gprl94BdDkAIGCtP0ME=;nRXLmkMyzE7G+OCznX4cVQ=="
 ---
 

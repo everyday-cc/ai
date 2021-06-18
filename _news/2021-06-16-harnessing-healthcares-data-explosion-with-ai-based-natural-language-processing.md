@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/"
 type: article
 quality: 116
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Promise of Artificial Intelligence in Healthcare"
+    excerpt: "Implementing AI in healthcare, especially in biopharmaceutical development, could facilitate drug discovery and improve drug safety profiling."
+    publishedDateTime: 2021-06-18T18:22:00Z
+    webUrl: "https://bioprocessintl.com/manufacturing/information-technology/the-promise-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: BioProcess International
+      domain: bioprocessintl.com
+    quality: 54
+    images:
+      - url: "https://bioprocessintl.com/wp-content/uploads/2021/06/19-6-Rodriguez-P1.jpg"
+        width: 1375
+        height: 775
+        isCached: true
   - title: "Speed up Data Analysis with Artificial Intelligence"
     excerpt: "AI-powered technologies have transformed the way organizations do business with the trading partner network. In fact, these solutions have powered up digital transformation across different industries including,"
     publishedDateTime: 2021-06-16T19:51:00Z

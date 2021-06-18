@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Overwatch League Brings Hero Rankings with AI IBM Watson"
+    excerpt: "Just as the current Overwatch League season was about to kick off, we reported here the partnership between Blizzard and IBM Watson to"
+    publishedDateTime: 2021-06-18T18:56:00Z
+    webUrl: "https://www.somagnews.com/overwatch-league-brings-hero-rankings-with-ai-ibm-watson/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 54
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2021/06/Overwatch-3.jpg"
+        width: 704
+        height: 264
+        isCached: true
   - title: "How automation and AI can be used to improve business resilience today"
     excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."
     publishedDateTime: 2021-06-17T14:29:00Z

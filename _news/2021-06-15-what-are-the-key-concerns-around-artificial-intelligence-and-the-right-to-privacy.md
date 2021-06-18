@@ -43,7 +43,7 @@ related:
   - title: "Apple and Google’s AI wizardry promises privacy—at a cost"
     excerpt: "Apple and Google both say on-device machine learning offers more privacy and snappier apps. Not transmitting personal data cuts the risk of exposure and saves time spent waiting for data to traverse the internet."
     publishedDateTime: 2021-06-18T11:13:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/06/apple-and-googles-ai-wizardry-promises-privacy-at-a-cost/"
+    webUrl: "https://arstechnica.com/gadgets/2021/06/apple-and-googles-ai-wizardry-promises-privacy-at-a-cost/?comments=1"
     type: article
     provider:
       name: Ars Technica

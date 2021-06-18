@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Infovista unveils Artificial Intelligence Model"
+    excerpt: "Infovista, the network lifecycle automation company, has announced the availability of its Artificial Intelligence Model (AIM). The commercially available AI-based propagation model aims to transform the way wireless networks can be planned and optimised."
+    publishedDateTime: 2021-06-18T20:05:00Z
+    webUrl: "https://www.itp.net/infrastructure/networking/98353-infovista-unveils-artificial-intelligence-model"
+    ampWebUrl: "https://www.itp.net/infrastructure/networking/98353-infovista-unveils-artificial-intelligence-model?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/networking/98353-infovista-unveils-artificial-intelligence-model?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
   - title: "Infovista unveils Artificial Intelligence Model for accelerated 5G planning and roll-out"
     excerpt: "Infovista , the global leader in network lifecycle automation, today announced the availability of its Artificial Intelligence Model (AIM), the world’s first commercially available AI-based propagation model that changes the way wireless networks can be planned and optimized."
     publishedDateTime: 2021-06-17T22:43:00Z

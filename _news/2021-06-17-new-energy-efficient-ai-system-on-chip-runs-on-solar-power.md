@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Going where few imagined AI would go — on a solar-powered chip"
+    excerpt: "Edge AI chipsets are expected to make up a market worth over $50 billion by 2025, with edge facial recognition accounting for $2.3 billion."
+    publishedDateTime: 2021-06-18T20:28:00Z
+    webUrl: "https://www.biometricupdate.com/202106/going-where-few-imagined-ai-would-go-on-a-solar-powered-chip"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "7bEjdwEvES1oltHCUUK/INhqDEWrLiYCEFXyB0FQNRB925dqCNhXs+Dqehjz0Hjy3VXQ4nje3I+WTqxxGHzFlNCHz5m34e8Rj6t3+oKsaqOSa4HWmLmO+GLvYeCTbhBBmjNmnrrwk0YRMs+h/k/SzWmytCxvNIkpf7A6ic91VxLEqatg5CIAcCtp5aqC0f+ed/zD2WV7zHMK/n8bUiKT6zwJP/ICwJ8lPmRVBiMcmds4jYieh/LcI8IvWyHfExkbcGddq8xBTCkPs7hvBRJBrrnfig+dMPwFZ8+DtIAHN6l0A/QxggFFgI5kpOoRS9RdX24OLaphbxyu9QHU4L3Ktv9jCSEdM2t6AFvQcuwpC5sBhWlwv66RKnf/GVi03puWJXjwOuTHVCjEwIDb2/lPJnLcSgr9L1j2hmO2nArsUjKnPHYXunGWDfMybxlG7uHF44Pqk2lzbBBueaKBLQzUcR1GP1TGAkNm8DEHlQK3/kF3tVWq5Q4WrvhnO5sEf3Z6reUzFAbcFJQmy7f/jGUSAw==;TT1w/zgh7Ny7pjNKAxb1Sw=="
 ---

@@ -56,6 +56,15 @@ related:
       name: Leaprate
       domain: leaprate.com
     quality: 4
+  - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
+    excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
+    publishedDateTime: 2021-06-18T20:05:00Z
+    webUrl: "https://www.econotimes.com/KT-to-invest-236-billion-won-in-fintech-Webcash-Group-1611096"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 4
 
 secured: "lzjcq1OvVv6hsWjVw4Qvx6MyyiJfP0vUmr1Gl/ZOjOInaICRC6oVZW1PwjERyeyMAaC3+ZQDgNekZHnrZ9Qq4Fxb+rSmkPly95fUqQHHmVUpqrPQ8+cFATtOFNnhukbaWI58va3nMIjaozpk6fFf8itaN0SPhcXy2CAaZcCwusYBrpKhhUl01UqAT8ifo0NcXoQBPSfMVB9Wq0sH2HDq1ax+nUo1mbAZqJ45vyiU1R+bQXL7NCrgLL1NrNZb3zpHD/1NomD7Q+iuJqWzbToel9wekXTdUtea/KM8DpMsb3aq7UArW+7U7uFCj03G93ELBc+oN4VLetYyiogG1f97phtbyDSQUZds7CcGVfAXCoU=;ALM78aoBIp+euFKoPlqODg=="
 ---

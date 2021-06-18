@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Overwatch League Brings Hero Rankings with AI IBM Watson"
+    excerpt: "Just as the current Overwatch League season was about to kick off, we reported here the partnership between Blizzard and IBM Watson to"
+    publishedDateTime: 2021-06-18T18:56:00Z
+    webUrl: "https://www.somagnews.com/overwatch-league-brings-hero-rankings-with-ai-ibm-watson/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 54
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2021/06/Overwatch-3.jpg"
+        width: 704
+        height: 264
+        isCached: true
   - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
     excerpt: "Davlos joined the company as Senior Vice President of Software. Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple (News - Alert)."
     publishedDateTime: 2021-06-16T13:10:00Z

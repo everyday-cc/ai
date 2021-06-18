@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB, a GPU-powered Analytics Platform that Is Transforming the Way Companies Leverage Data"
-excerpt: "BrytlytDB's ability to analyze multi-billion-row data sets in milliseconds to derive valuable insights makes it highly valuable in a wide range of industries"
-publishedDateTime: 2021-06-17T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is/article_2cb7fe3a-2491-5e7d-80bc-3205a2a04114.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is/article_2cb7fe3a-2491-5e7d-80bc-3205a2a04114.html"
+excerpt: "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB."
+publishedDateTime: 2021-06-17T14:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm"
 type: article
 quality: 2
 heat: 2
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/1c/b1ce94f3-ff01-5841-9cad-1b52e67c9c95/60cb55985169f.image.jpg?resize=688%2C630"
-    width: 688
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1534809/Brytlyt_Award.jpg"
+    width: 400
+    height: 366
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "M1K8tVTQHSGbtN4/eAQf7y9FS9bOXaRx0Vdb5ejJ8hF/piXgihJByI7ExxJUjeGfRHGIN8bFa9xcrcpw20xYQaSwcciU0UudyJW/4PKEvq0IUjB+tsZ18fjkxJR6f3W36IO+UkXXH6oKrhtsxL9ri5OsOZnSTQxQgaMCADIxMsex0i3cK8Kg+jDtwWX2gzEGVc6i2kxQ/v/ClcCd5OQU4rsTVEHHbsyLq7g+9e+WgArkSCgFPYnkWBXNeNqLqne5vxW9CGIkRHyYBoOTrEx0FxXyNMMScXjk5TfesMrdhJGTWbTf8SHkyLBXUz+4noP/F5nzT+6I2vwB/3wgjG/H76OtHGt4GvcuaL2Kso9shQM=;UbOak8cqMhAHiO3hnmB3WQ=="
+secured: "PwOalGuKIMoFgF6wZfUrnA2FCiiMrxjkVXKhKSD+kZ2HgOntSnOPKNEsL1NFYHiSB9fC69pXoA6+PDNefkHzGEHHeAGtolr0jNil3luXF9OYGrkZpy4pbDgEhyIntZhXSjlzTYnkbNOfWmoCP/Fi1j4OGAnnyJp/JVUOXQVqAnI9bf6kvhSM/U56IBJROIrSorWgH8UtYjbyh5GOirqeoH3tBkdK2+OXTsUn3cwIH1jrLiRx95G31g0+hPX4R/8n73FhPS/lbogtkkeS79orFfNkR1pL55rFi/Q7phgEL8hWdLzgly3KV5IdvLg+Ks6DlAyrzKserO+aFFwwhS/dGSxnukUYil9YDcAGMByJoWU=;0GY7eyC48JNf2qeyWaKWvg=="
 ---
 

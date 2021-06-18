@@ -19,59 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Outlook of Global Natural Language Processing Market: Research Report during 2021-2027"
-    excerpt: "Natural Language Processing Market is projected to Grow at a CAGR of 18 4 over the forecast period 2019 2027 Owing to Increased Adoption Rate across Various Verticals says Absolute Markets Insights An erudite market analysis titled Natural Language Processing"
-    publishedDateTime: 2021-06-18T07:58:00Z
-    webUrl: "https://www.openpr.com/news/2308389/outlook-of-global-natural-language-processing-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research"
+  - title: "Artificial Intelligence in Automotive Market Growth, Opportunities, Share Analysis up to 2026"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence in Automotive Market Report explores the essential factors"
+    publishedDateTime: 2021-06-18T19:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://cdn.openpr.com/U/6/U618794094_g.jpg"
-        width: 800
-        height: 423
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Neural Network Market to Rear Excessive Growth During 2021"
-    excerpt: "Advance Market Analytics published a new research publication on “ Artificial Neural Network Market Insights, to 2026 ” with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-06-18T16:00:00Z
-    webUrl: "https://manometcurrent.com/artificial-neural-network-market-to-rear-excessive-growth-during-2021/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 39
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Doughnuts-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Global Wearable Medical Devices Markets Report 2021: Integrating Artificial Intelligence in the Wearable Medical Devices is Gaining Traction"
-    excerpt: "COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8.35 billion in 2020"
-    publishedDateTime: 2021-06-15T19:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19858090.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 19
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
-    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8."
-    publishedDateTime: 2021-06-14T11:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210614005273/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "sRKRY9J+dC8Dg0NR6sHPS6AhCOHqffV8CAy6zS3VIhRpmrg3qTAN4apb1tDuCM+OmmTbkF/ACcRzW7fJSAnYx86/o9A/wSeDR2eveMWlGvZJeyEPARByJiG+l+jCxAZOuJk9PeDLBAnhsr2YKTMK11AlQLaFHrBbv0A9Y+VOmfyNMFXTuPirCmOaV+Sl1b9ukFGYWS2PflqGjUsnx1Vw1ckWszQ47e0yn8u4vXPRoNDsygzb1abP6wnFs+79/pRs5O27kX5xh0w8mVQyxbc429Z6XSD7/4nym36nlj7EJ+CLXzFFWUdlnSjrx9MQQEHcIzD5WXkjr5IXcNaiz2Zu7Xa9RhKlsQi9qTifiybRkGs=;zCngGldRwKex+theDqoozw=="
 ---

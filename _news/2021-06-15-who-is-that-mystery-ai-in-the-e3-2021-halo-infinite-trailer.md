@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Halo Infinite: Who Is the New Cortana-Like AI?"
-    excerpt: "Meet The Weapon, Master Chief's new AI companion introduced in the Halo Infinite campaign trailer. Halo Infinite ‘s story and its connection to Halo 5: Guardians remains a closely guarded secret at 343 Industries,"
-    publishedDateTime: 2021-06-14T03:24:00Z
-    webUrl: "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/"
-    ampWebUrl: "https://www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp"
-    cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/games/halo-infinite-campaign-new-ai-cortana-the-weapon-story-spoilers/?amp"
-    type: article
-    provider:
-      name: Den Of Geek
-      domain: denofgeek.com
-    quality: 57
-    images:
-      - url: "https://www.denofgeek.com/wp-content/uploads/2021/06/halo-infinite-weapon-cortana-story-spoilers.jpeg?fit=1920%2C1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Halo Infinite: Who is the new Cortana-like AI companion?"
     excerpt: "The Halo Infinite trailer at Xbox E3 2021 introduced us to The Weapon, a brand new AI that looks and sounds a whole lot like Cortana, yet is noticeably different in a few major ways. Who is this character and where did she come from?"
     publishedDateTime: 2021-06-16T19:52:00Z

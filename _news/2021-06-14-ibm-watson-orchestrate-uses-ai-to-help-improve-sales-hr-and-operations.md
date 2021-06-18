@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-watson-orchestra
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bd9d22d9f27323e0ccfeba%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Overwatch League Brings Hero Rankings with AI IBM Watson"
+    excerpt: "Just as the current Overwatch League season was about to kick off, we reported here the partnership between Blizzard and IBM Watson to"
+    publishedDateTime: 2021-06-18T18:56:00Z
+    webUrl: "https://www.somagnews.com/overwatch-league-brings-hero-rankings-with-ai-ibm-watson/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 54
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2021/06/Overwatch-3.jpg"
+        width: 704
+        height: 264
         isCached: true
   - title: "How automation and AI can be used to improve business resilience today"
     excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."

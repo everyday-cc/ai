@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/16/new-workload-sharing-framework-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/new-workload-sharing-framework-drives-breakthroughs-in-ai-based-application-performance/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Akamai Unveils Machine Learning That Intelligently Automates Application and API Protections and Reduces Burden on Security Professionals"
+    excerpt: "Akamai Technologies, Inc. (NASDAQ: AKAM), the world's most trusted solution for protecting and delivering digital experiences, today announces platform security enhancements to strengthen protection for web applications,"
+    publishedDateTime: 2021-06-16T10:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-unveils-machine-learning-that-intelligently-automates-application-and-api-protections-and-reduces-burden-on-security-professionals-1030527210"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "AI-Powered Automation for Driving Business Performance"
     excerpt: "Will AI and automation “replace” jobs? Some of the more hyperbolic headlines would have you believe that millions of jobs are being superseded by AI and machines. McKinsey cites studies that suggest that between 75 million and 375 million people around the world will need to change occupational categories and acquire new skills by 2030,"
     publishedDateTime: 2021-06-15T15:22:00Z

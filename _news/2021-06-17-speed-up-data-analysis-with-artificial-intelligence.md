@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "The Promise of Artificial Intelligence in Healthcare"
+    excerpt: "Implementing AI in healthcare, especially in biopharmaceutical development, could facilitate drug discovery and improve drug safety profiling."
+    publishedDateTime: 2021-06-18T18:22:00Z
+    webUrl: "https://bioprocessintl.com/manufacturing/information-technology/the-promise-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: BioProcess International
+      domain: bioprocessintl.com
+    quality: 54
+    images:
+      - url: "https://bioprocessintl.com/wp-content/uploads/2021/06/19-6-Rodriguez-P1.jpg"
+        width: 1375
+        height: 775
+        isCached: true
 
 secured: "NSis+bHYetAKNFYBS0ymnjR2h9j4z9+I7DEO3J6YddS2q5TBIVvZRphn254VL+lj8MMHqq8WjX0EVJ1cwP76bZ0t4mJjqhjDq6QnL/pRAKIMFivk2KRq3Y2b61IwVGEmsg02JziEq55oNkcpZ0a4BMZ1d6d1+FxGdoSncIrJKT5EV64U0LOdYoegBp0V8ngYUFCmQHwlT+Qdjt2U4JIVALtx79l9MswH1PL3h9Sq82tpzX9slCUJP6gbBU3KdXCa3WwS9cAjjXduC4lzPCRcCsBv9egIsdoBr1If4itLQpwPM0NAzti17lE7FnImgIgB7RGfi6ncdAQKdiUnHNHgAQw0vX7K5m0pi5MYMkYWo26XsulWLFU9+ESBjV4fC6BZSzhW98U0ViaH0Z1dGbzvFoOb2E7PxvBqk/OuvWNnTwjWHM0et3FdBRCrgFFjMlRCzhvW8TQ56r/JYTwXyeyZJP6eZ5ocpX28gHU6CULg71mIETIcNKQV8Bwwf2qZ9gs0hHJOF9kRlcsxZtZkE5hVew==;t+4VdjiLsGsPkgWwLX/v1g=="
 ---

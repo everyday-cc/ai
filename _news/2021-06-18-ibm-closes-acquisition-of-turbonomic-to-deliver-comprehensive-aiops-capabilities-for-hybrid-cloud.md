@@ -1,27 +1,31 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere"
-publishedDateTime: 2021-06-17T19:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
+publishedDateTime: 2021-06-17T19:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
 type: article
-quality: 26
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -79,6 +83,6 @@ related:
         height: 457
         isCached: true
 
-secured: "rZnBC/mkPQhFZD2R5xULyCmgKry897Pa8bsYpstDc/9/m6vV4jMns9Gr6o1YORsz31KxGsxux8WIKv74FgDh3WNh9hja+2OQ0g0hTfMI560D3WlqTZ9z4g/TKbd6nS/OiBgaCNAkW34sj8Q6nBGRRosYS1pjz0zUoDYZalOWn0MsQ/4EyV6MSEyN8pEV9qqu32HYIYSyNGYTK6R0zbnqPT0z6zix0d7HcIsya6bjutMLMAJBiWVJ4DhhmvVXfT7fMR3g2mm8vCjKt2gINpQLb3IIzTqJA26SnN+VJ4A+31ff+yHnpRMuLx3SRmJJ/R4oIz32Ha1fiBglRf5usTh11SS83iEgbZwqGd19GdosI4U=;wkuPqs7LrlGdMBOOuaUQ5g=="
+secured: "59yD0iHR9n2+NaTC5KPk0D+FPAJTs3u9UklGANpfBr5MDWqpqw1oupX852qZOHwxFww0bWecw0p1hJlIOVdk4kARocxleGM7eZIbIBmJUueght2zJc2EkRobemjQaL2Stffdt0mJ9kDiFXJGNE0EyoY5/r4HPy4astlR3c7eePco3b0fi3SMg/yoffEOhVqUul+kbNDqXV75Peb9xMS3zEedsSabTLXxvxgMlmidMDDTknrfZky9ayZjWI3Q2QVjXym25VgJ1POmFLnj75JZ/sLVqKdAC8WIZUr/Qq57ZdOSEtSd6rNOdJZm/HSn72QKNPDqjYqq0gxXDsyZrD7wMgiO7ElLQfRhUOy6stpH+OU=;EY1NiSrPwAakv6/mlyjfow=="
 ---
 

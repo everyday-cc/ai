@@ -164,6 +164,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
+    publishedDateTime: 2021-06-16T17:35:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Waymo Pushes Toward More Staffing, Self-Driving Tech With New Funding"
     excerpt: "Google's Waymo has now announced new funding to pay for more self-driving car technology and staff. In fact, according to recent reports, it's received"
     publishedDateTime: 2021-06-17T22:10:00Z
@@ -261,17 +277,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-    publishedDateTime: 2021-06-17T07:48:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article252157813.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article252157813.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article252157813.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 39
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-16T16:36:00Z

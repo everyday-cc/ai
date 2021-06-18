@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-06-ai-driven-soldier-technology-soc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-driven-soldier-technology-society.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI-driven soldier technology wins praise from engineering society"
-    excerpt: "The Institute of Electrical and Electronics Engineers Communications Society recognized an Army researcher and collaborators their work on artificially intelligent techniques that will enhance Soldiers' situational awareness in the multi-domain operating environment."
-    publishedDateTime: 2021-06-14T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uarl-ast061421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/267849_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "YzvgqpuT8FY8kiFrv+b5I+KjsCyqfE6/GfPHTMGz0I/nI8po5PNGbfe+LJQ4Z7aONHt74fNMdcDwVzFc9AoOoHgqPzBvtjmf5Xo7nf0PXUSvPjQksRz4ZlT8dEpICmvqb/9QsX27jgOmt5evd/mgOwx/LdJ+vX2AWg5gwKEHJsDAZJXVsWqAbvlMWYUJLt+doIT1E8x2YwhpI2mb7Qbpd4DN5TLtLxy5wr7qIDGJpBBeFdAABIvLSp/cxzp+ovAiIb4NqqH7VfGydC4/jnlF+BI+eezZ2bKVr1RCDj8Gw7USXJF3EoZBWFpEJQ2W5ARbI4Xv59gTNPF12JzQjzNVE+B9lI/5dC7siIZRP0rEPQDp0Jsw8WCkG/KJ77gZwtkAUqteLbWJMUA7itBgxlyCfmZx8AqWh+Ccg9B4fQzCdyHoDql+q93wGf0Cbh7hRy/j4WBBl7k/RzSVC/I49yeEyP07B5EJ2f4xxmU/zI0llpqHuHLdzk/+D6HJAsaVZZALlV3kLsflTgkSNeyOOLrdgg==;/3eqTlg/+tEd4HhCTB//gQ=="
 ---
