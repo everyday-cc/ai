@@ -47,6 +47,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Making The Generic AI Trend Work For Your Business"
+    excerpt: "Generic AI might look great in the lab and in the demos we see online, but in the real world, problem-specific models are what we need to achieve high accuracy and precision — and, therefore, effectiveness — with AI."
+    publishedDateTime: 2021-06-18T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "9+fnM0p0ARyUiZST7kazhQqx7v/khXKV0WSD5y3JLQoBtI1/CEe7D6EfXqA7gQX5bWUrm9QTGQhKRyyRlRQHaATW6UgqhcID/jpVbgkbzN3yMuWWQWGbL6Q8o3zCiltNXiECHJBE1qlvVi+RxXx79PPp6wuS5CTt+3KUkfOMv2yEv798FAMfvcC4avYIo5DbLKS8IqSlaBcwlQCHe+7qKnIYBCz3dLwcpF7In/iesi5zhPpKeKMN4dDG2o/j+14LXXwpeSjFy+4cYgrBZHHSRpqc+mx0qKGM/y5Vf3p6lgrLpI9mzC76zgEfwTekF+nP0IxtIGgpk4UxWK98S50Cohj/cgTtQb6+dNPoZUCtheo7acUecgZ93SAT/NdG2bDpHvvwIf5013YyiPf8VRtkx/3G9R7I8N5cReLFp+tbu+FQ8pPYrIFLPvKk1PL+svo8fEb6wouS1baamOYbpBJNkWd2B0vJ8MjvLGrDpTFYFmyqgHIYpKejCq4fWAwl/WbF0xauSMQbxsC6KpxgGVg01w==;D2sTmcl3QgbI8cUZtA2Drw=="
 ---

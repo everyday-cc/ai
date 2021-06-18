@@ -54,6 +54,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price"
+    excerpt: "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors."
+    publishedDateTime: 2021-06-18T11:32:00Z
+    webUrl: "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
+    ampWebUrl: "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://technode.com/wp-content/uploads/2021/06/image001-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
     excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
     publishedDateTime: 2021-06-17T10:34:00Z
@@ -134,6 +150,6 @@ related:
       domain: nasdaq.com
     quality: 24
 
-secured: "VsR3s/xUDqB57/n+/kqbI+tlj3P20FJK/WuQ6O6E8eNG3GbrWWZnPcEwzEokSmssmR216EcuHNBAQWh0Pw1YBr3+trKX936hQIpvYJSrzImDrRVLEwx8VZ9d3KmV1lFXoA//ACnFR/dr9hCqo2O0liKjz9sZABM21SaLiuXFzs12j7MWSp61qGgd1NeQkym7wO82zlgyGsFOlUj/j0RWkLMXCh//ZrX8fVzusWk8i/MIzfxL3VXElSOlWSlteiiU/Cd1MdM9fu+NmPn9RWXTftMviaBhDdXuERZO5QN3J/1SJdbh+JKDTwc/d+kPcARH6xlFH5RKiO8QhcnBcUZ5yT43nG3oLHgJiWZvIiaBK94=;KTdZM5F7L88Adi8WwZSSeg=="
+secured: "q3OYotUleYWd7AtP64NiJOlFcBNgc4mVxtc65TVQbJKa4YS3Wh5e1AJboewflhL+4YYZkIhZpzOXOBau4AhJ9XwBJS897q2c5cfRw3+4x2jtq+EG74ormLFYwlvHVOO/AdXa4gzmMFuxwy8oekgmRuyXcNJWqHBUsOzxMnS2R47bpnoqXh2C3azb54+ofaSB98EQp0mRfbrJbWMqygjyRcZTt7nhm5mFmoKGiqsiJoVFgwLKatFy9Y9TSb29+Es6PLRe3Nj0eSQHcZIUx73oVmea0i8gsKDgvt6EMd5661DmALr7yj8g6fePmzyQK3f4DyPgHbgsiIjOkGZrCZGMobmOAJcFem8BmVmf2rNOBNnmDPChBpfwp/UvFEUCulmbsQjYwXbyP7f9spTopjpo5o4K1R41+w0MdBVQh1kA7XGZ2I2NBruPTV+ANcA57A6hDeeH2jXnYUIX2GkO0VzE1svHEvcVC3T+CUvbIbcywuGSoTuhGfSvLplV+pfxpW9FwbPV1jyiYsRYg2eSNZu+qA==;x5aOFDa62V9ov8+tDKaBPQ=="
 ---
 

@@ -2,53 +2,49 @@
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
 excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-publishedDateTime: 2021-06-18T06:31:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+publishedDateTime: 2021-06-18T11:47:00Z
+originalUrl: "https://www.afp.com/en/news/1316/ferrari-selects-aws-its-official-cloud-provider-power-innovation-road-and-track-202106170059331"
+webUrl: "https://www.afp.com/en/news/1316/ferrari-selects-aws-its-official-cloud-provider-power-innovation-road-and-track-202106170059331"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
-
 related:
-  - title: "Ambyint Leverages AWS to Deliver Production Optimization for Improved Profit Margins"
-    excerpt: "Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services, Inc. (AWS) to make its products available in AWS Marketplace,"
-    publishedDateTime: 2021-06-17T14:02:00Z
-    webUrl: "https://www.register-herald.com/region/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins/article_0902e5e1-a630-5415-9aba-1f59a86b701a.html"
+  - title: "Ferrari and AWS enter agreement on data"
+    excerpt: "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider, AWS s"
+    publishedDateTime: 2021-06-18T10:59:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 32
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://lh3.googleusercontent.com/GK5EIKs9aOifqgf6fF6HiQQ7zaioA5RDhyfY3W2e8FNf_fUeDUYq5-oE_OY89cxcIEJL7LaovV558PSRm7RrC3n_L3Gt7QRxKF8=s1000"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Ambyint Leverages AWS to Deliver Production Optimization for Improved Profit Margins"
-    excerpt: "Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services, Inc. (A"
-    publishedDateTime: 2021-06-17T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005106/en/Ambyint-Leverages-AWS-to-Deliver-Production-Optimization-for-Improved-Profit-Margins"
+  - title: "AWS agrees technical and commercial deal with Ferrari"
+    excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
+    publishedDateTime: 2021-06-18T09:52:00Z
+    webUrl: "https://www.telecompaper.com/news/aws-agrees-technical-and-commercial-deal-with-ferrari--1387241"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "IZE6xNy6bp2N40bBRF+GQXQjH1adLcnW1wKzM00SBlKt6dAbxMIqyQLt1ScUXLofUBtbgrzlm+Du18vvEck6VbpCZVBOnvB/1h/kS+6I8Hm648NyZyVrrwsUyO0yvIRWnrDQV4gvM/vYvYm+EqQggHors1P4hexBLcLMGVs/YTVampYQs8kHySa11UbgQTGHlnkP2o4iIGpR9mzDVRpBmLgU8RE5IGa81K0SeM7XUE9qJhAvTQexBThCKjZAAa7S6H+3EmpmDyt/AIKFzHgRrKJLNd6s3SgYt1I09XjjahLmIfwRMOI9raPJlJwzXj/QO/Nk2PJwb4Gk0yOtzzruiUyqUpyAPd6QcNt+eW7A6dlhqyumC6Y0r3+JFQL7OyLeQ+L85e3JuVcyAMsDITgXIEUGU0hC2pjNJ0acgpFpynpRImS5i827wFxOiHvpZZaWSesGxio5iww/u0gAGVdbWABd3abM0ElZxKn0G52+rzVRMW6ruzPVizBjcMPlXXfrQ+/cwP5veGWNAT9gBUndQQ==;MexAYwrKr7QElmzMQHclDQ=="
+secured: "mof7ngb9E6xIfaP/+bmLo2ulk4IboA9OWzNJCOMz+BcLUtAk0JTXSDpV2PsL7XEyR1mu+wF3ir0i9LoTHvrnSYOyqnZxtmv0CQDAklukRrR0rVoc6tNuQv/yXGOTLqQir7+zhdnkNvFFMHYzgJ95tw93WS0+GnVVUmXH6zn8tPTGZXMYwm4FDXoYSZFIlVHABTgLlbMOjUMmiiVZU3FfPU04LJJ/4sz2evxwrjxHV3bbIpjRI4sqd1WeOmsnph0tJ04mYP2Wrao4g+1Qvx1aqSCAVuqbt6rTcyUYT1zYAdy+e2uZFnrfUy8iodpgKBFUDdID4BOxUK3IZjSmAg4GYqgO2wmQvI/f16QNSEx24RMutn/sD2+dAyGGMQPzu5s0p4hHF3lDra1HACwNOTqi+Hpa70y9Ym6mH0wQJYU7PfxPwi5On/oABfqnLI6f5MDqGNwHaxZ8lxsbOflUcZ+itzzqVoIR71zZ7iLxf7R27BDEo/NLuZaZpg9MCW9Uj3LTe8YBdHCky2eUZ6Hjr1L0DQ==;ktDyNmYGToYFmCTQzoAC+Q=="
 ---
 

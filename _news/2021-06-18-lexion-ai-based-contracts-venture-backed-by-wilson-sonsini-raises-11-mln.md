@@ -2,9 +2,9 @@
 category: news
 title: "Lexion, AI-based contracts venture backed by Wilson Sonsini, raises $11 mln"
 excerpt: "Lexion, an artificial intelligence-powered contract management startup aimed at in-house legal teams at mid-market companies, said Thursday that it secured $11 million in a Series A funding round."
-publishedDateTime: 2021-06-17T20:28:00Z
-originalUrl: "https://www.reuters.com/legal/legalindustry/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-mln-2021-06-17/"
-webUrl: "https://www.reuters.com/legal/legalindustry/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-mln-2021-06-17/"
+publishedDateTime: 2021-06-18T01:28:00Z
+originalUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
+webUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
 type: article
 quality: 65
 heat: -1
@@ -112,6 +112,6 @@ related:
       domain: prnewswire.com
     quality: 4
 
-secured: "QPnQz5Dqdhmzigh8LZyjd/dQfrPHcNnlBaQkIxotLcedqu1uRnPUxqj8ZTtfOYLdYPr4gnlpVox9XxIHj7uvjpFMGuK8rEGFpexeGiqaluK1cVdkoqIlFH1iRhz52F+HpLqkjTqxDzPzkvY7G8DiptecTfPdP8H+JrorlLEjRXecqoQxGIKQ6MG4aX6LUs5C755DLJa8P6U5DpnOiMKr5sbcnyeUFPoFVV0P0VsY3N5SZa1EqsRfnsGJkCVPDE8qMLCxuYJxxybpvC1MPL2r5BlS8LTirsdRZRxla7GLVYGbAU727X6NN60Q7+hvbcfUKC9jX3CcL9eEjKBYVK9FSm+4SzFWnaJ4McOfMrC9ln0=;RStbnHX9I75Lo4Mcp54tiA=="
+secured: "52nvJ0x+O2vKM3ocUFczd/cSjvxvPXhpZFB1vFI91j2Iy+8A2YxDpUGbEf0q9YnPcanTYC9bJCmRBfUjS2r6Hw9koLdChW9VzTkdAh5aPcxWCW46tcPbj1yBZ4SDIQAWfJUWBi8DHx3Repk4JCGNlk5oyRuTbuvAjzpqLpp/W/IDtm16FYsf9rqEB/YvTrjLYVvT5PEEiNArUAxQPXMd9KATQeSciHYqiYAyxPzA2zlLe1XOI4vejkPhbe1sKI9E7owHkWqSewn6rFSdN4EJtsr+KdgCTPfF5dC1ebPfhAVQ0J6zxB8KYN848s0zWla8YmI+yQMReVTPiw8pravPbXCS0cfEXIswSjwWw5RRx9E=;+Qu3NHT6tDia7lDs+4VREw=="
 ---
 

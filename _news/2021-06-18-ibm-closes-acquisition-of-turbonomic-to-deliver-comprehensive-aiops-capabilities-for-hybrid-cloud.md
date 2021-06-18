@@ -1,18 +1,22 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Acquisition builds on IBM's growing investment in its ecosystem partners including Cisco to help customers accelerate their journey to hybrid cloud and AI ARMONK, N.Y., June 17, 2021 /PRNewswire/ -- IBM (NYSE: IBM) today announced the closing of its acquisition of Turbonomic,"
-publishedDateTime: 2021-06-18T09:44:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192295&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192295&cat=PR News Wire"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
+publishedDateTime: 2021-06-17T19:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
 type: article
-quality: 26
-heat: 26
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -54,6 +58,6 @@ related:
         height: 457
         isCached: true
 
-secured: "s6iAi9Le3diKFhDi6xmVOwanBoPyA0D2ahfC4n9QXPYBBDWbEmIrDNo1J1ukq+3KsYSAu8CIZfXyN4JVaxPRXUJGU9jcW7GkAM1geqHH7G3uYbASCSEA5+l1G+69XXGfv6yphlC4vwN3SJoLjFpcRKtr9AnMQPcoywvjvlFluDjknUEo/HOPXqMB9/xZu5sSwg6IkAfzDUAWs60szpxYgctN4v/YETSqdWBEigljb8hiuKImKbcWAyvfl4QYDJbODYSXoM+qBhT1od7pAG2EidkFWyTCsdG1nJsDnrjLJZpF/zViWVelGkljtU3YayrlWrFsSXrboQvT9/lZmDQ1/8q3pLfxiT//1vGn5PkabXg=;BSmBxRhGzuj1gmZHnpCXsg=="
+secured: "IBItDoEeiLfq2qJlCBkOz4YvXUexo8iWE/PO3elRHWWBBaPPGMb1JaOTk6PHS/X9qxlTlR8M8WXzgOIyWXj99/MkHvMuwKGVDIE2MjJ6Fzxl58mYpbIpWzKRF/0sSGZVLl/cHVWFewfNfYHem4FUifAvZyAYp6kdlpr+Er+UrQ5jAr91GsS5VkSSe5fPKY9auFVQCPolLz7REm7AH/jySvNnBnwAw5ghnVoFoPDBF/6+S2oL1A6YbwShwC1ahGYSm9cQPqA1unBIkdPAq2kuqK3V6rm1kG5OqFKRZfWjRz1J1gyZL01HQjuNm7XE6cvUJYZBTL58QI8egkho0pyQo5DVzvtbxayHEd3cwQKqz/0=;lCbYusQ2Eoxww5ZNNVCikw=="
 ---
 

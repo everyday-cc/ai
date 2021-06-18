@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-18-uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public.md",
-      "title": "UK’s ICO warns over ‘big data’ surveillance threat of live facial recognition in public",
-      "excerpt": "The UK’s chief data protection regulator has warned over reckless and inappropriate use of live facial recognition (LFR) in public places. Publishing an opinion today on the use of this biometric surveillance in public — to set out what is dubbed as the “rules of",
+      "path": "_news/2021-06-18-ico-use-of-facial-recognition-tech-in-public-spaces-deeply-concerning.md",
+      "title": "ICO: Use of facial recognition tech in public spaces deeply concerning",
+      "excerpt": "ICO investigations found most companies using the technology tended to be \"immature\" in their approach to data protection",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/",
-      "originalUrl": "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/",
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
+      "originalUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 189,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024",
-          "width": 1024,
-          "height": 533,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570817006/itpro/2019/01/facialrecshutterstock_1160291101.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/amp/",
-      "publishedDateTime": "2021-06-18T02:26:00-07:00",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp",
+      "publishedDateTime": "2021-06-18T03:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -210,50 +210,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-democrats-reintroduce-bill-to-ban-government-use-of-facial-recognition.md",
-      "title": "Democrats reintroduce bill to ban government use of facial recognition",
-      "excerpt": "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/",
-      "originalUrl": "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/06/Facial-Recognition-and-Biometric-Technology-Moratorium-Act.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp",
-      "publishedDateTime": "2021-06-15T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-06-15-cord-raises-45m-to-automate-computer-vision-annotation-processes.md",
       "title": "Cord raises $4.5M to automate computer vision annotation processes",
       "excerpt": "Cord, a computer vision annotation automation platform, has raised an estimated $4.5 million in a seed funding round.",
@@ -314,7 +270,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 276,
       "tags": null,
       "images": [
         {
@@ -1401,6 +1357,49 @@
         "AI",
         "Computer Vision",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-cities-are-weighing-the-dangers-and-benefits-of-facial-recognition.md",
+      "title": "Cities Are Weighing The Dangers And Benefits Of Facial Recognition",
+      "excerpt": "King County, Wash., banned the use of facial recognition by county agencies like law enforcement, following cities such as San Francisco. In most of the U.S., activists are finding bans a tough sell.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kuow.org/stories/cities-are-weighing-the-dangers-and-benefits-of-facial-recognition",
+      "originalUrl": "https://www.kuow.org/stories/cities-are-weighing-the-dangers-and-benefits-of-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kuow-prod.imgix.net/store/48a3e099e3a28e297f37554252d04e90.png?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402",
+          "width": 402,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUOW",
+        "domain": "kuow.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2307901/theum-now-available-in-the-micros
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
+    excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-18T11:13:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 71
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
+        width: 1080
+        height: 568
         isCached: true
   - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
     excerpt: "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and quantitative data from industrial inspection imagery, today"

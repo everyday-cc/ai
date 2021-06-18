@@ -43,6 +43,22 @@ related:
         width: 3065
         height: 2043
         isCached: true
+  - title: "UK Organizations Warned Over Live Facial Recognition"
+    excerpt: "In a formal opinion, Elizabeth Denham says that the use of live facial recognition (LFR) can't be justified for reasons of efficiency or cost reduction alone."
+    publishedDateTime: 2021-06-18T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cc78348718ed535bc99e6c%2F0x0.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
     excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
     publishedDateTime: 2021-06-14T18:13:00Z
@@ -57,20 +73,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
-    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-    publishedDateTime: 2021-06-17T23:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial Recognition Bill Gets Initial Approval in Maine"
     excerpt: "A proposal for Maine to require statewide regulations on the use of facial recognition by police and other agencies has cleared its first hurdle in the Legislature."
     publishedDateTime: 2021-06-16T16:32:00Z
@@ -80,6 +82,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Information commissioner sets out facial recognition rules"
+    excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
+    publishedDateTime: 2021-06-18T10:51:00Z
+    webUrl: "https://www.research-live.com/article/news/information-commissioner-sets-out-facial-recognition-rules/id/5085192"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
     excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
     publishedDateTime: 2021-06-16T02:25:00Z
@@ -169,6 +187,20 @@ related:
       name: WTOP News
       domain: wtop.com
     quality: 39
+  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
+    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
+    publishedDateTime: 2021-06-18T11:01:00Z
+    webUrl: "https://www.bloombergquint.com/onweb/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
     excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
     publishedDateTime: 2021-06-16T16:05:00Z

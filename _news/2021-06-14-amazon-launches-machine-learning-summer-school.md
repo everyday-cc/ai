@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon India introduces machine learning summer school"
-    excerpt: "Bengaluru: Amazon India on Sunday announced the launch of ML Summer School which will provide an integrated learning experience for students to gain applied Machine Learning (ML) skills. A batch of students from select tech campuses in India will be presented with the opportunity to engage through virtual classroom tutorials followed by interactive Q&A sessions with scientists at Amazon."
-    publishedDateTime: 2021-06-13T18:08:00Z
-    webUrl: "https://www.freepressjournal.in/technology/amazon-india-introduces-machine-learning-summer-school"
-    ampWebUrl: "https://m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/amazon-india-introduces-machine-learning-summer-school/529490d5-e668-4db7-8070-8bcad2437daa"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-06/e0efca79-0c15-4d62-8a00-ff7d0786bb87/amazon.jpg"
-        width: 760
-        height: 426
-        isCached: true
   - title: "Amazon India announces machine learning Summer School for engineering students"
     excerpt: "The programme is opened to engineering students in their pre-final/final year of Bachelors, Masters or PhD studies across select tech campuses in 2021.Amazon said the students will get access to the A"
     publishedDateTime: 2021-06-13T20:29:00Z

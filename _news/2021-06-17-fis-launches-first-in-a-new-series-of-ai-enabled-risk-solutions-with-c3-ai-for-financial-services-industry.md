@@ -1,22 +1,28 @@
 ---
 category: news
 title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
-excerpt: "Financial technology leader FIS® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to"
-publishedDateTime: 2021-06-17T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
-webUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
+excerpt: "Financial technology leader FIS® today announced the first in a new series of solutions developed in partnership with C3 AI to help capital markets firms tap into the power of their organizational data to increase efficiency and better"
+publishedDateTime: 2021-06-17T12:08:00Z
+originalUrl: "https://www.lelezard.com/en/news-19861643.html"
+webUrl: "https://www.lelezard.com/en/news-19861643.html"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Six major corporations create Spain's first industrial consortium for Artificial Intelligence"
@@ -36,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uiS5JsID7RDlQzoFFYIic3IeCUxQH9hyaKdfV7grtXrRM6Pf1JCg7ONClGB8ZC7WibnRF8aFkDVLK4LIkF7vY1gUWRQTGDQv+KEaABk79qToJ42wV/WHxGOuQkY+0UMeSOYahim8onkB3UccZQzhSp/NgJQiPkN++tM3Bz/dWAV1xRq6xcCL3dYa3YB7yDNOfJkg47f1X1aig8vWp/mBLf2wahgegz/Rzt3psBKfmU9aozf+/JLGXZUYwmaqhoaw6uPbuoak0G8OmTtlmO+He8Ef+a8CqURJpNQekDzGn2NEQ0FuE8k9FF0ktZQkdyuhD/BRpyDo1k704Ig4L8WUleSpaD5DH7iuvS9U7sb4lUI=;qwCGDKhC+r944a7SxGSKqw=="
+secured: "rXlbhV3dA0uAyBvvCyhcNDrC6XBdlTPrsAG5Vi4I8zEZjPeziSmOOEt3K6leyQFpBnk3sAHvR8xTE5sUk3yP7QLnheQdqGDz/HuZhup2pOmy+wv9l8ePJl9kkR4fbVOM3fY+Ez2pTxKbsDMnfAHEpBHL2ztxAByXo0s8F3t9tF6aJ4cmFyXlHIfPBQNDDKJLnnuP7eNK/h6wSyFBgUbq4xlX8yN1SHRcGm4dAVT8ObqDIBKVHkLWmYSV3nZuzEDkwMcOZ6bJbNHsrI5epsmgnxBs72WBpVl12CT5ZVNGxSnv9PSGI2umsuOeYnZ64J0qORTiAAK/oRUEgr4BdIITbagx10aG4Or6gs/jYjPs/7A=;nx69dEPWu1VqK+dVmYY4ew=="
 ---
 

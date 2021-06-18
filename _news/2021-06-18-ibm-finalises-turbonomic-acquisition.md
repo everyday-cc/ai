@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Acquisition builds on IBM's growing investment in its ecosystem partners including Cisco to help customers accelerate their journey to hybrid cloud and AI ARMONK, N.Y., June 17, 2021 /PRNewswire/ -- IBM (NYSE: IBM) today announced the closing of its acquisition of Turbonomic,"
-    publishedDateTime: 2021-06-18T09:44:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192295&cat=PR News Wire"
+    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
+    publishedDateTime: 2021-06-17T19:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 26
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400

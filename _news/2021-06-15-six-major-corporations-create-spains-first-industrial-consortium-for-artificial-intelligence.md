@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
-    excerpt: "Financial technology leader FIS® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to"
-    publishedDateTime: 2021-06-17T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
+    excerpt: "Financial technology leader FIS® today announced the first in a new series of solutions developed in partnership with C3 AI to help capital markets firms tap into the power of their organizational data to increase efficiency and better"
+    publishedDateTime: 2021-06-17T12:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19861643.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "hb2gAbP/xDeWTaoqQYMB3sFQgU9vSddA2JYVw1QrDn3f8gKIXVR6gIeGAd5YdXOlwVqRswh9QBTGAqZOfLy2wgUHTQ8aVqkfQFKGSIpz+g8dMIvSurjoh4I97xQr6qoJB0G8+QZEbxYFpDGFqxY9EGCeCHj1UThq43rI+V6jBhDVlJgbnMWdQtR4TQQKg/gcUKq0Wk7fPPTgCSTzorvgswk+kGArS+8/LXi+8DrnloNpQVE1jaVEw0FuYTY30pFxToaL3z4A9DNykH5OtlEH3q6L28pb50PlvgWyRJQVwsOP56clOJb4CPEOx5LTh/24i2s9gS+nHhHnL4EQp1pAYVLr24/K12GQX/vSxP27/+o=;HTNr/qy1ckc2RSObVRUBAg=="
 ---

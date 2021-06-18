@@ -1,29 +1,29 @@
 ---
 category: news
 title: "CogStack wins an Artificial Intelligence in Health and Care Award"
-excerpt: "CogStack wins an Artificial Intelligence in Health and Care Award. Cogstack is an information retrieval, extraction and natural language processing platform develope"
-publishedDateTime: 2021-06-16T12:29:00Z
-originalUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
-webUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
+excerpt: "Cogstack is an information retrieval, extraction and natural language processing platform developed by researchers at the NIHR Maudsley BRC and"
+publishedDateTime: 2021-06-16T11:32:00Z
+originalUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
+webUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: kcl.ac.uk
-  domain: kcl.ac.uk
+  name: Armed robbery in Revesby
+  domain: miragenews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.kcl.ac.uk/image-library/ioppn-news/scientist-with-laptop-clipboard-and-display-of-human-anatomy.x2b64218b.jpg?w=808&h=440&crop=780,440,14,0&f=webp"
-    width: 780
-    height: 440
+  - url: "https://www.wur.nl/upload/96c44d4f-7bfb-432d-9a3f-69b0d9ac34d3_cisgene-aardappelen-Jack-Vossen.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
-secured: "a7/zllDYb1xFwjzKnvnx7f5YKIK8HdpmQ3W0iEHVf1jHMuYWzOOdi8LdPTR3OMRHS0+szcDxzccu9WVZRpD9kYaJiAB9hDs405Usl9HjyyscBhHybgjgileMEvTiE5Gk+xvoQCl0i3cGq3ACxUfaXMoRpYN77Ai8xmfbplsSW6BZ7HQSWEt546rWXObJ5ltz34cRSR6bMdsqB9ogRoFOk3pJnWpsPjPhH+4oRIAEXEnsDSigiZ2KG4MJfVEwENSGjAN3uHLrrhNTRzgjyxslHgsXK+pkCm0PIi1vZzXmz4mal2WR6DfFsNyCx4pPdCR7+1xbvBwtu8GzwGIg0mf7omny1SRfajz+OeXE9sOfZdk=;iuO5I9PvoZniyrGXC2TRaA=="
+secured: "fYhGtHHODN288n73K1wYC/at/V+9bzckWQ38r8x5Gyq18AVIDWes+rL6SycXaaKo73nZxNRX4z48Z4ajALx50tPo/EGsKyWbRWlm+f2o+aWxsdGWvwhaVO881Xumusw9vf+mEexFAT+kivciFB5bQdvePbv08LwbxMv+aSwC+x72c7OuzSyxW8x91B8YoKfhh6j3MDQ2NUrXpgqNqkwIitWQsRh8NuOrjvypGJgL6m2lzkjgAjPzYt+FZ9blMZt/k/I4eLVAnf3xWK5yIJOODY8R/VuFeMo1eWtjuHbWcQJ85kDk2sRWEFkaiZSPUT43H5i8felUiPPysSkTAcQsMzDHWzSl9/90rKdljy/BPQs=;384SRjPmYutkpPFUbK5i8Q=="
 ---
 

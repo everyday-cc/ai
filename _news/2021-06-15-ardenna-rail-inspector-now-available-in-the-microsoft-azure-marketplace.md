@@ -57,6 +57,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
+    excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-18T11:13:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 71
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
+        width: 1080
+        height: 568
+        isCached: true
   - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Tigera’s Calico Cloud to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2021-06-16T16:00:00Z

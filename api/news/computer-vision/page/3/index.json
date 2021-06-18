@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-26-autonomous-imager-for-smartphones-home-appliances-and-automobiles.md",
-      "title": "Autonomous imager for smartphones, home appliances and automobiles",
-      "excerpt": "According to CEA-Leti it is the first smart image sensor jointly featuring auto-exposure for all lighting conditions and 88dB dynamic range, as well as motion detection and feature extraction for event-based functioning, and AI-based object recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/autonomous-imager-for-smartphones-home-appliances-and-automobiles/237501/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/autonomous-imager-for-smartphones-home-appliances-and-automobiles/237501/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/237501/cealti.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-neural-network-knows-when-cat-wants-to-go-outside.md",
       "title": "Neural Network Knows When Cat Wants To Go Outside",
       "excerpt": "A Python script regularly captures images and passes them to a TensorFlow neural network for object recognition. The TensorFlow network returns object type and positions to the Python script.",
@@ -1352,6 +1309,40 @@
       "provider": {
         "name": "Marketing Dive",
         "domain": "marketingdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-software-engineer-ai-computer-vision.md",
+      "title": "Software Engineer (AI Computer Vision)",
+      "excerpt": "Develop AI computer vision modules for machine automation and visual inspection Develop software GUI using C#/C++ Assist in Research & Development of image processing using cloud computing (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "originalUrl": "https://tweakers.net/carriere/it-banen/251998/software-engineer-ai-computer-vision-maastricht-en-hr-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tweakers",
+        "domain": "tweakers.net",
         "images": null,
         "publishers": null,
         "authors": null

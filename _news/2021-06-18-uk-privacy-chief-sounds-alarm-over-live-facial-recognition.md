@@ -2,30 +2,26 @@
 category: news
 title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
 excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-publishedDateTime: 2021-06-17T23:01:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
-webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+publishedDateTime: 2021-06-18T11:01:00Z
+originalUrl: "https://www.bloombergquint.com/onweb/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+webUrl: "https://www.bloombergquint.com/onweb/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +40,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
         width: 3065
         height: 2043
+        isCached: true
+  - title: "UK Organizations Warned Over Live Facial Recognition"
+    excerpt: "In a formal opinion, Elizabeth Denham says that the use of live facial recognition (LFR) can't be justified for reasons of efficiency or cost reduction alone."
+    publishedDateTime: 2021-06-18T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cc78348718ed535bc99e6c%2F0x0.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
     excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
@@ -68,6 +80,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Information commissioner sets out facial recognition rules"
+    excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
+    publishedDateTime: 2021-06-18T10:51:00Z
+    webUrl: "https://www.research-live.com/article/news/information-commissioner-sets-out-facial-recognition-rules/id/5085192"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
     excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
     publishedDateTime: 2021-06-16T02:25:00Z
@@ -236,6 +264,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "RSNtEyFqn5rKZIwVY+N/Vy0n5BDaHVAwtPnwogjYvbFBGkExCY3REcEeX7pAzGfwTYW1tKA8XS7Xj3779NLSHDmYwNp3SU4RkRBNgVMPkqa785Se0X3p/hHYbdNF9JgKMnoj5SNX35Wl6klcdqRz1NogvYfOA8bPqqHwm5YIf5LCo8ybK57+6N81aJCSjbNGvgfvltPvZt+IByDFKJC2pO8Ta4AN4mxfEPrSj0UXpwF7KIaeanVrbTnHw14Xa4Kp9ghWPCm38P14Bb7TURTWxAT3VLNr2pBrQHc1pEyi/edeJgmsMZ4nabiG4nTLGj+/T0i/dKzOK0Vobq7oaOD7mCC0Q97jGoXDgCSPPquEGh4=;bI6xcBrR/nv+0bAuwDgKNg=="
+secured: "CGmABy2FSG33gbdLbId0Y0YoPFo4jPQJzJnKzcTF6flq9V4YhLD6JkiQKdTkdgj6KValWyHN1ebYcLpflKujNekM0vQSIQ7Q13HLhFGo/rT8C/uA6B6kYt7ywvXmicxTfssHFYAmvdj+OXZsTzUmrX4FUu622Itrzi6lsuGPdHjI2iASBxhxCCJF/8VcG2OCzfkbi5l1HVozhLmFS1/8UhtXd9aZhtdiFNBHrEutQ8P6BHTK+F0y2zz4X1a1+MtfdmOaK7lRUX4WBjYDkxGKieWeml027aiVeCnW8LWhwPWhkhg841RJ7fYbqizQAazW47XLLFsx5WK9fwzpjc5nyvM2RW8IWGxcdv5X0yVURfE=;fAMpmkH278K0Z8ZmPCAsqA=="
 ---
 

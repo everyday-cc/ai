@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/asset-management/united-fintech-annou
 webUrl: "https://financialit.net/news/asset-management/united-fintech-announces-advisory-board-world-class-experts"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
+    excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
+    publishedDateTime: 2021-06-18T10:02:00Z
+    webUrl: "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "United Fintech has six experts in its Advisory Board"
     excerpt: "United Fintech has just announced its Advisory Board with six appointments of experts who will play a significant role in the global expansion of the firm. The new members of the"
     publishedDateTime: 2021-06-15T09:37:00Z

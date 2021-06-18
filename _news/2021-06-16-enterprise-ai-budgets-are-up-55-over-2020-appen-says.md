@@ -40,7 +40,7 @@ related:
     provider:
       name: IOL News
       domain: iol.co.za
-    quality: 59
+    quality: 61
     images:
       - url: "https://image-prod.iol.co.za/resize/650x366/Photo-File?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e&operation=CROP&offset=53x0&resize=951x535"
         width: 650

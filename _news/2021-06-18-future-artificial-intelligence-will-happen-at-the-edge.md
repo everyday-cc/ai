@@ -8,7 +8,7 @@ webUrl: "https://www.iol.co.za/business-report/opinion/future-artificial-intelli
 ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736"
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://image-prod.iol.co.za/resize/650x366/Photo-File?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e&operation=CROP&offset=53x0&resize=951x535"
@@ -67,6 +68,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "XZA3YbMPnaaUpZaymPHCosa/Evz/1Io/w9Uh6T7fMDNfmXsEecLMEflDpEGgo3Cds0NB1TMmEAZcgMMDq3kvET5a12ZFbdoAacylBSTxE216e9NIHN7IJSxxrhi0+XaGnBkGkmEtjH0e4pqk3HtOkIgUobXFDiy7OFTyqzi9ZHDsLALvsbqto27jHdSxlaSHRY8Tn+0JTxxo4be9FZAVmNMYLJU226JgSEWhBOaFlaXcmKgsCA5sEHwaPQw6X4TlhWsoDSPWQaVfrTs0jAv/4AxJPkAbi/rz/PhBSKApR/10ZEvwCrw3oqd5ORX+oKVXn0htQwci1VXrm6LAM6aeZPXXUlH4+k+l5+9HrXZVtOY=;weV7V6Ul1PTkSPdGsaPENA=="
+secured: "gdpEmvmqHlPnkRyRNvXTa+Yw8urY9sm3bLLA4Yn0zklT8qlz1bLNBoBQ9FFiFYFy+sSIpEjyzPbfhKUtWLGi0cDgPHCYRE4ORP1MRl6cprrwfrj02qY6mZVzMx+dDGOYqBDUy8pkPrdLvE0F0W2iK74S+OCqgGtI+TZONNf7AMnNRQot+zXAYm+bet4BX3X5G9HcgzCpFvuQC2uxUxfLlmyN9xAcV7DKvVX5BLcLahaHKYr2+3Vrk/cMHaMOJXC6QVvD3TzmLtM6qHp8OWzSgo00m/WQjAH6UIv0wKRIh5ZZQqUEKRzR9s4KEf5nIUFtHu6yQaWb5JvzPAPLSwPlkcWvuMUXzo3dcu4GUyetu0Vh7Mh/Q/ESM+k7SR7hIhAfG4pqbGKcDwMdhOkMBixxdQIHZABDEnFERpRB2VeXEJqflmSjhB3uC5NDDo5oYMqJCiZCDWjeYMMLGXHJSPMrqVdCNbIqcIBYr14YswKPyzVxolOKbALkP6cRmUkq/Ytwk/cxre2TNhmu7qQsyoV/8A==;CmnwjH+4Om8U5WZaqg4BoQ=="
 ---
 
