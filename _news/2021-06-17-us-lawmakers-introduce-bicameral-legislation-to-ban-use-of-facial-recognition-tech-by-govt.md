@@ -262,6 +262,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
+    excerpt: "Canada's Office of the Privacy Commissioner has cited the Royal Canadian Mounted Police for illegally using facial recognition software from Clearview AI."
+    publishedDateTime: 2021-06-18T18:36:00Z
+    webUrl: "https://cacm.acm.org/news/253401-canadian-regulators-seek-policy-amendments-for-facial-recognition/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "wSsG3Nxdja6fbXEOadsT9NZhfnG8La3J/PclHaXYMqNl8Zq9TpgN4EHEyVYp+sdtFpElIGkW8l7q4hDsiA+WQ+m0zgOiFniC+VCUh2nKNiKWs/jQpNNlUl/Ta+hXwwBLTuzlLj/oErSC1o119YGbRSI6vcz5/fCIwlsFkrH6/qWF2vpcfnG79rnZrs1JJsxJ3YzUlOS0y4+Ec1JIrLQ2Cz/k/BHbe4CNokJsc+wEA1QlR1cZyWNF7b6HAjpzgPZh2O5XZfifLFPcdpAn1uNIYzi5wE5CzuFSxk8WDxL5zb8lul4MCZymjcNbrlmlnwG9iV5bE5h/qwN+6DifKYH9Dj/riJ3jimT8Htf8WzpaSXBZtdSsX2yntY+YPt2rlp1ivAHNPzOS74Pw23/74UNEKR/wV7gvwIq52Tz3Aq1yKJRNQ4kcufdn/EswBRt0CUkUzWytpzzfC/cDwIGfdzITgS8VVRaULiVhhsNi7sajDPxzFFe0N5wvqu37TGxzTI3LWruRBOBnA8x8JqzZLpqlPw==;zhe4xyh1PQOjWhBO7Ae6ng=="
 ---

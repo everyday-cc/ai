@@ -3,8 +3,8 @@ category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
 excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
 publishedDateTime: 2021-06-17T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
 type: article
 quality: 9
 heat: 9
@@ -29,6 +29,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "MTqTnxnxZo+YqEnqH5H76gFQJmqEURIj1Qo8VKhUzeWn2Rs3a/f+FLsD6GDF37xKnXf6AZwGGpyL2byRyxWlxoOdpWCuOwizym9h1v1VxDkNLBRTOgqEKZc1/36UqNU1Xi+RQ3pOLQLWOWCSPybNyd4/ITcyh9SnkS38OR/DmIH57qB0ds8LF/9i91ZDiJGl7uZw8LNwoOKIsrwl/Y7Q6/uvOpa4tDykHLO1dYkvhJoGOHEFez6fWpx6JH9a+gH1p7dK8s/q9cqbx0QBOwVvychqFGRLur5t5Qof2m2UbifQ0z5tl4vAMDqYjTwj1YkCqC9WgbkWQsv/75KfIvKytL5HwmKepLzOUYOzd2vfZXq9ZIisKjJ1cAMQffy8fLLckdSuShzlFuCZ+khsEBeXxd1hclu9C7os3G9tiPimpbLNjhCXpvGtM9LAK8OVG9rLfsMWgH60zoislG0bw5iGWPOXkqMGEoDNaRSqnEt8/WX6dnCM6ZgYrbWfD+RUh5YbCP69D1L4gJTmy1XdZ688Nw==;JJGN3X2dbKTLe1x7Dx+chA=="
+secured: "wut9QJc/W0wFZVU1O1K8hFP6vPGvSr1R6xOgVxbxQKWGil6nLQ5PtJoPfIrVHap/2zYjQl1UoVNLt6rM5QB+nGXY6A4R/WQxNj2RdQon7478mhXe4X/j23mk7LIZ/yPU/IIH5wYYFDZaS+d/nEU0MospFXGALgsH205K1uokghslVRVI4OvHdNOv2RDGWvOANeJbdI4EUOFtyxhoFA0KbTd2F6ydElUKRf+HRvFgT8jv649cShMuWS82A0eMLXi5+C0Qxd0UNz90SsyW6WbqlPhhOSq29iC1PJEHFZVTOOhY0zzSETwilkU0kMelorBqaZUloMwCRx4sKDqCaxt5WypgXD8QE1I3s2xC+mmsvKE7qOR1rGTQKr6A4EkGhaTiupRW4YwGLZqgkyIKQCj8s6nyIvj4iYAVRg7WcP5+vT+qxWSBkYpmOZdSXT3cmdNd7OKaq/EiNqL6shNgzaB+gSP7w+ZSvOUKdfSFIDVFjCdjOVFbINk4BiCNzqJMRP5/j49kvCxjT2Aq7Mn68iGO6A==;8Tp7zJRtRLnWbv17bz/08Q=="
 ---
 

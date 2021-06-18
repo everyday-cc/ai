@@ -2,6 +2,83 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-05-30-intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs.md",
+      "title": "Intel Stock – Arm launches Cortex-X2 CPU and Mali GPU for phones and PCs",
+      "excerpt": "Arm announced details of the first Cortex-X2 CPU and Mali-G710 GPU core to drive future Arm-based smartphones and PCs in 2022. In the latter category, Arm has already made a fairly positive claim to Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_intel/intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_intel/intel-stock-arm-launches-cortex-x2-cpu-and-mali-gpu-for-phones-and-pcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T19:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-30-ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.md",
+      "title": "Ubisoft hires AI, machine learning expert to lead product technology",
+      "excerpt": "Ubisoft is forging ahead with experimental technology like machine learning, AI, blockchain and more for its upcoming projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79664_32_ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79664/ubisoft-hires-ai-machine-learning-expert-to-lead-product-technology/amp.html",
+      "publishedDateTime": "2021-05-29T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-adversarial-attacks-in-machine-learning-what-they-are-and-how-to-stop-them.md",
       "title": "Adversarial attacks in machine learning: What they are and how to stop them",
       "excerpt": "Adversarial attacks present a growing threat to commercial AI and machine learning systems. Fortunately, some solutions exist.",
@@ -1062,101 +1139,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-how-to-master-googles-ai-phone-call-features.md",
-      "title": "How to Master Google's AI Phone Call Features",
-      "excerpt": "Your Android phone can do a lot of fancy tricks, from making reservations with Duplex or screening calls. Here's how to get the most out of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/",
-      "originalUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-google-ai-phone-features-work/amp",
-      "publishedDateTime": "2021-05-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-aws-makes-amazon-redshift-ml-generally-available.md",
-      "title": "AWS makes Amazon Redshift ML generally available",
-      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
-      "originalUrl": "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg",
-          "width": 740,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

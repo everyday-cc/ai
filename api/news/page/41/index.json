@@ -2,6 +2,104 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-05-19-baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars.md",
+      "title": "Baidu Awards Contract to Hesai for Customized Lidar Sensor That Will Power Its Self-Driving Cars",
+      "excerpt": "Baidu Apollo and Shanghai-based laser guidance system developer Hesai Technology have clinched a deal in which Hesai will produce a lidar sensor tailored to Baidu’s fifth-generation driverless vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-05-19/baidu-awards-contract-to-hesai-for-customized-lidar-sensor-that-will-power-its-self-driving-cars-101715078.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-05-19/1621415590045976_560_373.jpg",
+          "width": 560,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-google-revamps-its-cloud-based-machine-learning-platform-yet-again.md",
+      "title": "Google Revamps Its Cloud-Based Machine Learning Platform Yet Again",
+      "excerpt": "With Vertex AI, Google not only unifies its AI offerings but also closes the gap with similar offerings from its key competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a4bfc594b2b134fb5ea400%2F0x0.jpg",
+          "width": 1000,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/05/19/google-revamps-its-cloud-based-machine-learning-platform-yet-again/amp/",
+      "publishedDateTime": "2021-05-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-forecast-nabs-19m-for-its-ai-based-approach-to-project-management-and-resource-planning.md",
       "title": "Forecast nabs $19M for its AI-based approach to project management and resource planning",
       "excerpt": "Project management has long been a people-led aspect of the workplace, but that has slowly been changing. Trends in automation, big data, and AI have not only ushered in a new wave of project management applications,",
@@ -1066,91 +1164,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-watch-singing-ai-blobs-rock-the-house-with-tune-yards-at-google-io.md",
-      "title": "Watch singing AI blobs rock the house with Tune-Yards at Google I/O",
-      "excerpt": "The blobs are back in town. Google opened its I/O developer conference Tuesday with a performance that felt genuinely innovative, and actually fun, from the avant-garde vocal and electronica artist Tune-Yards — and Google's own Blob Opera.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/blob-opera-tune-yards-google-io-2021/",
-      "originalUrl": "https://mashable.com/video/blob-opera-tune-yards-google-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F05%252F18%252Fc4%252Ff4dd622c59fc40d283b55abaf6d68bff.210a8.png%252F1200x630.png?signature=rBiyGXhp7f0mQHvzkz9NmuzLc7w=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/blob-opera-tune-yards-google-io-2021.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/blob-opera-tune-yards-google-io-2021.amp",
-      "publishedDateTime": "2021-05-18T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-watch-a-self-driving-taxi-got-confused-by-traffic-cones-and-drove-away-from-its-support-crew.md",
-      "title": "WATCH: A self-driving taxi got confused by traffic cones and drove away from its support crew",
-      "excerpt": "watch a self driving taxi get confused and flee from humans trying to help twice. I don't think it was supposed to do that. The vehicle operated in Arizona by autonomous driving service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487",
-      "originalUrl": "https://www.wmur.com/article/arizona-self-driving-taxi-waymo-got-confused/36466487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-657f1fb9589f9bf83cfaa9b56e5b4e77-h-2e8376100123f79a2e731d3c69bada29-1621372508.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/arizona-self-driving-taxi-waymo-got-confused/36466487",
-      "publishedDateTime": "2021-05-18T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.altfi.com/images/featured/running-a-fintech-from-india-during-a-pandemic.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "The Future Of Wall Street: Fintech 50 2021"
-    excerpt: "Stock markets trade almost entirely electronically and many of Wall Street’s most valuable companies now provide data, technology and software to the big banks, private equity firms and hedge funds th"
-    publishedDateTime: 2021-06-14T01:38:00Z
-    webUrl: "https://forbes.kz/finances/the_future_of_wall_street_fintech_50_2021/"
-    type: article
-    provider:
-      name: Forbes Kazakhstan
-      domain: forbes.kz
-    quality: 24
-    images:
-      - url: "https://static.forbes.kz/img/articles/b0b9e32faf03f7347ff463fad4fe4d4a-og.jpg"
-        width: 720
-        height: 479
         isCached: true
   - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
     excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"

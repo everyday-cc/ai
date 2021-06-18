@@ -2,6 +2,101 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-28-ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology.md",
+      "title": "AI Audio and Video Chip Market Seeking Excellent Growth | Amlogic, Rockchip, Allwinner Technology",
+      "excerpt": "The latest released AI Audio and Video Chip market research of 91 pages suggests that the industry has made modest progress in tech-driven transformation since 2017. Many organizations have yet to scale their end use applications beyond pilots and proofs-of-concept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
+      "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
+      "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
+      "originalUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/wi-fi-wifi-flat-featured-image.jpg",
+          "width": 699,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
+      "publishedDateTime": "2021-05-27T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
       "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
       "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
@@ -1124,93 +1219,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision.md",
-      "title": "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision",
-      "excerpt": "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision/article_6356fe04-d8c5-52ef-981c-c9b48d85c409.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision/article_6356fe04-d8c5-52ef-981c-c9b48d85c409.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/24/d245cb70-6d09-570b-9721-9dcc8e789f83/60af94f244881.image.jpg?resize=1000%2C563",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-gnyio-the-worlds-first-decentralized-machine-learning-platform-announces-enterprise-partnership-with-n1-supermarkets-in-switzerland.md",
-      "title": "GNY.io, the World's First Decentralized Machine Learning Platform, Announces Enterprise Partnership With N1 Supermarkets in Switzerland",
-      "excerpt": "\"By opening up this distribution powered by machine learning and combining with blockchain backed security, you achieve a trustworthy and cost efficient connection to customers that can reinforce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/gnyio-the-worlds-first-decentralized-machine-learning-platform-announces-enterprise-partnership-with-n1-supermarkets-in-switzerland-301300745.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/gnyio-the-worlds-first-decentralized-machine-learning-platform-announces-enterprise-partnership-with-n1-supermarkets-in-switzerland-301300745.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1519338/GNYio_and_N1_Supermarkets_Partnership_Logo.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

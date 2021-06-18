@@ -140,21 +140,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-17-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
+      "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
       "title": "Ethical AI will not see broad adoption by 2030, study suggests",
       "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
+      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
       "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability-e1619416261363.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -162,16 +162,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/",
-      "publishedDateTime": "2021-06-17T08:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T15:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -187,8 +187,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {

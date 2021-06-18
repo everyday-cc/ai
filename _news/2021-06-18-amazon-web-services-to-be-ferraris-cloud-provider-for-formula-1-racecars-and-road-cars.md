@@ -71,20 +71,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-    publishedDateTime: 2021-06-18T06:31:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
   - title: "AWS agrees technical and commercial deal with Ferrari"
     excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
     publishedDateTime: 2021-06-18T09:52:00Z
@@ -103,6 +89,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
+  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
+    excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+    publishedDateTime: 2021-06-18T06:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "X2HZThZoHSGkVP6U2WGmAmTawwMmJJyLr4XSwPwKXzeSR3fKyqaWi43e/Yxb+6DBnEAPmzn/b7IZBR22IFVxKiGg+qCjl9Om00trmudoDna34m2c6m+eZIgAui+fqPesPcsnWy+/rv+QfHDkfs6sonW0nfgjjIuXTBhOmzy6XyZemF7XdnuVuBDtbPjlUsGqsjedb4FIuESP7MO/QOmEY9y5UQE9RFvBLVij0OTKO13MLyqs5BkMEvKjO/Cydtt9xnxBrjPqtg9mfv8VVxV+doZRPbS7lPHAqCjukbg3FnJcXz9fnbKwHe8EY+fklrC6jHngOxZjBDkJlkNy0AKkPemdjCpjoP9iKSh4f/7gu+g=;WAUYm/L8prlWjM9GduC5Ig=="
 ---

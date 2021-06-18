@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
+    excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
+    publishedDateTime: 2021-06-18T17:40:00Z
+    webUrl: "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
     publishedDateTime: 2021-06-15T05:02:00Z

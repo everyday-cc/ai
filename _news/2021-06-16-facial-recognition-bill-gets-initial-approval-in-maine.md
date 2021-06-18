@@ -257,6 +257,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
+    excerpt: "Canada's Office of the Privacy Commissioner has cited the Royal Canadian Mounted Police for illegally using facial recognition software from Clearview AI."
+    publishedDateTime: 2021-06-18T18:36:00Z
+    webUrl: "https://cacm.acm.org/news/253401-canadian-regulators-seek-policy-amendments-for-facial-recognition/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
   - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
     excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
     publishedDateTime: 2021-06-16T18:40:00Z

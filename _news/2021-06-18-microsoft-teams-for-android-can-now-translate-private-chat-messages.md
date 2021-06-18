@@ -165,17 +165,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
     excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
     publishedDateTime: 2021-06-14T06:30:00Z
@@ -250,6 +239,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "2r6aSU1BaPy3wqq13yUNRPduFruMomzx9pDhBuN9/EfTi7x1lrkRONaALr0Bl4ECkY87sLH9vc+yoMlzgSZH1rN4vpR3K98nZkoHy36ATXoMkSPgydvBbD7R9zNTnG8tjXc5T0Cb97AQLlRd3gOiPjzO6LOThyFECjLo/qqhlNp32UoDW1MRFWCX8+2yJlxUOGvXDyBOOfww5jE9y9qC5w6youvT/C5LeX7l5Cktzl1O6C9GWm6NCyxznfeZdhkC/lJRS+VbLncWIyE0P5NYZKTjR3HoBp7hgx9/Kqf5nL3PByModDNwZgouVZlpe3qYeSiloLykBxhoS8Q48NufBZYfJNr5XKOQTuOk32ieDBI=;ARquguxr9Dnxuy0NTDhhUw=="
+secured: "npwaheMyKLlsZoEhLsnDJmhPCx0wJX6aRmzonnUt7BOxWDCquW9C34pgoxXeObAiuol4C4CnyfJ9JyIpIPFEg8CCq5orap5M5CEH0xQKT8bHjkmrHHS9uNWNe5KgzOQ9u3XOb56R94TgqeqpzCtANMEO+i/IyRiW968zNo1Q6e9qp7yopSDyYblVohLK5CLPFKmPTHNvP7v/uQqgVroxQOZEOT9o7PSEEb+bNdKfPUs3mA9K6bhhqyVvKchnMIrn0s1fk1b/5ntnONz9VqnPEEv5upDiqeKy+JN/HT154Qb3uNw1X01c8VH8lCaQirO1iy/EhP2oDoTs9Z934Gx31AIb2EzItG5xWllJUTk/fWM+hwvuaxaIzzNUaWg0ungbQ6uWxJ677jDzEsJbDhelmP/xwb4cBeDXzmGeBVb9Q87wHB8vwPSWfOhmv7XTYZK+lsOwNqMqOSvmCZfKEiwiwmy9UtXYZn2+HqxOotvomcbvFqQd/XMaVO81VhDNrnHVhAoXwUad07D0nO2gv+XryQ==;uWlQrg6VpG6HVXsMHtT3+A=="
 ---
 

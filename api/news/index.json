@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-19-this-ai-lets-you-generate-new-verses-from-your-favorite-rappers.md",
+      "title": "This AI lets you generate new verses from your favorite rappers",
+      "excerpt": "A text-to-speech tool called Uberduck lets you hear your lyrics rapped by AI versions of Biggie, Tupac, Eminem, and Jay-Z.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/uberduck-ai-turns-text-into-raps-celebrity-voices-tupac-biggie-kanye-west-text-to-speech",
+      "originalUrl": "https://thenextweb.com/news/uberduck-ai-turns-text-into-raps-celebrity-voices-tupac-biggie-kanye-west-text-to-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-8-2.jpg&signature=3c07c00aaac9888020d351fcff816649",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-tesla-rival-xpeng-gets-self-driving-parking-assist-but-it-needs-to-be-trained-for-specific-parking-spots.md",
       "title": "Tesla rival Xpeng gets self-driving parking assist, but it needs to be trained for specific parking spots",
       "excerpt": "Xpeng’s P7 is getting a software update with Valet Parking Assist as it tries to catch up with rivals like Tesla, whose autonomous summon feature has received regulatory scrutiny.",
@@ -114,7 +165,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -136,7 +187,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -751,7 +803,7 @@
       "originalUrl": "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1122,21 +1174,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700.md",
-      "title": "KeepTruckin raises $190 million to invest in AI products, double R&D team to 700",
-      "excerpt": "KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion,",
+      "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
+      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
+      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/KT-1.png?w=1024",
-          "width": 1024,
-          "height": 640,
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1144,67 +1196,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
-      "publishedDateTime": "2021-06-17T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve.md",
-      "title": "Transform 2021: Where does your enterprise stand on the AI adoption curve?",
-      "excerpt": "Transform, the world’s leading event on applied AI for enterprise business & technology decision makers, will host thousands of executives across industries to share their AI and data technology stories.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1225909162-e1619735173985.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/",
-      "publishedDateTime": "2021-06-17T13:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T15:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1220,7 +1221,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

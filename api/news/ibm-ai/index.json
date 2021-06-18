@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -32,7 +32,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -44,7 +45,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
-publishedDateTime: 2021-06-18T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
-webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+publishedDateTime: 2021-06-18T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1413
-    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -171,7 +165,16 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
-secured: "xcgeXpkGjbTgT9A6iMwM6lKz9Teuhzo/xcdrWq3i1nWEMuwg+h0xMOAb8zw1LPTrtRB7A28y0k2dZtpR8+ufQkGKpXEBno3m26m+eDxya2tw1Yej5SEr8LrKeKsTylCGGSYTQNhk3zkeYARl2pWHR1fwqZzU7Ue6fup7sQno4Nsw3FQx1o2vjkBzpSgKpyov/Uzj8OwcioI+odaB7Mta68xxn+pr7dsh9SMf4BtqADImkBos2mtUUrag14oG+4JeUB3Oz7ADxz79Vd/HkhDLLz/1lYuOTlSWE9SKKTopHxqzqzLImLofHEsPgq1vMMnXFlW0zHBUIj5KBuipadL+hP4Fm0tQRa/z4qHE3YTX27E=;C/mWMfE+AYukXflWUDKRxg=="
+secured: "FzBhfASWR6oUvFILCuR/dafSrNfNbDkBsYZsBhDQykMlAYc3yuLJbXUlofyTjbU+qLXIy67kZW4NX/+QO6N1TA6+XNvP5yWH8d3KidhHQai9iu0NKSKEaNf7yGsZBcgOyBgttzRw803MULadxip60wJMd2GZ0aDNMnz/mw/Nnz+3DdVctFV5Qnj++yAtUJHa/HRJvDS4G9b/YkZ/WswphhELQW7jy+acC7U0ZFpENWoL7ZdvytGZsr9SvxqtblVn8f7EElBKJ0k9yvg9Ks0t5vPngIMjnFRj81gMdxoDeSJCY5o8fhbzSXkpSUc1nMdlf+lSasNPFbmxMOfocoYx1A1TiQw4THywZPzKw3kSHNDxQ9LmI0X3ObwTFXMwltCVEaNfcouep2ULHhiQ5SvXqVu6Rtsanl6aG6YSSqA8SH9kozVySjOFowNiEFMMlZPT2Ge2A4ybGextjuOQ+ttSPpiasEWv1oxpugM4zW7ooyTg3BRTc+yG7nyr3TyrVk6jA4OVEOyTOwnhg+bsOUFSeQ==;lhKIsCHsY/sUwjO8j6ZKGQ=="
 ---
 

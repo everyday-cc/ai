@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "The Future Of Wall Street: Fintech 50 2021"
-    excerpt: "Stock markets trade almost entirely electronically and many of Wall Street’s most valuable companies now provide data, technology and software to the big banks, private equity firms and hedge funds th"
-    publishedDateTime: 2021-06-14T01:38:00Z
-    webUrl: "https://forbes.kz/finances/the_future_of_wall_street_fintech_50_2021/"
-    type: article
-    provider:
-      name: Forbes Kazakhstan
-      domain: forbes.kz
-    quality: 24
-    images:
-      - url: "https://static.forbes.kz/img/articles/b0b9e32faf03f7347ff463fad4fe4d4a-og.jpg"
-        width: 720
-        height: 479
-        isCached: true
   - title: "Talkdesk Financial Services Experience Cloud™ Reimagines the Banking Experience"
     excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Financial Services Experience Cloud, the industry's first enterprise-grade contact center product built for financial services."
     publishedDateTime: 2021-06-15T15:18:00Z

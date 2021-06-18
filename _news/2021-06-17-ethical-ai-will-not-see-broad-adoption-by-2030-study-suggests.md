@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-ado
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/"
 type: article
 quality: 104
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ethical AI will not see broad adoption by 2030, study suggests"
+    excerpt: "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon."
+    publishedDateTime: 2021-06-17T22:15:00Z
+    webUrl: "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 184
+    images:
+      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Is your team’s skill a barrier to AI adoption?"
     excerpt: "A 2021 survey of 3,500 respondents showed that the biggest problem companies faced with AI is a lack of skilled people made worse by unsuccessful hiring efforts. Almost 20 percent called this skills gap a significant barrier to AI adoption."
     publishedDateTime: 2021-06-14T09:30:00Z

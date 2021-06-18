@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learnin
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/"
 type: article
 quality: 55
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NIT Warangal Offers Online Course on Python for Machine Learning to Students at Rs 500"
-    excerpt: "NIT Warangal has invited applications from students and professionals for a short-term online course on Python for Machine Learning"
-    publishedDateTime: 2021-06-14T02:53:00Z
-    webUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/"
-    ampWebUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 51
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "IIIT Hyderabad Offers Online Course on Machine Learning for Engineering Students in India"
     excerpt: "IIIT Hyderabad has invited applications for an online course called Foundations of Modern Machine Learning for engineering students across the country"
     publishedDateTime: 2021-06-16T06:38:00Z

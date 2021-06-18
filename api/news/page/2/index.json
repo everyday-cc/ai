@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700.md",
+      "title": "KeepTruckin raises $190 million to invest in AI products, double R&D team to 700",
+      "excerpt": "KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/KT-1.png?w=1024",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
+      "publishedDateTime": "2021-06-17T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve.md",
+      "title": "Transform 2021: Where does your enterprise stand on the AI adoption curve?",
+      "excerpt": "Transform, the world’s leading event on applied AI for enterprise business & technology decision makers, will host thousands of executives across industries to share their AI and data technology stories.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1225909162-e1619735173985.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/",
+      "publishedDateTime": "2021-06-17T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-employees-at-a-beijing-office-have-to-smile-for-an-ai-camera-to-get-through-the-front-doors-change-the-temperature-or-print-documents.md",
       "title": "Employees at a Beijing office have to smile for an AI camera to get through the front doors, change the temperature, or print documents",
       "excerpt": "A Chinese subsidiary of digital camera giant Canon introduced the workplace management system last year to create \"a positive and lively atmosphere.\"",
@@ -260,58 +362,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-17-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
-      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
-      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability-e1619416261363.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/",
-      "publishedDateTime": "2021-06-17T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
       "title": "Last-mile, landscaping and leaping robots",
       "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
@@ -423,7 +473,7 @@
       "originalUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -1154,7 +1204,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1194,57 +1244,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
-      "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
-      "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106424520-1583341306047gmevbarra01.jpg?v=1583353549",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "publishedDateTime": "2021-06-16T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

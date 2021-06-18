@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustwor
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
 type: article
 quality: 119
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -161,20 +161,24 @@ related:
         width: 800
         height: 540
         isCached: true
-  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "Highlights FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business"
-    publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence-301315274.html"
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/450763/FICO_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1413
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+    publishedDateTime: 2021-06-18T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kq5qycUFQGiKrl7Bstb7qMwg95jxwpefnntrWS3SLiBn49GzM+2cuKV4N5SekrfXc5EWOeF5pAj6C3emhMAmW0S9DWntwNUDtqKNQyQoSMB4zgqk1ZY0jBu9kaKBpT0MnwdRNqq8GlgkH5fNUiumv7+ow4Y+sLOd9fiS8iw/PfuTKYq+LOqgd5q9E9jrzdF7HcMeUjkhKuhdn5VhvyU9URFkzuBk6zO/tGSZN/rbbtJlmbWfP5ozORCtcRpAAVak6V7GO1eBBEQSRiimoecLEsikSh2u8rZO64ZrY68GH38JKt7WJGDG2sOJ2y5FK/30gQStjtvQ9UVUmeejQJzhGRzJ98ZBWpRfKpvMqfhtLUA=;rkBXke1Mi+UyX/KiyH7oRw=="
 ---

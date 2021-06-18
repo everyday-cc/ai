@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
+      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
+      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
+      "publishedDateTime": "2021-06-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-zero-trust-networking-startup-elisity-raises-26m.md",
       "title": "Zero trust networking startup Elisity raises $26M",
       "excerpt": "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round.",
@@ -741,7 +793,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -940,7 +992,7 @@
       "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 276,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -1180,49 +1232,6 @@
         "AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-webinar-to-explore-impact-of-ai-and-analytics-on-physical-security.md",
-      "title": "Webinar to explore impact of AI and analytics on physical security",
-      "excerpt": "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/edge-devices-computing-iot-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html",
-      "publishedDateTime": "2021-06-14T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

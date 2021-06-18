@@ -2,6 +2,108 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-11-conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028.md",
+      "title": "Conversational Artificial Intelligence Market Trends, Demand and Global Industry Research Report 2020-2028",
+      "excerpt": "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
+      "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
+      "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2dded616fbd5e8a08c4c0%2F0x0.jpg",
+          "width": 915,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "publishedDateTime": "2021-06-10T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
       "excerpt": "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry.",
@@ -613,8 +715,8 @@
       "title": "Kontron Launches SMARC-fA3399 with Arm® Rockchip Processor for AI-based PoS-applications",
       "excerpt": "Kontron, a leading global provider of IoT/Embedded Computing Technology (ECT), launches the new SMARC module fA3399 with Arm® processor Rockchip RK3399K. In the benchmark of Arm®-based modules, the new Kontron module has the highest performance compared to its price.",
       "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
-      "originalUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
+      "webUrl": "https://www.newswiretoday.com/news/175579/",
+      "originalUrl": "https://www.newswiretoday.com/news/175579/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1125,92 +1227,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-c3ai-ai-partners-snowflake-for-enterprise-ai-applications.md",
-      "title": "C3.ai (AI) Partners Snowflake for Enterprise AI Applications",
-      "excerpt": "C3.ai AI recently announced a partnership with data cloud company, Snowflake SNOW. The partnership aims to integrate the latter’s unique architecture - that enables customers to run their data platforms seamlessly across multiple clouds and regions at scale - with C3 AI’s robust enterprise AI development suite and family of industry-specific enterprise AI applications and deliver next generation Enterprise AI Applications at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-partners-snowflake-for-enterprise-ai-applications-2021-06-10?amp",
-      "publishedDateTime": "2021-06-10T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
-      "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
-      "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
-      "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
-      "publishedDateTime": "2021-06-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

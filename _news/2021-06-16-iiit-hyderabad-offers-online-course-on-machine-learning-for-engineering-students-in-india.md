@@ -43,22 +43,6 @@ related:
         width: 846
         height: 358
         isCached: true
-  - title: "NIT Warangal Offers Online Course on Python for Machine Learning to Students at Rs 500"
-    excerpt: "NIT Warangal has invited applications from students and professionals for a short-term online course on Python for Machine Learning"
-    publishedDateTime: 2021-06-14T02:53:00Z
-    webUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/"
-    ampWebUrl: "https://www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-warangal-offers-online-course-python-machine-learning-students-rs-500/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 51
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "LSET is Organising a Career Counselling Webinar on Machine Learning"
     excerpt: "Empowering Future ML Professionals with a Webinar on ‘Career Opportunities in Machine Learning in the UK, US, and Europe’. A London-based educational institution, the London School of Emerging Technologies (LSET) has announced its upcoming webinar on the topic – ‘Career Opportunities in Machine Learning in the UK,"
     publishedDateTime: 2021-06-18T16:20:00Z

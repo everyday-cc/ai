@@ -29,6 +29,20 @@ images:
 related:
   - title: "Ethical AI will not see broad adoption by 2030, study suggests"
     excerpt: "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon."
+    publishedDateTime: 2021-06-17T22:15:00Z
+    webUrl: "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 184
+    images:
+      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Ethical AI will not see broad adoption by 2030, study suggests"
+    excerpt: "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon."
     publishedDateTime: 2021-06-17T15:15:00Z
     webUrl: "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/"
     ampWebUrl: "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/amp/"
