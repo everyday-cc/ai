@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Believes AI Will Help Design Next-Gen Chips"
-    excerpt: "Google is taking AI (artificial intelligence) to a whole new level by employing the intelligence demonstrated by machines to make the next generation of"
-    publishedDateTime: 2021-06-14T10:02:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/google-ai-design-next-generation-chips.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 74
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-1.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
     excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
     publishedDateTime: 2021-06-18T13:29:00Z

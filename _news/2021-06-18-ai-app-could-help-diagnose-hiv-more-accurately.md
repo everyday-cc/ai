@@ -35,7 +35,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 53
+    quality: 55
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/HIV-620x480.jpg"
         width: 620

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 686
     isCached: true
-
-related:
-  - title: "Excel, Python, and the future of data science"
-    excerpt: "PyTorch, TensorFlow, Python, R, and much more. But the most widely used tool in data science isn’t open source, and it’s usually not even considered a data science tool at all. It’s Excel, and it’s running on your laptop."
-    publishedDateTime: 2021-06-14T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3620913/excel-python-and-data-science.html"
-    ampWebUrl: "https://www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620913/excel-python-and-data-science.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/02/conceptual_trend_lines_data_tracking_monitoring_analytics_forecasting_future_whats_next_by_solarseven_gettyimages-1213574690_2400x1600-100877726-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "4vGinzJA4/n0wuuk4ZWHknvUvqdWQ1s2IdpRo0P+oV0bUd2R968TleOlEM9kj7c+EuekaXvdaViC6SC7bRcP/805knpgQQiD075vskrHUG+sy/Xqv+3D9hyu3qnyKWMYGaPHui0WToDVO4Pscmg4VQQzAvc+oL7cm1+e1kksoIfos65pprQdsMh3BDCdSsjp+uQnIufh+1UMkxrTXdKLXfcAdvs3PVWmWHQ4QBcdcfG+t5l25/qRgp/ktP50SutaNhAcQEbe+UzD1QXarq5qzdECzHVDf0P80mJ0UTW1gOSdVYV7jcD09xhqnUIKsxbZZM2DguzyBJcXX5q8L1SC+5+fp6SEQzu5QwTtktgDPyNE45zZZXlnehNqghFm4GBHQEk5JsZKzDC4nqauNx6F0ucTylXyUUsPYc25QcXP0AXbRlwfW2VmxQ8KfMv0jrlxfJGvk+KWD5DnqjW5q+/gfoUjc35jq9CO6xPaCPzm9O8LwRDFB1QNJxDgqg9iQp2bmbgAcyMpldQos7K+2LhuwA==;d7dxHLAUMtSnvKkOZ6xWtg=="
 ---

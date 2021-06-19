@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "June 2021 Report on Global AI in Fintech Market Overview, Size, Share and Trends 2021-2026"
-    excerpt: "Due to the high popularity of this product/service in North America and Asia, the growth trend of AI in Fintech in"
-    publishedDateTime: 2021-06-14T10:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/june-2021-report-on-global-ai-in-fintech-market-overview-size-share-and-trends-2021-2026-2021-06-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "5 Fintech Stocks to Watch Beyond the Cryptocurrency Hype"
     excerpt: "Many believe that “blockchain is the biggest innovation on the internet, since the internet itself” and the recent roller-coaster ride in cryptocurrency has attracted several. However, fintech in itself is a broad category and cryptocurrency is just part of it."
     publishedDateTime: 2021-06-16T11:22:00Z

@@ -300,6 +300,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Facebook’s Universal Music Translator"
+    excerpt: "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ..."
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XYUHemVIThGzu8YxcddsBLSs1rOtvLgLO3zD5O0NnopSIbdF9jsQeAwDn/g9F2TutoPHR1cmxuariDYO/z5rUZ4nalnBURvetYZX9xEJQ0ql//od4MgRVBLTOljxfDjKzD3WJizlQNMMPhvg7ZSAwN3euGwX6WHiuh6aj5I0QU/7vYcmhe93hiT4kLkJnwP+g18+cJj1wkOJGn0v2W1lfhtAA0DGybjT5dNCNdUlWw2IinYVFdbyjeqRYjMvg5agMmcE/cfLlJB6djXHNsm3qmIVpzR+mPq/jm6AKr9j5IH7CLwIkxU9Z9t1aSczDAjHlWZc0cKC4YxxVRBhKeeeHIqAXMmUVun7wMtzJpcfQlyU1UCysA7bJgAWEVqsXrYdGuWUDmGmThYS3i24CqmszLqdTA+fYAmiXpTUFMBFegqenuul6JXBWXgTfeZNpn2vkQKVgqoWXrOGUJ3nWC2M+mSTtnPF/4xhkKl2eSLNvCVZZuMLCSlJWqfDdm4ETzcRgbYz2+QQ4eZfpbtbZ/yypQ==;+QdiY5sc6pOCCv9Ly/FJyg=="
 ---

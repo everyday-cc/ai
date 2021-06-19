@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-publishedDateTime: 2021-06-18T06:31:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+publishedDateTime: 2021-06-18T06:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
 
 related:
   - title: "Ferrari, Amazon's AWS enter agreement on data"
@@ -129,6 +123,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "oq9f6v5jQ0S+6x/qCyKcWSJ5QGhu+17ExtVz9hC1vt5vM5oeonGj+F1kgUmi6EXB7eGyO9ZCoaUTBulb5Glj8NVI/XkdEb3SsiSlAKPKV09eKMFO5NttPeD6uqIYL5c7450lmuW6yg91+Nb+Gg+p+QPTYhq9kTtKfrH+cjRdOfzGrYEs8LaUt1aoKJxrBYFzj8l0ko/qakwliKYTKDoP/5sRCsK7Lk5CNuqBGKoLsNYriDKMkYG8plBoNARhgliKFP2W5n7SKiIJPle5zTzSeOZSCzAVNMZAQJn6/yn0l/v2mBs2ucdD5wmIj3+uWUgD1wPJlrm5xZoG37GnZ440TmpC6ZfjsOv/x9V0+6K6PS0=;A1r0L7kHFNMkqymWbdvQgA=="
+secured: "4KFf/gqQQStScyC6BSW8KJxaO9uCBbilJFG0wo6mn2E6JlDt9Q6+Fh2AZgo2p+lxRMWTRfuDL11hXb14xJUxJ7pCFFWJnaejfYwJ0Dou8UGubDEEgVriFs/0EctbarBbwYKN/iG0j5PkNaDAbodioR/CsrRDCFjQfIGZgwt4xz6ZiVxsLrydvqld2hnb6lWrnoDrrbQ9AYKsiBo1Y9Jnj3oCk0fKzPchXQDNTGst8vblwDxDtoR9mtGWmocIzOgpEZ17yApwfaujoCqVVqI6+2gVcVozgkdrddQ5U8ovBiDSE8swbHypDNsyQRJdbIvDxWn4b+B0oaxf86CvahmDemrYB7/nMvg5ZcMBvivL8QUewBRohUx+QrAM/hBQszZPTcqFcc5pjvCrIbsyJ/JgQiekqVih4HW8CNIAT9r9Sft7ms8FI5G/yNzoVwXjEwxvi69rt+GMyoboW2yRyLFGJNraf+Z6Hqsrr/+SdKVGQx4H2iz4mBue9XDWV8z/8D/SengHF1fdAH+6Gp2N15egEQ==;sni3cN2V0J6C3tf+GFJmpw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-gr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting"
 type: article
 quality: 150
-heat: 330
+heat: 340
 published: true
 
 provider:
@@ -293,6 +293,20 @@ related:
       - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "Facebook’s Universal Music Translator"
+    excerpt: "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ..."
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xCPfJ1bvYPaM7rbsPynWVWKt1vlN+RzG8OcIls5DzFVDHF5Aa38QpQr+dM3zcwr9F5SPp24UTde49jF35cYoCYHW6ytcXjj0JCRp/r9cbPfn+VFgZZWS0eYZeLsk07UXCxJPPRek98zVjhLm2gPsIT3pWuDu/001W5vN9NTRnRU6Q3NS7/izt9bcWfAwBBr8jdPGCezFOmTNU0X+Q1RNHbazRPW6aIJl4LDJ5jcvnaF9WPMiB6mf0Ezhn+YmwWMfTw2Ll49fC591bvtd2HLywiG/ikbmjwqHxV4UU7SjbWc4x10wqNowC2ZtESdqMhBxwaMs7DGEuDX1OFiJKLIr6Q2QEUsUyA2TpxZMvW2yMJvlaz4j/lepV+mukxOus3PdGiyaEWcuC1jqEAKip8fr/9WewcmBdElfJwQedbtpMr6rM+EXpRXaTaRWU1k8/P1ClVLCTC2Fyza236REPdIdIvC9jr321bAHVCK0oN0dccT+G0wE4tsRmUgYxEvEw653SQV6Sc3qwJX07WTQ8wOzSrPkP57+47B5nTgLPYkayHI=;/+jU0mwL2ufDCUcdZ1Vjzw=="

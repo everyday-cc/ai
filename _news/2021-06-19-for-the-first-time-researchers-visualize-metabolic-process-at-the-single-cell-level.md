@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New technique can measure metabolic process at the single-cell level"
+    excerpt: "Understanding cellular metabolism - how a cell uses energy- could be key to treating a wide array of diseases, including vascular diseases and cancer."
+    publishedDateTime: 2021-06-19T02:58:00Z
+    webUrl: "https://www.news-medical.net/news/20210618/New-technique-can-measure-metabolic-process-at-the-single-cell-level.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210618/New-technique-can-measure-metabolic-process-at-the-single-cell-level.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210618/New-technique-can-measure-metabolic-process-at-the-single-cell-level.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "For the first time, researchers visualize metabolic process at the single-cell level"
     excerpt: "Understanding cellular metabolism—how a cell uses energy—could be key to treating a wide array of diseases, including vascular diseases and cancer."
     publishedDateTime: 2021-06-18T07:07:00Z

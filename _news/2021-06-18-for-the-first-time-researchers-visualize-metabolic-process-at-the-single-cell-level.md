@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-visualize-metabolic-single-ce
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-visualize-metabolic-single-cell.amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New technique can measure metabolic process at the single-cell level"
+    excerpt: "Understanding cellular metabolism - how a cell uses energy- could be key to treating a wide array of diseases, including vascular diseases and cancer."
+    publishedDateTime: 2021-06-19T02:58:00Z
+    webUrl: "https://www.news-medical.net/news/20210618/New-technique-can-measure-metabolic-process-at-the-single-cell-level.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210618/New-technique-can-measure-metabolic-process-at-the-single-cell-level.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210618/New-technique-can-measure-metabolic-process-at-the-single-cell-level.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "For the first time, researchers visualize metabolic process at the single-cell level"
     excerpt: "Researchers at the University of Chicago's Pritzker School of Molecular Engineering and Biological Sciences Division have developed a combined imaging and machine learning technique that can, for the first time,"
     publishedDateTime: 2021-06-17T04:00:00Z

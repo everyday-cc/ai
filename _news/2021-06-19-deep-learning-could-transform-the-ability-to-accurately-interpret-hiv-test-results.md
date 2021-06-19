@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20210618/Deep-learning-could-transfor
 ampWebUrl: "https://www.news-medical.net/amp/news/20210618/Deep-learning-could-transform-the-ability-to-accurately-interpret-HIV-test-results.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210618/Deep-learning-could-transform-the-ability-to-accurately-interpret-HIV-test-results.aspx"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/HIV-620x480.jpg"
@@ -42,6 +43,6 @@ related:
         height: 960
         isCached: true
 
-secured: "sAxX/KSge0B/Z2ezRhwb0Sef605/3abf0pylAmYK3tidjCL3cyZFhNPjrM0ri1Mon8ZISpMV16l64APXeyaV5Egvyz2jEWT1/40NBZX3hKO4C7oknVpr4nSl8i9F932+uwi7tZx2p8TkclmY0qebwb32uiWw4Tae0/6O8XSRt8HTfEnxcLXAJ7lFD7Ry5IS6OP51IQDDNF4puCuGvwzsMXdHLXkd71zh7GaH7v+G0xma+kjYT+eTZsjijmN6fXOXyXCplOlK3iCO7FanE61pFFZTa5z+NFrmdnPTFpnjHjvcwJ1LrfKGG/1NoWnsVRSQk+YkhZ8j+v0d0qvFh0kql4hgE8pculA7ZmtznLKZ5Yg=;cYcgZwww0uykkEsZ9UxV1A=="
+secured: "6J6jQKrNGaHYXHCjzrCoP8E/FsrDdmFvMX570iNUtiJaz/48JZQdaRZ0JpIq01pT6D7FgcyJ4vBh4h85EFV5bK97VD4HwV9yVV8qHzWaY3b8EDqcpWTV8PASAL+F9of2SUhdWArVjY3X+8pOD66lBw9rCOxQXHvIqmK1M+gPRR4nKDkqq9Ii83DOpx0o2ZUOWWi7rc19R6c8u4f1bez9GDxlF58Eo5lry+6gjyywzqzNDBmypd7JP5hrnODyAUntrxnvgd+9WkVtNh+jE7nQg+2YppLKXpXPTjccwHXptJiAL43xLoTDSGNUZsFr97uTIYKfY1s0Ku3i/J4suy1AAvONl3DALBUjeFxdwHrsdvDpcvSY88P+sP6XV4Xp/D8i7WTBBJ/DQRZBwfwX2EdK1pLzWkDXTDEq4Y1Iloo6x+8jlPOBER4R1PZ2M5pXYobn5wNj+uNYYGKhFJf9O29ziqonOqAuDJGfeSc4SXfdHrq4mgF34s+sWfOhS/1izbN0dHMBJLeX9QT2U6MlW57BWA==;ajWkyqZV/tgI3hVutwRUHQ=="
 ---
 
