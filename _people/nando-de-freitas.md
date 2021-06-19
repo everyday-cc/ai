@@ -14,11 +14,11 @@ website: https://t.co/uy8OBWPHze
 twitter:
   username: NandoDF
   url: https://twitter.com/NandoDF
-  followers: 84067
+  followers: 84070
 
 googleScholar:
   url: https://scholar.google.com/citations?user=nzEluBwAAAAJ
-  citations: 43260
+  citations: 43329
 
 topics:
   - AI

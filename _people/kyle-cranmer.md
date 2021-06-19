@@ -14,11 +14,11 @@ website: https://t.co/OiHC3bfPoX
 twitter:
   username: KyleCranmer
   url: https://twitter.com/KyleCranmer
-  followers: 10650
+  followers: 10651
 
 googleScholar:
   url: https://scholar.google.com/citations?user=EZjSxgwAAAAJ
-  citations: 175807
+  citations: 175170
 
 topics:
   - AI
