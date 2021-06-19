@@ -208,6 +208,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief.md",
+      "title": "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief",
+      "excerpt": "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/",
+      "publishedDateTime": "2021-06-18T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition.md",
       "title": "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition",
       "excerpt": "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
@@ -1144,49 +1196,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
-      "title": "2. Hopes about developments in ethical AI",
-      "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
-      "originalUrl": "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

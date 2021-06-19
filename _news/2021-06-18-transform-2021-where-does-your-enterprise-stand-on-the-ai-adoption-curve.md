@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-en
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
 type: article
 quality: 85
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Report 2021: By Key Players, Application, Share and Forecast 2021-2027"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2021 2027 Technological advancements across the globe have paved their way across numerous industry verticals Automotive AI is one such advancement that is expected"
-    publishedDateTime: 2021-06-14T15:12:00Z
-    webUrl: "https://www.openpr.com/news/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    ampWebUrl: "https://www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304862/automotive-artificial-intelligence-market-report-2021-by-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "X7bavYNmnEJLmkztYMnJwFUkYoKCQcY/feUXcT6nJnX+Km6n5JUK5eomto0GEqik/vDOk7qXuXKjHMd/kvaJZrVYgRANM5/MflfWa0W2//gr3C0gLXvEse8r/cikqWkDiT4WHd212NfINyjjYL/3PhlXETmcuV83Ub3rO171G/lsZyLkzSBJ80TuDR4Lz8XkCzzJHg6s8fc2nJzAVMDGmjpK1TK54aiktEMld41OZGmpErSC0qU7nCxCRvL84foHI+WWRSq8SGly+rAHoD1b8SoHO0Yt3aZbkeBWkNsBMuhAQMEdHB0vLyUZXnERfgYf6mJJF3AhGMScK3nEq+Ie/+Ok+A2yj3pHHuscuwfjKFDrttUnJtGPCs1SOGkwnZyQc19XLV5+dWNRtRNxLrRTA1SwqniGlMbJNJFqo9Vr1uuuJkOpfCw4hc7fPXEX6/LbY4/8bgdhWCDh04zfq2202TIiaroK3XMDqHy0hDQd9IB1uEX6NZQyYSDuJUsb6uxSui1MZ/dUloDqGqceQ9zUPA==;baSla29DbtSpY2Bp6q51KQ=="
 ---

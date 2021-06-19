@@ -2,6 +2,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-25-robotic-arm-sense-of-touch.md",
+      "title": "robotic arm sense of touch",
+      "excerpt": "Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/robotic-arm-sense-of-touch/",
+      "originalUrl": "https://singularityhub.com/2021/05/24/scientists-added-a-sense-of-touch-to-a-mind-controlled-robotic-arm/robotic-arm-sense-of-touch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/05/robotic-arm-sense-of-touch-1.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics.md",
+      "title": "These Indian Edtech Companies are Shaping the Future of AI & Robotics",
+      "excerpt": "Edtech companies have partnered with NITI Aayog to develop an interest in STEAM fields in young minds using AI and robotics. Read more about this here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics/",
+      "originalUrl": "https://www.analyticsinsight.net/these-indian-edtech-companies-are-shaping-the-future-of-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/EdTech.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-get-ahead-of-labor-shortage.md",
       "title": "From driverless cars to robotic warehouses, China looks to automation to get ahead of labor shortage",
       "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
@@ -1084,112 +1170,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-how-dynamic-working-enables-a-more-inclusive-workforce.md",
-      "title": "How dynamic working enables a more inclusive workforce",
-      "excerpt": "Why empowering employees to work however and wherever they want can help diversify and motivate your workforce",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1621607070/pregnant_woman_working.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/business-transformation/359636/how-dynamic-working-enables-a-more-inclusive?amp",
-      "publishedDateTime": "2021-05-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-artificial-intelligence-where-it-is-working-and-where-it-is-not.md",
-      "title": "Artificial Intelligence: Where It Is Working And Where It Is Not",
-      "excerpt": "The use of artificial intelligence (AI) has been spreading in every industry. It was once a sci-fi myth found on shelf corners. Now, AI is becoming a core part of almost every technology. It plays a role in everything from helping people with disabilities to video games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a803f744a4520c480a70d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/24/artificial-intelligence-where-it-is-working-and-where-it-is-not/amp/",
-      "publishedDateTime": "2021-05-24T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

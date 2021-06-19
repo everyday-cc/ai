@@ -22,6 +22,17 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "TCS positioned as a Leader in IDC MarketScape for AI Services"
+    excerpt: "Using machine learning, machine vision, voice recognition, natural language processing and knowledge mining, TCS has been building proprietary AI solutions that drive business transformation for customers across different industry verticals."
+    publishedDateTime: 2021-06-15T05:05:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-positioned-as-a-leader-in-idc-marketscape-for-ai-services-121061500230_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-positioned-as-a-leader-in-idc-marketscape-for-ai-services-121061500230_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-positioned-as-a-leader-in-idc-marketscape-for-ai-services-121061500230_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 39
   - title: "Face Recognition Device Market May Set New Growth Story | Cloudwalk, Aurora, CMOLO, Anviz"
     excerpt: "Latest survey on Global Face Recognition Device Market is conducted to provide hidden gems performance analysis to better demonstrate competiti"
     publishedDateTime: 2021-06-15T11:46:00Z

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-14-datarobot-exec-talks-humble-ai-regulation.md",
+      "title": "DataRobot exec talks ‘humble’ AI, regulation",
+      "excerpt": "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
+      "originalUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
+      "publishedDateTime": "2021-06-14T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
+      "title": "Google team uses AI to create next-gen chips faster than humans",
+      "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/google-app-1623677856.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
+      "publishedDateTime": "2021-06-14T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-enterprise-ai-platform-dataiku-launches-managed-service-for-smaller-companies.md",
       "title": "Enterprise AI platform Dataiku launches managed service for smaller companies",
       "excerpt": "Dataiku is going downstream with a new product today called Dataiku Online. As the name suggests, Dataiku Online is a fully managed version of Dataiku. It lets you take advantage of the data science platform without going through a complicated setup process that involves a system administrator and",
@@ -1068,101 +1163,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
-      "title": "How stakeholder capitalism and AI ethics go hand in hand",
-      "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1257913820.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
-      "publishedDateTime": "2021-06-12T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-google-team-creates-next-gen-chips-using-ai.md",
-      "title": "Google team creates next-gen chips using AI",
-      "excerpt": "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "originalUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg",
-          "width": 400,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "publishedDateTime": "2021-06-12T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

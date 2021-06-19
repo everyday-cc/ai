@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/watch-this-guy-make-a-self-driv
 webUrl: "https://www.autoevolution.com/news/watch-this-guy-make-a-self-driving-bike-that-can-stand-on-its-own-163251.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,98 +23,6 @@ images:
     width: 728
     height: 300
     isCached: true
-
-related:
-  - title: "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars"
-    excerpt: "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so."
-    publishedDateTime: 2021-06-14T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief"
-    excerpt: "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how."
-    publishedDateTime: 2021-06-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "The Secret Is Out That Confidential Computing Is A Hot Trend And Seriously Crucial To AI And For Self-Driving Cars Too"
-    excerpt: "Here's a breezy explanation about the nature of confidential computing, along with a look at how AI systems are impacted and likewise AI-based self-driving cars."
-    publishedDateTime: 2021-06-16T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/16/the-secret-is-out-that-confidential-computing-is-a-hot-trend-and-seriously-crucial-to-ai-and-for-self-driving-cars-too/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/16/the-secret-is-out-that-confidential-computing-is-a-hot-trend-and-seriously-crucial-to-ai-and-for-self-driving-cars-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/16/the-secret-is-out-that-confidential-computing-is-a-hot-trend-and-seriously-crucial-to-ai-and-for-self-driving-cars-too/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c99439ffe76b7634764df6%2F0x0.jpg%3FcropX1%3D445%26cropX2%3D3133%26cropY1%3D0%26cropY2%3D2015"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
-    excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
-    publishedDateTime: 2021-06-18T17:40:00Z
-    webUrl: "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    publishedDateTime: 2021-06-15T05:02:00Z
-    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 45
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI Is Transforming Venture Capital"
-    excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"
-    publishedDateTime: 2021-06-14T22:00:00Z
-    webUrl: "https://www.brinknews.com/how-ai-is-transforming-venture-capital/"
-    type: article
-    provider:
-      name: Brink – The Edge of Risk
-      domain: brinknews.com
-    quality: 37
-    images:
-      - url: "https://www.brinknews.com/wp-content/uploads/2021/06/pexels-photo-3861969.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "fwANcxug01gIWdvcl90H9Fw1UteTEaHwcImnr7YulX2r9J3NmT4KqwGiiacNalBz+EhP0w+U6KA8VkLyfP4J25nniz593nuM5ik/qvTPbWp0dDYSWVg+ZQAjxQy32hmL8Yg9tispTWBNqDRCd69BQvE0DgjTIg8wYNhnDLkPma6gKkRxx05IU8P+6zIVmk3rW/0CSeW8XSelsW+eUM/oDa9D17k1Q/GJlrbFbbZUwvM3qaHTJMvqVi7QFGLeiJc6+fDxlKKSOY/yPLQZmImmJV8ERajDmT6XXW30O+abRM1pgS86s72VKojTOzrYnCuNvfX6uIKEsBzP1VUcfIlkdz4PZxDuegCA2Qb+Bc6RC7OX+FMm8ifv5O1iqghZRTUEs52iM/Of57i9sRkGNb8D+zb0ICSRHMSVPnNFyuo46MgpwtKju1hy9CfQhkdoxUgzJUoG/3c/F3CtH3lx8/U/iow+lnGPLdIK6FJTXCDIOEtcvXKmJsZgbePK7RZLMT5yFRZZpLSgCpl5NGo16Yw9QQ==;WjsWPeSy6aPcixugxDzi2w=="
 ---

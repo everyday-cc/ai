@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/06/16/overwatch-league-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/06/16/overwatch-league-hero-rankings-ibm-watson-ai-esports/amp/"
 type: article
 quality: 94
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Orchestrate uses AI to help improve sales, HR and operations"
-    excerpt: "A new, personal interactive tool for professionals was recently unveiled at IBM's Think conference. As AI and machine learning become integral to success for companies, across the board ..."
-    publishedDateTime: 2021-06-14T16:19:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 121
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Overwatch League Brings Hero Rankings with AI IBM Watson"
     excerpt: "Just as the current Overwatch League season was about to kick off, we reported here the partnership between Blizzard and IBM Watson to"
     publishedDateTime: 2021-06-18T18:56:00Z
@@ -60,34 +44,6 @@ related:
       - url: "https://www.somagnews.com/wp-content/uploads/2021/06/Overwatch-3.jpg"
         width: 704
         height: 264
-        isCached: true
-  - title: "Astra Hires IBM Watson and Apple Veteran Stratos Davlos to Lead Software"
-    excerpt: "Davlos has extensive background in artificial intelligence and machine learning with senior leadership roles at IBM Watson and Apple. “I am incredibly proud to lead the team responsible for the ..."
-    publishedDateTime: 2021-06-16T13:38:00Z
-    webUrl: "https://www.register-herald.com/region/astra-hires-ibm-watson-and-apple-veteran-stratos-davlos-to-lead-software/article_f3bffca7-801d-5b95-a207-2a08ae7e064a.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "How automation and AI can be used to improve business resilience today"
-    excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."
-    publishedDateTime: 2021-06-17T14:29:00Z
-    webUrl: "https://www.cio.com/article/3622353/how-automation-and-ai-can-be-used-to-improve-business-resilience-today.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/istock-1295900106-2-100892758-large.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "jAbpO+WMUUuh8iADscAuToB6FdumK2qe0PfrixDuT0rOJqFFzBb8lWoWf4uecKnpzape7GMKNdEIvLTUgDr5OHHJZtZeVjI9BOjQE5GLWx+litH7uFODCVmnwd8d/IMsZo7hTnzumEvzDi44RUUXp+A/hU1s3pemiDiYDyW5OC6P8aawRktAlx9v8Z5kd31QYUEbo5nIbvxGLHORxVtdFfPtKsppsw6NZa29Ydhla43uMnFWp9251A8PrO9IOWAHNz5v2kDX1kRbY00BY+FJOkvt6DXT/AhqkNbSWMroKnfSFaz8PSmIXwIHzGK76J8i7GAjMdpydZaiMP7W9f872OCon2ELg/N3qASES6aEGbqttOyew9F+XVXkAoKDrjEm9QzcGpNA+wfvw2O8n50VKafGLMtDiqrv7y4zC7zArvCDw/bAs7EFsdHOVf09614eP/qofn8MQU//K14eSi3mL7qU7FN5BDY3fQqoDCtG7R/FHf8564p4m7mNEIcgm7WGEVB2XV68VDQBWHEo/Lf0EA==;lrnWDDIRFGZI+bJTCPxEPg=="

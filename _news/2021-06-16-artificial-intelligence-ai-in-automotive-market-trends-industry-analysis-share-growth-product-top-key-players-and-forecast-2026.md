@@ -53,20 +53,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 66
-  - title: "Cooking Robotics Market: Global Size, Share, Growth, Overview, Opportunities, Top Leading Company Analysis and Forecast till 2028"
-    excerpt: "Research Nester has released a report titled \"Cooking Robotics Market - Global Demand Analysis & Opportunity Outlook 2028\" which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
-    publishedDateTime: 2021-06-14T15:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cooking-robotics-market-global-size-share-growth-overview-opportunities-top-leading-company-analysis-and-forecast-till-2028-2021-06-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
     excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"
     publishedDateTime: 2021-06-15T19:58:00Z
@@ -120,17 +106,6 @@ related:
         width: 719
         height: 470
         isCached: true
-  - title: "Global Service Robotics Market Covid-19 Impact, Growth Rate, Size, Demands, Trend, Key Players Analysis and Forecasts to 2025"
-    excerpt: "The global service robotics market was valued US 20 4 Billion in 2020 and is expected to show significant growth during the forecast period Service robots have witnessed widespread acceptance among various professional and personal applications owing to benefits such"
-    publishedDateTime: 2021-06-14T16:51:00Z
-    webUrl: "https://www.openpr.com/news/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    ampWebUrl: "https://www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2304918/global-service-robotics-market-covid-19-impact-growth-rate"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
     publishedDateTime: 2021-06-18T08:20:00Z
@@ -142,15 +117,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2021-2027 Business Growth Updates | Top Players – Microsoft, NVIDIA Corporation, IBM, Atomwise"
-    excerpt: "Latest added Artificial Intelligence (AI) in Drug Discovery Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
-    publishedDateTime: 2021-06-14T16:40:00Z
-    webUrl: "https://ksusentinel.com/2021/06/14/artificial-intelligence-ai-in-drug-discovery-market-2021-2027-business-growth-updates-top-players-microsoft-nvidia-corporation-ibm-atomwise/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 12
 
 secured: "dw5lQDtycRYtXd/I3/l10K+67yNUlImvqd3PSV07LacXNvsdrhnPWWEs6pxKGbgLloTqH1WsHojt8hWTjHyIKejeYc/TnSgnsiEBMfY9kGc3LQXhgYWU424QfeuPPluUe+wWNj4b7NMhQUgf9apgpLbPyQ6ntIHeGW076zoeng/QxCe37gtTTW8+yhtxa0ES7LSMZThN4dtf0BCSafvj43H/QlaGjuiG0O0ppsxJ7gyg+0jMv6XrkWM/xLWXs+M7zxTNw5VxenyV2AhUFQpFqYfvFHL+GivLRmvnftDB6MJaDYAY26yUpRXMMjkfoVnatVKZRdM3gRBt/WqmMIJ/0xDoR9r+az9rYu4zCD8H1k0=;v8UcoLt/ACcfmwFQQC34NA=="
 ---

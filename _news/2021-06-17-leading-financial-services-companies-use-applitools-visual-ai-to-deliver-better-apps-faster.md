@@ -1,42 +1,24 @@
 ---
 category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
-publishedDateTime: 2021-06-17T13:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
+excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
+publishedDateTime: 2021-06-17T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
 type: article
-quality: 39
-heat: 39
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "Tractable becomes world's first computer vision unicorn for financial services"
-    excerpt: "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by"
-    publishedDateTime: 2021-06-17T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook"
-        width: 678
-        height: 355
-        isCached: true
   - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
     excerpt: "Applitools serves the world's largest commercial banks, credit card providers, insurance companies, stock brokerages, financial technology (FinTech) companies and more. The sharp rise in Applitools Visual AI usage among the global financial services (FinServ) industry is obvious."
     publishedDateTime: 2021-06-18T09:46:00Z
@@ -47,6 +29,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "w32FlOXxHJs75wZoG6Nrh4E2BDaNq88l8ACaUwekDjji0flLPrDG1uilq8gHYKhwkV/3ny5RB6kl5JwxHaRq6b13AwTiERmQfsqqduNiNikL6MXo0Ce0JCTVLBVNye9wl1r86v8I4MdX5lLrD3taPUlXMAaBxm+8e7lN1fH0U7gO+dc2LfzuWgMxsZ22QiI/9B6dxTbDF0uEZCq/88gzwlBqKrWBzVLOF1xX6HZkckSEuB0jDpA5UaF2PW4Viycrk2jY0hWXGM/wtFAJ2cI+OsxWR7vWQmyA+p5AfKOkcQO4K1rBWu8oigms0/+iNkCmlMAFThBBlqJHTqcXw6JCxuKNvkPkQGLHgPtWqDynaVeKQdLzYh6VNqzLtjz7EF6rNo7NN3y+dNcKKtDwlP/BhQ+PSADNoeWe3gM6Sb79NBUfPRo7anXUkmFVkEu8E6HVIWh4S4etZQ+iyjiOzzAfUIRfO1EPkY/4UkPPXhli1UVupzmr/SQHcHodJLUEZpRp5gOB1bEtUGA+QhCYQOsgqQ==;82k/x1lPMoyDdgaeHmZiIA=="
+secured: "fpvolGCinYo2Z26xC4Mo6XX/jX6W3ZDpVfCoiZEq3UdJAu3nGC7t1+/FeuF8qjjpNWRrgH8GReiYo3KhCmlN44qgJtPoI+d33cXh0mRIQy3Dom5RFYjZpFTRWnsmfPwIfZyVwej+VIQtCabmuXTl23E8fEv5WtLCMr14a9DtcxUBNr45hfxtq4OhxSGziSZVcAR4E4/gzvgGEU5DOnvDduh2CFVGehCORf69Y+DwVrSgQNQ8dmHSljfFLH4V5O6X2rVJgYL0YQSh/wghJc/Y9eeork/YOvJWd5zil4arg0Eb4TNhdP0GaZUQlxD8N1KskWCcNWfBa2bDgI96t2AkUkWHU+/GrhJHsxOeeaj5vhn2sbnb0xz64y6lOXj/ENHzGMCqsP46gS81WPzs9CZ7w1RDpXws3htLValnmThNmUnYYIdV85uO3XZV/plM7u9CDLr9B2Ey/OZaj7yTNIEe+5PFbBYroae2qlCZumsKpE478sJc9xn7XOa6G46sQjz6DxgrYqDXYo7S3k8xBGiltA==;n7UEK/jbs70ZREpE9WGNZQ=="
 ---
 

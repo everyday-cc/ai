@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-15-datarobot-adds-automated-ai-reports-snowflake-integration.md",
+      "title": "DataRobot adds automated AI reports, Snowflake integration",
+      "excerpt": "The newest version of the DataRobot platform introduces time series model enhancements, automated AI reports, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/",
+      "publishedDateTime": "2021-06-15T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2021-06-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-how-gpus-can-boost-ai-for-your-business.md",
       "title": "How GPUs can boost AI for your business",
       "excerpt": "Big data, HPC and cloud computing are starting to dominate IT, providing the bedrock for AI and ML processing. A solid hardware platform such as that provided by the Gigabyte G482-Z54 can deliver the CPU power and GPU density to meet the demands ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -364,7 +467,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -742,7 +845,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -898,7 +1001,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1137,101 +1240,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-datarobot-exec-talks-humble-ai-regulation.md",
-      "title": "DataRobot exec talks ‘humble’ AI, regulation",
-      "excerpt": "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
-      "originalUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
-      "publishedDateTime": "2021-06-14T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
-      "title": "Google team uses AI to create next-gen chips faster than humans",
-      "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/google-app-1623677856.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724",
-      "publishedDateTime": "2021-06-14T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

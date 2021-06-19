@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
-publishedDateTime: 2021-06-17T17:55:00Z
-originalUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
-webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
+publishedDateTime: 2021-06-17T18:20:00Z
+originalUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
-quality: 31
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: Automation World
+  domain: automationworld.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
-    width: 600
-    height: 338
+  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -66,6 +65,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "rlzAllTRGy+YRm/HBDEO9NmSfXMz08bWrlCK0fKHaPGimZAJ6tW6vqC0yXFZzYB2X/NnVnedn2xjpbm2IjbVSBXg8jDWxyfmF3b95m8JfsNPIvayOwjG/PyeT1sn4QNhmp22yha/I6SwFao9n6fvAvd2kFTEbfc1ROZkmfXaFEv6mo0oEArnk934AzxYDz0bvqHavjMSlLBij9Mp20kKT2I7S8FcEZNYft9BIn6r2eoL9df5f8JdaSqWMDVoUGpuGiI7lFtJWY948S1+otBfHuRz0Ozz/SEb7xky7TeBjUIbdXUDEt8TPE6a+wZmRzk2zQY7S3mz9XWfH89NMbXk1YRCxhSZevI/iROCCoQsiqU=;Fti25r+IfBgITVd+c2RJJA=="
+secured: "pm0W6GC1s41wsDuQS6K5mN+gE4uZxdYinXaWaEc6/RXwqXl3+A8Z4tOwHSjrSXiV7vRz+aNv2r++4TDSoO8BBrgPkd/UGWnrzdaJilKMh+3qMEWr8CDDbucRjecaGtsSui4ofmQv9803FcPMU0jAkfHAqLfpa1RgoUN1khXr/wGfEERMtNGl8agBHfAkJCxFMvm9/s9+Hb4O15sU9u0ler7y+4DiZfSvbWnebEsBWsJXtTTIw8hKNwL1IUa2lzxUERnWWAwnZ3PNowVp+MwIkFt/Cq9Dx20ty8m1XPpEVK/t5bTsDqbcr6kps4mU2C1Fj4+oDHXy1ltNiLz+BcJCpJqfyhFYdvqpQWp0ogzsX3M=;X6i0EbYtsgb1PivbP7nlfA=="
 ---
 

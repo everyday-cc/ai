@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars"
-    excerpt: "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so."
-    publishedDateTime: 2021-06-14T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief"
     excerpt: "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how."
     publishedDateTime: 2021-06-18T15:30:00Z
@@ -77,48 +61,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    excerpt: "Self-driving trucks and developing China’s largest free trade zone: How Cainiao is digitalizing the logistics industry"
-    publishedDateTime: 2021-06-15T05:02:00Z
-    webUrl: "https://www.scmp.com/presented/business/topics/e-commerce-logistics/article/3136918/self-driving-trucks-and-developing"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 45
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2021/06/11/pic_1.png?itok=apb3nyzS"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI Is Transforming Venture Capital"
-    excerpt: "AI is uniquely suited to solve the aforementioned challenges and create value for investors. The hype is real — from automating screening to save time and human resources, to augmenting investment decisions for higher returns,"
-    publishedDateTime: 2021-06-14T22:00:00Z
-    webUrl: "https://www.brinknews.com/how-ai-is-transforming-venture-capital/"
-    type: article
-    provider:
-      name: Brink – The Edge of Risk
-      domain: brinknews.com
-    quality: 37
-    images:
-      - url: "https://www.brinknews.com/wp-content/uploads/2021/06/pexels-photo-3861969.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "Watch This Guy Make a Self-Driving Bike that Can Stand on Its Own"
-    excerpt: "The buzz around self-driving cars has exploded in recent years, with many big names, including Waymo, GM, and Elon Musk's Tesla, getting behind the concept. While everyone's attention is focused on four-wheel vehicles,"
-    publishedDateTime: 2021-06-15T03:34:00Z
-    webUrl: "https://www.autoevolution.com/news/watch-this-guy-make-a-self-driving-bike-that-can-stand-on-its-own-163251.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 24
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/watch-this-guy-make-a-self-driving-bike-can-stand-on-its-own-too-163251-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "Id0H78yxL4zi6IZvB4wec8lLTgXzY30+fYHF2yanVI8xJeTkW5fuoxOrlKUdyrLoLE+2Ixc/TVQEE9tD8yVU5N3eIs83GS2tMzvwby4wg/lMThwNnifFUxVF6f0hXjEhE2bgWF6vlkms/Ys0im1DbXurbGHIWnqFL8z+VB4wl30Np0eH41pYJDAJcqjQbzbLQEWAEIAuVCNCRgRGOlZQ5l2kCWjjtjmJ6brrA2OKJBKhWLHw3Q8Al8o10C7JGKOy6U9Ju6jXdWBZpeJmvzTW7u7VQoRrl1CXRoUXzgiZjOrdiuHIFD3RxxIRW2zyqvg7xB17lv7wop+Ih56R/5qvBQhQcFLIwmuxNhgPvr0eaer+JDD7LNVPIeej7XDvCr7nIu77u0Ys0tG5crqPrU4omD+rzlGMS5V7FTSHAtU2hHag+7zNFr+B4Xn4IrfwkOQxFLbfaVy3LZ2PsSd/wiNmmGQMJiYQIb+O+Yj51teiPhd+Au61roJIaW9rIHIGiw7wJn/fNOqzE1oLhspgqrxAjQ==;QgYtgt/pSPmI6XzNgJXuUw=="

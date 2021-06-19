@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-s
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "AI-Powered Trimaran Mayflower Suffers Glitch Ahead of Unmanned Atlantic Crossing"
+    excerpt: "Two steps forward, one step back: even the most revolutionary, record-breaking endeavors can suffer setbacks. Research organization ProMare and partner IBM have just had their first, with the fully autonomous trimaran Mayflower."
+    publishedDateTime: 2021-06-19T07:30:00Z
+    webUrl: "https://www.autoevolution.com/news/ai-powered-trimaran-mayflower-suffers-glitch-ahead-of-unmanned-atlantic-crossing-163547.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 32
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/ai-powered-trimaran-mayflower-suffers-glitch-ahead-of-unmanned-atlantic-crossing-163547-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "Hd4MeLemi0CQAobwIJHTlBSHZy8YzCULFUZjx1sclny/TbSDv5ULhbWbZF6y8sVLL/Ofn6+5P5+KeIrIz2BGIC13KH509YgRTvAo9vKZG7r4n4e4L2m3GDS3rUSHrGEdTNzMGWckYXvslMDk+purUE6qLvV2CQx82qqH3M5UCxGBB91n7wrwlyaLdZtwQYY1/tfqen/1m0RXNGj6PA6J8nY3MwK23HBFVnPfQ7xqMeKtyzH8xlonrxLbFsmh6eNqhfsXg8HF/vsaf+AprkXS9cpqGBi58hEOniAi9LIRWXqCHknCpc8gISUV0fIikd68e/aqUAzk7isRlf0jZuanuG9GuG3CUr+EAD9/tu3lrhQOh9tZ+Xk6s/ZWnCUNvlsNo15iGvxtT2ig2Ck/RfLJrAeEX6bc8vplK1jUnLI7hUh1Yf+x+dOgkex7JVoU+vlfqdGm0oZSED+PuWDeZOAMNrTpZGc9NcT7Hxf3Mwcy4YV1dPEMOH/Bgvh22fuja2ty1kAKfXf8yHun6fBJ8FVbUA==;iFrr9FCAcHuJ9Qj+wx+EHQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-03-baidu-rolls-out-driverless-taxi-service-in-beijing.md",
+      "title": "Baidu rolls out driverless taxi service in Beijing",
+      "excerpt": "BEIJING: Chinese tech giant Baidu rolled out its paid driverless taxi service on Sunday, making it the first company to commercialize autonomous driving operations in China. Unlike previous Baidu autonomous driving demonstrations in Beijing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2021/05/04/business/foreign-business/baidu-rolls-out-driverless-taxi-service-in-beijing/869633/",
+      "originalUrl": "https://www.manilatimes.net/2021/05/04/business/foreign-business/baidu-rolls-out-driverless-taxi-service-in-beijing/869633/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/wp-content/uploads/2021/02/TMTFB_1920x1008.jpg",
+          "width": 1920,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2021/05/04/business/foreign-business/baidu-rolls-out-driverless-taxi-service-in-beijing/869633/amp/",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/05/04/business/foreign-business/baidu-rolls-out-driverless-taxi-service-in-beijing/869633/amp/",
+      "publishedDateTime": "2021-05-03T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Manila Times",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-yandex-self-driving-group-clocks-7-million-autonomous-miles.md",
       "title": "Yandex Self-Driving Group Clocks 7 Million Autonomous Miles",
       "excerpt": "Yandex Self-Driving Group has driven seven million autonomous miles (11.5 million kilometers) since the team was founded in 2017, more than any other company has announced, save for Alphabet’s Waymo.",

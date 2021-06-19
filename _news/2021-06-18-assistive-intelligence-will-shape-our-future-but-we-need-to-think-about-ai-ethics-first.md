@@ -45,12 +45,14 @@ related:
   - title: "Google team uses AI to create next-gen chips faster than humans"
     excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
     publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
     type: article
     provider:
       name: The Tribune
       domain: tribuneindia.com
-    quality: 54
+    quality: 74
     images:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
         width: 700

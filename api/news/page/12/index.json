@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-09-engineers-apply-physics-informed-machine-learning-to-solar-cell-production.md",
+      "title": "Engineers apply physics-informed machine learning to solar cell production",
+      "excerpt": "Organic photovoltaics max out at 15%-20% efficiency. Lehigh University researchers are using physics-informed machine learning to improve this efficiency. Their findings suggest a machine learning model,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uota-eap060921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uota-eap060921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/267435_web.jpg",
+          "width": 720,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-analysis-as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out.md",
+      "title": "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out",
+      "excerpt": "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
+      "originalUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2NK4XL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2NK4XL",
+      "publishedDateTime": "2021-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
       "title": "Element adds AWS integration for industrial sensor data",
       "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
@@ -1066,101 +1152,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
-      "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
-      "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be5936c3c83c5a7cf355c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
-      "publishedDateTime": "2021-06-08T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
-      "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
-      "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "originalUrl": "https://www.digitalcameraworld.com/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Sm2WuGsTp4hBiyFbT3B42H-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "cdnAmpWebUrl": "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still",
-      "publishedDateTime": "2021-06-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalcameraworld.com",
-        "domain": "digitalcameraworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

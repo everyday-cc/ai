@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/nsure.png"
         width: 820
         height: 312
-        isCached: true
-  - title: "Fraud protection startup nSure AI raises $6.8M in seed funding – TechCrunch"
-    excerpt: "Fraud safety startup nSure AI has raised $6.eight million in seed funding, led by DisruptiveAI, Phoenix Insurance coverage, AXA-backed enterprise builder Kamet, Moneta Seeds and personal buyers. The spherical will assist the corporate bolster the predictive AI and machine studying algorithms that energy nSure AI’s “first of its variety” fraud safety platform."
-    publishedDateTime: 2021-06-14T17:00:00Z
-    webUrl: "https://bestgamingpro.com/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 35
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/Fraud-protection-startup-nSure-AI-raises-6.8M-in-seed-funding.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "QwrYZkksWi7zxsyCOBlfw6NHt4ql+whkxkaJs7Hs15baFy47yxTq5D8jDAs/lUO3aIEQ/R4edwNU1fsl0Mr3kwrOunE6txzgU+zdxSj0FVWS2oBTreovEHD4LivmGIDm071RW8KQcx6kNb34SQo8H2GfTYDAd9KQhTu6MotdjRddbstWcD1hEhe9tK/OHPLcN3AYf4+MS6KprJx7xhOstPXSi9smtk540D/YwByB0sQ3I2nM1hf7TL5tmOAjMBjRxEvffTTglpysWOgBy8kEbnJVenOAXXGUsbp/ByMUx3dMBUXP4muOdUCBzNcRcJZxpxA8X8WZCGYoQrc0heKQRMV484KzZ8a3zTmYWbZ1TNZPDTIuNyY6KBqfkvmgEMXfZ0o4MrIrN8NPiDGLiQMEFlTeg+8FFhqAg9k+KmYvSYaxLlNGTVs/AkNfM+JzynfiFonvsADTXBWhp2MedXIHrpykuZvX5OjK08CQP8Uq6Xe7PPYKIdYb+ZjRvb0BMx/NMoCmZzj+WV0UaG0GUCL/ag==;0S/ho7A++BO6uWO6UVDxJA=="

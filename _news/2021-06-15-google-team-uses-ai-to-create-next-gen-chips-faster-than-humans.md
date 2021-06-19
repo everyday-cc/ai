@@ -3,10 +3,12 @@ category: news
 title: "Google team uses AI to create next-gen chips faster than humans"
 excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
 publishedDateTime: 2021-06-14T18:35:00Z
-originalUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-webUrl: "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+originalUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -56,6 +58,6 @@ related:
         height: 538
         isCached: true
 
-secured: "vR8gbJHB/lK8f6gsCWTuMDORc0QuL2QvRinSJHc6JTkpeZarYPDkjMI+OtyC6x6FkfB3jD7l4D/WFAvHpdeeL+CahkV16+xUHysuUVynFyoTExxbkSgrnxUnFcLggAWT6v4nHyi7aBZnkb1wsMsSMhkaNUcCZp/ifBalvV5clGGK6QkropuSsguyx2M+df6QHUW7cuul2rMXdigbnQ2QLLEfLXw0bhyCXbdeEEFI0akzQfFnaR8njvmfpGVV18ov+UznT7o2AEhmTmEuJslgbP7wjuc3MfoDDCcjdGFRoenVCv8NwMDY4vIcUhxM2iqW3Wt6+zQB2WLvV9b5aiMX7IzPKpgYa5SMIKYGKdr/L4lci0NLYfWI3kwu+oe6ZRF6I3I1+IPGB5CZWq4f6jGe0SyvoTcPE194bOCkk3+738tEm/xoUyJ1aVvAkUCnPLSNL67Bkj/KLng0lSBTvRN8Q+4td/jnK3+fnTp4fkvhpsblYuJhzVdbHcODxd2JuR0P8CC3A9rGqkk3jQ7fhHddWA==;urwkbdJ4gaB5wP/1yLW/jw=="
+secured: "vDSOb6rTcgz0OXphMxMEZKTEoo6ZsP4ypQnc3npPHpVi1YAjHwIOyg3eqiqZDufRTpXBOFuIxWIMtu9v4qlnt8mnfPDQqWmkzBFqec+gkDPYb7uLVWRWcAz5mOp1EEvGBt7/LtvK3prnIM3FfWbg7xB1WyaCK7JAWRdnDbcx9AAHXQp3Ohg2GJ4pJaNtAM83pqXW7sc3V78LX1HPLR0YCmd4kjeuhT/OPJfrOyX2zyvmwJNGxxdfv7wb8QW54U2BygaLe2UV3Qg/86itN6/CEkc8xvpdwRUZ8kcmJZ3z1FHezT9CnnJK0zmXeyC6dP8WvZDr+nFPMOhzoz+s+r1zaNsxrIET1+y0MTBMi8Z0RCI=;1yu9TQEceLwKkAcdmEtBKA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-20-bluewire-aims-to-stop-false-narratives-against-trucking.md",
+      "title": "Bluewire aims to stop false narratives against trucking",
+      "excerpt": "Artificial intelligence is putting the virtual pedal ... hubs in the U.S. “Operating in that environment, we can test our Waymo Driver on highly dense highways and shipping lanes, further ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
+      "originalUrl": "https://www.fleetowner.com/technology/press-release/21163967/bluewire-aims-to-stop-false-narratives-against-trucking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/05/16x9/dreamstime_xxl_40196175_judge_verdict_Andrey_Popov.609bcb5585865.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-a-sustainable-future-is-not-possible-without-sustainable-artificial-intelligence.md",
       "title": "A Sustainable Future Is Not Possible Without Sustainable Artificial Intelligence",
       "excerpt": "Although AI is the future of the world, training AI algorithms still depend on powerful computers, which consume significant energy and emit considerable carbon emissions.",
@@ -1290,58 +1333,6 @@
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys.md",
-      "title": "Self-Driving Cars Will Help Soften The Blow When Asking Loved Ones To Retire Their Keys",
-      "excerpt": "Retiring of one's car keys is a tough pill to swallow, though perhaps the advent of self-driving cars will make this otherwise onerous task a simple and possibly even joyous one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609c5723ab0607039e88dea8%2F0x0.jpg%3FcropX1%3D44%26cropX2%3D2621%26cropY1%3D126%26cropY2%3D1575",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/15/self-driving-cars-will-help-soften-the-blow-when-asking-loved-ones-to-retire-their-keys/amp/",
-      "publishedDateTime": "2021-05-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
