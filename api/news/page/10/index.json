@@ -2,6 +2,186 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-10-bbc-host-thrashes-calls-for-independent-scotland-to-rejoin-eu-deficit-is-8-times-higher.md",
+      "title": "BBC host thrashes calls for independent Scotland to rejoin EU 'Deficit is 8 times higher!'",
+      "excerpt": "BBC presenter Stephen Jardine dismantled Nicola Sturgeon's plan to rejoin the EU with an independent Scotland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "originalUrl": "https://www.express.co.uk/news/politics/1447993/scottish-independence-bbc-debate-night-Stephen-Jardine-snp-latest-vn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F679fdf47-2ea8-43d9-91fc-bb7b6753c426.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
+      "publishedDateTime": "2021-06-10T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-national-stock-exchange-offers-certification-course-in-ai-for-financial-markets.md",
+      "title": "National Stock Exchange Offers Certification Course in AI for Financial Markets",
+      "excerpt": "NSE Academy, the education arm of the National Stock Exchange of India along with TalentSprint have launched an Advanced Certification Program in AI for Financial Markets. The six-month programme is a unique opportunity for professionals working in hedge funds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
+      "originalUrl": "https://www.news18.com/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623308843_online2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
+      "publishedDateTime": "2021-06-10T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
+      "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Scientists at U.K.-based AI lab DeepMind argue true artificial intelligence will emerge from ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-says-reinforcement-learning-is-‘enough-to-reach-general-ai-10224799",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-nanorobotics-market-size-to-accrue-1272-billion-by-2027.md",
+      "title": "Nanorobotics Market Size to accrue $ 12.72 billion by 2027",
+      "excerpt": "Global Nanorobotics Market to reach USD 12.72 billion by 2027. Global Nanorobotics Market is valued approximately USD 5.53 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-to-accrue-1272-billion-by-2027-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-to-accrue-1272-billion-by-2027-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
       "excerpt": "Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday. Cheng Li, chief ...",
@@ -989,215 +1169,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-how-edge-ai-can-make-enterprises-more-agile.md",
-      "title": "How edge AI can make enterprises more agile",
-      "excerpt": "Edge AI, or AI implemented locally, on edge hardware, can bring about enormous benefits for organizations in key industries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/",
-      "publishedDateTime": "2021-06-09T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-anti-money-laundering-startup-intellewings-raises-100000-in-seed-round.md",
-      "title": "Anti-money Laundering Startup IntelleWings Raises $100,000 In Seed Round",
-      "excerpt": "The Panchkula-based startup will be utilizing the funds to advance its product, EYE, a product based on machine learning to help regulatory firms with anti-money laundering compliance needs",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/374119",
-      "originalUrl": "https://www.entrepreneur.com/article/374119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623251717-dollar-2891817-1920.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374119",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374119",
-      "publishedDateTime": "2021-06-09T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
-      "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
-      "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
-      "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
-      "publishedDateTime": "2021-06-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
-      "title": "The Pandemic And Its Implications On Industrial Machine Learning",
-      "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
-      "publishedDateTime": "2021-06-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-publishedDateTime: 2021-06-18T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+publishedDateTime: 2021-06-18T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-    width: 1200
-    height: 441
-    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -165,6 +159,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "94TmPh62ca8b72oPVa2y+OjhnsVLclI4oqx2IIG29d+0skgjK3XzY5mVDezBbS7wLKv+Iwq/cFa7dQ7f7NlGUqtVHQFsJKihSgpWQPiXc3I9bB3JqnpObYXusf+BL9yuvFvl+NMreTGMoKDkAgWo8HmnJC6yel+BDZsntprBpGr+yxNEPnh31qCer3XYBj8Bl5TMv6iVp1vAJ9XHpXHOpHyxm88/stNfP2DsB7f1H7W3DH2TrG0aRv0MUxbyCHSuKJZT7A161mc5kV+4VTuhS+CzWHDKs8f0f386KN1uWxT/Z6lUPfb3JcULwLDAETJb9w9r8Ey3c7+yCj8gdx7IAgSZADYOE0VeX+rGrr6X3Ypcuez5OLsH3kx61cL1YEJVsdPw2380MG3kTB/FdlvpwAhrS9GhRI8D9vMiydx0jM5Yv2qpLJQfgQb3TO8UNpq/QcHF02zynb2gPiOgMsEfimZMuQuKSZj8QDpZ2fhoVThxnD7a1rntrRK0AoPUsAFfbQVR850giuqr/uvRjQNgzQ==;6Hts+q2GJkHwcbJ+n5iNWQ=="
+secured: "W+8CCInXm8uWTKaTmgTl7oHTg39hM4n6B+rU7ZlY6DCSf2xQUYXEsBJGYwxwJhOYUpf6Vt0Zi2MiINeTza++KRCFq1UrUGDMgzBqbl3QTZCwJRwouAnEJBpxwBIAz9cd9p28ygc5fhoI2jrxV47gkacuP0PxLhGCk/ZYt5/GUFcPXB2aODjRi6hqD3LKgfAnrb31RRhw0xAjIcsVX83LdWu61wyBsgz+f108eT+KC7Aj5NtTF2kB333lU6UN+UZLKdl1YYhfAVS/oo2eTWq24d+FZ41nRWpREexZmBEfrnLhzpYkA1o9O2fHDaVQZ/yHImj6G8/UCUa2Ypyp2gnqr9gWwJaJ4FPYWUPoxwgbJj/BhcJLy0apJX4VyhTdHHLNrz96ThgSaK3YUadE7Ai1irOh6rLAoDBp8ASRAUMiWwl2JFlSB1zOuXqC0aa025ZZ54vTAHGYY5Bwm535VLyxnlzpO8y1osJgWkTRer8iHl8HH0SM9rMNrTZf9hoD1YXCUkj3Za08mOkNGEQ4Gjj5FQ==;dDM0IXPx7kj2y56UKL+XoA=="
 ---
 

@@ -2,6 +2,153 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
+      "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
+      "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
+      "publishedDateTime": "2021-06-03T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-canons-eos-r3-will-keep-fast-moving-sportscars-in-sharp-focus.md",
+      "title": "Canon's EOS R3 will keep fast-moving sportscars in sharp focus",
+      "excerpt": "Canon dropped a few choice details about its upcoming pro-focused mirrorless flagship, the EOS R3. Now the company's drip feed continues with some more key specs, including improved tracking autofocus and internal recording of RAW video.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/photography/canon-eos-r3-update/",
+      "originalUrl": "https://newatlas.com/photography/canon-eos-r3-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c43aec2/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F12%2Fe3%2F2939732e4a24a9138a80b89a1335%2F03.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/photography/canon-eos-r3-update/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/photography/canon-eos-r3-update/?amp=true",
+      "publishedDateTime": "2021-06-03T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-ai-powered-sales-enablement-platform-gong-raises-250m.md",
+      "title": "AI-powered sales enablement platform Gong raises $250M",
+      "excerpt": "Gong.io, an AI-powered business-to-business sales enablement platform, raised $250 million at a $7.25 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/",
+      "originalUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/Gong.IO_-e1596830560832.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/ai-powered-sales-enablement-platform-gong-raises-250m/amp/",
+      "publishedDateTime": "2021-06-03T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic.md",
       "title": "How Healthcare Will Continue To Rely On AI To Save Lives During This Pandemic",
       "excerpt": "When we work alongside our customers on strategies to help them employ AI algorithms within their health care operations, we see industry leaders ensuring they have a solid data strategy in place.",
@@ -147,6 +294,40 @@
         "Google AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology.md",
+      "title": "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\"",
+      "excerpt": "primarily through the use of face and object recognition technology. In March, AnyVision was ranked among the top solutions in the world and achieved top rankings across all five categories in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology",
+      "originalUrl": "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -947,188 +1128,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-nfl-pledges-to-halt-race-norming-review-black-claims.md",
-      "title": "NFL pledges to halt ‘race-norming,’ review Black claims",
-      "excerpt": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive ... from wire services such as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
-      "originalUrl": "https://www.seattletimes.com/sports/seahawks/nfl-pledges-to-halt-race-norming-review-black-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-google-says-its-committed-to-ethical-ai-research-its-ethical-ai-team-isnt-so-sure.md",
-      "title": "Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.",
-      "excerpt": "Six months after Timnit Gebru left, Google’s ethical artificial intelligence team is still in a state of upheaval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "originalUrl": "https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/y960q0iNBhEWVM3TFwGw1iv33cQ=/0x0:5760x3840/1400x1050/filters:focal(2544x1025:3464x1945):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69380047/1028811892.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak",
-      "publishedDateTime": "2021-06-02T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study.md",
-      "title": "Machine learning could help with early diagnosis of pancreatic cancer – study",
-      "excerpt": "Scientists developed an algorithm that distinguished between patients who went on to develop pancreatic cancer and those who did not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/K6Y5WP32JE87E9UUDSCM.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "publishedDateTime": "2021-06-02T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027.md",
-      "title": "Deep Learning Market Research Report: Size, Share, Opportunities, Challenges, Statistics, Restraints, Drivers with Key Player by 2021-2027",
-      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-size-share-opportunities-challenges-statistics-restraints-drivers-with-key-player-by-2021-2027-2021-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

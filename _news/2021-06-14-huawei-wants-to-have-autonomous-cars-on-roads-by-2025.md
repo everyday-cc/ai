@@ -7,7 +7,7 @@ originalUrl: "https://iottechnews.com/news/2021/jun/14/huawei-wants-to-have-auto
 webUrl: "https://iottechnews.com/news/2021/jun/14/huawei-wants-to-have-autonomous-cars-on-roads-by-2025/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2400
     height: 1600
     isCached: true
-
-related:
-  - title: "Huawei targeting self-driving cars by 2025"
-    excerpt: "With the vendor’s smartphone business suffering as a result of US sanctions, emerging technologies in the automotive sector could prove fruitful"
-    publishedDateTime: 2021-06-14T13:14:00Z
-    webUrl: "https://www.totaltele.com/509941/Huawei-targeting-self-driving-cars-by-2025"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 24
-    images:
-      - url: "https://www.totaltele.com/res/image/tech%20stuff/road%20lights.jpg"
-        width: 702
-        height: 677
-        isCached: true
 
 secured: "uNCZwD1CoV+iCzE3To7FanviPBTfe1YyZkgpfwcSjSRAHACQt7SlqW3OufAGc0V1YhwkvrZrk/JB3m+UVM9Tjn2+g8uKFiM3GFIVKVv14qDXP+u8wh8m2UHWW/3VOMPCwvM3kG6+NqJIUny2rhbmah5jtxJjebdlPNlmzXu07Nlz9Ts+P5GIfMRDmITX66wRTq2Lg0BIRGT2pDrO3mOl/e9VXQxADRh5fWxn875HLmHQ35yj7891vUOHPjct1mia+sVijsdbXmFkn1KIHoKFxP6Z0wmah14LubfkhgVHGeT2fOf2dG3tjZn0RhIu1MMrGkw9PFN0+FFIdFJChw1NwqRRatJX9RoZAVKkD15FVkBwebihVFsNpH16JY7dqXrpOli0NePKkrdagJTi9WZgeVHuckkRkpjkPIhSLlOtagQTgL8VTR19VRBeWTI2cROAqE0v7T9fckeKqNu6w5I2vmYEnCirpwTZrNsWiR0hQxX4kXkKDlmIkfUJB5iUQlMKay0U3rZelGA1lpmDxUn0wA==;5A/vcOoEQFv1+VpDFKg2jw=="
 ---

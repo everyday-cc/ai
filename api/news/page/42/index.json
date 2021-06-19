@@ -2,6 +2,205 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-05-19-neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025.md",
+      "title": "Neural Network Software Market Landscape Assessment By Type, Opportunities and Higher Mortality Rates by 2025",
+      "excerpt": "Snapshot. Thanks to the technological advancements in the field of data analytics, the global market for neutral network software is witness",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
+      "originalUrl": "https://ksusentinel.com/2021/05/19/neural-network-software-market-landscape-assessment-by-type-opportunities-and-higher-mortality-rates-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.instanttechnews.com/wp-content/uploads/2020/02/9-16.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus.md",
+      "title": "Xilinx and Numenta claim dramatic speed-up of neural nets versus Nvidia GPUs",
+      "excerpt": "Numenta, the Silicon Valley artificial intelligence firm founded by Palm Pilot creator Jeff Hawkins, has been able to achieve a dramatic speed up in conventional neural networks using Xilinx ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/18/e16b7a3a-b7f5-4c94-98b0-7a031199cdc1/xilinx-press-tour-may-2021-slide-12.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/xilinx-and-numenta-claim-dramatic-speed-up-of-neural-nets-versus-nvidia-gpus/",
+      "publishedDateTime": "2021-05-18T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-ground-processing-with-space-data-5x-faster-with-azure.md",
+      "title": "Ground processing with space data 5x faster with Azure",
+      "excerpt": "Over the past year, Microsoft has teamed with Ball Aerospace to develop the prototype for the Commercially Augmented Space Inter Networked Operations (CASINO) Program Office demonstrating agile cloud processing capabilities in support of the United States Space Force. For increasingly distributed mission",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/ground-processing-with-space-data-5x-faster-with-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7598202d-3b1f-408c-a320-51e1b0b7f440.png",
+          "width": 1028,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T23:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025.md",
+      "title": "Natural Language Processing Market Report Analysis, Share, Revenue, Growth Rate With Forecast Overview To 2025",
+      "excerpt": "The research report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025-2021-05-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-to-2025-2021-05-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-google-search-brings-more-ai-and-ar-power-to-your-fingertips.md",
       "title": "Google Search brings more AI and AR power to your fingertips",
       "excerpt": "Search, next to or in conjunction with ads, is the bread and butter of Google’s business. The more people use it and stay within Search for any and all their needs, the better it is for",
@@ -948,213 +1147,6 @@
       "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
       "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
-      "title": "Google details new AI accelerator chips",
-      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-googles-new-ai-technology-could-make-assistant-more-human-like.md",
-      "title": "Google’s new AI technology could make Assistant more human-like",
-      "excerpt": "Google is developing LaMDA technology that could lead to more natural Assistant conversations. It responds with logical, consistent answers rather than raw data. The technology is still quite early. Unlike with typical AI language models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
-      "originalUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/05/Google-IO-2021-LaMDA-in-action-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/google-lamda-assistant-ai-1226907/amp/",
-      "publishedDateTime": "2021-05-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective.md",
-      "title": "What’s In Store For The Next Generation Of AI? The Jaseci Perspective",
-      "excerpt": "The way we articulate solutions to problems in computer science has not fundamentally changed in decades and we’re hitting a new ceiling with the unique complexities that come with building sophisticated AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a40b4d033264ba316a2ebd%2F0x0.jpg",
-          "width": 1199,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/05/18/whats-in-store-for-the-next-generation-of-ai-the-jaseci-perspective/amp/",
-      "publishedDateTime": "2021-05-18T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-tackling-tuberculosis-screening-with-ai.md",
-      "title": "Tackling tuberculosis screening with AI",
-      "excerpt": "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
-      "originalUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
-      "publishedDateTime": "2021-05-18T11:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

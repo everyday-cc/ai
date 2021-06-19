@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-b
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
 type: article
 quality: 154
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/10/waymo-self-driving-car-the-tech-portal.jpg"
         width: 1271
         height: 841
+        isCached: true
+  - title: "Waymo raises $2.5 bn to rev self-driving cars"
+    excerpt: "Waymo on Wednesday said it has raised $ ... \"We agree with those experts who say there's no greater challenge in artificial intelligence than building and deploying fully autonomous technology ..."
+    publishedDateTime: 2021-06-16T17:01:00Z
+    webUrl: "https://www.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
+    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
+    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
+    type: article
+    provider:
+      name: RFI
+      domain: www.rfi.fr
+    quality: 74
+    images:
+      - url: "https://s.rfi.fr/media/display/1a82ac8c-7171-11eb-815a-005056a964fe/w:1280/p:16x9/117cff4968f60467c0877df7eaa1c1f280054c92.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Alphabet's Waymo Raises $2.5 Billion in First Fresh Funding in a Year"
     excerpt: "The funding led by Alphabet and other existing shareholders is the second outside funding for Waymo, which last year raised $3.25 billion in its first external investment round since its inception 2009."

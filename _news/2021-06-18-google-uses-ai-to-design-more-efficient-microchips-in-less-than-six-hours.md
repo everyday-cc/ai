@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
-    publishedDateTime: 2021-06-14T13:37:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/google-app-1623677856.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google using AI to make next-gen AI chips, humans are now far too slow"
     excerpt: "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months."
     publishedDateTime: 2021-06-15T01:47:00Z
@@ -68,20 +52,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/26/google-is-expanding-its-operations-in-health-with.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "AI Could Spot Wildfires Faster Than Humans"
-    excerpt: "A prediction system undergoes testing as the U.S. West braces for another potentially devastating wildfire season"
-    publishedDateTime: 2021-06-17T10:50:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-could-spot-wildfires-faster-than-humans/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/1B5D0A97-B71D-4431-B15E5E055ACBA0E6.jpg"
-        width: 790
-        height: 496
         isCached: true
 
 secured: "ud6qWYMjwWlQQJlu++MiuJRyhgKROP+aar7ubmS2YxRDQodfQHe2ncHsn5ao3+oFC85q1XU7ThWDuVsnMylktOUno/x0f7MjVINQZT6UcsGzZT/nQu+MNzIKs/EMS7euC4Ag643tkHBOsvjQZx9EHk7d7PTNVLnIoM90hzVQjfIfra/Q0pHp4fgFX9nxQSgqnNNqQduy3IXZB8xW3wOEkfbUFbv0rHFDH2FxVuaHB8/uvP8KA+4fM43iochGlDRcYIqqjMf9p8s69fbS8MRoiB5rwBVk3Hk8dCMqi43hkxdnzJD7qpzdPjDEG7U/DdjlIm1OG8tsixzfT4/cdms1PhaX9u0HJ4DhNmYl/D6lJ6kib4a+1HeTeXYv9w3i9tjgOgTHXGd/eY95zB7C7S0+htgBEcS3PLidOrKbeZiYOloaDu7S35vix4jf0p3rQsXQduw0/B6VUa9gf6sVeQBXZMoVnClzP0oAHLEmyvmB1vKDSO30ip+wP4tqOtxZJHXjF/W67Mzm+wNqbXgQ9E+/Dw==;ubxPnPEbAXk7CV/pKCGy5Q=="

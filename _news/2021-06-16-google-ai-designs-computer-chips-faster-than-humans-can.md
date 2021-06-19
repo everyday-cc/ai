@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer."
-    publishedDateTime: 2021-06-14T13:37:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 74
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/google-app-1623677856.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google using AI to make next-gen AI chips, humans are now far too slow"
     excerpt: "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months."
     publishedDateTime: 2021-06-15T01:47:00Z
@@ -70,20 +54,6 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 53
-  - title: "AI Could Spot Wildfires Faster Than Humans"
-    excerpt: "A prediction system undergoes testing as the U.S. West braces for another potentially devastating wildfire season"
-    publishedDateTime: 2021-06-17T10:50:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-could-spot-wildfires-faster-than-humans/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/1B5D0A97-B71D-4431-B15E5E055ACBA0E6.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "c4r/8zkboUcXm15QLDapVH/P22D8eSJB3wJjrOvo5ZPN4RVgI0nWXFjgmvA1H9UVcFJ8GGanACJY2f6XBUCj2+pRqEmQ3KTmvIcILjYViR8oO0CE8sj2MR0s166hCsSrqPV4nDq5uXNo8S4NsjKkSW+4dHSXWHOgxGr+1bJzVDDHVfJrHT/yf+HRcUxai+V2wirjpVqhGSN3Ii0vZyaCSTXGlxNZkG+tFYk10bXktPuRBrBJ6p1tdqkfFo3DOHABusNYpSG5DxWERV7vhLsxLN3iuELneldiuR/M92j750U6yXer57tMWpAluIwftrUd7AMJbTep53MvoeMBBGf/NXIByafJ3hvYUZO/wY4eaH3GR0MHrF4y78Rkn3/bT7QYbFYE0UR2aADL6klxWBONNSmHp79EgmZq0xBqTuYY3K6MifIjcbhiqA4cxIcdPo2qDLyKKgCRGmbdK3cPIrlOvdkSKoH/bXMTmTAM3lpPztL7uYPkJ6caW0b7A4kwJZdY4RRDKBdPp1vLh+LyvCbpag==;vIzVvwCYwfyh0bz0uhQnOg=="
 ---

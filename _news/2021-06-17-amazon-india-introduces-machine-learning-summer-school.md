@@ -50,18 +50,18 @@ related:
         height: 313
         isCached: true
   - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-    excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
-    publishedDateTime: 2021-06-17T18:20:00Z
-    webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
+    publishedDateTime: 2021-06-17T17:55:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 31
     images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "iKOWBkHRDqHuxBo4cg9BC7lJ5W4jn+vVcd2gEt5iHOkTDBxULhzkH5Mri7/u2YC2EiZwylv+TwGpC3ngZb0YSHNbccw9oM5dXlog8/IrzYZjoRZC8TOMx+VlZmlVALF3PPIHt/gDZ0h2aJ/D651DDqmjX7UEIoiWDwkgpK7cGGdgnMl0AyrBysV9Vs+haaBIEahYtUBFk3NlFTBnTSEAEzZC4goB4HUIO+X/bIAYRy7BroO71IjBo+zHKGeg42pTc/yIRbNME+eHwZ1UF6OAi9VshtbtA1gA/PZePz5Xoc7SG/ENnqMgsSmfLzU5cU1SqK6sICehCYPH6gZEnGCaE+q/xx/8iew8Y0NWyQ1ii0M=;Qq/z8MF9FuI0kVNgxIAu1A=="

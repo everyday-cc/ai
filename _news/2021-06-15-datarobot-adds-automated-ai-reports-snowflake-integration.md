@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-repor
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot exec talks ‘humble’ AI, regulation"
-    excerpt: "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant."
-    publishedDateTime: 2021-06-14T14:50:00Z
-    webUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/"
-    ampWebUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DataRobot Makes 3 Executive Appointments; Dan Wright Quoted"
     excerpt: "As we enter this next stage of explosive growth, our people, culture, technical innovation and brand visibility are more important than ever,” said DataRobot CEO Dan Wright. Wright added that he will work closely with the three appointees as the company aims to position itself as a global augmented intelligence provider."
     publishedDateTime: 2021-06-17T10:02:00Z

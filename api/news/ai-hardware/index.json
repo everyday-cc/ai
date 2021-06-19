@@ -300,6 +300,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-15-google-using-ai-to-make-next-gen-ai-chips-humans-are-now-far-too-slow.md",
+      "title": "Google using AI to make next-gen AI chips, humans are now far too slow",
+      "excerpt": "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html",
+      "publishedDateTime": "2021-06-14T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
       "title": "Google team uses AI to create next-gen chips faster than humans",
       "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model that allows chip design to be performed by artificial agents with more experience than any human designer.",
@@ -1393,59 +1436,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-man-group-oxford-quants-say-their-ai-can-predict-stock-moves.md",
-      "title": "Man Group-Oxford Quants Say Their AI Can Predict Stock Moves",
-      "excerpt": "Man Group Plc-backed researchers at the University of Oxford say they’ve created a machine-learning program that can project how share prices move -- notching an 80% success rate for the equivalent of about 30 seconds of live trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-08/man-group-oxford-quants-say-their-ai-can-predict-stock-moves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiH2XKvnMNIA/v0/1200x935.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

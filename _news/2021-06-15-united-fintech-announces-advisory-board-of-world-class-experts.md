@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "A Fintech IPO to Watch and a Very Complex SPAC Deal"
+    excerpt: "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY"
+    publishedDateTime: 2021-06-16T22:52:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
   - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
     excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
     publishedDateTime: 2021-06-18T10:02:00Z

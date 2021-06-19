@@ -150,19 +150,14 @@ related:
         height: 540
         isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-    publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+    publishedDateTime: 2021-06-18T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-        width: 1200
-        height: 441
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "np6gAfVtMJFa2Qbh3e6frouNbKRleVtjjPBxr5+b1ctOA9xmC5ehCvKNSqEezPWHTi5T3Xza8eshpTxtbTSOGlUKFsbmu5lQ6wQfkWtZMJnMKNNIgmG9YFsTsQK8rvqlKt2noQ5Li+ZzmdlMo49n9Vpsc3FyHHi6ZcjHBeEjcFBPsrc3EojrC4Nm8PUrQcg46cfIFZwySmsWRufpUMyik1HkMbYgr8eH/qJIJhzfgXNe94MF/bqiaIyPW5CVvN/G+wZZO9cNW99NwqMeWlHGesFnuIyRr68+ia7dp7aNrenKxcCoAO+FW/e/CBAB+ZZK2OmyXj2HDmGU82UGkoTewnCHDh3AEiTRBXqN4LtgAKg=;5ZryI/JDMtPPVguviQKavg=="
 ---

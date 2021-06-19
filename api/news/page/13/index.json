@@ -2,6 +2,186 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-08-ibm-releases-ai-model-toolkit-to-help-developers-measure-uncertainty.md",
+      "title": "IBM releases AI model toolkit to help developers measure uncertainty",
+      "excerpt": "IBM has released a toolkit designed to help developers measure uncertainty in an AI and machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
+      "originalUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ibm-releases-toolkit-to-help-developers-measure-ai-model-uncertainty/amp/",
+      "publishedDateTime": "2021-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-study-shows-ai-generated-fake-reports-even-fool-experts.md",
+      "title": "Study shows AI-generated fake reports even fool experts",
+      "excerpt": "If you use such social media websites as Facebook and Twitter, you may have come across posts flagged with warnings about misinformation. So far, most misinformation—flagged and unflagged—has been aimed at the general public.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-generated-fake-experts.amp",
+      "publishedDateTime": "2021-06-08T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-bitvore-announces-integration-with-microsoft-azure-synapse-analytics.md",
+      "title": "Bitvore Announces Integration With Microsoft Azure Synapse Analytics",
+      "excerpt": "Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed its integration with Microsoft Azure Synapse Analytics. Via the integration, customers can quickly and easily consume continuously updated Bitvore Cellenus datasets in Azure and integrate them with new and existing data sources to enhance predictive models and build augmented intelligence into their applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bitvore-announces-integration-with-microsoft-azure-synapse-analytics-/2021/06/08/9385938.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-indian-startup-innovates-supply-chains-for-dynamic-iot-based-intelligence.md",
+      "title": "Indian Startup Innovates Supply Chains For Dynamic IoT-Based Intelligence",
+      "excerpt": "Intelligent technologies like IoT, machine learning, and AI are transforming supply chain logistics and quality assurance for groundbreaking innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/06/08/indian-startup-innovates-supply-chains-for-dynamic-iot-based-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/06/08/indian-startup-innovates-supply-chains-for-dynamic-iot-based-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ba6f3b02798af18d00372c%2F0x0.jpg",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/06/08/indian-startup-innovates-supply-chains-for-dynamic-iot-based-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/06/08/indian-startup-innovates-supply-chains-for-dynamic-iot-based-intelligence/amp/",
+      "publishedDateTime": "2021-06-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds.md",
       "title": "Government and business can develop an ethical AI future together, KPMG study finds",
       "excerpt": "Industry leaders believe the Biden administration will help advance AI adoption, and also believe it has an essential role in regulating AI.",
@@ -983,187 +1163,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-computer-vision-firm-grabango-raises-39m-in-new-funding.md",
-      "title": "Computer Vision Firm Grabango Raises $39M in New Funding",
-      "excerpt": "The technology that allows retail stores to offer checkout-free shopping is coming to 4 additional Giant Eagle outlets this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-06/background/400x600/Grabango-GetGo-Checkout-CloseUp_1598964895_1623092600.jpg?L1Ub1ks4_v8DcUa4pkshmYjDGsptMGr.",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/computer-vision-firm-grabango-raises-39m-new-funding",
-      "publishedDateTime": "2021-06-07T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
-      "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "\"Our goal at Intento has always been to help global companies successfully onboard cognitive AI ... translation serving as a foundational gateway to Intento's full scope of natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500895",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-apple-moves-siris-speech-recognition-offline-with-new-privacy-updates.md",
-      "title": "Apple moves Siri's speech recognition offline with new privacy updates",
-      "excerpt": "Apple announced the upgrade along with several other privacy updates arriving with iOS 15. For Siri, processing audio locally will alleviate some of the privacy concerns associated with audio recordings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
-      "originalUrl": "https://www.engadget.com/ios-15-siri-on-device-app-privacy-181525551.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/bafadb70-c7c1-11eb-bd2f-9e1d51125afc",
-          "width": 2400,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-ban-facial-recognition-software-in-baltimore-and-beyond-reader-commentary.md",
-      "title": "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY",
-      "excerpt": "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
-      "originalUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/GpjHHHC-nREJPKpkaOjkUIjB7Ew=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YNDRXEDELVAIHAPJ6WXJ4Z3FIA.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-07T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -117,6 +117,22 @@ related:
         width: 1271
         height: 841
         isCached: true
+  - title: "Waymo raises $2.5 bn to rev self-driving cars"
+    excerpt: "Waymo on Wednesday said it has raised $ ... \"We agree with those experts who say there's no greater challenge in artificial intelligence than building and deploying fully autonomous technology ..."
+    publishedDateTime: 2021-06-16T17:01:00Z
+    webUrl: "https://www.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
+    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
+    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
+    type: article
+    provider:
+      name: RFI
+      domain: www.rfi.fr
+    quality: 74
+    images:
+      - url: "https://s.rfi.fr/media/display/1a82ac8c-7171-11eb-815a-005056a964fe/w:1280/p:16x9/117cff4968f60467c0877df7eaa1c1f280054c92.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-06-16T19:30:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot exec talks ‘humble’ AI, regulation"
-    excerpt: "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant."
-    publishedDateTime: 2021-06-14T14:50:00Z
-    webUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/"
-    ampWebUrl: "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DataRobot adds automated AI reports, Snowflake integration"
     excerpt: "The newest version of the DataRobot platform introduces time series model enhancements, automated AI reports, and more."
     publishedDateTime: 2021-06-15T15:55:00Z

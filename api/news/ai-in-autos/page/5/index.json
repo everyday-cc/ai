@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-14-ponyais-self-driving-car-takes-media-for-test-drive.md",
+      "title": "Pony.ai's self-driving car takes media for test drive",
+      "excerpt": "Rough Cuts Pony.ai's self-driving car takes media for test drive. Posted . Autonomous car company Pony.ai, backed by Toyota Motor Corp, showcased its self-driving vehicle utilisin",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVECXWMSF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210514&i=OVECXWMSF&r=OVECXWMSF&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-top-5-most-controversial-scandals-in-ai-and-big-data.md",
       "title": "Top 5 Most Controversial Scandals in AI and Big Data",
       "excerpt": "Hi-tech companies, who invest huge funds on managing and examining real-time data explosion, have experienced the most scandalous controversies in the history of AI and Big Data, which take years to s",
@@ -1347,53 +1399,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
-      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
-      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
-      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AI in Autos",
-        "AI in Finance"
       ]
     }
   ],

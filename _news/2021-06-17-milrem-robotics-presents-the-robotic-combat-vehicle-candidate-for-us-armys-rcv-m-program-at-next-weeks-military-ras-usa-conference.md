@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Milrem Robotics Presents the Robotic Combat Vehicle Candidate for US Army’s RCV-M Program at Next Week’s Military RAS USA Conference"
+    excerpt: "Sponsor Milrem Robotics will be presenting at SMi Group’s Military Robotics and Autonomous Systems USA virtual conference next week."
+    publishedDateTime: 2021-06-19T07:04:00Z
+    webUrl: "https://www.pr.com/press-release/838738"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 3
+
 secured: "SRt9/b8yxuZZhmik5j4JgUSjB1YOU39MzdPbG7/dNlYWyJCdM3L7kMknxrMzrovkrVPLJamZ12b0xplZihRnGWSAKAWIWsi3dTQcTKc9A+BuP9s6Fiw+BOTJHPY68HOau7N9VJiTCY7BY1laDItjx6L7gTdACYBIdWZPAL2pWgE5IAkIeyqfxEag1I/CLaWkQYga1QZGmtG4EcwnhAxT1JNhsz3Ys4XnO5w54KQJ6dSrKRWFMgNdxqoFyoqibRIYvwJesBcgpZi6Pp7C9PWXu5Q91xhTZbWD3mxCaw9tpVBrN+bQs72lSg6BhB/5QtOzQF1boS63wB2hAxvfm0EjVtuo/rdtXVHkM3xPkVn+bEo=;I+t6Th9XAva5EELwsJo5hw=="
 ---
 

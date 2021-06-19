@@ -2,6 +2,206 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-05-18-helping-students-of-all-ages-flourish-in-the-era-of-artificial-intelligence.md",
+      "title": "Helping students of all ages flourish in the era of artificial intelligence",
+      "excerpt": "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
+      "originalUrl": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202105/MIT-RAISE-01-PRESS.jpg",
+          "width": 2476,
+          "height": 1651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated.md",
+      "title": "Moderna leveraging its 'AI factory' to revolutionise the way diseases are treated",
+      "excerpt": "The biotech firm was built in the cloud and, as a result, it's been able to speed up every step of the process required to develop a COVID-19 vaccine. It now has plans to take its learnings further to revolutionise the way diseases are treated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "originalUrl": "https://www.zdnet.com/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2020/04/09/ceef9f66-5c03-441e-b01b-07f3d706125b/coronavirus.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "publishedDateTime": "2021-05-17T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-rise-of-the-robots-bank-of-america-names-its-favorite-stocks-for-our-post-covid-future.md",
+      "title": "Rise of the robots: Bank of America names its favorite stocks for our post-Covid future",
+      "excerpt": "As technologies like automation and AI are rapidly adopted, strategists at BofA name a slew of stocks set to benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106883283-1621003066000-gettyimages-1221937566-dsc04379gi.jpeg?v=1621003179",
+          "width": 5831,
+          "height": 3888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-california-places-teslas-full-self-driving-under-review.md",
+      "title": "California places Tesla's 'Full Self-Driving' under review",
+      "excerpt": "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_4a35d5a5f27e4bffb6600fd2462f18dc_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "publishedDateTime": "2021-05-17T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
       "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
       "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
@@ -951,178 +1151,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-waymo-self-driving-taxi-confused-by-traffic-cones-flees-help.md",
-      "title": "Waymo self-driving taxi confused by traffic cones flees help",
-      "excerpt": "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-57144755",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-57144755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-57144755.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp",
-      "publishedDateTime": "2021-05-17T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-learning-from-the-past-to-future-proof-your-customer-service-operation.md",
-      "title": "Learning From The Past To Future-Proof Your Customer Service Operation",
-      "excerpt": "After 1918, telephone companies were never the same because their entire trajectory of innovation changed, as did the expectations of their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2b1ba333bc3442553ebf61%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
-      "publishedDateTime": "2021-05-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-truliant-federal-credit-union-invests-in-boston-area-fintech-for-ai-capabilities.md",
-      "title": "Truliant Federal Credit Union invests in Boston-area fintech for AI capabilities",
-      "excerpt": "\"This is the way the world is moving,\" says Karan Kashyap, CEO and co-founder of Posh Technologies. \"This is the way that the big banks are already moving, and if you don't understand that, then it's going to just be harder for you to stay relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/charlotte/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html",
-      "originalUrl": "https://www.bizjournals.com/charlotte/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-international-automaker-to-launch-self-driving-cars-in-pakistan.md",
-      "title": "International automaker to launch self driving cars in Pakistan",
-      "excerpt": "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety",
-      "sourceUrl": null,
-      "webUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "originalUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "cdnAmpWebUrl": "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "publishedDateTime": "2021-05-17T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Islamabad",
-        "domain": "timesofislamabad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

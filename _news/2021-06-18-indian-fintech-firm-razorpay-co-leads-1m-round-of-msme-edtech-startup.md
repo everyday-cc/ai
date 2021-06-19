@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m
 webUrl: "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ topics:
   - AI
 
 related:
+  - title: "A Fintech IPO to Watch and a Very Complex SPAC Deal"
+    excerpt: "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY"
+    publishedDateTime: 2021-06-16T22:52:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
   - title: "United Fintech Announces Advisory Board of World-Class Experts"
     excerpt: "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,"
     publishedDateTime: 2021-06-15T12:50:00Z
