@@ -122,20 +122,15 @@ related:
         height: 472
         isCached: true
   - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
-    publishedDateTime: 2021-06-17T07:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
+    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
+    publishedDateTime: 2021-06-17T07:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
-        width: 2700
-        height: 1413
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 24
 
-secured: "DeZC7mnmJuUreSPhf9yXOkXA4r/tPpfTscHRLso/H0vHDc+bARKt2LE878D7XKxFHn8KDFERoft9vQ2VoG2SlqqIEAPo+OLITkQJARi3Kk4laLkI3G7NpoomRr2BcsiO/hggDiZz/Yi9skZFk/0GQrC99z3nzhA+1AeVSVVaA61qKc06oVTjHRlI86dV6KN3WuV7pWmPUlTOPVoBTN43v8lHJ3rANRwCJX33/NeAH0+VqH0lEHFsaJHeGw1RhmysFkC8m27gQJAnOMzUM3rTXK6bNE4RUQnceO5Vm6V0x4NNWkTbtmNTMknTGlee6bk+OYQe1Pc0baPO9AT1NgYxpJIY5GqkJFh4QH4akCPdtd4=;80IK99riU4eKLXNFpZgw1g=="
+secured: "2PzJ4bfxwd9TVRDgVMCrpLQ1FEnJFtNnnmD6jIhPbMj7W7T3U7pACIiYTfo7LJD8BEJSzgKkMuXSJngDTBQG+Y6yOrJCdmOKMVOKuqROb7OKi7sdO4HY41cudfdz8I3lXtWLpdPsxUrOA6jsbt6MKfH2AShVKtnqgGhWL4rkXUShWw3YTvHNSAz/+Qu0gKxe2MzUWWGmWW++BIuWVNW0Z49mihIuSseEUJiBheXfF0vC4aTwWOO2ZUl2V/mRr7TeEBvL4CW6kPy55BT6B+fcvBPda0r7+YWm1hcC/yv3c15S0kPNsbvuZjQeX4xRQh66NZrmSkdk1SHDHvI9cTcVvleoqGPUui5HpwKQwtDgxo8=;ktdSbnfE/HoN5C7QZKQqEQ=="
 ---
 

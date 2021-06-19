@@ -126,13 +126,13 @@ related:
       domain: financialbuzz.com
     quality: 19
   - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
     publishedDateTime: 2021-06-18T06:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+    webUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 8
 
 secured: "dNWDxfNKJwJIPR5hfpXbCjd/ASaJBW4jkumpbD9I9FRoAPiRQlkqJPHNFD1kcqwR94RH4T+DC6ajYBTdZMpQe5ytMUzcodIlMVlyt2XALgaDsP32h5vaFLL0GYELezmjErj/PPPLM7vWmKOOrTRshwhOINv7+u5zY7tdqYAvXX6CD/Ohb9nONB1EbowPDtXTSljmygOkSdfqCn7w5dEfAjfLtklzVW83DwgMLK9juR6GQ7iySUXTAI2RF63DmFtXT2OBbVeGycM5RjlWA0xPMSTSEr+8yJJ5J0i5MkzjNKyPuuyBZDy3eRt+zp+X6qEbn97phn2bfUbUD2o1Kx/WJi6Bdnz8ns/OPqcd126ERFwX6KQ0oSoa+MmF5fzmJONqjdQnWOQGzADAjIz50oa5hhJMPAluppXlI676hS/U8mBXkcNl/OIVvGH8YS8kVenurW76XvxuHvPt5BSM8xU4EPM6o0d7khSm6G7KtaZlGKME1aCbQIfQKBGwKxmc+rbbfH0f038pogjTQSZQ1Afc9A==;gZdwYJe3/WFLhxC1BZSn1A=="

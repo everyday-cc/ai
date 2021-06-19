@@ -2,17 +2,17 @@
 category: news
 title: "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte"
 excerpt: "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution."
-publishedDateTime: 2021-06-15T12:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
+publishedDateTime: 2021-06-15T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/exscientia-acquires-personalised-medicine-ai-pioneer-allcyte/"
+webUrl: "https://www.financialbuzz.com/exscientia-acquires-personalised-medicine-ai-pioneer-allcyte/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Healthcare
@@ -62,6 +62,6 @@ related:
         height: 460
         isCached: true
 
-secured: "Gje4e7OPzn+U2TBz8PpIMa7jqDiy+ySAe9E5epsd51w1k0kVPFzYydU/A01AZ2RmpNjSAz7aooYf3lOdLY4jsH80Z1Y9GfClkhtNt5L7PzAE2co9tSZqnEvfttfDMuuLVM6EvTUqjazPzGdUWdtKvNVb4Q4bY5pjSKdC75OsHHGbhP3iwy97TlkJd2/MyJG4dOdoJRuupWYGdoeKJxsMESGFdwsvgCPlXzSTFHHzDwKNappZC10n1XQTWlbEYR9XBAWOppK7qyEjK8KLHyVUIjwfKWCRp18ekHwoVad7/W6apN7mXC6YbgHbjeRP0Z3jB6S+IeJOKtRudSh/PjhbY6OY3dRdKYAnFzmcYtGvCvA=;TLI7DrLuXMmj3BV+Oc9x9Q=="
+secured: "DbQyh329v5w9TR+Iq1aDH5muxiBX6J4qgLUGa7bcndgNY1Zxrh1OyOiNX3CDUM6qIz4Vhliprd6Y7KD7cf4CCVVhw+kJgV1fuxljENuMvrFIliBqYHfbS7+lU1khdaSTRXxifWZCezxAzp6FkjzYMuYUZI6lmf3MVooiT21pq7kabDMrpsEoK4wgkneNIiJU1Sdqt6sPIXLlCosEuBoo+YkRFiVkz4F+genwBeYscfTjRH3Rm1o50roNl3gMqVsR6ImLFb2uDhjRM4ra3TRHDT+aBt3iVylGsKx9HmN/jH22wqot6IVrVHKdZk1LlJPVVS8zNrF+JYI10zOjxnojawbYTok2vkQL6ALUM+HphRo=;YPyFdc6DAEJna+cy6SUl2Q=="
 ---
 

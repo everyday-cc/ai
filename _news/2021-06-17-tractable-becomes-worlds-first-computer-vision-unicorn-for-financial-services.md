@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Tractable becomes world's first computer vision unicorn for financial services"
-excerpt: "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by"
-publishedDateTime: 2021-06-17T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
-webUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
+excerpt: "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,"
+publishedDateTime: 2021-06-17T05:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook"
-    width: 678
-    height: 355
-    isCached: true
 
 related:
   - title: "Billion-dollar valuation for UK financial computer vision firm Tractable"
@@ -40,6 +34,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gil5MrtF1/J8S8NIOawY+LfBXEj6M1LBu+fpzRtUKNTtYBi6b7Ga6akimchQlFW4QYvbwu0d91khkgtmz213qHexsKmn3gcJ/MmGgTwowgQHmbLWH8/NKwNc8IdWx7yU5bUMdttnpSvNIjSM1lkPUEXhKzPdcZegm8c7D8eNr++S80/5fEzjPHtmeXXuDDnQNYyjx7L8aoFJA3mnw4tVJ5jfKedrWxaaDu5u7MoEu7a/I5jrr/1mnV+eLY40nEqFQsYlaixgVnAUdrUVMoQgG5U/MgQ3VXQznWJc+71SAmzyqqS4d6ouVsAKJl9543WkysZIcmRNHiK+XdKEHXF5dQEw56yMavPLipLMhOKio02kAF0caYwI/OgDA5Ah4XADyV0c6mPxERHW6qI8/nA842sZxNMNGbiD38l76PDB/hcDQCpHi2sy+p4CBizfwD5AxjVynAT8/xWZbY6WRX8hEbA4DIWUTTaUfN3xiY33Fa1Se3P5ndCWuudQ5N6V3CDNNUiE8a+ZPVmkKeFB2tG6hg==;Z5isLqdDkjKiid/BTy9UbA=="
+secured: "QbjF/i8CD42TTr3pGJSvqaLPxKRC9n2ufDMC2qthEoOkL5VJbvtEgUwHJX3RZ1x3BIn+q9e76HEBxyfJu8xjhV98kwYhl0sTHZxNe0jt66BUvPI3jYwjCNvjwezMTMjVSZ71/p4kvJQYBvvUYjcPcTKlF7THjQdTojaFZZfaz7UlZxWh6xteoxWX4lg7P4ZRdkXqh0EBfZdgwyrgTHZpKWncA4JAg3DHFcoDpi33lAPs7fHwmpeOdBvxsCLFOEnqVHrCTAgu6+/bImOmbnm8Vhi9AljN9A3/zG1ZDs+8VncxsgQQ66Ec02fZV/MSgdAWcXY9XQIaQe3OXgF5RL42TOhy1H4KFr7fpMFGNu2q6+o=;G5FkH82DmJUTONbZh6rXig=="
 ---
 

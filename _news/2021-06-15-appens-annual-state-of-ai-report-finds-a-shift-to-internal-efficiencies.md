@@ -22,7 +22,7 @@ related:
   - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
     excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
     publishedDateTime: 2021-06-17T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
     type: article
     provider:
       name: TMCnet
