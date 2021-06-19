@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Ellen M. Lord, former Under Secretary of Defense for Acquisition and Sustainment, joins Clarifai's Public Sector Advisory Council"
-excerpt: "Today, Clarifai announced that Ellen M. Lord, the former Under Secretary of Defense for Acquisition and Sustainment, has joined the company as senior advisor and member of its Public Sector Advisory Council."
-publishedDateTime: 2021-06-18T14:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/18/9393430.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/18/9393430.htm"
+excerpt: "Today, Clarifai announced that Ellen M. Lord, the former Under Secretary of Defense for Acquisition and Sustainment, has joined the company as senior"
+publishedDateTime: 2021-06-18T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ellen-m-lord-former-under-secretary-of-defense-for-acquisition-and-sustainment-joins-clarifais-public/article_f66180e4-a8b0-55c0-b91a-e9d5daa60bd4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ellen-m-lord-former-under-secretary-of-defense-for-acquisition-and-sustainment-joins-clarifais-public/article_f66180e4-a8b0-55c0-b91a-e9d5daa60bd4.html"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1535138/Clarifai_Ellen_Lord.jpg"
-    width: 400
-    height: 369
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/e4/ee4a5c73-ea85-572b-9b19-3db7162c8ae2/60cca7d85d703.image.jpg?resize=432%2C398"
+    width: 432
+    height: 398
     isCached: true
 
-secured: "W9ex06Mg2xcTycSja2yh6kD5HvL+p0QUlW0NIwmH2hmNiMQxrljJzRmfsKLJeOaHpbQ1nyRJZ1BfaaGpwRAl1G3tYcrC0wb1ztPRqmNI1d4F5FE0pHAcRH6b1a7m09qnwODSEXQ3zG0ACIVcBrOC8JIO5mTFfckkMTEr0P6Wwcy9BbLtgd74M0WnESlOJINMmr/JNZh15kZysnUkCc5XTvNDmL4OZj5SWxfAVY3F71A27CbXEpE4FzTGzemYLKSkDdO4Xn1k0oFweDKpg+RA5oIsL8f1MTLOZF/HJq7xz8fW/U5dckdLzQrDbQEGnJsHhrd8oHkS6SxTXS/eG0r/hBxIDZ7Mq37Zwnms1PNmAvvRqp2NQ7YhjxjikU2at2vq7hI+IRV9Kun2QhamleTMXz/NzU39l4vzvaT7sVuAgXoGXDJ3hGO0kG+PZk6wjPo4DE0bnpW/GWHCk0CgMF+qc6NHTa9fLa2il4chY4bmz0loHIAGboe31m7odcVsA0VAhxoW9lrOHUPLaEO8wTQ7Fg==;3PfTWLvC5BGNUur/lPDblw=="
+secured: "VWMp6EuD28aRr3tjNkkkueimwMlsuqjiEVIe2yLlqyhxvrIE4HQA9cACEAhtcyQxon7ZBT2fQXKb97U9P2xNvhgLVDTpdWpYT+yaBpNLUVUeR317BXjTQkBMBXJeQ56qcWZabQ52JEk4JqurP5411YAv+iB0Jnkru8Cs6YqbvnLqRRrMDKtBGNmSgxAXHp7k54C//kTOt2xq1W+8ghopCy4PNA/AUCfh6o9u6nVTn6mDzmcWzml9Yagabc6sdOqhZB6LDetGyPF+BT5btuxrQo4u2gpIWM7VuVXZSS9XNgqtxciTu4GCU7zuhGWhtBffxg8ok2QDPER1QcyQwBfeFplCEvRRrM41dGU9ji1FIvA=;jLxb5BAze+uGyHpQPZoQQw=="
 ---
 

@@ -623,15 +623,24 @@
     {
       "path": "_news/2021-06-08-el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology.md",
       "title": "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology",
-      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients",
+      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients an innovative adaptive radiation therapy called Ethos™. The advanced radiation oncology technology,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -639,8 +648,8 @@
       "publishedDateTime": "2021-06-08T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1061,49 +1070,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-03-ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it.md",
-      "title": "AI outperforms humans in creating cancer treatments, but do doctors trust it?",
-      "excerpt": "(Toronto, June 3, 2021) -- The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uhn-aoh060221.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uhn-aoh060221.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/266747_web.jpg",
-          "width": 1440,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic.md",
       "title": "How Healthcare Will Continue To Rely On AI To Save Lives During This Pandemic",
       "excerpt": "When we work alongside our customers on strategies to help them employ AI algorithms within their health care operations, we see industry leaders ensuring they have a solid data strategy in place.",
@@ -1228,6 +1194,49 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it.md",
+      "title": "AI outperforms humans in creating cancer treatments, but do doctors trust it?",
+      "excerpt": "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp",
+      "publishedDateTime": "2021-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

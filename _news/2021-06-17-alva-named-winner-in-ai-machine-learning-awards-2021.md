@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Alva Named Winner in AI & Machine Learning Awards 2021"
-excerpt: "PRNewswire/ -- alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine Learning Awards. This award recognises alva's ESG Intelligence as a machine learning solution that brings something genuinely new to its users,"
-publishedDateTime: 2021-06-17T15:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392976.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392976.htm"
+excerpt: "PRNewswire/ -- alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine"
+publishedDateTime: 2021-06-17T15:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alva-named-winner-in-ai-machine-learning-awards-2021/article_b6c81308-a021-5589-86e5-bd216b2f3093.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alva-named-winner-in-ai-machine-learning-awards-2021/article_b6c81308-a021-5589-86e5-bd216b2f3093.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
   - Machine Learning
 
-secured: "ZpedSF1PuRsBzj/f5fQ+qZP1GM9l4kOpmb4P+Bv66UW+btmMVv8qBOB9HtGk4lVytr+w/mR8wHGFynlujRtqKNt3g8/CYcT5VQmgoEGjy+f/3Za190PyFwoFN/litlvYsOtjeVZVP0xYTp+TazeIDcj4a7W04t3HdexuqdsW91xehdUaNBvJP+hTz1y+W1jwihd3UqVgvLFbGyVii+C4SF4Wno2EyKjoz5fInfk3KzFalKI9t/90xwrF1sz6UiBiWapvIR8FMWhykyZ6/ftD0d1mUIzFAwDCXuZpFLUCTGYdcqLRAMm+EEd7L9M1YQUj+8oiuEN9Y+IpfOchmmg7RVCT49rakq0FDmlS5qMJlmM=;+nX+lrs9tlIgIHJo5DvJjw=="
+secured: "SNMDFEyev+8VYDqAYTbT88IIrPikxNUrd+xRrKCUgyScC2C1leUCHgK01ynzTqgFet65XrIw4pKEJ1c8BF7+XiJdS9+zC3rc9WFaDe+KyZxCBp2ilVgxN4geX2HVN7p0WfJlfA0YwXx1H1P9N362z/k4bDqo5pmEh9uwhFeKDFQa+M/jFck4Wa//M3G24PDS9oZAzc0nTHpHwJ00ufwVl7cvvv1e5hax4Fcx0LV3Ibg4x3/AtmzJG7wK3jnYH8v3G7QDk7IzQan1Gnrer0Rdiy9AnhfB5S681c5tpDMwmSIIlOpEtR+vy6LuJIVazaW6QcB4RCPjMIxvmH+XgKo5EliseH2BEw6NMBaxlTbGGHY=;0Kzs7qclgTfO+DOnOGRxPQ=="
 ---
 

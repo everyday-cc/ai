@@ -287,6 +287,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Waymo raises $2.5b to rev self-driving cars"
+    excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road.The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
+    publishedDateTime: 2021-06-19T19:26:00Z
+    webUrl: "https://jordantimes.com/news/business/waymo-raises-25b-rev-self-driving-cars"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 54
+    images:
+      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/3--WAYMO.jpg?itok=iyC0oLIx"
+        width: 870
+        height: 440
+        isCached: true
   - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
     excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
     publishedDateTime: 2021-06-17T01:16:00Z

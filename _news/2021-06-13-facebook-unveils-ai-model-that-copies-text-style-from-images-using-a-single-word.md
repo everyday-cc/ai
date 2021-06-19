@@ -5,6 +5,8 @@ excerpt: "Researchers have developed the first self-supervised AI model that can
 publishedDateTime: 2021-06-13T00:22:00Z
 originalUrl: "https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327"
 webUrl: "https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327"
+ampWebUrl: "https://gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-unveils-ai-model-that-copies-text-style-from-i-1847086327/amp"
 type: article
 quality: 42
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Facebook’s AI moderator will tell group admins when users are beefing in the comments"
@@ -235,6 +244,6 @@ related:
         height: 480
         isCached: true
 
-secured: "vB/AMJtyVH226S2UOeCjL9/wodlKQfQm18rFbxXyQ+nllmYBjGfoSJjtLnNwld02MVNT7xbfRpuJQgc9fYeXYp3rYmmQXt5DAQ5is0P+E5D5oY+/xWC+RuFApaFNmSzWVb1GAzt2OuQ7h7vF4XNXEy/uJSEubttdnIe+r2J3Fahd/eK2ByM/OM7S1iNilScfZAd7sqZRgOnzM8LCipI1q+d0mz/vZAiuA4fShwiGim+Eqz1LF+00/kYxZE23B0RrimTv0v4SzTH71ps2g4Q6jbuVIKcRIThZH0knXS1Wm5OkCDlrBfHkJ25bGC7080VAeUYmSn3UQIPIZQ7monm0vCoWg2ezH1u8D5tBS0ZhiAeBnn1I+66gSGoiA2FQx/xqTcmaPufdGwkHaCGk96w4RrjqCaBWaucDMovdbSkAZmPLoh7Q3UxVFJpaWwZuMYGARtL/UGbaqaQ9mUEQCF/mbYkOWb3gJzNzAF0kL4Db0yiRRurjqMPmFVSd3gxRDehLV7dqIdww9zN99lRYTcBdBQ==;Tqyf8QrIAVzuaDRCgVeCYg=="
+secured: "3MBBiYBDRG8+sNNzBFjAbpVg5O3U+AI1oCi0vxTIVxtPvYiISTQXqPL8AUTVR64inO6Cyo8uLqJA6I6E4LuZq4Kl9JqodZGrpuZVkYkTd94U7WenDD/vcsYElnKd8vZFRU0mH63521W2sTqxtCGKZw4SG5RJRp/2pSzoV8mBUd9biZXDbt7UUumnV9W3FtGgwAnmGbIvszkiGh7Pi5HknfYtyqr2/f9fD+X+2eMHNxNRCERITQj3Su7QoHGbkEPZ1wH2vbXhHgs+YehpUjLLmN5TKXlz3tFR0IXwZuLjWnDk9+3okX5a/jFNZ1nvvH09fo+tu+ImzZfRFg9rPXk8zx2MFYliH8XQfxMDXRAIzUw=;linhpoeoCBi7Kqk0aIkuYw=="
 ---
 

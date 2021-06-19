@@ -36,20 +36,6 @@ related:
         width: 959
         height: 499
         isCached: true
-  - title: "Chinese startup's AI-based system to analyze road conditions"
-    excerpt: "Beijing Sinoits Tech, a Chinese tech startup that develops vehicle recognition technology, has raised tens of millions of yuan ($3 million to $5 million) in a pre-Series A funding round, 36Kr has learned."
-    publishedDateTime: 2021-06-15T03:16:00Z
-    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-startup-s-AI-based-system-to-analyze-road-conditions"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F6%252F5%252F34745661-3-eng-GB%252FCropped-1623642014%25E4%25BA%25BA%25E3%2583%25BB%25E8%25BB%258A%25E3%2583%25BB%25E9%2581%2593%25E8%25B7%25AF%25E3%2583%25BB%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E5%259B%259B%25E8%25A6%2581%25E7%25B4%25A0%25E3%2582%2592%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A6%25E5%258D%2594%25E8%25AA%25BF.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "Vz0nUUY/lliHweFYVLwmbBHG4D1nylu+iCtna/QgNOZQyXRTS7gDV+QXtVBAulJCYoC2dsctAV1JYwHQ/xV+mPN3paU5RYiyfUvpJYw84te+V9eVRQ0FeP2Uv1ZdUdeiETrF5L1kktcC9Dw1Ru8c9BbWVEwHlCpBQJqnw4ZSfqAqLMNaYEXmY6GQ424lFEzuvGG7rX77Fckmw0TQul22i2667ET7UK+njo/giXus+G2outV05qCsR3UR//IPi8kfU3NpOuyT5zbkRicyPZ2gdqGdrKsMozzklR6mAWrAA9D4Jemh+GXABof9tdZ775biECJ7CsWS84xln2MzbRTt3q2kQx1ezW304RSVz6KUhwI=;3YhZ+2dikSrHUB+X6HQ8dQ=="
 ---

@@ -279,10 +279,10 @@
     {
       "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
       "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "SAN FRANCISCO, June 7, 2021 /PRNewswire/ -- Intento, a leading AI integration ... with machine translation serving as a foundational gateway to Intento's full scope of natural language technologies.",
+      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/intento-named-a-2021-cool-vendor-by-gartner-301307035.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/intento-named-a-2021-cool-vendor-by-gartner-301307035.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -290,13 +290,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T11:12:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21457975",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21457975",
+      "publishedDateTime": "2021-06-07T11:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -306,7 +306,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI"
       ]
     },

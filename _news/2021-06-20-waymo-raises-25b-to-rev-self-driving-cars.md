@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
-excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
-publishedDateTime: 2021-06-16T14:14:00Z
-originalUrl: "https://techcrunch.com/2021/06/16/waymo-alphabets-self-driving-arm-raises-2-5b-in-second-external-investment-round/"
-webUrl: "https://techcrunch.com/2021/06/16/waymo-alphabets-self-driving-arm-raises-2-5b-in-second-external-investment-round/"
+title: "Waymo raises $2.5b to rev self-driving cars"
+excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road.The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
+publishedDateTime: 2021-06-19T19:26:00Z
+originalUrl: "https://jordantimes.com/news/business/waymo-raises-25b-rev-self-driving-cars"
+webUrl: "https://jordantimes.com/news/business/waymo-raises-25b-rev-self-driving-cars"
 type: article
-quality: 57
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Jordan Times
+  domain: jordantimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/3--WAYMO.jpg?itok=iyC0oLIx"
+    width: 870
+    height: 440
+    isCached: true
 
 related:
   - title: "Alphabet's self-driving car company Waymo announces $2.5 billion investment round"
@@ -224,6 +226,15 @@ related:
         width: 6500
         height: 4333
         isCached: true
+  - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
+    excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
+    publishedDateTime: 2021-06-16T14:14:00Z
+    webUrl: "https://techcrunch.com/2021/06/16/waymo-alphabets-self-driving-arm-raises-2-5b-in-second-external-investment-round/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 57
   - title: "Waymo Raises $2.5 Bn To Rev Self-driving Cars"
     excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road. The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
     publishedDateTime: 2021-06-16T16:53:00Z
@@ -280,20 +291,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Waymo raises $2.5b to rev self-driving cars"
-    excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road.The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
-    publishedDateTime: 2021-06-19T19:26:00Z
-    webUrl: "https://jordantimes.com/news/business/waymo-raises-25b-rev-self-driving-cars"
-    type: article
-    provider:
-      name: The Jordan Times
-      domain: jordantimes.com
-    quality: 54
-    images:
-      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/3--WAYMO.jpg?itok=iyC0oLIx"
-        width: 870
-        height: 440
-        isCached: true
   - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
     excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
     publishedDateTime: 2021-06-17T01:16:00Z
@@ -340,6 +337,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "vm6N+XWk3JIm2piFcqzlLrGh+BnnodM5fKdGtdIbfvcXPq/uX08Q1B8N4Ws8SsrJCtO1IRhCXE1hHdHxUt3xegtFh9akvScVWOqK9/BOF76GWYX0C/eSZIqXQkSEOP3toDFuXHylpgeTX5an+H8pJRk1GIzKH7Ujw4V7FTz3755HQRs2JFWatlswAjeAZ7OfAT9+14A+7FMqrhSpjsV9gtc5AW3J6pZbBhuPMyiNbxgybD/Kl1y8QrO6o3Cyt+jkWPuisLHsCNSSpATPvqirjFU+aU/H1k/y96lBpCgWA5hQGSY2JiFct1ydfMrAOvfQ/Nj3/ff/ai05Ff/nZwsW/O64klbHfn3258fc04+lOZ//qWAU2SP7Hgv9yn44/cA2RTiz9JoFqklPn/hBy9JSPUmBf5QtmAY4mg2H80JhIqZF6eQFSTmuqM7kJ8BT0ifwDu5I/RMkH1kx/UiIEk6ELV4Qrqq2MG1lA7+BaDPtUZcXlrQwnhTu0lV5QKs4sl/VYzPVpXdUGJS+vWczSD+Y2A==;V6ZNDi5Qmcan71IXftghcA=="
+secured: "4PjJvUhj2btTY671KxizSnVsVFqiXbm8oSRUOG0mYb2NwQF/dpfgQLj9sRC+MxUZT7s4pmlOocgrpbV8PqRazPmc8Rv/y3tEEJcE+J4ARrWh7SXwM99TwAY7lxh990UA7V7SxJPqyDtxw3aXWodu82E3FjlDxFgSQWnENmt8biSC+SFzIHkoJu3utsLq2ExQ25MLbbrHD5P97b5XFKZ6Fm+VEKpYAXkx9Cco3MtWJpUUxCg1lA9Jst3bB1Flqzft7FdbCFSnCThWg6lHaZR4rG2hYBFLu3359w5S+bCKayfh0cz/rSNFRf0G2pNuZ1rWOTFx2B/5Wk7GZobOl57eB+shi69TVIIEHMgTToxcusg=;M05uCIzm5T5uhxPB70qqPg=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI outperforms humans in creating cancer treatments, but do doctors trust it?"
-excerpt: "(Toronto, June 3, 2021) -- The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a ..."
-publishedDateTime: 2021-06-03T15:02:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-06/uhn-aoh060221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uhn-aoh060221.php"
+excerpt: "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving ..."
+publishedDateTime: 2021-06-03T00:00:00Z
+originalUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.html"
+webUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-outperforms-humans-cancer-treatments.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/266747_web.jpg"
-    width: 1440
-    height: 1800
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
-secured: "aqLr5ByoiuqcTrU7njM9lwsVPqujtwgWmvij5vNV8rGcAqQy9sfA/loFFFOyGtTJ4eDo4Y9bmZuWDUH0WaVJflkB9pFOjplW3kiyUCVCezt9ISSoE28afSYoSbykvskCOZxk5JTiU4XwH+H9DjrZ1tpyYIFcY3P3ZHTlTYzeNm0lbUGF/02X0FjDJPVtxegurdawditeqt4FSqEHVDI6hGDIwoIPMgLCESS0jVrwTFM2c9xnukPW4r1+mu2duOgMr0CMczjAIkLEz9jWyZrpUiwhcu1K55i9UFKS/YfFJV7ksNSwEPquChQ8V7fuyWAoDmcAHTEX2CmYokwk8bQhT6XZLWwJV3bFHcf8cNBJ9xA=;2sPKlM2fj4gl+nxs3lQGSw=="
+secured: "1sHuRcnEYmHIbIWhieXliRQLxH1z12vviBN3QgS4nS9JNpglEHKKC+KcdA/UUYwGUXGmeT2Sx/9sIs9rIsYFizR2wfuvTbeIPlTgplwOPvVCGVFgkb+WonxqTnaWPg/rMv2UMfqU8nx+Ozxxmft/42ZAo+v8fGfrK6p019y8cZBeztDCnMrV2Vo4ncBXg5hKS58owDoD16ilHVF221gpEalhqSmV6YVXtMH02vnKSG89eXoj3ZAvOshjzlacECeP1kl73ABMkQ2yyie3bnUq/I93Z0dqf7o7wannNy9+EVv3o9DtQDoCuG3ozqFd3JAiYMQGvnH8bP07xyI8YpSzGLyS2G8AG0LRfv9CsLq+wco=;+jWD6ebRzmmxipPGKh6JKw=="
 ---
 
