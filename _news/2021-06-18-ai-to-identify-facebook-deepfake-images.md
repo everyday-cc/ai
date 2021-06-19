@@ -209,20 +209,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook Unveils AI Model That Copies Text Style From Images"
-    excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
-    publishedDateTime: 2021-06-14T18:08:00Z
-    webUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
-        width: 965
-        height: 543
-        isCached: true
   - title: "Today In Payments: Web Inventor Will Auction Source Code As NFT; Shop Pay Available To Facebook, Google Merchants"
     excerpt: "The inventor of the World Wide Web is auctioning off its source code on an NFT, and Shop Pay will soon be available to Facebook and Google merchants."
     publishedDateTime: 2021-06-16T17:54:00Z

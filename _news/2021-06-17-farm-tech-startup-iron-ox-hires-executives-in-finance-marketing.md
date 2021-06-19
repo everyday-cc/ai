@@ -29,13 +29,13 @@ images:
 related:
   - title: "Farm Tech Startup Iron Ox Hires First CFO and Head of Marketing As Company Prepares for Hypergrowth"
     excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Chief Financial Officer and its first Head of Marketing this week as the company accelerates growth and expands its commercial footprint."
-    publishedDateTime: 2021-06-17T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
+    publishedDateTime: 2021-06-17T12:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
       - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
         width: 400

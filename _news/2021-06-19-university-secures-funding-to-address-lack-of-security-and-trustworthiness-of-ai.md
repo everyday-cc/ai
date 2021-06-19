@@ -1,28 +1,23 @@
 ---
 category: news
-title: "AI’s False Reports Can Deceive Cybersecurity Experts"
-excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
-publishedDateTime: 2021-06-18T03:30:00Z
-originalUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
-webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
+title: "University secures funding to address lack of security and trustworthiness of AI"
+excerpt: "A team at the University of Wolverhampton is creating an innovative new platform to help financial organisations and banks to add security, trust and explainability to their Artificial Intelligence (AI) based decisions."
+publishedDateTime: 2021-06-19T10:45:00Z
+originalUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
+webUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
 type: article
-quality: 39
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Wire
-  domain: thewire.in
+  name: University of Wolverhampton
+  domain: wlv.ac.uk
 
 topics:
-  - Facebook AI
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
-    width: 1280
-    height: 905
-    isCached: true
+  - AI in Security
 
 related:
   - title: "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity"
@@ -57,16 +52,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "University secures funding to address lack of security and trustworthiness of AI"
-    excerpt: "A team at the University of Wolverhampton is creating an innovative new platform to help financial organisations and banks to add security, trust and explainability to their Artificial Intelligence (AI) based decisions."
-    publishedDateTime: 2021-06-19T10:45:00Z
-    webUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
+  - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
+    excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
+    publishedDateTime: 2021-06-18T03:30:00Z
+    webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
     type: article
     provider:
-      name: University of Wolverhampton
-      domain: wlv.ac.uk
-    quality: 31
+      name: The Wire
+      domain: thewire.in
+    quality: 39
+    images:
+      - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
+        width: 1280
+        height: 905
+        isCached: true
 
-secured: "rHy/rSh/9D45PhfAaR1W5JFb+4Kl8V0yHQ4VD0uk9HrId74DG34m4kMGG4Mxa6NoMRQUKFqdPDMvdZozKH9MJNdR0Ec8E9ZxKhYt2NdhR54H4MMHv0YecdClgB2KK8nIjGVfZeefjlGCqjeOYUJzIBWI+0RFWYZ9TrSEBgWaidSYHijtLkQ3Qpw8hLWu/VkR0PCIHq5BD4Y02suOjKYMUGlqXMT9IfT4AkICByjIdU3KKxerTYZiRFcRllSi5oLn5Ahjih7HWGN+xKhvMcT8JJkWD5k+W9PG+FNEMeqbmBR5w0/OuG/pGjzPvJz+OvSlpfccmOl4IhSIr9JW51QvJJX1ee01gxEl7czXrB/uMkE=;RHIGT/KFGdvH6YIt884Wfg=="
+secured: "iPL9pkT+8wx3+oMmKg+I2X1NBP2rQQH5YY37D6p8hWYObBicVPDPuly0MmeByc9AgZj373l8MM7zhEtR6wp2NSUImD7/uftbwfGri0+6s68GVpsXmbcpxDSkW1GEa3MgDQdqfYy1Y5eKEEumAvbxk7RXr/KMoUqGVvDoPWGOYb5R2kW2k9WlkwW8OJTxVEPyyhKbxMUfPSubeW79iFOLioD0NxPgvLml+taj/xzDxcMY4b5LRNFzWKX5+k1IzSrIp8CzsuzgtouxWHXXS/kdPFDnE1Koyfj4CLY65P3nRCYOVpgfXTiiA+2aQjoETX3QoE2zjoQShumFDnq1/qXucM8GuddESXCdCsZlc2Y6FH8=;wZmHUlzj2trqZupxzH0oxQ=="
 ---
 

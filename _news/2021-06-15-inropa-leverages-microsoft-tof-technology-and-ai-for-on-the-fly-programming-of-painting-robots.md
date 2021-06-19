@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T22:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T20:46:00Z
+originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Jamal-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Theum Now Available in the Microsoft Azure Cloud"
@@ -142,6 +148,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
+    publishedDateTime: 2021-06-16T18:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
     excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-06-15T11:13:00Z
@@ -207,6 +222,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "x2Np08haKejEg76cIth9f8akvBSYTAtHzINotmpz+MZlesOJegyoRx+OdMFm0wOXrR1RSMwWU/3RE9aQb5w64qZizmAFkHEWcHy7iR/bN58RWXA8GgIHyb1HnGBzqWhV7v+AcVItApcB2GMSHOETj5iko489RyqtYsaZxXuvO2M9dihPZSQ6t2QFkd+5txaYmjGrtyWqWmBgt+dRkOXQQkouD1B0GJhPEQ/rTLYhF593ROztL3jqqe7Z9kAEfyuXuDWIcGRPJg2/8RGwjUF7fMwKLKtjyDhQPf4gyljBYzL6OHvIMphhEy6zTXgs7Zf93gp63ZSO0a2rrea0bY1CDPjdeAWtCnOsBfiJDYUJ4WU=;uR0EUAK8QB/8iF5YxxKGvA=="
+secured: "QJgiH0JZ6JfQrFvCOr3UhD+VRZVOuRbeJXxuYW+OHXJTo84pmV0xF+aoWqeCr+FbtGLq5edxJEuB+LKRBGfxmTq5awtmN1DBuxAecdT4O4RlKK/xfzL0GguHnHCQ58uE3HC5GzVoSujaYpKOu1zT9jGqG4gwvMDVQTkwIZQrPLIYJCgG1EWegfeQDJNRhOVPdmuALCVXKC8rNBbCEx54qfH0tljh97Japr2ZMnyi60dmW/8sMkByqET+0kLlYw/fYX83x1os/T2o5Xz/tEqoAhQ6PAJJ6lwxHWJYwXA1D+uDObP6sKu+j3YCVhfG/v5ThSbAbjcVKs3o0sXwPcFskNGDMLbJJ1moWFSUFZzPp5M=;3fo8Fn+j+cnmXrrY1291SA=="
 ---
 

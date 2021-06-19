@@ -1,46 +1,25 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
-publishedDateTime: 2021-06-17T18:20:00Z
-originalUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
-webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
+publishedDateTime: 2021-06-17T17:55:00Z
+originalUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
-quality: 29
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Automation World
-  domain: automationworld.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
-
-images:
-  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-    width: 1200
-    height: 675
-    isCached: true
+  - Machine Learning
 
 related:
-  - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"
-    excerpt: "NIT Karnataka has invited applications for a free online summer school on Machine and Deep Learning for Remote Sensing Applications"
-    publishedDateTime: 2021-06-14T19:04:00Z
-    webUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/"
-    ampWebUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 41
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
     excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
     publishedDateTime: 2021-06-17T15:48:00Z
@@ -55,16 +34,7 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Amazon India Introduces Machine Learning Summer School"
-    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
-    publishedDateTime: 2021-06-16T20:44:00Z
-    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
-secured: "pm0W6GC1s41wsDuQS6K5mN+gE4uZxdYinXaWaEc6/RXwqXl3+A8Z4tOwHSjrSXiV7vRz+aNv2r++4TDSoO8BBrgPkd/UGWnrzdaJilKMh+3qMEWr8CDDbucRjecaGtsSui4ofmQv9803FcPMU0jAkfHAqLfpa1RgoUN1khXr/wGfEERMtNGl8agBHfAkJCxFMvm9/s9+Hb4O15sU9u0ler7y+4DiZfSvbWnebEsBWsJXtTTIw8hKNwL1IUa2lzxUERnWWAwnZ3PNowVp+MwIkFt/Cq9Dx20ty8m1XPpEVK/t5bTsDqbcr6kps4mU2C1Fj4+oDHXy1ltNiLz+BcJCpJqfyhFYdvqpQWp0ogzsX3M=;X6i0EbYtsgb1PivbP7nlfA=="
+secured: "hg5S5W0eQEJFq6hWIXfnc6FOQXPeGBTOP+Gc7bRcV5xOkIjVqWHjBsam70Nm6hCBjUbDzjTIrz28epwVaW3JTcL/5D7mf8K/4SukRxTUEYeBVAFWNmntHzb4Hta6bejI6QX79GBmodNovnlgEUfN/9R7IMJty+AK+x43x+NTkvLiR75Vmbl4gL/xZFmcVy05G5x24bv5aPkGCGwCltBHkwmFUhszsjWtX8D6AJRV/3zGVShDg10JCuVKwVFflpo+h5ZDnM80kdfY9HVhbigQDemAYQMy9P0Il1HfHx97hA4/JL8eJVbN5akDKhbk1HOAtO8YtaTme9W7JX+D+3t6BFuKV1Wz89yp04GXccEJU3fXppRSUOUE4Vxb+cd2OdiJPM0Cm9ROEgXzYxtXH17KXpnF4kq9tD4AbmQuQwr5eQoT9XKJFG9qHPDbBCek17dpevXecxwZKtHMDkiQIq8Ga5HSXNrKbA3QD/wmKncCQZsglvRX0S2DJ88UG0ZnbAKZp2B6Aol0DHbFx8nks1SZ8g==;5Qti+hWlvfGIhkGFMRr6fw=="
 ---
 

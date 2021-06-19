@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/products/june-2021/seeq-machine-l
 webUrl: "https://www.automation.com/en-us/products/june-2021/seeq-machine-learning-features-process-engineering"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -27,45 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"
-    excerpt: "NIT Karnataka has invited applications for a free online summer school on Machine and Deep Learning for Remote Sensing Applications"
-    publishedDateTime: 2021-06-14T19:04:00Z
-    webUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/"
-    ampWebUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 41
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-    excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
-    publishedDateTime: 2021-06-17T18:20:00Z
-    webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
+    publishedDateTime: 2021-06-17T17:55:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 29
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon India Introduces Machine Learning Summer School"
-    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
-    publishedDateTime: 2021-06-16T20:44:00Z
-    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 11
 
 secured: "Ynx1XPcKVg1D9bjlizZmD4EnWNGMn/z+odjMKaI9e82oxXUicoy07PblYPt5MprGpjDeqyPUQSTl230Xryfkmy3XbhFP4nkMORgWQOCFSsmfOUmpZNzV1lqpL/9rICnc7q4R6fodcaRu88cK/aINnLSaOp4e3QH7EFJX0jYl/vI31iZh6ENCcU+njI/EBqGxejzg90Xhc8ioobJvyRUPdgQk2Fb+NdB0ZSVKjU8rnTwIoQ3nePqbUP5zsuidYGEqwKKylytRhSk8d650Kd2/ZCv1vo4Uoo6RaLSfCOYzathxu6axxjBqTN/ypbK/6Ixc4tmNyp0iE307pz3SKENS1lN4oagpI5d4zAF00OVQ5Jj3iZX1I5G7+A8P6YbTtRqdZmmEsccz1yoGdHyEMuqBOL2kq11k0PDcHZA1HKz91KnvjP93Oh6zC6UxiuzcZmq61dtKkoxkZK2roqXKEYyFOd7N2R1QXO/CaJPhbhd7S2tXrhgsA2KRjzUGEGvtYqTz1LPYG54KrArkF8gPcUNfLQ==;L2VBQnzVJ/Lg0jgJkl8Sjg=="
 ---

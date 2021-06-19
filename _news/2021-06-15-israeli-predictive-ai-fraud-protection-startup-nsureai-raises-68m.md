@@ -24,37 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fraud protection startup nSure AI raises $6.8M in seed funding"
-    excerpt: "Fraud protection startup nSure AI has raised $6.8 million in seed funding, led by DisruptiveAI, Phoenix Insurance, AXA-backed venture builder Kamet, Moneta Seeds and private inves"
-    publishedDateTime: 2021-06-14T17:13:00Z
-    webUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
+  - title: "10 Israeli Startups On CB Insights’ AI 100 List For 2021"
+    excerpt: "The Artificial Intelligence Startups Redefining Industries,” and the list includes 10 Israeli companies. The New York-based technology insights platform’s research team picked these 100 private market vendors from a pool of over 6,"
+    publishedDateTime: 2021-06-18T17:37:00Z
+    webUrl: "https://www.thefloridastar.com/articles/10-israeli-startups-on-cb-insights-ai-100-list-for-2021/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Florida Star
+      domain: thefloridastar.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-613935822.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Fraud protection startup nSure.ai raises $6.8M in seed funding"
-    excerpt: "Fraud protection startup nSure.ai has raised $6.8 million in seed funding, led by DisruptiveAI, Phoenix Insurance, AXA-backed venture builder Kamet, Moneta Seeds and private investors. The round will help the company bolster the predictive AI and machine learning algorithms that power nSure."
-    publishedDateTime: 2021-06-14T17:13:00Z
-    webUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-613935822.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.thefloridastar.com/wp-content/uploads/2021/06/56f27d16-39e8-4d8e-a984-64c87fde2944-e1624033790735.jpg"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "PAAOGq+dx28q7qAxt9whZQ+IGqQ2H/0r2eW3MUOgFqqhqpQL2k0ACBMg23nTEarsu2SK/FSMAsP1OLiSz6PES+kjWgkQjt5OsTw3H1zzYOgobLNW4sqhzNjh0d+YpjY5GBFIqeZDm9jBArcaOvIkSMYC89YZwMTq8AExIZvFBCgZkUPyeczckV3EDkpMEcXzRMPpnwmTrN1ISTDCNta/RnRneRcWimytxWu0Ougdh07JmdvfjD8x/aLiR6JtuWQk6iZbWTaFdoPFrpXGhCF8GGpGV6XyBJ4DxYTVDToONYaesng5d/cEdRS0zheFVIH5tIQY6GaBAFaTYYVW0WWyeAz5EwCf0U9Ipo4Yikk+rEKBk5gDhasDG9vuH4MIik2f+qQKeGXprDtqmN6i4c6kOF5K4l7JXQCnGgKRwvW6qSKnx7TNNCZv+vkqUTnNGC1x70ZMg2Ut47zzsIDAZLIe/Vjni8RX96+pZfiWmUzmHiJFy9aGm/kwV+aHwmGO5GPoNnbNtyYdtGAKNWYEx1HjIQ==;TW2RjVGOFD75wHf0FoF0Pw=="

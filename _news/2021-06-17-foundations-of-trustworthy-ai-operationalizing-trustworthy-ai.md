@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustwor
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
 type: article
 quality: 119
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -145,15 +145,6 @@ related:
         width: 800
         height: 540
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
     excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
     publishedDateTime: 2021-06-18T12:09:00Z

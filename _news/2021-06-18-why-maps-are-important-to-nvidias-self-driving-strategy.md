@@ -35,20 +35,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Artificial intelligence and the McData-fueled future of capitalism"
-    excerpt: "McDonald's recently found itself in some hot water over data collection in Illinois, but there could be more to the burger company's AI ambitions."
-    publishedDateTime: 2021-06-14T18:56:00Z
-    webUrl: "https://thenextweb.com/news/ai-mcdata-future-of-capitalism-mcdonalds"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F07%2Fmcdonalds-porn-wifi-e1623696012602.jpg&signature=9a8d14dc890cddbcbc40e39eea606a2c"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "kL/+rmLeXa7S2i3DFOjLo+VV2/4/cNa/Rpjhm+kS3C1RhF2oLBFvGvaRcsOscshMLZbDMQM/+0xH1/+DrVze8dUh/ea6N44pbvWKF0poBj/OeXp8ZoLzP9+okQEYp3gIJR4XRTHhuZjvnU90d5xeeEtSTGMz1JPqBAHfEb3lloXuSsX0GQCoO0ZPgmNUKfGdUJzQ3/z4KZTtT1Ga4Waw4PbE1qulhFeVqZOgoq3CfHFsN2j97jI17cIdd9jQQb99WJE465UwgHCzf5HDT3FCVxRRPTWbcAIV8rVY4EJLKgBks6nVWU6F18yWA2CrNW3fTuK1bmrzMGyForcUlH5qmmC5lY/brIYayFp1qK715A3MkWu5FW+fBGjjiyPNl4J1726kKGcA/eoE1rJv9Kwozj92C0rKEjorEgqVXqQSExNMJPtnZJaWPYjOy/DJZNjddVEQ+BbHZF2C87a6R5V5qx0MjFzXt8K70tnhgd2/B/FxAR+bxvLOyxXdnkRdQCJ+40T/PjDtUQAkKWKegks4tA==;z7YqbjMcwvah8k0AwnWATQ=="
 ---

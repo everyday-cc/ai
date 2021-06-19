@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Democrats reintroduce bill to ban government use of facial recognition"
-excerpt: "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday."
-publishedDateTime: 2021-06-15T18:43:00Z
-originalUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/"
-webUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/"
-ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
-cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
+title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
+excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
+publishedDateTime: 2021-06-19T11:45:00Z
+originalUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
+webUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
+ampWebUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
+cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
 type: article
-quality: 61
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Daily Dot
-  domain: dailydot.com
+  name: RT
+  domain: rt.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-and-Biometric-Technology-Moratorium-Act.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-    width: 2000
-    height: 1000
+  - url: "https://cdni.rt.com/files/2021.06/xxl/60cdb83885f5406aa07b6e41.JPG"
+    width: 1240
+    height: 697
     isCached: true
 
 related:
@@ -59,6 +58,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024"
         width: 1024
         height: 533
+        isCached: true
+  - title: "Democrats reintroduce bill to ban government use of facial recognition"
+    excerpt: "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday."
+    publishedDateTime: 2021-06-15T18:43:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 61
+    images:
+      - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-and-Biometric-Technology-Moratorium-Act.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Information commissioner sets out facial recognition rules"
     excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
@@ -165,22 +180,6 @@ related:
       - url: "https://www.expressandstar.com/resizer/KnaYQwAMS3WGKZEQd5fNMs8pdck=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/OLSPJQEHWBGCZKE4V2KV64NIXU.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
-    excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
-    publishedDateTime: 2021-06-19T11:45:00Z
-    webUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
-    ampWebUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 35
-    images:
-      - url: "https://cdni.rt.com/files/2021.06/xxl/60cdb83885f5406aa07b6e41.JPG"
-        width: 1240
-        height: 697
         isCached: true
   - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
     excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
@@ -296,6 +295,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "nun67VnIlPna8aPhCqV2rUFJlNwtuSwTiKBYS0HbG5ycPlj2tUyji+LkNuZftwV8IXaBFmkcPJrBkO/iKx3HZ9+zKoNASoIkElA3tTRx68CyMuuLf0M30fIacft+DxSve4mS62aOYHTFfNxOFAI1Rz6O3QQmySp1dxdrjgpJPxutJQvSOJbshv4pCmbwBiZFV/K8KCZTL7bnjNZHfRmUYcsrxIk8Vl9fMcJ7idq2tivXlN1DlToBy6cLnuZaHA/XmpDQIXd+cpZOT40kHEb4QlIMkZs5dA6cNNLMStdNq13KnEwoYiTJmFMnn6nfDEOdZg6IdEX7N8gs3ixLDxaMD/xS7D8jDUtweJhN6G0rqq2w1g5k+b4/A2k1jCKsLs0WRwCVA90ESZW//Hy7hJ0mKek7MoaBsvh2BMJRTMF9or9il/Cdqehh8BEZX4f/H/IRW0GzG4htevPQReO4pgCSC3+qOEISmtz6R8jfbU8dw0Wo0Adlg1v1dnBACbAvkE32c4Ny+EuCpvwYszf0w5Q5Vg==;v1NHjRLmz2jcb3R+wHhODw=="
+secured: "oOgSEEvDN1fINOzLehzN0uc0YyJ97xFm2iFNeP74OExwMok16JXE3TtzBVwDhyD2O1J1evw86lcyqtQ/UzSjv70H+SmOVC4kHGoCP8ekfgUisqWRiEgeYLsU43YOzo0ECqq7xtG6xuT2KgIoUqS7iH/dXTm8FKWj+1KDpVCOKpYRmLbFiEGm0Ja9jonoXjRXhjolPJEhUmh5RG3dCV5zqKS7FcWjWzoxiD0f/Ai67mG4KCdO1OiEzWbsgaFlYzkfI3FXkLUAZJhfGlcTzW/ePaD4yT1Le7UvLXirJcnjAQy8PIMjpAau+5iyzCG+5zQW0Gjt3QM8UBSsXwzim8RMACAdsb46ra1nMMk8xdsaI7s=;b75dNd5s5A5/jZ0Sd13afw=="
 ---
 

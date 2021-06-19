@@ -42,21 +42,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google team uses AI to create next-gen chips faster than humans"
-    excerpt: "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,"
-    publishedDateTime: 2021-06-14T18:35:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384"
+  - title: "What Google’s AI-designed chip tells us about the nature of intelligence"
+    excerpt: "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy."
+    publishedDateTime: 2021-06-19T10:01:00Z
+    webUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg"
-        width: 700
-        height: 535
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "H9G2Q9C6NFWemsClRvwJQyirL8T465mhRnpWPO04IbBNPy1XKDy+Yp1VosbIYF1Mx2S2YNyPcQr/w65hyt2a+SpqdzZAp86xItoYNWkdjyU1uLDbRTkQlkCkFXD6/7mF9zl+uWiGpzCIjGkffFk7bYCFw1Z+NqFZnhJqaAsuUCsKFiFiS+JVVhFBMcTRxjhT12G8M6CYdZySqcF0miD25Cj2tRe9ikA2vYU8CKo1vZIE5CaCUnGhJ0AXcOEbVbFalBy1M8hGgdyuW1ObhV6ZWCOSbBFbj5wpS++WhmEakEF4YgN3CJw6ysIJZlLLLYWHzsyFUNECjpqW/94GpfsOCcABp7iq15HlaDLEvpOgpqlJc9i5aujfJrpT0/iTd8qZeQbvsei67gNYzr/AvsZjYuWC9r9tibz3jH++0JNQm/Aa+zHklZjKtjPD+yoxtbi9ryw6slu4YTqntGwotWECBOe0qDPEEEwZtEmoHaekohLsDGGrffJfevNYiXT+1AbI2JaIdtOFZ+lHC2t1I/cNLQ==;imhRilDHvFiNmN0xMb6xbw=="

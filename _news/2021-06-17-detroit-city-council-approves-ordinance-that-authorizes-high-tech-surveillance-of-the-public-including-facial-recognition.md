@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
+    excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
+    publishedDateTime: 2021-06-19T11:45:00Z
+    webUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
+    ampWebUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 35
+    images:
+      - url: "https://cdni.rt.com/files/2021.06/xxl/60cdb83885f5406aa07b6e41.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
     excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
     publishedDateTime: 2021-06-16T17:35:00Z

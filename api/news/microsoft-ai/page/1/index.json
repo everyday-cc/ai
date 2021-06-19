@@ -45,7 +45,7 @@
       "originalUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -191,7 +191,7 @@
       "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -812,40 +812,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-intento-named-a-2021-cool-vendor-by-gartner.md",
-      "title": "Intento Named a 2021 Cool Vendor by Gartner",
-      "excerpt": "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21457975",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21457975",
-      "publishedDateTime": "2021-06-07T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-07-new-c3-ai-ex-machina-customers-experience-success-with-no-code-ai-anyone-can-use.md",
       "title": "New C3 AI Ex Machina Customers Experience Success with No-Code AI Anyone Can Use",
       "excerpt": "C3 AI (NYSE:AI), the Enterprise AI application software company, today announced that C3 AI® Ex Machina, its no-code solution that anyone can use to",
@@ -1357,6 +1323,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-imanage-adopts-microsoft-azure-as-global-cloud-platform.md",
+      "title": "iManage Adopts Microsoft Azure as Global Cloud Platform",
+      "excerpt": "Manage, the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12519-imanage-adopts-microsoft-azure-as-global-cloud-platform",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12519-imanage-adopts-microsoft-azure-as-global-cloud-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

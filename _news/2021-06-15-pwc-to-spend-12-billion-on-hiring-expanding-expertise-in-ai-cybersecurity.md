@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-e
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
 type: article
 quality: 184
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 905
         isCached: true
+  - title: "University secures funding to address lack of security and trustworthiness of AI"
+    excerpt: "A team at the University of Wolverhampton is creating an innovative new platform to help financial organisations and banks to add security, trust and explainability to their Artificial Intelligence (AI) based decisions."
+    publishedDateTime: 2021-06-19T10:45:00Z
+    webUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
+    type: article
+    provider:
+      name: University of Wolverhampton
+      domain: wlv.ac.uk
+    quality: 31
 
 secured: "c1qfiqMC1nPSgnxHB9OEZhsFIVlofzQx5R3Pxur8JH2yljz7yTCn01AhmJEjRJO03yx97FshOZEnOu3Gq5Dv4vw8RIjJMITAOBbb5uaaM2FR/HpeY/ngL6Z0h6ewePX/zpCTZw3OaW/jAUaEhRtF2gKQqdQDiQCXNoXmRnn6nfrYa+SyjApnFf1A+MBlXuG0cQDwVb6HhWjz+Nv6d3ssUE+XCj0WDFsMNS2v0sysyVN1fd7jLNk2rOLzHeUJL74jIvLF4qvcsq+MUjPn0A1I4WFHKc83/72tP/khxdpMWP65eYyd+JOaZdfXzctfbUgV2gDip76LL1l/tCgZ0ttgHKh3f2GHJH1fB4Kmjkp7q5dzBQFamBz6Cvn3yFIVMmRGSILRqGaG1Zwtx4uXRxue0z4RBPJZ27+PIE8LKygzDRtjt5SdUCZjZchrs5PUN8K9vY+FZ7SLLNJ5dB2WpBcL8FgbWp3MQcGgrxq51z9BTKzzfb6HxcuGfSkpdaoPQdCk1Jc2oDt5+DJ6Ub4z6Rh/j94m68ohtc9gCNeSAis/EaA=;myT+RhpENcBcWl/awgrlgA=="
 ---

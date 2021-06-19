@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
+    excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
+    publishedDateTime: 2021-06-19T11:45:00Z
+    webUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
+    ampWebUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 35
+    images:
+      - url: "https://cdni.rt.com/files/2021.06/xxl/60cdb83885f5406aa07b6e41.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Congress Weighs a Moratorium on Facial Recognition and Biometric Surveillance Technologies"
     excerpt: "Today, a group of congressional Democrats re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021. And it's not a moment too soon. Earlier this month a coalition of more than 40 privacy advocacy organizations including the Electronic Frontier Foundation,"
     publishedDateTime: 2021-06-15T20:56:00Z

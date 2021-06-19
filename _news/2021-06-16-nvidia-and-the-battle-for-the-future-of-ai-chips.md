@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and the McData-fueled future of capitalism"
-    excerpt: "McDonald's recently found itself in some hot water over data collection in Illinois, but there could be more to the burger company's AI ambitions."
-    publishedDateTime: 2021-06-14T18:56:00Z
-    webUrl: "https://thenextweb.com/news/ai-mcdata-future-of-capitalism-mcdonalds"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F07%2Fmcdonalds-porn-wifi-e1623696012602.jpg&signature=9a8d14dc890cddbcbc40e39eea606a2c"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Why maps are important to Nvidia’s self-driving strategy"
     excerpt: "To Nvidia, maps are a critical component for self-driving cars, particularly regarding safety, which will be one of the main priorities to get consumers to adopt the technology. The acquisition of DeepMap adds AV-specific HD maps to Nvidia’s Drive platform — the company’s software-defined end-to-end AV product that includes deep neural network training and validation in the data center for compute in vehicles."
     publishedDateTime: 2021-06-18T12:29:00Z

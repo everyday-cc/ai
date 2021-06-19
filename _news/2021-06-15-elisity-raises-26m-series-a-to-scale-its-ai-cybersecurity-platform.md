@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 905
         isCached: true
+  - title: "University secures funding to address lack of security and trustworthiness of AI"
+    excerpt: "A team at the University of Wolverhampton is creating an innovative new platform to help financial organisations and banks to add security, trust and explainability to their Artificial Intelligence (AI) based decisions."
+    publishedDateTime: 2021-06-19T10:45:00Z
+    webUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
+    type: article
+    provider:
+      name: University of Wolverhampton
+      domain: wlv.ac.uk
+    quality: 31
 
 secured: "VHJh7ezEHlA/1bIHxgDjkNHRNBXiHwxDISsy5usWcdXAapRJRL+l/R7lZLbDoYYPc5pfSBrxvuU9v+pVp0h//7+jD25cthYr14T0YbADJ+MFcIdGZ62bDbj75QOyH8l86Ufpzn7H1TIuHKLQDFsH1rU9OgHnB96H71gP+Xb42P59ZevzhCkiBKSlrXJ7VaZDIE/kWFimMV/MgoEKgzuvgVd5Zl1b2sltj0GJrNLPws/fCVfWILC/ZMLk9u+08VRBbU0TW2NZlei30pvh6FF0a7/k/VrdvzmrSPBlN17HGdpPQNqqygl1a5cDWfeIpdJuhaD47eWO2Ot9+dUA+zPzPl5zcvkqMYUQ7bZR30nYlEI=;1FRtD+PeHqMTE1GKaLUj5g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-gr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting"
 type: article
 quality: 150
-heat: 340
+heat: 330
 published: true
 
 provider:
@@ -193,20 +193,6 @@ related:
       - url: "https://res.infoq.com/news/2021/06/facebook-expire-span-ai/en/headerimage/facebook-expire-span-ai-header-1623589196231.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook Unveils AI Model That Copies Text Style From Images"
-    excerpt: "AI model created by Facebook researchers can imitate, edit, and replace handwritten and scene text using just a single word in an image."
-    publishedDateTime: 2021-06-14T18:08:00Z
-    webUrl: "https://techstory.in/facebook-unveils-ai-model-that-copies-text-style-from-images/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/bcbeeef09bb9d0f2dd6ff543532683ad.jpg"
-        width: 965
-        height: 543
         isCached: true
   - title: "AI to Identify Facebook Deepfake Images"
     excerpt: "New AI software to identify Facebook deepfake images. The fingerprint sensor will help in tracing of origination and catch the creators."
