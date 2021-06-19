@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-marke
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cognitive Analytics Market to Show Incredible Growth by 2027 | HPE, Intel, Nokia, Microsoft"
+    excerpt: "This Cognitive Analytics market report's major objective is to forecast market growth from 2021 to 2027. A Market Report is the result of a data-driven strategy. It displays data in a visually ..."
+    publishedDateTime: 2021-06-16T08:24:00Z
+    webUrl: "https://www.openpr.com/news/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/U/6/U616761072_g.jpg"
+        width: 800
+        height: 457
         isCached: true
   - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
     excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"

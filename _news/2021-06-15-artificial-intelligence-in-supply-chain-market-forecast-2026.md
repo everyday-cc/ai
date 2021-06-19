@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U616144349_g.jpg"
         width: 439
         height: 310
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Trends, Top Key Players and Regional Forecast 2020-2026"
-    excerpt: "Jun 14, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC: An analysis of Artificial Intelligence (AI) in Food and Beverage market has been provided in the latest report added at Market Study Report LLC that primarily focuses on ..."
-    publishedDateTime: 2021-06-14T19:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-trends-top-key-players-and-regional-forecast-2020-2026-2021-06-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
     excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."

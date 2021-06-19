@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Europe Artificial Intelligence Market 2021-26, Size, Analysis, Trends, Growth, Forecast and Research Report"
-    excerpt: "Size, Analysis, Forecast and Research Report” According to the latest report by IMARC Group, titled “Europe Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,"
-    publishedDateTime: 2021-06-14T21:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-market-2021-26-size-analysis-trends-growth-forecast-and-research-report"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.abnewswire.com/uploads/1623416872.jpeg"
-        width: 2000
-        height: 1334
         isCached: true
   - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
     excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."

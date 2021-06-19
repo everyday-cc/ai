@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T17:55:00Z
 originalUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
-quality: 11
+quality: 33
 heat: -1
 published: false
 
@@ -18,6 +18,13 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
+
+images:
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
@@ -35,6 +42,6 @@ related:
         height: 313
         isCached: true
 
-secured: "hg5S5W0eQEJFq6hWIXfnc6FOQXPeGBTOP+Gc7bRcV5xOkIjVqWHjBsam70Nm6hCBjUbDzjTIrz28epwVaW3JTcL/5D7mf8K/4SukRxTUEYeBVAFWNmntHzb4Hta6bejI6QX79GBmodNovnlgEUfN/9R7IMJty+AK+x43x+NTkvLiR75Vmbl4gL/xZFmcVy05G5x24bv5aPkGCGwCltBHkwmFUhszsjWtX8D6AJRV/3zGVShDg10JCuVKwVFflpo+h5ZDnM80kdfY9HVhbigQDemAYQMy9P0Il1HfHx97hA4/JL8eJVbN5akDKhbk1HOAtO8YtaTme9W7JX+D+3t6BFuKV1Wz89yp04GXccEJU3fXppRSUOUE4Vxb+cd2OdiJPM0Cm9ROEgXzYxtXH17KXpnF4kq9tD4AbmQuQwr5eQoT9XKJFG9qHPDbBCek17dpevXecxwZKtHMDkiQIq8Ga5HSXNrKbA3QD/wmKncCQZsglvRX0S2DJ88UG0ZnbAKZp2B6Aol0DHbFx8nks1SZ8g==;5Qti+hWlvfGIhkGFMRr6fw=="
+secured: "UUHQw9iFqPTOu2z+iFJSm/4XgHbKJsvt0ixuo/CO2I9C7zoYdeV/q3Sd6drT7ZSHvUJJiwxxCGIBoh/TMr72eUwKwS+R7twDIxH10LWSu2NeN9+4r9GEHznhajVMA/DJnUqZ5O6VNTgg0KvMMi7yzy3y74fRljppSskqR+CQsfD/6RGUnxu7cjpILxTK+bELArIARM0HLMJRk6rJag+uE0ShRnhcYxijPw0n+cnn9bmMYjch/P3ncQtJanHvmxo9FmVYyAXCAMqY/z+fob0gHSA8KoXuChNzuffhsYYBbLVeFOxPlG/JFh+vSgCgutCu8cV8MstEDoa7f0hFEBsNSVv2xnn9oK0uPUqJImFWhHs=;msLyOwAIUkm1jQFYuo+Ljg=="
 ---
 

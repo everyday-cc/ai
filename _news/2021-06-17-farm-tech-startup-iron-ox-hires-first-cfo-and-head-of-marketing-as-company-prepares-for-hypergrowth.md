@@ -2,21 +2,17 @@
 category: news
 title: "Farm Tech Startup Iron Ox Hires First CFO and Head of Marketing As Company Prepares for Hypergrowth"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Chief Financial Officer and its first Head of Marketing this week as the company accelerates growth and expands its commercial footprint."
-publishedDateTime: 2021-06-17T12:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
-webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
+publishedDateTime: 2021-06-17T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
 type: article
-quality: 57
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -45,6 +41,6 @@ related:
         height: 337
         isCached: true
 
-secured: "xbfbpmt8MNdlg2TmzhRtWUQIExrXJHFs3EPlXqzBudCX1SAgjmYu73nYGOVYDMBpfC++E6Y4YxsvWP9oiJLipD92SVpFWzhxsw4/kQv99CTmYaZUloaG+dLCyIZ9lnc21RBTne9CrggR7/AvivoS97B3Usx29xS1Ou4+zHAGMeE3ZZ0MOq+h8ZUZ2L6jwxku7FptgvAvrVyWWQ6+/6Q4J4Wuq7i8n1DvD6/IZbzn1/6tnwZbJ8/lv2crasI4CTHoBhHw+DGD33DnTSqFGGmcJNlPjBEHSpVAxQOYPow/r05gdnbNKpNPP84+6M7Sk4/X9s8kB9bnbnljjyYdkjo+rcNC1A+2TWjhnqBDWwLLIME=;BOF4zSVfBsn7dFKb6fs5sg=="
+secured: "DTFDIIgL2eioVVzs/To0mPeHCrkLOu4T2pSapRhaUIMRE8i+msqXNlXTyx411a3czk6cWu3pkRdW1rUz2V93aCIBLf5LW3F1jwQLA/MWuFT/zvbMOc+FsfiRAKqOn4RDHYzszd/1MB6yuGmR/5G7X/Z13yq5XgbRk1O/7dviPPf5lt7h66/J4x7kXStEyQfm4eZEfQsGAYUkaRfnJqGwtjaZ52HOL8LPxEAgJIRbyndAAzDWXxUoK44Tb2hcf2XU++pG4eAe3wZBUHH8/DhhTD81xSVAg+1GJbXb0Wy6wpDkZ0oQN+HohnS+1PrUB1oFyLEKFzcrWHs9iafkwvLfP6rMO7JATOxvjAhgahwTwmE=;ne/mqwzTrzSl0KRjDt894w=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
-publishedDateTime: 2021-06-18T06:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
-webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
+publishedDateTime: 2021-06-18T06:31:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "Ferrari, Amazon's AWS enter agreement on data"
@@ -90,6 +96,17 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "Ferrari road cars and F1 team banks on AWS for innovative solutions"
+    excerpt: "As Official Cloud Provider, AWS will provide machine learning, analytics, and compute capabilities to accelerate innovation across the organisation"
+    publishedDateTime: 2021-06-19T12:28:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/98358-ferrari-road-cars-and-f1-team-banks-on-aws-for-innovative-solutions"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/98358-ferrari-road-cars-and-f1-team-banks-on-aws-for-innovative-solutions?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/98358-ferrari-road-cars-and-f1-team-banks-on-aws-for-innovative-solutions?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
   - title: "Ferrari selects AWS as its official cloud service provider"
     excerpt: "Amazon Web Services AWS a subsidiary of Amazoncom announced Friday that it has entered into an agreement with the Ferrar"
     publishedDateTime: 2021-06-18T21:31:00Z
@@ -123,6 +140,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "+64hjfgJ8e6UItWjZNwPHDNzqjOPmCg3nxOWTXItxzF05udvB00K/TZMN6P6j0yvyp9oHKJCpjW+KpcLlHNxP+5wGiKTjUaIP0cC5J7wtajVzyeyGLvD8NDPd401oaag8mBJ90JdH/+sVOpXr9b1FywX75iqMN5xNsZ4KizY3VhiNs+E1wLrT7snpEhDDt4W9V9K3i6KVvkC9jHaOFGnN07/V2t68/s6K5g0Wy2BsROkC1ini6FH367U/NxirubHzEXJWHFsnni8isv4+93eXyG80FD0LwwWYZ8gVOtUJmnMofGWV8qPmmU1PyGlS1qdLM4X2fPHVKTBgthpijzuJOJ+jdoGejIbw8vfXNUnHg0Ir/z714Te9PN5MOGmlAA6f+BuoV2whzMiMF3go1SKqNpAPCnBf82YGS6LH2O3b2YbgFwkBS3vW21Hm9qt1NV4xhBK2yLJsL9w2TEmhcSrcq1AOhun7c4s1I78c/Q+MydnWsh+fhpQCLq/1gmyNewd3BkiQsMbI365MOiCU43ldQ==;12tIwqaFSL+2wphADcdV1w=="
+secured: "ddtFRsTir9Bz9EC+hvoPqj6I2O7arZJaqzKZlCzX6HYFLGuq/5BKIK8U3H5uhcXMO6sB+vhcWB8KAzxTvcZED0wgetvMqxHRKxZwgG1zxh9Qc9pOVJ1Spg/6pHmWSNINg18x+daS01Gg+G4xp0AG0HEwFqPhffCkioRmTp+iCpZojAp59Q6xUwTzmWolIU+i/MLbxdSodGIenYjEMC4A4SNo9kpKDhI1IeUhX7YEUA9GKJxAbE8bXUalpxmFeU24mqjZizL5Lt0j1HGSExhsHg2bYCz6MzhQliAmymrXy4IAHEzlY9V7qAGg9KtFVGzY/S0LUI+jSDSDByZrgUo5NDV7CxK9hm7wtYqymKXXCTs=;At8MbtrBXcI83CIjcuZJJQ=="
 ---
 

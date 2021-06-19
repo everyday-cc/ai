@@ -1187,49 +1187,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-09-machine-learning-speeds-up-simulations-in-material-science.md",
-      "title": "Machine learning speeds up simulations in material science",
-      "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence (AI) autonomously acquires and applies new knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-machine-simulations-material-science.html",
-      "originalUrl": "https://phys.org/news/2021-06-machine-simulations-material-science.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-speed.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-06-machine-simulations-material-science.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-simulations-material-science.amp",
-      "publishedDateTime": "2021-06-09T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-09-despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report.md",
       "title": "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report",
       "excerpt": "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses.",
@@ -1377,6 +1334,49 @@
           "url": "https://www.eurekalert.org/multimedia/pub/web/267435_web.jpg",
           "width": 720,
           "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-machine-learning-speeds-up-simulations-in-material-science.md",
+      "title": "Machine learning speeds up simulations in material science",
+      "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/kift-mls060921.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/kift-mls060921.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/267380_web.jpg",
+          "width": 1440,
+          "height": 966,
           "title": null,
           "attribution": null,
           "isCached": true

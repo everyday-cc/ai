@@ -107,20 +107,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
-    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
-    publishedDateTime: 2021-06-14T19:56:00Z
-    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-june-2021-episode-5"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 54
-    images:
-      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
-        width: 1280
-        height: 721
-        isCached: true
   - title: "Microsoft launches new West US 3 Azure region in Arizona"
     excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
     publishedDateTime: 2021-06-16T09:46:00Z
@@ -148,29 +134,6 @@ related:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-    publishedDateTime: 2021-06-16T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T20:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 42
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Jamal-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
     excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."

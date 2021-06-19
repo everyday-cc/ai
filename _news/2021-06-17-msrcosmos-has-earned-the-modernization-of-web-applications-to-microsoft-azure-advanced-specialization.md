@@ -1,230 +1,169 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-publishedDateTime: 2021-06-16T18:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+publishedDateTime: 2021-06-16T18:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 related:
-  - title: "Theum Now Available in the Microsoft Azure Cloud"
-    excerpt: "Intelligent answer oriented access to documented knowledge in just a few clicks Stuttgart Germany June 17 2021 Theum AG www theum com announced the availability of its AI based software Theum for the automated deployment of and direct access to"
-    publishedDateTime: 2021-06-17T14:57:00Z
-    webUrl: "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud"
-    ampWebUrl: "https://www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
+  - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
+    excerpt: "Industry focus on trustworthy AI is being driven by several forces — corporate social responsibility posture, concerns around reputational risk and a growing set of regulations. Organizations recognize that they need a systematic approach to ensure AI and machine learning can be trusted and operationalized."
+    publishedDateTime: 2021-06-17T05:00:06Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_operationalize-ai_2000x1000.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "AI moving from POCs and pilots into operations"
+    excerpt: "The COVID-19 pandemic accelerated the adoption of artificial intelligence and its use in day-to-day operations."
+    publishedDateTime: 2021-06-15T15:34:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-moving-from-pocs-and-pilots-into-operations/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-moving-from-pocs-and-pilots-into-operations/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-moving-from-pocs-and-pilots-into-operations/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 89
     images:
-      - url: "https://cdn.openpr.com/U/6/U617781440_g.jpg"
-        width: 800
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg"
+        width: 1200
         height: 800
         isCached: true
-  - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
-    excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-    publishedDateTime: 2021-06-18T11:13:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
+  - title: "Regulators know teleoperation is key for self-driving vehicles to succeed"
+    excerpt: "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way."
+    publishedDateTime: 2021-06-17T17:02:00Z
+    webUrl: "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/"
+    ampWebUrl: "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
-        width: 1080
-        height: 568
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and quantitative data from industrial inspection imagery, today"
-    publishedDateTime: 2021-06-15T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace/article_fa3bfd81-54c1-52d6-86b5-1beb0a8cbdba.html"
+  - title: "Driving The Next Generation of Artificial Intelligence (AI)"
+    excerpt: "Artificial intelligence (AI) is disrupting a multitude of industries. This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) and late 1980s (the second AI winter with the fall of Expert Systems) with the arrival and growth of the internet,"
+    publishedDateTime: 2021-06-16T11:42:00Z
+    webUrl: "https://www.bbntimes.com/science/driving-the-next-generation-of-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 58
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Driving_the_Next_Generation_of_AI.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Training next generation of leaders in responsible use of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is transforming our world in powerful ways, from improving medical care and changing the retail landscape to"
+    publishedDateTime: 2021-06-16T10:20:00Z
+    webUrl: "https://www.miragenews.com/training-next-generation-of-leaders-in-578812/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 47
+    images:
+      - url: "https://www.mcgill.ca/newsroom/files/newsroom/styles/wysiwyg_large/public/channels/image/hackathon-mustgivephotocredit-645x430.jpg?itok=E3MftT3U"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Unlocking Value with AI-Powered Automation."
+    excerpt: "Adding AI to the automation toolkit helps organizations decide where to best apply automation to digital transformation."
+    publishedDateTime: 2021-06-15T15:29:00Z
+    webUrl: "https://www.cio.com/article/3622015/unlocking-value-with-ai-powered-automation.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/06/istock-1223005887-100892367-large.jpg"
+        width: 1199
+        height: 499
+        isCached: true
+  - title: "Balancing ethics and innovation during tech transformation"
+    excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
+    publishedDateTime: 2021-06-18T14:17:00Z
+    webUrl: "https://www.raconteur.net/digital/balancing-ethics-and-innovation-tech-transformation/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/06/Data-protection-data-ethics.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Making operations safer with digitized data acquisition and AI"
+    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
+    publishedDateTime: 2021-06-18T12:20:00Z
+    webUrl: "https://idw-online.de/de/news771038"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
+        isCached: true
+  - title: "AI Stock Buying Levels, Ratings, Valuations and Trend Analysis into Market Correction"
+    excerpt: "This is part 3 of my recent extensive analysis focused on updated buying levels for my AI tech stocks portfolio going into the summer stock market correction, of what I will be looking to accumulate at what price levels."
+    publishedDateTime: 2021-06-17T21:09:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article69041.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 32
+    images:
+      - url: "http://www.marketoracle.co.uk/images/2021/May/Nvidia-stock-trend-analysis.jpg"
+        width: 800
+        height: 540
+        isCached: true
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+    publishedDateTime: 2021-06-18T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 69
+    quality: 20
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/ef/3ef0fed9-354a-58e6-b1b2-94d7f3cd9d27/60c88890657c0.image.jpg?resize=1118%2C630"
-        width: 1118
-        height: 630
-        isCached: true
-  - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Tigera’s Calico Cloud to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2021-06-16T16:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=486120"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 69
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
-    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
-    publishedDateTime: 2021-06-15T21:00:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "Microsoft Teams for Android can now translate private chat messages"
-    excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
-    publishedDateTime: 2021-06-18T15:38:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-teams-for-android-can-now-translate-private-chat-messages"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 56
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Teams-Android-Google-Play-Store-Listing-Custom.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft Azure Monthly Update: June 2021, Episode 5"
-    excerpt: "Update is your go-to for a quick dive into the most recent Azure happenings. Tune in each month and stay up to date."
-    publishedDateTime: 2021-06-14T19:56:00Z
-    webUrl: "https://www.pluralsight.com/courses/microsoft-azure-monthly-update-june-2021-episode-5"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 54
-    images:
-      - url: "https://pluralsight.imgix.net/course-images/audience/generic.jpg"
-        width: 1280
-        height: 721
-        isCached: true
-  - title: "Microsoft launches new West US 3 Azure region in Arizona"
-    excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
-    publishedDateTime: 2021-06-16T09:46:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-new-west-us-3-azure-region-in-arizona/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Phoenix_AZ_Downtown_from_airplane.2e16d0ba.fill-1200x630_LPGabwB.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
         width: 1200
-        height: 630
+        height: 441
         isCached: true
-  - title: "Microsoft expands telecom portfolio with Azure private MEC"
-    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
-    publishedDateTime: 2021-06-17T19:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 54
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T20:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 42
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Jamal-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
-    excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-06-15T11:13:00Z
-    webUrl: "https://ksusentinel.com/2021/06/15/artificial-intelligence-robots-market-unbelievable-growth-google-inc-ibm-microsoft-corporation-general-vision/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 30
-  - title: "Worldwide Voice and Speech Recognition Industry to 2026 - Featuring Nuance Communication, Microsoft and Google Among Others"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global voice and speech recognition market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-06-15T18:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-voice-and-speech-recognition-industry-to-2026---featuring-nuance-communication-microsoft-and-google-among-others-301312688.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Healthcare Business Intelligence set to grow according to forecast 2026 | Key Players – Microsoft ,IBM ,SAP SE ,Oracle ,Cloudera ,Enigma"
-    excerpt: "Healthcare organizations are implementing healthcare business intelligence solutions to improve efficiency and patient care. Business intelligence software industry allowing unique recommendation, personalization,"
-    publishedDateTime: 2021-06-14T21:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-business-intelligence-set-to-grow-according-to-forecast-2026-key-players-microsoft-ibm-sap-se-oracle-cloudera-enigma"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/bitcoin-illustration-Large-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-18T09:45:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/logility-partners-with-microsoft-azure-to-power-high-performing-cloud-environment-and-enhance-the-customer-experience/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 11
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
-    publishedDateTime: 2021-06-17T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
-secured: "HsGf2CTZOW0OLgF/GfA7Rf4SVXtKJszfcdWPSs5OFv1ne/fGV0ucbPqeK6BkQTSOKp5Z0K8JdenexGAG5CV6v9SexV8fPr5iNfN/SarHXlByRGz+DHzFHXSAqi/6saZIDsY+c2fXDYMqTS67+4OuKlcyaBZtZyxLk7MxS/tuUf6P4yMjsU3qPOnnMlpM7+WWqNRhNq//M3FZpEoRV2h3UZSlvnKMJepvVP86EtFSju/ZWMnoCeC8YXpEdP9ElChHUon+8jrhD5l8SqpU9qM2T2FZHXWk4diiyd5NC9GuQqcw+/faBvlOQZsUWFu3mCGkssNPMNXBTSFiyMb+l8WVi9ehcFsZ1sTFe/Avz3cvz+A=;DXKUcOtuptvAkC8bLW4AIw=="
+secured: "SUq+bt/Yd5Wn5tkRnTLecRnn5tVvnkuEY/AGjKGLMo6ttGKOdVA1bsRlOms8tsfKWB0nVvdjTT2G+i83MRPBnHoskyVfGTHMruut/dud3I7lwi0ewal+XsnPXMawGYeL55X8Rn0oIztp/sVZg8vYgbptXJiArzjBoGWKWzk1MHdoRM1wG6sTKkbupwycf5hDS8SyqhsAwmr8LQ+dCrxWvUWgCZyHih7zq1W15xvJJZ0q6YTeLxMIPGzmt1BkoszxMu3t8IwHwtXDFWk8NUQIfBGZpr5nETvnTpnNZRDx9XVUr4v7gZBy8lHiJFxGCxLLlpMVLrXXNqtSa65697myERZNv5CMsZYgkq1VO+QcV4E=;0yrRBFLm5GVlSOel9OWX+A=="
 ---
 

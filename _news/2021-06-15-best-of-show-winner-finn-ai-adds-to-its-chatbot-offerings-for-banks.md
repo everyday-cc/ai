@@ -7,7 +7,7 @@ originalUrl: "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatb
 webUrl: "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
         width: 700
         height: 431
-        isCached: true
-  - title: "Finn AI adds three new chatbot service levels"
-    excerpt: "Finn AI, the leading provider of conversational AI for banks, today announces three new chatbot service Levels, each built on the same AI foundation, designed to let banks and credit unions choose an optimal path for delivering AI enhanced experiences to their customers and members."
-    publishedDateTime: 2021-06-14T20:07:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88081/finn-ai-adds-three-new-chatbot-service-levels"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "l/m55OdafyJxwwsUC4NDBRvE10yiz5hvbwl2z6Oyel2NccyWKNmzBoOztCsG6AdEv21SM4FEM0C6MnZQWM/PsWuiPOo+IYHvfxN7uGUSAi2iKLCZ6cQ3lNUP0CBl8U9CjtvskCfh9WQ+39B1bQ+8if0/6HXoeJgCVCgherdLT09BKH7E9Uf4j+3Ih8j6BmY6P1LjPYgtEqIrNFbWpzq8gcEFaQBzDdriYzxhKVH7+pLI7rwS10GNyHiI2/puKUN2Vzi1zlBl7r4h+xgQVZ5XMVLCs1kwGUfOl5tjXYraHcvtI9y6jCszBYbubkKckxd+VtKm04BPxk1sD0xgoD413OYjlAlFquTY+2j3UZnf3Rwi0lTtgPzFkYUcgROO8o0G/Y8+UgDQvdIkfrVL9zmNxBmOXjb/pYd67Q03M0heWqchpr9Uh9q8AXsO63mcm9LLrdSk15u3LWrmLIN5bKQxovvRq/iUsYRr8BSPEpwkoSKzbwSdZLIfIrz5dX/bY1CAAOF20eBwUyz7QNzogYXXWA==;dxnl7p/S9AuJPTrA5udOWg=="

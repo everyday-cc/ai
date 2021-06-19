@@ -54,20 +54,6 @@ related:
         width: 700
         height: 431
         isCached: true
-  - title: "Finn AI adds three new chatbot service levels"
-    excerpt: "Finn AI, the leading provider of conversational AI for banks, today announces three new chatbot service Levels, each built on the same AI foundation, designed to let banks and credit unions choose an optimal path for delivering AI enhanced experiences to their customers and members."
-    publishedDateTime: 2021-06-14T20:07:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88081/finn-ai-adds-three-new-chatbot-service-levels"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "GJVHWtN7zb/g4wEHiejEr9GWsyCVrbQX4ZGoP2GlZDe4iN4PQ/Ymq4+OORHgl7PT5/XUVr8pRnk77Iyv6lvI7hOKLqiPCDMuMeNtEVZbc1XTprxXuvXTjihlXIa60vWpLynuQufsiHRAMqA4iuobDHk+BZDHYqFTJ8T3oadjp2Y00HUe4P5Enpg9RtW8NuG7BUEcBsvlcDjUvpPvWsrrfExUuqBbhVGtKGQcZ01c5fjVoOuka+vH9PaGcH/P7Ivakk8vxEKGBtibD7dh3zU8p47NARXtz1KfqcnqQ2Uy8JV5Obp3vPzQP8xkd2K/N8tG7R/jwg5cGVDPAklcINpZKMNZ8HDS69jIp9dnB3AkSkIJpVpx7ZkzjeW8fDiccgViVDEZ6kqVU8jtbH+EVjR69ee4al36ZA5QYNZSibHfVDyv5dHvXF4jPqwiV6WpNyfzZryTphwkepKHMqDNHVvP45iBjhxsO0ai7thOhf8om5CtlzRCBY855SUVDVEP1MUQlz/xxvoGmYgZd4uo//j9Tg==;HpLHQAhsH8sAZ/XZ4UQsGw=="
 ---

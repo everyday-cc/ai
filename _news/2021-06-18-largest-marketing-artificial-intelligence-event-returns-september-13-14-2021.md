@@ -2,22 +2,22 @@
 category: news
 title: "Largest Marketing Artificial Intelligence Event Returns September 13-14, 2021"
 excerpt: "Marketing Artificial Intelligence Institute announced today the second Marketing Artificial Intelligence Conference (MAICON) event will take place Sept. 13-14, 2021. This year's event, which includes more than 20 speakers,"
-publishedDateTime: 2021-06-17T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-largest-marketing-artificial-intelligence-event-returns-september-13-/2021/06/17/9393046.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-largest-marketing-artificial-intelligence-event-returns-september-13-/2021/06/17/9393046.htm"
+publishedDateTime: 2021-06-17T17:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210617cl15022/largest-marketing-artificial-intelligence-event-returns-september-13-14-2021"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210617cl15022/largest-marketing-artificial-intelligence-event-returns-september-13-14-2021"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
   - AI in Marketing
 
-secured: "/JIStmMGQe9uX8bgIHGR1HCxpa/f3dmB8lYskrBSyPUnmKSPu4CGoHbNz9GaXXwtn9QlDzBWPt0TdlmRTJ8tajm14eWAN/kHBvq6kKLXDUev4VuAD/CmeQCs8ebpWhjDjJgyIMPheSLSZiqzrJNQnj7v58wtiNNvZlUoPs4dBJ3SI+SB5I7XzaIgj96FyLNn7uSDOtQeCtqM1xU9fjbu1oGJ9rcWuvYLLbkywCI7MnyyOijzSl5LgmxSL+ZS9I3cRlvxqf/u+rL1tFX8GRXgeB8mfSnWKvrcxAUWlYavn/4h2wuisygmi93bGViqm8IgZT+drQoaibtXehnOKhCuPEub116Rn++hTQndNZ1ctDc=;FN0oSGdp+0DUioNB26wV+A=="
+secured: "1hEQGgNEn9sbvxd33V4lr9Kz/Wn+xWwPmaM2P/8ZqVSYCXk9AV1Wonf/mfCgAyCjnFhBUcZhbYcmpoPppiU7dZ+I+KvhTKkyCEHOXxriYqbEHe8Plc1kodWMS/TCKOo4CmETKSfQ/ctZHG6xOtCDLtpFrw0EcroHgEzVUWhYBVF/burjkGpI2/vu5xW456p8xRvreLKTUbtv6Oj8snfmD9HqmfD+qvmg2nx7uIaFCM/G05kPUjVGWUMB2p4lPtc8Ks2NlFDbl+9iAnW4Ed37AGIJgp0IMfkDGFfCA36fys0s9ZLRs80ICNoD5+9DoTuwGVfNOgHpR72LBeizwrM1YfjnxDN3M4zU7csSICiEmLE=;EzWaT8TVibLFZXjZJqQ/pg=="
 ---
 

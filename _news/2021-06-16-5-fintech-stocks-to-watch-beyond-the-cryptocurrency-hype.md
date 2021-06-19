@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "10 European FinTech Companies in the Real Estate Space to Watch Out For"
-    excerpt: "FinTech (financial technology) is a swiftly growing global field that has naturally entered into a significant crossover with the property industry as it continues to revolutionize the way we invest and save."
-    publishedDateTime: 2021-06-14T19:52:00Z
-    webUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/"
-    ampWebUrl: "https://techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/10-european-fintech-companies-in-the-real-estate-space-to-watch-out-for/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/06/fintech-real-estate.png"
-        width: 1005
-        height: 575
-        isCached: true
   - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
     excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
     publishedDateTime: 2021-06-15T12:22:00Z

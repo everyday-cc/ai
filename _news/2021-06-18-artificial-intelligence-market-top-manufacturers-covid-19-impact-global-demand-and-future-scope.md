@@ -71,15 +71,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 39
-  - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
-    excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-14T20:10:00Z
-    webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
 
 secured: "XO5pJO8MVHtEypsTBrVR8GNUKM42I8uKpKO6P/sqJfSBKUIYkCMy7q6jgv+BKNQcMGlzCD4WvhBuZzgWqtDjobWgqpM44BEy2Q8FjpfXz7vPJPjNntTCBuusxeCHvbvN7T8JppQVQR2U3HOmVwibVMHDbpp64tmmqfVaB3veFvsT+SNTzLWmWTTbspQznFRgzCzV+MvqV4gMh8XspCcsf1OBSJVsBvNRgkUNiFNWu+ZmWD2MBN4Mh8b4eN4YdQhoqRa7oC8SUtvli1aiYFfQ5r1N/nfLQfM92lBZzj7P3cdTyZ1Vlv2lIYG/e8/DjQDAqRl5NXKXs+kQQE5UF32zzr99VdEROOjVszXDIeJTe4w=;309Sz29FJoLVHv6DxmJ1RQ=="
 ---

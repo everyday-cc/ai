@@ -51,20 +51,6 @@ related:
         width: 439
         height: 310
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Trends, Top Key Players and Regional Forecast 2020-2026"
-    excerpt: "Jun 14, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC: An analysis of Artificial Intelligence (AI) in Food and Beverage market has been provided in the latest report added at Market Study Report LLC that primarily focuses on ..."
-    publishedDateTime: 2021-06-14T19:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-trends-top-key-players-and-regional-forecast-2020-2026-2021-06-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
     excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
     publishedDateTime: 2021-06-15T09:47:00Z

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Analytics Market to Show Incredible Growth by 2027 | HPE, Intel, Nokia, Microsoft"
+    excerpt: "This Cognitive Analytics market report's major objective is to forecast market growth from 2021 to 2027. A Market Report is the result of a data-driven strategy. It displays data in a visually ..."
+    publishedDateTime: 2021-06-16T08:24:00Z
+    webUrl: "https://www.openpr.com/news/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/U/6/U616761072_g.jpg"
+        width: 800
+        height: 457
+        isCached: true
   - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
     publishedDateTime: 2021-06-16T09:37:00Z

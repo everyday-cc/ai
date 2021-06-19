@@ -3,10 +3,10 @@ category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
 excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
 publishedDateTime: 2021-06-16T17:35:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+originalUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
 type: article
 quality: 59
 heat: -1
@@ -323,6 +323,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "4pLt/I6fbBW0afWohh6dfvE9U4hnRuJLnCo/k69Hop8vjx98UFxTWdz8290We+/iZCsrl2J5cNwtIRGDcF3rYLIxfuJgV2eR4cDGXW4JvHdU1ZIKES4rdHJx2WQGoxE7tKfj6K7WMjZI5cQGAZ/oOVc/usEGVF2DfdPrATVLdyN0D3m6A08k0YX8GaVAMbKNx6xSw282YPPlF/s97Li8y7/vVInYdPLZu9dNzHjVhYHsIkxujc2UcPmvuq22wWM8RfIfEsMXIJrYd7Nk5WLU9TFDDGvpuLvSzcBF7bVofsWJDAcR8qT+oCUyxWDMBjgHq89qGUf9M4C/ZJcsV5/Ad/ZegsQpqqIxVzhwoB+l1gSjSF7ZhH9RQiiGTQBuloALREhe4T7IYm+NnnsU97fBDohQQPZtrQRVCZp9yCfJOa+Td6Be8cVF6fW2oX7Ju7j1HG+hfLe/uQqhNoG1jWRrSDbHTM7XkolCTdZOKwohQUbq57oMzKk7eDJ+aQI4KFKSvZreuSVfUhM0UKdXQKF1qA==;xli2pVFzM6HcoIeAkaWY9Q=="
+secured: "ZXrL6xnkYaymMrAyZiyourhu5vWioNj9IskA8fgExHA0+9RuDfnBzFzo5eVeaAMXSWrEgzP8163yET+Zfu1yLMW2fZYImvcGPkYafxzYCjo+S/hyzNycq80Mxac88L4MoOR/U+AxQdWEDmr/DUTzMz0OtMWU/dSgkPM2lBLBhmFyrhhoE1bUMDFk0kH04RSAM7/qsWYukDWrsfzB1T4K9viiiA7MdWnnUmJp/BQPf2Nbqye9CQ03gYAPlW//VVOiY8FmsCa78XIynTPzFCAecyCBNCuXTL9va5zOl0/mSplmkl1PnSJQ/vA7CYzR+A0zNAkvcFk9Z+oR+gEW920e7BEUMz8Kf+nprclTZxZzNo8=;BcNdXYDJipAiM9SOPjhhpQ=="
 ---
 

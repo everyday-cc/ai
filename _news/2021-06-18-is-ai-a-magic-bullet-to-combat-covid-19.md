@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/is-ai
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: SciTech Daily
       domain: scitechdaily.com
     quality: 39
-  - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
-    excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-14T20:10:00Z
-    webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
 
 secured: "CSaIGI8/ZdxhXtSAUzXYjcHocW656d50E9V9q+9nrYK8+VKHBpzD7xdapM6AuYYsoHmBUv/Zjj89m+CrI4b9Ns+Lh2e/YSrqX23mCmwBxt81CxhDW8AGR4qU4gtm2YNWHLlP1Dil7TSuo3NyUAM0uEPjj/cTiC5cVwhx+qOwO8RWLbVE4wTz8AGswlpBYA//uhcEuSpEZiSyHdoO7aN/VFporLmCAgZUFAqaS5qjPFG9sAksUsdITm9zsX0aVfrjUeidl6IH5ZmybWN27F+fuOtDEDkpAmj6XxyN/FRfbbIgxUKVSNENkUSjGCjWoVrKcrXynBQIZCd24ColhexcYRAv9WYpwCQxpYvtjQegC45BOm+tIS42Sd5kn+8a7zus6sZsH1oAp0/3MM/F+NZTqngA5gVtV9LAjcE4XDOB77THVz18cYsjQjNnQ8EkRsXbqbnHkJd4nqCa4FclArhGDCSGvSBMTrVKuNcrxFjFMQQ2eIBFW61fRTpN4UxUMtjrTR80qLgfAwCUXiCqDbh9mg==;KTKQmBx5Ld5YCy/hqFYYlw=="
 ---

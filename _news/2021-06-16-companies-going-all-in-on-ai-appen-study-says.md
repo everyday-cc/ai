@@ -57,15 +57,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Appen's Annual State of AI Report Finds a Shift to Internal Efficiencies"
-    excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year's report reveals a significant year-over-year increase in AI budgets,"
-    publishedDateTime: 2021-06-15T12:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-appens-annual-state-ai-report-finds-shift-internal-/2021/06/15/9390378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "yvE9+pNIWot2q9EwHNs4rErVcu0HdDdE0EIIQuQxdd2mukNYLPUFcXA0dNhlm6a4NIVCtGnbN4TgCw1v8e5Mr0hmLfeCsYacn961X8tJmqmDS9CyNQ0QernH+kcjivVzoarl6grBPNIm/3Lo+sVGMksgoN93Y5AFW+Ea3KUdMRIcRM0+4CT0Bwzl6P2eZZNTcfA403/Pn/42j4cLm4wakMdq2tdeibmkZOlEEL2wdJ8fSrHAOc26LvJRhKFWFQZEUp6VyfYm+mC5xRNiewFbhgLK2VU9vUY0SeIfOaGpdbGHg1NBt8VqFJtNyTYeUeue+cMkeYrhrO5864M+ZJF0QqdW9fLcIqfyOIt4V1+zZvBm3RJ8jpBnKzmhZVkkaKAmD8YP3titynZXPoiD7i/PGF+Tn7B3YVkF7xJ4v5MSx2b7uwje3kdMgNWXLt7zDpA39kjpNnbYjTaC71eLgRjAvwcePUyaQ3qhfoPZontewd6DHXFjPsPqnMwJ6u0707UayAjA8NO6E23yTUnmqgUz2Q==;oXSroIlg8jCWascT5yNtNg=="
 ---

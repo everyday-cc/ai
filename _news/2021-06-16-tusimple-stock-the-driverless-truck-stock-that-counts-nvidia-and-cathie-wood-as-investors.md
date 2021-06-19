@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-dri
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "TSP Stock Blasts Off After TuSimple Sends Self-Driving Truck Across the U.S."
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips TuSimple’s (NASDAQ:TSP) recent rally began when TSP successfully sent"
-    publishedDateTime: 2021-06-14T20:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us-1030521336"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "nlGkY7RXjYQlCBL3XKxWvr5QC3/GG7TjRUpvJMurADtJJoK35vkVGUnBCR1qXUNRfPcZFZP4/68X8KVRS0aR3Ctscku+cIQsHbWqezoWHGLaRct5NYZROuRalbVdfCWnzSPHSjW56QUY0fVUwKmSx3IKj67PB6192vZVenFObcISIyAatH3tC4AzrkE+73w899PdAnqLe6XEUR3x5o6I6Gcppmdqjbd3d8WYCoEj1unNlLj9tBsO2cMG+3NqZ1WWVT006XoE7/cnVDoe3SNqe3FhQn9e4qLDNhDausJK9GLiXEUzLZipRKBEde8an9pHcB9pJYrrfigmpdN5b40+zji33do7Wjeqqmt1mIT6yyz9xRANENCWdoDQujuWl4qdCG6qixJ9AYEbxEpMcZD59brJ3chLl1DLQOKO305XZcfhAbjpWbBhA6/ZyK8DigDTYTDYkDApPbQJ4GCkbk9r3Qly+dsFvtbP+wuBsQ1q5B3KwTGoUNEZpHsaToEkA664SEnIzKgXiEVblCa4Qt8JHg==;+yq38KHCVhn69a7AmmWaOA=="
 ---

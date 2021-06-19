@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/efforts-make-text-ai-less-racist-terribl
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/efforts-make-text-ai-less-racist-terrible/amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 2400
     height: 1600
     isCached: true
+
+related:
+  - title: "The efforts to make text-based AI less racist and terrible"
+    excerpt: "Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon Mechanical Turk contractors to say awful things in conversations with language models to provoke them to generate hate speech,"
+    publishedDateTime: 2021-06-19T12:05:00Z
+    webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/open-ai-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "fmxliSwlqbtN+EM7wohvPZD4+Gpc8WdK/ZFhoC+8u35uE4k/QEjCfoImuk+iVX9YORyEGZ/xhxDbrObCakEx87fMXBBoTkSocJ5rYqxLwaOqYoowJxI62yG5vBuSdoCjtB5HOZwOBBEfwi71mxGi8pcZWKYu7G6v4BDHk+EuS+NxjQPI5p59tK5eTVbme7XsFb0OuI8Sz6HNdbo3oR+622ebANc84freScdo1gQYceF8sLe6fBDBaNFHo8DQnRq6FzdgGFFwYNIivgKAoEawsyjn8ZUOzOAC+VFOUK5qiWfFoccsu4CCvzXltKsUqPx8EvtCuxGGh/plflHjHUiVXhgqn1LtUkZ4EBl1bptXyM0y72uS/sRzyEZCOZpFlxd0302mmgF2Upjkczhu9ho743rvDa9xRqXFcYR7VWyRfEd9isj1wqME1Eq4fLSJFTKJfgeAKVFjdPW04/43EXRA/UXEjMF1LUp1oXOu3jgzv5/ShUXAWXMVbIYkWRgtf/CMp/tDlRSA5wOGvcfOOkVtOA==;lNlOeGoArs97mqoxYxEMsw=="
 ---
