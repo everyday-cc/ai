@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 134
 published: true
 
 provider:

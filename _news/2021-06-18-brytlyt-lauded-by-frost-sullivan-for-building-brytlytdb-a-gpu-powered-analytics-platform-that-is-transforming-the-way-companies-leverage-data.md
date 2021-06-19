@@ -21,13 +21,13 @@ topics:
 related:
   - title: "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB, a GPU-powered Analytics Platform that Is Transforming the Way Companies Leverage Data"
     excerpt: "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB."
-    publishedDateTime: 2021-06-17T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm"
+    publishedDateTime: 2021-06-17T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage-data-1030532679"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
     images:
       - url: "https://mma.prnewswire.com/media/1534809/Brytlyt_Award.jpg"
         width: 400

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T20:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T22:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Texas-Gov-Greg-Abbott-e1623991401425-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Theum Now Available in the Microsoft Azure Cloud"
@@ -164,15 +158,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "AI-powered FifthEdge joins Global Microsoft for Startups programme"
-    excerpt: "FifthEdge will use the Microsoft Azure global marketplace to scale quickly and reach a global audience in a short time"
-    publishedDateTime: 2021-06-14T06:30:00Z
-    webUrl: "https://www.constructionweekonline.com/business/272936-ai-powered-fifthedge-joins-global-microsoft-for-startups-programme"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 34
   - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
     excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-06-15T11:13:00Z
@@ -238,6 +223,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "tfYPKf7aRpiGmea46nmYNoZ7JXv+bacD/VNp2XRjOOaOtZA/9MDBMZHdV+yrTMlUzKjZfqtzbVq2nMQvFyAUJakNpqsMBoCIzSKa0wWoszXyLSQkBP54lCw4igZByOIl06Ws90QUahhBYVJcYbGcp47/yiur+Gyx5qI7GGRrep1ocYCTc4Js1oz+MgjSrK+lToqICIInGq9a8liMknc/BlWKQauMVKGk+p6hu0hNxKZbQ2V9MEDwRd7nNmDQJ44SJoQ5dkd2uMrwKN1nkZdFt8zp0vbFfXhqN5PpgotLZn2W9W4QB8YVN9ZKSifKPLC5ImPEYCo5I2VxWEWaXTEcOnixuIxsNB1gJRDdqtjHv8c=;KWEy1yS381XvX9r05ut/Ww=="
+secured: "21w+rAM28t8+KtYUe9ek0If15VD0eUAXYoYpE0SLXBgxxZMTJ0j9TZbhi8Mf9pSyQNh4yp/AVgjQuaL22d7WgR8jmh6oUjmdERFxzrX40HwyZ7N1PXoybPsQPD0iWRQlX0ZjHRlaYT6rABlNe4Z2oO/4nfW+VjgIyyXUM3MTsdlPwp88uCSKDgrTh9tvaXRg/Fp3w0nmEhJ+9NGwduJBLjO4cEs042ph+FCD6WxOGZin14JM5d01kPASepyZ6n2HzTLcYyia/odkWT2oza1qB1sDrvUFzqw8xhJyBvSdmtz8p+mEB5E9p0MgKsls6xK3ci0O2ad0ceZga6dmboGJQXwdtHyr4GLINDQOZF7WI2w=;tBYQzkvzswp9hb7OgteIRg=="
 ---
 

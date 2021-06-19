@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-18T18:22:00Z
 originalUrl: "https://bioprocessintl.com/manufacturing/information-technology/the-promise-of-ai-in-healthcare/"
 webUrl: "https://bioprocessintl.com/manufacturing/information-technology/the-promise-of-ai-in-healthcare/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://bioprocessintl.com/wp-content/uploads/2021/06/19-6-Rodriguez-P1.jpg"
@@ -53,6 +54,6 @@ related:
       domain: techzone360.com
     quality: 39
 
-secured: "LXE499lEYCD0TDNZXL1vB+f9D1P0YSEemBk2JdgWysb554ry4Od2tvHYTJUxvuRfl9PJCDWStdNV865nKG0BJG0P+CkBEjiY/JoJMJZx7bqmn8/MGQtBNew5nPMBfqTxgq0J9Pv07cZUNM8Pw+1og1cT/5ashjnI6sPVQgPhDabxGQEv2vF8qqW4WZkynBTtHHn6Chw4z5tbj+gxdxj94q9P7V6HO+Nvnym1KHLBAWd6n3sMXDVYOO0ftSsL/Fnqd6veRvtRfo8SQL70XBvUO8IjE0GDd9oSB9m4WHGC2M3vO0uhvInNLavkFQ7J6sn1UD3mQw9oHD4ay1qpckBGfNJY34hPTfpRVj5qzU2FgjE=;WZFUewligz6GisN9aMBL3w=="
+secured: "xZISEHrxsb3UKt2jTjWBq6ynB4VQdcz6TPDGOook/RUwtXaeNNA4WG36QIBCTMmNboA2Fe9Z5+7xVwOQc2SUFv4LfSQF5U2vf8xIFtURordsiXfehxpT72dYooXAOvxbqxh172Q3PPrJ+PddzUR1+m/z4/QfIyAqVoEBgSWKsp80InbyDQ7C82OrQTBnklMc+GVPfStWzNE+vSRD8DHP7LtPxke45P+/MMqh49pvOj/XJKB/tCLh9rMt3QvRXKRxmbKuHGU4Y6FPyJvKVoasqFH8eLrKEO7o5bbxuEAnerG+AJS3DjA4duQJPu23HgJAgu5ro9nhmigC0p/FCAWUkyi6upsq52sSouLqorbP2RHK26wlvm6JwDieV+slHeL/oQUR0qqPl9l3lrACBEhHI2ix9Orsf2v2zg1lgC5GW0EiMnQZHF6x+5N6LbswD5eeSMsgBHyaOw2bSAAWRY1BV2CKal4q/Ni+FVmR12XQ481dCycveRa0/kVP/XWVn16sUzJA4YnBtdjcI1cFyD9lYg==;1y+lMnAEl8Nw5ywBLqFy9Q=="
 ---
 

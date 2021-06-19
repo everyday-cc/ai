@@ -45,7 +45,7 @@ related:
     provider:
       name: BioProcess International
       domain: bioprocessintl.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://bioprocessintl.com/wp-content/uploads/2021/06/19-6-Rodriguez-P1.jpg"
         width: 1375

@@ -19,51 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Amazon India launches 'ML Summer School' to impart core machine learning skills to students"
-    excerpt: "The curriculum will cover the fundamental concepts in ML, while linking them to practical industry applications through an immersive three-day course, it added. Participants of the ML Summer School wi"
-    publishedDateTime: 2021-06-14T06:55:00Z
-    webUrl: "https://www.indiatvnews.com/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
-    ampWebUrl: "https://www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news-amazon-india-launches-ml-summer-school-to-impart-core-machine-learning-skills-to-students-711609"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 64
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/06/amazon-1200-1623653585.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon India Invites Applications for Free Online Machine Learning Summer School for Students, Check Details"
-    excerpt: "Amazon India has invited applications from students for a three day free online machine learning summer school to be conducted from 9 to 11 July 2021"
-    publishedDateTime: 2021-06-14T05:15:00Z
-    webUrl: "https://www.dqindia.com/amazon-india-invites-applications-free-online-machine-learning-summer-school-students-check-details/"
-    ampWebUrl: "https://www.dqindia.com/amazon-india-invites-applications-free-online-machine-learning-summer-school-students-check-details/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/amazon-india-invites-applications-free-online-machine-learning-summer-school-students-check-details/amp/"
+  - title: "NIT Karnataka Offers Free Online Summer School on Machine and Deep Learning for Remote Sensing Applications"
+    excerpt: "NIT Karnataka has invited applications for a free online summer school on Machine and Deep Learning for Remote Sensing Applications"
+    publishedDateTime: 2021-06-14T19:04:00Z
+    webUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/"
+    ampWebUrl: "https://www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/nit-karnataka-offers-free-online-summer-school-machine-deep-learning-remote-sensing-applications/amp/"
     type: article
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 55
+    quality: 41
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/10/AI_opt.jpg"
-        width: 850
-        height: 576
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Amazon India Launches Machine Learning Summer School"
-    excerpt: "The programme is open to engineering students in their pre-final and final year Bachelors, Masters, or PhD studies."
-    publishedDateTime: 2021-06-14T06:52:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-india-launches-machine-learning-summer-school/"
+  - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
+    excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
+    publishedDateTime: 2021-06-17T15:48:00Z
+    webUrl: "https://www.automation.com/en-us/products/june-2021/seeq-machine-learning-features-process-engineering"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Automation
+      domain: automation.com
+    quality: 31
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/amazon-India.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.automation.com/getmedia/9d3a540c-311b-435f-ab71-5e4f28943a5e/Seeq-prod-June-17-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
+    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
+    publishedDateTime: 2021-06-17T17:55:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 31
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "iKOWBkHRDqHuxBo4cg9BC7lJ5W4jn+vVcd2gEt5iHOkTDBxULhzkH5Mri7/u2YC2EiZwylv+TwGpC3ngZb0YSHNbccw9oM5dXlog8/IrzYZjoRZC8TOMx+VlZmlVALF3PPIHt/gDZ0h2aJ/D651DDqmjX7UEIoiWDwkgpK7cGGdgnMl0AyrBysV9Vs+haaBIEahYtUBFk3NlFTBnTSEAEzZC4goB4HUIO+X/bIAYRy7BroO71IjBo+zHKGeg42pTc/yIRbNME+eHwZ1UF6OAi9VshtbtA1gA/PZePz5Xoc7SG/ENnqMgsSmfLzU5cU1SqK6sICehCYPH6gZEnGCaE+q/xx/8iew8Y0NWyQ1ii0M=;Qq/z8MF9FuI0kVNgxIAu1A=="

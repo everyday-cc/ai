@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "\"Our goal at Intento has always been to help global companies successfully onboard cognitive AI ... translation serving as a foundational gateway to Intento's full scope of natural language ..."
-publishedDateTime: 2021-06-07T18:50:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500895"
-webUrl: "https://markets.businessinsider.com/news/stocks/intento-named-a-2021-cool-vendor-by-gartner-1030500895"
+excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors"
+publishedDateTime: 2021-06-07T18:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21457975/intento-named-a-2021-cool-vendor-by-gartner"
+ampWebUrl: "https://www.benzinga.com/amp/content/21457975"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21457975"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
+  - Microsoft AI
   - AI
 
-secured: "3anSxjTiPGC4PzHv5uBt7/FWnwXIgP02+cBEUofYnLKX2ir6vkSXKtC3RqEHvUo5pJoYgrcGWre5pWiiLhjJdRkNrvOHAHzM1yTyh1gMWGVikGLciX2+S9RFY+6nhKiOCftRu/w8uxubFxC4r5aNkWSOLv0dNYWhim3YWemVh9fJpZZBF7KwoiTnqGsuELdxcXruqcvKVxmVNRk06B6H/n46qtQSG7N4DikAh6TZggqWfl2XVzP2hdvyk82pAf3hHXmfc6xsFyDNrtqwD/s8zo2qtQi/ZYGbfGqqDOliXf8gkI3qsO2ezop3KMgQOgRgUhzDfJFlVCLhCWM3mLq6QAlnfIfyM2JQlEyfCdGKouE=;YHUfebhP9eC+0gfCGThXgA=="
+secured: "v40euz9SNmoNdnLetnyhvqjYaMimyZggASPOyImvdcviSuZzGdx+jFg3a7ofPJqWCb7AwXW3SXNeeRyzCQC1W+ZfwzvD4V40Q0S+b78LBLRsNuf/xWyU+XW8JxFZnAoKzTuEDiLSyN88GfkdsaLIvrqQLjQsCuZaxsXXG/4uC+0samJF+pXHT1ctHNqdGofsyh4Z3CvKZAQp4A2mwtJ5d7XXu/L1Hxs/Ydm7YHWZ85/3wroCtr1cYSnerWvMpI8uoNhtHfHdUiDVRgV2bCheDbbv7wHYKD4SswyFRMmNdEcTn7FtQ8NKogzPrAtf9DPB8Ql/Wkn0z7aDYQPkvx/0u19fuXHl8QzXEx+oiNzbj6s=;UywK2LdC00SPzr3T6l8HMg=="
 ---
 

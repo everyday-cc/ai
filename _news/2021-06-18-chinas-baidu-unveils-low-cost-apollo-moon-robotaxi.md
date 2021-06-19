@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
-    publishedDateTime: 2021-06-17T09:42:00Z
-    webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+  - title: "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know"
+    excerpt: "Chinese search engine Baidu, Inc.'s (NASDAQ: BIDU) Apollo self-driving unit has launched a new low-cost robotaxi. What Happened: Baidu, in partnership with BAIC Group's electric vehicle brand ..."
+    publishedDateTime: 2021-06-17T16:07:00Z
+    webUrl: "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21601949"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/files/images/story/2012/e-hs3_b31ecce.jpg"
+        width: 3021
+        height: 1320
         isCached: true
   - title: "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price"
     excerpt: "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors."
@@ -122,6 +122,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 24
+  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
+    excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
+    publishedDateTime: 2021-06-17T10:13:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "/WE39QbVuz7BATFLmBu5AQ/S6hivpzsYyESpAn7VPlbxMU8w4B8a2dYYrfwHuAxhju1DUMuTruqjsJXs3Z++VDt8h4/+vTHfd9JNUMvahkUVDcFOOAXNbGpjkgYdivCYuZnnrFpcbj7qWTmRsjmi/0drLYYnV5XwIEztAQna3uuFwjCFl8G7JWo/6cRSdkFwGK+GWmv2l7Feezh2PKPFPFzbeKNb7RyjTtOBItgAlcCwZcNUUlB0D2ftA3rG+S2SUIcz0jBsPCDdTgX+fgU6UdXkUIF4dn0iKj01p4t5xPqLMsognN97Dk/fVcZclpmnd3iLm0rmSD1MC4Fa001Fgv0UaTCBplU4+Y6VHwehtZ/YT8cxs6kEWDGwUpK63sUSNT+GMU9nj3sjkhiqoYgsNrAH4155BR2vV2OnHbcXRnzREHBKzQmPhucoUOtfTUXjkGZmqBL5GmcDpVl/dD9auio/WnkYFFk0Ioc6e1mQK7a2ufX39bD8s9SosliqdadNkF4wO12EccvvFhhOVrG90A==;Qoqd2n/+Xp8up29hKzfsWQ=="
 ---

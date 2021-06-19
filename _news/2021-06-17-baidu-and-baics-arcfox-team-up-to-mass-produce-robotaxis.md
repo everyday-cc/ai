@@ -1,36 +1,40 @@
 ---
 category: news
 title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
-publishedDateTime: 2021-06-17T09:42:00Z
-originalUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
+publishedDateTime: 2021-06-17T10:13:00Z
+originalUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
+webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
 type: article
-quality: 89
-heat: 159
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
+  - title: "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know"
+    excerpt: "Chinese search engine Baidu, Inc.'s (NASDAQ: BIDU) Apollo self-driving unit has launched a new low-cost robotaxi. What Happened: Baidu, in partnership with BAIC Group's electric vehicle brand ..."
+    publishedDateTime: 2021-06-17T16:07:00Z
+    webUrl: "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21601949"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/e-hs3_b31ecce.jpg"
+        width: 3021
+        height: 1320
+        isCached: true
   - title: "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price"
     excerpt: "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors."
     publishedDateTime: 2021-06-18T11:32:00Z
@@ -127,6 +131,6 @@ related:
       domain: nasdaq.com
     quality: 24
 
-secured: "znG6ncN9lTim/7qbmgsijHruJMMA5bjNmnRhtiEKrX5IoVUB0dB7KEeOxIPULgQ66GBLRomI6i85vaRWgK7F5oTNt485f+2GkGlGr41/iHEwkQxuHyY1cj5w9CjUz519arWIUoCey1Baj1COWSuBfooPImUj85yOX9n0U6zj3haUwlaTGAiNKFBmIPrbQvA4zW/3gKcCR0/pWjibtdtDXSFY4nmsUQk6ocsXPcDHYZ3MG7WMXmlN5DOlLX/lZl7NsFyE71mkT3nDNTx53VDC2WXaR0pXR+loGbQtrd5my4pc3UdtzerW/2IjHLD6o9sPwNKePyCjUiVA7EwCcDvBGy8pqa371s51wEpA/IY+lds=;uhMOeFx9eHL8Kk8dNMeAkg=="
+secured: "Qj2jaUIzOxWZ3Cm+GBXIX5yjDxvG+WjR8GHCPi69DwCChgE0jOBUsV2+ZJl6dfzqHiaxWDdiqMmWKKjBh3xYbvXiTIkjDL9QyAilHGtFk/2bKbckzvsMBt3G1mCxh2G59XMSlSQAiUZvTdsVjaw3gAsyfjeEb7LBmz+5+0i/rXCxxR8+sEiYZokFveoTKjTQmeJD+CE6UhtIDQA4DXCA3mGdIoKXeg7nzXWQ38bNpR+bPEM5IdcVXeDWt0+NOuWzXfzKhlF/+7eusC5/lKJKkJFxDVKZMKpwRCaim+PHmgzZVJXlWABJlsWs8wMRagqmBNrdRLLC/G2XDjna7H49tcmaSqzRiDGBMftf8y4obks=;bfEdSqB5ur8gCRm4X+RzEg=="
 ---
 

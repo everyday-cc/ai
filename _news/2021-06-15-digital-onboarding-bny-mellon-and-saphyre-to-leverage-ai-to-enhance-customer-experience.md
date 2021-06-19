@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176551-digital-onboarding-b
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176551-digital-onboarding-bny-mellon-and-saphyre-to-leverage-ai-to-enhance-customer-experience/amp/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 300
     height: 245
     isCached: true
-
-related:
-  - title: "Kore.ai enables Mashreq Bank to enhance customer experience through AI"
-    excerpt: "Kore.ai, a conversational AI software company, announced its partnership with Mashreq Bank, one of the financial institutions in the UAE."
-    publishedDateTime: 2021-06-14T06:57:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/kore-ai-enables-mashreq-bank-to-enhance-customer-experience-through-ai/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2017/10/Mashreq-Bank-Square.png"
-        width: 589
-        height: 589
-        isCached: true
 
 secured: "49PdaUwkFTj5HWyGDgIgZ5K3fHCmpgK4JMngw6Ip2XTnJcf154tcGN9/HxtIpJS0GV+R/lzn3qdthakig0WX0HUtRnPIESgILLPEAXCPvPqY0gHAJ6mtYkf/HgLA2ZHk+6EsoQwvaV56rnEoz8hiG7VZW8H6TPY05otPvYEBVcIFOBvdXSJEpTrnWieXwCiFTMU8JQM9fgrAXaALrYpYoAfg400/QS5I2TNhOu2us5N5TIwvq9HCtBSPXfoc+DNvcZB5qsLUsydodUtAqLP813uSs6B8wTOdf3N+LSX+TT4LUVwmkr2IuAqGVkXzAJ5HHiB2lzuykvvLDVvYN1UQHVpkxpKh9tsN8wdOxE0h8UY=;U5lC9r6YhERgyjoBkUGbKw=="
 ---

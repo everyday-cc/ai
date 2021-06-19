@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
-publishedDateTime: 2021-06-17T18:20:00Z
-originalUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
-webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
+publishedDateTime: 2021-06-17T17:55:00Z
+originalUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Automation World
-  domain: automationworld.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
   - Machine Learning
 
 images:
-  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -56,7 +56,16 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Amazon India Introduces Machine Learning Summer School"
+    excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."
+    publishedDateTime: 2021-06-16T20:44:00Z
+    webUrl: "https://cacm.acm.org/news/253363-amazon-india-introduces-machine-learning-summer-school/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
-secured: "TfvOI/nnJ71Q87qE/AqcPqMoe0RzCoeTTxI+J7cvGxfBAG2smEbAYLIzyJkJBfq40pamf+zZh4TWDfzVD3VojKgvPShVIrdPa4Zmc3xncrD6VbH4rtIozAngLGjQ/HsQ/CUieNbCtUKqVfmaGveK6vCROsApEZgjnTmsMHwb7xTWkqm9blxkXdGDb1QTjujZmymO0dY50gMO8Q1i7Fc4eMlvKgXD/iAb9WOl1TbZjYRvATSjpxwlmARVNB5NQGK+fl6JsC3qrSFi9+6xB00lp1TM4HxlfAsdDiF8yuurAIsozKIDEuEUNof0OW7LTYFiPyc2sXJjqrZ3CUxiBRTcqlfBVUwSEranicifmNtFdhM=;QsbcSTZWjp/bETMtHkTrbQ=="
+secured: "M4n7ykDSaFMgmEhRbFJejWUVEVhMB89YBNhOxXLFwsiMhjZSCShL8qC1hovvzJYKg9uvsN1CMoLNNZB0H9NDDs6YCQufEH6Znbu3P+6aHpzCZQwpMaaot3nDHp/3Bu7zBuhsGLbLXomuto5F5ZFltgAntkinsWJgwXcMJL8WiUuTxOBwcy6zAkrzmgFxDlhLrzsrX2asgX9M3i3iUIjX32O1V0+eFPO+/Y9oN2h0lGv1w0fXIKY5ql88Uq4MZpEAKVNCYgMBJ5Nep4jcIEZB2m6BEdnif2EFojqrnCtJTtIokZMXXoLmkY3rPjOvVHYSl/uHc7XuD38lQzQuNikqZBZB2bayYT/SiOXwnxRSCUM=;4IIL6LhQa5ZhLsSO/wIO8Q=="
 ---
 

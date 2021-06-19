@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-20-aws-21st-century-forecasting-for-the-travel-hospitality-industry.md",
+      "title": "AWS: 21st Century forecasting for the travel & hospitality industry",
+      "excerpt": "Notably, it serves to review improvements in forecasting, the use of machine learning and artificial intelligence, and metrics, to assess a forecast's value, as Wesley Story, enterprise strategist at AWS explains. “Travel and Hospitality companies have ...",
+      "sourceUrl": null,
+      "webUrl": "https://centreforaviation.com/analysis/reports/aws-21st-century-forecasting-for-the-travel--hospitality-industry-561544",
+      "originalUrl": "https://centreforaviation.com/analysis/reports/aws-21st-century-forecasting-for-the-travel--hospitality-industry-561544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cdn.centreforaviation.com/stories/GettyImages-1205428317-1024x.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Centreforaviation.com",
+        "domain": "centreforaviation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-global-artificial-intelligence-ai-speakers-market-size-share-value-and-competitive-landscape-2024.md",
       "title": "Global Artificial Intelligence (AI) Speakers Market Size, Share, Value, and Competitive Landscape 2024",
       "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.”  The report demonstrates detail coverage of Artificial Intelligence (AI) Speakers industry and main market trends.",
@@ -1139,49 +1182,6 @@
         "AI",
         "Google AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-latest-vectra-research-highlights-top-10-threat-detections-across-microsoft-azure-ad-and-office-365.md",
-      "title": "Latest Vectra Research Highlights Top 10 Threat Detections Across Microsoft Azure AD and Office 365",
-      "excerpt": "Vectra AI has released its 2021 Q2 Spotlight Report, Vision and Visibility: Top 10 Threat Detections for Microsoft Azure AD and Office 365. This new research details the top 10 threat detections that customers receive by relative frequency when Vectra detects abnormal behavior in a customer environment,",
-      "sourceUrl": null,
-      "webUrl": "https://channelvisionmag.com/latest-vectra-research-highlights-top-10-threat-detections-across-microsoft-azure-ad-and-office-365/",
-      "originalUrl": "https://channelvisionmag.com/latest-vectra-research-highlights-top-10-threat-detections-across-microsoft-azure-ad-and-office-365/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://channelvisionmag.com/wp-content/uploads/2020/07/cyber-security-3400657_1280.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ChannelVision Magazine",
-        "domain": "channelvisionmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

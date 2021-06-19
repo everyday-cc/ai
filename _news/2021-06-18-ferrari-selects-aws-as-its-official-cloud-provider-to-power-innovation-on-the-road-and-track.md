@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-publishedDateTime: 2021-06-18T06:31:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+publishedDateTime: 2021-06-18T06:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
-    isCached: true
 
 related:
   - title: "Ferrari, Amazon's AWS enter agreement on data"
@@ -82,6 +76,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Ferrari Races To Cloud With AWS Pick"
+    excerpt: "The carmaker and tech giant announce an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider. Amazon Web Services’ machine learning,"
+    publishedDateTime: 2021-06-18T22:12:00Z
+    webUrl: "https://www.crn.com/news/cloud/ferrari-races-to-cloud-with-aws-pick"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/026a-128d5f29ab98-4f0786cb1142-1000/ferrari-f1-team.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Ferrari selects AWS as its official cloud service provider"
     excerpt: "Amazon Web Services AWS a subsidiary of Amazoncom announced Friday that it has entered into an agreement with the Ferrar"
     publishedDateTime: 2021-06-18T21:31:00Z
@@ -115,6 +123,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "VA9EgK325aXHkdk5kOLOANU3Yyn5pLXV59gu6N53/82kWaxZouTEh+Pvkemcp15l4RqE+iGqS60ZAPhwFKroU9cKH7oC8MjIrX8kTmeq2EZFO+I9aD0eT+nIjysxL3HfLBL3VmlFCxKniPBSG/dfuQvl9u6UAsvdHZkyHf+f6wQ+Jz+ri5zFmrTZ4+4GFECUnPomk+F9fMXmitqmDp8SBf+lLtD7073UdZXYI3IcjIJjbr6smJVvGObAE1p3NqoSuMGpKSnom3A/ba/XHS9y0w2ipwZjdtjXzxfhV5ejRl7iMmdJj8T0vlP1Z1dVCgo5NEFYzyBiF170b3yRTpzir37O4oT+TVJ+HqSPt5nThws=;eFr+/7mmhKSJadlw3X0ptQ=="
+secured: "4ffnYft0VCQFjQCeDN4LMpgYkVdMuFN/M/JBe3UGQnKeo5ponCK7SCQ3BYdAnvFmhyPUO6bVK0XivXRUY2bwgXdVGYNQhdgP/CDxW6oxnxf5RLEfzd17aFjLRliOA4JfyEI/DOPSyIcLEJLmenHAv1a4n2ZmO4Yl8o8XpBX1HHeESejt0ZrUdL4FmkwEymYiz8yzwlDFifpZf68zf2IDXGLfJr+pxD+CqQFUYgzmNuXATMw1TiXlpgZh/zHEYfhslCnSoCdb/dzAxxTS0/btsbktL7mCciaFrZJQXQN/KQtyyOEj8ZQzPB4aQt9VkYsizrRGPp+vPlwOqBYSJDuE+pbg2ykobnJlCFgKWMNQCdmE+BVCYTacUixSFZTb7GNv68Y5DKQs2h4VetSnRk2NgBUa7K+vE8X9ETHfzlYxeJtEkpJ9UYeTxB57GwMlFZVONutK7K3VbPTupSM5v7p8QYO87cG47rLFcsALesymP2B0iFSUrNBEhXlF3ehvEXKLo5IyVPLHsmQ4aIoRN2iN6g==;KBY2h1BK6P+enhbGKtC/kw=="
 ---
 

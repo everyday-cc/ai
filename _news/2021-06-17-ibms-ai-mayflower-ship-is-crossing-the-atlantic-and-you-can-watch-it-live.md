@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-s
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:

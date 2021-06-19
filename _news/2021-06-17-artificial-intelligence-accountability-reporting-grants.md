@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 695
         isCached: true
+  - title: "State of AI Report Finds Growing Budgets and Correlations with AI Companies"
+    excerpt: "Increasing AI budgets represent a maturing industry and are closely correlated with metrics of success. In our latest State of AI report, Appen investigated the landscape of the AI industry to try to understand its current challenges,"
+    publishedDateTime: 2021-06-18T22:37:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 65
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png"
+        width: 1043
+        height: 652
+        isCached: true
   - title: "Google Cloud Reports How Manufacturing Industry Can Accelerate Use Of AI"
     excerpt: "Google Cloud’s latest report reveals how the manufacturing industry can accelerate use of AI. Artificial intelligence (AI) has changed the course of innovation. And at the forefront of technological advancements is Google."
     publishedDateTime: 2021-06-15T09:30:00Z
