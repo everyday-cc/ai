@@ -94,6 +94,20 @@ related:
         width: 619
         height: 412
         isCached: true
+  - title: "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS"
+    excerpt: "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments."
+    publishedDateTime: 2021-06-18T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook AI can now use just one word to mimic text style from images"
     excerpt: "Facebook has announced their new AI project TextStyleBrush, a software capable of copying the style of handwritten or printed text in an image using only one word. Users can utilize this model to alter and replace text in photos."
     publishedDateTime: 2021-06-16T20:09:00Z

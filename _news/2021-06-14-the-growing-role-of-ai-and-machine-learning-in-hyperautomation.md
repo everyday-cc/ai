@@ -161,6 +161,20 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+    publishedDateTime: 2021-06-18T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+        width: 1200
+        height: 441
+        isCached: true
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-16T18:43:00Z
@@ -170,15 +184,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-    publishedDateTime: 2021-06-18T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "/X4Mb+WeIR+dyAnp8xAGY9J60Uyzgn1xXF+7vnslsmD4YIzL4BzNHfSgc2dC3Ycp084nzp0Tk8BMuuNEFtiJaX5nGRQOLaMbyNRtR9n9t/GsfEhuY6dzm/IJ31Z1xketg30WkIvSTwK37aBuIdnzUOyyOq1azLcbh4sXh/ZkdjlC77ffXtB4FcAniRJFobdwwRJKzniINo4iJmhCNl7mWLqaGey6kcO02HVEfdl5y1I9WZOmNqCOWc983kObcsI19p0h0QifHmbs2KkQDXoIv0WNSfOWj/uZXQkQCke/H2kn1qPyjp8BiIiW04b+7Lmj1r6U0iZELiWuLuwHT7BHfar8FQ/VMmqQDXAj38e7FiZ3RSYVHpM0XJpm5/HrScfuD82p8FO6ceCNWjI2Al4isIJxrqcZkPhKRscL2sqyFzk7BO/Ohaw1WUAJpBSsFUvzAazvQ3dSpvOZl0peFeNjsaQ0QjAVuRoGfXxl46k4lJywnLETvCRUYtd5ffU8mU962xFRJU7l365Jm2BaIB1uLQ==;Ex+ng9hXjbd27hfa9TbBNA=="
 ---

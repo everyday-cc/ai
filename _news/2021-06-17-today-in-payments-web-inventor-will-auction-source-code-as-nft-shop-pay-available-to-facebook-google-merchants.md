@@ -91,6 +91,20 @@ related:
         width: 619
         height: 412
         isCached: true
+  - title: "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS"
+    excerpt: "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments."
+    publishedDateTime: 2021-06-18T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Artificial Intelligence Market Exhibits A Stunning Growth Potentials | COGNEX, Basler, Facebook"
     excerpt: "The latest independent research document on Global Computer Vision in Artificial Intelligence (AI) examine investment"
     publishedDateTime: 2021-06-16T14:57:00Z

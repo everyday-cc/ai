@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-18T22:50:00Z
 originalUrl: "https://siliconangle.com/2021/06/18/aws-secret-weapon-revolutionizing-computing/"
 webUrl: "https://siliconangle.com/2021/06/18/aws-secret-weapon-revolutionizing-computing/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/secret-weapon-1024x610.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 610
     isCached: true
 
-secured: "+YI0vLvKOH1lLA+zoPn2yOPoPvsGSopodh9lmpIFaSRzQPMgoUu17lQH52TgkRKS3+7weqr6ErV6s5Ifa2ogbhhCE5319eXa8/7YuSFr1aKNx8MwyfvOD9j6LkcoPN/32DH0eyxqEGW1Rv7j9XgqkznrjxA7t8XLNJ0kDKW8nWiayhBsyMgU2K3kZEhVfxJ4Ap9TAXX7e+eHyp5ZSIqdjTB0QoE9ezc/3oBZq1d64CfSuh+pJ0vooIzQiFiyA+zkkNiQ5V6kLhWU632bXAFamdNbuZd/o5y2xkulcPfMe2iKOhTRQa8WLGK0vjtih7g7UWtMyd1B8QfC4THzCf71eYljW7dzW34GJZhCKlulMn4=;8c7tfNZD4zeOXD+r9h2c0w=="
+secured: "+0OYDTeSX3bQT8MY866gxPzWT1iDk00lIjRXBdl+u0a8dXnIhy4i9+hivFyPNLJ8EWj9L17OBF/dfAueSiXl0YGmCqGOjk59fqahYaxs8UmscdJRVRrJ3bsTSLi4QqL30XMDsnqNmWQE3NX5JDQAXQRdqA9ecBUDTWIxdJQo+O12Sfiq3zwdrVa8QpbhwyVhpA7wVujC/DujFxYXr9w+cutT6Pp1/0Ljqi+i9r96yCtx8ZplIK5q7hflOLQjhMcgJrdvfeyMMr3YLc03RxwUZmyYR6h4J/fyq1VDHHkPt206O5QZuMe6JiEykRYjvIODBxjxMtmQCxwSXLQ9wSeDZGHG8CusbwJaPwkCKp0sfwl07zcyHHBq9zX4hrp4JaBS3Jc9ifFpHZjE9o7XtjamCfEXQygwTiR8jflZRVMnkxcKh0kbFF4GKGKnfAdDv6U37cM1qIz5NvvkfLlOfXsIOiCrnUTvb6PHqvjdTcYo7YbBhtbm8pYUtvjxyFyGEZ/bGNxExi7blSlntKdcIDVy0w==;XOm0r1uFLT3yZCmfgJI1sQ=="
 ---
 

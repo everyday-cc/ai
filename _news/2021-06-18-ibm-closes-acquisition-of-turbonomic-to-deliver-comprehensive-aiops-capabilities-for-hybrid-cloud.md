@@ -1,22 +1,18 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
-publishedDateTime: 2021-06-17T19:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
+publishedDateTime: 2021-06-17T19:14:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210617ny14724/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210617ny14724/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud"
 type: article
-quality: 56
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
@@ -40,6 +36,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "IBM Completes Turbonomic Acquisition"
+    excerpt: "IBM has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to enhance the tech giant's push to"
+    publishedDateTime: 2021-06-18T13:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
     publishedDateTime: 2021-06-18T14:50:00Z
@@ -83,6 +90,6 @@ related:
         height: 457
         isCached: true
 
-secured: "GAtb6VU1ncBSCXy6/86gWzV7l+CduA442ELbmNIV3TfpiehsgJU+eu2Dv3wdZfNmIMn2XfEX0UEPEzlxDcZVPb72b8X2xvPyyOIWjT9r+wZVKVD59PCmPUZ1PM8XHF5CCXkTsaftGygG4k7t9RYkYEJIe5xTkCXavdrUevueHPWJ6iOS1R6jjUXKQJXzIWihedHkPZI1ZuW5e6vjJmnnuGobtldWKh9Jb0SADt7LCas44D8cgerdHaFq6WspOUtWmg+N5/82HzbUfZExgpyBSgl1o5/QbJgGvhZs/7OcDTIiCVRPjKuBILXaAGdqJHE6iHd1zH5c/Y58CioBZKHRCCf1GEWpsru6biaXycmkigoqRmPYWJa5cVXsqcr4517/toYKhCe0dq38tw4ixQllUJkF648cyzf5jQv/4tgcYqCIppdrc7I8aXFusqps2PJx95Riu4V6WRpsX4Mp4KvgmoAU+f4M4ls2Km0QNNiR5BGpLrJPPRgmKF6uPcdoScbUL2TGD8GluFk2tpU9jpKQuQ==;NCA181oOm4ig/bwECzxSIQ=="
+secured: "UzptXhYUFXKkEP+Ger3iMW6terbV1R60rx59VthMvI5apf6wTo0tZ6zZM1Jb1LvO0ZmF2/5FOWEmHlauRBsc3v7v3KHcFrGfgGkHrGK01C3vfpGJIKSGQh8PCy7zxQkFLpERPVE0l2WESpMDbuUAT8gty00gSm9ZQY2Utdkp+G7v6pOML2K2owtfidwGvNjy5GCGNW+akUfuiNzjvcBO/4KYzzWwu+GFpXqRyigFCTdABiU+nmaB0YXkzV6PRHLd588VnZX76qaULd12dU94F9q5v8AUvLdBqqhagkTKJah1LYMA/lgEIG42XOWXjacCr3cPOooE5g17xTTti+v+4cl6pq9Flrc0S65sLJLzMjE=;/+qz+v6vKwcwK6Cgmda+3Q=="
 ---
 

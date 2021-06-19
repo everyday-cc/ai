@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
-publishedDateTime: 2021-06-17T17:55:00Z
-originalUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
-webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
+publishedDateTime: 2021-06-17T18:20:00Z
+originalUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: Automation World
+  domain: automationworld.com
 
 topics:
   - AWS AI
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
-    width: 600
-    height: 338
+  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -50,7 +50,7 @@ related:
     provider:
       name: Automation
       domain: automation.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://www.automation.com/getmedia/9d3a540c-311b-435f-ab71-5e4f28943a5e/Seeq-prod-June-17-2021-web.png?width=500&height=313&ext=.png"
         width: 500
@@ -66,6 +66,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "M4n7ykDSaFMgmEhRbFJejWUVEVhMB89YBNhOxXLFwsiMhjZSCShL8qC1hovvzJYKg9uvsN1CMoLNNZB0H9NDDs6YCQufEH6Znbu3P+6aHpzCZQwpMaaot3nDHp/3Bu7zBuhsGLbLXomuto5F5ZFltgAntkinsWJgwXcMJL8WiUuTxOBwcy6zAkrzmgFxDlhLrzsrX2asgX9M3i3iUIjX32O1V0+eFPO+/Y9oN2h0lGv1w0fXIKY5ql88Uq4MZpEAKVNCYgMBJ5Nep4jcIEZB2m6BEdnif2EFojqrnCtJTtIokZMXXoLmkY3rPjOvVHYSl/uHc7XuD38lQzQuNikqZBZB2bayYT/SiOXwnxRSCUM=;4IIL6LhQa5ZhLsSO/wIO8Q=="
+secured: "Lul+EHl+sdWWjOfAuwjTWAHxfr35hOaxbZNrNKnntXeHPfPLxpK079MMrkLSOmUjZ6Aau7iHHRo98BnkfF46ohQkKAtweS14+51PWSz9ZetVWOkPsi20LcpdqPbWCQ9DKv/sE/a9TsWoziL9QveNYM3T2Xnknaph7Wb+ccjwC6OS/WYNWDN1rdWbh2siJmHlLQ3uhuD4V+IWFCtlktnq0B+Qx4zLYJd/zuzHr92iSvlxGXxpvMLUp6+rX2Y2dk9dZdy+4QQSWRF7gZ0e+8e7Klc+/7SKdpdnezcwUPJrIozutvACr0v5r0oxZ7KciVEF63k6JIEwwckeSm2R6B12y7FLuXjP9WoTlCfxpLOXrV0=;EZiHdlibTGSvd0xHE8huTA=="
 ---
 

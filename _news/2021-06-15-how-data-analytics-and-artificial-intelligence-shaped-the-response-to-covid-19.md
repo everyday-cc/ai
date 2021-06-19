@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shape
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Dataquest
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Webinar to explore impact of AI and analytics on physical security"
-    excerpt: "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to"
-    publishedDateTime: 2021-06-14T08:33:00Z
-    webUrl: "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 74
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/edge-devices-computing-iot-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
     publishedDateTime: 2021-06-18T06:43:00Z
@@ -59,15 +43,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence aids the analysis of microscopy images"
-    excerpt: "Gulbenkian Science/DICYT Researchers develop a new platform of artificial intelligence able to explore microscopy data and hasten new biomedical discoveries in health and disease. The platform— ZeroCostDL4Mic —is available in open access and allows anyone with little to no experience in coding to quickly use it and develop powerful actions,"
-    publishedDateTime: 2021-06-17T09:31:00Z
-    webUrl: "https://www.dicyt.com/viewNews.php?newsId=44109"
-    type: article
-    provider:
-      name: DiCYT
-      domain: dicyt.com
-    quality: 36
   - title: "The Global Video Analytics Market Assessed to Develop at $11121.01 Million by 2028"
     excerpt: "The Global Video Analytics Market” As per Triton’s research report, the global video analytics market attained $4235.82 million in 2020, and is evaluated to surge at a CAGR of 16.05% by 2028. A recent study by Triton Market Research titled ‘Global Video Analytics Market’ entails the Global Analysis and Forecasts by Deployment (On-premises,"
     publishedDateTime: 2021-06-14T22:02:00Z

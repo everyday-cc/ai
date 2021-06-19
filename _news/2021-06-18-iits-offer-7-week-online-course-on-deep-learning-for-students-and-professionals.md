@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learnin
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/"
 type: article
 quality: 55
-heat: 77
+heat: 78
 published: true
 
 provider:

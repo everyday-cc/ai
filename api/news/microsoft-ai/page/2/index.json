@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-03-imanage-adopts-microsoft-azure-as-global-cloud-platform.md",
-      "title": "iManage Adopts Microsoft Azure as Global Cloud Platform",
-      "excerpt": "Manage, the company dedicated to Making Knowledge Work™, today announced its adoption of Microsoft Azure as the global platform for the iManage Cloud. iManage will also deepen and extend its integration with Microsoft 365,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12519-imanage-adopts-microsoft-azure-as-global-cloud-platform",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12519-imanage-adopts-microsoft-azure-as-global-cloud-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-nfl-pledges-to-halt-race-norming-review-black-claims.md",
       "title": "NFL pledges to halt ‘race-norming,’ review Black claims",
       "excerpt": "PHILADELPHIA (AP) — The NFL on Wednesday pledged to halt the use of “race-norming” — which assumed Black players started out with lower cognitive ... from wire services such as the ...",
@@ -1348,6 +1314,58 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-microsoft-azure-is-now-smarter-and-more-powerful-than-ever.md",
+      "title": "Microsoft Azure is now smarter and more powerful than ever",
+      "excerpt": "“These services build on the cognitive APIs from Azure Cognitive Services and Azure Machine Learning, accelerating development of AI solutions by providing additional task-specific AI and built ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "originalUrl": "https://www.techradar.com/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-is-now-smarter-and-more-powerful-than-ever",
+      "publishedDateTime": "2021-05-25T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

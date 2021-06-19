@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Webinar to explore impact of AI and analytics on physical security"
-    excerpt: "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to"
-    publishedDateTime: 2021-06-14T08:33:00Z
-    webUrl: "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 74
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/edge-devices-computing-iot-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
     excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
     publishedDateTime: 2021-06-15T08:27:00Z
@@ -73,15 +57,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence aids the analysis of microscopy images"
-    excerpt: "Gulbenkian Science/DICYT Researchers develop a new platform of artificial intelligence able to explore microscopy data and hasten new biomedical discoveries in health and disease. The platform— ZeroCostDL4Mic —is available in open access and allows anyone with little to no experience in coding to quickly use it and develop powerful actions,"
-    publishedDateTime: 2021-06-17T09:31:00Z
-    webUrl: "https://www.dicyt.com/viewNews.php?newsId=44109"
-    type: article
-    provider:
-      name: DiCYT
-      domain: dicyt.com
-    quality: 36
   - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
     excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
     publishedDateTime: 2021-06-15T13:00:00Z

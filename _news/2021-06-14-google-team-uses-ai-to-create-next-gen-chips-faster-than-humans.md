@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-google-team-uses-ai-
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-711724"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: India TV
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is using AI to design chipsets in just six hours"
-    excerpt: "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area."
-    publishedDateTime: 2021-06-14T07:06:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-is-using-ai-to-design-chipsets-in-just-six-hours/article34809994.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/41suu1/article34810034.ece/ALTERNATES/LANDSCAPE_615/googlechip"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Google using AI to make next-gen AI chips, humans are now far too slow"
     excerpt: "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months."
     publishedDateTime: 2021-06-15T01:47:00Z
@@ -86,15 +70,20 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 53
-  - title: "Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
-    excerpt: "Pages Report] Check for Discount on Artificial Intelligence Chipsets Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis."
-    publishedDateTime: 2021-06-15T00:05:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4548669-artificial-intelligence-chipsets-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+  - title: "AI Could Spot Wildfires Faster Than Humans"
+    excerpt: "A prediction system undergoes testing as the U.S. West braces for another potentially devastating wildfire season"
+    publishedDateTime: 2021-06-17T10:50:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-could-spot-wildfires-faster-than-humans/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/1B5D0A97-B71D-4431-B15E5E055ACBA0E6.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "dptIK+ZoeLwD2HIBna98XK77xm/syg/bLU6I7iq8Xfw3P9is+upA2fyToGMBvjAr1/KyKUrrXDJ3eDgQezE8LiAJ0aHmfaKLtePpyfJnidLMdpRqaLNVPfMrFisPtbEmkKdJvF9s0EFz+9UqOHpK6pR9hHwP6u6tMENmjnHKGJKEvafelb4d5rKkOHKmwibWJABEXEsxTOp70LzBVqyhJGMOpZ8xAtP6FHP0zETgYhdLzICOhz5dqdLN3ySyf5oxz0ehbyiAbSFKnP37Fh+5lQXm/BmjUN2PIHp4pWqxmlkzGIDt7clOXrY7WJY/D9QrPMQeXVHSE5QvCNK2AHCKuEJXkcLhUvDFxbvlZpo878cb/eniITsMR5+9pwFTHgHSnJFC9DsZ3VfcWCQf1hbmxzPc74bkNWkV6cn09oZVQKJoaNfT+yxrjZ7PCPIwSWN8E1pBogpG4IZ15CPrl4OFgkwL2PiwfrwOaY5FFfscdzY3sJo6N9fVio1mudTChFOTCuHItUc7ZNFYJ9yXdaixEg==;GrgS77Wd9StINRotSD2cqw=="
 ---

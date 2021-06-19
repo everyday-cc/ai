@@ -24,6 +24,17 @@ images:
     height: 260
     isCached: true
 
+related:
+  - title: "Facial Recognition Market Shows Unbelievable Business Growth | Top Global Players – Gemalto NV, Ayonix Face Technologies, Cognitec Systems"
+    excerpt: "Latest added Facial Recognition Market research study by MarketDigits offers detailed product outlook and elaborates market review till 2027. The market Study is segmented by key regions that is accelerating the marketization."
+    publishedDateTime: 2021-06-14T18:30:00Z
+    webUrl: "https://ksusentinel.com/2021/06/14/facial-recognition-market-shows-unbelievable-business-growth-top-global-players-gemalto-nv-ayonix-face-technologies-cognitec-systems/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
+
 secured: "eWxl3kXIqPWvjm0xtpRCyIPepZZj6OPj+aVTq7GRuMRni6cPwlZ5MqazI5tCHkPm1Lv7qmn/NMO9oPd+vbzbdyxB/iJKuGwl/LuxP/AocmaAToEBWxyZ6ZxNtLY0jt5ADqSxpJGR32GX25vH7Dt1ND21reIHmTyp+I3XlV55ycUpJBxFIZI25UV0QJ/pglN7WtwqZJFP3WLzDijo8HYwppT5IqgtR/5mdtcAXEwgxs2eeI7BMqhIrrZYFNMXAA0/JpBIb3x8Kbxm3BFK1gYSPVaqaneE9defNPG7j4G8nVXfI8gXeUNaICJyVSqWbBug5botlJooBpi3Rcw5FFG1WMYwGG2wwWR5kIYIYH/8ENqGyTovE9uLbcAxBykEA2y5GXQL1pa025NnvHIBhlK8rg2dT3EsRhwWoQqdsx8caCvBfoWcsgSo0kKfV4DjtRLuFtYDexHdVKEGdIiyU9kE4sRJ/3+vRjMpybEv95G7FSAwKdv0CHNHcDIi9A1ZfF/y6AiOR7acyd9tQaSClG03QA==;j+fNJAW54hr9FXOcp3wj1A=="
 ---
 

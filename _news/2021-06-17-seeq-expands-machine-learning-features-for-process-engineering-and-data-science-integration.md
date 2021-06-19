@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-17T15:48:00Z
 originalUrl: "https://www.automation.com/en-us/products/june-2021/seeq-machine-learning-features-process-engineering"
 webUrl: "https://www.automation.com/en-us/products/june-2021/seeq-machine-learning-features-process-engineering"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.automation.com/getmedia/9d3a540c-311b-435f-ab71-5e4f28943a5e/Seeq-prod-June-17-2021-web.png?width=500&height=313&ext=.png"
@@ -43,18 +44,18 @@ related:
         height: 400
         isCached: true
   - title: "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration"
-    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations."
-    publishedDateTime: 2021-06-17T17:55:00Z
-    webUrl: "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
+    excerpt: "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms."
+    publishedDateTime: 2021-06-17T18:20:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
+      name: Automation World
+      domain: automationworld.com
     quality: 31
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200"
-        width: 600
-        height: 338
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Amazon India Introduces Machine Learning Summer School"
     excerpt: "ML Summer School will cover fundamental concepts in Machine Learning, while linking them to practical industry applications."

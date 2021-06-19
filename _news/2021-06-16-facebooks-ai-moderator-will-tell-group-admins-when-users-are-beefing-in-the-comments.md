@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-gr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting"
 type: article
 quality: 150
-heat: 320
+heat: 330
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/news/f/facebooks-/facebooks-first-ever-smartwatch-might-drop-next-summer_ssa9.620.jpg"
         width: 619
         height: 412
+        isCached: true
+  - title: "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS"
+    excerpt: "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments."
+    publishedDateTime: 2021-06-18T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Computer Vision in Artificial Intelligence Market Exhibits A Stunning Growth Potentials | COGNEX, Basler, Facebook"
     excerpt: "The latest independent research document on Global Computer Vision in Artificial Intelligence (AI) examine investment"

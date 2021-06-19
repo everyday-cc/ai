@@ -1,23 +1,28 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-publishedDateTime: 2021-06-18T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+publishedDateTime: 2021-06-18T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
 type: article
-quality: 2
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI Ethics
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -176,6 +181,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "ayZGzkR7Q/OLk1AF91i/fHJCXT8TPjvC9+xAKEoL4nLPEhIpTkVUv5HwaI81kuFIiG3VcMG3ZD3TFEDwDLKuHlsqulBxNA3RkHY/n7ceuxZzFZK8wyar+BPkWpRRULrs2mpqVkYkjdOYbFIIhDEZn5n75cJwA1kOLbuhQIOj/YW1AN0+6Yd7fDiFJW5oYFTJE/l41oWX473ZkO5DNt8tfIZZllBwKIg1qm+AfS3KrBhYsq8NcRDPlBGzpM21UMtcv1zprCBRHE/ICDwvdpGn50U7y9UPCStYWCuPrpZk3X1d7MnSuk48y4v2kmVfs5szScY11ZybzN2XBbRUKLfJcV1jvXlkC0KF3QOQKZO8tUaCk2iwfw1zNyJBix9HMl5V4xuWDoI3N2iDE4spOJ2NnAAjcP2cR8VK6IaQ9ZDCcfoQEbjwj4JwlpXtXO14L8snnNMjBbLe4RDVvC7XpW+bhxF2EGv+RxPXxHQRmQ5fpDBq7+GdOb94WruJrQj+21pRCW2aliAyPptFzoqBQvJUvA==;sJAiuPM8xB/dmhzMSMxGIg=="
+secured: "NdCBmk2/DNPwsbpxaGmQkdkaLNqRxd4iX6p4sBbmy9AcGIcYxyg0g9l9o/NsD8Pijkn1iiucMTlDIJcZUGqLaH/EuRl3g9WK/QmCfAbBoGhA/S0yVJyWjCSyw7uSQoP3nuFrwEOdRA/9yYe7BF4763Ywp5nkH9HfAHnH8OeWgl17GqFjNSyPls5ZF16kzvcbl76Hkt9l1ClHZyZszOn3lJqK8wv1N4Zfj2K37zMZxeDSKWClAT6IbW6DvFyP0P5Xu1WuIzGTTCkG1jPAz129gPRVYgjXEh1O0lXlf3JXZSZ9dHZ+IbrAb+7nPHF/CNYxz42ClOZ/uz4cnbjisEYteBZ11o+6XaaVDLnHzR9uIjA=;EE8irjIoaNkA99+GIzZPrw=="
 ---
 
