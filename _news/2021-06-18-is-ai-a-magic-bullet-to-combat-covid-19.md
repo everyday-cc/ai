@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/is-ai
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: India Times
@@ -27,31 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare"
-    excerpt: "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and"
-    publishedDateTime: 2021-06-14T12:54:00Z
-    webUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/"
+  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
+    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
+    publishedDateTime: 2021-06-15T08:27:00Z
+    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
+    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 71
+      name: Dataquest
+      domain: dqindia.com
+    quality: 55
     images:
-      - url: "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png"
-        width: 940
-        height: 788
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
+        width: 850
+        height: 400
         isCached: true
-  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
-    publishedDateTime: 2021-06-17T12:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
+  - title: "Artificial Intelligence Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-18T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-18"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
     excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
     publishedDateTime: 2021-06-15T12:00:00Z

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
-    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
-    publishedDateTime: 2021-06-15T08:27:00Z
-    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
     publishedDateTime: 2021-06-18T06:43:00Z
@@ -66,20 +50,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1623672786.jpeg"
         width: 800
         height: 395
-        isCached: true
-  - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
-    excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
-    publishedDateTime: 2021-06-15T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/american-licorice-company-selects-answerrockets-ai-driven-analytics-platform-to-accelerate-insights-generation/article_b086e2c3-6bfd-5963-9a26-c90089662e7a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/dd/3dd1b7c5-c7c6-59ba-b818-5071a55f7840/60c8a50db8e17.image.jpg?resize=699%2C392"
-        width: 699
-        height: 392
         isCached: true
 
 secured: "E4fsd0HAmq9CkMK8dR2OENyjNttGtrVdhrc0up/gc6SNmBAFXjncU7yBL2gPeevBbqMTDtkFeen92QfblWXUh1zlqnF3Gdzjs6Dj5r7PZDZ9Pw28i4xkzS00BpztCY3PzH+/rRkqc+CIGzpDq7cOPzxDi8sBlJpaGkvOY5hDMknbDl7A+Qn6fkFHaC/BOEnXbkZJlQZLK+/V7soB/2ZRcCV9OKMMTinPkVPScLZ+u8ddj+c6TMNgptDF0F+IvExwYoAXLrNxc6YFW1UYVCftbZg+MzkBWmsW8uvcyLEVgPXC7YrduHX0tO+FOC9Z2IL9UNm84JwS7gv601rkHRLrlGoYTeWmvDy5+SIKqEBKesU=;Y3x4BldP63yNeaOBvHroZg=="

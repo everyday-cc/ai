@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
+    publishedDateTime: 2021-06-17T12:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
     publishedDateTime: 2021-06-17T19:45:00Z

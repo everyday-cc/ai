@@ -55,15 +55,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
-    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8."
-    publishedDateTime: 2021-06-14T11:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210614005273/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "JCLoruQ6ZejJQO2Ua1x0z+p5LVCS8yNAS01RYu1yb2311yzbGv2CmPBgCKX9Bq/YPbou349TK/9RTCzOzopQ3ZlqVZlxHGP6IViQ/re7GQj2MfRVLQJLQ/pD+O+V+w/ssAninxmAISd36j+51oc3guWNHuMDPq3XfOj7nYtMNP6BpQ+9jylSpsNS+PszyqYW0Pr1gJvFy8dgT9KWc3EY3MBWEyziQ+llxbPDrIs4obiXUO8Uf7bdHKg55oOeEEsYmYzac00GRfSLIg0MM4YZENEntr7zJXraPL/Jy1otpyY948Rg0UHBgI0dWmNGOVAOzlEPFlg04v9WdKYbv1NqIQPv6PPoLh77+Jhm5aSIb1E=;73+ciSfneBisylba2bXHJA=="
 ---

@@ -77,6 +77,70 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Information commissioner sets out facial recognition rules"
+    excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
+    publishedDateTime: 2021-06-18T10:51:00Z
+    webUrl: "https://www.research-live.com/article/news/information-commissioner-sets-out-facial-recognition-rules/id/5085192"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
+    excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
+    publishedDateTime: 2021-06-16T02:25:00Z
+    webUrl: "https://www.business-standard.com/article/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-09/20/full/1505925633-2101.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Protecting Data Privacy: UnionBank supports regulation of Facial Recognition Technology"
+    excerpt: "Facial Recognition The use of facial recognition technology (FRT) has recently gained popularity among banks, airports, and event venues. As more and more users opt to take advantage of the convenience this technology brings,"
+    publishedDateTime: 2021-06-16T04:54:00Z
+    webUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/"
+    ampWebUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 51
+    images:
+      - url: "https://mb.com.ph/wp-content/uploads/2021/06/11855.jpeg"
+        width: 768
+        height: 1024
+        isCached: true
+  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
+    excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
+    publishedDateTime: 2021-06-16T08:48:00Z
+    webUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+    ampWebUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 49
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_784798353.jpg"
+        width: 723
+        height: 482
+        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z
@@ -105,6 +169,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
+    excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
+    publishedDateTime: 2021-06-16T17:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Congress Weighs a Moratorium on Facial Recognition and Biometric Surveillance Technologies"
     excerpt: "Today, a group of congressional Democrats re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021. And it's not a moment too soon. Earlier this month a coalition of more than 40 privacy advocacy organizations including the Electronic Frontier Foundation,"
     publishedDateTime: 2021-06-15T20:56:00Z
@@ -116,6 +194,34 @@ related:
       name: Reason
       domain: reason.com
     quality: 31
+  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
+    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
+    publishedDateTime: 2021-06-16T19:04:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 31
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "Privacy commissioners issue draft guidance on police use of facial recognition technology"
+    excerpt: "The Office of the Privacy Commissioner of Canada and the provincial and territorial privacy regulators have jointly released draft guidance on the use of facial recognition technology by police agencies so that stakeholders and the public can comment on it."
+    publishedDateTime: 2021-06-15T19:40:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/privacy-commissioners-issue-draft-guidance-on-police-use-of-facial-recognition-technology/357183"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 30
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0382_637593841165545028.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Community Organizations Urge Congress to Halt Government Use of Face Recognition Technology"
     excerpt: "A coalition of nearly 70 civil rights and community-based organizations working at the state and local levels across the country, including affiliates of the American Civil Liberties Union, have come together to urge Congress to take immediate action to prohibit government acquisition and use of dangerous face recognition."
     publishedDateTime: 2021-06-17T00:00:00Z
@@ -167,6 +273,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
+    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
+    publishedDateTime: 2021-06-16T18:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 9
 
 secured: "GXCO4ot1tGQSTW+kvjmgYTFAG9Iz1RDMw+eDmbn0vJc3Hhr47BP5D7vmgUISM1OBcOtYph6Bl1jtL1VmR7iuHE98ay32cDwmSFhkH2zzj2xOJk1iklxNod3gHuyB6Izrgy/8fVfxrtVfIG+BbI2g1Liw68tFqip4irCdUzsnEqUmFUdcbaVLzSBe3vVBmxnhhAeVy6XfdXsk7ZvLcZIB5+TpLiYaV/ki1ImvoMjQl7M9OXLh0zYvsoge9488S+sCN9LNH2wDzFFmL3CVnD5IBwINZebXUbyHX1RcMhmqtFPJOILRCJSZilaxgt/tJcTKIa5fmn2wRK3QbGRAzE2oqxHR86Ve6gnfa7BECH9Ct4b4ot4KXTiDr8Ivjz0ySk5nVBw7XLOgnM7Ul2o42DqflDYfQ93/Dq32pUIyj8aTVYhX3p8v3WEgpnLbyu0YOC6643/oyevYrJS8bXlCLC6b/dvofNO2O3OEQ2J5veLUUPFKGaVADyBexmFkcfleybUusxPyC+XMc/Kt/ufxEWOu+A==;EEvLAghuAhpdzpRvq/jtoA=="
 ---

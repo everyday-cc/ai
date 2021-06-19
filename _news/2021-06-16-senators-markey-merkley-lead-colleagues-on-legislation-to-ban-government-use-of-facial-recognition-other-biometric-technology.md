@@ -7,7 +7,7 @@ originalUrl: "https://www.markey.senate.gov/news/press-releases/senators-markey-
 webUrl: "https://www.markey.senate.gov/news/press-releases/senators-markey-merkley-lead-colleagues-on-legislation-to-ban-government-use-of-facial-recognition-other-biometric-technology"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
+    excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
+    publishedDateTime: 2021-06-15T19:05:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it"
+    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 37
+    images:
+      - url: "https://media2.fdncms.com/metrotimes/imager/u/original/27387219/facial_recognition_photo_neavling.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
 
 secured: "wOLab7ROsd7TYRYXSuWdiZfwmHbUOJlH5wp8Fgh49bO05uXuNIyX++o2L1N6nZLufGM9BKA2fBX/Wn678uG6czuyAFGPwG0gnHqti9a5ja1ojQrQz1YeNH8JSE12+ILpzdTNJpgWLq4tG18gQwABmk94g+lBSKHEB/fPoeHzsWj4ymhhg/XAO5IZaj6ON2vlgG/OXL//SUOaTSkBXTbbRGuOTT7xbXn5EbwT2tX7ul6ML6CjqwTyt2Sw+4Tmpu8OaeIJU0VhvYBrwWJCrJ8JaCT2qyiJZ4bz17H+9eUJ+neW+E0PdVKR6KLwYVP5qwW1m1+1KMK/2NBAAeoGxZvefGtJmekKP4pL3W6RSSDbh5eKqw4fVr5QQrBJrMoDmNUjDTxDaB5fwOr1CzZg/bHvYTx8WPGUgLiEQYo3LlIWhgnurDxTTA7m7xKbC19wBTXrxFwOZ//zfQzi4WPWd2sTUvgHC2F+oFLZZstXrO0uZtVaAFKMBHPnLU6lFGoECryYNk8LwKoaDs4gYb9Rg8yY0w==;zEyUvf6VKy4JXgFPiD4b9g=="
 ---

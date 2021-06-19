@@ -89,6 +89,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-how-to-invest-in-robotics-and-artificial-intelligence.md",
+      "title": "How to invest in robotics and artificial intelligence",
+      "excerpt": "While Big Tech companies are investing heavily in robotics and AI, they will not be the only winners Investors can gain broad exposure to these long-term structural trends through funds Robotics and artificial intelligence (AI) are often associated with science fiction and futuristic visions of how we might one day live and work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-machines-how-to-invest-in-robotics-and-artificial-intelligence/",
+      "originalUrl": "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-machines-how-to-invest-in-robotics-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fic-ez-prod%2Fez%2Fimages%2F1%2F4%2F3%2F8%2F4798341-1-eng-GB%2Fdominik-scythe-Sot0f3hQQ4Y-unsplash+%281%29.jpg?source=invchron",
+          "width": 4928,
+          "height": 2845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investors Chronicle",
+        "domain": "investorschronicle.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
       "title": "Last-mile, landscaping and leaping robots",
       "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
@@ -1373,58 +1416,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-croatias-gideon-brothers-raises-31m-for-its-3d-vision-enabled-autonomous-warehouse-robots.md",
-      "title": "Croatia’s Gideon Brothers raises $31M for its 3D vision-enabled autonomous warehouse robots",
-      "excerpt": "Proving that Central and Eastern Europe remains a powerhouse of hardware engineering matched with software, Gideon Brothers (GB), a Zagreb, Croatia-based robotics and AI startup, has raised a $31 million Series A round led by Koch Disruptive Technologies (KDT),",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "originalUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-\u20283d-vision-enabled-autonomous-warehouse-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Gideon_Brothers_Autonomous_Mobile_Robots_10.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/croatias-gideon-brothers-raises-31m-for-its-%e2%80%a83d-vision-enabled-autonomous-warehouse-robots/amp/",
-      "publishedDateTime": "2021-06-08T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

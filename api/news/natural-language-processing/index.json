@@ -62,7 +62,7 @@
       "originalUrl": "https://www.openpr.com/news/2308389/outlook-of-global-natural-language-processing-market-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -611,6 +611,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
+      "title": "The Reality Of Artificial Intelligence",
+      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
+      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
+          "width": 1000,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Commercial Integrator",
+        "domain": "commercialintegrator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-vivaldis-launching-an-email-client-rss-reader-and-translation-tool.md",
       "title": "Vivaldi’s launching an email client, RSS reader, and translation tool",
       "excerpt": "Vivaldi is launching new tools, including an email client, a calander app, a feed reader, and a translation tool with its browser update.",
@@ -1006,8 +1049,8 @@
       "title": "Kanverse.ai Launches the Emerald release of its Intelligent Document Processing Product (IDP) Focused on Empowering Teams Through Collaboration",
       "excerpt": "CPO Quote \"Collaboration is a game changer in digitizing Enterprise document processing workflows. With Emerald release AI powered Kanverse IDP introduces powerful features that e",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-kanverseai-launches-emerald-release-its-intelligent-document-processing-/2021/06/08/9386295.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-kanverseai-launches-emerald-release-its-intelligent-document-processing-/2021/06/08/9386295.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386295.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386295.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1414,40 +1457,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard.md",
-      "title": "AppTek Selected as a High-Quality Automatic Speech Recognition Solution Provider for CallMiner's Open Voice Transcription Standard",
-      "excerpt": "With AppTek's ASR technology as part of the CallMiner's OVTS ecosystem, businesses can now unlock the \"Voice of the Customer and Agent\" in over 30 languages and dialects while relying on the accuracy of AppTek's award-winning AI-enabled speech-to-text technology for the purpose of extracting actionable insights and business intelligence from 100% of voice interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210607ph01040/apptek-selected-as-a-high-quality-automatic-speech-recognition-solution-provider-for-callminers-open-voice-transcription-standard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

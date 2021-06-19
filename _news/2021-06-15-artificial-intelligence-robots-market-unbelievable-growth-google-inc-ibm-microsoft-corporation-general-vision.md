@@ -37,22 +37,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
-    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
-    publishedDateTime: 2021-06-14T11:15:00Z
-    webUrl: "https://www.space.com/orwellian-artifical-intelligence-future"
-    ampWebUrl: "https://www.space.com/amp/orwellian-artifical-intelligence-future"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 75
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
     excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
     publishedDateTime: 2021-06-18T11:13:00Z
@@ -160,29 +144,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-    publishedDateTime: 2021-06-16T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-    excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-    publishedDateTime: 2021-06-14T20:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 42
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/US-Supreme-Court-Washington-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Worldwide Voice and Speech Recognition Industry to 2026 - Featuring Nuance Communication, Microsoft and Google Among Others"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global voice and speech recognition market exhibited strong growth during 2015-2020."
     publishedDateTime: 2021-06-15T18:45:00Z
@@ -211,6 +172,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
+    excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+    publishedDateTime: 2021-06-14T22:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-18T09:45:00Z

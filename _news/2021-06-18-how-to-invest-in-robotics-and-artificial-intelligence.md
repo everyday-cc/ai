@@ -7,8 +7,8 @@ originalUrl: "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-
 webUrl: "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-machines-how-to-invest-in-robotics-and-artificial-intelligence/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Investors Chronicle
@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "How To Make Sure That Diversity In AI Works"
-    excerpt: "Transparency around talent pipelines, hiring practices and publishing compensation bands are table stakes D&I initiatives that can go a long way toward establishing diversity in the field of artificial intelligence."
-    publishedDateTime: 2021-06-14T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/"
+  - title: "How The Online Gaming Industry Gets An AI Boost"
+    excerpt: "Technology in the last few years has made significant changes in how we communicate, collaborate, and even engage with our target markets. Gaming"
+    publishedDateTime: 2021-06-15T06:40:00Z
+    webUrl: "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1124741602%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/04/Sony-Xperia-XZ2-Premium-AH-NS-gaming-PUBG-AH-2019.jpg"
+        width: 1463
+        height: 823
         isCached: true
+  - title: "Surrey academics push boundaries of AI robotics for active debris removal in space"
+    excerpt: "The research that will be demonstrated at Robot Lab Live, an interactive event at the UK Festival of Robotics 2021, first appeared in Frontiers in Robotics & AI. This newly published journal article discusses the novel technology and how embedding Artificial Intelligence – or AI – can help space robots make decisions reliably and timely without the need for human agency."
+    publishedDateTime: 2021-06-17T15:18:00Z
+    webUrl: "https://www.surrey.ac.uk/news/surrey-academics-push-boundaries-ai-robotics-active-debris-removal-space"
+    type: article
+    provider:
+      name: University of Surrey
+      domain: surrey.ac.uk
+    quality: 43
 
 secured: "EUPQoTUJSuwBmikVF2J+y7oigq8SocYEQ6xl+WhNqNpEuOt2ujSrHWj1OksHPxqKvTk3mLqw2D6WVb7UiD6Ud0XZQz1NsnixGnQZMzoitAcmk/KWMF+jD24c3iz13tT+OK56guFqMotS/uDfHfQza/1VSpCQbFiPH1OvY+bxS2zCU0TYUWkXAemwOU28GFJPjHNNmEbOdH+5N4mzZiTWS/YNOaGKcSgZ7c9NMI21uKiUFU9G3t5dZO4jrHqSLXe5+0mqnDPwzdZwWbl2Y/XBpdre/yTiUoabbCewU8zSzlffastV1ro8MOKh08B09lD5Yhhp/Bl3vw2iV3BCiLGa/dAgb4YHe4QBqL0aKWHehiTLUsCbxKBQvaBHjDtmudRz1CitbeO4Tdk1Go096JKpZQQvVPEWyX5ICw4CGleu8C+/TPj7sfCauHLuGZirbsmt3Pn6mub3+JcSanC3D2O07pEIVp+mlYfkrEemhejcPSNK/Y5ABi+EPSvh7BpxZqMo0OxgUyKI5fmJ8KIuRNC0uw==;LG0UFi5TtgD19wUQOpyL4A=="
 ---

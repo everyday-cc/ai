@@ -55,6 +55,17 @@ related:
         width: 720
         height: 393
         isCached: true
+  - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
+    excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
+    publishedDateTime: 2021-06-16T16:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21591655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21591655"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "Rm3UlHS0UeWWyJWYgmwe6MM0yreZVeZZAh8MViRR6rQpxjNsS6ijTa0fRrGKo6pFABMxlVqj+ssOl3LcNOZVFCxv/nq1SRq0YW1y0eKZ2AgjB2O4aHnN4TDDnHX9sdiVuVj8Ze9tebF5DWYLdGPd6Uqf0nvq8hRFY9GCcDTaAj4zfd9+3KHFCyU6B9PsERctFzbDIgTRyzGU0fVir75MBes86yrBKAGHl7zFrpMJhJuOWxQKuQLTQuWUf31Y4XmmEQLZbsG2Uw7p4yHcnNRWVZ5hmeq5XEA2vDovZfUn1bi85K7Y+ij4++kE/kta3G7B8NZB5zaZr7K0CJHjYY8g3Wy6hD3McEzal9Y200y0JrQ=;doL6w/tMVwka8sPwdulm8A=="
 ---

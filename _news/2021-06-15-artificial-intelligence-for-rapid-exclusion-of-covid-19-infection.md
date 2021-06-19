@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare"
-    excerpt: "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and"
-    publishedDateTime: 2021-06-14T12:54:00Z
-    webUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 71
-    images:
-      - url: "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png"
-        width: 940
-        height: 788
-        isCached: true
   - title: "Is AI – a magic bullet to combat COVID-19?"
     excerpt: "Doctors and health tech experts inform that AI is no more alien to the domain, the pandemic has emphasised that it is a necessity and not a luxury"
     publishedDateTime: 2021-06-18T05:37:00Z
@@ -51,17 +37,36 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
-    publishedDateTime: 2021-06-17T12:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
+  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
+    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
+    publishedDateTime: 2021-06-15T08:27:00Z
+    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
+    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: Dataquest
+      domain: dqindia.com
+    quality: 55
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
+        width: 850
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-18T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
     excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
     publishedDateTime: 2021-06-14T20:10:00Z

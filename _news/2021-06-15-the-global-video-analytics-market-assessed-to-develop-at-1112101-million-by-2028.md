@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
-    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
-    publishedDateTime: 2021-06-15T08:27:00Z
-    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
     publishedDateTime: 2021-06-18T06:43:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/shutterstock_1198894387-450x300.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "American Licorice Company Selects AnswerRocket's AI-Driven Analytics Platform to Accelerate Insights Generation"
-    excerpt: "AnswerRocket announced today that American Licorice Company is leveraging its augmented analytics platform to enable streamlined data discovery and automated"
-    publishedDateTime: 2021-06-15T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/american-licorice-company-selects-answerrockets-ai-driven-analytics-platform-to-accelerate-insights-generation/article_b086e2c3-6bfd-5963-9a26-c90089662e7a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/dd/3dd1b7c5-c7c6-59ba-b818-5071a55f7840/60c8a50db8e17.image.jpg?resize=699%2C392"
-        width: 699
-        height: 392
         isCached: true
   - title: "Axtria Leads Discussion on Pharma's Advanced Uses of Data Analytics and Artificial Intelligence With 6 Sessions at PMSA 2021 Annual Conference"
     excerpt: "Berkeley Heights, NJ, June 16, 2021 (GLOBE NEWSWIRE) -- With the elevated importance of data analytics and artificial intelligence (AI)-driven ... CSL Behring, and ViiV Healthcare will include how to leverage advanced analytics to adjust health care ..."

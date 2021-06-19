@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2308389/outlook-of-global-natural-languag
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Wearable Medical Devices Markets Report 2021: Diagnostic Devices, Therapeutic Devices, Watch, Wristband, Clothing, Ear Wear, Sports and Fitness, Remote Patient ..."
-    excerpt: "The \"Wearable Medical Devices Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The global wearable medical devices market is expected to grow from $8."
-    publishedDateTime: 2021-06-14T11:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210614005273/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "jMeEh16HPk1guzfCHVJi9v4TQwaLsNi8wINZC/vf0myUNgXWwCvCQUKxO5JROSb+JBM0AWR3qNFrU+yLmBRdwVm/vaCUp/XYTc+o1eJqVxIOpE0UlQjiqtnc19yPkl+HvmcBUOCs6Jc3t3vAXbv8kZa1YyJop3YU13Amx28GlTjgg2fDzQvkDrK0QHhs/14GVwj2OAV6DApHQSBg/Kp6coayZlZ0W0A+AnC+q52tV5dendvaJFzeIFytRk0e88vCAblW8IADt8/wSegpSA/y9xaYajJongodiqc6jUGN49W5wXeiimHMbwIEVPX0dMpoBHxRCZ0worfPNOtzNnFbxX6IGJg6LB4MPp6IdhWHm9k7Iku9x5Fv+bhEZzxj0ZEC2K4km6W+ahM9t3dv+NC+vbfYntjDE3fB6PdKw05tb/DP7uob/dMC4x6JN3wyHg26aqNypgOHbkzIOECpetYf/WFDl57acyNTM1sfZ5Y4MS2f77LxYyIZI12Wn8Ny60dGIDer6RlwrhTxiktRkPt4pg==;fdgtq0xBJTtStYRyfQBqVw=="
 ---

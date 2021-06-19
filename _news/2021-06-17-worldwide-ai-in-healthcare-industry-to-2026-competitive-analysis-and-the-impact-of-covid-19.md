@@ -22,56 +22,84 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare"
-    excerpt: "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and"
-    publishedDateTime: 2021-06-14T12:54:00Z
-    webUrl: "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/"
+  - title: "Artificial Intelligence In Healthcare Market 2021 Leading Competitors, Regional Trends and Growth Trends 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-18T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png"
-        width: 940
-        height: 788
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Is AI – a magic bullet to combat COVID-19?"
-    excerpt: "Doctors and health tech experts inform that AI is no more alien to the domain, the pandemic has emphasised that it is a necessity and not a luxury"
-    publishedDateTime: 2021-06-18T05:37:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648"
+  - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+    publishedDateTime: 2021-06-17T19:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 44
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83626648,imgsize-31653,width-800,height-434,overlay-ethealthworld/is-ai-a-magic-bullet-to-combat-covid-19.jpg"
-        width: 800
-        height: 434
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
-    excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
-    publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
+  - title: "Europe Artificial Intelligence Market 2021-26, Size, Analysis, Trends, Growth, Forecast and Research Report"
+    excerpt: "Size, Analysis, Forecast and Research Report” According to the latest report by IMARC Group, titled “Europe Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,"
+    publishedDateTime: 2021-06-14T21:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-market-2021-26-size-analysis-trends-growth-forecast-and-research-report"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-  - title: "Meet Grace, the Healthcare Robot COVID-19 Created"
-    excerpt: "Hong Kong-based Hanson Robotics has developed a prototype robot to engage with seniors and those isolated by the COVID-19 pandemic."
-    publishedDateTime: 2021-06-14T20:10:00Z
-    webUrl: "https://cacm.acm.org/news/253291-meet-grace-the-healthcare-robot-covid-19-created/fulltext"
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.abnewswire.com/uploads/1623416872.jpeg"
+        width: 2000
+        height: 1334
+        isCached: true
+  - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
+    excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."
+    publishedDateTime: 2021-06-16T01:44:00Z
+    webUrl: "https://ksusentinel.com/2021/06/16/deep-learning-system-market-set-for-rapid-growth-and-trend-by-2021-2027-covid-19-analysis/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 36
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 10
+  - title: "Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Deep Learning Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Deep Learning market overview  Deep Learning market illustrates an"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548667-deep-learning-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028"
+    excerpt: "Pages Report] Check for Discount on Mobile Healthcare Devices Market Report - Global Industry Data, Analysis and Growth Forecasts by Type, Application and Region, 2021-2028 report by OG Analysis. Mobile Healthcare Devices market overview  Mobile Healthcare Devices market"
+    publishedDateTime: 2021-06-15T00:02:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4548556-mobile-healthcare-devices-market-report-global-industry-data-analysis-and-growth-forecasts-by-type-application-and-region-2021-2028.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-17T11:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "nDSri6N8TJAxZ/oZHnfG+YItUgYIgAZmZcrPKhN+DoTHqZ6ySfWZipENeQV8pGqKJVT25moxCxRAW3dcK9X13z4wHEBj9CR9SeYg1dXYBxv/xBtWl5Zh45EY5dTP+LYbcABH5+FLaKWPj2ehFmCrGWsDAn2xDtAv9Nc5kD7v1GRu4QPKc+62PYYtM0RmuQF7lzOS6Vfc7NV67+2zt0Oeh5jb5R0sKsnTKJ+q8pJZ6i0MSFs0Ee9rzIWMK4ZNupMX3qteSTf+YkcboLQ3VguRkHZuVRYWmDi2BGk//uv/OKWa8D6EYdtN6rta2sQChRieowe14Y/s2akYpovFlDy8yZeXYIcCJcjsLXgHhyJHb4E=;WOedoOg6Mog4msu0n9x0dQ=="
 ---

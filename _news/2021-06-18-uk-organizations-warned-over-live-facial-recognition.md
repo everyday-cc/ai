@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Forbes
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rules around facial recognition and policing remain blurry"
-    excerpt: "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance."
-    publishedDateTime: 2021-06-14T12:52:00Z
-    webUrl: "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 106
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
-        width: 3065
-        height: 2043
-        isCached: true
-  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
-    excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
-    publishedDateTime: 2021-06-14T18:13:00Z
-    webUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-353752/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
     excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
     publishedDateTime: 2021-06-17T23:01:00Z
@@ -84,54 +54,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Information commissioner sets out facial recognition rules"
-    excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
-    publishedDateTime: 2021-06-18T10:51:00Z
-    webUrl: "https://www.research-live.com/article/news/information-commissioner-sets-out-facial-recognition-rules/id/5085192"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
-    excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
-    publishedDateTime: 2021-06-16T02:25:00Z
-    webUrl: "https://www.business-standard.com/article/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-09/20/full/1505925633-2101.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Protecting Data Privacy: UnionBank supports regulation of Facial Recognition Technology"
-    excerpt: "Facial Recognition The use of facial recognition technology (FRT) has recently gained popularity among banks, airports, and event venues. As more and more users opt to take advantage of the convenience this technology brings,"
-    publishedDateTime: 2021-06-16T04:54:00Z
-    webUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/"
-    ampWebUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 51
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2021/06/11855.jpeg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "Federal, state lawmakers push for stricter rules on controversial facial recognition technology"
     excerpt: "Facial recognition is a largely unregulated technology that has been lambasted for its potential civil liberty violations and inaccuracies."
     publishedDateTime: 2021-06-15T18:52:00Z
@@ -148,36 +70,6 @@ related:
         width: 2811
         height: 1582
         isCached: true
-  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
-    excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
-    publishedDateTime: 2021-06-16T08:48:00Z
-    webUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
-    ampWebUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 49
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_784798353.jpg"
-        width: 723
-        height: 482
-        isCached: true
-  - title: "Automotive Voice Recognition System Market Sales and Revenue by Companies, Regions, Type and Application till 2027 | ARC"
-    excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
-    publishedDateTime: 2021-06-16T04:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-arc-2021-06-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition may help you find your lost pet"
     excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
     publishedDateTime: 2021-06-17T09:05:00Z
@@ -189,93 +81,34 @@ related:
       name: WTOP News
       domain: wtop.com
     quality: 39
-  - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
-    excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
-    publishedDateTime: 2021-06-15T19:05:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it"
-    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
+  - title: "EAB webinar looks at facial recognition for criminal investigations in EU countries"
+    excerpt: "European Association for Biometrics (EAB) webinar explored the role of facial recognition technologies in criminal investigations across the EU Member States."
+    publishedDateTime: 2021-06-16T23:22:00Z
+    webUrl: "https://www.biometricupdate.com/202106/eab-webinar-looks-at-facial-recognition-for-criminal-investigations-in-eu-countries"
     type: article
     provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 37
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://media2.fdncms.com/metrotimes/imager/u/original/27387219/facial_recognition_photo_neavling.jpg"
-        width: 4032
-        height: 3024
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
-  - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
-    excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
-    publishedDateTime: 2021-06-16T16:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21591655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21591655"
+  - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
+    excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
+    publishedDateTime: 2021-06-18T08:08:00Z
+    webUrl: "https://www.parking-net.com/parking-news/adaptive-recognition/4-ways-anpr-contributes-to-better-living-in-smart-cities"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-  - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
-    excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
+      name: Parking Network
+      domain: parking-net.com
+    quality: 20
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.parking-net.com/Upload/ContentManagersPictures/AdaptiveRecognition/License-Plate-Recognition.jpg"
+        width: 500
+        height: 289
         isCached: true
-  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
-    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
-    publishedDateTime: 2021-06-16T19:04:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 31
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "Privacy commissioners issue draft guidance on police use of facial recognition technology"
-    excerpt: "The Office of the Privacy Commissioner of Canada and the provincial and territorial privacy regulators have jointly released draft guidance on the use of facial recognition technology by police agencies so that stakeholders and the public can comment on it."
-    publishedDateTime: 2021-06-15T19:40:00Z
-    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/privacy-commissioners-issue-draft-guidance-on-police-use-of-facial-recognition-technology/357183"
-    type: article
-    provider:
-      name: Canadian Lawyer Magazine
-      domain: canadianlawyermag.com
-    quality: 30
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0382_637593841165545028.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
-    excerpt: "Canada's Office of the Privacy Commissioner has cited the Royal Canadian Mounted Police for illegally using facial recognition software from Clearview AI."
-    publishedDateTime: 2021-06-18T18:36:00Z
-    webUrl: "https://cacm.acm.org/news/253401-canadian-regulators-seek-policy-amendments-for-facial-recognition/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
-  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
-    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
-    publishedDateTime: 2021-06-16T18:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 9
 
 secured: "ahhgatpYavwXOs8J6zsDYd3qDVCz2i7Rwtrnof7rhvZV1bkiINHNoGDu9CJN5N6GPYjZJcyACNKLM9mr1xQwNJONKMwbixMkhNHjmxXEBYSkLePWAH6Scw+vpGBdRC3+PqZcbXftQgHSyO+c75Mow/6j97aCg6hgTU1OHRSUO7HwmoiEc0xgPCK5hc+wh+av8wiEAn4Tt5vW5ZAflEa1W4nOF4VzsB6eURRpSZEDMQQQ5uxnmnQeexuIsR1S982qIU7FVYSvAlEmnC28QB/zlsh4Qua1O0UqaSBcaQHHhQcZMRzwMnXzgFFoHqMEca1kmS+Gj9W9RqQ994VMixGBjJvO6LAHoWWyxXva4610EfwKPCmjRXe7Jo7xHUarsEEyZ9NS/UTegMkjAlc0g56OAsLAlxHaLSHbg5Rlg+KygBc4AkJdw1NvqwMfoZnvrx1X3bOoX3rWj//NKfHrMGhUmRLOSpoN5v0t3ZF66CpC3up96Xn6V9xISesunz98K965Tku2Scys25RylDrNhXSc5Q==;rFPruWds5lualxu33yKdKQ=="
 ---

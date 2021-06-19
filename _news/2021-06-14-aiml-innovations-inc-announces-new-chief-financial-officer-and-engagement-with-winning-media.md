@@ -1,40 +1,27 @@
 ---
 category: news
 title: "AI/ML Innovations Inc. Announces New Chief Financial Officer and Engagement with Winning Media"
-excerpt: "TORONTO, ON / ACCESSWIRE / June / AI/ML Innovations Inc. (CSE:AIML) (OTCQB:AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-publishedDateTime: 2021-06-14T11:30:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/651455msn/aiml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media"
-webUrl: "https://www.morningstar.com/news/accesswire/651455msn/aiml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media"
+excerpt: "TORONTO, ON / ACCESSWIRE / June 14, 2021 / AI/ML Innovations Inc. (CSE:AIML) (OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
+publishedDateTime: 2021-06-14T12:22:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media"
+webUrl: "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-related:
-  - title: "AI/ML Innovations Inc. Announces New Chief Financial Officer and Engagement ..."
-    excerpt: "TORONTO, ON / ACCESSWIRE / June 14, 2021 / AI/ML Innovations Inc. (CSE:AIML) (OTCQB:AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-06-14T11:30:00Z
-    webUrl: "https://www.pr-inside.com/aiml-innovations-inc-announces-new-chief-financial-officer-and-engagement-r4834712.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 52
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/e01ef73b63fb1c05dbe5c2799c87146dbcde9ae9-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
-secured: "VaIwHh9Nh4lziBKsL5UnPZqYplFxUE49E1gvtKkKbLgrovYVaMSIZTQYTuCAVKgUIMsXMAJpiQApJ4O1FiAcHwbdxerHogy3GCjGjX8rJSpWVE7Xp3vPATZe1ngaMGkbsuTigmYzNSE3ewJSm1/nGuO3itlyfRER7X2RvUC1DhOSTzwzsZnCBzs6tmKfNmZHGwDTJ59A53CGs07Uzu/WTR3tcw1R5CTnCux8k/LEKVy54knCRK0xj6ZEsk9mDT9aKTWcVwGMmVFSF55N9/57I1kwknISKyyozNA8uptqotHI+nMIU9dBMN3ybaZs6QCNqfvDR2fBGIgnpYR39tyfWyRs20PMM7+cHi90BMBSkaU=;9FmUKO3sBQBA/hSLNAMLMg=="
+secured: "wVZFDH7l9mnBdYmQowmDFNpPfjg4S4GMvBAi4avubbbkBA2EkAhUoPy6iiF3pDQBpPnVuD8Cmx7asaKv6dV27abAeR4wxMhxq4yvTQLfgBL/4F+rwXQRlfNo68dQj+Wr2pF9vWJXmtQntAszKa504k9rOUuPFBIRnqxBl+dPjjO/xmyjTs+6ev8JG+CtRDyQBBKWI+2hNXoEA5pbnotqJSbfSbR4KnSoqRZJW/YBJC61KBSrvO6vd6iHg8u5KFylK9atNRJASQtkLurAGlx9UVhxhSK5PXlkbhWVgGCXfzPB/hhD/EDu8zFVv/0f+q126mgUSmDy+TANROtnME+h7zW00kUfyry7ejgnI/JxIX8=;VejjMVm4oR6MaFuPHqRVWQ=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down"
 excerpt: "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in."
 publishedDateTime: 2021-06-17T01:42:00Z
-originalUrl: "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255"
-webUrl: "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255"
-ampWebUrl: "https://www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
+originalUrl: "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255"
+webUrl: "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255"
+ampWebUrl: "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
+cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
 type: article
 quality: 45
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: WTAE-TV
+  domain: wtae.com
 
 topics:
   - Facebook AI
@@ -310,6 +310,6 @@ related:
         height: 720
         isCached: true
 
-secured: "D9Qvs29chbMFYCAr2Qr3Y//JZasR7/NFXnxHINODYUU4oRn5r/mxqVgboNKbyyky5+FqUy4VlOzClrer1bUemkWGnBR7cy6rRpkpptiMHxEArGnZqukuI0lVTiAfkXape8e3yCXdEW1cjPGXiDKAY8QeUP3Y33if8XhQJ3nAIwrl4h/v9/+eoa/JK5u05H5sAtcF7otKsl13UV76dckb4qreVTtbG/kcW5BP8tfoQ9jfWGjnDoggSlAnViURZc1CYEDhVa4EC4UUhnII677a9LI6lCyQg7PL7GX1D/6Ff3fEPWVHfHFUPpDXIjh3Ac2QBweeLctmYSNHcIVjnWEVBEBM9JltQ0PVCbi4oOSeSoOjY2XS3qvksp4gu/QthNFW5H7slYEQ03EKc86LgOQn0nx4MGiwZ8yMyLVmHLxIoclRo2XU7UEcGh7+1o5z2AEfnHYFQOEwfPeVftQU4IZroong3x+HN9IfQZBdB8cQu+0Ajq5QmFSWUZS2NpPj2IwpwJJRb4IVGGK3sEe8Mr5Jbw==;3Dlwa2QAerfaMTWGbba0ag=="
+secured: "hDBGZGTgiy3We2fGRefRCBSolNXGiMzF44ge12PZogPOcLS/u/WYswtprhZ9qbGrF2v2bSwUPMJqSLv0HU28bYZ5cEiycfd6Df2AKxYgUmaa+oS4vysaiue7SywpVyvv5UvoZqJLs/W43kmIZKagA/xiB7T9FELPK59ys71qhVBwjavwBFY8xGvEPYb4r7cNG2wdE3M4objvJqp6/y8kx3fGNJqWy7wNiFzmWtN1K/f/WVydCkqf7zYMsbFqKbc9PvE7LD0OqizQu0VqExoiV3VjLOsSo8MwZarGegpV2OCRthxWa/pDfL7KynF6Q2aHLjK3f8D0fsUX5Rbhwv4Z7bB/F9hCST03WrLnnIVcApc=;QZ+5t9paHxAWAt58SnkcJA=="
 ---
 

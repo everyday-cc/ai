@@ -45,22 +45,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "The Growing Role Of AI And Machine Learning In Hyperautomation"
-    excerpt: "Before explaining the relationship between automation and hyperautomation, let’s explore the meaning of hyperautomation first. In its annual report on Top 10 Strategic Technology Trends for 2020, Gartner named hyperautomation the first trend that would transform the world."
-    publishedDateTime: 2021-06-14T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/06/14/the-growing-role-of-ai-and-machine-learning-in-hyperautomation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e05057e5379d13e7f65%2F0x0.jpg"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "AI moving from POCs and pilots into operations"
     excerpt: "The COVID-19 pandemic accelerated the adoption of artificial intelligence and its use in day-to-day operations."
     publishedDateTime: 2021-06-15T15:34:00Z
@@ -175,6 +159,15 @@ related:
         width: 1200
         height: 441
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "DTiXTWi6n2JuoQ67iCodaVXWoqec3tLQrwa68iDca77hB9VVxsP+PlHKGLDHu5EIzIb12zDmMudEXPCR4mxm/c8sDYVjKQEoCnhB1BGrCjC/BTi9oQjqq+Mt94SPA708ys9aMl5TYJxlM+t23OC01X3D60WptQJBz0jnqhaTyKrsqdPXDChrQVIu+NE14Y58KWAZ2SoevlB4Ovqe10ChzN2FyyfWVqKF17xJ3uKrrNcaOq2amFK7nsmXuXzEPaxNqnKPltESvrv/QNXbBrpPtEbFNUGrK5fylUlCJ7+8cr3CEEM85q96dyoYaSzuu22eaAgvO8v8rdoYdPyQjOOLlL7OX5NOGtIKrOAnEAWUS0SNQQ56OCQsvT91Pd8lcJUQzXKd4/CbvC7a63f1k/pDlJqRDDHWJfzRipVDUbGySjXKnvrhjcXOH3PvVJkI5dRSgT1THgMnqyHEN+ixkwgUgdRFxJy7mBRhKmhN5lE4sfsUDydypc7TlC2hxMXI5pPuzearV0fdaJW4QvUNVzjq/A==;/QqeORlDVVmPpx4TPxWR3Q=="
 ---

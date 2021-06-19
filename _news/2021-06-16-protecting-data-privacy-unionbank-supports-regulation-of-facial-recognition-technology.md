@@ -27,75 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "Rules around facial recognition and policing remain blurry"
-    excerpt: "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance."
-    publishedDateTime: 2021-06-14T12:52:00Z
-    webUrl: "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html"
+  - title: "ICO: Use of facial recognition tech in public spaces deeply concerning"
+    excerpt: "ICO investigations found most companies using the technology tended to be \"immature\" in their approach to data protection"
+    publishedDateTime: 2021-06-18T10:57:00Z
+    webUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial"
+    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 106
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462"
-        width: 3065
-        height: 2043
-        isCached: true
-  - title: "UK Organizations Warned Over Live Facial Recognition"
-    excerpt: "In a formal opinion, Elizabeth Denham says that the use of live facial recognition (LFR) can't be justified for reasons of efficiency or cost reduction alone."
-    publishedDateTime: 2021-06-18T10:41:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: IT Pro
+      domain: itpro.co.uk
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cc78348718ed535bc99e6c%2F0x0.jpg"
-        width: 1200
-        height: 765
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570817006/itpro/2019/01/facialrecshutterstock_1160291101.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
-    excerpt: "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada"
-    publishedDateTime: 2021-06-14T18:13:00Z
-    webUrl: "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032"
+  - title: "UK’s ICO warns over ‘big data’ surveillance threat of live facial recognition in public"
+    excerpt: "The UK’s chief data protection regulator has warned over reckless and inappropriate use of live facial recognition (LFR) in public places. Publishing an opinion today on the use of this biometric surveillance in public — to set out what is dubbed as the “rules of"
+    publishedDateTime: 2021-06-18T09:26:00Z
+    webUrl: "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/"
+    ampWebUrl: "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
     images:
-      - url: "https://images.wsj.net/im-353752/social"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024"
+        width: 1024
+        height: 533
         isCached: true
-  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
-    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-    publishedDateTime: 2021-06-17T23:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+  - title: "Democrats reintroduce bill to ban government use of facial recognition"
+    excerpt: "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday."
+    publishedDateTime: 2021-06-15T18:43:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 61
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-and-Biometric-Technology-Moratorium-Act.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Facial Recognition Bill Gets Initial Approval in Maine"
-    excerpt: "A proposal for Maine to require statewide regulations on the use of facial recognition by police and other agencies has cleared its first hurdle in the Legislature."
-    publishedDateTime: 2021-06-16T16:32:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2021-06-16/facial-recognition-bill-gets-initial-approval-in-maine"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Information commissioner sets out facial recognition rules"
     excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
     publishedDateTime: 2021-06-18T10:51:00Z
@@ -128,21 +107,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Federal, state lawmakers push for stricter rules on controversial facial recognition technology"
-    excerpt: "Facial recognition is a largely unregulated technology that has been lambasted for its potential civil liberty violations and inaccuracies."
-    publishedDateTime: 2021-06-15T18:52:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html?outputType=amp"
+  - title: "Lawmakers Re-Introduce Bill That Would Ban Facial-Recognition Technology"
+    excerpt: "The bill, which only has Democratic support, would bar federal agencies from using the technology without approval from Congress."
+    publishedDateTime: 2021-06-16T13:38:00Z
+    webUrl: "https://www.wsj.com/articles/lawmakers-re-introduce-bill-that-would-ban-facial-recognition-technology-11623854310"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 53
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V5FOWDM2M5E5HOZMLC5N4YGSSE.jpg"
-        width: 2811
-        height: 1582
+      - url: "https://images.wsj.net/im-354723/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
     excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
@@ -160,58 +137,34 @@ related:
         width: 723
         height: 482
         isCached: true
-  - title: "Automotive Voice Recognition System Market Sales and Revenue by Companies, Regions, Type and Application till 2027 | ARC"
-    excerpt: "Automotive voice recognition system market is expected to reach the market value of around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 - 2027."
-    publishedDateTime: 2021-06-16T04:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-sales-and-revenue-by-companies-regions-type-and-application-till-2027-arc-2021-06-16"
+  - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
+    excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
+    publishedDateTime: 2021-06-17T17:16:00Z
+    webUrl: "https://www.voanews.com/silicon-valley-technology/facial-recognition-technology-solves-crimes-what-cost"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition may help you find your lost pet"
-    excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
-    publishedDateTime: 2021-06-17T09:05:00Z
-    webUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/"
-    ampWebUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
+      name: Voice of America
+      domain: voanews.com
     quality: 39
-  - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
-    excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
-    publishedDateTime: 2021-06-15T19:05:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it"
-    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 37
     images:
-      - url: "https://media2.fdncms.com/metrotimes/imager/u/original/27387219/facial_recognition_photo_neavling.jpg"
-        width: 4032
-        height: 3024
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/kaltura-video-thumbs/1_1/1_1ug7wck0.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
-    excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."
-    publishedDateTime: 2021-06-16T16:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21591655/security-industry-association-opposes-reintroduction-of-facial-recognition-biometric-technology-mo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21591655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21591655"
+  - title: "Live facial recognition technology ‘open to excessive and reckless use’"
+    excerpt: "The Information Commissioner said we should be able to take children places without having biometric data collected and analysed with every step."
+    publishedDateTime: 2021-06-17T23:23:00Z
+    webUrl: "https://www.expressandstar.com/news/uk-news/2021/06/18/live-facial-recognition-technology-open-to-excessive-and-reckless-use/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 39
+    images:
+      - url: "https://www.expressandstar.com/resizer/KnaYQwAMS3WGKZEQd5fNMs8pdck=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/OLSPJQEHWBGCZKE4V2KV64NIXU.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
     excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
     publishedDateTime: 2021-06-16T17:35:00Z
@@ -226,6 +179,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Congress Weighs a Moratorium on Facial Recognition and Biometric Surveillance Technologies"
+    excerpt: "Today, a group of congressional Democrats re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021. And it's not a moment too soon. Earlier this month a coalition of more than 40 privacy advocacy organizations including the Electronic Frontier Foundation,"
+    publishedDateTime: 2021-06-15T20:56:00Z
+    webUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/"
+    ampWebUrl: "https://reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/15/congress-weighs-a-moratorium-on-facial-recognition-and-biometric-surveillance-technologies/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 31
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z
@@ -254,15 +218,57 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Canadian Regulators Seek Policy Amendments for Facial Recognition"
-    excerpt: "Canada's Office of the Privacy Commissioner has cited the Royal Canadian Mounted Police for illegally using facial recognition software from Clearview AI."
-    publishedDateTime: 2021-06-18T18:36:00Z
-    webUrl: "https://cacm.acm.org/news/253401-canadian-regulators-seek-policy-amendments-for-facial-recognition/fulltext"
+  - title: "Community Organizations Urge Congress to Halt Government Use of Face Recognition Technology"
+    excerpt: "A coalition of nearly 70 civil rights and community-based organizations working at the state and local levels across the country, including affiliates of the American Civil Liberties Union, have come together to urge Congress to take immediate action to prohibit government acquisition and use of dangerous face recognition."
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://www.aclu.org/press-releases/community-organizations-urge-congress-halt-government-use-face-recognition-technology"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
+      name: Aclu.org
+      domain: aclu.org
+    quality: 29
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Congress Re-introduces Bill that Effectively Bans Law Enforcement Use of Facial Recognition Technology"
+    excerpt: "Today lawmakers in the House and Senate jointly re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021, which would effectively ban law enforcement use of facial recognition in the United States."
+    publishedDateTime: 2021-06-15T17:47:00Z
+    webUrl: "https://www.commondreams.org/newswire/2021/06/15/congress-re-introduces-bill-effectively-bans-law-enforcement-use-facial"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 23
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xs/public/2021-06/national-academies-science-3600x2402.jpg?h=6ac591db&itok=jxDzBbsX"
+        width: 537
+        height: 304
+        isCached: true
+  - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
+    excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
+    publishedDateTime: 2021-06-17T02:29:00Z
+    webUrl: "https://www.wsws.org/en/articles/2021/06/17/surv-j17.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 13
+    images:
+      - url: "https://www.wsws.org/asset/d3c5a9cb-8907-4c7a-8427-8970a85cec43?rendition=image1280"
+        width: 1280
+        height: 711
+        isCached: true
+  - title: "Facetech Holdings Limited Receives Further Funding for Its Facial Recognition Technology"
+    excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology. HONG KONG, June 16, 2021 /PRNewswire/ -- Chinese technology startup Facetech Holdings Limited has today said it has raised an undisclosed amount of further funding from venture capitalist firms and a startup conglomerate located in Hong Kong."
+    publishedDateTime: 2021-06-16T05:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391262.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
   - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
     excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
     publishedDateTime: 2021-06-16T18:40:00Z

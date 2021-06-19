@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android
@@ -26,34 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Infrastructure Site Surveying Gets a Boost From Artificial Intelligence"
-    excerpt: "Finding accurate subsurface surveys of bedrock topography is a time consuming process that can be augmented with A.I., according to a presenter at ENR FutureTech 2021."
-    publishedDateTime: 2021-06-15T23:52:00Z
-    webUrl: "https://www.enr.com/articles/51929-infrastructure-site-surveying-gets-a-boost-from-artificial-intelligence"
+  - title: "How to invest in robotics and artificial intelligence"
+    excerpt: "While Big Tech companies are investing heavily in robotics and AI, they will not be the only winners Investors can gain broad exposure to these long-term structural trends through funds Robotics and artificial intelligence (AI) are often associated with science fiction and futuristic visions of how we might one day live and work."
+    publishedDateTime: 2021-06-17T17:44:00Z
+    webUrl: "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-machines-how-to-invest-in-robotics-and-artificial-intelligence/"
     type: article
     provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 37
+      name: Investors Chronicle
+      domain: investorschronicle.co.uk
+    quality: 69
     images:
-      - url: "https://www.enr.com/ext/resources/News/2021/06-June/FutureTechBIMforSubsurface.jpg?height=635&t=1623797055&width=1200"
-        width: 900
-        height: 550
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fic-ez-prod%2Fez%2Fimages%2F1%2F4%2F3%2F8%2F4798341-1-eng-GB%2Fdominik-scythe-Sot0f3hQQ4Y-unsplash+%281%29.jpg?source=invchron"
+        width: 4928
+        height: 2845
         isCached: true
-  - title: "3 Incredible Ways Artificial Intelligence is Transforming the World of Online Casino Gambling (copy)"
-    excerpt: "With the need for food packaging to change soon, where might we see this area move in the future? Click here to find out what the future of food packaging"
-    publishedDateTime: 2021-06-17T06:30:00Z
-    webUrl: "https://www.state-journal.com/sponsored/3-incredible-ways-artificial-intelligence-is-transforming-the-world-of-online-casino-gambling-copy/article_86cbf4e6-cf6a-11eb-8360-436446114970.html"
+  - title: "Surrey academics push boundaries of AI robotics for active debris removal in space"
+    excerpt: "The research that will be demonstrated at Robot Lab Live, an interactive event at the UK Festival of Robotics 2021, first appeared in Frontiers in Robotics & AI. This newly published journal article discusses the novel technology and how embedding Artificial Intelligence – or AI – can help space robots make decisions reliably and timely without the need for human agency."
+    publishedDateTime: 2021-06-17T15:18:00Z
+    webUrl: "https://www.surrey.ac.uk/news/surrey-academics-push-boundaries-ai-robotics-active-debris-removal-space"
     type: article
     provider:
-      name: State Journal
-      domain: state-journal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/state-journal.com/content/tncms/custom/image/756ad790-f8a2-11e8-9f46-7b6b764fb9ed.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: University of Surrey
+      domain: surrey.ac.uk
+    quality: 43
 
 secured: "Stfa1vcXqstgbpTcFQ/UjM0/m6Nyt0RK2o7ySdEJX/JhuC12bbydctAUytqsB0I/veXnZkmo3Zc6bXgpzt5Qpg9Rl+4twAU20yGcYkX9EnI+R96ZKXYXa0cdWByYroq+8OUx2PGv4ELKWAsYANHn1Z/xnBe+qp/2oo32wMv3wY3pw9hR9wyLKYd0E+odtCEG7CnyVaNYW6qNbWUE7FXi6T6mk1oclnX0cjFdY4HY/8NKPUuw8GqJ39oeVsPjMnxKs42dNc4wLEnXwLcYxajGTsM+D5XnKXErCpVcy9BzUKK9BZvb3LGAGtymiRUenJEPXgf0mL1HunLENM3uv1fzS48CIgvrqCWworT19PRpKYeAGaXUe/4DvViawMFICE/PW+yrXbdveH75GvHSTW4ZVJ5N7WVNPVE1wqqGKoN9OGU0WNb86FLk4ZkZn4ae2ixxKFGlUrw4sr4AFnfiGTX+urhjcQasFDOd8XASSkNbNAJikjTYH5J1lRayrXTz773VRBn3XV8DvFyfoeTAsTEiPg==;Pw813V/k9LCOuL8y579nSQ=="
 ---

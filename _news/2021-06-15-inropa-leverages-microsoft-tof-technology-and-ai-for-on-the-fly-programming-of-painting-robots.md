@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T20:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T22:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/US-Supreme-Court-Washington-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Theum Now Available in the Microsoft Azure Cloud"
@@ -40,22 +34,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U617781440_g.jpg"
         width: 800
         height: 800
-        isCached: true
-  - title: "Expect an Orwellian future if AI isn't kept in check, Microsoft exec says"
-    excerpt: "Artificial intelligence could lead to an Orwellian future if laws to protect the public aren't enacted soon, according to Microsoft President Brad Smith. Smith made the comments to the BBC news program \"Panorama\" on May 26,"
-    publishedDateTime: 2021-06-14T11:15:00Z
-    webUrl: "https://www.space.com/orwellian-artifical-intelligence-future"
-    ampWebUrl: "https://www.space.com/amp/orwellian-artifical-intelligence-future"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/orwellian-artifical-intelligence-future"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 75
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AHFXeqRX8gF2R6SHqRpfkj-480-80.jpeg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
     excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
@@ -164,15 +142,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization"
-    publishedDateTime: 2021-06-16T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030530211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Artificial Intelligence Robots Market Unbelievable Growth || Google Inc., IBM, Microsoft Corporation, General Vision"
     excerpt: "Artificial intelligence robots market is expected to grow at a CAGR of 20.38% in the forecast period of 2020 to 2027. Data Bridge Market Research report on artificial intelligence robots market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecasted period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-06-15T11:13:00Z
@@ -238,6 +207,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "ufGQrifbrZWGqMAOMu+P7KzEgKpk0PGmQPNpUlrPo/9iPYWfmNXYAO7UpYpTNeQjPnKDMc20zdgddZA8D5ktvgIuOosYnH2lhBUgOq9YIZVT2DumwB+0LGgonLkAt8tfr4dHC64AnKbPhDakcePRFtNPxj9iCjhCVXhhrAE8kEbk6xUE9M47i/DNxS80MT97ewZzhAvUEnlKn3fY7TNQBdCo9Lyh/hOvkZN6NQOWu6fjDREc9em3ipvTsq8kFQg8JjJ8y4vLuzzEOqCuWQkhJU1frDTMqKOggWt4QnQOxOz8YZxa3yhT//CxIQZOsjufGNvarlZNWYV5qKS+93e516joIk7YQWmXD8G19Fjk/eo=;WUsEvfrxOQY0AP+EBclXEQ=="
+secured: "x2Np08haKejEg76cIth9f8akvBSYTAtHzINotmpz+MZlesOJegyoRx+OdMFm0wOXrR1RSMwWU/3RE9aQb5w64qZizmAFkHEWcHy7iR/bN58RWXA8GgIHyb1HnGBzqWhV7v+AcVItApcB2GMSHOETj5iko489RyqtYsaZxXuvO2M9dihPZSQ6t2QFkd+5txaYmjGrtyWqWmBgt+dRkOXQQkouD1B0GJhPEQ/rTLYhF593ROztL3jqqe7Z9kAEfyuXuDWIcGRPJg2/8RGwjUF7fMwKLKtjyDhQPf4gyljBYzL6OHvIMphhEy6zTXgs7Zf93gp63ZSO0a2rrea0bY1CDPjdeAWtCnOsBfiJDYUJ4WU=;uR0EUAK8QB/8iF5YxxKGvA=="
 ---
 

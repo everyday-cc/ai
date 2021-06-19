@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/america
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/american-licorice-company-selects-answerrockets-ai-driven-analytics-platform-to-accelerate-insights-generation/article_b086e2c3-6bfd-5963-9a26-c90089662e7a.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -22,65 +22,6 @@ images:
     width: 699
     height: 392
     isCached: true
-
-related:
-  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
-    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
-    publishedDateTime: 2021-06-15T08:27:00Z
-    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
-    excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
-    publishedDateTime: 2021-06-18T06:43:00Z
-    webUrl: "https://techwireasia.com/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/shutterstock_1198894387-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "The Global Video Analytics Market Assessed to Develop at $11121.01 Million by 2028"
-    excerpt: "The Global Video Analytics Market” As per Triton’s research report, the global video analytics market attained $4235.82 million in 2020, and is evaluated to surge at a CAGR of 16.05% by 2028. A recent study by Triton Market Research titled ‘Global Video Analytics Market’ entails the Global Analysis and Forecasts by Deployment (On-premises,"
-    publishedDateTime: 2021-06-14T22:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-global-video-analytics-market-assessed-to-develop-at-11121-01-million-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.abnewswire.com/uploads/1623672786.jpeg"
-        width: 800
-        height: 395
-        isCached: true
-  - title: "Axtria Leads Discussion on Pharma's Advanced Uses of Data Analytics and Artificial Intelligence With 6 Sessions at PMSA 2021 Annual Conference"
-    excerpt: "Berkeley Heights, NJ, June 16, 2021 (GLOBE NEWSWIRE) -- With the elevated importance of data analytics and artificial intelligence (AI)-driven ... CSL Behring, and ViiV Healthcare will include how to leverage advanced analytics to adjust health care ..."
-    publishedDateTime: 2021-06-16T12:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21584862/axtria-leads-discussion-on-pharmas-advanced-uses-of-data-analytics-and-artificial-intelligence-wit"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21584862"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21584862"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "D2jbCFPVs0fEB15OuJ/2Mwdmpq/VJ5CSkM7Edg+mWeAPahpsaZKQey1Nq9sI+HjWsIqUfPPxHGqJbAlhz6N+KK53Z1rCHqJI4XOOh5eUi5TEkRBtsrcBY9jiEqk6U8aw/ZJvN3uq9YV/C6thQHYB+xwnujJKqJQn2BhBlvNeXjuZ1NLImF3vskm3sooCsw7/VLRxz7rWB3X2a0foCkcdY0RvYpkAB/WlFo2w568iG6vlYvvz15I2hcYscxdqyBSnHTd6Zv8nQm77HzzIjwhXbykS0b6CpvZs5TmhmmX5DC32tFLhWbi6s7oI7NSnesMFE5NGPHUxhVI3rtGi6OaJWSbFv/oxzvD1WsWypQHg+Co=;wGXZ6KxxqQWIoV+XBSkatA=="
 ---
