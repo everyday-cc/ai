@@ -107,6 +107,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
+    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
+    publishedDateTime: 2021-06-18T06:31:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "AWS agrees technical and commercial deal with Ferrari"
     excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
     publishedDateTime: 2021-06-18T09:52:00Z
@@ -125,15 +139,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
-  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-    publishedDateTime: 2021-06-18T06:30:00Z
-    webUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
 
 secured: "jINz++kGiE6rRNK8BDG77pDyx+TK6/YPe50l7Xk6SJVEqlxfZFcQm3aQGEuxF0qwS/Hz6rPrD+2xlTIxC6Ci/qU6W9Bj+iWY2d2uzqGD/EqVYj0xDUs2dyBvP0C2FGKoIlB3VHv3jxIZ+4SqsKnr2kSesGZWH1PAt20Q4M+V4AF7xE0CMZgdlyUqwgzaFCnNknn1AtolElouncgnUe21Wm4sn9Qiniz/vQpUxxHZtxMx7wxnuAMig6vyN8fxU3bw54EijpGRmz3u9mB76X6+kbSQnIqRHd1p5Lk6QglNUA6vs8KRDEhDtrORgVk2VIeXRpZFb7ZcGsCA0O/KUnK9FqqkVscx5xeFgOoc+la1pAJhyHhpralv9XOcM4t3BrTWcNfp91SfMEROsBXEQKKLyWg0LlETXsOESB3CjjkFP4x5DkfIwTWMdAPpCNCoYj22PA48uYc92alxRsOVYQmapCCQOMCBIUCyN4UW4a57f517GhcpfWDvXyTNONWH5NiU859pPev6ScemMz+TfZjxCA==;DnfgQttmo/uxL5vylho7NQ=="
 ---

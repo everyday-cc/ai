@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google uses AI to design next-gen chips faster than humans"
+    excerpt: "Google is developing chips designed by AI, harnessing machine learning The AI has already been used to develop the latest iteration of Google’s tensor"
+    publishedDateTime: 2021-06-15T13:45:00Z
+    webUrl: "https://techhq.com/2021/06/google-uses-ai-to-design-next-gen-chips-faster-than-humans/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/06/google-cloud-ai_2x.png"
+        width: 1034
+        height: 600
+        isCached: true
   - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
     excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
     publishedDateTime: 2021-06-18T13:29:00Z

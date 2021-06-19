@@ -115,6 +115,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
+    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
+    publishedDateTime: 2021-06-18T06:31:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "AWS Chosen as Ferrari’s Official Cloud Provider"
     excerpt: "(NASDAQ: AMZN) company, Amazon Web Services reported entry into an agreement with Ferrari S.p.A. to become Official Cloud Provider, which includes Machine Learning and Artificial Intelligence Provider."
     publishedDateTime: 2021-06-18T13:35:00Z
@@ -124,15 +138,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
-  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-    publishedDateTime: 2021-06-18T06:30:00Z
-    webUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
 
 secured: "7wHKDCGhNFQed4xAW/07qbbwqcsNfldK2HbMnzES3XVHdvqkZVfPjn6VSRmICQBKlprjOOYNktGjK3E9v/7WvGYYF897krJej6SZg48D88FYQTGQzNmP1sM/Im4d6ZFjLm9BJGFALOPwfRtWN83MI1rdu1vkEt/xscgEBGIRFhn3EZYoTouMY16q9sqn6k9ntrOMX3CBSzLv78MfwFGPhKBDqHz4WJTl/zPxUN68VBEfs09QK0mrZS59wWeimbRgr0gUhhWPU6zsFe0XlOc2cARDWWmZuyzuSZjnkofqAYGN2OGVLrOy32l7eUN8yVBVPkgdepOn7GOMJLNorMZCJrxUCt1YhjRLLy3VGLXqjps=;8v3dKl7GtyL8nKPVsyZTNA=="
 ---

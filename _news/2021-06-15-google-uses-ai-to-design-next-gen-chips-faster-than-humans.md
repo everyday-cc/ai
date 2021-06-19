@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
-excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
-publishedDateTime: 2021-06-18T13:29:00Z
-originalUrl: "https://nextconf.eu/2021/06/ai-assitive-intelligence/"
-webUrl: "https://nextconf.eu/2021/06/ai-assitive-intelligence/"
+title: "Google uses AI to design next-gen chips faster than humans"
+excerpt: "Google is developing chips designed by AI, harnessing machine learning The AI has already been used to develop the latest iteration of Google’s tensor"
+publishedDateTime: 2021-06-15T13:45:00Z
+originalUrl: "https://techhq.com/2021/06/google-uses-ai-to-design-next-gen-chips-faster-than-humans/"
+webUrl: "https://techhq.com/2021/06/google-uses-ai-to-design-next-gen-chips-faster-than-humans/"
 type: article
-quality: 47
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: nextconf.eu
-  domain: nextconf.eu
+  name: TechHQ
+  domain: techhq.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://nextconf.eu/wp-content/uploads/2021/06/BlogShareImage_AssistiveIntelligence-1024x538.png"
-    width: 1024
-    height: 538
+  - url: "https://cdn.techhq.com/wp-content/uploads/2021/06/google-cloud-ai_2x.png"
+    width: 1034
+    height: 600
     isCached: true
 
 related:
@@ -56,21 +55,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google uses AI to design next-gen chips faster than humans"
-    excerpt: "Google is developing chips designed by AI, harnessing machine learning The AI has already been used to develop the latest iteration of Google’s tensor"
-    publishedDateTime: 2021-06-15T13:45:00Z
-    webUrl: "https://techhq.com/2021/06/google-uses-ai-to-design-next-gen-chips-faster-than-humans/"
+  - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
+    excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
+    publishedDateTime: 2021-06-18T13:29:00Z
+    webUrl: "https://nextconf.eu/2021/06/ai-assitive-intelligence/"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
+      name: nextconf.eu
+      domain: nextconf.eu
+    quality: 47
     images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/06/google-cloud-ai_2x.png"
-        width: 1034
-        height: 600
+      - url: "https://nextconf.eu/wp-content/uploads/2021/06/BlogShareImage_AssistiveIntelligence-1024x538.png"
+        width: 1024
+        height: 538
         isCached: true
 
-secured: "H9G2Q9C6NFWemsClRvwJQyirL8T465mhRnpWPO04IbBNPy1XKDy+Yp1VosbIYF1Mx2S2YNyPcQr/w65hyt2a+SpqdzZAp86xItoYNWkdjyU1uLDbRTkQlkCkFXD6/7mF9zl+uWiGpzCIjGkffFk7bYCFw1Z+NqFZnhJqaAsuUCsKFiFiS+JVVhFBMcTRxjhT12G8M6CYdZySqcF0miD25Cj2tRe9ikA2vYU8CKo1vZIE5CaCUnGhJ0AXcOEbVbFalBy1M8hGgdyuW1ObhV6ZWCOSbBFbj5wpS++WhmEakEF4YgN3CJw6ysIJZlLLLYWHzsyFUNECjpqW/94GpfsOCcABp7iq15HlaDLEvpOgpqlJc9i5aujfJrpT0/iTd8qZeQbvsei67gNYzr/AvsZjYuWC9r9tibz3jH++0JNQm/Aa+zHklZjKtjPD+yoxtbi9ryw6slu4YTqntGwotWECBOe0qDPEEEwZtEmoHaekohLsDGGrffJfevNYiXT+1AbI2JaIdtOFZ+lHC2t1I/cNLQ==;imhRilDHvFiNmN0xMb6xbw=="
+secured: "xrx/TkG6VXf8eXgwVh8zlfae4am+0GEtQZgDH1PzsgrJ/SWRpHrEGeUAcRH6HdP5vAKTKWb7f8RQ6bm9ZDUIk18Z6aEDT7kUcNFUyV5hMfkFkxTxPjTZpjOiaIb/i0NuoyOfryIissB2O+TERLmzpFFIjiZ95uSsD3tNpxfG+5vMtkM4YRYaQONaewGmLAwmzBYdS1vqN8ZxEjU0ooPJvlByy1uPZp9tCzYDbv0ZV1iihO6aXNpBmQEmvSIp6z2XyCDuGLAhF+rYyO1v/w61cWO3GJLakECGE3IFpy0lM7GnSVUKF05UGTQLDJ/TKHfACtC5Msb21r3gJGWYa5VPbAt+nqY671hQLpFG991MQ3Q=;zA5REUaDSvcAWBphMX2p1w=="
 ---
 

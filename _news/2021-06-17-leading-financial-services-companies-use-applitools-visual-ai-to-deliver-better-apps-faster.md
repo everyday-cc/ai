@@ -1,34 +1,38 @@
 ---
 category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
-publishedDateTime: 2021-06-17T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
+publishedDateTime: 2021-06-17T13:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
+webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
 type: article
-quality: 9
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 related:
-  - title: "Appens Annual State of AI Report Finds a Shift to Internal Efficiencies"
-    excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year’s report reveals a significant year-over-year increase in AI budgets,"
-    publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/"
+  - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
+    excerpt: "Applitools serves the world's largest commercial banks, credit card providers, insurance companies, stock brokerages, financial technology (FinTech) companies and more. The sharp rise in Applitools Visual AI usage among the global financial services (FinServ) industry is obvious."
+    publishedDateTime: 2021-06-18T09:46:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192283&cat=PR News Wire"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 9
 
-secured: "tIijZ7YmaYypXFot7LfC1m5VC7eU7cDz0FVqld4dqA8RIOVijoXY/p6r0Bgb9xBNyzzHHxijmXOpZj72K/uECyIqeeoKHzfgDWqH+DNpxyYdjDkkLdu+t7fXYeW5QPLf3PoFvByPErz0MgTEAKHl2S65wvYBZ05s7E/2qOV/sILojP1EEHHatDjl4/7dW+TWRFDM63ufdDrM7iy2TcvnSJMo4IGWHGALw5YcprLjEReXdgNQUAOIhR0IXL/bu/raiOgMzCndmOMvjO6fP0N4a/QH1rK/rM4jxHIJviXEWwvnxGy4ijKgO++gAkjYQoULqudXTItzXL/RmvevYGdADcbHL8zIpSQj8iRny4OKZ9T6+9AellI05MzbEJMg9xaJFFa8plW1xep6RI2GFtDg1F31/nqDnfPZmqiJWfjD9VzHbnNVdmJja8yMJf/DryLeC89xTYYlhdhVYif/DSwYK1gRYxl/uOP8XkT0bqH9fjnWnpE0rVk70DPIUz3wqKbMPycF9JonQQ6rn15uUxLGOg==;9pFaZxp9eNYdsS/aM/uljg=="
+secured: "1QTapKOS9wBPBmG54Pqol9EOguodX8oUns/+/H8h81Y+Tpe5mN5G6lUQj85dAdzOV5Ee0trnEjKDlct1Srr9Q1WAQql390lIaD4MuTHIQFs7NbCWdlFa6pNoKZnxoM3UG4l7t71UJWsCys71e75PGCXcX9X3WnD2r3suJ0ms7Th3GcO60yVwwimk2mbRswbAmRMaxCyJkkdNw7xuWxkXglM5KzrQLnspddFlJJWWY5yzYuQ8GnhDAXFaq3rdRBFfy4WHfTOp7Ly+VIoKm4L3x9xWEUhZiGLhJ3ZtvX+czYNBzYEPVkO34VXxeIaeABiQwa089QahpQmg4+G9uefEUVjuVb7L6IHd9fHy2/gx7hEg1io6vf/ZJvAvR5qbSEMpf/vDGjo/5Nb3PPW1szK3Dj0tABAo2eOpWdmskYkh0vR9dI3sv1l8Z4TM20WOpISzoleiyn8Is9WEzTMl5xlRTurrlfpbwKKzyuhzIdkKyIgJiMxHEEbrW80Olfrp7AJ3ZHCikqDY63tABDnKH5Vl0Q==;2JRwnY3h74X/E9pXJ7YKQA=="
 ---
 

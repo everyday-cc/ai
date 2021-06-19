@@ -18,17 +18,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-    excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
-    publishedDateTime: 2021-06-17T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-
 secured: "d50kibl8c88K6Rmm2efodfGJ9BOi0ONvCVJRtu2csDZBmJB4ayuYspyR2RG8cZN51noFrBsRL9ReBVZ+TYMMqkULoxLLWSDc73iZBw7Yw7QP2jmwxAjsvbp1sWQy6bIoKLRKa0Bew85oQ8+J2QPrAL7/Dp1/HvIDkS+XHTy0T1RjdCKIBDGbro8PHKecG7GaCvdHUqyZB1lCQClh5dZM732ieMx+yB5KmjNE6h0YwL8BrJwNIk2Y9eHX6Bj9Ln2oOMvQnlA7nQKp6MpCl9LOLjrzxZIqiwrk3MiDin0M7HOrjjiM2qg3TQIRUv6Fe1bkMCC4XykRVF6kQqyQSQtmoMr4XwFgJONNE32zYd70Zw0=;+J1zlvcGRTMntpirYr7g5g=="
 ---
 
