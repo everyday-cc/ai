@@ -9,8 +9,8 @@ ampWebUrl: "https://techwireasia.com/amp/2021/06/improve-your-businesss-processe
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: techwireasia.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Global Video Analytics Market Assessed to Develop at $11121.01 Million by 2028"
-    excerpt: "The Global Video Analytics Market” As per Triton’s research report, the global video analytics market attained $4235.82 million in 2020, and is evaluated to surge at a CAGR of 16.05% by 2028. A recent study by Triton Market Research titled ‘Global Video Analytics Market’ entails the Global Analysis and Forecasts by Deployment (On-premises,"
-    publishedDateTime: 2021-06-14T22:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-global-video-analytics-market-assessed-to-develop-at-11121-01-million-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.abnewswire.com/uploads/1623672786.jpeg"
-        width: 800
-        height: 395
-        isCached: true
   - title: "Axtria Leads Discussion on Pharma's Advanced Uses of Data Analytics and Artificial Intelligence With 6 Sessions at PMSA 2021 Annual Conference"
     excerpt: "Berkeley Heights, NJ, June 16, 2021 (GLOBE NEWSWIRE) -- With the elevated importance of data analytics and artificial intelligence (AI)-driven ... CSL Behring, and ViiV Healthcare will include how to leverage advanced analytics to adjust health care ..."
     publishedDateTime: 2021-06-16T12:41:00Z

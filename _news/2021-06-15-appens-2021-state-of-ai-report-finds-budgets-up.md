@@ -63,20 +63,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "United States Artificial Intelligence Market Report 2021, Share, Size, Industry Trends and Forecast by 2026"
-    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market, Opportunity and Forecast 2021-2026,” the united states artificial intelligence market expected to witness robust growth during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-14T21:16:00Z
-    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-report-2021-share-size-industry-trends-and-forecast-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.abnewswire.com/uploads/1623663031.jpeg"
-        width: 1800
-        height: 1202
-        isCached: true
   - title: "Artificial Intelligence Accountability Reporting Grants"
     excerpt: "Governments and corporations worldwide increasingly are harnessing the power of artificial intelligence and predictive technologies to make policy decisions they hope can help solve some of"
     publishedDateTime: 2021-06-17T13:36:00Z

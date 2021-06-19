@@ -101,6 +101,17 @@ related:
         width: 1199
         height: 499
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594080/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21594080"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594080"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
     publishedDateTime: 2021-06-18T14:17:00Z
@@ -157,15 +168,6 @@ related:
         width: 1200
         height: 441
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "q9W/8Rq+A/jmW+xV045KEmbKofIoz19nAPu088Zrud3OjL9gk1or9x/geJOujQS5IGyuhETYxTDp9k05jTJ3gVpZHRQCYExv9pIeAOH3ossTqhgBmwlU3tQxjBhuFzyOaBPp/Eyh3TYro7K0yqzs/X777+HWiHBVAzw2e9fSgB/VTKXlr3+Tj3VzqKrhwerPmFokp07zMvNXHDXG1HM93i5Ac/b60VF4oV/NlUhEPH66WUCXQEdMNy2DjxJpSt2WP6elNkpI+veRKmrpqwvbPmdj2AyWRqEBHT8zxLnh6SgXCYaF9OTDvKP9VkO89ZmidPNqXMippQ183kQzuZ4PoCrCJyc1G/p3RsszPs0wclXcbFvrAcTOftw7GJfQ3SRzmiTpba4Ts6D85IS792HPLn21KdRc/dVvm0aC83aoApUYoZne7LmeKkcGdPeusclR1eHLr4AC9nJAwMhlP3II1gLZx9JHoqAz1xj4Xw8r+wWXLR5dph11dlkJxd9soEZsbdEOc1/aNJUrUZtCEUPemQ==;qHswldCFFC6rD7SWEWc1dQ=="
 ---

@@ -47,20 +47,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "How New Artificial Intelligence (AI) in Retail Can Adapt to an Evolving Market | Amazon Web Series LLC,Google LLC,IBM Corp.,Intel Corp."
-    excerpt: "Artificial Intelligence (AI) in Retail Market” Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-06-14T22:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-new-artificial-intelligence-ai-in-retail-can-adapt-to-an-evolving-market-amazon-web-series-llcgoogle-llcibm-corp-intel-corp"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/9ebfba01b75f30bca0eaf59e0c5b01df4e1b9ed6-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ysNqIqlCIQWhVmnhsXFArICAfe6L+HnyXX+YrwhwwFiwzHQD2vpNXUtYkSUt2biBHmw8FWYo/JsJkbuzuTYs/fWcoHXm5GfuW79R6HGbp0inoYfZVFDYKEG1+i2qYbk5kgtftXEyM3aFaoHJ2mG/g3x8E0bQBqRcWVp+y0L1B2OzrnGYrxI7NNyl2ku+qnxNYFXq8t/J9hyrJntiL6bfZ2PQfgEetmlbsweUoCp3Zl7HPz/Ar+hImEfbyMqjxX6iitS4bcRjbL/wzOQ6b7JImHWWBcpgxC73vsZiMpsvyRsCKRq4M2z/kezJ0aSjfHWBUfa/Dv5/XeTOSDamGK35HzHdhIPqpuzo7HrR099TfIg=;OKYhvmaiSqdCUpxnCnUQ1A=="
 ---

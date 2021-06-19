@@ -122,15 +122,20 @@ related:
         height: 472
         isCached: true
   - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
-    publishedDateTime: 2021-06-17T07:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
+    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
+    publishedDateTime: 2021-06-17T07:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
+        width: 2700
+        height: 1413
+        isCached: true
 
-secured: "Yll+HOGUk724dSH6Kr4WWFKUUBbf5nk5KWpSE0OhvExRssMLypsOrYiTRca7ZlWdcaiQVKIEjEan55Onem0sMJtljqPpWOVea8iKQnU+H8BZfvwFyfTllRtEmIbDK6DlXWL8a+14y/ORC6HZBjg0d5cab4E3oFtEW7HOGZJftG+EQ9K9atKcV0hAnHxWeRseblhcFzNNWiBoGpt8C5D7H1Ziv0I+QMhf6Oys1gd6qbHx5C4D1ZkcmCgpijSmcJDBT4qW0htcbJndJY02lNGwCz41i1xNcGs0W7KoaX1LjrnnzFEriO940EgofR48wt2/Sb0zm7O+c6AP0MDfjfmQyo0TOLnxrN5motvl6Y1kXuY=;hEAXzEyR1e4FFX7P1t3umw=="
+secured: "DeZC7mnmJuUreSPhf9yXOkXA4r/tPpfTscHRLso/H0vHDc+bARKt2LE878D7XKxFHn8KDFERoft9vQ2VoG2SlqqIEAPo+OLITkQJARi3Kk4laLkI3G7NpoomRr2BcsiO/hggDiZz/Yi9skZFk/0GQrC99z3nzhA+1AeVSVVaA61qKc06oVTjHRlI86dV6KN3WuV7pWmPUlTOPVoBTN43v8lHJ3rANRwCJX33/NeAH0+VqH0lEHFsaJHeGw1RhmysFkC8m27gQJAnOMzUM3rTXK6bNE4RUQnceO5Vm6V0x4NNWkTbtmNTMknTGlee6bk+OYQe1Pc0baPO9AT1NgYxpJIY5GqkJFh4QH4akCPdtd4=;80IK99riU4eKLXNFpZgw1g=="
 ---
 

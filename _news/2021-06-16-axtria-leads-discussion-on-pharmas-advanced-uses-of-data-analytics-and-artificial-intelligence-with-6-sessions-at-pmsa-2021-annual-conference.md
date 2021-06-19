@@ -37,20 +37,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "The Global Video Analytics Market Assessed to Develop at $11121.01 Million by 2028"
-    excerpt: "The Global Video Analytics Market” As per Triton’s research report, the global video analytics market attained $4235.82 million in 2020, and is evaluated to surge at a CAGR of 16.05% by 2028. A recent study by Triton Market Research titled ‘Global Video Analytics Market’ entails the Global Analysis and Forecasts by Deployment (On-premises,"
-    publishedDateTime: 2021-06-14T22:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-global-video-analytics-market-assessed-to-develop-at-11121-01-million-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.abnewswire.com/uploads/1623672786.jpeg"
-        width: 800
-        height: 395
-        isCached: true
 
 secured: "E4fsd0HAmq9CkMK8dR2OENyjNttGtrVdhrc0up/gc6SNmBAFXjncU7yBL2gPeevBbqMTDtkFeen92QfblWXUh1zlqnF3Gdzjs6Dj5r7PZDZ9Pw28i4xkzS00BpztCY3PzH+/rRkqc+CIGzpDq7cOPzxDi8sBlJpaGkvOY5hDMknbDl7A+Qn6fkFHaC/BOEnXbkZJlQZLK+/V7soB/2ZRcCV9OKMMTinPkVPScLZ+u8ddj+c6TMNgptDF0F+IvExwYoAXLrNxc6YFW1UYVCftbZg+MzkBWmsW8uvcyLEVgPXC7YrduHX0tO+FOC9Z2IL9UNm84JwS7gv601rkHRLrlGoYTeWmvDy5+SIKqEBKesU=;Y3x4BldP63yNeaOBvHroZg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-sh
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/"
 type: article
 quality: 88
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Google-cloud.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "United States Artificial Intelligence Market Report 2021, Share, Size, Industry Trends and Forecast by 2026"
-    excerpt: "According to the latest report by IMARC Group, titled “United States Artificial Intelligence Market, Opportunity and Forecast 2021-2026,” the united states artificial intelligence market expected to witness robust growth during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-14T21:16:00Z
-    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-report-2021-share-size-industry-trends-and-forecast-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.abnewswire.com/uploads/1623663031.jpeg"
-        width: 1800
-        height: 1202
         isCached: true
   - title: "Appen’s 2021 State of AI Report Finds Budgets Up"
     excerpt: "State of AI Report Finds Budgets Up. Survey finds decisions moving away from silver bullet solutions to improvements to internal operations. ; Note: TD"

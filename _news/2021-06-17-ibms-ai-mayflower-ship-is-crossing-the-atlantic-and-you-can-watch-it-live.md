@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-s
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "A robot ship’s aborted effort to cross Atlantic shows difficulty of the experiment"
+    excerpt: "With no captain or crew aboard, the AI Captain uses radar to peer into the horizon, artificial intelligence to understand what's around it and solar panels to power the journey."
+    publishedDateTime: 2021-06-18T23:38:00Z
+    webUrl: "https://www.pressherald.com/2021/06/18/a-robot-ships-aborted-effort-to-cross-atlantic-shows-difficulty-of-the-experiment/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 33
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/06/Britain_Mayflower_Autonomous_Ship_14146-1.jpg"
+        width: 1000
+        height: 578
+        isCached: true
   - title: "AI-Powered Trimaran Mayflower Suffers Glitch Ahead of Unmanned Atlantic Crossing"
     excerpt: "Two steps forward, one step back: even the most revolutionary, record-breaking endeavors can suffer setbacks. Research organization ProMare and partner IBM have just had their first, with the fully autonomous trimaran Mayflower."
     publishedDateTime: 2021-06-19T07:30:00Z

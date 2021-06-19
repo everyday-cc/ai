@@ -22,22 +22,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Baltimore City Council approves moratorium on facial recognition technology; City police exempt from ban"
-    excerpt: "Democratic Councilman Kristerfer Burnett's bill would bar the use of the technology by residents, businesses and most of Baltimore city government until December 2022."
-    publishedDateTime: 2021-06-14T22:19:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20210614-xbooqalr6be7zhzljcnpeb3cqm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 42
-    images:
-      - url: "https://www.baltimoresun.com/resizer/2L2KxRRbQM7wzzqQV_i-mHI5q_c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AXZJVITSDNBCRMZM3PDFDCYEZI.jpg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Cops Elude Baltimore Ban on Facial Recognition Technology"
     excerpt: "Critics say exempting police from a bill banning the use of facial recognition technology by residents, businesses and most of city government fails to take into account the potential for  racial bias identified as a key software issue."
     publishedDateTime: 2021-06-15T15:20:00Z
@@ -65,6 +49,20 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Senators Markey, Merkley Lead Colleagues on Legislation to Ban Government Use of Facial Recognition, Other Biometric Technology"
+    excerpt: "Legislation stops federal entities’ use of facial recognition tools and effectively strips federal support for state and local law enforcement entities that use biometric technology · Place a prohibition on the use of facial recognition technology by federal entities,"
+    publishedDateTime: 2021-06-15T17:31:00Z
+    webUrl: "https://www.markey.senate.gov/news/press-releases/senators-markey-merkley-lead-colleagues-on-legislation-to-ban-government-use-of-facial-recognition-other-biometric-technology"
+    type: article
+    provider:
+      name: US Senate
+      domain: senate.gov
+    quality: 13
+    images:
+      - url: "https://www.markey.senate.gov/assets/images/sharelogo.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QlSXgEc4lxDKET4o8tN2BJVJ54iQuy3ojv3f1PYhcfStAu82bNHITEwlHCTv/hHBflllHudF9YBPWxS9rPEA5tfDr9ywJMukGrSGd40Y/YjPCLaKpUxPKby2SKEAWX428ebS6FJLJkUqBOO1OInij5/BcANCunFHdSl+2ggkCMsbHxP0Skb2jiF+rdFohdzKsko7woMPxNY/UTGoBaF1am/KzWwtfHwEqk5eym3XHoexik6FzGRe+MW9HlxawbR/gFIhsdWj8PpbMusbcjQ2YblBHOmXg5j7AggZoi5IzHVk2xiwF4RKlgSaH/SLvPPMAs0zuAeHOeXd9Y+e+WsA/wKtxYxtr6Y2TPCUkg1n4T0=;l5aIejyOncIIwHfJhs5mtA=="

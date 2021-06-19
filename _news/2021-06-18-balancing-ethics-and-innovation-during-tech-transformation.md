@@ -113,6 +113,17 @@ related:
         width: 1199
         height: 499
         isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-16T18:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594080/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21594080"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594080"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Making operations safer with digitized data acquisition and AI"
     excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
     publishedDateTime: 2021-06-18T12:20:00Z
@@ -155,15 +166,6 @@ related:
         width: 1200
         height: 441
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-16T18:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "m5ZQiEst2eCxf0LpqK8gwuaeiF7FKyMBRpvrmLU50BypnXkoiSmX1+yTqeSv+40Fr3jMWGcUwHJKiau34afUcMkMaeZdSuTXn96k117L5BXJ0/C7ZW34BgBbOrJEM1hpzNhWQmaYr3mDIMlK0nVzWCXb390QocG5DgV6I+4QULzUBd5fNu/tXbNTn0Y1IJEXo6yYNwr3PpDf2qbLuyBYBQ7CvYFTrq4pbSt+AGa7YUJAosSRgFVmRcKoNrhaI50iswZ+Dwo7hNhrv3zwN0BszfzIUePE+Z62gq2zkhX+qIjnPOzIGF4BvKloD4K0BWyAiPHJpCcqzyKTAkNEHCmvKL+KWbAaXhQ0++ncI8oof0/gZeN2TBFyihQHZby4YdGKXLO4WG7VL3USYWY6KHIcEFHyhG4V4QoxudqZnvujb7GWmf92IACjjG2o+SFGtVzShs8F2R47NI37wmZRdDrPpxtmhSzfD5N5+FUAcWTwBbfBt4cci+wGjMpnEmoBhaTEwo1SIaD7r8YPNXITfWLBeg==;H2t517gFoeMWjBTJ4qmvLA=="
 ---

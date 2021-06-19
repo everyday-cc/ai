@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clinc launches Artificial Intelligence technology for Banks & Credit Unions"
-    excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is the foundation of the new products, with the vision to enable banks and credit unions to deliver a high-tech,"
-    publishedDateTime: 2021-06-15T22:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
   - title: "Cross River Launches Venture Capital Arm to Propel the Next Generation of Fintech Startups"
     excerpt: "Cross River Bank (\"Cross River\"), a technology-driven financial services organization that provides core infrastructure and embedded financial solutions, today announced Cross River Digital Ventures,"
     publishedDateTime: 2021-06-15T11:46:00Z
