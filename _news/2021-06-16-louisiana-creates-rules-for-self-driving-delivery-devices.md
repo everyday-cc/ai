@@ -66,6 +66,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Ford partners with Hermes for self-driving delivery programme"
+    excerpt: "Ford has announced a new Self-Driving Vehicle Research Programme to help businesses understand how autonomous vehicles can benefit them"
+    publishedDateTime: 2021-06-18T13:37:00Z
+    webUrl: "https://www.techdigest.tv/2021/06/ford-partners-with-hermes-for-self-driving-delivery-programme.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/HermesisfirstcustomertooperateFordresearchvehicle.jpg"
+        width: 2700
+        height: 1520
+        isCached: true
 
 secured: "6bZZDwjqa/FEpFAn6NXX7/WXmCMIzHLFT4fzcKUOi4TDHFfsyHduXc15ZhODwPwYMGcevmxGhzgLcMt6Ge1rL7QUckucUe8VAqEZn3OPBgKhdC/lnI5cYHvxPmd++cnOQEKXl8AnT0nNcpiVzeZydvpcbKJrFGl7CDWBQSAkduSr/GCI104ckFRlNEBPNlOF5LjCUZKY/Fnd1jnnhJmD7JdU4tAISaPQps7anjgKr6afl5osqT9z+RIm9fhdPqZdCjZqmsTLWtLafMVZp44SMqoU+3zslNWnn3IGHMSQdJETQan3kotghXWYo6OUfwOJYIBECDAqbj/SRNjgSw118M6vjolhYq1Ef/0HiDFfpdY=;yF0FOLcqBEvJ7BQIwxzHBA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valua
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/"
 type: article
 quality: 185
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Iterable raises $200M at $2B valuation for its AI-powered marketing platform"
-    excerpt: "Iterable Inc., a startup that uses artificial intelligence to improve the effectiveness of enterprises’ marketing campaigns, has raised a $200 million funding round at a $2 billion valuation from a group of prominent investors."
-    publishedDateTime: 2021-06-15T19:29:00Z
-    webUrl: "https://siliconangle.com/2021/06/15/iterable-raises-200m-2b-valuation-ai-powered-marketing-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/iterable.png"
-        width: 932
-        height: 521
         isCached: true
 
 secured: "f00/YYZ3Imvdrq+IBhmYlkHKYrgA/FZy/kopvR02G/fBBusDWJN8uHWeH1xPqhRMfRFCECjcI1QHR85VyqKsoCai6/jiIfcFqux9wBoCS5tb83ynCffCKiHm4HVwLfeUcJA61rkIA/mk8iW9RRROwAQ2pnArzS4ms7C/RBRt5U3tqdMUHxkmvC6g4NWbbVuviFSj2+2Wqt9ydykersQHCT/3rEOPLAfDrGBnMv/Eo7Reh4+CTZBcgVGqV36Hu1Htyzpcjtpd3U1PMhbiiv7RemoxnNNnmflfS/sxajqNUJhPBe4RT0ouUU1E6QnylCOAb7kWZrjefOHSHt4qGpEmri+efKexozRawj5ZM4XR0+sWz9wfi8k5ohtJzLDqtlq8LpVYFcvYlEs3AUfeshCZJbBtz086SbCHmsoaL6UQMOnuEvFbYBvSRTcZgkp3zBbQAu0mLoT6cG9hKomysUmpUunK+zJcB8hojoGSoUs+qLtSo56K5ELifxQyKi3pWbPondXK/FOE8jktdgcfUfWm0vauN66RjlL30Hr8hwW2Bjc=;/4J2px5jWpBAXsSputJ1Lw=="

@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-17-voice-control-is-now-table-stakes-for-consumer-electronics.md",
-      "title": "Voice Control Is Now Table Stakes For Consumer Electronics",
-      "excerpt": "Voice control as an embedded feature is no longer a surprise — it has become table stakes to play at the top of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
-      "publishedDateTime": "2021-06-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-importance-of-data-governance-and-mlops-when-using-machine-learning-to-drive-successful-business-outcomes.md",
       "title": "Importance Of Data, Governance And MLOps When Using Machine Learning To Drive Successful Business Outcomes",
       "excerpt": "As consumer expectations grow for more personalized, relevant, and assistive experiences, Machine Learning (ML) is becoming an invaluable tool to meet those demands.",
@@ -363,7 +311,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/other/baidu-pushes-to-put-driverless-taxis-on-chinas-roads-pledging-to-build-1000-in-3-years/ar-AAL8cLn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -656,7 +604,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1231,6 +1179,48 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-facebooks-ai-moderator-will-tell-group-admins-when-users-are-beefing-in-the-comments.md",
+      "title": "Facebook’s AI moderator will tell group admins when users are beefing in the comments",
+      "excerpt": "Facebook is launching a suite of new tools to help group admins get a grip on their communities. Some simply offer a clearer overview of posts and members, while others are designed to help admins tackle conflict — including an AI-powered feature that Facebook says can identify “contentious or unhealthy conversations” taking place in the comments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-e2-80-99s-ai-moderator-will-tell-group-admins-when-users-are-beefing-in-the-comments/ar-AAL71XO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_1z-fkl00kxNZgBGxSWX4S8mK-s=/5x66:2700x1760/1400x933/filters:focal(1104x771:1536x1203):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69460942/facebook_conflict_alerts.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+      "publishedDateTime": "2021-06-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+        "domain": "theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

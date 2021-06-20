@@ -41,6 +41,20 @@ related:
         width: 1300
         height: 866
         isCached: true
+  - title: "Why we still don't have self-driving cars on the roads in 2021"
+    excerpt: "Do you remember the time when self-driving cars were upon us? It was almost a decade ago when the Autonomous Vehicle division at Google (now Waymo) promised a world where people would be chauffeured around by"
+    publishedDateTime: 2021-06-20T12:24:00Z
+    webUrl: "https://www.econotimes.com/Why-we-still-dont-have-self-driving-cars-on-the-roads-in-2021-1610973"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 24
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021061792d9f61ec78848106_th_1024x0.jpg"
+        width: 496
+        height: 330
+        isCached: true
 
 secured: "a7g9H1ADZE46i83yUzjcgUc1iNdjwiY0qwBOH1V4wrc799erDO/yHndFpe3kqXQBx5tN2kutbYMZM2bSmZB65hgqENlXluSnP+evuzF5gr4M7qdKiF8pp8wTZhOWvt2ATFJ+ZVbExaahuMm+bkIqij+u3F6eItmaTvAvxIbMX8rMKwwxnT9nnFA33bZ+TRmriJeT4Iw6JyTePN+iybfIeboCpFel9mq4j65G8AD9nPW9jxX6GEP2y7u+56EN9aK97b+pHqJEEA9nHOA3xSUydViL2tOLz8oGlbPcJGajEMED6QsRZe1yXxrBfFdT2kJj9IaGFqqTFL9AlaSr3Rsq5tgKg5BnJXOn1n6kc1Qp0440eIp48v57oqVi9gEZILTXR+4A+94ZTyU1Ht4OOXo2twcOcVy1WIC44U7w1dq1G8mGemmn/EqONZi+48PyS0jxBLd/lED3I0mygh7WqBw9faT6J3BcDmekfBF8vJLdki3e+m6FNuEDv2MeM8jsYaRzCzY9puAZ+/x7Jd2uGk5teg==;td4oayq0CrsCzy0rmpJQ+g=="
 ---

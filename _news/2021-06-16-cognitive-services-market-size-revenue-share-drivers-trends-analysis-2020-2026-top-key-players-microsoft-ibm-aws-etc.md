@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-marke
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -71,17 +71,6 @@ related:
         width: 800
         height: 457
         isCached: true
-  - title: "Call Center AI Market May See a Big Move | Major Giants| IBM ,Google ,Microsoft Oracle ,SAP,AWS ,Nuance Communications"
-    excerpt: "The increasing service sector and e commerce technological developments in cloud computing and a growing emphasis on customer centric services are the key factors expected to grow the call center AI market utmost for the forecasted period According to Canam"
-    publishedDateTime: 2021-06-15T19:58:00Z
-    webUrl: "https://www.openpr.com/news/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
-    ampWebUrl: "https://www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306012/call-center-ai-market-may-see-a-big-move-major-giants-ibm-google"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
   - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
     publishedDateTime: 2021-06-16T09:37:00Z

@@ -41,22 +41,6 @@ related:
         width: 5184
         height: 3456
         isCached: true
-  - title: "Chinese startup Pony.ai plans to launch a driverless robotaxi service in California in 2022"
-    excerpt: "Pony.ai, the robotaxi startup that operates in China and the United States, has started testing driverless vehicles on public roads in California ahead of plans to launch a commercial service there in 2022."
-    publishedDateTime: 2021-06-15T19:46:00Z
-    webUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/"
-    ampWebUrl: "https://techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/chinese-startup-pony-ai-plans-to-launch-a-driverless-robotaxi-service-in-california-in-2022/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 94
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-15-at-12.26.33-PM.png?w=1024"
-        width: 1024
-        height: 509
-        isCached: true
   - title: "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022"
     excerpt: "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022."
     publishedDateTime: 2021-06-17T08:52:00Z

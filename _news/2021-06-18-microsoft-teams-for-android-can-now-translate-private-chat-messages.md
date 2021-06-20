@@ -70,15 +70,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
-    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
-    publishedDateTime: 2021-06-15T21:00:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Microsoft launches new West US 3 Azure region in Arizona"
     excerpt: "Microsoft has launched a new Azure cloud data center region in Arizona. As with other regions, West US 3 is made up of at least three separate facilities known as Availability Zones. The region has data centers located in the cities of Goodyear and El Mirage,"
     publishedDateTime: 2021-06-16T09:46:00Z

@@ -66,6 +66,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Ford partners with Hermes for self-driving delivery programme"
+    excerpt: "Ford has announced a new Self-Driving Vehicle Research Programme to help businesses understand how autonomous vehicles can benefit them"
+    publishedDateTime: 2021-06-18T13:37:00Z
+    webUrl: "https://www.techdigest.tv/2021/06/ford-partners-with-hermes-for-self-driving-delivery-programme.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 24
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/HermesisfirstcustomertooperateFordresearchvehicle.jpg"
+        width: 2700
+        height: 1520
+        isCached: true
 
 secured: "vv9ezoXCo8pfUryqfL+HI80jW2BwgzltjOqQw1t/2PKcWVAQj+nhtaPC1QEUzb4lIAY5ZXX+X3NpaUkuNue7mjfnOFmucs+dYXy8G8uZSJfu9CiHEFgT/xjC+DcGUWjPqH3/y20cXPyEMyDA8Rol8ZmbH8qnb/iGnBoQEbTW/gZkL95vYi21Q8Nzw8cL6WlQshQUXnYGYVyh6zZDThd2+GlBQjwFrcVzohp7zR7oo7+IT66dPR8ZrR1mAtXgKs9KGiGW98COsdTtdNsDfA0bIwmxX0ICHX9xa27s9tenVcZRjML6Sun2+8Xpa8Thp1jqHHuVux4yHRbYM9GlOKCafutFUo1ZWO6HMFnZtIzao4A=;TthVAT+xUuCNbbv9cmgHxw=="
 ---

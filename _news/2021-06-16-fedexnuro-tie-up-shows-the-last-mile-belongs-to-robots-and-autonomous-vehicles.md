@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robot
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,107 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "FedEx and Nuro launch pilot program to test self-driving delivery vehicle"
-    excerpt: "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a"
-    publishedDateTime: 2021-06-15T20:34:00Z
-    webUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/"
-    ampWebUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 73
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg"
-        width: 1440
-        height: 849
-        isCached: true
-  - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
-    excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
-    publishedDateTime: 2021-06-15T21:37:00Z
-    webUrl: "https://abc13.com/technology/self-driving-robots-booting-up-to-deliver-fedex-packages-in-houston/10794117/"
-    ampWebUrl: "https://abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10794127_061521-ktrk-nuro-fedex-self-driving-delivery-irios-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Your next FedEx package may arrive courtesy self-driving vehicles"
-    excerpt: "FedEx Corp has partnered with robotics company Nuro. Fedex and Nuro will test self-drive vehicles for package delivery..Self-drive vehicles could be cost-effective and allow for late-night pickups from far flunk places."
-    publishedDateTime: 2021-06-16T03:30:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles-41623814027056.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/16/600x338/Fedex_1623814103431_1623814109937.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
-    excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
-    publishedDateTime: 2021-06-15T21:04:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/fedex-nuro-last-mile-logistics-autonomous-vehicle-delivery-self-driving-285410/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2021/06/FedExNuro.jpg?fit=1000%2C666&quality=98&ssl=1"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "FedEx Tests Self-Driving Deliveries With Start-Up Nuro"
-    excerpt: "\"Instead of dispatching a driver to get those packages,\" she explained, \"a device like Nuro could be super helpful.\" The company’s unmanned vehicles are already making deliveries in the Houston area for grocery chain Kroger and Domino’s Pizza."
-    publishedDateTime: 2021-06-16T20:31:00Z
-    webUrl: "https://www.chron.com/business/article/FedEx-Tests-Self-Driving-Deliveries-With-Start-Up-16252442.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/47/10/21131781/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Ford partners with Hermes for self-driving delivery programme"
-    excerpt: "Ford has announced a new Self-Driving Vehicle Research Programme to help businesses understand how autonomous vehicles can benefit them"
-    publishedDateTime: 2021-06-18T13:37:00Z
-    webUrl: "https://www.techdigest.tv/2021/06/ford-partners-with-hermes-for-self-driving-delivery-programme.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 24
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/HermesisfirstcustomertooperateFordresearchvehicle.jpg"
-        width: 2700
-        height: 1520
-        isCached: true
-  - title: "FedEx begins trials for self-driving deliveries with Nuro"
-    excerpt: "FedEx Corp. and Nuro have established a multi-year, multi-phase agreement to test autonomous deliveries for parcels. The collaboration began with a pilot program in Houston and a new pilot will expand the operation into parcel logistics and allows for FedEx to explore other use cases for on-road autonomous vehicle logistics."
-    publishedDateTime: 2021-06-17T12:43:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16842/fedex-begins-trials-for-self-driving-deliveries-with-nuro"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "XkqWEgs2IKC3YttWIEkQUtstpxyiZIhKXTLTXhkZ/ylXnvPWEa3QFbp7CBs/42slHbeD5z0jMVt/rLSdWpdypHk1h9tldK7paVR4bEkaLFA6ClSukgn20FP+LbYgeMEO9OUfCUSoD16Gy5FgXhzout3v7Mx1lLd2Jvsykh9Ya0ofWBE+XQ9FX40/b2Ha0c6DFtduH63H4DOZmvNU+T7x2grhtY0vH4KBIlk1m+Cqwb46AdXnsBL7BWPIBfQJ9oKWv+cIWm/ttTU95Dcx4AFZn+C+gi0MInbBRa7PUO17TpUdfBLNXLiDuhwAWIkfS2WIivO061dPycKin1WEaELveFxu4OqoJ04fWvAM8N0wCrfd6NF/5asdHXzwcu1o0vEmGgjrxpGabpUGJizdQoyt1sE/jB+Vx+BppeDMxcUfwctWkb2ygt7igU04kUs1se48tt/rYhJ8HYE2qa1BOeEVU8kdpwseFZGsIJQp4tK0Y/T4cSwmnBFIoTlye4l4mvr+IFA9vZcLK/EXb4BTI1KAnQ==;RWVUQPzUgNEIgeikEqH5MQ=="
 ---

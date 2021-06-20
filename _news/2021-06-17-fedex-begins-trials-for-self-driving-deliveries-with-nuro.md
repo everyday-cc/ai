@@ -19,37 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "FedEx and Nuro launch pilot program to test self-driving delivery vehicle"
-    excerpt: "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a"
-    publishedDateTime: 2021-06-15T20:34:00Z
-    webUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/"
-    ampWebUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
+  - title: "FedEx partners with AI robotics company on last-mile delivery"
+    excerpt: "Both FedEx and Nuro will explore use cases for on-road autonomous same-day delivery services across the Houston area."
+    publishedDateTime: 2021-06-16T13:59:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 73
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 69
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg"
-        width: 1440
-        height: 849
-        isCached: true
-  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
-    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
-    publishedDateTime: 2021-06-15T21:23:00Z
-    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
-    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 55
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
-        width: 457
-        height: 274
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/06/16x9/FedEx_Nuro_AI.60c915ebe6bb5.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
     excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
@@ -66,22 +48,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10794127_061521-ktrk-nuro-fedex-self-driving-delivery-irios-vid.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Your next FedEx package may arrive courtesy self-driving vehicles"
-    excerpt: "FedEx Corp has partnered with robotics company Nuro. Fedex and Nuro will test self-drive vehicles for package delivery..Self-drive vehicles could be cost-effective and allow for late-night pickups from far flunk places."
-    publishedDateTime: 2021-06-16T03:30:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles-41623814027056.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/16/600x338/Fedex_1623814103431_1623814109937.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
     excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
@@ -110,20 +76,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/47/10/21131781/3/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Ford partners with Hermes for self-driving delivery programme"
-    excerpt: "Ford has announced a new Self-Driving Vehicle Research Programme to help businesses understand how autonomous vehicles can benefit them"
-    publishedDateTime: 2021-06-18T13:37:00Z
-    webUrl: "https://www.techdigest.tv/2021/06/ford-partners-with-hermes-for-self-driving-delivery-programme.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 24
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/HermesisfirstcustomertooperateFordresearchvehicle.jpg"
-        width: 2700
-        height: 1520
         isCached: true
 
 secured: "LxWAIHi4tpR+h11mzPqdiFEtpsDCbBwsk3PQbjj4Dy6PwIOL8KBWBS5kKZwHMkZkpV7+LUbmePXTswJTC5Hbf1btURRBRf81B5FDVrQKfhpZXgA8blliFTcIwRME2d14EYzwGvEGHByjhsHpRtShA548/k8c/FfJg9sVu+9EpPjQeFZ+aRi1DPL86OFCMvNAailrzMM4IZJv4hz8WjgjkKcsfbN4+BA91xWSN/zj897EulcmkOgYN+Ez6JZ7msnhXkCBdZHVUmjTmLbXhYcqCzyeYPuyvx2RTiWfNy6CYDsW4+xfyvI1KHCQgjrzIF6jlq6Y7mfIFo38IqSGSlwPH9nHl5/1tAIok1P3vAqWgqULHfcnexvX48P8a5QHLMZmy4ra4KABI/PkFYW8/BXsntItO02g65Y1b8D5Pv3XJuYsWMPsfYdPuSH57DWeRCtNr/EOn4B/S3eC7jYQE/MX/Fb65W8yttNDihnsXoy8rEAVtw5FJ6AQzH9yUXBoyd9OH0xl42TfNTdAmzc3URnfYg==;HJQQJB1EDM7DpV+2avdAjA=="

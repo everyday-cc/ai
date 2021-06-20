@@ -25,107 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "FedEx and Nuro launch pilot program to test self-driving delivery vehicle"
-    excerpt: "FedEx has announced a new multi-year deal with self-driving technology company Nuro to test its autonomous delivery vehicle under a pilot program. According to FedEx, the arrangement includes a"
-    publishedDateTime: 2021-06-15T20:34:00Z
-    webUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/"
-    ampWebUrl: "https://www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fedex-and-nuro-launch-pilot-program-to-test-self-driving-delivery-vehicle-15678407/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 73
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/nuro_fedex_main.jpg"
-        width: 1440
-        height: 849
-        isCached: true
-  - title: "FedEx/Nuro Tie-Up Shows The Last Mile Belongs To Robots And Autonomous Vehicles"
-    excerpt: "Nuro’s linkup with FedEx and separate long-haul driverless trucking initiatives show the efficiencies that can be wrought from logistics."
-    publishedDateTime: 2021-06-15T21:23:00Z
-    webUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/"
-    ampWebUrl: "https://www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/fedex-nuro-last-mile-robots-automation/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 55
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/FedEx-Nuro-Image-Approved-600x400-1-457x274.jpeg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
-    excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
-    publishedDateTime: 2021-06-15T21:37:00Z
-    webUrl: "https://abc13.com/technology/self-driving-robots-booting-up-to-deliver-fedex-packages-in-houston/10794117/"
-    ampWebUrl: "https://abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10794127_061521-ktrk-nuro-fedex-self-driving-delivery-irios-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Your next FedEx package may arrive courtesy self-driving vehicles"
-    excerpt: "FedEx Corp has partnered with robotics company Nuro. Fedex and Nuro will test self-drive vehicles for package delivery..Self-drive vehicles could be cost-effective and allow for late-night pickups from far flunk places."
-    publishedDateTime: 2021-06-16T03:30:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles-41623814027056.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/your-next-fedex-package-may-arrive-courtesy-self-driving-vehicles/amp-41623814027056.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/16/600x338/Fedex_1623814103431_1623814109937.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
-    excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
-    publishedDateTime: 2021-06-15T21:04:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/fedex-nuro-last-mile-logistics-autonomous-vehicle-delivery-self-driving-285410/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2021/06/FedExNuro.jpg?fit=1000%2C666&quality=98&ssl=1"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "FedEx Tests Self-Driving Deliveries With Start-Up Nuro"
-    excerpt: "\"Instead of dispatching a driver to get those packages,\" she explained, \"a device like Nuro could be super helpful.\" The company’s unmanned vehicles are already making deliveries in the Houston area for grocery chain Kroger and Domino’s Pizza."
-    publishedDateTime: 2021-06-16T20:31:00Z
-    webUrl: "https://www.chron.com/business/article/FedEx-Tests-Self-Driving-Deliveries-With-Start-Up-16252442.php"
+  - title: "Louisiana creates rules for self-driving delivery devices"
+    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards. The new personal delivery device law sponsored by Republican Sen."
+    publishedDateTime: 2021-06-16T16:52:00Z
+    webUrl: "https://www.chron.com/news/article/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 24
+    quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/20/47/10/21131781/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "FedEx begins trials for self-driving deliveries with Nuro"
-    excerpt: "FedEx Corp. and Nuro have established a multi-year, multi-phase agreement to test autonomous deliveries for parcels. The collaboration began with a pilot program in Houston and a new pilot will expand the operation into parcel logistics and allows for FedEx to explore other use cases for on-road autonomous vehicle logistics."
-    publishedDateTime: 2021-06-17T12:43:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16842/fedex-begins-trials-for-self-driving-deliveries-with-nuro"
+  - title: "Louisiana creates rules for self-driving delivery robots"
+    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards."
+    publishedDateTime: 2021-06-16T19:36:00Z
+    webUrl: "https://www.theadvocate.com/baton_rouge/news/politics/legislature/article_238cd3fe-ceda-11eb-8bba-2b68fe4563e6.html"
+    ampWebUrl: "https://www.theadvocate.com/baton_rouge/news/politics/legislature/article_238cd3fe-ceda-11eb-8bba-2b68fe4563e6.amp.html"
+    cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/politics/legislature/article_238cd3fe-ceda-11eb-8bba-2b68fe4563e6.amp.html"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: The Advocate
+      domain: theadvocate.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/85/d85b5fd3-2513-5a7a-9db5-d4be5e554c1e/58542aed3d30e.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Louisiana Creates Rules for Self-Driving Delivery Devices"
+    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state’s streets."
+    publishedDateTime: 2021-06-16T17:47:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-06-16/louisiana-creates-rules-for-self-driving-delivery-devices"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Louisiana enacts regulations for self-driving delivery robots"
+    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards."
+    publishedDateTime: 2021-06-17T07:36:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jun/17/louisiana-enacts-regulations-for-self-driving/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "VwIVptRVMhSto5Vl0/vpxAihvL0nwsLrC562egKBv4b0eAdwqjTeC9CNX2rIhPUjunWz3XNozrAVrOGYPRR3SDj/9PHoEPYmb3lDd8xJw1G8Nno0sA4OGXwiCL8rEyLH0F/ZWyzX9qcHGOhKuHhN7Swxwe+H6WATVr5XI+1bFKD8r0b+voMgTshqx8oM9N65NK/CyNchyltJDlZnwp6rrdv8hnFRD1z8QnpDimb4/KRTm6xWAJNlMlLfy7mG9a/XWH+kNMcl681vqaWFDn9XKlt1C94Js8JKMF6SO275D6cDPstjPR/xOnMSmnrNmEVvqIKAsiEc/gFhAB+oKXPVXC7WYyNuCtfNCuSwox1Eau36ZkccZsmprjiA8mahueaeQPAfh57blmDT6DL6B6qOnFUWCqnfs7pql44UfZdYqyIHTuDlGE7fMfz499Jc//Wz5dBr6H/J/K8LTLr5N93Ml1oBTgs+p0mXjAdfLyQto82a1BuFpQV2F4lij89xwHm1hHjwvA5lqGy8HntEJgGUjw==;UDTsg4B6+Om6djvkl3NRig=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2307901/theum-now-available-in-the-micros
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Here's how AWS, Google Cloud, IBM, and Microsoft Azure are pitching themselves to finance firms in their fight to win Wall Street's business"
-    excerpt: "A S&P director of cloud research highlights how AWS, Google Cloud, IBM, and Microsoft's go-to-market strategies lure different players on Wall Street."
-    publishedDateTime: 2021-06-15T21:00:00Z
-    webUrl: "https://www.businessinsider.com/aws-google-cloud-ibm-microsoft-public-cloud-strengths-wall-street-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Microsoft Teams for Android can now translate private chat messages"
     excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
     publishedDateTime: 2021-06-18T15:38:00Z
