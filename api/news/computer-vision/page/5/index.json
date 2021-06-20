@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-06-king-county-council-puts-off-vote-on-proposal-to-ban-facial-recognition-technology.md",
+      "title": "King County Council puts off vote on proposal to ban facial recognition technology",
+      "excerpt": "After a divisive hearing, the King County Council decided not to vote on a proposal to ban government use of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
+      "originalUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2021/04/Untitled-design-81.jpg",
+          "width": 620,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
+      "publishedDateTime": "2021-05-06T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling-precise-navigation-in-key-procedures.md",
+      "title": "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures",
+      "excerpt": "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool’s fully automated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/d7/cd7a7506-6103-5b10-b542-d002191ea550/6093ec853bf87.image.jpg?resize=702%2C630",
+          "width": 702,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-facial-recognition-as-a-legislative-issue.md",
       "title": "Facial Recognition as a Legislative Issue",
       "excerpt": "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",

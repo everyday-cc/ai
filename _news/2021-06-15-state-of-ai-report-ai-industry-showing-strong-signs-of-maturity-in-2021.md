@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-sh
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png"
         width: 1043
         height: 652
-        isCached: true
-  - title: "Google Cloud Reports How Manufacturing Industry Can Accelerate Use Of AI"
-    excerpt: "Google Cloud’s latest report reveals how the manufacturing industry can accelerate use of AI. Artificial intelligence (AI) has changed the course of innovation. And at the forefront of technological advancements is Google."
-    publishedDateTime: 2021-06-15T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-cloud-reports-how-manufacturing-industry-can-accelerate-use-of-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Google-cloud.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Appen’s 2021 State of AI Report Finds Budgets Up"
     excerpt: "State of AI Report Finds Budgets Up. Survey finds decisions moving away from silver bullet solutions to improvements to internal operations. ; Note: TD"

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Supply Chain Market Forecast 2026"
-    excerpt: "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a"
-    publishedDateTime: 2021-06-15T09:38:00Z
-    webUrl: "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/6/U615488872_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Europe AI in Computer Vision Market"
     excerpt: "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from"
     publishedDateTime: 2021-06-16T04:54:00Z
@@ -50,24 +34,36 @@ related:
         width: 439
         height: 310
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
-    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
-    publishedDateTime: 2021-06-16T10:15:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+  - title: "Vodafone and AWS Wavelength launch edge computing in Europe-wide first"
+    excerpt: "Wavelength on the Vodafone 4G and 5G networks delivers ultra-low latency capabilities to UK business customers and software developers."
+    publishedDateTime: 2021-06-16T15:00:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 28
-  - title: "AI in Drug Discovery Market Value Projected To Surge Remarkably At Double Digit CAGR During 2020–2026"
-    excerpt: "The latest report by FNF Research (fnfresearch.com) with COVID19 Impact on ” AI in Drug Discovery Market Report Analysis 2020 by Size with Future Prospects, Key Player SWOT Analysis and Forecast To 2026 “ offers detailed coverage of the industry and main market trends with historical and forecast market data,"
-    publishedDateTime: 2021-06-15T09:47:00Z
-    webUrl: "https://ksusentinel.com/2021/06/15/ai-in-drug-discovery-market-value-projected-to-surge-remarkably-at-double-digit-cagr-during-2020-2026/"
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "€8m project for Europe's first RISC-V supercomputer chip"
+    excerpt: "A European project is developing a high performance RISC-V processor for supercomputer designs and derivatives for automotive and edge IoT."
+    publishedDateTime: 2021-06-18T14:41:00Z
+    webUrl: "https://www.eenewseurope.com/news/eu8m-project-europes-first-risc-v-supercomputer-chip"
     type: article
     provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 2
+      name: eeNews Europe
+      domain: eenewseurope.com
+    quality: 39
+    images:
+      - url: "https://eenews.cdnartwhere.eu/sites/default/files/styles/facebook/public/sites/default/files/images/eurohpc.png?itok=be3__4Wt"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "HgK0/no5XUKCum0202R5Q8pAuhyQIVO/nd4fNeJU8XUkZXsSbqhpfx8tfJCkjckq8z8m2ipHSg5xgGZswiPjp5QNBSpXZDvKHUYtjHzJPlF1V3qG87mDS0+edfcCK7A/3gDcoPcGYuXsEEker4EgeRLWEgfG2mWWPa3bibyPwQUN8CCWgwkCRu+0V1GtW1Ikz7uSdJ3w2f5/NaRYerdSetuiz//RaViA3mOfldhgUvcpBE2w8gJDvMy0xzB2QMmYIb+eJ0wQKITJLtdnfqYQsH966+udF69deLuH0fMyIdJhd1c9KrciuRHYQhXBdH9oE1cwKzuHZIXG9ZSJw8jeSGBYNgZPN4Q4f/TWtBxa8l8=;anoYiMB2RyYh1dBoAGHH/A=="
 ---

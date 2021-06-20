@@ -521,19 +521,19 @@
     {
       "path": "_news/2021-06-10-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
-      "excerpt": "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc (9888.HK), accelerate work on self-driving vehicle systems ...",
+      "excerpt": "\"at-above-post addthis_tool\" data-url=\" China/BEIJING (Reuters) – Chinese e-commerce leader Alibaba Group Holding Ltd plans to develop self-driving trucks with logistics subsidiary Cainiao, Chief Technology Officer Cheng Li said on Thursday.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/alibaba-develop-self-driving-trucks-with-logistics-unit-cainiao-2021-06-10/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/alibaba-develop-self-driving-trucks-with-logistics-unit-cainiao-2021-06-10/",
+      "webUrl": "https://www.metro.us/alibaba-to-develop-self-driving/",
+      "originalUrl": "https://www.metro.us/alibaba-to-develop-self-driving/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/Z5m3xamOgWzlXRXgis1rgSw-qig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VYP6LFKAZZLOBH7ANEWWEALBAY.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5903O-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -541,23 +541,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T21:05:00-07:00",
+      "ampWebUrl": "https://www.metro.us/alibaba-to-develop-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/alibaba-to-develop-self-driving/amp/",
+      "publishedDateTime": "2021-06-09T21:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
         "publishers": null,
         "authors": null
       },

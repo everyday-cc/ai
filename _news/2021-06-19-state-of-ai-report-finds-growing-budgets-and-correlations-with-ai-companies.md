@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 695
         isCached: true
-  - title: "Google Cloud Reports How Manufacturing Industry Can Accelerate Use Of AI"
-    excerpt: "Google Cloud’s latest report reveals how the manufacturing industry can accelerate use of AI. Artificial intelligence (AI) has changed the course of innovation. And at the forefront of technological advancements is Google."
-    publishedDateTime: 2021-06-15T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/google-cloud-reports-how-manufacturing-industry-can-accelerate-use-of-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Google-cloud.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Appen’s 2021 State of AI Report Finds Budgets Up"
     excerpt: "State of AI Report Finds Budgets Up. Survey finds decisions moving away from silver bullet solutions to improvements to internal operations. ; Note: TD"
     publishedDateTime: 2021-06-15T13:25:00Z

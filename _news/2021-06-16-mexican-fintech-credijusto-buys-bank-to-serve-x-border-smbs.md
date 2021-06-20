@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credij
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mexican fintech Clip raises $250 million"
-    excerpt: "Clip, Mexico's leading digital payments and commerce platform, today announced it has received a U.S. $250 million capital investment led by the SoftBank Latin America Fund and Viking Global Investors LP."
-    publishedDateTime: 2021-06-15T09:18:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88083/mexican-fintech-clip-raises-250-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "FinTech Novo Grabs $40.7 Million To Fuel Growth"
     excerpt: "Novo, a financial technology company, has pulled in $40.7 million in funding. The FinTech focuses on digital banking for small- to medium-sized business (SMBs)."
     publishedDateTime: 2021-06-16T14:57:00Z

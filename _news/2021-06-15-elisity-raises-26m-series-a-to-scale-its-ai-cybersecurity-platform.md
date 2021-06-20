@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-sca
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: TechCrunch
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity"
-    excerpt: "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology."
-    publishedDateTime: 2021-06-15T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400"
+  - title: "Zero trust networking startup Elisity raises $26M"
+    excerpt: "Elisity, an AI-powered zero trust networking startup, has raised $26 million in a venture capital equity round."
+    publishedDateTime: 2021-06-15T12:30:00Z
+    webUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/"
+    ampWebUrl: "https://venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/zero-trust-networking-startup-elisity-raises-26m/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 184
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-353929/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
     excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."

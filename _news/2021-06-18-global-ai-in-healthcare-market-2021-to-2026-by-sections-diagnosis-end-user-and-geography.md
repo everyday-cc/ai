@@ -51,6 +51,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
+  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
+    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
+    publishedDateTime: 2021-06-16T10:15:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 28
   - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
     excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."
     publishedDateTime: 2021-06-16T01:44:00Z

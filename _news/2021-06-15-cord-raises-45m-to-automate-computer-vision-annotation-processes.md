@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-comp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "nSure.ai Raises $6.8M to Intro Advanced Fraud Prevention"
-    excerpt: "Sure.ai, a predictive AI fraud protection company on Monday announced a successful seed fundraising round of $6.8 million."
-    publishedDateTime: 2021-06-15T09:18:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/19990-nsure-ai-raises-6-8m-to-intro-advanced-fraud-prevention"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/26a3183946d0e173ab35620150f2a05e.jpg?t=20210615_022720"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "LTX4GR/urafduXzqavTLpMB/S+SJxJGCCe69hgjmhtlmIhnSwEmmSI60wIbihvCNmBZX1h27W8rLY+wDbXe650yRtE4NJueI80v1vzlxU39Mz3YY6jWi/HSa+dJTE8bgb/Ia08T0D6vnRmBgTEZSlHHo1Y6Ifj7SzGfDOAxA5iiB/O/Mupy7KX/4gd0v9eD1rG/OIiGJSE4HSDR+WrMz6C+nfvEdihI71hP6FaxShqwinC4K4nvfnoNA6RwVAvqVBdYc6XQIot2uHmksPYo1Ol7t5x+lpFpnrqLkiEb6VCBipBHzdpnV5lnqbzRJg+EgdFY3oWEhhxN08VRwbOTuGQZTTgD6559dyb/t1vUUfVs+CIDk4Mw9G5+6hC8+38B02g0eP9W1t48TK4zTzA6dO5ULN6sw3WrUlW+slAIOiz3d3yPuIh9UJtxrq24BMBUOoDDIXGMMpL1Kz6Itto9WBmnAzwOvJjw7TfK7TVl+d5rzXt87gJ8S8DrwPQwIzOvPjiTcszpilrvK383KMckNag==;s1kb1Z1cKQo3O/Shduwr9w=="
 ---

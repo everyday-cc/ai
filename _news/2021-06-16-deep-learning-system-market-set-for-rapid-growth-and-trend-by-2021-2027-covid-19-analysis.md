@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
+    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
+    publishedDateTime: 2021-06-16T10:15:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 28
   - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
     excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
     publishedDateTime: 2021-06-17T11:59:00Z

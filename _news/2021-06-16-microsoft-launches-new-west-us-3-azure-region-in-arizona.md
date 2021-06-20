@@ -55,20 +55,6 @@ related:
         width: 1080
         height: 568
         isCached: true
-  - title: "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Ardenna ( a leader in image processing and machine learning software that automatically extracts objective and quantitative data from industrial inspection imagery, today"
-    publishedDateTime: 2021-06-15T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace/article_fa3bfd81-54c1-52d6-86b5-1beb0a8cbdba.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 69
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/ef/3ef0fed9-354a-58e6-b1b2-94d7f3cd9d27/60c88890657c0.image.jpg?resize=1118%2C630"
-        width: 1118
-        height: 630
-        isCached: true
   - title: "Tigera’s Calico Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Tigera’s Calico Cloud to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2021-06-16T16:00:00Z

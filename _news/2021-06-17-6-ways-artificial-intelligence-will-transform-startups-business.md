@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/20474/6-ways-artificial-intel
 webUrl: "https://www.finextra.com/blogposting/20474/6-ways-artificial-intelligence-will-transform-startups-business"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 500
     height: 267
     isCached: true
-
-related:
-  - title: "Using AI Will Always Require a Human Touch"
-    excerpt: "In fact, research has shown that 56% of executives globally have slowed down their AI adoptions because of such fears. These concerns have given rise to the concept of Responsible AI (RAI). It refers to the way organisations use AI technologies,"
-    publishedDateTime: 2021-06-15T09:30:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/06/using-ai-will-always-require-a-human-touch/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/06/using-ai-will-always-require-a-human-touch/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/06/using-ai-will-always-require-a-human-touch/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 57
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
-        width: 800
-        height: 527
-        isCached: true
 
 secured: "Cmk76SqOwPb3z71Hc5WQ9mPHnoarlyR8YbMOmE5++M/Y3odVKIjkzS8a42M83ekpMVTedCbcvNM/wymzBPeyTc1A09usHyZZsTgTPMa/uDhhnjl/RgV6o+jFmeXjC+Hlzhqd/OTkkUmaF5FfSV/UxxqJRRlc84VNKL3tJO3ZLrFPg0IKkpuhpWc9xiHu9UBKPwC29NdafviboODjLIHs9GPIPDiHGzGpR2OpBTLgkKegGk7H6XPtLOKeeV5TUIJzVN/aLAxWJgIDmVF2S+5qn1b+vFEZLN754QEICpA+QBTMi/911Hg1NzJbYwfpf9vjO5hX4//ouJHRFjMqHqr+HxuAnCMcFKUnApHvT/0rZeU=;bW+iCJbfGp2PdRjaww8m5g=="
 ---
