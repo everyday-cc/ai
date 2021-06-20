@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "London’s debt collection startup Ophelos raises $2.3 million in pre-seed investment"
-    excerpt: "London-based debt collection startup Ophelos has raised $2.3 million in pre-seed investment co-led by Connect Ventures and Fly Ventures. The company reports that the pre-seed investment will be used to continue building out its debt management platform,"
-    publishedDateTime: 2021-06-15T09:00:00Z
-    webUrl: "https://tech.eu/brief/londons-debt-collection-startup-ophelos-raises-2-3-million-in-pre-seed-investment/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 31
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/06/debt-1.jpg"
-        width: 1600
-        height: 700
-        isCached: true
 
 secured: "/DFTRurL5Kqvd7PZ/T91llo/w0jmEghDQvIO6sNhV7hLNTOhnnY3p1RAXfYHm59uVWe1aUonLCIjXktRpVOzC96ENwHC8N9973ri4yUKjrQlip7Hhh9lZkC5CsLHNVuJujW2dF+17XVER4rpkJ6wakSJ6OZwfP+XvFQwj4xfgLJlF6DlXSYSMhan59kpskdIZfnUFGfv6sQuyPYfLx5Rq48ETxxNCIn/YrrSmqUEv0UNBljUPATc/R9DRf83sype07L+/soMKsMHhNb4VXJtafWVDUT/Fj6Vfpdtp9BP6Nb5rUFb+UsCnXMl2cqxodWM25M7O4hD/coiDY3d62OnIMeJTJn4d5b4C8/ftCneMx87veTKaxT4dfQ9RK99jWraBJh/dIN0LZZtfCiiEU3hzsnNUGjFgI1HcjC66zJFeHwswEfLIVvxnjcsYiYisbGLXACQRmIzIowsyvJdmXbK+EzgoWMgc907iEw80b7qO+pJPNgI67y1Yo/JZnSmu8D0jM/x818yEFRbcPjvtDqPzQ==;1MIdmhHgm3vrKiuBHD/tuQ=="
 ---

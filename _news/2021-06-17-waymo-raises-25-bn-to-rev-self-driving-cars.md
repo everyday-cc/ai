@@ -121,6 +121,22 @@ related:
         width: 1271
         height: 841
         isCached: true
+  - title: "Waymo raises $2.5bn to rev self-driving cars"
+    excerpt: "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ..."
+    publishedDateTime: 2021-06-18T10:20:00Z
+    webUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127"
+    ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
+    cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
+    type: article
+    provider:
+      name: Times of Malta
+      domain: timesofmalta.com
+    quality: 74
+    images:
+      - url: "https://cdn-attachments.timesofmalta.com/ef73d90ddf20e302a1043ec768a0bfc9d1202f14-1623937564-3b6b289e-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alphabet's Waymo Raises $2.5 Billion in First Fresh Funding in a Year"
     excerpt: "The funding led by Alphabet and other existing shareholders is the second outside funding for Waymo, which last year raised $3.25 billion in its first external investment round since its inception 2009."
     publishedDateTime: 2021-06-16T17:40:00Z

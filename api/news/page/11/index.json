@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-10-eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance.md",
+      "title": "EleutherAI claims new NLP model approaches GPT-3-level performance",
+      "excerpt": "EleutherAI, a group of data scientists working to open source AI research, have released a language model that achieves leading performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/eleutherai-claims-new-nlp-model-approaches-gpt-3-level-performance/amp/",
+      "publishedDateTime": "2021-06-09T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-google-cloud-covid-19-accelerates-ai-use-by-manufacturers.md",
       "title": "Google Cloud: COVID-19 accelerates AI use by manufacturers",
       "excerpt": "According to new research from Google Cloud, manufacturers around the globe have accelerated their use of digital technologies due to the COVID-19 pandemic. Of the 1,154 senior manufacturing executives polled for the report,",
@@ -1134,50 +1186,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
-      "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
-      "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "publishedDateTime": "2021-06-09T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

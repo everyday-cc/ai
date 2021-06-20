@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-05-13-optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics.md",
+      "title": "Optimal Dynamics nabs $22M for AI-powered freight logistics",
+      "excerpt": "Optimal Dynamics, an AI- and machine learning-powered logistics platform, raised $22 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/untitled-design21.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/optimal-dynamics-nabs-22m-for-ai-powered-freight-logistics/amp/",
+      "publishedDateTime": "2021-05-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-the-doctor-is-in-three-predictions-for-the-future-of-ai-in-healthcare.md",
       "title": "The Doctor Is In: Three Predictions For The Future Of AI In Healthcare",
       "excerpt": "They say necessity is the mother of invention — and the last year is Exhibit A. Amid the turbulence of the pandemic, we’ve seen impressive innovation across the board — but perhaps nowhere has this innovation been more pronounced than in the healthcare industry.",
@@ -1149,49 +1200,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-sparkcognition-government-systems-and-intrinsic-awarded-united-states-air-force-contract-to-improve-training-program-using-ai.md",
-      "title": "SparkCognition Government Systems and Intrinsic Awarded United States Air Force Contract to Improve Training Program Using AI",
-      "excerpt": "SparkCognition Government Systems (SGS), the first full-spectrum artificial intelligence (AI) company devoted entirely to government and national defense, is pleased to announce that along with Intrinsic Enterprises Inc,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/united-states-business-technology-0693d6e15344b2660cfdcc8bc7082b2f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/united-states-business-technology-0693d6e15344b2660cfdcc8bc7082b2f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

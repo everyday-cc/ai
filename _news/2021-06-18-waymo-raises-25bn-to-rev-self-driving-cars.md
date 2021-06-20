@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
-publishedDateTime: 2021-06-16T16:40:00Z
-originalUrl: "https://www.chron.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-webUrl: "https://www.chron.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-ampWebUrl: "https://www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+title: "Waymo raises $2.5bn to rev self-driving cars"
+excerpt: "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ..."
+publishedDateTime: 2021-06-18T10:20:00Z
+originalUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127"
+webUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127"
+ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
+cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
 type: article
-quality: 59
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times of Malta
+  domain: timesofmalta.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cdn-attachments.timesofmalta.com/ef73d90ddf20e302a1043ec768a0bfc9d1202f14-1623937564-3b6b289e-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -137,22 +137,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Waymo raises $2.5bn to rev self-driving cars"
-    excerpt: "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ..."
-    publishedDateTime: 2021-06-18T10:20:00Z
-    webUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127"
-    ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
-    cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
-    type: article
-    provider:
-      name: Times of Malta
-      domain: timesofmalta.com
-    quality: 74
-    images:
-      - url: "https://cdn-attachments.timesofmalta.com/ef73d90ddf20e302a1043ec768a0bfc9d1202f14-1623937564-3b6b289e-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alphabet's Waymo Raises $2.5 Billion in First Fresh Funding in a Year"
     excerpt: "The funding led by Alphabet and other existing shareholders is the second outside funding for Waymo, which last year raised $3.25 billion in its first external investment round since its inception 2009."
     publishedDateTime: 2021-06-16T17:40:00Z
@@ -180,6 +164,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
+    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
+    publishedDateTime: 2021-06-16T16:40:00Z
+    webUrl: "https://www.chron.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
     publishedDateTime: 2021-06-16T17:35:00Z
@@ -353,6 +353,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "LBp/UpfraPxz9yIbGf5SZLw3TZwvq0gfgcZbqMEnB0fsnOZwzN6acOilNVnHBAvStZJ08/mn77DHGRn+8JTjueyW/hB2Z5XzOV93wVE2Uz5intRuYjeTvaVcflEv6BKG9efY8ftJF1fT1SE4S6ZN5gW8g8i2z5Xq3GGf2rxhHyZlcp4tvcJnrDL12w0yDytowufD71gAY/JbwnPqfLb+XNJRWJVhn+6xWGeuoFBkxMohwRn/cLKunNYDT3ctzhgQwFNAbx0kHS7cUi7sWntuGc/WZTkipGnw1TVbDe5yqZgYjO8ys/o0Jip53KQIOTWwscibm+AuhmcsRxloH9YK5xtnz/tJ0rgtnkHXYk5yAndoufACWhNA6fg/bNn0JlPU/zNjuH959TnFYIUpqgFiM7sjgFMRYTvS/uAAimKMEy7b7dqYh/BoVphiCcTILZqSTTtgqDbdgWd1NpZcACCjwpnjQk9TjUXu/wS5KEInQy3Rwv3Wb0QJxl+vkzx5Yxq9kjP9t6KG4y8nlpd+4bAlgg==;EiJ7vvrofZEUvi7dry2TyQ=="
+secured: "duIPvoQdTzCIFLF5VNf4IMwPyKzYc1LSCXf0MirwJS4GuYB6W/xU2G3xlZnAiBU9ep3TZB0Xu4GP9oYLimmbrC8JykJfuWjpVkpcgXlNAUzl7C7oyI9go8eMRWIq8rWyz2QLt9fwImshYokIqU7CgSSw0M3+79Strp9fiwwaVRopFp69SuDr87gx+E5FQVRQveuatgdUt0tUkNRdfhcTBRG2Oadd7W+r2UViildoz3eJ6kEC1+vTZjW20OQO7PoaXvd+93Q+5blKAsnQlYooPdjqBloSnIx3J0BxSf+gf4p3h69xlj6zhSuPjYcBTJwpXjWM1LLEKFFr0umBt5AwElZAzZS8g3PYYZ3PuBDaRBw=;+EbCc0B7lNXrUcgEC6SLVQ=="
 ---
 

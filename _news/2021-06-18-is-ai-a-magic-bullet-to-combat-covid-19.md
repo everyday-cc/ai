@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/is-ai
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
-    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
-    publishedDateTime: 2021-06-15T08:27:00Z
-    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-06-18T14:18:00Z

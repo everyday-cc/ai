@@ -2,21 +2,17 @@
 category: news
 title: "Farm Tech Startup Iron Ox Hires First CFO and Head of Marketing As Company Prepares for Hypergrowth"
 excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Chief Financial Officer and its first Head of Marketing this week as the company accelerates growth and expands its commercial footprint."
-publishedDateTime: 2021-06-17T12:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
-webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
+publishedDateTime: 2021-06-17T12:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-first-cfo-/2021/06/17/9392532.htm"
 type: article
-quality: 57
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -45,6 +41,6 @@ related:
         height: 337
         isCached: true
 
-secured: "tDJgKQib6oyrDyLO0qZfyMWmqQoLmbXRjdDSdpPBwe4aGEPzQ0uA8IIWu1BtFbIaxSXdhRiRav6rGU2a2tZOyUdB/rLYXQB1tQ9v3iA3CPrDf+5v83kkTj7d66zQ11DY5TsugUeJXxvbpRQ+djdytdZfB+HgcV4Gs4WidUELSO0E7TiovWyp67XFtFe5AiBFJjLq7SEoJ7v0Ny/U5bRUbzHua0Ia5Ie2LRMLVeTHVF13S8jnWT2/IAi2qVoyDCg+Azuh+69azc1Ygvz/GYmMKgNIZy4fPKz29Jixsc2OUehoWWvpoL+PHsCVYCfK0Fpv6i1VYXd9s1bLM8cGzNf+JO4NSQFEEyjFFQmaEWbRjcU=;SfiT/YbTDn4PBWQ9uR6Kgw=="
+secured: "LwQKZlr+fRG0ubxV/TLmGqEE70z3eeAGo4doXcbR/REqqr4WwpkLZ3Os3pyWKCHJfJqr94UstlifQ+SLx3cbMRL3pzRiZ4pCUYJjBv4AMi9d5CdBQvJaYmgHPg1Oc5t0NFuRmXELU8D5IYoN93/xhMWK54QBytaEovXrFDGIggjNsuZ1O/Of1A0Y8dVS4CItJHv3qddGAYqwxKX44ZqTzRaqbYTmbplgyWeAwf2zg+0KS7scun/WN5tqT4ng752BWWqykfMlJSFnIea6qOfVGsV19OpW62bU2b+7piP874R91PU7gNIO93ODu3LVoncj4640FYhTfbpRqrxaCX2V1kEC+I00v6SSBiL1nlC3SK8=;TzzW6FRWdHkvG/Tyy7l7JQ=="
 ---
 

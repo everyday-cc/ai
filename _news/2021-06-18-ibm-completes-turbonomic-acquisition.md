@@ -34,17 +34,17 @@ related:
     quality: 71
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
-    publishedDateTime: 2021-06-17T19:47:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_073623e4-6a14-509f-86da-e61b21c08dfb.html"
+    publishedDateTime: 2021-06-18T01:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
-        width: 1200
-        height: 627
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"

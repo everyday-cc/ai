@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Verantos Receives Grant Award from the National Science Foundation"
-excerpt: "Verantos has received a grant from the National Science Foundation (NSF) to conduct research and development on real-world evidence (RWE) outcomes. This"
-publishedDateTime: 2021-06-17T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/verantos-receives-grant-award-from-the-national-science-foundation/article_b2bd578c-e697-547b-96dc-53c317abd1ac.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/verantos-receives-grant-award-from-the-national-science-foundation/article_b2bd578c-e697-547b-96dc-53c317abd1ac.html"
+excerpt: "Verantos has received a grant from the National Science Foundation (NSF) to conduct research and development on real-world evidence (RWE) outcomes. This cooperative agreement will enable accurate identification of clinical outcomes from routinely collected data to further advance RWE."
+publishedDateTime: 2021-06-17T13:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-verantos-receives-grant-award-from-national-science-foundation-/2021/06/17/9392715.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-verantos-receives-grant-award-from-national-science-foundation-/2021/06/17/9392715.htm"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "oYCTnS3yDOwCS6qPqPfF45ziu/9A1FtphaMAiNzZuKbJj/DNd7BuB9e21+lF6+M4cCTwcSRKcT67XAxQSn75e2/pYur/eaQB/2tvq6hIR/jLoYxgijO3A6D+vGILwiydv9shv0qDYWS1HzlRdFJfurJSK5w4pH82NYKFN81En3mkEKPOPmfMBgekNOeYQ9qF5kfwPXdFvjuV2dVMqs+3LwM6YsQbXprt2O/ez3ISBLPInH6KL4yN/t3PoUqnyC1h6pMFrEcBm8nLV9IUd/6bv8C6/gs93EfRTabAw25M4HMzawnA8IyMzbiMfPJKBTh3CSWgxy2v6ZzztJqXR+dPqcu0Zk2LiiYpkBMjCBwec68=;ibLIOwDzJUcQTPCk3t0uhg=="
+secured: "cMYFMncF9Q17PeSXFCCjLh8Z6e7T06O+Xz5rRHCiUIbNOawGhU6MKss6fz3YInZcLKaj8Ftti0HN69sRE7lpPFE0GVfgHRAIapZk8NpmQF70DKGu9LOBgjObgMO0eAQY6jmBzU2lu1cRahB1Ad+/Xu8hErUlg5qYmAT6m5ibhs1crAoCtPShOZXIzNSQ9vz2f9p1B2QMUICdwNg1q4B7oCNxgQX6or6XwUNULhJVaDZZKXQs+cVqltWlzHU3I5GSxpRrQRi7uMXuQ48cxwme0GFtcpY7pHLxy9hpfTgVMZqr54NP9EkA6Q6meejEHwKLkeLOTjSIJHpsyo8Ap21PzOZXM1jEotVSJ5dXv9r10dg=;h1thOclph9FzhO/ydAioiQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-05-24-ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software.md",
+      "title": "IBM’s Project CodeNet will test how far you can push AI to write software",
+      "excerpt": "IBM’s AI group released CodeNet, a 14-million-sample dataset for training machine learning models to help software developers be productive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "originalUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/05/Project-CodeNet-diversity.jpg",
+          "width": 1920,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "publishedDateTime": "2021-05-23T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa.md",
       "title": "Leading Autonomous Cyber AI Powerhouse Darktrace Joins World Cyber Security Summit -Africa",
       "excerpt": "The first company to apply AI to the challenge of cyber security, Darktrace, will feature at Trescon's virtual edition of the World Cyber Security Summit on May 24 2021. With a special focus on Africa,",
@@ -1114,49 +1166,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-watch-now-facial-recognition-technology-being-tested-in-central-illinois.md",
-      "title": "Watch now: Facial recognition technology being tested in Central Illinois",
-      "excerpt": "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology — especially in",
-      "sourceUrl": null,
-      "webUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.html",
-      "originalUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/2/15/2151efb7-8552-57f4-bc6a-0e2f123606de/60a83599b7391.image.jpg?resize=1024%2C1530",
-          "width": 1024,
-          "height": 1530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.amp.html",
-      "cdnAmpWebUrl": "https://0-jg--tc-com-0.cdn.ampproject.org/c/s/jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.amp.html",
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JG-TC",
-        "domain": "jg-tc.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

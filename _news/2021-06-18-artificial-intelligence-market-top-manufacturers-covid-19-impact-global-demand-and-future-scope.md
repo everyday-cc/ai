@@ -44,22 +44,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "How data analytics and artificial intelligence shaped the response to Covid-19"
-    excerpt: "Organizations are leveraging data analytics and artificial intelligence to transform their production lines and supply chain"
-    publishedDateTime: 2021-06-15T08:27:00Z
-    webUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/"
-    ampWebUrl: "https://www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/data-analytics-artificial-intelligence-shaped-response-covid-19/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 55
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/artificial-intelligence-5866644_640.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
     excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
     publishedDateTime: 2021-06-15T12:00:00Z

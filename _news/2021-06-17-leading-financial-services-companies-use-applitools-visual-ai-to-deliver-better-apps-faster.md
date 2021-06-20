@@ -3,8 +3,8 @@ category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
 excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
 publishedDateTime: 2021-06-17T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392651.htm"
 type: article
 quality: 9
 heat: 9
@@ -29,6 +29,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "ViFQtjVgSpnDsrrjHW6ee5PLUe9nkW35mCy/BRWvWkwL8Ekb3Vwv8Ll7qDFKDJbbllhxYf6QVNLkUudQU6/evjzGpo+UQ43eAFiIwlVEiA82eNOKQ3NUbTd7WO0kH6zsOPhkVljw42kwpI0ndOjcEWZUnMXf5JXFt4Nx0tj0jBW5XM2SofnD5wf5eFlAF4KLg/Gj4mP4UVUv44fqR9r2V4Zle9jp2RVXOBZBTObvvzXwPAd/77yfB00Webas4r7x0emsrM0TjIyH2D+51Lan9nflxOu+NjxuHxXPu6xzC1VOpcKflguYSk77FZzUA3ys9kOo+V0AIX7/1ev9OhRls9q+HqCguJquqnlTL6vmLXrNAcpi8FddaUppHFbX7UyS+yscSBbnb4v5oWOMiPoSmMXMF/twWwHnY4f0j2Vxt8kLfQk4+1gm+Kgg80DH9XVAClkOoCXCYUXJxvwuTzuyeeeeh/jBHxWWQhWgW8aJx74FjuIuAQzWzm1T/gdO/+/GIwDCbBU2G3oP3rj3SC7zwA==;71H7c+miZhU3TXx3mNbQHA=="
+secured: "QRTfq5eC9z5EzQtFM/dZb6nDDuQ2bXll7mU+TrD9ILdJCQEd45T8V1hv5g6Eqpvu3+bzs2LGdqyGAx3O050joUSK7WA27d9jDViv+Hi5h+KN27Y6NA6Q1MkWW0iSDq6EZ5sOKmFsqENyRTzWbKO2mDoXFEyOlEEg9n0b60jVylQbo16LJYQ5d6Cm9im2+loxDOVaWZJo2adEH33cq6xoF03ViSfe0PoaV/8UE7+ReW8JQoUezrCMBwaSJR3Y5sTy412aft+nDT1SmTQrV5Tw/j4fC/UTWs6Vj9TWAyacsbESr8L2d0rvRvQF68MjwrxIfOdW88KIlMzfH1GKNWjopNi85fHj2GC/nV6je3qDL2EsUuADYbwP8uFX1GtEB9TmHoirfYQyxU55/rxCWHouHgPvP1XU74IkclhAsG3r7w5KCvT6yDB63i7dEt4JuzGHoIWKOH4xYWaBk9mb3PJXjgbd2DG0Sw8s7FxrXEZUW/8CjJJyN40ZdyacaUIjbY5l8VnKixj8lQ++sXHJqER9sQ==;MSshYQrG7tiSUuywR6F8Yw=="
 ---
 

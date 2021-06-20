@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-02-machine-learning-is-not-a-better-horse.md",
+      "title": "Machine Learning Is Not A 'Better Horse'",
+      "excerpt": "Too often, it can sound like the trucking industry views machine learning as a “better horse.” It is common to hear the idea that better, bigger data will allow the industry to better forecast prices far into the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57837b502c3222019364e8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/02/machine-learning-is-not-a-better-horse/amp/",
+      "publishedDateTime": "2021-06-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-want-perfect-summer-skin-try-proven-skincares-ai-based-custom-skincare.md",
       "title": "Want Perfect Summer Skin? Try Proven Skincare’s AI-Based Custom Skincare",
       "excerpt": "New skin care can be daunting. Where to start? What to buy? What will work? There are never really any guarantees. There is one brand, though, that does get as close to a guarantee as possible when it comes to skin products,",
@@ -1121,49 +1173,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-greensprings-school-to-integrate-robotics-ai-into-curriculum.md",
-      "title": "Greensprings School to Integrate Robotics, AI into Curriculum",
-      "excerpt": "By Uchechukwu Nnaike The management of Greensprings School, Lagos, has announced that the school will start offering robotics and artificial intelligence (AI) to its secondary school students. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2018/11/ddab228d-greensprings-school.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/02/greensprings-school-to-integrate-robotics-ai-into-curriculum/amp/",
-      "publishedDateTime": "2021-06-01T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

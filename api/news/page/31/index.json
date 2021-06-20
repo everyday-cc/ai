@@ -2,6 +2,51 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
+      "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
+      "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
+      "publishedDateTime": "2021-05-25T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-abu-dhabi-boosts-digital-economy-capabilities-with-upcoming-aws-region.md",
       "title": "Abu Dhabi Boosts Digital Economy Capabilities with Upcoming AWS Region",
       "excerpt": "Abu Dhabi’s digital economy will be boosted through the launch of Amazon Web Services’ (AWS) cloud infrastructure region in the UAE, as part of the Abu",
@@ -1096,58 +1141,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar.md",
-      "title": "Azure Applied AI Services accelerate AI solution development to help businesses soar",
-      "excerpt": "The post Azure Applied AI Services accelerate AI solution development to help businesses soar appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar/",
-      "originalUrl": "https://blogs.microsoft.com/ai/azure-applied-ai-services-accelerate-ai-solution-development-to-help-businesses-soar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/05/Azure-Applied-AI-services-1200-x-630-1024x505.jpg",
-          "width": 1024,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T08:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
