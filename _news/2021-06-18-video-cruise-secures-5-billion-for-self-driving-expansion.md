@@ -19,20 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "GM's self-driving car unit Cruise to access $5 bln credit line"
-    excerpt: "General Motors Co's (GM.N) majority owned Cruise self-driving car subsidiary said on Tuesday it would gain access to a multi-year $5 billion line of credit with GM's finance arm to finance its purchase of Origin vehicles starting in early 2023."
-    publishedDateTime: 2021-06-15T13:38:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/gms-self-driving-car-unit-cruise-access-5-bln-credit-line-2021-06-15/"
+  - title: "Bite-Size Video: How AI is Transforming Video Production and Helps Amplify Audience Engagement"
+    excerpt: "Online videos are estimated to make up more than 82 of all consumer internet traffic by 2022 which is 15 times higher than the traffic in 2017 As more and more people are connected to the internet and social media"
+    publishedDateTime: 2021-06-18T14:50:00Z
+    webUrl: "https://www.openpr.com/news/2308994/bite-size-video-how-ai-is-transforming-video-production"
+    ampWebUrl: "https://www.openpr.com/amp/2308994/bite-size-video-how-ai-is-transforming-video-production"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308994/bite-size-video-how-ai-is-transforming-video-production"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/rQNyctMk5zXmR6a3coNcxcci-ug=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UM37YEPCURIYDKF34NEVLZYKDE.jpg"
-        width: 800
-        height: 419
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
 
 secured: "7A9qlFR55Y5SIsil5o2b9Y3Wdknjtxiu4hLIE9kPmsSwi/nR2pXfh24E5SXM/JXx+oG3LtIWeUyUdFJmwwXquyp6gGSLIXdBFFg4vzduRtPveEyFls5tfNUEfZUPPyZ5K0wETitwHk6ZWZPNgkkUUh+spUaMCDYPQYkXsPPZDEQGPuXGSphi/ToZcaj7EasLH6a2wpPf7voEI4gwwH5zvTCLaG/gi7Fvz5RwPrGTmW1jOZbXWqgqpPSi6s29SN+3oiP5jkVtYsdHOEQiTikwm3Dglp9XgXM/2hzBkRF+g3H+xqIJVspZwGNL8/5kgkNVYKcz/nfyIpPPq6JHIev0wlLInEeS9Cxn+bmqf6KLHU0=;dFTJZxffdyv0xbV1K1sFGA=="
 ---

@@ -65,15 +65,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Appen’s 2021 State of AI Report Finds Budgets Up"
-    excerpt: "State of AI Report Finds Budgets Up. Survey finds decisions moving away from silver bullet solutions to improvements to internal operations. ; Note: TD"
-    publishedDateTime: 2021-06-15T13:25:00Z
-    webUrl: "https://tdwi.org/articles/2021/06/15/appen-2021-state-of-ai-report.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 19
 
 secured: "DJe9H8WnNVo518iKDFc6VGC6g8cnfqd9G4kA9aaHNfHrhEFBL0kxgsT5WZihWrOoORCx9yal0PkKU9U6HfPdnaNSMDJnyNxE4NmWk2VYHKpgFGMqH/GtYUDagfn6LgVfm00x4qINE2LX/W48kNDi0KHlaboUf9W2JlUncpM1xl+vT6pIU+F923ISmlT3y7M8vV3OsaJSuGCicGcRBKZeCgG/BFukNufX7YebGOcuQJAsJZzGyducgpA1P5lZe+lz2e0GvtVwFOZW0mPqqi4OETSVsCF5A9F6hHmgQuJMTFhVrN8JAQJejKTVDAGVDbsHtolJ/bC3Yp6/wew/eaat8tTbVwYfI9ExpfPiSkB+taM=;iX4eJ+Yjh0Se01oLU3CqEA=="
 ---

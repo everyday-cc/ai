@@ -34,7 +34,7 @@ related:
   - title: "The efforts to make text-based AI less racist and terrible"
     excerpt: "Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon Mechanical Turk contractors to say awful things in conversations with language models to provoke them to generate hate speech,"
     publishedDateTime: 2021-06-19T12:05:00Z
-    webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
+    webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1"
     type: article
     provider:
       name: Ars Technica

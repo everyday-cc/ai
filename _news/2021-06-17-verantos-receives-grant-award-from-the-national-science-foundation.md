@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Verantos Receives Grant Award from the National Science Foundation"
-excerpt: "Verantos has received a grant from the National Science Foundation (NSF) to conduct research and development on real-world evidence (RWE) outcomes. This cooperative agreement will enable accurate identification of clinical outcomes from routinely collected data to further advance RWE."
-publishedDateTime: 2021-06-17T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-verantos-receives-grant-award-from-national-science-foundation-/2021/06/17/9392715.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-verantos-receives-grant-award-from-national-science-foundation-/2021/06/17/9392715.htm"
+excerpt: "Verantos has received a grant from the National Science Foundation (NSF) to conduct research and development on real-world evidence (RWE) outcomes. This"
+publishedDateTime: 2021-06-17T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/verantos-receives-grant-award-from-the-national-science-foundation/article_b2bd578c-e697-547b-96dc-53c317abd1ac.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/verantos-receives-grant-award-from-the-national-science-foundation/article_b2bd578c-e697-547b-96dc-53c317abd1ac.html"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "cMYFMncF9Q17PeSXFCCjLh8Z6e7T06O+Xz5rRHCiUIbNOawGhU6MKss6fz3YInZcLKaj8Ftti0HN69sRE7lpPFE0GVfgHRAIapZk8NpmQF70DKGu9LOBgjObgMO0eAQY6jmBzU2lu1cRahB1Ad+/Xu8hErUlg5qYmAT6m5ibhs1crAoCtPShOZXIzNSQ9vz2f9p1B2QMUICdwNg1q4B7oCNxgQX6or6XwUNULhJVaDZZKXQs+cVqltWlzHU3I5GSxpRrQRi7uMXuQ48cxwme0GFtcpY7pHLxy9hpfTgVMZqr54NP9EkA6Q6meejEHwKLkeLOTjSIJHpsyo8Ap21PzOZXM1jEotVSJ5dXv9r10dg=;h1thOclph9FzhO/ydAioiQ=="
+secured: "bX/bKY2Si52CH5Q93KBTFpjYZl3hF3y3E1VZmNE69/YzJDb68iRfZZvpcKQBZsQO/c9NDgJb0VLFnf7y+Zav1/zVaM0Ll098ro7Nv9okQ+3wY/32994vQRpG7S99zJi+A6cDOc24H+3Jugpb86zqzcJoNhQ21j5FR/q692sT+YvVJIbArjDfG3SQQ9vcme+8Hrauo/B/hjMibsbWuMTVT/5XVjiQxk7o2Nswe9ypYW4xTsDf7ha0ynV5Ay586Jf0d9lWZxiB7fN5Pw9XlaOVel2XV+W/S0O5qMKnWliStOJbw6TYgsBXOjUeRenXShz1KKlsj9ZJzvTdRr1w8/gx0z3nm4bqKfBTHQ7zCTMUrrA=;BVnK46yZ+EpoRGU+ErkZJQ=="
 ---
 

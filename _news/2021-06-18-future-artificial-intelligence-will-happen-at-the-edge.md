@@ -58,15 +58,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Appen’s 2021 State of AI Report Finds Budgets Up"
-    excerpt: "State of AI Report Finds Budgets Up. Survey finds decisions moving away from silver bullet solutions to improvements to internal operations. ; Note: TD"
-    publishedDateTime: 2021-06-15T13:25:00Z
-    webUrl: "https://tdwi.org/articles/2021/06/15/appen-2021-state-of-ai-report.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 19
   - title: "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies"
     excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released"
     publishedDateTime: 2021-06-15T16:00:00Z

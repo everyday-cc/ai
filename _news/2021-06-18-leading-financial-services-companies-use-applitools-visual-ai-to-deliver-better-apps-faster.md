@@ -20,14 +20,14 @@ topics:
 
 related:
   - title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-    excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
-    publishedDateTime: 2021-06-17T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+    excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
+    publishedDateTime: 2021-06-17T13:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "XjzeUQ8SNWRIfpeIGnIYkpfwJK+fCc8ulita5Atcb63HAulOhD4jc11k2xu+0NpnsFo8CUp+Y5DXZlyp1cf6J789qzQmKIAUwInDlkPUVpumrjrayNIWdXvab9J4RTW9Sm7EELYKhPI6cAIyEBwJKLeEGqbZ96jzKkkYEY0+6sV85QJUMKXIdHXdZeLlU/S9lygY+DQ3PbYO+g87BuVJ+agx5QaBtTPezeCR2Vo8nAFEoqto1NdGOOmDqPGboHoGyyM5XCmgy1WOOC/JXCRnHazIPMSpB5uHilCmlY1ekNbpMmVnlgGl7ecM1oKDtaruaIWt9V+TSJRbamOpkOTW7kvUriWJkMP8wmfquwoqaao=;LCdwdcmiDDLRikMaebQuaQ=="
 ---

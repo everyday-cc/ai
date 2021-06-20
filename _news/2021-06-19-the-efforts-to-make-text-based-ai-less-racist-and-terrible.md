@@ -3,8 +3,8 @@ category: news
 title: "The efforts to make text-based AI less racist and terrible"
 excerpt: "Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon Mechanical Turk contractors to say awful things in conversations with language models to provoke them to generate hate speech,"
 publishedDateTime: 2021-06-19T12:05:00Z
-originalUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
-webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
+originalUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1"
+webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "63eYyQM6cXJ9wGeQM+WEZ0+jAnLUKkpDhhcAEapaqHdooZEwB+peBGlzhlBHajdDxb2+VE0UUWTBMmCBgVdt2OyeIYqrgONUUkLyAUPhDgEh+TZCcRMinviAi3nb7i3nO7UIloKjooXj4IPngzt1BVk8aBbzY7R4r+ge2VAnAWfmYoAi2kEG/QcXJvCNm2rYcw3YhvB7pFD06WMfu8KkAs/Oqi/CyVWzYYh1DfnGhInn4CQIHXaNHmSMu6C4j4GMA6/1I8wzgbjZtjXGSzdvBtS8MPBQT7jPe6H6JE5STOR7lhQnK5nPaEUwaEGWNJMFaXWRe4r/fTQjTpM60xYLSBk6XFs/rb5gLk8mAQHv8WYE2dfqRxGX/JPM8Ob21+xM6zMpTBW/k2+pkzomhlce2NI5zbIJEhV6Gxr+2MehcScifR56oJNvt1eureOrQVA/RhFwmmZcy5ru7SLpmHFza6N5kXNX3COxLznp4+XOzIK9CQkAvmnNrX7yVrwK9coJQGTdRtcl/J5CMrJ4mcT4Bg==;6anlJHM9u6DTmZ2Y2lTJVQ=="
+secured: "BcywMap9Gqa+ZNB7P/RYujkkorymiMD6qSQVTw4bgLuWXXZgrjzykUEIVmEGYFpDX4JBa77VugAs+1lJovv4Dt8e/Hl0mB80o7Clg8l+ZjYsyfXwzKuGlNLcb0a4unSxtjnWOK+nLqzNVHGBLWA+3J4uwQwrUNE3btBMX/Mki9E6IrdjOYdi8fAgzDF78KdDLeFT5Xu5avlM0amCf0gAebNeulu3gATqalYlMY8isDlwTXfHNPyQXjBvNIo9U5CQGqB+kOnJWbkyz5Ywqoi60rwoC9p3EzBvvjHHkPZS6oajjgEgnwh+k/s6HIBABS2uhAGNfd6Xc61WK6RqeLmkcTvcymLJ3TPwQfUFBORqy4w=;N4EaOIQOVDmC/HTvnsD/Pg=="
 ---
 

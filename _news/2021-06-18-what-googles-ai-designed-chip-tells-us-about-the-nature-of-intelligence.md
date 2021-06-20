@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google uses AI to design next-gen chips faster than humans"
-    excerpt: "Google is developing chips designed by AI, harnessing machine learning The AI has already been used to develop the latest iteration of Google’s tensor"
-    publishedDateTime: 2021-06-15T13:45:00Z
-    webUrl: "https://techhq.com/2021/06/google-uses-ai-to-design-next-gen-chips-faster-than-humans/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/06/google-cloud-ai_2x.png"
-        width: 1034
-        height: 600
         isCached: true
   - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
     excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."

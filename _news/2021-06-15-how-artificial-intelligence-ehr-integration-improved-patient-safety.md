@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://ehrintelligence.com/images/site/article_headers/_normal/GettyImages-1046430482.jpg"

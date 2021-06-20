@@ -1,20 +1,28 @@
 ---
 category: news
-title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
-excerpt: "primarily through the use of face and object recognition technology. In March, AnyVision was ranked among the top solutions in the world and achieved top rankings across all five categories in the ..."
-publishedDateTime: 2021-06-03T10:03:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology"
-webUrl: "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology"
+title: "AnyVision to NIST: “AI companies must purge demographic bias from their algorithms and be transparent about their methodology”"
+excerpt: "AnyVision is a world-leading visual AI platform company that organizations across the globe use to create trusted, seamless experiences in their physical spaces, primarily through the use of face and object recognition technology. In March, AnyVision was ..."
+publishedDateTime: 2021-06-03T12:00:00Z
+originalUrl: "https://www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/"
+webUrl: "https://www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/"
+ampWebUrl: "https://www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/amp/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Computer Vision
   - AI
 
-secured: "vZjqRVBKS54fxcXo7VOjPbMbzHzzf71PbEDpCxR/hSIbru30M9rfdiyCPVNKgWnb8zJqX9w/qKvt9BimGg7L+8OH2R+iJS9147bt1Aoh9Nn/Sf9B5zLZ6Cyt/BjnE0KsESeypQYKxUiVUXzMIBQoRmiaS4TeRrl0AcrpYJCqtKQ8hBhkBLQ8oxJpbbFOZ7ScPifGkuwfHU14XpXZX3lYAI9Eka3dqDspei/Dx889DolzyfPqheoFWxdTBVfwOITkmv0y9JSILLm/7ppw789BdlYCoxr+0uvNLpDGXNLkto3aaREmDj1pLKSQyFikURrfYNTBW7bZK3WkaLubnjcNV0ry7laxmUKHLyS7yw+jLdM=;Bb/UqFvD8Wkoho4uPed5Fw=="
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+secured: "/QDn4Ouac9I5q80SeObTS2Hdq+10Z6NSGZ3bbRDZyzBnOwEaWsOb4zXFgFdCIgeqnSwFOnaG/CUYefCUL3WXhtSQi7FK021MdHdNmQ3LukHtBDxDLvyEbN0tlv/dG9Pu/0iuiJiGX3B7CDu5TtHBdhDFYbY8p2u8StJFNGx0a0JY33ztyZObZYW7V+MX4lnsp7CKYgVyhqgQYpwTfEFefBVNjHKzBoLgClTtjEyCgDsPj6fcRrUSQsbiQkgeQOyh6ZvyBh1QC+BPwvY6O4anLYlDR5TAH91LSx2hDlpXouDhN8Ir95srsFybYGPXdYzUvxLhfwwkhfMQd4GcLyFrlXZdjJQSEOGzMHCRgNnbnH0=;2KmWxaqgWCBd5XxuUichwQ=="
 ---
 

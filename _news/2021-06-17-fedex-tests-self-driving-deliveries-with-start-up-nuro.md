@@ -147,15 +147,6 @@ related:
         width: 2700
         height: 1520
         isCached: true
-  - title: "Nuro to partner with FedEx on self-driving deliveries"
-    excerpt: "Nuro Inc. signed a multi-year agreement with FedEx Corp. to test its self-driving vehicles in the package delivery company’s network. #siliconvalley"
-    publishedDateTime: 2021-06-15T14:33:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/15/nuro-to-partner-with-fedex-on-self-driving-deliver.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "FedEx begins trials for self-driving deliveries with Nuro"
     excerpt: "FedEx Corp. and Nuro have established a multi-year, multi-phase agreement to test autonomous deliveries for parcels. The collaboration began with a pilot program in Houston and a new pilot will expand the operation into parcel logistics and allows for FedEx to explore other use cases for on-road autonomous vehicle logistics."
     publishedDateTime: 2021-06-17T12:43:00Z

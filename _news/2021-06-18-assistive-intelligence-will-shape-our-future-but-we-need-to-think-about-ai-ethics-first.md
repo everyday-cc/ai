@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google uses AI to design next-gen chips faster than humans"
-    excerpt: "Google is developing chips designed by AI, harnessing machine learning The AI has already been used to develop the latest iteration of Google’s tensor"
-    publishedDateTime: 2021-06-15T13:45:00Z
-    webUrl: "https://techhq.com/2021/06/google-uses-ai-to-design-next-gen-chips-faster-than-humans/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2021/06/google-cloud-ai_2x.png"
-        width: 1034
-        height: 600
-        isCached: true
 
 secured: "H9G2Q9C6NFWemsClRvwJQyirL8T465mhRnpWPO04IbBNPy1XKDy+Yp1VosbIYF1Mx2S2YNyPcQr/w65hyt2a+SpqdzZAp86xItoYNWkdjyU1uLDbRTkQlkCkFXD6/7mF9zl+uWiGpzCIjGkffFk7bYCFw1Z+NqFZnhJqaAsuUCsKFiFiS+JVVhFBMcTRxjhT12G8M6CYdZySqcF0miD25Cj2tRe9ikA2vYU8CKo1vZIE5CaCUnGhJ0AXcOEbVbFalBy1M8hGgdyuW1ObhV6ZWCOSbBFbj5wpS++WhmEakEF4YgN3CJw6ysIJZlLLLYWHzsyFUNECjpqW/94GpfsOCcABp7iq15HlaDLEvpOgpqlJc9i5aujfJrpT0/iTd8qZeQbvsei67gNYzr/AvsZjYuWC9r9tibz3jH++0JNQm/Aa+zHklZjKtjPD+yoxtbi9ryw6slu4YTqntGwotWECBOe0qDPEEEwZtEmoHaekohLsDGGrffJfevNYiXT+1AbI2JaIdtOFZ+lHC2t1I/cNLQ==;imhRilDHvFiNmN0xMb6xbw=="
 ---

@@ -2,66 +2,19 @@
 category: news
 title: "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte"
 excerpt: "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution."
-publishedDateTime: 2021-06-15T12:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
+publishedDateTime: 2021-06-15T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/exscientia-acquires-personalised-medicine-ai-pioneer-allcyte/"
+webUrl: "https://www.financialbuzz.com/exscientia-acquires-personalised-medicine-ai-pioneer-allcyte/"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Exscientia buys Allcyte to add patient sample testing to its AI platform"
-    excerpt: "UK-based artificial intelligence pioneer Exscientia has made a play to stay at the forefront of the field, acquiring Austrian rival Allcyte with the help of its recent $525 million financing"
-    publishedDateTime: 2021-06-16T08:32:00Z
-    webUrl: "https://pharmaphorum.com/news/exscientia-buys-allcyte-to-add-patient-sample-testing-to-its-ai-platform/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 38
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2016/06/DNA-structure-generic-4.jpg"
-        width: 1698
-        height: 1131
-        isCached: true
-  - title: "Exscientia steps up AI-powered drug discovery with $60M Allcyte acquisition"
-    excerpt: "After closing a handful of deals this year worth more than $1.7 billion, Exscientia is ready to start spending that hard-earned cash. First on its shopping list? Allcyte, an Austrian company developing an AI platform to predict how well cancer treatments will work."
-    publishedDateTime: 2021-06-15T14:58:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/exscientia-steps-up-ai-powered-drug-discovery-60m-acquisition-allcyte"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 37
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1623763706/artificial-intelligence-3382507_1920.jpg/artificial-intelligence-3382507_1920.jpg?pmWugZfoKMxJ0SB4z__2lINEQVMe3kF_"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Exscientia expands translational capabilities with Allcyte acquisition"
-    excerpt: "Oxford, UK-based pharmatech company Exscientia has entered into a binding agreement to acquire artificial intelligence (AI) based precision medicine specialist Allcyte. Allcyte’s technology platform uses AI to analyse drug activity in love patient samples at single-cell resolution."
-    publishedDateTime: 2021-06-16T08:39:00Z
-    webUrl: "https://www.pharmatimes.com/news/exscientia_expands_translational_capabilities_with_allcyte_acquisition_1371698"
-    type: article
-    provider:
-      name: PharmaTimes
-      domain: pharmatimes.com
-    quality: 24
-    images:
-      - url: "https://www.pharmatimes.com/__data/assets/image/0007/1078171/deals.jpg"
-        width: 620
-        height: 460
-        isCached: true
-
-secured: "eS/JNNMA4oPq2hct8t2khGBj4A8Yfq17z0A9jDGVfHE6wi1aa5pLsdOo9qRlcjEGwqpqTwuyZ7l6negFl89w2899ZuVXx+esGA1rD4HENQuXXsIiJpBESqDatrOzE/lT/cYsQ5ZLSdLuEwAcNtg8b63l51xIVcARTQnX0OqhnhHwjSvwQOoYYEdpc95sqKMSztks7+g1104PctsaA9ohn/hf0jf0nHrQcPpslDYtjxAgpgg5QH7LGbnjtTyMCuXOr1XpOKUaTBJwuiCFIb4lJ2GaFFlbN8rdQnerWBAgxxechz0cedzk9b4nxIAbGM/yEZ7DhLrGP0hE/lA89cWvIE7r/rljWA22ASnn/qNQHls=;FqFWg6Y5RWkFfWF9xfoSPg=="
+secured: "vcjiSshetFGgwjOh4PtLV8rBbjmcDWUZQVDFXPDPl95kebiMb+gYbUgBdd87bJLWEMXZF2TkMSJg1h1vXEFxS2EBdOB8jjFw6AGEQLso3iIvM2Yr/MREKuHB36jS4FEDH+IHzTfjS6v4dG48cNGYe+scKILh6Wl/rF6y0ovvivJW6gCD6bvZZybFKyonrQGFp/pgqEOEzPishDxreFXLWSQ0FK5KOeL9mhh/c/ri8kuThOSWp0PGXb5YVtGN9sdDItSWBLw3Wbjc+5JqI2jWsIEVIRzJWHrATM/+w8bSwAoAFPXcJqyJ3BqFH1umEVGMieAWyAj5gh/vr/7Ng/QcnA1XBKz+uGJjs12R7nojfvk=;ftuGvMTpiJQTOr5XvAYjcQ=="
 ---
 

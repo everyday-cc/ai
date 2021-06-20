@@ -43,22 +43,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Facebook's new AI project: Copy text style from image using a single word"
-    excerpt: "Facebook is working on a new Artificial Intelligence model through which users can rewrite any text the way it is written in any picture. All that will be needed to copy the writing style is just one word."
-    publishedDateTime: 2021-06-15T13:10:00Z
-    webUrl: "https://www.techradar.com/in/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 90
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Facebook’s AI reverse-engineers models used to generate deepfakes"
     excerpt: "Facebook and Michigan State University created a system capable of reverse-engineering models used to create deepfakes."
     publishedDateTime: 2021-06-16T16:00:00Z
@@ -135,6 +119,22 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Facebook AI software is now able to dig up origins of deepfake images"
+    excerpt: "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from."
+    publishedDateTime: 2021-06-20T07:00:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Facebook AI aims to identify deepfake images and trace their creators"
     excerpt: "Facebook has developed an artificial intelligence that it claims can detect deepfake images and even reverse-engineer them to figure out how they were made and perhaps trace their creators"
     publishedDateTime: 2021-06-16T16:06:00Z
@@ -196,20 +196,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/06/Facebook-TextStyleBrush.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facebook Open-Sources Expire-Span Method for Scaling Transformer AI"
-    excerpt: "Span, a deep-learning technique that learns which items in an input sequence should be remembered, reducing the memory and computation requirements for AI. FAIR showed that Transformer models that incorporate Expire-Span can scale to sequences of tens of thousands of items with improved performance compared to previous models."
-    publishedDateTime: 2021-06-15T13:07:00Z
-    webUrl: "https://www.infoq.com/news/2021/06/facebook-expire-span-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2021/06/facebook-expire-span-ai/en/headerimage/facebook-expire-span-ai-header-1623589196231.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI to Identify Facebook Deepfake Images"
     excerpt: "New AI software to identify Facebook deepfake images. The fingerprint sensor will help in tracing of origination and catch the creators."

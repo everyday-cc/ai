@@ -18,17 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "RSIP Vision Reveals Its Newest Feat of Medical Imaging Innovation: Real-Time Surgical Workflow Recognition & Analysis Technology for Robotic Assisted Surgeries"
-    excerpt: "RSIP Vision Reveals Real-Time Surgical Workflow Recognition & Analysis Technology for Robotic Assisted Surgeries"
-    publishedDateTime: 2021-06-15T13:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005492/en/RSIP-Vision-Reveals-Its-Newest-Feat-of-Medical-Imaging-Innovation-Real-Time-Surgical-Workflow-Recognition-Analysis-Technology-for-Robotic-Assisted-Surgeries/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "WpKZf/cZnhGT0/c3QVjZNM0ZVuiGkOPZPUT8EghQqmpw7sFYD3hRVi5N3wdup7N7hDFpRyYReyv7hbLRs2zPtXB6N5YGyUmP/lrxX3Y0vqHSaWE6Nixnr2jYTp3cmNSEtvJgiAvx2QT7Kf0y9WCJBXlXOuBDZTjD/oH3xO4G50oCcqsebCiIyNe2PN9o2CSTqDrsQJ/HfPoLUXnOkmwJWgGm0unGrPpiUjqWstlYaYnsRrysfv4KB/Kiy0YI0p8sqHxhPQ/afNVhnNdTtEV8pHGQYC2i9bhay8buEoi1ofLMSCSt90PLnlsQRIGGi12c041P1REP2aUXkpCibUNRPbHLtD6nr8ZM1AVIZ1TapvoBmegbwHhA+G2t6EdmBtfo5z/P+hmK7OYQqwk5VbR4NI4SqL6qdy0nnmxDmrCTexb9/8xkPTWvMBBJR6b3u3gEVk7CV6LRWCJJ+t2Q1JBf9WLTW3b8sXfMJaLwHBllcNRZibbTaTAX0EUzFsuEgub9N3aGeNqhXiGCNMDRsOXRXw==;JUcPnBTY8eGrZs36/3o1WQ=="
 ---
 

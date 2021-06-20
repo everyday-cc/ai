@@ -40,21 +40,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "A Google AI Designed a Computer Chip as Well as a Human Engineer—But Much Faster"
-    excerpt: "The team trained their agent with over 10,000 chip floorplans. With that library of knowledge, the agent could then explore various alternatives."
-    publishedDateTime: 2021-06-15T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/"
-    ampWebUrl: "https://singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/06/15/a-google-ai-designed-a-new-computer-chip-in-hours-and-its-fast-and-adaptable/amp/"
+  - title: "Google Develops an AI Software That Can Design a Chipset in Just Six Hours"
+    excerpt: "As per a recent research paper, Google has developed an AI software that can design the \"floorplan\" of chipset in just six hours."
+    publishedDateTime: 2021-06-19T21:40:00Z
+    webUrl: "https://beebom.com/google-ai-can-design-chipset-in-six-hours/"
+    ampWebUrl: "https://beebom.com/google-ai-can-design-chipset-in-six-hours/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-ai-can-design-chipset-in-six-hours/amp/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 69
+      name: Beebom
+      domain: beebom.com
+    quality: 72
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/06/google-AI-computer-chip.jpg"
-        width: 1068
-        height: 601
+      - url: "https://beebom.com/wp-content/uploads/2021/06/Google-Develops-an-AI-Software-That-Can-Design-a-Chipset-in-Just-Six-Hours.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Google Uses AI to Design More Efficient Microchips in Less Than Six Hours"
     excerpt: "Google has conducted a study revealing that AI software may be used to design microchips at least as well as humans, in less than six hours. The company is already manufacturing new microchips based on the AI floor plans."

@@ -155,15 +155,6 @@ related:
         width: 2700
         height: 1520
         isCached: true
-  - title: "Nuro to partner with FedEx on self-driving deliveries"
-    excerpt: "Nuro Inc. signed a multi-year agreement with FedEx Corp. to test its self-driving vehicles in the package delivery company’s network. #siliconvalley"
-    publishedDateTime: 2021-06-15T14:33:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/15/nuro-to-partner-with-fedex-on-self-driving-deliver.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "LxWAIHi4tpR+h11mzPqdiFEtpsDCbBwsk3PQbjj4Dy6PwIOL8KBWBS5kKZwHMkZkpV7+LUbmePXTswJTC5Hbf1btURRBRf81B5FDVrQKfhpZXgA8blliFTcIwRME2d14EYzwGvEGHByjhsHpRtShA548/k8c/FfJg9sVu+9EpPjQeFZ+aRi1DPL86OFCMvNAailrzMM4IZJv4hz8WjgjkKcsfbN4+BA91xWSN/zj897EulcmkOgYN+Ez6JZ7msnhXkCBdZHVUmjTmLbXhYcqCzyeYPuyvx2RTiWfNy6CYDsW4+xfyvI1KHCQgjrzIF6jlq6Y7mfIFo38IqSGSlwPH9nHl5/1tAIok1P3vAqWgqULHfcnexvX48P8a5QHLMZmy4ra4KABI/PkFYW8/BXsntItO02g65Y1b8D5Pv3XJuYsWMPsfYdPuSH57DWeRCtNr/EOn4B/S3eC7jYQE/MX/Fb65W8yttNDihnsXoy8rEAVtw5FJ6AQzH9yUXBoyd9OH0xl42TfNTdAmzc3URnfYg==;HJQQJB1EDM7DpV+2avdAjA=="
 ---
