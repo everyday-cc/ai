@@ -1,35 +1,40 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
-publishedDateTime: 2021-06-18T06:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
-webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+excerpt: "Leading global manufacturer of luxury, high-performance sports cars will leverage AWS machine learning, analytics, and compute capabilities to accelerate innovation across its road cars department, GT Competitions,"
+publishedDateTime: 2021-06-18T01:30:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210617005933/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
+webUrl: "https://www.morningstar.com/news/business-wire/20210617005933/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
 related:
-  - title: "Ferrari, Amazon's AWS enter agreement on data"
-    excerpt: "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
-    publishedDateTime: 2021-06-18T10:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp"
+  - title: "Ferrari, Amazon’s AWS enter agreement on data"
+    excerpt: "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon’s cloud computing unit the luxury carmaker’s cloud storage, machine learning, and artificial intelligence provider, AWS said on Friday."
+    publishedDateTime: 2021-06-18T10:21:00Z
+    webUrl: "https://www.metro.us/ferrari-amazons-aws-enter/"
+    ampWebUrl: "https://www.metro.us/ferrari-amazons-aws-enter/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ferrari-amazons-aws-enter/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5H0HN-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ferrari and AWS enter agreement on data"
     excerpt: "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider, AWS s"
     publishedDateTime: 2021-06-18T10:59:00Z
@@ -150,6 +155,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "Qpd/Hse3ufzgTa+t4/Xl2+/lKhLpxMJ0iq/8uzzThM/RpCw6ZuVoufyUNaRBuKgRWqGzfF2BYC/OO2Tk+3d4nZffQCKZ300RkXYM2Wj3tUkXfk21t45GvezyABklQ6grWNvfj2JXlbzcIibI7UQoedXTO2f18Ap4jyAsvIpqPJ5xafACqL7lvtb9WeL7Gfh192ZMCtxryKd40IY0XvK+QhJM950AitfC7L4wyluCu5ZcaWoIhFoB1U/oA4A6vGwVAo0pTEtGVQYRA4bjWMZ3XerJONnPvn2Z0FOhNwqZ6LT50kAbqrw7IzrU+4dMHHZ3CRWZk949zWJn7W650SFkaC1dIA6+deEvY0b6CJlVRoENxWjGKGUW07kekdHVTLP+RiGIKIZiXO/wDXr9dYIF0wVunvwNBu7DWMZ2eKFnkIPtb/zf80exw2H8biVUD9YGBWhwlKht2Q/RNT25fXJX9hCIMI6rAwMk4lM71h96Cy4V//BVxdGLhh+HLb6Hm4X4iX9l4eKj6iihOWgiMnhZfQ==;90AiL6SI9RU7w/mE/1Wz/w=="
+secured: "AqudEiBGBiq+GP53vRgKI2Bmpqmk9svFlTfvUMtRMKQo007hSMWQoQgbT2k6XAnp6Aseid5MEdmpKhvpzMRNBGm4ZbzvGnr0RJ5904Ruf5ANfbW07kD8AvZAl2oV7aTVS6Tpo4gptPIv8PS41JBkwqoLo8JrY70orgqGdahvjTyqlLhdddyTk0HBQXbZHAx7EbtzuF/TNpbtK8i9nDiWpM55wToYE5639fG2lje2ZQlXXC//eSwRGG+pTtPXpboC96CNgq8nkci23Fpm4WCKP4/oLodwkeGnSaCa1vlWHUIfgqNjAJs/biUX6k2ZMo5V4xH3Sw5jXuAC8NeVtcf2Nw0DfmIESOe7M7KXu+0hECqk6g8/a2/hKUQI64GFArAeZgRKV64kNYxftkiztMkA1NuPlgvclQUruDq+QeOlrJFwMAxkP0Wy8X0UWQID270cU9jybuDAPVdabVzs1ubEl0EfJo5fikIYZGtQUmNtiXfMolFY8QdXXQzvCLdl1mu+NBZVtDXhJC1zMPTftt3WcA==;pCuHHa6F6lHP02k7ysHQ3A=="
 ---
 

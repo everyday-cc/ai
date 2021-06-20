@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/press-re
 webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery"
 type: article
 quality: 69
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving robots booting up to deliver FedEx packages in Houston"
-    excerpt: "Nuro deployed robots across the city delivering pizzas, groceries and more, but it has once again launched a new program focused on parcel delivery."
-    publishedDateTime: 2021-06-15T21:37:00Z
-    webUrl: "https://abc13.com/technology/self-driving-robots-booting-up-to-deliver-fedex-packages-in-houston/10794117/"
-    ampWebUrl: "https://abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/nuro-self-driving-car-delivering-fedex-packages-houston-deliveries-technology-advancements/10794117/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10794127_061521-ktrk-nuro-fedex-self-driving-delivery-irios-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "FedEx and Nuro Advance Last-Mile Logistics with Self-Driving Vehicles"
-    excerpt: "The Nuro pilot is the latest addition to the FedEx portfolio of autonomous same-day and specialty delivery devices."
-    publishedDateTime: 2021-06-15T21:04:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/fedex-nuro-last-mile-logistics-autonomous-vehicle-delivery-self-driving-285410/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2021/06/FedExNuro.jpg?fit=1000%2C666&quality=98&ssl=1"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "FedEx Tests Self-Driving Deliveries With Start-Up Nuro"
     excerpt: "\"Instead of dispatching a driver to get those packages,\" she explained, \"a device like Nuro could be super helpful.\" The company’s unmanned vehicles are already making deliveries in the Houston area for grocery chain Kroger and Domino’s Pizza."
     publishedDateTime: 2021-06-16T20:31:00Z

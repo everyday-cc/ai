@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-ar
 cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/06/17/ann-arbors-clinc-launches-artificial-intelligence-products-for-banks-credit-unions/?outputType=amp"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 640
     height: 359
     isCached: true
-
-related:
-  - title: "Clinc launches Artificial Intelligence technology for Banks & Credit Unions"
-    excerpt: "Clinc AI today announced a suite of patented Conversational AI products for Banks & Credit Unions. Clinc's revolutionary enterprise AI platform is the foundation of the new products, with the vision to enable banks and credit unions to deliver a high-tech,"
-    publishedDateTime: 2021-06-15T22:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/15/9391196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "GJVHWtN7zb/g4wEHiejEr9GWsyCVrbQX4ZGoP2GlZDe4iN4PQ/Ymq4+OORHgl7PT5/XUVr8pRnk77Iyv6lvI7hOKLqiPCDMuMeNtEVZbc1XTprxXuvXTjihlXIa60vWpLynuQufsiHRAMqA4iuobDHk+BZDHYqFTJ8T3oadjp2Y00HUe4P5Enpg9RtW8NuG7BUEcBsvlcDjUvpPvWsrrfExUuqBbhVGtKGQcZ01c5fjVoOuka+vH9PaGcH/P7Ivakk8vxEKGBtibD7dh3zU8p47NARXtz1KfqcnqQ2Uy8JV5Obp3vPzQP8xkd2K/N8tG7R/jwg5cGVDPAklcINpZKMNZ8HDS69jIp9dnB3AkSkIJpVpx7ZkzjeW8fDiccgViVDEZ6kqVU8jtbH+EVjR69ee4al36ZA5QYNZSibHfVDyv5dHvXF4jPqwiV6WpNyfzZryTphwkepKHMqDNHVvP45iBjhxsO0ai7thOhf8om5CtlzRCBY855SUVDVEP1MUQlz/xxvoGmYgZd4uo//j9Tg==;HpLHQAhsH8sAZ/XZ4UQsGw=="
 ---

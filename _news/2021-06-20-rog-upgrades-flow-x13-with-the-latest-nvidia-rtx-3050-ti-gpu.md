@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-n
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -30,16 +30,18 @@ related:
   - title: "ROG upgraded Flow X13 with the latest Nvidia RTX 3050 Ti GPU"
     excerpt: "ROG's powerful and portable 13 convertible gaming laptop with the upgraded GPU for the ultimate gaming experience"
     publishedDateTime: 2021-06-20T12:33:00Z
-    webUrl: "https://www.khaleejtimes.com/news/general/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+    webUrl: "https://www.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+    ampWebUrl: "https://amp.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
     type: article
     provider:
       name: Khaleej Times
       domain: khaleejtimes.com
-    quality: 39
+    quality: 59
     images:
-      - url: "https://images.khaleejtimes.com/storyimage/KT/20210620/SPONSOREDCONTENT/210629927/AR/0/AR-210629927.jpg&NCS_modified=20210620145203&exif=.jpg"
-        width: 1140
-        height: 600
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210620/SPONSOREDCONTENT/210629907/AR/0/AR-210629907.jpg&NCS_modified=20210620155137&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "5GDpZB4l/6ARMGlt9jOUx/LIWeTO25glhYhJSEINRlqVAls3Xyc3k6j9xeYcBVdn63dPRKbQvBhCvBnAWiprYnFCjdFLNcr0/pxYflSrAhOHlQonCT0hF8AMZnQNhepaHFTlxCOSDGkp05S6y7a508PCLkVJoQoC9FpqgE6q1quqziV4vO+ahH2oC6t+KZcaQy8apDfUsp43+gbwpVNahsv+w8Tmc9mNwxml9Xk/eFdE5NLm8mQy/mIT/Ij4+rSC032jlZFUSnlLk29rdrnd5dpUPST9+9DZDSI0yvBf9RpRu7Lw9k0hg4jhILSSR4hNJ02tg4xpe+SX89snOQmxlGI1E9vkyKmQeADJbX9z4308Ii+wqNuHps3zess0oOa1rCI0CHagkNUvN88BgLZYD9bFLw+RvZSsorky4/HR4M47spjXVTBma5WiamdrSg0gfeR8X2KF7pvliuTksV6YHTrlWbx3Y0AoLNTqAMhyPzSQCs9exnyk6hRh5c7iHG1T2KxBdTJueQ+fmIhJgOts7Q==;zg+MgM6pZGlgSdsWZdXoOw=="

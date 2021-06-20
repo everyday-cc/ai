@@ -25,42 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
-    excerpt: "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated."
-    publishedDateTime: 2021-06-15T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
+  - title: "BME and BBF Fintech to stage sustainable finance hackathon"
+    excerpt: "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,"
+    publishedDateTime: 2021-06-16T16:05:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c9264d6ad664d7f331b552%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2504%26cropY1%3D201%26cropY2%3D1610"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "5 Fintech Stocks to Watch Beyond the Cryptocurrency Hype"
-    excerpt: "Many believe that “blockchain is the biggest innovation on the internet, since the internet itself” and the recent roller-coaster ride in cryptocurrency has attracted several. However, fintech in itself is a broad category and cryptocurrency is just part of it."
-    publishedDateTime: 2021-06-16T11:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 54
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
-    publishedDateTime: 2021-06-18T16:35:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4575369-global-artificial-intelligence-ai-in-fintech-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf"
+        width: 4096
+        height: 2160
+        isCached: true
+  - title: "Fintech South Keeps Georgia’s Rising Tech Hub on the ‘World Stage’"
+    excerpt: "The World Stage is back at the South’s largest financial technology conference starting June 22, building on an inaugural virtual summit last year that served to showcase Atlanta to a broader global audience."
+    publishedDateTime: 2021-06-18T03:32:00Z
+    webUrl: "https://www.globalatlanta.com/fintech-south-keeps-georgias-rising-tech-hub-on-the-world-stage/"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 10
+      name: Global Atlanta
+      domain: globalatlanta.com
+    quality: 24
+    images:
+      - url: "https://www.globalatlanta.com/wp-content/uploads/Screen-Shot-2021-06-17-at-11.26.07-PM.png"
+        width: 1952
+        height: 842
+        isCached: true
+  - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
+    excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
+    publishedDateTime: 2021-06-18T20:05:00Z
+    webUrl: "https://www.econotimes.com/KT-to-invest-236-billion-won-in-fintech-Webcash-Group-1611096"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 4
 
 secured: "HCJWssxZP+3BPl0KH4/C8ja6pKygBUWhMA+2kUTgzXxbdrnE9boOr6LV3zLTap282wLYe0AtxdTmg6G+ezNd41eE1TlEbIgZ/hv1ZTuC+RbtbIFYLAyakoD6wCjEBM1ZoKvA2Yu5Y+kRL4PtkACoj0PLpopbNNHTfJs+PCn7cE+mFQZG3gTcqaiJLJcAaY11I0NRoxd+rXAYe5B3bNnaTWiJe86KpUNzCUvMcyF9sLj6U7DE7sFMu0UpjK52g6puZrhLS5Ek4ITIA5ZXhXN6lF0IeyS6bnuiSiCYFi/y0CmuDQUVvZbPAQh/2enPjXrtEEKoqtAeMDtbXMSIEvVcVQBE8y1E6pBF+BYDyjgxD1A=;U9JEFsAe1YO1LKG2JiVtKQ=="
 ---

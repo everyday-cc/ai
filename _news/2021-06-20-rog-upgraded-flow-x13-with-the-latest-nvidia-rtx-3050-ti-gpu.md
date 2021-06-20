@@ -3,11 +3,13 @@ category: news
 title: "ROG upgraded Flow X13 with the latest Nvidia RTX 3050 Ti GPU"
 excerpt: "ROG's powerful and portable 13 convertible gaming laptop with the upgraded GPU for the ultimate gaming experience"
 publishedDateTime: 2021-06-20T12:33:00Z
-originalUrl: "https://www.khaleejtimes.com/news/general/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
-webUrl: "https://www.khaleejtimes.com/news/general/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+originalUrl: "https://www.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+webUrl: "https://www.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+ampWebUrl: "https://amp.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
+cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/technology/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -19,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://images.khaleejtimes.com/storyimage/KT/20210620/SPONSOREDCONTENT/210629927/AR/0/AR-210629927.jpg&NCS_modified=20210620145203&exif=.jpg"
-    width: 1140
-    height: 600
+  - url: "https://images.khaleejtimes.com/storyimage/KT/20210620/SPONSOREDCONTENT/210629907/AR/0/AR-210629907.jpg&NCS_modified=20210620155137&MaxH=225&imageVersion=16by9"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 563
         isCached: true
 
-secured: "o+ely5+HQSEIC1Ir5X1zLkpFNV5GBf6+pdxAulx88JQN4MCNOKu2h13WnSLqKIKla8yjWQuX/xGlGzLJJFshQMNDZYTzoNUubHsiOzcwcfL6tvgAP6NX/WRP0NMg7i+7JAPjdTxFmyABNjjnSP/36m88fQeEo8S4Sp4ic6QC7SyQ3oLc+wgzJMzZdJLdvyMk2kOJaNvXFGEAYaJMvAV/80DbM3qLjlDuew75r6Oq0e8KZ6PA7Z6X9ZZv7ek6H3p1RVIbGVJI6oKew5v67ibJnjHB4b7YWd7JwKTJf+aHf5wMhi9TkBxyDaOUWJEtXdakUy0AfExgTGMd10qziNrJRU70fILQsJ/+snlzrIjH+cY=;gXPi40dp6vfXjYUXjD5QtA=="
+secured: "IjMXRLcpTlTf1MS5fZBSOzyUq5HCopxIuSPf/1LeU+EtixnpLSnLR0PrzSKsMw+Pm+SZ5/Qv3rITiWQgImt7G9dNGBcf/9q/X7za4HuhyoZ5nkagskepAFZib7n5gQNvlDGT06XmJZhOCBqfAnCUHZWZHxKxOgForKR0ePRWfl3Ja/qhFgBA+66NKq14QHR6mhxuvx43UvmC/nIBEkeA9D0TW6LS+5q9XaBK54wMgp+JJX9WqWGCUbObgHBiw1LZfOIdxfmm3tleVDxtR8CK4BEbTMO2ZElTQ8PP2uekihZd6cdawG46o7PJTcipYlxVSI6Ib7x3bat9ykioGqAclZy4vDh0UYrVU7EWor6Tl14=;iqhiOkcXL/gfVyicrlRY5A=="
 ---
 

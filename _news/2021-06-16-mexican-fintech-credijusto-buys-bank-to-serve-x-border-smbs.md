@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credij
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "5 Fintech Stocks to Watch Beyond the Cryptocurrency Hype"
+    excerpt: "Many believe that “blockchain is the biggest innovation on the internet, since the internet itself” and the recent roller-coaster ride in cryptocurrency has attracted several. However, fintech in itself is a broad category and cryptocurrency is just part of it."
+    publishedDateTime: 2021-06-16T11:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "FinTech Novo Grabs $40.7 Million To Fuel Growth"
     excerpt: "Novo, a financial technology company, has pulled in $40.7 million in funding. The FinTech focuses on digital banking for small- to medium-sized business (SMBs)."
     publishedDateTime: 2021-06-16T14:57:00Z

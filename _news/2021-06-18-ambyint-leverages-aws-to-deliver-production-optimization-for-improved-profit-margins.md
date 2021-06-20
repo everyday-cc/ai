@@ -20,13 +20,13 @@ topics:
 
 related:
   - title: "Ambyint Leverages AWS to Deliver Production Optimization for Improved Profit Margins"
-    excerpt: "Ambyint artificial lift optimization product listings now available in AWS Marketplace Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services,"
-    publishedDateTime: 2021-06-17T09:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210617005106/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins"
+    excerpt: "Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services, Inc. (AWS) to make its products available in AWS Marketplace,"
+    publishedDateTime: 2021-06-17T14:00:00Z
+    webUrl: "https://www.financialbuzz.com/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins/"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 12
 
 secured: "F8hUxe4CKTJxC/nQke0Yd9kP05ZKxGV1zl/sMb1AjCpfX69NWeUTpwtU1VEUVHkdmE/smCg9M8g6rsovsIu3DNlF2NunX/gs7RZGZL6uMY9J4mD9iwrli1A64CHMuE/BsGHTOWoHwcQ2f5UX+T9dcXtzJ5GzBwpt1pkzdzycJTeW8It3lODtaDTYFKXL3JF4v4i/5YXOou3emxqu6dvZ31jtuIgfAPfE2l4tDoUySx1GFtJ3bfkfRzax4EmAgrXrrsZoq+RzCpoCxj3YfPNgoD00CDOnf2jF2sWKlrxyfRsYn6lyNOzweMxP7xsvLVtk+ru+aj27MrXzWSI98qssELPnZe1VgXJuFjax9uWixPE=;sg/zr7liTc+WgJ67/2Lwig=="

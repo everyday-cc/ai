@@ -21,45 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector"
-    excerpt: "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated."
-    publishedDateTime: 2021-06-15T22:15:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/"
+  - title: "Mexican FinTech Credijusto Buys Bank To Serve X-Border SMBs"
+    excerpt: "Credijusto says it’s the first Mexican FinTech to buy a regulated bank, transforming itself into Latin America’s only neobank concentrated on working with small to medium-sized businesses (SMBs). “Our acquisition of Banco Finterra creates the first truly digital banking platform for Mexican [SMBs],"
+    publishedDateTime: 2021-06-16T00:03:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c9264d6ad664d7f331b552%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2504%26cropY1%3D201%26cropY2%3D1610"
-        width: 1200
-        height: 675
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/fintech-acquisitions-digital-banking-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Convergence of Telco and FinTech Businesses Can Drive Financial Inclusion In A Tough Economy"
-    excerpt: "New technologies available to telecommunications operators (telcos) and financial service providers (FinTechs) are combining to lead"
-    publishedDateTime: 2021-06-18T09:03:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/06/18/convergence-of-telco-and-fintech-businesses-can-drive-financial-inclusion-in-a-tough-economy/"
+  - title: "FinTech Novo Grabs $40.7 Million To Fuel Growth"
+    excerpt: "Novo, a financial technology company, has pulled in $40.7 million in funding. The FinTech focuses on digital banking for small- to medium-sized business (SMBs)."
+    publishedDateTime: 2021-06-16T14:57:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/fintech-novo-grabs-funding-to-fuel-growth/"
     type: article
     provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 13
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/06/Mariam-Cassim.jpg"
-        width: 600
-        height: 940
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
-    publishedDateTime: 2021-06-18T16:35:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4575369-global-artificial-intelligence-ai-in-fintech-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 10
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 4
 
 secured: "MwAKVG3kp1+//xgTiI5PBtf8MuOqNWJoD8qAYXZn6zn12C7VWj9+GTfNfgnFNoC/i5Mx8Lk0CYOD50p65r0Rjx4dHpKDDqeLmstzzkaH4z7iDtDqGR99ajtFHbvX3hQIFfd4uVBM+FM6X7/noWle9/So32KuAA03pCoJT6up83lAlHjaRpuX5t4jYahLSROsb08y1Qd1pcCYjH0Pg9Esk5r+z9HAzA/3tQ71D3+mkefoV1eIwofJyY/6Ub0bpooo4toCqbm8LUgC48zOGGQJ3c5Y10yObD+KbIgWkySQ7reHMXj1o1LrIrPgoBjIjJHFdhsVEFE59tTdFzLdPB+r1fB2DepggxCMr5IwPeDZjLM=;tmIYYNzow34p2eguQlwW0A=="
 ---
