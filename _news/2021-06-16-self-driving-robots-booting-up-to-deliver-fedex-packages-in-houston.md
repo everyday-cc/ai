@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "FedEx signs multi-year partnership with Nuro to test self-driving delivery vehicles"
-    excerpt: "FedEx said the exponential growth of e-commerce has accelerated the demand for reliable, autonomous solutions across all stages of the supply chain. By continuing to innovate"
-    publishedDateTime: 2021-06-15T15:07:00Z
-    webUrl: "https://www.techspot.com/news/90069-fedex-signs-multi-year-partnership-nuro-test-self.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/90069-fedex-signs-multi-year-partnership-nuro-test-self.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90069-fedex-signs-multi-year-partnership-nuro-test-self.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-15-image-15.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Your next FedEx package may arrive courtesy self-driving vehicles"
     excerpt: "FedEx Corp has partnered with robotics company Nuro. Fedex and Nuro will test self-drive vehicles for package delivery..Self-drive vehicles could be cost-effective and allow for late-night pickups from far flunk places."
     publishedDateTime: 2021-06-16T03:30:00Z

@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cops Elude Baltimore Ban on Facial Recognition Technology"
-    excerpt: "Critics say exempting police from a bill banning the use of facial recognition technology by residents, businesses and most of city government fails to take into account the potential for  racial bias identified as a key software issue."
-    publishedDateTime: 2021-06-15T15:20:00Z
-    webUrl: "https://thecrimereport.org/2021/06/15/cops-elude-baltimore-ban-on-facial-recognition-technology/"
+  - title: "New legislation would ban facial recognition on federal level, withhold funds from cities like Detroit that use it"
+    excerpt: "Democratic lawmakers on Tuesday reintroduced legislation that would ban facial recognition technology on the federal level and withhold money from state and local police"
+    publishedDateTime: 2021-06-15T19:05:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it"
+    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/06/15/new-legislation-would-ban-facial-recognition-on-federal-level-withhold-funds-from-cities-like-detroit-that-use-it?media=AMP+HTML"
     type: article
     provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
-        isCached: true
-  - title: "ACLU Comment on Facial Recognition and Biometric Technology Moratorium Act"
-    excerpt: "Ayanna Pressley (D-Mass.) today introduced legislation to stop government use of biometric technology, including facial recognition. The Facial Recognition and Biometric Technology Moratorium Act, which is endorsed by the American Civil Liberties Union,"
-    publishedDateTime: 2021-06-15T16:43:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-comment-facial-recognition-and-biometric-technology-moratorium-act"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
+      name: Metro Times
+      domain: metrotimes.com
     quality: 37
     images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
+      - url: "https://media2.fdncms.com/metrotimes/imager/u/original/27387219/facial_recognition_photo_neavling.jpg"
+        width: 4032
+        height: 3024
         isCached: true
   - title: "Security Industry Association Opposes Reintroduction of Facial Recognition & Biometric Technology Moratorium Act"
     excerpt: "The legislation would impose an unnecessary blanket ban and prevent government from leveraging the proven benefits of biometric and related image analytics. SILVER SPRING, Md."

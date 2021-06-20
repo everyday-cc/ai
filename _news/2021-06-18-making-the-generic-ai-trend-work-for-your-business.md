@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "How GPUs can boost AI for your business"
-    excerpt: "Big data, HPC and cloud computing are starting to dominate IT, providing the bedrock for AI and ML processing. A solid hardware platform such as that provided by the Gigabyte G482-Z54 can deliver the CPU power and GPU density to meet the demands ..."
-    publishedDateTime: 2021-06-15T15:32:00Z
-    webUrl: "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business"
-    ampWebUrl: "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp"
+  - title: "6 Ways Artificial Intelligence Will Transform StartUps Business"
+    excerpt: "Over the earlier decade, the field of Artificial Intelligence has taken immense leaps forward. Today, those types of progress are assisting associations with isolating themselves from the opposition."
+    publishedDateTime: 2021-06-17T12:07:00Z
+    webUrl: "https://www.finextra.com/blogposting/20474/6-ways-artificial-intelligence-will-transform-startups-business"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 106
+      name: Finextra
+      domain: finextra.com
+    quality: 37
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623768264/Gigabyte_G482-Z54_AMD_logo.jpg"
-        width: 1260
-        height: 710
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/e65d8a81-1e31-4ef9-abe8-8f55286ddd10.jpg"
+        width: 500
+        height: 267
         isCached: true
 
 secured: "Rklj5s3vko/BLDarN48J5dBvepGuMRJjCZwk57wlsEBMr6x8t4ZnzOQ5twza0nl2u03FVtK/VPcT6vn4wcmMKLkZV8Cfd3m2dDbBaT/2LNI8PXy8E77m9FZDuph0VcCO1HRB5/ape862U/te2Zk1IdjeKEvi+acD5Uli0cn8Ynes1GZhnggWWmVkcKrWrcqVfRElCseUeCccUXLj3YEixo3myXWkYkr9dbn8sSbpNqtpTAba7nDe6MrBnczTN8Rzi20WyaFKYbYnWGgtxQn/hT9OHa9O0HV/bBiip0MpHXvP6aQGMc2ZDpRKOFHqRDJHLYd1FBhvFJl3+srXdjzLIYW/RKMy0kOoa/J55pOxnS/zUlwFDCs0+rr8yLMidXeA5BmZUU77JtiHkkOrydda0H5KrVKS5ChWQe2pZsOKczorDpoxF69M92HKILqyUQPyyMIjBBw/JHijysMEZVfO5n8Mh0nY8WFbfjv8FsApZ7xS0E4Ih0VYuZHY1VTAWc1nNQnfbQ4JZ3KkvtxPqj4+6g==;8gxoEJM9ZILlQjF5WdvOyQ=="

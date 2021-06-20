@@ -46,29 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Talkdesk Financial Services Experience Cloud™ Reimagines the Banking Experience"
-    excerpt: "Talkdesk®, Inc., the global customer experience leader for customer-obsessed companies, today at Opentalk 2021 is announcing Talkdesk Financial Services Experience Cloud, the industry's first enterprise-grade contact center product built for financial services."
-    publishedDateTime: 2021-06-15T15:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-talkdesk-financial-services-experience-cloudtrade-reimagines-banking-experience-/2021/06/15/9390978.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "B9 Raises $1.7 Million in Pre-Seed Round to Launch Fintech Platform to Deliver Full Suite of Personal Financial Services"
-    excerpt: "B9 Inc., a fintech startup, announced today it is launching a full suite of app-based financial services. The company raised $1.7 million in an ongoing pre-seed funding round and is building out a platform to address the needs of a huge market"
-    publishedDateTime: 2021-06-15T15:30:00Z
-    webUrl: "https://www.lelezard.com/en/news-19856835.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Convergence of Telco and FinTech Businesses Can Drive Financial Inclusion In A Tough Economy"
     excerpt: "New technologies available to telecommunications operators (telcos) and financial service providers (FinTechs) are combining to lead"
     publishedDateTime: 2021-06-18T09:03:00Z

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Alva Named Winner in AI & Machine Learning Awards 2021"
-excerpt: "PRNewswire/ -- alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine Learning Awards. This award recognises alva's ESG Intelligence as a machine learning solution that brings something genuinely new to its users,"
-publishedDateTime: 2021-06-17T15:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392976.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392976.htm"
+excerpt: "June 17, 2021 – (Newswire.com) ​alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine Learning Awards."
+publishedDateTime: 2021-06-17T13:31:00Z
+originalUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
+webUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
+  - Natural Language Processing
 
-secured: "+GTcp1/0c6V5hqHxmJ7qsoKTvlVaTXhkpKhEmmhxCIV/Tb4N7yKZwJ1LBxoUVBuWnu5Qm9cx44McBBw2O3Me7n9KeqmbEK/XxDhb2A0WQyqvzN99S6VI3txNqsYZ5HdAs6FTxIkbPfMiGU3iSmh0ew5kpGGFuwwSYpxbvK4bBAXPpJLKe9THuhG9bICk5gcu+JtjAfpaiRGX6hmfObQtc9Ln8rV360kLEfItBqXkQ3zlRfILwOhBQCiexTw1awjKhdjEjFTp147hfuO+AWSqmtxEVoOi1WnRYzL6iVKZkTMCEGM5gyA4zYk2HJ1QkVysXYqy5SroU7ymBqkYa+H0F8peo7NZhWdkMYhftA79gTo=;BZUHODMZfzkV+O5mQU9azQ=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/e12f165a10b8894b68478cbfed1c83abb73e651a-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "utbOfxN3hufKswIZ7PwW8+wThgaoleQw9RIGC7S6UicRtIAQhd8HHLpp8Oqj+bKRWagLuP1OsCV32H4fG0PMYrSnU3IdL8LscQrOzMSLMbLHalRadB7sl4wgmk4FIQ1Q7FEW+45Zbxr2mOnTqdFUXjyXJCtasrkcT40v0rr4vYKPNEiBVJCvsLJc7VaAaun+1z/IqGycvgTycw1mLaxFiUkA/x8LtOvUusTWKL+uUcUiNASAnaIBeU3USxpq4Orr5gzs3rS0NJUL7cjlbhLrSlS5JHmor9/u0HW6Y7IB44icZJx1KcSucLSMZgiT4uCe1Zim3QQrd0L9Ql3cMhkuhBBfdEC6Ulgw2G0r10CdITQ=;sl5618JS4R/3XbPRjdNCMQ=="
 ---
 

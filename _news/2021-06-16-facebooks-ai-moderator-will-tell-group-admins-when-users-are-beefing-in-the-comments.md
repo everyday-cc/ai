@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-gr
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting"
 type: article
 quality: 150
-heat: 320
+heat: 310
 published: true
 
 provider:
@@ -165,20 +165,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facebook-fighting-cnn-1623895603.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook AI project works on turning your handwriting into a font"
-    excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
-    publishedDateTime: 2021-06-15T15:35:00Z
-    webUrl: "https://techstory.in/facebook-ai-project-works-on-turning-your-handwriting-into-a-font/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/Facebook-TextStyleBrush.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "AI to Identify Facebook Deepfake Images"
     excerpt: "New AI software to identify Facebook deepfake images. The fingerprint sensor will help in tracing of origination and catch the creators."

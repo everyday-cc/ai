@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 708
         isCached: true
-  - title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
-    excerpt: "Talkdesk Retail Smart Service brings the power of artificial intelligence to customer self-service and agent interactions."
-    publishedDateTime: 2021-06-15T15:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005245/en/Talkdesk-Retail-Smart-Service-Brings-the-Power-of-Artificial-Intelligence-to-Customer-Self-Service-and-Agent-Interactions"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "/2EIbEtN14WJNqbYC+1YqQLtnReSldc9Wz/DJ+KvK15YzdtomsgxQ4vDMHw3VDIP2OUJf4kRYgb5/l0YE8RcCUjOYlz4oCH3ZkR3L1AUlv9yVkY6LDsWAwDdW4UUZ4pwVCWRJyR/xOKXH1RsDV+2TtcnCGsGkOvb8W7Zlpsd02F62+gpA0cfYslrILx+F3NAuXkmstYhnQp6myWHSW0BSxMRrOXx24kgTF4bR4gc+uLvKU/wB9iMrkXYfPBLB0cSTJmWMoQkLj2m+ZYc0QyAr/9PrJCiP6PPWS4YNBU7sPZtiOP/8BCYZiYADiDsg0HEhVDm5whQZNcOq6ixKBgs7t8LR7tU+5CfjflaTgrN3sZXbcfluTgFVKlTZ2q2WBowMvVE7Uvc8LRQWzrOO+A+1bmWrjxXo300dEUWD1tXJFtb6IRWB0BnE9bEWUUcalmhbRkzf7pkxD7b1i9tDkJ1ey9CEV+zFTT69p9PEdK7I3GNksmjVlMCHA9OcEDDlWhMrQVa+M7es5xDsFhxKYKwDA==;DuiQx4R88M7IzjoqOGCxTw=="
 ---

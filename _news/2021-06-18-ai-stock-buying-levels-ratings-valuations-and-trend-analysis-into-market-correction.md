@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "AI moving from POCs and pilots into operations"
-    excerpt: "The COVID-19 pandemic accelerated the adoption of artificial intelligence and its use in day-to-day operations."
-    publishedDateTime: 2021-06-15T15:34:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-moving-from-pocs-and-pilots-into-operations/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-moving-from-pocs-and-pilots-into-operations/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-moving-from-pocs-and-pilots-into-operations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Regulators know teleoperation is key for self-driving vehicles to succeed"
     excerpt: "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way."
     publishedDateTime: 2021-06-17T17:02:00Z
@@ -98,20 +82,6 @@ related:
       - url: "https://www.mcgill.ca/newsroom/files/newsroom/styles/wysiwyg_large/public/channels/image/hackathon-mustgivephotocredit-645x430.jpg?itok=E3MftT3U"
         width: 320
         height: 213
-        isCached: true
-  - title: "Unlocking Value with AI-Powered Automation."
-    excerpt: "Adding AI to the automation toolkit helps organizations decide where to best apply automation to digital transformation."
-    publishedDateTime: 2021-06-15T15:29:00Z
-    webUrl: "https://www.cio.com/article/3622015/unlocking-value-with-ai-powered-automation.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/istock-1223005887-100892367-large.jpg"
-        width: 1199
-        height: 499
         isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"

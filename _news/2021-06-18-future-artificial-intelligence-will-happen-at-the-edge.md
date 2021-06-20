@@ -58,15 +58,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies"
-    excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released"
-    publishedDateTime: 2021-06-15T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 18
 
 secured: "gdpEmvmqHlPnkRyRNvXTa+Yw8urY9sm3bLLA4Yn0zklT8qlz1bLNBoBQ9FFiFYFy+sSIpEjyzPbfhKUtWLGi0cDgPHCYRE4ORP1MRl6cprrwfrj02qY6mZVzMx+dDGOYqBDUy8pkPrdLvE0F0W2iK74S+OCqgGtI+TZONNf7AMnNRQot+zXAYm+bet4BX3X5G9HcgzCpFvuQC2uxUxfLlmyN9xAcV7DKvVX5BLcLahaHKYr2+3Vrk/cMHaMOJXC6QVvD3TzmLtM6qHp8OWzSgo00m/WQjAH6UIv0wKRIh5ZZQqUEKRzR9s4KEf5nIUFtHu6yQaWb5JvzPAPLSwPlkcWvuMUXzo3dcu4GUyetu0Vh7Mh/Q/ESM+k7SR7hIhAfG4pqbGKcDwMdhOkMBixxdQIHZABDEnFERpRB2VeXEJqflmSjhB3uC5NDDo5oYMqJCiZCDWjeYMMLGXHJSPMrqVdCNbIqcIBYr14YswKPyzVxolOKbALkP6cRmUkq/Ytwk/cxre2TNhmu7qQsyoV/8A==;CmnwjH+4Om8U5WZaqg4BoQ=="
 ---

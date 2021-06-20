@@ -2,6 +2,142 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-05-07-video-more-certainty-for-deep-learning.md",
+      "title": "Video: More certainty for deep learning",
+      "excerpt": "Deep learning, machine learning and artificial intelligence offer significant opportunities to solve the challenges of different disciplines and make our lives easier in many ways.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-video-certainty-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-video-certainty-deep.amp",
+      "publishedDateTime": "2021-05-07T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound.md",
+      "title": "Artificial Intelligence Aids Radiologist to classify Masses in Breast Ultrasound",
+      "excerpt": "Artificial intelligence (AI) is gaining extensive attention for its excellent performance in image-recognition tasks and increasingly applied in breast ultrasound. In a recent study presented at",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "originalUrl": "https://medicaldialogues.in/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2021/05/05/152210-koios.jpg",
+          "width": 1024,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/artificial-intelligence-aids-radiologist-to-classify-masses-in-breast-ultrasound-77340",
+      "publishedDateTime": "2021-05-07T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-how-voice-ai-is-changing-the-way-people-order-food.md",
+      "title": "How Voice AI Is Changing The Way People Order Food",
+      "excerpt": "As consumers continue to leverage voice-to-order from restaurants and voice-enabled technology continues to thrive, it’s clear that voice AI solutions should be a priority for restaurant leaders across the country this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/07/how-voice-ai-is-changing-the-way-people-order-food/amp/",
+      "publishedDateTime": "2021-05-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-battling-bias-why-employers-should-not-fear-ai-for-diversity-hiring.md",
       "title": "Battling Bias: Why Employers Should Not Fear AI For Diversity Hiring",
       "excerpt": "As more businesses look to achieve workplace equality this year, they will have to overcome a significant barrier to successful DE&I recruitment: unconscious bias.",
@@ -1025,153 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-expressable-raises-45m-from-lerer-hippeau-and-nextview-to-transform-speech-therapy-care.md",
-      "title": "Expressable Raises $4.5M from Lerer Hippeau and NextView to Transform Speech Therapy Care",
-      "excerpt": "Expressable, a leading speech therapy solution that combines 1-on-1 teletherapy with its proprietary education platform, is pleased to announce the close of its seed round totaling $4,500,000. The funding was co-led by Lerer Hippeau and",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19791441.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19791441.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-ai-is-ready-to-take-on-a-massive-healthcare-challenge.md",
-      "title": "AI is ready to take on a massive healthcare challenge",
-      "excerpt": "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-482179767.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-why-wait-for-a-crash-to-invest-these-3-top-stocks-are-already-down-more-than-40.md",
-      "title": "Why Wait for a Crash to Invest? These 3 Top Stocks Are Already Down More Than 40%",
-      "excerpt": "Some top-quality stocks are already down by 30%, 40%, or even more from their all-time highs. Case in point: Shares of Zillow Group ( NASDAQ:ZG) ( NASDAQ:Z), Baidu ( NASDAQ:BIDU), and Teladoc ( NYSE:TDOC) are all trading at least 40% below their recent highs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624941%2Fgettyimages-534824667.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "publishedDateTime": "2021-05-06T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

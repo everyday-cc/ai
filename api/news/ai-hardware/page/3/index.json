@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-25-microsofts-zero-infinity-library-trains-32-trillion-parameter-ai-model.md",
+      "title": "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model",
+      "excerpt": "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
+      "originalUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/05/microsoft-zero-infinity/en/headerimage/microsoft-zero-infinity-header-1621783123438.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-manufacturing-ai-startup-exlattice-joins-nvidia-inception.md",
       "title": "Manufacturing AI Startup ExLattice Joins NVIDIA Inception",
       "excerpt": "ExLattice, Inc today announced it has joined NVIDIA Inception, a program designed to nurture startups revolutionizing industries with advancements in AI and data sciences. ExLattice enables next generation digital manufacturing with its accelerated simulation engine.",
@@ -1397,50 +1441,6 @@
         "AI Hardware",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all.md",
-      "title": "AI and nanotechnology could make cancer cell therapy affordable for all",
-      "excerpt": "There is, however, hope. The most recent insights in nanotechnology, artificial intelligence (AI), biosensors, and the Internet of Things could help overcome the current roadblocks in making personalized cell therapies affordable. The solution to ...",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/",
-      "originalUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/05/technology-1.jpeg",
-          "width": 1052,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/amp/",
-      "publishedDateTime": "2021-05-10T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

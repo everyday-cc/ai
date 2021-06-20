@@ -41,6 +41,15 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Vita Mobile Systems Announces LOI to Acquire an Artificial Intelligence Software Company"
+    excerpt: "Vita Mobile Systems, Inc., a technology company focused on digital imaging in mobile devices, collection and management of big data and development of artificial intelligence, today announced it has signed a non-binding letter of intent to acquire a technology company with proprietary Artificial Intelligence software."
+    publishedDateTime: 2021-06-17T10:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/vita-mobile-systems-announces-loi-to-acquire-an-artificial-intelligence-software"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 38
   - title: "Corsight update promises ‘high-speed, real-time’ facial recognition, multi-channel processing"
     excerpt: "The technology is able to identify individuals on watchlists in even the most challenging conditions for biometric matching."
     publishedDateTime: 2021-06-16T17:46:00Z

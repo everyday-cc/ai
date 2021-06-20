@@ -3,12 +3,9 @@ category: news
 title: "Speakeasy AI Receives USPTO Technology Patent for \"Speech To Intent\""
 excerpt: "Speakeasy AI, award-winning provider of conversational AI solutions across omnichannel self-service and live agent care , announced today the grant of patent"
 publishedDateTime: 2021-06-15T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: WFMZ-TV
@@ -24,22 +21,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Cross River Launches Venture Capital Arm to Propel the Next Generation of Fintech Startups"
-    excerpt: "Cross River Bank (\"Cross River\"), a technology-driven financial services organization that provides core infrastructure and embedded financial solutions, today announced Cross River Digital Ventures,"
-    publishedDateTime: 2021-06-15T11:46:00Z
-    webUrl: "https://www.lelezard.com/en/news-19855942.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "Zj2wn54F+aGAfDx01PDAcUzvYjyE4a84EURO0vUEf7d2JTEW9BUSl3oCsukaoLQbf39hV+fb9ti0xQHC88jGs/DkaWj6MMLeMmLOMCkNaZVo9s86PoQjGEAguYPDLEbIyKXKoBBnpywNTMIIxETRmalQs79FxM0JbvyOmVgdMj1RGZs8qNeS0FtmrgfQ659n+89v5UaDs8NUF3WpTWVxOH6D2NV91VduqDrsVdoBhSzCvRd0k+Er9gGA7CuDqDaREBALWLWKF8m677CKCTq9Y7M+diRjOBpmSO3afsvoE0frcthOsLWJ3YY8GVYR5qvtGt9NWnCqu82q0Akb8ToVJ6HpwkpqvrdmAnS77dAUwe8=;CybsjHezS4yhG87v5qaXmQ=="
+secured: "rjaDBFAWwNY5f41NKjkgXd1QaMVvEPEoOYYk9Jprnc0luODO8Tvp/Av1ZchVF2V74eNhtWj0unMMAxaYbocCyKCVuKi0N3hz6D5RFnjb57VVnyqSKD2h150zNrzZFUc6/9qlCpWnF2/CQQnMr59cDxhN049n/RiDUE52dIdWhBty7IN5N+dGiKP7wVG0WuAOxM3Y4fvv61K+7h3a21+0QXwAmaKzWRkBKsUoYa/iLTILO6wXd1opLNDAO4LW/VMglkavcxZkdsiGLqXOeMFHLhqRwHGmlyf89I1PgqNky1661n52Io1dlRpkj6AbnPX4gZo+FHSzsJ8YMKETDt4HxU9lN6A755gpu6zroWez5E8=;EAmBBl0Kw1apAVhkO7SV0w=="
 ---
 

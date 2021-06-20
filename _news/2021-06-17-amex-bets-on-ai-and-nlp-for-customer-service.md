@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1120
         height: 720
         isCached: true
-  - title: "Talkdesk Retail Smart Service Brings the Power of Artificial Intelligence to Customer Self-Service and Agent Interactions"
-    excerpt: "Talkdesk Retail Smart Service brings the power of artificial intelligence to customer self-service and agent interactions."
-    publishedDateTime: 2021-06-15T15:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210615005245/en/Talkdesk-Retail-Smart-Service-Brings-the-Power-of-Artificial-Intelligence-to-Customer-Self-Service-and-Agent-Interactions"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "w4Mi985t3E11VfLurkp/dBzrEb8HALxZAFwPZuXRiHxWGmkPXZPnj5sUtrTwo49QCyPAwWDM2+UsvIJdSPMHepOe+BtOSRGeJll99Q1PisBtmAPzygdFgdE7twJQ5x3/DjkisIC+XSYSlgDEO+AIX5DJZS747w5L1FfAIcmj4pkBseUMAy6TccsakL1F3Z2hpMu3ps5oLcxF7b3A3zIv+Z1QcN5uuLop08HK4lb2Z/ZY0xcDfOshcDhDp2AruuJW3hWKS08s+V+xAUL+rFsUncMJaqFu2hM/gg/dYGqujZrRTI/zJk+8gKvIbPi4l606K0tRoysOOQIJGwSC1RfLs030VlPESi4kRcseQAff3Zp4ALrZ2UBPsArTVPb9wIetO6lYmS76L7TPL5SZ284l8xY4yuyzTHFmfaIIpUKlcEt/UaI6a8BiSbehsZMSVY8HX8dxCNrwCr4/SYYmQJyjK7ev2UBJThf9b7m8KZ7oh4zyIB8iIKu/kWgqntdEjOwJm6V/ekMSGkZa/Ci1u9R8pw==;JhagXg0eAfnnscCeru0dCQ=="
 ---

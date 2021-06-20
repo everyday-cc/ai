@@ -181,20 +181,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook AI project works on turning your handwriting into a font"
-    excerpt: "Facebook's AI research project is “TextStyleBrush” and it is capable of copying text styles from images just by looking at one for reference."
-    publishedDateTime: 2021-06-15T15:35:00Z
-    webUrl: "https://techstory.in/facebook-ai-project-works-on-turning-your-handwriting-into-a-font/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/Facebook-TextStyleBrush.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Today In Payments: Web Inventor Will Auction Source Code As NFT; Shop Pay Available To Facebook, Google Merchants"
     excerpt: "The inventor of the World Wide Web is auctioning off its source code on an NFT, and Shop Pay will soon be available to Facebook and Google merchants."
     publishedDateTime: 2021-06-16T17:54:00Z
