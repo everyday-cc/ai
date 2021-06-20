@@ -2,7 +2,7 @@
 name: "Demis Hassabis"
 bio: "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe"
 type: "profile"
-heat: 161
+heat: 403
 
 affiliation:
   name: ac.uk - Homepage
@@ -13,7 +13,7 @@ website: http://t.co/8B3TFG0hNp
 twitter:
   username: demishassabis
   url: https://twitter.com/demishassabis
-  followers: 227560
+  followers: 227590
 
 googleScholar:
   url: https://scholar.google.com/citations?user=dYpPMQEAAAAJ
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Demis Hassabis"
 
-secured: "vO8m0MkIMMStGP9RO7obFfwtDbS8YN2bsWf+M5YLRWD8oy+8Iju6qUXLqzZ0IFJHpodT8FVig05H5J6AhhKny2mepQB1/Yn6M4msgjGolF+pkv8ZXanmxnkwH+gRPIKIhLoOYH2ADcQonafm67FYEJEh9M/+a/tD4wp/Z9Uu0n3W0Gaa5RwRxan2Z/Sv0mAddqh4So1UC8KyRpI31obGN2a4QIPw1wrt26v27dKtskjDjUREOEVVVA81qyOB1bV68dUzoPPvuasZeX8Rb5hnOpPeRETnFs4h5/J2zaXahFz40pAc9+6JHx1tNBodL7AqOOUm+AWtfwz9G2JGue9w2Z6bizxypPPMoYg/29HI3Zdf1OtuHXaAnPDXD0HsqS/RrLnclCzzivVQ+UmbhXqiZQVwr8Erzt6PKv/OsEd1tCs=;1Sa9RvHWXio8PEZSG/B3og=="
+secured: "nbyQRRGhkcQjfpR4OQE5oFOkEdODGhk2v3+W728GZMHj5u2ShZKGMAsFAWRMrIBwiPjHjweBgEhFwR+EEHyN87IKfZ7ue3GV9SGLWHiPVHGtlaO7S9kZ3JsyO3yzLx8sKLbMYsXIEtgnKXuqyiNrIfG3bOwAAob4Soq1a+syQDQ2N+FWrjYC3axacU/noWwcLfdlE9sNPH7us5KCLsuuC9cjPqrULVb5XUVXm7/2wkR7FJZsZSrS9itUaEytY8S/b+BfdcGargxYBR0sx76P/8XT/Ex/FzBwrMzz0L6EE0WUl88K7gVicxr8G8TqTf6WvVW4L9lak4M45WkFazPnpa4K52CJ8RYsO+kmrysMwgp/qCIdn/uE7RWg+f+Y5uTxeqLOiSPhSUbvBA0/yaCcPNVeC6KEch2Rt+uWSVE/kaA=;i2inTXAf/qW0u2Ftpr52Dw=="
 ---
 
