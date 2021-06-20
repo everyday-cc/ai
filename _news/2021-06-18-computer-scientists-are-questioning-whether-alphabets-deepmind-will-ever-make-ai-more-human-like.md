@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Doubts Surface About DeepMind’s Capabilities"
-    excerpt: "Computer scientists are questioning whether DeepMind, the Alphabet- (NASDAQ:GOOGL) owned U.K. firm that’s widely regarded as one of the world’s premier AI labs, will ever be able to make machines with the kind of \"general\" intelligence seen in humans"
-    publishedDateTime: 2021-06-18T13:48:00Z
-    webUrl: "https://www.baystreet.ca/articles/techinsider/67956/061821"
+  - title: "Doubts Surface About DeepMind's Capabilities"
+    excerpt: "But they remain relatively dumb, or \"narrow.\" DeepMind's famous AlphaGo AI can't draw a stickman or tell the difference between a cat and a rabbit, for example, while a seven-year-old can. Despite this,"
+    publishedDateTime: 2021-06-18T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/doubts-surface-about-deepminds-capabilities-2021-06-18-91975752"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4sdnXm5C7UAH/5TgDiv8jvt7OPD03/Roged062nlo+Uu4emz0Kv5Y2ZQQWuxLGee3nJriwxBHWfMqDKkvOPXxdT2GAqfqR651+pbA43kQVLtKMnb2GgTHLDj/X3guipEb0rDUxaU15Ug0pJA972UdRxJvWAh6BYZLhgUe3pdZ01HgKt7qLhZz5u1zTjk9bkcmhaEiAU4Q7NMH0A1c4q5NtC+AH4GaY5YMWk59P9gAjOCLV2MA+F8XbR+164u8+0vEimBqdRSxwgxE04iZ+0Qm1dXLUFy8zCRdtPrNN2glPvjYHDFlr5wmWQZrU4nBga+DUSAY9gBBoDjaS9KuixKgJ+i4VhXyub2YTlfmlUIRVqFHYWaepYwBknt0EeJoNf5tFE9qFDx9bL5GO5PSRHoixa+qhTOUAM0Y9thP3GWKxfwY2aOglBNRJKu1CQ8N53CWy7cGXA/nsUA94y/zPiXhLK3fbYm0YHq6haTAdi3wvbB+RCMTxIeqqhKz5tu06mukqR5UO/Bt+xHA+h3BkJQJQ==;Tply5mLkhoiYp/uhR/+Pfw=="

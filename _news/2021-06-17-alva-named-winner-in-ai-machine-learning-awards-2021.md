@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Alva Named Winner in AI & Machine Learning Awards 2021"
-excerpt: "PRNewswire/ -- alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine"
-publishedDateTime: 2021-06-17T15:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alva-named-winner-in-ai-machine-learning-awards-2021/article_b6c81308-a021-5589-86e5-bd216b2f3093.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alva-named-winner-in-ai-machine-learning-awards-2021/article_b6c81308-a021-5589-86e5-bd216b2f3093.html"
+excerpt: "June 17, 2021 – (Newswire.com) ​alva, the stakeholder intelligence company, has been announced as the winner of the Most Innovative Machine Learning Solution at the 2021 AI & Machine Learning Awards."
+publishedDateTime: 2021-06-17T13:31:00Z
+originalUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
+webUrl: "https://www.digitaljournal.com/pr/alva-named-winner-in-ai-machine-learning-awards-2021"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Natural Language Processing
   - AI
   - Machine Learning
 
-secured: "SNMDFEyev+8VYDqAYTbT88IIrPikxNUrd+xRrKCUgyScC2C1leUCHgK01ynzTqgFet65XrIw4pKEJ1c8BF7+XiJdS9+zC3rc9WFaDe+KyZxCBp2ilVgxN4geX2HVN7p0WfJlfA0YwXx1H1P9N362z/k4bDqo5pmEh9uwhFeKDFQa+M/jFck4Wa//M3G24PDS9oZAzc0nTHpHwJ00ufwVl7cvvv1e5hax4Fcx0LV3Ibg4x3/AtmzJG7wK3jnYH8v3G7QDk7IzQan1Gnrer0Rdiy9AnhfB5S681c5tpDMwmSIIlOpEtR+vy6LuJIVazaW6QcB4RCPjMIxvmH+XgKo5EliseH2BEw6NMBaxlTbGGHY=;0Kzs7qclgTfO+DOnOGRxPQ=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/2afce559307abf56539d7a7f15a9123c456ff0f8-e1624097888608-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "xRcVYcl3o1kFJQ0/Y0d+QxFRh0aJ6kO99gNALmlWvDHDeqIPZM0psN8hrE+bojAiGDPQdFsyYAjZm/CAx4sTFrAMKmfGg1bvPlJGKg+OI9OrI523fEXzdl1sJVphISEtQi5bXb7ODNfRycKEFn/YTJd7qKT5Idot1UgxXGGJZyTsGShhXLkkLoTF4KqiM9kQ9mZf4liGPVIgRhvyZx2jXJLXPKGe2jzNPXCvNdsLOffJDK9QVMbpREazxcbLhhde6OZJ0D5GCYJWyRS1wxb5NsP1TIhBeD8oY9ZhbyOs5PSQ2rL1G6KrTAS2CGDf+v+5u6TzFuQtx9lWGTa041tH4ljxpbUAQmNfmwgnBnCYEuM=;eujC76N2c9BX+dv04/fqHg=="
 ---
 

@@ -36,17 +36,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
-  - title: "TCS positioned as a Leader in IDC MarketScape for AI Services"
-    excerpt: "Using machine learning, machine vision, voice recognition, natural language processing and knowledge mining, TCS has been building proprietary AI solutions that drive business transformation for customers across different industry verticals."
-    publishedDateTime: 2021-06-15T05:05:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-positioned-as-a-leader-in-idc-marketscape-for-ai-services-121061500230_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-positioned-as-a-leader-in-idc-marketscape-for-ai-services-121061500230_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-positioned-as-a-leader-in-idc-marketscape-for-ai-services-121061500230_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 39
 
 secured: "yBpi0KZw+mZDavdUm7Js6jq/R0sNpFNEWNEV1D9f4Sye4s7lqsJsh3dkiBHDQqQuZseJd3g2grxUstVzdrvQZUTI8JLbpkpnSqfoMhn3CnpUJ3iPz7sfCFMLFGaT95RXbiCYNtHvPFQNZyg6UYh7H65Yc126SL0Ce2/eYfXaQPDVOUOkIXXruEAYbzz2EoFsk030RqEVnNO3ZChPcHoDWXsg1vxorQWMtWpVM4fGpdPkuRRSOVDX3i3Szx17ldUh0bGXHUEGl+tixh8yBhEkZ2oFzTVHXto8Q/Vm9N0IR3L54SVfLjdN+cQyZUvE+ATpZ+9/iD4zU7o0vyAIkT47+NeIXxWXaHApkUIFRtJZ9+s=;FoyuroQi+0FeD1YHX/dvlw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-
 webUrl: "https://www.investorschronicle.co.uk/ideas/2021/06/17/rise-of-the-machines-how-to-invest-in-robotics-and-artificial-intelligence/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How The Online Gaming Industry Gets An AI Boost"
-    excerpt: "Technology in the last few years has made significant changes in how we communicate, collaborate, and even engage with our target markets. Gaming"
-    publishedDateTime: 2021-06-15T06:40:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/how-online-gaming-industry-gets-ai-boost.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/04/Sony-Xperia-XZ2-Premium-AH-NS-gaming-PUBG-AH-2019.jpg"
-        width: 1463
-        height: 823
-        isCached: true
   - title: "Surrey academics push boundaries of AI robotics for active debris removal in space"
     excerpt: "The research that will be demonstrated at Robot Lab Live, an interactive event at the UK Festival of Robotics 2021, first appeared in Frontiers in Robotics & AI. This newly published journal article discusses the novel technology and how embedding Artificial Intelligence – or AI – can help space robots make decisions reliably and timely without the need for human agency."
     publishedDateTime: 2021-06-17T15:18:00Z

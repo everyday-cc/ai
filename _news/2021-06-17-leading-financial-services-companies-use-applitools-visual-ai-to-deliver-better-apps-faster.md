@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Leading Financial Services Companies Use Applitools Visual AI to Deliver Better Apps Faster"
-excerpt: "Seven of the top 10 banks in North America and three of the top four banks in Australia deliver flawless brand experiences and improved consumer"
-publishedDateTime: 2021-06-17T13:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
-webUrl: "https://markets.businessinsider.com/news/stocks/leading-financial-services-companies-use-applitools-visual-ai-to-deliver-better-apps-faster-1030532141"
+excerpt: "Applitools (  ), provider of a next generation test automation through Visual AI and Ultrafast Test Cloud, today announced it has grown its annual recurring revenue in the financial services sector by more than 200 percent year-over-year."
+publishedDateTime: 2021-06-17T13:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leading-financial-services-companies-use-applitools-visual-ai-/2021/06/17/9392651.htm"
 type: article
-quality: 39
-heat: 39
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -33,6 +29,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "1QTapKOS9wBPBmG54Pqol9EOguodX8oUns/+/H8h81Y+Tpe5mN5G6lUQj85dAdzOV5Ee0trnEjKDlct1Srr9Q1WAQql390lIaD4MuTHIQFs7NbCWdlFa6pNoKZnxoM3UG4l7t71UJWsCys71e75PGCXcX9X3WnD2r3suJ0ms7Th3GcO60yVwwimk2mbRswbAmRMaxCyJkkdNw7xuWxkXglM5KzrQLnspddFlJJWWY5yzYuQ8GnhDAXFaq3rdRBFfy4WHfTOp7Ly+VIoKm4L3x9xWEUhZiGLhJ3ZtvX+czYNBzYEPVkO34VXxeIaeABiQwa089QahpQmg4+G9uefEUVjuVb7L6IHd9fHy2/gx7hEg1io6vf/ZJvAvR5qbSEMpf/vDGjo/5Nb3PPW1szK3Dj0tABAo2eOpWdmskYkh0vR9dI3sv1l8Z4TM20WOpISzoleiyn8Is9WEzTMl5xlRTurrlfpbwKKzyuhzIdkKyIgJiMxHEEbrW80Olfrp7AJ3ZHCikqDY63tABDnKH5Vl0Q==;2JRwnY3h74X/E9pXJ7YKQA=="
+secured: "ViFQtjVgSpnDsrrjHW6ee5PLUe9nkW35mCy/BRWvWkwL8Ekb3Vwv8Ll7qDFKDJbbllhxYf6QVNLkUudQU6/evjzGpo+UQ43eAFiIwlVEiA82eNOKQ3NUbTd7WO0kH6zsOPhkVljw42kwpI0ndOjcEWZUnMXf5JXFt4Nx0tj0jBW5XM2SofnD5wf5eFlAF4KLg/Gj4mP4UVUv44fqR9r2V4Zle9jp2RVXOBZBTObvvzXwPAd/77yfB00Webas4r7x0emsrM0TjIyH2D+51Lan9nflxOu+NjxuHxXPu6xzC1VOpcKflguYSk77FZzUA3ys9kOo+V0AIX7/1ev9OhRls9q+HqCguJquqnlTL6vmLXrNAcpi8FddaUppHFbX7UyS+yscSBbnb4v5oWOMiPoSmMXMF/twWwHnY4f0j2Vxt8kLfQk4+1gm+Kgg80DH9XVAClkOoCXCYUXJxvwuTzuyeeeeh/jBHxWWQhWgW8aJx74FjuIuAQzWzm1T/gdO/+/GIwDCbBU2G3oP3rj3SC7zwA==;71H7c+miZhU3TXx3mNbQHA=="
 ---
 

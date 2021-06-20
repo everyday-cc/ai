@@ -19,21 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Digital Nirvana Announces Trance 3.2 for Closed Captioning and Transcription"
-    excerpt: "Digital Nirvana, a provider of leading-edge media-monitoring and metadata generation services, today announced Trance 3.2, the latest version of its award-winning, enterprise-grade, cloud-based application for closed captioning and transcription."
-    publishedDateTime: 2021-06-18T18:45:00Z
-    webUrl: "https://www.prosoundnetwork.com/the-wire/digital-nirvana-announces-trance-3-2-for-closed-captioning-and-transcription"
-    ampWebUrl: "https://www.prosoundnetwork.com/the-wire/digital-nirvana-announces-trance-3-2-for-closed-captioning-and-transcription?amp"
-    cdnAmpWebUrl: "https://www-prosoundnetwork-com.cdn.ampproject.org/c/s/www.prosoundnetwork.com/the-wire/digital-nirvana-announces-trance-3-2-for-closed-captioning-and-transcription?amp"
+  - title: "AI Centers Of Excellence Accelerate AI Industry Adoption"
+    excerpt: "The AI and Digital age has accelerated the rate of innovation so quickly that some organizations simply can’t keep up. In fact, Senior Leaders and Chief Executives around the world are “extremely concerned”,"
+    publishedDateTime: 2021-06-19T22:58:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/"
     type: article
     provider:
-      name: prosoundnetwork.com
-      domain: prosoundnetwork.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.prosoundnetwork.com/wp-content/uploads/2021/06/Digital_Nirvana-Trance_3.2-Closed_Captioning-Transcription-Natural_Language_Processing-NLP-Captioner.png"
-        width: 1913
-        height: 1024
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ce716d1b2aa835a2ef3cdc%2F0x0.jpg"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "SpaceML.org: A new resource to accelerate AI application in space science and exploration"
+    excerpt: "The SETI Institute and Frontier Development Lab (FDL.ai) are announcing the launch of SpaceML.org. SpaceML is a resource that makes AI-ready datasets available to researchers working in space science and exploration,"
+    publishedDateTime: 2021-06-18T14:25:00Z
+    webUrl: "https://phys.org/news/2021-06-spacemlorg-resource-ai-application-space.html"
+    ampWebUrl: "https://phys.org/news/2021-06-spacemlorg-resource-ai-application-space.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-spacemlorg-resource-ai-application-space.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 48
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/spacemlorg-a-new-resou.jpg"
+        width: 1003
+        height: 1090
         isCached: true
 
 secured: "53Az1K2YdKpapb64vKJB8CArffBKoHdm1bQ/yH4L/qYcuxiNTc1U/LJh9dOOzDJuM0nzxe5wTIrWcrwgoVcTlyl8D/jIgDJIXgs+aeXqBvhO2eOtbyhFCIvg4ck4iwDAKzCAEY0ksaeTOOTyvSqt+SLOlNARx8a8maBfwytAEgl1smDj5LTy0tBTTwnm7cFNVcXpIee1uHdTWm9s0/iG6pmjhI1viB22c9CqvBy01rXUCAJFMsFM3kH6sOIOFHYktZ1+wdZWCUr0RYwQYqvkAsKx8Rea7jAqm5S8vfIEms7mC7T4eQnhtL7djkjbTr/LeuhRzbv8O9zbrJKBoXRbFvjJAK5DA8pdFNHLiUQKIEk=;X6Js1Mj0I74e3oaWkH/p4A=="

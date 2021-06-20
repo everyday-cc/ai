@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Doubts Surface About DeepMind’s Capabilities"
-excerpt: "Computer scientists are questioning whether DeepMind, the Alphabet- (NASDAQ:GOOGL) owned U.K. firm that’s widely regarded as one of the world’s premier AI labs, will ever be able to make machines with the kind of \"general\" intelligence seen in humans"
-publishedDateTime: 2021-06-18T13:48:00Z
-originalUrl: "https://www.baystreet.ca/articles/techinsider/67956/061821"
-webUrl: "https://www.baystreet.ca/articles/techinsider/67956/061821"
+title: "Doubts Surface About DeepMind's Capabilities"
+excerpt: "But they remain relatively dumb, or \"narrow.\" DeepMind's famous AlphaGo AI can't draw a stickman or tell the difference between a cat and a rabbit, for example, while a seven-year-old can. Despite this,"
+publishedDateTime: 2021-06-18T13:57:00Z
+originalUrl: "https://www.marketwatch.com/press-release/doubts-surface-about-deepminds-capabilities-2021-06-18-91975752"
+webUrl: "https://www.marketwatch.com/press-release/doubts-surface-about-deepminds-capabilities-2021-06-18-91975752"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/google-headquarters-sign.jpg"
-    width: 1500
-    height: 1000
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +46,6 @@ related:
         height: 2580
         isCached: true
 
-secured: "VYKfFdNVnIXCvGfn1pEg28bCYbxEYBo6bn1gL9p5t5Z6eTlD05l12651/NXhld0NBfJ5cV3UVWcSbyQBTQFa7OjTEX76N2UQznaKcil2hXu87Nbhsz8UtWTH9PrnjOXY47yYqWZac9UlmhyoqOkED7xWS5mAUqogOoltuPsAlsb6HLzJ200KvaE+z8lr/pbps57JGqEhX3HCZFX0f0s4YMD6errOWy0TLAbIr4u2HqxNvgGhaUzdE3pgugYSF4QEbP/hHQ9MNFH6Pl+blp7XRK+Kwxl8ZEJHPtTb21fSSET2UXwShpSkkirAC1k5thzFXB8ObSOYLTnbc0SXmI8R2NTNocpdDVwPDzq5TcXiiN8=;mt/uMPQEC+mvH6LcJ5nnhA=="
+secured: "ilJSTIk/+Qf0rFkc+4s5A2aTydeXT28zFnoxz0Nvo7YkpnLN0RgoBIFyCSR4LKd/zFAQ6yoRQZpbRAOjW+vsTAi7vK+PpoehEaij5hcZ6NtNC3kSVGYRZBsWszIAuWPWer2O6EursqNzf6cO0koCGT38cubqXIunwOoyF/aZxltD6+5Er/JM12MMgRRcyXpJpHarGZl0u9GCVRr0qz/N99ty8aHYDAfVjyOSutwMjFhCYVXbWpwQInWhQwg6vCLszKhpnEvlVV2qeeH4Fu4SdxpvpwDPJtUX9eay5b6Cgt3FnDFtd0grOdUpjep72gFo9NE1BbqjY4ZatmCiXGVo0y9xd91wvgvQgxI2T3dDMrM=;Wip1omZDVmU/A4MFnSB+9A=="
 ---
 

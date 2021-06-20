@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Ambyint Leverages AWS to Deliver Production Optimization for Improved Profit Margins"
-excerpt: "Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services, Inc. (AWS) to make its products available in AWS Marketplace,"
-publishedDateTime: 2021-06-17T14:02:00Z
-originalUrl: "https://www.register-herald.com/region/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins/article_0902e5e1-a630-5415-9aba-1f59a86b701a.html"
-webUrl: "https://www.register-herald.com/region/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins/article_0902e5e1-a630-5415-9aba-1f59a86b701a.html"
+excerpt: "Ambyint artificial lift optimization product listings now available in AWS Marketplace Ambyint, well lifecycle production and artificial lift optimization solutions provider, today announced an agreement with Amazon Web Services,"
+publishedDateTime: 2021-06-17T09:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210617005106/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins"
+webUrl: "https://www.morningstar.com/news/business-wire/20210617005106/ambyint-leverages-aws-to-deliver-production-optimization-for-improved-profit-margins"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
 
 related:
   - title: "Ambyint Leverages AWS to Deliver Production Optimization for Improved Profit Margins"
@@ -35,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 12
 
-secured: "IPqSeg1h9WtOu64kvKY1LVJUqiofq/MM2IVPm/LfHyVMOlVxaxLzBxUP5QANEftrEwIr1wXAKLPHL/OEpAv6YbzB5jDAWR5gEeZ/23qZ3o+oTwgTtCsBg6PtezU/TYFKfECwuJvsxpTod6SAHKdug76YQnP0B4n8ogR0VVNCeL52y0KU4o5iinRn9sALYUrd2juioKIvcFWpOJ1mNYK6gBcNirJTrTXS8UYqePD1qgNHV6exHWBW9E4XgxAvNkuVaofhvZwXXcBRfC8FjreAAAWwoNPFEeUnP+8x8F4K4Rn6Kyk2DsCYS3tf9PSAWIXFZNF+/E30CzbgI5htvScu2aoHqyX54kjYAt6yt3fOCtQ=;U/elR29xEUIp9FULzaYW+A=="
+secured: "R2EoAvf/Z6YtBYdyLf890aJegxuysZkJaEzT9zztUQzQwmnkcPJubmeKDNzPwrPOJReuYN/aUbx+5tu/K+RFZjU73u8vOxJtyiw83eynBCxWG4lstOAa27KvhxUP79KNQu7rmmd+CDFNzWxJrh20DmFllO04XVPfTYYXd4i/qzukyCmTy9Y4wUw6vEEKA62ZsYR1r52llwYJSG3/eH8INqjYSh8oeSSOwMbyvfIYKAa5c7oHBAWv+7lZQ278WqUgyd+nbUADG7vDXG9cLlhf/5RGIs8VvkfFPKNI5wD9pIk52Hso7xNxRboKTvOua/unoc4cG6fi4OHYttXbTiRU2O+qYzR8kB1WSp2IQ5Fadag=;XCD/qhYwlbplmcydWfULJQ=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-06-02-collaborative-contracting-can-help-combat-bias-in-ai.md",
+      "title": "Collaborative Contracting Can Help Combat Bias In AI",
+      "excerpt": "To mitigate bias in artificial intelligence technology amid pending EU and U.S. regulations, contracting companies should consider each party's role in controlling for bias, rather than applying binary liability allocations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "originalUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1389441",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1389441",
+      "publishedDateTime": "2021-06-01T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-use-amazon-translate-in-amazon-sagemaker-notebooks.md",
       "title": "Use Amazon Translate in Amazon SageMaker Notebooks",
       "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation in 71 languages and 4,970 language pairs. Amazon Translate is great for performing batch translation when you have large quantities of pre-existing text to translate and real-time",
@@ -1139,40 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-computer-vision-is-like-investing-in-the-internet-in-the-90s.md",
-      "title": "Computer vision is like investing in the internet in the ‘90s",
-      "excerpt": "I’m talking about computer vision. Computer vision is the kind of disruption that only comes around once a generation. Computers have long been able to count numbers and read text. But they could never master vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01",
-      "originalUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/computer-vision-is-like-investing-in-the-internet-in-the-90s-2021-06-01?amp",
-      "publishedDateTime": "2021-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

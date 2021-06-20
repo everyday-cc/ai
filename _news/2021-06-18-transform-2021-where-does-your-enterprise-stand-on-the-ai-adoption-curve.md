@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-en
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
 type: article
 quality: 85
-heat: 97
+heat: 95
 published: true
 
 provider:
