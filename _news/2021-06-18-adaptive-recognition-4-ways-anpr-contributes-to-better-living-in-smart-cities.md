@@ -64,22 +64,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Federal, state lawmakers push for stricter rules on controversial facial recognition technology"
-    excerpt: "Facial recognition is a largely unregulated technology that has been lambasted for its potential civil liberty violations and inaccuracies."
-    publishedDateTime: 2021-06-15T18:52:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/as-rep-ayanna-pressley-sen-ed-markey-seek-federal-facial-recognition-ban-massachusetts-lawmakers-push-for-stricter-state-rules-on-controversial-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V5FOWDM2M5E5HOZMLC5N4YGSSE.jpg"
-        width: 2811
-        height: 1582
-        isCached: true
   - title: "Facial recognition may help you find your lost pet"
     excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
     publishedDateTime: 2021-06-17T09:05:00Z

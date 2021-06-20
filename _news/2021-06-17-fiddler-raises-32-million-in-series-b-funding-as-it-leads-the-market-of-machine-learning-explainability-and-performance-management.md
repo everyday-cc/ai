@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
-excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance"
-publishedDateTime: 2021-06-17T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-301314395.html"
-webUrl: "https://www.prnewswire.com/news-releases/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-301314395.html"
+excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance Management platform powered by Explainable AI to enable them to build Responsible AI in production."
+publishedDateTime: 2021-06-17T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-1030531865"
+webUrl: "https://markets.businessinsider.com/news/stocks/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-1030531865"
 type: article
-quality: 4
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "Lexion raises $11M to expand its AI-powered contract management platform"
@@ -94,6 +99,6 @@ related:
         height: 889
         isCached: true
 
-secured: "HdLWtSguDJ2pRX4LqVMpVag6n/FGOQpo31ksXbUeNk0a6tdiKTKmPUPOCE/uUI99WbjGPZJo329loYWOAf9/qp2DACaF1qvT2h13w3bLZZChbxtlu6DaJU+ULJw5gkw1isZ6qA1TbWqMdGyfzLaCS0JV6VzOAD8r/HnLciw0SPptF+38nm8z+diK7lU09KpvDrnNIU0TDJ6FkOOmQOBLHDah6e83cj9kiQbAWr/zjA2BFmjUZjwmjwH5we+2tw3+q9gBGgFF57rph+8L3Fjoeq+TVZzfvCidkJoq24OwXT2SGxzM0JyRlo6dy2uWCMqrDWfeRQasAPTZ2Ws4XzM2GmqqRumtAjdaSBR8j53OjpU=;UN4io1vS4hn/3do+DCRXIw=="
+secured: "fXp/3wrBS8yQZvZ4SWLh8bLWKn2jzCek4n23S4CQaKXDX7by+l+Nmiv7wF0PMm/+2yC3/imWay7FdgJQdjNifXg0rb8HR9BUx3XEtpNNBtm8WX8Istv4bWwu7R8wHJmu6jxjlIAPRSP9Fz9+74fH80hEpqqd3ZiiivBnUDYlCbRRFmTPCrRYIGp0dWWxZ0NbghaMFks4eS9dbzSKoKuTM/0qN5rpZ3ZXsRP3I/evE0v3G0Zh9HkCMOl+NrDpo4LW5733GrBaS4Cc7weE639RpabVtcH71v/vQJQKMo3vEZj4iSLSVyuQF+XCxttpIm5/ZOQLKZlW8fw9JEwXztkhEoUFge5PiTpq/R5pDrJeQXM=;P1tm63OS9o4copLQRuJiUQ=="
 ---
 

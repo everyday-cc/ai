@@ -248,11 +248,11 @@
       "title": "NVIDIA and the battle for the future of AI chips",
       "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
-      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -282,11 +282,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
         "AI Hardware",
-        "Google AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
@@ -425,8 +422,8 @@
       "title": "Google team uses AI to create next-gen chips faster than humans",
       "excerpt": "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,",
       "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
-      "originalUrl": "https://www.tribuneindia.com/news/science technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "webUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "originalUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -443,8 +440,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
       "publishedDateTime": "2021-06-14T11:35:00-07:00",
       "updatedDateTime": null,
       "provider": {

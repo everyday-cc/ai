@@ -26,6 +26,22 @@ images:
     height: 668
     isCached: true
 
+related:
+  - title: "Why are We Still Not Seeing Self Driving Cards on Public Roads?"
+    excerpt: "We were shown computer renderings of futuristic cities filled with autonomous robot taxis and luxurious concept vehicles where riders could rest on fully reclining seats while watching high-resolution TVs."
+    publishedDateTime: 2021-06-20T10:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seeing-self-driving-cards-public-roads-188163"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/tesla_0.jpg"
+        width: 1300
+        height: 866
+        isCached: true
+
 secured: "a7g9H1ADZE46i83yUzjcgUc1iNdjwiY0qwBOH1V4wrc799erDO/yHndFpe3kqXQBx5tN2kutbYMZM2bSmZB65hgqENlXluSnP+evuzF5gr4M7qdKiF8pp8wTZhOWvt2ATFJ+ZVbExaahuMm+bkIqij+u3F6eItmaTvAvxIbMX8rMKwwxnT9nnFA33bZ+TRmriJeT4Iw6JyTePN+iybfIeboCpFel9mq4j65G8AD9nPW9jxX6GEP2y7u+56EN9aK97b+pHqJEEA9nHOA3xSUydViL2tOLz8oGlbPcJGajEMED6QsRZe1yXxrBfFdT2kJj9IaGFqqTFL9AlaSr3Rsq5tgKg5BnJXOn1n6kc1Qp0440eIp48v57oqVi9gEZILTXR+4A+94ZTyU1Ht4OOXo2twcOcVy1WIC44U7w1dq1G8mGemmn/EqONZi+48PyS0jxBLd/lED3I0mygh7WqBw9faT6J3BcDmekfBF8vJLdki3e+m6FNuEDv2MeM8jsYaRzCzY9puAZ+/x7Jd2uGk5teg==;td4oayq0CrsCzy0rmpJQ+g=="
 ---
 

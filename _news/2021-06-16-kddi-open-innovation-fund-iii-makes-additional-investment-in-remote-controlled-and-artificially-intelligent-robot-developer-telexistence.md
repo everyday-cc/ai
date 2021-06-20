@@ -39,20 +39,6 @@ related:
         width: 1240
         height: 780
         isCached: true
-  - title: "Remote-Controlled Robotics Innovator Telexistence Closes $20M Series A-2 Round"
-    excerpt: "Airbus Ventures announces its latest investment in Telexistence, Inc., a leading innovator in remote-controlled robotics with artificial intelligence that has closed a $20M Series A-2 financing round led by a group company of Monoful Inc."
-    publishedDateTime: 2021-06-15T17:06:00Z
-    webUrl: "https://www.register-herald.com/region/remote-controlled-robotics-innovator-telexistence-closes-20m-series-a-2-round/article_c5753b34-b7d7-5dba-a77e-dee34b5db614.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 50
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/7/7d/77d6d6b8-27b4-562b-b4bc-6dd853f34b17/60c8e0d085b8d.image.jpg?resize=1124%2C630"
-        width: 1124
-        height: 630
-        isCached: true
   - title: "Telexistence Closes $20M Series A-2 Financing"
     excerpt: "Telexistence, Inc., a Tokyo, Japan-based innovator in remote-controlled robotics with artificial intelligence, closed a $20M Series A-2 financing"
     publishedDateTime: 2021-06-16T09:00:00Z

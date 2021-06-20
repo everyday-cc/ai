@@ -38,20 +38,6 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "Senators Markey, Merkley Lead Colleagues on Legislation to Ban Government Use of Facial Recognition, Other Biometric Technology"
-    excerpt: "Legislation stops federal entities’ use of facial recognition tools and effectively strips federal support for state and local law enforcement entities that use biometric technology · Place a prohibition on the use of facial recognition technology by federal entities,"
-    publishedDateTime: 2021-06-15T17:31:00Z
-    webUrl: "https://www.markey.senate.gov/news/press-releases/senators-markey-merkley-lead-colleagues-on-legislation-to-ban-government-use-of-facial-recognition-other-biometric-technology"
-    type: article
-    provider:
-      name: US Senate
-      domain: senate.gov
-    quality: 13
-    images:
-      - url: "https://www.markey.senate.gov/assets/images/sharelogo.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QlSXgEc4lxDKET4o8tN2BJVJ54iQuy3ojv3f1PYhcfStAu82bNHITEwlHCTv/hHBflllHudF9YBPWxS9rPEA5tfDr9ywJMukGrSGd40Y/YjPCLaKpUxPKby2SKEAWX428ebS6FJLJkUqBOO1OInij5/BcANCunFHdSl+2ggkCMsbHxP0Skb2jiF+rdFohdzKsko7woMPxNY/UTGoBaF1am/KzWwtfHwEqk5eym3XHoexik6FzGRe+MW9HlxawbR/gFIhsdWj8PpbMusbcjQ2YblBHOmXg5j7AggZoi5IzHVk2xiwF4RKlgSaH/SLvPPMAs0zuAeHOeXd9Y+e+WsA/wKtxYxtr6Y2TPCUkg1n4T0=;l5aIejyOncIIwHfJhs5mtA=="
 ---

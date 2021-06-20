@@ -142,20 +142,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Huawei targets driverless car by 2025"
-    excerpt: "Huawei is developing a self-driving system and will likely license the technology to established automakers in China and potentially elsewhere."
-    publishedDateTime: 2021-06-15T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132601_huawei-targets-driverless-car-by-2025"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-arcfox-alpha-s_100795744_h.jpg"
-        width: 1920
-        height: 1275
-        isCached: true
 
 secured: "pSzVvEWy9NkYPsXYhiwomI+T9Ua/Bt3U1cjSZt3sb2vlJ2OgdhmsW+ZWxqeNKrFJva2LGCD5Af5P1PwuT3Lci6TsmqVJurfUCWAv5Ap+BVnqJmmxTr9u1H4lOm/Kj7cJI27a4NLtNmsn9c/kV/GaX0GxowBsPtmPijSwjHS21UmfqKEgssI2DJrOECPA16jfF11HG+8GMp5bpX3/kUcD5wAtwx6pPemj41udHtEVV4ZscePHiQvSOmWQplMIZLWWc+CQX1Onq01JsnS7B71udKYU8YONDFsOURpNNhUUkQVd9VQ28JK26HoOLDh5CsoUiDlIz6A2+joJf0W6molllFyzw2/9K74+APQOvruwwhaetLiFgmDmy8Lh8N5d7C+A+8CDqrx1r0/Fkf1iwqQzq+lXXZwr4/mOapmzC1EHUV2Kw0GZx8NXPoV9lgRTxj+KdOJSLQDgfI09ogOdHO2/Ur74bj3tEeU4FGH73oFEjqw17xE7fGSK/lX9U1ChPYFfD9vee1MI2BGsY5KC18cOTA==;ZozuXBw9TGRq2mzDMO4mYQ=="
 ---

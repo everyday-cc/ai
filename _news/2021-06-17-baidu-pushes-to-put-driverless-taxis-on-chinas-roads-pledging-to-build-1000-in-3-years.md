@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-t
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
 type: article
 quality: 165
-heat: 255
+heat: 245
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/20/waymo_driverless_ride_hailing_70069_c0-0-3600-2100_s1200x700.jpg?bd461f07e95b0f5f36779822774ec445b04d6d07"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Huawei targets driverless car by 2025"
-    excerpt: "Huawei is developing a self-driving system and will likely license the technology to established automakers in China and potentially elsewhere."
-    publishedDateTime: 2021-06-15T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1132601_huawei-targets-driverless-car-by-2025"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-arcfox-alpha-s_100795744_h.jpg"
-        width: 1920
-        height: 1275
         isCached: true
   - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
     excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."

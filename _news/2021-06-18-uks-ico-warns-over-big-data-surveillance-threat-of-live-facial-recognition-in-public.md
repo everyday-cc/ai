@@ -47,22 +47,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Democrats reintroduce bill to ban government use of facial recognition"
-    excerpt: "A group of lawmakers in Congress reintroduced the Facial Recognition and Biometric Technology Moratorium Act on Tuesday."
-    publishedDateTime: 2021-06-15T18:43:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-moratorium-act-reintroduced/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 61
-    images:
-      - url: "https://uploads.dailydot.com/2021/06/Facial-Recognition-and-Biometric-Technology-Moratorium-Act.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Information commissioner sets out facial recognition rules"
     excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
     publishedDateTime: 2021-06-18T10:51:00Z
@@ -251,20 +235,6 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Congress Re-introduces Bill that Effectively Bans Law Enforcement Use of Facial Recognition Technology"
-    excerpt: "Today lawmakers in the House and Senate jointly re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2021, which would effectively ban law enforcement use of facial recognition in the United States."
-    publishedDateTime: 2021-06-15T17:47:00Z
-    webUrl: "https://www.commondreams.org/newswire/2021/06/15/congress-re-introduces-bill-effectively-bans-law-enforcement-use-facial"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 23
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/media_image_1x_xs/public/2021-06/national-academies-science-3600x2402.jpg?h=6ac591db&itok=jxDzBbsX"
-        width: 537
-        height: 304
         isCached: true
   - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
     excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."

@@ -3,13 +3,13 @@ category: news
 title: "NVIDIA and the battle for the future of AI chips"
 excerpt: "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field"
 publishedDateTime: 2021-06-16T05:00:00Z
-originalUrl: "https://www.wired.co.uk/article/nvidia-ai-chips"
-webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips"
+originalUrl: "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp"
+webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp"
 ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
 type: article
-quality: 80
-heat: 90
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -17,11 +17,8 @@ provider:
   domain: wired.co.uk
 
 topics:
-  - Facebook AI
-  - AI
   - AI Hardware
-  - Google AI
-  - Microsoft AI
+  - AI
 
 images:
   - url: "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg"
@@ -40,6 +37,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "WbvePs9vJVbepVJHHgJpwAOmDmQwaEmyTPkA2pN0vIo4RD60Ey3iK3FUCCX4k6BMMgWpuwMtnJ4rFe/ubQSWTjss4Vn/dGzAS3uAUPBBMZ8YFI3QXu7kCsW8L7MRScX1SdoyycWCPqczxpEqjx8bYXM65tgHGF8U+SlDWOKneqIRE3ofJtWtQuv/ZZwpohvX1pTd+5PPn+F8HAK6lUcK/jL2qkFavyM6N5MYy6tP6pvwgNg7/qjylOjvEjeo9hG6UagKGiXjK1DcYc2kmYQD8vlo4YzssIFLACgLjrtwJktQ9fGHryybubHkgXJBOJFl1trG9DzSSuA8F8P+dQ5sapSI6cWnWfWrmbdtJl31DTacyiTlOjwnzp/OhxutCg8lfwU0X5lQWFKSh36ApJpy3MdQOANrMIfS2OqDmg7hxEu1I4jJtbjgoa28W90kRrlaWAYtp1fWXRH1+XppY5dF3nAPOG59RVIEcoHc1UPL8YLmv0lYOBIBOaiImZVH8FZHvSujukzoauOEunKI92X3hQ==;bzPqCF4u3QN8UFE8LgsyEg=="
+secured: "A18Xh9BN9EIwrgRh5gjd7WUYe+UOAvtDjSSu1IzI7XDNy6BGSmd6EaIAjUuzIO98rhhA/RNiW4AX0/F2AVHHGt2eOIT1lmgRjMd/EDQnZK/jWL0NNzRkYzB81J+YHfLk16K9fYzQR0QTFQ+92z9xarkic7TWNCh2NSxFzY2gSEZwdc9F+y88/L9bMImSSXolRDuSusxInaqhr5nW8/y7y2Qc4wR2ldmSRfoWEmmgtejiYMdpc9/Q+V/fPZirlSh3GzCRtC/e4Hq5U0TpdZsaqMMXTXx1hiyfsDjJSksGc/OfVh8N3AG/qn+YC6AAnQ7JhUpJBw2dgeayexvg9WY559W6Hjj9pmyeawYXjjtjAs0=;2LR1Q1EY86+t2OLpEP7uTw=="
 ---
 

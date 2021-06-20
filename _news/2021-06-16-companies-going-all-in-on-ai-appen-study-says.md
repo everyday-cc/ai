@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise AI budgets are up 55% over 2020, Appen says"
-    excerpt: "Appen State of AI report found enterprises are accelerating their AI strategies as a result of the pandemic and increasing budgets."
-    publishedDateTime: 2021-06-15T18:15:00Z
-    webUrl: "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/"
-    ampWebUrl: "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/Tech_money-e1623779327666.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Future artificial intelligence will happen at the edge"
     excerpt: "Opinion: Currently the trend is to move the bulk of the processing and intelligence to the edge or closer to the source of the data."
     publishedDateTime: 2021-06-18T09:00:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "ROG upgrades Flow X13 with the latest Nvidia RTX 3050 Ti GPU"
 excerpt: "Together, the Flow X13 and XG Mobile redefine what’s possible with a 13-inch device Asus Republic of Gamers (ROG) today announced the upgraded ROG Flow X13, the ultra-portable 2-in-1 convertible ROG gaming laptop with the latest Nvidia 3050 Ti GPU."
-publishedDateTime: 2021-06-20T08:12:00Z
-originalUrl: "https://gulfnews.com/business/company-releases/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
-webUrl: "https://gulfnews.com/business/company-releases/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
-ampWebUrl: "https://gulfnews.com/amp/business/company-releases/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
+publishedDateTime: 2021-06-20T10:45:00Z
+originalUrl: "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
+webUrl: "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
+ampWebUrl: "https://gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 563
     isCached: true
 
-secured: "iQ+zbS3bGtB33DvXUo9Lj4PqYXh5z6VMBgDSkKD0N84YRINOZhomg3T6l0ram7MGmdTDKuIDQlzXSWmEefunDj7VA+PHTqPKi5nGSM1nsDX8XIVDawMqJnavJ6RCArSmtg8OfvMq8zI69PN4k6mk5SK9POeQYKbGvc8oJBF8gBFvyCNfLJNi9Ex7zOl51T3BBZSYUjsyBqJVXf34I7eVzDfXRNRQ0aoYo1Tdo1ZNZztNuRjxQSgG7DSUAO2GTj3sq6GimYcRc9BMrsgwDaIAmbr/YrxxnTxShUtuGwPgmlf2+Yb4Cl+wqYioHSGnJ9U8tUQ/HYP/xwPoMOPROSG4j7Kj00arLF5F24GxekGA6aw=;a6TG1RYTRl9tAI5KNYwuKA=="
+secured: "+yAco1Z/6Vxkl7dsTGSyE0p/iP6Hmi2CnWwqL/wOeuC56/BTXrdCE1qyTs1Y8LfadqU1SJhaLPgoib1hKme2FHTgmCvvuBAOxYTSy3MGSv0DdViahZDYJIvWNF8REgUeLAZjxarxzdaBuHpOQmz1AEkHOYd2TWdBcLy0dqVNpITNQZBcT2Ldvil8lpQ3loi386oYM+lXx7HaefhfhB2rw3dM4xvtP1hjwt7PnUedtE9wkVDu0KrvmEvXuQHc4zP5ZthoQ8hEo9Olg2uQ+/VeaGXy3Eijw7JSL86Fs722DzFhM6AIMZMsmCBioBpVhNw+KEbjiafYbILOOfHTkrIcQTyCpJ+DK9jdqCi/DZNDhUI=;KZBx0f7fen2cbzRTs5Ay1A=="
 ---
 

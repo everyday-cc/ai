@@ -1,29 +1,31 @@
 ---
 category: news
 title: "India gears up for robot campaigners in 2022 Assembly polls"
-excerpt: "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022 Assembly elections."
-publishedDateTime: 2021-06-20T07:42:00Z
-originalUrl: "https://menafn.com/1102309602/India-gears-up-for-robot-campaigners-in-2022-Assembly-polls"
-webUrl: "https://menafn.com/1102309602/India-gears-up-for-robot-campaigners-in-2022-Assembly-polls"
+excerpt: "As mass public gatherings remain an obvious danger in India amid the lethal Covid-19 waves, you may see humanoid robots performing campaigning on behalf of political leaders in the 2022"
+publishedDateTime: 2021-06-20T11:09:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685"
+webUrl: "https://www.thehansindia.com/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/india-gears-up-for-robot-campaigners-in-2022-assembly-polls-691685"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-06/20/I_041a3image_story.jpg"
-    width: 300
-    height: 400
+  - url: "https://assets.thehansindia.com/h-upload/2021/06/20/1083163-robot.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
-secured: "XUE15vhFdOJizpUO8774XKBGCBB+1bWS9zZz/oZx+7ZQbChpkZWXYinzN1eKp4nj3W39AoKMFyHgAM0WY7CdhHXL1cpHRqVP5ZU+VegPlEjEwhb036rliGWvNzEAyzxBDTmgyyqginG9YOHHCR5nmmYhuj2931c6V9Ir7EQxzCs3DcNOnv/PlpsTxVQTUcUwqZ2J9nwH1P5FPlr2NukpHYKRkj2o67/W2nrXjd63jvzXfQxWAsca+FMW5WO67OLJGDWlehrhQ4LtXTeimjmOBW+EOiv4dV/ydKVJ+yNi/FvNfebBQGMVBwbGgwHqqP3EMReukBZw/kMhkXn2p7JjcODcmp7bkUY4ITNwtyzXyrs=;K2j78+5dqVHTp+Q839LknA=="
+secured: "+cCpW948ilOL6OTmefHAYARdgk09uwA087631mxZHPfph9+rsfCuKDC+7xk5EVUGyMCWuj09PD21KBbrgkL05ZRrBSUc4362HXSTWFTnzdtBqyWgjJGkFEa3OYlI7vosQgijxWiayyIVtS2vR69E+yTk6d46MsE5SFwF9LhaTiGvv+siGlZ7ayCrWcr1DJxqrfCblMVSaeqh/tSzd4Ov+rSSEzUT6wYtJIlTAWDLKbgmWdhAmWr5EJ9JR8Kiya3yqsa1prFC5U69OWAYIVomA87qV2MYNMfYl3N/3vv13wxn8xe1Qpm2V8LHuOZq6y8kMfd9b16hTX/tkYyC3uEkWXEvAuok8BZhQQYZA3fCGOY=;XmfFcmsad0l0vqfVzpZ/wg=="
 ---
 

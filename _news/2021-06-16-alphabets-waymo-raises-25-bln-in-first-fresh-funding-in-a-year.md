@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
-excerpt: "Alphabet Inc's (GOOGL.O) self-driving unit Waymo said on Wednesday it raised $2.5 billion in its first fresh funding round in a year, after a string of defections of executives rekindled concerns about the technology struggling to scale up."
-publishedDateTime: 2021-06-16T11:49:00Z
+excerpt: "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ..."
+publishedDateTime: 2021-06-16T12:57:00Z
 originalUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
 webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
 type: article
@@ -357,6 +357,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "JEDI+Is7yBo8M5JMo1OrA1spU4QSFyF6LvGplJR8A6as678ac7WZ/twmqgVlzrYzU3nydBaP1jyNrBl1L9D/ay5bxt/ZszUmXgnIXhIOt14Hk4oRowsh5+L+TkxQCavEHZc1pqd0jDWvCoKi/ZFlowtzG3SxHM5lF6CLuFOMYKztFwvigARvvShBftTfgwhOxxFkTU1RrVyDFMplOlbjCDTE4DDIST97c3pSCV72Q8sIY16I28IlZwboNgvh2So4E7t0fraN3KwwO3UTjCK1iplZTxNnIZbRIo35uVcZS3Tg0pLPiH1f03AfKXmOrf4Rv1sWDTtWPRPGCtnYQpOV+P4YYwy8umNpeze+D2E3N8EWKksybIUCgsEFGTkQSft8M40o5F+suF9iZZv6QG1/JYucG+qeWqQFELgxBxJ5EHlRBGpZOjLZj+kyBzILpd9iB3iEY4j3GKisod39fqCSAoeg5q++48t7YY+u48zYa7aYCpfOxo/wQJ9V1JGp2KOEK21NWfndJkW/ds0jgXElVg==;ss/xdCRmeodNDfw+ARH1Sg=="
+secured: "ikbh2vhE4PFPAJtHD7aRe2Tv+Lu5oC3ATPXfCpf6WwwAPkA5IhiEDFjBN6Z8cf/594mSeq0YTNN79NpEGw6H9dzGUoegcn+TB/mW+S4RKPaOJdUbOdRe14Ma+B6muvWa6xIWY0s8lpAxCHI8TvPiLf+bp6fdcraiJHXocXeVkyAvt17WnHavXjehpKfHomLJFGHpij6k4OU7iV7H+nS25U3t1ZjDjwQackA55v6GHnK4csVBepnDL49VNPhWDKVC/2CuXwnAnJQgSRSnqfN64m5PagMJ/UVNb4WEOVrMVcAIM6HURDJZ9Nv/iLCZF0nlaKGur4hc1VgSfoRPETwYVezIl3S2StSaXAfLKJIVvYw=;p8qo3wGGtnAQQgi/mpVVNA=="
 ---
 

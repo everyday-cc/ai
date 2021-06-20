@@ -36,8 +36,8 @@ related:
         height: 3535
         isCached: true
   - title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
-    excerpt: "Alphabet Inc's (GOOGL.O) self-driving unit Waymo said on Wednesday it raised $2.5 billion in its first fresh funding round in a year, after a string of defections of executives rekindled concerns about the technology struggling to scale up."
-    publishedDateTime: 2021-06-16T11:49:00Z
+    excerpt: "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ..."
+    publishedDateTime: 2021-06-16T12:57:00Z
     webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
     type: article
     provider:

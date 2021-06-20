@@ -131,6 +131,6 @@ related:
       domain: nasdaq.com
     quality: 24
 
-secured: "eDShZ3BxF5jRIjNXuKExbqcU7Z6BW+iZnpDmRUIgrjvwWb+Ydk2+N7v31JajSfWjUCX7BqklDQgLR8zipG7W+WHXlSU60TwetxS5cbB2CtzV60Ll/xCQeSZ0juumg+pP7ks1Y3VhLH++I6lft8afKSCSjqE3xyuwYYoPzmXY+1FvE7XUooPYvgcsZfQqInkhjs1wuXHDdFSTAxL4Zq4QYjyocRWh3TscR2j/K2A5wXg/uiYiusdgcsK3Yo2/cH6UHHAyjcZSYJGzGHEPrIXdMLQdnfPQuq38jBBRm9/evJ85u1vk5SpnSCWyfd3FnASob3CMOEcuVUprlYNSAY1NMvnfjAT9Yh0FcJ39DCj/7CI=;XVTygzozuygsyUnlHX0dag=="
+secured: "dG33CE7N/RRmu0QM/I73wsLOQgj28q6SoliaEdylF67MLBDctteZ5UldXjFapzi2UELvV/zhpGVqUE/+HB3HnpC4b+dDKhY79TL7gOJ90GOzJCwFul5HjC6Ml6R3XHPAgopqbcIcxcm4utxqKVuxAthVzcEw+pAkR4y1p2uxJj3uqkrRdo271c+oQbUQWNTxgcXL37eVF0c+Niv+yQiMOQkv/8V2DS+q43BJv/ggQik9TqotX5zICSufD0MF8IeVkLKK/wIR+jz3El7WE9Iih6FomITKBuTQ5q5qbPLrMRc/6k/FZkNUUEjlVkQ9TCwyRNh0yOfx6bdIy+CQXMNQHsjzQFFae7RsgPpzKksO26s=;lQWSoEjFSNXEKwb9sIwNWA=="
 ---
 

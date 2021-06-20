@@ -1,28 +1,20 @@
 ---
 category: news
-title: "AnyVision to NIST: “AI companies must purge demographic bias from their algorithms and be transparent about their methodology”"
-excerpt: "AnyVision is a world-leading visual AI platform company that organizations across the globe use to create trusted, seamless experiences in their physical spaces, primarily through the use of face and object recognition technology. In March, AnyVision was ..."
-publishedDateTime: 2021-06-03T12:00:00Z
-originalUrl: "https://www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/"
-webUrl: "https://www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/"
-ampWebUrl: "https://www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/anyvision-to-nist-ai-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology/amp/"
+title: "AnyVision to NIST: \"AI companies must purge demographic bias from their algorithms and be transparent about their methodology\""
+excerpt: "primarily through the use of face and object recognition technology. In March, AnyVision was ranked among the top solutions in the world and achieved top rankings across all five categories in the ..."
+publishedDateTime: 2021-06-03T10:03:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology"
+webUrl: "https://www.businesswire.com/news/home/20210603005335/en/AnyVision-to-NIST-AI-companies-must-purge-demographic-bias-from-their-algorithms-and-be-transparent-about-their-methodology"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
-
-secured: "g70wO5X6SyUE1zqz3WEaOgSLfez2xPcE6Phqm2R1y/67c8aundF3CmEKXZzeDZz0M8md3pQaXnEYGZZ/kljelA/4CVxnf+16uvG4G7kqjMBsftaqRF5zOT/G4a/AgaKYgk6kODN0WC443MRtl6o9a3InDVq9+YVZu3L+/zvi6m26RVi+IfYJWNX4Mr3oVXtDmGsLyTecVFRL8qCDifbGVajiYP5PvxCxgx0CzYZTtWh0QnUMK5QYYv/3biyv5bftQAHiJolJa0DLE2FAbVlxONDgg0U2PFBPtDnJXfjJ2wubCp32MmanTvxtyTXIfMCXnmfEJiVrDrVU0yXCjg7y9d5EGOZUpkWfwokKW60xxMI=;JC8ngd0VynwVbh6xGMqWmg=="
+secured: "pmwqjQomGf1XDU31Y9THctP3ESQelzzBJ1iMaahT2zzbHysP5XRPbAV4tOc7t0UbDrqcRXk60Lb6hDhnlDNnvlyNBWnAdIXIqgR87Jm/0vSBa+A+vSkqfKxdtN87SFsgf1DsIZU1Fw2t7Bsujfw0EPl3laDSCvrbPKCWLUz9z0iSkyD6njC3XvVfCv/EFUprN+jYsrqqLsXAYFDAO7ms9i7u3JwU2pletLe9AKj3V3in4UayHdVZWY1I0Z7GeN5Ozli2cziSc738fJawU5dfq1wUi90VbNbqrjoYuNMAPM32M3rDmjAsztNLUEKxbQQL3bDYOfCBInN+es169fdBEnHvrXawt24Gh3QvlZrfJEA=;h/K91ypw2FrUQJQcpDlU6Q=="
 ---
 

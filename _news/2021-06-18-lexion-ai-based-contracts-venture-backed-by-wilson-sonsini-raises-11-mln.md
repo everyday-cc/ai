@@ -74,6 +74,15 @@ related:
         width: 1500
         height: 889
         isCached: true
+  - title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
+    excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance Management platform powered by Explainable AI to enable them to build Responsible AI in production."
+    publishedDateTime: 2021-06-17T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-1030531865"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "AI-powered customer relationship startup Introhive raises $100M for further growth"
     excerpt: "Artificial intelligence-powered customer relationship startup Introhive Services Inc. has raised $100 million in new funding for strategic acquisitions, to expand its global footprint and grow its headcount."
     publishedDateTime: 2021-06-17T02:48:00Z
@@ -88,15 +97,6 @@ related:
         width: 1500
         height: 889
         isCached: true
-  - title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
-    excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance"
-    publishedDateTime: 2021-06-17T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-301314395.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
 
 secured: "FFYr9ervXo0lm5HIjidVrYAKKSr5U1ie1O0UeNWE/pF9ChGBuy/Fh0YOak78W2WHuLRr/to/ObC9fSA5E0S0OUyqNhaj5SYa9DIG8jrBgZlVTkcnqU9Y8+8jreaSFtNVZBlRCwY9MGmBtrIciQLlZC3nmJueSjI5O51TEIVqWZ1BC+oBumkXPr91VCsDG0ukntBSjbvysOVYZBcQkcmDkrrB9OvAlXi02zamWgqoaaM86kT1fzJBgLRvSHWLEATHreHwZ2lMw1RxtOSheMDGmDDKqZAN3QWoNr2vTBBmmWp/eyfCWVtjuUkQw6mh9iFZwlM74roKI4Pg34DBuZssICZB4vk2TPKbzSfI9HafOlDzdojxUYZIcCWpMt7o6MeGzd9mi208mRLcp5ZXSIosldPaPaxZkxVBa6pD+cuR75Rev4Z308cHAinku6DKRADQ6NazeHzcv8Wn9zGxDbwP0ig5T9MdgqRBc5LFoWqOSalVg8tFqo0plHZsSsA0a4+lBqJU1vzJ1TbgQYEwGfUmlA==;8zE772bBJk5BRABWHprgUQ=="
 ---

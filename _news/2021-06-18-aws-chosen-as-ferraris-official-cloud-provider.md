@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ferrari partners Amazon for cloud services; to build fan engagement platform"
+    excerpt: "Ferrari will use AWS' advanced analytics, machine learning, compute, storage, and database capabilities to achieve insights into car design..Ferrari will also leverage AWS to gain deeper insights into how its parts and cars perform under real world conditions."
+    publishedDateTime: 2021-06-20T11:28:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/ferrari-partners-amazon-for-cloud-services-to-build-fan-engagement-platform-41624184911530.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/ferrari-partners-amazon-for-cloud-services-to-build-fan-engagement-platform/amp-41624184911530.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/ferrari-partners-amazon-for-cloud-services-to-build-fan-engagement-platform/amp-41624184911530.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 41
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/06/20/600x338/555_1624188352358_1624188368252.jpeg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Ferrari and Amazon's AWS enter agreement on data"
     excerpt: "MILAN: Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
     publishedDateTime: 2021-06-18T15:15:00Z
@@ -115,6 +131,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
+    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
+    publishedDateTime: 2021-06-18T06:31:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "AWS agrees technical and commercial deal with Ferrari"
     excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
     publishedDateTime: 2021-06-18T09:52:00Z
@@ -124,15 +154,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
-    publishedDateTime: 2021-06-18T06:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
 
 secured: "JNuTIU18THfi9QPug7vK2TtT5cR/ShmTlCeBu++FbyJHjdnmq6oVikKknzQ4KkgSKFfT+9fsOoWYyijIePGI//PhwSW9tDj9Z85HL4qIZsJBKqnoGdUXZ2CxP8/pSweuWHx8DQUY6mzQwAyjLVmVfL2dQIWgGYpYY7w6O0JLCko015gjangoNAaeeV7bnAmr+mHUyIqG1CJ8CTBo93Q/01f5DcbHmKvTXjrxOQ3VU6PVcpHhgQVgpoxOW/sTpXN9FigtEycRvZ89Gm8k+RAvlW8ea3jT07uU4SQ6avpzWmqW6AFGhEWZuyqkRUNaGw6HWLOMRjLAdGche7i3fhYVxfb7xFZtqe+vpZ512mJYtEM=;kO62XTU0Nvlsec6ZK6asWw=="
 ---

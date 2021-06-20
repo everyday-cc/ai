@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/future-artificial-
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: IOL News
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise AI budgets are up 55% over 2020, Appen says"
-    excerpt: "Appen State of AI report found enterprises are accelerating their AI strategies as a result of the pandemic and increasing budgets."
-    publishedDateTime: 2021-06-15T18:15:00Z
-    webUrl: "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/"
-    ampWebUrl: "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/Tech_money-e1623779327666.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Companies Going ‘All In’ on AI, Appen Study Says"
     excerpt: "AI budgets are up significantly over the past year as companies compete to survive and grow market share during the global pandemic, according to Appen,"
     publishedDateTime: 2021-06-16T16:58:00Z
