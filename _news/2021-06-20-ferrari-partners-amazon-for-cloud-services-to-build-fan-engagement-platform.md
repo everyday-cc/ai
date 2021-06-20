@@ -128,6 +128,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Ferrari races to cloud with AWS pick"
+    excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
+    publishedDateTime: 2021-06-20T19:52:00Z
+    webUrl: "https://www.crn.com.au/news/ferrari-races-to-cloud-with-aws-pick-566195"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/image16x9.img.1536.high.jpg"
+        width: 1536
+        height: 863
+        isCached: true
   - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
     excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
     publishedDateTime: 2021-06-18T06:31:00Z

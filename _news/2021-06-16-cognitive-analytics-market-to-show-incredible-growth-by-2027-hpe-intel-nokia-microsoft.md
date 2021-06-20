@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc"
-    excerpt: "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports"
-    publishedDateTime: 2021-06-16T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Retail Market 2021 | IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP, Intel"
     excerpt: "An informative data report titled Artificial Intelligence in Retail Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
     publishedDateTime: 2021-06-18T05:57:00Z
@@ -52,59 +38,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 66
-  - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
-    publishedDateTime: 2021-06-16T05:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-06-16"
+  - title: "Artificial Intelligence (Ai) In Drug Discovery Market Size Current and Future | Microsoft, Google, NVIDIA Corporation, Atomwise, Deep Genomics"
+    excerpt: "The growing awareness among doctors and patients regarding the benefits of artificial intelligence has directly affected the growth of the market Increasing need to reduce costs and reduce drug discovery along with time the growth of the pharmaceutical industry by"
+    publishedDateTime: 2021-06-16T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2306651/artificial-intelligence-ai-in-drug-discovery-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2306651/artificial-intelligence-ai-in-drug-discovery-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306651/artificial-intelligence-ai-in-drug-discovery-market-size"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/6/U616373901_g.jpg"
+        width: 423
+        height: 400
         isCached: true
-  - title: "Voice Recognition Market Analysis, Segments, Top Key Players, Drivers and Trends to 2026"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
-    publishedDateTime: 2021-06-17T19:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
-    excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
-    publishedDateTime: 2021-06-16T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-in-healthcare-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027-2021-06-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
-    publishedDateTime: 2021-06-18T08:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "SXjHsQ0/N2YQvSiF3KK6/9+EGSCvACLtvOzd4IRWibEwjr/T4vg/yg3dgjLzzlK781gHu+sjglG6ssFzQm6YIoKKWp2l6rekzGK7iKG3U5K+a3ooI0zY2RIrKCqgXvvG/TQgC71Z4MMW61uE97GtYtymYotHs3WM47LcqmmDbfjTGriHQERNGafLUN9T8sl5Yjs1VplfA1A2bYTKdqeC3cABTXOI7XTRNh0ww6oCvSS2m1rgGQA5pX6BOuFiEtFvxALRf6V0Ms9G2qbyx4RUIHKjqZlHqF2Tp/6t4JfZVy6v2sAe19Ay57T0JXnmK/sEQIC6Djbc9xlJI04YhReEdwZ6qqe0g65xUuCxh62KLDM=;AHnFurIgH3tLblUUZ698gQ=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Machine learning can now reduce worry about nanoparticles in food"
-    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
-    publishedDateTime: 2021-06-16T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/tau-mlc061621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "lj1Y5vJ+8O1pDAGU1MQfu9JzSeli/QZnGYYq2dOGc8YSeGi8UjavaK/rzB20HD8cj70o7qt54RQMYi/dx1J8H/k0kW/1xAL6RXbyPKj6vGEzPRrt4GwTebMVilVYOi0/h4BkWKegj80m9TTEEfmf+bwFwzND0i3M4Za5hq0JOIHXanSHuLIJkQEx9nU08L/m43TJgcvpjyu7jrwNxgzWqZCkYt8p/6G6GbAG3tkLeDec7dKS4GG57jd2NRh+ywS891wk3if3V7lfmgh02sP4WmYsvAG/5vqwHzL9m8WBTP/zRI1gi7tTdiv8VSBpT3gdgMg4tuY9EZtYUhIQQTYNH89RW/OtLt+O6OgqKvfYuz4=;uKFm1l3fAFfnvzRhD8ZluA=="
 ---

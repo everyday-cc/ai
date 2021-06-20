@@ -142,6 +142,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Ferrari races to cloud with AWS pick"
+    excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
+    publishedDateTime: 2021-06-20T19:52:00Z
+    webUrl: "https://www.crn.com.au/news/ferrari-races-to-cloud-with-aws-pick-566195"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/image16x9.img.1536.high.jpg"
+        width: 1536
+        height: 863
+        isCached: true
   - title: "AWS agrees technical and commercial deal with Ferrari"
     excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
     publishedDateTime: 2021-06-18T09:52:00Z
@@ -161,6 +175,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "tsRvzL/Aey1fm1eQa1V+/OTUEdZK2nihOQWqte9Uy9lc3Aji5DKgpQ/nTrDUgYMv7SIKXJ5k368qk7rppBUk2qoWul+Vbtf7MUvEBlOrIDDaE2VNg4iPfdHT4FNE1n7GtCW/I2vOHRuzWiUg5WCB7Qsh+/hHtmWs4qtfRqmMpwWPXg3tw7p7FDQFN3+7+usVoq65OtH2jips395S+LxvowdDx4AEHJEcISu3ci4ym5RkjR8suIEh9ddLAkq/RUUKeEyngLvSs0XtA5RNtPgRD3JE9tpBmLiIwyXXY1AMefwXkMc+dbit4sXxoNUkQzRL4EvqeIneYUsUZ0lpGOGzMI2Ldso88BRESDGmuxcAxSc=;7k6deABISjaCiO+Lf66S5w=="
+secured: "JMs95jQ/T8KHplwL94+Mc8cJohmmIFpRyQH15CLi+aGV7wNZ87IpJUO/tWFYOrr0pi3ye3nTL5VA345ZYlqdNpt9RZU0rELJ42Kjxf6akBEkT+0qfHmz5Ml7zCHW4OFeuRu4jk6akKbahHvkrW7pmSw2tRXF/nwX6eeLRHdMI1Ck/OXNGo7bZGLbCKBGsJc1IEV7+487yIhAJKDXLABltMUilp+bpHXtEN6VEG8vMbSsdMoI9nBvW751XQwuu9geSZD34HN1sPTwwnWatw8W4W1caZ3bbU1wcMu4H/p8GXHYx38w7ko5a+1gV+uhHdTf2SR93CTfamt8XE37LVsJKlSNWh6sX2aTUpbR0P5cHh/hSssKThYWrhNKeQX5xFIvn3vcvhfRBW9IVWV6KtWvus7kti6dJ/Qwz+r5c7YCxg4Aeqh/cZGKiTwu0vM39GzvxLp2SSIeE2hVNe2I3t40l3VeioW7gNnuwPHF2cobCyTjw46uufPkgERf1Uo0TuKSpF+RHUnRIjYh7COxYHbu9w==;MFIT+3k9e/kUwwFUHmmOLw=="
 ---
 

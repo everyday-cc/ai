@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,21 +52,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Machine learning can now reduce worry about nanoparticles in food"
-    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
-    publishedDateTime: 2021-06-16T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/tau-mlc061621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "Y4PZrp6fP4ll3vcDp+z67lJJ3fqKbv6TMUDOYSrMfqoewWLikp42Rdq4B2YB0GMK10Qm5DiTqdLcgSWoQEzBYIlQEcvSh7VcG36HC/wk+w7fzRWlWgQ1i2+L5Z8spokTckCQXFaPBR87f7afINdrUg8aAuBLJFnhCwJ9VJGOmdqaShpKWbfJDkZaaBXxbeEXEw63DnQLBXaHJUzHEB6h6c5uSZJwtpfuM9Jx7F9Dkg3TdJ0+VucbaMhGDOoATuj6tL4WZaGg8+51wZa8dS6MKo2UjK6FgvV95GkNmyHbJgyCKEgbrjBhtfYLoscHDWxVxgMuN3Tv9Mf49PPxZkcQVZtnsIVlYg9jlS1NFK69J4g=;b9KhSbAwF1wW/JYElMRbsg=="
+secured: "kZO/kgQ7AGdyryRw5fdc/9Cu9jHaApGudzezP8pLs/EX796BlT3bXAxTG1lfU9jMrppXwjLmgCxZ4BYMKgiw2lSRpY/QGFfHOoEm+6Domq8XCS7Tvrae62s3TF3Pi+XhkA1gEu8pjCQvMAd+1Ht9emjhpijnttA3zK4G+92uY0Zv5RWgMJdiWWqojTxao5vOx/CRdNKNpmN1rG5evMjsSGPXokxfBQFxmgyyvKucr6HvZXqfl3czj0rrGVDwepntMkjDYWiViApHKuRTWJX15lNRMe8Zpr1tCtNJ14wVjxcIw9ojb7CtSTbyS+G6aAKpvF5spzbnPvsi8Imq6OG8gP0Exdqi1tnPABzlfvX3F2PT4zkZCDNUg68qVWkSKu7+LD1iRldsGW0mSw43RjVC1dfyGZ1MY38iOX7FL/iQgXwWnkgODEgBWWdGZU+zCgKnriVG4r82LDbrgacA7fqvGmu2vK5EsKAi9y6ZLxxtoW7E4/CmRH297Y0cfTn5y0vfn4AMFTC84pxYo9vJ06dQ9w==;6FkS+eRaryeNyrSig1THDA=="
 ---
 

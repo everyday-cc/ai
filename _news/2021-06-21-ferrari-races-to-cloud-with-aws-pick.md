@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Ferrari and Amazon's AWS enter agreement on data"
-excerpt: "MILAN: Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
-publishedDateTime: 2021-06-18T15:15:00Z
-originalUrl: "https://www.carsifu.my/news/ferrari-and-amazons-aws-enter-agreement-on-data"
-webUrl: "https://www.carsifu.my/news/ferrari-and-amazons-aws-enter-agreement-on-data"
+title: "Ferrari races to cloud with AWS pick"
+excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
+publishedDateTime: 2021-06-20T19:52:00Z
+originalUrl: "https://www.crn.com.au/news/ferrari-races-to-cloud-with-aws-pick-566195"
+webUrl: "https://www.crn.com.au/news/ferrari-races-to-cloud-with-aws-pick-566195"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CarSifu
-  domain: carsifu.my
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/06/E4K5zHUWEAMgGbl.jpg"
-    width: 1024
-    height: 683
+  - url: "https://i.nextmedia.com.au/News/image16x9.img.1536.high.jpg"
+    width: 1536
+    height: 863
     isCached: true
 
 related:
@@ -89,6 +89,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Ferrari and Amazon's AWS enter agreement on data"
+    excerpt: "MILAN: Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
+    publishedDateTime: 2021-06-18T15:15:00Z
+    webUrl: "https://www.carsifu.my/news/ferrari-and-amazons-aws-enter-agreement-on-data"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 39
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/06/E4K5zHUWEAMgGbl.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ferrari Races To Cloud With AWS Pick"
     excerpt: "The carmaker and tech giant announce an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider. Amazon Web Services’ machine learning,"
     publishedDateTime: 2021-06-18T22:12:00Z
@@ -128,20 +142,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Ferrari races to cloud with AWS pick"
-    excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
-    publishedDateTime: 2021-06-20T19:52:00Z
-    webUrl: "https://www.crn.com.au/news/ferrari-races-to-cloud-with-aws-pick-566195"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/image16x9.img.1536.high.jpg"
-        width: 1536
-        height: 863
-        isCached: true
   - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
     excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
     publishedDateTime: 2021-06-18T06:31:00Z
@@ -175,6 +175,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "dNWDxfNKJwJIPR5hfpXbCjd/ASaJBW4jkumpbD9I9FRoAPiRQlkqJPHNFD1kcqwR94RH4T+DC6ajYBTdZMpQe5ytMUzcodIlMVlyt2XALgaDsP32h5vaFLL0GYELezmjErj/PPPLM7vWmKOOrTRshwhOINv7+u5zY7tdqYAvXX6CD/Ohb9nONB1EbowPDtXTSljmygOkSdfqCn7w5dEfAjfLtklzVW83DwgMLK9juR6GQ7iySUXTAI2RF63DmFtXT2OBbVeGycM5RjlWA0xPMSTSEr+8yJJ5J0i5MkzjNKyPuuyBZDy3eRt+zp+X6qEbn97phn2bfUbUD2o1Kx/WJi6Bdnz8ns/OPqcd126ERFwX6KQ0oSoa+MmF5fzmJONqjdQnWOQGzADAjIz50oa5hhJMPAluppXlI676hS/U8mBXkcNl/OIVvGH8YS8kVenurW76XvxuHvPt5BSM8xU4EPM6o0d7khSm6G7KtaZlGKME1aCbQIfQKBGwKxmc+rbbfH0f038pogjTQSZQ1Afc9A==;gZdwYJe3/WFLhxC1BZSn1A=="
+secured: "Ku2tcXuuXDmLGBMa8CYhKA1zWJu6oEo1UvG2Lmw5LmTif0F/zyghe8nDNiZkfW2YSBEKZ5exsencTcmQ3mWd0nHl4hZo34wHDotJ/YuP+msyiq21Sd3qGbv6lisUGlXgXzHgx8cy0j9TAYpFpc3fMtFPESPhq2w34Oy5c4VCeH6i1+mOH+B+u4fmZiOMHFoj+bgF+5HW81P5RT1csqhMQ/AkqSRmBsXXz6S1IvUqnuOhIhgCYTn7CuVagFPMhW70fpTVRnb036yDzZ2kF97DCRaf0XHmN+NUjXRVts0HHCPIJzdw1qSCWEDMDx/47yTQJTpOfIIur67Xd0FPy0ajkLLgkpPZduqXN6P4GerbxxQ=;mU5MPJ21Y6yjRojorlRvMQ=="
 ---
 

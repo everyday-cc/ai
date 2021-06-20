@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Mydecine Unveils Artificial Intelligence Drug Discovery Program"
-excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing."
-publishedDateTime: 2021-06-16T11:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391456.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391456.htm"
+excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine's choosing."
+publishedDateTime: 2021-06-16T11:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16"
+webUrl: "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Mydecine Innovations kicks off machine learning-based drug discovery program with the University of Alberta"
@@ -36,6 +46,6 @@ related:
         height: 740
         isCached: true
 
-secured: "tKfeECpZidskR6SCWCWH7xI3uhfbcapnv3FoZAv1fnJebBsV6c5HiH+AL+kD/0QJfpVG5tfAzlZbBVBFVA+gGyD8ugorycPhfKPPq7AzsUTb08BP6MYiOHdmDl9slAoyNYHSNI8zDFJRNUiVBRn8RATKzALfCe5BCYi888d81nqkynF4LzQRonBDrwQ0oQ5xElADQDLpK6Vy1btBnEpqPO26KvUNA5Ef/nLHXssOCTQNKVBdtYd8NMfxJlHoNHU+AIAV7OZIdX7Aow0hKBnydWNS15ZtHSuRFeXCcUMu1UU66ANxsFWq4VndE48SDfa7SDhGO/9FEQbAs7qvJlUoVHHztjkF6B86/PmyNV4wmWo=;AYiI4seDsLED1Pr158yKww=="
+secured: "uHHKCL+Dw7ga2gYz72gReMWVohqHOoMWpsnmAU5hlfjw1Z9zff/VNp9aVHLycxmthfBRH0k4ccsWDdXbuTTLvSjMFOtZxkd5iydf5muJG5A4gLS4pOw7A40SucycNkvouBG2k1LcJJwCRese1Hji9+0dTHmrF/NyuZiwqK3NgybzKLMizVlueUhUw6gznYo8kQik7cZkagsWBpQ70r7m+WH8QFFmln2C1hRx5RMPWDciy/GmgUn0ZZ5HQs1S2PaBcJRBL8s8nfB3TPBcc9qIT2Gz+YZ2UZiH2p6CRLh6LYYY0LfiJfHxR9uRWUO0LFuPeuzs5+vzGVVn19l17t3efYaKDjGg90FUJEd3B+AcbIs=;tZYi8+23t18cMILG5QwlGQ=="
 ---
 

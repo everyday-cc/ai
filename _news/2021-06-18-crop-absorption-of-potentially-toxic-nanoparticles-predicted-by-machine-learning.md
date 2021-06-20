@@ -52,20 +52,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Machine learning can now reduce worry about nanoparticles in food"
-    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
-    publishedDateTime: 2021-06-16T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/tau-mlc061621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0JSOojqAMR92hvD6WgOAeCUnvlMMoM82DiLlImb0+ySBC7sEUlJKie9qmeHvr7goaCwOWZtSnyryY3WcD7iGY5+MDpc3PuiLg+cdJvjC2hM7vtfHBKdkAl7abt+NoSglA2uG3rg3Zqyd6PqaqGE/5jZ8EGpgLetphDPR7IpCnF8KFRdEFG05JI9VRrXjNHrr5Zo/kZBwQzT52cDTdgVzQDZPV06vL2GNczWKa2IHQLr9uUPH/hfV+WJRe+E8Xg7/L/FTHVJpwHL1s9CDKq6+6vcltObJe7HdrMzWpd2SV0Em6p+1JxPXfzrH/Pe6Jrc9R5tjOJ/8cVxir4SsMpPgM4l2FcOzF5jMP5ay62PpVeEtNeI2O3WXbA5GKt/mPdttLEK16uEKZKCuT8fwMehJydHqWgG42GgTvDufHWtBvXwTaIsMV86b5li+zSS+S7K2yH1YS1xjabBdZ3RjVqy8EhHqQFqWFwZWXTsl8AJUuXpytzZpqYMA+Dsc8PqRHjxlPAiopXqt1Cmrn6evMTgjEA==;G5N3sVnBKsXwq1UW4G/tNQ=="
 ---

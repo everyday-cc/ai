@@ -87,22 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Protecting Data Privacy: UnionBank supports regulation of Facial Recognition Technology"
-    excerpt: "Facial Recognition The use of facial recognition technology (FRT) has recently gained popularity among banks, airports, and event venues. As more and more users opt to take advantage of the convenience this technology brings,"
-    publishedDateTime: 2021-06-16T04:54:00Z
-    webUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/"
-    ampWebUrl: "https://mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/16/protecting-data-privacy-unionbank-supports-regulation-of-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 51
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2021/06/11855.jpeg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
     excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
     publishedDateTime: 2021-06-16T08:48:00Z

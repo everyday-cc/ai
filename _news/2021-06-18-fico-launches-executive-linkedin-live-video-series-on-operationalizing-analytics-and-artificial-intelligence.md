@@ -1,28 +1,22 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-publishedDateTime: 2021-06-18T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+publishedDateTime: 2021-06-18T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-    width: 1200
-    height: 441
-    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -126,6 +120,6 @@ related:
         height: 540
         isCached: true
 
-secured: "o0uY/40PB2zXZJkeBIR2SKg3PCeVHvfQ8Bf752jP6QoN/nlePruxuHcDH1uuZbBJUrNNzlObYeW3AWehpZl4vn3ouzaFs+ICxe6g3Wa4ooExdE71hi89fQeI3YYyhYbhfJojwAHd9i0O9KPjtx+UFws2XF1x2W5g0XlpmfcT/gtdV3WeQSZrPkG1k2eRonHBymdicVt1xxPaX2GeQxxM4IzSbtR1sn3A0zGwwu83JHtYMWfF1swGA+h1GUw+cJVBa7/jopzJf9qvCI0eMEC9PoIWLpu6KHCUXuQZxrc6bnkr2NF1dYhYX94nvuDDqQ9tp0o/eeSGpmop7Tq8mc9SSqQ7Rw8E9q4q6Hju2YMA/UlrC1OXRuINQ72iRxdJjaf+K0nOgimCXqhFgr+qNQNDeycT3Z5pfz0z8VK9ed38wOlOgjtkeIq/gpDFOZLfl6RsGFXtRwzIRAWxz2xi4XPczoKJ5aShRVGKdtHPnjcT9jJ7cwAJfap+F0IHWoQ10Du6IXoRJbCXS0FZsG2gAtMwkg==;8Z8qxPhm4CWsmGjQ7Xv77g=="
+secured: "CKvDyv0LRjnJxF/zsDUA3m10UaPJmdio14D9NO5t8MtxGOfJrgfa6hp3tY/BpOkAOXgwplWYSrb6lDbhE2tHqQR9S72BxSKWMIPdofvVws1iZ6u3IsvEkf4ZfKvflOjmkZZ6A6Xo3akRL8tTKlIyw964g3uVvh76EaSTWKzyciuBSs1ave9LrzPb62nDPLw/2quBuEDHSlSqChlVJUORM+foTE7x+CTTmJSk8G9wqdfuXpXZKtST/BbSv58ydo0WDRifokke5vDANfWskFVqRVBUkgi/ntfSz26St0gAvL+e3pxd3RyE9x5pYjbVHJb89wHXFtQ3HHgxIu9r1NFL9kBAuT1lYXlZ2DelkTVjkWBiSuBjWPAYUihnAiXHKO8Q9QNq1Ww6Qj7e0rqIjhsCbk80S90AQu32yaZXQqFhrT8jWqKdRn7ahGL1D8jo8T54gY9uQEgA5CPYI7dELiyREPNQ8Im3u8IOfsHS1v5u0TOq7rs+2bCCtTxDdo1RCWnZzE93nQvnZ+Aj33nvap5Nlg==;/hyreQZCN1LErDAiVJG1Ig=="
 ---
 

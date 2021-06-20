@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
+    publishedDateTime: 2021-06-16T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
     excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
     publishedDateTime: 2021-06-17T12:28:00Z
@@ -44,6 +58,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 45
+  - title: "Voice Recognition Market Analysis, Segments, Top Key Players, Drivers and Trends to 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
+    publishedDateTime: 2021-06-17T19:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
     publishedDateTime: 2021-06-17T19:45:00Z
@@ -58,6 +86,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
+    excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
+    publishedDateTime: 2021-06-16T09:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-in-healthcare-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-by-2027-2021-06-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
+    publishedDateTime: 2021-06-18T08:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
   - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
     excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
     publishedDateTime: 2021-06-17T11:59:00Z

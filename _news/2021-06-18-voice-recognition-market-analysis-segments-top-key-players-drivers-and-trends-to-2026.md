@@ -29,31 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc"
-    excerpt: "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports"
-    publishedDateTime: 2021-06-16T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16"
+  - title: "Artificial Intelligence In Healthcare Market 2021 Leading Competitors, Regional Trends and Growth Trends 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
+    publishedDateTime: 2021-06-18T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market 2021 | IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP, Intel"
-    excerpt: "An informative data report titled Artificial Intelligence in Retail Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
-    publishedDateTime: 2021-06-18T05:57:00Z
-    webUrl: "https://www.openpr.com/news/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
   - title: "Artificial Intelligence (AI) in Automotive Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware According to the research report titled 'Artificial Intelligence (AI) in Automotive Market Size, By Component, By Technology , By Application Industry Analysis Report, Regional Outlook,"
     publishedDateTime: 2021-06-16T05:08:00Z
@@ -68,21 +57,30 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Analytics Market to Show Incredible Growth by 2027 | HPE, Intel, Nokia, Microsoft"
-    excerpt: "This Cognitive Analytics market report's major objective is to forecast market growth from 2021 to 2027. A Market Report is the result of a data-driven strategy. It displays data in a visually ..."
-    publishedDateTime: 2021-06-16T08:24:00Z
-    webUrl: "https://www.openpr.com/news/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306305/cognitive-analytics-market-to-show-incredible-growth-by-2027"
+  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
+    publishedDateTime: 2021-06-17T12:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+  - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
+    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
+    publishedDateTime: 2021-06-17T19:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-ai-in-healthcare-market-2021-to-2026---by-sections-diagnosis-end-user/article_62f0dab4-8cee-5914-bd6c-221e97926e55.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/6/U616761072_g.jpg"
-        width: 800
-        height: 457
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
@@ -98,6 +96,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Growth, Trends, Forecast 2021 to 2028"
+    excerpt: "Latest Study on \"Artificial Intelligence In Healthcare Market Size, Share, Trends, Growth, Production, Consumption, Revenue, Company Analysis and Forecast 2021-2028\". The global Artificial Intelligence In Healthcare Market size is expected to be worth around US$ 31."
+    publishedDateTime: 2021-06-16T10:15:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142073/artificial-intelligence-in-healthcare-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 28
   - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
     publishedDateTime: 2021-06-18T08:20:00Z
@@ -109,6 +116,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
+    publishedDateTime: 2021-06-17T11:59:00Z
+    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "yVCP6B97qKOE94euTivTLzCDEMuYn42RAJwzKd+6J37n2QOdRg/BtANhvLLf+wwupLeyA/j2pxCCm/YrR995kWH7wMYpisUgQDsNGwDAR/Fl+aAmQLN1ii0oe99BH67DCVeExD8hh0spewe4f0dk/ejPA07wPzCPdR2kjcv+BH5OE7l1AdjiFb9QveH5O8pCsAwYdGxyRwa9KBlzjTKhuTjqkXdgHksYG6C+PVFR1+RMz4NKlbXYQIeglUpjK2ysBVMOcxRVYtsZpUkOAamNXipjFXR4fSGQsOjIWFwk9d54UppRr2b56Mu9DwM1LZEGs+8a8dHD95PnJX3RS4hOC9WnfTuf63e8ZDLhabhy+hI=;viPx+1EEZfAm6X2qjYsV4g=="
 ---

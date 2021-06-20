@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/06/telexistence-closes-20m-series-a-2
 webUrl: "https://www.finsmes.com/2021/06/telexistence-closes-20m-series-a-2-financing.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1229
     height: 689
     isCached: true
-
-related:
-  - title: "Japanese robotics startup Telexistence closes series A round with $40M+"
-    excerpt: "Telexistence Tokyo-based Telexistence, the Japanese startup developing remote-controlled robots, announced today that it has secured about 2.2 billion yen (about $20"
-    publishedDateTime: 2021-06-16T04:47:00Z
-    webUrl: "https://thebridge.jp/en/2021/06/telexistence-series-a2-round-funding"
-    type: article
-    provider:
-      name: thebridge.jp
-      domain: thebridge.jp
-    quality: 54
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2021/06/Telexistence-Model-T.jpg"
-        width: 1240
-        height: 780
-        isCached: true
 
 secured: "B/usiiUO2od4ObmqZpGjlDa0XmgaqZfUhut2e61mS3G3f4rCG7a1gkSxnvg3FddArv314vBvTTasFgyLQu4+Os6M7l4WsdCTKG35jBTyu3n0L8AwLnHC1Nye3cGhqag3qSLFE8lkZeH4uDC6JtBystTz+IJOxW91LrNuPZi6PEytHnGLfEfGeC7Y77r5BOoRtIBkY2RIPr6gRstYxDQ2ZrFJCynQu/BSi5ckPFGnCEpdt+wASRjecC+lhCD5G7rkXI3KOQK+JyEwy9X9NxOzQ6e2AegIipAP/vKNSBy2ZiXbxeKItakVdSCY8UintWKc7U0hfhnZCZ8wvDOvjvlurSwpKolJ+pP0ox4GwdsPq2znhfWNu828Y/W93X+GjKAgCaNWTdq2xYGQ8lZXLOyHZ4XNZ9PRBzd4ix7QGjp4cYSkka6bzxYxzsgWrYJjgFcBIZLZR85PHWexYR1jK4TBZ6iEWyr6OQs1oq0qDwJ4B+BnbBuf1Qf8JswT8UOxo6sJDKehJg9SE1+sUiZ9dHC5aQ==;rm0cF8o3zF6x/6Bn8kxLhw=="
 ---
