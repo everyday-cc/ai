@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
-    excerpt: "VANCOUVER, B.C, September 14, 2020 – The global Artificial Intelligence Market is expected to reach USD 348.99 Billion"
-    publishedDateTime: 2021-06-15T12:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027-2021-06-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market In-Depth Analysis including key players IBM, Google, Amazon Web Services"
     excerpt: "A new business intelligence report released by JCMR with Global Artificial Intelligence as a Service Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-06-15T17:41:00Z

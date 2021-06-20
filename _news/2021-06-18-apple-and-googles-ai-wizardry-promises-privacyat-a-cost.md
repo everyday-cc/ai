@@ -44,20 +44,6 @@ related:
         width: 2400
         height: 1652
         isCached: true
-  - title: "What are the key concerns around artificial intelligence and the right to privacy?"
-    excerpt: "In its submission to the UN report on AI and the right to privacy, Privacy International highlights concerns about facial recognition technology and argues for effective laws accompanied by safeguards to ensure AI applications comply with human rights."
-    publishedDateTime: 2021-06-15T12:59:00Z
-    webUrl: "https://ifex.org/what-are-the-key-concerns-around-artificial-intelligence-and-the-right-to-privacy/"
-    type: article
-    provider:
-      name: IFEX
-      domain: ifex.org
-    quality: 31
-    images:
-      - url: "https://ifex.org/wp-content/uploads/2021/06/international-india-hyderabad-facial-recognition-technology-getty.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "B/Aq0Je6RPEpR9ldmfyGpd8u0y8RFAh/AsypHlEaYNx2LPwMHKy5iqsIkLcp46plJTu8vRnId+QOajVFs4HhW4HcWgvO5X+RmhwHpbnFG8J+1/wlTy0AjVOgCvyFSwJ0vdWIj/ubDmN8GWKzSEeZq8KT6e1v8ogBzR/eu0FYrB1Lf3VWTNpOb2fSOfF/jFMeAX2xqBClk3Bfy6G2tQoy+y9eF9YRWA95pyQk0oqfrOpVAOxPoPFHE7LMj69MenqcQRzdSM7pjonvR/mhEIDlsdWOwFSSF6HKqyHr2IIMco8EW810EcURXcDAY6amvWB0EvM+cN5HsEM74izmoZKyWQSavTY8XCm6wVnvJ3ONhndCE3OrHRMs1CpfVnYxCFHsFwxrRKMqtqWkAXrdEhwhD1mJOab7QeCsMWkJIweGv0U9WvcbMlDgvQc1cFXQp2S4tbzg79//ufbFf3pIHU4082RXir9famuvT0jgSEdItdf70N1VM9aOoEKEFPVE7uekNp1cLPRGnmybxBaY3hY7rA==;D9GCkLeuC+19X5H5GyBL2Q=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/uberduck-ai-turns-text-into-raps-celeb
 webUrl: "https://thenextweb.com/news/uberduck-ai-turns-text-into-raps-celebrity-voices-tupac-biggie-kanye-west-text-to-speech"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Next Web
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Why You Aren’t Getting More from Your Marketing AI"
-    excerpt: "Fewer than 40% of companies that invest in AI see gains from it, usually because of one or more of these errors: (1) They don’t ask the right question, and end up directing AI to solve the wrong problem."
-    publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://hbr.org/2021/07/why-you-arent-getting-more-from-your-marketing-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 54
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/06/S21042_BONASERA.png"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "x4gNdk8nj5dC5o2ZVtXWI2S24BxMks+n/jRKLQBvoV/pjFMchJIgi+FqOEKgoR8/PNRu8unNNT4iHuW21dawl8l6qJnY1NeFJ5csSUI6DvHbaTY3Xh2ztiZbPiiGncGmlNSpBBZKVrLIXV/ZJasFk+tcP8bnY94d8ZzgjWODV6GYdessnAmHWC5pkllxTba3xa+7mSKbf4HhReBZjVC6JicAnHIfMifyjJzrZ6n8FAzQL1HboPd1H5b6Jl7M7V5GN7TrXwNEnYuAXRvS4Aj5qiwuPH/WurPVJvgupM7pytwrnZaDS2y/X9X1ck2O6IDkolYVqfmxUqc8o+YVEIiEzQR8CWLgHvXmzHwV0OaBrDiSBQ95Y74Qx9Vd3Bp5RI6cL6M6jwKHV3BWu0jAc3ktfpDaOIgGS7rUtOoUyoo3yxAwb98r/WjHRsUBC49Rn4V/cp4smCfYskOzqe+s43NEZfoXhXHBniDUiy+ZmVNHqR6UJL89w0b5wSGImDOY8SUxfbprsLyoTonEpgWUDqHtuw==;8ZQ5USCsVWtxXB698SMqTA=="
 ---

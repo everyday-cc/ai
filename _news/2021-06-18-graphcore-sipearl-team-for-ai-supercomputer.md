@@ -39,15 +39,6 @@ related:
         width: 314
         height: 406
         isCached: true
-  - title: "Graphcore and SiPearl: strategic partnership to combine artificial intelligence and high performance computing"
-    excerpt: "Graphcore and SiPearl have entered into a strategic partnership. By combining the best of artificial intelligence and high-performance computing technologies, this partnership will enable innovation in simulation and prediction essential in critical areas such as meteorology,"
-    publishedDateTime: 2021-06-15T11:55:00Z
-    webUrl: "https://www.design-reuse.com/news/50161/graphcore-sipearl-partnership.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
 secured: "7a2WZPsGNYn4u9vmCgrR4a7VPe2Kh2vL7KHD/SUyu+Qr7UkdT1J5M+crAQ4HYg8ggG8kbPfA11jD8Y41zGugIhMP6qDcyz3JAB0GK8Z6DUOr9YZ7NOPjvz3OgLYquzDdG57kK5doPD6upkVMBDPaE4x9QoeQxOtUWhLYNeov51yxOfs3TZm2+vCCYlX7tfIKisE5xCnJTrtTOe5UlKooW1d6C0KkXGagoTKED+/XfguGe11LbIeae9GJ3x1ZRJ0EVkrks+8yir5tclOJsz3Sz7tTGgFonDfV2K3QkbS0oO0DypWCiJGf3dDz57eRCKXCLET21SxTM+mBCTFy9Al2XrlghXcHBlDGRJVAwKPxWc8=;ynFM9F57e882AOHXVnan5A=="
 ---

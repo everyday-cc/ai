@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/06/18/insight-partners-amazon-back-3
 webUrl: "https://siliconangle.com/2021/06/18/insight-partners-amazon-back-32m-round-explainable-ai-startup-fiddler/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 666
     height: 375
     isCached: true
-
-related:
-  - title: "Funding for Explainable Artificial Intelligence for medical professionals"
-    excerpt: "LUMC, Amsterdam UMC, and CWI have received funding from the Gieskes-Strijbis Fund to enhance the understanding of AI by doctors."
-    publishedDateTime: 2021-06-15T11:42:00Z
-    webUrl: "https://www.cwi.nl/news/2021/funding-for-explainable-artificial-intelligence-for-medical-professionals"
-    type: article
-    provider:
-      name: CWI
-      domain: www.cwi.nl
-    quality: 33
 
 secured: "O2/HLI1sBvHYC1XbjUKZ+NdECVsj4cHhLagxdZbZg5A2P2uPvpE3iR8bocXU8hfe0VyatDEJGyiyVkV83VDUaTjyzg1899Gge+a5rJ0umm2ceCcrfpTx1aA18u4GiHuYSujLHTc3mlcfY0ErUf5GAyUTSIDz70mc82i9ce8888kOoKKNGiuEbNGHThjNyjD8MQxrDmc4h5Kzuc3aOt6jAlcg9Ie+H3hongFr/Jdi5n2EsnYZsgOGzUKT1RexUbrwXKSRI+XyTt4Om8oRBl+a7HxaSlmGkVqB4I3GgzREl53A5UjDew0sfM9n+6xgl3y0VK/Qx8uivCFVspJbMK6UycjJiXvnz1TYbIsLKN75JIG68sqROBifiIAjJflo42TD80ve79cR9HhY/kHutx6gqJS+ODoWhXtLiu1defmJ1j/OERWM58ef0f+goF1/LAyPznRDJ+13RXVYFWCT9diRUxp+lxU2OBu/JMmk7VsM4k9YHK8DmKV8zu4ea6DXfvlsCtJAlke4C/b2Q9RJoorgbA==;Zg9prQ/95yi+YIzSHysEMQ=="
 ---

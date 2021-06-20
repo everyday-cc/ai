@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-money-machines%3A-can-ai-fix-personal-finance-2021-06-18?amp"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Motley Fool
@@ -34,20 +34,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "United Fintech Announces Advisory Board of World-Class Experts"
-    excerpt: "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,"
-    publishedDateTime: 2021-06-15T12:50:00Z
-    webUrl: "https://financialit.net/news/asset-management/united-fintech-announces-advisory-board-world-class-experts"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/christian_3_0.jpg"
-        width: 6048
-        height: 4032
-        isCached: true
 
 secured: "IRWApOLrc6Dg55y3lesrQam8AnT6RczDUrpENrZA0m9BecCHPMIU5LV6Ujb3RP/CJHmcZphMHG7M7RQ83PldyVRSSpuL0texJtED+qga9M2y2zD6CBNY09u6/N2faXggJlhDLIZ5xD0FGUngGVDp1GolAlSLdYLfHOaA0vs0ARluRygkBqynd9GX4Os9UMCLYVl5cBfGNzdl2ThQX/7OIqY/pYR7Qbx46Q1ijAhyGw/kJ3sDaLaDyCOHYPtW0DBMvC6OTqg9zBmgUSam29N/EqzGFmk0awjnOVbu+3Pgz7C3wXzUlYg5868tyTFfD1isPvDJAEtRtWTie3atihvlAAgOssld4isPGwNoTsQHtEA14xVKMEt28mHkeNq5yN0BagN/uKv9+tJQn7Jos+A9ew+1PJ6vO4EwVMsiYcx4/y9Qh3bwthj8Kem0aGK/1maiBjicwyH/j9D/clZmi0X8heSlI73pfICljaSrX7U2T17fabnSrVu5GY1btmdV1CHWFWub0OX799LP4oziBmlOJQ==;7riNi+ZnnJwpW1iwoclG0g=="
 ---

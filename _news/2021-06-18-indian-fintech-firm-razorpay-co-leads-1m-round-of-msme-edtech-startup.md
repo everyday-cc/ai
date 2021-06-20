@@ -34,20 +34,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
-  - title: "United Fintech Announces Advisory Board of World-Class Experts"
-    excerpt: "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,"
-    publishedDateTime: 2021-06-15T12:50:00Z
-    webUrl: "https://financialit.net/news/asset-management/united-fintech-announces-advisory-board-world-class-experts"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/christian_3_0.jpg"
-        width: 6048
-        height: 4032
-        isCached: true
 
 secured: "P0CkMYWsblAu1XckhYiVsg+iIZBsS5Cu1yt4sqahs+/QOXh1q9K/EdE7+N3cwaO1tASLdmqx8F7ehQDgOJ8jzBlN0K2uvUnh5wk2S+/Py1zDupXe8U/28sMNDZBW4yqwDSR3qODS68MVR1gY7Le0+HpzfqS9vTTr0NOYqRIHFseE/rfJy1fW2E773iEe3IZgq3AYlm+tM0vOHOMUKajrxSxGhdHSngKTv22dA0tHD1NS9isNZR3ODVexvDdSEHG6KGj1BNO5tOFsGswXZ/iCGuDtDKsxJfwRjeys1+/a/qhIXynnZL42xTjNPCn2+82wmx784gnMEH1igDG+tJsVEDlekELpswT8wVDOsgAxtIA=;zBWy18f0vXtVrn5Qk8HXgw=="
 ---

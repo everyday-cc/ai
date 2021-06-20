@@ -21,22 +21,6 @@ topics:
   - AI in Marketing
   - AI in Healthcare
 
-related:
-  - title: "Face Recognition Device Market May Set New Growth Story | Cloudwalk, Aurora, CMOLO, Anviz"
-    excerpt: "Latest survey on Global Face Recognition Device Market is conducted to provide hidden gems performance analysis to better demonstrate competiti"
-    publishedDateTime: 2021-06-15T11:46:00Z
-    webUrl: "https://menafn.com/1102276926/Face-Recognition-Device-Market-May-Set-New-Growth-Story-Cloudwalk-Aurora-CMOLO-Anviz"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-
 secured: "ysNqIqlCIQWhVmnhsXFArICAfe6L+HnyXX+YrwhwwFiwzHQD2vpNXUtYkSUt2biBHmw8FWYo/JsJkbuzuTYs/fWcoHXm5GfuW79R6HGbp0inoYfZVFDYKEG1+i2qYbk5kgtftXEyM3aFaoHJ2mG/g3x8E0bQBqRcWVp+y0L1B2OzrnGYrxI7NNyl2ku+qnxNYFXq8t/J9hyrJntiL6bfZ2PQfgEetmlbsweUoCp3Zl7HPz/Ar+hImEfbyMqjxX6iitS4bcRjbL/wzOQ6b7JImHWWBcpgxC73vsZiMpsvyRsCKRq4M2z/kezJ0aSjfHWBUfa/Dv5/XeTOSDamGK35HzHdhIPqpuzo7HrR099TfIg=;OKYhvmaiSqdCUpxnCnUQ1A=="
 ---
 

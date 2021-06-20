@@ -44,17 +44,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Artificial Intelligence for Rapid Exclusion of COVID-19 Infection"
-    excerpt: "(AI) may offer a way to accurately determine that a person is not infected with COVID-19. An international retrospective study finds that infection with SARS-CoV-2, the virus that causes COVID-19, creates subtle electrical changes in the heart."
-    publishedDateTime: 2021-06-15T12:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-for-rapid-exclusion-of-covid-19-infection/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
 
 secured: "XO5pJO8MVHtEypsTBrVR8GNUKM42I8uKpKO6P/sqJfSBKUIYkCMy7q6jgv+BKNQcMGlzCD4WvhBuZzgWqtDjobWgqpM44BEy2Q8FjpfXz7vPJPjNntTCBuusxeCHvbvN7T8JppQVQR2U3HOmVwibVMHDbpp64tmmqfVaB3veFvsT+SNTzLWmWTTbspQznFRgzCzV+MvqV4gMh8XspCcsf1OBSJVsBvNRgkUNiFNWu+ZmWD2MBN4Mh8b4eN4YdQhoqRa7oC8SUtvli1aiYFfQ5r1N/nfLQfM92lBZzj7P3cdTyZ1Vlv2lIYG/e8/DjQDAqRl5NXKXs+kQQE5UF32zzr99VdEROOjVszXDIeJTe4w=;309Sz29FJoLVHv6DxmJ1RQ=="
 ---

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "and the launch of IBM Cloud Pak for Watson AIOps to automate IT Operations using AI. IBM provides customers with AI-powered automation capabilities that span from AIOps (the use of AI to automate ..."
-publishedDateTime: 2021-06-17T19:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533599"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533599"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
+publishedDateTime: 2021-06-18T01:39:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
 type: article
-quality: 56
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -41,21 +37,16 @@ related:
       domain: nasdaq.com
     quality: 71
   - title: "IBM Completes Turbonomic Acquisition"
-    excerpt: "IBM (IBM) has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to"
-    publishedDateTime: 2021-06-18T14:45:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/"
+    excerpt: "IBM has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to enhance the tech giant's push to"
+    publishedDateTime: 2021-06-18T13:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 44
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg"
-        width: 1000
-        height: 653
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
     publishedDateTime: 2021-06-18T14:50:00Z
@@ -99,6 +90,6 @@ related:
         height: 457
         isCached: true
 
-secured: "7ZFCBc564vAtjFx+Oqn2bvkOouoOxvuhNe/nnhHlMNzzp3v4wWV7xgMKOsZ8SNzTKJuuvrfhX5aACXuRYZrMcBr/d1NMt9c2qqP1MyllQbcgprzwUdi/nevdat4ExzghEnNLflm6Z1sURRdH1UimQD80CQCFSsiCkX4z17KCP7ibeMqeN/cO/7uMAnUYm8TAsNpt4SqEOXntx4/1jSH8DRGN9UM98QrjfG2587iYE3SpKRb4fqrmnbZBXVOlxeEVkJqpLh4T0hXXLlVcCQBZLGUuRaoYh2jCY5MeSHVtGooqFqQUwHtY0QEVNA9/rAqsYWLwe4XOeuRKfplCIuHL+pVgU/LjXliTkbNB4P8It1k=;Dw4kP+d1BicnwlEW/l7B4A=="
+secured: "tUWfXVxKIEpcH8oV/bBN9WOfPAnNfNi1bYYo8oYooIuDOEmJwyQyYiY0PX/pjn/NLaYq8i775wFg6oMyjQQf96dOokWq0gGLF/TPtr3ugy9B7Cxd1VLvabwoDvrzI4LPHwkg5BxtQ70fGO8hNyC3E1FxD7MURRGaOccbbBvJ+8Gc20yxFmNNBFRP8V9BfhvOio3rUCiyvpVBT4Um/+dy08T/I9dn6Q8Pt4tSBf+K0ETvf+u/1QMt+8yvth7ond8ccqACYmkQxAMGD/5kXqTXG7mNOIJZnoc1wGBNDYxTvkiB66abnhqWf650PKEKH2VLB/GpNRD+9hF+NB3T9ZISTXtRtVu3aBgX+aN2SuCmZzY=;kOpCMB4W2K7kCTWaK6DP6A=="
 ---
 

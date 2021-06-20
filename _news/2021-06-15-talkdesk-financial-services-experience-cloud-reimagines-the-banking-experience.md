@@ -46,20 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "White Clay Receives TAG FinTech ADVANCE Award for Offering Innovative Fintech Solution to Banking Industry"
-    excerpt: "White Clay, a fintech company that provides a user-friendly experience to help bankers increase profitability, drive team performance and manage relationships, was named a 2021 ADVANCE Award winner by the Technology Association of Georgia"
-    publishedDateTime: 2021-06-15T12:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19856354.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "B9 Raises $1.7 Million in Pre-Seed Round to Launch Fintech Platform to Deliver Full Suite of Personal Financial Services"
     excerpt: "B9 Inc., a fintech startup, announced today it is launching a full suite of app-based financial services. The company raised $1.7 million in an ongoing pre-seed funding round and is building out a platform to address the needs of a huge market"
     publishedDateTime: 2021-06-15T15:30:00Z

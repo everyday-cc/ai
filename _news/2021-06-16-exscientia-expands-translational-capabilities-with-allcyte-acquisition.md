@@ -53,15 +53,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte"
-    excerpt: "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution."
-    publishedDateTime: 2021-06-15T12:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "d5ZKOJRjEgLOJdL6b7J5RSma6VcW2cTZCjUZYhr566mmuiEFJ00fLZqJ4crakoUeGMrqeLpQwD4UtdCuPsYws2dbPMh9Uqa4qogqEB+St46cFTw8ljq6NXY6zENEw9xUNioYUfKw0CbjbcAy4MYxBxh4Cyx2W4K1FqGHfPKUDXGgfHVMs/pCJtCKWuxNm9zg3tXiLmBj6FXoemwEDuLOOFFCch5ILrXfOdB1vZ9bKMoxspWFBXqy8w1U9T9hmJPq+FmiiWqBJzkhhTwZkseOvf1mxtZyEHUwPGtyLkznsva88ahv7esZeAJqDkd9ouMhBURqUVGgxZfagAq5QSmOQ64ZtRzv7NxvOfiQ+DV7BPQ=;TFuBqOsmP26LMc5JJ+VqaQ=="
 ---
