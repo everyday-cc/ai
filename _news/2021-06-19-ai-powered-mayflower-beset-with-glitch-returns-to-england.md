@@ -22,10 +22,10 @@ topics:
 related:
   - title: "AI-powered Mayflower, beset with glitch, returns to England"
     excerpt: "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem."
-    publishedDateTime: 2021-06-18T16:22:00Z
-    webUrl: "https://abcnews.go.com/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-    ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
+    publishedDateTime: 2021-06-18T16:08:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
     type: article
     provider:
       name: ABC

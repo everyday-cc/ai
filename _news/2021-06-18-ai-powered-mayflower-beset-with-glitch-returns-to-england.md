@@ -2,11 +2,11 @@
 category: news
 title: "AI-powered Mayflower, beset with glitch, returns to England"
 excerpt: "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem."
-publishedDateTime: 2021-06-18T16:22:00Z
-originalUrl: "https://abcnews.go.com/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-webUrl: "https://abcnews.go.com/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
+publishedDateTime: 2021-06-18T16:08:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
 type: article
 quality: 57
 heat: 67
@@ -38,6 +38,6 @@ related:
       domain: seattletimes.com
     quality: 37
 
-secured: "Cx8/w9WtLd0jFp0aQFZb/6tMRWk21ITMtmtbANahSlGLkLsJUHNE8XHLm2f+RlLKiddATI+iqtb/Aa3N5XXtjprrSVB9NXewdV6XLofTsn8F9WTZEhW2cQoFuie4qhZP3yp8eMHEBpKwriFLpaCWN8c2mniI4uJLZXPpJM/1398reTdxmeaEDY8+Kxe6kxwhTaf5mZUzpxAvC8hVjoKnQw123TTiDLzIoJ0DNlz4PYicMmn8x9Lwgiw8K2e6GWcWRHtFUQ5iiSG/HVw9LxexyJ9XEXD9/p/UhxyxRX/6td2Y9AKQn1wPyFBbVLDtnbL4TQK7buo3Fprw9L6V3Lj/Asc47W2jPaUEbc2J+IChg6I=;bQWHj2lmVefkc0ifAxdaHw=="
+secured: "7zhNG3ETSQPt4vGfN75FsZTAz6Tvecx5bRa2NmUgdBkD7ee/tCbpuRDz3goUzYcTol7QgQw5+k7qnmaafAMNwKhK6gPrhJp9CPG1+jcPufXetA+UK4cQpKgM0sLUsTRMOfsY1JrBmJ3KAlEHLEqt2AqqbFd49wL++hM1v7By8rtACoYgzvMwejv0pUvKPWU6+IvmUJQAvhkz6xYG3zNJNMMm7FdeB5+gjgpqhQjso4SM4dAQuBb7XGhzpzSnsZKu88xDmpB5NImSHTaAI9UHk/dN0UuMbnbtpAaE5ZnirdFOgBZHabNQGzFaajtEfupsLIH3TrJOgkLl57FboA6aXLqqFEkdHhAmag3pvtYApG4=;QxwhL81H8xxQdcDJ8f54rw=="
 ---
 

@@ -63,22 +63,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "US lawmakers introduce legislation to ban facial recognition tech by govt"
-    excerpt: "A group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology, including facial recognition tools"
-    publishedDateTime: 2021-06-16T02:25:00Z
-    webUrl: "https://www.business-standard.com/article/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/us-lawmakers-introduce-legislation-to-ban-facial-recognition-tech-by-govt-121061600136_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-09/20/full/1505925633-2101.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Lawmakers Re-Introduce Bill That Would Ban Facial-Recognition Technology"
     excerpt: "The bill, which only has Democratic support, would bar federal agencies from using the technology without approval from Congress."
     publishedDateTime: 2021-06-16T13:38:00Z

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Machine learning can reduce worry about nanoparticles in food"
-excerpt: "Scientists can predict whether metallic nanoparticles in soil are likely to be absorbed by plants, which could cause toxicity."
-publishedDateTime: 2021-06-16T12:11:00Z
-originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php"
-webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php"
+excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
+publishedDateTime: 2021-06-16T11:54:00Z
+originalUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.html"
+webUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.html"
+ampWebUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/farming.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
 
 related:
   - title: "Crop Absorption of Potentially Toxic Nanoparticles Predicted by Machine Learning"
@@ -59,6 +67,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Zr0AyTHoZhwPsb3gDTvdlBX71y8yh2rEDb8L7Hb26muNCMEy34a9uduG5YaFoTrPidLOvFi94jgFYALzIRCLoq29SoOFNylPkMvq6Y584ASOsNLGrVITS4G/NknthdM/nmXejh/rz7hPqTkKIXTVPFGKj1F0zDVhGRcpRrRFW4eM1Nkar1EqB+WWjYYcL2lCWPcH8DOq1oHuQ6uB03Sbn1FPPKAiSDgFiSJA3nDbn/5fEy4sLrJS5pQhyfV3YlLggUz6B4HvJLYCXrr6q3x8seXORBT2TgMQrrAwHq0AD+FygACtXSNwpYFgG6XRpwV1pp2Qb6rSYgrLI/BmGjzimGyQQojebxGIVYFs8BUOZvJRAdYpbo7B0v+FLhkotAldkEzWcrmzjNvggcIH+ouKz6B2TTLeD6CMYjAa5bI6DFApqX88dBtNW8dDUbRlCrtQNBFM3hBEaTFvfJr8/75UYUYJ7R1MFo3RwUNzKlERKFByWXU2CLgaEyO4pNl4Lk0R8TGeSgIdKJ69tX6KU8tuhA==;UtrUKgtiAQg6IqnOntdPPQ=="
+secured: "Y4PZrp6fP4ll3vcDp+z67lJJ3fqKbv6TMUDOYSrMfqoewWLikp42Rdq4B2YB0GMK10Qm5DiTqdLcgSWoQEzBYIlQEcvSh7VcG36HC/wk+w7fzRWlWgQ1i2+L5Z8spokTckCQXFaPBR87f7afINdrUg8aAuBLJFnhCwJ9VJGOmdqaShpKWbfJDkZaaBXxbeEXEw63DnQLBXaHJUzHEB6h6c5uSZJwtpfuM9Jx7F9Dkg3TdJ0+VucbaMhGDOoATuj6tL4WZaGg8+51wZa8dS6MKo2UjK6FgvV95GkNmyHbJgyCKEgbrjBhtfYLoscHDWxVxgMuN3Tv9Mf49PPxZkcQVZtnsIVlYg9jlS1NFK69J4g=;b9KhSbAwF1wW/JYElMRbsg=="
 ---
 

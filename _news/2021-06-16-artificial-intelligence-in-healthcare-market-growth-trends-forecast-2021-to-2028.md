@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Deep Learning System Market Set for Rapid Growth and Trend by 2021-2027 Covid-19 Analysis"
-    excerpt: "This market analysis report Deep Learning System covers detailed details about the overall market to assist key players in making informed decisions. The detailed research in this Deep Learning System market report provides a close look at key competitors as well as pricing analysis to assist potential entrants in the industry."
-    publishedDateTime: 2021-06-16T01:44:00Z
-    webUrl: "https://ksusentinel.com/2021/06/16/deep-learning-system-market-set-for-rapid-growth-and-trend-by-2021-2027-covid-19-analysis/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 10
   - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
     excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
     publishedDateTime: 2021-06-17T11:59:00Z

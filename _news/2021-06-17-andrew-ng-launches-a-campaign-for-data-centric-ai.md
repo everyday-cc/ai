@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 837
     isCached: true
-
-related:
-  - title: "SMU's Centre for AI and Data Governance launches new research, policy and community outreach initiative to improve human-AI exchanges"
-    excerpt: "Singapore Management University (SMU)'s Centre for AI and Data Governance (CAIDG), has launched a research initiative \"AI in Community\" to"
-    publishedDateTime: 2021-06-16T01:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/smu-s-centre-for-ai-and-data-governance-launches-new-research-policy-and-community-outreach-initiative-to-improve-human-ai-exchanges-1030526160"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
 
 secured: "E1wTrtuuPBfAUG1Ug5SSXpNtkDY+Fy87Hd37j9fzq1pHTPx+uZz11zEqml4u0ZziRkVCX2h2XqOGL1AF3Itjl8Ci1wdmayoLyTIwAx4erEggYyz8sW9TbRpd8yFvc6nvdqJj54cwG4H1bF3VFBJuEpuBKXgK5eFeDHSsAHVyEpU1Vix3JKv918JdRWdheH+COsJO8cox/mX9aEd9KmcGDjTqM5066kpAtCbSuP87t30QkmL7zFIIVOpnoLjbz1QzeZT3G/cJ49D/q01IfWwlaVb2aMcC4/keQPqkNKLRqHVaskYDeCBxIah67yIaAPTfXJr19cIfmDi0bNdHJhKml3xi57VKtiLr2aQrgYOhHwpkQlV+TPz91cai1aUb9DGousmRhc6tGI13wjQX9u+c0dtCAK2Q+HX+AOX6b1hx/4EMYk30vz20gjuE13zoMVSp9qrU4Ek5zhlHbh3Smi5PZ00PDfnS0stI280+nf0mb5HBA5MxKSgTAvI1lVTjJNmb7Y2zZ3H7SJCvQO6+KfaRMg==;0q4c4WcyiTPdqm8FOMzu/g=="
 ---

@@ -149,49 +149,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning.md",
-      "title": "Crop Absorption of Potentially Toxic Nanoparticles Predicted by Machine Learning",
-      "excerpt": "Researchers have developed an algorithm that could indicate how much plants accumulate nanoparticles in their roots and shoots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915",
-      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915.jpg?v=11288643",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/applied-sciences/news/amp/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915",
-      "publishedDateTime": "2021-06-18T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-build-xgboost-models-with-amazon-redshift-ml.md",
       "title": "Build XGBoost models with Amazon Redshift ML",
       "excerpt": "Amazon Redshift ML allows data analysts, developers, and data scientists to train machine learning (ML) models using SQL. In previous posts, we demonstrated how customers can use the automatic model training capability of Amazon Redshift to train their classification and regression models. Redshift ML",
@@ -442,6 +399,49 @@
         "Machine Learning",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-machine-learning-can-reduce-worry-about-nanoparticles-in-food.md",
+      "title": "Machine learning can reduce worry about nanoparticles in food",
+      "excerpt": "While crop yield has achieved a substantial boost from nanotechnology in recent years, alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.html",
+      "originalUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/farming.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp",
+      "publishedDateTime": "2021-06-16T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

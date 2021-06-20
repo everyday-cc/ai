@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning can reduce worry about nanoparticles in food"
+    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
+    publishedDateTime: 2021-06-16T11:54:00Z
+    webUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.html"
+    ampWebUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/farming.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Crop Absorption of Potentially Toxic Nanoparticles Predicted by Machine Learning"
     excerpt: "Researchers have developed an algorithm that could indicate how much plants accumulate nanoparticles in their roots and shoots."
     publishedDateTime: 2021-06-18T08:03:00Z
@@ -50,15 +66,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Machine learning can reduce worry about nanoparticles in food"
-    excerpt: "Scientists can predict whether metallic nanoparticles in soil are likely to be absorbed by plants, which could cause toxicity."
-    publishedDateTime: 2021-06-16T12:11:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
 secured: "Pl8lUq1ssWpu0LkZJ+v4h89Y4O92/ZFgIFFs4uKm5MXH5F8Oo9fSI0YtINExDjtVaUNPuBwZg0xDotnSX5Cqb0LRPUa+SLES6fC7GT13+4/WR13T4bQdtDId0SLh7qSjRbyC5K98j1K87RIafQBTwWLEOC4Ip5xBtGcYV1NUJA5uHOWBmycrXXev8Cwxr07JAlfKZWhthopgs0IqUf2wwSnEULhnUyNofW8kAVUjOiA1ztEUUFbRQouqcwN18KDm1Go0CUO1NMcAClQA/8GGna7gO5GelyOXhmeLMxS6BhtYcGEUekLNwD+hZU7W6S7C2anrGirrxmfjj6xz/QwAT9CxZtNiFNalXvqmajltxNk=;s347L0eKez2e8PDSnakL6g=="
 ---

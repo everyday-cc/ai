@@ -1,20 +1,26 @@
 ---
 category: news
 title: "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology"
-excerpt: "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients"
+excerpt: "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients an innovative adaptive radiation therapy called Ethos™. The advanced radiation oncology technology,"
 publishedDateTime: 2021-06-08T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html"
-webUrl: "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "xqZIceS8rofg7DXLkFho+7DNG1hrq0P+iE5kdKqbxaug+7Vl41lpgeY0KNXzISArbnRBajBG2nOVjF97v9BxoLSwXK9P6/ILI5iYhU+PORFNvvnoQHcuFRP3DN8bzpl5TXmkERl0aJEYocRl/HUDz1drAWN/L0z/TDja150FU3r9/8i6K34nrBqRaj6n/aHgIJ2nko+VlKiN+4AcoJB0TfvG/4Vt8Sc8WVtGkU8xBuy1GlcIe/V8opd6uryUmx32Q82Bn6zoEXmhiJWMcp8+psNJ+lQYu62aqgbVL5Of/xBHAQsIhChHyrS1wS2DGh18KDI/1kqF4TXtfb4jVoe2QFgtlUvF+zCelp0EMAVAI2s=;NBS7W3ZEkAYbEG2MFvUnxg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "JjFIwGocay4Hjhr71KTcgOEYt1YnfgG5gdFPtyBIkkv/Nqf79Xg+M8UnSkiyR1qHHCnfMhA2yw3TrLWdSuMd5Sa6ZLl5ltZhGib3GWCSrUCxsj2YJkvoxycwrvsv0nOgQrNHbBmOU0GQr9bOK4qoUyCR8TNRLHunwzYezaAzTcWR9XHQezg+iIWh2qhg6QkRaSyqhwDeXDl5SGU8+nuwRQebyUY0MZAi0GW3fcqV+O5GpYQwsRu9ceR6aYDJx8k3wmeroiJRtRs078/q2RMEJpcxdpwBGbOI6zP0ZJ3VAcbfmNXNuUR4oHbphnyWWJh2ZuZnjlxFhyM9RhzmV3NvULKplxc+wLM0tgyySh8snLI=;oO7GSSBBJfl9Sv8tsXVlKA=="
 ---
 
