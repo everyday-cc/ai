@@ -342,15 +342,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 32
-  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
-    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX. The Class 8 trucks equipped with Waymo Driver autonomous software and hardware system will operate on Interstate 45 carrying a trained ..."
-    publishedDateTime: 2021-06-17T17:26:00Z
-    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "DwaSsVufxwnuA0FK0rn+s8iAAf1n4hsJMlNOiu24d5iPPxyju/HwQvy+SyVhxaHISr+dKtd9pAptVhlNng9ROC7YYbsENCicsJZHoT1FWS3PEOsiqE8K4fxDGCgMERuc48+ajIeO9F3uRj8XyoFl9wH6NvrgH7+L1XUmR/nLnriuz5KTWjlQhFLGOXnGr9cKdhLYo3j+O2vA88+MhuzgeXdkxMSspDZCBKwJJyMkKW0U1SLHuJuLOIRLesvWMIKOyrN3oOT2khKw4HPdUIc35nD0pEHw/jN0FXoDnV+Lyzf++Y3c8wA5jxHMHQSi5NhusN56Vh714e2FZ4zsOcbtAi7w3ThZxlUcBFyKJZpfQas30h1xmwg43q3ulmWGlSuZthVscAIxDvaZemXzJF34n1icGLiY9MIh4w6vCZn7XIoXPEYiLGWHWqDd9HGjgrcyk+v6AGAvUstPyoGiXJ3YbewbJeqeyo66xUPB4+QzzmWNKOnflOtuHOI7a7azkEyTtA75djdqHDX/L2pCI28HHA==;o0nRmUQsOhmnUlj054djLA=="
 ---

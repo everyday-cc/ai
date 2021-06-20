@@ -1,18 +1,18 @@
 ---
 category: news
 title: "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry"
-excerpt: "Financial technology leader FIS® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to"
-publishedDateTime: 2021-06-17T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
-webUrl: "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry"
+excerpt: "Financial technology leader FIS ® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to help capital markets firms tap into the power of their organizational data to increase efficiency and better manage regulatory compliance and risk."
+publishedDateTime: 2021-06-17T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/"
+webUrl: "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
@@ -31,6 +31,6 @@ related:
       domain: crowdfundinsider.com
     quality: 57
 
-secured: "MWSC8SNL2gYomTt9bcQdaSSeHQ1K2arGxvJTcQx9jzxEp2gbMBbq1eqQXjafxdXFtUDPjDIHQZcbH+bmf6Fxt8nvvcDJsvyPObESg2I7Ck6O69kLkHeTu95hzvM0z6fL6E+KLRmHNbKNvC2hlM5+2BSil+8MSk+m5jPKYE7rM6yJ26cALcwXWzolidpr7w4lrSh1YV/25b0pWtVGnVfEhuMYYIOyUzuMuAlHeufbQsikFPStHtrw/jNmUTmqjJIe+80AUurf13ZKfaGhVxVWVBuK8e1jzKj8ryD7l/MDoit+OuXFgIPsA2iOX8OPaRA4bxamDEUQA7s1+GwCJ68Oth9OIGbKKZcq1yYeYa9CYcI=;8dR+/vJXS2i7EhAdF/bhAA=="
+secured: "lmCJ036S5WeJxcVTY4C7sGUrnq6UPk7O2y8Yx5GTdgN39w1AyZFuHmEr+2phpwRKF6JylatSKHXo/yR7zUyoIhPxjDnfcXbczLlmnPbCzziZ9hP0c4/4+GnYqqJvEdC04FtE25qld9LiYvNHu+5aw84L4N+gWlYV6SyMqvSq/Mj0O8czp9ogo10buquvoXQ0oDoDpWw5fS7tCnUQm8pvmH+4G2tXUyo2Oa7GAADmps/at8blqFwYr6HhMSnX6OZBACAqPITKRTi3cGTyqikQYkULjgvIcxPrt9iBq99o/B8dqyNhuSoHfBgk3ZFXkchkGyiEUPRsnJHg7HBhrtIVWP9eBSwroM1pWfvbmEnEmKU=;3+oENkTB0UFw8dNDhxjYRw=="
 ---
 

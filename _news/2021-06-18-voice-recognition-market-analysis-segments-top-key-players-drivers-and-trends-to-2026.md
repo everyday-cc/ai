@@ -1,24 +1,32 @@
 ---
 category: news
-title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
-excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
-publishedDateTime: 2021-06-18T08:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
-ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
+title: "Voice Recognition Market Analysis, Segments, Top Key Players, Drivers and Trends to 2026"
+excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
+publishedDateTime: 2021-06-17T19:27:00Z
+originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
+webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
 type: article
-quality: 17
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc"
@@ -76,20 +84,6 @@ related:
         width: 800
         height: 457
         isCached: true
-  - title: "Voice Recognition Market Analysis, Segments, Top Key Players, Drivers and Trends to 2026"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
-    publishedDateTime: 2021-06-17T19:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
     publishedDateTime: 2021-06-16T09:37:00Z
@@ -104,7 +98,18 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
+    publishedDateTime: 2021-06-18T08:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
-secured: "fUwhOG6o5KFDKdU6H9jZmfCaoeJVr8trM49CAZw8nmMlxEc3y7LktX2CkJ1JBfG9MesTxtAi6jo3e4GRRhDdP2JQtv4NGAw2xltDmXSMvWSyubD6rdFIbic2tD4QhQfc86SlGavThFr8bCxp9GjR8N09cmRpEZhcZ72ZPZKg4j2Y+VP2IlFz/a1U/fZts4aHcTmaExJf6+2Pm6Ur5RF705oLXUcLUwvpDmxmQtXkim//9f0lPW+5fbDqn0x9gQJV/lONpgVaGnNeo7fr78UA0LLzHFXZxyD08emvTI4q/P64W3xUAFYb1Ex3xLQ+As7iixmzI+IFjiTzP2VqogFSBWXrbpTqsMj3TH/sxUwP/w4=;t4jsxpZuIWHV4aQ+xU9JZQ=="
+secured: "yVCP6B97qKOE94euTivTLzCDEMuYn42RAJwzKd+6J37n2QOdRg/BtANhvLLf+wwupLeyA/j2pxCCm/YrR995kWH7wMYpisUgQDsNGwDAR/Fl+aAmQLN1ii0oe99BH67DCVeExD8hh0spewe4f0dk/ejPA07wPzCPdR2kjcv+BH5OE7l1AdjiFb9QveH5O8pCsAwYdGxyRwa9KBlzjTKhuTjqkXdgHksYG6C+PVFR1+RMz4NKlbXYQIeglUpjK2ysBVMOcxRVYtsZpUkOAamNXipjFXR4fSGQsOjIWFwk9d54UppRr2b56Mu9DwM1LZEGs+8a8dHD95PnJX3RS4hOC9WnfTuf63e8ZDLhabhy+hI=;viPx+1EEZfAm6X2qjYsV4g=="
 ---
 

@@ -147,13 +147,13 @@ related:
       domain: financialbuzz.com
     quality: 19
   - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "Leading global manufacturer of luxury, high-performance sports cars will leverage AWS machine learning, analytics, and compute capabilities to accelerate innovation across its road cars department, GT Competitions,"
-    publishedDateTime: 2021-06-18T01:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210617005933/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
+    excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+    publishedDateTime: 2021-06-18T06:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 8
 
 secured: "GbUHEX2HEIyOaN5xQXpT8EszivMGRqpM0Hk8FqRwTRqNx+BYcFbf2XFUWvWSufnfEv/c4sR5CtI4aUBQKLgbHpmRKCwy0Ct3Yw7IyRq/IDIPM9gsUY943OwEDFTCVjPL8/LTW5SkLuXixp4xIGMdu8MLVvsjVCc35QcREKwaM9egg1kpAAnHN6ryUT1Aqa2m9dB0+MJYWP65kgWt0UEfK2TPoHi/zUSlurqLodCDj8gMVXiKfTubIV5IkUV8cVnbOeeyhywtH9yFpbXmzZxqtDQQY8anfANy9pld2laRH/NZlJSZKWrY9pOPjtETnFLPehOUHnnLmZdS4fFy4iAWMt4+8BEXo3RXRnomP3/tQoCQ6lLVkVL9AbmixB0JoJNM7zSX4hQHANEiqN/AFCFWECNAc4UhDzOIAi8C3zePwWHZcVbej5PgkP0mrXvp+/YWc4cEnrO5MZMwEy5KoiVo/0fmJP7+/8kGGeU+6xvQMvT0bqB87AVUnOc6hVgs8tEQj1gsePAIDW5e9XWOjHkZTw==;MtcVtlIohoVJfVguNlqJyA=="

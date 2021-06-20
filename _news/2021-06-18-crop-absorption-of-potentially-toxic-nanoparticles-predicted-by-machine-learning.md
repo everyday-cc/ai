@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/applied-sciences/news/amp/crop-ab
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/crop-absorption-of-potentially-toxic-nanoparticles-predicted-by-machine-learning-349915"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: technologynetworks.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can reduce worry about nanoparticles in food"
-    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
-    publishedDateTime: 2021-06-16T11:54:00Z
-    webUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.html"
-    ampWebUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/farming.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Machine learning can now reduce worry about nanoparticles in food"
     excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, the alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
     publishedDateTime: 2021-06-16T23:23:00Z
@@ -66,6 +50,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Machine learning can reduce worry about nanoparticles in food"
+    excerpt: "Scientists can predict whether metallic nanoparticles in soil are likely to be absorbed by plants, which could cause toxicity."
+    publishedDateTime: 2021-06-16T12:11:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58254.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "0JSOojqAMR92hvD6WgOAeCUnvlMMoM82DiLlImb0+ySBC7sEUlJKie9qmeHvr7goaCwOWZtSnyryY3WcD7iGY5+MDpc3PuiLg+cdJvjC2hM7vtfHBKdkAl7abt+NoSglA2uG3rg3Zqyd6PqaqGE/5jZ8EGpgLetphDPR7IpCnF8KFRdEFG05JI9VRrXjNHrr5Zo/kZBwQzT52cDTdgVzQDZPV06vL2GNczWKa2IHQLr9uUPH/hfV+WJRe+E8Xg7/L/FTHVJpwHL1s9CDKq6+6vcltObJe7HdrMzWpd2SV0Em6p+1JxPXfzrH/Pe6Jrc9R5tjOJ/8cVxir4SsMpPgM4l2FcOzF5jMP5ay62PpVeEtNeI2O3WXbA5GKt/mPdttLEK16uEKZKCuT8fwMehJydHqWgG42GgTvDufHWtBvXwTaIsMV86b5li+zSS+S7K2yH1YS1xjabBdZ3RjVqy8EhHqQFqWFwZWXTsl8AJUuXpytzZpqYMA+Dsc8PqRHjxlPAiopXqt1Cmrn6evMTgjEA==;G5N3sVnBKsXwq1UW4G/tNQ=="
 ---

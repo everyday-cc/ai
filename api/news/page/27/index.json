@@ -2,57 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2021-05-28-nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer.md",
-      "title": "Nvidia, NERSC claim Perlmutter is world’s fastest AI supercomputer",
-      "excerpt": "Nvidia and the NERSC lab turn on Perlmutter, a supercomputer with its sights set on groundbreaking high-performance AI workload processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/",
-      "originalUrl": "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/NVIDIA-Perlmutter.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/nvidia-nersc-claim-perlmutter-is-worlds-fastest-ai-supercomputer/amp/",
-      "publishedDateTime": "2021-05-27T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-databricks-unites-data-and-machine-learning-teams-with-launch-of-databricks-machine-learning.md",
       "title": "Databricks Unites Data and Machine Learning Teams with Launch of Databricks Machine Learning",
       "excerpt": "Collaborative platform delivers a streamlined way for organizations to standardize the full data and machine learning lifecycle at any scale with powerful AutoML capabilities and new ML Feature ...",
@@ -1210,6 +1159,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-the-future-of-work-now-ethical-ai-at-salesforce.md",
+      "title": "The Future Of Work Now: Ethical AI At Salesforce",
+      "excerpt": "Baxter dove deeper into the nascent field of AI ethics, including how to educate fellow employees about ethical issues associated with AI, and guide product engineering teams about how to design technology in ethical ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afaecdf8d262169a8cdfe8%2F0x0.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/amp/",
+      "publishedDateTime": "2021-05-27T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

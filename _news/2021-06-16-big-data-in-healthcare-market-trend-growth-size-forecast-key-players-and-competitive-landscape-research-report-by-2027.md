@@ -84,6 +84,20 @@ related:
         width: 800
         height: 457
         isCached: true
+  - title: "Voice Recognition Market Analysis, Segments, Top Key Players, Drivers and Trends to 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
+    publishedDateTime: 2021-06-17T19:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
     publishedDateTime: 2021-06-18T08:20:00Z

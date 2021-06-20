@@ -2,58 +2,6 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2021-05-07-baidu-rolls-out-paid-driverless-taxi-service-autox-completes-100-days-of-robotaxi-service-in-china.md",
-      "title": "Baidu rolls out paid driverless taxi service, AutoX completes 100 days of Robotaxi service in China",
-      "excerpt": "Baidu has commenced paid services for the Apollo Robotaxis in China without a safety driver behind the steering wheel for the first time. The Baidu milestone coincided with another milestone by Alibaba-backed AutoX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "originalUrl": "https://www.gizmochina.com/2021/05/07/baidu-paid-driverless-taxi-service-autox-completes-100-days-robotaxi-service-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/baidu-robotaxi.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-07-tesla-admits-totally-self-driving-cars-likely-arent-happening-in-2021.md",
       "title": "Tesla admits totally self-driving cars likely aren't happening in 2021",
       "excerpt": "An Autopilot engineer told California regulators Tesla may not achieve Level 5 autonomy, despite what CEO Elon Musk predicted in January.",
@@ -1189,6 +1137,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-best-tech-stocks-to-buy-now-4-names-to-know.md",
+      "title": "Best Tech Stocks To Buy Now? 4 Names To Know",
+      "excerpt": "The sector comprises businesses that sell goods and services in industries such as ... with the largest market capitalizations such as Microsoft Corporation (NASDAQ: MSFT) and Amazon.com (NASDAQ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
+      "originalUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

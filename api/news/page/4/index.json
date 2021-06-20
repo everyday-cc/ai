@@ -294,7 +294,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabets-self-driving-car-company-waymo-announces-2425-billion-investment-round/ar-AAL6F70",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -420,49 +420,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-machine-learning-can-reduce-worry-about-nanoparticles-in-food.md",
-      "title": "Machine learning can reduce worry about nanoparticles in food",
-      "excerpt": "While crop yield has achieved a substantial boost from nanotechnology in recent years, alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.html",
-      "originalUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/farming.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-06-machine-nanoparticles-food.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp",
-      "publishedDateTime": "2021-06-16T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -618,6 +575,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype.md",
+      "title": "5 Fintech Stocks to Watch Beyond the Cryptocurrency Hype",
+      "excerpt": "Many believe that “blockchain is the biggest innovation on the internet, since the internet itself” and the recent roller-coaster ride in cryptocurrency has attracted several. However, fintech in itself is a broad category and cryptocurrency is just part of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16",
+      "originalUrl": "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-fintech-stocks-to-watch-beyond-the-cryptocurrency-hype-2021-06-16?amp",
+      "publishedDateTime": "2021-06-16T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -959,49 +950,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-japanese-robotics-startup-telexistence-closes-series-a-round-with-40m.md",
-      "title": "Japanese robotics startup Telexistence closes series A round with $40M+",
-      "excerpt": "Telexistence Tokyo-based Telexistence, the Japanese startup developing remote-controlled robots, announced today that it has secured about 2.2 billion yen (about $20",
-      "sourceUrl": null,
-      "webUrl": "https://thebridge.jp/en/2021/06/telexistence-series-a2-round-funding",
-      "originalUrl": "https://thebridge.jp/en/2021/06/telexistence-series-a2-round-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebridge.jp/en/wp-content/uploads/2021/06/Telexistence-Model-T.jpg",
-          "width": 1240,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thebridge.jp",
-        "domain": "thebridge.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc.md",
       "title": "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc",
       "excerpt": "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports",
@@ -1010,7 +958,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1196,6 +1144,48 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division.md",
+      "title": "Ron Ramaiya joins The Lab and reveals artificial intelligence division",
+      "excerpt": "Ron Ramaiya has joined The Lab as head of data science, and the agency has launched an artificial intelligence and machine learning division, Lab AI.The announcement:The leading insight and strategy company The Lab today announced the appointment of Ron Ramaiya as Head of Data Science,",
+      "sourceUrl": null,
+      "webUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
+      "originalUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mumbrella.com.au/wp-content/uploads/2021/06/Ron-Ramaiya-The-Lab-e1623798113893.jpg",
+          "width": 487,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
+      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
+      "publishedDateTime": "2021-06-15T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mumbrella",
+        "domain": "mumbrella.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

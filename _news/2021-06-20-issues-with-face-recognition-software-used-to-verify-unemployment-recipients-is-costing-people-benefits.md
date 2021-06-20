@@ -32,19 +32,14 @@ images:
 
 related:
   - title: "Facial recognition to verify unemployment recipients 'doesn't work well'"
-    excerpt: "The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits, is working"
-    publishedDateTime: 2021-06-20T12:40:00Z
-    webUrl: "https://www.glamsham.com/world/technology/facial-recognition-to-verify-unemployment-recipients-doesnt-work-well"
+    excerpt: "The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits, is working inconsistently, leading to many people being denied benefits or having their applications put on hold,"
+    publishedDateTime: 2021-06-20T16:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210620/3774615.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 38
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a770a2e4a8d5832e428e3fbea1c84e77.jpg"
-        width: 400
-        height: 267
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
 secured: "UiD4G7OZ/MWIjXgJ0umK3vtyw9k6KSyw0mA0KCkWWChX6XojYyXZiwGAn3jwfKtoeBO8E4gPzgKPDGD9m3nJdVuPvLCyiTH/dGmhIHeKx8Bi+NHGPjXvyNQVM1T+y8vQoyFk5NFv2hTNAF6FJUNwqpv4/hS2VHWHsXo3/GbKXfIlySwSp2jS+Anql7BP7SdtSvvhsTMaLeKjfosrvYW4u1uykV/W0dgtyLnhNaqXuYA5shQRgIj9zg9kKdbMJrEIGFmT9EYUD4lIUci4UOZ11vZ5M15lgywnn5Z6UMn1C7LD7wPBM67Wu3x8+w9UR7OOgItEM+Wm4BT9D3H5GTAlHcEE1FAiW2IDyrVFukAMIweVqjjse9xFILJRn2jf7+BVyltFykPqnzRb6WnnU70z3QwekMf+LQf02bNsApXJBuHS4it5EC/yZI27sjkDhi66qF8iNSgA3LMYkoYwuX0E4XtveHnt/JGo8HXjMJasAx+li3J3w9ZVVssckBuAW6DlpHM063wGnop5aQUBmha1fg==;JkpFa8LKClE7RIwnsd45mg=="
 ---

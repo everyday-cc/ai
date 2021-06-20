@@ -2,9 +2,9 @@
 category: news
 title: "Lexion, AI-based contracts venture backed by Wilson Sonsini, raises $11 mln"
 excerpt: "Lexion, an artificial intelligence-powered contract management startup aimed at in-house legal teams at mid-market companies, said Thursday that it secured $11 million in a Series A funding round."
-publishedDateTime: 2021-06-18T01:28:00Z
-originalUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
-webUrl: "https://www.reuters.com/article/us-industry-lexion-funding/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-million-idUSKCN2DT2Q7"
+publishedDateTime: 2021-06-17T20:28:00Z
+originalUrl: "https://www.reuters.com/legal/legalindustry/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-mln-2021-06-17/"
+webUrl: "https://www.reuters.com/legal/legalindustry/lexion-ai-based-contracts-venture-backed-by-wilson-sonsini-raises-11-mln-2021-06-17/"
 type: article
 quality: 65
 heat: -1
@@ -98,6 +98,6 @@ related:
         height: 889
         isCached: true
 
-secured: "FFYr9ervXo0lm5HIjidVrYAKKSr5U1ie1O0UeNWE/pF9ChGBuy/Fh0YOak78W2WHuLRr/to/ObC9fSA5E0S0OUyqNhaj5SYa9DIG8jrBgZlVTkcnqU9Y8+8jreaSFtNVZBlRCwY9MGmBtrIciQLlZC3nmJueSjI5O51TEIVqWZ1BC+oBumkXPr91VCsDG0ukntBSjbvysOVYZBcQkcmDkrrB9OvAlXi02zamWgqoaaM86kT1fzJBgLRvSHWLEATHreHwZ2lMw1RxtOSheMDGmDDKqZAN3QWoNr2vTBBmmWp/eyfCWVtjuUkQw6mh9iFZwlM74roKI4Pg34DBuZssICZB4vk2TPKbzSfI9HafOlDzdojxUYZIcCWpMt7o6MeGzd9mi208mRLcp5ZXSIosldPaPaxZkxVBa6pD+cuR75Rev4Z308cHAinku6DKRADQ6NazeHzcv8Wn9zGxDbwP0ig5T9MdgqRBc5LFoWqOSalVg8tFqo0plHZsSsA0a4+lBqJU1vzJ1TbgQYEwGfUmlA==;8zE772bBJk5BRABWHprgUQ=="
+secured: "4fRXWrGxsLG/Uk2xOy6VA7bDz5ImisF7xrxmRN0MIB5395d6iPZudsbTozn97SDWRMEBCwnFcOyjr80weViOOwt+kXTsRHjJIEHNKMhd4nH2AOch/4tMfigyba0uTYK3yOqSB+klqAE00AqcS2Nfe3z2r1oGJacP82hkD0U3ykMF+GmW/V/6flviSwZOYR02nP46Von5xMzvSIrI9nFXQ40Npfx0/meCyI1vyYK3RHIZmR2f3ZMZUXMPLU8WoyzpIjSYjxIBJkcEc83EFCGXoxPOgYIh3EsGwNa3grhFg5yS9/fnfbn6cxtrP5pKl1AirYdU6ZuXPzH8YAqcovW+XxHpr9VXlCxI0g0XLIeYMOk=;bX9sjS8JN3RojJi5oOIN6Q=="
 ---
 

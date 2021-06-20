@@ -22,19 +22,19 @@ topics:
 related:
   - title: "AI-powered Mayflower, beset with glitch, returns to England"
     excerpt: "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem."
-    publishedDateTime: 2021-06-18T16:07:00Z
-    webUrl: "https://www.chron.com/news/article/AI-powered-Mayflower-beset-with-glitch-returns-16257643.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AI-powered-Mayflower-beset-with-glitch-returns-16257643.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AI-powered-Mayflower-beset-with-glitch-returns-16257643.php"
+    publishedDateTime: 2021-06-18T16:22:00Z
+    webUrl: "https://abcnews.go.com/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
+    ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 57
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s.abcnews.com/images/International/WireAP_8905fee31e8143a5bc2db66fc7e0ddf6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "9UB2pe7RjS15oqD9lWJQl1yYrYWyabEg2Hbw9Kh9wxIDK1NYuYdwTmRQHGgbL35zlc/wBw0qxESGmaoLJ9u23+2ATrCNzSpN+mtwAIHnN7ly+kRnVHgFD10+rIf+ezH+GzaYKb6aaHuNbbsRv6HwHD1k1MbDMOV2XRuauVSwBoAJRijfZFtVgZsYR2htHbBP/p+zSOqPBJLu8VV7sZqK043K6qAwRmzTPdvTkcnoP+XSKaTIjt1SSNuOAIINuuY7gAJxXa3jiYS//Mmym49us8p1lrPuw4OmJFlI4QLq0WQdulKbWvn2CmesLFZ0WVt1jvqfeK6CkHwSMB0jf+o96n3Rpor4bA3i88IWcgcu3Rt/Fi7GB9lUiAOHWgI3psEyQPaImNUIFihcOydd7snyiLvwP9L392mOpSbVJMylSZk0xS8jYmqRdXbSAwkMkvzdNEKskYIoPXPZtn10jUUDv5CivwZcbO2KssHGzLgziZxp791tUX50TpwbAdFiuG1+kMfjgiO78q4nXFq+NRMJew==;/tPK9EGGm6BAWZ6P7oQ8yA=="

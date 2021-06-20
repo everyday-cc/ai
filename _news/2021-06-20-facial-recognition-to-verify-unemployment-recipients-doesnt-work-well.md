@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Facial recognition to verify unemployment recipients 'doesn't work well'"
-excerpt: "The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits, is working"
-publishedDateTime: 2021-06-20T12:40:00Z
-originalUrl: "https://www.glamsham.com/world/technology/facial-recognition-to-verify-unemployment-recipients-doesnt-work-well"
-webUrl: "https://www.glamsham.com/world/technology/facial-recognition-to-verify-unemployment-recipients-doesnt-work-well"
+excerpt: "The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits, is working inconsistently, leading to many people being denied benefits or having their applications put on hold,"
+publishedDateTime: 2021-06-20T16:56:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210620/3774615.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210620/3774615.html"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a770a2e4a8d5832e428e3fbea1c84e77.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Issues With Face Recognition Software Used to Verify Unemployment Recipients Is Costing People Benefits"
@@ -42,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UzBy2MJGMcBvCJZjvBgbvqoxXJSTZObwnevqnoRFiu+NkUokOn8gf8/nUm+zseoO0ItCdjblr7uU50ZQgaPIH7lcovE+CXvTDfnPPlIDx4c2a6d8RYrNHNGVvvRVcrPdl1R1ADNV3Cl3EN4NqJSgeuXMGkgQcsD4/wzRACYj0Zn7K9McMp9LcHdUu8zSKUhSskXVtmzxcL2kVEalEJtRM/Vux5wQvcLWhX3Jd8zoJB8CT3DTIw7NUyaoNRQWV6P3gkFKHwwjHINdXesnCk0dxaJvAcz+DfwcgmlNqowcZD8txoCd1oAKwTK9X1mvCa6aCS2RK9AlSu4vAp4pb3j/mVdW1S+LXIg4Bz5v199d//Y=;E04nRAYfiYQkLXyNxx5CtA=="
+secured: "wjcCz27pOrgJpOTnRG/ebBtoRRXktoPg2+KEX0lnQGOGRNEEVhOrG8uAF6MIOPf3w9F6c72MV6QDYOPM1UEfDpR8caCcOiyej7kUXxNydtA/SGVmtyCOIfvltEAq/hR0LVOxRmjo515L0vPB5LZn/awaPpWJkvskZcHwIBFATVYTFf/0ChUPPp5IEhIBY8uu0PKNasazvcCQZCkfNbGOSPoOV06XUydnYkVUnapNX1javZzOrnAlaP2VZFMGgtObgWaqPm3WQNyjMc5lbSoRDe6GbLQ/ovJEqHAH0Q8vzKOAY0OC9xqGTPR5EgSJK1TinAk0vZYi+gUd9vF4xMjqA9jO/Nbfd64QxBeldIhJreQ=;GVNxrZoELS4FY79tV0/81w=="
 ---
 

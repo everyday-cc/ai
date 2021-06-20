@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "Leading global manufacturer of luxury, high-performance sports cars will leverage AWS machine learning, analytics, and compute capabilities to accelerate innovation across its road cars department, GT Competitions,"
-publishedDateTime: 2021-06-18T01:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210617005933/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
-webUrl: "https://www.morningstar.com/news/business-wire/20210617005933/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
+excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+publishedDateTime: 2021-06-18T06:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -155,6 +155,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "AqudEiBGBiq+GP53vRgKI2Bmpqmk9svFlTfvUMtRMKQo007hSMWQoQgbT2k6XAnp6Aseid5MEdmpKhvpzMRNBGm4ZbzvGnr0RJ5904Ruf5ANfbW07kD8AvZAl2oV7aTVS6Tpo4gptPIv8PS41JBkwqoLo8JrY70orgqGdahvjTyqlLhdddyTk0HBQXbZHAx7EbtzuF/TNpbtK8i9nDiWpM55wToYE5639fG2lje2ZQlXXC//eSwRGG+pTtPXpboC96CNgq8nkci23Fpm4WCKP4/oLodwkeGnSaCa1vlWHUIfgqNjAJs/biUX6k2ZMo5V4xH3Sw5jXuAC8NeVtcf2Nw0DfmIESOe7M7KXu+0hECqk6g8/a2/hKUQI64GFArAeZgRKV64kNYxftkiztMkA1NuPlgvclQUruDq+QeOlrJFwMAxkP0Wy8X0UWQID270cU9jybuDAPVdabVzs1ubEl0EfJo5fikIYZGtQUmNtiXfMolFY8QdXXQzvCLdl1mu+NBZVtDXhJC1zMPTftt3WcA==;pCuHHa6F6lHP02k7ysHQ3A=="
+secured: "NqviQ9K7wW3GwTiOhvtEhsYruoUpCAV9SdLayNG3/HxbmJpgIrbrvzvIDaXPhptAZAo6RZWpKQmdJ0d/R1Q7GuCoYV+WiX0vOSlEKfSdPHqIwjP2118bJnWrN3c/bnb8bPVpnc0BvYZfv4ne/qIfoXnOCKE/xuM99wgfU17AK2zl/C/UKZ1qKZqCtqaxx/mQOeN1Ie+qzr0hJsgws2xIR6z12edJacjm6Rcwek1Y3Wwm+UcUuYyARARlzjl7b6uBo5McYghqFQk8RJyR8lGxNhJiVdDnKm/W1x9YhHTLd419xwM4TTztsk0+EP7JDPR8F/sPcikTUhNtOevs6xw0aOHusnsWRXINscHiTKF8uZ2YTqJpOQ5UILjZyiuK4frV45xQHc7vbACN5xs/YLzPtdt9CtNYmcNuPiAeMDY0Mpc0sSHvTWSUH7x9kprYPhiVMQwH6Qvc8DKizeq0op8U/P0uOTPDRDBIUVxKjBeZtVkpVl49SSpJGF3ygbIlrGNb7kW8yuUHSsjkr+ePc/ucdg==;C2A36EEKjIEveD2/Ak224Q=="
 ---
 

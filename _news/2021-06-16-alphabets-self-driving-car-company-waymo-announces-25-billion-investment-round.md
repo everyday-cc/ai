@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-b
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
 type: article
 quality: 154
-heat: 394
+heat: 384
 published: true
 
 provider:
@@ -342,15 +342,6 @@ related:
     provider:
       name: electronics360.globalspec
       domain: globalspec.com
-    quality: 19
-  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
-    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX. The Class 8 trucks equipped with Waymo Driver autonomous software and hardware system will operate on Interstate 45 carrying a trained ..."
-    publishedDateTime: 2021-06-17T17:26:00Z
-    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
     quality: 19
 
 secured: "7QCKWVza2tbzkp1/SocTApvNYuqIc9M6PgXI8jiR9ftzsVPrtgMyQO7NwHuggMbIZqN6SpNksjmyjjs5S0/YMwFG1JG1pE2tZhZtpMV/czUStMkqyr34uGLgPWXdWpIczNMVWdv499D9zNLnzfnkwTU5xAw35YxWrynluoZzmVTeCEYSEQHQGIHHTyfNzdKv6snmxT6TRfJoOqla/6/sHdn5je6K5YVT+D1rShdAcPx5LP0yWSoK4WrOhdzvADe8/qGMbylV+kh0JQLKbPjzVPRTvjAn73sPaH+/HJCtNTEJ6LeoXvR/fR5JTEIuJKLNUd7Z29OVU4sqXjwfizdXfGf/q3fQNbDRy37dUqaKLKA=;JWphUlop9FoF9g1Ys0V1Gg=="

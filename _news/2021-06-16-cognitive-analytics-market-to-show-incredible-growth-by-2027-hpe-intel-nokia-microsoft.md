@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Analysis, Segments, Top Key Players, Drivers and Trends to 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
+    publishedDateTime: 2021-06-17T19:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Big Data in Healthcare Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report by 2027"
     excerpt: "The global Big Data in Healthcare Market is forecasted to be worth USD 78.03 Billion by 2027, according to a current"
     publishedDateTime: 2021-06-16T09:37:00Z

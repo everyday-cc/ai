@@ -346,15 +346,6 @@ related:
       name: electronics360.globalspec
       domain: globalspec.com
     quality: 19
-  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
-    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX. The Class 8 trucks equipped with Waymo Driver autonomous software and hardware system will operate on Interstate 45 carrying a trained ..."
-    publishedDateTime: 2021-06-17T17:26:00Z
-    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "vm6N+XWk3JIm2piFcqzlLrGh+BnnodM5fKdGtdIbfvcXPq/uX08Q1B8N4Ws8SsrJCtO1IRhCXE1hHdHxUt3xegtFh9akvScVWOqK9/BOF76GWYX0C/eSZIqXQkSEOP3toDFuXHylpgeTX5an+H8pJRk1GIzKH7Ujw4V7FTz3755HQRs2JFWatlswAjeAZ7OfAT9+14A+7FMqrhSpjsV9gtc5AW3J6pZbBhuPMyiNbxgybD/Kl1y8QrO6o3Cyt+jkWPuisLHsCNSSpATPvqirjFU+aU/H1k/y96lBpCgWA5hQGSY2JiFct1ydfMrAOvfQ/Nj3/ff/ai05Ff/nZwsW/O64klbHfn3258fc04+lOZ//qWAU2SP7Hgv9yn44/cA2RTiz9JoFqklPn/hBy9JSPUmBf5QtmAY4mg2H80JhIqZF6eQFSTmuqM7kJ8BT0ifwDu5I/RMkH1kx/UiIEk6ELV4Qrqq2MG1lA7+BaDPtUZcXlrQwnhTu0lV5QKs4sl/VYzPVpXdUGJS+vWczSD+Y2A==;V6ZNDi5Qmcan71IXftghcA=="
 ---
