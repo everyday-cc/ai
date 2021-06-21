@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How artificial intelligence is reshaping the world"
-    excerpt: "Plus, the FT’s innovation editor, John Thornhill, talks about the new season of the Tech Tonic podcast and its main focus, artificial intelligence. See acast.com/privacy for privacy and opt-out information."
-    publishedDateTime: 2021-06-21T04:00:00Z
-    webUrl: "https://www.ft.com/content/3f71a408-0fba-47de-a583-bed8c9842753"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F569dd15f-acac-406e-97e0-6787f9f99491?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 900
-        isCached: true
 
 secured: "Cmk76SqOwPb3z71Hc5WQ9mPHnoarlyR8YbMOmE5++M/Y3odVKIjkzS8a42M83ekpMVTedCbcvNM/wymzBPeyTc1A09usHyZZsTgTPMa/uDhhnjl/RgV6o+jFmeXjC+Hlzhqd/OTkkUmaF5FfSV/UxxqJRRlc84VNKL3tJO3ZLrFPg0IKkpuhpWc9xiHu9UBKPwC29NdafviboODjLIHs9GPIPDiHGzGpR2OpBTLgkKegGk7H6XPtLOKeeV5TUIJzVN/aLAxWJgIDmVF2S+5qn1b+vFEZLN754QEICpA+QBTMi/911Hg1NzJbYwfpf9vjO5hX4//ouJHRFjMqHqr+HxuAnCMcFKUnApHvT/0rZeU=;bW+iCJbfGp2PdRjaww8m5g=="
 ---

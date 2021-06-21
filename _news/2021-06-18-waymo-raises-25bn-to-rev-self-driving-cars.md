@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self
 cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Times of Malta
@@ -27,40 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet Self-Driving Unit Waymo Raises $2.5B in Latest Funding"
-    excerpt: "After its latest funding round, Alphabet's self-driving unit, Waymo, is now valued at just over $30 billion, according to some estimates."
-    publishedDateTime: 2021-06-16T19:46:00Z
-    webUrl: "https://www.thestreet.com/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ5MzgxNTcwMDI5MTkx/royal-caribbean-reports-mixed-quarterly-results.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Waymo raises further $2.5bn for self-driving car project"
-    excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-06-16T19:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-raises-further-$2-5bn-for-self-driving-car-project-10247365"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Alphabet's Self-driving Car Company Waymo Raises $2.5 Bln In New Funding Round"
-    excerpt: "Waymo, the autonomous driving technology development company owned by Google's parent Alphabet Inc. (GOOGL), Wednesday announced a"
-    publishedDateTime: 2021-06-16T19:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/alphabet-s-self-driving-car-company-waymo-raises-2-5-bln-in-new-funding-round-1030529805"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "Waymo has raised another $2.5 billion from a group of investors ranging from venture capital firms such as Andreessen Horowitz to a major car dealer, AutoNation."
     publishedDateTime: 2021-06-17T20:04:00Z
@@ -149,6 +115,15 @@ related:
         width: 870
         height: 440
         isCached: true
+  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
+    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX."
+    publishedDateTime: 2021-06-17T17:26:00Z
+    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "duIPvoQdTzCIFLF5VNf4IMwPyKzYc1LSCXf0MirwJS4GuYB6W/xU2G3xlZnAiBU9ep3TZB0Xu4GP9oYLimmbrC8JykJfuWjpVkpcgXlNAUzl7C7oyI9go8eMRWIq8rWyz2QLt9fwImshYokIqU7CgSSw0M3+79Strp9fiwwaVRopFp69SuDr87gx+E5FQVRQveuatgdUt0tUkNRdfhcTBRG2Oadd7W+r2UViildoz3eJ6kEC1+vTZjW20OQO7PoaXvd+93Q+5blKAsnQlYooPdjqBloSnIx3J0BxSf+gf4p3h69xlj6zhSuPjYcBTJwpXjWM1LLEKFFr0umBt5AwElZAzZS8g3PYYZ3PuBDaRBw=;+EbCc0B7lNXrUcgEC6SLVQ=="
 ---

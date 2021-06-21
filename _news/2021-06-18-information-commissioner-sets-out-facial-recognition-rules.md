@@ -43,6 +43,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "EU Data Watchdogs Call for Ban on Facial Recognition Through AI"
+    excerpt: "European Union data protection watchdogs called for a “general ban” on any use of artificial intelligence to identify people in public spaces warning of the “extremely high risks” to people’s privacy."
+    publishedDateTime: 2021-06-21T11:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igeIlhc5fXoc/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "oJ+a6Gm+eGn1FLOGWpY9lIwHEwXvZfcl7XfBbsY3+ksS/Y9zt1S8MX+X5l+9YjIEMq0ZgT8TUoHHNw8lvuvb6FaiGg2bsxmcVZq8piZ7Qr84Lu3ZxIjdM4kuT6UTTJ4Axsf6TRJbq9DufEuxOqNA+Nws8cMeXJHXUFC74kUR3FyqstKL/+mmz1kdvHYbAMVHVW6TUhYN1UVVBN2fg7D1pWdRTL3fabw4rwRkBkJyLxdcYAqMHPvOe1zG7xPF7EiJdqZP+eeQDwiI62ZqQ3WaB351jMehqKmyV3YnUQq2KDyvvzwk8F1/tgrqtQ3LV1WlrwaznnWfktgm9bV1mVf3L/x8y+BKEgt4woZPZ2gJMGY=;uej7rtmIOmwBieR9SDq3jA=="
 ---

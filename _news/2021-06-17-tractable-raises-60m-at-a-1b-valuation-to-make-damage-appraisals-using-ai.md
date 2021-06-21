@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valua
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/"
 type: article
 quality: 185
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI company Tractable raises $60M and other NYC tech news"
+    excerpt: "Gloat, maker of a career development platform, has raised $57 million and banking-as-a-service startup Unit has raised $51 million."
+    publishedDateTime: 2021-06-21T11:57:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/06/21/ai-company-tractable-and-other-nyc-tech-news.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "f00/YYZ3Imvdrq+IBhmYlkHKYrgA/FZy/kopvR02G/fBBusDWJN8uHWeH1xPqhRMfRFCECjcI1QHR85VyqKsoCai6/jiIfcFqux9wBoCS5tb83ynCffCKiHm4HVwLfeUcJA61rkIA/mk8iW9RRROwAQ2pnArzS4ms7C/RBRt5U3tqdMUHxkmvC6g4NWbbVuviFSj2+2Wqt9ydykersQHCT/3rEOPLAfDrGBnMv/Eo7Reh4+CTZBcgVGqV36Hu1Htyzpcjtpd3U1PMhbiiv7RemoxnNNnmflfS/sxajqNUJhPBe4RT0ouUU1E6QnylCOAb7kWZrjefOHSHt4qGpEmri+efKexozRawj5ZM4XR0+sWz9wfi8k5ohtJzLDqtlq8LpVYFcvYlEs3AUfeshCZJbBtz086SbCHmsoaL6UQMOnuEvFbYBvSRTcZgkp3zBbQAu0mLoT6cG9hKomysUmpUunK+zJcB8hojoGSoUs+qLtSo56K5ELifxQyKi3pWbPondXK/FOE8jktdgcfUfWm0vauN66RjlL30Hr8hwW2Bjc=;/4J2px5jWpBAXsSputJ1Lw=="
 ---

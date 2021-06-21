@@ -2,29 +2,23 @@
 category: news
 title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
 excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
-publishedDateTime: 2021-06-21T09:02:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/ambarella-expands-security-ai-vision-soc-portfolio-with-two-new-families-doubles-resolution-to-32mp30/article_7620dcaf-29aa-5ef0-88fd-dc0aca8066b2.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/ambarella-expands-security-ai-vision-soc-portfolio-with-two-new-families-doubles-resolution-to-32mp30/article_7620dcaf-29aa-5ef0-88fd-dc0aca8066b2.html"
+publishedDateTime: 2021-06-21T09:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
   - AI in Security
-  - Computer Vision
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/5e/15e2af09-517e-501b-a273-f43c7e92b9b5/60d0561bc263a.image.jpg?resize=1008%2C630"
-    width: 1008
-    height: 630
-    isCached: true
+  - AI Hardware
 
 related:
   - title: "Ambarella unveils two new AI chip families for 4K security cameras"
@@ -44,6 +38,6 @@ related:
         height: 750
         isCached: true
 
-secured: "dfo218eEOsdOrBfKPuiRW/Bo+9DdsxOJ+a3MKBZ1UdEICwWUseq4qgpA1w1saGapN+zNn3gONiXqlPi+jkx+cMYzBO/X24HzfUd2He0bkYWyvsThXmmOgGj3JrrBBSoF1KazERoETsp4jg6kIR7p5EnEKtJYL4c+PFbdBcsMHrLbrTqZtFk4wbIGJO7ecHCoRv2nqiFwqVgVFC3DXeGDJZqwBtb/w8EfEzm1HrCjK2i3VNVgviU4pNP7Fv7VW49AG9Sr+WgbcgfQIK26CJ/zmXR/CWAHLFPb5sVN9vNS5t3nWADiFyrKuQG7sBW8ytOtzV3urSP+twGeApA+4YlF88j68/t6WMzcnqp0Y32lJaU=;kQxlS724J6svtYX/eSLuAQ=="
+secured: "V+vN7nEGR/rNV2BtVXZII0a5j5JkgS8ZPFYpCk9QxPtlBUCPaENLAZ52LCQTKF9i6He2QpVmKgYLEFS4KDfVoJG9aG+AnsMcvgZAY7JEQzcr8wdO8UC/6cFC/BY5Gu27Y/P+UUF6dPDeHFgBeiZ8ETG3PKN0BhzIzan4J7FkQ6ZeVAeN2uvhawj+HIWJikZqIAOA51GmwP9rJGOo5GOKGkiMq/n4018GeXy8m4WPVGYpBnS39AYb/MsVkS2dECqFJI+yrALca4TDkdk/OL8OmMQU1jkplMqoU5GrdJAmQMVICWuKPC4X0kLWEWswjXU4ys1JefUSws4OzKhl05LzZjsAxaHSM8ze1yWjgVZbIjL16YrstZ86Cb6UJQBg05B5XuNGGih9NBzdnwJR5woh5kBZRFJsBCfrInJ7UvD6WVI1e4pMFCTV/kRoTmqtyOsAFJEQVz/tZ7xovFUj2kuMBPatxIE31/1rzxCz9kytyuq0yPUjoi1SLIaNJ6JeR6vygUKjcilvBMgZCS3N+ZSQNw==;2oOHWh6N+5iUXeL9q40Hrg=="
 ---
 

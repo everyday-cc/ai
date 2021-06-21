@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Making The Generic AI Trend Work For Your Business"
-    excerpt: "Generic AI might look great in the lab and in the demos we see online, but in the real world, problem-specific models are what we need to achieve high accuracy and precision — and, therefore, effectiveness — with AI."
-    publishedDateTime: 2021-06-18T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/"
+  - title: "How EquBot is beating the market with AIEQ, the AI-powered ETF"
+    excerpt: "Asset managers, banks, and other financial institutions employ armies of analysts to sift through spreadsheets and media chatter. But even the biggest players can’t hope to keep up with the volumes of data produced by the modern global economy. “I was managing north of $30 billion as a portfolio manager"
+    publishedDateTime: 2021-06-21T13:00:50Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "6 Ways Artificial Intelligence Will Transform StartUps Business"
-    excerpt: "Over the earlier decade, the field of Artificial Intelligence has taken immense leaps forward. Today, those types of progress are assisting associations with isolating themselves from the opposition."
-    publishedDateTime: 2021-06-17T12:07:00Z
-    webUrl: "https://www.finextra.com/blogposting/20474/6-ways-artificial-intelligence-will-transform-startups-business"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/e65d8a81-1e31-4ef9-abe8-8f55286ddd10.jpg"
-        width: 500
-        height: 267
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC-119-ETF-Group-Client-Story_Leadspace_FINAL.jpg"
+        width: 1962
+        height: 988
         isCached: true
 
 secured: "QsYG/Ve5itjmYg73XZ0tLNjjt7fwH39dkPtijbZG46bYExpFtpFxGeJ4qdCfESYmK0jBisvRQ8i50S44ZgbPkxfS7rJPMovqmois2drV207CqY94qPb3qociSzHlJpHr/s78VL6VGA77upVJ2loCFE18xCoIQPEDDKae6C4dD360GSkYYboFcZlXrhDrsT5QiCGAGRGrHHDc3LIkpqBF1PzTXXTHFtvGD47QC6bqKrCG5sH3y3OwePznZZ3ef6VqOPMAfBtPrBsJAnMuhR+UpqY95RX/AuU5NiSOLrvts8TrivyjCkZyyaeSGjzML1lnh1AdBinq6+1yDO3W5AQV2lDJqDHo1dNmeeCVhRjVXdjUP6SDpmCFn03MeVsmoy3HQ+eqzn8YjdMaDaVu9ezChhtVlso+voFYgwJ5gMcblM/WAKOQYMvWu03qkEQc7O/fO5h7Axl3XFAssKuQOHCuY9qtm4eQoiJC3VsoBV+1C2jm2CIPr6Qqcp7YrKTUIGOLnC6qSoyIugHXiuranihBkA==;TRBu4Kz0VEej6AizhG1YTw=="

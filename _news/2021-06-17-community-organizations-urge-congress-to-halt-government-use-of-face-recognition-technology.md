@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "EU data watchdogs say facial recognition should be banned in public spaces"
+    excerpt: "T he regulatory association of Europe’s powerful data watchdogs, including Ireland’s Data Protection Commissioner, say that facial recognition is too risky for use in public spaces. Europe’s data protection regulators say that facial recognition in public spaces should be banned."
+    publishedDateTime: 2021-06-21T12:35:00Z
+    webUrl: "https://www.independent.ie/business/technology/eu-data-watchdogs-sayfacial-recognition-should-be-banned-in-public-spaces-40562233.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 37
+    images:
+      - url: "https://www.independent.ie/business/technology/7611c/40562232.ece/AUTOCROP/w1240h700/F2B92ADA-AC5B-42C7-B89F-D812E3677555.jpeg"
+        width: 1240
+        height: 700
+        isCached: true
   - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
     excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
     publishedDateTime: 2021-06-19T11:45:00Z
@@ -140,20 +154,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
-    excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
-    publishedDateTime: 2021-06-16T19:04:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21227086/federal-lawmakers-reintroduce-legislation-to-ban-government-use-of-facial-recognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 31
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/bigstock_Congress_2550420.60ca4aa17ae01.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 796
-        isCached: true
   - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
     excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
     publishedDateTime: 2021-06-17T02:29:00Z

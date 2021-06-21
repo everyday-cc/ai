@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/baltimore-ban-facial-recognition-everyon
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "EU Data Watchdogs Call for Ban on Facial Recognition Through AI"
+    excerpt: "European Union data protection watchdogs called for a “general ban” on any use of artificial intelligence to identify people in public spaces warning of the “extremely high risks” to people’s privacy."
+    publishedDateTime: 2021-06-21T11:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igeIlhc5fXoc/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Information commissioner sets out facial recognition rules"
     excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
     publishedDateTime: 2021-06-18T10:51:00Z

@@ -26,37 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Amex bets on AI and NLP for customer service"
-    excerpt: "With an eye toward customer service, American Express taps AI, specifically NLP, for a new predictive search capability in its app."
-    publishedDateTime: 2021-06-16T19:15:00Z
-    webUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/"
-    ampWebUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
+  - title: "Transform 2021: Where does your enterprise stand on the AI adoption curve?"
+    excerpt: "Transform, the world’s leading event on applied AI for enterprise business & technology decision makers, will host thousands of executives across industries to share their AI and data technology stories."
+    publishedDateTime: 2021-06-17T20:10:00Z
+    webUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/"
+    ampWebUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 85
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/AI-2.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1225909162-e1619735173985.jpg?w=1200&strip=all"
         width: 1200
-        height: 708
+        height: 600
         isCached: true
-  - title: "India sees surge in AI-enabled automated customer service agents"
-    excerpt: "Automated customer service agents became the top Artificial Intelligence (AI) use case for the Indian organisations in 2020 as the Covid-19 pandemic kept millions at home and face-to-face interactions diminished across industries,"
-    publishedDateTime: 2021-06-21T04:50:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/articleshow/83707097.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/amp_articleshow/83707097.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/amp_articleshow/83707097.cms"
+  - title: "AI spend rises as enterprises solve for scale, adoption"
+    excerpt: "Companies used AI to respond to the pandemic, but challenges in the next phase include internal alignment around technology deployment."
+    publishedDateTime: 2021-06-17T21:16:00Z
+    webUrl: "https://www.ciodive.com/news/AI-investment-trends-appen-2021/602009/"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 57
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
     images:
-      - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.ciodive.com/user_media/cache/69/9a/699a44d7a732a4b5bad6b3642c673606.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "/2EIbEtN14WJNqbYC+1YqQLtnReSldc9Wz/DJ+KvK15YzdtomsgxQ4vDMHw3VDIP2OUJf4kRYgb5/l0YE8RcCUjOYlz4oCH3ZkR3L1AUlv9yVkY6LDsWAwDdW4UUZ4pwVCWRJyR/xOKXH1RsDV+2TtcnCGsGkOvb8W7Zlpsd02F62+gpA0cfYslrILx+F3NAuXkmstYhnQp6myWHSW0BSxMRrOXx24kgTF4bR4gc+uLvKU/wB9iMrkXYfPBLB0cSTJmWMoQkLj2m+ZYc0QyAr/9PrJCiP6PPWS4YNBU7sPZtiOP/8BCYZiYADiDsg0HEhVDm5whQZNcOq6ixKBgs7t8LR7tU+5CfjflaTgrN3sZXbcfluTgFVKlTZ2q2WBowMvVE7Uvc8LRQWzrOO+A+1bmWrjxXo300dEUWD1tXJFtb6IRWB0BnE9bEWUUcalmhbRkzf7pkxD7b1i9tDkJ1ey9CEV+zFTT69p9PEdK7I3GNksmjVlMCHA9OcEDDlWhMrQVa+M7es5xDsFhxKYKwDA==;DuiQx4R88M7IzjoqOGCxTw=="

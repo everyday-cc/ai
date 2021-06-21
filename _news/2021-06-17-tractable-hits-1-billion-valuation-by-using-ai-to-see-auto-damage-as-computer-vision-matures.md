@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 490
         isCached: true
+  - title: "AI company Tractable raises $60M and other NYC tech news"
+    excerpt: "Gloat, maker of a career development platform, has raised $57 million and banking-as-a-service startup Unit has raised $51 million."
+    publishedDateTime: 2021-06-21T11:57:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/06/21/ai-company-tractable-and-other-nyc-tech-news.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "rioqvABf6nVTSYGHbu3yAFiGmmjmPt8TnUCLSu26MihpRZACw81WqMO1suYd7DIyil1+BC7xlclty/5ekq3tsCmb5X3T1yhWJxLOe500W/M9IYJw1yyGZEG6T9Y+Gd5gNfhD1GU2kb2JP8csPKUtAr24w163vejIVPycxWRGLM/3OZj95HvUfLzJi7k/iDMLMktlhFSZxI/eZzESNufy7RyfzCnRnmdGE3GgYpIpk/YsbhWcPj17hxe2hDjyIYZcLrj0OLp7rVxtx2qdDucNpsVHVD8ijSV7ZMU3CY7H0H7sIo5SiGNVHjoGvxBy+jHL1dY5yleyGrrO68ML4cKWZ1ib5nDx69cpt1nULWEOjoUl9knXH1kgeUbSwa3GjCx61mjS+Si9ZAEieiV222vVUCloZARL1DlVQ9KOZbt1fRelRfqj1BB17+NWdTU0J0V2fkyTWZ6XvTxfGX9uvMKvHa4/T0STqw1fohuDtnBpXjNzRjOLa8Oj8ewZxUTolytOb0O2tcNK/gi+wFmXkIm1LA==;ZTfSxnKdfVq+b85ambFGGg=="
 ---

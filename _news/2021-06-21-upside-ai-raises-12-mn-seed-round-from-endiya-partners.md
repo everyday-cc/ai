@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/375114"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375114"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "Investment Management Startup Upside AI Raises $1.2 Million In Seed Round"
+    excerpt: "The funds raised will be used to hire senior sales talent with experience in the space and hire best-in-class product engineers."
+    publishedDateTime: 2021-06-21T12:36:00Z
+    webUrl: "https://analyticsindiamag.com/investment-management-startup-upside-ai-raises-1-2-million-in-seed-round/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/UpsideAI_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "9wn+5cM4vlnt5hCOeYuoMVJ5IN7LgziWLzjEjcTekWIFiXUEZhce1h7nGnwx8DqfmHEIlbidNjbP5TzbwUn5Ubit/pPq7ppLl5nS7ZaHRlCTXIRCZYa6zR/TJitK5yaPhspasb0a0SElb6eDNf+7DxXHJ3NJUk7azuhZDErw/Wpm2o/6/Q3PI3okwZ2ijSJWslOVnsNKP3XfMbXYgSvR70vKfphYy9T22UokLa3IRCsar4eqHN5eJDQhq5z+Apt/pPQq9GPYgLQMNMICIuGwCI0ELvrIRthlKnnZuTTxWASQ00E/q4qwm6cGJZzK9XKRRtkh5uAaPZy1MKvrWRdm9sj9uQNMSflTbGIAFaJB27I48IOzSRSCQKkxAxoEIGcVlNAXq/huZz1iGeQd7sYHZsyCynn/z+INTBOkR/q3I6EHf2HYdz1z/4Q/asEGc/3A2l2noVQ3ehEo9G2XPCZV71GYPyAUd5fKzF7NYu/Gf0h6c4QQNnjuTZF3ImeBD1uckBVRoyTq3mhQMav8Ujitaw==;UfmRX5TzTHsR4UJUd2ehdA=="

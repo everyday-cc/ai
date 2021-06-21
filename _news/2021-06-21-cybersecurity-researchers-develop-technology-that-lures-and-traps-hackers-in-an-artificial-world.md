@@ -38,19 +38,28 @@ related:
         width: 1280
         height: 905
         isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
-    publishedDateTime: 2021-06-21T10:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
+  - title: "University secures funding to address lack of security and trustworthiness of AI"
+    excerpt: "A team at the University of Wolverhampton is creating an innovative new platform to help financial organisations and banks to add security, trust and explainability to their Artificial Intelligence (AI) based decisions."
+    publishedDateTime: 2021-06-19T10:45:00Z
+    webUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
+      name: University of Wolverhampton
+      domain: wlv.ac.uk
+    quality: 31
+  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed"
+    publishedDateTime: 2021-06-21T10:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/03/403e0efc-36e7-5d01-a4bd-0ed34431e9c9/60d06afbdd476.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
         isCached: true
   - title: "Artificial Intelligence in Cybersecurity Market to See Thriving Worldwide | Fortinet, IBM, Cylance"
     excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of Artificial Intelligence in Cybersecurity The artificial intelligence in cybersecurity enhances efficiency and effectiveness of the cyber networks."

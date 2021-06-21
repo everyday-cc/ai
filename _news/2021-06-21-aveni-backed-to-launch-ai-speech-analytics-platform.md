@@ -43,17 +43,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Speed up Data Analysis with Artificial Intelligence"
-    excerpt: "AI-powered technologies have transformed the way organizations do business with the trading partner network. In fact, these solutions have powered up digital transformation across different industries including,"
-    publishedDateTime: 2021-06-16T19:51:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
   - title: "Redstor adds AI, analytics to smart data management service"
     excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
     publishedDateTime: 2021-06-21T06:32:00Z
@@ -65,6 +54,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
+    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
+    publishedDateTime: 2021-06-21T13:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88175/edinburgh-fintech-seals-seven-figure-investment-to-launch-ai-tool-for-vulnerable-customers"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 31
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "BK2XPVKU5CevFAOmObCDQOOj0BBlpe/5/p8WSvG/oHf6VFFtkIUPLB6vLB+zcwAZFmnI4Py76Lrm5c/MeO2r6C9CHZB9qBr+zygg3eZmgJQxf4rV8z0Pa4SVTQvX6AG4cxJ3WYOuImJ10pzM4V2v5Mu9nMeYC3gCi3uryeQLQiBs2tpZcxh3Gr1GfHeIh+7vHmenId9OigInr3Mhsz/+iPknY/qK+FERPufxUoa6zXgz86+l/3mtQDRwce9Gfh807m9tlMn5eibbNBKpQKgIiCejt9fy0tbMazW0V/GWyAfwbImz7xZOE8+UrpmOyG/9Gfmgg3JtmZTaRPaeobQOfAzVPVmvz5KT/+IwdJosBtN+JyIrJIAbw7qc1GPGXYBg6o/VQwqCFKbXBOOWfYGNaQba3ZUKtLBrmQExp5syDPyPfFYKjSlzMoLc4dtnzOE409JeQ6XV7RVhXGbyVXX5VGkzYaJBcZAthLFqebELNtu+leKWQtgFo7CdvaklI56LEnf9vwuMxMqFtZ2O6V99cA==;Pnt+rY/meIU3CLqzY5/+gA=="
 ---

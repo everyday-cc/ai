@@ -53,17 +53,20 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Speed up Data Analysis with Artificial Intelligence"
-    excerpt: "AI-powered technologies have transformed the way organizations do business with the trading partner network. In fact, these solutions have powered up digital transformation across different industries including,"
-    publishedDateTime: 2021-06-16T19:51:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm"
-    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm/amp"
+  - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
+    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
+    publishedDateTime: 2021-06-21T13:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88175/edinburgh-fintech-seals-seven-figure-investment-to-launch-ai-tool-for-vulnerable-customers"
     type: article
     provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 31
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "g5OMbQ9AQHz6OK/lXmRcpfP4cb5IQWVSsGFU9pd/lvcmEOVwLSKiseh9tq6XPRKlKcenF2PFp7CIgepHd4mY7cksFgtKO6KxqlLQn5DMpDAvsYsh08yXGaOnHK/tjKz9I0gfMMKWzzUf+JGj+QrUPefAqdlBa+1oV1te+acuDNRvnqDcapGkajsXwKfJArrjyZdJsXwYuaC3ss92tUQNmkwFwESwTmuCvanjm7xUVnMwHo0GibheuctRQOniK+DjHwyzlFflyx6LUr1T15q+XDTIr5xb9undNr/vlz3F8HnWDbFu0qqmn/N5u+YPSL0kFRF3Shsn8YvIlhK3329j00s23as5JJLAfibxWEkmOfg=;xY2mjl0EREir+taetfHv1Q=="
 ---

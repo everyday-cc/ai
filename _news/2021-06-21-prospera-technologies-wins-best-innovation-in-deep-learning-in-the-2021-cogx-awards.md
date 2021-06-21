@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Prospera Technologies Wins ‘Best Innovation in Deep Learning’ in the 2021 CogX Awards"
-excerpt: "Prospera Technologies, a Valmont® company, has been named a winner in the 2021 CogX awards for ‘Best Innovation in Deep Learning’. The fifth edition of the CogX awards is aimed to recognize the most outstanding contributors and innovative solutions to the global challenge of the past 12 months."
-publishedDateTime: 2021-06-21T05:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210621005078/prospera-technologies-wins-best-innovation-in-deep-learning-in-the-2021-cogx-awards"
-webUrl: "https://www.morningstar.com/news/business-wire/20210621005078/prospera-technologies-wins-best-innovation-in-deep-learning-in-the-2021-cogx-awards"
+title: "Prospera Technologies Wins 'Best Innovation in Deep Learning' in the 2021 CogX Awards"
+excerpt: "Prospera Technologies, a Valmont (News - Alert) ® company, has been named a winner in the 2021 CogX awards for 'Best Innovation in Deep Learning'. The fifth edition of the CogX awards is aimed to recognize the most outstanding contributors and innovative solutions to the global challenge of the past 12 months."
+publishedDateTime: 2021-06-21T10:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-prospera-technologies-wins-best-innovation-deep-learning-the-/2021/06/21/9393746.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-prospera-technologies-wins-best-innovation-deep-learning-the-/2021/06/21/9393746.htm"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
@@ -34,6 +34,6 @@ related:
         height: 337
         isCached: true
 
-secured: "iS/PSUSSpPNLE4QinMY+oCyBmOHTQb5VJ1DOdxMrxlEApFLxKfwM7ZtuHc+YOcZkLgdqxAfBeQqSVjbXSbmWvMjesbZwUZWO5ahaCfAhmE2t1v326O3EaM5S33sgGJ3FfHH4uWQg/ZEmponxvCwf3KPS9Puqu7sBYwtn1AqVebLqURlMKi/mbhSQNeybEarfQ+JiPjdugHnmSsLL5LUAFDP5wjlYDJTRZqRIjxajVhnetLAHxCfxjBipBj5ftEiPpE6ZyUtrPtscyfafxWFSHY4BaWs7q0xg3MtMQwFZJBLm/FIt1LMAKX/QI1/L49oC+hf8Jm/kaW9aJCbadlXqVmYCT8HNnsOabvuUIQyuPN8=;nPMovJ1jipVKq9wfgOBNkA=="
+secured: "Kpku93/gzH2zs+R2j7lWF1NsbrMyvCrHMqrQ8du0zEP2IZBxZFtmflCDcWwbedFrEmfkN7KZGuXBUOLBOhEyuUyx5j+ImHrnzU8PvyPstyEHJNwZqqrM4it9Zt/39WEx7OgiH00umYHnqlaXJrvd2NZ5yun3IlPPdQW/w/GqZmZOcHgomyWYMJXsJFMjLDY0k6rMZiOTdMe2JWDzkWe4J6XLlhRLXLqCzWZEGwOKBzz/kO7SnXZ5BxTaOF+rxCgCt9EmgLe+LPP+pZqT+AL4voNuy9BgQ5B30johRLowCsBSG4n92ob8nm5WwSRsyeMw78ny4RJ6ZewOKHjY5x+b6hcRQ0wNQAOzfl0JMrR3z5k=;HcDfgY5Swuk5A0VacP1f2w=="
 ---
 

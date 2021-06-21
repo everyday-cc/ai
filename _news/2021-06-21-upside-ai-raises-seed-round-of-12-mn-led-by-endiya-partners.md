@@ -58,6 +58,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Investment Management Startup Upside AI Raises $1.2 Million In Seed Round"
+    excerpt: "The funds raised will be used to hire senior sales talent with experience in the space and hire best-in-class product engineers."
+    publishedDateTime: 2021-06-21T12:36:00Z
+    webUrl: "https://analyticsindiamag.com/investment-management-startup-upside-ai-raises-1-2-million-in-seed-round/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/UpsideAI_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "qwx7ciuHm9ZbNoNzcpvpvXLNoSFx8WToHLfrEYIvQtoOJBdKisTjh6I56TsBVx4dq3QwqFDX3Xvvma43X5fF7CnwK8KemM7+I8OWLKnx8OjchdOG5buiI/8qWdfU4kBNEdjw4jlCic7pnbSFIRMoutWTyxN+QgpJSgXQqpgTeCDfhv9TbYwIpmweHMjT6XEeUBvgFdSq2AjbWqr54I5CluzZhBCqmFkrrc2yY+mu3CaxOsAeWjWqa48qLtud9SIL6xvp1xJBeVCTmSmZZUtalrIcQTHO9IP+NC/viM0KGKW8f7lO4eMaMiBIaeTNc/AcOWN3EMU1tDAqFSa1Rq9h5v5eZgER27xQSHAxPJG8TC4=;CXFSLZvrj3FqITpFngTnYA=="
 ---
