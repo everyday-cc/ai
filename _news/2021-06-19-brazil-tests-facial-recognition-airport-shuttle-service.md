@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/industry/brazil-tests-facial-recognition-ai
 webUrl: "https://www.hstoday.us/industry/brazil-tests-facial-recognition-airport-shuttle-service/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Brazil Tests the World's First Facial Recognition Shuttle Service"
-    excerpt: "The Project Embarque + Seguro 100% Digital Boarding System, using the Brazilian government’s facial recognition, arrives this Tuesday (June 15) at the"
-    publishedDateTime: 2021-06-16T11:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210616005505/en/Brazil-Tests-the-Worlds-First-Facial-Recognition-Shuttle-Service"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "1CXNYL0F/jhlRANtBdCJfwnyuTXef9xPnoYpiZfBnkHcYr0DRiLIWRfbJfekR+bzc/Fw8QQJIc5pK6u+JvjIUvMKHQxWpeS73wJqvagCIA4tnaN1WHPygN1ry35LyuH8/0NlXCK3PoBb+qem2jZwGpLi1Puoh4w82ksORHw76VWloG3c3hWZ2mGeaOcsYXLhkl1+pQFewvraQt/PcG3b1c8DYbPstCPDCMg1Um06g/ywW2/uEYrCRrxLJCSUTdaUyyqP/Sjl9XTFPZ59Klz2RqWM3pprzpsmRViMzSdXomXC8Hg7Vj8IbA1Ahle2R3Ma/wDF9Ckd+dmZg8PkQrPjkmL7E4Tk+P82gfmBWf8kEXA70m1PHD0e7gyREzT5veHlQ63p62XEXvYIywp6PdawGF5tp+bieNcDOY3kn8fECrmGezHrM/eSEsOVfYKc1t2xdOg0w4Vpik1qxHvMj8cq9Oii5JRWG64jeBVcsuXY7LizG8bQDh1613k+rfq9KqXk9qRQ9mOWa5SR0xvrhfLolQ==;8jyzEO9f6hgXICyvgIGy/Q=="
 ---

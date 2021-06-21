@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-04-baidu-launches-driverless-robotaxi-in-beijing.md",
+      "title": "Baidu Launches Driverless RoboTaxi in Beijing",
+      "excerpt": "Baidu Apollo Robotaxis move on a street at the Shougang Park in Beijing, Sunday, May 2, 2021. [Image - The Associated Press] Chinese tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
+      "originalUrl": "https://www.indianweb2.com/2021/05/baidu-launches-driverless-robotaxi-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.bp.blogspot.com/-VqrCUbqcAm0/YJD2g5bhYaI/AAAAAAAAFJs/kKECe_rCvtQz2MhfQSNVqrgVCN4QHPqEACLcBGAsYHQ/s16000/robotaxi_baidu.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-first-fleet-of-driverless-taxis-is-launching-in-beijing-with-rides-costing-460.md",
       "title": "First fleet of driverless taxis is launching in Beijing with rides costing $4.60",
       "excerpt": "Baidu's fleet of Apollo Go robotaxis started picking up passengers in Shougang Park on Sunday. These are the first paid autonomous cabs in China without a human behind the wheel.",

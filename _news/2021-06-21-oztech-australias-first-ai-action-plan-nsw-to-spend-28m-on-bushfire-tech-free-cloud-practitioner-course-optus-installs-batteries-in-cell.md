@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3622236/oztech-australias-firs
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3622236/oztech-australias-first-ai-action-plan-nsw-to-spend-28m-on-bushfire-tech-free-cloud-practitioner-co.amp.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Government launches first AI action plan"
+    excerpt: "Christian Porter said the benefits of AI include protecting the environment, improving health and smart cities, and boosting the economy."
+    publishedDateTime: 2021-06-21T04:23:00Z
+    webUrl: "https://www.themandarin.com.au/160734-government-launches-first-ai-action-plan/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 37
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2020/10/integrity-commission-.jpg"
+        width: 795
+        height: 530
+        isCached: true
 
 secured: "xJ9zw8Q+IGe8MRJkfufez+jnaSlbA7k5LEvQIO4lDRYuMD+qDtA1Gu+36Omf3+C1oOeP/EKIX5LcjIHhC5bsBTAPzg65XxVNjqDGWos76knHXckOd/FxlZyhflL72Px38jXuTsGRNnURl4NNljIAsUPUJdlx3jmXEZ0Iib1ZJS0HFNZ7RsOKcwqlV5QZpUrmyeTWYhWqL3i5vkG18JWiNGLBrU82kYCfRQsBSX8HWZ0o4OUv1q+lX4wOh5KFiWQ1uSWc8uL9SDQ9Eo7lX7Cp8cE+l+mcv8V6ZBXNyW7EPN+ycUsaJqzSegpUnloLj0JdvpU+5MfwDkCmBkViRWh+BsJYhyZMb4M4czM8Td2TMFY=;mzoJoANWujbPeA30JbGMVA=="
 ---

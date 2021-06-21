@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Automotive Market Growth, Opportunities, Share Analysis up to 2026"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence in Automotive Market Report explores the essential factors"
-    publishedDateTime: 2021-06-18T19:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18"
+  - title: "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026"
+    excerpt: "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing"
+    publishedDateTime: 2021-06-20T08:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-18T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,6 +71,62 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Worldwide Data Monetization Industry to 2026 - North America is Expected to Hold Major Share"
+    excerpt: "The \"Data Monetization Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added"
+    publishedDateTime: 2021-06-18T12:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21624004/worldwide-data-monetization-industry-to-2026-north-america-is-expected-to-hold-major-share"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21624004"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21624004"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
+    publishedDateTime: 2021-06-18T16:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575369-global-artificial-intelligence-ai-in-fintech-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 10
+  - title: "Global Natural Language Processing (NLP) Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Natural Language Processing (NLP) Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Natural Language Processing (NLP) Software market report provides"
+    publishedDateTime: 2021-06-18T16:41:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575541-global-natural-language-processing-nlp-software-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
+    publishedDateTime: 2021-06-18T16:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research."
+    publishedDateTime: 2021-06-18T16:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575367-global-telecom-artificial-intelligence-software-hardware-and-services-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Deep Learning in Drug Discovery and Diagnostics market"
+    publishedDateTime: 2021-06-21T05:48:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4583083-global-deep-learning-in-drug-discovery-and-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "yVCP6B97qKOE94euTivTLzCDEMuYn42RAJwzKd+6J37n2QOdRg/BtANhvLLf+wwupLeyA/j2pxCCm/YrR995kWH7wMYpisUgQDsNGwDAR/Fl+aAmQLN1ii0oe99BH67DCVeExD8hh0spewe4f0dk/ejPA07wPzCPdR2kjcv+BH5OE7l1AdjiFb9QveH5O8pCsAwYdGxyRwa9KBlzjTKhuTjqkXdgHksYG6C+PVFR1+RMz4NKlbXYQIeglUpjK2ysBVMOcxRVYtsZpUkOAamNXipjFXR4fSGQsOjIWFwk9d54UppRr2b56Mu9DwM1LZEGs+8a8dHD95PnJX3RS4hOC9WnfTuf63e8ZDLhabhy+hI=;viPx+1EEZfAm6X2qjYsV4g=="
 ---

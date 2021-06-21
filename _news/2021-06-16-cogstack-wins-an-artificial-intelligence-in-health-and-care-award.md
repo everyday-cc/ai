@@ -1,45 +1,26 @@
 ---
 category: news
 title: "CogStack wins an Artificial Intelligence in Health and Care Award"
-excerpt: "CogStack wins an Artificial Intelligence in Health and Care Award. Cogstack is an information retrieval, extraction and natural language processing platform develope"
-publishedDateTime: 2021-06-16T12:29:00Z
-originalUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
-webUrl: "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award"
+excerpt: "Cogstack is an information retrieval, extraction and natural language processing platform developed by researchers at the NIHR Maudsley BRC and"
+publishedDateTime: 2021-06-16T11:32:00Z
+originalUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
+webUrl: "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: kcl.ac.uk
-  domain: kcl.ac.uk
+  name: Armed robbery in Revesby
+  domain: miragenews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.kcl.ac.uk/image-library/ioppn-news/scientist-with-laptop-clipboard-and-display-of-human-anatomy.x2b64218b.jpg?w=808&h=440&crop=780,440,14,0&f=webp"
-    width: 780
-    height: 440
+  - url: "https://mypolice.qld.gov.au/wp-content/uploads/2018/12/Police2111-8-768x512.jpg"
+    width: 768
+    height: 512
     isCached: true
 
-related:
-  - title: "Eye2Gene wins Artificial Intelligence in Health and Care Award"
-    excerpt: "Eye2Gene is a web tool devised by University College London Moorfields Ophthalmic Reading Centre for genetic prediction of inherited retinal disease using machine learning."
-    publishedDateTime: 2021-06-18T16:08:00Z
-    webUrl: "https://www.ucl.ac.uk/ioo/news/2021/jun/eye2gene-wins-artificial-intelligence-health-and-care-award"
-    type: article
-    provider:
-      name: UCL
-      domain: ucl.ac.uk
-    quality: 39
-    images:
-      - url: "https://www.ucl.ac.uk/ioo/sites/ioo/files/styles/medium_image/public/ai_awards.jpg?itok=JrbYG6F6"
-        width: 400
-        height: 223
-        isCached: true
-
-secured: "4NWVc6LHqoCnibTqDVzCF/BuPqdFdvePuUfnUfMpg++I430rB85iFWA+aRf4bq/FnBQjtKhdOGZulnx1G5+jEBvt4cfUiaxa4LAriBQEZpByFGGqnCDfeZgVUE99HeojqpA2ygFg94ImgpOyFgX9/aVMhAU1wfEA7h4BJKvdRb4XVJlQcSkqtW6okoAI4g9kPSDnpr+7kZBifYu0NJIHMnLbysKBnaiaGMexXkzbRb5B0bq5+o7bn1TZHexzsPu0wwge6uyD6dZXzDCe00TVUYVU57DGsmn+GOAEZHJ0oGjUDSzLxWHK5XVJhNmm8emBOAJSuMGRImu/2d0asN3RXeLzUDriOJnDUo0wbVbceuk=;aDtF/+hgbFIwt5GKkCk0fg=="
+secured: "Yf4DONQh8Y8tyhe9uW1C0Bt1smZpgChlcDc1hRS8UChElIqrDWDOLAU14IXwCmjbkoeZjMEmuICA1cZD18cbn5x4ZA7DfTQKNsGFen3iAMw94+pgO9x63vx/J19Kp1+T7cazXungELnhIGKAZKV+i7aEsnruTYks/JQoa6awFAujn7+2Ow9PElOTxVzwVhcDDouPWZf6UNlPEcECGF5OABATtVYB4cjmytaSDzBd6HdmbDXASkfCcStRMnfX+C+iuJuUlSu3oiRXDENrOY4Ci/HRI2pT5IWMItGNuVPMRlAYLNo4BQ3dEr2diTtm3fSuQBO1k2gcx/EqktVGNEG1OdZ9pPWUnMKcD/I0Kf554ys=;z1eObMQZUDJPfRwprq9/DQ=="
 ---
 

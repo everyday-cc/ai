@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-dri
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "TuSimple's Self-Driving Truck Network Expanding Eastward Via Texas"
-    excerpt: "Self-driving truck technology company TuSimple Holdings Inc said on Wednesday it will open a new Texas facility that will enable it to put trucks to work hauling freight on the roads of the southeastern U."
-    publishedDateTime: 2021-06-16T12:03:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-16/tusimples-self-driving-truck-network-expanding-eastward-via-texas"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "nlGkY7RXjYQlCBL3XKxWvr5QC3/GG7TjRUpvJMurADtJJoK35vkVGUnBCR1qXUNRfPcZFZP4/68X8KVRS0aR3Ctscku+cIQsHbWqezoWHGLaRct5NYZROuRalbVdfCWnzSPHSjW56QUY0fVUwKmSx3IKj67PB6192vZVenFObcISIyAatH3tC4AzrkE+73w899PdAnqLe6XEUR3x5o6I6Gcppmdqjbd3d8WYCoEj1unNlLj9tBsO2cMG+3NqZ1WWVT006XoE7/cnVDoe3SNqe3FhQn9e4qLDNhDausJK9GLiXEUzLZipRKBEde8an9pHcB9pJYrrfigmpdN5b40+zji33do7Wjeqqmt1mIT6yyz9xRANENCWdoDQujuWl4qdCG6qixJ9AYEbxEpMcZD59brJ3chLl1DLQOKO305XZcfhAbjpWbBhA6/ZyK8DigDTYTDYkDApPbQJ4GCkbk9r3Qly+dsFvtbP+wuBsQ1q5B3KwTGoUNEZpHsaToEkA664SEnIzKgXiEVblCa4Qt8JHg==;+yq38KHCVhn69a7AmmWaOA=="
 ---

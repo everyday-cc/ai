@@ -1,28 +1,22 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-publishedDateTime: 2021-06-18T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+publishedDateTime: 2021-06-18T12:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-    width: 1200
-    height: 441
-    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -54,20 +48,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all"
         width: 1200
         height: 637
-        isCached: true
-  - title: "Driving The Next Generation of Artificial Intelligence (AI)"
-    excerpt: "Artificial intelligence (AI) is disrupting a multitude of industries. This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) and late 1980s (the second AI winter with the fall of Expert Systems) with the arrival and growth of the internet,"
-    publishedDateTime: 2021-06-16T11:42:00Z
-    webUrl: "https://www.bbntimes.com/science/driving-the-next-generation-of-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Driving_the_Next_Generation_of_AI.jpg"
-        width: 1080
-        height: 720
         isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
@@ -112,6 +92,6 @@ related:
         height: 540
         isCached: true
 
-secured: "4g4Ze50TJcexpUZ9tTmsjl9/b5CAFPBjSDXzFVq8NDvdFQa6Y7WJWybI1a7KSEj8Vto20fwy4XT4gPOn2yanQ5aPv6v6DOzU6ObrQKCyHoEkWTCm/aZP3MTdooJMKCU5c7uQtiey4Np2bmRFi/eAMBEe9fcf5grCEEeVTIHTukJD2wURlzb4DEAg7AjMrr8wxGZvHV1r6eeIofd1WKKz1/yxtkIxifre+RPvWadUEKa/ZGbCNAy3ezKAjuWik3ReaRQtGDFM6LrCgTWSpxJiDoPDmZHBo2aL9ui8KFbWFmpH6W1tnykld2jlgpAlOw+3PljlrwlL6SuJqqcPxwTT6U07fQECSPtQkGbuborjpm0=;6Wx0lEbd09kCiLAzvDxVTA=="
+secured: "yPibQ0Yxj8/tqopEpdvfn/XE9yxTM6ENeoM31EXAhokS86zuPT2Dutc3fhd7QCcCJtGRp3v2V+YG5z6MK2wUsoYIVf245co8/RFThraUYHWJaTeTL8iH7Y2EcRaroWtLkuEO9kIXsZAqTmwUVJGYHHUT4T0+nQSWRC0/eqKWCgfEUy3fZyLshme0agYgh+6c/y0sggdeRG1keqSSFdRalFDgrbi1jm/2LePm8P9oi6BaCYoU+wwOdVcpanCR0x6Z7xyOyqnRA2QKjcfriprRW2kHSv6fVdMjl7KqUNW2Z0DjqMMxGj+pfd8FzWVvKZ2iVjPhoqk/YAoXLWHfZthRaJsoI+d13euEz5lX83khl1KE0nKNPfrFR+yC3ZOuCoURDIh6k5A5c3GYIcJ7uWDNie9r2hkjCUATX4Riih7lqEsuOVGcJ34XWLDlBnsqZVQ8iEXt/fzxEyf/Kio0Y38/V2wxrm5/HSTgQoARdTHmRgP9n1k/6tszrd9RgSuWNw1dMDp+3ZEvl1R/cZMjeqdoNQ==;oVdPHeiPYxnSiFH4NKpEkA=="
 ---
 

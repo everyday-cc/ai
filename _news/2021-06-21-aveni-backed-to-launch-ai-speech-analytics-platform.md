@@ -9,8 +9,8 @@ ampWebUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-s
 cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: dailybusinessgroup.co.uk
@@ -43,6 +43,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Speed up Data Analysis with Artificial Intelligence"
+    excerpt: "AI-powered technologies have transformed the way organizations do business with the trading partner network. In fact, these solutions have powered up digital transformation across different industries including,"
+    publishedDateTime: 2021-06-16T19:51:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/06/16/449150-speed-up-data-analysis-with-artificial-intelligence.htm/amp"
+    type: article
+    provider:
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
 
 secured: "76JWsno0r2B3U3v3WPLXMU0FVxBOVtYl36jqA23TxE35gKgmK1CSZeqiJ0Fr+2LitI7tHH1runN5k4TSizyHquUElGGHclRJqwCxYUx/becGvfdwhsoofmrTVwJekP4MbOp9KER3HfEd1+GGcgfFFPyydt7ii6AyMuObxViMo5LNeNQrWTnEv4BnRdCAwRzR85aIAG84Td4FF32nfvSKO1UnHtroI6CvKoTs7GTD5Y20u0oNssd4V7QHaxC4MpWkyaBxuZD/P3KuggwtekQHaIqO3ZUrrAi+QNC4JsMRYBNeUQN0CtinKzK5lF+N1RdRv7sBAFl8zL69ykTBYd1dPDqtxhH0JlgTYO48dgJCxvJ/6ngtbyqPTRknBq4eNVOQ6VFtMHYkwYQZPA1URjFLbO1Dh9b/Cy5+CCcSG0iW5y6uruuKJVZPe6qIuHNojQl1Mt9+8hBTxcgIkwPdWvBSfU2HaxunRqbcztwK7gatuWMvCOgd2s9MkmAoFaIu3wZWxtKO594PSk/rB0uA6Hvncw==;gTt32azbNlUGiBVN+SNjxw=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "India sees surge in AI-enabled automated customer service agents"
-excerpt: "Automated customer service agents became the top Artificial Intelligence (AI) use case for the Indian organisations in 2020 as the Covid-19 pandemic k.."
-publishedDateTime: 2021-06-21T02:44:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
+excerpt: "Automated customer service agents became the top Artificial Intelligence (AI) use case for the Indian organisations in 2020 as the Covid-19 pandemic kept millions at home and face-to-face interactions diminished across industries,"
+publishedDateTime: 2021-06-21T04:50:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/articleshow/83707097.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/articleshow/83707097.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/amp_articleshow/83707097.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/amp_articleshow/83707097.cms"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-83705191,imgsize-715515,width-800,height-434,overlay-etcio/india-sees-surge-in-ai-enabled-automated-customer-service-agents.jpg"
-    width: 800
-    height: 434
+  - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 720
         isCached: true
 
-secured: "10ZYPxoagM4K1wWgidTXAZy26zksXzqZRN7MO73NugIJp1X+0syzpINLsy1IhUr/ks8s4vDlbtrGxN+IhlOg9AR3iE9TcUkJ4Zr5zbSEvmj4AaZIG1EvynK8NQFrQv65KagHatuDfqevS00++zLknAL1HSHXqJHfbkrlI/9KQf5xclRR5ybr+rXfJIskFxn0CvhVNlB9EhsN39N+tCskcIOOTPqzpPs/RIKLRyLTorEk0MU8vLuXqqx8z60hnkbmGST6NUq25zOEpWR/bVuQs7DiBKkl/vMvvr82va6ylzQ+ozItwPyIGwgI80Wvi/qCD0jm/EnXRZzVKwXNR/nKv3efFOo+TIqt0ObflhgTEw4=;x2qTBFOpkzn5L+uQ3ziEaw=="
+secured: "JGufcXN7cAqhDIoYTti8dOwBLfLeWhaD8c7GnVvHdAxKfQPEuutG96B5ogLt2pE9yvTRpf+MKwjCJtUntzis5n8eijUScur2rADKtr4snj1ftydy7nVevt4BcTHyB0q/RxuAB2MbTVPi/s3hHYHMah4o7rdY/dEvfTA731eay4KS3RvpGIj9Cbv16DGdU93jrDkPu7UjBydVhSGPNyPHz1FDlKifgSvToFfafJO32jpNoL0phkksP7iyGqABUyxzuC8f3NdQzjqwAKhuOyIf/zBewE6j4gKyOe8qNGNZN4OkZwvCL5s/Wn59sYWzrjhGkKeRZSuPvodAlsDUBGhEH9N7EukI8mSJwdDGixr/7lw=;DgzLzFFig7F7og4ROo4GDA=="
 ---
 

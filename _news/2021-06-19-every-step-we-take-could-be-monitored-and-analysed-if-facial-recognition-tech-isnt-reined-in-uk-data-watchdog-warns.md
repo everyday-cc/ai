@@ -59,35 +59,21 @@ related:
         width: 1024
         height: 533
         isCached: true
-  - title: "Information commissioner sets out facial recognition rules"
-    excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."
-    publishedDateTime: 2021-06-18T10:51:00Z
-    webUrl: "https://www.research-live.com/article/news/information-commissioner-sets-out-facial-recognition-rules/id/5085192"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5085192&name=information-commissioner-sets-out-facial-recognition-rules"
+  - title: "UK watchdog raises alarm over Live Face Recognition tech in public places"
+    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F"
+    publishedDateTime: 2021-06-21T05:08:00Z
+    webUrl: "https://www.freepressjournal.in/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 59
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 73
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Lawmakers Re-Introduce Bill That Would Ban Facial-Recognition Technology"
-    excerpt: "The bill, which only has Democratic support, would bar federal agencies from using the technology without approval from Congress."
-    publishedDateTime: 2021-06-16T13:38:00Z
-    webUrl: "https://www.wsj.com/articles/lawmakers-re-introduce-bill-that-would-ban-facial-recognition-technology-11623854310"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 53
-    images:
-      - url: "https://images.wsj.net/im-354723/social"
-        width: 1280
-        height: 640
+      - url: "https://gumlet.assettype.com/freepressjournal/import/2015/08/etc-7th-lead.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
@@ -131,6 +117,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "UK watchdog raises alarm over live face recognition tech"
+    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places."
+    publishedDateTime: 2021-06-21T04:31:00Z
+    webUrl: "https://www.sify.com/news/uk-watchdog-raises-alarm-over-live-face-recognition-tech-news-education-vgve5Ecbfjjji.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z

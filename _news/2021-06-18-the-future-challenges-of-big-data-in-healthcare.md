@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 686
     isCached: true
+
+related:
+  - title: "The Promise of Artificial Intelligence in Healthcare"
+    excerpt: "Implementing AI in healthcare, especially in biopharmaceutical development, could facilitate drug discovery and improve drug safety profiling."
+    publishedDateTime: 2021-06-18T18:22:00Z
+    webUrl: "https://bioprocessintl.com/manufacturing/information-technology/the-promise-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: BioProcess International
+      domain: bioprocessintl.com
+    quality: 56
+    images:
+      - url: "https://bioprocessintl.com/wp-content/uploads/2021/06/19-6-Rodriguez-P1.jpg"
+        width: 1375
+        height: 775
+        isCached: true
 
 secured: "4vGinzJA4/n0wuuk4ZWHknvUvqdWQ1s2IdpRo0P+oV0bUd2R968TleOlEM9kj7c+EuekaXvdaViC6SC7bRcP/805knpgQQiD075vskrHUG+sy/Xqv+3D9hyu3qnyKWMYGaPHui0WToDVO4Pscmg4VQQzAvc+oL7cm1+e1kksoIfos65pprQdsMh3BDCdSsjp+uQnIufh+1UMkxrTXdKLXfcAdvs3PVWmWHQ4QBcdcfG+t5l25/qRgp/ktP50SutaNhAcQEbe+UzD1QXarq5qzdECzHVDf0P80mJ0UTW1gOSdVYV7jcD09xhqnUIKsxbZZM2DguzyBJcXX5q8L1SC+5+fp6SEQzu5QwTtktgDPyNE45zZZXlnehNqghFm4GBHQEk5JsZKzDC4nqauNx6F0ucTylXyUUsPYc25QcXP0AXbRlwfW2VmxQ8KfMv0jrlxfJGvk+KWD5DnqjW5q+/gfoUjc35jq9CO6xPaCPzm9O8LwRDFB1QNJxDgqg9iQp2bmbgAcyMpldQos7K+2LhuwA==;d7dxHLAUMtSnvKkOZ6xWtg=="
 ---

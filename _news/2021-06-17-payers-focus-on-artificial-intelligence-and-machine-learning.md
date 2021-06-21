@@ -43,20 +43,20 @@ related:
         height: 708
         isCached: true
   - title: "India sees surge in AI-enabled automated customer service agents"
-    excerpt: "Automated customer service agents became the top Artificial Intelligence (AI) use case for the Indian organisations in 2020 as the Covid-19 pandemic k.."
-    publishedDateTime: 2021-06-21T02:44:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
+    excerpt: "Automated customer service agents became the top Artificial Intelligence (AI) use case for the Indian organisations in 2020 as the Covid-19 pandemic kept millions at home and face-to-face interactions diminished across industries,"
+    publishedDateTime: 2021-06-21T04:50:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/articleshow/83707097.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/amp_articleshow/83707097.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/india-sees-surge-in-ai-enabled-automated-customer-service-agents/amp_articleshow/83707097.cms"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Gadgets Now
+      domain: gadgetsnow.com
     quality: 57
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83705191,imgsize-715515,width-800,height-434,overlay-etcio/india-sees-surge-in-ai-enabled-automated-customer-service-agents.jpg"
-        width: 800
-        height: 434
+      - url: "https://static.toiimg.com/photo/msid-65197100/65197100.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "/2EIbEtN14WJNqbYC+1YqQLtnReSldc9Wz/DJ+KvK15YzdtomsgxQ4vDMHw3VDIP2OUJf4kRYgb5/l0YE8RcCUjOYlz4oCH3ZkR3L1AUlv9yVkY6LDsWAwDdW4UUZ4pwVCWRJyR/xOKXH1RsDV+2TtcnCGsGkOvb8W7Zlpsd02F62+gpA0cfYslrILx+F3NAuXkmstYhnQp6myWHSW0BSxMRrOXx24kgTF4bR4gc+uLvKU/wB9iMrkXYfPBLB0cSTJmWMoQkLj2m+ZYc0QyAr/9PrJCiP6PPWS4YNBU7sPZtiOP/8BCYZiYADiDsg0HEhVDm5whQZNcOq6ixKBgs7t8LR7tU+5CfjflaTgrN3sZXbcfluTgFVKlTZ2q2WBowMvVE7Uvc8LRQWzrOO+A+1bmWrjxXo300dEUWD1tXJFtb6IRWB0BnE9bEWUUcalmhbRkzf7pkxD7b1i9tDkJ1ey9CEV+zFTT69p9PEdK7I3GNksmjVlMCHA9OcEDDlWhMrQVa+M7es5xDsFhxKYKwDA==;DuiQx4R88M7IzjoqOGCxTw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustwor
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
 type: article
 quality: 119
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all"
         width: 1200
         height: 637
-        isCached: true
-  - title: "Driving The Next Generation of Artificial Intelligence (AI)"
-    excerpt: "Artificial intelligence (AI) is disrupting a multitude of industries. This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) and late 1980s (the second AI winter with the fall of Expert Systems) with the arrival and growth of the internet,"
-    publishedDateTime: 2021-06-16T11:42:00Z
-    webUrl: "https://www.bbntimes.com/science/driving-the-next-generation-of-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Driving_the_Next_Generation_of_AI.jpg"
-        width: 1080
-        height: 720
         isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
@@ -102,19 +88,14 @@ related:
         height: 540
         isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-    publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+    publishedDateTime: 2021-06-18T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-        width: 1200
-        height: 441
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kq5qycUFQGiKrl7Bstb7qMwg95jxwpefnntrWS3SLiBn49GzM+2cuKV4N5SekrfXc5EWOeF5pAj6C3emhMAmW0S9DWntwNUDtqKNQyQoSMB4zgqk1ZY0jBu9kaKBpT0MnwdRNqq8GlgkH5fNUiumv7+ow4Y+sLOd9fiS8iw/PfuTKYq+LOqgd5q9E9jrzdF7HcMeUjkhKuhdn5VhvyU9URFkzuBk6zO/tGSZN/rbbtJlmbWfP5ozORCtcRpAAVak6V7GO1eBBEQSRiimoecLEsikSh2u8rZO64ZrY68GH38JKt7WJGDG2sOJ2y5FK/30gQStjtvQ9UVUmeejQJzhGRzJ98ZBWpRfKpvMqfhtLUA=;rkBXke1Mi+UyX/KiyH7oRw=="
 ---

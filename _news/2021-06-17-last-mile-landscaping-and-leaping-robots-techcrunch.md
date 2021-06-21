@@ -41,6 +41,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
+    excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
+    publishedDateTime: 2021-06-17T01:16:00Z
+    webUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921"
+    ampWebUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/graze-sc-1.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "0GKempvMVnMG0VHbCT6mi4oZBexZ+8g/KCDeCsjCQwX6ez3swGid21G7mBJWvBTCyNvNgLzMSeZrV8iafwAg5+GtDiQwCB/2sS2f76RahKRWLoTE8ANMKct9kROuY6pcQM6A/WXvndP4H+f97i6m6V62OVHZgocA19Y5TzKS+dR5Y2TKUffxylZ5hrMev+fgsoVC3DDMKwSemC6CNCvfhLD7i9VX+HOYhyr/CXQfX4BV8rUZtcQ2tNkzXZXv6pvfXnZCZlDpx7BC6kw2t2JZjFeDNINLsUOTpqOJy9nkRbaE2c+jCCRD2KfddgyPXhpXZpP0xR7MBXGFN5kAYumXSEv+6bYITGoW1Orr8aiNae0=;YABiakPbw94Pt0ao20P/bA=="
 ---

@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning can reduce worry about nanoparticles in food"
-    excerpt: "While crop yield has achieved a substantial boost from nanotechnology in recent years, alarms over the health risks posed by nanoparticles within fresh produce and grains have also increased. In particular,"
-    publishedDateTime: 2021-06-16T11:54:00Z
-    webUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.html"
-    ampWebUrl: "https://phys.org/news/2021-06-machine-nanoparticles-food.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-machine-nanoparticles-food.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/farming.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Crop Absorption of Potentially Toxic Nanoparticles Predicted by Machine Learning"
     excerpt: "Researchers have developed an algorithm that could indicate how much plants accumulate nanoparticles in their roots and shoots."
     publishedDateTime: 2021-06-18T08:03:00Z

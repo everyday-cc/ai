@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/17/robotics-roundup-16/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/robotics-roundup-16/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
+    excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
+    publishedDateTime: 2021-06-17T01:16:00Z
+    webUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921"
+    ampWebUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/graze-sc-1.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Last-mile, landscaping and leaping robots – TechCrunch"
     excerpt: "The corporate makes a speciality of landscaping robotics, beginning with a mower. Given the potential market dimension, I’m actually stunned there aren’t extra corporations doing this. Apparently, the corporate is providing a RaaS (robotics as a service) mannequin,"
     publishedDateTime: 2021-06-17T15:00:00Z

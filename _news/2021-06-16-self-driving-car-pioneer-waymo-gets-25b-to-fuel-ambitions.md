@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet's self-driving car company Waymo announces $2.5 billion investment round"
-    excerpt: "Google sibling company Waymo announced a $2.5 billion investment round Wednesday, which will go toward advancing its autonomous driving technology and growing its team. The round includes funding from Waymo parent company Alphabet,"
-    publishedDateTime: 2021-06-16T12:30:01Z
-    webUrl: "https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html"
-    type: article
-    provider:
-      name: com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html
-      domain: com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html
-    quality: 154
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105930488-1558638540445gettyimages-1061811620.jpeg?v=1623845457"
-        width: 5300
-        height: 3535
-        isCached: true
-  - title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
-    excerpt: "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ..."
-    publishedDateTime: 2021-06-16T12:57:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/s1ecHHtxuKpo3OVoURQIIAwO68c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3NUHQPGSJNNNPLMX7UPVOM5Z4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Alphabet’s self-driving unit Waymo raises $2.5B in funding round"
     excerpt: "Alphabet’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about"
     publishedDateTime: 2021-06-16T16:26:00Z
@@ -307,22 +277,6 @@ related:
         width: 870
         height: 440
         isCached: true
-  - title: "How Graze’s Self-Driving Mower Is Transforming Commercial Landscaping"
-    excerpt: "Graze’s autonomous mowing systems potentially save many landscaping companies from financial ruin, while reducing environmental impact and attracting thousands of investors along the way."
-    publishedDateTime: 2021-06-17T01:16:00Z
-    webUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921"
-    ampWebUrl: "https://www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-grazes-self-driving-mower-transforming-commercial-landscaping-3227921?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/graze-sc-1.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
     publishedDateTime: 2021-06-16T16:36:00Z
@@ -334,14 +288,14 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 32
-  - title: "Waymo begins self-driving freight trials in Texas"
-    excerpt: "Waymo, the autonomous driving wing of Google, has started self-driving testing of freight in Texas with J.B. Hunt Transport Services, a supply chain transportation company based in North America. The test run will use Waymo Via, its autonomous Class 8 ..."
-    publishedDateTime: 2021-06-16T12:56:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16835/waymo-begins-self-driving-freight-trials-in-texas"
+  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
+    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX."
+    publishedDateTime: 2021-06-17T17:26:00Z
+    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth"
     type: article
     provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "LBp/UpfraPxz9yIbGf5SZLw3TZwvq0gfgcZbqMEnB0fsnOZwzN6acOilNVnHBAvStZJ08/mn77DHGRn+8JTjueyW/hB2Z5XzOV93wVE2Uz5intRuYjeTvaVcflEv6BKG9efY8ftJF1fT1SE4S6ZN5gW8g8i2z5Xq3GGf2rxhHyZlcp4tvcJnrDL12w0yDytowufD71gAY/JbwnPqfLb+XNJRWJVhn+6xWGeuoFBkxMohwRn/cLKunNYDT3ctzhgQwFNAbx0kHS7cUi7sWntuGc/WZTkipGnw1TVbDe5yqZgYjO8ys/o0Jip53KQIOTWwscibm+AuhmcsRxloH9YK5xtnz/tJ0rgtnkHXYk5yAndoufACWhNA6fg/bNn0JlPU/zNjuH959TnFYIUpqgFiM7sjgFMRYTvS/uAAimKMEy7b7dqYh/BoVphiCcTILZqSTTtgqDbdgWd1NpZcACCjwpnjQk9TjUXu/wS5KEInQy3Rwv3Wb0QJxl+vkzx5Yxq9kjP9t6KG4y8nlpd+4bAlgg==;EiJ7vvrofZEUvi7dry2TyQ=="
