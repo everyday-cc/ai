@@ -45,20 +45,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Building Ethical Guardrails into AI-Driven Robotic Assistants"
-    excerpt: "As more AI and machine learning developers work on robotics projects -- and even in the software-focused hyperautomation domain known as robotic process automation -- they will need to build safeguards into the algorithmic hearts of their creations to ensure that bots operate within ethical boundaries."
-    publishedDateTime: 2021-06-16T09:15:00Z
-    webUrl: "https://tdwi.org/articles/2021/06/16/adv-all-building-ethical-guardrails-into-ai-driven-robotic-assistants.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 54
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI17.jpg"
-        width: 976
-        height: 400
-        isCached: true
   - title: "2. Hopes about developments in ethical AI"
     excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
     publishedDateTime: 2021-06-16T14:05:00Z
@@ -67,6 +53,15 @@ related:
     provider:
       name: Pew Research Center
       domain: pewresearch.org
+    quality: 34
+  - title: "The future of AI ethics"
+    excerpt: "An ACS Artificial Intelligence Ethics Committee whitepaper endeavours to explain to people within organisations what good governance and assurance of AI looks like, according to Data Synergies Principal Peter Leonard."
+    publishedDateTime: 2021-06-21T03:53:00Z
+    webUrl: "https://www.theaustralian.com.au/news/the-future-of-ai-ethics/video/bf99e590dd72a11c78938b68be2f71a2"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 34
 
 secured: "Rbe4xRis0YbRVIGX07Bu+BQQwBZG5bveSR+16Im2AnkeYMimuR1LNUCOrs+BI/D4QWwG8QjgCtOm/rvQmt2q3/UJc6c+YbT/0cOnq/wUqt9cTazLatv0y2Gp4w4Ql69VjC1pF6TpWtNng+zq3j2wv9uZIanJgtsiGDSCKntqNF9dXkcmYhZJq70dHf+eYES4LBf1KfkRPch+MlVP0hjy8KOCbesrm+3XoL/rVYgzWyiM7UsEiVq4n8ZB3VUqVXEdbVNbzY4XdDI/IN6F9CfXvc2d8nMkLNKFxGR5md0ai5FoiH7MolrjkGr/KzGLQ96nq80c8J6P7j64EFenJjQgCsGM7Y/xZ9D3CRuTm48Cap4L9coYsbXKkx/bmTffGlWqvu1roRlQZEmoZ928097OLknrPDPjmhcRwyD+DDAGQH02g+5ZNQWBnvagUoDG2zDPKfjzbzX5sA9uD1JXVxBFj8xS+Gd6RmFAXwQBuDJNrtIHDVZIgOTqYRimWTXM4nQHrNIRDyIfgsqbw90reWW2EQ==;E5Mgfx2oBgKKS7SG6/ZQyQ=="

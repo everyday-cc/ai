@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-custo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amex-bets-on-ai-and-nlp-for-customer-service/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "India sees surge in AI-enabled automated customer service agents"
+    excerpt: "Automated customer service agents became the top Artificial Intelligence (AI) use case for the Indian organisations in 2020 as the Covid-19 pandemic k.."
+    publishedDateTime: 2021-06-21T02:44:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/india-sees-surge-in-ai-enabled-automated-customer-service-agents/83705191"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83705191,imgsize-715515,width-800,height-434,overlay-etcio/india-sees-surge-in-ai-enabled-automated-customer-service-agents.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "Payers focus on artificial intelligence and machine learning"
     excerpt: "More than half of executives believe startups will lead the way in driving technology innovation, facilitated by government policies and regulations."
     publishedDateTime: 2021-06-17T15:11:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-21T01:37:00Z
 originalUrl: "https://www.thefastmode.com/technology-solutions/20032-infovista-unveils-new-ai-based-propagation-model-for-5g-planning"
 webUrl: "https://www.thefastmode.com/technology-solutions/20032-infovista-unveils-new-ai-based-propagation-model-for-5g-planning"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.thefastmode.com/media/k2/items/src/64f092ad535d477fae380c7c7cbe0365.jpg?t=20210621_013148"
@@ -54,6 +55,6 @@ related:
       domain: totaltele.com
     quality: 8
 
-secured: "/U02+OU12o8WKf5MDs49pvZ/fL8Bdp6Jf11IGnz1OJOYe+JKnkdezDTxXxENs7wnkouZIPvdae40eLK/8BiG4itCte3jQSGykOeifcLM/LT0A9sg5mxnTVnuyy6d6/b3y5BO1gHMFai34A/Ata6tfo1t8HidDAnyZc/C7oLQ7NKHvtNJf8lr5EFyD74KVRdgnQJ2kV2gu414QPPiZm6o97tQSOAgK0hjfpEWLw+RmbX/VwerBE4QEwe0ifnxReufcIRuyjAUpeMBqSTAo9kmlodsrSBlyeulHhT0tH1oilHOnKxJ/8QLKxhSoRVwq2om9kyi/7P/niI2gOKxzweTS5X1puVW6DblR6wOvZY5wsw=;Xcmxu9qdoWvkKbVnT3ziIg=="
+secured: "cRLYMlZfny176O5bKjRp1hFobkWxmbdNBU8jvT/r+cgTpvZvd1lJyq9ou0QJg5lTb2R4a039ys3w6HzFAyinfPrxR1nVkRjV8N94ipsutRS2etCICpfr4wl2HwZvj3TijjGm3eo34zcLDy4GOKKkmAtAonGj9Cd6b+dTZbvVoE+B0HtCOeNIWh8bqtXTiq11wGz6K9AWGI1IGMFlIXwjyeYbEHETKtd0TOushUUuuWu/qTTPnmpZ9lTQgVq3lj2LSQnlXr72D8iSms8ee5M5Q9oKz9FcNCjRiRSBNPFezX2GlAlhsgvXDMxz/kDe6iBivgiCGXVmNgpv2/zwQqYaMLqUcabn61Hk6Dak/JvoiebLu4UmLXCODpVCeFxLKwsucKMuHf+OaMMNgtul8RZhzuEyZkXCQw8Zc7vGPP/xvUAFVjFpADXQu8WCcrypLB39BwhtpbhUS3Kr42ooVahk69YtJT7F/W9sXQIe5zVCN2E7eFRpNPn49YvgdqORa5ouSXWihzBLBYHrWLYUc/MZWw==;2icQVz2sFq2e0mjsY1pbGg=="
 ---
 

@@ -29,7 +29,7 @@ related:
     provider:
       name: Deep
       domain: thefastmode.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.thefastmode.com/media/k2/items/src/64f092ad535d477fae380c7c7cbe0365.jpg?t=20210621_013148"
         width: 752

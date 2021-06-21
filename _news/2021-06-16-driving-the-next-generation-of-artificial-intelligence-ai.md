@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "Training next generation of leaders in responsible use of artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is transforming our world in powerful ways, from improving medical care and changing the retail landscape to"
-    publishedDateTime: 2021-06-16T10:20:00Z
-    webUrl: "https://www.miragenews.com/training-next-generation-of-leaders-in-578812/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 47
-    images:
-      - url: "https://www.mcgill.ca/newsroom/files/newsroom/styles/wysiwyg_large/public/channels/image/hackathon-mustgivephotocredit-645x430.jpg?itok=E3MftT3U"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
     publishedDateTime: 2021-06-18T14:17:00Z
@@ -114,14 +100,19 @@ related:
         height: 540
         isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-    publishedDateTime: 2021-06-18T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+    publishedDateTime: 2021-06-18T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+        width: 1200
+        height: 441
+        isCached: true
 
 secured: "q9W/8Rq+A/jmW+xV045KEmbKofIoz19nAPu088Zrud3OjL9gk1or9x/geJOujQS5IGyuhETYxTDp9k05jTJ3gVpZHRQCYExv9pIeAOH3ossTqhgBmwlU3tQxjBhuFzyOaBPp/Eyh3TYro7K0yqzs/X777+HWiHBVAzw2e9fSgB/VTKXlr3+Tj3VzqKrhwerPmFokp07zMvNXHDXG1HM93i5Ac/b60VF4oV/NlUhEPH66WUCXQEdMNy2DjxJpSt2WP6elNkpI+veRKmrpqwvbPmdj2AyWRqEBHT8zxLnh6SgXCYaF9OTDvKP9VkO89ZmidPNqXMippQ183kQzuZ4PoCrCJyc1G/p3RsszPs0wclXcbFvrAcTOftw7GJfQ3SRzmiTpba4Ts6D85IS792HPLn21KdRc/dVvm0aC83aoApUYoZne7LmeKkcGdPeusclR1eHLr4AC9nJAwMhlP3II1gLZx9JHoqAz1xj4Xw8r+wWXLR5dph11dlkJxd9soEZsbdEOc1/aNJUrUZtCEUPemQ==;qHswldCFFC6rD7SWEWc1dQ=="
 ---

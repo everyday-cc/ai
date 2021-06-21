@@ -1,22 +1,28 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-publishedDateTime: 2021-06-18T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+publishedDateTime: 2021-06-18T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
 
 related:
   - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
@@ -63,20 +69,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Training next generation of leaders in responsible use of artificial intelligence"
-    excerpt: "Artificial intelligence (AI) is transforming our world in powerful ways, from improving medical care and changing the retail landscape to"
-    publishedDateTime: 2021-06-16T10:20:00Z
-    webUrl: "https://www.miragenews.com/training-next-generation-of-leaders-in-578812/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 47
-    images:
-      - url: "https://www.mcgill.ca/newsroom/files/newsroom/styles/wysiwyg_large/public/channels/image/hackathon-mustgivephotocredit-645x430.jpg?itok=E3MftT3U"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
     publishedDateTime: 2021-06-18T14:17:00Z
@@ -120,6 +112,6 @@ related:
         height: 540
         isCached: true
 
-secured: "CKvDyv0LRjnJxF/zsDUA3m10UaPJmdio14D9NO5t8MtxGOfJrgfa6hp3tY/BpOkAOXgwplWYSrb6lDbhE2tHqQR9S72BxSKWMIPdofvVws1iZ6u3IsvEkf4ZfKvflOjmkZZ6A6Xo3akRL8tTKlIyw964g3uVvh76EaSTWKzyciuBSs1ave9LrzPb62nDPLw/2quBuEDHSlSqChlVJUORM+foTE7x+CTTmJSk8G9wqdfuXpXZKtST/BbSv58ydo0WDRifokke5vDANfWskFVqRVBUkgi/ntfSz26St0gAvL+e3pxd3RyE9x5pYjbVHJb89wHXFtQ3HHgxIu9r1NFL9kBAuT1lYXlZ2DelkTVjkWBiSuBjWPAYUihnAiXHKO8Q9QNq1Ww6Qj7e0rqIjhsCbk80S90AQu32yaZXQqFhrT8jWqKdRn7ahGL1D8jo8T54gY9uQEgA5CPYI7dELiyREPNQ8Im3u8IOfsHS1v5u0TOq7rs+2bCCtTxDdo1RCWnZzE93nQvnZ+Aj33nvap5Nlg==;/hyreQZCN1LErDAiVJG1Ig=="
+secured: "4g4Ze50TJcexpUZ9tTmsjl9/b5CAFPBjSDXzFVq8NDvdFQa6Y7WJWybI1a7KSEj8Vto20fwy4XT4gPOn2yanQ5aPv6v6DOzU6ObrQKCyHoEkWTCm/aZP3MTdooJMKCU5c7uQtiey4Np2bmRFi/eAMBEe9fcf5grCEEeVTIHTukJD2wURlzb4DEAg7AjMrr8wxGZvHV1r6eeIofd1WKKz1/yxtkIxifre+RPvWadUEKa/ZGbCNAy3ezKAjuWik3ReaRQtGDFM6LrCgTWSpxJiDoPDmZHBo2aL9ui8KFbWFmpH6W1tnykld2jlgpAlOw+3PljlrwlL6SuJqqcPxwTT6U07fQECSPtQkGbuborjpm0=;6Wx0lEbd09kCiLAzvDxVTA=="
 ---
 
