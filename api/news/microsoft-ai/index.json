@@ -982,6 +982,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-07-nsw-police-rollout-of-azure-enhances-support-for-cognitive-services.md",
+      "title": "NSW Police rollout of Azure enhances support for cognitive services",
+      "excerpt": "Microsoft says NSW Police is currently exploring how Azure cognitive services can be used to expedite other police work and sees ongoing opportunities to help evolve the Insights capability to ...",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/deals/nsw-police-rollout-of-azure-enhances-support-for-cognitive-services.html",
+      "originalUrl": "https://itwire.com/deals/nsw-police-rollout-of-azure-enhances-support-for-cognitive-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/284c30d338766c8ad84378defc07b6c2_M.jpg",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-nsw-police-force-is-using-ai-to-analyse-cctv-footage.md",
       "title": "NSW Police Force is using AI to analyse CCTV footage",
       "excerpt": "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage.",
@@ -1313,49 +1356,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-usaf-and-industry-research-cognitive-algorithms-for-contested-environments.md",
-      "title": "USAF and industry research cognitive algorithms for contested environments",
-      "excerpt": "The USAF Research Laboratory has picked Black River Systems as its industry partner to research and develop prototype software and hardware for the Cognitive Algorithms for SIGINT Contested and Degraded Environments (CASCADE) initiative. Work on the $11.97 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
-      "originalUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.shephardmedia.com/live/default/media/cache/images/images/article/USAF_ISR/9d427340395e3be5e6716eea9605f135.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shephard Media",
-        "domain": "shephardmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

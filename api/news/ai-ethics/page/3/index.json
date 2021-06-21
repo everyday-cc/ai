@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-04-building-ethical-ai-is-not-easy-but-this-guide-will-help-you.md",
-      "title": "Building Ethical AI is Not Easy. But, This Guide Will Help You",
-      "excerpt": "Adopting a sound ethical AI strategy is important to shape future developments. Building ethical AI requires both an ethical way for building AI systems and a strategy for making AI systems themselves moral.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
-      "originalUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Ethical-AI.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
-      "publishedDateTime": "2021-05-03T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-ais-ethical-issues-are-exacerbated-by-increasing-scale.md",
       "title": "AI’s ethical issues are exacerbated by increasing scale",
       "excerpt": "Tiernan Ray says AI has always carried the risk of abuses such as bias. The increasing scale of the field, however, in terms of the size of neural network models, the escaping compute budget, and the proliferation of generated content such as fake faces and fake writing,",

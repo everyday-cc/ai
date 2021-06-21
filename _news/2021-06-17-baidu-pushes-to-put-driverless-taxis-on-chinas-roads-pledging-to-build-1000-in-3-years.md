@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-t
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html"
 type: article
 quality: 165
-heat: 235
+heat: 225
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png"
         width: 731
         height: 393
-        isCached: true
-  - title: "AV startup Refraction AI's driverless robots to deliver pizza in Texas"
-    excerpt: "Pizza lovers in certain areas of Austin, Texas, can now have their pies delivered via robot. The REV-1 robot is the product of Refraction AI, an Ann Arbor, Mich., autonomous vehicle startup. The company is expanding its reach,"
-    publishedDateTime: 2021-06-16T18:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/av-startup-refraction-ais-driverless-robots-deliver-pizza-texas"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 71
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Baidu inks partnership to build 1,000 autonomous robotaxis"
     excerpt: "Chinese tech vendor expands its partnership with state-owned manufacturer BAIC Group to build 1,000 autonomous electric vehicles, for 480,000 yuan ($74,987) each, over the next three years."

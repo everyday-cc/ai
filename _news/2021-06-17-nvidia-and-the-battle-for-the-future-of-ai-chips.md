@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA and the battle for the future of AI chips"
 excerpt: "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field"
 publishedDateTime: 2021-06-17T09:10:00Z
-originalUrl: "https://www.wired.co.uk/article/nvidia-ai-chips"
-webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips"
+originalUrl: "https://www.wired.co.uk/article/nvidia-ai-chips?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips?ref=upstract.com&curator=upstract.com"
 ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "qge4p7qqDlQH6jJuD9bzOQFiPmOE4CbsLm2OHfFTsUjcJ6HgGN0Ss5d9EVSVpYeoe4dIF4yLYKH4QJR2RJP/VwA7kELr57xn7VfXnB4K9x4TR3Tcny4xdM+0m+sdOjwzF0ipfmdsISFT+TUdkghIZJnE2shJpOhy4hP6J4dqhZOtgc7EMloAX7xOvLlnwqgcz9AwqmYc0c4fTMsyOI6vZCkQWPWvbuJExLkeN3qj/t52TJEMfPkwSTHpeIJJF1pm0F5coktyv9RiprDjAGKXXxjjcTZmms9+oruWJz36MUHPVmtxaxw8rFrAztmrr6u0t0ogaBagFgYHeK7460rEiQjlvhRBAL665j4NzFdsEzh3Z+GNnD1p+ajLbOq4tnpl+UhK0WlW0MlpAJu1M9ybd2COHoxCvun5/RbQyHJnuUFFLUsX8ptEa5Z9gjblj5dyCxum7731hR+86GLjci696gEibsK0prjYdO0f7D8mZtAvxBjCN892t8vxIZfitwzTyplFNAbyLAx86jbeJtN2UQ==;bIJTBhYvKZpus6CMpGQr9w=="
+secured: "PBQhiR0PH4Z73xcR6/Sfgcd2wB7xh6EshwKGpRR72w4lLVoWG8/RFN43Jjsin+NyWDjxRiVs/ZKEgLw8qe813LyLdrOZsF3IBSdX/VrgEif49ulZ79cGulGTdgSES6ZsogyMnjJoKJiGd6fRnNhRHa+KQM4Wdr4mosbdU/B/oJFdLvRadXC63U1v7/EAXU4PDuw2XXPXngzPpKuo7u+OdvCSdoqtCoOGFRvOzfdbv9kbOWZ4MMxlOOSaMokXuD8y/Wc0eZDAKCHwZVVrUDu77xcKVHgrCLHQEjNR3AdU1SXtL7+D89nsaWQ9KFo4VNeUJHJZQMLZMzDdsHkrNm7Shxdz7t38egiOWTLdoSYGrLI=;xuSflA+4qONQGg7un64+TA=="
 ---
 

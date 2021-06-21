@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Louisiana Creates Rules for Self-Driving Delivery Devices"
-    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state’s streets."
-    publishedDateTime: 2021-06-16T17:47:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-06-16/louisiana-creates-rules-for-self-driving-delivery-devices"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Louisiana enacts regulations for self-driving delivery robots"
     excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards."
     publishedDateTime: 2021-06-17T07:36:00Z

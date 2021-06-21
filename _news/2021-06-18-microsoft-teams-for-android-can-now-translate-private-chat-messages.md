@@ -56,6 +56,20 @@ related:
         width: 1080
         height: 568
         isCached: true
+  - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
+    excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
+    publishedDateTime: 2021-06-21T10:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-likely-to-boost-future-growth-with-google-baidu-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 63
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Wood-framed_house-CC-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft expands telecom portfolio with Azure private MEC"
     excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
     publishedDateTime: 2021-06-17T19:00:00Z
@@ -70,17 +84,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-18T09:45:00Z

@@ -34,34 +34,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "Corsight update promises ‘high-speed, real-time’ facial recognition, multi-channel processing"
-    excerpt: "The technology is able to identify individuals on watchlists in even the most challenging conditions for biometric matching."
-    publishedDateTime: 2021-06-16T17:46:00Z
-    webUrl: "https://www.biometricupdate.com/202106/corsight-update-promises-high-speed-real-time-facial-recognition-multi-channel-processing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "Corsight update promises fast real-time facial recognition results yet, multi-channel processing"
-    excerpt: "The technology is able to identify individuals on watchlists in even the most challenging conditions for biometric matching."
-    publishedDateTime: 2021-06-16T17:31:00Z
-    webUrl: "https://www.biometricupdate.com/202106/corsight-update-promises-fast-real-time-facial-recognition-results-yet-multi-channel-processing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
 
 secured: "ASubJ3nnhwZNzHlUjIM/SXu+lG94vlGwzeewb6xbqcQUAlaHUDybNkUDOjXuNZsMdnzwr4rlUVv1lETXltCGSmVPQcZv6r13m3gFEnY3seStxl8fJdtFeFzAKO+ApBmUtaBHQPXzadIL/1D2Ht+0o9+RE9KS7AJxwRjCL/tgUjEJKZ/3gRdaosSvZmXU6CSVT9hwZVERqaEq9q/GLVMM7EbOra/j/C4rOVi2K/Xb04rnBAidlHeOWH+Yoh6jwQlfHBxAFJj9CsujiovbkWzoM3HjS0DR9MGfvVH2S5nDWU+RQIvhvlP7weRmXQ63RH6egm8jB+Jk08tkUIx0LVY6AH9ZiJ1NFMH1CmASKm7DhXU=;Lk4Knl7uOGKBev+4TMsmCA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/06/17/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/06/17/artificial-intelligence-ranks-colfax-corp-and-evertec-inc-among-todays-top-buys/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Identifies Danaher Corp Among Today’s Top Buys"
-    excerpt: "The Dow Jones ticked up 20 points, the S&P 500 rose 0.1%, and the Nasdaq gained 0.2%. Make the most of today's market with the Top Buys from"
-    publishedDateTime: 2021-06-16T17:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-identifies-danaher-corp-among-todays-top-buys-10246822"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Artificial Intelligence Ranks Colfax Corp And Evertec Inc Among Today’s Top Buys"
     excerpt: "The Dow Jones rose 30 points, while the S&P 500 rose 0.1%, and Nasdaq was flat. Make the most of this market with today's Top Buys from Q.ai's"
     publishedDateTime: 2021-06-17T17:01:00Z

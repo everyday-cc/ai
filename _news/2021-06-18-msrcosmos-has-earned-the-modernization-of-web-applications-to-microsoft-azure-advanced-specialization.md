@@ -49,6 +49,20 @@ related:
         width: 1080
         height: 568
         isCached: true
+  - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
+    excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
+    publishedDateTime: 2021-06-21T10:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-likely-to-boost-future-growth-with-google-baidu-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 63
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Wood-framed_house-CC-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft Teams for Android can now translate private chat messages"
     excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
     publishedDateTime: 2021-06-18T15:38:00Z
@@ -77,17 +91,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-06-16T18:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
     publishedDateTime: 2021-06-17T13:00:00Z

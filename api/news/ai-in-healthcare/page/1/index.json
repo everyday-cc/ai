@@ -207,8 +207,8 @@
       "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
       "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/16/9391456.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/16/9391456.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -778,15 +778,24 @@
     {
       "path": "_news/2021-06-08-el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology.md",
       "title": "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology",
-      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients",
+      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients an innovative adaptive radiation therapy called Ethos™. The advanced radiation oncology technology,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence/article_72ca2720-f125-513e-9b8d-b90cfe96ac3e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -794,8 +803,8 @@
       "publishedDateTime": "2021-06-08T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

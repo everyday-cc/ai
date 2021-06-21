@@ -39,22 +39,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Alphabet’s Waymo raises $2.5 billion in second external funding round"
-    excerpt: "Waymo, a subsidiary of Alphabet Inc. and Google’s former self-driving project, has raised $2.5 billion in its second external funding round."
-    publishedDateTime: 2021-06-16T17:12:00Z
-    webUrl: "https://thetechportal.com/2021/06/16/alphabets-waymo-raises-2-5-billion-in-second-external-funding-round/"
-    ampWebUrl: "https://thetechportal.com/2021/06/16/alphabets-waymo-raises-2-5-billion-in-second-external-funding-round/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/06/16/alphabets-waymo-raises-2-5-billion-in-second-external-funding-round/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 74
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2020/10/waymo-self-driving-car-the-tech-portal.jpg"
-        width: 1271
-        height: 841
-        isCached: true
   - title: "Waymo raises $2.5bn to rev self-driving cars"
     excerpt: "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ..."
     publishedDateTime: 2021-06-18T10:20:00Z
@@ -71,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Alphabet's Waymo Raises $2.5 Billion in First Fresh Funding in a Year"
-    excerpt: "The funding led by Alphabet and other existing shareholders is the second outside funding for Waymo, which last year raised $3.25 billion in its first external investment round since its inception 2009."
-    publishedDateTime: 2021-06-16T17:40:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-06-16/alphabets-waymo-raises-25-billion-in-funding-round"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Waymo raises further $2.5bn for self-driving car project"
     excerpt: "Alphabet-owned company raised $3.2bn only 18 months ago as competition intensifiesRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-06-16T19:30:00Z
@@ -89,22 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "Waymo has raised another $2.5 billion from a group of investors ranging from venture capital firms such as Andreessen Horowitz to a major car dealer, AutoNation."
     publishedDateTime: 2021-06-17T20:04:00Z

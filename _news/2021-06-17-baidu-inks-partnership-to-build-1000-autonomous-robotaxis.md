@@ -55,20 +55,6 @@ related:
         width: 731
         height: 393
         isCached: true
-  - title: "AV startup Refraction AI's driverless robots to deliver pizza in Texas"
-    excerpt: "Pizza lovers in certain areas of Austin, Texas, can now have their pies delivered via robot. The REV-1 robot is the product of Refraction AI, an Ann Arbor, Mich., autonomous vehicle startup. The company is expanding its reach,"
-    publishedDateTime: 2021-06-16T18:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/av-startup-refraction-ais-driverless-robots-deliver-pizza-texas"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 71
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/REV-1%20Photo_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Baidu To Build Autonomous Taxis With BAIC Group In China"
     excerpt: "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand."
     publishedDateTime: 2021-06-18T08:57:00Z

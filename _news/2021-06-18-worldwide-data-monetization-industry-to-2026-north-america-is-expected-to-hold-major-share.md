@@ -77,6 +77,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
+    excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
+    publishedDateTime: 2021-06-21T10:44:00Z
+    webUrl: "https://www.openpr.com/news/2309745/artificial-intelligence-platform-market-share-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
   - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
     publishedDateTime: 2021-06-18T16:35:00Z

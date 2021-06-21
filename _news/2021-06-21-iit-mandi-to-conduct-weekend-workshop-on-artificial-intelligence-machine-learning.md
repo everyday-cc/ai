@@ -7,7 +7,7 @@ originalUrl: "https://www.republicworld.com/india-news/education/iit-mandi-to-co
 webUrl: "https://www.republicworld.com/india-news/education/iit-mandi-to-conduct-weekend-workshop-on-artificial-intelligence-and-machine-learning.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     height: 438
     isCached: true
 
-secured: "UhFI4eRxzwFyDcmT1lj3pfLz/r1+0ZGx21FPpzNSvCrjTqn+Hv7JcwYx1Y3+xnSebKc/vOBLD/CQLGT5sPa5pHVJ7paM7CLJmsl3HnIDQwKQCRTB8F93QQ0/N9jB6o7z36uiV/OAWsSKCb3+d7LgL9DgQPT3KFDk03eaG1zEc+b/3zdVF0DL3EW4QOxQ37YiLT88TAebX5ZFYn4kR3PCtPDfHhxfapA/VtEZdKB2QXA0NRqrSvLuQian1YAYc3GSWrbc15cmzA9AAku36n+4vRN67gXs4jEPaf5UvGEGHFQbStJoFFHxf6yA321v1KpdrQqc14No3PSCBSkkLCs6qFi9hsqCRjTRuCZxxfl4Jrc=;L2Blq2Jtw3UpicmfuEm8gw=="
+related:
+  - title: "IIT Mandi to host a 6 day Deep Learning workshop for executives and working professionals"
+    excerpt: "IIT Mandi will host a 6 day long workshop on Deep Learning for executives and working professionals. The workshop is scheduled to be conducted between July 3 to 18, 2021 over three weekends and six days."
+    publishedDateTime: 2021-06-21T09:57:00Z
+    webUrl: "https://www.timesnownews.com/education/article/iit-mandi-to-host-a-6-day-deep-learning-workshop-for-executives-and-working-professionals/773697"
+    ampWebUrl: "https://www.timesnownews.com/amp/education/article/iit-mandi-to-host-a-6-day-deep-learning-workshop-for-executives-and-working-professionals/773697"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/education/article/iit-mandi-to-host-a-6-day-deep-learning-workshop-for-executives-and-working-professionals/773697"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 50
+    images:
+      - url: "https://imgk.timesnownews.com/story/iit_mandi.png?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "IIT Mandi To Host Workshop On Deep Learning For Executives, Working Professionals"
+    excerpt: "Mandi, will host a six-day weekend workshop on Deep Learning for executives and working professionals between July 3 and 18, 2021. IIT Mandi iHub and HCI Foundation will jointly organise the workshop."
+    publishedDateTime: 2021-06-21T10:21:00Z
+    webUrl: "https://www.ndtv.com/education/iit-mandi-host-workshop-on-deep-learning-for-executives-working-professionals"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 34
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2021/6/21/Webp.net-resizeimage_62.jpg"
+        width: 694
+        height: 430
+        isCached: true
+
+secured: "MF5eViIPLN+M5R3zlZO8XEAt3Q1w/9fMOqAOrRwc0NGu0WrpzG56J21RWKucQEY1ZkK7TsGurT/7RxOpHlmlzBgyRYsQqpILeDdgNafSIPdhPjxPIT1mbLHRZkj+8enB3P4XeIz057e2BBS6bAUSrkE81H9EEJ8ymQhyJEV/gVC9YznDuwGD2qtr4tZ0X2OQKc1PF8N5eiRdQcgbq4J4tUAjwxwmWvwjYItWOIe+g2S6H08SrGR2YTvBJN7PFeBrqIKuNyAx3+AQgBJvb+hHKOHhGuDoMude8sTb+NtBOZbhTfgUKWwyk6GvbynPFfOz6QRCMDHXgpAYHXcgLnvuolzL3AY/LhOjaSEvNAnu4bC2TATuDHKwuSTWyVbZ3OBhmvX2hRP9rzDR3ZmEvJMKVSDLOD3PHZOMaVjZFcLvYnqBD4fA3kD9stIX+VJuz1LRsAzKQZTxDKd2RFruyp/e7ertBIcVOL4uKfgwd6yL6lSUeZcROjcq6fujeTP/Sde44yvLkwPEB08jeYlwxHnCSg==;UdWpwMkUvVClyqZHWUrQPw=="
 ---
 

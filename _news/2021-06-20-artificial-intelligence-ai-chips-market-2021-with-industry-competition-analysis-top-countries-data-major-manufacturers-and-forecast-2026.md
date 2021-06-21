@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -71,6 +71,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
+    excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
+    publishedDateTime: 2021-06-21T10:44:00Z
+    webUrl: "https://www.openpr.com/news/2309745/artificial-intelligence-platform-market-share-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
   - title: "Worldwide Data Monetization Industry to 2026 - North America is Expected to Hold Major Share"
     excerpt: "The \"Data Monetization Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added"
     publishedDateTime: 2021-06-18T12:23:00Z

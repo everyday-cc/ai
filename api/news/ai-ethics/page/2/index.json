@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-27-the-future-of-work-now-ethical-ai-at-salesforce.md",
-      "title": "The Future Of Work Now: Ethical AI At Salesforce",
-      "excerpt": "Baxter dove deeper into the nascent field of AI ethics, including how to educate fellow employees about ethical issues associated with AI, and guide product engineering teams about how to design technology in ethical ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60afaecdf8d262169a8cdfe8%2F0x0.jpg",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/05/27/the-future-of-work-now-ethical-ai-at-salesforce/amp/",
-      "publishedDateTime": "2021-05-27T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-foundations-of-trustworthy-ai-governed-data-and-ai-ai-ethics-and-an-open-diverse-ecosystem.md",
       "title": "Foundations of trustworthy AI: governed data and AI, AI ethics and an open diverse ecosystem",
       "excerpt": "Companies around the world are realizing that building trust in AI is key to widespread adoption of the technology. They know that trust in AI and being able to explain decisions made through AI algorithms are crucial to the success of their business from a brand perspective. According to Morning Consult,",
@@ -1443,6 +1391,49 @@
         "AI Ethics",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-building-ethical-ai-is-not-easy-but-this-guide-will-help-you.md",
+      "title": "Building Ethical AI is Not Easy. But, This Guide Will Help You",
+      "excerpt": "Adopting a sound ethical AI strategy is important to shape future developments. Building ethical AI requires both an ethical way for building AI systems and a strategy for making AI systems themselves moral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "originalUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/Ethical-AI.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/building-ethical-ai-is-not-easy-but-this-guide-will-help-you/?amp",
+      "publishedDateTime": "2021-05-03T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

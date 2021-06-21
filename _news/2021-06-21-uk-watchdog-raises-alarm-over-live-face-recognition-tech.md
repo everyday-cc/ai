@@ -1,28 +1,22 @@
 ---
 category: news
 title: "UK watchdog raises alarm over live face recognition tech"
-excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR)"
-publishedDateTime: 2021-06-21T06:40:00Z
-originalUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
-webUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
+excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you."
+publishedDateTime: 2021-06-21T10:27:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20210621/3774890.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20210621/3774890.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a3f7d80f1c1820e031cd04606e65712a.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "ICO: Use of facial recognition tech in public spaces deeply concerning"
@@ -131,20 +125,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
-    excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z
@@ -187,16 +167,7 @@ related:
         width: 1280
         height: 711
         isCached: true
-  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
-    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
-    publishedDateTime: 2021-06-16T18:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 9
 
-secured: "q0iyg9ZL2cYvhdSmGRJtTOeV425iiN7scyfc28wCzzDp8kfWVe29Z1G7yiQ0QBlrkOhTaCWQ19T7Lj+nAyEnRYBG8z5aR7csZB5kJA7Eq2v7TPCEcbv3BijwwpM2nLkSl+w//KiBJS5HRea9TSFYJQ3ai16R4Wf4b9KGgIDi/TmDlPc575kKc+EtNS7TGK8jKHhEKhEBuqR9/P3bPfDNjmiGXDvD8+sYB1jJICVGWitVnYVHWYleSWnLoyqsVh4yJUR5BSW+4IxwjproQ4d7aXB0SrnwT+cOFaxl04dly+7frBlnKRQI9a1ST/ROctx97WrJnFdo8KtrYSHvvYCID2IquUoqziASoMHiJ7vyEiMvz8Su5LXYEAF61n+Dhc6x6peQBgO7/0ScSXYTGU3jLgLuN8g/tOHZ2Zt1NeQihfsKKXUWC2WCo8qxT5uJsrGxFLA5S67wUiTFA/Smvml3rRoLj962BDq9cIpnV+YXelLfHKYTRdh35P2Yt2tmyAhbYr7nri50HrLLdmQJZyX4dg==;fXxwGGSfgG6OThmHwI1pjg=="
+secured: "gOgDF8m5dQtSUv4LVGR4yoW3TASbncj9dDTabBz2f5a1pht9pOAu2h99GXdme2CxI/Kw4ZrTbldzpK/r+nr95IM2mMXAq/8BHe5dkRb6XRXykuZjsWK9p0YMZNYPiAAAAJVJtBfFPZpKqRbhwzeCa+pTRHPq/3zMpfKU0tK5vw02hJE1xTvskrvBpMup4ELLwvCub3YSMK9N0G7ubmdL4a1Js9RHKBQKOlCVIru2KLsk2DGxBzKDYJAzC2XKF7Li1qwNX7JBdmZFPd5uBV2WzQnImzmUtAlUsdNYyDLRgYY4FDOh0xcEEivsBgqeZhVsqC30Q88jiOZO8mwsTnzq0FHjpvK8MmJw0XiuEVjVOU4=;W/inw2gyZDPbl7lZ5JmCCw=="
 ---
 

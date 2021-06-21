@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments"
-excerpt: "TEL AVIV, Israel, June 8, 2021 /PRNewswire/ -- Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on the Apple Store. The Voiceitt app can be downloaded for free by ..."
+excerpt: "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on the Apple Store. The Voiceitt app can be downloaded for free by individuals or in volume by institutions,"
 publishedDateTime: 2021-06-08T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386042.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/08/9386042.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "PqezTeduDpH43iOgy762nWyj8b0Sczeiov5cA+OFrbp8iOj19rm1zOCDi3HCexUib+Zh+GBOUVjKaO0MLeNSNZ67UVGbN4SPsdUbM0WUTzSPxZDlyNfwYMqBjJbpcjZKDtowj7jdOtCOtB9YR0sieluP/CbWoP1qQ5fVgzImCKZWtRBaX8UW861jUudpvnTC47ftIFAmRsGaeR7Tn9dsXnREnSUvJvXT168Fx+AVrPFzyPnWgeOz2iMVCDz9VHzqOm2w5LWvSt/LZySvhKY/Nzd+v5hbfy49XHUz0NMCQy8qxaXM2H5eDWV+C6pKPN0lYfHL5ob9t7v2ML7s98ve66JFj+f4Rkk0HLid+vItZgI=;4ubT2ADrt0FwfppAMRZIpA=="
+secured: "pJDWs4gLLPmDHm0fnWw9jtqcWB4bVqSKpygql0Zz2r2yatgIMzKSrRFFQo4WTGBi6c5bpHtmcNxIbOwxIR2zmm5t9yexp/myIfUgI3Ut5H/FktC58LPrw8U569VxJh0pOgpIoTk4013CJUZMArvDJUFhkGDu+HqmL0spvg4CBBNZdeX91DbQs0X+7oJN2bv94P9bUs/uirSOCShqj8Yr7dGp3QpDr/ciyw3B/gOgydiZQVOIvh28vU67Qs/svcWsfJb3rkkA1jiJhXr8LldDi4DY2Mu4FnkNtWmf5pEzofZ72XF+SEhpj2iZR+HG/t9F4nPvAEd3uqtZO4qTcjT54psqAu0NqpyhDSNTexL83h8=;uenchkVASlgD5EhJd0rX3A=="
 ---
 

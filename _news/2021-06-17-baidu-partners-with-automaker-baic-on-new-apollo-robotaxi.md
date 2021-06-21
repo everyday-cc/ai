@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
+    excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
+    publishedDateTime: 2021-06-17T09:42:00Z
+    webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know"
     excerpt: "Chinese search engine Baidu, Inc.'s (NASDAQ: BIDU) Apollo self-driving unit has launched a new low-cost robotaxi. What Happened: Baidu, in partnership with BAIC Group's electric vehicle brand ..."
     publishedDateTime: 2021-06-17T16:07:00Z
@@ -99,6 +115,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
+    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
+    publishedDateTime: 2021-06-17T07:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21601025"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601025"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1535437/1.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "China's Baidu to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years"
     excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
     publishedDateTime: 2021-06-17T23:00:00Z
@@ -113,24 +145,6 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
-    publishedDateTime: 2021-06-17T07:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 24
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-    publishedDateTime: 2021-06-17T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "C9m1qPG+cs3CkK9xymjLNBgsSFPi/9r6DCsgyu5S33LPR8zSo+82q8PzUSkVc12iEhfwV69xwdcA75Vj5YrsmhSBoBFupCqNKsTfl5SvdYCsNNLOofbmgCEnBh7HQeaRbL3dRH5GJ8MewD/jrosvDzrNz63wpWheuSm8Cjt+JF8QRcHNFMupGALADQNoz0XVK1g9ZmALWMFkn0THnv1P13dAyMuocSxIQpTVTgBHdEZNLim8zyx3jJoMx5zIr3glSOIGIsFX8FHsdqruJsMDB0RoxImGoZkoRAPvy8acGv0TPbCW69+TYFIemt4G0Zv5vWAZD1DPN1efixRwpLo40kwUzgGcZzHuTiu6veVVLieQd2NLd/PBoqlZtTAwiEkTyCVvZUg2jP5gBs3zIZqWGASHJpOewvcANClH/9zzUhVEJq3WWNPre/IR78I+OTBtFScAnhi3btcZvLMeexo5PA+VRWrkvhx/dzZysMG4qrvyo/CyldzL7Qv1nmDu3yuoDs08UULYV6jj/vYpMga+Ng==;kvoTsYrK6Xl2jWSWClGMGw=="
 ---

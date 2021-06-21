@@ -73,20 +73,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "UK watchdog raises alarm over live face recognition tech"
-    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR)"
-    publishedDateTime: 2021-06-21T06:40:00Z
-    webUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 54
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a3f7d80f1c1820e031cd04606e65712a.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Britain's Information Commissioner issues warning over facial recognition"
     excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
     publishedDateTime: 2021-06-21T07:43:00Z
@@ -145,20 +131,15 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Lawmakers Renew Effort to Ban Federal Agencies from Using Facial Recognition Tech"
-    excerpt: "The reintroduced bill would prohibit agencies from using biometric tech and block federal funds for biometric surveillance systems."
-    publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/lawmakers-renew-effort-ban-federal-agencies-using-facial-recognition-tech/174769/"
+  - title: "UK watchdog raises alarm over live face recognition tech"
+    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you."
+    publishedDateTime: 2021-06-21T10:27:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20210621/3774890.html"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/16/NGfacialrecognition20210616/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z
@@ -187,15 +168,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
-    excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
-    publishedDateTime: 2021-06-16T18:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 9
 
 secured: "csll9rKf98JGAjd7SBJgMlSLu/5Y71BJnQOpSJMd3WyqS7tKt3RmDlneC4X3aZs4B5OL8tNIQZFqcwjaAMXbKxoFlLyKylY8R7Pmwho0aNmRD2v3aJbc2YnysLY8pt3Z6XwzyzGCUyX4Komj75ap1mm2Jk2oc5y0msJlHPECVS7rSeqVysgNbp42JNAgytlde1ZD6AoFN7prt09SxQWr65WWHE57eqE4DaT3i+U4VhPClEQpgvZgqR/6a8K9e9/nQdQkhdAk0kg1bbskJsh2S3m0HgXlSNfvdRty5QZ4ZBvrcfMMF4YDUK4DQNd6aE6y+N+pxxyRSR3dYFnhYdxuSpiCLK68Ak4uBQDj4nX4SNQ=;oYfOk3I6n0S6pRZbeNAK2w=="
 ---
