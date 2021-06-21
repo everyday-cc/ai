@@ -61,7 +61,37 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
+    excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"
+    publishedDateTime: 2021-06-21T15:34:00Z
+    webUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses"
+    ampWebUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 49
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "EU data watchdogs call for facial recognition ban"
+    excerpt: "The group of regulators believe the EU’s proposed rules for AI do not go far enough in banning live facial recognition in public places."
+    publishedDateTime: 2021-06-21T15:09:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/facial-recognition-eu-ban"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/facial-rec-AdobeStock_277325495.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "+Pq30SBoJodubA3rtdog2gUPT/eUeFwF20GbBZRscb6Qse4NIz0JIKOU6WLqHx6m3R3Lf/aX4RLR5rhhwkyqsSDQBkXTf3r2b5+IYftmGd9peM/QIxsusHhfK1QxUV0amiPr4eS8o+KXPJn6FcAEJdZaVMzMMue9yAET2MJLjcL7j8Vr3SoauK3se8fmP4hjE7VgRvKlv40bedmJFsrG62oX2L5ZNVKdy3zLn1r8uBzdXTk6/jGGk4ZY20fPuNr1vArZ5nDZd6AaevXl7h+aCHCWzBIPGIcmk9/k3hX89KGR2uowZhqhvlTCu/V+AbFerH/+pAvTtDzgyUWj292B0uApTgYhZC6SOULdhVNk8Gk=;yWuf0yGML6tR5deY9+Ce5w=="
+secured: "yVdScE/AD8xSFdoATESJr+IkA+omVB4U3TNb+L2nBmZFhRiDx0fIymWpd4aE1pD6nyCQqy4OSp5q7c5siVNw7N4HO9ICQTUX+jhGnxGmQIUzukHoJlcMh2CBWOg+0yB4WGrJqLPMCP58KlGaGcCE4HghZpEM2ezBd2MX70UQ8uItgAeQUyH6ib8fAiRaJEJEniEkKFFxtsdPR1LSL3hA/UpRKPS/5yVxLjqe1LxQZTdiZeYGY/BDNVtl+OnO/wP9lSE7O7jf7jy//w2nh5qPFGLUu/6ru343xuMD1J6YZhfJ7wgl0M6UjiIFqcr7zxBQGC3MLuOCevwjLryohflFisoSj/MounrL2hT9AlHQckX5waxCHiABrULg1n0Vp3mbCcuJyLEzRQKSZhsUue2Q7nHV+1wWqHNpzPxL8JF4mw1WDXW0ME3+Kp8jEFGifYHU3HHOhFDYlMi05CCOmmh3rrQ7vsz8xA45WyaHm0Zi5ooxxVZJkgJyXILl27cp+8mImNrTpBrg46CO3KnShH1gmA==;OYOW9PE7r4iiu6jM4CRZDQ=="
 ---
 

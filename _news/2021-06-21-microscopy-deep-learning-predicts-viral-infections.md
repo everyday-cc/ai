@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Microscopy Deep Learning Predicts Viral Infections"
-excerpt: "When viruses infect a cell, changes in the cell nucleus occur, and these can be observed through fluorescence microscopy. Using fluoresence images"
-publishedDateTime: 2021-06-21T07:35:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/209580"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/209580"
+title: "Microscopy deep learning predicts viral infections"
+excerpt: "When viruses infect a cell, changes in the cell nucleus occur, and these can be observed through fluorescence microscopy. Using fluoresence images made in live cells, researchers at the University of Zurich have trained an artificial neural network to reliably recognize cells that are infected by adenoviruses or herpes viruses."
+publishedDateTime: 2021-06-21T14:37:00Z
+originalUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.html"
+webUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.html"
+ampWebUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5d8dd8f3-cdbf-434c-96dc-a27c6b3ff476-logo1202.jpg"
-    width: 1300
-    height: 469
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/microscopy-deep-learni.jpg"
+    width: 996
+    height: 996
     isCached: true
 
-secured: "atYnpFL/88rBqJ4uv+NDmY0rO2amCPd5ApAbc18AtSCH3R9YPXUThe4uh8tKkDFh2NRN039PwJ+WIi3gDGYSnEmNMhubQqHQrzrEEH7Tp9ZIsRU3DrQGuZhFUS8W8x4/RjVEQac4JPvlh+/xznj5sWuVOTAJss7a94V8H5knnHYaWY5Q2fmmuWNrqqnJ/Bckm0p76G48/fuIUu4G2Ulmc6vjcHoRXfpOOAs2/B7TtR2Lb1o94iVx0nxmfM6WKRm3oSSTFLNVUKIu/ZUZlOxcURXqRXiBozg7sllunyA6VOjLTmZsfFtUD6/F1S4Mc7mLsonkuckLTOLf1NZi00MSZsfr+OZOfEPo7wwa6WvX90o=;UvFxQUC6begCQdetWGOl7A=="
+secured: "CqGyWklneaNO4TezMhDpnuqX/ix/9aYp1l2JqUEaFs72QePux2NnGbApIPjS32/ToHW9h6/no1BMJGyRb3Bsy+1Cgo6MgtKWr6BoZ5KbGhVC8YBOtOgJVeRMgV4WqgsI/XnqncH65evVkYiEPwRkB1FoWbR51QKVfurtEmieJK7RaqwblJbPLA2zJZsazqcFhWcfLmIGjrYpX86mT6OhKhxoqSoolc00CsHZC9ilMSlt3cLjy00ZKx0jVY+ZDP9F6awoq1ALjqhY8MSOc0GQZhS5NP/rJTWxwZNesF6tGpguzQi7SYG4lJsjwQvkDgLOmGLw83Lx5pBXP8dIQlPgP2otASqgy3wgS9mizLgVWgQ=;485zg7523N7nJQZBOfLp8A=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The efforts to make text-based AI less racist and terrible"
-excerpt: "Other researchers are trying different approaches. Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon ..."
+excerpt: "Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon Mechanical Turk contractors to say awful things in conversations with language models to provoke them to generate hate speech,"
 publishedDateTime: 2021-06-19T12:05:00Z
-originalUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1&start=80"
-webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1&start=80"
+originalUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
+webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "0ZKnsX4hamMK2RjBhr0u6ykhCuloiRFItIRzkE7U/9z17fz5Jr+0M8HvXrtqlWOrJtwe05xpQVW2hgU6LgHNZ9wf1DhQPItjf5bBU1Fcqmi43TlcXx/0WfUJEH3SLMmzvuokFtdkV7BiGGfbuCKH2bjSr8VfzFdyjc14+HJmZOgvcqb1Q/gxOTDcFOwEm8kn9NaT1OkLgHmrzLNPbH6fjISE/gue3OU+f2VCmUFWyYG1+PZLipe4+YBlfW3ADfAcos1w3ovhCbWfj/Bes/zT9yMjd/ma8Zo9MxxFE4lBtG745Hv/jHpXNbzO5AlE07ohvoLW1slKfCbMYEWZWD6Mg8vF89irxesebYYiFzWN0Dv60JH7hDVIPxzz1y6pONfVeX2QcrVPCkZvdu1UO2ghy0UAKLAlVkQD9Yt/2/NQFoG6j5dtQcElt1u4j+3Nz+nKjkF1cZzBZLghzutzkjzEralVjoaBfzafZ5h84cIa+tzaJxrAgX0cy/u9NCA2gCXL67rro5zjVHFjjpRcwfKx1g==;9bACy60ndzxGflYpj17dlg=="
+secured: "OlsEjOHdz4IKfmBCwHWEM0PH13G3dYEo++0Y+vjup9tqzGdVwfo+Tuh/dvQxUXIpvwe1lhd5azzL+IZ4/ojmrZznXfUN84j/3vUkWSLIgZujBn8i/KGLWg5VRd7grdYY7fGrhQSxSLGje0NoG/mHbmKNmLMP4Hofy+a9VDrlhUi5007oXzTjzzZKpTk3rZd404g+OhJ9bZES5oGIRBJyAjAgdHVB09jP4ygKVHk9cudJOW7aUVCtuNn9bwxYy836Vozq+znFAwn8zwS0q3WKY/iwZI/vdvl+YoSNVWScdmbkTBY+mv7cOkiVushbVdcTKeBtJg4IMnxoPvlFc79jb49p3fZWSHCUSQV1VT1EcD4=;JoS482EVGcxzykd9401XQQ=="
 ---
 

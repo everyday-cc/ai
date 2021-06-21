@@ -31,7 +31,7 @@ related:
   - title: "NVIDIA and the battle for the future of AI chips"
     excerpt: "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field"
     publishedDateTime: 2021-06-17T09:10:00Z
-    webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips"
+    webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips?source=techstories.org"
     ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
     cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
     type: article

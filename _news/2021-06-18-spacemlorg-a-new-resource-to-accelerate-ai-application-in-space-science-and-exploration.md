@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Artificial Intelligence in action"
-    excerpt: "This trope of man being replaced by machine often comes up in discussions about artificial intelligence (AI) and its potential impact on our world and workforce. But the fear around how emerging technologies will challenge our existing culture and change our lives fails to acknowledge the many benefits that accompany the growth of innovations such as AI."
-    publishedDateTime: 2021-06-21T07:44:00Z
-    webUrl: "https://mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/"
-    ampWebUrl: "https://mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 59
-    images:
-      - url: "https://media.mg.co.za/wpmedia/2021/06/b848f918-ai-2.jpg"
-        width: 1728
-        height: 972
-        isCached: true
   - title: "Deloitte China and Laiye Announced Strategic Alliance to Accelerate Intelligent Automation Transformation"
     excerpt: "Deloitte China and Laiye announced a strategic alliance to jointly accelerate Intelligent Automation Transformation. The two companies have been partners to serve several Fortune 500 companies and other industry leading companies in the past two years spanning technologies that include Artificial Intelligence (AI),"
     publishedDateTime: 2021-06-17T14:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-br
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
+    excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
+    publishedDateTime: 2021-06-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
     excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
     publishedDateTime: 2021-06-18T17:40:00Z

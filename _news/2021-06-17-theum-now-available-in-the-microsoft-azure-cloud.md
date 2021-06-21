@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2307901/theum-now-available-in-the-micros
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft introduces Azure private multi-access edge compute system, services"
+    excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
+    publishedDateTime: 2021-06-21T15:18:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-azure-private-multi-access-edge-compute-system-services--1387445"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
     publishedDateTime: 2021-06-18T09:45:00Z

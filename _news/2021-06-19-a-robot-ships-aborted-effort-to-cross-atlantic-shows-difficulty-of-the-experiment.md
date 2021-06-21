@@ -7,7 +7,7 @@ originalUrl: "https://www.pressherald.com/2021/06/18/a-robot-ships-aborted-effor
 webUrl: "https://www.pressherald.com/2021/06/18/a-robot-ships-aborted-effort-to-cross-atlantic-shows-difficulty-of-the-experiment/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1000
     height: 578
     isCached: true
-
-related:
-  - title: "IBM’s A.I. Mayflower ship is crossing the Atlantic, and you can watch it live"
-    excerpt: "IBM's autonomous, A.I.-powered ship is currently on its way across the Atlantic Ocean -- and thanks to some amazing tech, you can watch the journey live"
-    publishedDateTime: 2021-06-16T21:40:00Z
-    webUrl: "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/"
-    ampWebUrl: "https://www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/ibm-ai-mayflower-autonomous-ship/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 71
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ibm-ai-mayflower-alone-3.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI-Powered Trimaran Mayflower Suffers Glitch Ahead of Unmanned Atlantic Crossing"
-    excerpt: "Two steps forward, one step back: even the most revolutionary, record-breaking endeavors can suffer setbacks. Research organization ProMare and partner IBM have just had their first, with the fully autonomous trimaran Mayflower."
-    publishedDateTime: 2021-06-19T07:30:00Z
-    webUrl: "https://www.autoevolution.com/news/ai-powered-trimaran-mayflower-suffers-glitch-ahead-of-unmanned-atlantic-crossing-163547.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 32
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/ai-powered-trimaran-mayflower-suffers-glitch-ahead-of-unmanned-atlantic-crossing-163547-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "eVbt5nR6nIF6/yY4VqTqe+zr1RlZ4Ib3FMEpHW0HiKmrJKdt8V5Bvwd9nKHDAS3K45jnd6caAX2T4XkjgunWWMXt7wn9DPnbYNeXkkhYFRHeQurJG98zPpSGPXvQWjbhPpiYNHJjMinv1pFD9pjTnCBrJXcLNOaolVImhDoZTzmUj1+pigRBA+eWXj2J8MdQU9s7Mgnm3de7Fj2rjQnUySq90EICgGS/nB875EYm2LOYy8ChHvTxqkQZEqJBxVtLBRfG6JykDybAAzNH2WQDBQwp5ApkfcY8/g8kOyPuUCBM0Kej/Ox70EN9IY7YT5/VUZbUBiOClWxwniP7A1qdxKNO9WkizUrv5pjvY6rjd/jLcUUbLXx+Sy+9+a02DD3HYWBTHeXrqHjHCQl1+6F5vRFQeSFM8H70wMVa4gk0sGVtCCpC4v3zGNnFpEBC9KaE1zjpEqSWnbujrtvi2Pbwg50PvJk4LFl81XtFCpDSDiUWY0MKC7BlqzmP+Yl76Ykd3OZW3aYN9WwT+Xf+ZmBdmw==;kZXL3GJQG8FdZSaHc9De8g=="
 ---

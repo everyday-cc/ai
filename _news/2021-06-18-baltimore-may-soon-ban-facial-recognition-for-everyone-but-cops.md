@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/baltimore-ban-facial-recognition-everyon
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -60,6 +60,36 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
+        isCached: true
+  - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
+    excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"
+    publishedDateTime: 2021-06-21T15:34:00Z
+    webUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses"
+    ampWebUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 49
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "EU data watchdogs call for facial recognition ban"
+    excerpt: "The group of regulators believe the EU’s proposed rules for AI do not go far enough in banning live facial recognition in public places."
+    publishedDateTime: 2021-06-21T15:09:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/facial-recognition-eu-ban"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/facial-rec-AdobeStock_277325495.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "ZIQsNw9rsPweVjgZVWBrf5HeBWBpAdgEAwt/n2JP+bF6xxAqvunXPsT7yIkbUN/4vdXImZ95yqTNHKk7DPlFleAKLnDUrlZr1MT6/WRAt2nbhu3RN6CayVLxMbw5hKtcBfKuQjCAY5c3hpKc3KD2ZatPGtBwDVGXo3/V+K1RlzQrS/BXRBfbo47wo4MFWt8R2QNoMiWiD9XrolwsTF/DDJAYSBDHj7UGaS+MxfNjLEzG5NGg2ZBFATBrEhEcWBE+Ch32ajq/HKzbYTKu6JV9pkVbiPhPARhh4x2EmrMPspRA29JAwZYNamXNDeBqf4qUv40AZ3Bjebwti2XDEYSOfD9SeBKvqS0seOw7m6cGTek+sRmGeQdZbYMjBVbc6J9PXSFqDgU41EPkcKHnN1yrfz6O5y4EoQPIwudiJsddI7AljCPJ2cakyjw83mfv5Y02Vq86cJPGb16Om4vUjogDupFjWFux1ekGMj9vTW58iBsO17I1GRRSBEGo0iUSiuzM/OgK70vadtHwE+A+D+k0Rw==;h/0AY5bh/sO0a3HvLvkwKA=="

@@ -47,6 +47,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "EU data protection agencies want ban on AI facial recognition"
+    excerpt: "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,"
+    publishedDateTime: 2021-06-21T15:37:00Z
+    webUrl: "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006"
+    ampWebUrl: "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 76
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/30564-untitled%25252520design%25252520%25252833%252529-20171013033238.jpg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "UK watchdog raises alarm over Live Face Recognition tech in public places"
     excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F"
     publishedDateTime: 2021-06-21T05:08:00Z
@@ -118,6 +134,20 @@ related:
       - url: "https://www.independent.ie/business/technology/7611c/40562232.ece/AUTOCROP/w1240h700/F2B92ADA-AC5B-42C7-B89F-D812E3677555.jpeg"
         width: 1240
         height: 700
+        isCached: true
+  - title: "UK Commissioner advises on risks of facial recognition use in public spaces"
+    excerpt: "Denham notes that data protection and people’s privacy must be at the heart of any decisions to deploy live facial recognition."
+    publishedDateTime: 2021-06-21T15:23:00Z
+    webUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
         isCached: true
   - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
     excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."

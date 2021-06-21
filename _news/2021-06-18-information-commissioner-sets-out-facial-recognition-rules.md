@@ -57,6 +57,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
+    excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"
+    publishedDateTime: 2021-06-21T15:34:00Z
+    webUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses"
+    ampWebUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 49
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "EU data watchdogs call for facial recognition ban"
+    excerpt: "The group of regulators believe the EU’s proposed rules for AI do not go far enough in banning live facial recognition in public places."
+    publishedDateTime: 2021-06-21T15:09:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/facial-recognition-eu-ban"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/facial-rec-AdobeStock_277325495.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "oJ+a6Gm+eGn1FLOGWpY9lIwHEwXvZfcl7XfBbsY3+ksS/Y9zt1S8MX+X5l+9YjIEMq0ZgT8TUoHHNw8lvuvb6FaiGg2bsxmcVZq8piZ7Qr84Lu3ZxIjdM4kuT6UTTJ4Axsf6TRJbq9DufEuxOqNA+Nws8cMeXJHXUFC74kUR3FyqstKL/+mmz1kdvHYbAMVHVW6TUhYN1UVVBN2fg7D1pWdRTL3fabw4rwRkBkJyLxdcYAqMHPvOe1zG7xPF7EiJdqZP+eeQDwiI62ZqQ3WaB351jMehqKmyV3YnUQq2KDyvvzwk8F1/tgrqtQ3LV1WlrwaznnWfktgm9bV1mVf3L/x8y+BKEgt4woZPZ2gJMGY=;uej7rtmIOmwBieR9SDq3jA=="
 ---

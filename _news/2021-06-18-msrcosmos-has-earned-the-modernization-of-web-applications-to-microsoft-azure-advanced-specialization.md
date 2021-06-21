@@ -91,6 +91,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft introduces Azure private multi-access edge compute system, services"
+    excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
+    publishedDateTime: 2021-06-21T15:18:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-azure-private-multi-access-edge-compute-system-services--1387445"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
     publishedDateTime: 2021-06-17T13:00:00Z

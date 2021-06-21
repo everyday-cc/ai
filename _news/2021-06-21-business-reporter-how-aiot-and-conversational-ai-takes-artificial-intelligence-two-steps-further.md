@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-21T10:13:00Z
 originalUrl: "https://www.wboc.com/story/44140772/business-reporter-how-aiot-and-conversational-ai-takes-artificial-intelligence-two-steps-further"
 webUrl: "https://www.wboc.com/story/44140772/business-reporter-how-aiot-and-conversational-ai-takes-artificial-intelligence-two-steps-further"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"

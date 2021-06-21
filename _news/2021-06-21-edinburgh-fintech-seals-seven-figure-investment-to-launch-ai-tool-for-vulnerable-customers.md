@@ -58,6 +58,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Edinburgh Fintech Aveni Acquires Investment to Support AI and Natural Language Processing Platform for Business Speech Analytics"
+    excerpt: "Edinburgh Fintech Aveni acquires investment to support AI and Natural Language Processing Platform for business speech analytics."
+    publishedDateTime: 2021-06-21T15:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176884-edinburgh-fintech-aveni-acquires-investment-to-support-ai-and-natural-language-processing-platform-for-business-speech-analytics/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176884-edinburgh-fintech-aveni-acquires-investment-to-support-ai-and-natural-language-processing-platform-for-business-speech-analytics/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176884-edinburgh-fintech-aveni-acquires-investment-to-support-ai-and-natural-language-processing-platform-for-business-speech-analytics/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Redstor adds AI, analytics to smart data management service"
     excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
     publishedDateTime: 2021-06-21T06:32:00Z

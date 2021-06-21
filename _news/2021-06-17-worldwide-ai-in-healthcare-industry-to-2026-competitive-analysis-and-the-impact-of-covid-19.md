@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing (NLP) Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact | IBM, NLP Technologies, NEC"
+    excerpt: "The static and dynamic elements of the companies have been combined in this Healthcare Natural Language Processing NLP market report This study report examines the competitive dynamics of markets in order to comprehend global competition This Healthcare Natural Language Processing"
+    publishedDateTime: 2021-06-21T14:42:00Z
+    webUrl: "https://www.openpr.com/news/2310052/healthcare-natural-language-processing-nlp-market-exhibits"
+    ampWebUrl: "https://www.openpr.com/amp/2310052/healthcare-natural-language-processing-nlp-market-exhibits"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310052/healthcare-natural-language-processing-nlp-market-exhibits"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/6/U621636644_g.jpg"
+        width: 800
+        height: 457
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
     publishedDateTime: 2021-06-18T08:20:00Z

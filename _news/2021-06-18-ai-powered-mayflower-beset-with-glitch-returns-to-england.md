@@ -2,15 +2,15 @@
 category: news
 title: "AI-powered Mayflower, beset with glitch, returns to England"
 excerpt: "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem."
-publishedDateTime: 2021-06-18T16:22:00Z
-originalUrl: "https://abcnews.go.com/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-webUrl: "https://abcnews.go.com/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360013"
+publishedDateTime: 2021-06-18T16:08:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ABC
@@ -37,7 +37,21 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI-Powered Trimaran Mayflower Suffers Glitch Ahead of Unmanned Atlantic Crossing"
+    excerpt: "Two steps forward, one step back: even the most revolutionary, record-breaking endeavors can suffer setbacks. Research organization ProMare and partner IBM have just had their first, with the fully autonomous trimaran Mayflower."
+    publishedDateTime: 2021-06-19T07:30:00Z
+    webUrl: "https://www.autoevolution.com/news/ai-powered-trimaran-mayflower-suffers-glitch-ahead-of-unmanned-atlantic-crossing-163547.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 32
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/ai-powered-trimaran-mayflower-suffers-glitch-ahead-of-unmanned-atlantic-crossing-163547-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
-secured: "ds1e5TzHCUTJAwhAgu4BCDZn8WVjwMeKsB5iaKaAk7vUYYoF/icxKXLVYt4TZyRGVzYlZ2EiFMxYaHS72ZdDM/XebkExv9+bEdkv6IFvivCVTeO/Qxbv6koCFewAlJnwVrrSnisGTCI58XCwGNTkDFxE5u/BmiKTK2zcc8pMgBdOFuwLOKOZBOnnbP1ZS9jh1c0hF1SiLDqx7bu/7KtkRXiz7CfYFBq9gF9AMEA6oFxHjy7pmYH9SW/NM8KBiZKCO7p+2m++cwRfjc0TJ+KpeSAgT8jbezCI+7r9sKh5akC9uN+Sr0eJaqg+8K1eiSNMO6xsCYRnVIW9TZYMBRX3ZV46+rbkJA0qndlDBCxW+tw=;5cL1bOpBvFbVO6L1nBPCWw=="
+secured: "069+xKImMiIUutlUtbNYF6ajIdIvjPOXcpzXgAXGvx8FIcQolwsK2nQ6v+GpdTQe/TmmR966vsywGBaBaR2K2V1qH33ZV3IfcQ5ZO10GL4GoEz6Co3mZmy6dcvFrgFBFFyfokoLgLHl5/+kPjyJ8UoxIYDMJBcQtZtoguOPGo89fAQeP5ZRYSp00t+7ZIDb17kd7V/9ldoqQG5PGLwUBSbwhKnyR5E7lrS4116Y4Uhv1yVKWQLu7emNQOTexoOhHs+87sDN3I3dtePcmyMjwzzSh9XakwBEeQ7DXxBi+gnjilC8MIXRh8qKVznpfY1km23IQpDltAohExual1eKGhtPrxM6dagEKKWzS2y+OGHo=;EsD5mrCB9nWDBFp9C8D3eQ=="
 ---
 

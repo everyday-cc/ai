@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Fintech IPO to Watch and a Very Complex SPAC Deal"
-    excerpt: "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY"
-    publishedDateTime: 2021-06-16T22:52:00Z
-    webUrl: "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
   - title: "Bitcoin Continues to Have an Impact on the Fintech Industry"
     excerpt: "Although its price failed to continue edging up at the same pace as it did during the first quarter of 2021, Bitcoin is still a trending topic in the fintech industry. For the time being, BTC is trading near $37,"
     publishedDateTime: 2021-06-17T15:16:00Z
@@ -52,6 +41,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "FinTech Wise Plans Direct Listing On London Stock Exchange"
+    excerpt: "FinTech payments startup Wise is planning one of the first direct listings on the London Stock Exchange (LSE) and is not raising any funds."
+    publishedDateTime: 2021-06-17T10:48:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-wise-plans-direct-listing-on-london-stock-exchange/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-wise-plans-direct-listing-on-london-stock-exchange/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-wise-plans-direct-listing-on-london-stock-exchange/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1432903301-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
     excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
     publishedDateTime: 2021-06-18T10:02:00Z
@@ -61,6 +66,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
+  - title: "Fintech South Keeps Georgia’s Rising Tech Hub on the ‘World Stage’"
+    excerpt: "The World Stage is back at the South’s largest financial technology conference starting June 22, building on an inaugural virtual summit last year that served to showcase Atlanta to a broader global audience."
+    publishedDateTime: 2021-06-18T03:32:00Z
+    webUrl: "https://www.globalatlanta.com/fintech-south-keeps-georgias-rising-tech-hub-on-the-world-stage/"
+    type: article
+    provider:
+      name: Global Atlanta
+      domain: globalatlanta.com
+    quality: 24
+    images:
+      - url: "https://www.globalatlanta.com/wp-content/uploads/Screen-Shot-2021-06-17-at-11.26.07-PM.png"
+        width: 1952
+        height: 842
+        isCached: true
   - title: "Convergence of Telco and FinTech Businesses Can Drive Financial Inclusion In A Tough Economy"
     excerpt: "New technologies available to telecommunications operators (telcos) and financial service providers (FinTechs) are combining to lead"
     publishedDateTime: 2021-06-18T09:03:00Z
@@ -75,6 +94,29 @@ related:
         width: 600
         height: 940
         isCached: true
+  - title: "Tata Consultancy Services and Broadridge Financial Solutions to Sponsor Fintech at Cornell Initiative"
+    excerpt: "The Cornell SC Johnson College of Business is pleased to announce that Tata Consultancy Services (TCS), and Broadridge Financial Solutions, Inc."
+    publishedDateTime: 2021-06-17T13:06:00Z
+    webUrl: "https://www.miragenews.com/tata-consultancy-services-and-broadridge-579902/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 9
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
+  - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
+    excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
+    publishedDateTime: 2021-06-18T20:05:00Z
+    webUrl: "https://www.econotimes.com/KT-to-invest-236-billion-won-in-fintech-Webcash-Group-1611096"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 4
 
 secured: "JSOHUP1KBr1FQ2T24WlG+LfsiJaBkgLnaufJZNGV0nil7WBW4MZB1+KXvXRDRSeYVSrRhz2VV9JjGk6Ihrn3lWtPp/g+Mynpq85cK5RDT9kn7igF2Xgda562j7tjpq6Hp8Sdk2nsttF/LNvE2GaHgbTBAhCLrQcTs0bIo6x92RV781aC0wxze50+ST0ejJSTKI7SZLo45S63V02XdnLd5Ad0+kCAMPjB+Lxe7nJ8qxs06uvmqhLFIKbrXA3FyI2cdK7KfegVye2i3RUITbthiuI0QavVNMTA8yVIhXgNL4whG9qTEMlPv0YUvqfuhCrzUs7NCp5LOuz5tX/ifzBbjmcw2xWakAmANlzmWUG6FCEHUJimB/Bn7oHUIO3lC4eFwCLDFacIu5H16HIf/YD9XmvL3zi1pqT1vw5LcDKrnuL8VSw1J4E7tyyNJJezUpFbhN6zn+9+nx0YCKp3KvVrU2ppJCPMfs9gkgV8nYVcUrQUTEfbzZtJrZXQm2a5O05RTuCgtdLvYY5DMqCR2ZCmqA==;u1rkXAgjrJqr0yc8eQYLwQ=="
 ---

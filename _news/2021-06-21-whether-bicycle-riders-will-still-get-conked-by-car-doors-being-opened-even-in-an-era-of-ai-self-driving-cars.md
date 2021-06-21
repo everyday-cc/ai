@@ -1,0 +1,76 @@
+---
+category: news
+title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
+excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
+publishedDateTime: 2021-06-21T15:30:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+type: article
+quality: 70
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief"
+    excerpt: "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how."
+    publishedDateTime: 2021-06-18T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
+    excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
+    publishedDateTime: 2021-06-18T17:40:00Z
+    webUrl: "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "The reawakening of the old idea of children doing AI programming"
+    excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
+    publishedDateTime: 2021-06-21T08:41:00Z
+    webUrl: "https://www.bera.ac.uk/blog/the-reawakening-of-the-old-idea-of-children-doing-ai-programming"
+    type: article
+    provider:
+      name: bera.ac.uk
+      domain: bera.ac.uk
+    quality: 19
+
+secured: "8xoDd8uONvOpHtqLS4jO9Np+6Ludd7wQKl2rbeyGk9RCFRkorHyQYfvlAFPrmaafFB9lV/Ulac2X9Cy8g+mFvNzFwEZ74vgcQRDRCCnnl4ZqIKS6lUol/A2ni3wGGKgMFehUFf1O2umDOYev3bFCB35ymNfEeSlBLq6MWufCkS7p9578yDH4POVhqkyVXVxUQnlXaGCmyKrpodgI9iQDKYwhpFdI99aR+oANwU+XmoxnwRByVabwtlXtSxaks+c0MCgZKoAAxdCaTbdvXyc9TtmtFk74pL5s/lD67EP7+4+JnIXtJv3E1ODRKPCA5ShgqSriJCXH6uTBkXMupqiTZ2c/VTdIcyzE4M8hCDeaXSw=;ZI/DL+gFU9hzIR24z/teNg=="
+---
+
