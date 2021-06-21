@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Mydecine Unveils Artificial Intelligence Drug Discovery Program"
-excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine's choosing."
-publishedDateTime: 2021-06-16T11:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16"
-webUrl: "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16"
+excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing."
+publishedDateTime: 2021-06-16T11:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Mydecine Innovations kicks off machine learning-based drug discovery program with the University of Alberta"
@@ -46,6 +36,6 @@ related:
         height: 740
         isCached: true
 
-secured: "uHHKCL+Dw7ga2gYz72gReMWVohqHOoMWpsnmAU5hlfjw1Z9zff/VNp9aVHLycxmthfBRH0k4ccsWDdXbuTTLvSjMFOtZxkd5iydf5muJG5A4gLS4pOw7A40SucycNkvouBG2k1LcJJwCRese1Hji9+0dTHmrF/NyuZiwqK3NgybzKLMizVlueUhUw6gznYo8kQik7cZkagsWBpQ70r7m+WH8QFFmln2C1hRx5RMPWDciy/GmgUn0ZZ5HQs1S2PaBcJRBL8s8nfB3TPBcc9qIT2Gz+YZ2UZiH2p6CRLh6LYYY0LfiJfHxR9uRWUO0LFuPeuzs5+vzGVVn19l17t3efYaKDjGg90FUJEd3B+AcbIs=;tZYi8+23t18cMILG5QwlGQ=="
+secured: "2yAzEDsOUQDJ5HJurIiCHLNZuVlkYjzopH0xIGP158cb/EH4TZebGNVcrYpjR2S4HDkr2k65Vg/bVaO/dcRJYiOC/dUaROG4pabFVV3Xm5L0LSTg4dYly5EAncKi0CURd62mbZ9bEUOUx8ZtYE0aUMiWcKX1TQKpTBnixPKTzuaKKX6q9vrfHMQg98Ys25CLt0mEK+1qNLQ4r6WTrH+YCgO0EqhJUu1bvpF9zJ9tpk38XFRyTQwGhyc7DcpP7WrnP5oJuK5PRDvI5Z4QMLTtZH2KcuUYytLHfjO5oMR1TJ3tS18FlgIDjXBzdF7Ojg4+EqgCtSCEIrjTAeh7cck/rGWTENokh9yZzkAYDBEcaDk=;9UFIkVAS3DxlHxaa3Due6w=="
 ---
 

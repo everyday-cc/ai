@@ -63,6 +63,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
+  - title: "Bitcoin Continues to Have an Impact on the Fintech Industry"
+    excerpt: "Although its price failed to continue edging up at the same pace as it did during the first quarter of 2021, Bitcoin is still a trending topic in the fintech industry. For the time being, BTC is trading near $37,"
+    publishedDateTime: 2021-06-17T15:16:00Z
+    webUrl: "https://techbullion.com/bitcoin-continues-to-have-an-impact-on-the-fintech-industry/"
+    ampWebUrl: "https://techbullion.com/bitcoin-continues-to-have-an-impact-on-the-fintech-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/bitcoin-continues-to-have-an-impact-on-the-fintech-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/06/Bitcoin-and-the-fintech-industry.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
     excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
     publishedDateTime: 2021-06-18T10:02:00Z

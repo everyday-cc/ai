@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/iits-offer-7-week-online-course-deep-learnin
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iits-offer-7-week-online-course-deep-learning-students-professionals/amp/"
 type: article
 quality: 55
-heat: 79
-published: true
+heat: 65
+published: false
 
 provider:
   name: Dataquest
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIIT Hyderabad Offers Online Course on Machine Learning for Engineering Students in India"
-    excerpt: "IIIT Hyderabad has invited applications for an online course called Foundations of Modern Machine Learning for engineering students across the country"
-    publishedDateTime: 2021-06-16T06:38:00Z
-    webUrl: "https://www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/"
-    ampWebUrl: "https://www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-online-course-machine-learning-engineering-students-india/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 50
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg"
-        width: 736
-        height: 400
-        isCached: true
   - title: "LSET is Organising a Career Counselling Webinar on Machine Learning"
     excerpt: "Empowering Future ML Professionals with a Webinar on ‘Career Opportunities in Machine Learning in the UK, US, and Europe’. A London-based educational institution, the London School of Emerging Technologies (LSET) has announced its upcoming webinar on the topic – ‘Career Opportunities in Machine Learning in the UK,"
     publishedDateTime: 2021-06-18T16:20:00Z

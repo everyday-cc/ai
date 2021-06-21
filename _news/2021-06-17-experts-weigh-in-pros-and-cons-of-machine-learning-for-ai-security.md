@@ -7,7 +7,7 @@ originalUrl: "https://securityintelligence.com/articles/ml-ai-security-pros-cons
 webUrl: "https://securityintelligence.com/articles/ml-ai-security-pros-cons/"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

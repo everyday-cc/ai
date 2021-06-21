@@ -189,15 +189,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facetech Holdings Limited Receives Further Funding for Its Facial Recognition Technology"
-    excerpt: "Facetech Holdings Limited has received funding to continue its research and development on its next-generation facial recognition technology. HONG KONG, June 16, 2021 /PRNewswire/ -- Chinese technology startup Facetech Holdings Limited has today said it has raised an undisclosed amount of further funding from venture capitalist firms and a startup conglomerate located in Hong Kong."
-    publishedDateTime: 2021-06-16T05:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9391262.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
   - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by Govt"
     excerpt: "Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop"
     publishedDateTime: 2021-06-16T18:40:00Z
