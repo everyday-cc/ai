@@ -167,9 +167,9 @@ related:
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
     publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
     type: article
     provider:
       name: ABC
@@ -212,15 +212,6 @@ related:
         width: 6500
         height: 4333
         isCached: true
-  - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
-    excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
-    publishedDateTime: 2021-06-16T14:14:00Z
-    webUrl: "https://techcrunch.com/2021/06/16/waymo-alphabets-self-driving-arm-raises-2-5b-in-second-external-investment-round/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 57
   - title: "Alphabet’s Waymo Raises More Than $2 Billion In A Year"
     excerpt: "Waymo successfully raises $2.5 billion at its fresh funding. Despite analysts predicted it is not a good time for the company to go for IPO."
     publishedDateTime: 2021-06-17T09:54:00Z

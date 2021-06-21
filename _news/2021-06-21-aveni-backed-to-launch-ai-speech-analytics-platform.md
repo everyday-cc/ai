@@ -9,7 +9,7 @@ ampWebUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-s
 cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -53,6 +53,17 @@ related:
     provider:
       name: Tech Zone 360
       domain: techzone360.com
+    quality: 39
+  - title: "Redstor adds AI, analytics to smart data management service"
+    excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
+    publishedDateTime: 2021-06-21T06:32:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDYaJpvbznQ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
     quality: 39
 
 secured: "BK2XPVKU5CevFAOmObCDQOOj0BBlpe/5/p8WSvG/oHf6VFFtkIUPLB6vLB+zcwAZFmnI4Py76Lrm5c/MeO2r6C9CHZB9qBr+zygg3eZmgJQxf4rV8z0Pa4SVTQvX6AG4cxJ3WYOuImJ10pzM4V2v5Mu9nMeYC3gCi3uryeQLQiBs2tpZcxh3Gr1GfHeIh+7vHmenId9OigInr3Mhsz/+iPknY/qK+FERPufxUoa6zXgz86+l/3mtQDRwce9Gfh807m9tlMn5eibbNBKpQKgIiCejt9fy0tbMazW0V/GWyAfwbImz7xZOE8+UrpmOyG/9Gfmgg3JtmZTaRPaeobQOfAzVPVmvz5KT/+IwdJosBtN+JyIrJIAbw7qc1GPGXYBg6o/VQwqCFKbXBOOWfYGNaQba3ZUKtLBrmQExp5syDPyPfFYKjSlzMoLc4dtnzOE409JeQ6XV7RVhXGbyVXX5VGkzYaJBcZAthLFqebELNtu+leKWQtgFo7CdvaklI56LEnf9vwuMxMqFtZ2O6V99cA==;Pnt+rY/meIU3CLqzY5/+gA=="

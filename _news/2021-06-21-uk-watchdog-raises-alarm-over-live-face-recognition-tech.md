@@ -1,22 +1,28 @@
 ---
 category: news
 title: "UK watchdog raises alarm over live face recognition tech"
-excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places."
-publishedDateTime: 2021-06-21T04:31:00Z
-originalUrl: "https://www.sify.com/news/uk-watchdog-raises-alarm-over-live-face-recognition-tech-news-education-vgve5Ecbfjjji.html"
-webUrl: "https://www.sify.com/news/uk-watchdog-raises-alarm-over-live-face-recognition-tech-news-education-vgve5Ecbfjjji.html"
+excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR)"
+publishedDateTime: 2021-06-21T06:40:00Z
+originalUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
+webUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a3f7d80f1c1820e031cd04606e65712a.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "ICO: Use of facial recognition tech in public spaces deeply concerning"
@@ -177,6 +183,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "fGm2esHUrn+X/k3ps5d3AOX+XJ4ZQBgC0otncnpRVl+nfEBm08GqrvAIOSYdIVe+n23ESmSdQOfHPMkufztonbBus0KwSQzvSYcjanMVvXyGbBYolOJIDzsi3A8kbeTuL6SJRack6twxAAh+fW3KLaSRNyesRq9vI+vzfNJ0TWSxTnUfwqA7lSdepNpdPGWhQgvgRoVm2xKZNb9pAFgLfSwX95lUQB7GlUZDMWFl3TCSs33PzOy2xT5ROqf0N+izLEiFBnUSumJRX9IUhVw8SetqUOdL0ExraHxXrBExBT7VOWzl8+kWanrw0TXwT1MUdOR471b02TG4TmHG4MGMj8lfnRkgU4Bhs1ilV5hodJA=;3r0HCAzNbrJ9kg+A4AVM5Q=="
+secured: "L6mMa5sY/3nriyaerDpVwug8irYT9yK12Nbqwn9A3rkCY5huS1RZD3Nh013ljKv1b9Srbm2kV6w474WFo6vdiMwE/1+1x46234EP0X0d9jC0N3cV/eE0zKk2a+I2O46eMFO8MTNdUgcj07OJs0dMcYh5AJH+r4DvJhKCZNtIzF7dbV+Rra8Uy5aJZXOQru16ToZNABNen4VIKjBAc/2bMWLD4reDFn8OtbVEG5zyCVH6YIUa2uKg37mo+3rih65deYDX83p+MKuy0fXP/kmecu3KCwS7UGngUw9eIfZ0M+z7dmXLkG1AB5vIEf9VpwAzk01ww/2TvJArOLSJP2J8a+JbDNhuP1+oAl6qklnC0X0=;YYVWEGtR1TFsqLb43Be6hQ=="
 ---
 

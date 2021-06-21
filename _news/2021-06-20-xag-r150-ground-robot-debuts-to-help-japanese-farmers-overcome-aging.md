@@ -9,8 +9,8 @@ ampWebUrl: "https://www.suasnews.com/2021/06/xag-r150-ground-robot-debuts-to-hel
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/06/xag-r150-ground-robot-debuts-to-help-japanese-farmers-overcome-aging/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: SUAS News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "XAG R150 ground robot debuts to help Japanese farmers overcome aging"
-    excerpt: "Seeing the potential of drones in reshaping agriculture, Japanese farmers now expect the first mass-produced, lightweight farm robot XAG R150 to reap a higher yield with quality fruits. As Japan's population is aging fast,"
-    publishedDateTime: 2021-06-16T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xag-r150-ground-robot-debuts-help-japanese-farmers-/2021/06/16/9391915.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1534621/XAG_R150_Unmanned_Ground_Vehicle_roadshow_spray_mandarin_orange.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "XAG R150 ground robot debuts to help Japanese farmers overcome aging"
     excerpt: "Seeing the potential of drones in reshaping agriculture, Japanese farmers now expect the first mass-produced, lightweight farm robot XAG R150 to reap a higher yield with quality fruits."
     publishedDateTime: 2021-06-17T12:30:00Z

@@ -74,6 +74,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "UK watchdog raises alarm over live face recognition tech"
+    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR)"
+    publishedDateTime: 2021-06-21T06:40:00Z
+    webUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 54
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a3f7d80f1c1820e031cd04606e65712a.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z
@@ -132,15 +146,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "UK watchdog raises alarm over live face recognition tech"
-    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places."
-    publishedDateTime: 2021-06-21T04:31:00Z
-    webUrl: "https://www.sify.com/news/uk-watchdog-raises-alarm-over-live-face-recognition-tech-news-education-vgve5Ecbfjjji.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
   - title: "Community Organizations Urge Congress to Halt Government Use of Face Recognition Technology"
     excerpt: "A coalition of nearly 70 civil rights and community-based organizations working at the state and local levels across the country, including affiliates of the American Civil Liberties Union, have come together to urge Congress to take immediate action to prohibit government acquisition and use of dangerous face recognition."
     publishedDateTime: 2021-06-17T00:00:00Z

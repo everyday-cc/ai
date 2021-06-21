@@ -3,10 +3,10 @@ category: news
 title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
 excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
 publishedDateTime: 2021-06-16T17:35:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+originalUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
 type: article
 quality: 59
 heat: -1
@@ -198,15 +198,6 @@ related:
         width: 6500
         height: 4333
         isCached: true
-  - title: "Waymo, Alphabet’s self-driving arm, raises $2.5B in second external investment round"
-    excerpt: "Waymo, Google’s former self-driving project that is now a business unit under Alphabet, said Wednesday it raised $2.5 billion in its second outside funding round. The company said in a blog post it will use the funds to continue growing Waymo Driver,"
-    publishedDateTime: 2021-06-16T14:14:00Z
-    webUrl: "https://techcrunch.com/2021/06/16/waymo-alphabets-self-driving-arm-raises-2-5b-in-second-external-investment-round/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 57
   - title: "Waymo Raises $2.5 Bn To Rev Self-driving Cars"
     excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road. The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
     publishedDateTime: 2021-06-16T16:53:00Z
@@ -298,6 +289,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "x1ZwRJ32lUSqTtUvwXdHc5CMeWpx0BWfpcnNqt9S4EEjbS9pHSBLiiZ84MBuQ1400sOL3qWDaCI5EUZrPTM+y1TTwaajDudQPNI4sldgW5qDPYkU6w3GnqJtLGWmr2W6j9zHF+vb84/ncJp3xhuTeG7vuzHtgP0oa6Z/L87XhcdXR1coN4YGEwF/gLhyDO6BLnmBWv4RzMIWDd/WJDF2fZ/0I1kNRKLdTgCJ33/WIHZHx9/lBueoh/mDkaCZghMPmU01YIg6EMhTph3mTxPqtJOUvX5h8Y9vqCYFDLCmP244Ozm8y9aq6vxiPlpnhNElrUeQVwUF2rFTJp9Ye3wUCFu5WXsHNOhq1nPiceq69oPj+x33l0sZvaWPARYnomhhB/rWSnZS9WOlItn+LIPSjB1IZZPTPCzEp7WgB26eyok2++GUoxsKBO1XEMFMKFfrJcu601h2KYaQHr24NNX0uSqQvWHUh7l0nUmjU23PxZnefenGfnPY6zknBQu8JA+LH4VuVG0EZtf/5cGuLax11A==;8xSX8sQje+Pog1i0S6FnfQ=="
+secured: "xb0uZgFdRk0C9nmCk1cZ+4/mgBGO9UVR6YGA3+cRPEcWLGNh6l4SBiAea1Zd80VFHDA5wTexxIGLnaQhemd343sEqKHmyNDQH1rVXWiFXmtRD2UyoFRAG77b5pVCqexkL94VLQz/MRHq1S94gJq+smg/z3D70aLIQsnxXBkDskFlsKa6ITgqzNQLdHnGqhavg+QBYytpAedO+RQshCfm1R/ZBjOQnoJBsyITosx/1/vUBm9HfMLihyoMZiGjZOMtzVsSWNDLgvlYRihbBsafMDNYJB09qDY6cp2bpxARndeYMOWvDuRBAGnPErwfgTxGCJyQcncdNfgDKKvcb0chsIhEiV3cT5tq37Vg96TcJO8=;2ubaOLMc9LcBm4SqLqKdjg=="
 ---
 

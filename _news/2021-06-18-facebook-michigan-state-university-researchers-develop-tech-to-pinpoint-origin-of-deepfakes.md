@@ -43,6 +43,38 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Facebook’s AI reverse-engineers models used to generate deepfakes"
+    excerpt: "Facebook and Michigan State University created a system capable of reverse-engineering models used to create deepfakes."
+    publishedDateTime: 2021-06-16T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/"
+    ampWebUrl: "https://venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook Scientists Develop AI Software That Can Tell Origin Of Deepfake Images"
+    excerpt: "Facebook scientists have developed an artificial intelligence (AI) software that will not only help with identifying the deepfake images but will also reveal their origin."
+    publishedDateTime: 2021-06-17T12:08:00Z
+    webUrl: "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images"
+    ampWebUrl: "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/news/f/facebooks-/facebooks-first-ever-smartwatch-might-drop-next-summer_ssa9.620.jpg"
+        width: 619
+        height: 412
+        isCached: true
   - title: "Facebook developes a method of detecting and attributing deepfakes"
     excerpt: "Deepfakes have been around for a while now, but recently they’ve become so realistic that it’s hard to tell a deepfake from a legitimate video. For those who might be unfamiliar, a"
     publishedDateTime: 2021-06-17T10:02:00Z
@@ -58,6 +90,54 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/deepfake.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook AI software is now able to dig up origins of deepfake images"
+    excerpt: "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from."
+    publishedDateTime: 2021-06-20T07:00:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950"
+        width: 650
+        height: 366
+        isCached: true
+  - title: "Facebook AI aims to identify deepfake images and trace their creators"
+    excerpt: "Facebook has developed an artificial intelligence that it claims can detect deepfake images and even reverse-engineer them to figure out how they were made and perhaps trace their creators"
+    publishedDateTime: 2021-06-16T16:06:00Z
+    webUrl: "https://www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/"
+    ampWebUrl: "https://www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/06/16142711/16-june_facebook-deepfakes.jpg?width=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Facebook says its AI can detect deepfakes and identify their origin"
+    excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create “deepfakes” by combining authentic images and videos. We’ve seen some troubling deepfakes already"
+    publishedDateTime: 2021-06-18T01:41:00Z
+    webUrl: "https://bgr.com/tech/facebook-ai-deepfake-detection-and-fingerprinting-origin-tech-5932809/"
+    ampWebUrl: "https://bgr.com/tech/facebook-ai-deepfake-detection-and-fingerprinting-origin-tech-5932809/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/facebook-ai-deepfake-detection-and-fingerprinting-origin-tech-5932809/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2020/09/john-krasinski-deepfake-captain-america-marvel.jpg?quality=70&strip=all"
+        width: 1600
+        height: 831
         isCached: true
   - title: "Facebook Baby Steps Toward Identifying Deep Fake Images & Their Source"
     excerpt: "Facebook and Michigan State University have revealed a new method for identifying deep fake images and tracing them back to their source. Or, at the very"
@@ -91,6 +171,76 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI to Identify Facebook Deepfake Images"
+    excerpt: "New AI software to identify Facebook deepfake images. The fingerprint sensor will help in tracing of origination and catch the creators."
+    publishedDateTime: 2021-06-18T07:18:00Z
+    webUrl: "https://www.techthirsty.com/ai-to-identify-facebook-deepfake-images/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 39
+    images:
+      - url: "https://www.techthirsty.com/wp-content/uploads/2021/06/facbook-deepfake-images.jpg"
+        width: 976
+        height: 549
+        isCached: true
+  - title: "Facebook’s latest AI can now reverse engineer deep fakes for source information"
+    excerpt: "Facebook has partnered with Michigan State Uni. to develop Artificial intelligence model that can detect and reverse engineer deep fakes."
+    publishedDateTime: 2021-06-17T16:46:00Z
+    webUrl: "https://techstory.in/facebooks-latest-ai-can-now-reverse-engineer-deep-fakes-for-source-information/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 35
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/MzM4ODEwNw.jpeg"
+        width: 1240
+        height: 746
+        isCached: true
+  - title: "Facebook reverse-engineers deepfakes to detect the AI models used to create them"
+    excerpt: "Facebook Inc.’s artificial intelligence research unit has teamed up with Michigan State University on what the company says is a new and extremely accurate tool that can not only detect deepfakes but also understand how they were were built."
+    publishedDateTime: 2021-06-16T16:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/16/facebook-reverse-engineering-deepfakes-detect-ai-models-used-create/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/facebok-deepfake-detectuon.png"
+        width: 884
+        height: 477
+        isCached: true
+  - title: "Facebook AI’s typography deepfake can scan real-life photos and emulate the text style"
+    excerpt: "TextBrushStyle is an AI research project that has the potential to translate street signs and text to different languages, as well as create personalised messages and captions."
+    publishedDateTime: 2021-06-17T11:13:00Z
+    webUrl: "https://www.itsnicethat.com/news/facebook-ai-textstylebrush-digital-170621"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 33
+    images:
+      - url: "https://admin.itsnicethat.com/images/N44zko7EVxuRvGC3Ea09l3MwV-E=/208138/width-1440/facebook-ai-text-brush-style-digital-itsnicethat-05.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Facebook says its AI can detect deepfakes and identify their origin. – EzAnime.net"
+    excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create deepfakes by combining authentic images and videos. We've already"
+    publishedDateTime: 2021-06-18T02:04:00Z
+    webUrl: "https://debatepost.com/celebrity/2021/06/18/facebook-says-its-ai-can-detect-deepfakes-and-identify-their-origin-ezanime-net/"
+    type: article
+    provider:
+      name: debatepost.com
+      domain: debatepost.com
+    quality: 33
+    images:
+      - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And..."
     excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using reverse engineering. Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear like the real thing."
     publishedDateTime: 2021-06-17T11:00:00Z
@@ -104,6 +254,20 @@ related:
       - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
         width: 342
         height: 240
+        isCached: true
+  - title: "Facebook’s Universal Music Translator"
+    excerpt: "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ..."
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
     excerpt: "Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear realistic. They've become harder to detect."

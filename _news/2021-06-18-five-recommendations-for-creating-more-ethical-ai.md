@@ -45,15 +45,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "2. Hopes about developments in ethical AI"
-    excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
-    publishedDateTime: 2021-06-16T14:05:00Z
-    webUrl: "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 34
   - title: "The future of AI ethics"
     excerpt: "An ACS Artificial Intelligence Ethics Committee whitepaper endeavours to explain to people within organisations what good governance and assurance of AI looks like, according to Data Synergies Principal Peter Leonard."
     publishedDateTime: 2021-06-21T03:53:00Z

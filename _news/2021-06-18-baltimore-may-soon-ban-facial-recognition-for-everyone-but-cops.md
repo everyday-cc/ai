@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/baltimore-ban-facial-recognition-everyon
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,21 +47,7 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Lawmakers Re-Introduce Bill That Would Ban Facial-Recognition Technology"
-    excerpt: "The bill, which only has Democratic support, would bar federal agencies from using the technology without approval from Congress."
-    publishedDateTime: 2021-06-16T13:38:00Z
-    webUrl: "https://www.wsj.com/articles/lawmakers-re-introduce-bill-that-would-ban-facial-recognition-technology-11623854310"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 53
-    images:
-      - url: "https://images.wsj.net/im-354723/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "ACXAG01nPV/b+zkUqoiM2T5Sn2Rh6FmJgrghCURKGXDdYgNRuwQ9G8PMQGHOcTU/pn/tqjYNEEXsO9eEhYHHV0GA9I3Z9kmgqZoEeVaKPAOpx6efubqes0RsR+EgyRZLuRcp0pc+Lv3L/TvapHlD1/BNtsJs/bvEFSgnBGbSjGTBwxsGqD/R6sIeJ4VgXi5SqYsuXefRMuP358qcMUOOEMelpCBOkGTVNrnqe5cJIIZ8Y7e9Wqb4PxLQBNql2MjGUkujFitAqsft0rifcraqk222CO6zNTRQLdmDIn3Rt/7VAT03N0v0LbtTKT4WIe7GjRTE5sWLi2KgBCPzAWljDS0K/E/6utswNn+0Zxk/pO8=;XnEH7Elh3jxYqy4ld+StoQ=="
+secured: "ZIQsNw9rsPweVjgZVWBrf5HeBWBpAdgEAwt/n2JP+bF6xxAqvunXPsT7yIkbUN/4vdXImZ95yqTNHKk7DPlFleAKLnDUrlZr1MT6/WRAt2nbhu3RN6CayVLxMbw5hKtcBfKuQjCAY5c3hpKc3KD2ZatPGtBwDVGXo3/V+K1RlzQrS/BXRBfbo47wo4MFWt8R2QNoMiWiD9XrolwsTF/DDJAYSBDHj7UGaS+MxfNjLEzG5NGg2ZBFATBrEhEcWBE+Ch32ajq/HKzbYTKu6JV9pkVbiPhPARhh4x2EmrMPspRA29JAwZYNamXNDeBqf4qUv40AZ3Bjebwti2XDEYSOfD9SeBKvqS0seOw7m6cGTek+sRmGeQdZbYMjBVbc6J9PXSFqDgU41EPkcKHnN1yrfz6O5y4EoQPIwudiJsddI7AljCPJ2cakyjw83mfv5Y02Vq86cJPGb16Om4vUjogDupFjWFux1ekGMj9vTW58iBsO17I1GRRSBEGo0iUSiuzM/OgK70vadtHwE+A+D+k0Rw==;h/0AY5bh/sO0a3HvLvkwKA=="
 ---
 

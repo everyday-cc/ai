@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 533
         isCached: true
+  - title: "UK watchdog raises alarm over live face recognition tech"
+    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR)"
+    publishedDateTime: 2021-06-21T06:40:00Z
+    webUrl: "https://www.glamsham.com/world/technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 54
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/a3f7d80f1c1820e031cd04606e65712a.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z
@@ -117,15 +131,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "UK watchdog raises alarm over live face recognition tech"
-    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places."
-    publishedDateTime: 2021-06-21T04:31:00Z
-    webUrl: "https://www.sify.com/news/uk-watchdog-raises-alarm-over-live-face-recognition-tech-news-education-vgve5Ecbfjjji.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
   - title: "Federal lawmakers reintroduce legislation to ban government use of facial recognition tech"
     excerpt: "Legislation that would prohibit federal law enforcement and other agencies from using facial recognition technology was introduced in Congress on Tuesday. The bicameral legislation, dubbed as the “Facial Recognition and Biometric Moratorium Act,"
     publishedDateTime: 2021-06-16T19:04:00Z
@@ -178,6 +183,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "gpxCz3A3kw76xaVW8iqtwacSCo+LL8gk6x9xzxgoVengrmgHBZ5sD7kVdIlGnzeFs/NThp7yspqRNif+mAXEFu8IojE0XgOFdhgka1afo4noMo9qcukrIfV0ml9qTc1jEWHuCSjnex+EGxfJ4VMuh4hoVFc+VWDTeJWxYAwy7kS8DqxekkXbFNX4p56DdlRLXdCjpd1XZY4eBdFdMBz9f1z1abVaNC+FQqIYUlScrA6UcN6wp4SzcmTUDd+qrE0Lvnh3US9mKxgt/+q1yg2xqSpzO3Ial+lu7LvV0y7RT2XF1ay79PXnR+I5PIUrlwbui/nhqcK+6CuIxfyxu8OBb4SKZNQm1LuLVADd0eFApUc=;OZC5MhSDvHSW05AZ9WqLvQ=="
+secured: "jDSbFBPapAfQ9g6a+/OYN/l3wwcSH3gKRCpOdKh/SebhNwWfZ9NxUCeFEzwGvJ0J30oxut5/9l46FXKoDmZR9kv24A8Cp5D3DlvkhqSpeEocTu5VFTvOk+smAXeHQJscyaquC2qVW+qj/sdB+d+nfzUMxBUmvtFfflYUpWl0CzP6INkW5CmNkjF/ffum/qcu5SXx6X8A4tmBIoduhCF3BycjzNi4uljiV5kbaLunsFuyxR42yK2AgZk9cR9fSkoSE2OH2j51ZdltvL0y/wk60aBVBfZ7RVt0dkmlqqGC7Erv1l9QJsnTgpMXts8jxcPKhuxqNacVvB9nhuFHL2UbhOHZ5i5XVxNexLrXFLEINZUtRza1ULw1DpN1be5cK4vj1CcrjGodekSw97DHehVM+dLztBM42LLePcO9t1xdshFybfZz6ZJt75a6jnEOu1alwXNV7qR7aAnx8gGmZtlS6NJ6rS4J9scU69BGxnz/RvpkSmRIo/UCDEodgHhHtwkuRUbE3W/VvhJ3LGgFNxPCNw==;pKKYyc+Ktv5uiqwoZmoOjg=="
 ---
 

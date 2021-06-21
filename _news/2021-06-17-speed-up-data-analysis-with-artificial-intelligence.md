@@ -53,6 +53,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Redstor adds AI, analytics to smart data management service"
+    excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
+    publishedDateTime: 2021-06-21T06:32:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDYaJpvbznQ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
 
 secured: "NSis+bHYetAKNFYBS0ymnjR2h9j4z9+I7DEO3J6YddS2q5TBIVvZRphn254VL+lj8MMHqq8WjX0EVJ1cwP76bZ0t4mJjqhjDq6QnL/pRAKIMFivk2KRq3Y2b61IwVGEmsg02JziEq55oNkcpZ0a4BMZ1d6d1+FxGdoSncIrJKT5EV64U0LOdYoegBp0V8ngYUFCmQHwlT+Qdjt2U4JIVALtx79l9MswH1PL3h9Sq82tpzX9slCUJP6gbBU3KdXCa3WwS9cAjjXduC4lzPCRcCsBv9egIsdoBr1If4itLQpwPM0NAzti17lE7FnImgIgB7RGfi6ncdAQKdiUnHNHgAQw0vX7K5m0pi5MYMkYWo26XsulWLFU9+ESBjV4fC6BZSzhW98U0ViaH0Z1dGbzvFoOb2E7PxvBqk/OuvWNnTwjWHM0et3FdBRCrgFFjMlRCzhvW8TQ56r/JYTwXyeyZJP6eZ5ocpX28gHU6CULg71mIETIcNKQV8Bwwf2qZ9gs0hHJOF9kRlcsxZtZkE5hVew==;t+4VdjiLsGsPkgWwLX/v1g=="
 ---

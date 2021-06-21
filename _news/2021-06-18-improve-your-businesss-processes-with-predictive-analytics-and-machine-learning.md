@@ -54,6 +54,17 @@ related:
       name: Tech Zone 360
       domain: techzone360.com
     quality: 39
+  - title: "Redstor adds AI, analytics to smart data management service"
+    excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
+    publishedDateTime: 2021-06-21T06:32:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDYaJpvbznQ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
 
 secured: "qjsykVjAwywcXGFiibHxkMuNUGhkkxw4STSnUJFFP/eSiDthGo82nmzk/VCDnrcfVRKzSDW2PTzv+q1ESkct5ju39fuYso75B6e0Bu76iTigdyAtF9i4HU/ua3lUBALb+iDiWpEBzP9rH/QzDPMq2mbjvgilrgqjpPqBfGBVvDuPIFhW7BO4Xg2ifMhO57d+mXZk7MkP/13RtUkhejk9qofG2Un+0nPux+F7gZY7hmiOl53mISdP0VNQ5UBYwT3CDN2o/B+TNcjwFXP7P/J3ekz/jDFWXQE71sEDXSrO0R8RP16tYBuDR6wLQ6yz+UWtvxHBcnQ9zCpM5gTrPuNmXD9+TXlaiicnqPKAHN30Lkg=;9OfQ0Prt+EQK+WGymE9Blw=="
 ---

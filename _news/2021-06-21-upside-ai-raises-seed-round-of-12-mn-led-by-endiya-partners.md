@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/endiya-partners-invests-1-2-million-seed-rou
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/endiya-partners-invests-1-2-million-seed-round-upside-ai-tech-based-investment-manager/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,40 @@ images:
     width: 850
     height: 400
     isCached: true
+
+related:
+  - title: "Upside AI raises $1.2 million in seed funding from Endiya Partners"
+    excerpt: "Upside AI, a SEBI-registered investment manager, will use the funds raised to scale up its distribution, product, and tech teams that will focus on growing AUMs from HNIs, family offices, and institutional investors."
+    publishedDateTime: 2021-06-21T06:46:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/upside-ai-raises-1-2-million-in-seed-funding-from-endiya-partners/articleshow/83709139.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/upside-ai-raises-1-2-million-in-seed-funding-from-endiya-partners/amp_articleshow/83709139.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/upside-ai-raises-1-2-million-in-seed-funding-from-endiya-partners/amp_articleshow/83709139.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1301459,msid-83709130/upsideai.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "AI Fraud Protection Firm Servicing Digital Goods nSure.ai Raises $6.8 Million Seed Round"
+    excerpt: "Israel-based nSure.ai has raised a $6.8 million Seed round led by DisruptiveAI, Phoenix Insurance, Kamet (an AXA backed VC), Moneta Seeds and other individual investors. nSure.ai is a 'predictive AI fraud protection company' that services digital goods such as gift cards,"
+    publishedDateTime: 2021-06-20T21:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176867-ai-fraud-protection-firm-servicing-digital-goods-nsure-ai-raises-6-8-million-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176867-ai-fraud-protection-firm-servicing-digital-goods-nsure-ai-raises-6-8-million-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176867-ai-fraud-protection-firm-servicing-digital-goods-nsure-ai-raises-6-8-million-seed-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Alex-Zeltcer-CEO-Co-founder-Left-Ziv-Isaiah-CTO-Co-founder-Right-1-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "qwx7ciuHm9ZbNoNzcpvpvXLNoSFx8WToHLfrEYIvQtoOJBdKisTjh6I56TsBVx4dq3QwqFDX3Xvvma43X5fF7CnwK8KemM7+I8OWLKnx8OjchdOG5buiI/8qWdfU4kBNEdjw4jlCic7pnbSFIRMoutWTyxN+QgpJSgXQqpgTeCDfhv9TbYwIpmweHMjT6XEeUBvgFdSq2AjbWqr54I5CluzZhBCqmFkrrc2yY+mu3CaxOsAeWjWqa48qLtud9SIL6xvp1xJBeVCTmSmZZUtalrIcQTHO9IP+NC/viM0KGKW8f7lO4eMaMiBIaeTNc/AcOWN3EMU1tDAqFSa1Rq9h5v5eZgER27xQSHAxPJG8TC4=;CXFSLZvrj3FqITpFngTnYA=="
 ---

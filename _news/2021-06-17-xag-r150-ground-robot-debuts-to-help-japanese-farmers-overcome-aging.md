@@ -41,20 +41,6 @@ related:
         width: 1487
         height: 992
         isCached: true
-  - title: "XAG R150 ground robot debuts to help Japanese farmers overcome aging"
-    excerpt: "Seeing the potential of drones in reshaping agriculture, Japanese farmers now expect the first mass-produced, lightweight farm robot XAG R150 to reap a higher yield with quality fruits. As Japan's population is aging fast,"
-    publishedDateTime: 2021-06-16T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xag-r150-ground-robot-debuts-help-japanese-farmers-/2021/06/16/9391915.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1534621/XAG_R150_Unmanned_Ground_Vehicle_roadshow_spray_mandarin_orange.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "Q3U8Ri3AYXg5dtfjLBvNnKp4UUL3M7o+HPl38o/JI7uCRID4UymRTpPXy3HM0Nzk5E2nOv/KODTXjB6bm70XERo+fvKYwi8ziBoCY67yko1w2T64/leOOHq06QnC9WYuh2cHDswJl/Iy96iwFj7cQg4I0Gjy3ZHHvYmMPPIrnzeWcwdr+3RECDOPSj7aIzM6Szo1q9BEkOD+hHemH8nmYp4tHDYz7wsY6XrA/So95YekNwX0Kr6MfASlx/xrvPPf8H51qGj0hJwJWBhErIXu4NERaEkBCPRVg/DEBrYPWEYd8dGv61nbhOUxjydbc6lkgWFSUmLMJU253NvWuoQWrE9AbGQhnEGRg9C8S67pmEc=;gkxbF1rP2QLH8O9kh7WZKQ=="
 ---

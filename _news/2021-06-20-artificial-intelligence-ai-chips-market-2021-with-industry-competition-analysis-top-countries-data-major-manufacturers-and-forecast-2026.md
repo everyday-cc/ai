@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
     excerpt: "Pages Report] Check for Discount on Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Deep Learning in Drug Discovery and Diagnostics market"
     publishedDateTime: 2021-06-21T05:48:00Z
     webUrl: "https://www.reportsnreports.com/reports/4583083-global-deep-learning-in-drug-discovery-and-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The In-Flight Voice Recognition market report provides a"
+    publishedDateTime: 2021-06-21T05:49:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4583266-global-in-flight-voice-recognition-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
       name: ReportsnReports

@@ -66,7 +66,7 @@ related:
   - title: "There are 100 UK tech unicorns, a third are fintech"
     excerpt: "Of the private companies that have achieved a valuation at $1bn or more, more than one in three are fintech firms."
     publishedDateTime: 2021-06-21T04:42:00Z
-    webUrl: "https://www.altfi.com/article/8024_there-are-100-uk-tech-unicorns-a-third-are-fintech?ref=fintastico.com"
+    webUrl: "https://www.altfi.com/article/8024_there-are-100-uk-tech-unicorns-a-third-are-fintech"
     type: article
     provider:
       name: altfi.com

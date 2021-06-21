@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2. Hopes about developments in ethical AI"
-    excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
-    publishedDateTime: 2021-06-16T14:05:00Z
-    webUrl: "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 34
 
 secured: "sYEevXcPKVV/BRtrLNS/UoqgYFXRjiy1Gfuo8WXAdLJe1WQEr2a2I1mpWy1GDhT0e0T4DA1stxuv1ONcn7z3VRwo6YH4xi8TIMVXtxcJcjZxJ5sDzo9D+WB55KtcusrkOGL9xNmvGSdwOC9YLUNf6OLFnN5jXeCDMPxQcmrZjR0CaMGz+XEpMNKE3t8HxGDAR3VuixD7+VpdmptTKLt5c5KL3Z3gTRnLFjqyClLEPFqxaGz50+5a68zA65Yz07yXFYPEbr5dKI5BbDA1T18TCL4Ud8bef2dEwxU3GHOLZzsuY+pWkrJsVltnvFgEBpBBCxFZn3ahMzD9l7RLnDXkd6TiCXAcq4JxAL/qnl1rO52qoWJAFpawJ2+0UUntfOyvASmBIPwdMq5MJFVAIrE+jX09Fab9eD95c4Vhk9VOA+oO4tg9dh3SlhHLcNEaKR+GpI/SSwXBY/9OzEO2B06Kad9rfy2W00Z4T1e+Zi1Hbqf0a3nY3KnxIbEuDqpjGilaVdUzy1jnKG2nDlNm2Zzl6w==;79JPqwMjLoldZPS8nNE7DQ=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Lawmakers Re-Introduce Bill That Would Ban Facial-Recognition Technology"
-    excerpt: "The bill, which only has Democratic support, would bar federal agencies from using the technology without approval from Congress."
-    publishedDateTime: 2021-06-16T13:38:00Z
-    webUrl: "https://www.wsj.com/articles/lawmakers-re-introduce-bill-that-would-ban-facial-recognition-technology-11623854310"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 53
-    images:
-      - url: "https://images.wsj.net/im-354723/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "oJ+a6Gm+eGn1FLOGWpY9lIwHEwXvZfcl7XfBbsY3+ksS/Y9zt1S8MX+X5l+9YjIEMq0ZgT8TUoHHNw8lvuvb6FaiGg2bsxmcVZq8piZ7Qr84Lu3ZxIjdM4kuT6UTTJ4Axsf6TRJbq9DufEuxOqNA+Nws8cMeXJHXUFC74kUR3FyqstKL/+mmz1kdvHYbAMVHVW6TUhYN1UVVBN2fg7D1pWdRTL3fabw4rwRkBkJyLxdcYAqMHPvOe1zG7xPF7EiJdqZP+eeQDwiI62ZqQ3WaB351jMehqKmyV3YnUQq2KDyvvzwk8F1/tgrqtQ3LV1WlrwaznnWfktgm9bV1mVf3L/x8y+BKEgt4woZPZ2gJMGY=;uej7rtmIOmwBieR9SDq3jA=="
 ---
