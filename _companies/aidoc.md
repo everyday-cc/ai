@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aidocmed"
   url: "https://twitter.com/aidocmed"
-  followers: 2073
+  followers: 2074
 
 size: 11-50 employees
 yearFounded: 2008
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=r3g_VCI2B4U"
 
-secured: "LFAF2rnM85kjyp1LGa5G+j9qLQhHoDifoyj/iqe3ROHPEGxME3vAh0uBToEh2/W8BS+zAQ9fld4qUuLCPJI28yvGJcIYiEOrMLCgwrisB0rh6ECQ+PRAW/4tCEQL9rGEfyX5ipBmgWSSC4SIIsC3OaoyAlYjMxhhq9zCAY4GMA/Uql29BfSSSvAkoLENnmF0Qf+bhstOweO5glbtTnoiLEINKSC1Pp5VwWBZ71bREqDpyWkevOOLOYCVMAiR0nLx+axDyULECbfQjIu0GppQcyrZiRSjIrRG6Uv2bN/jrQJdJ4XOH8kSYAHcfviTT8xHFKIv4zioF5bPI6qIT3H2cqR1wD1YtqgYeSRNVET5fNrHOn3vMZ8bMFOywVI4EPK3jq3MKsRRgbeVwfqB1XhnbAHKk0YecewzyE50co38/g8=;sUyXOoOyd2IZ/SKFQca69w=="
+secured: "2hziGnPYzSAsFBkRSnJnPZVI0pf5ipciWw+crvJjZa5GBsGUiQN/vC6ea7o7uMSm7kifyKpZuoCiNeN89I0DDsfLclHje+8bzc5MrimZsulP9UhL7c4RJG2Q1e8pKiEPvhE4bd3UDVW3+Q0dQQGvkQVEyPMyljIbbIhhM2AR3PshyBaId3uei8GaYD9JHLpxerV3bdyCi2B9ZkM3NxSNlCGe4aXB5Db8mkDCqc2ogAzZh3f2Ad1My8Gk6ekER/JZUbtzyUM2GhPkgqW0ztPvohZ88hb9Q7lrMlpBi1wJw36sJ/MPgPAG/QQZTZIYnVCQgEKvbu9CHKlRrNCxgg/HJQCkhW9MLxXGvqozedcMwP5W27WURblY2OzKkQnYG08ukmK3SXvQGCbOyIt3ZLM/eJIsaWbkHHvO5eZyUCi45Kw=;tMsQuZqNpYPQgAZ4MKGirg=="
 ---
 

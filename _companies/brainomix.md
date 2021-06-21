@@ -2,7 +2,7 @@
 name: "Brainomix"
 overview: "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases."
 type: "profile"
-heat: 42
+heat: 50
 
 website: http://www.brainomix.com
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=S2eI-YOtTZg"
 
-secured: "wTto+OL9oVtawZgEWBKtEsrO+4PoIAKHm8R6Wsy7cOOFswInXNoo0Eq4onhODpYrOI0/99pQmJKYBC3DVS0eH6vPIh6zNH2T9UOGTmPsKbv1lwjMJ8f8ihTo+xf14tZWGKOlO88dl+tAEayxzGYmvXzDqZc16DFz1E7T7t/zM4+JQ7cz7AZD1wWfncCm/WkUXFZKa8y0js5pOzb3FBzmTtBTnZlqJeIBSnlStMlJLUr+w0puRrBrr5EadZnwK5d1/KYvwqYmXhWRrHBqD1ijuWGUhw7JmywNOHjhC4eAJvL2rdr886rHYC2wVdEF4IowgXDeNkBN485XjFi/LL+dkCCWaBRHEFIfZrIAZklGmoSBhkTsjOgH3QPcmn9Rzb+duA0UYXIw1K9glmfYswoAig==;1WijiPfjz2yjM6VcTN3MCw=="
+secured: "Dod2SfM615YdTcMo0Ce33WSZ4Y2d4JCYop07xb/f5vp35ZUjYpRDP8coKGbFpi0Li97y4K5Z47jyv+YoPyPJSmDJyYCHwtgJUj+y2ld3+MYDSm/+dxNetjg0G988lpYvA00SiOc98Q+n3ivFrS+vmRkP8BTFjupcuFzHyRuM6LrVnDBBHg6CrwLU6Wt9yGG/3PFeW7IhsU8ibCgakaysamm/PQaRng0rUGxF+2jvckmVtJdyeh2DGObvZucb9YY2SEz92Lc2wYRkDGmhZX9Iu2G9FkrpRwR1iWgGY7vWGPY+tsJBGG7yJy393p7n6+9P88KUnOAKO5BD99VVedollp5dQVGxzV17sw62h2XUDklW5k5eiLRk6ny2ODNDnC+dkB4BRxe0khaejFqIJ73rqA==;CPmMcQbcu+Umge2fHo9Vwg=="
 ---
 
