@@ -2,6 +2,195 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-16-trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out.md",
+      "title": "Trigo bags $10M for its computer-vision based checkout tech to rival Amazon’s ‘Just Walk Out’",
+      "excerpt": "While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a customer.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
+      "originalUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Caption_-REWEs-cashierless-checkout-store-in-downtown-Cologne-Germany.-Credit_-REWE.jpeg?w=1024",
+          "width": 1024,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
+      "publishedDateTime": "2021-06-16T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
+      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
+      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T00:25:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud.md",
+      "title": "Unlocking the enterprise opportunity with 5G, edge compute, and cloud",
+      "excerpt": "The power of 5G, IoT, and real-time AI will unlock new and innovative services for enterprises across the world to accelerate their transformation toward Industry 4.0 as they evolve and adopt diverse new business models. Today, we’re introducing Azure private multi-access edge compute (MEC), new services",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
+      "originalUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa65174f-da4b-455a-9df3-f85a7f2fee42.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T00:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
+      "title": "NVIDIA and the battle for the future of AI chips",
+      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/nvidia-ai-chips/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp",
+      "publishedDateTime": "2021-06-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-europe-ai-in-computer-vision-market.md",
       "title": "Europe AI in Computer Vision Market",
       "excerpt": "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from",
@@ -1013,178 +1202,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-nlp-parses-text-data-to-drive-value-in-the-enterprise.md",
-      "title": "NLP parses text data to drive value in the enterprise",
-      "excerpt": "Natural language processing (NLP), a subfield of AI involved with natural language understanding, can drive business value in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-06-15T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
-      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
-      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "publishedDateTime": "2021-06-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte.md",
-      "title": "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte",
-      "excerpt": "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies.md",
-      "title": "Appens Annual State of AI Report Finds a Shift to Internal Efficiencies",
-      "excerpt": "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year’s report reveals a significant year-over-year increase in AI budgets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/",
-      "originalUrl": "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -70,20 +70,6 @@ related:
         width: 960
         height: 539
         isCached: true
-  - title: "AI-powered customer relationship startup Introhive raises $100M round"
-    excerpt: "Artificial intelligence-powered customer relationship management startup Introhive Services Inc. announced today it has raised $100 million in new funding to do strategic acquisitions and expand its global footprint."
-    publishedDateTime: 2021-06-17T03:11:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/introhive.png"
-        width: 1500
-        height: 889
-        isCached: true
 
 secured: "fXp/3wrBS8yQZvZ4SWLh8bLWKn2jzCek4n23S4CQaKXDX7by+l+Nmiv7wF0PMm/+2yC3/imWay7FdgJQdjNifXg0rb8HR9BUx3XEtpNNBtm8WX8Istv4bWwu7R8wHJmu6jxjlIAPRSP9Fz9+74fH80hEpqqd3ZiiivBnUDYlCbRRFmTPCrRYIGp0dWWxZ0NbghaMFks4eS9dbzSKoKuTM/0qN5rpZ3ZXsRP3I/evE0v3G0Zh9HkCMOl+NrDpo4LW5733GrBaS4Cc7weE639RpabVtcH71v/vQJQKMo3vEZj4iSLSVyuQF+XCxttpIm5/ZOQLKZlW8fw9JEwXztkhEoUFge5PiTpq/R5pDrJeQXM=;P1tm63OS9o4copLQRuJiUQ=="
 ---

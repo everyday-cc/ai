@@ -85,6 +85,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+    publishedDateTime: 2021-06-18T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "qcy8YJlQm4hgNKW9GM03S+NpQLYVjJrl1OgaikmgrIK7Q52+SKIouKIllS20igjZ3/XogiYdSpYUJeuNMTljnYjuDGa3/zqQ9hHVHAExaeO3YBgE8j5SPDSyVcUvFBccAOGpXsMQf1S4hitWMAq8vPK5krqi2gxQtoVPo1nUT7Xcez1pRFjOjLx8I+3XhpE5POtzsipa9GkjBuwoIDm9ZAChcJ4nZOnMhw2sdizZFe/Y3erKsjkEECV/cubQaBCADgfAoDjkcIcvdI35HrPdLeU3nZhspQXkkWIH9KnabimUuBI2POlT7BMXAMRJZN73hFTpzKDCfJl2hWoRNDFbuKfEMXTiCpkoMUuKoAW/wRAia5WsHDmr7te0wNrTc1uJ23ja7VmHISEnav9C6i+nZ7eBJ6diOlHCFobjA6DJvDq8bCSiW3m3kBCe7dXdjOp9faHfCuKtKrhVPf5LEghu8KCaF6TAF5LokPZUmkIviZJKQocPLutYfkl9ZAeO9E6fZr9uXWvyQQFiDMsAQixerQ==;24GKkoMeQ4BsHcQsn693AQ=="
 ---

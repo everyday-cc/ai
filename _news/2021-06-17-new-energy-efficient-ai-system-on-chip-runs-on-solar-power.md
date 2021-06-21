@@ -43,20 +43,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "AI system-on-chip runs on solar power"
-    excerpt: "CSEM engineers have developed an integrated circuit that can carry out complicated artificial-intelligence operations like face, voice and gesture recognition and cardiac monitoring. Powered by either a tiny battery or a solar panel,"
-    publishedDateTime: 2021-06-17T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/scfe-asr061521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/267932_web.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Two-tier AI system-on-a-chip can run on tiny solar cell"
     excerpt: "Engineers from the Swiss Centre for Electronics and Microtechnology (CSEM) have developed a system-on-a-chip which executes AI operations locally and can run on either a tiny battery or a solar cell."
     publishedDateTime: 2021-06-17T13:00:00Z

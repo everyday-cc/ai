@@ -9,7 +9,7 @@ ampWebUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-s
 cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+    publishedDateTime: 2021-06-18T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "BK2XPVKU5CevFAOmObCDQOOj0BBlpe/5/p8WSvG/oHf6VFFtkIUPLB6vLB+zcwAZFmnI4Py76Lrm5c/MeO2r6C9CHZB9qBr+zygg3eZmgJQxf4rV8z0Pa4SVTQvX6AG4cxJ3WYOuImJ10pzM4V2v5Mu9nMeYC3gCi3uryeQLQiBs2tpZcxh3Gr1GfHeIh+7vHmenId9OigInr3Mhsz/+iPknY/qK+FERPufxUoa6zXgz86+l/3mtQDRwce9Gfh807m9tlMn5eibbNBKpQKgIiCejt9fy0tbMazW0V/GWyAfwbImz7xZOE8+UrpmOyG/9Gfmgg3JtmZTaRPaeobQOfAzVPVmvz5KT/+IwdJosBtN+JyIrJIAbw7qc1GPGXYBg6o/VQwqCFKbXBOOWfYGNaQba3ZUKtLBrmQExp5syDPyPfFYKjSlzMoLc4dtnzOE409JeQ6XV7RVhXGbyVXX5VGkzYaJBcZAthLFqebELNtu+leKWQtgFo7CdvaklI56LEnf9vwuMxMqFtZ2O6V99cA==;Pnt+rY/meIU3CLqzY5/+gA=="
 ---

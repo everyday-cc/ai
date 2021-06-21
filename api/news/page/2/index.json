@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-20-ai-centers-of-excellence-accelerate-ai-industry-adoption.md",
+      "title": "AI Centers Of Excellence Accelerate AI Industry Adoption",
+      "excerpt": "The AI and Digital age has accelerated the rate of innovation so quickly that some organizations simply can’t keep up. In fact, Senior Leaders and Chief Executives around the world are “extremely concerned”,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ce716d1b2aa835a2ef3cdc%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
+      "publishedDateTime": "2021-06-19T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-bidens-ai-initiative-will-it-work.md",
+      "title": "Biden’s AI Initiative: Will It Work?",
+      "excerpt": "It has a good chance of working. The program has a decent budget and there is a focus on unleashing government data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1145585734%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "publishedDateTime": "2021-06-18T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies.md",
       "title": "State of AI Report Finds Growing Budgets and Correlations with AI Companies",
       "excerpt": "Increasing AI budgets represent a maturing industry and are closely correlated with metrics of success. In our latest State of AI report, Appen investigated the landscape of the AI industry to try to understand its current challenges,",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -356,7 +459,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1118,101 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-computer-scientists-are-questioning-whether-alphabets-deepmind-will-ever-make-ai-more-human-like.md",
-      "title": "Computer scientists are questioning whether Alphabet’s DeepMind will ever make A.I. more human-like",
-      "excerpt": "Computer scientists are questioning whether DeepMind will ever be able to make machines with the kind of \"general\" intelligence seen in humans and animals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106899356-1624000696283-gettyimages-515688464-AFP_8R7LC.jpeg?v=1624000805",
-          "width": 3868,
-          "height": 2580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
-      "publishedDateTime": "2021-06-18T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-outlook-of-global-natural-language-processing-market-research-report-during-2021-2027.md",
-      "title": "Outlook of Global Natural Language Processing Market: Research Report during 2021-2027",
-      "excerpt": "Natural Language Processing Market is projected to Grow at a CAGR of 18 4 over the forecast period 2019 2027 Owing to Increased Adoption Rate across Various Verticals says Absolute Markets Insights An erudite market analysis titled Natural Language Processing",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2308389/outlook-of-global-natural-language-processing-market-research",
-      "originalUrl": "https://www.openpr.com/news/2308389/outlook-of-global-natural-language-processing-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U618794094_g.jpg",
-          "width": 800,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research",
-      "publishedDateTime": "2021-06-18T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

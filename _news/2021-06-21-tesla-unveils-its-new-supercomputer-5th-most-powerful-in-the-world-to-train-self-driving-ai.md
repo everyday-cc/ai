@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla AI Day in About One Month"
-    excerpt: "Elon tweeted that the Tesla AI Day will be in about a month or so. Tesla will go over progress with Tesla AI software, hardware, both training and inference."
-    publishedDateTime: 2021-06-21T19:12:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/06/tesla-ai-day-in-about-one-month.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/06/tesla-ai-day-in-about-one-month.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-day-in-about-one-month.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2019/12/fsdchip.jpeg"
-        width: 1300
-        height: 650
-        isCached: true
   - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
     excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
     publishedDateTime: 2021-06-21T14:59:00Z

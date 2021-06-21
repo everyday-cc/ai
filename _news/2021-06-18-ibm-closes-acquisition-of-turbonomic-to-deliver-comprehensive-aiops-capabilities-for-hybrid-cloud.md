@@ -47,6 +47,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Making operations safer with digitized data acquisition and AI"
+    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
+    publishedDateTime: 2021-06-18T12:20:00Z
+    webUrl: "https://idw-online.de/de/news771038"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
+        isCached: true
   - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
     publishedDateTime: 2021-06-21T18:20:00Z
@@ -104,6 +118,6 @@ related:
         height: 457
         isCached: true
 
-secured: "Evfp/aN/qZEQ6KuDuvmHA/rSUmnnqKMuS3PJohC6TI+BJqbS/4DNnZt+p4E8i92I6iNoILplgN+3PNX8O5cHK15huuvyE1nmQP9nkyJ5GVIVbC7JURg1auIMxfQ8IgSBNOYeCUU/CADhb0XPKikBMY1+YWvV5mTEBTCFDRGU+Wakmp38orZo7tB2EVh7uUkbAY8FhdqoubtnXrR7SckvI52z6bFRN5N+j8noc2pwihaWewpB6HkCH417Frb05jccMkaAuG+C4pSTMcYwWtW00xpLj7m/4vHsux6HyB9+vJxhSnZR90XH4SNJfhR2VMG6lyYKh2+gNUrTUFTHcVE8AGvTfUn9GuFX4gGXH1PCJZ0=;0/zvu/EwHEgffyhCl0quOA=="
+secured: "Ycc5JHdsimybVurCgr1aIRDBrhmDo1sK04de8tg+YYk6qORF+JyqwcgLbY/jkIY9BZe2049zP2/O+dM5MLW2wbIRTWNyTuMzi0sAwwTDSz0N9q8Q7PIWaaQSrtKApLMbMwRpKhRRxL7sDogRD5PKXl37gXdTfzpeAnbjT6n8CUchLLkVZZ79qs663rUUUCXZrjrbRMstEqMAo79hwD4xAhI+HxT4K3VnVvGL9vZDtiIhWDKCcq9vS9TIeewCgtSTtnVXL9RQ1Fa9tOmnGCbgnnlAenBUOiMQb/VkDDDh4psTAjdLsOLhTfSpzH0KyCNk8Px8QAUXgs0jbV5gbpRURm5wH1zULoT/wJrWt1LWqnE=;ECHEVrjEigv2rq3d54bk0A=="
 ---
 

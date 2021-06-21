@@ -1,0 +1,32 @@
+---
+category: news
+title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
+excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
+publishedDateTime: 2021-06-21T18:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
+type: article
+quality: 51
+heat: 51
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "tDJuUhb1x+ZDKfZvwDtU3L/PaA5SfeQSR5ZOULDjcxZa4HYJmGXYaUFlRhUhgxoOqibwmZUhkcG6ysKxYGDy0AGyXfWw5/boKV0zLSMrDAfQxHYjbwvZj9J6DoOUrNu/5UiV/W8vQqAMFfZQcBk9TCSD+Kt6YpBUBEaWwe7uBNoHYEFBmXNQujiGiTOn1ZcM60dhhnKYXopUcTdxogo7Pv87sSwDwJsAyJEn2W7JeW8CVo+QpruiWlsf9o9myUzhohZZJvG6WRSntCkYoEcmvo91qzYwEWtA9Cp5pWE6lvW2HEtfkuEPMTiyNrCE0ar20PwQ2U6blmdtmHGRcXFn1YxiXnZ0gPRLpuekYm/xh8E=;hKOPyN8VXnDHYO1RT89Hrg=="
+---
+

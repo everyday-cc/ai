@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-18-computer-scientists-are-questioning-whether-alphabets-deepmind-will-ever-make-ai-more-human-like.md",
+      "title": "Computer scientists are questioning whether Alphabet’s DeepMind will ever make A.I. more human-like",
+      "excerpt": "Computer scientists are questioning whether DeepMind will ever be able to make machines with the kind of \"general\" intelligence seen in humans and animals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106899356-1624000696283-gettyimages-515688464-AFP_8R7LC.jpeg?v=1624000805",
+          "width": 3868,
+          "height": 2580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html",
+      "publishedDateTime": "2021-06-18T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-outlook-of-global-natural-language-processing-market-research-report-during-2021-2027.md",
+      "title": "Outlook of Global Natural Language Processing Market: Research Report during 2021-2027",
+      "excerpt": "Natural Language Processing Market is projected to Grow at a CAGR of 18 4 over the forecast period 2019 2027 Owing to Increased Adoption Rate across Various Verticals says Absolute Markets Insights An erudite market analysis titled Natural Language Processing",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2308389/outlook-of-global-natural-language-processing-market-research",
+      "originalUrl": "https://www.openpr.com/news/2308389/outlook-of-global-natural-language-processing-market-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U618794094_g.jpg",
+          "width": 800,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research",
+      "publishedDateTime": "2021-06-18T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
       "title": "2. Hopes about developments in ethical AI",
       "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
@@ -501,6 +596,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-regulators-know-teleoperation-is-key-for-self-driving-vehicles-to-succeed.md",
+      "title": "Regulators know teleoperation is key for self-driving vehicles to succeed",
+      "excerpt": "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
+      "publishedDateTime": "2021-06-17T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration.md",
       "title": "Veritone Bags 14th US Patent For Dynamic AI Model Orchestration",
       "excerpt": "Artificial intelligence (A.I.) operating system, aiWARE creator Veritone Inc (NASDAQ:VERI) won a new U.S. patent for its Conductor technology that performs dynamic A.I. model orch",
@@ -708,7 +855,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -905,7 +1052,7 @@
       "originalUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1090,153 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-voice-control-is-now-table-stakes-for-consumer-electronics.md",
-      "title": "Voice Control Is Now Table Stakes For Consumer Electronics",
-      "excerpt": "Voice control as an embedded feature is no longer a surprise — it has become table stakes to play at the top of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
-      "publishedDateTime": "2021-06-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images.md",
-      "title": "Facebook Scientists Develop AI Software That Can Tell Origin Of Deepfake Images",
-      "excerpt": "Facebook scientists have developed an artificial intelligence (AI) software that will not only help with identifying the deepfake images but will also reveal their origin.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images",
-      "originalUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/f/facebooks-/facebooks-first-ever-smartwatch-might-drop-next-summer_ssa9.620.jpg",
-          "width": 619,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1",
-      "publishedDateTime": "2021-06-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo.md",
-      "title": "Researchers develop a deep learning method able to animate portions of a photo",
-      "excerpt": "Typically, that perceived motion is just a trick of our minds. Researchers at the University of Washington have developed a new deep learning method that can animate certain portions of a photograph, turning it into a video. The UW deep learning method can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "originalUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/waterfall.jpg",
-          "width": 1280,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "publishedDateTime": "2021-06-17T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

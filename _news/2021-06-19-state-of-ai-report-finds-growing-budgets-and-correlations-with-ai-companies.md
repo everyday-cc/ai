@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-fi
 webUrl: "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
+    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
+    publishedDateTime: 2021-06-21T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 51
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Better reporting of studies on artificial intelligence"
     excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
     publishedDateTime: 2021-06-21T16:52:00Z

@@ -107,22 +107,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
-    publishedDateTime: 2021-06-17T07:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21601025"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601025"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "China's Baidu to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years"
     excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
     publishedDateTime: 2021-06-17T23:00:00Z
@@ -137,7 +121,21 @@ related:
         width: 800
         height: 472
         isCached: true
+  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
+    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
+    publishedDateTime: 2021-06-17T07:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
+        width: 2700
+        height: 1413
+        isCached: true
 
-secured: "gqvBe52uID2uPhkTFpBYhKXbTQMBHU9tUjutlKxmExRPh+JFhBFCITRW3rMTEyuyz9tF8uInR3hiW0J7lsPJfwvj1EKM5Ccqi2kehlz5IZeocglqVE1oktruLWe8aoYAigbfaUXnSTedAdQwJIl7bXud/iY/p8OQX1PTdR4RFuRk04Czb44LvsNpgcZD5lzSz2Ro8zZqrkjPea+5Kfnh8wtnMjKDriouVUmLioqH3RZvc8YVSvLaBeL1Fo+HxJ4Srtk/liQ864vFwbO/9OuiUe/zlHs23HUkd8+2C2KxtRFvYyY6EJrv5JLsA7cgzKRa/NMSKOAKNtZUYzrYsiaiE5J2TNrWTxPQqgMlGC0Tci4=;NY5HHQ2dr7biQDcrL+GTVQ=="
+secured: "xFR9RXBMyJnkaNBju46jzhnOLbXqV+URlQzlqstB0MW+/McdLRhTc7apYER3nsGku0dyGRg07tPYC3+/v5hsMGlyXTNQ1ziyJ4Av1ErwrSCEZmrLhI6YVXX0xu6zd4mTi9Ah5solYPXqM4ArgWVN9YjoLRivoxH01XBOQcemb5B1Gzeu12kGvKqzMALVZNyCt4CeezFG7kWOfKAA8xQO9VAuTMrWPfr6LRsh+aeB0/y9Z4H2ehERBKISCfC+r9Lw/GKjmS/1r1oyiPIVZ90IEjn0VGK3nnqCvsRFfTOd3Jv4CXfgJp/xmqtAOwqKIz5dbCIhERQm2wAgRrRZPFCu2O8RWyev85nMtFWsWjSpgjw=;K+RYzk2zOzgoklLnI7Sdcg=="
 ---
 

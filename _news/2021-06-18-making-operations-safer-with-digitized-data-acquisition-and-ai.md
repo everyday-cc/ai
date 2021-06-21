@@ -25,91 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "Foundations of trustworthy AI: Operationalizing trustworthy AI"
-    excerpt: "Industry focus on trustworthy AI is being driven by several forces — corporate social responsibility posture, concerns around reputational risk and a growing set of regulations. Organizations recognize that they need a systematic approach to ensure AI and machine learning can be trusted and operationalized."
-    publishedDateTime: 2021-06-17T05:00:06Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
+  - title: "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition"
+    excerpt: "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
+    publishedDateTime: 2021-06-18T15:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
+  - title: "IBM Completes Turbonomic Acquisition"
+    excerpt: "IBM has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to enhance the tech giant's push to"
+    publishedDateTime: 2021-06-18T13:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
+    publishedDateTime: 2021-06-18T01:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_operationalize-ai_2000x1000.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
-  - title: "Regulators know teleoperation is key for self-driving vehicles to succeed"
-    excerpt: "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way."
-    publishedDateTime: 2021-06-17T17:02:00Z
-    webUrl: "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/"
-    ampWebUrl: "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/"
+  - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
+    publishedDateTime: 2021-06-21T18:20:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Closes-on-Turbonomic-Acquisition-to-Deliver-Comprehensive-AIOps-Capabilities-for-Hybrid-Cloud-147575.aspx"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: dbta.com
+      domain: dbta.com
+    quality: 26
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all"
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
-        height: 637
+        height: 630
         isCached: true
-  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
-    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
-    publishedDateTime: 2021-06-21T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
+  - title: "IBM Closes Acquisition of Turbonomic"
+    excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
+    publishedDateTime: 2021-06-18T14:50:00Z
+    webUrl: "https://www.finsmes.com/2021/06/ibm-closes-acquisition-of-turbonomic.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 51
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
         isCached: true
-  - title: "Balancing ethics and innovation during tech transformation"
-    excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
-    publishedDateTime: 2021-06-18T14:17:00Z
-    webUrl: "https://www.raconteur.net/digital/balancing-ethics-and-innovation-tech-transformation/"
+  - title: "IBM finalises Turbonomic acquisition"
+    excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
+    publishedDateTime: 2021-06-18T01:52:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-finalises-turbonomic-acquisition-566121"
     type: article
     provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
     images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/06/Data-protection-data-ethics.png"
-        width: 1200
-        height: 675
+      - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "AI Stock Buying Levels, Ratings, Valuations and Trend Analysis into Market Correction"
-    excerpt: "This is part 3 of my recent extensive analysis focused on updated buying levels for my AI tech stocks portfolio going into the summer stock market correction, of what I will be looking to accumulate at what price levels."
-    publishedDateTime: 2021-06-17T21:09:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69041.html"
+  - title: "IBM Closes Turbonomic Buy To Help Clients Automate Cloud, Entire Enterprise"
+    excerpt: "IBM expects Turbonomic’s application resource management and network performance management to help clients’ journey to the cloud."
+    publishedDateTime: 2021-06-17T22:31:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-closes-turbonomic-buy-to-help-clients-automate-cloud-entire-enterprise"
     type: article
     provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 32
+      name: CRN
+      domain: crn.com
+    quality: 22
     images:
-      - url: "http://www.marketoracle.co.uk/images/2021/May/Nvidia-stock-trend-analysis.jpg"
-        width: 800
-        height: 540
-        isCached: true
-  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-    publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-        width: 1200
-        height: 441
+      - url: "https://www.crn.com/resources/026a-128b62d11702-49e841c9638a-1000/dinesh-nirmal-ibm.jpg"
+        width: 609
+        height: 457
         isCached: true
 
 secured: "G1MIICHrHR906ebfVVd9EI/iX17jQbzy6XKhEr4UpFh1ZpPzJTq4fJgtIjJCD9ElvgD1GDhzMAE4lnUurdvXDah3WRjSk3QOxAwXmeerYqU0vjvnAxksJcpgr5y2ueQ2h7pr9vGjR4qHD75pLC/KwKS1nD3remQnF6X4bOrgABSf2NvfgwSh66hQw1BBCO+nxPoK5cWc/l1VYO1lYwZDo2R8rClrgOb1CpEcs5C6ANo8jkl+ClrQlFL/UFCNYOIEMzhBiK9o7m4wS68wUKhXwDRg/ZB/84UFulEu/m/BUJiTjkmV9ZxmVWMcUXX/GBX9rrzpMRiqZkjSMTNvSb00q/6kXk3iNqUMhqr4DQiXxP8=;xb8JEyfqhrl0bu9D8iZZZQ=="

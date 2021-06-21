@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-26-why-data-for-ai-providers-need-a-problem-solving-mindset.md",
+      "title": "Why Data-for-AI Providers Need a Problem-Solving Mindset",
+      "excerpt": "Data-for-AI experts from Venga Global, e2f, and Oxford University Press discuss data annotation, AI use cases, and working with big tech.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/",
+      "originalUrl": "https://slator.com/features/why-data-for-ai-providers-need-a-problem-solving-mindset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/05/Data-for-AI-Panel-Article-Image.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
       "title": "Laser-driven ion acceleration with deep learning",
       "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
@@ -1401,59 +1444,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-google-details-new-ai-accelerator-chips.md",
-      "title": "Google details new AI accelerator chips",
-      "excerpt": "Google detailed TPUv4 at Google I/O 2021. They're accelerator chips that deliver high performance on AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "originalUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/18/google-details-new-ai-accelerator-chips/amp/",
-      "publishedDateTime": "2021-05-18T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

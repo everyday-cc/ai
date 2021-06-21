@@ -85,6 +85,15 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
+    publishedDateTime: 2021-06-18T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "4/HXE40ZBaWYcirt635B5PSTf45A7zJd3NC9YEG/YGYXsCtyne6c9paHRCl/2EDP4goRrbqFHtfNAXtOdZWMZoU1K2NN95nvNnEKwAbCJIA6cLU57zD6XhlmsxBLxmrD7oZKaCdWbUnVGO3cKh+w31ByzGnytmynb7pyIlNBKDMIdH6msiTBNvRYMdSeG3xJGv6Vu093BIidGRqOj+owKDXSPlqmk3hnkRR6stBzO50XphRCD8Gdz216hfopXJlBd2o2LsuTQpb+Aa/ivhJ6yPAXBarGqGxKbFcuv28D5J9IkbWwbHl2LuDmLIBK1dZ9z143oFEiQ6b34Yb3pdUVGoFKt6TgH+Wsi4HE/QqpKUQ=;HhQLABxLeyX3QTbgJaeLPg=="
 ---

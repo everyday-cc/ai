@@ -1,0 +1,41 @@
+---
+category: news
+title: "The BioRevolution: An ETF That Taps Into Nearly Everything"
+excerpt: "Exchange traded fund investors should consider the current opportunities in healthcare innovation. In the recent webcast, The Era of Biotech: How Biology Became Technology, Jeremy Schwartz, Executive Vice President, Global Head of Research, WisdomTree Asset Management; and Jamie Metzl, member of the World Health Organization expert committee on human genome editing, explained that the so-called BioRevolution, or Biology Revolution, covers the advances across multiple fields including computer science, artificial intelligence, big data analytics, automation, chemistry, biology, and engineering, which are creating previously unimaginable new opportunities to re-engineer biological systems. Looking ahead, the revolution in our ability to read, understand, write, and hack DNA, the genetic code of all life, will transform healthcare, agriculture, manufacturing, energy production, consumer services, and data storage. The strategists explained that the technologies underpinning the BioRevolution are connected and reinforcing advancements across interdisciplinary fields. For example, genetic technologies can prevent and treat disease, leading to significant enhancements to human health, well-being, and longevity. Healthier and more sustainable models can feed our growing population. Biological reengineering can be used to produce physical inputs needed for manufacturing. Additionally, DNA has approximately one million times greater storage capacity than hard-disk storage. \"We expect our healthcare system to transition from generalized medicine to personalized, or precision, healthcare based on each person’s individual biology,\" Schwartz said. \"The BioRevolution will pave the way for predictive, preventative healthcare that will help us live healthier and longer lives.\" We have already witnessed many high-profile preliminary applications of BioRevolution in the healthcare industry. For example, diagnostics and surveillance have used biological data to screen and diagnose diseases, disorders, or traits. Precision health/gene therapy has used biological data to screen and diagnose diseases and disorders to enable more precise interventions. However, biotechnology in the healthcare industry is only one aspect of the ongoing revolutionary application of biotechnology. For example, we will witness greater precision agriculture, plant-based meats, and cellular agriculture. Synthetic manufacturing, precision fermentation, and biofuels will expand the materials, chemicals, and energy industries. Lastly, biological machines and interface will combine DNA sequencing with data storage. \"The same intersection of biology and technology that is transforming the healthcare sector, is also driving transformations across many sectors and industry verticals of our global economy,\" Schwartz said. \"Although healthcare is the most mature market for these technologies, other sectors will catch up.\" To help investors access innovation in the growing BioRevolution space, WisdomTree recently launched the WisdomTree BioRevolution Fund (WDNA) on the CBOE. WDNA seeks to track the price and yield performance, before fees and expenses, of the WisdomTree BioRevolution Index (WTDNA) and has an expense ratio of 0.45%. WisdomTree leveraged data from Dr. Jamie Metzl, one of the world’s leading technology futurists and special strategist for WisdomTree, in its construction of the WisdomTree BioRevolution Index, which identifies the key sectors and industries that are expected to be most significantly transformed by advances in biological science and technology. \"WisdomTree and Dr. Metzl share the view that the application of genetics and biotechnology will extend far beyond healthcare. In our shared view, the BioRevolution is creating a historic investment opportunity equivalent to the industrial and internet revolutions,\" Schwartz added. Financial advisors who are interested in learning more about the biotechnology sector can register for the Monday, June 21 webcast here. Read more on ETFtrends.com. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc. Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
+publishedDateTime: 2021-06-21T19:26:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21"
+webUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21"
+ampWebUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21?amp"
+type: article
+quality: 54
+heat: 64
+published: false
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "AWS’ secret weapon is revolutionizing computing"
+    excerpt: "The secret sauce underpinning these innovations is specialized designs that break the stranglehold of inefficient and bloated centralized processing architectures. We believe these moves position AWS to accommodate a diversity of workloads that span cloud,"
+    publishedDateTime: 2021-06-18T22:50:00Z
+    webUrl: "https://siliconangle.com/2021/06/18/aws-secret-weapon-revolutionizing-computing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/secret-weapon-1024x610.jpeg"
+        width: 1024
+        height: 610
+        isCached: true
+
+secured: "klFN+5B05iq7wvcB+Ev0J7yddZLUemKCeW2vVIzKWryHMCe+HwQE0hnCpLcnr0qNStFPa2XKP6853oBxabtRC7YjXEsow3NB/qfO5Lwf4Cx5bkkm8z4U5MUXUS+HrITgz62xlwxIogoiRp3QodbhJU4sUYFZf1IKcJPs1HX940rLCJIJjuM2iTD0hcUnTxtxOT3ANJnyJxwK/mD0GYnumTtrRuUzyvs70BqI6mQ8EJqWTMwyQiagTp9zqs2GuZZhPi7myl/lyGmOlxS3thWlj3Crf8+/Nap/Wpr+DEyM8bs1TODjyQP9PdimW5c3eFYGFlOoDQBpT1mHU6J326yYuHjiv5pBJZxtpVz3VlJFFAYy/A+r4sfh2tpxxbmkyj9N8fF3y55H8D4PLLk8IRLbGXSixJb+e6lCx4UpJtT8dAlYmgEQKsAjmwMVhUrJ+XGPCr9noAPuIOLLIvlYx/ldHdS1Ui1DBGwVzvBoMEllxvIrAPqloiArEb4zqAE8SQ10HzIVauxZbP/Rjgr7V1FSHA==;U72Ubmj/zn6T+nzgYtDZMg=="
+---
+

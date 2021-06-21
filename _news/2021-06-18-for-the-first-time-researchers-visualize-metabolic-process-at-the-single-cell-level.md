@@ -44,20 +44,6 @@ related:
         height: 480
         isCached: true
   - title: "For the first time, researchers visualize metabolic process at the single-cell level"
-    excerpt: "Researchers at the University of Chicago's Pritzker School of Molecular Engineering and Biological Sciences Division have developed a combined imaging and machine learning technique that can, for the first time,"
-    publishedDateTime: 2021-06-17T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uoc-ft061721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/268274_web.jpg"
-        width: 720
-        height: 720
-        isCached: true
-  - title: "For the first time, researchers visualize metabolic process at the single-cell level"
     excerpt: "While many techniques can measure these processes among tens of thousands of cells, researchers have been unable to measure them at the single-cell level. Researchers at the University of Chicago’s Pritzker School of Molecular Engineering and Biological Sciences Division have developed a combined imaging and machine learning technique that can,"
     publishedDateTime: 2021-06-18T17:20:00Z
     webUrl: "https://news.uchicago.edu/story/first-time-researchers-visualize-metabolic-process-single-cell-level"

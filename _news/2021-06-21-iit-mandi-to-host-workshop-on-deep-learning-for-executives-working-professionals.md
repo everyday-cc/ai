@@ -1,27 +1,29 @@
 ---
 category: news
-title: "IIT Mandi To Host Workshop On Deep Learning For Executives, Working Professionals"
-excerpt: "Mandi, will host a six-day weekend workshop on Deep Learning for executives and working professionals between July 3 and 18, 2021. IIT Mandi iHub and HCI Foundation will jointly organise the workshop."
-publishedDateTime: 2021-06-21T10:21:00Z
-originalUrl: "https://www.ndtv.com/education/iit-mandi-host-workshop-on-deep-learning-for-executives-working-professionals"
-webUrl: "https://www.ndtv.com/education/iit-mandi-host-workshop-on-deep-learning-for-executives-working-professionals"
+title: "IIT Mandi to host workshop on Deep Learning for executives, working professionals"
+excerpt: "Professionals who are willing to work in the area of Artificial Intelligence/ Machine Learning (AI/ML) can join this 6 days weekend workshop organised by IIT Mandi iHub and HCI Foundation."
+publishedDateTime: 2021-06-21T09:56:00Z
+originalUrl: "https://www.indiatoday.in/education-today/news/story/iit-mandi-to-host-workshop-on-deep-learning-for-executives-working-professionals-1817521-2021-06-21"
+webUrl: "https://www.indiatoday.in/education-today/news/story/iit-mandi-to-host-workshop-on-deep-learning-for-executives-working-professionals-1817521-2021-06-21"
+ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/iit-mandi-to-host-workshop-on-deep-learning-for-executives-working-professionals-1817521-2021-06-21"
+cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-mandi-to-host-workshop-on-deep-learning-for-executives-working-professionals-1817521-2021-06-21"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: India Today
+  domain: indiatoday.in
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cache.careers360.mobi/media/article_images/2021/6/21/Webp.net-resizeimage_62.jpg"
-    width: 694
-    height: 430
+  - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202106/IIT_Mandi_North_campus-647x363.jpeg?Tau1u4jR3_T8yEPrRntunQx7mqhNDMi3"
+    width: 647
+    height: 363
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 438
         isCached: true
 
-secured: "fLn2risKeaQqtGgI5ckMqvTGiAAbmHPg1rsaICp7qdPHFDW2F7EDss3rQiBOc1llNMdjh+a/Ugr2z1IbIYPuNEZTd4tJ5QU8MSAvXI9mk4yNBuykNCkG/IXHYMjnL8G6DiGqh6cK58gatXnhGyug2ElTufmAqnjUbsIkaioTVvoMKu2OraczvrTks3YfZ1YJD/cB8iSJfhdg6jbqwYAbu8ExNzrDwYs6LI7cboF19BgYz8RR4yQzNGKrEBult24vkDA1qqDvzomJJVTJP5kWPYEGddPTwWM0cNlpn/Pyf+rvGmGaOKhIsPFonVEf8uf+qOBS04LtW7416teLZn/mDGpAAdOpQlK5uZdLHN9Nf3WhYEmEEtOVhMlG8MbhiEBE329kxgnprtgjJH1PutbMPIzVmc13ZtatWL3Vi8JYTs9HPTJ3e/p0F41HqR/ilBC920gaGd7F2xk3I8JBenSx30yU55fVR+Ppjhnw4IPQFMpH+QKr30NNI6UnSd9lqOK4rti2xb7P76SgU/tJ7R5vbg==;8pFDuNHwFfaDlA6E9Q82aA=="
+secured: "WMLlkdV8uFIHc0L+Vzu35CxZNegX+WW0XufWcZns2i9DLrxECRCYEo4zfEex4tpEoPxRFdmhQQVQP4dgts4QSHJz4vrQI7e32aFfuDFrE0YLUZc1w9QkqbDfI88EuriObwKwvlFr/ZEyiKmOtmgupPA9lhDHDnwhyEJdFZZUrgxPaLPRAmYhjjEgo96CajGXE9U7meOZrrh7z4sevtwuNoG69QDq6JGLawnCQ2SdKPAhoM74SyqLGK39PH1lV9rGeIjPfKyoz0xJZvu9Qk8dnZSl/hIJAMPaB1IhbNKGUhKL0lnXvaDU6pYe0SOJk2U495ydj8yWFyMObzNM4a68c5if7EpVY2UV57JHEzXj87k=;hWetdxCx8J6rSN7j4FdOeQ=="
 ---
 

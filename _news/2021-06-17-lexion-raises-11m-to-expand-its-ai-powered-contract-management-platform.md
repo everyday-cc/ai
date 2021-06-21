@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
         width: 960
         height: 539
-        isCached: true
-  - title: "AI-powered customer relationship startup Introhive raises $100M round"
-    excerpt: "Artificial intelligence-powered customer relationship management startup Introhive Services Inc. announced today it has raised $100 million in new funding to do strategic acquisitions and expand its global footprint."
-    publishedDateTime: 2021-06-17T03:11:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/introhive.png"
-        width: 1500
-        height: 889
         isCached: true
   - title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
     excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance Management platform powered by Explainable AI to enable them to build Responsible AI in production."

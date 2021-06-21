@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-17-voice-control-is-now-table-stakes-for-consumer-electronics.md",
+      "title": "Voice Control Is Now Table Stakes For Consumer Electronics",
+      "excerpt": "Voice control as an embedded feature is no longer a surprise — it has become table stakes to play at the top of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/17/voice-control-is-now-table-stakes-for-consumer-electronics/amp/",
+      "publishedDateTime": "2021-06-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images.md",
+      "title": "Facebook Scientists Develop AI Software That Can Tell Origin Of Deepfake Images",
+      "excerpt": "Facebook scientists have developed an artificial intelligence (AI) software that will not only help with identifying the deepfake images but will also reveal their origin.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images",
+      "originalUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/f/facebooks-/facebooks-first-ever-smartwatch-might-drop-next-summer_ssa9.620.jpg",
+          "width": 619,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1",
+      "publishedDateTime": "2021-06-17T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo.md",
+      "title": "Researchers develop a deep learning method able to animate portions of a photo",
+      "excerpt": "Typically, that perceived motion is just a trick of our minds. Researchers at the University of Washington have developed a new deep learning method that can animate certain portions of a photograph, turning it into a video. The UW deep learning method can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
+      "originalUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/waterfall.jpg",
+          "width": 1280,
+          "height": 932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
+      "publishedDateTime": "2021-06-17T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-the-efforts-to-make-text-based-ai-less-racist-and-terrible.md",
       "title": "The Efforts to Make Text-Based AI Less Racist and Terrible",
       "excerpt": "Language models like GPT-3 can write poetry, but they often amplify negative stereotypes. Researchers are trying different approaches to address the problem.",
@@ -1066,144 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-these-cool-robots-can-sing-happy-birthday-and-even-paint-your-nails.md",
-      "title": "These cool robots can sing ‘Happy Birthday’ and even paint your nails",
-      "excerpt": "From sexual companions to COVID-19 nurses, robots are increasingly dominating the human experience. They’re rolling into our everyday lives as digital sidekicks designed to more safely, efficiently and speedily take on our tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
-      "originalUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/robot_web.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/",
-      "publishedDateTime": "2021-06-16T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed.md",
-      "title": "Before the next pandemic: Lessons learned, and those still to be absorbed",
-      "excerpt": "The post Before the next pandemic: Lessons learned, and those still to be absorbed appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/features/before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed/",
-      "originalUrl": "https://news.microsoft.com/features/before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/06/Next-Pandemic-1-1024x539.jpg",
-          "width": 1024,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T09:05:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-bme-and-bbf-fintech-to-stage-sustainable-finance-hackathon.md",
-      "title": "BME and BBF Fintech to stage sustainable finance hackathon",
-      "excerpt": "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf",
-          "width": 4096,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

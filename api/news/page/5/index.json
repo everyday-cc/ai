@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-16-these-cool-robots-can-sing-happy-birthday-and-even-paint-your-nails.md",
+      "title": "These cool robots can sing ‘Happy Birthday’ and even paint your nails",
+      "excerpt": "From sexual companions to COVID-19 nurses, robots are increasingly dominating the human experience. They’re rolling into our everyday lives as digital sidekicks designed to more safely, efficiently and speedily take on our tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
+      "originalUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/robot_web.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/",
+      "publishedDateTime": "2021-06-16T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed.md",
+      "title": "Before the next pandemic: Lessons learned, and those still to be absorbed",
+      "excerpt": "The post Before the next pandemic: Lessons learned, and those still to be absorbed appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/features/before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed/",
+      "originalUrl": "https://news.microsoft.com/features/before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/06/Next-Pandemic-1-1024x539.jpg",
+          "width": 1024,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T09:05:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-bme-and-bbf-fintech-to-stage-sustainable-finance-hackathon.md",
+      "title": "BME and BBF Fintech to stage sustainable finance hackathon",
+      "excerpt": "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
+      "originalUrl": "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf",
+          "width": 4096,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-facebook-develops-new-method-to-reverse-engineer-deepfakes-and-track-their-source.md",
       "title": "Facebook develops new method to reverse-engineer deepfakes and track their source",
       "excerpt": "Deepfakes aren’t a big problem on Facebook right now, but the company continues to fund research into the technology to guard against future threats. Its latest work is a collaboration with academics from Michigan State University (MSU),",
@@ -367,6 +505,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
+      "title": "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/s1ecHHtxuKpo3OVoURQIIAwO68c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3NUHQPGSJNNNPLMX7UPVOM5Z4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -742,40 +932,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-mydecine-unveils-artificial-intelligence-drug-discovery-program.md",
-      "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
-      "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-16-gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m.md",
       "title": "Gloat, which uses AI to connect employees with internal work, raises $57M",
       "excerpt": "Gloat, which gives enterprises visibility into their employees' skills and enables them to fill roles internally, has raised $57 million.",
@@ -823,6 +979,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-mydecine-unveils-artificial-intelligence-drug-discovery-program.md",
+      "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
+      "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine's choosing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -953,195 +1161,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out.md",
-      "title": "Trigo bags $10M for its computer-vision based checkout tech to rival Amazon’s ‘Just Walk Out’",
-      "excerpt": "While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a customer.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Caption_-REWEs-cashierless-checkout-store-in-downtown-Cologne-Germany.-Credit_-REWE.jpeg?w=1024",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
-      "publishedDateTime": "2021-06-16T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
-      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
-      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T00:25:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud.md",
-      "title": "Unlocking the enterprise opportunity with 5G, edge compute, and cloud",
-      "excerpt": "The power of 5G, IoT, and real-time AI will unlock new and innovative services for enterprises across the world to accelerate their transformation toward Industry 4.0 as they evolve and adopt diverse new business models. Today, we’re introducing Azure private multi-access edge compute (MEC), new services",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
-      "originalUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa65174f-da4b-455a-9df3-f85a7f2fee42.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T00:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
-      "title": "NVIDIA and the battle for the future of AI chips",
-      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
-      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/nvidia-ai-chips/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp",
-      "publishedDateTime": "2021-06-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

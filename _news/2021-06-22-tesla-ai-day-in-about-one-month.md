@@ -28,39 +28,23 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla unveils its new supercomputer (5th most powerful in the world) to train self-driving AI"
-    excerpt: "Tesla has unveiled its new supercomputer, which is already the 5th most powerful in the world and it’s going to be the predecessor of Tesla’s upcoming new ‘Dojo’ supercomputer. It is being used to train the neural nets powering Tesla’s Autopilot and upcoming self-driving AI."
-    publishedDateTime: 2021-06-21T10:30:00Z
-    webUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/"
-    ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
+  - title: "Elon Musk: Tesla will hold ‘AI Day’ to show progress and recruit talent"
+    excerpt: "Elon Musk announced that Tesla will hold an ‘AI Day’ in about a month to show its progress in software and hardware related to artificial intelligence. However, the main goal is to recruit talent. Over the last few years,"
+    publishedDateTime: 2021-06-21T20:12:00Z
+    webUrl: "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/"
+    ampWebUrl: "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/"
     type: article
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 93
+    quality: 104
     images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/06/Tesla-Supercomputer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
-    excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
-    publishedDateTime: 2021-06-21T14:59:00Z
-    webUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/"
-    ampWebUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 69
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/06/Tesla-Supercomputer-for-Self-driving-AI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "AzbXPNXy2EMcQboic7sFhSJy5lqnYSOzvT60Z7Ip5NsbEt/ar741qsePvta2wnJNuOg0g1nGV3IcSshOz1ivyMizrQKvR7OZqasp7dDu6918BMchXJ8BVfWlDaQYpnqeMk7Yqk804sxpmGBTNB/v2gKzNBisNItpaf+E3YP6DqFMaQjI6/8VCKkRdHZ5DVLvXiQgFo6bXGMmCcEfIR1FZvcgLeFEI9O/XcW+QB0kkZqCDbD1H6A2Bw155phwMYgLosOOUV/1TVMJCNG62kSLMWKb1VKfWkq5rJ3TwpGtZUhguvoPRfP/ymoOOLHnIZ5hTvR8l09yHL+iyHZJNrjvXX3ejyaFKUTSgFQL9a4c6hU=;SmkaU2epFYPs6ZhzKCAf6A=="
+secured: "dEdibA5dzdr+O+CR/+rciKKGiixk0vjLeoIqqkSw0nrnlkD/qJuomfCSAxUcIDDSnX4XPmfyYHwjMMLutoVJdGDSrFzAp3XodRo3VXG8AI6RHxHzmavq8bVieSRwCR3ghB1dfJ9+tUStMo5IWmr0dQbIAZaLmI2Qahtq4DQvdNCh8Dx2IfrKmq/G/t7qZtpannO4U0092mHAohZqlOSA94SElORq5dwV23LcjB5rBfZdWs+u4k0qShJ1P6bdY/JNU0sSX2eQod2w58A3mmIunHxVu449tH/s0/NouEF7NeMJdoIP6V9YJdVgE85tgSERgbQQS+jKxhhczW+VGKT6dnsDrGOKYQpMbEplYpGz8seW95CE+JHUkaaCoFCkaqT+hcxcKzFJptAcAAFvzxYawDZj+WKwpBugm2E6wpj1PGE1mn9tFDxoObidA/tnGUo1PwoZcnDUMG7+ACezp5DZAoohUdUVCUqrWsHhzSUl/Lzz6ljSNhyrlr+vt/ZajfI/jD2egl4m8R1qHv5HZFc7Fg==;6NfuH9vVkz5g7hGmzNhoTA=="
 ---
 

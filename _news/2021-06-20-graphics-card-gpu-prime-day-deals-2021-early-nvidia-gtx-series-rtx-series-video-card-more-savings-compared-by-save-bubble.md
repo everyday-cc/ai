@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series Video Card & More Savings Compared by Save Bubble"
-excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings"
-publishedDateTime: 2021-06-20T11:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210620005212/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-Video-Card-More-Savings-Compared-by-Save-Bubble"
-webUrl: "https://www.businesswire.com/news/home/20210620005212/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-Video-Card-More-Savings-Compared-by-Save-Bubble"
+excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series."
+publishedDateTime: 2021-06-20T02:30:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble"
+webUrl: "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI Hardware
@@ -43,6 +43,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "slHLNMQdhLYogrQpFEiUEpYVIGR41w4FNPpFzbS93tjQ4sXiAODkscmoMaQRV65Gr4Ws09aPAg6LzPsP27korF45fUJSRqa5KqoDkBMHX3iYLet9AQow0FGbODS4T71HDRdVyQSqtqiVF/urF4AueFf7XKgI2KrHek3CGH82bp29GzUJHVME81Ev0dyr9uUcCOdgMPPTumS5doOZ0bI2RbARGrJ9AS7gwy96nmGXGUubK7qt+X9GfpLmiztMWFwR3xK1mGIYqGpbxvTisiqjFFHatSY4vy9JsD5FST8k6XKNt0MepCZ+RCS04bX4P4BJ4UNEO9eU9U6+IkNZknZ/ttLsfw4QWtgIIwIuegQxk5U=;fsEyHpacWOYPnKOCj3ngNw=="
+secured: "usMoF62fCc7a1M2VcnhH4EpbqvOdPx4uCBU0y+2+vMA87yjwrmsBDCd3v7sJGPKt8zSzAQq6WgUdxBdLZDiaQ88lWS4RdC1FzQvagwyCMpNIs8D/5MBToACwkBfLSMCik0c7lz3rc03vXhTqRf4Q246nYpdV2KMJhNODLtv+Vgu0tQjfmSCZ8XTCqhUxAAxfzGdVms9+Nm5MXrojIWv50Ok+ylrdTa7xNgeHPLozbu9EHi/MI0RB+b8HKOBKAhVQLrCisfb1mAcHY5URE1Yb4wHEZPWd4cbrSAQo+0hzBpAqf3DUgABtTUYszkwYmfr7YrLic/kIRxUmMbCO4ruht/sultgKo4nPdbZtsLsROjs=;BSp28l5TfaPPlP5fia0Yqg=="
 ---
 

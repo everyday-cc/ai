@@ -47,6 +47,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Making operations safer with digitized data acquisition and AI"
+    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
+    publishedDateTime: 2021-06-18T12:20:00Z
+    webUrl: "https://idw-online.de/de/news771038"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 39
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
+        isCached: true
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
     publishedDateTime: 2021-06-18T01:39:00Z

@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-09-supercharging-self-driving-super-vision.md",
+      "title": "Supercharging Self-Driving Super Vision",
+      "excerpt": "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
+      "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon.md",
+      "title": "This robot-run fund thinks GameStop stock will soar in June, and predicts a fall for Tesla and Amazon",
+      "excerpt": "An exchange-traded fund driven by artificial intelligence booted Tesla and Amazon from its portfolio in June, instead choosing to load up on shares",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-351065/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-thinks-gamestop-stock-will-soar-in-june-and-predicts-a-fall-for-tesla-and-amazon-11623237670",
+      "publishedDateTime": "2021-06-09T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks.md",
+      "title": "ISEE brings autonomy to shipping yards with self-driving container trucks",
+      "excerpt": "Robotaxis may still be a few years out, but there are other industries that can be transformed by autonomous vehicles as they are today. MIT spin-off ISEE has identified one in the common shipping yard,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/",
+      "originalUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/ISEE-Yard-Truck-Group.jpg?w=1024",
+          "width": 1024,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/",
+      "publishedDateTime": "2021-06-08T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-uber-veteran-launches-her-ai-mindset-self-driving-startup-with-835-million-round.md",
       "title": "Uber Veteran Launches Her ‘AI Mindset’ Self-Driving Startup With $83.5 Million Round",
       "excerpt": "Computer scientist Raquel Urtasan is launching tech startup Waabi in a period when self-driving technology companies are consolidating.",
@@ -1260,136 +1417,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-beijings-self-driving-vehicle-test-mileage-tops-3-mln-km.md",
-      "title": "Beijing's self-driving vehicle test mileage tops 3 mln km",
-      "excerpt": "The safety test mileage of Beijing self-driving vehicles has exceeded 3 million km to date equivalent to going about 75 times aroun",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/269677672/beijings-self-driving-vehicle-test-mileage-tops-3-mln-km",
-      "originalUrl": "https://www.bignewsnetwork.com/news/269677672/beijings-self-driving-vehicle-test-mileage-tops-3-mln-km",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.md",
-      "title": "Tech Digest daily round up: Driverless shuttles hit Cambridge roads",
-      "excerpt": "The UK’s first driverless shuttles have taken to the road in Cambridge, carrying their first passengers in a trial alongside normal traffic. The autonomous vehicle took a 20-minute journey around the University of Cambridge’s West Cambridge campus in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "originalUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2021/05/starship-sn15-flight-stream.jpeg",
-          "width": 990,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-google-ethical-ai-groups-turmoil-began-long-before-public-unravelling.md",
-      "title": "Google ethical AI group’s turmoil began long before public unravelling",
-      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
