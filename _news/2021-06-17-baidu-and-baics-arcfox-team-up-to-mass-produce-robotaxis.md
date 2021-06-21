@@ -1,34 +1,22 @@
 ---
 category: news
 title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
-publishedDateTime: 2021-06-17T09:42:00Z
-originalUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
+publishedDateTime: 2021-06-17T10:13:00Z
+originalUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
+webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
 type: article
-quality: 89
-heat: 169
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know"
@@ -119,22 +107,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
-    publishedDateTime: 2021-06-17T07:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21601025"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601025"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "China's Baidu to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years"
     excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
     publishedDateTime: 2021-06-17T23:00:00Z
@@ -149,7 +121,16 @@ related:
         width: 800
         height: 472
         isCached: true
+  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
+    excerpt: "Baidu, Inc. is partnering with BAIC Group's EV brand ARCFOX to jointly release Apollo Moon, a new generation of robotaxis that are set to be mass-produced with a per unit manufacturing price of RMB 480,"
+    publishedDateTime: 2021-06-17T07:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 24
 
-secured: "Jk+g022zVyxp6oX35KlQzV1DeB9urluIAdQZCu1pqQunC4mrA1tJVNvBlrluqTMX9nmWzyl+pRBcaEuYkEv1Y371T51tphTC50K1KYSWaEI4FKdFn3PR8NTHobfs+GwnLQu3lDgzJe4ExU+yUqFGtingMcm1psj0Ao16EKHH0GEP0+wWcLTBdYDNmGjaCFDl0oUkMDP5/LS4stcSOBr0l1cHM5gj72zgDnEPiZzjPtRseOHTax4DSVlfOdrrpO8+Pd+F72/FR3IYJymWc6h7uyNGQ8UrN8zNYu/TMDIQ/Mj7c+iPZdi7t8fJ/g4FJquMuFHDyx63fmZOKfw7O5fdxcPtbx75V/+HgDF8u7i9jW0=;buHOMZnr4zebhvGIUhA59A=="
+secured: "L83Afi5jN1Vt8AcbquHirQHgqKgqy5JaHAjTP1oaZu0k/w8XIv26Y6DyPK0wCtyEI6xgtSWvsAlAkaq8EwjWoPTbnIfmT0ieorElyTCIE/pu/NEtaHFU54DB+3erpDP2B0+Z61n7gpbLble3TGxAUUEqT05DPMZQcEVtJRvvhziMjXHQ1VUp7Wn0ZvCK7H4zJ2VoNgSBjhgBX9asKSOgLKbI3gNFIbwBmD/hj4Dm9ya2RTQySDzb8GMR1idQIQkcsUim5lc42KUmXPdAsnfMmo85zcaHo8VlRNDuuFj/ij1i43N4OGiRRdmsG/GomLKbcBQUvhH2mJSBJ0qwGxcgk8caByKjhRQoVnwrxR/Wylo=;KOx4cCTTAjDiGoQSgVffRA=="
 ---
 

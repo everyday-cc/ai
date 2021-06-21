@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Louisiana creates rules for self-driving delivery devices"
-    excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards. The new personal delivery device law sponsored by Republican Sen."
-    publishedDateTime: 2021-06-16T16:52:00Z
-    webUrl: "https://www.chron.com/news/article/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Louisiana-creates-rules-for-self-driving-delivery-16252487.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Louisiana creates rules for self-driving delivery robots"
     excerpt: "Louisiana has created a framework for self-driving delivery robots to drop off packages on the state's streets, under a bill backed by lawmakers and Gov. John Bel Edwards."
     publishedDateTime: 2021-06-16T19:36:00Z
@@ -66,20 +50,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "Ford partners with Hermes for self-driving delivery programme"
-    excerpt: "Ford has announced a new Self-Driving Vehicle Research Programme to help businesses understand how autonomous vehicles can benefit them"
-    publishedDateTime: 2021-06-18T13:37:00Z
-    webUrl: "https://www.techdigest.tv/2021/06/ford-partners-with-hermes-for-self-driving-delivery-programme.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 24
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/HermesisfirstcustomertooperateFordresearchvehicle.jpg"
-        width: 2700
-        height: 1520
-        isCached: true
 
 secured: "vv9ezoXCo8pfUryqfL+HI80jW2BwgzltjOqQw1t/2PKcWVAQj+nhtaPC1QEUzb4lIAY5ZXX+X3NpaUkuNue7mjfnOFmucs+dYXy8G8uZSJfu9CiHEFgT/xjC+DcGUWjPqH3/y20cXPyEMyDA8Rol8ZmbH8qnb/iGnBoQEbTW/gZkL95vYi21Q8Nzw8cL6WlQshQUXnYGYVyh6zZDThd2+GlBQjwFrcVzohp7zR7oo7+IT66dPR8ZrR1mAtXgKs9KGiGW98COsdTtdNsDfA0bIwmxX0ICHX9xa27s9tenVcZRjML6Sun2+8Xpa8Thp1jqHHuVux4yHRbYM9GlOKCafutFUo1ZWO6HMFnZtIzao4A=;TthVAT+xUuCNbbv9cmgHxw=="
 ---

@@ -27,34 +27,26 @@ images:
     isCached: true
 
 related:
-  - title: "BME and BBF Fintech to stage sustainable finance hackathon"
-    excerpt: "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,"
-    publishedDateTime: 2021-06-16T16:05:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon"
+  - title: "A Fintech IPO to Watch and a Very Complex SPAC Deal"
+    excerpt: "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY"
+    publishedDateTime: 2021-06-16T22:52:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 54
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf"
-        width: 4096
-        height: 2160
-        isCached: true
-  - title: "Fintech South Keeps Georgia’s Rising Tech Hub on the ‘World Stage’"
-    excerpt: "The World Stage is back at the South’s largest financial technology conference starting June 22, building on an inaugural virtual summit last year that served to showcase Atlanta to a broader global audience."
-    publishedDateTime: 2021-06-18T03:32:00Z
-    webUrl: "https://www.globalatlanta.com/fintech-south-keeps-georgias-rising-tech-hub-on-the-world-stage/"
+  - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
+    excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
+    publishedDateTime: 2021-06-18T10:02:00Z
+    webUrl: "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup"
     type: article
     provider:
-      name: Global Atlanta
-      domain: globalatlanta.com
-    quality: 24
-    images:
-      - url: "https://www.globalatlanta.com/wp-content/uploads/Screen-Shot-2021-06-17-at-11.26.07-PM.png"
-        width: 1952
-        height: 842
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "There are 100 UK tech unicorns, a third are fintech"
     excerpt: "Of the private companies that have achieved a valuation at $1bn or more, more than one in three are fintech firms."
     publishedDateTime: 2021-06-21T04:42:00Z
@@ -83,15 +75,6 @@ related:
         width: 600
         height: 940
         isCached: true
-  - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
-    excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
-    publishedDateTime: 2021-06-18T20:05:00Z
-    webUrl: "https://www.econotimes.com/KT-to-invest-236-billion-won-in-fintech-Webcash-Group-1611096"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 4
 
 secured: "9+dZsN0O3r2436FUJBTUhMH79eb9NF3nfsZzrBQnYi++6iCDmvpfqk/WEkisxR/hk1o9zFFLdUhIdF0GPLwOCRfuQCZOm3M1ksfZszVlMR0IUxQwoCxsUGuPMZTWcLXNefG+XIGxy8Fqvk3haMikMu/IYBtybTAD1B6bU+7mGs5SsSdFHWpjDjO6K52LoO/0hwzgXlEXj1ZR+AmcQJQDXBXwvw+yVFn5bdBwHn/C4sbkUv5EKep38Y1XIMVaONrzH8XHD54HUTSHar5clg9NOdF8qyxcoiRh3lWQs/wGkIsBZgirhVvjxoaZXVGDgSNZW1MTK4idGmbI30LqEM2EQDqZGQKDhzh/LWndUG2fI5jwd45cLosFkRvp3FrJRQPWknCjtbGflJS1IeMdVpz3dUcYtKpN2a26zEaK4Chz+nPdkpl5/nZOFEWT+vVH36wrS0EnwV3geSmoJPcl5OWsf2KQQyj1uXjzrJXPKO4dQRymPdA8yQw+QPTkYVIMuhebkl58M4RZx6gdIo+xPe3bgw==;2Tr2ooERwJRhhTV32nWOOg=="
 ---

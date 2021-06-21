@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The efforts to make text-based AI less racist and terrible"
-excerpt: "Other researchers are trying different approaches. Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon ..."
+excerpt: "Emily Dinan, a research engineer at Facebook AI Research, is testing ways to eliminate toxic text by making more of it. Dinan hires Amazon Mechanical Turk contractors to say awful things in conversations with language models to provoke them to generate hate speech,"
 publishedDateTime: 2021-06-19T12:05:00Z
-originalUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1&start=80"
-webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/?comments=1&start=80"
+originalUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
+webUrl: "https://arstechnica.com/science/2021/06/the-efforts-to-make-text-based-ai-less-racist-and-terrible/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "ifFbGyd6DphXldRE2kuBmJVPHQnnu46vAlXRJn83e1iWqkxPtTfXQdlR0vqXVDg/O1irCB3CoQ8s0R7Qq/LhhY1DqxShBgZhj2/hY7YlAJunulCpRX7MihV7jV86K+rquprF5gGLVHz8PHrr8cH6Lslv4zHwEasVezEZU1DOblDE04OHhuUPeHWA1dzZLUId66+siPbABx416heOzc+mPwPlQFjkMZP2oiY+K7vEPrtYUDi0Hw6eTYv8/+Zcaf5qJgRYxkrXOdSYk4+ZPtG2OHqGWLnz4UMPTtzmxLi0H9yzWLNK8CgyqPliEXfwFE9b/IIO6dMjIJjCQ96LrD2iWt7Aurki6E0AULrr691ITX4=;k6RLXv5XLViw2UgGT5rvOg=="
+secured: "Ufvd/IilFmEMc5V3pl8jtmAO9z0aVnUzDn2HctSyXRQG73SVnJgEPae3tVMUfkWzMn/Kz04quBTCAIOHG1TjgojvAlBi+bvdsVYBD84nXptF9UvoNmXQwyx6isSM47Bl2HgzcDH60BYi8kYi2M7nfuZ30WppSHaPzk2jStPH5G9GLR3Vv96l1Oe+NLEFgDB6/Lz2LJ8iBVo+Z/P6Y7tGRnE9wx2pdigVftfl+6IxYcMPLD+jtODIvETyQK/i4t11dPIdBLWbj/aiyVKR51zgh9q6OfllDntJ0Rmu1pFKfcsaveZqqi/JYBtdjbA9Uck/SqpxIPi4T4LB27ND4lzagM286eVJiFo3IBPDjbiKhrY=;JaukXj3ppMNewRNIQpdeQA=="
 ---
 

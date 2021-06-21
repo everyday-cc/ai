@@ -26,19 +26,6 @@ images:
     height: 260
     isCached: true
 
-related:
-  - title: "Mexico based Digital Payments and Commerce Fintech Clip Secures $250M from SoftBank Latin America Fund, Others"
-    excerpt: "Mexico based digital payments and commerce Fintech Clip secures $250M from SoftBank Latin America Fund, Others."
-    publishedDateTime: 2021-06-16T16:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176618-mexico-based-digital-payments-and-commerce-fintech-clip-secures-250m-from-softbank-latin-america-fund-others/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176618-mexico-based-digital-payments-and-commerce-fintech-clip-secures-250m-from-softbank-latin-america-fund-others/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176618-mexico-based-digital-payments-and-commerce-fintech-clip-secures-250m-from-softbank-latin-america-fund-others/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-
 secured: "/CQnO1fhAY/uusOcnIXj3bZepFcySHZSJSSZWfQFqKxypfQHwD/xjeW/ngz9VJsC7W2oJyZlusNkZuQ91Nm9Icfv4J3O6ThNQ3mqeeEiMt9C+cOLz4xEfL9+2A3TQtEnFtdFKJa83gsBYlpObJAJPZX7o1RyzDX4b9XPYO6RcHyKmFVQxPTJu6LY13TW3McutuLa2OylJ0Pu/o5NbOgUeEn0udOqm7IrguBjWY49Ba0k4rDRkyiYseP5s/1vs2OLXN1tGbAinhKJ7+Uz+Qa/S1bQcXFoGbdfqbSrULUnp8uSLtWvl+CB7GjSO6kLzCpckq4IHr6VnbpetCw9I0sU2L4TYQWxMheA5sDEaKm2rmYM45mHnO0bRIbnu72oTDJNh230rfY+WluEwFcOdSNqwStoYSvulCEfUcx4znQsko4Aic6G6qNNUUU8sybTHKOh1QX8ivqHdqlUjBI3/ZemgdvZpIkMQOYY9BMiup7RJNQdppEyQOzXC+ilVn1VWOdEa4+uFBNpY9g4scigSI5HoQ==;svWM+WkF6gqNteuHifJ7QQ=="
 ---
 

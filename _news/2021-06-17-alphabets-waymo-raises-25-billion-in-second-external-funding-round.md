@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet’s self-driving unit Waymo raises $2.5B in funding round"
-    excerpt: "Alphabet’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about"
-    publishedDateTime: 2021-06-16T16:26:00Z
-    webUrl: "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/"
-    ampWebUrl: "https://nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/alphabets-self-driving-unit-waymo-raises-2-5b-in-funding/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/waymo-raises-2.5-billion.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Alphabet’s Waymo raises $2.5 billion in fresh funding in a year"
-    excerpt: "\"at-above-post addthis_tool\" data-url=\" Hyunjoo Jin and Chavi Mehta (Reuters) -Alphabet Inc’s self-driving unit Waymo said on Wednesday it raised $2.5 billion in its fresh funding round in a year after a string of defections of executives rekindled concerns about the technology struggling to scale up."
-    publishedDateTime: 2021-06-16T15:09:00Z
-    webUrl: "https://www.metro.us/alphabets-waymo-raises-2-5/"
-    ampWebUrl: "https://www.metro.us/alphabets-waymo-raises-2-5/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/alphabets-waymo-raises-2-5/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 74
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5F0Q5-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Alphabet Self-Driving Unit Waymo Raises $2.5B in Latest Funding"
     excerpt: "After its latest funding round, Alphabet's self-driving unit, Waymo, is now valued at just over $30 billion, according to some estimates."
     publishedDateTime: 2021-06-16T19:46:00Z
@@ -74,22 +42,6 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ5MzgxNTcwMDI5MTkx/royal-caribbean-reports-mixed-quarterly-results.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Waymo raises $2.5 bn to rev self-driving cars"
-    excerpt: "Waymo on Wednesday said it has raised $ ... \"We agree with those experts who say there's no greater challenge in artificial intelligence than building and deploying fully autonomous technology ..."
-    publishedDateTime: 2021-06-16T17:01:00Z
-    webUrl: "https://www.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
-    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20210616-waymo-raises-2-5-bn-to-rev-self-driving-cars"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 74
-    images:
-      - url: "https://s.rfi.fr/media/display/1a82ac8c-7171-11eb-815a-005056a964fe/w:1280/p:16x9/117cff4968f60467c0877df7eaa1c1f280054c92.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Waymo raises $2.5bn to rev self-driving cars"
     excerpt: "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ..."
@@ -135,27 +87,11 @@ related:
       domain: businessinsider.com
     quality: 60
   - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service. The Mountain View, California, company made that clear Wednesday by announcing it has raised another $2."
-    publishedDateTime: 2021-06-16T16:40:00Z
-    webUrl: "https://www.chron.com/business/article/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-    ampWebUrl: "https://www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Self-driving-car-pioneer-Waymo-gets-2-5B-to-fuel-16252444.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
     excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service"
     publishedDateTime: 2021-06-16T17:35:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318779"
     type: article
     provider:
       name: ABC
@@ -197,20 +133,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2018/08/AH-Self-Driving-Cars-Waymo.jpg"
         width: 6500
         height: 4333
-        isCached: true
-  - title: "Waymo Raises $2.5 Bn To Rev Self-driving Cars"
-    excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road. The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
-    publishedDateTime: 2021-06-16T16:53:00Z
-    webUrl: "https://www.ibtimes.com/waymo-raises-25-bn-rev-self-driving-cars-3227696"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/16/waymo-is-among-several-automotive-and-tech-firms.jpg"
-        width: 1024
-        height: 640
         isCached: true
   - title: "Alphabet’s Waymo Raises More Than $2 Billion In A Year"
     excerpt: "Waymo successfully raises $2.5 billion at its fresh funding. Despite analysts predicted it is not a good time for the company to go for IPO."
@@ -268,26 +190,6 @@ related:
         width: 870
         height: 440
         isCached: true
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions | Raleigh News & Observer"
-    excerpt: "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service."
-    publishedDateTime: 2021-06-16T16:36:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article252157813.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article252157813.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article252157813.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 32
-  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
-    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX."
-    publishedDateTime: 2021-06-17T17:26:00Z
-    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "INBfzAseT0DJJMst/eVoSAMxouZ4qK+0y+EsxH5aOr5fAuCl3ZyLb0DqeYJYlwXOITWd+pazBsHR5hziE1eBXEpOZZVMmhC6UTYbudavNJFWFOmHixX0JFExosiP9dArsaQ83QkXmrY1p75xkE7KSR/wDkGQn5XnRlIBESz3Ls6k8TlaR7DbaxKy8p25MRkuLq3oYfEbNGMlUtPTDBZONMQoSdakrVUqe/yLRziKWIV9kRtHEttFqI4UgMjx5nCevAH6dKNdPpUT1A3O7ldmPOgidqNFvD+hN0Rps5IhlCSGKPk1NCG1pkWTcI6KTY7pwRaXsWBfv+q1xpWSwVa4A779eX4M64gLHptI9hiy7dUJcyJt+GgZAc+4r2xJvQtd+IbtEKv6blfRUnC+oNUVNtIpEkVF6uZF46KEmE91FbQsHP8wKr9GHsZU2fUUsaSYLj7xVj0epqKDEknX3cJCIieh0SIl5j1ggyrquRlIf98caL3FyZc0BiI976K2WaRoIokWxSJBB5GgIgrRhNSErA==;FUPdRfU6plJq87GpRFZ9pw=="
 ---

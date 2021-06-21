@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "BME and BBF Fintech to stage sustainable finance hackathon"
-    excerpt: "The first hackathon focused on the fintech and insurtech world at an international level, concentrating on sustainable finance, will be hosted in Bilbao. The ‘Hack & Disrupt!’ event will take place on 25,"
-    publishedDateTime: 2021-06-16T16:05:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/bme-and-bbf-fintech-stage-sustainable-finance-hackathon"
+  - title: "A Fintech IPO to Watch and a Very Complex SPAC Deal"
+    excerpt: "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY"
+    publishedDateTime: 2021-06-16T22:52:00Z
+    webUrl: "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 54
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/ma/public/image/GettyImages-1205339069.jpg?itok=UKp6xhHf"
-        width: 4096
-        height: 2160
-        isCached: true
   - title: "Bitcoin Continues to Have an Impact on the Fintech Industry"
     excerpt: "Although its price failed to continue edging up at the same pace as it did during the first quarter of 2021, Bitcoin is still a trending topic in the fintech industry. For the time being, BTC is trading near $37,"
     publishedDateTime: 2021-06-17T15:16:00Z
@@ -55,20 +52,15 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Fintech South Keeps Georgia’s Rising Tech Hub on the ‘World Stage’"
-    excerpt: "The World Stage is back at the South’s largest financial technology conference starting June 22, building on an inaugural virtual summit last year that served to showcase Atlanta to a broader global audience."
-    publishedDateTime: 2021-06-18T03:32:00Z
-    webUrl: "https://www.globalatlanta.com/fintech-south-keeps-georgias-rising-tech-hub-on-the-world-stage/"
+  - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
+    excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
+    publishedDateTime: 2021-06-18T10:02:00Z
+    webUrl: "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup"
     type: article
     provider:
-      name: Global Atlanta
-      domain: globalatlanta.com
-    quality: 24
-    images:
-      - url: "https://www.globalatlanta.com/wp-content/uploads/Screen-Shot-2021-06-17-at-11.26.07-PM.png"
-        width: 1952
-        height: 842
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "Convergence of Telco and FinTech Businesses Can Drive Financial Inclusion In A Tough Economy"
     excerpt: "New technologies available to telecommunications operators (telcos) and financial service providers (FinTechs) are combining to lead"
     publishedDateTime: 2021-06-18T09:03:00Z
@@ -83,16 +75,7 @@ related:
         width: 600
         height: 940
         isCached: true
-  - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
-    excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
-    publishedDateTime: 2021-06-18T20:05:00Z
-    webUrl: "https://www.econotimes.com/KT-to-invest-236-billion-won-in-fintech-Webcash-Group-1611096"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 4
 
-secured: "zrptGkXgufeYH0dTEMtxh7VxJv4LC1onb2sX4WpSDsqWDb3Hpx6Op0TvyoA2F1c0s8SkcvJOf63CbtbvQSe/eYrcjNVvknOQUWfTs1NmpxLpBbQsFUFanyZtHIoapiAR9KRocDwZmBxgNJliYutaoMySYK5itcdWVWLEOkQsu4K5Y8w3y/lTgOpgFGIwxlkweR5HMciWPWg6Jg5FrnD9EZTV+iZv7npchqw2vLywyFpi7s2+k80ttW2S/FI4lJPTpQfA9icCs+upMaAT9kGjNJVr2tmQ8ajfOEqQn8kMhdkI7r0Eme/iZOaDpcoK1t+IeFF0II7HbJl9HJnuJGqRbfshYpp+EQyHrV+jNK6SdA4=;vsmxYcegd+ltZJDGbpldNQ=="
+secured: "JSOHUP1KBr1FQ2T24WlG+LfsiJaBkgLnaufJZNGV0nil7WBW4MZB1+KXvXRDRSeYVSrRhz2VV9JjGk6Ihrn3lWtPp/g+Mynpq85cK5RDT9kn7igF2Xgda562j7tjpq6Hp8Sdk2nsttF/LNvE2GaHgbTBAhCLrQcTs0bIo6x92RV781aC0wxze50+ST0ejJSTKI7SZLo45S63V02XdnLd5Ad0+kCAMPjB+Lxe7nJ8qxs06uvmqhLFIKbrXA3FyI2cdK7KfegVye2i3RUITbthiuI0QavVNMTA8yVIhXgNL4whG9qTEMlPv0YUvqfuhCrzUs7NCp5LOuz5tX/ifzBbjmcw2xWakAmANlzmWUG6FCEHUJimB/Bn7oHUIO3lC4eFwCLDFacIu5H16HIf/YD9XmvL3zi1pqT1vw5LcDKrnuL8VSw1J4E7tyyNJJezUpFbhN6zn+9+nx0YCKp3KvVrU2ppJCPMfs9gkgV8nYVcUrQUTEfbzZtJrZXQm2a5O05RTuCgtdLvYY5DMqCR2ZCmqA==;u1rkXAgjrJqr0yc8eQYLwQ=="
 ---
 

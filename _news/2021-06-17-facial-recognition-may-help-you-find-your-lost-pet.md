@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial Recognition Bill Gets Initial Approval in Maine"
-    excerpt: "A proposal for Maine to require statewide regulations on the use of facial recognition by police and other agencies has cleared its first hurdle in the Legislature."
-    publishedDateTime: 2021-06-16T16:32:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2021-06-16/facial-recognition-bill-gets-initial-approval-in-maine"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "EAB webinar looks at facial recognition for criminal investigations in EU countries"
     excerpt: "European Association for Biometrics (EAB) webinar explored the role of facial recognition technologies in criminal investigations across the EU Member States."
     publishedDateTime: 2021-06-16T23:22:00Z

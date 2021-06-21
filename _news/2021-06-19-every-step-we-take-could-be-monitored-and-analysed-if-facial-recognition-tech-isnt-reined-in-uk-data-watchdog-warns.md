@@ -89,6 +89,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Britain's Information Commissioner issues warning over facial recognition"
+    excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
+    publishedDateTime: 2021-06-21T07:43:00Z
+    webUrl: "https://www.computing.co.uk/news/4033149/information-commissioner-warning-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 53
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/843344f/4c5182c5-5994-4830-97e7-0bcdb98a8643/6/live-facial-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z

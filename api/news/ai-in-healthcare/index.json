@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-future-artificial-intelligence-will-happen-at-the-edge.md",
-      "title": "Future artificial intelligence will happen at the edge",
-      "excerpt": "Opinion: Currently the trend is to move the bulk of the processing and intelligence to the edge or closer to the source of the data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736",
-      "originalUrl": "https://www.iol.co.za/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/Photo-File?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/33b5a18b-4abc-5f59-9582-87502577d13e&operation=CROP&offset=53x0&resize=951x535",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/future-artificial-intelligence-will-happen-at-the-edge-38824fd0-877a-42b4-8a95-a9af5ce09736",
-      "publishedDateTime": "2021-06-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-06-18-impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends.md",
       "title": "Impact Of Covid-19 On Computer Vision in Healthcare Market 2021: Remarking Enormous Growth With Recent Trends",
       "excerpt": "Revenue for Computer Vision in Healthcare Market has grown substantially over the five years to 2021 as a result",
@@ -148,6 +104,49 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-cogstack-wins-an-artificial-intelligence-in-health-and-care-award.md",
+      "title": "CogStack wins an Artificial Intelligence in Health and Care Award",
+      "excerpt": "CogStack wins an Artificial Intelligence in Health and Care Award. Cogstack is an information retrieval, extraction and natural language processing platform develope",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award",
+      "originalUrl": "https://www.kcl.ac.uk/news/cogstack-wins-an-artificial-intelligence-in-health-and-care-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kcl.ac.uk/image-library/ioppn-news/scientist-with-laptop-clipboard-and-display-of-human-anatomy.x2b64218b.jpg?w=808&h=440&crop=780,440,14,0&f=webp",
+          "width": 780,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kcl.ac.uk",
+        "domain": "kcl.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -224,49 +223,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-cogstack-wins-an-artificial-intelligence-in-health-and-care-award.md",
-      "title": "CogStack wins an Artificial Intelligence in Health and Care Award",
-      "excerpt": "Cogstack is an information retrieval, extraction and natural language processing platform developed by researchers at the NIHR Maudsley BRC and",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/",
-      "originalUrl": "https://www.miragenews.com/cogstack-wins-an-artificial-intelligence-in-578831/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mypolice.qld.gov.au/wp-content/uploads/2018/12/Police2111-8-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1341,6 +1297,49 @@
       "provider": {
         "name": "businesslive.co.za",
         "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-lgbt-conversion-therapy-banned-on-facebook-yet-posts-in-arabic-are-thriving.md",
+      "title": "LGBT+ conversion therapy banned on Facebook yet posts in Arabic are thriving",
+      "excerpt": "As a teenager, he stumbled on the Facebook page of Awsam Wasfy, who now has nearly 150,000 followers and still says his therapy sessions can “treat” homosexuality. Recommended",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "originalUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2021/06/03/09/SEI81480991.jpg?width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "publishedDateTime": "2021-06-03T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

@@ -73,6 +73,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Britain's Information Commissioner issues warning over facial recognition"
+    excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
+    publishedDateTime: 2021-06-21T07:43:00Z
+    webUrl: "https://www.computing.co.uk/news/4033149/information-commissioner-warning-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 53
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/843344f/4c5182c5-5994-4830-97e7-0bcdb98a8643/6/live-facial-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z
@@ -183,6 +197,6 @@ related:
       domain: dailyexcelsior.com
     quality: 9
 
-secured: "L6mMa5sY/3nriyaerDpVwug8irYT9yK12Nbqwn9A3rkCY5huS1RZD3Nh013ljKv1b9Srbm2kV6w474WFo6vdiMwE/1+1x46234EP0X0d9jC0N3cV/eE0zKk2a+I2O46eMFO8MTNdUgcj07OJs0dMcYh5AJH+r4DvJhKCZNtIzF7dbV+Rra8Uy5aJZXOQru16ToZNABNen4VIKjBAc/2bMWLD4reDFn8OtbVEG5zyCVH6YIUa2uKg37mo+3rih65deYDX83p+MKuy0fXP/kmecu3KCwS7UGngUw9eIfZ0M+z7dmXLkG1AB5vIEf9VpwAzk01ww/2TvJArOLSJP2J8a+JbDNhuP1+oAl6qklnC0X0=;YYVWEGtR1TFsqLb43Be6hQ=="
+secured: "q0iyg9ZL2cYvhdSmGRJtTOeV425iiN7scyfc28wCzzDp8kfWVe29Z1G7yiQ0QBlrkOhTaCWQ19T7Lj+nAyEnRYBG8z5aR7csZB5kJA7Eq2v7TPCEcbv3BijwwpM2nLkSl+w//KiBJS5HRea9TSFYJQ3ai16R4Wf4b9KGgIDi/TmDlPc575kKc+EtNS7TGK8jKHhEKhEBuqR9/P3bPfDNjmiGXDvD8+sYB1jJICVGWitVnYVHWYleSWnLoyqsVh4yJUR5BSW+4IxwjproQ4d7aXB0SrnwT+cOFaxl04dly+7frBlnKRQI9a1ST/ROctx97WrJnFdo8KtrYSHvvYCID2IquUoqziASoMHiJ7vyEiMvz8Su5LXYEAF61n+Dhc6x6peQBgO7/0ScSXYTGU3jLgLuN8g/tOHZ2Zt1NeQihfsKKXUWC2WCo8qxT5uJsrGxFLA5S67wUiTFA/Smvml3rRoLj962BDq9cIpnV+YXelLfHKYTRdh35P2Yt2tmyAhbYr7nri50HrLLdmQJZyX4dg==;fXxwGGSfgG6OThmHwI1pjg=="
 ---
 
