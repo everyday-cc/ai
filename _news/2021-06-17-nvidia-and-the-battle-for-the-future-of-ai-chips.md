@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -41,6 +41,29 @@ related:
         width: 400
         height: 276
         isCached: true
+  - title: "Here’s How Artificial Intelligence Will Take Nvidia Stock to New Highs"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today is record day for the 4-for-1 stock split of shares of Nvidia"
+    publishedDateTime: 2021-06-21T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-1030538421"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "These 9 Top Nvidia Partners Are Driving AI Growth Across Industries"
+    excerpt: "An Nvidia exec explains the formula behind the company's top nine partners of 2020 who drove growth in AI solutions for vertical industries."
+    publishedDateTime: 2021-06-21T19:39:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/these-9-top-nvidia-partners-are-driving-ai-growth-across-industries"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0268-12061e36b423-ba167a1fc5d1-1000/nvidia-2.jpg"
+        width: 608
+        height: 457
+        isCached: true
   - title: "Why maps are important to Nvidia’s self-driving strategy"
     excerpt: "To Nvidia, maps are a critical component for self-driving cars, particularly regarding safety, which will be one of the main priorities to get consumers to adopt the technology. The acquisition of DeepMap adds AV-specific HD maps to Nvidia’s Drive platform — the company’s software-defined end-to-end AV product that includes deep neural network training and validation in the data center for compute in vehicles."
     publishedDateTime: 2021-06-18T12:29:00Z
@@ -51,6 +74,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "/netK9w19U5loCdKN+IgmBbyQ1pxpuT39hEaTrYJev8/HaMkBcvDLLIDXKkm9XmfQh27V+xJOC3VXRSUMxHpoPS0QDoYmjrwCKa+VqSs0KcuIb2q9hw32haoGYO3nCf5YvTjKefOLn0lfBS7W3Ebrnpxxu3/O3HJR93EBGKZvwv+WgTXjLGMggp0P3lsp9+gJ8hzEJEyO8ktuOkYFVGTI+NuzmclJ6lNI6bJRh8czdAFXBuBO8GgQee26jXE8wc/6gGFrZlPP0S+Q1+j40iOxRkq3NE1QR7BmgbxoAoUJd8cqA9XaoAowjnJzbrGWpD4Lo3BR2IqR6Ur7Tv3XHs+mbi/lzKyTRCYUm7WtOppfWw=;OfrwQ117OfHYfzRJsjHmig=="
+secured: "n+xSrGfzax/+hoPW6juMikCx6f9oFsgg5UYYibVRpUjh1ECq/l8G6M27Ff/uV1+JCypLdXJPVn+r2VV6NlBhLnCdh2MG9GWSrZZwJGDaZDAcNuZQRZQEn/xiKsCR8EIL8w2wxPVSEzILC0SwajF/HS1NnOQwg4E1SilUBFrMqRgCRRPVc1FTj+O/2t5UUjUDQokQh/hMDWUGI8VDuvPFvgYLzOEOWPAwHNiCZkcKPpRVtDvH/Z+rbNIqkMPRpVNnGsRSndlXc5+ogod6LUVtcn0t1XTGCyeOTbSSUda4rpYLoUCwxd1EepsrXpCOQLy8cTbYulfKMRrtUy18Q3Icfxmcu39tz0E31/RFY3iHrZFfkhIwK7pLUlIreTwtmGRVpQ4lDqlWghxdKvRmSX5RkfPqYlQIdjtClR7eG7zZiStAho2CMcujK99jGUZPItF5Nv2V3xYIKSw7tJlTejPCq/Aj+z2xMxM4AqlcnuY59wwOU2U/5ZzPteBKBN2J06EfoFfe3kSPSMWdIvRrrAc7mQ==;xJZQWP5wZYxP2r5ASGbxOg=="
 ---
 

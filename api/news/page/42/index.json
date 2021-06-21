@@ -2,6 +2,102 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-05-20-mythic-ai-gets-funding-to-mass-produce-edge-chips.md",
+      "title": "Mythic AI gets funding to mass-produce edge chips",
+      "excerpt": "Just six months after unveiling its first AI inferencing processor, Mythic AI has announced a new round of funding for $70 million in Series C investment to begin mass production of its chips and to develop its next generation of hardware and software products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
+      "originalUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/neural-network1-100860577-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3619026/mythic-ai-gets-funding-to-mass-produce-edge-chips.amp.html",
+      "publishedDateTime": "2021-05-19T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
+      "title": "States move to limit government use of facial recognition software",
+      "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/05/19/states-move-to-limit-government-use-of-facial-recognition-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106885665-16214663711621466368-16206523822-1080pnbcnews.jpg?v=1621466370",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
       "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
       "excerpt": "Is Now The Time To Add These Top Artificial Intelligence Stocks To Your Portfolio ... employs AI tech through its Amazon Web Services (AWS) cloud computing service. AMZN stock currently trades ...",
@@ -1104,101 +1200,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body.md",
-      "title": "Clarius Introduces First Ultrasound System That Uses AI and Machine Learning to Recognize Anatomy for an Instant Window into the Body",
-      "excerpt": "In its biggest Clarius Ultrasound App update to date, Clarius Mobile Health is introducing the ability for its wireless ultrasound systems to automatically detect body anatomy being scanned by clinicians.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/clarius-introduces-first-ultrasound-system-that-uses-ai-and-machine-learning-to-recognize-anatomy-for-an-instant-window-into-the-body-1030446289",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1513251/Clarius.jpg",
-          "width": 400,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-south-korean-startup-cryptocurrency-platform-to-start-blockchain-bank.md",
-      "title": "South Korean startup, cryptocurrency platform to start blockchain bank",
-      "excerpt": "South Korean startup Bloom Technology announced it will join cryptocurrency trading platform IDCM Asia to set up a blockchain-based bank in Dubai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4431621433182/2021/1/16214336372176/v1.5/South-Korean-startup-cryptocurrency-platform-to-start-blockchain-bank.jpg",
-          "width": 679,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/05/19/skorea-Blockchain-bank-Bloom-Technology-IDCM-Asia-cyptocurrency/4431621433182/",
-      "publishedDateTime": "2021-05-19T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

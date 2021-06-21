@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Security
+  - Computer Vision
 
 related:
   - title: "Ambarella unveils two new AI chip families for 4K security cameras"

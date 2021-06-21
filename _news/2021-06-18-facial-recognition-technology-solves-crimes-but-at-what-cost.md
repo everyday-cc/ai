@@ -170,20 +170,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
-    excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
-    publishedDateTime: 2021-06-17T02:29:00Z
-    webUrl: "https://www.wsws.org/en/articles/2021/06/17/surv-j17.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 13
-    images:
-      - url: "https://www.wsws.org/asset/d3c5a9cb-8907-4c7a-8427-8970a85cec43?rendition=image1280"
-        width: 1280
-        height: 711
-        isCached: true
 
 secured: "LdUUSbU/KEMV2hYhkKju8OUJxFdfOqhaoo9BoIi7OlRA9gtR20CbXCBP2gUG380mf6/gC2qRaVasdhs57IriWwFL5VzhBYIU7ALbW+wZFsBXL5p/AZSnzfUPLqGsXh0hwaexGSEGs4PPKkfP4AEmrn5AfHx0kQiseQBjtPzB33XzRMKsZDiqQWl+OUWuPt5hiWbX2bvtU79gPmU62krgms3RX892+du97nhneAPjmK86r76gt1wToGG5Z/YCI9xxhrlCIKM00aoDcljqGY8egz92JOq5t7sJp1dDQ4mXezXMpzE+yiHv5duYyZqYcHTUDhFGeMR4tM7XP5eJNwH9JYl2OzUwgSYxwARdobXautUT/uh2Uni8W1wlXvclSRZP0Div5WotDyrMscnxpvXspYTyn3j9Wf0HNouDQhK/o/tdavqHDLWhpAZuPLAPA63o9JO2S8axGeKEkj/I6k/nOhtMo6sM5R5BvJYrEPF6kaF5plWrezPrWFpYMILq4B3P3Na07TyW426v5qJRx/DMCg==;f83QxIpJOGL8tMZIYD2tUw=="
 ---

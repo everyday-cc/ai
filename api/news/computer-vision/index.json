@@ -114,7 +114,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1382,21 +1382,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-08-ban-facial-recognition-software-in-baltimore-and-beyond-reader-commentary.md",
-      "title": "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY",
-      "excerpt": "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use.",
+      "path": "_news/2021-06-08-apple-brings-systemwide-visual-text-recognition-to-ios-15.md",
+      "title": "Apple Brings Systemwide Visual Text Recognition to iOS 15",
+      "excerpt": "Apple today announced Live Text, a new feature of iOS that provides intelligent text and object recognition for images. In iOS 15, photos (new and existing), screenshots, and images on the wen ...",
       "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
-      "originalUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html",
+      "webUrl": "https://www.phonescoop.com/articles/article.php?a=22535",
+      "originalUrl": "https://www.phonescoop.com/articles/article.php?a=22535",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.baltimoresun.com/resizer/GpjHHHC-nREJPKpkaOjkUIjB7Ew=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YNDRXEDELVAIHAPJ6WXJ4Z3FIA.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://www.phonescoop.com/img/a/f/22535_600_a_1568355563e93bf28c1bd97ecad30b4b.jpg",
+          "width": 433,
+          "height": 831,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1404,13 +1404,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-facial-recognition-ban-letter-20210607-nfprrlkvrjabln2nfmo5exwtr4-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-07T11:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T11:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
+        "name": "Phone Scoop",
+        "domain": "phonescoop.com",
         "images": null,
         "publishers": null,
         "authors": null

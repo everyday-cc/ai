@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelengt
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502570/Vodafone-AWS-Wavelength-unveil-Europes-first-multi-access-edge-computing-services?amp=1"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 400
     isCached: true
-
-related:
-  - title: "Vodafone to Offer Low-latency MEC Services in London using AWS Wavelength"
-    excerpt: "Vodafone has partnered with AWS to launch Multi-access Edge Compute (MEC) services delivered with AWS Wavelength for"
-    publishedDateTime: 2021-06-17T02:19:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20011-vodafone-to-offer-low-latency-mec-services-in-london-using-aws-wavelength"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 38
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e6e53316dab589701282337c324db2a8.jpg?t=20210617_021816"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "BvBhmL/eL/GjzwD33GdgpNpwwUg5nYZlWYX/a5H5jpe9d7DweiCw3FA20q9Cn7bzIYNo72/TQgjm0kE8WCLaABbIdw38MSwHARsCpwdE71WVFYycV9Qae51TDb+ujgYTvMzYtbRv4NzfJpVlG2nS/tUoBt6NzMvyzJ5tIELnRZbSoc0K5wcOCZbe9o/gUvKFHuQvNstYM8UuxoDJLUvIWPc3I2ygD/jb41HDfSsgS3zvUZsnfIvy3bRtDl0Dz9hL9RtYiLjOh/rOAAux6KwsKrdBp0JYoBP+YCqkSJfwTvHRZP4rkBWKtl4QNL7Lo5vC1aGlBIWtNRdpE8djXQ+PFA3+IBB6U95D7ToH42lNQdSeEpWs7eLEqPwL11DK3gnJagmDmjQ5TFAE9nA1uZ+fMhZ8jexypaEsYF8ML33/avXqsSyXAg1WVIsof9gY9Mpf++O57gJi0kuaCbcLOCM0U12s1V4DlFx0JSEpyyTiAmKOArW39OV6DFXpGVkzMdywjEvjhcNyR5GV/QrjS5WTOQ==;J9YN0CY1lb0L3ydYAPvF5Q=="
 ---

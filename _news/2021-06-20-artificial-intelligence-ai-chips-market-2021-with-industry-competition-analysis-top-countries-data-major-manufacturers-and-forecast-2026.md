@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
+    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
+    publishedDateTime: 2021-06-21T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
     excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
     publishedDateTime: 2021-06-21T10:44:00Z
@@ -119,7 +133,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 5
+    quality: 7
   - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
     publishedDateTime: 2021-06-18T16:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-so
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images?amp=1"
 type: article
 quality: 85
-heat: 245
+heat: 255
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2020/09/john-krasinski-deepfake-captain-america-marvel.jpg?quality=70&strip=all"
         width: 1600
         height: 831
+        isCached: true
+  - title: "Facebook researchers develop new method for detecting deepfakes"
+    excerpt: "Facebook announced a new method of detecting and attributing deepfakes that relies on reverse-engineering from a single AI-generated image."
+    publishedDateTime: 2021-06-21T18:59:00Z
+    webUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for-detecting-deepfakes/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/06/201128738_125596109600498_3035022110971320247_n.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Facebook Baby Steps Toward Identifying Deep Fake Images & Their Source"
     excerpt: "Facebook and Michigan State University have revealed a new method for identifying deep fake images and tracing them back to their source. Or, at the very"

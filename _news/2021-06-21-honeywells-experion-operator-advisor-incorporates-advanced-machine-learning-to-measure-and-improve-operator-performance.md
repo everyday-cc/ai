@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Honeywell's Experion Operator Advisor Incorporates Advanced Machine Learning To Measure And Improve Operator Performance"
-excerpt: "Honeywell (Nasdaq: HON) announced today the addition of Operator Advisor to its Experion® Highly Augmented Lookahead Operations (HALO)"
-publishedDateTime: 2021-06-21T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/honeywells-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance-301316115.html"
-webUrl: "https://www.prnewswire.com/news-releases/honeywells-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance-301316115.html"
+excerpt: "Honeywell (Nasdaq: HON) announced today the addition of Operator Advisor to its Experion® Highly Augmented Lookahead Operations (HALO) suite. This powerful software solution enables plant owners to objectively measure gaps and drive operator effectiveness to the next level."
+publishedDateTime: 2021-06-21T14:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/honeywell-s-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance-1030539822"
+webUrl: "https://markets.businessinsider.com/news/stocks/honeywell-s-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance-1030539822"
 type: article
-quality: 0
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -34,6 +38,6 @@ related:
         height: 313
         isCached: true
 
-secured: "DeMNZauaSJDZs8J2ee+gs1GDcirFQ7hgse0hhmhOXUi48/asT5o6PnuPDUUZ4/cnezn1aalPs3oMPvMTwmB04RVbqhbbQY35DbimMxMPNjVPu8AbfhFQ9kP+i44aBA2mGApBbKwxLMsar5aFj6qVbm3Dt41m0FS2UJY75C10yGKN/ix9egRb17uR2GEN0lTjA4L/RRh/pWJM7MZb+1e5dD2TXFIuNs1r5/FVazkX7B3UqXFTEZpywsUm3mqd56NkrtGzQAk6vjT0qL5moTQAkmgLkbbM8eBmUOBzcal1rVDWWqCnKtAf5lZ1kQttLEcuSYIbuWJ70j6RkYhQ1Ly2Dua5ek1OuCPo0Ht+pmSfjRg=;Ih7raYQsW2KM/Qbign4biA=="
+secured: "Gt25TwwLnIhaPXaDBFges94B7qCtUh+6YW462Hc4iFU4T9ueNa4TCZGEdnhG2bCttjO6d3qJBONtAWYuGwkudnAn4HScOqLMV6hGIfywQUwwwiEgdcXRWKgXscdnnERVxlnsRq6vi+f2CaIuc1V2zGfv4M9mfn/+dO5ZkvegNQ8WcXd2QBnqA5V/vK1SxjMfXp0uVQIlG+TNAKz2Oa03YD1CY40KaDZQ5fHi8eWnnMTgjr1A6krwL1rJP/a13sYOKrWFfcjC8uoMZVdYfn9xmres+0gYXpacrxwCmN+3Wiol6qkgtqCaO9ducDybKOQ6qCqr/bKSml1EmqEtmiMvLT3wOUbxEN/aXObH8Mac37M=;bn0f8h1p3me1X2Tp/4hQPQ=="
 ---
 

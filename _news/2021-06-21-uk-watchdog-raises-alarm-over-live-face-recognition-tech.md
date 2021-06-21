@@ -169,20 +169,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
-    excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
-    publishedDateTime: 2021-06-17T02:29:00Z
-    webUrl: "https://www.wsws.org/en/articles/2021/06/17/surv-j17.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 13
-    images:
-      - url: "https://www.wsws.org/asset/d3c5a9cb-8907-4c7a-8427-8970a85cec43?rendition=image1280"
-        width: 1280
-        height: 711
-        isCached: true
 
 secured: "gOgDF8m5dQtSUv4LVGR4yoW3TASbncj9dDTabBz2f5a1pht9pOAu2h99GXdme2CxI/Kw4ZrTbldzpK/r+nr95IM2mMXAq/8BHe5dkRb6XRXykuZjsWK9p0YMZNYPiAAAAJVJtBfFPZpKqRbhwzeCa+pTRHPq/3zMpfKU0tK5vw02hJE1xTvskrvBpMup4ELLwvCub3YSMK9N0G7ubmdL4a1Js9RHKBQKOlCVIru2KLsk2DGxBzKDYJAzC2XKF7Li1qwNX7JBdmZFPd5uBV2WzQnImzmUtAlUsdNYyDLRgYY4FDOh0xcEEivsBgqeZhVsqC30Q88jiOZO8mwsTnzq0FHjpvK8MmJw0XiuEVjVOU4=;W/inw2gyZDPbl7lZ5JmCCw=="
 ---

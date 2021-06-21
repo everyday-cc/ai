@@ -39,22 +39,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "FinTech Wise Plans Direct Listing On London Stock Exchange"
-    excerpt: "FinTech payments startup Wise is planning one of the first direct listings on the London Stock Exchange (LSE) and is not raising any funds."
-    publishedDateTime: 2021-06-17T10:48:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/fintech-wise-plans-direct-listing-on-london-stock-exchange/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/fintech-wise-plans-direct-listing-on-london-stock-exchange/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/fintech-wise-plans-direct-listing-on-london-stock-exchange/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1432903301-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Fintech South Keeps Georgia’s Rising Tech Hub on the ‘World Stage’"
     excerpt: "The World Stage is back at the South’s largest financial technology conference starting June 22, building on an inaugural virtual summit last year that served to showcase Atlanta to a broader global audience."
     publishedDateTime: 2021-06-18T03:32:00Z

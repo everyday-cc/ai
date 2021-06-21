@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-14-rules-around-facial-recognition-and-policing-remain-blurry.md",
+      "title": "Rules around facial recognition and policing remain blurry",
+      "excerpt": "Privacy advocates say they remain concerned about a lack of federal facial recognition laws and persistent police surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106604133-15940414202020-06-30t233559z_1802976591_rc2zjh99gjtu_rtrmadp_0_minneapolis-police-new-york.jpeg?v=1594041462",
+          "width": 3065,
+          "height": 2043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/12/a-year-later-tech-companies-calls-to-regulate-facial-recognition-met-with-little-progress.html",
+      "publishedDateTime": "2021-06-14T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-aiml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media.md",
       "title": "AI/ML Innovations Inc. Announces New Chief Financial Officer and Engagement with Winning Media",
       "excerpt": "TORONTO, ON / ACCESSWIRE / June 14, 2021 / AI/ML Innovations Inc. (CSE:AIML) (OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
@@ -1102,57 +1155,6 @@
         "Google AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-the-hard-truth-why-we-push-back-on-ai-when-discussing-diversity-and-recruitment.md",
-      "title": "The Hard Truth - Why We Push Back On AI When Discussing Diversity And Recruitment",
-      "excerpt": "The processes around recruitment are continuously scrutinized as organizations consciously implement interventions to minimize biases; for example, blind CVs and unconscious bias training for individuals on interview panels are two of the most common examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c47dead5a2f25eacb4012e%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "publishedDateTime": "2021-06-12T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -107,6 +107,20 @@ related:
         width: 1600
         height: 831
         isCached: true
+  - title: "Facebook researchers develop new method for detecting deepfakes"
+    excerpt: "Facebook announced a new method of detecting and attributing deepfakes that relies on reverse-engineering from a single AI-generated image."
+    publishedDateTime: 2021-06-21T18:59:00Z
+    webUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for-detecting-deepfakes/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/06/201128738_125596109600498_3035022110971320247_n.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Sickos behind celebrity porn deepfakes can now be exposed by Facebook"
     excerpt: "FACEBOOK is cracking down on fake images used to mislead its users. Scientists at the US tech titan said Wednesday that they developed software to not only identify “deepfake” images"
     publishedDateTime: 2021-06-17T18:04:00Z

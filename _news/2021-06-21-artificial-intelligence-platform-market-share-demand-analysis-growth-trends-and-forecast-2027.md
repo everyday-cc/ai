@@ -76,6 +76,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
+    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
+    publishedDateTime: 2021-06-21T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Worldwide Data Monetization Industry to 2026 - North America is Expected to Hold Major Share"
     excerpt: "The \"Data Monetization Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added"
     publishedDateTime: 2021-06-18T12:23:00Z
@@ -113,7 +127,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 5
+    quality: 7
   - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
     publishedDateTime: 2021-06-18T16:36:00Z

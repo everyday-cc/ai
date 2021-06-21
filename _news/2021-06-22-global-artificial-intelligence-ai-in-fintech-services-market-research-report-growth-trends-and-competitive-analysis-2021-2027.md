@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-21T17:22:00Z
 originalUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
 webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Finance
 
 related:
   - title: "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026"
@@ -74,6 +75,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
+    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
+    publishedDateTime: 2021-06-21T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
     excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"

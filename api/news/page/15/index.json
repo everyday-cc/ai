@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
+      "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
+      "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60be5936c3c83c5a7cf355c9%2F0x0.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/08/using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity/amp/",
+      "publishedDateTime": "2021-06-08T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-apple-m1-chip-makes-adobe-apps-80-faster-and-some-gains-are-bigger-still.md",
       "title": "Apple M1 chip makes Adobe apps 80% faster, and some gains are bigger still",
       "excerpt": "Apple is rolling out its new M1 processor across its hardware range. It’s designed for better performance and lower power consumption, and uses unified memory and a Neural Engine for AI-driven tasks.",
@@ -1121,40 +1173,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.md",
-      "title": "Localized Prostate Cancer Therapy: Interview with Shyam Natarajan, CEO of Avenda Health",
-      "excerpt": "Avenda Health, a medtech company based in Santa Monica, California has developed the Focal Therapy System. It provides AI-powered prostate cancer therapy with the aim of treating only tumorous tissues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
-      "originalUrl": "https://www.medgadget.com/2021/06/localized-prostate-cancer-therapy-interview-with-shyam-natarajan-ceo-of-avenda-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

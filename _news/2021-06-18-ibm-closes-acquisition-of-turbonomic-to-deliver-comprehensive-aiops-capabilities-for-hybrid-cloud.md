@@ -47,6 +47,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
+    publishedDateTime: 2021-06-21T18:20:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Closes-on-Turbonomic-Acquisition-to-Deliver-Comprehensive-AIOps-Capabilities-for-Hybrid-Cloud-147575.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 26
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
     publishedDateTime: 2021-06-18T14:50:00Z
@@ -90,6 +104,6 @@ related:
         height: 457
         isCached: true
 
-secured: "k0HqGjfM6DEEI3SEmzsZ6A9UJxIryl4gwdB83qbBZuJKK9lKMWZNlbHsvy13Vk6LaSJzMwc6l4rldipZfqNPzFdRrL7Z4IzumLdx1ApFVCxmgeA7TagM8QiGWCMk1dMH5Kgn0YMgFqM03kM7PsA/PIx434D+iSCQALMmYaFXBXoRnLG9NjYzX3rwszRnrNyHnip+X+URhlmlJLyHP3oa5P83/7k5mJ3b8PMgLHewJJQH33gPO2Nj7hmKwergwvfIN+DWYBgr3QxaOqS9f0ZbkXgZA3k7/BBC3OCTeETsSnuRa2fPXLjdoJenzxuqck7ZOXFmEYkD8nQ6V2yFvztVedYndZoyS802xEls6nQHm2g=;O50annmpK6AXG/uyEpx5HA=="
+secured: "Evfp/aN/qZEQ6KuDuvmHA/rSUmnnqKMuS3PJohC6TI+BJqbS/4DNnZt+p4E8i92I6iNoILplgN+3PNX8O5cHK15huuvyE1nmQP9nkyJ5GVIVbC7JURg1auIMxfQ8IgSBNOYeCUU/CADhb0XPKikBMY1+YWvV5mTEBTCFDRGU+Wakmp38orZo7tB2EVh7uUkbAY8FhdqoubtnXrR7SckvI52z6bFRN5N+j8noc2pwihaWewpB6HkCH417Frb05jccMkaAuG+C4pSTMcYwWtW00xpLj7m/4vHsux6HyB9+vJxhSnZR90XH4SNJfhR2VMG6lyYKh2+gNUrTUFTHcVE8AGvTfUn9GuFX4gGXH1PCJZ0=;0/zvu/EwHEgffyhCl0quOA=="
 ---
 

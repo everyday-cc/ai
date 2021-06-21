@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -174,20 +174,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
-    excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
-    publishedDateTime: 2021-06-17T02:29:00Z
-    webUrl: "https://www.wsws.org/en/articles/2021/06/17/surv-j17.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 13
-    images:
-      - url: "https://www.wsws.org/asset/d3c5a9cb-8907-4c7a-8427-8970a85cec43?rendition=image1280"
-        width: 1280
-        height: 711
-        isCached: true
 
 secured: "38mq3SG0GXKet88TwhalXIMydn2M1ZzG7eaKdlSdqhRxyihR3cqRrbiizBZhHB3iZ3Vtu0Dvu9OrKXaFEmbX1/P9+L73a4+LU1lKkax3ADJlSmWE74L37oCE8mV4U2hJn5JD+J1sOnjW0XxlBnszarrf4Jv1XwJt+PaWGvl4Dw95YZQ/BFpNv0oG/NIWZ0D+gVeznh0rEETlJ32QiN5wP7NDgpvhRt9oc4CvCb3izbCiEvggZNHg8g0tzu5yiuSBRBXUCKywMnhtDEGN3GoUt36YT1oOphEWFlcoV119a7HAB+LhUrbj9nCxQ1C2//CkZQ7wUgWRmL2J01Tjcaxp9wChZhcAIH7Eu9yKrVprPjI=;SghNRG2lVeK1gwwOAoosqg=="
 ---

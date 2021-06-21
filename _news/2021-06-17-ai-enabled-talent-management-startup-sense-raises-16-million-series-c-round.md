@@ -79,20 +79,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "AI-powered customer relationship startup Introhive raises $100M for further growth"
-    excerpt: "Artificial intelligence-powered customer relationship startup Introhive Services Inc. has raised $100 million in new funding for strategic acquisitions, to expand its global footprint and grow its headcount."
-    publishedDateTime: 2021-06-17T02:48:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/ai-powered-customer-relationship-startup-introhive-raises-100m-growth/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/introhive.png"
-        width: 1500
-        height: 889
-        isCached: true
 
 secured: "dP/T/Pqw/UlIMFJ1wdx0TkhrMrqUeOHv+kOOHT5gJvDUd3OZi7FLsrqoJ64FWjkJmmo75pkFJ5vBId0o9R9iCzxXnufSJufiiFWtz91vRcOumJic1jIzdXoFB+4BmMVACEhYYPtTB869d/Faq5UcY97HKAPvFzWGtEwPfevVHB8Db8gfoAWZypOOYqkxhHKjRgiZPIJzVk5+dre1tT5uvMDYFaYoK6VI4McX1V2RdqZApu/N6JAGhspa9b7vEPRKomemWH6bWIzy9GMxoHB52uq62a3LKz1oGPUSj9eqogryycy4qmphWtofGgUtMEWbu2s3eYKhf6CdxD1O38xUXJ6QJyju4sd/gsI635/1JtIRGGgfAt+MXZElmME5/zZLTYSqXKPD7Xwfjtfkcakk73O7N2x83eIRKx0lrHJ38qWqUgHizsUXxkV67YqeHBajr8Fp42NmvfCgYBGRvWfrpsAs5Lm2hD1qqlQLleSuhIhZMvfFSUGtl9xwlhP/kJFVhtq7pcW5wCblSMpYuLr5fA==;4Jv9ZC78CNV9xnPpgXOeBw=="
 ---

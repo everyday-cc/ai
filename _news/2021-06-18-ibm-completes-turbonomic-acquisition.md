@@ -46,6 +46,20 @@ related:
         width: 2698
         height: 1414
         isCached: true
+  - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
+    publishedDateTime: 2021-06-21T18:20:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Closes-on-Turbonomic-Acquisition-to-Deliver-Comprehensive-AIOps-Capabilities-for-Hybrid-Cloud-147575.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 26
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
     publishedDateTime: 2021-06-18T14:50:00Z

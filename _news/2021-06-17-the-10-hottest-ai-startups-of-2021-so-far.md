@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/internet-of-things/the-10-hottest-
 webUrl: "https://www.crn.com/slide-shows/internet-of-things/the-10-hottest-ai-startups-of-2021-so-far-"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 609
     height: 457
     isCached: true
+
+related:
+  - title: "The 10 Coolest Robotics Startups Of 2021 (So Far)"
+    excerpt: "Makers of industrial robots and drones, as well as robots for construction and landscaping, are included on our list of the coolest robotics startups of 2021 so far."
+    publishedDateTime: 2021-06-21T18:45:00Z
+    webUrl: "https://www.crn.com/slide-shows/internet-of-things/the-10-coolest-robotics-startups-of-2021-so-far-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026a-129317bba2ee-ea454a8144fd-1000/robotics-startups-2021.jpg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "/m3qCOD1Oj4nVyAfkgsUAvFclPSinA8ji1YGQUQvVwZ0cfOCzPk9XqSqczaAo9AzFhNuL85tApXzlqk9GUnUvu+EnCJgBwuqLP7/ps6EIwexamGLs41eQ+g9vDZD4LaRbx0gbXfnh33fzRgYz6LBkAOXQUojSLPR8pjNIWRn4I6V4w7XCtQZ6wlQjq5L2agtXo8H+aKnatnnkQxFTqAsB4tQKwEsbefmX48NVd2QNPjGu0wk/rIvIz4r4Pc+Gg6Apd9QQ52sl7+dOuuE/f7OxkTNjbL1DxiNWDuBja1jdhzrxmJ6u2vUeF+UE5xOglnam/Yp+WIzkx+mVm4IF/PP5G2Ov5tG5wgzfV0omyAFoK4ZJR0BaPrxh8GFRxRJwY2cJeiCHldQ7i+xtffOH3GVpTIsySaEwWgca2YcBW07lrkOPUHL7JyGLD4aDr2/d9iDEj/Jzlt1GJqiE+d+TOhahK9JwEjcPKcLVJqAsLDoqKDdsNJR46JqALgBtoiwUA2MAaqev1N6RUaUXZcheTjz/A==;Anu/DkIl6l2LiY49w1Djrw=="
 ---

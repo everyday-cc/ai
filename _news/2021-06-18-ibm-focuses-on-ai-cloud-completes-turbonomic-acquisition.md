@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-tu
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
         width: 2698
         height: 1414
+        isCached: true
+  - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
+    publishedDateTime: 2021-06-21T18:20:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Closes-on-Turbonomic-Acquisition-to-Deliver-Comprehensive-AIOps-Capabilities-for-Hybrid-Cloud-147575.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 26
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM Closes Acquisition of Turbonomic"
     excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"

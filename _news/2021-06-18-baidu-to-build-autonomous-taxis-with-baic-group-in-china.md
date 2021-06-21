@@ -57,17 +57,6 @@ related:
         width: 731
         height: 393
         isCached: true
-  - title: "Baidu inks partnership to build 1,000 autonomous robotaxis"
-    excerpt: "Chinese tech vendor expands its partnership with state-owned manufacturer BAIC Group to build 1,000 autonomous electric vehicles, for 480,000 yuan ($74,987) each, over the next three years."
-    publishedDateTime: 2021-06-17T02:00:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-inks-partnership-to-build-1000-autonomous-robotaxis/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Baidu to make thousands of robotaxis for a driverless service in China"
     excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
     publishedDateTime: 2021-06-18T07:07:00Z

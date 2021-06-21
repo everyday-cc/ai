@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-21T17:14:00Z
 originalUrl: "https://siliconangle.com/2021/06/21/hpe-acquires-determined-ai-boost-supercomputer-ai-server-businesses/"
 webUrl: "https://siliconangle.com/2021/06/21/hpe-acquires-determined-ai-boost-supercomputer-ai-server-businesses/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/HPE-1-750x418.jpg"
@@ -84,6 +85,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Hewlett Packard Enterprise Acquires Determined AI to Accelerate Artificial Intelligence Innovation with Fast and Simple Machine Learning Modeling"
+    excerpt: "Hewlett Packard Enterprise today announced that it has acquired Determined AI, a San Francisco- based startup that delivers a powerful and robust software stack to train AI models faster, at any scale,"
+    publishedDateTime: 2021-06-21T12:38:00Z
+    webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-acquires-determined-ai-to-accelerate-artificial"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "Hewlett Packard Enterprise Buys Determined AI For Undisclosed Terms - Quick Facts"
     excerpt: "Hewlett Packard Enterprise (HPE) announced Tuesday that it has acquired Determined AI, a San Francisco-based startup that delivers a"
     publishedDateTime: 2021-06-21T13:12:00Z
@@ -107,16 +117,16 @@ related:
         width: 369
         height: 229
         isCached: true
-  - title: "Hewlett Packard Enterprise Acquires Determined AI to Accelerate Artificial Intelligence Innovation with Fast and Simple Machine Learning Modeling"
-    excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful and"
-    publishedDateTime: 2021-06-21T12:38:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210621005436/en/Hewlett-Packard-Enterprise-Acquires-Determined-AI-to-Accelerate-Artificial-Intelligence-Innovation-with-Fast-and-Simple-Machine-Learning-Modeling"
+  - title: "HPE Buys Startup Open Source ML-HPC Platform Determined AI"
+    excerpt: "Hewlett Packard Enterprise (HPE) today announced that it has acquired Determined AI, a San Francisco-based startup with a software stack designed to train AI models faster using its open source machine learning (ML) platform."
+    publishedDateTime: 2021-06-21T18:36:00Z
+    webUrl: "https://insidehpc.com/2021/06/hpe-buys-startup-open-source-ml-hpc-platform-determined-ai/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
 
-secured: "F1rETHxNPUQiSchC+vkSCFabibklSa+st32spZP7VrxB6kwkKJz4m00CD0O0lF5YXemusnrevS3d4Z0GAliTVjOqqaWGD/KZU2dp8MX/wmX1g8zF8jFiD4T3QRiGZMwgpYL3K26t+c1L3psdkKb0s/vuiaEipRQ89qOat46IEQcdHWsCyBXrNBHDe21LJJ1KEQJabdmx+ki2nKzoFvZCkZKnu6iOSIQ9Jn/aPBiYk3f/Jhulb6iRnr5Lvx6pu2k0thMRQpizFnnV4iY1DMCSF1py5xMJJH/V3RB2CAPMY1u1vNJeLisfx97UWjs/6UY1ultYbBPdKFj6/CP7fA5kh8RUp48UODyWantvNMrxfzs=;eHgVJjJCWniE5Dn8Tm6RmQ=="
+secured: "8ClnBejC3Tp+b8r/Z4/04fNRAMAGl/rBl7jqBMkhLQn/w7En8Rvtz3x/435nOsfZvoYSwTuI6TSK4rdVP8tl0wwdUOld/Wz+iJKHX2JTInQ66dj0oIVM34N/EpA886xhYUYXJDI2TrUn7oKEojIm7F6/BBRJ1ncCUJNKTkx96OXK46rZKht2vdPAbOB5KC+ykroM54DvxbnbbvQI9wzwXzOj6jVAD1gEm/EA7OcmfGXs9bJar6uQQJAbnnA4o5agfK4Mg6WfU1+KhNK8cr8BM8yXzrAUU27ROF/AWCkpnYZbJUB9rIpH1yqhXugYvFFTNkLFdeIcprYT8WgxNftkMXvN+Hb/kRVBDcfHD5gLvNdqAEVTUZQC2BxGmBRHtfLJ1jgne6tcAiH+gpPV51ewfzLO5mLz7cDFTfrKkcaoOqBhRSj9jS1oIqB+974adAx0sgtbiEoIMw1/0elgcr5Z8iOeonWgrntIcW9vuK92uGNKykejTX6gnmOG3i7qCT+RQy3qL+DG4pR3SqyiJvNpxA==;7xcfVqiOYbkROU7E3RcdyQ=="
 ---
 

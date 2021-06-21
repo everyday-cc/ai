@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla AI Day in About One Month"
+    excerpt: "Elon tweeted that the Tesla AI Day will be in about a month or so. Tesla will go over progress with Tesla AI software, hardware, both training and inference."
+    publishedDateTime: 2021-06-21T19:12:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/06/tesla-ai-day-in-about-one-month.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/06/tesla-ai-day-in-about-one-month.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/tesla-ai-day-in-about-one-month.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 76
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2019/12/fsdchip.jpeg"
+        width: 1300
+        height: 650
+        isCached: true
 
 secured: "hCkJb+mBgl7VlS3ws/b2nIWsfDfnAmm/1GNW9pkBzmu0IfQhVE/PdNeVnSYX/BYxrpu5HSfV81miORzn1MCgzvlHVUbcnwCJaB1jaA3zBBOesCMAa26ae94gj3I1PS8pTUVBtjZJumarGQbnW+4HL+Z5MndAhwn/vm0Z1JCN0AdTPy7i7sf73nAUUHP1Qj6rB2OL7nuB+CI8dWAO5L9LP0qyzh+tw3y1cceg/+HW8Ew8dMR3jlIFtLjnBFsxxrmIk++BcBqwl0Fv5jiCEAzMlnVLObXRGjEX0QXVbKLNOO7F2y1+/LmI2Tq7nEP1NlM+jIJXeTBdMWkmcA/3ppzx1XVdUnh0bIR/B2LUniO7Qo0=;1t/VTMa4Fcbr54XXIcGzEg=="
 ---

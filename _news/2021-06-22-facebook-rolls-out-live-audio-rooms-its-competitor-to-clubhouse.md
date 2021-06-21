@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-r
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 274
     isCached: true
 
-related:
-  - title: "Facebook Tests In-Headset VR Ads For Oculus"
-    excerpt: "Facebook is furthering its virtual reality (VR) project with a “small test” of in-headset ads, which could ultimately become available across the Oculus landscape."
-    publishedDateTime: 2021-06-17T02:54:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-tests-in-headset-virtual-reality-ads-oculus/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-tests-in-headset-virtual-reality-ads-oculus/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-tests-in-headset-virtual-reality-ads-oculus/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_613702247-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-
-secured: "YaNxQYx+TrG89Cmi6arid4AiHw77qfy07xyY1m3fU5xZ1sF181v/p742M4V3TrTXY4OQ3rdOoFjxkg5U8nh9pZ+p1MIqNcp7tr9zEYW/q4NOYJHiay1sQfgJyajUvDGIHOgrR2JJw0IBTME4RXK6bKuTeFtD+8JAoCqiNqYOf5R0F+1qk0mLC6sSD0GMy/OzedAub0OrW4v4KyaZGd3K3WJEwXcUutJUDf2w+TiF6ldEpVarvwB6jmNnILRxaaT9OSTrAeeloS1Ng2d9s96xI1dNp13Oz8UXUVsXFT1aE32yc78Crgb33GpmvRwAS9/9/ZkZ3BVsdsRAgzqoHyYyg3hOnjh0DG22EWlyLPufpag=;/Gx2O/dqVtb3zf5MrAglPA=="
+secured: "wienDeDh/crDaeYrxPYPR6AkNijc+x/TmapH4MmshrTASyblGQwR7sqviGdAYl7lFj06EypN1GXsnepVJkDdVWYZEYlpnoH70hI8qIP3kYqWKyFGzx/FTimb3lB3pysyjpPEJ+ElOZJD8QPNQ+RcL9VBTetIi97ZdqN/Jl09ZSxo1zGoVDQiDPj/hXU9wNbwCD9gVLvzwEDXPnnbjW1Tl0I+OuE1a1dUgUjYqaqDYgeMV2V/U33ztsvMHIz5mZ391lBqZE6OW/NioSQ1STXMOH6jJ4/AJ4UsaUmSAWwDyAB/DtgigvXEJd+6JOtUmjQi1FKmfO+LifpHLzeek77AzseKEhCPq+dal2d9ilcMrSBh9r1meMym+mIoTnq5TMvb6zF9kGlPDar/wWZMBFGIK31bsXmPhiFcoSbsyAmK/Y5Q9EXs+RLAdtkxhsQen6fjIqRBpkUHi+0x97QYckRI03EFOrU7I71hnZKqdrnGFSGQxhc5utA7Qho74rSBHQ+UACIxtYRPNpodF6neDMAbcw==;mhYT4IaMHOIW5aZewy6o4g=="
 ---
 
