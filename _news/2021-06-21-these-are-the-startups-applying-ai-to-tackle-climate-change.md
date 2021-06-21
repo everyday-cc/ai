@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caac3ad2b1ff3c9b86dc8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2235%26cropY1%3D232%26cropY2%3D1490"
@@ -45,6 +46,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4KpY14786LzEuekUlpeTA90URqRTEzrQxClxsykrPra1Iq0F5/waxy62Kd3nQ08QehrYW0tQcOOjQN3U4ujdsrO2VcXe3tvtJCN4pQdTD03J5LBEjRO2bc98cVFLZgybtzJgciTFMkI91/G2A8y1uO6bzFT6vmGwFkfD79iCiSCOsvuwUtNMRst0euJL3nRFwa5uHxiLd33U7oL1097VG0vx08yC/DZ9lUJYrDNmOFIPA+QLJ4/L+5sWKd8SN5mwERbEy7FVKIy0LiyQaoyWQ3ZKf+lvrAcgiQyFSnD5xnKuq08xOJ9+pQYQm3BV3qq0THcCwFkrOeYTgSvazv9z2gKfJluf2IBqK0RLSB+oik8=;tS5r/+vUNBSqrR4oq0SLQQ=="
+secured: "62rVbsDAi62IAnXVHmcJoxkUnlFXijrDhm4MDx0N8itTYdRiVg/EoYTgfm18LnUijIaQ0S8660dwC9mkEXtDEFIMbpmMijfdPB7BVZ90W1ry6W9bk9ezVnTKaL3BXEyb7q0wnok24qIwhflEfVTXF4U4ZIqGdC1YmRbB+c2ZTeYKPEqf8hVgZal/gXL26SDYfdLyrZZDIyWHfkjy0pgwtcoSPpDFtaWtRRnsgHUfaHsomVyfLw839mi+dug4OcSU5DJkrOR7EoUWnGsttMab981iL4aKAz0atK4IjKHuKaIiejVivdynvXK8SZRBeQ/GxDmx46Q2TIDUn+KPRkO4bjqPMBy6w7cS6X265U/SJFqWz+0N1MbKF/pVL3++du2IR9zijXwBdBCNPwJxdQmuPoZgQhV0sBScZ8VZA6CNy0SMl/9mBvlnJdpuLY2tjxEbfj0kmiJGgado6dPNzhUOSWx7kGt6CCrxHnx9uu/tQaE6Rnf9zP/yl461l0WKTmZKlIZFDawknF3CIBpfM4sSSQ==;Ke8i/n/F/99ivtGqgSOvIg=="
 ---
 

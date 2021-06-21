@@ -1,22 +1,34 @@
 ---
 category: news
 title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-publishedDateTime: 2021-06-17T10:13:00Z
-originalUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
+excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
+publishedDateTime: 2021-06-17T09:42:00Z
+originalUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 89
+heat: 169
+published: true
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know"
@@ -131,6 +143,6 @@ related:
       domain: nasdaq.com
     quality: 24
 
-secured: "HABuLWc1zZ5YlJwDpl27e2GtXsE3sFW8u9vluuWtHH4igGSyAHv1Iyn5B+8Od2VzVYX1zgVCByGQmiXA7PXJTjr4XC/UXr0Sjiuadck5zyZryMAHjt0ReOlfaym5Je+zCTWLUBSdXCV8aMkLbEeLte46k+hy4jVOh+XahLYYc3dQolaW3QdbZYlWKpwlOKeEScdv52C1uxRCBBt8YjECEfdxc4qXOlVB52ze6K7O0ZlzqUyoj5H+hfKZDqPd7C6SBl6weSWZkcA/1xwwBXvN7TydfBjjHJMzW9H2m7UE5bwrMHb9WYA5zGNxgmyZWSw6/1BoGr3w2fZUAWWP62AQX5/FlaRuqy1ofSpdsHD7rjQ=;0h4gedvivnnMFRIfgOpwAw=="
+secured: "ZYS/l7mi69AzYixocX+6vPk0j4x+vDT1L2u85Zz8rOEutlFT43aWg7cYxU5+CKOn3axpc+9UhVPu8KL8cYopV5YXambCaPxZtL5AUZmyDKRzq8ivjPUP+5lDShMbR2y2oRkXPWeqKLi/+mjlKqsCKjHFOwnXefZFdWJDRvRZ3PO+0jxvKw8aT7Gl2PzziL0KvVl01/909HKED9uLWZGranp5MjkH8WWOQNqK2uMx2/Q+9jEF+9triJRLHWPH6o4cS1OIO3DkxVaRvLC5A+NThamgUBWSikGafivP/MizVlZ92lm63VIif93lQurc3EyMLDDn1fr5VpeFRxgSmx5tCATtyQU6bTJq5WH/44OhIYQ=;u1dm7mnXXrzWLZ5Aaz2wiQ=="
 ---
 

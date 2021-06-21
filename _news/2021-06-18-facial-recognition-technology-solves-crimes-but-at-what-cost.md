@@ -87,22 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "US lawmakers introduce bicameral legislation to ban use of facial recognition tech by govt"
-    excerpt: "Say facial recognition tools violate the privacy of citizens and ‘deepens racial bias’ in policing Led by Indian-American Congresswoman Pramila Jayapal, a group of US lawmakers has introduced a bicameral legislation to stop government use of biometric technology,"
-    publishedDateTime: 2021-06-16T08:48:00Z
-    webUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
-    ampWebUrl: "https://www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/world/us-lawmakers-introduce-bicameral-legislation-to-ban-use-of-facial-recognition-tech-by-govt-269302"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 49
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_784798353.jpg"
-        width: 723
-        height: 482
-        isCached: true
   - title: "Live facial recognition technology ‘open to excessive and reckless use’"
     excerpt: "The Information Commissioner said we should be able to take children places without having biometric data collected and analysed with every step."
     publishedDateTime: 2021-06-17T23:23:00Z

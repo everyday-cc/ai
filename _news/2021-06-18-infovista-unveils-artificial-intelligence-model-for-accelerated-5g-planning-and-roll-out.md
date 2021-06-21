@@ -30,6 +30,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 39
+  - title: "Infovista Unveils New AI-based Propagation Model for 5G Planning"
+    excerpt: "Infovista has unveiled the availability of its Artificial Intelligence Model (AIM), the world’s first commercially available AI-based propagation model"
+    publishedDateTime: 2021-06-21T01:37:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20032-infovista-unveils-new-ai-based-propagation-model-for-5g-planning"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/64f092ad535d477fae380c7c7cbe0365.jpg?t=20210621_013148"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Infovista unveils Artificial Intelligence Model for accelerated 5G planning and roll-out"
     excerpt: "Infovista, the global leader in network lifecycle automation, today announced the availability of its Artificial Intelligence Model (AIM), the world’s first commercially available AI-based propagation model that changes the way wireless networks can be planned and optimized."
     publishedDateTime: 2021-06-17T16:10:00Z

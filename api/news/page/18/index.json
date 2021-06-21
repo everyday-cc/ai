@@ -2,6 +2,40 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-06-04-artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030.md",
+      "title": "Artificial Intelligence (AI) Chip Market 2021: Market Definition, Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2030",
+      "excerpt": "Chip Market was valued at USD 9.29 billion in 2019, and is estimated to garner USD 253.30 billion by 2030, at a CAGR of 35.0% during the forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/44032175/artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030",
+      "originalUrl": "https://www.wicz.com/story/44032175/artificial-intelligence-ai-chip-market-2021-market-definition-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-a-simple-model-of-the-brain-provides-new-directions-for-ai-research.md",
       "title": "A simple model of the brain provides new directions for AI research",
       "excerpt": "Research on how human brains process language can help create algorithms that are robust enough to understand and engage in conversations.",
@@ -1143,58 +1177,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-tsmcs-5nm-chip-enhancements-steer-ai-driving-5g.md",
-      "title": "TSMC’s 5nm chip enhancements steer AI driving, 5G",
-      "excerpt": "Taiwan Semiconductor Manufacturing Company (TSMC) introduced N5A enhancement to 5-nanometer chips for AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
-      "originalUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1256651755-e1622663901654.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/03/tsmcs-5nm-chip-enhancements-steer-ai-driving-5g/amp/",
-      "publishedDateTime": "2021-06-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

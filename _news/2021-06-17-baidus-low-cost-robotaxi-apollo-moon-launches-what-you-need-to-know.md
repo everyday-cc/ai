@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/21601949"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949"
 type: article
 quality: 59
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
+    excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
+    publishedDateTime: 2021-06-17T09:42:00Z
+    webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price"
     excerpt: "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors."
     publishedDateTime: 2021-06-18T11:32:00Z
@@ -122,15 +138,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 24
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-    publishedDateTime: 2021-06-17T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "wFmEEolCQ8e8uQ7oqTKlOd5Ss+w1SvC5GvVR7XhQa/1BiRcxVmb4AAfxVgLlb44tKLyYlu0FWAmSPfJwiKLnsgMwlpvHz3g6rosOpH/AavCvOkaE9yynVgd+mAAxkRuPGTu/+e/OaQ2KygzykcDkBDZ/NS5AWMsuZq6rXVY1/lAp5tAdOepxftpsZttj+/kA0STx/hEKxzv2gLy9YXsMUurtJWFEfrdoZMi50ho1Bnq8wQN4K5C6PeahJudtmxXn8PD6H5zdbWgKtjv23/731td3s4LHxSsu//zG9yXUgyg7sDma+aokJAaTG0xeD1NobZF/dI70wIHVXmnUyq8VN+uttswojp/5g480X1QgJnY=;R8K2uD7NN4NQ1LiKIMuO0w=="
 ---
