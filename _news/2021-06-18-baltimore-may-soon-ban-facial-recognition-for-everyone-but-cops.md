@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/baltimore-ban-facial-recognition-everyon
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
+        isCached: true
+  - title: "EU data protection authorities call for ban on facial recognition"
+    excerpt: "Faces, gait, fingerprints, DNA, voice, keystrokes and other biometric data also should not be logged, the regulators said."
+    publishedDateTime: 2021-06-21T17:08:00Z
+    webUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/"
+    ampWebUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2019/12/GettyImages-1161938833-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
     excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"

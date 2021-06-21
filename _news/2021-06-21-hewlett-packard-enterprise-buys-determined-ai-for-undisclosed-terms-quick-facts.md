@@ -68,6 +68,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
+    excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."
+    publishedDateTime: 2021-06-21T17:34:00Z
+    webUrl: "https://www.channelfutures.com/mergers-and-acquisitions/hpe-discover-hpe-acquires-artificial-intelligence-startup-determined-ai"
+    type: article
+    provider:
+      name: channelfutures
+      domain: channelfutures.com
+    quality: 51
+    images:
+      - url: "https://www.channelfutures.com/files/2021/03/2-Machine-Learning.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "HPE bolsters AI offering with acquisition of San Francisco startup"
     excerpt: "Hewlett Packard Enterprise (HPE) has acquired Determined AI, a San Francisco-based, machine learning startup in a move it says will allow its engineers \"to build AI models at a greater scale\". It will see HPE combine Determined AI's software solution with its own AI and high performance computing (HPC) offerings to enable machine learning engineers to \"easily implement and train machine learning models\"."
     publishedDateTime: 2021-06-21T14:37:00Z
@@ -81,6 +95,20 @@ related:
       - url: "https://www.channelweb.co.uk/api/v1/wps/8213302/bed84f66-c13b-4ee9-80e0-df1c178ad576/2/hpe-london-customer-centre-370x229.png"
         width: 369
         height: 229
+        isCached: true
+  - title: "HPE acquires Determined AI to boost its supercomputer and AI server businesses"
+    excerpt: "The acquisition will boost HPE’s machine learning capabilities in a time when AI is becoming an increasing priority for buyers of its supercomputers and servers. San Francisco-based Determined AI launched in 2017 and has raised over $13 million in funding to date."
+    publishedDateTime: 2021-06-21T17:14:00Z
+    webUrl: "https://siliconangle.com/2021/06/21/hpe-acquires-determined-ai-boost-supercomputer-ai-server-businesses/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/HPE-1-750x418.jpg"
+        width: 750
+        height: 418
         isCached: true
   - title: "Hewlett Packard Enterprise Acquires Determined AI to Accelerate Artificial Intelligence Innovation with Fast and Simple Machine Learning Modeling"
     excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful and"

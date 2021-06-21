@@ -184,20 +184,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Community Organizations Urge Congress to Halt Government Use of Face Recognition Technology"
-    excerpt: "A coalition of nearly 70 civil rights and community-based organizations working at the state and local levels across the country, including affiliates of the American Civil Liberties Union, have come together to urge Congress to take immediate action to prohibit government acquisition and use of dangerous face recognition."
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://www.aclu.org/press-releases/community-organizations-urge-congress-halt-government-use-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 29
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "csll9rKf98JGAjd7SBJgMlSLu/5Y71BJnQOpSJMd3WyqS7tKt3RmDlneC4X3aZs4B5OL8tNIQZFqcwjaAMXbKxoFlLyKylY8R7Pmwho0aNmRD2v3aJbc2YnysLY8pt3Z6XwzyzGCUyX4Komj75ap1mm2Jk2oc5y0msJlHPECVS7rSeqVysgNbp42JNAgytlde1ZD6AoFN7prt09SxQWr65WWHE57eqE4DaT3i+U4VhPClEQpgvZgqR/6a8K9e9/nQdQkhdAk0kg1bbskJsh2S3m0HgXlSNfvdRty5QZ4ZBvrcfMMF4YDUK4DQNd6aE6y+N+pxxyRSR3dYFnhYdxuSpiCLK68Ak4uBQDj4nX4SNQ=;oYfOk3I6n0S6pRZbeNAK2w=="
 ---

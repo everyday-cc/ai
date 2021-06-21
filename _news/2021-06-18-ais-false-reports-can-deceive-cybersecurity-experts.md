@@ -42,7 +42,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 24
+    quality: 22
     images:
       - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
         width: 400

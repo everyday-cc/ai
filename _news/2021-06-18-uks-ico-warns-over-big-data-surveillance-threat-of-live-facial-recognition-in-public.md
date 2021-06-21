@@ -174,20 +174,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Community Organizations Urge Congress to Halt Government Use of Face Recognition Technology"
-    excerpt: "A coalition of nearly 70 civil rights and community-based organizations working at the state and local levels across the country, including affiliates of the American Civil Liberties Union, have come together to urge Congress to take immediate action to prohibit government acquisition and use of dangerous face recognition."
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://www.aclu.org/press-releases/community-organizations-urge-congress-halt-government-use-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 29
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
     excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
     publishedDateTime: 2021-06-17T02:29:00Z

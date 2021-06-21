@@ -1,30 +1,41 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-publishedDateTime: 2021-06-18T06:31:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+excerpt: "Leading global manufacturer of luxury, high-performance sports cars will leverage AWS machine learning, analytics, and compute capabilities to accelerate innovation across"
+publishedDateTime: 2021-06-18T06:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21621074/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/b21621074/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-    width: 945
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
     height: 630
     isCached: true
 
 related:
+  - title: "Amazon (AMZN) AWS Picked by Ferrari, Bolsters Client Base"
+    excerpt: "Amazon Web Services (“AWS”)—entered an agreement with Ferrari RACE. Notably, Ferrari selected AWS as its official cloud, Machine Learning, and AI provider to bring advancements across its road cars department,"
+    publishedDateTime: 2021-06-21T15:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Ferrari, Amazon’s AWS enter agreement on data"
     excerpt: "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon’s cloud computing unit the luxury carmaker’s cloud storage, machine learning, and artificial intelligence provider, AWS said on Friday."
     publishedDateTime: 2021-06-18T10:21:00Z
@@ -198,6 +209,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "JMs95jQ/T8KHplwL94+Mc8cJohmmIFpRyQH15CLi+aGV7wNZ87IpJUO/tWFYOrr0pi3ye3nTL5VA345ZYlqdNpt9RZU0rELJ42Kjxf6akBEkT+0qfHmz5Ml7zCHW4OFeuRu4jk6akKbahHvkrW7pmSw2tRXF/nwX6eeLRHdMI1Ck/OXNGo7bZGLbCKBGsJc1IEV7+487yIhAJKDXLABltMUilp+bpHXtEN6VEG8vMbSsdMoI9nBvW751XQwuu9geSZD34HN1sPTwwnWatw8W4W1caZ3bbU1wcMu4H/p8GXHYx38w7ko5a+1gV+uhHdTf2SR93CTfamt8XE37LVsJKlSNWh6sX2aTUpbR0P5cHh/hSssKThYWrhNKeQX5xFIvn3vcvhfRBW9IVWV6KtWvus7kti6dJ/Qwz+r5c7YCxg4Aeqh/cZGKiTwu0vM39GzvxLp2SSIeE2hVNe2I3t40l3VeioW7gNnuwPHF2cobCyTjw46uufPkgERf1Uo0TuKSpF+RHUnRIjYh7COxYHbu9w==;MFIT+3k9e/kUwwFUHmmOLw=="
+secured: "HcZscwsxmLfl78XXhWm6RoHOgAhLcfHLAe9bEuCNBCYBsekiRrsvtMKSsViJWD4NMgH7ErndPN/2rv7ODWuw2MdL1KCqyuqX9GjR7XXE/pp0JFoE11DZ7B/jwDwPBrKY7TI5wOSEU8CXbsjbNdsPjNa1bK1mybVQSpfGatg4lTZ3LPsVeUlmDiSAxKiFP+dm8uissuKnIh+7DZPpKwyxRu5U4HO2RANDOeWk3984lrp9bGCeFxNU/BMFUkn9Jy5ApOo1KbvErhL8vCf4LDAtGLfQa3FxONpu1/VaothKFumOBVMuCnhTIOWa83CxjztWeXd2SkVCW6x8/DPyXDwcNeAko+DID4YrDiJzQJtdd/c=;B9UYuk/aUILGJAJhyxbpFA=="
 ---
 

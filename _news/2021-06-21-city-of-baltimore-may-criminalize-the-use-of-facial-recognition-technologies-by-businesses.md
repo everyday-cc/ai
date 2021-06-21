@@ -73,6 +73,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "EU data protection authorities call for ban on facial recognition"
+    excerpt: "Faces, gait, fingerprints, DNA, voice, keystrokes and other biometric data also should not be logged, the regulators said."
+    publishedDateTime: 2021-06-21T17:08:00Z
+    webUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/"
+    ampWebUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2019/12/GettyImages-1161938833-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "EU data watchdogs call for facial recognition ban"
     excerpt: "The group of regulators believe the EU’s proposed rules for AI do not go far enough in banning live facial recognition in public places."
     publishedDateTime: 2021-06-21T15:09:00Z

@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-14-aiml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media.md",
+      "title": "AI/ML Innovations Inc. Announces New Chief Financial Officer and Engagement with Winning Media",
+      "excerpt": "TORONTO, ON / ACCESSWIRE / June 14, 2021 / AI/ML Innovations Inc. (CSE:AIML) (OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-innovations-inc-announces-new-chief-financial-officer-and-engagement-with-winning-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/e01ef73b63fb1c05dbe5c2799c87146dbcde9ae9-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-how-to-make-sure-that-diversity-in-ai-works.md",
       "title": "How To Make Sure That Diversity In AI Works",
       "excerpt": "Transparency around talent pipelines, hiring practices and publishing compensation bands are table stakes D&I initiatives that can go a long way toward establishing diversity in the field of artificial intelligence.",
@@ -1108,49 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
-      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
-      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
-          "width": 720,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "publishedDateTime": "2021-06-12T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

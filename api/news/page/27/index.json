@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-29-mind-controlled-robot-arm-allows-paralyzed-man-to-drink-beer-like-a-boss.md",
+      "title": "Mind-controlled robot arm allows paralyzed man to drink beer like a boss",
+      "excerpt": "Featured Video Hide Just ask Erik G. Sorto, who hasn’t had the use of his limbs for 12 years: Thanks to a new prosthetic robot arm that he actually controls with his mind, dude can now kick ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/",
+      "originalUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/ba7/52/03a0002a73a5f4306b662edaebadcb49.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2049,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/paralyzed-robot-arm-beer/?amp",
+      "publishedDateTime": "2021-05-28T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-rebel-ai-group-raises-record-cash-after-machine-learning-schism.md",
       "title": "Rebel AI group raises record cash after machine learning schism",
       "excerpt": "A breakaway group of artificial intelligence researchers has raised a record first round of financing for a new start-up involved in general-purpose AI, marking the latest attempt to create an organisation to guarantee the safety of the era’s most powerful technology.",
@@ -1139,49 +1182,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.md",
-      "title": "Telcos back Artificial Intelligence, Internet of Things for 5G in India",
-      "excerpt": "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, ..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83032108,imgsize-30418,width-800,height-434,overlay-ettelecom/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "publishedDateTime": "2021-05-28T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

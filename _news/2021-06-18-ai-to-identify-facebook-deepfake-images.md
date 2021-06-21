@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MSU team develops deepfake detection model with Facebook"
+    excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"
+    publishedDateTime: 2021-06-21T17:12:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/michigan/2021/06/21/msu-team-develops-deepfake-detection-model-facebook/7770403002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7770403002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7770403002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/6099c700-bedc-4709-8348-6abc782687a5-test.jpg?auto=webp&crop=208,117,x0,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook AI Reverse Engineers Deepfake Attacks"
     excerpt: "Facebook’s initiative, led by MSUs Vishal Asnani, attempts to solve the deepfake problem using reverse engineering"
     publishedDateTime: 2021-06-21T09:30:00Z

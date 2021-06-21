@@ -170,20 +170,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Community Organizations Urge Congress to Halt Government Use of Face Recognition Technology"
-    excerpt: "A coalition of nearly 70 civil rights and community-based organizations working at the state and local levels across the country, including affiliates of the American Civil Liberties Union, have come together to urge Congress to take immediate action to prohibit government acquisition and use of dangerous face recognition."
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://www.aclu.org/press-releases/community-organizations-urge-congress-halt-government-use-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 29
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Detroit City Council approves ordinance that authorizes high tech surveillance of the public, including facial recognition"
     excerpt: "The council voted unanimously to adopt an ordinance that empowers any city department to buy and use advanced surveillance tools on the public while fraudulently claiming there would be “community input” on any future purchases."
     publishedDateTime: 2021-06-17T02:29:00Z
@@ -199,6 +185,6 @@ related:
         height: 711
         isCached: true
 
-secured: "fpuDYQDu0Yrcxw8qS3URonSbN1KCHdqJOisgkFXZGmmeN3d05yOwG8mn4kxQEakXvSkSPObemTxaekUyy8QCzs+vQ48H+KxDt9+4FnLaC68qx1JyUKP1XXvllSsyWDDjCjjfqLSQAUomhg32C8pAxYNulvX42HG6UV1oPH1Z8mgPCu3cAQ4+HjjWwotLTaG1kYYSWFhjgEMT6zOXyQncWZCtilcDI5i4bAZDh44a6c8AbyCzIeEcIU85FPwaAzaHH+cerF16bf2xDTfBSQCWNIAs6QAccDWBMAuKiEkkblu3k8XiV/9VertzXokLelM6EUC5GqSdB95GRsUlJ+xArYypSXYOAfubFVaXl6an/bU=;aRmUCOWF1hMhJ2r6jebu6Q=="
+secured: "S/xTQvkdDDlJa4sHXeEw4oF53cE4mSlgjMSb7yrN78V4nFnfUSqTszCNy0woFzFz3D01fTuAUImFIxu1Rqu7a3smwoMMkmrVN6hqbJjBEF4fHhxKs8TzzeBr+QbxZgvyZrc2jDuw4OSK9iOpXiq7nPubokdOlwpv1kWphEt6H4Q9dXSzDEGITR2SlJCvb14i7YeDr4iJFRQQtULP6UF6XroegirEfDfgHYkS6+dy+A8VizqjJQuv5rz5VDR0PRnMcZ5lrbnzJ6bky+DQhU0IKdsXJyGWhpQObQ/vI4tpt50/8+4Oz4ZRqLqf38DGRN1U5BB2G4CY7wvdSbTOTZdH5lss9dliQOXIebLlnShDm06UJtjOVkyuXRpyPCicgfH6QZvblUO75ssQ5pjxW9JLgZSyWphGXnmGtnctdZ5eq6IQaP+4Z7gJXwfDVvsPJwwKu4RD5e5rIDgMZCH0MeMw6IzC4MNut0ouuR/gE2gkoIi8eKZK+1wB6ox7O6+3IN67RvDm2UBibG8o35vluKASoQ==;p4LAVc/93FVH/8Xa3xod+w=="
 ---
 

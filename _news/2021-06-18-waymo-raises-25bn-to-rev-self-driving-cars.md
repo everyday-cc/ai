@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self
 cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/06/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "Alphabet's Waymo raises US$2.5b in first fresh funding in a year"
-    excerpt: "This comes after a string of defections of executives rekindled concerns about the technology struggling to scale up.. Read more at straitstimes.com."
-    publishedDateTime: 2021-06-17T00:43:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-us25b-in-first-fresh-funding-in-a-year"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/17/nz_waymo_170630.jpg?itok=doo1mu1F"
-        width: 763
-        height: 509
         isCached: true
   - title: "Alphabet's Waymo raises $3.4b in first fresh funding in a year"
     excerpt: "BERKELEY • Alphabet's self-driving unit Waymo said on Wednesday that it raised US$2.5 billion (S$3.4 billion) in its first fresh funding round in a year, when a string of defections of executives rekindled concerns about the technology struggling to scale up."

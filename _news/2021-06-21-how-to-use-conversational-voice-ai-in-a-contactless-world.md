@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use-conversational-voice-ai-in-a-contactless-world/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 101
 published: true
 
 provider:

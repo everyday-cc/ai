@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 9
+  - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
+    excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
+    publishedDateTime: 2021-06-21T17:22:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 5
   - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
     publishedDateTime: 2021-06-18T16:36:00Z

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
+    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
+    publishedDateTime: 2021-06-21T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 51
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
     publishedDateTime: 2021-06-18T14:17:00Z

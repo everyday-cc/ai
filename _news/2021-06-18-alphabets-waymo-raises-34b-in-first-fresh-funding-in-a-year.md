@@ -87,20 +87,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Alphabet's Waymo raises US$2.5b in first fresh funding in a year"
-    excerpt: "This comes after a string of defections of executives rekindled concerns about the technology struggling to scale up.. Read more at straitstimes.com."
-    publishedDateTime: 2021-06-17T00:43:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-us25b-in-first-fresh-funding-in-a-year"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/17/nz_waymo_170630.jpg?itok=doo1mu1F"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Waymo raises $2.5b to rev self-driving cars"
     excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road.The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
     publishedDateTime: 2021-06-19T19:26:00Z

@@ -24,22 +24,6 @@ images:
     height: 312
     isCached: true
 
-related:
-  - title: "Aizon AI helps drive key pharma manufacturing process and global vaccination"
-    excerpt: "The global vaccination against COVID-19 is one of the biggest challenges ever faced by the pharmaceutical industry. In addition to managing the complexity of clinical trials and the supply chain involved in vaccine manufacturing,"
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/16/aizon-ai-helps-drive-key-pharma-manufacturing-process-global-vaccination-awsshowcase2q21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/Toni-Manzano-AWS-Startup-Showcase-20217069.jpg"
-        width: 666
-        height: 375
-        isCached: true
-
 secured: "U+gRWfFqgAiLR4fjPeS1O3E+O2+8eEecRQyJpTCULOVHybrsF7acjXgB9XjYpDTO40bhp09a9CDjZzvVFmAecUJWxnFL4zZcwmljvZM3MDC/2BTzz8nGHVx8wx7YQKbLhyGsQmL/2OXjZojmBxCLnezKsVPXtu7FGE01fSc+Yb0CF5fR2BZqZ7ej2l8notTS9XJgR2BvMEb4iMvrhMbP1EldDRt9LLnDYqedY+CBDJhYJRBJn9jsukxf3UUYzyYJabIKE/D2ZX4LTo6db1V3iavmwE67+sJLdwd1CTDIVyhYK+CSdeCfzqMUsytKnBC2GfzpbSJTOjNM1cc0zzVLSLzzXBu7Tios4glS9vb9BQquZ93XEPFzAqVfEQtZiy5YeNqf0AyA4+8fRXKiaWMadYSwuv3rdvlrOl/Ns+BP83dQ64Pv32c5NMokEJUW4IHM8l9TengxL0j6bIS089l7pE4OiHqJW5OIAlRiOZdnoD2i6G8BGAaC56SKAPFbr9pivRyXQxVHCWAnzEAS1iPT2A==;YzMJrl2SkvtzmhxAgbIiBg=="
 ---
 

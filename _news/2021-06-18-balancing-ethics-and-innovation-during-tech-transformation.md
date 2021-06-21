@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
+    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
+    publishedDateTime: 2021-06-21T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 51
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Making operations safer with digitized data acquisition and AI"
     excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
     publishedDateTime: 2021-06-18T12:20:00Z

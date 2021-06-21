@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-19-state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies.md",
+      "title": "State of AI Report Finds Growing Budgets and Correlations with AI Companies",
+      "excerpt": "Increasing AI budgets represent a maturing industry and are closely correlated with metrics of success. In our latest State of AI report, Appen investigated the landscape of the AI industry to try to understand its current challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png",
+          "width": 1043,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-prime-day-pc-parts-deals-2021-early-cpu-gpu-motherboard-ssd-more-sales-reported-by-retail-fuse.md",
+      "title": "Prime Day PC Parts Deals (2021): Early CPU, GPU, Motherboard, SSD & More Sales Reported by Retail Fuse",
+      "excerpt": "Save on PC parts, hardware & components deals at the Prime Day 2021 sale, together with all the latest early RAM, hard drive, NZXT coolers & cases & more savingsBOSTON--(BUSINESS WIRE)--Find all the top early PC parts deals for Amazon Prime Day 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=487533",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=487533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws.md",
       "title": "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS",
       "excerpt": "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -589,7 +684,7 @@
       "originalUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -693,7 +788,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -745,7 +840,7 @@
       "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -840,49 +935,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-ferrari-amazons-aws-enter-agreement-on-data.md",
-      "title": "Ferrari, Amazon’s AWS enter agreement on data",
-      "excerpt": "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon’s cloud computing unit the luxury carmaker’s cloud storage, machine learning, and artificial intelligence provider, AWS said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/ferrari-amazons-aws-enter/",
-      "originalUrl": "https://www.metro.us/ferrari-amazons-aws-enter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5H0HN-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/ferrari-amazons-aws-enter/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ferrari-amazons-aws-enter/amp/",
-      "publishedDateTime": "2021-06-18T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-18-waymo-raises-25bn-to-rev-self-driving-cars.md",
       "title": "Waymo raises $2.5bn to rev self-driving cars",
       "excerpt": "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ...",
@@ -891,7 +943,7 @@
       "originalUrl": "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1162,49 +1214,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
-      "title": "2. Hopes about developments in ethical AI",
-      "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
-      "originalUrl": "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

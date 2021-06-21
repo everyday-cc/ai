@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-21T10:36:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
 type: article
-quality: 24
+quality: 22
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AWS AI
   - AI
 
 images:
@@ -72,6 +71,6 @@ related:
       domain: manometcurrent.com
     quality: 5
 
-secured: "qjVQpBVf1LzPxGnJLtUR1UDE4YgXUyQE1YTvvWvAuK1FXvwhL7zAnBkkPFwM15mQSCEm0FjCR0l8I2HRJkkhCwiuL+rxY+Jhd1fTE3b++N3O5fEmzZ/mwY9jQ0buwRU56aqJx4RxApZfx05mmUUCv/+GHZKf9eC8OruAscsbxLaQIiuKam2Aq3m8c3lj5uWXImUnrzezw1rz5gP7CyZc58h35MIhkDtYBBSSxlPNEc3HvPy3Dzhxh8e3jk5411w3wiRMIAK3ghcOymngAI+1G8Na6dbA86CiR+SuRR/wR/lQ0KSZUiFRop2Yy0FUdfSOfNRfqkRMSEtkuttoX82hDjrHiSGwxq5rPRgz8uA0pmU=;oP6saTv54G0NEURYbhUt5g=="
+secured: "4CviWushnoTKJl2+aZIsbVMgYDm/94xdbUWljTWT4kf4kErdMrscFnJFN2pXKMYZeFn5v4kYydaQSPMA6P5P0G6uL72HAlXB2bUsYdEKAzzp+XD9H66EOsDEPgSQthxWlEp5x9zSLi4rGHHCvQCjFJ8bjOr5EPbeNeDUYKXm1nkFaJeugCvekksvYMWSIr/FdsV34SHo+GMbbuCLkF+gvXEuFENrIC5Qxnt6j9H+DAaB/eYwhL3+QRFh9UNxp+FnCC0uEerNnMtjkxOqcZQq/jkwn6Jj3/L6dKTnyEc3bK5/6ZaBW6wgyl1FUWpMZw9ZSctqndVBPIuZZ7MsHfgMUkjjjjYIFSOM+ggbVVJRV/4=;HcDbCIeC+fRdBXx8j9jmEA=="
 ---
 

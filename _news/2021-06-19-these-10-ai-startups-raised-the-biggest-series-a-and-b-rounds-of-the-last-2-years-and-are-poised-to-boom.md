@@ -44,6 +44,20 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
+    excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
+    publishedDateTime: 2021-06-21T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/amazon-talks-buy-stake-ai-truck-driving-startup-plus"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/plus-automated-truck-1200_1.jpg?itok=MG-kALv_"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "U2VXvNHam8QI7qookD2FXCj5txecUomWo5IUAFYibgpb+JL/c2lu6CdIObLkuGrquHHUwsBR9j4O3ySMKfnu5dTRc5WVmTkxhPHiTb5ir+NM4XrxQxD+JpfkgrHsOQuCeVQl2TwlHitRX1noLDy0vsWENrwSsiyAO/7iXkgNzhtvoQAQh/C+v79S8WLpumFcWtNa73BozzkLBkeFDf0EWLfw57anyjWYmTgLAdv8ytoTCPa2ylmIhf2vmj1QogfxBlIIQfxVrX0upBpYPr78O95y3VY31kJAA0NHbt6+lphBIVVGB2ZghNuGxsouQTcUiRVLEmm/YlcRw1n1lZPVwzbbGj9eflneE1CRNtdhrgNEv+/dVYYLcZJf/9LRHT2zweTI2CAfyH1FJMN4pZ6xewvg+DGeipWK36EjmfkOeH8mRBn43TcPb1MGcuTbs/jcd81LSGcd9rWpG1U5Xpfnd+BzmPTDHcpSdtcn1wB06F8LR728FK8j8GdIJ2gGgOzAwayQwaslSrJ3bPapqhAdrA==;kSvWbLH6FjlentU5Rs1QCw=="
 ---

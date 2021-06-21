@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustwor
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/operationalizing-trustworthy-ai/"
 type: article
 quality: 119
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all"
         width: 1200
         height: 637
+        isCached: true
+  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
+    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
+    publishedDateTime: 2021-06-21T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 51
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Balancing ethics and innovation during tech transformation"
     excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"

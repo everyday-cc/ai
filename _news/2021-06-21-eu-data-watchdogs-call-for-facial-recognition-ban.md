@@ -71,6 +71,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "EU data protection authorities call for ban on facial recognition"
+    excerpt: "Faces, gait, fingerprints, DNA, voice, keystrokes and other biometric data also should not be logged, the regulators said."
+    publishedDateTime: 2021-06-21T17:08:00Z
+    webUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/"
+    ampWebUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2019/12/GettyImages-1161938833-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
     excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"
     publishedDateTime: 2021-06-21T15:34:00Z
@@ -88,6 +104,6 @@ related:
         height: 808
         isCached: true
 
-secured: "4RLfkuJymqGSbbAbod/Tmqvb7ab4fYB7Vx07bPaT7NCetE7MLs75w7xW5eyWHERUqWDORvh1l41iQHOowMqU+RSd5/ApY8z2/NaqtutrY34aK22YDwJf6ww3UDFbJIN0rN0zjlBcJFj8ILwR/HDHnmSdrQY3HXzJs1ONid/zSUEc9e9InH2U0DNNY5i6C6sJtbf0pb/iK/Ml5NmqU0caEEjpO+3UBw45NEEWJS9Ewug8gFsfgiRdD+oEP1eZxST5rPTdDjQlwjnsyMeIIps2c4roefsUpJ1W9GdwBnM3UF9I0LEPh+SRBGPWFH+ba8wWLsbD0p6LWOXG9mZrRSNzQbXliYcFOHvgQdlUgKEkSK4=;JBDQaDIQ0SvIt+1aZGb1XA=="
+secured: "qbZbvBC3dFwNq591BD5MQ0QlC9Bp0N8UtCP7X3L5J3avNZFFc4b1o1PHA/PgnI7+Csi0OhWckxYajk9Xh+F7kQ45BbSfjBXwvt7CAbMNP8E673ICB1EytfNSeY+5dgrDZ38gOYLpmwAZvHBemYrhU5SyV8TVJRJK4Qx5Ro0xH/Ob2Do1YhX2K8+A5vzXMONx1uyqnCBUbsBulKZ+YAmmBOksDwgYo5qkdimuibBkyaQxGIH1yNfdNuVgxEMBqdG6b8aYwMr7eCaTSdwT51MfxRaaXq+q+SxQugevCL/nlWDhoksSAnVo1hkp7g9EUHycroSdzlEKtFDd2SO4OxfcyZ6J06ki2JBGTlq0O7h9meTTT35Ab/0W3JYpL2IoTcgHp/u8sOYdvh2qbdWin5dy/xhNUW9r2Zrmcd8kUoF9pjHqFhJ5HODaZcFEXJYyx2vP6WkBp9J1QEC8UhWjq1yrfnyjXPreoOiusl74c94V6xB/Gd27JOcmkyu+slXqTVCLZ6kbI6VZLe2CR0yMF2Ha7A==;j6xLFFij4zL2AazZDtskWA=="
 ---
 

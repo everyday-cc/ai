@@ -45,6 +45,38 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+    publishedDateTime: 2021-06-21T17:00:00Z
+    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
+  - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The commission's plan includes special exceptions for allowing the use of mass facial recognition in cases such as searching for a missing child, averting a terror threat, or tracking down someone suspected of a serious crime."
+    publishedDateTime: 2021-06-21T16:07:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/2axrxc/article34893000.ece/ALTERNATES/LANDSCAPE_615/facialpublicjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Facial recognition may help you find your lost pet"
     excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
     publishedDateTime: 2021-06-17T09:05:00Z
@@ -56,20 +88,6 @@ related:
       name: WTOP News
       domain: wtop.com
     quality: 39
-  - title: "EAB webinar looks at facial recognition for criminal investigations in EU countries"
-    excerpt: "European Association for Biometrics (EAB) webinar explored the role of facial recognition technologies in criminal investigations across the EU Member States."
-    publishedDateTime: 2021-06-16T23:22:00Z
-    webUrl: "https://www.biometricupdate.com/202106/eab-webinar-looks-at-facial-recognition-for-criminal-investigations-in-eu-countries"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
   - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
     excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
     publishedDateTime: 2021-06-18T08:08:00Z

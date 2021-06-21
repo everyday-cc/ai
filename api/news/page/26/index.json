@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-05-31-future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials.md",
+      "title": "Future of chip making to lean heavily on AI for spotting defects, says Applied Materials",
+      "excerpt": "For the first time, a machine learning program will tell a scanning electron microscope where to look closer for defects in a silicon wafer",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "originalUrl": "https://www.zdnet.com/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/dba100ab-4cc9-444c-beec-c9de99f3a1e4/applied-materials-extractai-slide-12-2021.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/future-of-chip-making-to-lean-heavily-on-ai-for-spotting-defects-says-applied-materials/",
+      "publishedDateTime": "2021-05-31T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-fe-xcelerate-2021-attracts-international-fintech-startups-looking-to-grow-to-the-next-level.md",
       "title": "FE XCELERATE 2021 attracts international fintech startups looking to grow to the next level",
       "excerpt": "In partnership with Southeast Asian early-stage venture capital firm Expara, FE Credit – the largest consumer finance company in Vietnam, launched FE XCELERATE 2021 in May with the intention of bringing international fintech companies a pack of opportunities to scale up their business in Vietnam,",
@@ -1057,49 +1109,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-mind-controlled-robot-arm-allows-paralyzed-man-to-drink-beer-like-a-boss.md",
-      "title": "Mind-controlled robot arm allows paralyzed man to drink beer like a boss",
-      "excerpt": "Featured Video Hide Just ask Erik G. Sorto, who hasn’t had the use of his limbs for 12 years: Thanks to a new prosthetic robot arm that he actually controls with his mind, dude can now kick ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/",
-      "originalUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/ba7/52/03a0002a73a5f4306b662edaebadcb49.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2049,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/unclick/paralyzed-robot-arm-beer/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/paralyzed-robot-arm-beer/?amp",
-      "publishedDateTime": "2021-05-28T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

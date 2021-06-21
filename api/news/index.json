@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-21-amazon-amzn-aws-picked-by-ferrari-bolsters-client-base.md",
+      "title": "Amazon (AMZN) AWS Picked by Ferrari, Bolsters Client Base",
+      "excerpt": "Amazon Web Services (“AWS”)—entered an agreement with Ferrari RACE. Notably, Ferrari selected AWS as its official cloud, Machine Learning, and AI provider to bring advancements across its road cars department,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp",
+      "publishedDateTime": "2021-06-21T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business.md",
       "title": "HPE acquires Determined AI to bolster its high-performance compute business",
       "excerpt": "Hewlett Packard Enterprise (HPE) has acquired startup Determined AI to support the growth of its high-performance compute (HPC) segment.",
@@ -10,7 +44,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -252,7 +286,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/21/how-to-use-conversational-voice-ai-in-a-contactless-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -802,7 +836,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -999,7 +1033,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1195,50 +1229,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-prime-day-pc-parts-deals-2021-early-cpu-gpu-motherboard-ssd-more-sales-reported-by-retail-fuse.md",
-      "title": "Prime Day PC Parts Deals (2021): Early CPU, GPU, Motherboard, SSD & More Sales Reported by Retail Fuse",
-      "excerpt": "Save on PC parts, hardware & components deals at the Prime Day 2021 sale, together with all the latest early RAM, hard drive, NZXT coolers & cases & more savingsBOSTON--(BUSINESS WIRE)--Find all the top early PC parts deals for Amazon Prime Day 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=487533",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=487533",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
