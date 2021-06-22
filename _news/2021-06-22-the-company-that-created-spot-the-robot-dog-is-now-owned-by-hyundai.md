@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 569
         isCached: true
+  - title: "Robotics: Hyundai Acquires Boston Dynamics for US$1.1bn"
+    excerpt: "Hyundai Motor Group’s Strategic Transformation. Valued at US$1.1bn, Hyundai Motor Group (Hyundai) has closed its controlling acquisition of Boston Dynamics - a mobile robotics c"
+    publishedDateTime: 2021-06-22T11:45:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/robotics-hyundai-acquires-boston-dynamics-usdollar11bn"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 69
+    images:
+      - url: "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/Press%20photo1.jpg?itok=w20kdBfv"
+        width: 3131
+        height: 2009
+        isCached: true
   - title: "Hyundai acquires majority stake in robot maker"
     excerpt: "Boston Dynamics, and SoftBank Group today announced the completion of the HMG acquisition of a controlling...Read"
     publishedDateTime: 2021-06-21T10:39:00Z
@@ -68,6 +82,20 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/06/Hyundai-Boston-Dynamics-robot.jpg"
         width: 400
         height: 257
+        isCached: true
+  - title: "Hyundai buys robot maker"
+    excerpt: "Boston Dynamics makes plastic pals who are fun to be withBoston Dynamics has been purchased by Hyundai in a deal valued at $1.1 billion. According to Motherboard, the deal \"sees Hyundai assume an 80 per cent controlling stake in the robot company."
+    publishedDateTime: 2021-06-22T10:13:00Z
+    webUrl: "https://www.fudzilla.com/news/53088-hyundai-buys-robot-maker"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/02da3fd7be606c0da6e86cc9773b8d03_L.jpg"
+        width: 620
+        height: 451
         isCached: true
 
 secured: "aLyTAF5AUnOmCGa1xSxIkNLOCkx61jL/Hxp4YbnisGmGvQpO6iYvlJaVQu2EDu4FZ5OXfqKkGr0YZbOWBzwmEmSs6RxUW3c7Ae0Dxut4hu3DOsg+5CDRPQ4blvZQX0lBmQP4SyISj9sJEpNO6IkEJPUV1ZJrZE+JIyjcqSQg5K3tBAtL6cb5CALBy0xP6U91xQaaynyacnPXPGs7VVIqciA6jMza3NqqoD4Gf1jd0U9DEoG4nEFZfui8NtLURPRN206tPz1Qgqrai8XG2717C8dPc0ZTN0IFnUutTOBp3S6CbREkqpPqV0oxEgn+jwGWd0F3GI2RtyTnFvTLV5UAVOM+iu/+h1s/yKHkmGOjWZ3DTo+g44KnWC/Uu5MVUMFwCLcLk7ZB5KOWdiXWwxg2M7nfNKc5eAkoDYcbO0wenPNc5QnvJ5g+UHU68LLtJxmofVrX+iRG2LskELQsYKN2pQjSeFAKtTa7AX9CKohbZ0slhsWmy2Tg3MDoBOfdic8VZjTq6tw1z9MKAa36qIfQSg==;ojG2HTzn8BCAZxRwB2W0Xg=="

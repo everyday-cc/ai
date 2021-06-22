@@ -68,6 +68,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
+    excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
+    publishedDateTime: 2021-06-22T11:08:00Z
+    webUrl: "https://www.autonews.com/mobility-report/amazon-snaps-option-buy-stake-self-driving-truck-startup-plus"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/amazon.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Amazon in talks to acquire up to 20% stake in autonomous truck-driving start-up, Plus"
     excerpt: "Amazon is in advanced talks with an Artificial intelligence-based autonomous Truck-driving start-up, Plus to acquire up to 20% of its stake."
     publishedDateTime: 2021-06-22T04:35:00Z
@@ -92,6 +106,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "j6tEQOO3C1Q2nmikrfoy/nS9qf+e+CXqmDFg5XAEz6m60zjY54nJ50Hrm9LH9aAxe+VTn/oX6LV4cQZx7oLXxNG0PGWLJ2krYo/pfj9QY42lD/XWKVH5cHGZxYAchSugu7rzMtnOtqFWyJqi0Pru6XNy8yyEfosHTbUdYSD+N4VinL4lNX+VW7wV698UGNEYQqNXEtgnJPFI58Cbj7dZO2heKgRAEIKJQCM8JUE2qgLeIB8JlYF64D9ZkgL6tfwlEIeoAzGzzpJBmmIWGkFLpMHuL9O7g0qR3PPbnbs740eU5TX0GKZe+0pMyDZCsZfo5QkhkAMp2M+v7RXo+4lUk6Pc8hg0WTP7Llo3vywaoNs=;JFyn600IsqzBA2rQG3IENQ=="
+secured: "fRe32wmOvqwJ9f3ucvw3GqgQK7sxj7IlZJMtSFIBd9J55lqqO9o7bzuZ+gm63asIz4dqzDhhjBNnD8cWDDzKI1SzBo4NVi0NPiH30P5X2JE1N5K3ze3UEr6X5Bpw0QcJI0QZntB61xKmV8pP6wLLe1ZsgMAn4bWJTaTapTG3CUZA53EbvTjdvj5iC/UdUlhDIX2TcFakNfiV/DcXYnzahuAoTGLWJL/8OduBUVZ44UAKLoAJkIf4hAeDGRa0cHLEMDMU0tqS8BPZg+hLt48lXPe8F2fYsrAdtbt6dxfRcNo92ydm+yOW3EngyfMn9ueW/xslAkvIqv2gq/z6giw+x00Z10r/a7SvN8UxX0nGruwdNF56ckNcWYnAkk6tqndPZ/6GmtVOs0lvzK2BrZx/zsrfeZq3uNm4vzaqM+au1Ys04Ltoe6MhuNjWOmW1T6B+bF9nLd3V+p8720ZPR2kI55lk2p77Jhmjn98bPKo+HvgqE87g6RwDiSXq2e5cZBBI3MA7A7m313XAjRRT7UJ++w==;n7VVftAw0Dbpx0FrjvSaXg=="
 ---
 

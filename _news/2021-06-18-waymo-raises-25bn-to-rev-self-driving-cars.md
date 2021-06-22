@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self
 cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 870
         height: 440
         isCached: true
-  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
-    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX."
-    publishedDateTime: 2021-06-17T17:26:00Z
-    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "duIPvoQdTzCIFLF5VNf4IMwPyKzYc1LSCXf0MirwJS4GuYB6W/xU2G3xlZnAiBU9ep3TZB0Xu4GP9oYLimmbrC8JykJfuWjpVkpcgXlNAUzl7C7oyI9go8eMRWIq8rWyz2QLt9fwImshYokIqU7CgSSw0M3+79Strp9fiwwaVRopFp69SuDr87gx+E5FQVRQveuatgdUt0tUkNRdfhcTBRG2Oadd7W+r2UViildoz3eJ6kEC1+vTZjW20OQO7PoaXvd+93Q+5blKAsnQlYooPdjqBloSnIx3J0BxSf+gf4p3h69xlj6zhSuPjYcBTJwpXjWM1LLEKFFr0umBt5AwElZAzZS8g3PYYZ3PuBDaRBw=;+EbCc0B7lNXrUcgEC6SLVQ=="
 ---

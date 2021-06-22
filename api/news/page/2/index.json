@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-21-evaluate-the-utility-companys-ai-maturity-curve-to-determine-next-steps.md",
+      "title": "Evaluate the utility company’s AI maturity curve to determine next steps",
+      "excerpt": "Utilities acknowledge the transformational power of data, but where they are on the AI maturity curve determines how effectively they use it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
+      "originalUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
+      "publishedDateTime": "2021-06-20T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-aveni-backed-to-launch-ai-speech-analytics-platform.md",
+      "title": "Aveni backed to launch AI speech analytics platform",
+      "excerpt": "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business.",
+      "sourceUrl": null,
+      "webUrl": "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/",
+      "originalUrl": "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png",
+          "width": 794,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/",
+      "publishedDateTime": "2021-06-20T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailybusinessgroup.co.uk",
+        "domain": "dailybusinessgroup.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-these-are-the-startups-applying-ai-to-tackle-climate-change.md",
       "title": "These Are The Startups Applying AI To Tackle Climate Change",
       "excerpt": "A group of promising startups has emerged to do just that. Both climate change and artificial intelligence are sprawling, cross-disciplinary fields. Both will transform literally every sector of the economy in the years ahead.",
@@ -207,7 +301,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -259,7 +353,7 @@
       "originalUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -448,7 +542,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -837,7 +931,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -924,7 +1018,7 @@
       "originalUrl": "https://thenextweb.com/news/twimls-solutions-guide-ai-ml-landscape-map",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1104,100 +1198,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-making-the-generic-ai-trend-work-for-your-business.md",
-      "title": "Making The Generic AI Trend Work For Your Business",
-      "excerpt": "Generic AI might look great in the lab and in the demos we see online, but in the real world, problem-specific models are what we need to achieve high accuracy and precision — and, therefore, effectiveness — with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/",
-      "publishedDateTime": "2021-06-18T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price.md",
-      "title": "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price",
-      "excerpt": "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
-      "originalUrl": "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2021/06/image001-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/",
-      "publishedDateTime": "2021-06-18T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

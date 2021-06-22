@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-20-artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent.md",
+      "title": "Artificial Intelligence And Automation’s Paradox: More Human Talent Needed To Reduce Need For Human Talent",
+      "excerpt": "Impending post-Covid boom in AI, algorithm and automation jobs means more talent shortages -- and re-inventing careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/05/19/artificial-intelligence-and-automations-paradox-more-human-talent-needed-to-reduce-need-for-human-talent/amp/",
+      "publishedDateTime": "2021-05-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
       "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
       "excerpt": "While investors wonder why stocks are dropping today, artificial intelligence (AI) stocks could be worth watching. Why? For starters, they are likely trading lower in today’s stock market as tech stocks sell-off amidst inflation and crypto-related issues.",
@@ -1354,49 +1406,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-cybergangs-connected-to-russian-intelligence-cisa-on-fivehands-scripps-cyber-incident-insecure-routers-ryuk-vs-research.md",
-      "title": "Cybergangs connected to Russian intelligence. CISA on FiveHands. Scripps cyber incident. Insecure routers. Ryuk vs. research.",
-      "excerpt": "Signs of cybergangs' connections to Russian intelligence. CISA analyzes FiveHands. Scripps cyber incident. Insecure routers. Ryuk vs. research.",
-      "sourceUrl": null,
-      "webUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/88",
-      "originalUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/88",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thecyberwire.com/images/social-media/2021/05/cw-briefing-050721.jpg",
-          "width": 2640,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Wire",
-        "domain": "thecyberwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

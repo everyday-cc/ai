@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report explores the essential factors of the Voice Recognition market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
     publishedDateTime: 2021-06-17T19:27:00Z
     webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-segments-top-key-players-drivers-and-trends-to-2026-2021-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
+    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
+    publishedDateTime: 2021-06-22T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
     type: article
     provider:
       name: MarketWatch

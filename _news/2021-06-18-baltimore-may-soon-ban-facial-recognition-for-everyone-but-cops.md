@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/baltimore-ban-facial-recognition-everyon
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igeIlhc5fXoc/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "EU bodies call for facial recognition ban in public"
+    excerpt: "Two EU regulatory bodies lobbied for a ban on the use of facial recognition in public spaces, warning AI technologies raised severe privacy issues."
+    publishedDateTime: 2021-06-22T10:45:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 61
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/09/MWL_facial_recognition_biometrics_650-e1624358480805.jpg"
+        width: 635
+        height: 390
         isCached: true
   - title: "Information commissioner sets out facial recognition rules"
     excerpt: "Elizabeth Denham, the UK information commissioner, has said she is “deeply concerned” about the potential for facial recognition technology to be used inappropriately and has established rules for the use of the technology in public places."

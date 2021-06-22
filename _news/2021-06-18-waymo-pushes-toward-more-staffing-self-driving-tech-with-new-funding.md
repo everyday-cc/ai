@@ -87,15 +87,6 @@ related:
         width: 870
         height: 440
         isCached: true
-  - title: "Self-Driving Waymo Trucks to Haul Loads Between Houston, Fort Worth"
-    excerpt: "Waymo and trucking company JB Hunt have partnered to haul cargo loads autonomously between Houston and Fort Worth, TX."
-    publishedDateTime: 2021-06-17T17:26:00Z
-    webUrl: "https://cacm.acm.org/news/253375-self-driving-waymo-trucks-to-haul-loads-between-houston-fort-worth"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "zmyG+vG8taYH9ldG5Q5JBZWs4+VM0MW44asTyPnpmlCsViRICYHVpTpzGDFoFNTLX7Lfr+YcUH5WattvIxvj8hDc7NGK4io1Mo96LZtGUJ+ofDfnJhaxd5W9tWsyQRZopVImpSHKZ2yGSeeh/Q4hNB82rpIDf5sYb5sb3vyTGHVfqX48oxLHYysxkUrRkyyE2wzO0RerNJYC0LkKst0dT9+f+h/Vx2WIFP9ac5uzEjdBvJ4u4pnmbFwPeHJgUWOGCLz5CCe/HK3XZNYwVTEncZ4AAyQe5zIaal2IgIqRhNQdEGdPksfi5cHWg8JwQ1chfzfLxanOGMoD+VUq6h+oVD03trgv3gWs/2h19zUHwVg=;QJFcdKpUZa01gRQZq4YmgQ=="
 ---

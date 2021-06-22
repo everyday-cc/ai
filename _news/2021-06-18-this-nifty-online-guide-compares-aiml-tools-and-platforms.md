@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/twimls-solutions-guide-ai-ml-landscape
 webUrl: "https://thenextweb.com/news/twimls-solutions-guide-ai-ml-landscape-map"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI/ML Innovations Inc.: AI/ML's Health Gauge Partners with Lenica Research"
+    excerpt: "Health Gauge's health information capture technology deploys with Lenica's commercial launch -- Lenica Research is partnered with Microsoft, HTC and more -TORONTO, ON / ACCESSWIRE / June 22, 2021 / AI"
+    publishedDateTime: 2021-06-22T11:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214472-ai-ml-innovations-inc-ai-ml-s-health-gauge-partners-with-lenica-research-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 34
 
 secured: "BzWO84dj1B6UoOQ8oSGGJRX/xt8Up7HVeWDm4h3rQn3Wgp9FQWf8hgRBVNNHSfnZkyDZya76zr/Qm2Og5Joq3+vc/Ee6FOTa91Ez981ABA2XNu3LjxQRJzXj2YykEgKoBLOJogPIUZhDLeViW6ciWlzAQallxDz8EaIiv+CsCA3+dDN+3yLZqZfBwix8M5+lBp4ayUv/qcfDYV2DAZd9MRW6Q9ihziIJ+ejKOBwU0vH5ILtF+Wbj6YrJv67idMDbDPQuulVLqqSUHG8cy9Ok+xVFYdvu+XeEk0p6u7Xw1H8ARUVERHafPP9WYcxRhWs0NFUEg4bs3FJmNdMISAkurR1+YFhGsSMiedI+8/y1R+Q=;R2B8QJb37k4zgeeObVkrYQ=="
 ---

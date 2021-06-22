@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
+    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
+    publishedDateTime: 2021-06-22T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
     excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
     publishedDateTime: 2021-06-21T08:29:00Z

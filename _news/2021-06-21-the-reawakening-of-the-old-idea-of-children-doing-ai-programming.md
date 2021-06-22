@@ -65,6 +65,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "MBTA officials considering self-driving subway cars"
+    excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
+    publishedDateTime: 2021-06-22T09:52:00Z
+    webUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/"
+    ampWebUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
 
 secured: "6r33Y6inDlN2IYvXP4QuXBk7TXUQ4Z19qvzMTMOmc/46XuG7lSRF2Ukk6kHLzhTDF/eYa99Al573CXz2lwW6LPHa40HVXA5Sgj4FWprlq+EFyCW3EU8OGPJoo8HpHYZUQiFJzDwOojQtlreniWbDSX4F5AS7TBWjdDqsSCKF/1BCahuvmTAWfB0oHYWlUcohc5nCF9RcTTMNRWrF9sFpx2jpq6Hbg9onBnph4UBlhuSnqZwplfIanvqwAdBxJu9lwCHJX+3j5T55bWrURwBYLjq0vr+wop/oB+1k3MBqeVmuky8bV3HQi1sJuvsg41Ii4OGvorXvQbO0FgQckxaj+lU5OHI7h+O5o5RFd4nqwdY=;gJ1fGenQusbS7NsdWE3BHw=="
 ---

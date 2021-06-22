@@ -49,17 +49,17 @@ related:
     quality: 54
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
-    publishedDateTime: 2021-06-18T01:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
+    publishedDateTime: 2021-06-17T19:25:00Z
+    webUrl: "https://www.troyrecord.com/news/national/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud/article_a04988ef-ae97-5b1b-a8bf-7cb34f0d36e5.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Troy Record
+      domain: troyrecord.com
     quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/25/7252d6c7-3337-5b0d-ad47-f11feb168fe7/60d066da35bc1.image.jpg?resize=1200%2C627"
+        width: 1200
+        height: 627
         isCached: true
   - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"

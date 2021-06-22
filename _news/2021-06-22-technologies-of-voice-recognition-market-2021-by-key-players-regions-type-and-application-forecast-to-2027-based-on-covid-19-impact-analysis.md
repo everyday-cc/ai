@@ -59,6 +59,20 @@ related:
         width: 800
         height: 457
         isCached: true
+  - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-06-22T08:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/muQc52T0lh5B5wTHq5YuOuL/4m8NaGA/vUT7I8ik6+6aVDdoiYOn9zTCAmH+w7UV1wuDs1TgBjKFR+YaPStlxYLKfjMrf8KjyuulJ5dlU+OKMypX00AdXTVm7m8Hyfzhhg7TDHskcUCCFsP8AoL/ot8QHn9JYb7Hcqj5cqe30ULLFxK4GfaLOZEx/wfyGqOTpVO/WbVGSc6TEaMpm1zAMNVhXtWn5isfP6vRp68zQ7l1LG/ULuFLeF38QXeFaePSIGmcnezkhRysMtozTZQXuBNGiiCNdPzgg6+xlWlmdnNDcZhhgKZojcF6OpcUHaRDuH2aXs7jKVgf0Fokx7uKnGkdCAmW3gxaVRLJzM7KRc=;J0olxGxJN2bAZ0DOfikpTQ=="
 ---

@@ -61,6 +61,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "MBTA officials considering self-driving subway cars"
+    excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
+    publishedDateTime: 2021-06-22T09:52:00Z
+    webUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/"
+    ampWebUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
   - title: "The reawakening of the old idea of children doing AI programming"
     excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
     publishedDateTime: 2021-06-21T08:41:00Z

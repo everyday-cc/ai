@@ -55,6 +55,34 @@ related:
         width: 1024
         height: 569
         isCached: true
+  - title: "Robotics: Hyundai Acquires Boston Dynamics for US$1.1bn"
+    excerpt: "Hyundai Motor Group’s Strategic Transformation. Valued at US$1.1bn, Hyundai Motor Group (Hyundai) has closed its controlling acquisition of Boston Dynamics - a mobile robotics c"
+    publishedDateTime: 2021-06-22T11:45:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/robotics-hyundai-acquires-boston-dynamics-usdollar11bn"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 69
+    images:
+      - url: "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/Press%20photo1.jpg?itok=w20kdBfv"
+        width: 3131
+        height: 2009
+        isCached: true
+  - title: "Hyundai buys robot maker"
+    excerpt: "Boston Dynamics makes plastic pals who are fun to be withBoston Dynamics has been purchased by Hyundai in a deal valued at $1.1 billion. According to Motherboard, the deal \"sees Hyundai assume an 80 per cent controlling stake in the robot company."
+    publishedDateTime: 2021-06-22T10:13:00Z
+    webUrl: "https://www.fudzilla.com/news/53088-hyundai-buys-robot-maker"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/02da3fd7be606c0da6e86cc9773b8d03_L.jpg"
+        width: 620
+        height: 451
+        isCached: true
   - title: "The Company That Created Spot the Robot Dog Is Now Owned by Hyundai"
     excerpt: "Hyundai gets into robotics and relies on Boston Dynamics, its new acquisition, to help it develop robots with advanced mobility, manipulation, and vision capabilities."
     publishedDateTime: 2021-06-22T06:39:00Z

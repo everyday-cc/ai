@@ -144,20 +144,6 @@ related:
         width: 991
         height: 557
         isCached: true
-  - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
-    excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
-    publishedDateTime: 2021-06-17T17:16:00Z
-    webUrl: "https://www.voanews.com/silicon-valley-technology/facial-recognition-technology-solves-crimes-what-cost"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 39
-    images:
-      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/kaltura-video-thumbs/1_1/1_1ug7wck0.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "EU data watchdogs say facial recognition should be banned in public spaces"
     excerpt: "T he regulatory association of Europe’s powerful data watchdogs, including Ireland’s Data Protection Commissioner, say that facial recognition is too risky for use in public spaces. Europe’s data protection regulators say that facial recognition in public spaces should be banned."
     publishedDateTime: 2021-06-21T12:35:00Z
@@ -185,6 +171,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
         width: 623
         height: 432
+        isCached: true
+  - title: "EU Regulators Urge Bloc to Ban Facial Recognition Technologies in Public Places"
+    excerpt: "Regulators in the European Union are now calling for the governing body to ban the use of facial recognition and artificial intelligence frameworks in public spaces. Responding to the proposal of an AI regulatory framework from the European Commission — the executive branch of the EU — both the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have called for facial recognition technology to be banned in public,"
+    publishedDateTime: 2021-06-22T09:54:00Z
+    webUrl: "https://hypebeast.com/2021/6/european-union-regulators-facial-recognition-artificial-intelligence-ban-request"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Feuropean-union-regulators-facial-recognition-artificial-intelligence-ban-request-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
     excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."

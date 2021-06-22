@@ -40,20 +40,17 @@ related:
         width: 1080
         height: 568
         isCached: true
-  - title: "Microsoft expands telecom portfolio with Azure private MEC"
-    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
-    publishedDateTime: 2021-06-17T19:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
+  - title: "Artificial Intelligence in Retail Market 2021 | IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP, Intel"
+    excerpt: "An informative data report titled Artificial Intelligence in Retail Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
+    publishedDateTime: 2021-06-18T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
     type: article
     provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 54
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 66
   - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
     excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
     publishedDateTime: 2021-06-22T07:28:00Z

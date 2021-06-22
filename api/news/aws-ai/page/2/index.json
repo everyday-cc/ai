@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-05-blaize-names-mark-glasgow-vp-of-worldwide-sales-to-pioneer-products-in-ai.md",
+      "title": "Blaize Names Mark Glasgow VP of Worldwide Sales to pioneer products in AI",
+      "excerpt": "Glasgow joins Blaize to lead and grow the Blaize sales organization seizing the substantial opportunity for Blaize pioneering products in the multi-billion-dollar market for AI in industrial edge, enterprise, and automotive/mobility segments. Blaize, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "originalUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/appointment.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/blaize-names-mark-glasgow-vp-worldwide-sales-pioneer-products-ai/amp/",
+      "publishedDateTime": "2021-06-04T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker.md",
       "title": "Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker",
       "excerpt": "DICOM (Digital Imaging and Communications in Medicine) is an image format that contains visualizations of X-Rays and MRIs as well as any associated metadata. DICOM is the standard for medical professionals and healthcare researchers for visualizing and interpreting X-Rays and MRIs. The purpose of this",
@@ -1337,49 +1381,6 @@
         "Machine Learning",
         "AWS AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-after-uncertainty-around-its-future-pentagon-will-continue-defending-the-jedi-cloud.md",
-      "title": "After uncertainty around its future, Pentagon will continue defending the JEDI cloud",
-      "excerpt": "AWS’ lawyers proposed a slower timeline in an effort to ... for years that JEDI cloud would deliver the department the computing power to develop artificial intelligence tools broadly, as well as give war fighters access to mass amounts of data across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/battlefield-tech/it-networks/2021/05/29/after-uncertainty-around-its-future-pentagon-will-continue-defending-the-jedi-cloud/",
-      "originalUrl": "https://www.c4isrnet.com/battlefield-tech/it-networks/2021/05/29/after-uncertainty-around-its-future-pentagon-will-continue-defending-the-jedi-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.armytimes.com/resizer/J9i1nhUVyjlIFZBO3YZ43BGraqY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/SRADUJJ6LVCBRH6NLUSHARDKR4.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-29T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-06-18/hedge-fund-volt
 webUrl: "https://www.bloomberg.com/news/articles/2021-06-18/hedge-fund-volt-spells-out-bitcoin-exclusion-after-beating-peers"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI tool ‘fundamentally changes the game’ for ICU care"
+    excerpt: "It’s an Artificial Intelligence-driven tool that looks at 100 different variables in a patient’s chart, including lab results and vital signs, and determines whether the patient is at a low, moderate or high risk of needing ICU care."
+    publishedDateTime: 2021-06-22T10:00:00Z
+    webUrl: "https://healthydebate.ca/2021/06/topic/ai-tool-changes-the-game-icu-care/"
+    type: article
+    provider:
+      name: Healthy Debate
+      domain: healthydebate.ca
+    quality: 39
+    images:
+      - url: "https://healthydebate.ca/wp-content/uploads/2021/06/IMG_0126-1024x550.png"
+        width: 1024
+        height: 550
+        isCached: true
 
 secured: "A/nqDJJACoWEoe1pDZTEBt7tFQH4Q8ZTwxQxKg5ayo7gH7Ti1V+G8RoqgaxwcxLIcdi24v1UOa57ZgQO2bxRbjUDkFQTmRTkc7Ei21tJyy1iI4x9ZCqp7TwOvBUZRaH4D2UuEmIIT45u4sjXMvnzWiCn9pxOqshEmK1spG7S3oly4KJ0MBHSAKoC772/7hoCljzRGtJykajcSfe44VNQs2pfvt3buioy4RyCP/Fo9iceoEASFzHjKU2GmW742y3taKYxfx6r4C4B86ufA+fAzLY0+QhwH2lHI6q+gyXR6NxVNGS8xGHDucqr5EbV/XZd4A2AgXIshPkrPEHZyABYaHm8Kn7YYRgYTNNa7n6lENFvn+XAQHqyLCfBBjjVjvMZNW8bG6nmeomDU/UEM3t4bMJbx7VK0OGUBLKzss7QLFMUpg8AG1/UvsUXGAGkHsMsbr5BFw4xmOhry5Ik0D215SkPXTwEJvfRLnF6YjqO7WwLmASUDAhzSS9u56sEcGl8VyqHWTd7X+Gg8JGuK1mHUg==;yg8XRqg+gDys4wTKDrpQxg=="
 ---

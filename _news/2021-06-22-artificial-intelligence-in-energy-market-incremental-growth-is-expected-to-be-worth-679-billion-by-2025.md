@@ -71,6 +71,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Global Applicant Tracking Systems Market 2021-2025: Emergence of Artificial Intelligence (AI)-related Services - ResearchAndMarkets.com"
+    excerpt: "The \"Global Applicant Tracking Systems Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The applicant tracking systems market is"
+    publishedDateTime: 2021-06-22T09:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659796/global-applicant-tracking-systems-market-2021-2025-emergence-of-artificial-intelligence-ai-related"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market (2020 to 2026) – Featuring 3Scan, Atomwise and IBM Among Others – ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) in Healthcare Market 2020-2026” report has been added to ResearchAndMarkets.com’s offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
     publishedDateTime: 2021-06-18T12:08:00Z

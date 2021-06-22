@@ -79,6 +79,20 @@ related:
         width: 1000
         height: 564
         isCached: true
+  - title: "Global Applicant Tracking Systems Market 2021-2025: Emergence of Artificial Intelligence (AI)-related Services - ResearchAndMarkets.com"
+    excerpt: "The \"Global Applicant Tracking Systems Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The applicant tracking systems market is"
+    publishedDateTime: 2021-06-22T09:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659796/global-applicant-tracking-systems-market-2021-2025-emergence-of-artificial-intelligence-ai-related"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wyaz2RJI7sBt8V5HOxSHQ9E7ESlpNC4M47ZpY7nooJYxjpXqIDjfD8g5hnHrQ3OvIkVycwMsqJ8HYUHBfDLiVzcUhoFLiMupG6f42GF0lxL+oD+do6Vs3a7DryP8wofq0Xh74HoYlVjnxRH+PCdOkIlaOYXWNMujOH9lEQ0QsuLi3InIa6Ht+eSmJYX0ANKzpcV/RcN3qvgcy84a2b8CZZs+v5rtMyTnRMiZYMeB0YscHNxiDB6Z5ANG0/5msRU5xue0LuFKAuwWepuZhv6iIJDcRnZ0afDrOAa9Bs5KCqKsV+l9sROzYt6Vcye4x2hXHUBsHBtUqB6rqhPXh6OY8NcobCDT/YlaH4v2kLFAi7Q=;360FUvNJyqV481LhRA9njA=="
 ---

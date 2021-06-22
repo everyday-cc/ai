@@ -3,8 +3,8 @@ category: news
 title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
 excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,"
 publishedDateTime: 2021-06-22T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-netapp-acquires-data-mechanics-accelerate-spot-roadmap-optimize-/2021/06/22/9394553.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-netapp-acquires-data-mechanics-accelerate-spot-roadmap-optimize-/2021/06/22/9394553.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394553.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394553.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "aHdmby0JehR2ch7tnPfN+RoE5rN0Nv9TRu38LVoJbYVdxAopnYgPtgg4sRNCo5wFKcf/3S348WiMh8uG0fx0fnv1FR/rO5zOpLPAUErvG7pNjZN+YZTGzOLZCi9tnozzbMkA+VYjVmHNAwY5VjpMKUviyD6KrHFJmdFNmB4vGkDtM1VCgih4vGq+ZynjfAOXn8Q35qeWc2hQGv0roRKgGKNgYeL288dAmJqjDRWLsTLaT+LoyhnhI46wxwjasH9Y5wM+9SyqTg4lZ09AE/QS2l1bSlVGcGKCDtEiVT+stcIit34xlRIylc2sAnFtMjfVccq/r8VurhoaNf8rOi9AEcYReaHbAvolThhZe3eNYw8=;vhewnGQy9MDPiUALL4/OJw=="
+secured: "eFx0GvJeCghwgg0eBQlrWJVK0+JsYx6iWuL71SQHwehR1otqJfAybDnPCBJ/JeWdNfHOxc5I5iLU+s5SkC0Gz869o7SAxWTFqi9/NP4+oXGgnZKUZLn9JfzsVg4cCGWsbVWmk+XDwVicZ0U+aPTIo/Gw47I3xHyZ+Oy0mGX2hwb/ZnhOzLzwet4/QnPpEOUalfO7TQwjmgG1TEpPCb1FVdKZILiHB2bQ86fMWviCgyisQOR9+5QrlYLPNn2ZjiCGgYIh/W9yPJgu8etykO6nX0GKu7ii3lvT9GxD+tGu/XEfLA0bG1M1ue3b8yE5PdkSPLiP0YGwBIkkE4SIh5odGyYEzox8pBUPu8zTbJgSPiM=;TermlMhrKYidM0NWie8Utw=="
 ---
 

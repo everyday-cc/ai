@@ -74,6 +74,17 @@ related:
         width: 1939
         height: 906
         isCached: true
+  - title: "Hewlett Packard (HPE) Scoops Up Determined AI, Boosts HPC Offerings"
+    excerpt: "Hewlett Packard Enterprise HPE recently announced the acquisition of software provider — Determined AI — for an undisclosed amount. The acquisition is expected to boost Hewlett Packard’s portfolio of AI and high-performance computing (HPC) solutions by enabling machine learning (ML) professionals to implement ML models seamlessly to generate more precise insights from data."
+    publishedDateTime: 2021-06-22T10:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "HPE Acquires Deep Learning Training Platform Determined AI"
     excerpt: "Hewlett Packard Enterprise has acquired deep learning training platform Determined AI for an undisclosed amount. The latter will work with HPE to boost high-performance computing"
     publishedDateTime: 2021-06-22T06:29:00Z
@@ -200,6 +211,6 @@ related:
       domain: insidehpc.com
     quality: 34
 
-secured: "NBz/1lehtQzCQj0Wqrj7zhUe2HbDvMdpc+mwQPhaJXVtnXeSDV8r4XK9xfIJSZwruiayWKNtfG5HaWZ4ZwFai3PbQn2KhlqPEiOiLOLqtxyu1izlpKhruT7TIC195fWNJc0iRrHb+4nlWexZaiGQ4tp9qZvxiD2qh2qI/bibEwas2JlcIUU0l6SBrBGP1UsI5NWWDY+iZz/OJAesTS9EpNXVsJwh6XuBd1/TZGH4uoLt6TIP122SKxesJT342z6zVqzKuhfw9s8/GxEYiXXk3+tDf//Hy9fECWCoedjwkPQahVazeZDv1EgNq50S+ql8U2w6ZOXmAAci4psW/6KRTj4HyYHweiObJ0OdIJj+5mg=;spWVk3nIdL0LFH9NnX1CYA=="
+secured: "r8FA/ces2PN4NsTOQR3g2XXzOw+8VABqOAid23xBlbW7MK62/Qxz2NJ0CQz8B8V5MUJRvSdL+XUxDu4Vl0xUt+LpznWEfMqla6Sp7v6NY1d0k3M2V2HBcrX41YXr5FNVfryrxNYdS9OmArCWQJPNI6qZ/l6/uDYp1xfvsctBc6D4FUbLTprN2qWiiRYcrQwUe+HYNhg+Vhf449YJMpJ83nJEKlVYQ5/VdFPK+qItfUvtQs408RSgXyDZ347HCY+90tukCJI/K93rzgYIZb+SXc+99uzr51yYBXkaIuf5f5EyDLhx9FNBe7rpfnFS1pUM4/dkSSqLo6xDM5BJWRv6TY2XAlz5jVIUjTaYW9FKOFjAmRHLws+kWVqpA3UNXaZWPfNzRXrhyTdL/i7kv72J38dJPd0nnAgs225aJFhoe3+Lfxa7G80o7gwd4x1o+gqjBKTlM5fWiFR4Gm+koExVcWtwOAvs+G8x4Bkv98s0t3L1X+SrMmkf7QAGSbSoNG0cJ4G0BDd3p3ZeRnKLYUDhqQ==;hwRt8aUcQE8S20YHkFz68Q=="
 ---
 

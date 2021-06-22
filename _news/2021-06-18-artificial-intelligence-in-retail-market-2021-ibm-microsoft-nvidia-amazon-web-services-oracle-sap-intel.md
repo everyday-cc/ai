@@ -22,45 +22,52 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Machine Learning in Education Market Comprehensive Study Explore Huge Growth In Future: IBM, Microsoft, Google"
-    excerpt: "A new statistical surveying study titled Machine Learning in Education Market investigates a few critical features identified with Machine Learning in Education Market covering industry condition division examination and focused scene Down to earth ideas of the market are referenced"
-    publishedDateTime: 2021-06-21T12:22:00Z
-    webUrl: "https://www.openpr.com/news/2309879/machine-learning-in-education-market-comprehensive-study"
-    ampWebUrl: "https://www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
+  - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
+    excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-18T11:13:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 73
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 71
     images:
-      - url: "https://cdn.openpr.com/U/6/U621854972_g.jpg"
-        width: 660
-        height: 400
+      - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
+        width: 1080
+        height: 568
         isCached: true
-  - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
-    excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
-    publishedDateTime: 2021-06-21T10:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-likely-to-boost-future-growth-with-google-baidu-microsoft"
+  - title: "Microsoft Teams for Android can now translate private chat messages"
+    excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
+    publishedDateTime: 2021-06-18T15:38:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-teams-for-android-can-now-translate-private-chat-messages"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 63
+      name: On MSFT
+      domain: onmsft.com
+    quality: 56
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Wood-framed_house-CC-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Teams-Android-Google-Play-Store-Listing-Custom.jpeg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2021-06-18T09:45:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
+  - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
+    excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
+    publishedDateTime: 2021-06-22T07:28:00Z
+    webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 38
+  - title: "Microsoft introduces Azure private multi-access edge compute system, services"
+    excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
+    publishedDateTime: 2021-06-21T15:18:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-azure-private-multi-access-edge-compute-system-services--1387445"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
 
 secured: "Y2sPfblEpJMq5agMdMP9ZdoPu/2JuM4kYNQ3KhdAw6gvMwRzgoA3gqEWf/4YylWGm66O3YYHq5b5ljsCvbDLWynzeLn8qD5sEU7TcLCYkrQNm/0BhIK+91uJvVwccPxwNbKVuUOgnm6YtYuyeyElsCf9vG2yuIRJBigvzVYnrQnJ5Y4nAQIMHK9XIs5E5RAftQwPIv7p1ld08b1jU46fe6RHdgG8D37zaN64Rd2m0iIYhR1gwBhoSPunaNQHvFLH4kOOHIW5rm8WQEsrMx/gzJL+OF1EOclc8gdiot74jt5wsCqrTyCu0PWobPs17XmctJrWi6jYO9eoDKXPGex2AOnNYNKq1ih/IHFTVOIp99g=;OLAOA9S/ip985PXdKiipMw=="
 ---

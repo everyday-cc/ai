@@ -87,22 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sickos behind celebrity porn deepfakes can now be exposed by Facebook"
-    excerpt: "FACEBOOK is cracking down on fake images used to mislead its users. Scientists at the US tech titan said Wednesday that they developed software to not only identify “deepfake” images"
-    publishedDateTime: 2021-06-17T18:04:00Z
-    webUrl: "https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/"
-    ampWebUrl: "https://www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/lifestyle/tech/3104305/celebrity-porn-deepfakes-exposed-facebook/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 44
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/06/COMP_RR_DEEPFAKES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "MSU team develops deepfake detection model with Facebook"
     excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"
     publishedDateTime: 2021-06-21T17:12:00Z
@@ -118,22 +102,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/6099c700-bedc-4709-8348-6abc782687a5-test.jpg?auto=webp&crop=208,117,x0,y36&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook, Michigan State University Researchers Develop Tech To Pinpoint Origin Of Deepfakes"
-    excerpt: "opefully, this will also help keep deepfakes in the realm of being silly and fun, rather than becoming a threat to democracy, journalism, and communications for all people."
-    publishedDateTime: 2021-06-17T17:42:00Z
-    webUrl: "https://hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
-    ampWebUrl: "https://amp.hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 33
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55430/content/researchers-at-facebook-and-michigan-state-university-develop-deepfake-reverse-engineering-tool.jpg"
-        width: 708
-        height: 354
         isCached: true
   - title: "Facebook says its AI can detect deepfakes and identify their origin. – EzAnime.net"
     excerpt: "Artificial intelligence (AI) has advanced to a point where computers can be taught to create deepfakes by combining authentic images and videos. We've already"

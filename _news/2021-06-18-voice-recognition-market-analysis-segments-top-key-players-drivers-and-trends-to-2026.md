@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
+    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
+    publishedDateTime: 2021-06-22T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
     publishedDateTime: 2021-06-17T19:45:00Z

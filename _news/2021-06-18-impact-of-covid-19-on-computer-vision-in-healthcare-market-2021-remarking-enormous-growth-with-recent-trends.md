@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-co
 webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.openpr.com/U/6/U621636644_g.jpg"
         width: 800
         height: 457
+        isCached: true
+  - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-06-22T08:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
     excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"

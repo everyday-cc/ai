@@ -82,6 +82,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
+    excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
+    publishedDateTime: 2021-06-22T11:08:00Z
+    webUrl: "https://www.autonews.com/mobility-report/amazon-snaps-option-buy-stake-self-driving-truck-startup-plus"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/amazon.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
     excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
     publishedDateTime: 2021-06-21T18:28:00Z

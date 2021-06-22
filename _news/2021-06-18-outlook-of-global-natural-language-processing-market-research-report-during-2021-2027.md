@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2308389/outlook-of-global-natural-languag
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308389/outlook-of-global-natural-language-processing-market-research"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/12/9123fac4-764c-5534-9830-ffe3fa7283dd/60d1137e55ba2.image.jpg?resize=1000%2C564"
         width: 1000
         height: 564
+        isCached: true
+  - title: "Global Applicant Tracking Systems Market 2021-2025: Emergence of Artificial Intelligence (AI)-related Services - ResearchAndMarkets.com"
+    excerpt: "The \"Global Applicant Tracking Systems Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The applicant tracking systems market is"
+    publishedDateTime: 2021-06-22T09:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659796/global-applicant-tracking-systems-market-2021-2025-emergence-of-artificial-intelligence-ai-related"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market (2020 to 2026) – Featuring 3Scan, Atomwise and IBM Among Others – ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) in Healthcare Market 2020-2026” report has been added to ResearchAndMarkets.com’s offering. The global market for AI in healthcare is projected to have a CAGR of around 51."

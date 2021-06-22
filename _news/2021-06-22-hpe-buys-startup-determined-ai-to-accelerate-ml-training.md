@@ -73,6 +73,17 @@ related:
         width: 1939
         height: 906
         isCached: true
+  - title: "Hewlett Packard (HPE) Scoops Up Determined AI, Boosts HPC Offerings"
+    excerpt: "Hewlett Packard Enterprise HPE recently announced the acquisition of software provider — Determined AI — for an undisclosed amount. The acquisition is expected to boost Hewlett Packard’s portfolio of AI and high-performance computing (HPC) solutions by enabling machine learning (ML) professionals to implement ML models seamlessly to generate more precise insights from data."
+    publishedDateTime: 2021-06-22T10:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "HPE Acquires Deep Learning Training Platform Determined AI"
     excerpt: "Hewlett Packard Enterprise has acquired deep learning training platform Determined AI for an undisclosed amount. The latter will work with HPE to boost high-performance computing"
     publishedDateTime: 2021-06-22T06:29:00Z

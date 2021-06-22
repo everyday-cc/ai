@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Doubts Surface About DeepMind's Capabilities"
-excerpt: "But they remain relatively dumb, or \"narrow.\" DeepMind's famous AlphaGo AI can't draw a stickman or tell the difference between a cat and a rabbit, for example, while a seven-year-old can. Despite this,"
-publishedDateTime: 2021-06-18T13:57:00Z
+excerpt: "Jun 18, 2021 (Baystreet.ca via COMTEX) -- Computer scientists are questioning whether DeepMind, the Alphabet- (NASDAQ:GOOGL) owned U.K. firm that's widely regarded as one of the world's premier AI ..."
+publishedDateTime: 2021-06-18T15:53:00Z
 originalUrl: "https://www.marketwatch.com/press-release/doubts-surface-about-deepminds-capabilities-2021-06-18-91975752"
 webUrl: "https://www.marketwatch.com/press-release/doubts-surface-about-deepminds-capabilities-2021-06-18-91975752"
 type: article
@@ -60,6 +60,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ilJSTIk/+Qf0rFkc+4s5A2aTydeXT28zFnoxz0Nvo7YkpnLN0RgoBIFyCSR4LKd/zFAQ6yoRQZpbRAOjW+vsTAi7vK+PpoehEaij5hcZ6NtNC3kSVGYRZBsWszIAuWPWer2O6EursqNzf6cO0koCGT38cubqXIunwOoyF/aZxltD6+5Er/JM12MMgRRcyXpJpHarGZl0u9GCVRr0qz/N99ty8aHYDAfVjyOSutwMjFhCYVXbWpwQInWhQwg6vCLszKhpnEvlVV2qeeH4Fu4SdxpvpwDPJtUX9eay5b6Cgt3FnDFtd0grOdUpjep72gFo9NE1BbqjY4ZatmCiXGVo0y9xd91wvgvQgxI2T3dDMrM=;Wip1omZDVmU/A4MFnSB+9A=="
+secured: "74TcHHUyqVgKkdVReKP5hU1YKPIoy44g8Xpjc+qdxsXgZJ/ECjD9USiqyIjACuXCH9fVbym6BW8tZFRgrW46Pe4chQKN4w5iV0+yaIJ12A3BRpioQsnWsofmWJ7QNsIipHgzwm3ZsgRwiDzJRquo+zfCzbd0CE6ILzdDkd5yXJBkwOQbjuCtXjPGkk5c2X2o+kXBLioMZcknybQ9rH7D1z2ONaGUyMZ+GJzdC9cGUCVfrZRHCq77rhH7iljLEmzEfrdDfB3oe9Mf4igbueJ1BZ40zGE80wRynv3IxEkju6DOd4yNl1bwPzcD4fKV03RmRwSSPdjNiT5SmWAb80MbuzsZLnIGsuMZ1RBGxvjYlHY=;0fYuYk10pDWHtevRyVemxg=="
 ---
 

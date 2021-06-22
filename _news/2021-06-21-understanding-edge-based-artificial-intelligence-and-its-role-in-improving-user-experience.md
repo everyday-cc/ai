@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/understanding-edge-based-artificial-intellig
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/understanding-edge-based-artificial-intelligence-role-improving-user-experience/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 850
     height: 400
     isCached: true
+
+related:
+  - title: "Three use cases — how AI is helping improve the healthcare experience"
+    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
+    publishedDateTime: 2021-06-22T10:01:00Z
+    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 56
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
+        width: 1080
+        height: 592
+        isCached: true
 
 secured: "umvY6s7RDuhUdtOXTsM/+IFTOMKBtrIe7aNOsvDzLW04paoAj5lV/N+bwDS1XP/JritAfARPc51+qYTBEeaetfE1raVTPbb+3NKI0wTab0mC4jAuUDUCj8yX4Hu6WBCIyM3bj3rdOSocFRm6PZjlGsIcjnZriPiSpeLiJLFzegXpT02hetQQt6yyztfSmef0PR9J6EqLHRTJst5ePhsTkZAYQF5jqZHiSx2OYMGKrMj46w6GdX9TPlwRj6sdm0614DEiWYVXVbKLMzqT8IXXajyiqy82/uaQYFyiBu2qaAbXuZ+3XmnpkHAq5Fd9JyKst0FISvZmG66Wf0kGtrkkPm+Wjv0AYeMkDe5AxYt6Qwg=;LNoYLQhe+umvlpEhaLUe4w=="
 ---

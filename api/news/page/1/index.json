@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-22-artificial-intelligence-ai-in-education-market-worth-observing-growth-knewton-microsoft-cognii.md",
+      "title": "Artificial Intelligence (AI) in Education Market Worth Observing Growth | Knewton, Microsoft, Cognii",
+      "excerpt": "The Global Artificial Intelligence AI in Education Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short term challenges they face One major attraction",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2310856/artificial-intelligence-ai-in-education-market-worth",
+      "originalUrl": "https://www.openpr.com/news/2310856/artificial-intelligence-ai-in-education-market-worth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U622407575_g.jpg",
+          "width": 604,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth",
+      "publishedDateTime": "2021-06-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-the-new-normal-reimagine-the-transformation-of-industries-with-ai.md",
+      "title": "The New Normal: Reimagine The Transformation Of Industries With AI",
+      "excerpt": "With its far-reaching impact across industry segments, AI has unleashed the Fourth Industrial Revolution and is changing business processes as well as how industries reimagine their customer's preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D23%26cropY2%3D3398",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/the-new-normal-reimagine-the-transformation-of-industries-with-ai/amp/",
+      "publishedDateTime": "2021-06-22T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality.md",
+      "title": "This Biotech Startup Just Raised $255 Million To Make Its AI-Designed Drug A Reality",
+      "excerpt": "Insilico Medicine aims to use its new cash infusion to take its first drug, a treatment for idiopathic pulmonary fibrosis, into clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/",
+      "originalUrl": "https://www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d15167efda823562123d4b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/06/22/this-biotech-startup-just-raised-255-million-to-make-its-ai-designed-drug-a-reality/amp/",
+      "publishedDateTime": "2021-06-22T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-hpe-bolsters-hpc-business-with-determined-ai-acquisition.md",
       "title": "HPE bolsters HPC business with Determined AI acquisition",
       "excerpt": "Hewlett Packard Enterprise (HPE) has acquired open source artificial intelligence (AI) startup Determined AI. The four-year-old company, which only brought its product to market in 2020, specialises in machine learning (ML),",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -61,7 +208,7 @@
       "originalUrl": "https://philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -198,7 +345,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus-41624283725571.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -601,51 +748,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-machine-learning-in-education-market-comprehensive-study-explore-huge-growth-in-future-ibm-microsoft-google.md",
-      "title": "Machine Learning in Education Market Comprehensive Study Explore Huge Growth In Future: IBM, Microsoft, Google",
-      "excerpt": "A new statistical surveying study titled Machine Learning in Education Market investigates a few critical features identified with Machine Learning in Education Market covering industry condition division examination and focused scene Down to earth ideas of the market are referenced",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2309879/machine-learning-in-education-market-comprehensive-study",
-      "originalUrl": "https://www.openpr.com/news/2309879/machine-learning-in-education-market-comprehensive-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U621854972_g.jpg",
-          "width": 660,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study",
-      "publishedDateTime": "2021-06-21T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
       ]
     },
     {
@@ -1100,100 +1202,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-evaluate-the-utility-companys-ai-maturity-curve-to-determine-next-steps.md",
-      "title": "Evaluate the utility company’s AI maturity curve to determine next steps",
-      "excerpt": "Utilities acknowledge the transformational power of data, but where they are on the AI maturity curve determines how effectively they use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
-      "publishedDateTime": "2021-06-20T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-aveni-backed-to-launch-ai-speech-analytics-platform.md",
-      "title": "Aveni backed to launch AI speech analytics platform",
-      "excerpt": "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business.",
-      "sourceUrl": null,
-      "webUrl": "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/",
-      "originalUrl": "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png",
-          "width": 794,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/",
-      "publishedDateTime": "2021-06-20T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailybusinessgroup.co.uk",
-        "domain": "dailybusinessgroup.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
