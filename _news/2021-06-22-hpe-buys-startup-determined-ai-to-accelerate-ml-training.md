@@ -71,6 +71,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "HPE picks up ML model training pace with Determined AI buy"
+    excerpt: "HPE is set to bolster its high performance computing and artificial intelligence stack with machine learning model training tech from Determined AI, which it has acquired."
+    publishedDateTime: 2021-06-22T05:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/689239/hpe-picks-up-ml-model-training-pace-determined-ai-buy/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/justin-hotard.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
     excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."
     publishedDateTime: 2021-06-21T17:34:00Z
@@ -141,6 +155,6 @@ related:
       domain: insidehpc.com
     quality: 34
 
-secured: "e5X0KmL39Zohd3S3k2Lj8qExNKpR9YNRePtrs1ovehnKCvGDJIHdNk9REPm91Xh9XJh+2ydQaw/EUx/gBZUzcq/S2S88tU8ZTaHXA0aVaGPs6m6bYeYehl49dvKotG9vxT5gLN+oMiRsGelJ4lo2hUZIT0olzmtC7WsY9rRSpmtOOd5QgcmK6Zrj0Qzbs0uK/A5fpuhS0ONO4NZ5NFECiLyzvkTMryXocaZ6pkQpPz8rKBqCTmhK1IFTJK50IrpmypIR4cpV3dVmA5tGDL4re35tj4m29o2gAm2Byzcb8jHGZwZDXoBB0JmW4EAQQr6Uv86WJNLAnOjWIkYGItuogg5C/V9aohqMblBJQg7PKHc=;qQo6YE8FMaAQjjyOXz6BUQ=="
+secured: "GTkUBPkQ8jv6zQRLuQ47v0SEW496a/USu7/d0Tp33dMODUYgepTDHHZtrnUSEnlU8GKC8mBnD3Y+GJw9ywif9pLcBgys8VYkL69SpvKi8yevJ5uw+1BuODXKFJ7qu6qhrIA1WyxdPrra3Rc36g4aa4Cy2hBWWoBz4a0ts6R5xs5CZ7N0tRaFUyAtqjxt0eqDWyYVuzffFofp7e/IruHZ8ndHZh+6CyBq8aio2PJCVjZNwdnGX58duoLRI4oCj36LNi5DtfRU7EXq4dA7Cr6BAW4It5kHU0zQ8wZQ2yHSMqxqWl+ARYaR/sq/xBvvzFmCogJjP28UroE87PyW83UdUkSAnNn3jVo4GbbyLvNAIA10I/f2DT5q6uPkgx+ebltE7GW6LUVVN4qrVR0kpMUojEwgY12Lf1+LPTl+5WDKmGWu/8FTXDkXCYapMfix2WCkBy3cBtv4cUD2oT8KGISN7S0BUpJlZJRQ5cDu7Jk+rCEJP5nxPzCzoeT+rykfxfcqy7UVDsIJGmbAdo9Y03bvzw==;EQaaIRT0QRLMUNuCqhN2lg=="
 ---
 

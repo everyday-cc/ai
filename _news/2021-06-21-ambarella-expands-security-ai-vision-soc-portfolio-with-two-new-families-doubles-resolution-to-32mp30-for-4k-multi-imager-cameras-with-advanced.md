@@ -22,21 +22,14 @@ topics:
 
 related:
   - title: "Ambarella unveils two new AI chip families for 4K security cameras"
-    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision."
-    publishedDateTime: 2021-06-21T09:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/"
-    ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
+    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.Read MoreRead more on"
+    publishedDateTime: 2021-06-21T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras-10258322"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/ambarella-Photo_CV52S_Embargo-June-21-2021-5am-ET.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
     excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
     publishedDateTime: 2021-06-21T23:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.producebluebook.com/2021/06/17/farm-tech-startup-iron-
 webUrl: "https://www.producebluebook.com/2021/06/17/farm-tech-startup-iron-ox-hires-executives-in-finance-marketing/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Farm Tech Startup Iron Ox Hires First CFO and Head of Marketing As Company Prepares for Hypergrowth"
-    excerpt: "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Chief Financial Officer and its first Head of Marketing this week as the company accelerates growth and expands its commercial footprint."
-    publishedDateTime: 2021-06-17T12:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-first-cfo-and-head-of-marketing-as-company-prepares-for-hypergrowth-1030531813"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "vpa3oSKstDqcPvGpxeqHxgOP487FwKdMqZPmCR76O/8P90cTOQ//9XYU/yQkj5Bx4iyWgCi2KB01koIx+aLE5nFJolcr2lwfIdMQxWLqIz2KqVyxWhPzZm8MwZ6Rj1fGls89ZqBdighz46/BtkGrl/UheS0CH1sILCwvGR1lBbM8adaKGn8yRMaSxldIhtfgtb6BAhBixJuEVBnOZOo0t9NdycT9d7WhaG5taHxk8afLxg4Tvg4/y0XPEaJSvXEJiVGqfBQZ4mXSDnjRUaZ1wYojfxXf/q6BOGAjdMM4MI6nSBm88s6z27sq32CCLgGFiZEVniBrFUE7idiJDubNF0OOpVc0rT6eaZNnmMSE1Ls=;HJXTcl3FHnEQExgGtujgPA=="
 ---

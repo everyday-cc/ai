@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bol
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/amp/"
 type: article
 quality: 85
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/7b5a9b42f145a0fbb26efa43903483fe.jpg?t=20210622_025719"
         width: 752
         height: 408
+        isCached: true
+  - title: "HPE picks up ML model training pace with Determined AI buy"
+    excerpt: "HPE is set to bolster its high performance computing and artificial intelligence stack with machine learning model training tech from Determined AI, which it has acquired."
+    publishedDateTime: 2021-06-22T05:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/689239/hpe-picks-up-ml-model-training-pace-determined-ai-buy/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/justin-hotard.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
     excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."

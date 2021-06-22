@@ -41,20 +41,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Two-tier AI system-on-a-chip can run on tiny solar cell"
-    excerpt: "Engineers from the Swiss Centre for Electronics and Microtechnology (CSEM) have developed a system-on-a-chip which executes AI operations locally and can run on either a tiny battery or a solar cell."
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/06/two-tier-ai-system-on-a-chip-can-run-on-tiny-solar-cell/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/16094/ai-system-on-a-chip.jpg?crop=0,0.27258286429018136,0,0.23281113195747338&cropmode=percentage&width=1200&height=450&rnd=132684068740000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "Wv2FYDtQuNlF/5S6mhTR7R8wBva4bHq3bcj2+n+kuZvwk8yrDom/qwGI9viw4ukTpxq05nTBqLLrhTrUOCD3bbbAWNAJ7PX3NxAHraDXSmC4a6GweQ9LaHNMdQsTJYzfUy9ZuNI/QNn7vSH9owYu5hAn9O+7QS1UjZlVlJUZRkdLYC+De2QPBKWV9Sf8kDAFyuzmQ2wECpVevjlqB1AJOWtj22TodLSii51RlGPM5ngUGNTkqbn2a7ZE0qV5LvYS1JSHoiDkhjLkvh64Rljq8bNfg6BhRlWWoi9voFXOCQPZwG1AT92lu7hGtc8wtOGn7a5YRP96kHlo6csFRxwQo0KoljHfev5CffmTbSY/oI3mCDfgc2DTOL0Io/iboe1lIYSjVSQwGQmrSp1nHr3XRcymGyXVKtokruuS4efzy6OeZfT3yYJApCA3g5KBIEiOzamqeUEzifciyZs/AJd0DddMH1FR3Cc36cwZ6v8Y55bn1HuqpRk1M4ceH83AaaUySmzvI9CAlCTjG8pxl7VQrw==;m2bvcI3XpJ+0ghGC9LhT+w=="
 ---

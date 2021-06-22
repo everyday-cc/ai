@@ -1,35 +1,27 @@
 ---
 category: news
 title: "Ambarella unveils two new AI chip families for 4K security cameras"
-excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision."
-publishedDateTime: 2021-06-21T09:00:00Z
-originalUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/"
-webUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/"
-ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
+excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.Read MoreRead more on"
+publishedDateTime: 2021-06-21T11:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras-10258322"
+webUrl: "https://markets.businessinsider.com/news/stocks/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras-10258322"
 type: article
-quality: 121
-heat: 142
+quality: 81
+heat: 101
 published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
   - AI in Security
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/06/ambarella-Photo_CV52S_Embargo-June-21-2021-5am-ET.jpg?w=1200&strip=all"
-    width: 1200
-    height: 750
-    isCached: true
 
 related:
   - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
@@ -56,6 +48,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "EQh2UcBz2rQzEKsaAsiFTyq5mcU84ZR8LR8AfE7OZVRrxethSU9FSK2GaFLI7Gqfo4kJa1xipHzUbG9C0kEAR965BpqDbvXMrrmlJE8vaiXVXcm5UuXPp94gMO804yVcniHxVF7KWIsmzIM9VmRLO17qsG02HZlluLgPY2FGpsqSZnRu/Zt8knrSjnigOtwLynCa0U2EJPdA3hCGySnPWHLxiJ6lxSBxeQY7KjnS2/6RV47YTdYe3sDCQuzn9p+D20xeBdiKjxyolKUO2cXijJIvJGmNK5VEo9QPWtBsLGesSrhUCW906rA3OftYzHYrYRGBRXZcNRNN8F4Rtcl3FAOODoTOk/p6ujf3IoYEUBRqtByR88zucU8umqHj5p9P96CJft3lWtJACtzXQiNBnSiM2LDSpOna0pXFffuyoMM+Lm3me0lCvZCD+SKzhKwVMwGPAKfEo4qC8/QdvPTs7C1doZWQcBRjPeZJ+LfwyeSrUyCsf08NFbAxEV4KhL0ukLOCJNy2hZayGnOrytD9Ow==;fEHpCTQA/Hrzp+Xqo8Tz6g=="
+secured: "lN38RyM30rhlp31yQzqPERrQljUkSLCbPo2RcH2TgsWe5KO6bC3qBwHHuLckEp99dVPRkU43n6tqoyA0I4Qefrzq4aejOoHvyex0zmSnNPRiU8G3ygMqZF9RX+ERUeE08VExYcXo/nJj1OUf3PJ9vp3Us41qAUA1lV5H2MYnA1yeH8JpTB4g8d5udi+RRJUo0kPRkilYuC+7wRGHu/QUk3LJb9TdhRzF31GB4d7TL7Bv/uoude+ce8TaLlHTB+iJZzknFPnuwcaweoLTvnxGQZnKtnQgC83tuHoJowMicIPevySz8VR+aEIxLIHjZ2eX52+PuEbROQOvcUpbyiMxOMnzMzD08rt7WJzhPsA7dyo=;D720JmicWkBb1L3rxt9szw=="
 ---
 

@@ -60,6 +60,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Amazon in talks to acquire up to 20% stake in autonomous truck-driving start-up, Plus"
+    excerpt: "Amazon is in advanced talks with an Artificial intelligence-based autonomous Truck-driving start-up, Plus to acquire up to 20% of its stake."
+    publishedDateTime: 2021-06-22T04:35:00Z
+    webUrl: "https://techstory.in/amazon-acquire-plus-autonomous-truck-driving-start-up/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 17
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/Plus-Amazon-automous-trucks-1000x600-1.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "H/naKKtNNpvSni+GwhBkKijvajpppUuA+aueGIjF0Ja8FBCKWNOvrvOau9eVuvnGKdVEkzOuuyznFJHHL4plXpo315rXXpGWfdnZUJPf4Tiz1Q0uEJETHE5rutuMY+ixTdbF5PXlCzbrGFg3QBsAG27bHFM8B2OSr0wchi2WuiLLr/ErxidzxVPURElXn862iwrz1XzTJaESEUBPJ6duPlEaVGwUTBnmmtmfLW4aP7gdq0i65Xk3F5WY8zN6aVTB488ARQfuUgWxQiJ7qXbyXP1XI4PvPqnfcMZXANIYdHjw4QY1qufwrGZTruBxRqOhqoUt7BCOPycaPTtVAXNoEcvVI+S1G8Q9giyQ5EocEsinB5um1Mqcwey6Pam18yWpLxiAR0H0Fp7s4jojHbIeOlHv3lGO/XO87KnD1f6waydAokw9cq777GKqFloiMNaDu5NNMaM1pkDeBQmIe1/TTsbPsUGP71ehV82+VQjvowX2bfelCC1sld8d1K8i9wfVzHKx2mtc0192mIRJGNAEjA==;8xlFqoMafYmUzmnKGgCrow=="
 ---

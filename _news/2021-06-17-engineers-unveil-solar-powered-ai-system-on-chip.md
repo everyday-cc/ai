@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-syste
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Two-tier AI system-on-a-chip can run on tiny solar cell"
-    excerpt: "Engineers from the Swiss Centre for Electronics and Microtechnology (CSEM) have developed a system-on-a-chip which executes AI operations locally and can run on either a tiny battery or a solar cell."
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/06/two-tier-ai-system-on-a-chip-can-run-on-tiny-solar-cell/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/16094/ai-system-on-a-chip.jpg?crop=0,0.27258286429018136,0,0.23281113195747338&cropmode=percentage&width=1200&height=450&rnd=132684068740000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Going where few imagined AI would go — on a solar-powered chip"
     excerpt: "Edge AI chipsets are expected to make up a market worth over $50 billion by 2025, with edge facial recognition accounting for $2.3 billion."
     publishedDateTime: 2021-06-18T20:28:00Z

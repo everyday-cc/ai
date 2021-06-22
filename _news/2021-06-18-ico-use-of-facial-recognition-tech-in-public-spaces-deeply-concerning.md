@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -199,6 +199,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "EU watchdogs call for public ban on automated facial-recognition"
+    excerpt: "EU data protection authorities on Monday called for a ban on the use of artificial intelligence (AI) for automated recognition of human features such as faces, fingerprints or voices, in public spaces and in any context."
+    publishedDateTime: 2021-06-22T05:04:00Z
+    webUrl: "https://euobserver.com/tickers/152208"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "38mq3SG0GXKet88TwhalXIMydn2M1ZzG7eaKdlSdqhRxyihR3cqRrbiizBZhHB3iZ3Vtu0Dvu9OrKXaFEmbX1/P9+L73a4+LU1lKkax3ADJlSmWE74L37oCE8mV4U2hJn5JD+J1sOnjW0XxlBnszarrf4Jv1XwJt+PaWGvl4Dw95YZQ/BFpNv0oG/NIWZ0D+gVeznh0rEETlJ32QiN5wP7NDgpvhRt9oc4CvCb3izbCiEvggZNHg8g0tzu5yiuSBRBXUCKywMnhtDEGN3GoUt36YT1oOphEWFlcoV119a7HAB+LhUrbj9nCxQ1C2//CkZQ7wUgWRmL2J01Tjcaxp9wChZhcAIH7Eu9yKrVprPjI=;SghNRG2lVeK1gwwOAoosqg=="
 ---

@@ -51,6 +51,20 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Amazon in talks to acquire up to 20% stake in autonomous truck-driving start-up, Plus"
+    excerpt: "Amazon is in advanced talks with an Artificial intelligence-based autonomous Truck-driving start-up, Plus to acquire up to 20% of its stake."
+    publishedDateTime: 2021-06-22T04:35:00Z
+    webUrl: "https://techstory.in/amazon-acquire-plus-autonomous-truck-driving-start-up/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 17
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/06/Plus-Amazon-automous-trucks-1000x600-1.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
     excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
     publishedDateTime: 2021-06-21T18:28:00Z

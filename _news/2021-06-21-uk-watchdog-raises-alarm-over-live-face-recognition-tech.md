@@ -194,6 +194,20 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "EU watchdogs call for public ban on automated facial-recognition"
+    excerpt: "EU data protection authorities on Monday called for a ban on the use of artificial intelligence (AI) for automated recognition of human features such as faces, fingerprints or voices, in public spaces and in any context."
+    publishedDateTime: 2021-06-22T05:04:00Z
+    webUrl: "https://euobserver.com/tickers/152208"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "gOgDF8m5dQtSUv4LVGR4yoW3TASbncj9dDTabBz2f5a1pht9pOAu2h99GXdme2CxI/Kw4ZrTbldzpK/r+nr95IM2mMXAq/8BHe5dkRb6XRXykuZjsWK9p0YMZNYPiAAAAJVJtBfFPZpKqRbhwzeCa+pTRHPq/3zMpfKU0tK5vw02hJE1xTvskrvBpMup4ELLwvCub3YSMK9N0G7ubmdL4a1Js9RHKBQKOlCVIru2KLsk2DGxBzKDYJAzC2XKF7Li1qwNX7JBdmZFPd5uBV2WzQnImzmUtAlUsdNYyDLRgYY4FDOh0xcEEivsBgqeZhVsqC30Q88jiOZO8mwsTnzq0FHjpvK8MmJw0XiuEVjVOU4=;W/inw2gyZDPbl7lZ5JmCCw=="
 ---

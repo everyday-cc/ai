@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
 excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
 publishedDateTime: 2021-06-21T10:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393768.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393768.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
 type: article
 quality: 22
 heat: -1
@@ -71,6 +71,6 @@ related:
       domain: manometcurrent.com
     quality: 5
 
-secured: "VzgkKmaUhCyakgaw1r4mNQqRiqMUIAyJcg/lKO5qC0FyDGrf92bPejhGqH3/NeEyHSc1BAugvUhT8ZMVY/43Blnm0d0JMW+u1jtf1i+I+uLA8NnmXXyKLh/aA184A8kv3dvslCv5A856FLRI7xOSbq0B1gm1UbCzJr78N9iE8gTAxndc2tYj4FZK/DgkMp11RgEPS+IkV3cDO413kSfcGXl9G8UMSpJF3KAdX1ObgrxhAt9y6YcYtPoId5p8VTSVst/oxWcSCobDD1HOL4zgHi0rAKpeTMCAG06Y1McbgFES0gmehGZPJC/5RSed2akt7aCaj4AEpCCmoAQxKQkujNXmbyygsxQ9F8OKYF/k81Q=;vRjxxejUvnLMHbbgWSXCSg=="
+secured: "U/48uA6GvJRBb7E/jK0I4mdHucN+qswYAY4U7asDCZRMuHZlAycXRRjdpX1JaLT7AAWwpgSFrbi25qWR760GjVPmevf8DS+6kSpHigZy+Bq8RCMiUMAyIS8DZG+fqyj6Hk8tzaYB4/lgg0OZKTbYduRvJaIxjejOyL5g/Xjxa6UpwErSK7JuxtC9BR0RFbwqXu3wEdArj4r5WHbG+OUW4zWIRdMithme+Kvg+4ukhnlorf2OjzpKfD9/4OkB+APCbrYrGvMcOBkuh0mEvtVXmLLXdWz/yk6yLqUjCdZYpAGGpa0mYgCLgEzfBTbYUJsG5ffgXLUeVw0WqXuBPYA49eEKJiqPq1R44vR5PQLuMC8=;joDyvB2l7UEyPU/wKGY+Qw=="
 ---
 

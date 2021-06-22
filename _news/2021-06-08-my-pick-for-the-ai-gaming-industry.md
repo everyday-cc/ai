@@ -1,20 +1,28 @@
 ---
 category: news
 title: "My Pick for the AI Gaming Industry"
-excerpt: "Source: Gorodenkoff / Shutterstock.com But one area of the AI sphere that is often looked over is a fun one: gaming. AI not only improves gaming, but gaming is also a great way for AI to be improved by humans through a similar collective experience."
-publishedDateTime: 2021-06-08T04:25:00Z
-originalUrl: "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08"
-webUrl: "https://www.nasdaq.com/articles/my-pick-for-the-ai-gaming-industry-2021-06-08"
+excerpt: "When you add DLSS to NVIDIA’s GPU, you get a light simulation that is virtually indistinguishable from real light. Updates in this AI tech is one reason behind the launch of the next 3000 series."
+publishedDateTime: 2021-06-08T04:33:00Z
+originalUrl: "https://investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/"
+webUrl: "https://investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/"
+ampWebUrl: "https://investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/06/my-pick-for-the-ai-gaming-industry/amp/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "M7KgQVlhmT9O+CpWo8f+lpMnR/jT1vk0Edj5bX8wPcVhZrhIAH/vlr9JOvVDvkIHvTs7k6N8yaSEEV9vHiKcKlQ1J7rH9LNe4vz7oXyYkhMSbFuoA7a34UgT2rtkZXiwHY/EIcipsAP0c/MfzrYKkGx51JEGTrvEqFdodkeRONSBdTMRiv/RyY2/I6dfat0NhtK8VndlbrXdoBBTbZ0q5F04jUInzsyOqAc+cFx8y/1f2CBbDEl2eRMTv0fTEnTElH+rZ6gFv9Fe1XanJcfpqaE56ZpcHlER1HwcHw35r7lJXNSkR/8cSYKqwPcq2CnDQI6owcwEn8lPQA+8LH0DjvkSd3T+ycl6KiJUEYTBjno=;NvycaYvDgmMDhzgDTmLfaA=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2021/05/esports-gaming.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "FGtJ7i/dtCJyRIYmR4wIXM/VzkyjjXXcxr7FG7HsJ7BC6LwX1S5wZjtfg3TtX+zlB12DbMH6vXq4COXiDqTsxCsbIz5oC827YjG9tDfbWtdfm8qhktRDrdn3Adawlhz5jFrzDnfwNV4E3g4z3H2mQ/xrMd7s5qO/qfAs+DNYFYZTpdU8zxKrtDZixmDCoNRDk9gmfDrqHX0xTfjmYPF8kRCiX0A3u2fdnWG6YHMEKhQkV4nZJEkem1PojICTPLCInFio6ZPbsle0MKDXgFJQrzwBKiXKhoT4pN2AM6GbKMpjpdsmIA+0HGjXYWjcr6ek/qGqAzRBWAEq7hPeZS6zaQ02ptuB2w3G7vZA6ueiS60=;18zWRt9RPjaF0l5zrooFNg=="
 ---
 

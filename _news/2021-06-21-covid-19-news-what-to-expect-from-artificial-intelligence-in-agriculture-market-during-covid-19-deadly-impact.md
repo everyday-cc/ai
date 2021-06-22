@@ -41,6 +41,15 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "A review on role of nitrous oxide nanoparticles, potential vaccine targets, drug, health care and artificial intelligence to combat COVID-19."
+    excerpt: "To stop the rapid transmission of virus to drastic manner, it is essential to follow the hygienic practices, identification of potential vaccines and proper health care management systems to combat the novel virus."
+    publishedDateTime: 2021-06-22T04:34:00Z
+    webUrl: "https://europepmc.org/article/MED/34150443"
+    type: article
+    provider:
+      name: Europe PMC
+      domain: europepmc.org
+    quality: 0
 
 secured: "8/NaPctRBZqo+2uRFC06ta3N06aIZ2Ybyv4STsKlKx8kNhZ+w3fzFFAb4JQM89R15jYPDU0XNeeY0y+4MFoTspkvixi2OMLoola92mYqS5/f6xsBwfAxMiYpSPybBB+gLCoca1TBlmFFPzpJGL+H7kJsRjispPmvK2aQRpOb5nduI7obHJJ7sC2jva+7W8kvyTjSbsXHtH6Al5xqbvp0CUDkzMJtdcllzKies2HyEzcl3aAK+y1/aMdv8RbJzfzI46D6fFZKkf5nlRQHlDHY2kwBAEPHAZGCdDGLYm9HV+3GjMaLCW1GOuygAjqOZk+sObRacA3awIKmlDI2rzF1liTMZVwl0rmqHbASeqBxHIFf/7E0lTVepXsLZjjTS0UmU0sG9eWupnmd/htIrk3ksmcJoRfqO3Xy+ZOO/0nnb9F2sbZ2PX6tN4V+sx3RU9kW03kLfH2tOLsoMDRebEso/JGBcfxEteRA4LRhdy93kC4Ip5j8uwfCWJKOUpYhl9Av+kXME3k3IJW7gqrwbv2kKw==;YLJv6/vtJrkw7ELr2mgQhw=="
 ---

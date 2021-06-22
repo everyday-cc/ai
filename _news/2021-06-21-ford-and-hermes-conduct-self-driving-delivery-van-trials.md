@@ -55,15 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "FedEx begins trials for self-driving deliveries with Nuro"
-    excerpt: "FedEx Corp. and Nuro have established a multi-year, multi-phase agreement to test autonomous deliveries for parcels. The collaboration began with a pilot program in Houston and a new pilot will expand the operation into parcel logistics and allows for FedEx to explore other use cases for on-road autonomous vehicle logistics."
-    publishedDateTime: 2021-06-17T12:43:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16842/fedex-begins-trials-for-self-driving-deliveries-with-nuro"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "G6bAKDZ+UGT6RhRzbIZMZvN0ZQg6m2ef0aNwkfw9qGkz1WUcLZ/yqsUK4pPfRz7zI5L6sHF8teJg7CKGQTlr/hK+ILdOVOChR29F72vBdOVvO+9ssoG8+WnW38EYghfgqYE4Zj3ffPG3bq+dwauG4SNabEoKLWjJ45R8L8qn1BwCcgom6mBYw7HewdDTpQCGdKA7eX5NP0o1PU6ieGfc0IKC4gYcwPstG21lyhTvcpJeC+5+djerB6IA5YEMk2Rk5PYXSghgbHNyicSjsqicbGVFElY18ipbaqq0qG4weuDHPF1ZCQsYcxkU0ZSAw1EgGifp0VYl97WzdEPLqyL57VSr1Y5mLzDWuLTXf0zP/KPeKRG3oZKTBd8kyaplzd/pQmLj5C+WR4wJt5oA+juGnRqovC34v7iNz2qb8/hyuIicdzVwQGzky8/Z3hyhDgbU8H1cq+BTTbbOGTs6DZR+zxjmOWUq9zbODT3M7zwH/0GzWcCqizb1gtjAWdjrsldkpfljvWLlDPKeO1YwEXzjeg==;56ZW2ihut76P7qMkGcEU/Q=="
 ---

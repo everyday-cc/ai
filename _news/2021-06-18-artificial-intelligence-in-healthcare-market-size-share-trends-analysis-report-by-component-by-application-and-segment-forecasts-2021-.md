@@ -65,26 +65,6 @@ related:
         width: 800
         height: 457
         isCached: true
-  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
-    publishedDateTime: 2021-06-17T12:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-17T11:59:00Z
-    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "fUwhOG6o5KFDKdU6H9jZmfCaoeJVr8trM49CAZw8nmMlxEc3y7LktX2CkJ1JBfG9MesTxtAi6jo3e4GRRhDdP2JQtv4NGAw2xltDmXSMvWSyubD6rdFIbic2tD4QhQfc86SlGavThFr8bCxp9GjR8N09cmRpEZhcZ72ZPZKg4j2Y+VP2IlFz/a1U/fZts4aHcTmaExJf6+2Pm6Ur5RF705oLXUcLUwvpDmxmQtXkim//9f0lPW+5fbDqn0x9gQJV/lONpgVaGnNeo7fr78UA0LLzHFXZxyD08emvTI4q/P64W3xUAFYb1Ex3xLQ+As7iixmzI+IFjiTzP2VqogFSBWXrbpTqsMj3TH/sxUwP/w4=;t4jsxpZuIWHV4aQ+xU9JZQ=="
 ---

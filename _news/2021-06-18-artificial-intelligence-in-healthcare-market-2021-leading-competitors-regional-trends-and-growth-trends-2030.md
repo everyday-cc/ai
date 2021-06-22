@@ -59,17 +59,6 @@ related:
         width: 800
         height: 457
         isCached: true
-  - title: "Worldwide AI in Healthcare Industry to 2026 - Competitive Analysis and the Impact of COVID-19"
-    excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the"
-    publishedDateTime: 2021-06-17T12:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21605039/worldwide-ai-in-healthcare-industry-to-2026-competitive-analysis-and-the-impact-of-covid-19"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21605039"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21605039"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
   - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
     publishedDateTime: 2021-06-18T08:20:00Z
@@ -81,15 +70,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Global Data Monetization Market (2021 to 2026) – Growth, Trends, COVID-19 Impact and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The market for data monetization is expected to reach a CAGR of 15.7% during the forecast period (2021-2026)."
-    publishedDateTime: 2021-06-17T11:59:00Z
-    webUrl: "https://www.financialbuzz.com/global-data-monetization-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "mDud2MU9UfKF8rc9GSt3etvJDqDahNB8daq5/QxZxsXL3wMOl1InirNSDAvMUOIqfMb91CuVBjZwAfBb6FfmFtCYtmZVxwPVLuIZRIRmdbP2vhzoQ0Nr4rlOjA+wIwYsq8gOtaNg4ml0OYp50y8SWskXlDBdHLv8hUV3clj4c/RiQEgwhnOzsvmaJ6+9MysseKmjBxmldeNy5nOXfHd1COJiPfnrIVVsVBybMJLBUrk248WsuJkuSOKwY4IM3IRup3Cl9ZtNvUiUlcoH+gHAgpbnAEJpGQFHq4G9GsvX3o823/cBHAAM0yiPtq33yo5YwYK6yegVccFYfYbcKepFORbO/kzgUUR5TBw69wJOOHE=;v9lH+l7PKM8z6kBLp0T2NA=="
 ---

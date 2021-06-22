@@ -57,20 +57,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Chinese EV Maker Arcfox, Baidu Launch New Self-Driving Car"
-    excerpt: "Chinese electric automaker Arcfox launched a new autonomous driving vehicle today in partnership with internet giant Baidu. Called Apollo Moon and based on Arcfox’s electric sport utility vehicle, the Alpha T,"
-    publishedDateTime: 2021-06-17T11:30:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ev-maker-arcfox-baidu-launch-new-self-driving-car"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ev-maker-arcfox-baidu-launch-new-self-driving-car/14166626619359232.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "China's Baidu unveils low-cost Apollo Moon robotaxi"
     excerpt: "Dubbed Apollo Moon, the 5G-ready robotaxi is based on BAIC's luxury EV brand Arcfox and equipped with autonomous driving technology from Baidu's business unit Apollo. One big advantage is Apollo Moon's manufacturing cost of 480,"
     publishedDateTime: 2021-06-17T18:09:00Z

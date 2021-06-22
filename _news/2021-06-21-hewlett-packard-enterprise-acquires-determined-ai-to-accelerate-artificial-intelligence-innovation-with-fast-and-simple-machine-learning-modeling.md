@@ -79,6 +79,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "HPE picks up ML model training pace with Determined AI buy"
+    excerpt: "HPE is set to bolster its high performance computing and artificial intelligence stack with machine learning model training tech from Determined AI, which it has acquired."
+    publishedDateTime: 2021-06-22T05:32:00Z
+    webUrl: "https://www.arnnet.com.au/article/689239/hpe-picks-up-ml-model-training-pace-determined-ai-buy/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/justin-hotard.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
     excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."
     publishedDateTime: 2021-06-21T17:34:00Z

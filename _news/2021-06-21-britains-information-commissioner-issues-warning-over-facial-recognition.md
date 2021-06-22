@@ -195,6 +195,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "EU watchdogs call for public ban on automated facial-recognition"
+    excerpt: "EU data protection authorities on Monday called for a ban on the use of artificial intelligence (AI) for automated recognition of human features such as faces, fingerprints or voices, in public spaces and in any context."
+    publishedDateTime: 2021-06-22T05:04:00Z
+    webUrl: "https://euobserver.com/tickers/152208"
+    type: article
+    provider:
+      name: EUobserver
+      domain: euobserver.com
+    quality: 24
+    images:
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "QdU3X4x/0xX7MD4VGppTcGqDqQGZ8D48MldOYPVSWsopyCxtF9aEb4zZFlYDthRLCrAUUnlhk+cCLgVAWF5nSAeBGCgc+V69Wc37EgMB5Wd3yM+9l2B+rLJzyObsPXQVDg+n9HMkbyx9TwBFhRGo4ehLLFQOj86rLKrWDdEKZlnlgMIe8Fqndy5I7XTuxgxbrxbOheRl4OcOD3GYPCV+vDSEezBHu5NEHC1rhHfu8qhWmndXCSf51N92oXzQqpJOXOB6pliKcK7Abs9LW4MS1wlMJi4qzwVtQHCI+ZzcAeS/cEWBrd+wtTEkUTbozRXVZG4CifT9WEGcf4yI4FdE0EKxR90GFHFVNY/5ReV4yhY=;M/pbYBJcLetzNDUZOJlrXQ=="
 ---

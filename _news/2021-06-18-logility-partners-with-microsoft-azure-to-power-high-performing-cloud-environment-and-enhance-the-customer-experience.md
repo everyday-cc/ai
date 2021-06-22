@@ -63,6 +63,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
+    excerpt: "Israel based cyber security leader in file-based malware prevention solutions has officially launched NetFolder, an advanced file sanitization solution ideal for file transfer portals for all industries,"
+    publishedDateTime: 2021-06-22T05:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-19867273.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 58
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft Teams for Android can now translate private chat messages"
     excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
     publishedDateTime: 2021-06-18T15:38:00Z
@@ -109,15 +123,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/logility-partners-with-microsoft-azure-to-power-high-performing-cloud-environment-and-enhance-the-customer-experience/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 11
 
 secured: "hVYyXYdU18GZF2/sIUMz76007M06ARlhJ3+nhPWN6exTqtiPu2oXYDO7Wbs7m08z34EbeLxl1nzXEEZ+aFyPox7KnJKAYt4eKZl7+79jOeCRKxJMzq2PTkq23viWclvy9bxf6qdh67uXiWeZEwLlEjz3oK7jtF1bs/AQDfk6t/s0agGVt/UDycj/+gPrehkAX6uzbhEh51jrjVravPqrVzGb+yC82+9YgVrsBaCXJqwJ2Gk6avaXCrQsRkOXwP58KqLpzx+d99L+7vFE5QQXRiLWDzALQ5eZMOExDgRXE3uROQgIkMPhaBfFcY+fXEi/Cw8cIfneUCAvALVFspP1CuNwYKyfOZAoFY/sZCU3YalyhYMlgD/BSh1pTopA6cxufo/gE+X/KGHh+7Bx3i8zJZXQb8vnXuobWkLInIPV4Dk2CkdVg2ciBxOFQJPk6M9sEdOpZJBJPDWyrqEJJtZMFLcvA4FnyLXlEeFw4F5AsKh390vFqyg9s3hBXLZ2qEsRfpiP5RWFuSMkuZcdjvKuEA==;sN9+1xzxxJ5ihRHCHGRi/A=="
 ---

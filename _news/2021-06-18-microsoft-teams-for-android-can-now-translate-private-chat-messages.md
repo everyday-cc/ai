@@ -70,6 +70,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
+    excerpt: "Israel based cyber security leader in file-based malware prevention solutions has officially launched NetFolder, an advanced file sanitization solution ideal for file transfer portals for all industries,"
+    publishedDateTime: 2021-06-22T05:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-19867273.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 58
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft expands telecom portfolio with Azure private MEC"
     excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
     publishedDateTime: 2021-06-17T19:00:00Z
@@ -102,15 +116,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility, Inc., a leader in supply chain innovation powering the sustainable and resilient enterprise, is partnering with Microsoft and making its comprehensive suite of solutions available through Microsoft Azure."
-    publishedDateTime: 2021-06-17T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/logility-partners-with-microsoft-azure-to-power-high-performing-cloud-environment-and-enhance-the-customer-experience/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 11
   - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
     excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
     publishedDateTime: 2021-06-17T17:00:00Z

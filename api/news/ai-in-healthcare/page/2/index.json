@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-lgbt-conversion-therapy-banned-on-facebook-yet-posts-in-arabic-are-thriving.md",
+      "title": "LGBT+ conversion therapy banned on Facebook yet posts in Arabic are thriving",
+      "excerpt": "As a teenager, he stumbled on the Facebook page of Awsam Wasfy, who now has nearly 150,000 followers and still says his therapy sessions can “treat” homosexuality. Recommended",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "originalUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2021/06/03/09/SEI81480991.jpg?width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/middle-east/lgbt-conversion-therapy-arabic-facebook-b1858773.html",
+      "publishedDateTime": "2021-06-03T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-ai-outperforms-humans-in-creating-cancer-treatments-but-do-doctors-trust-it.md",
       "title": "AI outperforms humans in creating cancer treatments, but do doctors trust it?",
       "excerpt": "The impact of deploying Artificial Intelligence (AI) for radiation cancer therapy in a real-world clinical setting has been tested by Princess Margaret researchers in a unique study involving ...",
@@ -1264,49 +1307,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth, Global Survey, Analysis, Share, Company Profiles and Forecast by 2027",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 61.59 Billion by 2027 and register a substantially high CAGR over the forecast period, according to a new report by Reports and Data.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
-      "originalUrl": "https://ksusentinel.com/2021/05/24/artificial-intelligence-in-healthcare-market-growth-global-survey-analysis-share-company-profiles-and-forecast-by-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/8-68.jpg",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
