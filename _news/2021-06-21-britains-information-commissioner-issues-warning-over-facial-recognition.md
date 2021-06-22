@@ -89,6 +89,31 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "EU agencies call for ban on AI facial recognition in public spaces"
+    excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
+    publishedDateTime: 2021-06-22T00:30:00Z
+    webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
+    ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+  - title: "EU privacy watchdogs call for ban on facial recognition in public spaces"
+    excerpt: "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft"
+    publishedDateTime: 2021-06-22T01:50:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces-15061548"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 40
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15061544/16x9/991/557/20955416f80eb815faa64c3babda4a2f/UP/file-photo--a-new-cctv-camera-for-facial-recognition-technology-is-pictured-at-the-train-station-suedkreuz-in-berlin-3.jpg"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z

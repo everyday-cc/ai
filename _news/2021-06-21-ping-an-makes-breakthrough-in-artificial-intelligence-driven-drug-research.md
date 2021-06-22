@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep"
+excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced Ping An Insurance (Group) Company of China,"
 publishedDateTime: 2021-06-21T11:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21641649/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21641649/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
-ampWebUrl: "https://www.benzinga.com/amp/content/21641649"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21641649"
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
 type: article
-quality: 37
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -38,6 +35,6 @@ related:
         height: 448
         isCached: true
 
-secured: "NSiao8ZGgjros/StdonugGaISrV8MpHuSJ4tPpVrKMW3OFMiHPKPxqWm47QB+FjDDOSRbX89miC/wXJxWtSLmHbcKM41LVtuQTwk2LZnfKPTEOhxXV/Gcn4XZVkmlIf7/HG8zFW0ndxurizdjFVTzO/vLQ2uOQQ1n3mRckAF+IwX29vPgrEt3dki3KvX3Jmxb6R1Ni+LnW2oxN4yOFCvs4gNbMBzmWTVg3s9ZQvDNI+tcTFCwZ2sUNeOX3Xp6s6oU1ECC6N9fQUMXw2vcrp7UDJ+Bjcz6969ohpCb2LJULP4HvWRU8yXMGZQN2jCRW/NCKq3a8aetpbqG9s5McG/8vqudUb1Odv+Dcd33MNabg4=;VYAW8Eyb4Bw7yS2NF4MYbA=="
+secured: "VThxRJHX5IJCRsb7ULBsrR8x83uFC8TKAyz2GQUFwp4p0vLsPFsqww88gkJ7wVewid4Y9PMYdVDRUf0RpALEwhNJWGhdbLoa4mCBqeMX3+NSWpIheNlXNaj6/2NKl0fKMzf07bn2Bo2HciDUVb9EDHH6IHmCJMOfdtOZOXWQ3CMq2DwRVmzknEpQu3sX3lDwWlZtOd+2EG4M1YtL4Sqf0ClrBRitcio9xOk05gsfsnXtywI9TQPrWSBwJjsMZLVAKsR7uOTYeMMJxkaXkXbp/lvvr4Qu/OP3AdfPqS9Aiz9WKkiHBa6d/sscMUYitSTEGtwsbRmVS9QBvmYRv2G5ElZxW448+Gut3fGSEHOcCUM=;fEsZpOrOSK1wJW2LXe24Lw=="
 ---
 

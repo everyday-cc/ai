@@ -45,7 +45,7 @@ related:
   - title: "Epredia And Aiforia Announce Partnership For Global Distribution Of AI-powered Pathology Software"
     excerpt: "Epredia, a global leader in precision cancer diagnostics, and Aiforia, a medical software company providing Artificial Intelligence (AI) based solutions for image analysis in pathology, have announced today that they have entered into a commercial distribution agreement for Aiforia's comprehensive portfolio of workflow enhancing solutions which enable pathologists to harness the power of deep learning AI for image analysis."
     publishedDateTime: 2021-06-21T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/epredia-and-aiforia-announce-partnership-for-global-distribution-of-ai-powered-pathology-software-1030538924"
+    webUrl: "https://markets.businessinsider.com/news/stocks/epredia-and-aiforia-announce-partnership-for-global-distribution-of-ai-powered-pathology-software-1030538963"
     type: article
     provider:
       name: Business Insider

@@ -1,27 +1,28 @@
 ---
 category: news
-title: "UK Commissioner advises on risks of facial recognition use in public spaces"
-excerpt: "Denham notes that data protection and people’s privacy must be at the heart of any decisions to deploy live facial recognition."
-publishedDateTime: 2021-06-21T15:23:00Z
-originalUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
-webUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
+title: "EU privacy watchdogs call for ban on facial recognition in public spaces"
+excerpt: "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft"
+publishedDateTime: 2021-06-22T01:50:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces-15061548"
+webUrl: "https://www.channelnewsasia.com/news/business/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces-15061548"
 type: article
-quality: 37
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-    width: 623
-    height: 432
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15061544/16x9/991/557/20955416f80eb815faa64c3babda4a2f/UP/file-photo--a-new-cctv-camera-for-facial-recognition-technology-is-pictured-at-the-train-station-suedkreuz-in-berlin-3.jpg"
+    width: 991
+    height: 557
     isCached: true
 
 related:
@@ -114,20 +115,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "EU privacy watchdogs call for ban on facial recognition in public spaces"
-    excerpt: "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft"
-    publishedDateTime: 2021-06-22T01:50:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/eu-privacy-watchdogs-call-for-ban-on-facial-recognition-in-public-spaces-15061548"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15061544/16x9/991/557/20955416f80eb815faa64c3babda4a2f/UP/file-photo--a-new-cctv-camera-for-facial-recognition-technology-is-pictured-at-the-train-station-suedkreuz-in-berlin-3.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "Facial Recognition Technology Solves Crimes, but at What Cost?"
     excerpt: "Even as big tech companies such as Amazon limit their sale of facial recognition software to law enforcement, one company has not: Clearview AI, a facial recognition search engine that contains three billion images scraped from the internet."
     publishedDateTime: 2021-06-17T17:16:00Z
@@ -170,6 +157,20 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "UK Commissioner advises on risks of facial recognition use in public spaces"
+    excerpt: "Denham notes that data protection and people’s privacy must be at the heart of any decisions to deploy live facial recognition."
+    publishedDateTime: 2021-06-21T15:23:00Z
+    webUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
     excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
     publishedDateTime: 2021-06-19T11:45:00Z
@@ -196,6 +197,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "S/xTQvkdDDlJa4sHXeEw4oF53cE4mSlgjMSb7yrN78V4nFnfUSqTszCNy0woFzFz3D01fTuAUImFIxu1Rqu7a3smwoMMkmrVN6hqbJjBEF4fHhxKs8TzzeBr+QbxZgvyZrc2jDuw4OSK9iOpXiq7nPubokdOlwpv1kWphEt6H4Q9dXSzDEGITR2SlJCvb14i7YeDr4iJFRQQtULP6UF6XroegirEfDfgHYkS6+dy+A8VizqjJQuv5rz5VDR0PRnMcZ5lrbnzJ6bky+DQhU0IKdsXJyGWhpQObQ/vI4tpt50/8+4Oz4ZRqLqf38DGRN1U5BB2G4CY7wvdSbTOTZdH5lss9dliQOXIebLlnShDm06UJtjOVkyuXRpyPCicgfH6QZvblUO75ssQ5pjxW9JLgZSyWphGXnmGtnctdZ5eq6IQaP+4Z7gJXwfDVvsPJwwKu4RD5e5rIDgMZCH0MeMw6IzC4MNut0ouuR/gE2gkoIi8eKZK+1wB6ox7O6+3IN67RvDm2UBibG8o35vluKASoQ==;p4LAVc/93FVH/8Xa3xod+w=="
+secured: "0hoOvF4Fh9z5OZakOYX1I+rOyY4vTDwM2/4l9R13PQfJscrbgnG+3a4lYHfCPRWTvbl/S/aAo6y0ZHHvFIP0n6icVLErg4SI4t0l78i+tDHM9rJuF1bYuYoFzG9N8GLXa1RSW2rIHBM2e7UgpwNqiv6urbAwDpCQntmRszOKgabuL1rGmuwmLoZlx7hF+63dFsG/Dr8jnJkRTMO1+n8TqGhLtaV0rENlQE//OfrYoUX5FRGzHG1+O2NhSkvy6AacPoWxHPOFkf5VFGxAB1UBOkiD09dGenV6wC7SY8+5vIdJuXlvDLYorOMnSMHkadqMWDVspauk0CdhKUovVhL4M0bjMJPIQHLxW9sbvnH1/5s=;shBpSLrfg6LHn35okypAkQ=="
 ---
 

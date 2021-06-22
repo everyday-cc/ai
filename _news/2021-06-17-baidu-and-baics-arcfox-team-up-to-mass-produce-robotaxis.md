@@ -135,21 +135,7 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
-    publishedDateTime: 2021-06-17T07:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
-        width: 2700
-        height: 1413
-        isCached: true
 
-secured: "sfIQg0nmULUHwpKY6depOjZtuWdHnZ3KodOIbENz+uOAlxrwqbJqm6ECa/u9f5m3CNYzsFNqO3QeLAHHC3Ai7mJnXxSm+HScmgcdWRpnmb9OhPGyYRPXw93Fj1j0gBAlEKzBOiMMN8oeeAKbv+hiQCNJpXwIjgJ/Z47VFEPUNIIUzyBNKKUbjtIQ2WAW/qRByQnC1XKJKac5rfhTqe5Nu4VPE4bKGEesLC/NMLviGZsNzDb0KYLVyik5fFzOAGU+lkuE0Mvh04plSdw0CL1I3k8udCL12Ik02MIcsnuCT8o+70FaQJtf8D04IIS/Lw9JpxRf2k9aj9IOfc2o96o3FiL3yDiYMHF20nSvCcFA9I0=;JwaH73+FEX+73SDdcRCmig=="
+secured: "k29aaROhXoeJKGU7Eju5DxTMNpVvz1icvlEQYuqU2RpzFOpefrp8/cSGeEjLLG8TFLU74S36TEZhcXrjtTjlJLsllSI/R2sXO7NS+ALNf5zxp/gsn9QpWSlW3qYsRULfxYKZDEiTKcWrZ0SNMlh5HtrUxfOwdJTsxB7oJvzLMEzkvkNJxzLnIN5BRhrDwZsT3J6NRm58IazGshXBMhPmQZD6XJr6XcEmG51udQcVfuWac+2267ggQGdHyAS9qr3MvGRw819PB3Z6lMoJmj2dhkEZ2qEU+JT0N52/q/6YtNeHmXDQOgxEvNmxaVWPK0ZZO9tCgR2FqSN+r1KKCyk4pJ6s/vLyTA3kv8JYtdSs3B8=;3+NRsmHoICxFECmYuL2XXA=="
 ---
 

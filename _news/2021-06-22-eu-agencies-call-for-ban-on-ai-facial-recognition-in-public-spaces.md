@@ -1,28 +1,24 @@
 ---
 category: news
-title: "UK Commissioner advises on risks of facial recognition use in public spaces"
-excerpt: "Denham notes that data protection and people’s privacy must be at the heart of any decisions to deploy live facial recognition."
-publishedDateTime: 2021-06-21T15:23:00Z
-originalUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
-webUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
+title: "EU agencies call for ban on AI facial recognition in public spaces"
+excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
+publishedDateTime: 2021-06-22T00:30:00Z
+originalUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
+webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
+ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-    width: 623
-    height: 432
-    isCached: true
 
 related:
   - title: "ICO: Use of facial recognition tech in public spaces deeply concerning"
@@ -89,17 +85,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "EU agencies call for ban on AI facial recognition in public spaces"
-    excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
-    publishedDateTime: 2021-06-22T00:30:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
   - title: "Britain's Information Commissioner issues warning over facial recognition"
     excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
     publishedDateTime: 2021-06-21T07:43:00Z
@@ -170,6 +155,20 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "UK Commissioner advises on risks of facial recognition use in public spaces"
+    excerpt: "Denham notes that data protection and people’s privacy must be at the heart of any decisions to deploy live facial recognition."
+    publishedDateTime: 2021-06-21T15:23:00Z
+    webUrl: "https://www.biometricupdate.com/202106/uk-commissioner-advises-on-risks-of-facial-recognition-use-in-public-spaces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
     excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
     publishedDateTime: 2021-06-19T11:45:00Z
@@ -196,6 +195,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "S/xTQvkdDDlJa4sHXeEw4oF53cE4mSlgjMSb7yrN78V4nFnfUSqTszCNy0woFzFz3D01fTuAUImFIxu1Rqu7a3smwoMMkmrVN6hqbJjBEF4fHhxKs8TzzeBr+QbxZgvyZrc2jDuw4OSK9iOpXiq7nPubokdOlwpv1kWphEt6H4Q9dXSzDEGITR2SlJCvb14i7YeDr4iJFRQQtULP6UF6XroegirEfDfgHYkS6+dy+A8VizqjJQuv5rz5VDR0PRnMcZ5lrbnzJ6bky+DQhU0IKdsXJyGWhpQObQ/vI4tpt50/8+4Oz4ZRqLqf38DGRN1U5BB2G4CY7wvdSbTOTZdH5lss9dliQOXIebLlnShDm06UJtjOVkyuXRpyPCicgfH6QZvblUO75ssQ5pjxW9JLgZSyWphGXnmGtnctdZ5eq6IQaP+4Z7gJXwfDVvsPJwwKu4RD5e5rIDgMZCH0MeMw6IzC4MNut0ouuR/gE2gkoIi8eKZK+1wB6ox7O6+3IN67RvDm2UBibG8o35vluKASoQ==;p4LAVc/93FVH/8Xa3xod+w=="
+secured: "L7jNyJOHj0Gv23Y/95du2OfYwvpPtDj2goKU6zZXZdRb3UsipIXGe+eiHbjOv4s8Bd3NMYnI/5iy1F89VvniytxXfrty5Oab9Mv9IUUPvMUU0GvaDNaSF0vPYNT7cT3PtKO6/Hj72yx/rODSprLCWa+NhXESQw76ObrBPGXwZHKHU03s5K3mcPkx4XJda9CvIJx/7FX/GFqSeDNgO8vqpm5bKTrKvMQeU36HYDIqudmda/47CS+H8IphwGgNEymPGNjSioeU2KmyxFEq+QCNd7ZkfF1JGS6Zwhu72rHoyMv0tO7DDxxira2f+I1/e+DOA3bC17w45YQ64E3iwtGD/dJAPvP9+RVDVkFHJ1UEqd4=;9WGFPzg7X/ES7xkXkQxQiA=="
 ---
 

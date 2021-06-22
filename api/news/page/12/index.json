@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-10-fintech-giant-klarna-raises-639m-at-a-456b-valuation-amid-massive-momentum-in-the-us.md",
+      "title": "Fintech giant Klarna raises $639M at a $45.6B valuation amid ‘massive momentum’ in the US",
+      "excerpt": "Just over three months after its last funding round, European fintech giant Klarna is announcing today that it has raised another $639 million at a staggering post-money valuation of $45.6 billion. Rumors swirled in recent weeks that Klarna had raised more money at a valuation north of $40 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/",
+      "originalUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Sebastian-Siemiatkowski-Klarna-DSC09671.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/fintech-giant-klarna-raises-639m-at-a-45-6b-valuation/amp/",
+      "publishedDateTime": "2021-06-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-the-journey-from-smart-buildings-to-cognitive-cities.md",
+      "title": "The Journey From Smart Buildings To Cognitive Cities",
+      "excerpt": "The digital evolution of cities has resulted in cities becoming increasingly competitive, sustainable and prosperous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60119bd673d98c63b706c92d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/amp/",
+      "publishedDateTime": "2021-06-10T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors.md",
+      "title": "Beep Launches Yellowstone's First Autonomous Shuttles with Local Motors",
+      "excerpt": "Beep also leverages the data and learnings from its public road deployments to produce vehicle agnostic, edge solutions meant to enhance safety, access, artificial-intelligence and driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/beep-launches-yellowstones-first-autonomous-shuttles-with-local-motors-301309820.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1530454/Beep_Yellowstone.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-farm-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-rachel-konrad-as-first-independent-board-member.md",
       "title": "Farm Tech Startup Iron Ox Appoints Impossible Foods and Tesla Veteran Rachel Konrad as First Independent Board Member",
       "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, has appointed former Impossible Foods and Tesla executive",
@@ -1019,136 +1166,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-ai-expert-ditches-uber-to-start-toronto-self-driving-company-waabi.md",
-      "title": "AI expert ditches Uber to start Toronto self-driving company, Waabi",
-      "excerpt": "Raquel Urtasun's Toronto-based start-up to take artificial intelligence-first approach to self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-engineering.com/3coVa/",
-      "originalUrl": "https://www.design-engineering.com/3coVa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "design-engineering.com",
-        "domain": "design-engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-robotics-startup-realtime-used-this-pitch-deck-to-convince-toyota-to-invest-in-its-31-million-series-a-round.md",
-      "title": "Robotics startup Realtime used this pitch deck to convince Toyota to invest in its $31 million Series A round",
-      "excerpt": "Startup Realtime Robotics recently extended its Series A, adding about $19 million in funding at an $80 million valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
-      "originalUrl": "https://www.businessinsider.com/pitch-deck-realtime-robotics-31-million-series-a-toyota-ventures-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60bfad2c2feb6f00181ed9ac?width=1200&format=jpeg",
-          "width": 940,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-meet-grace-the-healthcare-robot-covid-19-created.md",
-      "title": "Meet Grace, the healthcare robot COVID-19 created",
-      "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/meet-grace-the-healthcare/",
-      "originalUrl": "https://www.metro.us/meet-grace-the-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/HealthNewsOnlineReport/tagreuters.com2021binary_LYNXNPEH5805D-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/meet-grace-the-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/meet-grace-the-healthcare/amp/",
-      "publishedDateTime": "2021-06-09T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

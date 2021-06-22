@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-wi
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 555
     isCached: true
+
+related:
+  - title: "Baidu to make thousands of robotaxis for a driverless service in China"
+    excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
+    publishedDateTime: 2021-06-18T07:07:00Z
+    webUrl: "https://www.econotimes.com/Baidu-to-make-thousands-of-robotaxis-for-a-driverless-service-in-China-1611110"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 54
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202106183520da4606aa8075b_th_1024x0.jpeg"
+        width: 640
+        height: 420
+        isCached: true
 
 secured: "q3OYotUleYWd7AtP64NiJOlFcBNgc4mVxtc65TVQbJKa4YS3Wh5e1AJboewflhL+4YYZkIhZpzOXOBau4AhJ9XwBJS897q2c5cfRw3+4x2jtq+EG74ormLFYwlvHVOO/AdXa4gzmMFuxwy8oekgmRuyXcNJWqHBUsOzxMnS2R47bpnoqXh2C3azb54+ofaSB98EQp0mRfbrJbWMqygjyRcZTt7nhm5mFmoKGiqsiJoVFgwLKatFy9Y9TSb29+Es6PLRe3Nj0eSQHcZIUx73oVmea0i8gsKDgvt6EMd5661DmALr7yj8g6fePmzyQK3f4DyPgHbgsiIjOkGZrCZGMobmOAJcFem8BmVmf2rNOBNnmDPChBpfwp/UvFEUCulmbsQjYwXbyP7f9spTopjpo5o4K1R41+w0MdBVQh1kA7XGZ2I2NBruPTV+ANcA57A6hDeeH2jXnYUIX2GkO0VzE1svHEvcVC3T+CUvbIbcywuGSoTuhGfSvLplV+pfxpW9FwbPV1jyiYsRYg2eSNZu+qA==;x5aOFDa62V9ov8+tDKaBPQ=="
 ---

@@ -136,20 +136,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 19
-  - title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
-    excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
-    publishedDateTime: 2021-06-17T07:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
-        width: 2700
-        height: 1413
-        isCached: true
 
 secured: "5xs2eGNnLV3KKTWC47e4eLs+1ca+SV3J6EDYjdSZmhbi+U2x15kay80Hg/CNJITDtzIQJ/wepm+eXkCJRR1zVZM+4+Cjb3uuLBkHrbMLfkDVYy9Rpcew2vcMJlQIT3rql94hW08YzsZ9d9vvcbf/f/S1d+DIIZRxdM6HhVi4Vt7aG+0UvK+KsFND8nxeskOdlGKGtw+RiktL1/uT8IR1sAKFTlxS5o47WSuzE2sntdx5tvu/BELvhgKScYBxMFLcnKkkwp229zYBFI+Ht6q2WIOOxik/1d6TlabsS3Nka5/thCBybwu80J53QZ4iyMyU/aQD4koo17KmGH6TOS1VDN5yYu/uvvqaT4BV4+SuKDQ5OQIG3F0v2txIn69VjebdIPlAwh0XufkPNqRjiPSeLpMGArm8y+p69kWeU0r2l1/kPQg/NYKUFb6VUt0Gd4JfjdxJNR8ZHDpa/aSftbf+tmEu30mqHS2oS2Vfk6epxIwZeZ/MSQHuTDITsK2saBcy0nbzSJSsRUGqeoGFV5QLoQ==;8ZbH1gsY/LRHry9p8klmTg=="
 ---

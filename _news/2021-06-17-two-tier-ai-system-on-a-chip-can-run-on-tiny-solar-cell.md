@@ -41,22 +41,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "New Energy-Efficient AI System-on-Chip Runs on Solar Power"
-    excerpt: "AI is used in an array of extremely useful applications, such as predicting a machine's lifetime through its vibrations, monitoring the cardiac activity of patients, and incorporating facial recognition capabilities into video surveillance systems."
-    publishedDateTime: 2021-06-17T08:00:00Z
-    webUrl: "https://scitechdaily.com/new-energy-efficient-ai-system-on-chip-runs-on-solar-power/"
-    ampWebUrl: "https://scitechdaily.com/new-energy-efficient-ai-system-on-chip-runs-on-solar-power/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-energy-efficient-ai-system-on-chip-runs-on-solar-power/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 74
-    images:
-      - url: "https://scitechdaily.com/images/AI-System-on-Chip-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Going where few imagined AI would go — on a solar-powered chip"
     excerpt: "Edge AI chipsets are expected to make up a market worth over $50 billion by 2025, with edge facial recognition accounting for $2.3 billion."
     publishedDateTime: 2021-06-18T20:28:00Z

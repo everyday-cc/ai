@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/China-tech/Chinese-AI-startup-Sen
 webUrl: "https://asia.nikkei.com/Business/China-tech/Chinese-AI-startup-SenseTime-resumes-push-for-2bn-Hong-Kong-IPO"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Tuya Smart Concludes its First AI+IoT Business Conference Focused on Hong Kong"
-    excerpt: "Tuya Smart (NYSE: TUYA), a leading global IoT cloud platform, today concluded its first ever AI+IoT Business Conference Online focused on Hong Kong. Themed \"Joint Efforts & Prosperous Growth\" the conference aimed to promote the intelligent upgrading of traditional industries in Hong Kong to bring benefits to the everyday life of local consumers."
-    publishedDateTime: 2021-06-17T08:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tuya-smart-concludes-its-first-ai-iot-business-conference-focused-on-hong-kong-1030531019"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1535496/1.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "FeFTOmZSJMhggMRjxJsyKy1du286lOdLX0zXnUo62fnTMnDEemtmzmIST0bfpI70use50XXaqkQb1tifQZpIYxgROcV4F+jvjDgyEDiHckNPtGs3GpsaCRBQaWLYT1ohvimiLrvLabUBcX2RMUvjkD8mCcGKp4r9mnqMGueV1nFdmRBphUAGDNgsKEPuRcJoDGxBKxRq3sdmeHp4FzuP0ttmTySQbYGSDG/rFcnSNTO16GAOperUdSv3J14DjLd9i3VjBHvRS65+oaH4xxzkvZGt6dfZdYOdR4j1v8bCIxicyKcEeZY7QNrRnbBsPqqiM1oHR3sa0LRnluPfWjkgDtPs6dEKK+tBhC+dAGiL0qLkHd0NTZQCdX7NTfNc9V6JzKxQ/OWT4Ce/M8ZHJA4QFMcXT1cyGeOEMT0rsDJFkIVPBQtQL7fRLdQb/gR8NymRigkbqzPoSOGc2V8m/XMK7aR6HX5B9h2BvoYHztnJv1fM7hZTpiZMnSo3CzIMWcx9rxYtGrJdsjwfQEEmGupjHQ==;XOWfmmb9xiJv1vADakHbuA=="
 ---

@@ -2,28 +2,23 @@
 category: news
 title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
 excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
-publishedDateTime: 2021-06-21T09:02:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/ambarella-expands-security-ai-vision-soc-portfolio-with-two-new-families-doubles-resolution-to-32mp30/article_7620dcaf-29aa-5ef0-88fd-dc0aca8066b2.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/ambarella-expands-security-ai-vision-soc-portfolio-with-two-new-families-doubles-resolution-to-32mp30/article_7620dcaf-29aa-5ef0-88fd-dc0aca8066b2.html"
+publishedDateTime: 2021-06-21T09:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
   - AI in Security
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/5e/15e2af09-517e-501b-a273-f43c7e92b9b5/60d0561bc263a.image.jpg?resize=1008%2C630"
-    width: 1008
-    height: 630
-    isCached: true
+  - Computer Vision
 
 related:
   - title: "Ambarella unveils two new AI chip families for 4K security cameras"
@@ -50,13 +45,13 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
         width: 800
         height: 533
         isCached: true
 
-secured: "QAua2cuu6NDHUex2zQZHMiuVMvKwujIFRPE6+MaWEdcDNb2CHgG6f9rMHbpJmsAeH6agerbhn+DOzBhdhwALGF1tMysmK1CkL0PnfCmqR525Qwtx0oEIJQ/weSPnXLAbtOJJhBF+Gpaque90wwIMFMpoxch0UtBZ4GHjYztmTjpkNpWhFmxuFyrd5YrKsOEipFs+ga+XW2mypCHMzbmWMLvxcCmtyWwFgpbjYH5/O370HsPIHrprIKRsJrxmcFgdgdyu8O00TMNIWRifbr3MNFP7jpQW+hr/34K7jHP0JkkpAyR09oxFPE5RItxS2ndgt3O55+/j2DoeZ6M244e0m3FNt39CyxDLkgH4Dz8myokUiC7XTiaJeCZNbl0AKVAYHu11b20Lzx67NeW/to1RwjZJOwRZPko0yUopSPjHECggRbtjduW4T/mPafXNxCAEoxsWJP++9h+epIXHrkkiqT8noKxFwXpMP9mhcgfWG7q+tJ4ih7sw+lkCI9qDcEanrQPzPi50Yf4ekH0OjF/buw==;sg8EjI5MGzNgjgV4/YWv/g=="
+secured: "jGygCWBk50/mpZRe8NcMqG0bZeED2DO388IcbqhfndXTmL/eFOcNKAZeUYjOWVFB2J74bswuYUnwQyRK7LA0bpnx/m3SPCn/pzCpVzvpLJovHpHabHKJl5Y72atXsFTEpgkasVqladVOXFlpf9g0SWfNevn7672g1m8Pmn4A+PhepOtKGGu1QwwLmbwU8FdFF9BzoT5XHrJaaw7rIulKkttXtWhK4jjBb8Ot3KWKCNDfAtX7cJfSmKn6H9/x5uSAsLiI6As5xnD+o9JNqdQ/DItUZjYJxhtmeVT9GmIa868B+d3Oj01Bmvsa4JXDDAWvSy4gH0jGPHcGQtvty5JQJwe5/MCAfhAttkjv+EKQ0p46SoHcgvYD38GtBoOuT5Zq6IeI3ZGLs8t0kPzW2q8ysDKxeQ1v5+M+on6JwKhvE1sF77RfyRpJl9P8fxYLhpfk456gpGODYwJnPOBkmJDs1vhPCoxO17ik1C8IPcwgN5/ryU0/mjUQDSKU/Oc81Fdbnd3JW07rOTODbFuOtZmSMw==;kgKKnRQADnoofCRsd/QmgA=="
 ---
 
