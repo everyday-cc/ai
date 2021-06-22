@@ -1,28 +1,30 @@
 ---
 category: news
 title: "From Le Carré to Artificial Intelligence — The Inspirations of When the Sparrow Falls"
-excerpt: "In Neil Sharpson’s When the Sparrow Falls, the Caspian Republic is the last holdout nation of natural-born humans. There, the populace refuses to submit to the Machine, believing that neither digital humans nor AI have souls."
-publishedDateTime: 2021-06-21T17:07:00Z
-originalUrl: "https://www.imdb.com/news/ni63336344"
-webUrl: "https://www.imdb.com/news/ni63336344"
+excerpt: "We talked to When the Sparrow Falls author Neil Sharpson about his taut sci-fi thriller, adapted from his own play about artificial intelligence."
+publishedDateTime: 2021-06-22T13:09:00Z
+originalUrl: "https://www.denofgeek.com/books/from-le-carre-to-artificial-intelligence-the-inspirations-of-when-the-sparrow-falls/"
+webUrl: "https://www.denofgeek.com/books/from-le-carre-to-artificial-intelligence-the-inspirations-of-when-the-sparrow-falls/"
+ampWebUrl: "https://www.denofgeek.com/books/from-le-carre-to-artificial-intelligence-the-inspirations-of-when-the-sparrow-falls/?amp"
+cdnAmpWebUrl: "https://www-denofgeek-com.cdn.ampproject.org/c/s/www.denofgeek.com/books/from-le-carre-to-artificial-intelligence-the-inspirations-of-when-the-sparrow-falls/?amp"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: IMDb
-  domain: imdb.com
+  name: Den Of Geek
+  domain: denofgeek.com
 
 topics:
   - AI
 
 images:
-  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-    width: 1000
-    height: 1000
+  - url: "https://www.denofgeek.com/wp-content/uploads/2021/06/when-the-sparrow-falls-author-interview.png?fit=1240%2C696"
+    width: 1240
+    height: 696
     isCached: true
 
-secured: "9jUPdu0hll8ZvFl4M27Dm+F14TrmRcIoXfj0PfFYV4AkVLsa/HkduWJCb8Nf0FTaiSp32nmZ+2y5TPLCZxnX5uo7IOIM2IqrvHmWoscb1d3IfWzoqBwmAF6gQEipMOzPFchG7nL3dvafXbUk/BN6aNhVt9oWVnenpMlBu6t6M8rezCmNxWl8K3RWg0Z4R2FSsU27bHCJnSbUXvxALJquvmUQAP8j75sVUuQ4QSdbUV+3KTBZlu2rcY+8i0BLPQKcRDsVyIKZmRus6G1lajYCjiXExQlLm2wFpHzQFpQENkklpWpxcs6NITRQFrTR/7EU8x5GX7uIRWOjiPURt0XSgeA5xM5Ag9kQPulZB+kCo1s=;FbW7LKoiefbDTI4mb00AcA=="
+secured: "i+jzH82JfJlhLUPn/HVPJr8eegVuWLvvfNiR5UZ/f7YlSsUymhwDn6o5YgcKhSFYEQS7AfvWDI9NPfYyMsJrURUzj/6UYeEDNor0gxHtV82aywFFNiorLjyqHLa4wQac2zf1vdWES/LoZOD4EGhxgYiW4hr9cOXN7uRSACt5d+z1k/ZaAgEYGpqlZRr5L7O+XJsRRKDBt92QKY4wyWwhQZca/N/xA53Pts5FoUMTjpcu8NawkZyoivuBvyLQzh8nkZItotiEIX1OYud39wTZ7AMhEg4n6PDkRR69WasiRqvHu2r8au+B5xAFaGJZ4SLIE+m3+qbbpaIgB+isaCNT5eCKmM4a3hHIwqyoKnJwJAc=;voHF+5LudjX9edlPabBs8w=="
 ---
 

@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Quadric Reimagines General-Purpose Parallel Processing with an All-New Architecture Optimized for On-Device AI"
-excerpt: "Existing solutions force the design of heterogenous systems composed of CPUs, GPGPUs, FPGAs, and AI chips. This leads to higher power, larger latency, and complex software integration. Quadric's unified platform delivers accelerator-like performance with ..."
-publishedDateTime: 2021-06-22T07:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-quadric-reimagines-general-purpose-parallel-processing-with-an-/2021/06/22/9394519.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-quadric-reimagines-general-purpose-parallel-processing-with-an-/2021/06/22/9394519.htm"
+excerpt: "Quadric ( quadric.io ), an innovator in high-performance edge processing, has introduced a unified silicon and software platform that unlocks the power of on-device AI. Built to accelerate computation speeds while reducing power consumption,"
+publishedDateTime: 2021-06-22T07:01:00Z
+originalUrl: "https://www.financialbuzz.com/quadric-reimagines-general-purpose-parallel-processing-with-an-all-new-architecture-optimized-for-on-device-ai/"
+webUrl: "https://www.financialbuzz.com/quadric-reimagines-general-purpose-parallel-processing-with-an-all-new-architecture-optimized-for-on-device-ai/"
 type: article
-quality: 1
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AI Hardware
-  - AI
   - Google AI
+  - AI
 
 related:
   - title: "The New Normal: Reimagine The Transformation Of Industries With AI"
@@ -37,6 +36,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qSMCUfQPT/5D3PQNAaP/PqltRi0/dkgNJbFJOv6mbrKTx+7roev26asUUerutNMOaxbLYA6PBlmggUYcu02te1dGLTMXjiF8j9dD17c0ZM0dxhEIUFMarXOjuKGasfrrYjIPkQCpbt5tHCkzk9i6S4P5gpoQ62WmkFA7CK0+EClyiS4UnEfjuS9uHc5C0ILobebnO47n70Xn2ScfQWUDzsZ4agnHTZu3xMiVtkSJKnQQ907aoi5+8XbCFChXiVzPi2K3fs5/ZORjLIZj8lXy6Ohea5+5NFH4ln/P3oSJ/v502tJlYWuj1aeCegFWayTyhDaBGACVej+cL+H7vYmazL1pAQnltZxRciXHnJ0uziM=;ZnezuCY/g9AN6zeJGB0lkw=="
+secured: "/c6x7i5ouM+N58c0IlO/NsaQqT6Dt5E/u4vu6l8Sjj6XgKszAErPs5krY2v3MmA04RXHplHjbDoQoAfCt2gNvB07PaMutPaVpYRVGp6C9HFCTFoRehapcPcOvKv3HnaUJGYCj9U0aJwRe4OxnTO8A7SfgT/h+yv6OTrp0HIbtIklzTi75liv3m7f/XJZhEv4rNEB4JP8GIwrDHqxhqes4tympBX4aUYV+oXcpmckNNMCCwjYo0buuiPyqvDWKQM5YjhQRKqS0qGpgOPY88FSS8qZYzrfSrirGJrZgIrtBcYzEBUlvRhF6153m9y0SzhNhJsxJbZNig+8ge0JD0cKo6VAxDdSMr5tIv4TI6FVhos=;fzRhudf8WI6PIlmOHJNFdA=="
 ---
 

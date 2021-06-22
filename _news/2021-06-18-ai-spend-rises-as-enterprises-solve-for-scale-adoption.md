@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/AI-investment-trends-appen-2021/60200
 webUrl: "https://www.ciodive.com/news/AI-investment-trends-appen-2021/602009/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 770
     height: 364
     isCached: true
-
-related:
-  - title: "Transform 2021: Where does your enterprise stand on the AI adoption curve?"
-    excerpt: "Transform, the world’s leading event on applied AI for enterprise business & technology decision makers, will host thousands of executives across industries to share their AI and data technology stories."
-    publishedDateTime: 2021-06-17T20:10:00Z
-    webUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/"
-    ampWebUrl: "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1225909162-e1619735173985.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "bBOSW5orEAa+JKer3e3kjDG258KFEwtD8aLhYfHupzVfXpElXTEQwLw89VJHriSXrYE4PkvSGeLIf3wHw2pN4zgrQ3nqsctinhxXek6svf9QKre0GW3pNUdzxPDUwzFk+DxYzlvhx5/aYHgzYS/x0r2qtt2CeV9Zg8s8tyjfUB4II54wOTd2c6hA1NMOLdqb4QKud1HBhizE+eS+77IccUIJly8Jj7x6L99hlj8HAITzZGekUPRhwb1Tb9o02MOOB9nO8Qo5YWVXrfI282Yf6GOuO56YH+vju3STtAIrPqv2aRN5II3BIglpEHRUtB6kchfL4xzQGOfNLzD9XHmRSgszYqSsqM1RCMukwdw5ROc=;rVhwZ2XJ6lSqNamup9zVRw=="
 ---

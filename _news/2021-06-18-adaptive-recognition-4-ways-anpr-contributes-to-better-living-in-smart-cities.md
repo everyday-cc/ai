@@ -42,22 +42,6 @@ related:
         height: 765
         isCached: true
   - title: "EU data watchdogs want ban on AI facial recognition"
-    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
-    publishedDateTime: 2021-06-21T17:00:00Z
-    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 76
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
-        width: 1920
-        height: 1357
-        isCached: true
-  - title: "EU data watchdogs want ban on AI facial recognition"
     excerpt: "The commission's plan includes special exceptions for allowing the use of mass facial recognition in cases such as searching for a missing child, averting a terror threat, or tracking down someone suspected of a serious crime."
     publishedDateTime: 2021-06-21T16:07:00Z
     webUrl: "https://www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece"
@@ -86,6 +70,34 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
+    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
+    publishedDateTime: 2021-06-22T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "EU Data Watchdogs Want Ban on AI Facial Recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy. In a non-binding opinion,"
+    publishedDateTime: 2021-06-22T12:54:00Z
+    webUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 54
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "2KnYUW6/Gc6LtHfWBZREGYk5YZ8t3RIplTPyT7QajEHRU1Oo0R+fK3W2B2Ji5f+UCA0otM/XoCz06VkBgTr0+rF7gh65IeQBwY3KjQA3AtK1N4SI3Rplb+oWwm7B/BIMaswmiUevPY1Viz29HGvvfyRySOYYdYmL3Gxb5ioABMJZfpfCRRyADBuIFcMwFRRwuHstT5T3950HSHXPEUn4jc/4jVIUA3vlCiGQIX2Wa+wpTuU+MUS0XdrrREohfTLHLOKaWGwJgtHZ3PU0S34r8beaIk5QDvB0ZSN501TatqAISGM+0thSGBIwlpn3XNFG2o1hL8+M7mPrKAtxN4AP1jeV0gM5RIW++/qjW0KrXaKKqY56z0xfpbjRBp1nAeOurTcr18/YLF2p+wPYNau9ltUiWDxsjkJk/4MIJMGUG7V/dCS5J4c/ZwIeDEmGLfTOFSyAruqEv7DXCwfZe/ECsbzxB/bVQVkCeqhbsm+Dq8nqWKOapgY1Djp15ZAgnJdrjW/7viB0zGmcYTOYkhZLug==;tbTntAOI8e2dPefllXaVUw=="

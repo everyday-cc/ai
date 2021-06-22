@@ -1,0 +1,30 @@
+---
+category: news
+title: "Turkish Bank, ??bank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
+excerpt: "H2O.ai, a leading AI technology software company, has announced that ??bank, officially Türkiye ?? Bankas?, the largest private bank in Turkey, has selected H2O's Driverless AI platform to upgrade its Income Prediction,"
+publishedDateTime: 2021-06-22T12:18:00Z
+originalUrl: "https://www.lelezard.com/en/news-19868033.html"
+webUrl: "https://www.lelezard.com/en/news-19868033.html"
+type: article
+quality: 34
+heat: 34
+published: false
+
+provider:
+  name: Le Lézard
+  domain: lelezard.com
+
+topics:
+  - AI in Autos
+  - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "1cLbV2LyQNbxN+nQJFXMnItOb0sOWq01X1qsijW7VDtt3MRJXj6Z7ChJF4/uv7I/15mZqK6q/cEQNQGPUv0KovK3g22C1O/yvzw3bucYvp0UlDcEe1xK01pWpASTW5uix4PNWwm/GXK/kv2MePIqVGUzU694LsyE1GkQnlt7SVJgF1NaK8qKI5UCHYBhmZsO6wR6MUSsmqNvHJzgLZO8c48PS+5g9Jll2fKCWip8VNZGO/dbCfMv+Nc+HT1gS1FIggBuw86SHxfCsVNxdVJJi3PMmBMphqMoHuUAxaUqc986BrBgQYbTf8i9zmMrdRlCHiteSGYhqEcQXbTDI3gMN9XrT6rpvWj4sVEM6r3OVW0=;IKy/DXzbDe+qCqu5BTaF6w=="
+---
+

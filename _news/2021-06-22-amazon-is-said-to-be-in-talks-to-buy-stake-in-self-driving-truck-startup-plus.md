@@ -21,52 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Amazon is in talks to buy stake in AI truck-driving startup Plus"
-    excerpt: "Plus is among a handful of startups trying to up-end a fragmented long-haul trucking business with driverless technology."
-    publishedDateTime: 2021-06-22T01:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus-41624283725571.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
+  - title: "Report: Amazon Orders Self-Driving Tech for 1,000 Trucks"
+    excerpt: "As Bloomberg reports, Amazon has ordered 1,000 autonomous driving systems from the company Plus, which upgrades trucks to drive themselves. Amazon is clearly confident Plus' technology works as it has also acquired the right to purchase preferred shares in the company which amounts to a 20% stake."
+    publishedDateTime: 2021-06-22T12:29:00Z
+    webUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks"
+    ampWebUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/21/600x338/2021-02-06T185607Z_1_LYNXMPEH150I2_RTROPTP_3_AMAZON-ENGINES-NATURAL-GAS_1612682042347_1612682051962_1624283883954.JPG"
-        width: 600
-        height: 338
+      - url: "https://i.pcmag.com/imagery/articles/02UIOQFAdvtwaBZrBPDJ3IQ-1.1624364549.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Amazon to Buy Stake in Self-Driving Truck Technology Startup Plus – Report"
-    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed"
-    publishedDateTime: 2021-06-22T09:53:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
+    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed an order for autonomous driving systems from the startup,"
+    publishedDateTime: 2021-06-22T09:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 42
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/Amazon.jpg"
-        width: 750
-        height: 406
-        isCached: true
-  - title: "Amazon Is in Talks to Buy Stake in AI Truck-Driving Startup Plus"
-    excerpt: "Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter. The deal would give Amazon the right to buy preferred shares of Plus via a warrant at a price of $0."
-    publishedDateTime: 2021-06-21T13:45:00Z
-    webUrl: "https://www.bloombergquint.com/business/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aSxCmFVzR8/v0/560x-1.jpg"
-        width: 560
-        height: 373
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
   - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
     excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
     publishedDateTime: 2021-06-22T11:08:00Z
@@ -79,20 +60,6 @@ related:
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/amazon.jpg"
         width: 800
-        height: 600
-        isCached: true
-  - title: "Amazon in talks to acquire up to 20% stake in autonomous truck-driving start-up, Plus"
-    excerpt: "Amazon is in advanced talks with an Artificial intelligence-based autonomous Truck-driving start-up, Plus to acquire up to 20% of its stake."
-    publishedDateTime: 2021-06-22T04:35:00Z
-    webUrl: "https://techstory.in/amazon-acquire-plus-autonomous-truck-driving-start-up/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 17
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/Plus-Amazon-automous-trucks-1000x600-1.jpg"
-        width: 1000
         height: 600
         isCached: true
   - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"

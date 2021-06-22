@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-22T11:49:00Z
 originalUrl: "https://www.just-style.com/features/robots-make-more-business-sense-with-ai/"
 webUrl: "https://www.just-style.com/features/robots-make-more-business-sense-with-ai/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/06/possessed-photography-jIBMSMs4_kA-unsplash-scaled.jpg"
@@ -41,7 +42,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
+    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
+    publishedDateTime: 2021-06-22T13:55:00Z
+    webUrl: "https://www.lelezard.com/en/news-19868775.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "HaXGR8SZ3vsq0DkNfIBVrWwco/qeKcRqg57FN4GPbknc17s30FDQ3QFD0Ad2bk0uTvFeBsMk+F4YFS/6xojGnOBXKDCps3GCXF0TMQJIwAM8mZB03mC5Fq1L3lCLfLlxZ9lb8aZgncaijZ+4OuB9uK3e8ASEBklSHOduERIjr9DcddX2Dbivti1LSIM3FvTOduyPqXVb8/JxdCTfNGtgmgd2zZ4Uo3sEiIvdsHmsybmThzbeZuZikOKG1KyjagVwjEK17o6xiNUMYrgsYD2L8WcAlFdOJkd1yEFHzKl2J8P+P6ua284gasGtT+dRrKIYKDjLZtw2twSiVUHgJxrFYNjVNJRe0VEkDRT7lM7Q0s4=;4uwK5Mle9QU0w0qXrdIHxw=="
+secured: "Zt0aU7BqVLYccRIfRAXdgU256Ah9Gioc2y7LCgx1aavpTyeOCrjbf/6HAHiS8OLGDxAFCP2lQRysg9MEGrImSShNbZLonELzq4rXle0OEhzxaqFjKk5oEwtIjeeqsyXanP59UezzqS+FlECP3OJdpWiKOe/xOSaJmI38RhM83LoVzSPJEO0zB1YnxA83agkKXTuJQd2xaX33ixMCqQu1VQHDtSlJSzqnaOrd2UJgwMbuPk1zfgPjWFSYwu82U4DNecfSl54EWlWVWlOLyXz/k2+hegksK3VQRyBRbogIv/WgtFR4JGWkIKdaRe3A5VLp+cxYYJJzP/coo1poirwpijl2BjsIj1tWa2WjeDLevR1BwrlCQ/zeQMV9HlrMmt5NiVDKc+e6H1cMvfsVvJvKvLKAiYEOBJGMXLcbzZzM40Y3zMOKlo3bb3ERX7SSVAhi4iE4ZW1jp7UGG7P1xq53MgnTyA5mhpdWsqwR08FUZVF4oovCF+cAqPgcifMRbLVe1ZNJ+WzBTg5qiKmo8ce8Yg==;o2F1Rg1mJZRoj9Bxn2ByEg=="
 ---
 

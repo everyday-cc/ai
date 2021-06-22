@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/making-the-generic-ai-trend-work-for-your-business/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -38,11 +38,25 @@ related:
     provider:
       name: Companies
       domain: just-style.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/06/possessed-photography-jIBMSMs4_kA-unsplash-scaled.jpg"
         width: 2560
         height: 1843
+        isCached: true
+  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
+    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
+    publishedDateTime: 2021-06-22T13:55:00Z
+    webUrl: "https://www.lelezard.com/en/news-19868775.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Rklj5s3vko/BLDarN48J5dBvepGuMRJjCZwk57wlsEBMr6x8t4ZnzOQ5twza0nl2u03FVtK/VPcT6vn4wcmMKLkZV8Cfd3m2dDbBaT/2LNI8PXy8E77m9FZDuph0VcCO1HRB5/ape862U/te2Zk1IdjeKEvi+acD5Uli0cn8Ynes1GZhnggWWmVkcKrWrcqVfRElCseUeCccUXLj3YEixo3myXWkYkr9dbn8sSbpNqtpTAba7nDe6MrBnczTN8Rzi20WyaFKYbYnWGgtxQn/hT9OHa9O0HV/bBiip0MpHXvP6aQGMc2ZDpRKOFHqRDJHLYd1FBhvFJl3+srXdjzLIYW/RKMy0kOoa/J55pOxnS/zUlwFDCs0+rr8yLMidXeA5BmZUU77JtiHkkOrydda0H5KrVKS5ChWQe2pZsOKczorDpoxF69M92HKILqyUQPyyMIjBBw/JHijysMEZVfO5n8Mh0nY8WFbfjv8FsApZ7xS0E4Ih0VYuZHY1VTAWc1nNQnfbQ4JZ3KkvtxPqj4+6g==;8gxoEJM9ZILlQjF5WdvOyQ=="

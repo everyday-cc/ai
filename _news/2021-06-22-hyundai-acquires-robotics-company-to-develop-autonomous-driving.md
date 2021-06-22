@@ -9,7 +9,7 @@ ampWebUrl: "https://philkotse.com/market-news/hyundai-and-boston-dynamics-collab
 cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752/amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai Completes Acquisition Of Boston Dynamics As It Enters The World Of Robotics"
+    excerpt: "Hyundai Motor Group has completed its acquisition of a controlling interest in leading robotics company Boston Dynamics in a deal that values the firm at $1.1 billion. Through the deal, Hyundai now owns an 80 per cent stake in Boston Dynamics while SoftBank owns the remaining 20 per cent through one of its affiliates."
+    publishedDateTime: 2021-06-22T11:57:00Z
+    webUrl: "https://www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/"
+    ampWebUrl: "https://www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 83
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/06/Hyundai-Boston-Dynamics-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
     excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
     publishedDateTime: 2021-06-21T14:40:00Z

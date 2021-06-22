@@ -18,31 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "South Korea’s LG Electronics Rolls Out AI-Powered Digital X-Ray Detector"
-    excerpt: "LG Electronics announced the launch of a new \"digital x-ray detector\" (DXD). The new product is equipped with assisted AI diagnostic functions, which are designed by healthcare AI solutions company VUNO."
-    publishedDateTime: 2021-06-22T07:27:00Z
-    webUrl: "https://syncedreview.com/2021/06/22/south-koreas-lg-electronics-rolls-out-ai-powered-digital-x-ray-detector/"
-    ampWebUrl: "https://syncedreview.com/2021/06/22/south-koreas-lg-electronics-rolls-out-ai-powered-digital-x-ray-detector/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/06/22/south-koreas-lg-electronics-rolls-out-ai-powered-digital-x-ray-detector/amp/"
+  - title: "AI may soon predict how electronics fail"
+    excerpt: "Think of them as master Lego builders, only at an atomic scale. Engineers at CU Boulder have taken a major step forward in combing advanced computer simulations with artificial intelligence to try to predict how electronics,"
+    publishedDateTime: 2021-06-22T12:52:00Z
+    webUrl: "https://techxplore.com/news/2021-06-ai-electronics.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-ai-electronics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-electronics.amp"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 56
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/05/lg-magazine-rollable-tv-ces-2020-key-visual.jpeg?fit=950%2C594&ssl=1"
-        width: 950
-        height: 594
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/electronics.jpg"
+        width: 1920
+        height: 1304
         isCached: true
-  - title: "LG unveils AI equipped digital X-ray detector"
-    excerpt: "LG Electronics on Tuesday unveiled a digital X-ray detector (DXD) with artificial intelligence (AI) solutions as the South Korean tech giant eyes to expand its presence in the medical equipment field."
-    publishedDateTime: 2021-06-22T09:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210622/3775383.html"
+  - title: "AI may predict heart disease risk on chest x-ray"
+    excerpt: "Can chest x-rays be used to detect unsuspected coronary artery diseases? An artificial intelligence (AI) program has shown it's more than possible, according to research published June 17 in Radiology: Cardiothoracic Imaging."
+    publishedDateTime: 2021-06-22T07:37:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132723"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_06_18_22_19_3004_2021_06_22_heat_map_chest_x-ray_AI_read_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xvBVpezj19yVOhiK8UxhwsSIeSEKy9//tnZ21ewSLlkdHoT0JH+IlSLnBKPmd2lRV2ryQpPGPi2FR3fNMhmZl+wscpyipCBTCSLj2lSg2qj9H/ixNN0botAfB7AUa5QwAI598Ad3uXaUNdqHW4YdegE0QAAmnAgewiLn/seJr4jQLLcH/Gc0D3qIrodH2uXfVeqvLJlfK1B5onHszFHEmD8JvHdexCSSL+p/wSkaKCm9UuqAAyeCer4A00RfvO9WjI23lPoUZuywiZH9iZu2C8bJIG2xapHpctOuW0Z+RghREO6cQFDZYI6yPrERe9ksVwYUDEL9Gzldi1SL4OfgxhjUmGAvMU9oO0Vi1ajiZQ8XkYRVtoRXzHmxK2/izwDq+xpPWOvFttyr9PrZ9DXl3aFMzDsiKvZ9d3l4XoUOMPERw8yzTphRmaLsSxGClPZ0XkLoHycuXVtjDLlSUX6pGtLBpe8YZlTndMb3Imz5Q8GGWjmrTKkh0DbAa2A3NGP05ePiR6aOJV8YbFa9ms9P1g==;6FuG7ntPIbvvWA4Rg0cAcA=="
 ---

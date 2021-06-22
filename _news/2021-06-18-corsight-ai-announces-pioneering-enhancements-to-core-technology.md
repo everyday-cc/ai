@@ -42,14 +42,19 @@ related:
         height: 628
         isCached: true
   - title: "Auddia Inc. Announces Major Technology Advancements in Artificial Intelligence with New Audio Content Processing Methodology"
-    excerpt: "(NASDAQ:AUUD) (NASDAQ:AUUDW) (\"Auddia\" or the \"Company\"), developer of a proprietary AI platform for audio and innovative  technologies for podcasts that is reinventing how consumers engage with audio,"
-    publishedDateTime: 2021-06-22T11:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/14067766-auddia-inc-announces-major-technology-advancements-artificial-intelligence-with-new-audio-content-processing-methodology/all"
+    excerpt: "Reconfirms guidance for full national launch in second half of 2021 BOULDER, CO / ACCESSWIRE / June 22, 2021 / Auddia Inc. (NASDAQ:AUUD) (NASDAQ:AUUDW) ('Auddia' or the 'Company'), developer of a proprietary AI platform for audio and innovative technologies for podcasts that is reinventing how consumers engage with audio,"
+    publishedDateTime: 2021-06-22T12:15:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270003149/auddia-inc-announces-major-technology-advancements-in-artificial-intelligence-with-new-audio-content-processing-methodology"
     type: article
     provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 0
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 10
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624252736690.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "WyQUz/wCz+iO4eM33HyQSk6w+jqwknkSEhOifJfbJxuCvLZX+tJkDw+O0waVAohCm+Yw0P4kMgMl06lKHonVQfNG02/cG7QAvlekaLGjszRX3q1fvhYYI+lbz77juVQysPqChUvRNi+c6s6xHRYmVX/NNB10unlCAMUU4RqLVoamW/vreHBDm9fXyiQg+CH4xG0dw8YQqpfIiYGsl+a/jW/4DJfYe6nWcRnQj3F4Z4lku+dxMyTaYqF1gpv0FtClXxpkaBwKQoFWfVHjpRfGUCnlb9UM3FWHMu3oMfpCfq9SAtdfI57T/5W49vrKFPUBTQjeO1a+8L81BAVj4C8Ep5KgvYvVB09oFICd+L8qcWuPt2ux+hWFkix3S5la4qNDG8qiTZ+/nHcfV9RaClxJhGXWzTSPCS/pfJX0GU3Iqmo1CX85n0bdBpFxueYy4X6j4aGiF5hwQw2Mts7ibIv9dsaUbc5WqKcVJWI40P/uURipyBB9Vxpulh9mrARP2BAyiDBWnLUH4uavNO2hedhc4A==;OZR3QBOBbmuoRTUyFKyIyg=="
 ---

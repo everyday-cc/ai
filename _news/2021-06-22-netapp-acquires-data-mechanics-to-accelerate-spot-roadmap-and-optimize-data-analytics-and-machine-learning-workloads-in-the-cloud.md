@@ -1,23 +1,24 @@
 ---
 category: news
 title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
-excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,"
-publishedDateTime: 2021-06-22T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394553.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394553.htm"
+excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform pr"
+publishedDateTime: 2021-06-22T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210622005442/en/NetApp-Acquires-Data-Mechanics-to-Accelerate-Spot-Roadmap-and-Optimize-Data-Analytics-and-Machine-Learning-Workloads-in-the-Cloud"
+webUrl: "https://www.businesswire.com/news/home/20210622005442/en/NetApp-Acquires-Data-Mechanics-to-Accelerate-Spot-Roadmap-and-Optimize-Data-Analytics-and-Machine-Learning-Workloads-in-the-Cloud"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "eFx0GvJeCghwgg0eBQlrWJVK0+JsYx6iWuL71SQHwehR1otqJfAybDnPCBJ/JeWdNfHOxc5I5iLU+s5SkC0Gz869o7SAxWTFqi9/NP4+oXGgnZKUZLn9JfzsVg4cCGWsbVWmk+XDwVicZ0U+aPTIo/Gw47I3xHyZ+Oy0mGX2hwb/ZnhOzLzwet4/QnPpEOUalfO7TQwjmgG1TEpPCb1FVdKZILiHB2bQ86fMWviCgyisQOR9+5QrlYLPNn2ZjiCGgYIh/W9yPJgu8etykO6nX0GKu7ii3lvT9GxD+tGu/XEfLA0bG1M1ue3b8yE5PdkSPLiP0YGwBIkkE4SIh5odGyYEzox8pBUPu8zTbJgSPiM=;TermlMhrKYidM0NWie8Utw=="
+secured: "++VcNdwC5bg/+cQvSslQ6XLlxoRszpoBevGYfD9v30zhjv+takyoY4p+zBEKPETGHulb4Q0hd6qzUUXKLItPFfb2mL1rU6ad9hNnDT08aEA+BnZceGxxi3qvah6Yc/CBFn31P6kFUtPwrhsWkRukxSu0hc+p+RnnjS+m3tntathnlwk37UPb0lJhGGR/UUUf4Rn5HGJWtbF/1VAzRb3g9v2VY8QIaO1HjCvECB+21D56KZYIO6gIMtiwTrBR+u+DTTrdr2T0ANvmD68K6Ue1/OhDBcbB92LJE8q4PPnK3gMJFDXCEJo84SA8dMS+XI3hBjnpER+rD1fO2b7XkH6Odxa+VuZP0JSXUg9wNJtzfInY9DDuuo4m+Na1sFESsQuvlkDuhS25JqCEPmT9xbWTBEjxVNEzqUu1ycSRu2yXNGs1IyUQzeNAuOntUxsKf7UG6RI6hZkV2DJ6h6UI89ojrHVwc/jss07PkJBcU7IhCJ6yawVHuqR+myMDS5ZkERxrkx9hogz69asByvK1wDUjOQ==;eF1gwwVBwW2nlNiPnAkccw=="
 ---
 

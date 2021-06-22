@@ -29,35 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Impact Of Covid-19 On Computer Vision in Healthcare Market 2021: Remarking Enormous Growth With Recent Trends"
-    excerpt: "Revenue for Computer Vision in Healthcare Market has grown substantially over the five years to 2021 as a result"
-    publishedDateTime: 2021-06-17T20:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17"
+  - title: "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026"
+    excerpt: "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing"
+    publishedDateTime: 2021-06-20T08:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing (NLP) Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact | IBM, NLP Technologies, NEC"
-    excerpt: "The static and dynamic elements of the companies have been combined in this Healthcare Natural Language Processing NLP market report This study report examines the competitive dynamics of markets in order to comprehend global competition This Healthcare Natural Language Processing"
-    publishedDateTime: 2021-06-21T14:42:00Z
-    webUrl: "https://www.openpr.com/news/2310052/healthcare-natural-language-processing-nlp-market-exhibits"
-    ampWebUrl: "https://www.openpr.com/amp/2310052/healthcare-natural-language-processing-nlp-market-exhibits"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310052/healthcare-natural-language-processing-nlp-market-exhibits"
+  - title: "Artificial Intelligence Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-18T14:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-18"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/6/U621636644_g.jpg"
-        width: 800
-        height: 457
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
+    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
+    publishedDateTime: 2021-06-22T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
     excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
@@ -73,6 +85,113 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according"
+    publishedDateTime: 2021-06-22T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-to-grow-by--7-87-billion-in-manufacturing-industry-2021-2025--technavio-301315947.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
+  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
+    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
+    publishedDateTime: 2021-06-21T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Data Monetization Industry to 2026 - North America is Expected to Hold Major Share"
+    excerpt: "The \"Data Monetization Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added"
+    publishedDateTime: 2021-06-18T12:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21624004/worldwide-data-monetization-industry-to-2026-north-america-is-expected-to-hold-major-share"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21624004"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21624004"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
+    publishedDateTime: 2021-06-18T16:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575369-global-artificial-intelligence-ai-in-fintech-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 10
+  - title: "Global Natural Language Processing (NLP) Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Natural Language Processing (NLP) Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Natural Language Processing (NLP) Software market report provides"
+    publishedDateTime: 2021-06-18T16:41:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575541-global-natural-language-processing-nlp-software-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 9
+  - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
+    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
+    publishedDateTime: 2021-06-21T20:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-markets-to-2025---increasing-demand-for-big-data-analytics-due-to-huge-unstructured-data-generation-at-end-use-industry-sites-301316528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
+    publishedDateTime: 2021-06-18T16:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research."
+    publishedDateTime: 2021-06-18T16:35:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575367-global-telecom-artificial-intelligence-software-hardware-and-services-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Deep Learning in Drug Discovery and Diagnostics market"
+    publishedDateTime: 2021-06-21T05:48:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4583083-global-deep-learning-in-drug-discovery-and-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+  - title: "Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The In-Flight Voice Recognition market report provides a"
+    publishedDateTime: 2021-06-21T05:49:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4583266-global-in-flight-voice-recognition-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "/muQc52T0lh5B5wTHq5YuOuL/4m8NaGA/vUT7I8ik6+6aVDdoiYOn9zTCAmH+w7UV1wuDs1TgBjKFR+YaPStlxYLKfjMrf8KjyuulJ5dlU+OKMypX00AdXTVm7m8Hyfzhhg7TDHskcUCCFsP8AoL/ot8QHn9JYb7Hcqj5cqe30ULLFxK4GfaLOZEx/wfyGqOTpVO/WbVGSc6TEaMpm1zAMNVhXtWn5isfP6vRp68zQ7l1LG/ULuFLeF38QXeFaePSIGmcnezkhRysMtozTZQXuBNGiiCNdPzgg6+xlWlmdnNDcZhhgKZojcF6OpcUHaRDuH2aXs7jKVgf0Fokx7uKnGkdCAmW3gxaVRLJzM7KRc=;J0olxGxJN2bAZ0DOfikpTQ=="
 ---

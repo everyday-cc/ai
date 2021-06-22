@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions"
-    excerpt: "Waymo has raised another $2.5 billion from a group of investors ranging from venture capital firms such as Andreessen Horowitz to a major car dealer, AutoNation."
-    publishedDateTime: 2021-06-17T20:04:00Z
-    webUrl: "https://www.chicagotribune.com/autos/sns-self-driving-cars-waymo-two-billion-investment-20210617-7a3hfv5eazgdpkay6cs526isg4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/autos/sns-self-driving-cars-waymo-two-billion-investment-20210617-7a3hfv5eazgdpkay6cs526isg4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/autos/sns-self-driving-cars-waymo-two-billion-investment-20210617-7a3hfv5eazgdpkay6cs526isg4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 59
-    images:
-      - url: "https://www.chicagotribune.com/resizer/D_Nn1rsa8VXFWmuoI4EndWUPRWg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DCYULDVPI5HDZC4EWZNZKRZ5BU.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Waymo Pushes Toward More Staffing, Self-Driving Tech With New Funding"
     excerpt: "Google's Waymo has now announced new funding to pay for more self-driving car technology and staff. In fact, according to recent reports, it's received"
     publishedDateTime: 2021-06-17T22:10:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2018/08/AH-Self-Driving-Cars-Waymo.jpg"
         width: 6500
         height: 4333
-        isCached: true
-  - title: "Alphabet's Waymo raises $3.4b in first fresh funding in a year"
-    excerpt: "BERKELEY • Alphabet's self-driving unit Waymo said on Wednesday that it raised US$2.5 billion (S$3.4 billion) in its first fresh funding round in a year, when a string of defections of executives rekindled concerns about the technology struggling to scale up."
-    publishedDateTime: 2021-06-17T21:00:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/alphabets-waymo-raises-34b-in-first-fresh-funding-in-a-year"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/06/18/ST_20210618_VNWAYMO_6625614.jpg?itok=LH6014Pq"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "gmxJRPziW6gdliBkHmNsWQ5cSbroCYpVuj+pUKtfqVEg8JI4hd5sZL3HZp8IC60B/ImMpQx0PBXe/7u1s9aFcfIvoRVP4hieQUpAVMndtCI/WHM2pHF9m/fyHBS4eCRLDTGNbSlB9XujUaDETvLnxhTSJ1o/Qa+KdPZ1OnoRu8hz3EbGtKXqLoyPgjAdgnWHTGa+ehjBFk22z/v3/obQxmsHnT3OxUdwNtXY/DfYo46UWiIDaAeFGiGQ36RbkuwAbr28bVftz+QvtCmlbKW8Gl2/OfPH7Kq9hS6DUILdRuzAoKUDTvzlmyTXMpknOl3C4UAvprFa6RpB/7djn0dc9PJPEwXK6Iv1kvBlDfPw0Oh4tAW6D81mQzQjPZv/rx4v4j3mmv2Y2YfVHjJ2AN1M7iLjRUGU+0XZ/jl3XcLgtLCgZd8mfeMSUCCquXNSfrORbQRIBNUlWoF1tzT8+bBzF+AdazzIzELxqZtI74Gj/BZ0otEcoJv5hOTpnB1rbAFtDG5gLwUzPD4gbtM2QMVyjg==;vIEiHBnNDTrBKQU9PDk63Q=="

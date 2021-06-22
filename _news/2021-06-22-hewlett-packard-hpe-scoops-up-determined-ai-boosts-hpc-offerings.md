@@ -83,9 +83,9 @@ related:
         height: 810
         isCached: true
   - title: "HPE acquires Determined AI to ramp up machine learning development"
-    excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high performance computing services."
-    publishedDateTime: 2021-06-22T08:02:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/hpe-determined-ai-machine-learning"
+    excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services."
+    publishedDateTime: 2021-06-22T13:36:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning"
     type: article
     provider:
       name: SiliconRepublic

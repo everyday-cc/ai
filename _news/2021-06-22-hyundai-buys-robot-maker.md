@@ -41,6 +41,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Hyundai Completes Acquisition Of Boston Dynamics As It Enters The World Of Robotics"
+    excerpt: "Hyundai Motor Group has completed its acquisition of a controlling interest in leading robotics company Boston Dynamics in a deal that values the firm at $1.1 billion. Through the deal, Hyundai now owns an 80 per cent stake in Boston Dynamics while SoftBank owns the remaining 20 per cent through one of its affiliates."
+    publishedDateTime: 2021-06-22T11:57:00Z
+    webUrl: "https://www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/"
+    ampWebUrl: "https://www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 83
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/06/Hyundai-Boston-Dynamics-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
     excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
     publishedDateTime: 2021-06-21T14:40:00Z
@@ -98,6 +114,6 @@ related:
         height: 300
         isCached: true
 
-secured: "c6nvfxEjLEpipkkeYIZUV0maxNVTb/TNmy1YJJhj2lh79Rk3aLleEmtsKB0fn4C9mj/0GiG1gBaoF4hOsmPM0V0KmW/f//SfV2hA4anNKfvZP85KbPZnJH2xmkfg4h/oUN21Eu7G2qhVl/gLGBjk9gX9q+XGu7k/nQ0srts4XyT3aJe5phH+x2ORLVf0oxuke/+CLCSlHMlEsTlHVkePvSUMC6ivVMSK5LhMwzkQmqKxPaO5vwU/NAsNznwWaL1W0UYQ2FyXOtijmeAr+RIgOj0Md/aS32QREPfTNqT+95P8N1b/yivkHlxQHOlx7PpLotJSOJewoHG0mAKVJleyfADGFotF6KZMvBTvwgFen30=;XC8v5TlF0iaMjg6ShS2PZA=="
+secured: "WphACCMfs8PugJ4omzoiHnQjlSDVMQqx2K8MIfh7mFVvGeGbwthxU8HYurg4xGtL1EcuyuU8mWtd2YjpuXQX4QS789u1E7hmFVnMRRhgqk+RAOh+ys9Pp7H2JgIfo0JNTnZiIi3yeUPViNkzqi/Z7h5SE6KRqTG09ScPXV/SgKkE46F5KG1C1/sUbOXr0v8DyT3DXnOc6fxWBBPn4Ozz2nIR5B9+fIijyBU6kW9D9WSSY3WF4zHwjO5BK89WKJyNOxgvtNd2+w+421FJm3Tk+5VaeE5CXc75+3BVDOC0tlixCNAEUPL2RSd8brTCCv5e0hFv6U+Hd2MtKXAdSY1/QpxPyWw+sgr+817uGRvw+lamHCHhnLAU+NqFipa2GoT90YcVK3IyIABU/43JHJ4yBoq64Yskg5NC99lVtTTNgU0N+iFvaa6Li8E6jOj6bNukJ6kBMaZ4tDhaFmHGksGX9tXbWGmehAeDDoKD19a3yXVyw3V/S9K01AfjaP54cMnQ9FOwtMmxvCJxCItz7zLNjg==;kblGZ56CETJFYUxmlr9wjw=="
 ---
 

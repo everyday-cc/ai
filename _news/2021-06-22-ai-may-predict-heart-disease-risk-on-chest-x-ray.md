@@ -7,7 +7,7 @@ originalUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132723"
 webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132723"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI may soon predict how electronics fail"
+    excerpt: "Think of them as master Lego builders, only at an atomic scale. Engineers at CU Boulder have taken a major step forward in combing advanced computer simulations with artificial intelligence to try to predict how electronics,"
+    publishedDateTime: 2021-06-22T12:52:00Z
+    webUrl: "https://techxplore.com/news/2021-06-ai-electronics.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-ai-electronics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-electronics.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/electronics.jpg"
+        width: 1920
+        height: 1304
+        isCached: true
+  - title: "LG Electronics unveils AI-equipped digital X-ray detector"
+    excerpt: "LG Electronics Inc. on Tuesday unveiled a digital X-ray detector (DXD) with artificial intelligence (AI) solutions as the South Korean tech giant eyes to expand its presence in the medical equipment field."
+    publishedDateTime: 2021-06-22T09:55:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnIG5M7bKrixfE%2fhnaZv1Ww%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 17
 
 secured: "BvxpJEjmn0Ad6zrRU3K2aiZo3I9MfoUE7zvbdB9oysQdNuWq+fEiH9USgnaGKaP02LgUcTC3HCiHcFsVTE4tZZEkLcyl+vLj4xg34KTF3VyHQVhQI3SPnM0JOClGUgx0q9CHdnRh5Si1uYd8OdnRcFFIhAXG1ygFbK2ZvVj9wEXbaTV1axj4KZrRj4ipa0azb4hxxBF2W6Ly6Mg6G53zQT/HeQr4mWLCMbOO10w+ygKDfiMwwm+iNeRo4KjhgjwmcPXaKLBOXIugPh1kHgMbGWVaDv6J3+9LFG1ISN/PNjcCF5iZYNNai5udfmlp6pmaoVm5QepK6+6gND4oG2iRo1fIORF2GUEQnrtsWbh1rK0=;5hZdCIRMIZZYEMId/fJ5pg=="
 ---

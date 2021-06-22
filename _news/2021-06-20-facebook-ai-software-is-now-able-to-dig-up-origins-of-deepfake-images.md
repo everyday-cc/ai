@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2021/06/201128738_125596109600498_3035022110971320247_n.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Facebook Baby Steps Toward Identifying Deep Fake Images & Their Source"
-    excerpt: "Facebook and Michigan State University have revealed a new method for identifying deep fake images and tracing them back to their source. Or, at the very"
-    publishedDateTime: 2021-06-17T20:12:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "MSU team develops deepfake detection model with Facebook"
     excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"

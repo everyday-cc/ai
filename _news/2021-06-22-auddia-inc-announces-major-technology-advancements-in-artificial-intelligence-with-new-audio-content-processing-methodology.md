@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Auddia Inc. Announces Major Technology Advancements in Artificial Intelligence with New Audio Content Processing Methodology"
-excerpt: "(NASDAQ:AUUD) (NASDAQ:AUUDW) (\"Auddia\" or the \"Company\"), developer of a proprietary AI platform for audio and innovative  technologies for podcasts that is reinventing how consumers engage with audio,"
-publishedDateTime: 2021-06-22T11:00:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/14067766-auddia-inc-announces-major-technology-advancements-artificial-intelligence-with-new-audio-content-processing-methodology/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/14067766-auddia-inc-announces-major-technology-advancements-artificial-intelligence-with-new-audio-content-processing-methodology/all"
+excerpt: "Reconfirms guidance for full national launch in second half of 2021 BOULDER, CO / ACCESSWIRE / June 22, 2021 / Auddia Inc. (NASDAQ:AUUD) (NASDAQ:AUUDW) ('Auddia' or the 'Company'), developer of a proprietary AI platform for audio and innovative technologies for podcasts that is reinventing how consumers engage with audio,"
+publishedDateTime: 2021-06-22T12:15:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/270003149/auddia-inc-announces-major-technology-advancements-in-artificial-intelligence-with-new-audio-content-processing-methodology"
+webUrl: "https://www.bignewsnetwork.com/news/270003149/auddia-inc-announces-major-technology-advancements-in-artificial-intelligence-with-new-audio-content-processing-methodology"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/cus1624252736690.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Corsight AI announces pioneering enhancements to core technology"
@@ -49,6 +55,6 @@ related:
         height: 628
         isCached: true
 
-secured: "a5ijShD2z1JvxDXHJPrCJwvAawzx9ZKKUPctZYafWCLqYdpbTv8KCFthtrVrz8oiHv7JIgTuFR6ce6518HOH/NjPLYL4HSMaXE73Z0aCKZsh97VCmTSY4JZxLYNB/7U9ItZTBx17u0PBeACAZgqe42ONbii7V3TSONIt001CAYm0ON5EC6I5P+RyvjPFiNYkM0HCf7JC2G+e1Y2guvd4ARn8jJQ96+Macf7OGMIDvhPa2sGAqcXyH3VeeoPjHL3/ouqHGPuSvq1bXmkWzKEsuatEfjIkfTWm37mulLqsdrIM3jKGgoq07GCvNum9MHfkNsnTwTSAzxQl6zdNpHk9FvAiF+QAMSiFM9P/F30HJPc=;XixqjwsF5KvN5IK/P+ZxBg=="
+secured: "NjwGI4CR1KNnnY04eiE6Zld5IvSPTtiZv93s531UYU5tfUNNRrREbV+nMYe1hFVWJfh+n/W59tzjWvSFK6XNocO4uRUXuUf+2KDX5tUvlimzAytES2vfQ8otpLnUdEmSooQMiJ9WbU3MBGj0lyk/a6Y/1iRL6pEoKcvuMdBxejJ8KTolTxpZ7ixwlTkCvIf2OsHkFAPIKZTfrFRPv4At5Y/U0ghIRWzmTV9h0K9qnq7gf+v7aI97mzinosQp28ROJPHqGY2l1YLLPV0tTOY9cVpX6sywnLizIOmoYBIYcnJwTyhKIwafsn1+THq6ajutC450dsJTUUUVXNSYvDCXHM5BXJmUJ+I4zD4wRx7XJyc=;VaapMTrsz01/IrANhAgkDA=="
 ---
 

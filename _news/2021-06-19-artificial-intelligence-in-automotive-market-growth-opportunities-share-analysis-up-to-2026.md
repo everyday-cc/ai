@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
+    excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-22T12:22:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142271/voice-recognition-market-size-share-to-witness/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 2
 
 secured: "d5NDb0B7bPAb7Xmgc14/3pB1WHhpktBoSmePwWpQWcSItAari84HZsEtrqXn2hdiBJPazy+QP1q1A86w6JfMnv/Ogav2fiP5kj6D7MzbxkQBW6m+XOxXhd+i1t30Xs/RSML9BY/olgOqJnMdreUZnJXwGQsJDFQ4+E+Uix3Azhgysewp8FsMv9K7s5acNWgkpT2pWBx7auCRhoqxDjAhVGrp4QawAq7wz14EIwNUBpQGYftIn9wtABjSYnx+qxx7DPNZ9vIXmhue5qxhf0Ypn4Dm8WrPGOe+nU/LqV7ynSUXgxNFbVDvMyS447P+bFanBXmS3QlKdKE/lG7tW9C3LPt15xRfGGvVU9hNZ1EPqGk=;rrl3egLbFlju1Xp+3vbvvg=="
 ---

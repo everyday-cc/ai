@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/speeding-up-machine-learning-for-partic
 webUrl: "https://www.miragenews.com/speeding-up-machine-learning-for-particle-581743/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 968
     height: 725
     isCached: true
+
+related:
+  - title: "Speeding up machine learning for particle physics"
+    excerpt: "Machine learning is everywhere. For example, it's how Spotify gives you suggestions of what to listen to next or how Siri answers your questions. And it's used in particle physics too, from theoretical calculations to data analysis."
+    publishedDateTime: 2021-06-22T13:39:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-particle-physics.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-particle-physics.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-particle-physics.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/speeding-up-machine-le.jpg"
+        width: 968
+        height: 725
+        isCached: true
 
 secured: "5exjltTUIJBbwnPWNZnF5Cm/5LxooqVVg6HHmsEc2P0gwzvDZ5IH/FGo7Jd4w5myQnuBvUsFVB5extsaDRnGUmFDUUQClTSrThc4jS8624T/ledJPBnfHI1lmSje40WxnHBfPynfCu4dhAn3JkCVPFAA9qR4yqhd1tHoZfnwfJBhwkrW2VTjmA44iRY45ZLz5av5Qb0MqZ/GQxRQt2mglBvJqeyUL8kbbshxLBBfGfjZHQCH77kuNHisFcPU/mtsyjibIGUgPxwuBoN5/i5Qb3vuyriBQXPezuLlNcWFd9UbQ+F+bteqm5P5X099fchCfB0itggl0RY7xZRoB1UK9o4s+JomJIwxNmWp0sNuremIrJTV/hBWKA0+aICdEjYFgQFXt59rOhIjrC0rV0XFDmxlItMfT2EuGdeJSO6YPsbX+fZtcUutVIbvdlkCNhPxLhfn5Y6nH5K5OLmwFvCzcMqCDiIYqP+tyQtb7/CGOdht6V5pD20PFBlEc2o0z9rKacDutHus4WpKyVyhYSKMAA==;nD0kQTXhMDaPML5NyKds7A=="
 ---

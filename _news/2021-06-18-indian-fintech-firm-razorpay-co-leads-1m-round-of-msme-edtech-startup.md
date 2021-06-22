@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "There are 100 UK tech unicorns, a third are fintech"
-    excerpt: "Of the private companies that have achieved a valuation at $1bn or more, more than one in three are fintech firms."
-    publishedDateTime: 2021-06-21T04:42:00Z
-    webUrl: "https://www.altfi.com/article/8024_there-are-100-uk-tech-unicorns-a-third-are-fintech"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/there-are-100-uk-tech-unicorns-a-third-are-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
     excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
     publishedDateTime: 2021-06-18T20:05:00Z

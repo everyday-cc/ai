@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/senso-combines-digital-entertainment-artifici
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/senso-combines-digital-entertainment-artificial-intelligence-blockchain/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blockchain Intelligence Firm TRM Labs Raises $14 Million As Digital Currency Adoption Grows"
-    excerpt: "Bessemer Venture Partners, PayPal Ventures and others have invested in a $14 million Series A funding round for blockchain intelligence company TRM Labs."
-    publishedDateTime: 2021-06-17T20:59:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/blockchain-intelligence-firm-trm-labs-raises-14-million-dollars/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/blockchain-intelligence-firm-trm-labs-raises-14-million-dollars/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/blockchain-intelligence-firm-trm-labs-raises-14-million-dollars/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 47
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/blockchain-intelligence-funding-cryptocurrency-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Sports Technology Market will accelerate the Growth due to the rise of blockchain technology and Artificial Intelligence"
     excerpt: "Sports Technology Market was valued at US$ 27,589.5 Mn in 2018 which is expected to expand at a CAGR of 14.7% during the forecast period Sports technology has been significantly adopted in outdoor sports activities such as cricket,"
     publishedDateTime: 2021-06-19T06:20:00Z

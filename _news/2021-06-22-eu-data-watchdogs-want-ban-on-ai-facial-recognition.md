@@ -1,30 +1,27 @@
 ---
 category: news
-title: "EU data watchdogs want ban on AI facial recognition"
-excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
-publishedDateTime: 2021-06-21T17:00:00Z
-originalUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
-webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
-ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+title: "EU Data Watchdogs Want Ban on AI Facial Recognition"
+excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy. In a non-binding opinion,"
+publishedDateTime: 2021-06-22T12:54:00Z
+originalUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
+webUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
 type: article
-quality: 76
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Security Week
+  domain: securityweek.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
-    width: 1920
-    height: 1357
+  - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -74,6 +71,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
+    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
+    publishedDateTime: 2021-06-22T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
     excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
     publishedDateTime: 2021-06-18T08:08:00Z
@@ -89,6 +100,6 @@ related:
         height: 289
         isCached: true
 
-secured: "TG0e8y9wqPxW8O2r/77BHi7sIl7rbLc2iYSUntrJ+AH4mvtUMaAbM0QSmtbcfvcHOh0tXYGcMLqY552on/ZSV36zGz/IGMhpYP6BIUrz6tXGAgB8Eyg2lxZUcDtZIHpYPoajUlnu9Z8+XPsTxwqwtinV9oMmYrYOVimRRYz54H9AQviQOEXvroX3paSRrqqQq9250L04aXWTqbsojK/ODrTBZD6W3LJy0YUnY7PORrEB7thCCNXIUH4/9i4ykk+vzCjh5EsUZGWPAHWTKOZoDqMT2kCE44yCteEwSLmPwfEzmQS6nZH7d964FZirMBuz7Osd1HtHgFG4pjOS2uXwzgyiFrgIpz6tvbfbvuOoyi7atGwTP8Ky5AffktBF+ARp5gEPEwFhRWmgRGybBsJXtuyrkJTjEh0faXiApHgoBcouaPDsfKSlOlA+dd91XLywkMI9Crfe+UB5hem+61ICrC95bKGST9AlOELkeEaoWHIiCPNy2apjQVt6qeEuP2Qk05xRXzspa4FFxW2CrzVL8Q==;waD10yfJtxCaur2Tt0hfmg=="
+secured: "oXv5qF4kVnXDoy0kwIP/zg5FjYIF6CTn2MnC1gYKltI0G7ZAkIZV5zf8xTw8O0cJ9/6QIcbu+I9Q0Kka+u6CaJM4lo3FOzeikEfX/iibuzAyFc2Ln3r9wzarnPi2q4rLtJAKzh65Iw4dTm2Z9UBMvvY0xZnDjdGOeMF+bzYMhyxS9Q523fH936Rt8l2QoOdSBXM/Bwx5QvYsovZSFydxTiMKaAX8bTvQhWvDBIECS2BePXqLWghUrEC68vHSpJR2JFE3dpBKKY8eQqYBvwMajo6IJyBTlUNyv0cObCgq17k5gcxHYsLJJrd6FpMmz2j/a8dXkcgL9y6MCnzZ2mME87i8bVssGS3Vqz/oTz2sMVs=;tmTuKxVaxysOZDzHxfKHWw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-22T10:01:00Z
 originalUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
 webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - Microsoft AI
 
 images:
   - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
@@ -43,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "9UBB237bzizCgm6cEcFgzrzELjAQo/AMJ2FB6QwRRNyjgdTi0uGXJ9oXmNh9Ydg4GByVZYMLQPCelpH4G8581R/USkdOi0tsreB5P9NJl67EEpenQuscoJ6AmjI+SO7tiTYQ7Wr9trWp8UEYRKsbacyP9yMnHv8KozG2FToO7ZQZ68tVuROpWIGOpf91SgVr5LK+m/7zchCz0iTQEm2xfKj4JXqqs7HqgmZDSgKpP4Jy2bUunedZ3AWrdVVIJ8o1DNmGkJWBDXQ5mfU2syGLcT1uJaNLEp6z+WZ1pVX6XYElO13gdRIQGgbYYGw4cCzInzd2UWktkSAOYEC//ZUmlLYnR6V1SqtbOry+yoCb1BQ=;vB3eDF9UD34P5Fx2YRM6Vw=="
+secured: "0kDneN1saKFZKKFRQF6xv3431XAj/TLxZQB+Fe5r+rH7iM6tKfeu/QRhhD8LGUDj7HyDwUS+oGTmQoLOK89FNjhrYBefGu47C9yo034AFoOCv6CctBW4sjt8hi1hLpcmcR+SKxD51b4urfKqJtxqh3CCyBnwGB6zMC7pKdKJhMPeY5umvNkawYY9q13K5lvZgWTzcgCOYl/cXADTKYCf3HuJlFI4PTA9xDUp9NV0+O91JixM33nhnwXZY1BslQceInAsA3WUXQ+cp2QbNdIVoBWPHGHeUDoPXc7qp2cqz5C5mylrTgqpnj8WfloYhJpmzAkdY0BGi6/q2tMErXFu4aNFeWH0EyRT+GE8wcSGk4iFamwui30KhSB0jqXjaw/Iem1a5A9vR0IuZdejwR6RiagPlR7oV+3f9fXi5gX/WJEQE3jIJuogKxk/GbQogETTmCPt8VKbqh3Zbr1wQ1Xl48AGzQvnGMZZ9vWCc5/Zhw3vptwZ1FxCsGR8nT6ps7I8ByZLqUGMIBQmtIyyPATheQ==;Z+OsMVqSWUg3eB0HfpCYUA=="
 ---
 

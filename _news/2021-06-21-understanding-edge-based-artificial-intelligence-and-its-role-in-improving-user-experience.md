@@ -34,7 +34,7 @@ related:
     provider:
       name: Information Age
       domain: information-age.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
         width: 1080

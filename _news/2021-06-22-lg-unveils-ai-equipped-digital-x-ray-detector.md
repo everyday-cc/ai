@@ -34,15 +34,6 @@ related:
         width: 950
         height: 594
         isCached: true
-  - title: "LG Electronics unveils AI-equipped digital X-ray detector"
-    excerpt: "LG Electronics Inc. on Tuesday unveiled a digital X-ray detector (DXD) with artificial intelligence (AI) solutions as the South Korean tech giant eyes to expand its presence in the medical equipment field."
-    publishedDateTime: 2021-06-22T09:55:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnIG5M7bKrixfE%2fhnaZv1Ww%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 17
 
 secured: "M3CDPkUKwwvnrK6C1YGFNw18aw2GkQyBvu5TpBDuuoGFlhILQYMUvaMpPwhAmUzjH1SW87ghFMiC4XFQnhbFv/LaOYGPec9Ckyai4A8DRPf/qxNLx4rV9A0+6vZbetlM+UfuErEhHaSrDnszz+2H/aQXbUva3yDSFLvYSRSFakkpFR7v1ajf4oOLLdG5TKoihQgm+A3E96Ak0jPmkn5XTKyxuwGqWx7ahXtpL3QGzX9C+oFe/tC2JZh8xPiCSKzTHQzUy2JJFvUA49jQnYwNYfqcTRw3fp0zZNjN9WRJgSqetgj1OGUcwwEHu7tXadCD3hyPlDU8a0g6yHGzV2JISxqibkBHw5L4kDMY4BEgu2k=;Us20Q0C8CJx1lCBGmocMPw=="
 ---

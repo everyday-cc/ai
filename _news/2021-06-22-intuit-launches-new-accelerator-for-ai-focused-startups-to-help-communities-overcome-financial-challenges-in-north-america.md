@@ -1,28 +1,33 @@
 ---
 category: news
 title: "Intuit Launches New Accelerator for AI-focused Startups to Help Communities Overcome Financial Challenges in North America"
-excerpt: "The second annual program invites global tech startups with AI-driven solutions to apply to the latest edition of the Intuit Prosperity Accelerator: AI, powered by Highline"
-publishedDateTime: 2021-06-22T11:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21661492/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-cha"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/b21661492/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-cha"
+excerpt: "Intuit has been investing in AI on its platform for more than 15 years. The accelerator program is designed to leverage Intuit expertise to help startup participants unlock new strategies with AI to benefit their end users."
+publishedDateTime: 2021-06-22T11:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394716.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394716.htm"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
-    isCached: true
+related:
+  - title: "MTS to launch accelerator for AI start-ups"
+    excerpt: "Russian operator MTS has announced that it plans to launch a new accelerator to focus on support for start-ups in the AI field, reports Telecomdaily.ru. The accelerator will form part of the AI Centre of"
+    publishedDateTime: 2021-06-22T13:36:00Z
+    webUrl: "https://www.telecompaper.com/news/mts-to-launch-accelerator-for-ai-start-ups--1387579"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
-secured: "gpHri2lzgWPTLAOYiDq0mdKL7/Ys4uqHE/0uFmjLxWGvc+d3SK2srF2os6y+omZmcsgU/sOclzlfi5R6o8GO72wSh9ouKEHulgRRb+8nRLB9J+dc5zfLlpQwEi0Q7s3+HMHqalbIHZGtDDB6Wjw9ecMpCHweyJS0qDmJPTI1BkMq1pbR2Y/+CyUYvuRkK+/j1ijffCjX+SmymXiC6YSfHZTsEL9/AfSLRn6O1O4XPQ6PTysW8ya6aa2AniLmI8bFXdr0H/Z4qVGoYbQiWrogST1UfhOqbvrDEEzDWcsiKwsMeLzZXYzC4eXNAledC2nKfpXC7kA/QHq/kpPAdbzPcFmZjmoq/8e02+R/x3NCJz0=;vlDing2u2pMeGmAhCbGTWg=="
+secured: "7emyLhKO7eztLnKXW/3JGSZMKSJ+jbUqFbWws4C3Gq3LFyVdb4oTR5c3fZ36z8x+m/z7198rTsghKKLztwRarz/q4OeWcZosAvV80PyfWBpiyXwttsOsUrcxs3w6nwH/9IDl9hxGcxGvZYiW5gjmvYRhF03TPICTA+8h3Nm+QbHtMx7ZppyIWGx8//WwJF4QtLbQj75jHiE+9j0NELVKSZs6kqezuvmbpNqbS9Hxjg4W6VH/vCTXRdpt5NOdhb31ZyvNWQ5FBqC6GxDs3WSg39eIvcE8ZMWWYjOeI9ZllG6TCPBUaqyC/yg21eo+PI5iu9Jd3TdTkSIVMjtb0Mxir9xqYDgfLj1hH9UfN50M2B5BAO2ZVjqGyvezphdsMOJciUNiJKqC2ydPW/PgS0+08GT7lWUKONXTXEyY6h5ZMHRTc3zg6W0vyd/ah5Jq8BgBim9CeMI5XDzcwJk22X0oQ2orNteZsQXOsjJZVGQKOfnpj0y67APHOmtRAEO/cObM7n7tYyKJlguMEgfoqyyOjg==;og0z2hxBWaqV6nMfilvE4Q=="
 ---
 

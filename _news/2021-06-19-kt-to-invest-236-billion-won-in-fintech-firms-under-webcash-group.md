@@ -28,20 +28,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
-  - title: "There are 100 UK tech unicorns, a third are fintech"
-    excerpt: "Of the private companies that have achieved a valuation at $1bn or more, more than one in three are fintech firms."
-    publishedDateTime: 2021-06-21T04:42:00Z
-    webUrl: "https://www.altfi.com/article/8024_there-are-100-uk-tech-unicorns-a-third-are-fintech"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/there-are-100-uk-tech-unicorns-a-third-are-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "Vpz7D2eBdWyHKKbFrsds+ePfBhBbdD4JQqemfAzfKDQ45oaygEzpmvSU2g1J+3FelmvZ8qYHBBG3Tc89McWD3dXILgpGIfr3lSIdG5kvas7ZTzY6wAOQgWzHe6bYstA3Ap4nT8C+8F5Q0wTGtiXgnR8owB4wQNnkX5FjG2pJqy9VAsmaBgtIucepu/N7lTYZQbLKTtJobj6BhIqal+rc4kgxYdZEU+iRSw8jrEmg7F33IDwQXpugnOiAktIWDsA7c9irOTQQ61Pl1J27SRUnhx/YoDpcRhyB3UwBn3zRQwQovQOSFBrKjL0fuDW9ZrtjFNUA6ayaqD+5Iyb98MGV7OMdPO/7OdCHCJkP3960FfjX+0r3j1Ibd9V2N0P7rMrwN3E9U4WfeW3W3WywHIHySZTnbN/QZ9a1EI2Ch7ogbAKapqWQ8bFVnwloW0O50+S6yQdiNa18W93tZ9y8UG8Ccog6ZuPnkR62GLtcuay0wg0UKbAtdd1SvXjiEXwg6IybJWPQFtZcgfyYpE149qgWPQ==;gKWL922+HkL+K8GzzlhxUg=="
 ---

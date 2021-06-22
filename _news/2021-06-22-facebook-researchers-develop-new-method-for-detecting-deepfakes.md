@@ -61,22 +61,6 @@ related:
         width: 1600
         height: 831
         isCached: true
-  - title: "Facebook Baby Steps Toward Identifying Deep Fake Images & Their Source"
-    excerpt: "Facebook and Michigan State University have revealed a new method for identifying deep fake images and tracing them back to their source. Or, at the very"
-    publishedDateTime: 2021-06-17T20:12:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/facebook-msu-identifying-deep-fake-images-source.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/Facebook-Surprise-Illustration-lol-AH-DB.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "MSU team develops deepfake detection model with Facebook"
     excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"
     publishedDateTime: 2021-06-21T17:12:00Z

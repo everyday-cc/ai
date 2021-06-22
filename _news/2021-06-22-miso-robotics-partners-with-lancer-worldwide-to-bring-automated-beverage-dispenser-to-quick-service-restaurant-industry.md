@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer
 webUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 286
     isCached: true
 
-secured: "glG275uBF0vR5h3Wx6z0e++uBZRAT2ULlBFcNGkoPD+o3ud70tt9o22qRv0TgFvhBkG/cMLXnI8LniAnJf9GwBAHaDxyB1uVeGm6mfYsL/6iigjq8HhP1Nn8N0pmC9Tbi/uflhNNAP0JsgM3BZPiUD640n89KItuQJfC6uIWng08y+n59xckPZYhlG3fqcYoZZG+7qTW8u+zmEeixddwRO4Ii8RVb/lBM3Yi+eIotaMCTX7d2tFhaz9is24+MKdvOkbo/EQ50H7oJYTZbps7vghBGGTvTEFKya7alxfW3zCwKUI09TFQMZaILdGOwrQTdNJtQza+qYcDDiZ+cYO2PJGIvSO8F3Ym+8v+bldhZ+Q=;vkv2VdtT/6M4HWL7fTcMLg=="
+related:
+  - title: "Miso Robotics unveils automated beverage dispensers for fast-food restaurants"
+    excerpt: "Miso Robotics is moving beyond its grilling robot Flippy to launch a new hardware and software-based beverage dispenser to help automate commercial kitchens. The Pasadena, California-based startup partnered with Lancer Worldwide,"
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2021/06/22/miso-robotics-unveils-automated-beverage-dispenser.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
+
+secured: "/M/7d+rBRBQ4nab3JavHdjYvgGzN+UVrupilA5WGk6ORHf+Zrp+xGMoQp1zqgfNyGwoToFl3r7KRv2+bK731nNi/p3GhCJBSZo14kdil+jr/wttw3mZ2BMWGZ7mEcTnGJ3TmGAKjfHne+eKcgoUIH74rHSFRqzNr6U9zihYLkvMSyL5Zz5LA6FDkDdhnHEJV683Y/KcHs6DAYbLkYmz7lBRZGsJzt2NaGCAiXqTinViYV4yJ5cT1dPVngJK9wAdT/48aFElBGT9wHCMibt5kYSRhOztLoFEe5SiQwRmpftjOwLomub3/Qm4jgdbX+LhwE5jQDh0aNYFCLsc1fq8Nh57ggtBmsHUY+UvORj4yjRI=;4uo/chNt/gyajUMKCQGPhg=="
 ---
 
