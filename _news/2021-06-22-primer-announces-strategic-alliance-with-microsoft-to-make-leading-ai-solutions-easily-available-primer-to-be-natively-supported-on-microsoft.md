@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
-excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading AI solutions to market and making them more easily accessible, especially for government customers."
-publishedDateTime: 2021-06-22T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
+excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading"
+publishedDateTime: 2021-06-22T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
+webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
 type: article
-quality: 12
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
 
 related:
   - title: "Ann Arbor’s Campfire Interactive Announces Strategic Collaboration with Amazon Web Services"
@@ -35,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wcSMNiGm66Lvc/fRCdKaAkdt8TBLpgEZQhIWL4qnVQFpcNfabEFjsdg9IgF4Xa6WFQ19lucvEAHIJPSkoDRZwxDuJM9sYOwA6ajS1cewNRwgISkIrliJN0DjhzTHU7WAUlJNSwUiBnELQNSHzaHy2DrazyEmwWiw575x+y/2tUl4GIaKK1sROI0/gaE+9ZVsmtnIvYKxhMlqXuFnEnf7aXo1U97olJ8oWXEiHqE1yGP0oKyMZotuz5c8CT3wJtG5G95hpi0uoE7iGeLhOmqbLYmrI6UR/7ROMQnrIiNbvCRjG2sModbIIo83VSXXB/DSGN+YK4ihc7p4VwJuFt/Lzpuy27vXblfrfHCDsLg64r4=;OTn3hh6yXYHMTrd4/NAhSg=="
+secured: "WuCsRrRXCiyTCcRlkoLDQtuKicRjLElIh2rF5wse2qLwMG9kOQxj6htU0u6CdS/Ysnim1kLIB5QZsXNDYJ5Pq5MgNy7K4byM74HZOKkXtBcBLVfadLb3M6pK8bTDCP4Km0eeDbVs3zyy2UWcZpCPvzo43ZXVGrpbI4cp0rSIUf3Tswe2QUiBYLtmCazkd0TWdYTMlvb2RmtC3mtbFsQBcgO0c/IwR0IgRS5EHohhuaxBsvPPvLrE5g/dHEMYw+Xa48y3EvLGN3bOvUpFTh0T9LQrtJk2d3CPVuZgbJWBL3+oZ38gEa4O++vKCAy4VUpYQU2PjFz8Uw6kwLPu2q6+dLdDIFvpls6RfGsdBYqTxS8=;3zzaygrqJ3jm3PVYOXNHSA=="
 ---
 

@@ -67,6 +67,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
+    excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
+    publishedDateTime: 2021-06-22T15:21:00Z
+    webUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Nvidia’s LaunchPad delivers instant AI infrastructure in the cloud"
     excerpt: "AI infrastructure in the cloud and at the network edge. Announced today, the new Nvidia AI LaunchPad program provides customers with instant access to the entire spectrum of Nvidia’s AI computing resources,"
     publishedDateTime: 2021-06-22T13:00:00Z

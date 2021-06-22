@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-06-google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages.md",
+      "title": "Google introduces Woolaroo AI translation app to preserve endangered languages",
+      "excerpt": "the tool uses machine learning and image recognition to translate photos of objects into indigenous languages in real time. If multiple objects are detected in a photo, users can scroll through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "originalUrl": "https://www.zdnet.com/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/06/b58a680a-b1f5-4771-9d58-e0fc28d9aff5/gif-woolaroo-on-google-arts-culture.gif",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-introduces-woolaroo-ai-translation-app-to-preserve-endangered-languages/",
+      "publishedDateTime": "2021-05-05T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-googles-ai-photo-app-uses-crowdsourcing-to-preserve-endangered-languages.md",
       "title": "Google's AI photo app uses crowdsourcing to preserve endangered languages",
       "excerpt": "give cultures the AI tools they need to protect the languages themselves. The company has launched Woolaroo, an open source photo translation web app (also available through Google Arts & Culture ...",

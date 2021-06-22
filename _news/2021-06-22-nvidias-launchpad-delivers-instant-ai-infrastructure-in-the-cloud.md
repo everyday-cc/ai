@@ -79,7 +79,21 @@ related:
         width: 608
         height: 457
         isCached: true
+  - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
+    excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
+    publishedDateTime: 2021-06-22T15:21:00Z
+    webUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
 
-secured: "KnikkwzcW0UVAzsP4nsJFOuVyIMdCcFMwsFaZlioWCWNgrXOiIC1BkjQ95IMOQN6s/UaHmqAnf3GTW33wT4FweGmnLwwinvpA2ObSNprhjgS+GIdcvtIOSjrZ+530H9G4DZ85kWJbHJIYxZ5xnXav7sU3NUP7wio/3czPzKBw2QVwrVKuGUjfIRs0x65wONfbICKdRPfPD6KoarCWWDyZ/bAiWaKInjuhI4ck+Xu457NQ9XITHtbBRZ+HIghGRqenaT9xhWyyqB2JtrJIZtdVZ17aHrKsqepQqv94O61TgRTyRZzMac33vrBxc7+TOjXzbexzQDO7tLX4T9vCAI5KoWjNpNbuo+GurfoLCr8y7k=;5o7SSfi5/9x86dti9uaHUQ=="
+secured: "RV6c6UhDrNWyWx8SvBrD3yYCGm538lhMTfnSEmdqbpJ6d3L7PRqD7J+A2e0A7zwKhnASpsz8xWMSexnCdRzfAbhyph5SEFxLboYiBXBARHC1xp1hHHcj5sma6ydLjIaVepCeWkQ5EnEEaxGEUG3gtGFnsYS7Eh52iociTExAbbH56IwFSe0jL4+lcWjXJUe2yeaGJpe5vijmCuKv85HTJEf+y+gKwqZHV2CAulK5vccGlawFFq5pAOVFhPs91JprYPR7YmqDYquFYddwYjSu8G5HlZBviqLhYxgy2OzoMTTDGxrNp8DciRX2VChzME1HzzTw6y+XiOxKwOwz6465ykgEQREEYhyhO2xGgic4Af0vnsTXv8KkVe40HBkPQuKHaL7zt210dgqL0IqmPcuiRdAA0hnfC9PnsmmeyG0WiAZn5XLc78+8X8+Hlrh687Y3ZnDHy1iekH6b1KNr1YGDneT1t0vaBuinlXv0MEXzVR4IlPFG6B4d5vuic7+x0rwLmAhzd3P+qzWFumr7Pu4eFA==;tHhVg0119xss2KWQcA+Jjw=="
 ---
 

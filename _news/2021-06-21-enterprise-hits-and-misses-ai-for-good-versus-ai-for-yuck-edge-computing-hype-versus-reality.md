@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Commerce.AI Launches AI-Generated Market Reports"
+    excerpt: "AI Generated Reports remove human biases and deliver accurate ... The company was founded in 2016 by a Stanford and MIT alumni team whose previous startup was acquired by Flipkart group. It uses machine learning algorithms that analyze billions of data ..."
+    publishedDateTime: 2021-06-22T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-commerceai-launches-ai-generated-market-reports-/2021/06/22/9395370.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "uA3Zvm72ZlnHCCwK3fv3V+fuilq0++hMbDT18UfJf1UEFcBVO/c7wov1gr2T3tNZCRjS4Ub+AExshk8qP63wBynRKObwv53kmwxpdwPbOfpI72nw8FqGcdglyNLYaHgyyYox3/Rfh0qbIEATqBHZOAViqWkd9a3/Gp7BbklcsZRSE2lNP7uGm5h3oT13x+S55lYQUXL6fQOxPkFonpMR24Epp//mAlHMPt/9/O10G2uwxdGy0PHZsrluybjFsle5hi8YH49imrMv0fA852N8ijI2ZACmcX0hLXUEGb8jgNzeZMifMF33nmqLll1jim0qcm53QQ4+pua0jMbBXrLXgvgblOKWZzZzfcQkBXqFakZYfE2+dZFodsL8X4s7oconIJsIAeKb2Lb79W81RJxC4sf9AuudTPiomtnr+aoU6cT/QzFI3/F0mFOi9YQzQSGjn+HP10HPr3oDZGZfXP0Hn71fhhGGla62JKzdDEzgmteqYOXpZFZvRtS+zswKhhqglWfRIkjIAO9iNbN5jypMuA==;JJNrr1pWnuEauBTwlkqjhw=="
 ---

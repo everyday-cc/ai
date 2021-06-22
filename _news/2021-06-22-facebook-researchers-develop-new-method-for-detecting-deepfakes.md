@@ -91,19 +91,19 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
-    excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using"
-    publishedDateTime: 2021-06-17T22:03:00Z
-    webUrl: "https://www.wemu.org/post/facebook-researchers-say-they-can-detect-deepfakes-and-where-they-came"
+  - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
+    excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."
+    publishedDateTime: 2021-06-22T14:59:00Z
+    webUrl: "https://wonderfulengineering.com/facebook-says-it-can-now-detect-and-track-down-deepfakes/"
     type: article
     provider:
-      name: WEMU
-      domain: wemu.org
-    quality: 22
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 24
     images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202106/1007488219.jpg"
-        width: 800
-        height: 600
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/06/deep-fake-img-1.jpeg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "/q/TbREu5DuMX+9Mro66dNDyZvMBBLqkY56wRVX5RVrOdliIr4UKNeB0AtJGo+pR8YUEK6Mm2DlEJAuP+EOsxcqwCyj4w8s3UWkz4irRc9+FrqgeJx/GD88yq1MqG7x65Ji0e3dLFQp2ZunFU1DqiTQns+DqR3GD4qzca8ADhntB+TU3peaemYWlC1Ed4KOpb4es3L6BwU61dB5/nXSaqIK25527FBjGYVuUbfMUcT5pUr5F94b731TNGBbZXXus20GVEQvPRy2ww8sa3ZCRSrdJP1kxPG41kWxOEMZcRQb0QQojlYQ6gqMyFQee78/CDZl7j6Xl09BeNvqbhBOQIBa0NKpw9We1CJMGLvr4/XBDXxWzw3lIxN548AQohnJoWiAVspwmRgVRZSrj8J5PjI2E00E0x2Nk1e2XIU1avJjI5LnRLWvt48YNeXhM1o2UaWQVIBohWcHtHMmd8pApeoRLLQVYX5BciaXXFB6vLTD+154mY6ZBMsdX7GEE835sNb0ycvCVJ29c9LAt0xZcog==;oEaQA39moeKs9JfYRdHzNQ=="

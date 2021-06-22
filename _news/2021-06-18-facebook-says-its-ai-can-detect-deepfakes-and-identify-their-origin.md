@@ -86,19 +86,19 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
-    excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using"
-    publishedDateTime: 2021-06-17T22:03:00Z
-    webUrl: "https://www.wemu.org/post/facebook-researchers-say-they-can-detect-deepfakes-and-where-they-came"
+  - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
+    excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."
+    publishedDateTime: 2021-06-22T14:59:00Z
+    webUrl: "https://wonderfulengineering.com/facebook-says-it-can-now-detect-and-track-down-deepfakes/"
     type: article
     provider:
-      name: WEMU
-      domain: wemu.org
-    quality: 22
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 24
     images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202106/1007488219.jpg"
-        width: 800
-        height: 600
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/06/deep-fake-img-1.jpeg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "E5J+jfju8WLWX91Zfv3rcI0rXjXqy8EOxEyabY7iQhkW0sSzQ80dPUJkFfrCRZmgak7ud8hClghAxwb9lsGJNBXWAUZNGVMNjYlWqXLut7H6bX8gzfcvBu6Ll0d8o2vN8V2/8R4wZjXJ7Bt8QlwfcsYTZxiJTlmxwvaI/tGLWBinvHHUMjBPsTREftnxKK4FxpMEMqK3TnoTQFTxylGNXL+0n2YgYlh5azosns1W6nOPooNX3WYNqHCq1+i0GIEKAEHkGO1oQRyOOE2xRQ12yHZV3tt1BhlzlM0MjE84mZ//7E7FzP1Id750h0NW6Ss9yJp1Sp+YZiChUZjaTj1Cet4P6NuhGge36W4Rfd0TCvc=;3hq2raxUBmUxkEZx+0VI/Q=="

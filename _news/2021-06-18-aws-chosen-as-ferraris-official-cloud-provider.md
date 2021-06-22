@@ -175,6 +175,20 @@ related:
         width: 1536
         height: 863
         isCached: true
+  - title: "Ferrari eyes road and track innovation with AWS as its official cloud provider"
+    excerpt: "The car manufacturer will leverage AWS machine learning, analytics and compute capabilities to accelerate innovation across its full range of businesses."
+    publishedDateTime: 2021-06-22T15:21:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jun/22/ferrari-eyes-road-and-track-innovation-with-aws-as-its-official-cloud-provider/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/06/dino-240937_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Ferrari Selects AWS for Graviton-based Instances for HPC, AI"
     excerpt: "Amazon Web Services, Inc. (AWS) has been selected by Ferrari S.p.A.’s for cloud-based machine learning, HPC and artificial intelligence. Ferrari said it will utilize AWS’s analytics, machine learning compute,"
     publishedDateTime: 2021-06-21T13:25:00Z

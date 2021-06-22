@@ -43,6 +43,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Massachusetts-based robot maker Boston Dynamics acquired by Hyundai Motor Group"
+    excerpt: "Controlling interest in the Waltham-based company that makes those unnerving animal-like robots now belongs to the international car company."
+    publishedDateTime: 2021-06-22T14:22:00Z
+    webUrl: "https://www.wcvb.com/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
+    ampWebUrl: "https://www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 70
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-boston-dynamics-spot-1592330458.jpg?crop=1.00xw:0.959xh;0,0.0276xh&resize=1200:*"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
     excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
     publishedDateTime: 2021-06-21T14:40:00Z
@@ -113,7 +129,21 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
+    excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."
+    publishedDateTime: 2021-06-22T15:29:00Z
+    webUrl: "https://knowtechie.com/hyundai-just-bought-boston-dynamics-so-it-can-start-replacing-us-with-robots/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 51
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/06/boston-dynamics-hyundai-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "ILjYVnCQLEIWSWjyXD0q0ktaFSRK80L0EIIrU3EqPoGIPpWpKwGh2Iwb2w4jogaw8mBENJoilb3o/TskSSnDwFergvLIpDHByC2YE4HlErRv9BitVXiAI0iyR5WQOmFOcS1K9/9HbbsDtv49Uqtwx3z/cOMtqk4yLig5trvazZpglIuGsmFa5Vt2TLTCLBTZQjhhLixvFIDPvHoG95VoZCOU+88PB2YxZKjIAuMk+8CxPw5Et9yBnMhFefczfH1Cc/ndN/+eSsrfcO/SqhF7IZvK41//CeOMYN79wLDjXHSOhNZLU+KYhnEMwdeaMXE9jhORu25XNyH7cglEMgL2jNmAbWZ/A9tPgT3RAiHH6Mw=;KuKx2oxLDfIAqBqMxNakWA=="
+secured: "JuvWkrPoouBuXmUGXB0azKmcfsMV/7IHDCrzOne9aBRKvn8Ky8NXZJvhrpEDHa8RaTwEudw0BYMVeOEm0i3kwm7OCqd58zKKX6+kvJr4odpAjpf7NA/MdnNtBJCdddtIIj18lwINHmAgtC49e/ROVBIE5t2R84/oa5TJym9ZgUtChnw6UyJkTXOt4xARGDTxOb7d9dpYzUMALsiifPRzvyIIGBHNCBsXuuyYOZA6oZ3ISN+nDO4Px/A+u/OdrT7+zL8d28/hD2CIMJoNS3qZSXf54gv8oA1OHI2qRUMW3K12iPl11cLZf18JKKYsuAzUaE0TebOA8isn9yBa0bhko33b97qmjagJR0VCWkSFQB8WRqdqLgRqOWajcBY5vwaaDWX1smBSPJ8v4l4zkxZKlYpaY30+AhStanUwR1ppKepq5SXm29FIDgO3HhF6q3mpaD/Mdpl8Dou69nW6cHqAkQ6ucvTE+Dez119bNMp01RnYCgzPCeTf2LZW6XDOShYqVNJ7vfu+UjBLZeC8KszLng==;e9J2uwXY7Ozt/x8xMW5oBA=="
 ---
 

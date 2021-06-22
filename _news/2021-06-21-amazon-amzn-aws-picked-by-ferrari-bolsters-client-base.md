@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/image16x9.img.1536.high.jpg"
         width: 1536
         height: 863
+        isCached: true
+  - title: "Ferrari eyes road and track innovation with AWS as its official cloud provider"
+    excerpt: "The car manufacturer will leverage AWS machine learning, analytics and compute capabilities to accelerate innovation across its full range of businesses."
+    publishedDateTime: 2021-06-22T15:21:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jun/22/ferrari-eyes-road-and-track-innovation-with-aws-as-its-official-cloud-provider/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/06/dino-240937_1920.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Ferrari Selects AWS for Graviton-based Instances for HPC, AI"
     excerpt: "Amazon Web Services, Inc. (AWS) has been selected by Ferrari S.p.A.’s for cloud-based machine learning, HPC and artificial intelligence. Ferrari said it will utilize AWS’s analytics, machine learning compute,"

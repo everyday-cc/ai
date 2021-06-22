@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Commerce.AI Launches AI-Generated Market Reports"
+    excerpt: "AI Generated Reports remove human biases and deliver accurate ... The company was founded in 2016 by a Stanford and MIT alumni team whose previous startup was acquired by Flipkart group. It uses machine learning algorithms that analyze billions of data ..."
+    publishedDateTime: 2021-06-22T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-commerceai-launches-ai-generated-market-reports-/2021/06/22/9395370.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "nBqgaIE7X8cFxT/E4p0VQ8f6GHAMSYxevzKqqMlsBbiRogTrIsBMyBsYga9TcswMr83oQtas0p8/EfNRNn3I3NEO687j2w8vBZ2q2mIASL/UMAJlVUTCO2lj+StrpiMx0cMAFO1l6OY16M8pre8in8Nx+UZQOxOaWD6IywQZNZ6e+rXzWTT4IkQzDE87kr+Ro9VfADnCexbNzgC4uu69rfayDzLti8aLv5FuCYlw1PJnovzMM+ZaEKjIHBiPRaJDNhPMxvdJHRMQGdrcfMJ/bX+2ZuEykgUm/XEx6J1czNSdfpmMkti0V43/Q2ujs28jqVyB5NCGXlWLIaLg/CqIzSpm/MDm/ICtFBCv9N5hQTI=;xE4sO17SBfRfJq1BbwPjpA=="
 ---

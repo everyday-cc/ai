@@ -1,27 +1,29 @@
 ---
 category: news
-title: "EU Data Watchdogs Want Ban on AI Facial Recognition"
-excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy. In a non-binding opinion,"
-publishedDateTime: 2021-06-22T12:54:00Z
-originalUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
-webUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
+title: "EU data watchdogs want ban on AI facial recognition"
+excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+publishedDateTime: 2021-06-21T17:00:00Z
+originalUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Security Week
-  domain: securityweek.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-    width: 256
-    height: 256
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+    width: 1920
+    height: 1357
     isCached: true
 
 related:
@@ -57,20 +59,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
-    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-    publishedDateTime: 2021-06-17T23:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Data watchdogs want EU-wide ban on AI facial recognition"
     excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
     publishedDateTime: 2021-06-22T09:50:00Z
@@ -100,6 +88,6 @@ related:
         height: 289
         isCached: true
 
-secured: "oXv5qF4kVnXDoy0kwIP/zg5FjYIF6CTn2MnC1gYKltI0G7ZAkIZV5zf8xTw8O0cJ9/6QIcbu+I9Q0Kka+u6CaJM4lo3FOzeikEfX/iibuzAyFc2Ln3r9wzarnPi2q4rLtJAKzh65Iw4dTm2Z9UBMvvY0xZnDjdGOeMF+bzYMhyxS9Q523fH936Rt8l2QoOdSBXM/Bwx5QvYsovZSFydxTiMKaAX8bTvQhWvDBIECS2BePXqLWghUrEC68vHSpJR2JFE3dpBKKY8eQqYBvwMajo6IJyBTlUNyv0cObCgq17k5gcxHYsLJJrd6FpMmz2j/a8dXkcgL9y6MCnzZ2mME87i8bVssGS3Vqz/oTz2sMVs=;tmTuKxVaxysOZDzHxfKHWw=="
+secured: "HjKHxW5NU63zolA/CeozlrdbOUYIW/fCHTiyh1Vs6tuJQJqvLQ1LE2b1qKhHpi5vWL8BJBVgETgW2yZuLgtsi3cvogOgoijKhYN1RhSNbLeoJdhpr77I0WPPR9Xi3fjU+6u3wPQnrY3388pAVwIzq9gNUTVlT6uwEOZIvXEFE/BpAGaQUdymY0/CaIH66eC8pZQx7N2Q8GVuVuLYG8JbVu9evanUSxq9gzFA9iC7P8ofgcEx1mhYs15dfmuMYXF9Er+ITkC/R1nS/l+cQWKKHfnjPWH6uFJfXWWFmMrlNwQXMQFfTMR9PkmxgllwHh04MHijqQ3Yvhhqjptljbn93uB0gq0kDMBSIh2m0cFCEAQ=;QEpxWny4HCClvkrF+xV43w=="
 ---
 

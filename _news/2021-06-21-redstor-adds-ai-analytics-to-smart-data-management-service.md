@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Google says AI and analytics can take its cloud to the next level"
+    excerpt: "Google believes that artificial intelligence ( AI) and data analytics are the key technologies that will be the impetus behind their cloud computing business going forward. In an interview on the sidelines of the Qatar Economic Forum,"
+    publishedDateTime: 2021-06-22T14:30:00Z
+    webUrl: "https://www.techradar.com/sg/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Aveni backed to launch AI speech analytics platform"
     excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business."
     publishedDateTime: 2021-06-20T22:02:00Z
@@ -36,6 +52,36 @@ related:
       - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png"
         width: 794
         height: 512
+        isCached: true
+  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
+    excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
+    publishedDateTime: 2021-06-22T15:55:00Z
+    webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 58
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
+    excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
+    publishedDateTime: 2021-06-22T15:51:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 55
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
@@ -69,20 +115,15 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
-    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
-    publishedDateTime: 2021-06-21T13:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88175/edinburgh-fintech-seals-seven-figure-investment-to-launch-ai-tool-for-vulnerable-customers"
+  - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
+    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210622005240/en/Olea-Edge-Analytics-Hires-Former-Home-Depot-Data-Scientist-Wariya-Erez-as-Director-of-AI-Analytics"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 31
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
     excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
     publishedDateTime: 2021-06-18T12:09:00Z
@@ -91,6 +132,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
+    excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform pr"
+    publishedDateTime: 2021-06-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210622005442/en/NetApp-Acquires-Data-Mechanics-to-Accelerate-Spot-Roadmap-and-Optimize-Data-Analytics-and-Machine-Learning-Workloads-in-the-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "g5OMbQ9AQHz6OK/lXmRcpfP4cb5IQWVSsGFU9pd/lvcmEOVwLSKiseh9tq6XPRKlKcenF2PFp7CIgepHd4mY7cksFgtKO6KxqlLQn5DMpDAvsYsh08yXGaOnHK/tjKz9I0gfMMKWzzUf+JGj+QrUPefAqdlBa+1oV1te+acuDNRvnqDcapGkajsXwKfJArrjyZdJsXwYuaC3ss92tUQNmkwFwESwTmuCvanjm7xUVnMwHo0GibheuctRQOniK+DjHwyzlFflyx6LUr1T15q+XDTIr5xb9undNr/vlz3F8HnWDbFu0qqmn/N5u+YPSL0kFRF3Shsn8YvIlhK3329j00s23as5JJLAfibxWEkmOfg=;xY2mjl0EREir+taetfHv1Q=="

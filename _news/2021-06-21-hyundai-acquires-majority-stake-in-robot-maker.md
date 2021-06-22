@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "Massachusetts-based robot maker Boston Dynamics acquired by Hyundai Motor Group"
+    excerpt: "Controlling interest in the Waltham-based company that makes those unnerving animal-like robots now belongs to the international car company."
+    publishedDateTime: 2021-06-22T14:22:00Z
+    webUrl: "https://www.wcvb.com/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
+    ampWebUrl: "https://www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 70
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-boston-dynamics-spot-1592330458.jpg?crop=1.00xw:0.959xh;0,0.0276xh&resize=1200:*"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
     excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
     publishedDateTime: 2021-06-21T14:40:00Z
@@ -112,6 +128,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/the-company-that-created-spot-the-robot-dog-is-now-owned-by-hyundai-163688-7.jpg"
         width: 728
         height: 300
+        isCached: true
+  - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
+    excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."
+    publishedDateTime: 2021-06-22T15:29:00Z
+    webUrl: "https://knowtechie.com/hyundai-just-bought-boston-dynamics-so-it-can-start-replacing-us-with-robots/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 51
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/06/boston-dynamics-hyundai-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "tadM5RfEnpetehTIHy+2snoQ7Ti+f0t5OSpKMPQUZD+wvvxnNcNwbU/3b68GjXIXDJeXEwdO2/JooRzMC/STbs94b9AxvQcC3mg8klTWbYuKUoZXfqjZ3Z7HqEpuxwnfiK4ONhc9DzpDXYuRFbotNhRnmuqAYYfQv8Cw46WqMVWdfmk22cVoTjm0baCF0FluuCKyh269JnPaOKnddxlXalFRmKYl4CbCFRqfRqnA4y1yjfRD2dHwgp+DXg4ojRXHChUdGYgaXpanO2scWg7/7h+c9vNDIhKFA+jRNaQizq/VmCeqt7J4cBSn8EPwa2YbzTUFND+Y+gcDNjXAtsFfX01CE5LibXasGgqjUGxF1MFEYu50c0xMBBvU/GYYeLDTOn9OOGRnQPati3EdXuiV1j55GmwUZF17V9IvlQaJ2woJc3tNzdjLGAAy0h7q2djvGK2PNaw1TzCkZ0/ZMpzlSGqYUFciA+wdNNwpS+Z0F01HaawFsYKDeFejpVKJFobje6cBrxvMZUvG8EM5VBlyig==;JkqsIJvu8ciIYXcZTypASw=="

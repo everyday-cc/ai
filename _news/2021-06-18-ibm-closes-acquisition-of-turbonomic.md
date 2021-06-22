@@ -49,6 +49,20 @@ related:
     quality: 54
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
+    publishedDateTime: 2021-06-18T01:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
+  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
+    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
     publishedDateTime: 2021-06-20T18:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192861&cat=PR News Wire"
     type: article
@@ -88,20 +102,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "IBM Closes Turbonomic Buy To Help Clients Automate Cloud, Entire Enterprise"
-    excerpt: "IBM expects Turbonomic’s application resource management and network performance management to help clients’ journey to the cloud."
-    publishedDateTime: 2021-06-17T22:31:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-closes-turbonomic-buy-to-help-clients-automate-cloud-entire-enterprise"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
-    images:
-      - url: "https://www.crn.com/resources/026a-128b62d11702-49e841c9638a-1000/dinesh-nirmal-ibm.jpg"
-        width: 609
-        height: 457
         isCached: true
 
 secured: "ct+EyuSqltcERC++JGSezFzcIiFL3yDPNx9JtDPOvNG1dP3Eh1/lUgl80jQjnnRy+dWRySav5fEBML8e4qkuCrL3CwBKTzxmRVZ/UG1zH1bkP3rJ4h25oGPV9Z9Y2vJ8ql09nzsomt0rQhB/JnoBrTn1jTZz0mR9hJzih+An0pB9FO2jKYrw32u7BVlVZrAKmUqnNTH9VOE7HMrO9g1qHC0CjTGjI+mH2SVB9YkTL9mFOH1QZW9aSoug8wga0bAaw8exAJpL7WGV35uns3xwG5b2k3TXeqsWZwKZor2xF6LnMOzSE9rB+GnwHKhiedOEtEwL/XywuJEGBbKOR1d5WtstWp2r3aQ518ZMLdynbxNRlelnAFYf3rz8xRiU9VvWwZ4nFJNr4prcUCDgCeDf/OTEFsOQ/oMyDakxj3wCzsZZEGrnaR7AWqfjfrgJLcvUvPZwhdaCr0XyAUCoATtXlYlMgpQQscHGXIVEV0JhfwSitxviNcjHXNlCwKb2UuYaC2XdzWOE0q6zW+FHeIUvXA==;OobPuxT1FqrvqrCehQ7SQg=="

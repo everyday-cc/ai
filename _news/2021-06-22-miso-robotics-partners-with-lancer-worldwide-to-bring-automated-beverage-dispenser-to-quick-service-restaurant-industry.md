@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
-excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
-publishedDateTime: 2021-06-22T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
+excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global"
+publishedDateTime: 2021-06-22T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant/article_a7dea039-ff4a-5819-8ba0-721f00f5d26f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant/article_a7dea039-ff4a-5819-8ba0-721f00f5d26f.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
-    width: 400
-    height: 286
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/60/3603be49-2c1a-507f-93fa-a2029101bce6/60d1a6f974ec2.image.jpg?resize=882%2C630"
+    width: 882
+    height: 630
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "/M/7d+rBRBQ4nab3JavHdjYvgGzN+UVrupilA5WGk6ORHf+Zrp+xGMoQp1zqgfNyGwoToFl3r7KRv2+bK731nNi/p3GhCJBSZo14kdil+jr/wttw3mZ2BMWGZ7mEcTnGJ3TmGAKjfHne+eKcgoUIH74rHSFRqzNr6U9zihYLkvMSyL5Zz5LA6FDkDdhnHEJV683Y/KcHs6DAYbLkYmz7lBRZGsJzt2NaGCAiXqTinViYV4yJ5cT1dPVngJK9wAdT/48aFElBGT9wHCMibt5kYSRhOztLoFEe5SiQwRmpftjOwLomub3/Qm4jgdbX+LhwE5jQDh0aNYFCLsc1fq8Nh57ggtBmsHUY+UvORj4yjRI=;4uo/chNt/gyajUMKCQGPhg=="
+secured: "xjdlxhj/3vSLFmBXhujympRPMGb6kTk2LJoXXeUY9ScL44K/moCz/oyjSqgvNMA/obt6YKrM9mSwlv92zHf5EU7vZgFUNgUcsBg5iGh5njwe7CZTj+pz7sYL7ocmrqr8un3hyYRkv2vFvdbJ6+RAt33moVxzr2DCPBuQThdtjXU9uOEWOG0hXcP4kEsT7+Arjzr7KRDHR4wxNv49H3KskqLuMeofO41v4vAkKXt8N14yCYIT8CPLLh8984pa8VqN4GLIP4L/X96K1m99CEQeZEm3dvYIsfR2cMnZZxw4aQGp5Skxdf+5hrd6oPG7+xMjTrF0w+P8j/xNiUel+ERUK98iYVtfezgUAvwjoqiEeVA=;EImmHKcxpdbg7M+Gblabeg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/liveperson-elimina
 webUrl: "https://markets.businessinsider.com/news/stocks/liveperson-eliminates-friction-between-brands-and-consumers-with-a-breakthrough-ai-powered-consumer-centered-bot-scoring-system-1030542825"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "LivePerson wins $30 million from [24]7.ai in trade-secret verdict"
-    excerpt: "A jury in an Oakland federal court awarded conversation software company LivePerson Inc more than $30 million on Thursday for competitor 247.ai Inc's misuse of trade secrets related to LivePerson's clients Optus,"
-    publishedDateTime: 2021-06-17T22:24:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/asJmFhVXURwCCvxfEe7Pllnhks8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MNJ43JOA5K6LKK6NGX6HTFRGI.jpg"
-        width: 728
-        height: 381
-        isCached: true
-
-secured: "QtTx8TNhOnd6mhbiFi8sAzAWOJWGIJqtiZVHFjk7j8gV4eW9SH/ZrBDIfEWNnbh1+EvgVVBlOgjs+8Ec5cyHrR0A4LOoj6d6WDUe7DIyZC5Nd/15jNw0BSKvKM3AeRbx+FD10bccs2g+VjAEUQxH2KiotK6jLdTNv9Tv+fEioX00WIoY2aNZpJ1kdA5FMULKB8TPnpRXmI2TLifx5HE+hfNxXxn3sdJFgCx2Z1ZOTOehMB4LjfTWgS4WbFphjvrvMQ3c4tru9zkuIdUxxZi3dNI59WA1SCZ7cRRvYTCqTyD8dfZIfERNoiPaF9/6OCLnEYlFtf/WoZmt6k7H5qif+pPrF7K/5NhRqwtnAIJVgTM=;ha/0vORUNpmKn8K3uVzQPA=="
+secured: "RgG8aBhjSdbzb/khi/mXszNe729LoSC+WrDdFnfnM+FUEx1fy5HRqcIrY+7YztZ9v1HrhxgvUzjh2K/KaX+UQolyYpnwsiHrJi19ZShtSFVfNUf/g9drWYs/hPyidTykLy+gNlspIjQLIyUpkvpYBckEcz6GIbqANRSqSFceQkFQdLPRXq02209y6xZS9VtEg/atZUftRayx45A+4G69J2es4pASaNYa46JvejOITyPzBkfGKRS54t3iwMiuF9yAXS+mN47R1M267UUzjbmLIlRPzeJ6bCqLBiG2ayJCx8zwR/qFC8ABnrerjQH9RQ/kcBHSbFiRE8HjnN0JTRB+OObpe+MEJZe82g/4x236ZOi3GmqalGnDZgD4I2AWj4Dk+d/JT8vkkjNBoIJOyHHAYFalr+84tbu3DM4Z1n4l5ZuSLWaI08dpdF48kvvZD3prG+3AoSexPGVfitFd0S4UyKBTTEkbICCCR54JCyGgX6Fn9hXshj4kOBBGarJjFdANeUCs/Yk/PwLHKv1c0c8DcA==;PP6jvXnYuAN7DFkFQNRiNA=="
 ---
 

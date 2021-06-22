@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-tap
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21?amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2021/06/how-machine-learning-will-revolutionise-drug-discovery.jpeg"
         width: 1013
         height: 675
+        isCached: true
+  - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
+    excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
+    publishedDateTime: 2021-06-22T05:12:00Z
+    webUrl: "https://www.forconstructionpros.com/profit-matters/article/21509256/artificial-intelligence-is-revolutionizing-this-contractors-construction-scheduling-and-risk-management"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 20
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Schedule_feature_01__2_.60ca78fef0b13.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
         isCached: true
 
 secured: "klFN+5B05iq7wvcB+Ev0J7yddZLUemKCeW2vVIzKWryHMCe+HwQE0hnCpLcnr0qNStFPa2XKP6853oBxabtRC7YjXEsow3NB/qfO5Lwf4Cx5bkkm8z4U5MUXUS+HrITgz62xlwxIogoiRp3QodbhJU4sUYFZf1IKcJPs1HX940rLCJIJjuM2iTD0hcUnTxtxOT3ANJnyJxwK/mD0GYnumTtrRuUzyvs70BqI6mQ8EJqWTMwyQiagTp9zqs2GuZZhPi7myl/lyGmOlxS3thWlj3Crf8+/Nap/Wpr+DEyM8bs1TODjyQP9PdimW5c3eFYGFlOoDQBpT1mHU6J326yYuHjiv5pBJZxtpVz3VlJFFAYy/A+r4sfh2tpxxbmkyj9N8fF3y55H8D4PLLk8IRLbGXSixJb+e6lCx4UpJtT8dAlYmgEQKsAjmwMVhUrJ+XGPCr9noAPuIOLLIvlYx/ldHdS1Ui1DBGwVzvBoMEllxvIrAPqloiArEb4zqAE8SQ10HzIVauxZbP/Rjgr7V1FSHA==;U72Ubmj/zn6T+nzgYtDZMg=="

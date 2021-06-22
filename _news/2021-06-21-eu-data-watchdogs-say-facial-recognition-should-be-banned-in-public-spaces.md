@@ -41,22 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
-    excerpt: "The EDPB and EDPS claim a ban is needed if we want to preserve our freedoms and create a human-centric legal framework for AI"
-    publishedDateTime: 2021-06-22T08:19:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1579605446/shutterstock_surveillance.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "UK’s ICO warns over ‘big data’ surveillance threat of live facial recognition in public"
     excerpt: "The UK’s chief data protection regulator has warned over reckless and inappropriate use of live facial recognition (LFR) in public places. Publishing an opinion today on the use of this biometric surveillance in public — to set out what is dubbed as the “rules of"
     publishedDateTime: 2021-06-18T09:26:00Z
@@ -157,6 +141,20 @@ related:
       - url: "https://www.expressandstar.com/resizer/KnaYQwAMS3WGKZEQd5fNMs8pdck=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/OLSPJQEHWBGCZKE4V2KV64NIXU.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
+    excerpt: "European privacy watchdogs have called for a ban on the use of facial recognition in public spaces, pointing to the “extremely high” risks to privacy. The joint recommendation, which comes from the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS),"
+    publishedDateTime: 2021-06-22T14:56:00Z
+    webUrl: "https://www.techcentral.ie/eu-privacy-watchdogs-call-for-facial-recognition-ban-in-public-spaces/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2013/12/Surveillance_IDG.jpg"
+        width: 620
+        height: 350
         isCached: true
   - title: "UK Commissioner advises on risks of facial recognition use in public spaces"
     excerpt: "Denham notes that data protection and people’s privacy must be at the heart of any decisions to deploy live facial recognition."

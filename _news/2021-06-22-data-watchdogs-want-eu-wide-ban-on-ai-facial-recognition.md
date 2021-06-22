@@ -58,33 +58,21 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
-    excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
-    publishedDateTime: 2021-06-17T23:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-17/u-k-privacy-chief-sounds-alarm-over-live-facial-recognition"
+  - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+    publishedDateTime: 2021-06-21T17:00:00Z
+    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "EU Data Watchdogs Want Ban on AI Facial Recognition"
-    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy. In a non-binding opinion,"
-    publishedDateTime: 2021-06-22T12:54:00Z
-    webUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 54
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+        width: 1920
+        height: 1357
         isCached: true
   - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
     excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
@@ -101,6 +89,6 @@ related:
         height: 289
         isCached: true
 
-secured: "Z+xkYkMZ6LUzW4ILiRTlStN0aSarCBKM233z7q7ORsheWYFQdlviExzRE4p/gZXvQ+8eV2NMFU/2T+8WVd4wFLDYyTyAeYSCP8CP/uSZVbVptUaYx2G9xGlSmvHJS5yJrGcoXtgumHm8qJHchTmEoImIlsO+H44MYG4/R3BeS54fjvyiGhRIMRDV3GNC2HqFMihhJQLAjovqu5TcLfAjCrF19AfO75IHAXUnSImkvuNxBl6ZyFyY3j86zkRSsSSnky58ZZFnYW9Gz644C56mZsrldv0VH54Q0CZnmqLagAsQtVJmHtgLeabK6HJQgTDyxJT+uuazp0as7TZnJWPvl2bX051PRxAU19STBHymF6k=;st8eDM80z2cghCvRWhz0og=="
+secured: "r8ZHn2QgEqIsFWMGvv44ZzO+ORhV+o/Mv2vps4hNMNF4BFz+xAdgKh277114OWKdjl60gySrozuKGzZjwoVNRvTn1WkxpvetQjsM65BH1UgzwwUWr0Y3ZZ7xUPEm640+RNXLr558lrYbxEXHVLFJ1Xtc4gmRYYqpF3xRyJp0+LtKU7FddPO81Mhm7aqu8LcOnQyTnrRGxHcDlFVYqzP2nGeWcnPp7xSfIPaBXCub3AwCfN/lQM2OHLVQNIIfJYFsObryQMnYWNBRisuSdCc18d7rh+g5Nj0T9jNjzQTi3qpU9eTYa0HO4D5V/lepqXm34it4E9LmxIN79Hlpnd4oWcFHnAJ8Eya4TThcFOVGLmcldSsaOC5MsICvCn0D4Nd0qkqJhhV22B2n4EUt0xtT1UlPmCVmGW6/Njalx22TC0gAuNKMCsTcSyLhZinq3eMg+HQ6ubMTdY8hBIdR4AYItOQsFHied/I/7WedXjMVLVrruDIDFOqJOj3YbJFXu4S11YjdezfpKNWbpz72YwKcOA==;bVy0DbdWCcHBxc7aXwmkGw=="
 ---
 

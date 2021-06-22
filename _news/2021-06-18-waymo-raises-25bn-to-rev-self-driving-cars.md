@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self
 cdnAmpWebUrl: "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Pushes Toward More Staffing, Self-Driving Tech With New Funding"
-    excerpt: "Google's Waymo has now announced new funding to pay for more self-driving car technology and staff. In fact, according to recent reports, it's received"
-    publishedDateTime: 2021-06-17T22:10:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/08/AH-Self-Driving-Cars-Waymo.jpg"
-        width: 6500
-        height: 4333
-        isCached: true
   - title: "Waymo raises $2.5b to rev self-driving cars"
     excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road.The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
     publishedDateTime: 2021-06-19T19:26:00Z

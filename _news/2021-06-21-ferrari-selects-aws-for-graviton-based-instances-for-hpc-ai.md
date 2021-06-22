@@ -175,6 +175,20 @@ related:
         width: 1536
         height: 863
         isCached: true
+  - title: "Ferrari eyes road and track innovation with AWS as its official cloud provider"
+    excerpt: "The car manufacturer will leverage AWS machine learning, analytics and compute capabilities to accelerate innovation across its full range of businesses."
+    publishedDateTime: 2021-06-22T15:21:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/jun/22/ferrari-eyes-road-and-track-innovation-with-aws-as-its-official-cloud-provider/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/06/dino-240937_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
     excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
     publishedDateTime: 2021-06-18T06:31:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Waymo Pushes Toward More Staffing, Self-Driving Tech With New Funding"
-    excerpt: "Google's Waymo has now announced new funding to pay for more self-driving car technology and staff. In fact, according to recent reports, it's received"
-    publishedDateTime: 2021-06-17T22:10:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/waymo-staffing-self-driving-tech-new-funding.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/08/AH-Self-Driving-Cars-Waymo.jpg"
-        width: 6500
-        height: 4333
-        isCached: true
 
 secured: "gmxJRPziW6gdliBkHmNsWQ5cSbroCYpVuj+pUKtfqVEg8JI4hd5sZL3HZp8IC60B/ImMpQx0PBXe/7u1s9aFcfIvoRVP4hieQUpAVMndtCI/WHM2pHF9m/fyHBS4eCRLDTGNbSlB9XujUaDETvLnxhTSJ1o/Qa+KdPZ1OnoRu8hz3EbGtKXqLoyPgjAdgnWHTGa+ehjBFk22z/v3/obQxmsHnT3OxUdwNtXY/DfYo46UWiIDaAeFGiGQ36RbkuwAbr28bVftz+QvtCmlbKW8Gl2/OfPH7Kq9hS6DUILdRuzAoKUDTvzlmyTXMpknOl3C4UAvprFa6RpB/7djn0dc9PJPEwXK6Iv1kvBlDfPw0Oh4tAW6D81mQzQjPZv/rx4v4j3mmv2Y2YfVHjJ2AN1M7iLjRUGU+0XZ/jl3XcLgtLCgZd8mfeMSUCCquXNSfrORbQRIBNUlWoF1tzT8+bBzF+AdazzIzELxqZtI74Gj/BZ0otEcoJv5hOTpnB1rbAFtDG5gLwUzPD4gbtM2QMVyjg==;vIEiHBnNDTrBKQU9PDk63Q=="
 ---

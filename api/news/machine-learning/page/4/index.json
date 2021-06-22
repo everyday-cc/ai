@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-25-balancing-the-opportunities-and-risks-of-machine-learning.md",
+      "title": "Balancing the Opportunities and Risks of Machine Learning",
+      "excerpt": "The growing appeal and utility of machine learning-based systems is undeniable. As Christina Pazzanese wrote in the Harvard Gazette in October 2020, “Worldwide business spending on AI is expected to hit $50 billion this year and $110 billion annually by 2024",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/",
+      "originalUrl": "https://www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/435ac5621eeb4002a28a50ddc9037ee6.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/balancing-the-opportunities-and-risks-of-machine-learning/amp/",
+      "publishedDateTime": "2021-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-handling-extrapolation-with-asymptotic-controls-in-neural-nets.md",
       "title": "Handling extrapolation with asymptotic controls in neural nets",
       "excerpt": "As machine learning continues to permeate many areas of quantitative finance, artificial neural networks are now being applied to derivatives pricing applications.",
@@ -1372,49 +1415,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-machine-learning-ai-accurately-predicts-cardiac-arrest-risk.md",
-      "title": "Machine learning (AI) accurately predicts cardiac arrest risk",
-      "excerpt": "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest—when the heart suddenly stops beating—using a combination of timing and weather data,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-cardiac.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
-      "publishedDateTime": "2021-05-18T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
+    excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."
+    publishedDateTime: 2021-06-22T14:45:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/22/a-top-tesla-attorney-jumps-to-plus.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "ZhMGZrf7G8mt/r2+9Vu7k5uqpqYBSEg8ShKLWjt906Ru9toPVDrhRyyTkuwizpRXXwCuEkHO1pOj+c+JWncE54iOyH4yja8TMEz0BB4EtzzlXnVzdTr3G9AOwvD66uuXPAAeyy0V7+JiFsuLM5QDRENx7eaj61JrpqJWaWNQn8/iEqwl0Kl+/d84tNYEH1/41x2GG7qohBgIuDog61LSiMsQFugbe26ewHsdgwJFRO0r5f0kCFum9Q9oK5kR1Hhn/lMlAegbMmNXqiqhCTorZdzYyeZE2mXLJCyo6bvtHKUYG+SlrTB49IHSVf7MpkXEMk6P80O81fAhVp3Mrj/v1HX/81icMdxfZqw7snwVws7H9JBOfgeQjsCgdC4M1P3O0Iki2yz4ceGW0jpvpNiOscuo3iRYSlIlMUDI06mjARdatloP9ztkeSdiQdhdsDhYBLM0onkvHMahykF7vXTkhQ43joAhTe9E4wjqBJirh0dIK5PkhEt/K5EsrU+EF6bPdVS2t5nTq4V11vs0IeRApA==;zD9cxxGqIQwqgrb+9FrgmQ=="
 ---

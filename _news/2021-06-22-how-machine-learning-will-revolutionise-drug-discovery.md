@@ -50,6 +50,20 @@ related:
         width: 1024
         height: 610
         isCached: true
+  - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
+    excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
+    publishedDateTime: 2021-06-22T05:12:00Z
+    webUrl: "https://www.forconstructionpros.com/profit-matters/article/21509256/artificial-intelligence-is-revolutionizing-this-contractors-construction-scheduling-and-risk-management"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 20
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Schedule_feature_01__2_.60ca78fef0b13.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "GctBfyWIJNjZoJQxOZGdva008FOQTiqmusaK+IGdO6gpfVEqz0+QqVlTj+9mFeHEMeOae4KJETN1MM6huPjLqs2bqSLfMaavU6VOwklmdQ2FWQbanpYkWk10/A/9vcJD5ne7IRc/AeIVDl4TIpHllIyKorJ3gMDDAj9MMc3Sz1s5t3YEy20dwoP94oa2VEYf4LEZA0EsklDcOkSmX9tL/jPyTj2w8EY3dtxz/IgSGwTC8ZQvdKTvUTUUCEsIXZAhdSpvF5KyXyFb3Ce6YKbCUvSOAyYDCtZgQ2xjq+JzuUr7PwS1amWWdNdm21UA2nUvi2fAW2jQAUaTgsvWU07pc/vOdZQtI9vf+4/u7Vl6/lz7KxK2Ga7300F579apPw76wWq/cveMxpb39oafgE9n390/WHaY1rZmhL6pfVFHErwkZaJykkA0JrMgy9/bfCHp1C0O2+6mLrDFgxlLL0g6U4zBebLb7n7NrTQgyPbpkPPih32rYhWw9z+Yh0Xwc09IYtNrGo11RZiMA6308rRAeA==;LUfC56s4kzCKYylyzNP8og=="
 ---

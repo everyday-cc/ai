@@ -1,33 +1,27 @@
 ---
 category: news
 title: "EU privacy watchdogs call for facial recognition ban in public spaces"
-excerpt: "The EDPB and EDPS claim a ban is needed if we want to preserve our freedoms and create a human-centric legal framework for AI"
-publishedDateTime: 2021-06-22T08:19:00Z
-originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban"
-webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban"
-ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban?amp"
+excerpt: "European privacy watchdogs have called for a ban on the use of facial recognition in public spaces, pointing to the “extremely high” risks to privacy. The joint recommendation, which comes from the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS),"
+publishedDateTime: 2021-06-22T14:56:00Z
+originalUrl: "https://www.techcentral.ie/eu-privacy-watchdogs-call-for-facial-recognition-ban-in-public-spaces/"
+webUrl: "https://www.techcentral.ie/eu-privacy-watchdogs-call-for-facial-recognition-ban-in-public-spaces/"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mozilla
+  domain: techcentral.ie
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1579605446/shutterstock_surveillance.jpg"
-    width: 1260
-    height: 710
+  - url: "https://www.techcentral.ie/wp-content/uploads/2013/12/Surveillance_IDG.jpg"
+    width: 620
+    height: 350
     isCached: true
 
 related:
@@ -230,6 +224,6 @@ related:
         height: 270
         isCached: true
 
-secured: "BbwSjexETHx4o/jI6Jy96uRFkws5oW86seJXpdnDxLiW38Fbof24QTNzNuQZBdE5GhsOmwYFHJkMtJb5pdYr++Mr1d5Z8rmC4T+1XMqwgbV6cKl92Z9dYWhnguKxF2DQDUnoc/s31pfmugqi/b5vDyH3Xxcd8AoRxsQFLsQ/SZXtsGQtssSMpuTRAQYS4w6IRul9PK8hlpNVOQygl2NZxO2QEzk9aXoNVqMWFSVm4pZuKpKTriR6kT+HrZO88qEqBQCsd+GSECvavCuuL9xTc06xP4CVVmAE9iuFKDJck9dS+anqEm3Rnl1u3CnpNb6ycHFRzrLnsbtn2yDB6jkKl7IVvqVRAjTuK0waoNX1aA+aDk5GbaMRKj0EO2afpMUqRvKq9K5J9eEWjnPXufxOw8UWwo8PTmQVnKQS3hDsr01pG8wS0NAjPScLAPxHvZGTCREhR9DvtbBh56C+1ApK2nf0+gOz7tzc3s+nQrRIdtjhIgpXSR9M4chUopvBLLtXsS0lXb4Q/IR+hvUpQ4d/pQ==;nsK8WgzwNxer3Zu9VxPppQ=="
+secured: "P8UVJStaLs94RgyCJTSMoS8tfK2zzurfMqNldaTR3YS3miNKyiW4u9gqSe4uRADDFdlnP3A6BbfqgYCrksTNPORzoYwxAE+sife+7pgxEfd3bKgxY2Zos8jRyy21hxoKb5c3IpxBXmRymCa+sJO/KqpUo5WUDDFkz/EYCflZHQSwwI4cE1XB3iMc/0kygz30wARfttTLxsppBF96EJ8rvqZ1dLg3K0yy3Ihj9SiVC/KO4oqq89unciZQmclm5UadoNUqtSsSmHuzY+MJ6NHCPd+0AqgGsH+9lWL0YCnqUngWtak4eCFQfeAySH3lTWJpQKopyTh8tIZCvrfWuH5DYgJoChsPtwgqn13sChZE7TQ=;5bmL+aVEt33jWQWahrDTFA=="
 ---
 

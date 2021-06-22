@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
-    excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading AI solutions to market and making them more easily accessible, especially for government customers."
-    publishedDateTime: 2021-06-22T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
+    excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading"
+    publishedDateTime: 2021-06-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
 
 secured: "c4oQu3xfYIfo2hlKWfgFAqsT+yJa57xwtb+RpwxvVqjoLVu67hTPm/2d4IxUrG7Xst+jOj9/zQAOVQWKSH3QzrKCitjRjJxOKiM7DU3mJSSgxtF2Bw0S7fEh0pVHuG2d33ApJ1tmm20UbH6io8HP/s/LxygdEXWUopkJJK+uqyVkIV0JWdS8MuNDz1MyQlfnN9dJxGyDmwrGv5fYHZp9JPA5j7K33Q8y/1CIox/6VKINPIOqeUpCLn0Qf/NIGfhAGa2bwShYmpA2kuW1BpdB0bqnoSr6mUkie8cFIuZ12Rjfo6gjOkR39jXx2asSxmqRdH3pLqa0+BG3mxErRDzh+ZOqfQWORcSXgpRNlo/XWv6Cf3DAU7nmGnhmGAc+3nc6hnnRAuS01xArId4aVt6LR7Th5lo4FGpd0e3DdZoUBpyek5avvG2MMAcpGpx9Uauw1ngfvWzPJ9gxwN11/8apJMDRFdQJmSASjKgn9Eas4AWdbLXRFn4OoKW49tznzy4oFQb0b5mEQssAJ8r37KpZ+Q==;I37wBvpiVx0OgN8MyeeO0Q=="
 ---

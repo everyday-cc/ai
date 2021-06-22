@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
+      "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
+      "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "originalUrl": "https://analyticsindiamag.com/why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/05/AIM-Illustration-2.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-30T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-after-uncertainty-around-its-future-pentagon-will-continue-defending-the-jedi-cloud.md",
       "title": "After uncertainty around its future, Pentagon will continue defending the JEDI cloud",
       "excerpt": "AWS’ lawyers proposed a slower timeline in an effort to ... for years that JEDI cloud would deliver the department the computing power to develop artificial intelligence tools broadly, as well as give war fighters access to mass amounts of data across ...",
@@ -1288,49 +1334,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-pharma-40-must-focus-on-manufacturing-not-just-data-says-ai-firm.md",
-      "title": "Pharma 4.0 must focus on manufacturing, not just data, says AI firm",
-      "excerpt": "Vitalie’s firm specializes in this area using AWS cloud. The science of artificial intelligence in life sciences is ripe for exploiting, the entrepreneur reckons. “If you look at manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
-      "originalUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Vitalie-CC-AWS-Startup-Showcase-2021.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

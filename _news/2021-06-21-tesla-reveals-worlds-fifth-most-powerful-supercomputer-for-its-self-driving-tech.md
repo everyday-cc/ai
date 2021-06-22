@@ -59,6 +59,15 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
+    excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."
+    publishedDateTime: 2021-06-22T14:45:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/22/a-top-tesla-attorney-jumps-to-plus.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "hCkJb+mBgl7VlS3ws/b2nIWsfDfnAmm/1GNW9pkBzmu0IfQhVE/PdNeVnSYX/BYxrpu5HSfV81miORzn1MCgzvlHVUbcnwCJaB1jaA3zBBOesCMAa26ae94gj3I1PS8pTUVBtjZJumarGQbnW+4HL+Z5MndAhwn/vm0Z1JCN0AdTPy7i7sf73nAUUHP1Qj6rB2OL7nuB+CI8dWAO5L9LP0qyzh+tw3y1cceg/+HW8Ew8dMR3jlIFtLjnBFsxxrmIk++BcBqwl0Fv5jiCEAzMlnVLObXRGjEX0QXVbKLNOO7F2y1+/LmI2Tq7nEP1NlM+jIJXeTBdMWkmcA/3ppzx1XVdUnh0bIR/B2LUniO7Qo0=;1t/VTMa4Fcbr54XXIcGzEg=="
 ---

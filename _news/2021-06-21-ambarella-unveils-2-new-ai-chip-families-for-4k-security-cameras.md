@@ -57,18 +57,13 @@ related:
         isCached: true
   - title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
     excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
-    publishedDateTime: 2021-06-21T09:02:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/ambarella-expands-security-ai-vision-soc-portfolio-with-two-new-families-doubles-resolution-to-32mp30/article_7620dcaf-29aa-5ef0-88fd-dc0aca8066b2.html"
+    publishedDateTime: 2021-06-21T09:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/5e/15e2af09-517e-501b-a273-f43c7e92b9b5/60d0561bc263a.image.jpg?resize=1008%2C630"
-        width: 1008
-        height: 630
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "K2G3oP5H15ZCgRKMedChnfPXL+4zMe6B3W+XUzpWNLEJfF4NVg4l5tOa+5OGixz6kFhhL54TMxKZdJh8HrXk5g1kSJJKkbBCpSd+v1jxhU3wMJEyg5tvI1nYev+Bh/QR0FCg6Cuj8WMeoZbEpBUdjacq6DYmE3UsYvBuroZvVis7sVkR3vu+u6vTNZwUaVusJC+xhHL/RM3tm/SJj1gfPAADd7Vcc0hK07HEUT7DPbxXtn2Y+jgbxlz9Hh+RdSiXukDoC5q7VxlWXW6rJ+JcAop61cWRTQZCGX0zKytMwwwUc5pxQAk/PLCj+5lhAb2wZKG/gGT5ZICuXmLYOP6OKdZnzsN1SS8D0z3llVeQ6Cc1zb4urwWF2m/uAaUKcMC4PIbDyWbs+lfiks0xLYkxTK/91kAzn3XcuKlWVezt0lD5XAC8gcFW8NFGl5/MwmPtGAyvcekVUN7wnpE8MG93NK9P3UvYH6jgQKHlNechHSj8/W/VNK4vLSq7PlTI5zRRjZD0jKtskyOqxncHNdBEGw==;UKAYp+gNOqED8MRat4UI/Q=="
 ---
