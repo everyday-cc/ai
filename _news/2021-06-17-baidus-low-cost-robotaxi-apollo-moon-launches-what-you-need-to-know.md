@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/21601949"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949"
 type: article
 quality: 59
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://technode.com/wp-content/uploads/2021/06/image001-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
-    excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
-    publishedDateTime: 2021-06-17T10:34:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-17/baidu-partners-with-automaker-baic-on-new-apollo-robotaxi-101728372.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-06-17/1623924174246687_560_373.jpg"
-        width: 560
-        height: 373
         isCached: true
   - title: "Chinese EV Maker Arcfox, Baidu Launch New Self-Driving Car"
     excerpt: "Chinese electric automaker Arcfox launched a new autonomous driving vehicle today in partnership with internet giant Baidu. Called Apollo Moon and based on Arcfox’s electric sport utility vehicle, the Alpha T,"
@@ -127,15 +113,6 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-    publishedDateTime: 2021-06-17T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "wFmEEolCQ8e8uQ7oqTKlOd5Ss+w1SvC5GvVR7XhQa/1BiRcxVmb4AAfxVgLlb44tKLyYlu0FWAmSPfJwiKLnsgMwlpvHz3g6rosOpH/AavCvOkaE9yynVgd+mAAxkRuPGTu/+e/OaQ2KygzykcDkBDZ/NS5AWMsuZq6rXVY1/lAp5tAdOepxftpsZttj+/kA0STx/hEKxzv2gLy9YXsMUurtJWFEfrdoZMi50ho1Bnq8wQN4K5C6PeahJudtmxXn8PD6H5zdbWgKtjv23/731td3s4LHxSsu//zG9yXUgyg7sDma+aokJAaTG0xeD1NobZF/dI70wIHVXmnUyq8VN+uttswojp/5g480X1QgJnY=;R8K2uD7NN4NQ1LiKIMuO0w=="
 ---

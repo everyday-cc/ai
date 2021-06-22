@@ -87,17 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition may help you find your lost pet"
-    excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
-    publishedDateTime: 2021-06-17T09:05:00Z
-    webUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/"
-    ampWebUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 39
 
 secured: "2KnYUW6/Gc6LtHfWBZREGYk5YZ8t3RIplTPyT7QajEHRU1Oo0R+fK3W2B2Ji5f+UCA0otM/XoCz06VkBgTr0+rF7gh65IeQBwY3KjQA3AtK1N4SI3Rplb+oWwm7B/BIMaswmiUevPY1Viz29HGvvfyRySOYYdYmL3Gxb5ioABMJZfpfCRRyADBuIFcMwFRRwuHstT5T3950HSHXPEUn4jc/4jVIUA3vlCiGQIX2Wa+wpTuU+MUS0XdrrREohfTLHLOKaWGwJgtHZ3PU0S34r8beaIk5QDvB0ZSN501TatqAISGM+0thSGBIwlpn3XNFG2o1hL8+M7mPrKAtxN4AP1jeV0gM5RIW++/qjW0KrXaKKqY56z0xfpbjRBp1nAeOurTcr18/YLF2p+wPYNau9ltUiWDxsjkJk/4MIJMGUG7V/dCS5J4c/ZwIeDEmGLfTOFSyAruqEv7DXCwfZe/ECsbzxB/bVQVkCeqhbsm+Dq8nqWKOapgY1Djp15ZAgnJdrjW/7viB0zGmcYTOYkhZLug==;tbTntAOI8e2dPefllXaVUw=="
 ---

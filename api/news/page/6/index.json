@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-16-harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing.md",
+      "title": "Harnessing Healthcare’s Data Explosion With AI-Based Natural Language Processing",
+      "excerpt": "By creating efficiencies that minimize tedious searches and deliver users the specific information they need when they need it, clinicians can spend less time on the computer and more time interacting with patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
+      "publishedDateTime": "2021-06-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-is-ai-the-answer-to-recruiting-effectiveness.md",
+      "title": "Is AI The Answer To Recruiting Effectiveness?",
+      "excerpt": "Engaging a talent acquisition strategy that leverages today’s powerful technology with experienced human talent acquisition professionals will prove to be the most successful way to win the battle for top talent in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c8efb5cd9d0bfa3273a60d%2F0x0.jpg",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/amp/",
+      "publishedDateTime": "2021-06-16T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-mydecine-unveils-artificial-intelligence-drug-discovery-program.md",
+      "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
+      "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-gloat-which-uses-ai-to-connect-employees-with-internal-work-raises-57m.md",
       "title": "Gloat, which uses AI to connect employees with internal work, raises $57M",
       "excerpt": "Gloat, which gives enterprises visibility into their employees' skills and enables them to fill roles internally, has raised $57 million.",
@@ -1057,162 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-datarobot-adds-automated-ai-reports-snowflake-integration.md",
-      "title": "DataRobot adds automated AI reports, Snowflake integration",
-      "excerpt": "The newest version of the DataRobot platform introduces time series model enhancements, automated AI reports, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/bigdata.shutterstock_363791543.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/datarobot-adds-automated-ai-reports-snowflake-integration/amp/",
-      "publishedDateTime": "2021-06-15T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2021-06-15T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-how-gpus-can-boost-ai-for-your-business.md",
-      "title": "How GPUs can boost AI for your business",
-      "excerpt": "Big data, HPC and cloud computing are starting to dominate IT, providing the bedrock for AI and ML processing. A solid hardware platform such as that provided by the Gigabyte G482-Z54 can deliver the CPU power and GPU density to meet the demands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
-      "originalUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623768264/Gigabyte_G482-Z54_AMD_logo.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp",
-      "publishedDateTime": "2021-06-15T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
       ]
     }
   ],

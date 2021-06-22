@@ -1,27 +1,27 @@
 ---
 category: news
-title: "HPE Buys AI Startup Determined AI To Boost HPC, ML"
-excerpt: "HPE acquires Determined AI to boost its artificial intelligence, machine learning and high performance computing HPC products."
-publishedDateTime: 2021-06-21T14:04:00Z
-originalUrl: "https://www.crn.com/news/data-center/hpe-buys-ai-startup-determined-ai-to-boost-hpc-ml"
-webUrl: "https://www.crn.com/news/data-center/hpe-buys-ai-startup-determined-ai-to-boost-hpc-ml"
+title: "HPE Buys Startup Determined AI to Accelerate ML Training"
+excerpt: "Hewlett Packard Enterprise on Monday announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful"
+publishedDateTime: 2021-06-22T02:59:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/20039-hpe-buys-startup-determined-ai-to-accelerate-ml-training"
+webUrl: "https://www.thefastmode.com/technology-solutions/20039-hpe-buys-startup-determined-ai-to-accelerate-ml-training"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg"
-    width: 400
-    height: 400
+  - url: "https://www.thefastmode.com/media/k2/items/src/7b5a9b42f145a0fbb26efa43903483fe.jpg?t=20210622_025719"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -57,19 +57,19 @@ related:
         width: 1939
         height: 906
         isCached: true
-  - title: "HPE Buys Startup Determined AI to Accelerate ML Training"
-    excerpt: "Hewlett Packard Enterprise on Monday announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful"
-    publishedDateTime: 2021-06-22T02:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20039-hpe-buys-startup-determined-ai-to-accelerate-ml-training"
+  - title: "HPE Buys AI Startup Determined AI To Boost HPC, ML"
+    excerpt: "HPE acquires Determined AI to boost its artificial intelligence, machine learning and high performance computing HPC products."
+    publishedDateTime: 2021-06-21T14:04:00Z
+    webUrl: "https://www.crn.com/news/data-center/hpe-buys-ai-startup-determined-ai-to-boost-hpc-ml"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
+      name: CRN
+      domain: crn.com
     quality: 54
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7b5a9b42f145a0fbb26efa43903483fe.jpg?t=20210622_025719"
-        width: 752
-        height: 408
+      - url: "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg"
+        width: 400
+        height: 400
         isCached: true
   - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
     excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."
@@ -141,6 +141,6 @@ related:
       domain: insidehpc.com
     quality: 34
 
-secured: "P21aqBiRLiX5jjiRKvbjOLDAY3g93GJ4ogYzTjhYL2poM6WvgBze5sg0MYt62tBJAzSvkm+O+QGHuhztRU3xkSfLBE2M2RSmpwqaI4/k9pufeyVCZjPivrE+9wKCSlZK9hpi46OC18s4/wTqVsYyh+QsKttAkFLk2yLikS3+pUHnJ/0qm8eba9VAauAQpUDHYqBtqQKDg4kHNjLtI5484C4KL4ZMuA7DCHRGGpMco8UtZWrMW6XeV71ujPiXr8NnoRuDMCPAGrfZZI6UGqgM+A+UQjnhRuOjBARyvjK1axokS5dLipU/t52XmEyt8Tht0RSwT8nS2IDNZfOcon3665VsjIg2xzPYm0+vbaNwKFQqUKnAfYagY9ASRGzyljBWbp1amHreMzkz5j/FZt35A/Al4tgp8x0imJ3iNPjsXuN2ojunjARWUIEtCcDsGcKsUvqrVeHAkROCWcyiHzV39xlGNj9/6CkAarMtcWxJpbGYK14FVDiheotSouQ3+jTMQUSIiyi8AwKZkCAlILfCSw==;J1XX2FI42XxvoMopMx16AQ=="
+secured: "e5X0KmL39Zohd3S3k2Lj8qExNKpR9YNRePtrs1ovehnKCvGDJIHdNk9REPm91Xh9XJh+2ydQaw/EUx/gBZUzcq/S2S88tU8ZTaHXA0aVaGPs6m6bYeYehl49dvKotG9vxT5gLN+oMiRsGelJ4lo2hUZIT0olzmtC7WsY9rRSpmtOOd5QgcmK6Zrj0Qzbs0uK/A5fpuhS0ONO4NZ5NFECiLyzvkTMryXocaZ6pkQpPz8rKBqCTmhK1IFTJK50IrpmypIR4cpV3dVmA5tGDL4re35tj4m29o2gAm2Byzcb8jHGZwZDXoBB0JmW4EAQQr6Uv86WJNLAnOjWIkYGItuogg5C/V9aohqMblBJQg7PKHc=;qQo6YE8FMaAQjjyOXz6BUQ=="
 ---
 

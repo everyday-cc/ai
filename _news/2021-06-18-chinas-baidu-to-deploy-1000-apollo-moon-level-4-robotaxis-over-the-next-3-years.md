@@ -57,20 +57,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
-    excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
-    publishedDateTime: 2021-06-17T10:34:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-17/baidu-partners-with-automaker-baic-on-new-apollo-robotaxi-101728372.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-06-17/1623924174246687_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "Chinese EV Maker Arcfox, Baidu Launch New Self-Driving Car"
     excerpt: "Chinese electric automaker Arcfox launched a new autonomous driving vehicle today in partnership with internet giant Baidu. Called Apollo Moon and based on Arcfox’s electric sport utility vehicle, the Alpha T,"
     publishedDateTime: 2021-06-17T11:30:00Z
@@ -127,15 +113,6 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-    publishedDateTime: 2021-06-17T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "D8tDLQ4B7DCw9unRyj6TtdIkjtYv9dTX22uKbyx3BbSkqcBC1xGQW3dAAQS4+CBUAMGIJmogBtGxmuPzGFBk4SGPnU+4uTtWldo1aewPPwLDwdgEXt+IBx1bLQoTPROd5CL8FGvdvPY470VpUw78m6s6OgId5EfWRHY7FJya2kamPtZPrhy836FYO1nMBm0kOQpaNrlLnjiYb9W3h1raEb28kbGhezuzg9Say70JVwMY7mh2qAt+eeu2n/WVg60qVhy9dntcyI36UkZK+5vBjB1i83kl47//p62XuWJMTS/CspylK4jvvgJwTXAnRHbVBwIO3pFFP1lIBE2sPj/YSbYwjfuVpjM8wNwe8VsZMKs=;FldeUSlnPlfv+/mVF1KbUg=="
 ---

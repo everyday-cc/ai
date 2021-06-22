@@ -2,6 +2,151 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-11-google-updates-search-algorithms-to-combat-online-slander.md",
+      "title": "Google updates search algorithms to combat online slander",
+      "excerpt": "It's a rare move for a company that's been historically reluctant to intercede when it comes to search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/google-updates-search-algorithms-to-combat-online-slander/ar-AAKUPrc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/UYThjzdVAjxEti6VUxLuSxvyLjE=/1200x630/2021/06/10/8905b9f4-0c58-40ad-882b-4a33200835ad/gettyimages-1191438752.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-updates-search-algorithms-to-combat-online-slander/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-updates-search-algorithms-to-combat-online-slander/",
+      "publishedDateTime": "2021-06-10T17:51:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/",
+        "domain": "cnet.com/news/google-updates-search-algorithms-to-combat-online-slander/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-artificial-intelligence-in-drug-discovery-market-current-impact-to-make-big-changes-microsoft-google-atomwise.md",
+      "title": "Artificial Intelligence in Drug Discovery Market - Current Impact to Make Big Changes | Microsoft, Google, Atomwise",
+      "excerpt": "A Latest intelligence report published by AMA Research with title \"Artificial Intelligence in Drug Discovery Market Outlook to 2026.A detailed study accumulated to offer Latest insights about acute features of the Global Artificial Intelligence in Drug Discovery market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market---current-impact-to-make-big-changes-microsoft-google-atomwise-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology.md",
+      "title": "Nvidia acquires hi-def mapping startup DeepMap to bolster AV technology",
+      "excerpt": "Chipmaker Nvidia is acquiring DeepMap, the high-definition mapping startup announced. The company said its mapping IP will help Nvidia’s autonomous vehicle technology sector, Nvidia Drive. “The acquisition is an endorsement of DeepMap’s unique vision,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/",
+      "originalUrl": "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-10-at-2.54.41-PM.png?w=1024",
+          "width": 1024,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/nvidia-acquires-hi-def-mapping-startup-deepmap-to-bolster-av-technology/amp/",
+      "publishedDateTime": "2021-06-10T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-source.md",
       "title": "Intel debates buyout of SiFive to bolster chip technology against Arm (source)",
       "excerpt": "Intel is considering buying fabless semiconductor company SiFive to compete against Arm, a source told Reuters.",
@@ -1065,144 +1210,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
-      "title": "The Reality Of Artificial Intelligence",
-      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
-          "width": 1000,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Commercial Integrator",
-        "domain": "commercialintegrator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-ai-startup-eightfold-ai-valued-at-21-bn-in-softbank-led-220-mn-funding.md",
-      "title": "AI Startup Eightfold AI Valued At $2.1 Bn In SoftBank-led $220 Mn Funding",
-      "excerpt": "The funds will be used to continue the rapid growth and development of Eightfold's AI-powered talent intelligence platform and expand its growing partner ecosystem",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/374220",
-      "originalUrl": "https://www.entrepreneur.com/article/374220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623331509-michael-dziedzic-XTblNijO9IE-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374220",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374220",
-      "publishedDateTime": "2021-06-10T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event.md",
-      "title": "CVPR 2021 to Unveil Latest Research on Global AI, Machine Learning, and Computer Vision During Virtual Event",
-      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) conference—the largest event exploring artificial intelligence, machine learning, and computer vision research and applications—will take place 19-25 June 2021 as an all-virtual event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210610dc06703/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210610dc06703/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1530205/CVPR_2021.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

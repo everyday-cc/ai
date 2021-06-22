@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/heres-how-artifici
 webUrl: "https://markets.businessinsider.com/news/stocks/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-1030538421"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,36 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA and the battle for the future of AI chips"
-    excerpt: "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field"
-    publishedDateTime: 2021-06-17T09:10:00Z
-    webUrl: "https://www.wired.co.uk/article/nvidia-ai-chips?utm_social-type=earned"
-    ampWebUrl: "https://www.wired.co.uk/article/nvidia-ai-chips/amp"
-    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 74
-    images:
-      - url: "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "Epredia And Aiforia Announce Partnership For Global Distribution Of AI-powered Pathology Software"
-    excerpt: "Epredia, a global leader in precision cancer diagnostics, and Aiforia, a medical software company providing Artificial Intelligence (AI) based solutions for image analysis in pathology, have announced today that they have entered into a commercial distribution agreement for Aiforia's comprehensive portfolio of workflow enhancing solutions which enable pathologists to harness the power of deep learning AI for image analysis."
-    publishedDateTime: 2021-06-21T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/epredia-and-aiforia-announce-partnership-for-global-distribution-of-ai-powered-pathology-software-1030538963"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1537009/Clinical_Ki67_IA.jpg"
-        width: 400
-        height: 276
-        isCached: true
   - title: "These 9 Top Nvidia Partners Are Driving AI Growth Across Industries"
     excerpt: "An Nvidia exec explains the formula behind the company's top nine partners of 2020 who drove growth in AI solutions for vertical industries."
     publishedDateTime: 2021-06-21T19:39:00Z

@@ -42,22 +42,6 @@ related:
         width: 619
         height: 412
         isCached: true
-  - title: "Facebook developes a method of detecting and attributing deepfakes"
-    excerpt: "Deepfakes have been around for a while now, but recently they’ve become so realistic that it’s hard to tell a deepfake from a legitimate video. For those who might be unfamiliar, a"
-    publishedDateTime: 2021-06-17T10:02:00Z
-    webUrl: "https://www.slashgear.com/facebook-developes-a-method-of-detecting-and-attributing-deepfakes-17678681/"
-    ampWebUrl: "https://www.slashgear.com/facebook-developes-a-method-of-detecting-and-attributing-deepfakes-17678681/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-developes-a-method-of-detecting-and-attributing-deepfakes-17678681/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/deepfake.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google Develops an AI Software That Can Design a Chipset in Just Six Hours"
     excerpt: "As per a recent research paper, Google has developed an AI software that can design the \"floorplan\" of chipset in just six hours."
     publishedDateTime: 2021-06-19T21:40:00Z
@@ -237,34 +221,6 @@ related:
       - url: "https://debatepost.com/wp-content/uploads/2021/06/Facebook-says-its-AI-can-detect-deepfakes-and-identify-their.jpg"
         width: 500
         height: 500
-        isCached: true
-  - title: "Facebook Researchers Say They Can Detect Deepfakes And..."
-    excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using reverse engineering. Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear like the real thing."
-    publishedDateTime: 2021-06-17T11:00:00Z
-    webUrl: "https://wfuv.org/content/facebook-researchers-say-they-can-detect-deepfakes-and-where-they-came"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
-  - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
-    excerpt: "Deepfakes are altered photos, videos, and still images that use artificial intelligence to appear realistic. They've become harder to detect."
-    publishedDateTime: 2021-06-17T10:47:00Z
-    webUrl: "https://www.wbur.org/npr/1007472092/facebook-researchers-say-they-can-detect-deepfakes-and-where-they-came-from"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 22
-    images:
-      - url: "http://media.npr.org/assets/img/2021/06/17/ap18182526835003-721b3f8ef1f9f90eb6e6d6b04f8dd47469336d8e.jpg?s=6"
-        width: 948
-        height: 710
         isCached: true
   - title: "Facebook Researchers Say They Can Detect Deepfakes And Where They Came From"
     excerpt: "Facebook researchers say they've developed artificial intelligence that can identify so-called \"deepfakes\" and track their origin by using"

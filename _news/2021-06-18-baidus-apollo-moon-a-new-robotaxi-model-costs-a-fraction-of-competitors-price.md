@@ -43,20 +43,6 @@ related:
         width: 3021
         height: 1320
         isCached: true
-  - title: "Baidu Partners With Automaker BAIC on New Apollo Robotaxi"
-    excerpt: "More precisely, Baidu will work together with BAIC’s Arcfox electric vehicle unit to make self-driving robotaxis under a program dubbed Apollo Moon, according to their joint announcement on Thursday."
-    publishedDateTime: 2021-06-17T10:34:00Z
-    webUrl: "https://www.caixinglobal.com/2021-06-17/baidu-partners-with-automaker-baic-on-new-apollo-robotaxi-101728372.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2021-06-17/1623924174246687_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "Chinese EV Maker Arcfox, Baidu Launch New Self-Driving Car"
     excerpt: "Chinese electric automaker Arcfox launched a new autonomous driving vehicle today in partnership with internet giant Baidu. Called Apollo Moon and based on Arcfox’s electric sport utility vehicle, the Alpha T,"
     publishedDateTime: 2021-06-17T11:30:00Z
@@ -127,15 +113,6 @@ related:
         width: 800
         height: 472
         isCached: true
-  - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-    excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-    publishedDateTime: 2021-06-17T10:13:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "mvbxAm+idxukY9deAHA2DMNxSNNKPzsCnv/foJtmPOzy6ROJKe4Jeu9v1veBnjIMwz2OAbaBH128W6HFqQEN3QqRmUlgI3y7X5OcFrUA9mhqJ9iYa7IYl+Zq7kSZBV/DxuAxrVELOL2VdS/wrqLWizf25ZiiwJD0R0n+C4j+K3nELsjLZ7dqycgLlOVUG7RK02z51qP3kH5wBsOdCMfqLUR3mf5JwobqealmPSXyiN5okGHI2Zq04wfNiWFKqPd/M4yG6Dg8hBa0oWpFwHjMdjY2vhvPcahDtQ/o9Az3ec5DKcvMDa6BQvkp8T2KsrMM0YR/CcPMSgXWVzCf3mTbV5JDldw/YHW2qN4fLrteHQe5nTDKjdnk9PfaA9jkyGVyX3WQZB1EXBynWr5S0v/dH8GsJt7ObLJRcQz+4FkljJDg71WFCbJTteQhvmjkhP2Xn8yvsaBtFm7+ggXuVCWyuu7b1g6ayHb60vpxYnCHHnLiMTIyHluyqlDxbJRPLAOnnGjVwfVyl4lgPM6y2Q5r7A==;vt+IIMbB1OKIm/F4a6xCkw=="
 ---

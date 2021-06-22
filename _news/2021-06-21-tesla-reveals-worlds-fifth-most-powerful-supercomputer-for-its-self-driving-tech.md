@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla backs vision-only approach to autonomy using powerful supercomputer"
+    excerpt: "Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo’ since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving."
+    publishedDateTime: 2021-06-22T02:10:00Z
+    webUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/"
+    ampWebUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-12.57.01-pm.png?w=1024"
+        width: 1024
+        height: 640
+        isCached: true
 
 secured: "hCkJb+mBgl7VlS3ws/b2nIWsfDfnAmm/1GNW9pkBzmu0IfQhVE/PdNeVnSYX/BYxrpu5HSfV81miORzn1MCgzvlHVUbcnwCJaB1jaA3zBBOesCMAa26ae94gj3I1PS8pTUVBtjZJumarGQbnW+4HL+Z5MndAhwn/vm0Z1JCN0AdTPy7i7sf73nAUUHP1Qj6rB2OL7nuB+CI8dWAO5L9LP0qyzh+tw3y1cceg/+HW8Ew8dMR3jlIFtLjnBFsxxrmIk++BcBqwl0Fv5jiCEAzMlnVLObXRGjEX0QXVbKLNOO7F2y1+/LmI2Tq7nEP1NlM+jIJXeTBdMWkmcA/3ppzx1XVdUnh0bIR/B2LUniO7Qo0=;1t/VTMa4Fcbr54XXIcGzEg=="
 ---

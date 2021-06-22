@@ -77,17 +77,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Facial recognition may help you find your lost pet"
-    excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."
-    publishedDateTime: 2021-06-17T09:05:00Z
-    webUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/"
-    ampWebUrl: "https://wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/animals-pets/2021/06/facial-recognition-may-help-you-find-your-lost-pet/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 39
   - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
     excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
     publishedDateTime: 2021-06-18T08:08:00Z

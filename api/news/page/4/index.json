@@ -164,7 +164,7 @@
       "originalUrl": "https://in.mashable.com/tech/22994/facebook-scientists-develop-ai-software-that-can-tell-origin-of-deepfake-images",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -303,6 +303,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-17-baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis.md",
+      "title": "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis",
+      "excerpt": "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
+      "originalUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-tractable-hits-1-billion-valuation-by-using-ai-to-see-auto-damage-as-computer-vision-matures.md",
       "title": "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures",
       "excerpt": "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs.",
@@ -355,15 +389,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
+      "title": "Tractable becomes world's first computer vision unicorn for financial services",
+      "excerpt": "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by Insight Partners and",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/news/national/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services/article_540d972c-3839-5a13-a355-a55fafe49292.html",
+      "originalUrl": "https://www.troyrecord.com/news/national/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services/article_540d972c-3839-5a13-a355-a55fafe49292.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
       "title": "NVIDIA and the battle for the future of AI chips",
       "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?utm_social-type=earned",
-      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?utm_social-type=earned",
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -540,6 +608,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs.md",
+      "title": "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs",
+      "excerpt": "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1535437/1.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21601025",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601025",
+      "publishedDateTime": "2021-06-17T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1081,145 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-the-future-of-automation-robots-are-coming-but-they-wont-take-your-job.md",
-      "title": "The future of automation: Robots are coming, but they won’t take your job",
-      "excerpt": "This, in a somewhat cyberbolic nutshell, is the biggest immediate threat many fear when it comes to automation: Not a robopocalypse brought on by superintelligence, but rather one that ushers in an age of technological unemployment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
-      "originalUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/retail-turns-more-and-more-to-machines.jpg",
-          "width": 2000,
-          "height": 1406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/the-future-of-automation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/the-future-of-automation/?amp",
-      "publishedDateTime": "2021-06-16T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-experts-weigh-in-pros-and-cons-of-machine-learning-for-ai-security.md",
-      "title": "Experts Weigh In: Pros and Cons of Machine Learning for AI Security",
-      "excerpt": "AI security experts at RSA 2021 explore how attackers and defenders both can benefit from machine learning. See how it can both help and hurt.",
-      "sourceUrl": null,
-      "webUrl": "https://securityintelligence.com/articles/ml-ai-security-pros-cons/",
-      "originalUrl": "https://securityintelligence.com/articles/ml-ai-security-pros-cons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityintelligence.com/wp-content/uploads/2021/06/AI-Security.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hack",
-        "domain": "securityintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-alphabet-self-driving-unit-waymo-raises-25b-in-latest-funding.md",
-      "title": "Alphabet Self-Driving Unit Waymo Raises $2.5B in Latest Funding",
-      "excerpt": "After its latest funding round, Alphabet's self-driving unit, Waymo, is now valued at just over $30 billion, according to some estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
-      "originalUrl": "https://www.thestreet.com/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ5MzgxNTcwMDI5MTkx/royal-caribbean-reports-mixed-quarterly-results.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
-      "publishedDateTime": "2021-06-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

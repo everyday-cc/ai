@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla backs vision-only approach to autonomy using powerful supercomputer"
+    excerpt: "Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo’ since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving."
+    publishedDateTime: 2021-06-22T02:10:00Z
+    webUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/"
+    ampWebUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-12.57.01-pm.png?w=1024"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
     excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
     publishedDateTime: 2021-06-21T14:59:00Z

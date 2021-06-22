@@ -2,6 +2,144 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-31-flying-killer-robot-hunted-down-a-human-target-without-being-instructed-to-un-experts-say.md",
+      "title": "Flying Killer Robot 'Hunted Down' a Human Target Without Being Instructed to, UN Experts Say",
+      "excerpt": "A “lethal” weaponized drone “hunted down” and “remotely engaged” human targets without its handlers’ say-so during a conflict in Libya last year, according to a United Nations report first covered by New Scientist this week.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
+      "originalUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dca2c6eb2c05d71e386bb0b4cdb8c47b.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471/amp",
+      "publishedDateTime": "2021-05-30T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-30-ai-and-robotics-take-centre-stage-in-rapidly-changing-world.md",
+      "title": "AI and robotics take centre stage in rapidly changing world",
+      "excerpt": "Thrust five years into the future by Covid-19, as management firm McKinsey puts it, most of what we expected to see in 2030 will soon be upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "originalUrl": "https://www.standardmedia.co.ke/business/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/sunday/robotics_ai_now_tak60b3bd4c57100.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001414382/robotics-ai-now-take-centre-stage",
+      "publishedDateTime": "2021-05-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
+      "title": "Technical University of Munich: Experience key players from robotics and AI live",
+      "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "originalUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-Logo_of_the_Technical_University_of_Munich.svg-1024x783.png",
+          "width": 1024,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "publishedDateTime": "2021-05-30T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-30-the-ftc-discrimination-warning-on-ai-7-expert-tips-to-stay-out-of-trouble.md",
       "title": "The FTC Discrimination Warning On AI - 7 Expert Tips To Stay Out Of Trouble",
       "excerpt": "As more and more companies adopt AI, a question arises - can the federal government keep up with all the changes from a regulatory perspective? In some cases, the federal government is behind (see Why Are Technology Companies Quitting Facial Recognition?).",
@@ -1000,145 +1138,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-baltimore-could-enact-nations-strictest-facial-recognition-ban.md",
-      "title": "Baltimore could enact nation's strictest facial recognition ban",
-      "excerpt": "The Baltimore City Council Public Safety and Government Operations Committee on Wednesday passed an ordinance that would not only ban law enforcement and other agencies from purchasing and using facial recognition systems but would even bar the use of such technology by private citizens in the city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
-      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224792/baltimore-could-enact-nations-strictest-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Detection_And_Recognition_380721568.60b10b5b785a3.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
-      "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
-      "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
-      "originalUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/Exotec_1.jpg",
-          "width": 2080,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
-      "publishedDateTime": "2021-05-28T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Major Technology Giants in Buzz Again | Active.Ai, Microsoft, Narrative Science",
-      "excerpt": "Global Artificial Intelligence (AI) in Fintech Market Report 2020 by Key Players, Types, Applications, Countries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-major-technology-giants-in-buzz-again-activeai-microsoft-narrative-science-2021-05-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -28,20 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Tractable becomes world's first computer vision unicorn for financial services"
-    excerpt: "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by"
-    publishedDateTime: 2021-06-17T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook"
-        width: 678
-        height: 355
-        isCached: true
 
 secured: "XjzeUQ8SNWRIfpeIGnIYkpfwJK+fCc8ulita5Atcb63HAulOhD4jc11k2xu+0NpnsFo8CUp+Y5DXZlyp1cf6J789qzQmKIAUwInDlkPUVpumrjrayNIWdXvab9J4RTW9Sm7EELYKhPI6cAIyEBwJKLeEGqbZ96jzKkkYEY0+6sV85QJUMKXIdHXdZeLlU/S9lygY+DQ3PbYO+g87BuVJ+agx5QaBtTPezeCR2Vo8nAFEoqto1NdGOOmDqPGboHoGyyM5XCmgy1WOOC/JXCRnHazIPMSpB5uHilCmlY1ekNbpMmVnlgGl7ecM1oKDtaruaIWt9V+TSJRbamOpkOTW7kvUriWJkMP8wmfquwoqaao=;LCdwdcmiDDLRikMaebQuaQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-08-apple-brings-systemwide-visual-text-recognition-to-ios-15.md",
+      "title": "Apple Brings Systemwide Visual Text Recognition to iOS 15",
+      "excerpt": "Apple today announced Live Text, a new feature of iOS that provides intelligent text and object recognition for images. In iOS 15, photos (new and existing), screenshots, and images on the wen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.phonescoop.com/articles/article.php?a=22535",
+      "originalUrl": "https://www.phonescoop.com/articles/article.php?a=22535",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.phonescoop.com/img/a/f/22535_600_a_1568355563e93bf28c1bd97ecad30b4b.jpg",
+          "width": 433,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phone Scoop",
+        "domain": "phonescoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-ban-facial-recognition-software-in-baltimore-and-beyond-reader-commentary.md",
       "title": "Ban facial recognition software in Baltimore and beyond | READER COMMENTARY",
       "excerpt": "Facial recognition technology is too prone, too much an invasion of privacy and too likely to misidentify Black individuals for any city to allow its routine use.",
@@ -1308,50 +1351,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota.md",
-      "title": "Tests of Clearview AI facial recognition software raises concerns in Minnesota",
-      "excerpt": "At least 42 law enforcement agencies in Minnesota, including the Renville County Sheriff's Office, reportedly used Clearview AI facial recognition software, according to a Buzzfeed investigation. Clearview AI is a web-based platform that allows users to submit pictures for possible matches in a database of more than 3 billion images pulled from open source websites,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota",
-      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21224667/tests-of-clearview-ai-facial-recognition-software-raises-concerns-in-minnesota",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/05/bigstock_Face_Recognition_Technology_Co_354149738.60b0007191e5b.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

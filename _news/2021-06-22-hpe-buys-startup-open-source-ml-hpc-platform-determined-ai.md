@@ -65,6 +65,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "HPE Buys Startup Determined AI to Accelerate ML Training"
+    excerpt: "Hewlett Packard Enterprise on Monday announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful"
+    publishedDateTime: 2021-06-22T02:59:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20039-hpe-buys-startup-determined-ai-to-accelerate-ml-training"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/7b5a9b42f145a0fbb26efa43903483fe.jpg?t=20210622_025719"
+        width: 752
+        height: 408
+        isCached: true
   - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
     excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."
     publishedDateTime: 2021-06-21T17:34:00Z

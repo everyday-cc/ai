@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-17-the-future-of-automation-robots-are-coming-but-they-wont-take-your-job.md",
+      "title": "The future of automation: Robots are coming, but they won’t take your job",
+      "excerpt": "This, in a somewhat cyberbolic nutshell, is the biggest immediate threat many fear when it comes to automation: Not a robopocalypse brought on by superintelligence, but rather one that ushers in an age of technological unemployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
+      "originalUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/retail-turns-more-and-more-to-machines.jpg",
+          "width": 2000,
+          "height": 1406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/the-future-of-automation/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/the-future-of-automation/?amp",
+      "publishedDateTime": "2021-06-16T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-experts-weigh-in-pros-and-cons-of-machine-learning-for-ai-security.md",
+      "title": "Experts Weigh In: Pros and Cons of Machine Learning for AI Security",
+      "excerpt": "AI security experts at RSA 2021 explore how attackers and defenders both can benefit from machine learning. See how it can both help and hurt.",
+      "sourceUrl": null,
+      "webUrl": "https://securityintelligence.com/articles/ml-ai-security-pros-cons/",
+      "originalUrl": "https://securityintelligence.com/articles/ml-ai-security-pros-cons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityintelligence.com/wp-content/uploads/2021/06/AI-Security.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hack",
+        "domain": "securityintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-alphabet-self-driving-unit-waymo-raises-25b-in-latest-funding.md",
+      "title": "Alphabet Self-Driving Unit Waymo Raises $2.5B in Latest Funding",
+      "excerpt": "After its latest funding round, Alphabet's self-driving unit, Waymo, is now valued at just over $30 billion, according to some estimates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
+      "originalUrl": "https://www.thestreet.com/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ5MzgxNTcwMDI5MTkx/royal-caribbean-reports-mixed-quarterly-results.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/alphabet-self-driving-waymo-raises-2point5-billion-in-latest-funding-round",
+      "publishedDateTime": "2021-06-16T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-amex-bets-on-ai-and-nlp-for-customer-service.md",
       "title": "Amex bets on AI and NLP for customer service",
       "excerpt": "With an eye toward customer service, American Express taps AI, specifically NLP, for a new predictive search capability in its app.",
@@ -1014,144 +1153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing.md",
-      "title": "Harnessing Healthcare’s Data Explosion With AI-Based Natural Language Processing",
-      "excerpt": "By creating efficiencies that minimize tedious searches and deliver users the specific information they need when they need it, clinicians can spend less time on the computer and more time interacting with patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/harnessing-healthcares-data-explosion-with-ai-based-natural-language-processing/amp/",
-      "publishedDateTime": "2021-06-16T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-is-ai-the-answer-to-recruiting-effectiveness.md",
-      "title": "Is AI The Answer To Recruiting Effectiveness?",
-      "excerpt": "Engaging a talent acquisition strategy that leverages today’s powerful technology with experienced human talent acquisition professionals will prove to be the most successful way to win the battle for top talent in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c8efb5cd9d0bfa3273a60d%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/06/16/is-ai-the-answer-to-recruiting-effectiveness/amp/",
-      "publishedDateTime": "2021-06-16T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-mydecine-unveils-artificial-intelligence-drug-discovery-program.md",
-      "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
-      "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

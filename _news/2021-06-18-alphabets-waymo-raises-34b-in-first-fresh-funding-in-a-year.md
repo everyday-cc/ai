@@ -73,20 +73,6 @@ related:
         width: 6500
         height: 4333
         isCached: true
-  - title: "Alphabet’s Waymo Raises More Than $2 Billion In A Year"
-    excerpt: "Waymo successfully raises $2.5 billion at its fresh funding. Despite analysts predicted it is not a good time for the company to go for IPO."
-    publishedDateTime: 2021-06-17T09:54:00Z
-    webUrl: "https://techstory.in/alphabets-waymo-raises-more-than-2-billion-in-a-year/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Waymo raises $2.5b to rev self-driving cars"
     excerpt: "Waymo on Wednesday said it has raised $2.5 billion from parent-company Alphabet and others in a new funding round to fuel its mission of getting self-driving cars on the road.The infusion of cash comes just months after the departure of Waymo chief John Krafcik prompted concerns that the unit might be stuck in low gear despite boasts of gaining traction."
     publishedDateTime: 2021-06-19T19:26:00Z
