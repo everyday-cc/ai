@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ContentSquare"
   url: "https://twitter.com/ContentSquare"
-  followers: 6565
+  followers: 6566
 
 size: 501-1,000 employees
 yearFounded: 2012
