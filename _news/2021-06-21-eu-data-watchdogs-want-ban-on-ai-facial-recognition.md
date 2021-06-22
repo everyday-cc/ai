@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+    publishedDateTime: 2021-06-21T17:00:00Z
+    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
   - title: "U.K. Privacy Chief Sounds Alarm Over Live Facial Recognition"
     excerpt: "Britain’s privacy chief issued a warning over the risks from facial recognition technology, saying people should be free to go shopping or walk around a town “without having our biometric data collected and analyzed with every step we take."
     publishedDateTime: 2021-06-17T23:01:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "EU data watchdogs want ban on AI facial recognition"
-    excerpt: "The EUs data protection agencies say using AI to identify people in public poses a high risk to privacynbspIt wants a general ban on"
-    publishedDateTime: 2021-06-21T21:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269995146/eu-data-watchdogs-want-ban-on-ai-facial-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 56
-    images:
-      - url: "https://cdn.bignewsnetwork.com/n241624308170.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Facial recognition may help you find your lost pet"
     excerpt: "Police always say to have a current picture of your child, just in case. Now, a national database wants you to do the same for your pets."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.reuters.com/resizer/7dMGSEvPpWtUrG2Pv2HyUMrjtxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PM3DYLXTWZNK7P3XCMCRTSQU64.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI-enabled talent management startup ‘Sense’ raises $16 million Series C round"
-    excerpt: "The San Francisco based talent management startup has not only raised funds with the help of existing investors and India-based business-to-business (B2B) Avataar Ventures but also expanded its global footprint by doubling down on India operations."
-    publishedDateTime: 2021-06-17T06:07:00Z
-    webUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 53
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
-        width: 960
-        height: 539
         isCached: true
   - title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
     excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance Management platform powered by Explainable AI to enable them to build Responsible AI in production."

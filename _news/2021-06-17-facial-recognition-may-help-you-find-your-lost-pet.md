@@ -38,6 +38,22 @@ related:
         height: 765
         isCached: true
   - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+    publishedDateTime: 2021-06-21T17:00:00Z
+    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
+  - title: "EU data watchdogs want ban on AI facial recognition"
     excerpt: "The commission's plan includes special exceptions for allowing the use of mass facial recognition in cases such as searching for a missing child, averting a terror threat, or tracking down someone suspected of a serious crime."
     publishedDateTime: 2021-06-21T16:07:00Z
     webUrl: "https://www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece"
@@ -66,20 +82,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ingGZWfEzfqQ/v1/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "EU data watchdogs want ban on AI facial recognition"
-    excerpt: "The EUs data protection agencies say using AI to identify people in public poses a high risk to privacynbspIt wants a general ban on"
-    publishedDateTime: 2021-06-21T21:22:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269995146/eu-data-watchdogs-want-ban-on-ai-facial-recognition"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 56
-    images:
-      - url: "https://cdn.bignewsnetwork.com/n241624308170.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
     excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."

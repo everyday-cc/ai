@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
 type: article
 quality: 121
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
+    excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
+    publishedDateTime: 2021-06-21T23:07:00Z
+    webUrl: "https://www.biometricupdate.com/202106/ambarella-doubles-up-on-resolution-for-imaging-ai-at-the-edge"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
     excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
     publishedDateTime: 2021-06-21T09:02:00Z

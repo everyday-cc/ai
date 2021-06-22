@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced Ping An Insurance (Group) Company of China,"
+excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep"
 publishedDateTime: 2021-06-21T11:31:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21641649/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21641649/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
+ampWebUrl: "https://www.benzinga.com/amp/content/21641649"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21641649"
 type: article
-quality: 15
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -35,6 +38,6 @@ related:
         height: 448
         isCached: true
 
-secured: "7DXNzOAO2OEYXV3S8XtmuqDxxwU8u9zsHqj2hFjkjlZSI3jT6K9nZhlUoeq6YKSx6AehEkLjs/ucTzWDyDDUVOj8TszCfdgwOP75rvVwIpBfcWaxS/w5ZsjvaNcGEbjwp543IM/eviNAXPBR5OlYdBioKmMWKlJMlt8i7o5Qeb9BE64Qv63Sb/r3JwaMSVaAqbyryKT7QXmUv+RfwLCbq982QKQzdfrQkRv6pVx1BxqQqZBicvWV0/XqQrVR+MTHC1h80KIh376+TRC0ycTdZOQX7+8GcAiutEY4gSyMA+80th1XeyHSCd+5xnNrptGjKZI0P90Y/0cyVJryOHtdltJW2UzrleG0R1+hoI/xgUA=;Q/VktlcxBixmXM8OrKIFDQ=="
+secured: "NSiao8ZGgjros/StdonugGaISrV8MpHuSJ4tPpVrKMW3OFMiHPKPxqWm47QB+FjDDOSRbX89miC/wXJxWtSLmHbcKM41LVtuQTwk2LZnfKPTEOhxXV/Gcn4XZVkmlIf7/HG8zFW0ndxurizdjFVTzO/vLQ2uOQQ1n3mRckAF+IwX29vPgrEt3dki3KvX3Jmxb6R1Ni+LnW2oxN4yOFCvs4gNbMBzmWTVg3s9ZQvDNI+tcTFCwZ2sUNeOX3Xp6s6oU1ECC6N9fQUMXw2vcrp7UDJ+Bjcz6969ohpCb2LJULP4HvWRU8yXMGZQN2jCRW/NCKq3a8aetpbqG9s5McG/8vqudUb1Odv+Dcd33MNabg4=;VYAW8Eyb4Bw7yS2NF4MYbA=="
 ---
 

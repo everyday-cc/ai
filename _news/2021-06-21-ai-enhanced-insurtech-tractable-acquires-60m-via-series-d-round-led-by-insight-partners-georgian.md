@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176840-ai-enhanced-insurtec
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176840-ai-enhanced-insurtech-tractable-acquires-60m-via-series-d-round-led-by-insight-partners-georgian/amp/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 300
     height: 227
     isCached: true
-
-related:
-  - title: "Insurtech AI startup Akur8 closes $30M Series B"
-    excerpt: "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,"
-    publishedDateTime: 2021-06-17T07:01:00Z
-    webUrl: "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/"
-    ampWebUrl: "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Akur8-team.jpg?w=738"
-        width: 738
-        height: 490
-        isCached: true
-  - title: "Insurtech AI startup Akur8 closes $30M Series B – TechCrunch"
-    excerpt: "Automating insurance coverage claims is a giant enterprise, and the world of AI is coming at it ‘full pelt’. The newest is Akur8, an insurtech automating insurance coverage platform whose ‘Clear AI’ product is attempting to eat into the incumbent massive enterprise of Willis Towers watson,"
-    publishedDateTime: 2021-06-17T07:00:00Z
-    webUrl: "https://bestgamingpro.com/insurtech-ai-startup-akur8-closes-30m-series-b-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 37
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/Insurtech-AI-startup-Akur8-closes-30M-Series-B-–-TechCrunch.jpg"
-        width: 602
-        height: 400
-        isCached: true
 
 secured: "D4q6i1Jn7hpiwoUG94nAF93zxirch3t5ebQz4LK5thMOXr0tBMzABUKdLkpM4esq24z/pz2v1hE4QdafZ/WmDckGmoR+/u1tRcc6OllK39p+2JnbdoS+jbjxH/solufTtWb1AmoDpfu2ueiEFGGIxEEELTpZidOdp6JvSk7iKK4ccaqqgWr/JwHggw4RvDlzJcYqlJyaUwizbT4DYWK3QwuuMuGPlZhYSbBY5RN0VnkEP3hbBxFjLRs6u36P8r9eUlh36oa+sqync96hGclS7NNSQwzu3kvkOOwjsHe5MeQiJSNYjIsqX6CNnq+PQ1V1eMmuZ054NkkSndF8AYDFn0VsYDUiwhh6iA58S86HJMzvKntkqKL2rmTZVg69EdaQBgvqmNVcI5HoW5vWeksSAHQzovCbep4IgpYLxjJ+wFQ7sd/qCyKmMKrYjw/zkSjqYHBzLpPhLaLxXbDhcCX7RqNBeaUp9RvbLrHSzeCk+fh1rk4Do9WTtKlGsibY+fygoT/izRbhW2L26oSazivUEg==;Tw3aWRF8zs95P5/mh2bmmA=="
 ---

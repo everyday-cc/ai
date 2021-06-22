@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jun212021at32800PM.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "Cleerly, a startup using AI to diagnose coronary artery disease, raises $43M"
+    excerpt: "Min, founder and CEO of Cleerly, a company that uses artificial intelligence to identify the features of plaques that may cause heart attacks. \"COVID significantly affected heart disease in that people did not get evaluated in a timely fashion."
+    publishedDateTime: 2021-06-21T22:30:00Z
+    webUrl: "https://vator.tv/news/2021-06-21-cleerly-a-startup-using-ai-to-diagnose-coronary-artery-disease-raises-43m"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 34
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21126.jpg"
+        width: 320
+        height: 240
         isCached: true
 
 secured: "vM6PUz8/6kYWR4q1Cmeu9ZxXRF7tKDSnqwIYEk6g0ry+IrwtwRQ89mNVmAEx5eXERAXERTMsSQaaQbbNBt7gJmiD80SlO0NAAF9YNXT0yKiJ16SCE2g30EwFRQA2hEnVHEKXXxCgmcroPnFTUw33vGtWprE78wlsgyoOP1nWbscflgmpbfVHut/iGISIw+yMIfWd36e/8aTXzy1jko7/KtKZM5vdVXkyHuQIFV5VhwfsiNYKJ7s1wFEp2RlhAnEPykYAP6tUEarakpcYsa3K7XymTy6DcMeoCaLc215nbL5AQjLfxN0KeM38bBLFww15sVAsy8O1jvPDFfYel02/VFYVe1O/czr7pl3db1RhX+HK/ZqTm8Hf9WCf3ugzzUwypRg0FxJf8QrMsI2GY/sdoK9t0H8OpSZFLuTmQ457uexRZKZQtW9m4zB9m174B6o3CdwgMvt9KSEjW0ChKv/W81urx1hGMy1v4qlD9zCJj9ZDuaLBz3MAsAg0maeqnJ087nOy6jMS1zHR2wN3f/nQ1w==;YzLK/9tz4GlpslUDthgdmg=="

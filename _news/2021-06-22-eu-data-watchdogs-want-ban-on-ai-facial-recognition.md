@@ -1,28 +1,30 @@
 ---
 category: news
 title: "EU data watchdogs want ban on AI facial recognition"
-excerpt: "The EUs data protection agencies say using AI to identify people in public poses a high risk to privacynbspIt wants a general ban on"
-publishedDateTime: 2021-06-21T21:22:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/269995146/eu-data-watchdogs-want-ban-on-ai-facial-recognition"
-webUrl: "https://www.bignewsnetwork.com/news/269995146/eu-data-watchdogs-want-ban-on-ai-facial-recognition"
+excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+publishedDateTime: 2021-06-21T17:00:00Z
+originalUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/n241624308170.jpg"
-    width: 630
-    height: 420
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+    width: 1920
+    height: 1357
     isCached: true
 
 related:
@@ -98,6 +100,6 @@ related:
         height: 289
         isCached: true
 
-secured: "JDIn9OfdbfLUuHpy0SlVflTRlL2U5E3oEi48xJti28Aq2tYvq849QYnZoXUCVhbZ6L57e/KrxfFtfrRAy18+01ZHGHqFZ6Tpytp2qih3A7qInbwDt+/tOoytR4iGL6IGJFxQB4nu4/K/2S8NoLKi2L2jWz95OzNmLdILoej56Xkiz3uyVTstcnHjqjn+z90LLzKu/K99KlZx1xuxI51+R117DdBMwki91+oOHKh+fIXWjj3nOxbapB2UfA4nogbiS1gkcPx9vr+auVXgM/WkDWL3PJ+MqEsUjXlZkY0grI1hkIAtFocJvdsm4UKTqUSMNk0mnhvwy57/F509sp1a2wNT9D81VZ5QQVQYcg2qcS4=;Ga2PRSUrK4f052s5zjAckw=="
+secured: "OCFPkdqjoUu/vV8NMIbqIMD40IbGJVokDf3LJ68J6048d+Y3SlnsDSm1ixMPw6SWKiuHhsbX03WY+UI6H8tdYDCSD8FiBenQgnX+yib12VB+Jpq4/Mb1Mv+8mJDVoZd/gvkhEjbud0hvNojiUsIQ1pzPdqrHn5aWO+vsemKDOMpDYMoY4cFc0n6dlD+MA2wVkTpdfpEoEqBiFc1+BtwwjOetKc7mcmmCfjS9bUUlGsn9zj1fiYt0uV5kgBLkJt8C8oK3j+dA+Jpymn2Xvy7WjDz2YisdYkv0xKEFsfxEeGms1ef8dgKxs3glXHCNNJNBuqRenrJlT9OzS+0Oi68dp8gV5v09TlDayT8hRaWPAzY=;m1OsHXgRKZx85JKWZ61iQw=="
 ---
 

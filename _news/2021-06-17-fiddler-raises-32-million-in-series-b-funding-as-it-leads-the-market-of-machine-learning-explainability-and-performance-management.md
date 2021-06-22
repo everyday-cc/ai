@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI-enabled talent management startup ‘Sense’ raises $16 million Series C round"
-    excerpt: "The San Francisco based talent management startup has not only raised funds with the help of existing investors and India-based business-to-business (B2B) Avataar Ventures but also expanded its global footprint by doubling down on India operations."
-    publishedDateTime: 2021-06-17T06:07:00Z
-    webUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/ai-enabled-talent-management-startup-sense-raises-16-million-series-c-round-9687771.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 53
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/05/technology-3389904_960_720.jpg"
-        width: 960
-        height: 539
-        isCached: true
 
 secured: "fXp/3wrBS8yQZvZ4SWLh8bLWKn2jzCek4n23S4CQaKXDX7by+l+Nmiv7wF0PMm/+2yC3/imWay7FdgJQdjNifXg0rb8HR9BUx3XEtpNNBtm8WX8Istv4bWwu7R8wHJmu6jxjlIAPRSP9Fz9+74fH80hEpqqd3ZiiivBnUDYlCbRRFmTPCrRYIGp0dWWxZ0NbghaMFks4eS9dbzSKoKuTM/0qN5rpZ3ZXsRP3I/evE0v3G0Zh9HkCMOl+NrDpo4LW5733GrBaS4Cc7weE639RpabVtcH71v/vQJQKMo3vEZj4iSLSVyuQF+XCxttpIm5/ZOQLKZlW8fw9JEwXztkhEoUFge5PiTpq/R5pDrJeQXM=;P1tm63OS9o4copLQRuJiUQ=="
 ---

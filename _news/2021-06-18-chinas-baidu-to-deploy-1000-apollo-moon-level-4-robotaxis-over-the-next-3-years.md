@@ -113,6 +113,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
+    excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
+    publishedDateTime: 2021-06-17T23:00:00Z
+    webUrl: "https://www.futurecar.com/4689/Baidu-Inc-to-Deploy-1000-‘Apollo-Moon’-Level-4-Robotaxis-Over-the-Next-3-Years-in-China"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 30
+    images:
+      - url: "https://img.futurecar.com/202106/17/l_60cbcfb6715a8.png"
+        width: 800
+        height: 472
+        isCached: true
   - title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
     excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
     publishedDateTime: 2021-06-17T10:13:00Z

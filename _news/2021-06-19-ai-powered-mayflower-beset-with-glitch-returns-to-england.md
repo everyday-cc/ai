@@ -36,6 +36,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The AI-Powered Mayflower Vessel Turns Back to England After Experiencing a Mechanical Mishap"
+    excerpt: "The ship was in the midst of a three-week journey, during which it was gathering data about the ocean to help scientists understand key global issues affecting ocean health."
+    publishedDateTime: 2021-06-21T23:05:00Z
+    webUrl: "https://www.insideedition.com/the-ai-powered-mayflower-vessel-turns-back-to-england-after-experiencing-a-mechanical-mishap-67834"
+    ampWebUrl: "https://www.insideedition.com/the-ai-powered-mayflower-vessel-turns-back-to-england-after-experiencing-a-mechanical-mishap-67834?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/the-ai-powered-mayflower-vessel-turns-back-to-england-after-experiencing-a-mechanical-mishap-67834?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 46
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-06/mayflowersplit-screen1280x7202cpsd_4-recovered.jpg?h=733c762c&width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI-Powered Trimaran Mayflower Suffers Glitch Ahead of Unmanned Atlantic Crossing"
     excerpt: "Two steps forward, one step back: even the most revolutionary, record-breaking endeavors can suffer setbacks. Research organization ProMare and partner IBM have just had their first, with the fully autonomous trimaran Mayflower."
     publishedDateTime: 2021-06-19T07:30:00Z

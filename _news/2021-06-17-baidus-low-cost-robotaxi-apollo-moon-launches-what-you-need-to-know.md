@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/21601949"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       name: futurecar
       domain: futurecar.com
     quality: 33
+    images:
+      - url: "https://img.futurecar.com/202106/17/l_60cbcfb6715a8.png"
+        width: 800
+        height: 472
+        isCached: true
+  - title: "Baidu Inc. to Deploy 1,000 ‘Apollo Moon' Level-4 Robotaxis Over the Next 3 Years in China"
+    excerpt: "China's Baidu revealed its next-generation electric robotaxi called “Apollo Moon\", which the company Baidu says is a monumental milestone in the large-scale commercialization of fully autonomous ride-hailing services in China."
+    publishedDateTime: 2021-06-17T23:00:00Z
+    webUrl: "https://www.futurecar.com/4689/Baidu-Inc-to-Deploy-1000-‘Apollo-Moon’-Level-4-Robotaxis-Over-the-Next-3-Years-in-China"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 30
     images:
       - url: "https://img.futurecar.com/202106/17/l_60cbcfb6715a8.png"
         width: 800

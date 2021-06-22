@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Dataiku Launches in AWS Marketplace"
-excerpt: "AI and machine learning platform Daitaku announced today that it is available in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors designed to make it easy to find,"
-publishedDateTime: 2021-06-21T18:22:00Z
-originalUrl: "https://insidehpc.com/2021/06/dataiku-launches-in-aws-marketplace/"
-webUrl: "https://insidehpc.com/2021/06/dataiku-launches-in-aws-marketplace/"
+excerpt: "Dataiku, a leading AI and machine learning platform, announced today that it is available in AWS Marketplace, a digital catalog with"
+publishedDateTime: 2021-06-21T23:04:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/dataiku-launches-in-aws-marketplace-876332591.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-launches-in-aws-marketplace-876332591.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1449328/Dataiku_Logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
 
 related:
   - title: "Dataiku Launches In AWS Marketplace"
@@ -34,6 +40,6 @@ related:
         height: 628
         isCached: true
 
-secured: "JsrtAVUX15nwUj3G6F98q2vjsPQR12e6SnyAMTbsg//NGxzkW+Bq9o01YwHiv/QNZxXgAMTUR1AxB8hfoFAFd4lLCZG5kvN3MPt36cohDAoHxa7Kk5+WTkqEFrxwyrOX8bdPKpVRb82QrmAfPbTXkjiZ2HBnGDj/KIEz7yDtoNSA1qqxNINHmtWzOTHvTxWiJvPNvtYDKjin2/L6XY/ut/kSbnlfqusTj/mkdLZ6VFun/VlbEmn84qU+Bml0pkzo+vzOegc6+gEuBFK00IIKg0eZoh71v94y0vsujjG4ItdrLOlBHHIGDFgNQQlDIHpI7SlfVOsIjhIUHfRsOKAZdM9U586i3xVkFrXUkn2SgS0=;CAIPDSbLRazK5/Kyuybzaw=="
+secured: "eHiCTixWeiV1LxKVfM6xZJBKOva/q9zUClVL1HuqzQgdOpiws3NAZAOUe6ElQTQ6T7/zdnHK3oXZb5F8iOtyQEBoQQakL+jGYlu1J8SF4Rjw1T2d7TtBSRixUo4vr2diuddGOOTyxczfXJZHcvaPumXnfzCug4wMYqeXxyllPhWZGKl4Smcyz8j79yNfgNZ/HoS0ACN+53RIIEgRQPuI7lGwdIb1HpGcALO/MKGCmzhDFxm20Tmnr+A8kkU/8xiz9VTdmIwZw7rOnWQ1Hnu2A727Myzrvo4dsi2vQSlMt7MUiLsSUq0MapO6Lkcz/wZPl3SWDk6iy6ENBkajfql3Tj956peE965ca1sRcVVv50U=;jz0BVVL/2bYpIup1KKQz5A=="
 ---
 

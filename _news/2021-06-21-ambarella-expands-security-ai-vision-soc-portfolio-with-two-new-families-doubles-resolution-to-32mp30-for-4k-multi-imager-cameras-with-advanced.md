@@ -42,7 +42,21 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
+    excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
+    publishedDateTime: 2021-06-21T23:07:00Z
+    webUrl: "https://www.biometricupdate.com/202106/ambarella-doubles-up-on-resolution-for-imaging-ai-at-the-edge"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "MbXbOEZvxHDqaaD4RYLGjRwoLTejkXzOd91UzVlxjG89VVv0EMuVZkfRc3ikfcS4FCsa8QwUdu1hTAiO4dwnEyo1uge6Q+T4jbn8IAn7dbKW0uOYCNnma8f5Cp6iYvw379SHiANX4Ki+FKwyIgC0R7SsqtXAn96eIHit5Uztck7t+f3YrhL772EAuf++sb9thMpEgNa4/tMXT4W90b7iJ3H1HrYiwjeTDVfdfUGUztXeWVVILYNUgyY6wbhbI5r+IrhA0hVr2PqhnXo9PRshW3BSUlOMgbmxPGLogVgq1kpJvdR8N/vQ1cV02nsQoydYN1XnSY+tuXWjxReNusYyYakHNxJc0OhCngHr0y3isro=;FrU3X0lpOABMPBvfigBfFQ=="
+secured: "QAua2cuu6NDHUex2zQZHMiuVMvKwujIFRPE6+MaWEdcDNb2CHgG6f9rMHbpJmsAeH6agerbhn+DOzBhdhwALGF1tMysmK1CkL0PnfCmqR525Qwtx0oEIJQ/weSPnXLAbtOJJhBF+Gpaque90wwIMFMpoxch0UtBZ4GHjYztmTjpkNpWhFmxuFyrd5YrKsOEipFs+ga+XW2mypCHMzbmWMLvxcCmtyWwFgpbjYH5/O370HsPIHrprIKRsJrxmcFgdgdyu8O00TMNIWRifbr3MNFP7jpQW+hr/34K7jHP0JkkpAyR09oxFPE5RItxS2ndgt3O55+/j2DoeZ6M244e0m3FNt39CyxDLkgH4Dz8myokUiC7XTiaJeCZNbl0AKVAYHu11b20Lzx67NeW/to1RwjZJOwRZPko0yUopSPjHECggRbtjduW4T/mPafXNxCAEoxsWJP++9h+epIXHrkkiqT8noKxFwXpMP9mhcgfWG7q+tJ4ih7sw+lkCI9qDcEanrQPzPi50Yf4ekH0OjF/buw==;sg8EjI5MGzNgjgV4/YWv/g=="
 ---
 

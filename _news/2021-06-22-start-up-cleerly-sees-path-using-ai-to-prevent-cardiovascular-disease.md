@@ -41,7 +41,21 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Cleerly, a startup using AI to diagnose coronary artery disease, raises $43M"
+    excerpt: "Min, founder and CEO of Cleerly, a company that uses artificial intelligence to identify the features of plaques that may cause heart attacks. \"COVID significantly affected heart disease in that people did not get evaluated in a timely fashion."
+    publishedDateTime: 2021-06-21T22:30:00Z
+    webUrl: "https://vator.tv/news/2021-06-21-cleerly-a-startup-using-ai-to-diagnose-coronary-artery-disease-raises-43m"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 34
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21126.jpg"
+        width: 320
+        height: 240
+        isCached: true
 
-secured: "uvqvfl9DDhyryJm859hFCZfYCyZZoUPROmAp7TdQQPefdWmKenzGyrF3CoTm/vjhji1ap3hEpgk6ewEYyOyTqy+e4rFWq4WaiOFHMRKLtzR+nOiJbaWWFHIGU3Zq8RHij1MjWaxTLB2P1VKnY8QnJsxE/j3UIYQmzKRlfXoSStP3mgB33xo5sA+GrhB3ta9QfARrVUR6Xe2lJHdIWvann5FEJ4QUsglIA7gUlC5rj+Mr+ufc2mTEfiUFJWmlwuYXfJpBn/5G7Mz59JKZc4hlOuZjn2Bya70FNgVlYC2epAJdwIlUyx2hn5BiFQc1CtcliCKfhOjTXHBQRZCH6NLhKnsGt5SoVQDQMtjKvLvUhcI=;zK5BxhFq9QSy0QIfKV4efQ=="
+secured: "oputn0jYa7DEbyvJv8EkPoX7ggJ9fXK3eLzsC11zieyTjq1m/g+eQarplu+JS0bPFl6fC3mmke40SYS3jHzN6/VBu+yZ90FABQcf6B/v/A54B7J8OAuxDgF4Qwbq8YL6AW+KUccqPm7Q6w7XXFZOZSVx60dp/FlD36k+E17xEm0hYpixOihXCb89Hw10Gut8PP+1NARtBbru1ZwJKwDNjkXqSIgGAQTMEf+39EJSzxRGB8Zw/CaxAoGbYR2hkkVggUstuXnAoWmEOPV3SDKbgEm6eYMf/uAmDTR0oKeFNgSZys4Fc6U1MR5YnnQjdNcsfIEUzMPw/AVu+wZwzaAnk3RJ5fJjuoSXJrnO19mu6VQIGFqAhdxXDhXRGy4kkEsYGqLqOsKOpJEJGBZ7PPGervTLQWtjFfkcPR3P2+KbAcRmWFRkA8lHO+HO9SKFphC8EtEz7662ViBAFMOwRB40fjiYpH2WjrewLQQ+ztLU6fHbgC5pAgt9xIqLrfZX3R6PUYaR67WATEPKOyShrMMO3w==;rcv7SSic0aKpCEF84Ldhqw=="
 ---
 

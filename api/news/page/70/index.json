@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-04-30-6-tips-for-expanding-your-smb-internationally.md",
+      "title": "6 tips for expanding your SMB internationally",
+      "excerpt": "Virk predicts that the need for human translators will increase as more content is produced from AI translation engines. Heather Shoemaker, CEO of Language I/O, explained how to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/6-tips-for-expanding-your-smb-internationally/",
+      "originalUrl": "https://www.techrepublic.com/article/6-tips-for-expanding-your-smb-internationally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/05/21/702ce4df-0870-4f12-9e1f-2d0da7890eae/resize/1200x/e08fd66b72e66ca19baaa0c090eb1b04/global-economy.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/6-tips-for-expanding-your-smb-internationally/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/6-tips-for-expanding-your-smb-internationally/",
+      "publishedDateTime": "2021-04-29T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-veritone-announces-support-for-aws-for-media-entertainment-initiative.md",
       "title": "Veritone Announces Support for AWS for Media & Entertainment Initiative",
       "excerpt": "Amazon Rekognition, which makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to ...",

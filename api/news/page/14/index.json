@@ -2,6 +2,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-09-how-artificial-intelligence-and-machine-learning-can-prevent-third-wave-of-lockdown.md",
+      "title": "How artificial intelligence and machine learning can prevent third wave of lockdown",
+      "excerpt": "New age technologies such as artificial intelligence and machine learning can predict and effectively prevent third wave of lockdown",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
+      "originalUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/03/coronavirus-4842056_1280-2.jpg",
+          "width": 716,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-can-prevent-third-wave-lockdown/amp/",
+      "publishedDateTime": "2021-06-09T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
       "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
       "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
@@ -956,8 +1000,8 @@
       "title": "Kanverse.ai Launches the Emerald release of its Intelligent Document Processing Product (IDP) Focused on Empowering Teams Through Collaboration",
       "excerpt": "CPO Quote \"Collaboration is a game changer in digitizing Enterprise document processing workflows. With Emerald release AI powered Kanverse IDP introduces powerful features that e",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-kanverseai-launches-emerald-release-its-intelligent-document-processing-/2021/06/08/9386295.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-kanverseai-launches-emerald-release-its-intelligent-document-processing-/2021/06/08/9386295.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386295.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386295.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1119,58 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
-      "title": "Snowflake previews data marketplace, governance tools, management features",
-      "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Snowflake-Data-Consumer-Montization-Example-.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/snowflake-previews-data-marketplace-governance-tools-management-features/amp/",
-      "publishedDateTime": "2021-06-08T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
