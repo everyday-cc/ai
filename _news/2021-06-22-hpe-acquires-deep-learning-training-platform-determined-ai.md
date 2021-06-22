@@ -74,6 +74,20 @@ related:
         width: 1939
         height: 906
         isCached: true
+  - title: "HPE acquires Determined AI to ramp up machine learning development"
+    excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high performance computing services."
+    publishedDateTime: 2021-06-22T08:02:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/hpe-determined-ai-machine-learning"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "HPE Buys AI Startup Determined AI To Boost HPC, ML"
     excerpt: "HPE acquires Determined AI to boost its artificial intelligence, machine learning and high performance computing HPC products."
     publishedDateTime: 2021-06-21T14:04:00Z
@@ -186,6 +200,6 @@ related:
       domain: insidehpc.com
     quality: 34
 
-secured: "tGpkPTWzfuCW/5fekKRQnUELeGMThed/pl4aMck0gkwTtXMECsAbQpXozFe3Sl/SkwrR/KAQi14KCqq6hG5WmBZTE1xvayNIugQFnrDuMUdg9DkF1i2b+z6M30EUX/nOEEre4u+bQwdXKhyZiQP65AMFtRFNNwI0FbogvUJbxe+e4eKLs2yZtHTAQWUQ4cKs011lE+x9EPqzlDvwryVU0hZfKW8iBcY8PLPXvr6EGp4gLWWTByyJXZkrbp718J8e+GJhb2B3ILRESGwsEYunSIszhmdLEQ6bLQLXUtIv18Oak0ddGZ0tfZtYw2Z7PgdtMcvc5VsYoGtIhCOdgbDj7kH58cdnA58KYH57PYROOa0=;2afUR08312uiu3AYK/kEiw=="
+secured: "FFJL2sP4NHveKfxsqGc+S0M7BAMDgRaO/jOsegEdn3ua3isnUmLZu2awIVIDAmj6+mvdLR55I7L6wi8Uo1DtVXhVLW4OLLmQ/QbQfJ+n3WjfpuhwTm21bOHsECV1rHYLwIEZ3HtTPT6cFWdypeYiLKOVXn3E/4HcdctZR8hnjpsk4jn0CUCWCt84YzI1Xf22D9VM9tLUdZXCoISlRox0AcspSHi7wTBSiQMxAzpoTsxasJ/h/RgGxRa1iJS9jldUDh1wYblsayK5+ET6rcJN+6vMG0+kKtQEK19/T2nzRUL6Ok0qnyyd/1WwrAerwypjNjNG+4QUElGPUgOyh+VG7ACfo8waueVeglzZPOz8uWQs+MzcRZ4GoiRVjmaS+bP+79AtnM795/BkRYagHTUyUROtjvh7kNECVgfeZDm/QgPQVaH3b/OsfuKJihKv28Ux1at7B7CIf7i/mGPNyxMXv4CuxFn/6BGOZJUdcoy6DAJEQigfuD7MJCRcRHMGZ/1HfODqjOod5VvTvnRNqyVqxA==;7MCM8BNpuOlU34zo/ChqXw=="
 ---
 

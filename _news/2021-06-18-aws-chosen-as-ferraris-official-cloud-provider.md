@@ -185,17 +185,17 @@ related:
       domain: insidehpc.com
     quality: 34
   - title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-    excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-    publishedDateTime: 2021-06-18T06:31:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_b00fab5a-226e-53c3-b170-d16981129c1d.html"
+    excerpt: "Leading global manufacturer of luxury, high-performance sports cars will leverage AWS machine learning, analytics, and compute capabilities to accelerate innovation across"
+    publishedDateTime: 2021-06-18T06:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21621074/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 28
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/8f/c8fa81af-23fb-5535-b1b5-2c39dc1c177e/60cc3e93e75ff.image.jpg?resize=945%2C630"
-        width: 945
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
         height: 630
         isCached: true
   - title: "AWS agrees technical and commercial deal with Ferrari"

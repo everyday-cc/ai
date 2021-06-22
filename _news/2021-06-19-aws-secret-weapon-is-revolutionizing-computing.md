@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "How machine learning will revolutionise drug discovery"
+    excerpt: "Alex Housley, founder and CEO of Seldon, discusses how machine learning is set to revolutionise drug discovery"
+    publishedDateTime: 2021-06-22T09:12:00Z
+    webUrl: "https://www.information-age.com/how-machine-learning-will-revolutionise-drug-discovery-123495722/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/06/how-machine-learning-will-revolutionise-drug-discovery.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
 
 secured: "+0OYDTeSX3bQT8MY866gxPzWT1iDk00lIjRXBdl+u0a8dXnIhy4i9+hivFyPNLJ8EWj9L17OBF/dfAueSiXl0YGmCqGOjk59fqahYaxs8UmscdJRVRrJ3bsTSLi4QqL30XMDsnqNmWQE3NX5JDQAXQRdqA9ecBUDTWIxdJQo+O12Sfiq3zwdrVa8QpbhwyVhpA7wVujC/DujFxYXr9w+cutT6Pp1/0Ljqi+i9r96yCtx8ZplIK5q7hflOLQjhMcgJrdvfeyMMr3YLc03RxwUZmyYR6h4J/fyq1VDHHkPt206O5QZuMe6JiEykRYjvIODBxjxMtmQCxwSXLQ9wSeDZGHG8CusbwJaPwkCKp0sfwl07zcyHHBq9zX4hrp4JaBS3Jc9ifFpHZjE9o7XtjamCfEXQygwTiR8jflZRVMnkxcKh0kbFF4GKGKnfAdDv6U37cM1qIz5NvvkfLlOfXsIOiCrnUTvb6PHqvjdTcYo7YbBhtbm8pYUtvjxyFyGEZ/bGNxExi7blSlntKdcIDVy0w==;XOm0r1uFLT3yZCmfgJI1sQ=="
 ---

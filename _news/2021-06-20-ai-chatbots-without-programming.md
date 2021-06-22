@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Chatbots for Dementia Patients Show Promise, But Need Work"
-    excerpt: "AI chatbots show extreme potential in healthcare, but a new study reveals that more work needs to be done to use chatbots for dementia patients and caregivers."
-    publishedDateTime: 2021-06-17T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-chatbots-for-dementia-patients-show-promise-but-need-work"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
-        width: 700
-        height: 431
-        isCached: true
   - title: "Scotiabank brings machine learning to chatbot"
     excerpt: "Scotiabank is bringing machine learning to its search function, prepping a chatbot that will be able to instantly answer complicated customer questions."
     publishedDateTime: 2021-06-20T23:18:00Z

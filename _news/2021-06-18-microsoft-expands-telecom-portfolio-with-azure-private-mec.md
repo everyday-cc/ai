@@ -71,15 +71,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 31
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
-    publishedDateTime: 2021-06-17T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "RZO9cqWhHJzDSCL8hL3rNvCCG5rKC0BDbkX95MorUigkbvexKUtXbN+7G+NyQlW5QqYBbMqCeznTnJp+Ba2fCXyzKu+t+JpcDT6J4NvjGr4fhlyeC47w15i2DsryPimnYc2u0CFxzQHLwlhlGQhjinaQEnpzv0OLqVDE/65i6kljzb8Vx5yr2+TYfwe2tgl9HcUHQ7qSbNjA4zpStsznXWtmTxckPiCmbI1MwvANxckmrurCSndqwtqG9yy/Q2qQq1Es93zX5kQks3VBPqv7cKU7Z64US3gWA39YkYGgFMJCn/28nnGiuMJ2G9b6HLis8kizI7DY8HpYQEqBqHi3zXjWOTsyiAcLWszkjQr4xX4=;d0rqqb2Q7AdNauKO8K64Aw=="
 ---

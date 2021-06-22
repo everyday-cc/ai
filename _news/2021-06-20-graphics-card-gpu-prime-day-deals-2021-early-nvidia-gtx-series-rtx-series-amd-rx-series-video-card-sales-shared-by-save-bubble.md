@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series & AMD RX Series Video Card Sales Shared by Save Bubble"
-excerpt: "Early graphics card (GPU) deals for Prime Day 2021, including NVIDIA RTX & GTX series GPU & AMD RX series graphics card offers"
-publishedDateTime: 2021-06-20T11:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210620005026/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-AMD-RX-Series-Video-Card-Sales-Shared-by-Save-Bubble"
-webUrl: "https://www.businesswire.com/news/home/20210620005026/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-AMD-RX-Series-Video-Card-Sales-Shared-by-Save-Bubble"
+excerpt: "Compare the top early graphics card (GPU) deals for Prime Day 2021, featuring NVIDIA GTX 1660 Ti, RTX 2060, AMD RX 580 & more video card offers. Links to the top deals are listed below. Save up to $400 on NVIDIA RTX graphics cards at Amazon – check the latest deals on NVIDIA GeForce RTX 2060,"
+publishedDateTime: 2021-06-20T07:00:00Z
+originalUrl: "https://www.financialbuzz.com/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-amd-rx-series-video-card-sales-shared-by-save-bubble/"
+webUrl: "https://www.financialbuzz.com/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-amd-rx-series-video-card-sales-shared-by-save-bubble/"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
@@ -35,15 +35,15 @@ related:
         height: 339
         isCached: true
   - title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series Video Card & More Savings Compared by Save Bubble"
-    excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings"
-    publishedDateTime: 2021-06-20T11:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210620005212/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-Video-Card-More-Savings-Compared-by-Save-Bubble"
+    excerpt: "Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series. Links to the top deals are listed below."
+    publishedDateTime: 2021-06-20T07:30:00Z
+    webUrl: "https://www.financialbuzz.com/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
-secured: "MzTDcTn02wa9QcKjFYDmGtocm3iu/O5BDW57AeiLhEce0mfrqNJFCCIlRY1vvS/rfT2U07LXEnMtAFHMh1pEzE9Okf0pe8UNshzu5PGDzAb+0rCM0g8nWpVaz1cQG2yx7ezcxdEXMBJ4TpWUNI6JBTBKNp+nk7DbmhqUh1f+5UUxlqtI59GGqfe3Rw/T9wmcdnqnvx8dqYh8O4B57LHyk+2IzfRggQ8Ud/MuHN70+qA2X1yflQ2YC4unOCo76ImKuMWCD54ry2xjnmp8mx0rq2diMxmt0S7zr0STmwLHRS/FpaojPvzbUrshO80HtNe0Mx+uWWWo2fSLNtqwez2lazS/BI18utHCb6Kxs0Ttbpk=;wtBVSCOLoFut3ICK6oKz5A=="
+secured: "zm5aBamH80yMeytw2gYECVKTHtxpknmVkotcRllkLHqNKVwN93dpGHvZpYQrQ/vmpl+24qRtHDY/I93yETPgcofRG50dxTw/Puy6ErWHUTAAELsZRnIbLGrH8iqqJBIFGviCxPbIwzR7oHZBBIFq9puHGALEmVa9hiSHPXqKtBl6rlReCmUVXioi5bNJSj1pVdsgwtPC14JPipKNfLoo3pfR/ZHYDIXhkxLY4oSkSrOfy1MADMGcahcDC5oqntwDgxwDZ7ppVC4R4cTR6CeDJexo5mQsxv+CeofxB1oFDm0U+m13bgoqSw4CqK8A34mCOurZrvnaw96SQAKHHkOb48iaG+iefMEZm1g4dAvDnIs=;yOEaCAA+JI+A9GBTCczgyQ=="
 ---
 

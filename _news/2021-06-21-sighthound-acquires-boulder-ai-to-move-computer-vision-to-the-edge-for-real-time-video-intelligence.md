@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Sighthound Acquires Boulder AI to Move Computer Vision to the Edge for Real-time Video Intelligence"
-excerpt: "Sighthound to provide the first Programmable Video Management System (VMS) powered by AI to push the industry towards flexible, cost-effective solutions that give"
-publishedDateTime: 2021-06-21T14:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/r21646717/sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligenc"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/r21646717/sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligenc"
-ampWebUrl: "https://www.benzinga.com/amp/content/21646717"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21646717"
+excerpt: "Sighthound to provide the first Programmable Video Management System (VMS) powered by AI to push the industry towards flexible, cost-effective solutions that give customers actionable video analytics data."
+publishedDateTime: 2021-06-21T14:43:00Z
+originalUrl: "https://www.pr.com/press-release/838951"
+webUrl: "https://www.pr.com/press-release/838951"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR
+  domain: pr.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Sth8C8b5wQDObhxzqqQfsuq5oJ9cBXdO/wbBy+hP7S6Cjml2beaOGDOA76Dnu9pR8atiVGzessc1bh1yImTduCHkJUKA0D3W9v97yridCe/3HEz+FYq8Jwg8zaP6V3iTvaPQ+bm0gqyEBx1+Z8ctDPKVx40GXRO1CXKi0L7vrpK2uX30mb6Uv0FVW8LznbbirfIGIUGm2bWrcQfyLZcTTpPhgux9q9h45xF/aSvLtr65BriW3Npg66bJ+woXUidIDKKG6RPqwA8OA1EmhnXNUouXa2oBtVLYdV04L4UbZI6YEuz9dwfbA8P10TEhGj5y+LuNBh+cf+c7GXH6YhrN7i33R0oF2Ix9ii8dSHlOFik=;2/IAmT2TT0REp39k0D+nWg=="
+images:
+  - url: "https://img.pr.com/release/2106/490428/pressrelease_original_490428_1624279202.png"
+    width: 879
+    height: 825
+    isCached: true
+
+secured: "00kFUNgmn7JLngwUw6Re2TrXQZ1A+EfVo5XdtaI+EvfKZ9FZVVJqjqgnTGgdx7YEJzTFuKbtLRyJ9nJTiAt2U0nD4sZPyTfmxq+wc/KQHMGSir5b8JgbSI+Snl9XGIS+Bvgq4MYswYVMUVgFthJpztfr964S0hInW+SDaSLxOCNfMZrEsgGiSu0GUNiD5jewJYzghPxP3hGVhIMswf18Ncgi3OLLbb8PyqEnF3IZ4QOTXPV/f0GJ0DQ6u9+xYYReMJOOy0ipAnROpfkp9MIIEsTflGOwBcVWIARi/YIxhuBHqd0kNMYAJGQAfm0fAOsHawqcOJ/qk1kDP+LHK6fDqu60bU1UJPyvX9tmbmoc/pg=;4uR1fN8/A8e8qi7l1W3N9w=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
+    excerpt: "The EDPB and EDPS claim a ban is needed if we want to preserve our freedoms and create a human-centric legal framework for AI"
+    publishedDateTime: 2021-06-22T08:19:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359952/eu-privacy-watchdogs-call-for-facial-recognition-ban?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1579605446/shutterstock_surveillance.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "EU data protection agencies want ban on AI facial recognition"
     excerpt: "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,"
     publishedDateTime: 2021-06-21T15:37:00Z

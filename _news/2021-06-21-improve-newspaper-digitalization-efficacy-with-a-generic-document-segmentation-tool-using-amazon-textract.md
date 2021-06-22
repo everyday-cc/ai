@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improve-newspaper-di
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-newspaper-digitalization-efficacy-with-a-generic-document-segmentation-tool-using-amazon-textract/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 559
     isCached: true
+
+related:
+  - title: "Augmenting creativity with AI: Retresco elevates use of Natural Language Generation to the next level by launching pioneering feature"
+    excerpt: "With the release of the new text variants suggestions feature, Berlin-based AI company Retresco, a pioneer in the area of Natural Language Generation, provides a software function that uses artificial intelligence to automatically produce phrasing suggestions in the form of complete sentences."
+    publishedDateTime: 2021-06-22T09:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-augmenting-creativity-with-ai-retresco-elevates-use-natural-/2021/06/22/9394556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "GEmGM6AkFNEmNDuk7+gDDxLhvmTJSScGfTklZpLa073oEcGDqq4DxCbvkDQizdjnQJc097NB13mNLf6TnPzLsfvl8BMUj5b9fGZiISQgFuoqTBO7uKvaDRS2xerrj7EYxd1HrYGR0rxi5GISLPF2cLhNUtJ2ib7uUAkeY6L0WXBdzVqlyle2zK4j2AlV3xSEJHqJsiyJzO9r2U4qxH50YexKlOjluQ09CNRzRXLOQmVLKXzFCbUF/Iz1FQGu0Zq01JkfsAtM4nsClMF09GnFq7GiLzfNHRTVLP2rIHr78ahW6t5HiWx+lDv40B5zV5kiKdEclw4tT3Cj70WOS+9O5ShW//dHyX14qR2b9wYMmXU=;DryewQTpjbeK5OnkrZSJUQ=="
 ---

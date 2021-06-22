@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-co
 webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market 2021 Leading Competitors, Regional Trends and Growth Trends 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-06-18T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market Exhibits a Stunning Growth by 2027 with Covid-19 Impact | IBM, NLP Technologies, NEC"
     excerpt: "The static and dynamic elements of the companies have been combined in this Healthcare Natural Language Processing NLP market report This study report examines the competitive dynamics of markets in order to comprehend global competition This Healthcare Natural Language Processing"
     publishedDateTime: 2021-06-21T14:42:00Z
@@ -60,17 +46,20 @@ related:
         width: 800
         height: 457
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
-    publishedDateTime: 2021-06-18T08:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
+  - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
+    excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
+    publishedDateTime: 2021-06-22T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-based-on-covid-19-impact-analysis-2021-06-22"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SjtnvWDZl5/2SAohuMow4anlEDEZ1GRNSCdwdZA3to7IuWPTyzmrzNSf1b4YHLLK9rvQtD0zTeUqyPuso9wmEcAx879jd1jZ9XsWMW7uoj1OBnFbFn2etUkXrNq3xgWGwjcoOS7vu0gqhymD+wkfyURNXTkUY+yXpxrsjdabFhxYtJK03ty7w7IHDt1CDzaW/ctyg7N93bp1TPZ94SnlwWfK15nLI4JXwqXMk1CUj9fxrYZhw7+F/img9uhl8TjXIC8iTxrCv3vl9Ym7U0czvrvdDXH7So1D7vqqWyhwRtkXfWy4lVAV1qcw1Osqc7P36CCrKT2oZ8N70n2a9csmcn3p+eXbr31Mo1fND/dYPgw=;XkYRnuD7tQb3A7WY9jlq6w=="
 ---

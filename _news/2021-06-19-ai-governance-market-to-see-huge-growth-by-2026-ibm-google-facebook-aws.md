@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-
 webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facebook’s latest AI can now reverse engineer deep fakes for source information"
-    excerpt: "Facebook has partnered with Michigan State Uni. to develop Artificial intelligence model that can detect and reverse engineer deep fakes."
-    publishedDateTime: 2021-06-17T16:46:00Z
-    webUrl: "https://techstory.in/facebooks-latest-ai-can-now-reverse-engineer-deep-fakes-for-source-information/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 35
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/MzM4ODEwNw.jpeg"
-        width: 1240
-        height: 746
         isCached: true
 
 secured: "qY+FEe0Ws94/0khW/1GmgLMp1JkdSqhr8/yCIsPv8z/wUfksWWfYQ97O1oOS5+1cydXL1FUhcObe1qmOBiTZBZXUAZRYKn7bMuntZH6WPymGnPdma/K/44m4AIo/XgYjMJYAZnvxkS3gjXNHBHqC3itElW6P9e8iDGjTXlbdEelUx1goboPB+Y2HZnORce+ZXxNp2XRu8+McVBbaASPra8fdC/mINhHtX6LKVEG/sSvGDZQtBUKDvjvFmRTDaeDCadjuhw8svccqb7bF0SOxR2ZIC+8OMVqS0F6lYxCJ6lhCEEBllz62/18NEta4KXRHxhipX6MNp9QIg1exC+XdkVNissmcUW9Fsh6RCYzjDbk=;3Pv2tRxoA43/RpcOlKt3Yg=="

@@ -53,20 +53,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Facebook’s latest AI can now reverse engineer deep fakes for source information"
-    excerpt: "Facebook has partnered with Michigan State Uni. to develop Artificial intelligence model that can detect and reverse engineer deep fakes."
-    publishedDateTime: 2021-06-17T16:46:00Z
-    webUrl: "https://techstory.in/facebooks-latest-ai-can-now-reverse-engineer-deep-fakes-for-source-information/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 35
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/06/MzM4ODEwNw.jpeg"
-        width: 1240
-        height: 746
-        isCached: true
 
 secured: "Ge4gkFNglMLUiVHuqzLPSBp/Mb0KWanIyTdfHlkSVH686t1g9ooXEcRrdNOGmevJw7a8LL7s/RVHyPc0nTymnR/5zGzDXgLnNk2TbMzJWRzGcgFU0g4NugADsrEMW/33SH82Drh+TUiIJMKiZITt3V3sQonko1xmCtKN1ac63T3a00QfCdVKb00P2t33z2/UL4JSh6Cu5xRV45jyaZWHopcZZsHcxcHNIAQhKx+njFxm4IZZ43KVnahvmKW/iu0dBGEERTZxwANAiqa/ZNyVeI1KYwk+mBGRUyPsF0Lh60FbtYoFvwt8JCOfztg5yfzGghW1jcc9cJoxjIrW/BjAJiQVF/siFHhTuUwYLMalZ1sHcJaggZcr8jeQMQlHWW2IzVJyP0zbshxsSgMiHpOT9QE0t1BvWL7dDZMqL40dSrEwKd/8Mel7glmCKTJtsliD4gGBSufSH2jP+A2I10DV4MOJF7ylvgxmLMpefPx2SSCTyJ5+GGLJHUtsSifrcDcvh1gJUAon9pQ+h8+3jjxcQg==;hv0pxf/df2yFg1d9r2T3Pw=="
 ---

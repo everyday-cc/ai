@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/3
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/HPE.gif"
         width: 1440
         height: 810
+        isCached: true
+  - title: "HPE acquires Determined AI to ramp up machine learning development"
+    excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high performance computing services."
+    publishedDateTime: 2021-06-22T08:02:00Z
+    webUrl: "https://www.siliconrepublic.com/companies/hpe-determined-ai-machine-learning"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "HPE Buys AI Startup Determined AI To Boost HPC, ML"
     excerpt: "HPE acquires Determined AI to boost its artificial intelligence, machine learning and high performance computing HPC products."

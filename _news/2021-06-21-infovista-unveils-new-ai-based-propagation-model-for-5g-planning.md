@@ -45,15 +45,6 @@ related:
       name: KLAS Press Release
       domain: pressreleasepoint.com
     quality: 10
-  - title: "Infovista unveils Artificial Intelligence Model for accelerated 5G planning and roll-out"
-    excerpt: "Infovista, the global leader in network lifecycle automation, today announced the availability of its Artificial Intelligence Model (AIM), the world’s first commercially available AI-based propagation model that changes the way wireless networks can be planned and optimized."
-    publishedDateTime: 2021-06-17T16:10:00Z
-    webUrl: "https://www.totaltele.com/509984/Infovista-unveils-Artificial-Intelligence-Model-for-accelerated-5G-planning-and-roll-out"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 8
 
 secured: "cRLYMlZfny176O5bKjRp1hFobkWxmbdNBU8jvT/r+cgTpvZvd1lJyq9ou0QJg5lTb2R4a039ys3w6HzFAyinfPrxR1nVkRjV8N94ipsutRS2etCICpfr4wl2HwZvj3TijjGm3eo34zcLDy4GOKKkmAtAonGj9Cd6b+dTZbvVoE+B0HtCOeNIWh8bqtXTiq11wGz6K9AWGI1IGMFlIXwjyeYbEHETKtd0TOushUUuuWu/qTTPnmpZ9lTQgVq3lj2LSQnlXr72D8iSms8ee5M5Q9oKz9FcNCjRiRSBNPFezX2GlAlhsgvXDMxz/kDe6iBivgiCGXVmNgpv2/zwQqYaMLqUcabn61Hk6Dak/JvoiebLu4UmLXCODpVCeFxLKwsucKMuHf+OaMMNgtul8RZhzuEyZkXCQw8Zc7vGPP/xvUAFVjFpADXQu8WCcrypLB39BwhtpbhUS3Kr42ooVahk69YtJT7F/W9sXQIe5zVCN2E7eFRpNPn49YvgdqORa5ouSXWihzBLBYHrWLYUc/MZWw==;2icQVz2sFq2e0mjsY1pbGg=="
 ---

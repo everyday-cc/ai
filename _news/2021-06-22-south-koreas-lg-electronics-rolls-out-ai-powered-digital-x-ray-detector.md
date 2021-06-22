@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2021/06/22/south-koreas-lg-electronics-roll
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/06/22/south-koreas-lg-electronics-rolls-out-ai-powered-digital-x-ray-detector/amp/"
 type: article
 quality: 56
-heat: 56
-published: false
+heat: 76
+published: true
 
 provider:
   name: syncedreview
@@ -24,6 +24,26 @@ images:
     width: 950
     height: 594
     isCached: true
+
+related:
+  - title: "LG Electronics unveils AI-equipped digital X-ray detector"
+    excerpt: "LG Electronics Inc. on Tuesday unveiled a digital X-ray detector (DXD) with artificial intelligence (AI) solutions as the South Korean tech giant eyes to expand its presence in the medical equipment field."
+    publishedDateTime: 2021-06-22T09:55:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDnIG5M7bKrixfE%2fhnaZv1Ww%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 17
+  - title: "LG unveils AI equipped digital X-ray detector"
+    excerpt: "LG Electronics on Tuesday unveiled a digital X-ray detector (DXD) with artificial intelligence (AI) solutions as the South Korean tech giant eyes to expand its presence in the medical equipment field."
+    publishedDateTime: 2021-06-22T09:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210622/3775383.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "fu9fiB0iCS2fvAHV5FgCMLwAZLfXbR+F+Sftk3PYC3RSO5GWnQ9maLCO5A8zzWqWR6sSUDQRivmAAFSpC4oCxWN92Ts5RcOu+psWOQFoJZEsya+mA5MLygCkcnrZ7Sw/KnFC6ID6+UUGFbhd+7pE0WukWdhjiHmAzsg5Rcol8Ge8qE06HcEJ0iU6qWZCIhcH2Um0G7D09pcsNrH/9zn5slvkhnmer+lqF7Pc8sYPdPZWW6WHI29ve9IX06juZrTr1lRuqOSabiyUw20KUV5bxtCPrkZtruy6SiqyIEo204M326S4ARwIwNYxzIbmIDIrLs9XFOc9tvieHrqfV24+Nj3j8qvHeLP8luWQ5pN9Qmg=;01do1X+gh0x6QjsIQOcD8w=="
 ---

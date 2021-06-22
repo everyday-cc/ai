@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-
 webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 31
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
-    publishedDateTime: 2021-06-17T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "yGPpRitwv3xbpJNnhBX/eJuFsdf86xjiFOGzDcS0MQM887CnOsKTeuP1ZaG5EG1Adfo3K67iQzUgkikGTYNIFEilJro7y/roJXViSqQfpY0Bg89Cv6dcS7dk28FayYrAJwWm/YY07OLbHHg6tqWw2VEn2SDHIn4ICNjuddfMVAu1NWRyHysBnHXsFBVcfxVgQXJVIBscmnOJAv+bd+bwiONDwicsfPcGMEDdDXPDdCg4gX0kLm8qsh27alBapDyZBW8Mofjo9ZE/WTO9CMuPxhqF18i6cB+CedFB5mlwB5zVZwGQj6J6Yw3e/eDHGuop5fHZLmOfCVulY2Hzif1K/D5nNO5SQ0CGImqX8G+qmTJvfi9dRC99Uzu+WR1NNQugu3CPQ4DzmfGpgyO51UuIv6jhHOvIPNWhHVeUx7+cqOVbaVzBilXwYOTK48IOsDArhgPYvBebYpmK2LxL2zUTMZ1t+X0x3RU/aUmkBktyAwzeEI9D2Xdt+SvyxpMaJxRIkgYFdHKyhhv/m/CrzyvLzg==;ecsGMD+ioRtV1JtVEFZo/A=="
 ---

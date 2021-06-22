@@ -42,31 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market 2021 Leading Competitors, Regional Trends and Growth Trends 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-06-18T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
+  - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
+    excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
+    publishedDateTime: 2021-06-22T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-based-on-covid-19-impact-analysis-2021-06-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
-    publishedDateTime: 2021-06-18T08:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "pz/AUTmaMNRiKie8gbO+9UkzPzHtX4NwN+3hMtpzshXa7bAm757fFgcj8+qYoX0ZP+JN+SeZ7C76fdN4w47b3I/po88wcWpi/j8F8lN/Uu/wIPJc/tYCmyxko8SN8akhbQP9QThYAZTbYYspkYLd3ecYo8EI+Y66fzvmfoFiV9ZC43hyyfOtxYKTvB6TUwwGCMkkBNa81Q3ypSuNHaMQpJ80924+J1NdZAKRm2inoW5PC1Hdqr0HKVh9YJZPMKMSV1qZutuxVol29PlKjGCHe0g9oLnxJpVUTJBr3eXUdxKJy/QibCCVdDaNEI4k2Rpg+mozhbrf2MQANxO/WVa2XY5foI5ggqv8F0nU2pVKbDWl/TFllDpzEpBwJJvlWxaKTf9hfCoZ3Z6IyLumhVQtITkRRInBaAmHrdrBIRBv6yJaAHgp1HnmYirlILnUKfD/jZPLc9g/PTDGg2PXSzTiQkoVCwLuj7CO0XZTGHbFkrVgyAdt9OCCZuNTWVsLXpe9L7PPmBbzKkv5LO2aUCyXFA==;QgfR8Nqy41/7m/2vIyitBA=="
 ---
