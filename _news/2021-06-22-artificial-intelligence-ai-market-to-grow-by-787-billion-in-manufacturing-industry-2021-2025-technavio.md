@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
-excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according"
-publishedDateTime: 2021-06-22T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-to-grow-by--7-87-billion-in-manufacturing-industry-2021-2025--technavio-301315947.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-to-grow-by--7-87-billion-in-manufacturing-industry-2021-2025--technavio-301315947.html"
+excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence (AI) market in the manufacturing industry in optimistic,"
+publishedDateTime: 2021-06-22T12:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-grow-787-billion-manufacturing-/2021/06/22/9394911.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-grow-787-billion-manufacturing-/2021/06/22/9394911.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg?p=facebook"
-    width: 1279
-    height: 670
+  - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -188,6 +188,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "O1yJ9alJlEaRaZnmAaTPDRZB14Vk7gLeoiEAa6Yg4zkDT/qJlvhSqS9X5+8tTGXsAgsACc+VWMVSYIc5Fa5QXQT5ETTWwcE15FHwykucfQ8WkqKyxJhRHR0uYs35mpGaA+0SaE+K7HyMjAPpEif0eZSALg0Ur6Ezm60N03pNXk+ydvGjcZNLL2CnN67LVtBfYTGGh2vCLGR1E9RbpOBvJlSNYT3pr3MgHU4wTGIgOnqqZkj7cNDxVF/Iq8seaRcfeCgMQ3IXS1K3Nv2zQJ985GMFf9uXseUztAY7qsMA3snnZ6J0erL382HHaSOgWYtNffAujUXlmSFCFoKgdPByFDjGJ566icaCC8qMbKccHd1J9GRTdbqEXPv8iZH8+G2d0glxoVfi0fZQuuqi1KT/eNxK6lFXqqj8Coj5oDabncpLp5Gtdz7AHXPy/dq7RzGiIBAJPJP/jar4MNhBo1E7Ez/CCN8RSPDKXYC4X9lwLt92ahcBsHXo7khnIO6ltriX7DSJO9dw9/37GNnU+1RiMA==;yVvJBBncM9j4lsrM3f+InQ=="
+secured: "ebWpMWZRq9Ba5Sn2wU4LULoAAb0oiGZvMyGdKAD2Rpl4JHl2OwImihXxkU+KI1soX9cUxpSJrSvBhHafpZICwX2VT9qVZOHylDWPlsiOHyPX/Ezqoj/Q6SQbO3Yesk0A6HNNgsduFilPpp2EtjoezLWl1u9dyjMouBJ8lc0rjVMXI5ZgC5D5VKE84fzHmqyy6iz/Yw2MGpwUHCng7rRNB0hKLitBUkZZMZLIpuTOVSIZ8GeNCR9spydaa8LFdBRDE2PMV6JQrpIAJK7w9yXJpKZGtwE0kgA2n4H36oSu+HozY6m9k52GMy/T6+Zg/suuDT9Ww7J60NalNAY3Gx6iB+Q3BB47YFfp3IKrDDOyybY=;p2YQWQDLyYbgzT4t8VrZuw=="
 ---
 

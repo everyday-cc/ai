@@ -1,31 +1,25 @@
 ---
 category: news
 title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
-publishedDateTime: 2021-06-22T15:51:00Z
-originalUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
+publishedDateTime: 2021-06-22T14:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
 type: article
-quality: 55
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
-    width: 1000
-    height: 600
-    isCached: true
 
 related:
   - title: "Google says AI and analytics can take its cloud to the next level"
@@ -59,20 +53,6 @@ related:
       - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png"
         width: 794
         height: 512
-        isCached: true
-  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
-    excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
-    publishedDateTime: 2021-06-22T15:55:00Z
-    webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 58
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
@@ -117,6 +97,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2021-06-22T16:01:00Z
+    webUrl: "https://www.cio.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 28
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -145,6 +139,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "nx+XQLd6M+Eg8ssndYsz+U+F8dTk9Pei2nJb6bo3QCG3ZfSWiYy2SjBw2RJCrrnyJcvtVLvAyCxSGFb5R19K/38fXG1dsCGzbfrTwjM6BvZT5fVIIhgiUrUCZaa5EI+/YNphV/BqcNP/sPERucleIzOTkuAZWRl7kIOcjVA1+OoxwIXp9O95cyu+5hREytEUJ/1Dc5fJBmT70HGCYKSRDxge5doLge1LkkHFmgXncW59WQvVDbdMTRHxnIRiJUswbCchgpgEX23Zt/b7wWWUmZCsRuJyjrt7Xx7q5EAuf+R5UKrOr6XCF4breQAs0vUDBSIoCVR8bJnTtBIArsgCGJxWvSFmBdY+32cB8kI8P9g=;JDFxJPeLJmJcOG91WdvfSg=="
+secured: "IKZU5nYbWdco5bWTPJhmq1fcthAEEnovKPMMkBKesmpx/BmlbAIKbS1TKilT3mLpja0nvzWyR3XuJrpiiyNn3qYM/UYngqCTYlkTUri5WyEOe579Ta2H8iSb25T0kq9g3oFY2MRHEpzl0I27kkVZvRYzMLv+1pPRAoR097YTKoOX3QiHetqWcGHkufYqFr0GBCgSdT/smgwnoGTTroUGNXnD98xHzUvtwl+QbXumTiBLooZ3KnpYD7qC/LJ0W6AZJOz0oSK0kshOoDM4lCLPoZHwYTYnRWNqx4rCTdW6LbuI595zt5G/MnrAyyQImccbRJOMqLjq2/VTMhy7CFF1aBDoeUuFRBpLWGxnmBtccfM=;2vrE+QagLgFpQ9U1RtU/DQ=="
 ---
 

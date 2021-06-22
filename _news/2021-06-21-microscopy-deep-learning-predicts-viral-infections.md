@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
         width: 389
         height: 389
+        isCached: true
+  - title: "New machine learning methods could improve environmental predictions"
+    excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://twin-cities.umn.edu/news-events/new-machine-learning-methods-could-improve-environmental-predictions"
+    type: article
+    provider:
+      name: umn.edu
+      domain: umn.edu
+    quality: 39
+    images:
+      - url: "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/iStock-530996767%20Delaware%20River%20900x600.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "Di2nullhpgQnuwoX8UsyF1yIocDdRbO1guOZe8hQwBWkUmWXDwvC2aPxBYDZdGmgJWTOZAa/T62WTXwZr6xfrqYPGtstLuaDuSeKFIDtFI4hjB7+MaMgrc2NzCJnPcV8c4HPf9ST6C7sYJl3m4DqGV5kfw9Qg/ihkLfmIYO2/Sos8Oe2xJ3tcgs0OIfgJ+f9gxK82AwXgsEWBNUSfQ7agw6sM/sXEPDB19Ey9arBTlH9db1PhUje7s26Q0aF8s6GbYEhKKOm00CJnC0H3fenx0x1Z/QpapLtkXnwGCN17MXb8+8rIKznoODZj39LhD92i7XOabtwciolemKr65v9oQY+JwpN65mUMobk9zl4N2B3E7ZjBnsA92Vd4qthcV8UROzCA6XVs5BzEeIPpJC0xj8RFUX/8Z4P5DMPBIE6OQgaN3iRz7mC1V/9JQqgztVErKtxEk6x2SSFvDcSylXeRJAC05gFFh76U7zvO/mWta1yHFBKZcF/aTbpAbHHNmOkrh52YJd4g+Mh5E/GmZKDSA==;LXdQtgNjvn/htwczLTYR3A=="

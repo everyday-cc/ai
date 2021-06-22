@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176819-artificial-intellige
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176819-artificial-intelligence-deutsche-bank-releases-paper-on-potential-of-ai-in-securities-services/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -19,6 +19,17 @@ provider:
 topics:
   - AI
   - AI in Finance
+
+related:
+  - title: "AI to Cut Settlement Failures in Securities Services"
+    excerpt: "Deutsche Bank whitepaper shows investor are keen to avoid settlement failure and cookie-cutter custodial services."
+    publishedDateTime: 2021-06-22T17:35:00Z
+    webUrl: "https://www.tradersmagazine.com/am/ai-to-cut-settlement-failures-in-securities-services/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 17
 
 secured: "zq63n5321UTkW/+I17tVJ+2XKcuccco0N9YiYDr5qeMAFZbL9eD7l4BwlgOeJc2n7sSvaqKv8QvjNogP6+VYcQMjBUM2KxBE47DR0+r2NDCMyA7vM5kJLHdoAQGsgtq2uWPGSpJN+o7RMu3Ww1nwf4XEIDPvx1ny3doyFnBWF4MgH6ES0Nx1HFKHU6kOFwuNGle1Bl5A6dgv0xd+WbfKZ1xcZ4aNaaY2q7QQ6b7joVxRoUrIIg7obC3Pyyr+34+Fcjni2um1dKETg8ODOfsSsVAcvhyk410YrsjHQwPCbGkjdwRS5ZegQcUrBrcLKecQl+Uc3guw09rnCxmOEJtzjaHiTo0RfPpVK5y7l++nZcZybMEKZd5fkcaxC0ibJ37GLSN77ISmOyjt03VlT4t7TFZLGpK109Sf+5xuZJYG55lKQY3vpgUpRvNW2DdtWltdchX7EBrxctAFyebdJipXCHV6PqU31opYv/QvDRzR5em/ey3gLvnHAFwfYnYS3bB5NRSuzzKknh1fok03Cj9+tQ==;vs7eu0G7aysPx4lCj5mqPA=="
 ---

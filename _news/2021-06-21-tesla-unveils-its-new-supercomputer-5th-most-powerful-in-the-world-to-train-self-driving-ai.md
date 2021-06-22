@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2021/06/Tesla-Supercomputer-for-Self-driving-AI.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
+    excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
+    publishedDateTime: 2021-06-22T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-supercomputer-self-driving"
+    ampWebUrl: "https://futurism.com/tesla-supercomputer-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-supercomputer-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 63
+    images:
+      - url: "https://wp-assets.futurism.com/2021/06/tesla-built-powerufl-supercomputer-self-driving-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
     excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."

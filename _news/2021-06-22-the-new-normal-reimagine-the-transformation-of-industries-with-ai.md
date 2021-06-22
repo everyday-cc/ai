@@ -31,13 +31,13 @@ images:
 
 related:
   - title: "Quadric Reimagines General-Purpose Parallel Processing with an All-New Architecture Optimized for On-Device AI"
-    excerpt: "Quadric ( quadric.io ), an innovator in high-performance edge processing, has introduced a unified silicon and software platform that unlocks the power of on-device AI. Built to accelerate computation speeds while reducing power consumption,"
-    publishedDateTime: 2021-06-22T07:01:00Z
-    webUrl: "https://www.financialbuzz.com/quadric-reimagines-general-purpose-parallel-processing-with-an-all-new-architecture-optimized-for-on-device-ai/"
+    excerpt: "Graph Mode will enable developers to ingest and schedule neural networks in TensorFlow or ONNX formats. Supported neural networks will include MobileNetV2, ResNet-50 and VGG16. In addition, the new SDK release will include a TVM-based scheduler for ..."
+    publishedDateTime: 2021-06-22T07:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-quadric-reimagines-general-purpose-parallel-processing-with-an-/2021/06/22/9394519.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "xJF3bs9QmzyW15Lhrd1CdifZvPa3o7m8so4vFgSffyahSS2OO2OvUZzLCkoqhmCKxMqh39yrbcjUwHXX/ujBwuIFtqGDIPRNrqr6VyasTrWO+z6oYNwpLGKMqw5a9AG9YKz0Pqh/QCOY3lPWMZ/y/MHP8l3FQhhjCguRVZBOij/Roat7RRP67vGbCZwDesmW+UGUs7guEoDGkjbzoGpD7TxWvoJNRimqzFQ2sIfg/VE6NEVuny+AbAm20j/kfmSvHXivL7W5Oo9Eo2s35FlAzZZxVOBJrti9fTsbr0VdzvOaqByZSqXpyrIe/nutCX32En8p0b9ZXWMFYQwmr8aSL8hkzYzyamL/omW7vu/hh/z6ElDxnw0qcIF5caCtYtZl13H9GRNpHXNppZDmWAHJRTNZhjr+nszQTw80tdIJWRCCcsBijT54hjbZSY6QM3juY1ImDZaBJ/zcGGRMov3CsegCU6DBw5ZVj+9kmfY0vnMVnyeZyPqf7gTkIqH/txmoE3H1qhljJG2I1dvOQQ9h8g==;Zril3EhUA7SnEdodZLAvRA=="

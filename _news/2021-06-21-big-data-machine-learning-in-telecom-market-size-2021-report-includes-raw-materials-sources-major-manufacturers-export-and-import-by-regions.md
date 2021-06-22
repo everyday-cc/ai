@@ -86,18 +86,18 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according"
-    publishedDateTime: 2021-06-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-to-grow-by--7-87-billion-in-manufacturing-industry-2021-2025--technavio-301315947.html"
+    excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence (AI) market in the manufacturing industry in optimistic,"
+    publishedDateTime: 2021-06-22T12:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-grow-787-billion-manufacturing-/2021/06/22/9394911.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg?p=facebook"
-        width: 1279
-        height: 670
+      - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
     excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"

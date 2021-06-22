@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
-excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
-publishedDateTime: 2021-06-22T15:55:00Z
-originalUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
-webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2021-06-22T16:01:00Z
+originalUrl: "https://www.cio.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+webUrl: "https://www.cio.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
 type: article
-quality: 58
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - Microsoft AI
@@ -24,7 +20,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -46,6 +42,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
+    excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
+    publishedDateTime: 2021-06-22T14:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+    ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 65
   - title: "Aveni backed to launch AI speech analytics platform"
     excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business."
     publishedDateTime: 2021-06-20T22:02:00Z
@@ -61,22 +68,6 @@ related:
       - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png"
         width: 794
         height: 512
-        isCached: true
-  - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-    excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
-    publishedDateTime: 2021-06-22T15:51:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 55
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
@@ -149,6 +140,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "RWSV5IuhkE6o9160io6iRlF+h/Wyl1Vb74Tri3ZEEW+7L4dn9Wv1CRaoGAD0eC+mEQE1009KDUm8uTDY19uT4X/cRqm3JxPFduq3KiBoHpT/rdyAicdceM3L38G+j+VJGzxOxbVHaez/l0jzwhor4ZfPWI9ywBmCsUnZ4zG/r71I971IFKbUEahsXGeaY0JKccbjrwYdw6cuxmq9IOjyjrXrQ/bgiA4ODNfnd0YDfBv08sAWzPPZFbyhFnC7/SacDiGrZo8p8unFTpwXIeijOnlVwm8T47RSK1Jjzr8FBePZZ/llahVAFtoAdCE887cxMccsFcTP33KkJ9GoRe49AEn3utk30eVMi/Sgj80285o=;7eAMZ1z7VFYEwr8YujLLaQ=="
+secured: "4kr4TvuaGPCU4jn/kFb+oYvfWJDrUA4Eo1hrO3PTyjLhxwmu7PV37JIssiJHY9BxkVHENg2Nu+2Hzv+SY6bDYFvtUz7fas6K94psL1Hl+zi36MmPBZGNAFqBJbVu1Ij7tYZAcemDMlES8AvZHxHK1OQ7SfiBpHl7W2yLniEQjsM+jtiT6s8/dytiW4cyN4TFTT7CaNIMSGlmtRvm5GvQUUlA60Vh5GAO2N4aMvo8M5P64w1fSkGobm8DpMy+zVw0Q+gxL/DrHrkC6SF//A4vRbdmUIaqe3oSCMbV/JMV9OF3resNANIi3N+bg0gjIlCNddgxzcTgRf5bGuWszGwfUHSeyBGwTK8F8OPMMY7O9Is=;KYqQyIk7nPjE+PknH8oJDQ=="
 ---
 

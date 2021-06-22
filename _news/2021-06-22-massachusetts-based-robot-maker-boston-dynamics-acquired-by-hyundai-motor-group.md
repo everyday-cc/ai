@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai officially takes controlling stake in robot maker Boston Dynamics"
+    excerpt: "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its"
+    publishedDateTime: 2021-06-22T17:44:00Z
+    webUrl: "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 103
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/06/2021-06-22-ts3_thumbs-d4c.jpg"
+        width: 800
+        height: 560
+        isCached: true
   - title: "Hyundai acquires robotics company to develop autonomous driving"
     excerpt: "Hyundai Motor Group completes the acquisition of Boston Dynamics to develop technologies such as autonomous driving and artificial intelligence (AI)."
     publishedDateTime: 2021-06-22T07:33:00Z
@@ -115,20 +131,6 @@ related:
         width: 620
         height: 451
         isCached: true
-  - title: "The Company That Created Spot the Robot Dog Is Now Owned by Hyundai"
-    excerpt: "Hyundai gets into robotics and relies on Boston Dynamics, its new acquisition, to help it develop robots with advanced mobility, manipulation, and vision capabilities."
-    publishedDateTime: 2021-06-22T06:39:00Z
-    webUrl: "https://www.autoevolution.com/news/the-company-that-created-spot-the-robot-dog-is-now-owned-by-hyundai-163688.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 54
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/the-company-that-created-spot-the-robot-dog-is-now-owned-by-hyundai-163688-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
     excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."
     publishedDateTime: 2021-06-22T15:29:00Z
@@ -144,6 +146,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UdNr5k7brachP0gQNh9hRdopTN6PPOuIHDUmqpYcMM80SdiuxYJfTkCwKNSeiVaHgIC5tLw0iHvZW6o/3wqcciUHt9nKQhvHGfxFRcUlaiIg+gU/qYohK/mkGKAtxD51KYln8nGjrjyldddwbfbTi0Obs1WFA1dVRIjuD1Ifcd7/ZrnIvqQsD/h3IF83kUBeMbufm8LhfvpQLLjdXp/v70oTuHlpYRQ2dyN7EnXydCedTzS7KOaWuYBvYdcHZToBSTlToiy6O99+ESr4LjFo3NmmIySOVdw4qS35xikGcemu8DQGTyNy9QPIW9yXy6Bu0JyKd0n5TNiAqlbAyZPc44Z4s17a99FmDCVgPB7eabw=;8tEsaTVDqqrw9fRnAKErHQ=="
+secured: "2np98zWbY0NxqCKpf9RHcqVF/YqgC63Cz/vyPvrGza7VD5yW7UxIvH3RbWUJtlFHQ9GieV8cFdAB0svmq0C6EFg/BwJMPnNMgLjErTsOm9vRkr8Q5uzyNpIO01Ji5rfiwuvY6bXbRJA0WCWfYPGAznBA1i0OD76p3D+MPSgIP9rMgIG2XmJbE1lET9fBsZHmSieKiuFJ95G1h97HJK6+jv+Xf1ZS5x3IYnfCb4MIzyhnJ+cYlhQFtBJb8nqUCrDHKBz8P4cYQe6OIbMchobkDMDCcC28cOz9ofACRdqyG+hL/WI17To0rtox02n0KXb+y+pnRXAj8Eo4FQTkIQHXIW3X0WGSLEG5aHUJimiLLOac4MRmjaE7q7oGQdS4keYUsGqlyT/7+MGDJ4pXYOWVygulKnifhXY3hHV3r/xHjovND1CACp3SqJZPrcYU12hEIoTF2lkdgOuQRBCIZGMz1MkrIyDK5bNEA7iO5fjDbcoiyVHeQ/7IkYzsw9EPxrtl2kBonx3mz/ybwNV//iRL3g==;qxAAUtPFgrWRgDgvrVSVVw=="
 ---
 

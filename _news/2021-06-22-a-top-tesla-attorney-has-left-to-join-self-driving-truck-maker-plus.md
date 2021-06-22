@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
+    excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
+    publishedDateTime: 2021-06-22T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-supercomputer-self-driving"
+    ampWebUrl: "https://futurism.com/tesla-supercomputer-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-supercomputer-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 63
+    images:
+      - url: "https://wp-assets.futurism.com/2021/06/tesla-built-powerufl-supercomputer-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "5oIrMVtbeIfZMd5eJj8B7lzISWMiHaiN7WvjP0dg/PAyijH16JCK+RlMEF9wcsNnCywIKrFfTBzK02HwXhxXAR04ZpXbNSnUMHiJ5fmDBRD5HPw6SYPyt74zLzAgSDt/Sbl39WvqC6GZ/pi3DITOyjxY+Hz84wEHrFlRVDK4GEMK/sNISDhHuIQ/GWd4PZ+hUeZFPvA3KmJkyeGzIvfKgx3pQiCnXPzOKzQSyFacvqyGRbvGlAOn23YPuK7CXGUlvfGHJYuJ+qWXpe0BgyHUBLdlso9eHiQ43IvH6s8znxdv3WMwWaj8W/EYeYzlyR3J1ib9VyXqTP4ru4FiRG6D8r8jLpqjTSUpU5DGX5rCqfmSXPxlhnKQYZ21ilU50KSq4vYqk712LrE3bpKWfRqq0espbpJiaCVyI83Cipb+k1Grxtxt7kEkOuepMllLbCzpPcHBCTMSbOLbRBZ2Ro8YuGmExlAU3RtYgrbTuj4SSR36RZ8AkBGPMJZvtf6WnXo1vV+azWosM7Ace0RcLSbceg==;ED8Zhj7e8GtYieJ+fJnnZA=="
 ---

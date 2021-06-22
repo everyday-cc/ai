@@ -1,39 +1,24 @@
 ---
 category: news
 title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
-excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading"
-publishedDateTime: 2021-06-22T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
-webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
+excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading AI solutions to market and making them more easily accessible, especially for government customers."
+publishedDateTime: 2021-06-22T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
 type: article
-quality: 10
-heat: -1
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
 
-related:
-  - title: "Ann Arbor’s Campfire Interactive Announces Strategic Collaboration with Amazon Web Services"
-    excerpt: "Campfire Interactive Inc. announced a new collaboration with Amazon Web Services (AWS) to create a reliable scalable cloud-based platform."
-    publishedDateTime: 2021-06-21T12:57:00Z
-    webUrl: "https://www.dbusiness.com/tech-mobility-news/ann-arbors-campfire-interactive-announces-strategic-collaboration-with-amazon-web-services/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 29
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/06/TMN_Campfire-800.jpg"
-        width: 800
-        height: 450
-        isCached: true
-
-secured: "WuCsRrRXCiyTCcRlkoLDQtuKicRjLElIh2rF5wse2qLwMG9kOQxj6htU0u6CdS/Ysnim1kLIB5QZsXNDYJ5Pq5MgNy7K4byM74HZOKkXtBcBLVfadLb3M6pK8bTDCP4Km0eeDbVs3zyy2UWcZpCPvzo43ZXVGrpbI4cp0rSIUf3Tswe2QUiBYLtmCazkd0TWdYTMlvb2RmtC3mtbFsQBcgO0c/IwR0IgRS5EHohhuaxBsvPPvLrE5g/dHEMYw+Xa48y3EvLGN3bOvUpFTh0T9LQrtJk2d3CPVuZgbJWBL3+oZ38gEa4O++vKCAy4VUpYQU2PjFz8Uw6kwLPu2q6+dLdDIFvpls6RfGsdBYqTxS8=;3zzaygrqJ3jm3PVYOXNHSA=="
+secured: "zG0g31W9q5Oh/xW/9F73HJf/wsvL6i9l6PLoS3ArGiNEiUpiNDRYXFTaks/EVnLkifuY5drJf99Zkbf7FOcGBaRH8n/qCQK9DezGnxECu1SFNPlGQ2LjD2hXszwu2xpsUjWBE0z+13Pmnppn8RnhJGgenWhX7cfYuEqHSmCsR0jLutcfKmUem80yxIXDFukkNjmOQcAurMVqbPKWRWB911SKvRgtjvYibGSccR+spv1kyAXEBYAX4xv4Xy6U7t3WdC/o2rZJ2QsuZQxDx0ES+rAzXqrB0AmqOVBK5xigXgqfPIe9uD9cFxYMPIPGD2yFfF5bW/vxPWAH1ki8Ah2ZuGL0aPi6Ezn3u5f3LDYvjzU=;TdfaGnaN89DstKLoHT5Gig=="
 ---
 

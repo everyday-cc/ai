@@ -128,20 +128,6 @@ related:
         width: 991
         height: 557
         isCached: true
-  - title: "Live facial recognition technology ‘open to excessive and reckless use’"
-    excerpt: "The Information Commissioner said we should be able to take children places without having biometric data collected and analysed with every step."
-    publishedDateTime: 2021-06-17T23:23:00Z
-    webUrl: "https://www.expressandstar.com/news/uk-news/2021/06/18/live-facial-recognition-technology-open-to-excessive-and-reckless-use/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 39
-    images:
-      - url: "https://www.expressandstar.com/resizer/KnaYQwAMS3WGKZEQd5fNMs8pdck=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/OLSPJQEHWBGCZKE4V2KV64NIXU.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "EU data watchdogs say facial recognition should be banned in public spaces"
     excerpt: "T he regulatory association of Europe’s powerful data watchdogs, including Ireland’s Data Protection Commissioner, say that facial recognition is too risky for use in public spaces. Europe’s data protection regulators say that facial recognition in public spaces should be banned."
     publishedDateTime: 2021-06-21T12:35:00Z
@@ -224,6 +210,6 @@ related:
         height: 270
         isCached: true
 
-secured: "P8UVJStaLs94RgyCJTSMoS8tfK2zzurfMqNldaTR3YS3miNKyiW4u9gqSe4uRADDFdlnP3A6BbfqgYCrksTNPORzoYwxAE+sife+7pgxEfd3bKgxY2Zos8jRyy21hxoKb5c3IpxBXmRymCa+sJO/KqpUo5WUDDFkz/EYCflZHQSwwI4cE1XB3iMc/0kygz30wARfttTLxsppBF96EJ8rvqZ1dLg3K0yy3Ihj9SiVC/KO4oqq89unciZQmclm5UadoNUqtSsSmHuzY+MJ6NHCPd+0AqgGsH+9lWL0YCnqUngWtak4eCFQfeAySH3lTWJpQKopyTh8tIZCvrfWuH5DYgJoChsPtwgqn13sChZE7TQ=;5bmL+aVEt33jWQWahrDTFA=="
+secured: "+66ad8Kx+Bk7hZRM9uNhcOlCgQ9ox0ye7D/nxE6cofxgpIwPQyLseMs7j7WwnpRD3YRujOsV1ZbbBV2J8PnvR0uMy6cpPo15WGMTPcSaB5b5mjRT4m6YWcJ7OMIJg1iN/iBEimB/6ulhrmI4xVCIlcJvR9RNubc4TaU9QWYYDt+aNcZbuOplXSjuF3AwLnJzwuNV6cWNtaTUJRt7s+HAq/4oBPryI7RSCY29kBJFBecYMhhbikCj2xP6z+VvIE45Frxoog6fTFFQBMZmo6QhnMHhNxplWkI1hCFs7edUb+h0m2c70IuTkaHF3BOat13zwFxYjSMUAJ8RQoitoy4Y772Cd2fyLVhiRZQrln4ixHhZELYqopDV0Pl/5IpskwPZbASrrEprI4sUAnmJ0sgqaCUH5n3KytoLRrxOLuA10gsgemYYfhD0XvhKrNKlpUlH6unF/PgYdgOdlrgOtd/64bhraEwDy8uyVDuJ330/rv2XDlR125PY4jYYPeC5CqiPNHGpyst2GlUtsq7CvoN1lA==;vOPazWro6c80MLd6UbyVQg=="
 ---
 

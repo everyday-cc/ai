@@ -24,6 +24,22 @@ images:
     height: 424
     isCached: true
 
+related:
+  - title: "Dust in the Machine"
+    excerpt: "Applying machine learning (ML) and deep learning (DL) to satellite dust imagery is leading to more accurate detection and tracking of large-scale dust events. Dust is the single largest component of materials in Earth’s atmosphere,"
+    publishedDateTime: 2021-06-22T17:28:00Z
+    webUrl: "https://earthdata.nasa.gov/learn/articles/dust-ml"
+    type: article
+    provider:
+      name: NASA
+      domain: nasa.gov
+    quality: 24
+    images:
+      - url: "https://cdn.earthdata.nasa.gov/conduit/upload/17048/dustML_cover-image.png"
+        width: 422
+        height: 502
+        isCached: true
+
 secured: "IQ5ZSXlj3/FcLg/MJw9VH/KRzVcmW2L3zwR3L2j4Yl0mFYF5rh9llXOqhh2UuWBX6t6m10MhLJtd9FC/Oh7eAh5UZ4GwH5RIpCS5Z6pJK850M5xquV3fBMPPOiH8NllsqEbH/XasETyi0CYXKi3AF9y6mPargbgooukMPDyA0hXuWoVV2c1TsBVu3FgapQIGoJaAsEROsmPB+iT5EoQ55mgMLJAaFcdrpuzHjyIhVVB703Z0NZpULEuZgyWm6hXhiCJa0P/EK5fEadl5FSYMcFxJvc+F2HLQZwY0C4gzwGhjZeGZJ7I60dMCpsZzAXqzfkZ9w6bNGKThCtHu2dfuv7I3cxwQvKHSL5Bk6a7OUUAXZ1ogBktKozF97K1YjD01YP2ZLVq4dNNIzjc/Idks+nSBbUtQGjqFE7A0IlPbTBoWaqJue+t/FBvh3O/FmidY2dr9fTdfP1HJGPCz7SGYLlpThd6hCapCZZa5611B8Wv80f/G2aHskKmMlmQXM5ia3Fs4i7J/V8gL2layBmApcQ==;l7DHGYLKoTCc8DIeZOCrVg=="
 ---
 

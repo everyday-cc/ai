@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
+    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End"
+    publishedDateTime: 2021-06-22T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies--artificial-intelligence-in-precision-medicine-301317494.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 3
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "EvTWioLJl8AI5rPyCp85pNNQhKcga87IOHfXLjTA7sqmb12NVanooY6VeZboKVkkxYd68K1ngvYGCQEIZXLxQ7QeMEFcIQ3E3zhdh5BJBzplbPFvvZ1rp9FAeUOdhloIeW4+WpJUOZ+2SeXImzWRpN6SmUpNRmw7It/W2f8UfQuCeNm/k336YRY3DqUetTDJDvLy9WnA8lMqdUu2vVougxcSaH34ysGCOc1Zqq/ArMDrYhRacxyCqKRybto7vKevIMo1PEuWMXbIPJBscjFvommYlnj+aM32VrG4Hi4QycnEQsJK55JNIVkHzh0Ms5j74comAo4pD9KZ25r2keCZqYMxagJkqgKewI49XtVfFcQ=;mF36dL+YznYNfOtzn0QTWw=="
 ---

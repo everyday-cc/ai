@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "Ambarella Launches New Edge AI Computer Vision Chips, Boasts of Major Performance Gains"
+    excerpt: "The company's two new parts come with some impressive performance claims, including a fourfold boost in AI compute."
+    publishedDateTime: 2021-06-22T16:47:00Z
+    webUrl: "https://www.hackster.io/news/ambarella-launches-new-edge-ai-computer-vision-chips-boasts-of-major-performance-gains-4e84770e94f5"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 46
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1315388/_qXo3HpKWIL.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
     excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
     publishedDateTime: 2021-06-21T09:04:00Z

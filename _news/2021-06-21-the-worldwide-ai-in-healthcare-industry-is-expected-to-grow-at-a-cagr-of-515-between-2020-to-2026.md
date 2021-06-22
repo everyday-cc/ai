@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-i
 webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -37,6 +37,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
+    publishedDateTime: 2021-06-22T17:02:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 8
 
 secured: "z98tFYPg6ZmOttyeBkLMuX/B3BhoS9ZAXSbTPQ46m4S9PQXj/vX6bHKvrogPy26Ti/2Ay9Ahq9Jhz7s58IsFQibAEwwU7oMotVcnghhr4yIeG7d1I1GZdK6QvwVQhELkaNlGSmkQPXukrY7mA06MpKVyi/TIlLRWUcERc38VfUrWv+L5ZjtZ2uof025ReWBavw2GlgE6JbQAcjDTsDlyTN1EsFM5xBim4vKqwzQr//IBmO/o+SsKNCEMLVHwmxTgYJ03LQ2YW3vnk7D1gk1N96UhWjuU7NWNQ4SmbtP4/WLBGGz7EMZg0MAT11OlX7/SlYK+YBxR4qyZXLCzBucLMJAOeJ81J+FsnmkV7NwYmhY=;G9mogLoXDUC/i/1Rd+NeKQ=="
 ---

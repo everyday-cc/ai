@@ -74,6 +74,20 @@ related:
         width: 1920
         height: 1357
         isCached: true
+  - title: "Tinder And Stripe Launch Facial Recognition Tools"
+    excerpt: "Tinder is now requiring users to submit to facial recognition to validate their identity. This news comes right on the heels of Stripe"
+    publishedDateTime: 2021-06-22T17:14:00Z
+    webUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-tools/"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
+        isCached: true
   - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
     excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
     publishedDateTime: 2021-06-18T08:08:00Z

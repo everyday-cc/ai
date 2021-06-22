@@ -3,8 +3,8 @@ category: news
 title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
 excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
 publishedDateTime: 2021-06-22T14:49:00Z
-originalUrl: "https://au.pcmag.com/cars-auto/87813/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
-webUrl: "https://au.pcmag.com/cars-auto/87813/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
+originalUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
+webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
 type: article
 quality: 69
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_sbug.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Yz7V1JjnPWDwAYkzKrbwusFBS8lJRoVIr6om0oUFHYIcNboXEsGsU0FOCj8p0oY/UNutEElZZmCFSYjCB+CdLjFXPUNmcpNOx5+eeUE0V5cMRCQJjLWRw9mnGzFn5p25RtFboJroZvBkInHlIKD02OxUlvT82lpFErafeGZ04+Plb1/jzTEvIfJ1knShQgIDikAxhjVbhu4HWbDFNe5xD14mGwHuuUfjL7TcPbnqNyvUEoLMt6+U195Ia5DSDOO+uBgznba71Fk8l9PD+WOLtfrKQcH3u/zltKs3iy07KWoYl+pEsFfJwx0oJhxlMOuQyUFSpQMH0/X7/8een1BLhVYCEIUQyeEBYKaVCdqkEGk=;v/gb6Bg/8o5NoLvW8oQVcQ=="
+secured: "xjEXxoFzxPglIfdjGFZ1uUgIxOhyFg6ZFEH2WvNrsCLp0CzeVvp4iT5EBM7HRhshwfeKHBGBigYZuAWaNS6boiGSzrq0/bZISbw19zEfqiG8eG/LNzhS186M+xP/yUM2+Dkxo+ZjjZA37ORUiSmCjzYrECg3xcGUG/F7X6j44JjZWrB0fJhsPwywwpUkc9QrTjRZSTThfq5uD2LI39IzQO9cS/CSqcXrNWX4YFCvh5AB8L3VMbrMh3OHCr6xpqRT1TV+kilmK1PN65d8qcEhT6nr+hF616ZXPP5Ks8No5Chnu5QDcLk5V4pUCX5K+FkrzQkSgOtUtvNmUIzeO34uWHUDLrzl8dlz7QrTHzo/ITI=;UBkSzFLJww0BW3z/Fld6ZA=="
 ---
 

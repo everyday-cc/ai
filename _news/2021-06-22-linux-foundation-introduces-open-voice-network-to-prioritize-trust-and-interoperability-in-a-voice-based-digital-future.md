@@ -2,17 +2,21 @@
 category: news
 title: "Linux Foundation Introduces Open Voice Network to Prioritize Trust and Interoperability in a Voice-Based Digital Future"
 excerpt: "The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
-publishedDateTime: 2021-06-22T15:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-linux-foundation-introduces-open-voice-network-prioritize-trust-/2021/06/22/9395365.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-linux-foundation-introduces-open-voice-network-prioritize-trust-/2021/06/22/9395365.htm"
+publishedDateTime: 2021-06-22T15:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future-1030543760"
+webUrl: "https://markets.businessinsider.com/news/stocks/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future-1030543760"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -50,6 +54,6 @@ related:
         height: 360
         isCached: true
 
-secured: "pH69x/7at0+Qdn03ztKQgNHMgHNpL2tf2Sf/wxWlqOnksXHjvezArdTDP17zTGlV7XasDyj1l3BAXIi41KRWeP0bTFZ0185T4KRCDNH9PHUgXtbFhAReIBXMZBCxIpeABO9OPJuatasnmAMF6YV657XBK/yQZ9SEyqjGpkeDjO/YoRZgeEXAYlZ1CjNU6fXuWWS5WzMeN0pucCtSc28ChMeSfFsPTV1CX7odptV1jTKnvgyojn/vw3XkjhineDWKIJMMG6Ktr4WXr8A30066jLIYioxHx1h9lmXN8ZurZCnnRTz0he3qSHu4Czx9vl9o3taaOhh8uFhnuQ7M1ogg+ZPU8iXWR/0uTnzEazpO36c=;RaK08f09Wan7aRp1nnScEw=="
+secured: "0ZaLJpADfYfvDuHE13y2I5HtJVA/t7vXeoPv8tXfJeSEsHgkBexcK0RF9fLSP+nPPAdF1sUa8ciSQTA2/Pf31ib+bUi3I7Rz2w+yMtrbk+m5FQ29v7ELgPm8ncOB+Tk24BRFbvRIxQJWtk4AspMwuIOGRzotMpKmCJeouliN/ri1xE/+uBOCO9Sq2047G2Lxpzus9c4bg/iiQj/zjyCuz5uoWiCuDRJTHi9S2hFlWT1DShP3UVeqrV/CLJLx5qqC35xh87Fnm89Xv4FcFAjX/pcw/yAlvzGtMk9iEIWXZGOB8igO3yGFhkKF+ESuK2KpHjohE1NN7F0nSK92HSsB2eeCA8DWYvjSRyJJrwsV7SA=;10hB7nyyTQ9xQKcRvz12Fw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-state-street-leverages-machine-lea
 webUrl: "https://www.tmcnet.com/usubmit/-state-street-leverages-machine-learning-streamline-private-markets-/2021/06/22/9394935.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "State Street turns to cloud-based machine learning tech"
+    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management."
+    publishedDateTime: 2021-06-22T17:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88218/state-street-turns-to-cloud-based-machine-learning-tech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "UAkxDEnNu2PVGNSaDcErrYCDZeSgBtXGrq6NMUMhFuRzyafPK1AJ/rFKlhK4mu/HbbcG/TDH12LKxs07oK88kjGnPLTkGCM9SN2R+4A+L+l/k/ECMX1r8d3SKyqaVd8tHLrz7Ul23/72gWqsZtj3C6vhvOVDG/+VDBl9Y9PR6m4IpPvghV9C+aOvzz7hCwjatSvZ5KutXst1D9qcmBcbIqUsEdZEAgeLC7FbcHtfIb9XWlD3aTlr+dqrYAM77AjElhux3vNSvfq6A3MM8QuUjx0yXEbvYRwprCvmX9Uy1pBUuSOelbqdG5v5oipEiHd3Ym2mITXyxSLdlOvZ8QYqAJP6fvfGWU2hNa5BTnpad/U=;wTyCaFbH6ZEMjxPqt0SDFw=="
 ---

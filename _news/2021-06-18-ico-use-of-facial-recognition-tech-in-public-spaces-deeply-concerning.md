@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15061544/16x9/991/557/20955416f80eb815faa64c3babda4a2f/UP/file-photo--a-new-cctv-camera-for-facial-recognition-technology-is-pictured-at-the-train-station-suedkreuz-in-berlin-3.jpg"
         width: 991
         height: 557
-        isCached: true
-  - title: "Live facial recognition technology ‘open to excessive and reckless use’"
-    excerpt: "The Information Commissioner said we should be able to take children places without having biometric data collected and analysed with every step."
-    publishedDateTime: 2021-06-17T23:23:00Z
-    webUrl: "https://www.expressandstar.com/news/uk-news/2021/06/18/live-facial-recognition-technology-open-to-excessive-and-reckless-use/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 39
-    images:
-      - url: "https://www.expressandstar.com/resizer/KnaYQwAMS3WGKZEQd5fNMs8pdck=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/OLSPJQEHWBGCZKE4V2KV64NIXU.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
     excerpt: "European privacy watchdogs have called for a ban on the use of facial recognition in public spaces, pointing to the “extremely high” risks to privacy. The joint recommendation, which comes from the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS),"

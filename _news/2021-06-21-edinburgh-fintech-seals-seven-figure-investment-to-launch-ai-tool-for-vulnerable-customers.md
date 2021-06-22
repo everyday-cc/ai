@@ -25,17 +25,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
-    excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
-    publishedDateTime: 2021-06-22T14:21:00Z
-    webUrl: "https://www.infosys.com/insights/ai-automation/trustworthiness-aerospace.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 19
-
 secured: "4/HXE40ZBaWYcirt635B5PSTf45A7zJd3NC9YEG/YGYXsCtyne6c9paHRCl/2EDP4goRrbqFHtfNAXtOdZWMZoU1K2NN95nvNnEKwAbCJIA6cLU57zD6XhlmsxBLxmrD7oZKaCdWbUnVGO3cKh+w31ByzGnytmynb7pyIlNBKDMIdH6msiTBNvRYMdSeG3xJGv6Vu093BIidGRqOj+owKDXSPlqmk3hnkRR6stBzO50XphRCD8Gdz216hfopXJlBd2o2LsuTQpb+Aa/ivhJ6yPAXBarGqGxKbFcuv28D5J9IkbWwbHl2LuDmLIBK1dZ9z143oFEiQ6b34Yb3pdUVGoFKt6TgH+Wsi4HE/QqpKUQ=;HhQLABxLeyX3QTbgJaeLPg=="
 ---
 

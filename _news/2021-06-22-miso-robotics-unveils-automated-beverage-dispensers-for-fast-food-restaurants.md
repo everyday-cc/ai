@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
-    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global"
-    publishedDateTime: 2021-06-22T09:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant/article_a7dea039-ff4a-5819-8ba0-721f00f5d26f.html"
+    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
+    publishedDateTime: 2021-06-22T09:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/60/3603be49-2c1a-507f-93fa-a2029101bce6/60d1a6f974ec2.image.jpg?resize=882%2C630"
-        width: 882
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
+        width: 400
+        height: 286
         isCached: true
 
 secured: "2CBtXc5IK4yFton2lvmZPe6785+ufju/I5wzeaShSrhoKzZRpllqkO1UBJDCmD/x3KjeXMJJ2PATNeLKLU8OWCVzNhfCbyXGmkA8LNAO3ZTIBiP7uiIxp7GRgzAv+cbbepkliKaRn6za2GHgfUF12tuoB9KeexcN0XR9zKhvAxyKVz8YdfIzpR1CgVd3gFSZWRKdsw357LLbTXUld0T+N5RsGandocgx6aG75uoUNIczmCnFFn46TEayPqg8Meb/IITjLVbIPrki42dV87UXH/LWW4kWqY6fjxx5JYF1OlpBX02yjLN7dEwNo27oNXfzmqO8R5OnI8FpGtqYoxPN/GTAqXw9g4r/3iQr47DvhncyiBMvP1lFo+odqKw/MQ4L51fQ1UNQCJSjfaNzNudAt0lPsXi+oWLI3XQLI5DkiR1aehlVFjHRqyTkRX5wl9ubSrfuApIkWiehZA2jofcP9HSE8OPvHIXir79/jJ/UAqtPDroVWrmCncsUAwF1XTqsFbK6nMMuGO/G1hN/5Zo8oA==;zqa3ALzCxfdN98v26Nmw4A=="

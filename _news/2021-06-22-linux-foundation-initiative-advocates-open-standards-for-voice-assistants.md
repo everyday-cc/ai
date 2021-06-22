@@ -47,14 +47,14 @@ related:
         isCached: true
   - title: "Linux Foundation Introduces Open Voice Network to Prioritize Trust and Interoperability in a Voice-Based Digital Future"
     excerpt: "The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
-    publishedDateTime: 2021-06-22T15:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-linux-foundation-introduces-open-voice-network-prioritize-trust-/2021/06/22/9395365.htm"
+    publishedDateTime: 2021-06-22T15:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future-1030543760"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
 
-secured: "exY2isCeMpkPzoJ16WGGPaSlLR8mSjyStCJISLMmIaNf4/KUDzp484qFpexGqu1tW+eM0rUKIUJwg8NpQiWRjnrxMkrN19Dr5Vfqb8S8ITn67y2YD4BEfrXfD/m3EEmOgzm+u9GKrUtZtDGbKRb7rGZICLm9sD3adoo/7uSth9gOyhJDgNptc/qj5qm20yNzPpwDoBtNJYP/mX67kgim+z3G+Zpmi59olGmNewjBFtDvUUtqdxgtSZQfA5kmjumB6A+UHnQAXmdE3la90vYr8gr5si2paiu6EXH9szb6S1G1oVIW63Ri735NU8OyGFu7M/b5zacUjbYZInQdeIYsnsOcPY/HTO1ZSGiDQtO1p8k=;e8368Szho7ExR1vFuSoclA=="
+secured: "clXb2HCE//zRZPAF7q91eEDHdXUxrty9kTNL7de+sMZCqLH9QDWtoEeA/abEw9lWiog3thKdAs2x0RuhJw0bhZ7mbsqqfl7uHc//IlsXGoPIaYWWqpSTSET8AATeAV5fF3EVjaSbQ9odwWVsFCyWLgZ+ef02LnjLbnKg/g9gY6/g58liOBMjgUS9M1+heLKt0WX3S5hBdAXTBTG2QthVWcaX1qH36vHryyNCjn1+3QUpFGCkvAkOfuWioMR0NrA3h2qtH4r7K2afw8lKVN8BaEVLTEGZtL8tGIyWG3XmiXbi3BuPKlutIVrkmsYTHWI7kSvx5++erXKxZKEEA9K4oY4v8M7NpcNCMic71D9ww7t5dXQrwr4fCR+uVzUdfVAiVvLQVI8NMNYs0kit7/LQGZTcD9EV3jIyKJRYpPKAcmPjSswSxXfVO5/FVhK/eX05A4uzSgc4DQ+NkEoSQuoKj/YVh2UEaP0SXL1qO5zRbxMQiowDU8ygPDYTzdbXU+jfBTwAsJUJ12ci7WNk1BgNlA==;Of1kgxNpwpwB7A9bmiPZ6A=="
 ---
 

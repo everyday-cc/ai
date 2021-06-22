@@ -43,6 +43,20 @@ related:
         width: 996
         height: 996
         isCached: true
+  - title: "New machine learning methods could improve environmental predictions"
+    excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://twin-cities.umn.edu/news-events/new-machine-learning-methods-could-improve-environmental-predictions"
+    type: article
+    provider:
+      name: umn.edu
+      domain: umn.edu
+    quality: 39
+    images:
+      - url: "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/iStock-530996767%20Delaware%20River%20900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "Ie5O/QoTQ7btJ3zn5RPHecgIVRV7nxeSKeUEY/F1LRWtcakBgTgKCIX4O4eu6+2zgzXH/ECzucFqEJLwQNNHU6Zv0t07P2Y0lA87e0/g8QNH83MCBlvRNeFp8bLM0MLJ1YiHFUjgZeyPIdtGieXI9xzqmtHemkVjGDh589z3eoUme5Ol27wrrjjZ+GlXPbQjpxb4EtvjyGL7DXZ1otuCzoBlI7vSvqIkG2CGAnPYSnUeCa8QAcrl1yEzKJAYZSJnWxOXMdU0OptCLU2H/49kR0+4BE/xpnBwIXsvIziTVHUsI1C1JA1IeQLi25I44zlKS9UI/VSycRxGb8Bimh47yJ2eAdeG7cuuF0x2BeTsuu0=;/VCCJBqtf0FbmJkbaRYgdQ=="
 ---

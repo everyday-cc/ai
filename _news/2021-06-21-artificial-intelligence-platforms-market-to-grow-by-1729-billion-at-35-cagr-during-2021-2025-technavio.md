@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
+    publishedDateTime: 2021-06-22T17:02:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 8
 
 secured: "ovKLwhzPlHueiJ4l2/eh4M/4rizwBYhL7iJPjsVJ/aEzBBPXXJ1JKAndonh2YrJKze0ehm9m1XuEjeb1eAt9gafpXA3swUb4mRuzgbnroCXlHduJj7LtBcsQeSd/6SYOg55zZsHkGj0mtqBB7A7slbCslNnpVz4k6tKeSWnKISMSUbwXd/S6Duu4NzoVx9xqLU9qXVWywQJML8kH/Y2uFGW6XaVU/HOiwMRkbL+pRa5MEnZtSw4hCSxT9uGGCol4jIT7qRVbNYktGT/KhAybdyFjpucBb799a3zuj0M0s/SlwroWGVdY5EzkaegmEkdFIzwfuQjrTXdePRChxwQJPoEh4EWm9dlcj6/uCJsT9ys=;m7flpbMO+qZfoqrmQziMxA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nat
 webUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: The Next Web
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "What Google’s AI-designed chip tells us about the nature of intelligence"
-    excerpt: "Google Brain scientists published in Nature a deep reinforcement learning technique for floorplanning, or arranging components on chips."
-    publishedDateTime: 2021-06-17T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/"
-    ampWebUrl: "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/"
+  - title: "Google Develops an AI Software That Can Design a Chipset in Just Six Hours"
+    excerpt: "As per a recent research paper, Google has developed an AI software that can design the \"floorplan\" of chipset in just six hours."
+    publishedDateTime: 2021-06-19T21:40:00Z
+    webUrl: "https://beebom.com/google-ai-can-design-chipset-in-six-hours/"
+    ampWebUrl: "https://beebom.com/google-ai-can-design-chipset-in-six-hours/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-ai-can-design-chipset-in-six-hours/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
+      name: Beebom
+      domain: beebom.com
+    quality: 72
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/05/screen-shot-2017-05-17-at-10-17-19-am-e1623759898466.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://beebom.com/wp-content/uploads/2021/06/Google-Develops-an-AI-Software-That-Can-Design-a-Chipset-in-Just-Six-Hours.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
     excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
