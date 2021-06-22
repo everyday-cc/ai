@@ -41,6 +41,22 @@ related:
         width: 800
         height: 423
         isCached: true
+  - title: "Artificial Intelligence-based Security Market Technology Insights, Smart Innovation, Deep Research and Improve Growing Opportunities"
+    excerpt: "The global artificial intelligence based security market is estimated to exhibit a CAGR of 30 25 over the forecast period Artificial intelligence techniques can be used for security management purposes to protect any system from security attacks or threats by"
+    publishedDateTime: 2021-06-18T07:17:00Z
+    webUrl: "https://www.openpr.com/news/2308331/artificial-intelligence-based-security-market-technology"
+    ampWebUrl: "https://www.openpr.com/amp/2308331/artificial-intelligence-based-security-market-technology"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308331/artificial-intelligence-based-security-market-technology"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/6/U618627621_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
     excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  More Details:  Want to customize this report?"
     publishedDateTime: 2021-06-21T22:23:00Z

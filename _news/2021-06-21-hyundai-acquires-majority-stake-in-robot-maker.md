@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai acquires robotics company to develop autonomous driving"
+    excerpt: "Hyundai Motor Group completes the acquisition of Boston Dynamics to develop technologies such as autonomous driving and artificial intelligence (AI)."
+    publishedDateTime: 2021-06-22T07:33:00Z
+    webUrl: "https://philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752"
+    ampWebUrl: "https://philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752/amp"
+    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752/amp"
+    type: article
+    provider:
+      name: Philkotse
+      domain: philkotse.com
+    quality: 89
+    images:
+      - url: "https://img.philkotse.com/2021/06/22/KjJYY7r3/hyundai-2-1-0916.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
     excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
     publishedDateTime: 2021-06-21T14:40:00Z
@@ -38,6 +54,20 @@ related:
       - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/Hyundai-Boston-Dynamics-1024x569-1.png"
         width: 1024
         height: 569
+        isCached: true
+  - title: "The Company That Created Spot the Robot Dog Is Now Owned by Hyundai"
+    excerpt: "Hyundai gets into robotics and relies on Boston Dynamics, its new acquisition, to help it develop robots with advanced mobility, manipulation, and vision capabilities."
+    publishedDateTime: 2021-06-22T06:39:00Z
+    webUrl: "https://www.autoevolution.com/news/the-company-that-created-spot-the-robot-dog-is-now-owned-by-hyundai-163688.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 54
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/the-company-that-created-spot-the-robot-dog-is-now-owned-by-hyundai-163688-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "tadM5RfEnpetehTIHy+2snoQ7Ti+f0t5OSpKMPQUZD+wvvxnNcNwbU/3b68GjXIXDJeXEwdO2/JooRzMC/STbs94b9AxvQcC3mg8klTWbYuKUoZXfqjZ3Z7HqEpuxwnfiK4ONhc9DzpDXYuRFbotNhRnmuqAYYfQv8Cw46WqMVWdfmk22cVoTjm0baCF0FluuCKyh269JnPaOKnddxlXalFRmKYl4CbCFRqfRqnA4y1yjfRD2dHwgp+DXg4ojRXHChUdGYgaXpanO2scWg7/7h+c9vNDIhKFA+jRNaQizq/VmCeqt7J4cBSn8EPwa2YbzTUFND+Y+gcDNjXAtsFfX01CE5LibXasGgqjUGxF1MFEYu50c0xMBBvU/GYYeLDTOn9OOGRnQPati3EdXuiV1j55GmwUZF17V9IvlQaJ2woJc3tNzdjLGAAy0h7q2djvGK2PNaw1TzCkZ0/ZMpzlSGqYUFciA+wdNNwpS+Z0F01HaawFsYKDeFejpVKJFobje6cBrxvMZUvG8EM5VBlyig==;JkqsIJvu8ciIYXcZTypASw=="

@@ -25,22 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "How automation and AI can be used to improve business resilience today"
-    excerpt: "As a recent article on CIO.com observed, the pandemic “has seen accelerated interest in process automation as organizations have scrambled to overhaul business processes and double down on digital transformations in response to disruptions brought about by COVID-19."
-    publishedDateTime: 2021-06-17T14:29:00Z
-    webUrl: "https://www.cio.com/article/3622353/how-automation-and-ai-can-be-used-to-improve-business-resilience-today.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/06/istock-1295900106-2-100892758-large.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "umvY6s7RDuhUdtOXTsM/+IFTOMKBtrIe7aNOsvDzLW04paoAj5lV/N+bwDS1XP/JritAfARPc51+qYTBEeaetfE1raVTPbb+3NKI0wTab0mC4jAuUDUCj8yX4Hu6WBCIyM3bj3rdOSocFRm6PZjlGsIcjnZriPiSpeLiJLFzegXpT02hetQQt6yyztfSmef0PR9J6EqLHRTJst5ePhsTkZAYQF5jqZHiSx2OYMGKrMj46w6GdX9TPlwRj6sdm0614DEiWYVXVbKLMzqT8IXXajyiqy82/uaQYFyiBu2qaAbXuZ+3XmnpkHAq5Fd9JyKst0FISvZmG66Wf0kGtrkkPm+Wjv0AYeMkDe5AxYt6Qwg=;LNoYLQhe+umvlpEhaLUe4w=="
 ---
 

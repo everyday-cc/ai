@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recru
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2019/12/fsdchip.jpeg"
         width: 1300
         height: 650
+        isCached: true
+  - title: "Tesla to hold Artificial Intelligence Day in 'about a month' for hiring: Musk"
+    excerpt: "Tesla Inc chief Elon Musk is considering holding an Artificial Intelligence Day in about a month, where the Silicon Valley billionaire will showcase the progress in AI software and hardware with an aim to recruit."
+    publishedDateTime: 2021-06-22T02:09:00Z
+    webUrl: "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042"
+    ampWebUrl: "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 71
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/54187-Untitled%2520design%2520%25284%2529_122.jpg"
+        width: 918
+        height: 506
         isCached: true
 
 secured: "k7kqvATT/4mcwQHXtTUdai0+WTiyOUyu89cgvu26gjPjYeFl+Tn7f7XU7G9v7iUGwScK/LtAfVfXKqxfsBuccyvQ+9uqnS7Tzo1Wk2iurYIGiTOv1ILHHtR8OfMVFbXGqNLBg2WJukUcGHFUb+9Nd+paJtiYE8+x/wXS5sSTfzBRokK3EXJS0QtZqScwQ5nMk1Rj7jUPWZk8XlRmCH4an049e5UQ/bMR8uZfRd2sRIBXDGm6ke3re5t59NSZznnKIf4IfVGtN+qARsemUXVmw90RYrnkk34e9BzUurq/F2P2Z3bJ8zbqvGFxsxR9iDDTWo+I8qJB67T7koqCxuj1XkoxePHx0Z0NAUUqJ45MBt4G22ei2mSoefNPE44/84DC7Bg+QHmkmsTcHdlvRAM+8Kw5a5f7Db4SPJIG47CeE8BZki0wCwEkyZzpILOU1HHxkaPiCt8Za/dat3KChMv7NQZYm7t7bWn0y0iq4xqdZQFvx8gF8E/4HjmCctacU0gTg0X+Wa/3GA+MybGTHNmIdw==;g/GbAGjX3xvjzTsSPGBrQA=="

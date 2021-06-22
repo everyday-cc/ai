@@ -1,0 +1,57 @@
+---
+category: news
+title: "AI Chatbots Without Programming"
+excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
+publishedDateTime: 2021-06-20T16:13:00Z
+originalUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+3T2020_verified"
+webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+3T2020_verified"
+type: article
+quality: 49
+heat: 49
+published: false
+
+provider:
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+
+related:
+  - title: "AI Chatbots for Dementia Patients Show Promise, But Need Work"
+    excerpt: "AI chatbots show extreme potential in healthcare, but a new study reveals that more work needs to be done to use chatbots for dementia patients and caregivers."
+    publishedDateTime: 2021-06-17T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-chatbots-for-dementia-patients-show-promise-but-need-work"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1127125431.jpeg"
+        width: 700
+        height: 431
+        isCached: true
+  - title: "Scotiabank brings machine learning to chatbot"
+    excerpt: "Scotiabank is bringing machine learning to its search function, prepping a chatbot that will be able to instantly answer complicated customer questions."
+    publishedDateTime: 2021-06-20T23:18:00Z
+    webUrl: "https://www.finextra.com/newsarticle/38297/scotiabank-brings-machine-learning-to-chatbot"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/bots-to-you.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
+secured: "W7GMXQ9WkE4V8PYnT7E63vSjZNIxYd8ZEorK0Vp2aRG4ri5Ohe0lug0LrgF3Zq6AdDlxJVGyhINnxYtKQV287DqYcSwDfBQY1mHiBNr/Ic3W2S5SjACaE/anP4jyY5MU5YdFd9h8fLWDtVyKwbxfa5/mc0IhiH5r8ZZcgLiOKtMqm7lfBrqEeSNEYPUioYN3WZxOhaSD+n+ShVFTY0Iw4NzkIZ2FTr6DwdnQDe45iHZYznhqH0MFonCE8UPaR0DcxSl5j39D5LbWNjo6WE0QJeHP48oj9j+FXIpGPdFoMXGJ/gsKNQNiSNgZrs/smWZBBYRSxpFgbW8IBb57111X+xdPgVd2c113o8nJ35PGa+k=;nLxX4BP2W4YG/UhqCnITJA=="
+---
+

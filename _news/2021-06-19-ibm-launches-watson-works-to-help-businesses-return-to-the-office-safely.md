@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itbusiness.ca/news/ibm-launches-watson-works-to-help-bus
 cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413?amp=1"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: IT Business
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Creating An AI Text-to-Speech Using IBM Watson"
+    excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
+    publishedDateTime: 2021-06-22T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Overwatch League Brings Hero Rankings with AI IBM Watson"
     excerpt: "Just as the current Overwatch League season was about to kick off, we reported here the partnership between Blizzard and IBM Watson to"
     publishedDateTime: 2021-06-18T18:56:00Z

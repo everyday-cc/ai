@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seei
 webUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seeing-self-driving-cards-public-roads-188163"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why we still don't have self-driving cars on the roads in 2021"
-    excerpt: "Do you remember the time when self-driving cars were upon us? It was almost a decade ago when the Autonomous Vehicle division at Google (now Waymo) promised a world where people would be chauffeured around by self-driving robot cars."
-    publishedDateTime: 2021-06-17T13:20:00Z
-    webUrl: "https://techxplore.com/news/2021-06-dont-self-driving-cars-roads.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-dont-self-driving-cars-roads.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-dont-self-driving-cars-roads.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/why-we-still-dont-have.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Why we still don't have self-driving cars on the roads in 2021"
     excerpt: "Do you remember the time when self-driving cars were upon us? It was almost a decade ago when the Autonomous Vehicle division at Google (now Waymo) promised a world where people would be chauffeured around by"
     publishedDateTime: 2021-06-20T12:24:00Z

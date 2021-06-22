@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market Size 2021 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
+    excerpt: "A new report released by Market Research Update is Face Recognition Device Market 2021. This report provides up-to-date information on the market and also pinpoint all the opportunities for Face Recognition Device market growth."
+    publishedDateTime: 2021-06-21T08:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2021-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Healthcare Market (2021 to 2026) - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2021-2026) by Sections, Diagnosis, End-user, Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has"
     publishedDateTime: 2021-06-17T19:45:00Z

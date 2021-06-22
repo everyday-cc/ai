@@ -2,27 +2,25 @@
 category: news
 title: "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs"
 excerpt: "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ..."
-publishedDateTime: 2021-06-17T07:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21601025/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-productio"
-ampWebUrl: "https://www.benzinga.com/amp/content/21601025"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601025"
+publishedDateTime: 2021-06-17T07:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1535437/1.jpg"
-    width: 400
-    height: 267
+  - url: "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook"
+    width: 2700
+    height: 1413
     isCached: true
 
-secured: "iIGNbUMYkArRX9ha4CHtN/WFnIhFheREbtsIGcFX4+dkepLkxqQBAwV+Cyt9grfx65Wo6smx8oCnmfDwRR41DENqKRwBu9nTiwwudS8OeJi1fbrqGGmXmtzf4urQPKEjajuEh7gRLf+A4BshNFBtRYarVMa8IvY5uY8/rg3AQI21HbLkrqYGODQDVN7c1+xc+HtBEvHShinK78ZJQrBis5nk4J4KZ3b3t363zb8tvZ7G1CEXNNQqORdrsRRHo8IyhCRkdU0u05Mcxx0GOQ6Vt+3VD3mqyhKIjHmQz9nHB5GTBd5PsLjLFA1cVLdY1vEgJXGw7md2kbo124mF5Tj7U0gx+C6wJhbXcrIstsIEd2c=;XPTHT98xmz8L3PkcBq3Rfg=="
+secured: "CcgVTuuFyhrgIS32fB/OXgZ7pyzfSksaRGDBkJZ6tT2z65Ayp1r/wz/+Kd2pafOT7hSWZ52ocyja0nO733vO9HUECexKFgrN1X7Kr85Ksw1czJOtFczUEQCQRYraXsmQl+zO0tmNHGjByJAADIgnYGDhDZlJkEQ8CZYXodAJquRlsPrae+J8GqWgcrrgl33yQEo8ZKmwGRC+40YU+3oqMeOReMp5E2I7/TaAGhPl7+DBXrG7R118JTt2BaJ4vWENE2ILAcv5YgUzF3YWSBC1E5ML7cyQ20vF+7Jc5y9fiOR8PD1NWbTKfOj9IIIC4pMlb3+XzO1W4TUs3MOixY76IbIMM/NS2/RMFVs/thuc5cI=;dLbrAcMdgKsf3hHV8R6R9A=="
 ---
 

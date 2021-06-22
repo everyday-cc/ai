@@ -317,15 +317,24 @@
     {
       "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
       "title": "Tractable becomes world's first computer vision unicorn for financial services",
-      "excerpt": "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by Insight Partners and",
+      "excerpt": "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by",
       "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services/article_540d972c-3839-5a13-a355-a55fafe49292.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services/article_540d972c-3839-5a13-a355-a55fafe49292.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook",
+          "width": 678,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -333,8 +342,8 @@
       "publishedDateTime": "2021-06-17T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

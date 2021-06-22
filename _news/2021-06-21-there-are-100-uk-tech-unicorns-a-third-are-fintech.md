@@ -78,20 +78,6 @@ related:
         width: 600
         height: 940
         isCached: true
-  - title: "Tata Consultancy Services and Broadridge Financial Solutions to Sponsor Fintech at Cornell Initiative"
-    excerpt: "The Cornell SC Johnson College of Business is pleased to announce that Tata Consultancy Services (TCS), and Broadridge Financial Solutions, Inc."
-    publishedDateTime: 2021-06-17T13:06:00Z
-    webUrl: "https://www.miragenews.com/tata-consultancy-services-and-broadridge-579902/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 9
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
-        width: 640
-        height: 423
-        isCached: true
   - title: "KT to invest 23.6 billion won in fintech firms under Webcash Group"
     excerpt: "KT Corp. will invest a total of 23.6 billion won in three companies under the fintech-focused Webcash Group to strengthen its foothold in financial services. Of the amount, 14.4 billion won would be invested in Webcash,"
     publishedDateTime: 2021-06-18T20:05:00Z

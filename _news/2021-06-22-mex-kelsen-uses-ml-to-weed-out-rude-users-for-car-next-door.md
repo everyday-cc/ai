@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Max Kelsen revs up ML system for car share platform"
+    excerpt: "Australian car share platform Car Next Door has tapped Max Kelsen to deploy an ML system geared at reducing inappropriate car borrower behaviour."
+    publishedDateTime: 2021-06-22T06:01:00Z
+    webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 41
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nicktherkelsen-terry.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Max Kelsen uses ML to weed out rude users for Car Next Door"
     excerpt: "Brisbane-based AI and ML specialist consultancy Max Kelsen has built and deployed a system for the Australian car sharing platform Car Next Door to reduce inappropriate car borrower behaviour. The solution aims to grow trust for car owners as the company’s business model does not need them to physically meet with the borrower."
     publishedDateTime: 2021-06-22T03:43:00Z

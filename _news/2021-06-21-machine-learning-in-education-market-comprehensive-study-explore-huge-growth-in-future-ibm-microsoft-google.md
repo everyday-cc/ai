@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2309879/machine-learning-in-education-mar
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
 type: article
 quality: 73
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -40,6 +40,29 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 66
+  - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
+    excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
+    publishedDateTime: 2021-06-21T10:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-likely-to-boost-future-growth-with-google-baidu-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 63
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Wood-framed_house-CC-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
+    publishedDateTime: 2021-06-18T09:45:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192261&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "j1IJu1sEHdOyuwkinRomoA8RzgoTPwtLWtqGetcLFb54cW9yacUamGTtbGc7aDI/5LwWv/NhkzPyRa/HyW6xHVkleOe/rTAr8NCggjdmsn1A7W5dqh8RcnqvdfNaX4JkVGOoLr6q4+SL1fgPuDQN2YbBnGVwandI9zqynprI945lrPGZF41gV7Sq82DMaEe0ziRjYxv+DYYW0q98WNRqCHz0agV7Hiwbv4uK95YC8kwS2PaTAOVs1CDf9cNIOnYplbFZAl1tdaSsRLfNzwpS/PrrlXoNSVPbOUeCpVS8spnHAn7QkH1T5HoEovDTFQHkLkgfHw+aAcgb49fFOtxBZCm8TfwW5G5NmLlNA5lUirHyQJol0XnKjCh/wFA/pWXOg1KYEnh6wjLAWknULnPcN3TL0P9H8METfYdK7n3csvM0IYI+YnvfTTE1BIHdV+OoK+rwYFXSMOh3ezNiLb/6GQT22GRfAaCPHplP59OtJWn8f0ZBkQ9JlgluqH+jt7qeMN7wOhadl5lSFQy0J6MRtw==;8vUZfflLcakpAOZbuDf3tA=="
 ---

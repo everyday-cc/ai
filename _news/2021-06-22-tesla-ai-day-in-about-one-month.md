@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla to hold Artificial Intelligence Day in 'about a month' for hiring: Musk"
+    excerpt: "Tesla Inc chief Elon Musk is considering holding an Artificial Intelligence Day in about a month, where the Silicon Valley billionaire will showcase the progress in AI software and hardware with an aim to recruit."
+    publishedDateTime: 2021-06-22T02:09:00Z
+    webUrl: "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042"
+    ampWebUrl: "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 71
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/54187-Untitled%2520design%2520%25284%2529_122.jpg"
+        width: 918
+        height: 506
+        isCached: true
 
 secured: "dEdibA5dzdr+O+CR/+rciKKGiixk0vjLeoIqqkSw0nrnlkD/qJuomfCSAxUcIDDSnX4XPmfyYHwjMMLutoVJdGDSrFzAp3XodRo3VXG8AI6RHxHzmavq8bVieSRwCR3ghB1dfJ9+tUStMo5IWmr0dQbIAZaLmI2Qahtq4DQvdNCh8Dx2IfrKmq/G/t7qZtpannO4U0092mHAohZqlOSA94SElORq5dwV23LcjB5rBfZdWs+u4k0qShJ1P6bdY/JNU0sSX2eQod2w58A3mmIunHxVu449tH/s0/NouEF7NeMJdoIP6V9YJdVgE85tgSERgbQQS+jKxhhczW+VGKT6dnsDrGOKYQpMbEplYpGz8seW95CE+JHUkaaCoFCkaqT+hcxcKzFJptAcAAFvzxYawDZj+WKwpBugm2E6wpj1PGE1mn9tFDxoObidA/tnGUo1PwoZcnDUMG7+ACezp5DZAoohUdUVCUqrWsHhzSUl/Lzz6ljSNhyrlr+vt/ZajfI/jD2egl4m8R1qHv5HZFc7Fg==;6NfuH9vVkz5g7hGmzNhoTA=="
 ---

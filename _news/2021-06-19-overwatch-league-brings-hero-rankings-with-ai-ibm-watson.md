@@ -41,6 +41,20 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Creating An AI Text-to-Speech Using IBM Watson"
+    excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
+    publishedDateTime: 2021-06-22T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "Wo195VhEiyS1iwU+26Qv0whIGeg7LlHUy3m5Ni5vRBZqDvsVrExbnXIhm+eOzLCU3DuxxhzThPlEtTPVLveCvyg1JJNkcTkPKNLliBPfMYIXS/z99yBuBcja4M0i41wZYfZ/Zbjdtewihcwp54dr817j7VHBFo59yVLAgzabGGlUipClybbvslrbmkU1usAAs8/D4relA/era6vn2j0iUn4HMWfptVSeYXNSYspMm+79iMmKq482TTfV6Fecz97mO2XTSlxFw6ek0Fd0CNXCQjtdPQeSFlOMYUUkx/lUrTjVWRPQsK4gh0Rv457Zt0PguUa+xGgEqmZqkjJdeJIAHIJs2dMzdrlC4o1s0+Em2hC6f4PnJhaJxhOiiDLs2ohiKvXRFMImqVRAlNX4/t5HNNE3tgGZ1bVTqvCONl8bpnrccRsIYVjqiQCgBMQOG0eW9FHaVHmN3elyZzFL+DLRtIngn8Szs0OWYcEXxxjFPQn2iResKqQCRvbMz0DZavs1I0WEL4nJEgvEGBwWGKYPfQ==;EX5NVUu+CF+vSXDy+BOk7g=="
 ---

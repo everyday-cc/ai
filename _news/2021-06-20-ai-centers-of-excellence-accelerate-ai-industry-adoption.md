@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1003
         height: 1090
         isCached: true
-  - title: "Deloitte China and Laiye Announced Strategic Alliance to Accelerate Intelligent Automation Transformation"
-    excerpt: "Deloitte China and Laiye announced a strategic alliance to jointly accelerate Intelligent Automation Transformation. The two companies have been partners to serve several Fortune 500 companies and other industry leading companies in the past two years spanning technologies that include Artificial Intelligence (AI),"
-    publishedDateTime: 2021-06-17T14:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392908.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "pqQOQlVaLM+mNSyOE8hh1LFXkqDVjx8TPYikSVA+AgyFq+zoOpv8FflKdv6CtLBE1XXm3j6ZtYF3qK/WKC/IigY5+HshU1c+WzPRkiOsTbsuhl8w3xGKUE4VdZZnO3uA7IWOTRmwdOGDbcFSR2peI7xPQT5GqpEAvmz2yLTUwF+Dd36Ld4hWoRa6ROGpuNyp3gkBZZKU7tBd3B1SNikpevyZmBGbivG+n/nL31Jd+epE9S77EUVtqDb5rnBsSwWg1cCRvYuZzA6HvoI1s0MHKujITJWUKILCQccLtRE45iF5ohmo63ougXhIzgrnH2Ve77lTVAg6+0brFavvZLlGnVvrOuo70tpAijX4M/Jj7Rr4Ra7iwTBypXE7hrFgR5WaRd/oguiKOvDBXdgiqcoAwtgYu3RVHxye+6aJAaEnpSeqOffia6X/9ZLFUTeflgemVrP7nDjQaa4KsKFLo+nLS7kGaWuBfwyXZw//uWnVfnT2zGjSap5xxtRXP50yH0+ECsR6qqPBLlgN41hnJETaow==;1dqwMaLUeuk9HMWQoqzbBQ=="
 ---

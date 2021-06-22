@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Deloitte China and Laiye Announced Strategic Alliance to Accelerate Intelligent Automation Transformation"
-    excerpt: "Deloitte China and Laiye announced a strategic alliance to jointly accelerate Intelligent Automation Transformation. The two companies have been partners to serve several Fortune 500 companies and other industry leading companies in the past two years spanning technologies that include Artificial Intelligence (AI),"
-    publishedDateTime: 2021-06-17T14:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/17/9392908.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "yEBgukEBERpoqaq8p4s1wQTk2xCYIIJ0crRZNgjbp14IGIYjGCaw36hb31fip7gJbIkV8NyOi6n/1epgk/QqGp+QAnH+U6KeO45wyZUeVaP8RonUztV8nYhRXKoZXuL70F5SdIUSrtbwY+i8bzpu70/Kha7F60hxM6Ra492br22tOmrU3vXXqDk4M2mpwVPw9XL/qHqcSQR+iWXCR5QdbhTQN99GJpQZAKHWf35aoj3VzvWYwdLQlDJ/2LgWM8rTXlq579e1cTbrTKrLUZMDtQ+scgIOC0Tlu6mb7nvQbY6dvND1Foh3/iDuaGclv0ZeVtnb2FRfRy0BdhMEEOGXAETVGXCMO9tkNkOD118mcjh/SStJNRlWdMqleDZHphIMoCFJFOW57+KkVXIqulQIXGDNNaOSsWLShkqToJzBDdFfZHakFkMhppIpNRzrjvbuKBLdxGJlOwqNafZ7HP5w20JULE/Mbwg8AwvknKb1dSDknv75jJEEOZNfJtp74hQ4zmhyJJzed09r2tHxzs/HHw==;BeV0YpWjocPUKxJSXDLrRA=="
 ---

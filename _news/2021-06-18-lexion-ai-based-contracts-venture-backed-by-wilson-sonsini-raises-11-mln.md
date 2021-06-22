@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Fiddler Raises $32 Million in Series B Funding as it leads the market of Machine Learning Explainability and Performance Management"
-    excerpt: "Fiddler AI announced it has raised $32 million in Series B funding to give teams everywhere access to Fiddler's Model Performance Management platform powered by Explainable AI to enable them to build Responsible AI in production."
-    publishedDateTime: 2021-06-17T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fiddler-raises-32-million-in-series-b-funding-as-it-leads-the-market-of-machine-learning-explainability-and-performance-management-1030531865"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
 
 secured: "CybGPqlC9o+oNrslEUoYw8j/uCoUCIJD79HWz9sUaHnroovWvRLDrzq5k7bmWAQyFCGH+e05/5vXvxFRFgXt9AnxCddggKUZV0BjeRA59kjWK/0/Cq//oFmpvtuVsxYRawrsUgiImwg9RmzCkSusFLqF7tNkGCxOH3wVYgIItE909W22gf3491Ev1X/Ju6lFz5DI604EWIsJQtsSyY6r+VRq/sQRR514D/Su2iLElhuLNASZuIy7cs8XuH8mgtlsK93BTGu7huNUbXY5aY/dCsbnoBAT5tS/vsUuBPEXZ04Ql/SdSsd5c7wMa6ii2tE7N8HRHJesDp9eITtn40VIkRUhYYnRM/ClTCzRWrxk80GUWfmyFMUhcAYIGCjqQzcifr9yiCiQiz5Rp/xJaTswl0NU/faipIoWrZ43FzbiVtm8tlKJcnRY5SrK5rSTo7RNO/wFbMmeJySgIfVI91G9EQXGLK/gNfWV+33o1oPLZFq0aoGAHnaLX/CVnRVgU9T93GGFTfHe/nPpLMXD6Cvoyw==;EBrTYfcIgLkXuxd4eClt/Q=="
 ---

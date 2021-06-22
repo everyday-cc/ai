@@ -19,36 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Theum Now Available in the Microsoft Azure Cloud"
-    excerpt: "Intelligent answer oriented access to documented knowledge in just a few clicks Stuttgart Germany June 17 2021 Theum AG www theum com announced the availability of its AI based software Theum for the automated deployment of and direct access to"
-    publishedDateTime: 2021-06-17T14:57:00Z
-    webUrl: "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud"
-    ampWebUrl: "https://www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud"
+  - title: "Machine Learning in Education Market Comprehensive Study Explore Huge Growth In Future: IBM, Microsoft, Google"
+    excerpt: "A new statistical surveying study titled Machine Learning in Education Market investigates a few critical features identified with Machine Learning in Education Market covering industry condition division examination and focused scene Down to earth ideas of the market are referenced"
+    publishedDateTime: 2021-06-21T12:22:00Z
+    webUrl: "https://www.openpr.com/news/2309879/machine-learning-in-education-market-comprehensive-study"
+    ampWebUrl: "https://www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 89
+    quality: 73
     images:
-      - url: "https://cdn.openpr.com/U/6/U617781440_g.jpg"
-        width: 800
-        height: 800
+      - url: "https://cdn.openpr.com/U/6/U621854972_g.jpg"
+        width: 660
+        height: 400
         isCached: true
-  - title: "Mining giant BHP signs cloud deals with AWS and Microsoft Azure"
-    excerpt: "Mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-    publishedDateTime: 2021-06-18T11:13:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
+  - title: "Artificial Intelligence in Retail Market 2021 | IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP, Intel"
+    excerpt: "An informative data report titled Artificial Intelligence in Retail Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
+    publishedDateTime: 2021-06-18T05:57:00Z
+    webUrl: "https://www.openpr.com/news/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
+    ampWebUrl: "https://www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 71
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Bento_Rodrigues_Mariana_Minas_Ger.2e16d0ba.fill-1200x630.jpg"
-        width: 1080
-        height: 568
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 66
   - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
     excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
     publishedDateTime: 2021-06-21T10:36:00Z
@@ -63,66 +60,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "NetFolder for Secure file Uploads by odix is now available on the Microsoft Azure Marketplace"
-    excerpt: "Israel based cyber security leader in file-based malware prevention solutions has officially launched NetFolder, an advanced file sanitization solution ideal for file transfer portals for all industries,"
-    publishedDateTime: 2021-06-22T05:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-19867273.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 58
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Microsoft Teams for Android can now translate private chat messages"
-    excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
-    publishedDateTime: 2021-06-18T15:38:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-teams-for-android-can-now-translate-private-chat-messages"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 56
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Teams-Android-Google-Play-Store-Listing-Custom.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft expands telecom portfolio with Azure private MEC"
-    excerpt: "An 'evolution' of Microsoft's previous offering in the area, Azure private MEC represents a melding of the company's cloud computing technology with its new Affirmed and Metaswitch assets."
-    publishedDateTime: 2021-06-17T19:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/microsoft-expands-telecom-portfolio-with-azure-private-mec/d/d-id/770311"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 54
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Microsoft introduces Azure private multi-access edge compute system, services"
-    excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
-    publishedDateTime: 2021-06-21T15:18:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-azure-private-multi-access-edge-compute-system-services--1387445"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
-  - title: "Logility Partners with Microsoft Azure to Power High Performing Cloud Environment and Enhance the Customer Experience"
-    excerpt: "Logility partners with Microsoft Azure to power high performing cloud environment and enhance the customer experience."
-    publishedDateTime: 2021-06-17T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210617005071/en/Logility-Partners-with-Microsoft-Azure-to-Power-High-Performing-Cloud-Environment-and-Enhance-the-Customer-Experience"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "hezZxO74i1ZsTX/BUCg7YcWwTw4MVUTi4WfUpvEKNp6NiELVxLkNdHUYrniDFBjMK1u+85yKtRAKAIPixlfiY5w8KT+3vqsJtlG4iGmgQdq6Ry63BIrsI/7ls1gOQbgf+F1N+PIrLS2iD3pfXhWT0a+cle0WtT4mw5aF8rcRFQ3Pk4Zprzn5qgG97UBnPqOZQCBTpC7kwvj5F+U4v5Z21orS8LjjHJtdITMpaf7EJRDK524iLVgxvtc11SrndubAfYX7whxtZv57Gf3nxe6gHbTfsm6FyNhw5d7ZFXm8dZsjmhry96nx0Fj/lgA9yBxWfWvt77yOMrws5qt5iMXmnOMr3iZ3iUGPTuih+UtqPbQ=;2NY7ArYwcJulAu4bkRcBmA=="
 ---
