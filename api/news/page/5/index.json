@@ -2,6 +2,462 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-18-basic-ethical-questions-of-transparency-and-bias-in-ai-remain-unsolved-experts-say.md",
+      "title": "Basic ethical questions of transparency and bias in AI remain unsolved, experts say",
+      "excerpt": "Big Tech companies are expected to perform a delicate balancing act in advancing AI development, while ensuring the technology’s ethical application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/17/c2c9fe55-4125-4bc1-a5b8-117eb2a6fda4_8650bdb4.jpg?itok=7p6UsNJ0&v=1623932989",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
+      "publishedDateTime": "2021-06-17T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-mouse-brains-in-3d-microscopy-startup-lightspeed-raises-4m-to-visualize-medical-specimens.md",
+      "title": "Mouse brains in 3D: Microscopy startup Lightspeed raises $4M to visualize medical specimens",
+      "excerpt": "Lightspeed Microscopy, a Seattle startup spun out of the University of Washington, raised $4 million in a Series A financing round led by Dynamk Capital. Lightspeed is developing an",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/",
+      "originalUrl": "https://www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/06/lightspeed-raises-4-million-to-d-1260x709.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/amp/",
+      "publishedDateTime": "2021-06-17T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-liveperson-wins-30-million-from-247ai-in-trade-secret-verdict.md",
+      "title": "LivePerson wins $30 million from [24]7.ai in trade-secret verdict",
+      "excerpt": "A jury in an Oakland federal court awarded conversation software company LivePerson Inc more than $30 million on Thursday for competitor 247.ai Inc's misuse of trade secrets related to LivePerson's clients Optus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/asJmFhVXURwCCvxfEe7Pllnhks8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MNJ43JOA5K6LKK6NGX6HTFRGI.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
+      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
+      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700.md",
+      "title": "KeepTruckin raises $190 million to invest in AI products, double R&D team to 700",
+      "excerpt": "KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/KT-1.png?w=1024",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
+      "publishedDateTime": "2021-06-17T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends.md",
+      "title": "Impact Of Covid-19 On Computer Vision in Healthcare Market 2021: Remarking Enormous Growth With Recent Trends",
+      "excerpt": "Revenue for Computer Vision in Healthcare Market has grown substantially over the five years to 2021 as a result",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve.md",
+      "title": "Transform 2021: Where does your enterprise stand on the AI adoption curve?",
+      "excerpt": "Transform, the world’s leading event on applied AI for enterprise business & technology decision makers, will host thousands of executives across industries to share their AI and data technology stories.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1225909162-e1619735173985.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/transform-2021-where-does-your-enterprise-stand-on-the-ai-adoption-curve/amp/",
+      "publishedDateTime": "2021-06-17T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration.md",
+      "title": "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration",
+      "excerpt": "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "originalUrl": "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-regulators-know-teleoperation-is-key-for-self-driving-vehicles-to-succeed.md",
+      "title": "Regulators know teleoperation is key for self-driving vehicles to succeed",
+      "excerpt": "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
+      "publishedDateTime": "2021-06-17T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration.md",
       "title": "Veritone Bags 14th US Patent For Dynamic AI Model Orchestration",
       "excerpt": "Artificial intelligence (A.I.) operating system, aiWARE creator Veritone Inc (NASDAQ:VERI) won a new U.S. patent for its Conductor technology that performs dynamic A.I. model orch",
@@ -763,428 +1219,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo.md",
-      "title": "Researchers develop a deep learning method able to animate portions of a photo",
-      "excerpt": "Typically, that perceived motion is just a trick of our minds. Researchers at the University of Washington have developed a new deep learning method that can animate certain portions of a photograph, turning it into a video. The UW deep learning method can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "originalUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/waterfall.jpg",
-          "width": 1280,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "publishedDateTime": "2021-06-17T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-the-efforts-to-make-text-based-ai-less-racist-and-terrible.md",
-      "title": "The Efforts to Make Text-Based AI Less Racist and Terrible",
-      "excerpt": "Language models like GPT-3 can write poetry, but they often amplify negative stereotypes. Researchers are trying different approaches to address the problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/efforts-make-text-ai-less-racist-terrible/",
-      "originalUrl": "https://www.wired.com/story/efforts-make-text-ai-less-racist-terrible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60cb74c0e801084848fb0487/master/pass/GettyImages-1157449117.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/efforts-make-text-ai-less-racist-terrible/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/efforts-make-text-ai-less-racist-terrible/amp",
-      "publishedDateTime": "2021-06-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis.md",
-      "title": "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis",
-      "excerpt": "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tractable-hits-1-billion-valuation-by-using-ai-to-see-auto-damage-as-computer-vision-matures.md",
-      "title": "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures",
-      "excerpt": "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6",
-      "originalUrl": "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
-      "title": "NVIDIA and the battle for the future of AI chips",
-      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
-      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/nvidia-ai-chips/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp",
-      "publishedDateTime": "2021-06-17T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-chinas-ponyai-plans-to-begin-commercial-driverless-robotaxi-service-in-california-in-2022.md",
-      "title": "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022",
-      "excerpt": "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/17/chinas-pony-ai-commercial-driverless-robotaxi-service-california-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/pony.ai_.png",
-          "width": 731,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tuya-smart-concludes-its-first-aiiot-business-conference-focused-on-hong-kong.md",
-      "title": "Tuya Smart Concludes its First AI+IoT Business Conference Focused on Hong Kong",
-      "excerpt": "Tuya Smart (NYSE: TUYA), a leading global IoT cloud platform, today concluded its first ever AI+IoT Business Conference Online focused on Hong Kong. Themed \"Joint Efforts & Prosperous Growth\" the conference aimed to promote the intelligent upgrading of traditional industries in Hong Kong to bring benefits to the everyday life of local consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tuya-smart-concludes-its-first-ai-iot-business-conference-focused-on-hong-kong-1030531019",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tuya-smart-concludes-its-first-ai-iot-business-conference-focused-on-hong-kong-1030531019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1535496/1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
-      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
-      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
-      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
-      "publishedDateTime": "2021-06-17T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs.md",
-      "title": "Baidu and BAIC Group's ARCFOX Brand Collaborate to Launch Apollo Moon Robotaxis, Plan Mass Production at Affordable Costs",
-      "excerpt": "At the same time, ARCFOX and Baidu are also developing the next generation autonomous driving products. As self-driving cars change the future world of transportation, our goal is to bring users a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-and-baic-groups-arcfox-brand-collaborate-to-launch-apollo-moon-robotaxis-plan-mass-production-at-affordable-costs-301314427.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1535437/1.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -63,6 +63,20 @@ related:
         width: 794
         height: 512
         isCached: true
+  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
+    excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
+    publishedDateTime: 2021-06-22T15:55:00Z
+    webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 58
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
     publishedDateTime: 2021-06-18T06:43:00Z
@@ -106,19 +120,19 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
-  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2021-06-22T16:01:00Z
-    webUrl: "https://www.cio.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
+    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+    publishedDateTime: 2021-06-18T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 28
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
     images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+        width: 1200
+        height: 441
         isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
@@ -129,15 +143,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
-  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-    publishedDateTime: 2021-06-18T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "++VcNdwC5bg/+cQvSslQ6XLlxoRszpoBevGYfD9v30zhjv+takyoY4p+zBEKPETGHulb4Q0hd6qzUUXKLItPFfb2mL1rU6ad9hNnDT08aEA+BnZceGxxi3qvah6Yc/CBFn31P6kFUtPwrhsWkRukxSu0hc+p+RnnjS+m3tntathnlwk37UPb0lJhGGR/UUUf4Rn5HGJWtbF/1VAzRb3g9v2VY8QIaO1HjCvECB+21D56KZYIO6gIMtiwTrBR+u+DTTrdr2T0ANvmD68K6Ue1/OhDBcbB92LJE8q4PPnK3gMJFDXCEJo84SA8dMS+XI3hBjnpER+rD1fO2b7XkH6Odxa+VuZP0JSXUg9wNJtzfInY9DDuuo4m+Na1sFESsQuvlkDuhS25JqCEPmT9xbWTBEjxVNEzqUu1ycSRu2yXNGs1IyUQzeNAuOntUxsKf7UG6RI6hZkV2DJ6h6UI89ojrHVwc/jss07PkJBcU7IhCJ6yawVHuqR+myMDS5ZkERxrkx9hogz69asByvK1wDUjOQ==;eF1gwwVBwW2nlNiPnAkccw=="
 ---

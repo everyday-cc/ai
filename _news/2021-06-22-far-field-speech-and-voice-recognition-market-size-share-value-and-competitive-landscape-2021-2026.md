@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market Share Growth, Size Value, Trends, Rigonal outlook by 2028"
+    excerpt: "Cognitive computing represents the third era of computing, we started from computers that could tabulate sums (1900s) to programmable systems (1950s), and now to cognitive systems. Even though computers are better for data processing and making calculations,"
+    publishedDateTime: 2021-06-22T17:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-share-growth-size-value-trends-rigonal-outlook-by-2028-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
     excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
     publishedDateTime: 2021-06-21T10:44:00Z

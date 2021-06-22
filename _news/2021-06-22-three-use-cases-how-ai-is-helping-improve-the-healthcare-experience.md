@@ -7,8 +7,8 @@ originalUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-
 webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Information Age
@@ -42,6 +42,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/06/board-1364652_640.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "Artificial intelligence is changing how we diagnose disease, triage cases in the ER, even help prep doctors"
+    excerpt: "While algorithms might not have a great bedside manner, new technology is helping save lives: St. Michael’s Hospital saw a 20 per cent reduction in"
+    publishedDateTime: 2021-06-22T19:04:00Z
+    webUrl: "https://www.thestar.com/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 19
+    images:
+      - url: "https://images.thestar.com/OrV6h4DzV0yGbPbdNAnqjftjodY=/1200x846/smart/filters:cb(1624391807455)/https://www.thestar.com/content/dam/thestar/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors/_1_st_michael_s_hospital.jpg"
+        width: 1200
+        height: 846
         isCached: true
 
 secured: "0kDneN1saKFZKKFRQF6xv3431XAj/TLxZQB+Fe5r+rH7iM6tKfeu/QRhhD8LGUDj7HyDwUS+oGTmQoLOK89FNjhrYBefGu47C9yo034AFoOCv6CctBW4sjt8hi1hLpcmcR+SKxD51b4urfKqJtxqh3CCyBnwGB6zMC7pKdKJhMPeY5umvNkawYY9q13K5lvZgWTzcgCOYl/cXADTKYCf3HuJlFI4PTA9xDUp9NV0+O91JixM33nhnwXZY1BslQceInAsA3WUXQ+cp2QbNdIVoBWPHGHeUDoPXc7qp2cqz5C5mylrTgqpnj8WfloYhJpmzAkdY0BGi6/q2tMErXFu4aNFeWH0EyRT+GE8wcSGk4iFamwui30KhSB0jqXjaw/Iem1a5A9vR0IuZdejwR6RiagPlR7oV+3f9fXi5gX/WJEQE3jIJuogKxk/GbQogETTmCPt8VKbqh3Zbr1wQ1Xl48AGzQvnGMZZ9vWCc5/Zhw3vptwZ1FxCsGR8nT6ps7I8ByZLqUGMIBQmtIyyPATheQ==;Z+OsMVqSWUg3eB0HfpCYUA=="

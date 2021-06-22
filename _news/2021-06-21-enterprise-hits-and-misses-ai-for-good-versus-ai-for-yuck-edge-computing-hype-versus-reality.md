@@ -26,50 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Evolution, rewards, and artificial intelligence"
-    excerpt: "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ..."
-    publishedDateTime: 2021-06-21T00:01:00Z
-    webUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
+  - title: "Five Recommendations For Creating More Ethical AI"
+    excerpt: "One of my favorite quotes that I feel sums it up well, famously attributed to Sun Tzu, is, \"If you know the enemy and know yourself, you need not fear the result of a hundred battles.” Using the same analogy in the business of creating ethical AI,"
+    publishedDateTime: 2021-06-18T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89b3125364e8f90ba67838%2F0x0.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Making operations safer with digitized data acquisition and AI"
-    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
-    publishedDateTime: 2021-06-18T12:20:00Z
-    webUrl: "https://idw-online.de/de/news771038"
+  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
+    publishedDateTime: 2021-06-18T16:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
-  - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
-    excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
-    publishedDateTime: 2021-06-22T05:12:00Z
-    webUrl: "https://www.forconstructionpros.com/profit-matters/article/21509256/artificial-intelligence-is-revolutionizing-construction-scheduling-and-risk-management"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 29
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Schedule_feature_01__2_.60ca78fef0b13.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "uA3Zvm72ZlnHCCwK3fv3V+fuilq0++hMbDT18UfJf1UEFcBVO/c7wov1gr2T3tNZCRjS4Ub+AExshk8qP63wBynRKObwv53kmwxpdwPbOfpI72nw8FqGcdglyNLYaHgyyYox3/Rfh0qbIEATqBHZOAViqWkd9a3/Gp7BbklcsZRSE2lNP7uGm5h3oT13x+S55lYQUXL6fQOxPkFonpMR24Epp//mAlHMPt/9/O10G2uwxdGy0PHZsrluybjFsle5hi8YH49imrMv0fA852N8ijI2ZACmcX0hLXUEGb8jgNzeZMifMF33nmqLll1jim0qcm53QQ4+pua0jMbBXrLXgvgblOKWZzZzfcQkBXqFakZYfE2+dZFodsL8X4s7oconIJsIAeKb2Lb79W81RJxC4sf9AuudTPiomtnr+aoU6cT/QzFI3/F0mFOi9YQzQSGjn+HP10HPr3oDZGZfXP0Hn71fhhGGla62JKzdDEzgmteqYOXpZFZvRtS+zswKhhqglWfRIkjIAO9iNbN5jypMuA==;JJNrr1pWnuEauBTwlkqjhw=="
 ---

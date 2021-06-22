@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-collaborative-contracting-can-help-combat-bias-in-ai.md",
+      "title": "Collaborative Contracting Can Help Combat Bias In AI",
+      "excerpt": "To mitigate bias in artificial intelligence technology amid pending EU and U.S. regulations, contracting companies should consider each party's role in controlling for bias, rather than applying binary liability allocations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "originalUrl": "https://www.law360.com/articles/1389441/collaborative-contracting-can-help-combat-bias-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1389441",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1389441",
+      "publishedDateTime": "2021-06-01T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-the-potential-of-artificial-intelligence-to-bring-equity-in-health-care.md",
+      "title": "The potential of artificial intelligence to bring equity in health care",
+      "excerpt": "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
+      "originalUrl": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202105/AI-Health-Care-Equity.png",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-what-artificial-intelligence-still-cant-do.md",
+      "title": "What Artificial Intelligence Still Can’t Do",
+      "excerpt": "Modern artificial intelligence is capable of wonders. It can produce breathtaking original content: poetry, prose, images, music, human faces. It can diagnose some medical conditions more accurately than a human physician.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b52de2a5dc9f37974c9ae8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D0%26cropY2%3D337",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/01/what-artificial-intelligence-still-cant-do/amp/",
+      "publishedDateTime": "2021-06-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-ai-is-having-a-big-impact-but-not-how-you-think.md",
       "title": "AI is having a big impact, but not how you think",
       "excerpt": "Commentary: AI is slowly, incrementally changing the world in ways that might not be obvious to the casual onlooker. Learn about startups that use AI to reduce food waste, improve education and more.",
@@ -1303,146 +1444,6 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-adobes-ethics-committee-helps-manage-ai-bias.md",
-      "title": "How Adobe’s Ethics Committee Helps Manage AI Bias",
-      "excerpt": "Review boards can help companies mitigate some of the risks associated with using artificial intelligence, an Adobe executive said Wednesday at The Wall Street Journal’s Risk & Compliance Forum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "originalUrl": "https://www.wsj.com/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-334697/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-adobes-ethics-committee-helps-manage-ai-bias-11620261997",
-      "publishedDateTime": "2021-05-05T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices.md",
-      "title": "Ex Google AI scientist joins Apple after resigning in protest for unfair practices",
-      "excerpt": "Apple has hired a former Google AI scientist who resigned in protest against the firing of two employees from the Ethics division.",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/",
-      "originalUrl": "https://www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2020/09/Seoul-Apple-Garosugil-01242018-scaled-1.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/amp/",
-      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/ex-google-ai-scientist-joins-apple-after-resigning-in-protest-for-unfair-practices/amp/",
-      "publishedDateTime": "2021-05-05T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leadership",
-        "domain": "industryleadersmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition.md",
-      "title": "POLITICO AI: Decoded: Robot law — Helsinki wants to be Europe’s smartest — China on facial recognition",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-robot-law-helsinki-wants-to-be-europes-smartest-china-on-facial-recognition/amp/",
-      "publishedDateTime": "2021-05-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
         "AI Ethics"
       ]
     }

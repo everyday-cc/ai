@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
-    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
-    publishedDateTime: 2021-06-22T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -156,15 +142,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
-    publishedDateTime: 2021-06-18T16:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
   - title: "Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research."
     publishedDateTime: 2021-06-18T16:35:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Forbes
@@ -31,29 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "2. Hopes about developments in ethical AI"
-    excerpt: "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the"
-    publishedDateTime: 2021-06-18T01:34:00Z
-    webUrl: "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/"
+  - title: "Enterprise hits and misses - AI-for-good versus AI-for-yuck, edge computing hype versus reality"
+    excerpt: "This week - applying AI across industries brings use case lessons. But the AI-for-good versus AI-for-yuck issue looms, given the scale of live systems. Edge computing hype gets a reality check; cloud repatriation gets a critical look."
+    publishedDateTime: 2021-06-21T12:43:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality?amp"
     type: article
     provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 154
+      name: Diginomica
+      domain: diginomica.com
+    quality: 45
     images:
-      - url: "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640"
-        width: 640
-        height: 360
+      - url: "http://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
+        width: 425
+        height: 283
         isCached: true
-  - title: "The future of AI ethics"
-    excerpt: "An ACS Artificial Intelligence Ethics Committee whitepaper endeavours to explain to people within organisations what good governance and assurance of AI looks like, according to Data Synergies Principal Peter Leonard."
-    publishedDateTime: 2021-06-21T03:53:00Z
-    webUrl: "https://www.theaustralian.com.au/news/the-future-of-ai-ethics/video/bf99e590dd72a11c78938b68be2f71a2"
+  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
+    publishedDateTime: 2021-06-18T16:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "Rbe4xRis0YbRVIGX07Bu+BQQwBZG5bveSR+16Im2AnkeYMimuR1LNUCOrs+BI/D4QWwG8QjgCtOm/rvQmt2q3/UJc6c+YbT/0cOnq/wUqt9cTazLatv0y2Gp4w4Ql69VjC1pF6TpWtNng+zq3j2wv9uZIanJgtsiGDSCKntqNF9dXkcmYhZJq70dHf+eYES4LBf1KfkRPch+MlVP0hjy8KOCbesrm+3XoL/rVYgzWyiM7UsEiVq4n8ZB3VUqVXEdbVNbzY4XdDI/IN6F9CfXvc2d8nMkLNKFxGR5md0ai5FoiH7MolrjkGr/KzGLQ96nq80c8J6P7j64EFenJjQgCsGM7Y/xZ9D3CRuTm48Cap4L9coYsbXKkx/bmTffGlWqvu1roRlQZEmoZ928097OLknrPDPjmhcRwyD+DDAGQH02g+5ZNQWBnvagUoDG2zDPKfjzbzX5sA9uD1JXVxBFj8xS+Gd6RmFAXwQBuDJNrtIHDVZIgOTqYRimWTXM4nQHrNIRDyIfgsqbw90reWW2EQ==;E5Mgfx2oBgKKS7SG6/ZQyQ=="
 ---

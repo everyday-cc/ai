@@ -2,17 +2,21 @@
 category: news
 title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
 excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
-publishedDateTime: 2021-06-22T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
+publishedDateTime: 2021-06-22T09:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
+webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
 type: article
-quality: 30
-heat: -1
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -35,6 +39,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "R0nz7Pvf5m0ZFC+B1tV1465D/zezGrHzVqIDrhAoAE7itE4SIjh+39rWSn6WO3lHX96VbbaQwru7reQNyR5lIpLTHIeuXMMsZd9bMYhd1vseGjPFc4BmLwFluWWXuOlqH6g7veIHunLpgwvGntGyS6pfOkBCdij5/yFHDMZ+cU8zQwmf2mJqUMR2vpINMGFpO6Yb2alZnvdcSqiU92dEPCkkfk9T0S+yFi5Vo41MCBDhADNaxOUXyf1s79e0FJv1/OfsA9lfG2TzXq6xRxLFKqpMmpaOPJ72/q09FKNj8HqCkiPBqMB0gaK9tMzvBr3eBz6htBJBpXPBusx44+sPy2a3CiUse8S+jecEYxBiPF4=;/uJTEiyWYFBuw56RtzQDiA=="
+secured: "I8kxBEyrPJJQwtFicoXPiL6hckbj/CJLhpVetlSId7TVcsQtTiIWWKspCBCFt8YdJJt/HGG/Mq9uVktMU5+VO8eIDMmqj6vSyPz7Q3gCIe2tGb84UOpeJwAGV+4NAaGxlfY1MSvPAn+G+EKKDwUFIYsGDCQBjR/JYJ6EgnuSSyzWDlnJHy5Yu1816eLf2/zCuQyo4SF2j+xJb25GKm3dva38aiU6g87YKUNlu6HpPYDJ1FbiL1qV0ifJFPI1UYdvWGQqoYc5srfiI0/fdJOgjbiUgTE/1cYrJYKfri73A0RvB090C4L9ebdTODoHEa1V0lCOQauPw7q5U37LiQaikszwa9EjEJs2l3uv3ATqKUw=;3k3YEO6rcpz4Bluo+Gd9qw=="
 ---
 

@@ -2,6 +2,310 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-22-global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate.md",
+      "title": "Global Telecoms Cloud Market Forecast to 2026: AWS, BT, Oracle and Verizon Dominate",
+      "excerpt": "The global telecom cloud market size is expected to grow from USD 19.8 Billion in 2021 to USD 52.3 Billion by 2026, at a Compound Annual Growth Rate (CAGR) of 21.4% during the forecast period. Data stored on a public cloud platform is generally regarded as safe from most hazards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-three-use-cases-how-ai-is-helping-improve-the-healthcare-experience.md",
+      "title": "Three use cases — how AI is helping improve the healthcare experience",
+      "excerpt": "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/",
+      "originalUrl": "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg",
+          "width": 1080,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry.md",
+      "title": "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg",
+          "width": 400,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-hpe-bolsters-hpc-business-with-determined-ai-acquisition.md",
+      "title": "HPE bolsters HPC business with Determined AI acquisition",
+      "excerpt": "Hewlett Packard Enterprise (HPE) has acquired open source artificial intelligence (AI) startup Determined AI. The four-year-old company, which only brought its product to market in 2020, specialises in machine learning (ML),",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1580816268/HPE.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp",
+      "publishedDateTime": "2021-06-22T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-robotics-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-databricks-cofounders-next-act-shining-a-ray-on-serverless-autoscaling.md",
+      "title": "Databricks cofounder’s next act: Shining a Ray on serverless autoscaling",
+      "excerpt": "After helping shepherd Spark to surmount the data bottleneck, UC Berkeley’s Ion Stoica is helping unleash Ray, an emerging open source project to get over the compute bottleneck for scaling machine learning models into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/22/5db419aa-0477-47dc-a3ca-4444b6b838aa/sun-rays.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "publishedDateTime": "2021-06-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus.md",
       "title": "Amazon is in talks to buy stake in AI truck-driving startup Plus",
       "excerpt": "Plus is among a handful of startups trying to up-end a fragmented long-haul trucking business with driverless technology.",
@@ -321,7 +625,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -364,7 +668,7 @@
       "originalUrl": "https://phys.org/news/2021-06-microscopy-deep-viral-infections.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -886,305 +1190,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-evolution-rewards-and-artificial-intelligence.md",
-      "title": "Evolution, rewards, and artificial intelligence",
-      "excerpt": "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-20T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-evaluate-the-utility-companys-ai-maturity-curve-to-determine-next-steps.md",
-      "title": "Evaluate the utility company’s AI maturity curve to determine next steps",
-      "excerpt": "Utilities acknowledge the transformational power of data, but where they are on the AI maturity curve determines how effectively they use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
-      "publishedDateTime": "2021-06-20T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-these-are-the-startups-applying-ai-to-tackle-climate-change.md",
-      "title": "These Are The Startups Applying AI To Tackle Climate Change",
-      "excerpt": "A group of promising startups has emerged to do just that. Both climate change and artificial intelligence are sprawling, cross-disciplinary fields. Both will transform literally every sector of the economy in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caac3ad2b1ff3c9b86dc8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2235%26cropY1%3D232%26cropY2%3D1490",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
-      "publishedDateTime": "2021-06-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-williams-f1-drives-digital-transformation-in-racing-with-ai-quantum.md",
-      "title": "Williams F1 drives digital transformation in racing with AI, quantum",
-      "excerpt": "Williams F1 invests in AI to drive data-led digital transformation in auto racing. Quantum computing will likely join the race down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1323004185.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/amp/",
-      "publishedDateTime": "2021-06-20T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center.md",
-      "title": "Bipartisan Senate bill seek to establish US-Israel AI research center",
-      "excerpt": "Senator Blackburn said that “countering China’s increasing Artificial Intelligence advancement and destabilizing presence is essential for global security.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565",
-      "originalUrl": "https://www.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/430464",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565/amp",
-      "publishedDateTime": "2021-06-20T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai.md",
-      "title": "Candy Shop Slaughter is a video game concept creatd by AI",
-      "excerpt": "Elevate your enterprise data technology and strategy at Transform 2021. It is possible for artificial intelligence to create a video game. Contrary to popular opinion and hopes for humanity, an AI came up with the basic design for a video game called Candy Shop Slaughter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/candy-shop-cover.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/",
-      "publishedDateTime": "2021-06-20T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

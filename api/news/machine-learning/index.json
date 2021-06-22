@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
+      "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-google-cloud-launches-ai-dedicated-to-quality-control-and-inspections.md",
       "title": "Google Cloud launches AI dedicated to quality control and inspections",
       "excerpt": "Google Cloud announced Tuesday the launched Visual Inspection AI, a new purpose-built tool to help manufacturers, consumer packaged goods companies and other businesses reduce product defects and quality control cut costs.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://phys.org/news/2021-06-microscopy-deep-viral-infections.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -200,7 +252,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -241,6 +293,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration.md",
+      "title": "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration",
+      "excerpt": "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "originalUrl": "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1306,93 +1401,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-despite-proficiency-in-machine-learning-and-math-india-trails-in-data-skills-report.md",
-      "title": "Despite proficiency in machine learning and math, India trails in data skills: Report",
-      "excerpt": "Indian women are opting to upskill in STEM related fields; share of enrollments increased 2nd highest globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "originalUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/06/digital-skills.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/despite-proficiency-machine-learning-math-india-trails-data-skills-report/amp/",
-      "publishedDateTime": "2021-06-09T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-engineers-apply-physics-informed-machine-learning-to-solar-cell-production.md",
-      "title": "Engineers apply physics-informed machine learning to solar cell production",
-      "excerpt": "Organic photovoltaics max out at 15%-20% efficiency. Lehigh University researchers are using physics-informed machine learning to improve this efficiency. Their findings suggest a machine learning model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/uota-eap060921.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/uota-eap060921.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/267435_web.jpg",
-          "width": 720,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

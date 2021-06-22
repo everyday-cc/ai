@@ -32,15 +32,20 @@ images:
 
 related:
   - title: "Commerce.AI Launches AI-Generated Market Reports"
-    excerpt: "Commerce.AI has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible to all, and were previously only available to those with access to Commerce."
-    publishedDateTime: 2021-06-22T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/commerce-ai-launches-ai-generated-market-reports-1030543739"
+    excerpt: "I has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/commerce-ai-launches-ai-generated-market-reports/article_7b36e43d-ff4f-5bb3-bf19-c1b53cdc1788.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/f1/4f139823-c29f-50e0-a7b4-a5bdc5d7e1e6/60d1fc1e4ef8a.image.jpg?resize=1200%2C624"
+        width: 1200
+        height: 624
+        isCached: true
 
-secured: "AMo15tsl6pY60pfBzJD6xD61chej5oBatna6wlP0AeTuiroQ00hJHITkPfxI6ebxTunOqYGsjhJto6r6kwwEnnlOkIdmtTDZJlcyOYkgDVTDzNGrG8CE0H4nhskFGMmz5NwhNL4UfSZ+MOja9KlPo9MheDfTrDCPnKdg0S8IOx2vl/26v2VZ13NpWUTg4L7b+J45Uzc/m37HQpubsP7LWyhz2g38LhYO7ArtbXT82+RZUWgC0L/qEBSjmg55D6kPZuikc0+pKULFUWN7DsAofmPPB+sbvs3IXgC1U4VB2BV8lrwWJjn/TlfLY1ntHiCYnAXUbZJRGZJ5HK2QUyOTW5pVI03WXYIN60UI8eqUrqk=;NaG15y6speJfYsC9xBkX2g=="
+secured: "DwFEJPiqeC8gbm1uZSVjy0o17IydYZe3VUjgbSAECMBgzKUk0DvJ/CQ1JY9HKYUz6qF9EcN0Hq9q3bUX2P0I7BSVAlgGxCYSD/D6Bys3is04hDcRxDx++NpPQ2pkp/Ja59TSU3Ox+JU+ZDqr8vN97diw3P9Bn6dkLA8uud1SDadZxYwmFP2QbQv68a6RN5WLq+So6bxt3ZcdvKrrNCqJKKE11NEMu9GbzpG0fhN/iEBu39PIbqh4IADS7rvtO4zVbe9l3VkTfrxOc5QG9wZd5l7ifYoa4kpxf62+qTYO8aZoP+DiBjuSF8gHg78GPamoJA9UBmrlH5zV+L0aWac2lDPSAUSFojh/RJnKNb0cxcD7fLV268iC/hrnmjP/Jy0vFCQREyohkccbUcEKxsPIOOSi0YR5jPeZjqgZ+EVZgcXsgwlP+TiRC9skkzqwi3yi8DkmjvqK1kpiFrhnQ9fWbFGxfk2b08REwGtns+p+SqPmpswAgw5s7IsXenmzneMDRZmasksgG7DHukuWEy8bLQ==;WSV+EOYipV9n0KN7YEf2WA=="
 ---
 

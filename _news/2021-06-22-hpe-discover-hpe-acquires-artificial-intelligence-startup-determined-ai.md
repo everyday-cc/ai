@@ -208,6 +208,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 34
+  - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
+    excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."
+    publishedDateTime: 2021-06-22T19:15:00Z
+    webUrl: "https://www.bizjournals.com/houston/news/2021/06/22/hpe-determined-ai-high-perfomance-computing.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "t+H89xgSoa2IAa5my6DfsqCaRPGs+d7JGwqXnYVHzwTqK8aoLv5fpXbgWOt2P6zwYCCaKmnr7SFkd6SI6W4D1i6uPdbz7pVGkc+FcNxDY4Gk3eq4e/1m1NAVea+1JFKNul2VkhjndQt0Xk1fVsM7XFHDLexIr9PAds3S6QrW+BkLLMkoMyRiNie92zb0baYq6O9V+34MIg83yuFVrmIEi3OCmhg2+sjBCdDRdkOoZWGCvQWsClVt94gsSAS6K7tX6JtFIDkJ1i0xLTw9JzzDKrvR+1goVFpf3EUgG2+EWIbefgo6W98/9J1qok49Bk8BUukJ50VaATyU1HOJiKbtWHawm4NRyihkMowUcuZqCvMZUDxgzqZpF4AZWglLmYVrc4fU+A89JKDasS63ljeXxg1HGZfC+LFMZdKTpf/6A9zZp3G2GBTyblzz5EfAFJUoyA1x+IH4oqhlgQ4iMDm8DhVx5w2R6Gu1sd1NRpG6/sE9y4j49Pk/Oonlp9ft7ynnKrJ24eY5wVIVW7H3we2wKw==;kWvLTN5jt0j8Kqw9oqV7kw=="
 ---

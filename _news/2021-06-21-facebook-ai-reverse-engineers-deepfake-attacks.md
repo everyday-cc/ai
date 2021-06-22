@@ -53,6 +53,15 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
+    excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
+    publishedDateTime: 2021-06-22T17:18:00Z
+    webUrl: "https://manometcurrent.com/latest-survey-2021-ai-governance-market-to-witness-revolutionary-growth-by-2025-ibm-google-facebook/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 2
 
 secured: "Ge4gkFNglMLUiVHuqzLPSBp/Mb0KWanIyTdfHlkSVH686t1g9ooXEcRrdNOGmevJw7a8LL7s/RVHyPc0nTymnR/5zGzDXgLnNk2TbMzJWRzGcgFU0g4NugADsrEMW/33SH82Drh+TUiIJMKiZITt3V3sQonko1xmCtKN1ac63T3a00QfCdVKb00P2t33z2/UL4JSh6Cu5xRV45jyaZWHopcZZsHcxcHNIAQhKx+njFxm4IZZ43KVnahvmKW/iu0dBGEERTZxwANAiqa/ZNyVeI1KYwk+mBGRUyPsF0Lh60FbtYoFvwt8JCOfztg5yfzGghW1jcc9cJoxjIrW/BjAJiQVF/siFHhTuUwYLMalZ1sHcJaggZcr8jeQMQlHWW2IzVJyP0zbshxsSgMiHpOT9QE0t1BvWL7dDZMqL40dSrEwKd/8Mel7glmCKTJtsliD4gGBSufSH2jP+A2I10DV4MOJF7ylvgxmLMpefPx2SSCTyJ5+GGLJHUtsSifrcDcvh1gJUAon9pQ+h8+3jjxcQg==;hv0pxf/df2yFg1d9r2T3Pw=="
 ---

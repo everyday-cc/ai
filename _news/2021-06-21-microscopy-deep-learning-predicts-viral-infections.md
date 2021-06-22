@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
         width: 389
         height: 389
+        isCached: true
+  - title: "New machine learning methods could improve environmental predictions"
+    excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-methods-environmental.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-methods-environmental.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-methods-environmental.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/freshwaterla.jpg"
+        width: 1920
+        height: 1271
         isCached: true
   - title: "New machine learning methods could improve environmental predictions"
     excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."

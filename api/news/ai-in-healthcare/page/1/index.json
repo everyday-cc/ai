@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-healthcare-providers-remain-surprisingly-lax-on-data-protection.md",
+      "title": "Healthcare Providers Remain Surprisingly Lax On Data Protection",
+      "excerpt": "Experts say that the medical industry is resistant to spending money, despite the increased prevalence and sophistication of hackers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/healthcare-data-privacy-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "publishedDateTime": "2021-06-22T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-three-use-cases-how-ai-is-helping-improve-the-healthcare-experience.md",
+      "title": "Three use cases — how AI is helping improve the healthcare experience",
+      "excerpt": "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/",
+      "originalUrl": "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg",
+          "width": 1080,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-the-biorevolution-an-etf-that-taps-into-nearly-everything.md",
       "title": "The BioRevolution: An ETF That Taps Into Nearly Everything",
       "excerpt": "Exchange traded fund investors should consider the current opportunities in healthcare innovation. In the recent webcast, The Era of Biotech: How Biology Became Technology, Jeremy Schwartz, Executive Vice President, Global Head of Research, WisdomTree Asset Management; and Jamie Metzl, member of the World Health Organization expert committee on human genome editing, explained that the so-called BioRevolution, or Biology Revolution, covers the advances across multiple fields including computer science, artificial intelligence, big data analytics, automation, chemistry, biology, and engineering, which are creating previously unimaginable new opportunities to re-engineer biological systems. Looking ahead, the revolution in our ability to read, understand, write, and hack DNA, the genetic code of all life, will transform healthcare, agriculture, manufacturing, energy production, consumer services, and data storage. The strategists explained that the technologies underpinning the BioRevolution are connected and reinforcing advancements across interdisciplinary fields. For example, genetic technologies can prevent and treat disease, leading to significant enhancements to human health, well-being, and longevity. Healthier and more sustainable models can feed our growing population. Biological reengineering can be used to produce physical inputs needed for manufacturing. Additionally, DNA has approximately one million times greater storage capacity than hard-disk storage. \"We expect our healthcare system to transition from generalized medicine to personalized, or precision, healthcare based on each person’s individual biology,\" Schwartz said. \"The BioRevolution will pave the way for predictive, preventative healthcare that will help us live healthier and longer lives.\" We have already witnessed many high-profile preliminary applications of BioRevolution in the healthcare industry. For example, diagnostics and surveillance have used biological data to screen and diagnose diseases, disorders, or traits. Precision health/gene therapy has used biological data to screen and diagnose diseases and disorders to enable more precise interventions. However, biotechnology in the healthcare industry is only one aspect of the ongoing revolutionary application of biotechnology. For example, we will witness greater precision agriculture, plant-based meats, and cellular agriculture. Synthetic manufacturing, precision fermentation, and biofuels will expand the materials, chemicals, and energy industries. Lastly, biological machines and interface will combine DNA sequencing with data storage. \"The same intersection of biology and technology that is transforming the healthcare sector, is also driving transformations across many sectors and industry verticals of our global economy,\" Schwartz said. \"Although healthcare is the most mature market for these technologies, other sectors will catch up.\" To help investors access innovation in the growing BioRevolution space, WisdomTree recently launched the WisdomTree BioRevolution Fund (WDNA) on the CBOE. WDNA seeks to track the price and yield performance, before fees and expenses, of the WisdomTree BioRevolution Index (WTDNA) and has an expense ratio of 0.45%. WisdomTree leveraged data from Dr. Jamie Metzl, one of the world’s leading technology futurists and special strategist for WisdomTree, in its construction of the WisdomTree BioRevolution Index, which identifies the key sectors and industries that are expected to be most significantly transformed by advances in biological science and technology. \"WisdomTree and Dr. Metzl share the view that the application of genetics and biotechnology will extend far beyond healthcare. In our shared view, the BioRevolution is creating a historic investment opportunity equivalent to the industrial and internet revolutions,\" Schwartz added. Financial advisors who are interested in learning more about the biotechnology sector can register for the Monday, June 21 webcast here. Read more on ETFtrends.com. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc. Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
@@ -44,7 +132,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1237,101 +1325,6 @@
       "provider": {
         "name": "Philippine Daily Inquirer",
         "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-virtual-reality-therapy-plunges-patients-back-into-trauma-here-is-why-some-swear-by-it.md",
-      "title": "Virtual Reality Therapy Plunges Patients Back Into Trauma. Here Is Why Some Swear by It.",
-      "excerpt": "Supported by By Dani Blum When a Veterans Affairs therapist first suggested that Chris Merkle try a virtual reality simulation that would mimic his days in combat, he was horrified. “I was like, you want to put me in a virtual world,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/03/well/mind/vr-therapy.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/03/well/mind/vr-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/29/well/29WELL-VR-THERAPY6/29WELL-VR-THERAPY6-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/03/well/mind/vr-therapy.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/well/mind/vr-therapy.amp.html",
-      "publishedDateTime": "2021-06-03T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care.md",
-      "title": "ACC and GE Healthcare Join Forces to Advance AI in CV Care",
-      "excerpt": "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
-      "originalUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American College of Cardiology",
-        "domain": "acc.org",
         "images": null,
         "publishers": null,
         "authors": null

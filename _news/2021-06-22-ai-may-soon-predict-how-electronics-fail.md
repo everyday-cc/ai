@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-06-ai-electronics.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-electronics.amp"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

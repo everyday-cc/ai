@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-01-udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation.md",
+      "title": "Udacity Issues a Two-Month Free Course on AWS Machine Learning Foundation",
+      "excerpt": "Udacity announced last week the launch of a new version of its AWS Machine Learning Foundations course with AWS (Amazon Web Services). It’s two months, free course for beginners with little to no experience in the area.",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/",
+      "originalUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2021/05/udacityandaws.jpg",
+          "width": 700,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation/amp/",
+      "publishedDateTime": "2021-05-31T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-31-why-ml-capabilities-of-gcp-is-way-ahead-of-aws-azure.md",
       "title": "Why ML Capabilities Of GCP Is Way Ahead Of AWS & Azure",
       "excerpt": "Google Cloud Platform (GCP) and Microsoft Azure are the leading cloud providers by a long shot. Though late to the party, GCP has seen robust growth over the years. Google Cloud’s revenue jumped nearly 46 percent year-on-year to $4.",
@@ -1300,40 +1344,6 @@
       "provider": {
         "name": "Centreforaviation.com",
         "domain": "centreforaviation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch.md",
-      "title": "Best Stocks To Invest In Right Now? 3 Artificial Intelligence Stocks To Watch",
-      "excerpt": "Is Now The Time To Add These Top Artificial Intelligence Stocks To Your Portfolio ... employs AI tech through its Amazon Web Services (AWS) cloud computing service. AMZN stock currently trades ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19",
-      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-3-artificial-intelligence-stocks-to-watch-2021-05-19?amp",
-      "publishedDateTime": "2021-05-19T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

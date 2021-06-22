@@ -1,0 +1,56 @@
+---
+category: news
+title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
+publishedDateTime: 2021-06-22T15:56:00Z
+originalUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+type: article
+quality: 8
+heat: -1
+published: false
+
+provider:
+  name: ARN
+  domain: arnnet.com.au
+
+topics:
+  - AI
+
+related:
+  - title: "The Worldwide AI in Healthcare Industry is Expected to Grow at a CAGR of 51.5% Between 2020 to 2026"
+    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
+    publishedDateTime: 2021-06-21T14:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
+    publishedDateTime: 2021-06-21T12:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
+    publishedDateTime: 2021-06-22T17:02:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 8
+
+secured: "ZzlX/jNO7t5C59/8t9Es7C9XJRQQRA0Ez2eKUBQcU/z36upCj3WMEw4zwyoKn7gdlp7pyqak72PPOcK4Ebi7uJvLlEwktJ7dY5++g/p1Vaq2aLfr9+bFyTv4uTxshBwKXwXeqJJ4/CHpn6t/CNACnGqs3ZjdkeDkSdhe7Wk8n1GaxHj9l2LpGbLvUsBfsSO3441siyxkSyAe8tkoTORVbvHNNwXp7S8YKCexDhbcu0BArgRWRMiaObkVV2zfGQvLXt5jF45u0ec4irbL3U6lLmHRayJWctJsGapH+wYdAjipvE2U6SNt6KGiXYkwXzWzOgAkb3BWL0en3Z6v1YaDNE3eDfhngNafqaJWX95fqxI=;rjBcc6tMqKnX0gp001wiYA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/3
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -211,6 +211,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 34
+  - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
+    excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."
+    publishedDateTime: 2021-06-22T19:15:00Z
+    webUrl: "https://www.bizjournals.com/houston/news/2021/06/22/hpe-determined-ai-high-perfomance-computing.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 34
 
 secured: "NDYVF/sN32EmQQyKJNHnJRojLfF95Hz63Ri8bYSFCYeyMv9MPQ7NEL+e0GWEwp92DkGYKncewG537ktJMKypM5UbUaffckt+mDJdRx8lEHuKt8qORRNZd5U6kV3K5MzJT5RKdkvyF2oHEUAxzHO+ogB2LhrAI5vnH27QucXhrJoltxCshqgrXXilMkL/PpJOASI6hcytN4vOI1HiN3T/XU9b1uFA5Y5FzVER37oox0f4duWN3EjobbTKvyswwR1AjekMU4u20fQi4Bo377KLTiAl6eBsLFvSAPsVfBUftvVm7RwnQvnzK5bjcVPbUzflXWOkZWK41wwE13WH9TelN9w6uE5uwLa7HuaLs+V7JBk=;/CnLKlDFlc/kH02BN7VAlQ=="

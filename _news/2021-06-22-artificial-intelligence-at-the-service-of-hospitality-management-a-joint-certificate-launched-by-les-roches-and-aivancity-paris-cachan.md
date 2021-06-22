@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Artificial intelligence at the service of hospitality management, a joint Certificate launched by Les Roches and aivancity Paris-Cachan"
-excerpt: "CRANS-MONTANA, Switzerland and PARIS, June /PRNewswire-PRWeb/ -- The hospitality sector is an extremely propitious terrain for the use of AI as it generates large masses of data, and"
+excerpt: "Les Roches, the highly regarded hospitality business school recently ranked third in World university ranking for employer reputation* and aivancity, the Grande École"
 publishedDateTime: 2021-06-22T08:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-at-the-service-of-hospitality-management-a-joint-certificate-launched-by-les-roches/article_0ade4899-3ba3-5ff3-abdd-0c911a6718fa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-at-the-service-of-hospitality-management-a-joint-certificate-launched-by-les-roches/article_0ade4899-3ba3-5ff3-abdd-0c911a6718fa.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/p21659087/artificial-intelligence-at-the-service-of-hospitality-management-a-joint-certificate-launched-by-l"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/p21659087/artificial-intelligence-at-the-service-of-hospitality-management-a-joint-certificate-launched-by-l"
+ampWebUrl: "https://www.benzinga.com/amp/content/21659087"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659087"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "6ScHOhtexxhX5hWgM62vinSAmGMXjqCWKrpFYnaJ+NG+ywncekQYXScE6YCAnu6JIYCPcwWEZ+XtL31rI77B1+Cwi8X6VaeYlvbqzzz8ws9/ADuyqiEUovwFEuzFtcdsK86412NQZ28X75wKBo6ClCNVY75IeR2vd1Bx8CevVT48fJv+JunNk8Fi7u1H2rlp495P6VZFC1tX8zDdjozfGjeKfZnYGGaTyYIgIBeZTDhVgaAHsyzhYl7RPArnB0hr6+svvEwxuagHujH6/xTd7j5kRASrC876u62ac5SOObp8je+3S++zq4u4AnMe+spYfCuF4Ts30Sk6s8vjj4Irz9BuIeAZ2Q/Urnhw/K8HQa0=;JLWxy3O8FXTSCqf5+ES/FQ=="
+secured: "MNqI387y1uNbbtw13JMGprQhtag0LJFZGSwP1gw1ZLIRjsgzU64JZ22jMDXUbmgQomcRRqDZeAYW6bs4tR8bPagLXXRt2snsJJ6M9mD9eCV4mwa6oG5wWwrSSWeW+/eumNAEC4X9XWUTWAueBrnWCGRohaPMywRkQWVXZVahqxBcVpF/lS3NYtAdnEJv0Cn4T5AOjDFZOR1EL1cspUgRM5TOJFiP/QqCadlbuWGwzXVjcLKTngAgJbgFrCP+znp3hCD02Va/RoKKIxVmbZETLDljSkmNYOVJJ2r5TuD7K6M5alTEJC6eZN90uBf9BexMYqRyFntWBf+Rd0vTD/CIYJQIO8CtH/Zhppz0b2FBvPg=;suoLryl0iirHVsvXnqKurA=="
 ---
 

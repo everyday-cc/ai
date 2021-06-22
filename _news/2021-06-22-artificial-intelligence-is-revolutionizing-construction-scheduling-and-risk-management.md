@@ -40,21 +40,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Enterprise hits and misses - AI-for-good versus AI-for-yuck, edge computing hype versus reality"
-    excerpt: "This week - applying AI across industries brings use case lessons. But the AI-for-good versus AI-for-yuck issue looms, given the scale of live systems. Edge computing hype gets a reality check; cloud repatriation gets a critical look."
-    publishedDateTime: 2021-06-21T12:43:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality?amp"
+  - title: "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World"
+    excerpt: "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,"
+    publishedDateTime: 2021-06-22T19:57:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "http://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
-        width: 425
-        height: 283
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg"
+        width: 1200
+        height: 742
         isCached: true
   - title: "Making operations safer with digitized data acquisition and AI"
     excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"

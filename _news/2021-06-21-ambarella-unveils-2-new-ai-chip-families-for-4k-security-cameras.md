@@ -49,7 +49,7 @@ related:
     provider:
       name: Hackster
       domain: hackster.io
-    quality: 46
+    quality: 63
     images:
       - url: "https://hackster.imgix.net/uploads/attachments/1315388/_qXo3HpKWIL.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
         width: 600

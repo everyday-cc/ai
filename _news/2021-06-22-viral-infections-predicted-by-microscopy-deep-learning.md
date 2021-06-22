@@ -45,6 +45,22 @@ related:
         isCached: true
   - title: "New machine learning methods could improve environmental predictions"
     excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://techxplore.com/news/2021-06-machine-methods-environmental.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-machine-methods-environmental.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-methods-environmental.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/freshwaterla.jpg"
+        width: 1920
+        height: 1271
+        isCached: true
+  - title: "New machine learning methods could improve environmental predictions"
+    excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
     publishedDateTime: 2021-06-22T12:00:00Z
     webUrl: "https://twin-cities.umn.edu/news-events/new-machine-learning-methods-could-improve-environmental-predictions"
     type: article

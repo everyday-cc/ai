@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-virtual-reality-therapy-plunges-patients-back-into-trauma-here-is-why-some-swear-by-it.md",
+      "title": "Virtual Reality Therapy Plunges Patients Back Into Trauma. Here Is Why Some Swear by It.",
+      "excerpt": "Supported by By Dani Blum When a Veterans Affairs therapist first suggested that Chris Merkle try a virtual reality simulation that would mimic his days in combat, he was horrified. “I was like, you want to put me in a virtual world,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/03/well/mind/vr-therapy.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/03/well/mind/vr-therapy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/29/well/29WELL-VR-THERAPY6/29WELL-VR-THERAPY6-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/03/well/mind/vr-therapy.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/03/well/mind/vr-therapy.amp.html",
+      "publishedDateTime": "2021-06-03T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care.md",
+      "title": "ACC and GE Healthcare Join Forces to Advance AI in CV Care",
+      "excerpt": "The ACC and GE Healthcare are collaborating through support of and participation in ACC's Applied Health Innovation Consortium for the purpose of building a roadmap for Artificial Intelligence (AI) and digital technology in cardiology and developing new strategies for improved health outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
+      "originalUrl": "https://www.acc.org/latest-in-cardiology/articles/2021/06/03/13/26/acc-and-ge-healthcare-join-forces-to-advance-ai-in-cv-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.acc.org/-/media/B97F2403D51746E1AEB17B5DA9C1B2C7.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American College of Cardiology",
+        "domain": "acc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-discover-the-power-of-your-sexuality-with-artificial-intelligence.md",
       "title": "Discover The Power Of Your Sexuality With Artificial Intelligence",
       "excerpt": "Chances are that you have an app tailored to improve pretty much every aspect of your life, from diet and exercise to state of mind. So why not do the same for your sexual well-being? [...]",
@@ -1236,94 +1331,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.md",
-      "title": "Neteera CEO on using artificial intelligence to change healthcare",
-      "excerpt": "Neteera is a health care technology firm that has developed a heart and lung monitor that is contact free and can measure vital signs through clothing. The company is ranked 26th on CNBC's Disruptor 50 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/05/25/neteera-ceo-on-using-artificial-intelligence-to-change-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106888119-1621966946-16331919716-hd-L-00-00-08-03-Still002-png?v=1621968882",
-          "width": 534,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-4-ai-healthcare-stocks-transforming-the-medical-industry.md",
-      "title": "4 AI Healthcare Stocks Transforming the Medical Industry",
-      "excerpt": "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
-      "publishedDateTime": "2021-05-25T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

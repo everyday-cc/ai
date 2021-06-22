@@ -1,22 +1,28 @@
 ---
 category: news
 title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,"
-publishedDateTime: 2021-06-18T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm"
+excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
+publishedDateTime: 2021-06-18T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
 
 related:
   - title: "Google says AI and analytics can take its cloud to the next level"
@@ -62,6 +68,20 @@ related:
         width: 794
         height: 512
         isCached: true
+  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
+    excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
+    publishedDateTime: 2021-06-22T15:55:00Z
+    webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 58
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
     excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
     publishedDateTime: 2021-06-18T06:43:00Z
@@ -105,20 +125,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
-  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2021-06-22T16:01:00Z
-    webUrl: "https://www.cio.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 28
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -138,6 +144,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Ft7eBMReP3L/nV8ZIw85N/Be5R38/GpuM/9LvAdqC8VqH16AFg1Vn5gQYzPWyU103nekDKH9y8r5JboMCfP+m9NsPAXMURlFRQl+tJ9vr4ShgmLYRvmPhMXyvV/wAQRD+ZCxgOtgkZq8XwV0M+5uB5ArC3uYVNrqB7MiSFxVubhTndQLQSLy5JNriH41d0n2DF6UBKg+UIHX6hJgIXeWarm1fpu1/CXEOhUsudfTlbtZwnG4gucTxX5KK1fImUCrdP7f2F0gxwTfHBlIxHmUPxFRrJKw+nqRH52iCjgn4yTcaqO/YSUK7iM7kA9J/VWfm9K/5HyVcAF8sdvlKqiewI4+ysOYqUFpOLAmPcboeyDpw1caOte8wuGHrCICkOJ2fqMIoMwG34JsWa7ghY7WAykLbvltSEAbJXFyTrtaiW7rBgW3CK6ESuAejUCuu8SnqKJlUbxQSzrC3wWLWh9YtQLVw6BXC+S6cTWyZBG08rsbXUdj+RtoRakZF45E4rJvTULMYvhKH0T0p9wYLy/EWg==;1qspEFAnMTxNocyB8gypJw=="
+secured: "6H8EGONEdR0CtZEG1dtIbB870d6ZN4y9WNxXOEMBWY7YOKDzU3l+mXK37MvsK98o05KBUZHDKMKJ9tJcrWpHX63KWcAxoHuBze8HBCoQk8PFAu538tTKwr0jeE1P52Cf2c64yuuagiwqlGeVem2wKq2SXU3thgwflBHCh/wuoo7pnl66laXBDk+8QYwDxMiKANAC8MudWx2fjkK/NhNZIttkKBMeeR2kHOTLIC5NVmJ6zefcSg8INKJ8tCoY2KnGRNwbYO7Suxe9IOgRz0EkCQ3fKm3R+W1DA5OYGPKzqguRaEOBkzVhnPJ758bxe2rKw6NPzGqp5PdEeSOQ06W7Wy84RPChrYTvT3wjONFLfgg=;R6ULZ8hJg9ZueOSxEJGZ0Q=="
 ---
 

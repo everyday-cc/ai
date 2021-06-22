@@ -2,6 +2,448 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-05-11-nurses-are-essential-to-ai-integration-in-healthcare.md",
+      "title": "‘Nurses Are Essential’ to AI Integration in Healthcare",
+      "excerpt": "Nurses are also crucial stakeholders as hospitals seek more uses for artificial intelligence and machine learning to deliver care.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare",
+      "originalUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202105/AI.jpg?itok=lp3X--nF",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2021/05/nurses-are-essential-ai-integration-healthcare?amp",
+      "publishedDateTime": "2021-05-10T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision.md",
+      "title": "Build an anomaly detection model from scratch with Amazon Lookout for Vision",
+      "excerpt": "A common problem in manufacturing is verifying that products meet quality standards. You can use manual inspection on a subset of the products, but it’s usually not scalable enough to meet demand as production grows. In this post, I go through the steps of creating an end-to-end machine vision solution",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-anomaly-detection-model-from-scratch-with-amazon-lookout-for-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/03/12-2988.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T10:43:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai.md",
+      "title": "Microsoft partners with Darktrace to help customers combat cyber threats with AI",
+      "excerpt": "Microsoft and Darktrace have formed a new partnership to use 'self-learning' artificial intelligence to help organizations in the UK quickly respond to various types of cyber threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-partners-with-darktrace-to-help-customers-combat-cyber-threats-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1620674547_darktrace2-2-960x640_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars.md",
+      "title": "Trillions Of Cicada Aiming To Bugout The Northeastern USA And Spur Swarmageddon Messiness For AI Self-Driving Cars",
+      "excerpt": "After a 17 years long wait, the cicada of Brood X are about to emerge, in the trillions, bringing a buggy mess and swarms, which has ramifications for human drivers and self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6093384b8a78a6d19cdd77be%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/05/10/trillions-of-cicada-aiming-to-bugout-the-northeastern-usa-and-spur-swarmageddon-messiness-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-05-10T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-black-and-queer-ai-groups-say-theyll-spurn-google-funding.md",
+      "title": "Black and Queer AI Groups Say They'll Spurn Google Funding",
+      "excerpt": "The move is the latest fallout following the departures of the heads of the company's ethical AI research team and a recruiter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/black-queer-ai-groups-spurn-google-funding/",
+      "originalUrl": "https://www.wired.com/story/black-queer-ai-groups-spurn-google-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6095bbb04e934010a058f6e3/master/pass/business_gebru_15465521.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/black-queer-ai-groups-spurn-google-funding/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/black-queer-ai-groups-spurn-google-funding/amp",
+      "publishedDateTime": "2021-05-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-sleeker-ponyai-self-driving-suv-hints-at-more-road-ready-autonomous-cars.md",
+      "title": "Sleeker Pony.ai self-driving SUV hints at more road-ready autonomous cars",
+      "excerpt": "Autonomous car headgear keeps getting smaller, with Pony.ai revealing its latest self-driving car design and its much sleeker, Luminar-powered scanning hub. Far from the “upturned",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
+      "originalUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/Ponyai_Luminar_01-1.jpg",
+          "width": 1500,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/sleeker-pony-ai-self-driving-suv-hints-at-more-road-ready-autonomous-cars-10672108/amp/",
+      "publishedDateTime": "2021-05-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-autonomous-trucking-startup-plus-going-public-via-spac.md",
+      "title": "Autonomous trucking startup Plus going public via SPAC",
+      "excerpt": "Autonomous trucking startup Plus is being acquired by Hennessy Capital Investment Corp. V, a special purpose acquisition company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
+      "originalUrl": "https://www.therobotreport.com/plus-going-public-spac-autonomous-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/02/plus-autonomous-trucks.jpg",
+          "width": 1000,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all.md",
+      "title": "AI and nanotechnology could make cancer cell therapy affordable for all",
+      "excerpt": "There is, however, hope. The most recent insights in nanotechnology, artificial intelligence (AI), biosensors, and the Internet of Things could help overcome the current roadblocks in making personalized cell therapies affordable. The solution to ...",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/",
+      "originalUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/05/technology-1.jpeg",
+          "width": 1052,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/05/10/ai-and-nanotechnology-could-make-cancer-cell-therapy-affordable-for-all/amp/",
+      "publishedDateTime": "2021-05-10T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-farm-machines-get-ai-computer-vision-to-boost-crop-yields.md",
+      "title": "Farm machines get AI computer vision to boost crop yields",
+      "excerpt": "Dr. Julian Sanchez, Director of Emerging Technologies at John Deere, explains to Tonya Hall how farmers are already enjoying the benefits of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/farm-machines-get-ai-computer-vision-to-boost-crop-yields/",
+      "originalUrl": "https://www.zdnet.com/video/farm-machines-get-ai-computer-vision-to-boost-crop-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/10/2334a370-b93b-4aec-843b-b0fe962b225f/thumbnail/770x578/b0f6ebe2646f027dc052f70bde14b12d/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-sensiml-launches-open-source-initiative-to-drive-tinyml-implementations-for-smart-iot-applications.md",
       "title": "SensiML Launches Open Source Initiative to Drive TinyML Implementations for Smart IoT Applications",
       "excerpt": "SensiML ™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced that it has launched an Open Source Initiative to accelerate the adoption of TinyML smart sensing IoT applications.",
@@ -739,451 +1181,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-mega-man-11-review-i-hate-bounce-man.md",
-      "title": "'Mega Man 11' Review: I Hate Bounce Man",
-      "excerpt": "The eight robot masters have been taken by the evil Dr. Wily, and it's up to you to get him back. You'll jump, dash and bounce in levels themed around each one of these mind-controlled bots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
-      "originalUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1147163/mega-man-11.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mega-man-11-review-switch-xbox-ps4-pc-1147166?amp=1",
-      "publishedDateTime": "2021-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-the-startup-born-from-googles-self-driving-car-project-plans-to-automate-semis-meet-the-leaders-behind-it.md",
-      "title": "The startup born from Google's self-driving car project plans to automate semis. Meet the leaders behind it.",
-      "excerpt": "Insider talked to three of Waymo Via's top leaders about the company. Trucking is an $800 billion business in the US, so the opportunity is huge.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-leaders-via-waymos-self-driving-trucking-arm-2021-5-1030441205",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/5f17ab202618b9121c5778d3?format=jpeg",
-          "width": 790,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-uber-launches-new-toronto-based-autonomous-vehicle-research-hub.md",
-      "title": "Uber launches new Toronto-based autonomous vehicle research hub",
-      "excerpt": "The company announced this week that it will be launching a new research hub in Toronto focused on developing artificial intelligence (AI ... announcement comes amid Uber’s legal battle with Waymo, the company that runs Google’s self-driving car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
-      "originalUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/05/uber-toronto-e1494445629969-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/uber-launches-new-toronto-based-autonomous-vehicle-research-hub/90244?amp=1",
-      "publishedDateTime": "2021-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-cogniflare-unveils-data-management-and-catalog-platform-for-google-cloud.md",
-      "title": "Cogniflare unveils data management and catalog platform for Google Cloud",
-      "excerpt": "Cogniflare plans to add connectors that will extend Kyra’s data management reach into the various cloud services provided by Microsoft and ... In addition, Cognitive is working to give Kyrah ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/09/cogniflare-unveils-data-management-platform-for-google-cloud/amp/",
-      "publishedDateTime": "2021-05-09T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-china-tech-giants-bet-19-billion-on-global-electric-car-frenzy.md",
-      "title": "China Tech Giants Bet $19 Billion on Global Electric Car Frenzy",
-      "excerpt": "China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost $19 billion into electric and self-driving vehicle ventures widely seen as the future of transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-05-09/china-tech-giants-bet-19-billion-on-global-electric-car-frenzy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imzlfa1z.VSs/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc.md",
-      "title": "Artificial Intelligence And Machine Learning Market to See Huge Growth | Microsoft Corporation, SAP SE, BaiduInc., IBM Corporation, BigMLInc.",
-      "excerpt": "Artificial Intelligence And Machine Learning Market is growing at a 42.26% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
-      "originalUrl": "https://ksusentinel.com/2021/05/09/artificial-intelligence-and-machine-learning-market-to-see-huge-growth-microsoft-corporation-sap-se-baiduinc-ibm-corporation-bigmlinc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-8-1-126-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-09T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AI in Autos",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings.md",
-      "title": "Jobs Lost To Industrial Robots Amidst COVID-19 May Never Come Back To Human Beings",
-      "excerpt": "With intelligent machines on the horizon and with an industrial focus on enhancing productivity and lowering costs in the post-pandemic era, artificial intelligence (AI) and autonomous robots are destined to win this bid of the future job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/",
-      "originalUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6097f52c903ba592d51003db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/raufarif/2021/05/09/jobs-lost-to-industrial-robots-amidst-covid-19-may-never-come-back-to-human-beings/amp/",
-      "publishedDateTime": "2021-05-09T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-google-io-2018-the-10-biggest-announcements.md",
-      "title": "Google I/O 2018: The 10 biggest announcements",
-      "excerpt": "Artificial intelligence was obviously among the stars ... to overlay live results on items in your camera’s view. Waymo is the only company that currently has a fleet of fully self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/",
-      "originalUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/05/waymo-google-io-2018.jpg?quality=70&strip=all",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/google-i-o-2018-recap-top-10-biggest-announcements-5628769/amp/",
-      "publishedDateTime": "2021-05-08T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-us-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech.md",
-      "title": "U.S. Senate committee revised a draft bill to fund AI, quantum, biotech",
-      "excerpt": "The U.S. Senate will consider a revised technology research bill to invest $95 billion in AI, semiconductors, quantum computing, and biotech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "originalUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/08/u-s-senate-committee-revised-a-draft-bill-to-fund-ai-quantum-biotech/amp/",
-      "publishedDateTime": "2021-05-08T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-22-create-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth.md",
+      "title": "Create a large-scale video driving dataset with detailed attributes using Amazon SageMaker Ground Truth",
+      "excerpt": "Do you ever wonder what goes behind bringing various levels of autonomy to vehicles? What the vehicle sees (perception) and how the vehicle predicts the actions of different agents in the scene (behavior prediction) are the first two steps in autonomous systems. In order for these steps to be successful,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/2-3859.jpg",
+          "width": 800,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T12:57:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-artificial-intelligence-ai-in-education-market-worth-observing-growth-knewton-microsoft-cognii.md",
       "title": "Artificial Intelligence (AI) in Education Market Worth Observing Growth | Knewton, Microsoft, Cognii",
       "excerpt": "The Global Artificial Intelligence AI in Education Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short term challenges they face One major attraction",
@@ -194,7 +246,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1404,41 +1456,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-campfire-interactive-to-unlock-profit-potential-on-amazon-web-services.md",
-      "title": "Campfire Interactive to Unlock Profit Potential on Amazon Web Services",
-      "excerpt": "Campfire and AWS announce strategic relationship, providing auto suppliers end-to-end solution to manage their forecast, quoting and profitability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210607005149/en/Campfire-Interactive-to-Unlock-Profit-Potential-on-Amazon-Web-Services",
-      "originalUrl": "https://www.businesswire.com/news/home/20210607005149/en/Campfire-Interactive-to-Unlock-Profit-Potential-on-Amazon-Web-Services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "AWS AI"
       ]

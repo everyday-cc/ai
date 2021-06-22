@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-
 webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
+    excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
+    publishedDateTime: 2021-06-22T17:18:00Z
+    webUrl: "https://manometcurrent.com/latest-survey-2021-ai-governance-market-to-witness-revolutionary-growth-by-2025-ibm-google-facebook/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 2
 
 secured: "qY+FEe0Ws94/0khW/1GmgLMp1JkdSqhr8/yCIsPv8z/wUfksWWfYQ97O1oOS5+1cydXL1FUhcObe1qmOBiTZBZXUAZRYKn7bMuntZH6WPymGnPdma/K/44m4AIo/XgYjMJYAZnvxkS3gjXNHBHqC3itElW6P9e8iDGjTXlbdEelUx1goboPB+Y2HZnORce+ZXxNp2XRu8+McVBbaASPra8fdC/mINhHtX6LKVEG/sSvGDZQtBUKDvjvFmRTDaeDCadjuhw8svccqb7bF0SOxR2ZIC+8OMVqS0F6lYxCJ6lhCEEBllz62/18NEta4KXRHxhipX6MNp9QIg1exC+XdkVNissmcUW9Fsh6RCYzjDbk=;3Pv2tRxoA43/RpcOlKt3Yg=="
 ---

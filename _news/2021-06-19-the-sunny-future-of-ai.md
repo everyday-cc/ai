@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The future of AI ethics"
+    excerpt: "An ACS Artificial Intelligence Ethics Committee whitepaper endeavours to explain to people within organisations what good governance and assurance of AI looks like, according to Data Synergies Principal Peter Leonard."
+    publishedDateTime: 2021-06-21T03:53:00Z
+    webUrl: "https://www.theaustralian.com.au/news/the-future-of-ai-ethics/video/bf99e590dd72a11c78938b68be2f71a2"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "qfg16PP7S1DIInwiaYizcE48Z3g/7IqtkbjykXS6GOZonrN8fiQjsSoReMKjhNsBSwJ8cwDpn7S8buuH74KNXEfDjUz7PCdVUCLGBnj92NdfXC0llhPgSqVmnDoKMW0qeiOVbK2P+Z2jH1SMCQ/21rdjPOmNUeX9a+HmhV+GnOf3+QjdCATnz0d+rcf+Y/f1tSPS3kEjSJkEBBMcKBB8p0E4C8PFuZYl3ZM+l53JJOiTT5XiUUxMA79ElQb1czlZs50q3leSz9oiXv1SYm1n0QCGrx+yEXKLbJPpvZNizWw/aCkOHn5u4DDro5r74rNRLpN+DMjT+MFOf/KHmvctQuWO01jJhmVFwKocthLsuAXO2svzAYQjShkuWshGu6J+DYA0vVBpOpUeYRmAdoLTCV6JqyjHSzoGhHs4RKKhKsBYE7DBU/Vxdcx3wA0LTVmb0/wEdrxlpoXhV88Hb7S4gwtjw+Ap0zE8fE1WlJYYu0Mh9KCq/4vuwJZ2Dg4R16Oqde+gSvHY5ag/0ScQPyB/Kw==;FoInyhQOgi7d1HKxWzWqFw=="
 ---

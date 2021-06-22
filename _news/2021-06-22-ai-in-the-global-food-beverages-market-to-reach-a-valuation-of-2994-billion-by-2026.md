@@ -1,28 +1,25 @@
 ---
 category: news
 title: "AI in the Global Food & Beverages Market to Reach a Valuation of $29.94 Billion by 2026"
-excerpt: "The \"Artificial Intelligence (AI) in Food & Beverages Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to"
+excerpt: "The \"Artificial Intelligence (AI) in Food & Beverages Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 -"
 publishedDateTime: 2021-06-22T16:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion/article_2a63bbee-bb3b-5a15-a931-e518446bac47.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion/article_2a63bbee-bb3b-5a15-a931-e518446bac47.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21670399/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion-by-2026"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21670399/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion-by-2026"
+ampWebUrl: "https://www.benzinga.com/amp/content/21670399"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21670399"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Google AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "x/jRIn+U+Tkr2vj98Guyu41UfI8lzO4JHafl8u19uojhHfQYihK1Ip74YpyBq9tVxTKeMigsbYKOyt7Ty1tQQ34GK8Dz27s0lES531GUEgJwhn8tFt67e3k2RCSZX/JyXwz58BApyHDpKNd5zc9rTfmGU5IXBBTfy5pKfQ4Hgcx0Cw/dVPaF2jU4iWy9KWOb3vnrGr+LZZ98DrMMnjw7NdNV8vO0EJ2dfC90pBJGWIF4XrXMv9wRC3QsTbNSHKnROLeiU7hXXn2omZW5SkVIORRJT2pCMYaVuqA3czw/GywkiZVdFZcQXBJqcvZsEpTkyEWew/TpytahmZDZQasdaiGYr0sNhQADeby1BEOsgRY=;Ma6EoBvFxBsOD9Asm+KcSw=="
+secured: "3xD8WLMXye63fvYVWZ1A/T/4IrsGKAV3U+LYI3sRSVY9KujA2ll2aIBS9hpM9QqEeAOYgiaD5iRC6yArH+4SkXCQMdbD5vKGLlgFF4edwiO/3bmbisXg6q+2mUz+d4cQq4BtrRfY78lRi9pQrxWTI+wkOCpbvtmgsAv5tzW81L7wwp1tgtWDlx0jBczvIHsK9v3UutTzyngirtx2PmZ4YWyh+q7vuTz+lec2KXl/TYrNQBw/3VKTZ9BqK91RkQOx9Lh0fH/RmZNCLHZZoyZFGDN3c46U6PNJnj4y3BiEOYhFdO0FTHtoSbP3PsRmC1WSgnvozpJsCLZcpt0q4wKNMsdNKz0k34m+NydMkFW8Ygo=;4baCF2rVbvvXZUYv7iLc0w=="
 ---
 

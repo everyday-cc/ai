@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-22T16:47:00Z
 originalUrl: "https://www.hackster.io/news/ambarella-launches-new-edge-ai-computer-vision-chips-boasts-of-major-performance-gains-4e84770e94f5"
 webUrl: "https://www.hackster.io/news/ambarella-launches-new-edge-ai-computer-vision-chips-boasts-of-major-performance-gains-4e84770e94f5"
 type: article
-quality: 46
+quality: 63
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://hackster.imgix.net/uploads/attachments/1315388/_qXo3HpKWIL.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
@@ -74,6 +75,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "+xYXZR8ivbF8Rm2NVI7A2vXhMG3zjiZOB/1nt8V0qQDzCnPH2s4JFHmt3WQF8/1v64pKBh1vgJFNpedPPn+txVqlUUiaQJ2dgpdRsWCeX6tKVraqIAOpCPvgtmpZFqVZwfguM4NGW3yGubRCFiQeJdpODr9cfbE4gTXA2q22Fda9cbYhgqCnk5VRzxS7GFQBM6tDi6wyHC+bYZRKtGuGMvxLLyOS1PM5qAL0ghAlXJSeLnhTBt57ROpESp8APMwJAFmZ7WPeOI7dCSogVqJVSe7A1J1pFNIQxazCqP/wtl/frnxmhDnoA4+wSQU/CU5Lq2YQaeVtbyNMvQ6Vfr5jkJ4h6W2YmtyFTal/XCfdQvQ=;ns4Ozou4luEf1UbFYD++sw=="
+secured: "FnyII56ljAJlIvBJoZBzFGMdqXLD1uKDW6nHNKA2pCFSlbG/ShQ3NNj8p4mCKtkCSBsO33SdXfgONP8U2KTljyFasVUeL8o3EnvfjCo1NyrVwYwRAPYjPhWnMMSwjONhelLv/UJCbYCSb57AR2KF90MKM+k1rtCIhK6t+K6g0NFPs2BWksC32s09YhR9g9fjdTUdZAforTJM49EMU/StSvwiOfaCaVD3x8d4hr1+bQ/iNESb+kFZCZQ1+nh+oyRs5tDhdnwB771xBCOI2VGTTASq+3dUUw24W5tZLqDlwLMCrMD4N4wQg5AiGVF0fVREV3lX87KnOTsAr93YXAUjCFy2YVWeB7Y1labsXm09YpAXtl7hD/6MEyMuynYjRZlrHXkBdD+6BWT8m+i5BlyJKfTmqHPszL6OD6fq+TiMkWSqC6MGNEcIr9kNRmTAdO5DewhcCNqqB7Nhqtsw6DNo+0spzYy1UShXdV6TESWJOly2YuxRLkoSVxMIzrVEPLFC+EAue+xtdDKSCP1GUFQcNg==;Q/ZUAfAYb2ZTFGnGQvU2Jw=="
 ---
 

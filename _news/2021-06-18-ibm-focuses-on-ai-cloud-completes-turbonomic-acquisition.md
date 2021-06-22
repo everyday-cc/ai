@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-tu
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18?amp"
 type: article
 quality: 71
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
-    publishedDateTime: 2021-06-18T01:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
     publishedDateTime: 2021-06-20T18:37:00Z
@@ -88,20 +74,6 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
         width: 2700
         height: 1411
-        isCached: true
-  - title: "IBM finalises Turbonomic acquisition"
-    excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
-    publishedDateTime: 2021-06-18T01:52:00Z
-    webUrl: "https://www.crn.com.au/news/ibm-finalises-turbonomic-acquisition-566121"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "KIOMsw+hrXBRT7VKE0TylY0NdE48Q0QipUK4BQNch9TZD+P0+uYubJMqzMChXB/GHwfhPaDD/zCVduBTgzj3NmquG0jyQw2fxq7LMC7rLu8GTW7DtUJTsKXS38GeTuPdpsEe5jeWdEgrrHwSC5ngDihs0VhNwYzDvVmLFTOhvx4x5NnS2mJ7YACEL2Tl+XRxUZJSqEN9GxgWtZFc2oAhHkSCyudJx6b7PtggeaYpS43W3RLOAGOqlUfKZw3uvFH/vYfJEMPa5aTgUA3YvQ3AC66fuazOLgAzt4M5v1xoZ0eKiLcssIph5cvBdKR93Cp/wPCeaX3YCCluCjvlEfxDxqKf63+g3hyFf1Sh8OZtYvs=;abYObkDFLD33kTDsOM8+QA=="

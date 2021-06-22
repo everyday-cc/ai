@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-03-light-therapy-helps-veterans-treated-for-traumatic-brain-injury.md",
+      "title": "Light Therapy Helps Veterans Treated for Traumatic Brain Injury",
+      "excerpt": "Morning bright light therapy improved both physical and mental health symptoms, including cognitive function and sleep quality, in veterans who suffered TBI.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/tbi-light-therapy-18331/",
+      "originalUrl": "https://neurosciencenews.com/tbi-light-therapy-18331/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/05/brain-78440_1280-1.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/tbi-light-therapy-18331/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/tbi-light-therapy-18331/amp/",
+      "publishedDateTime": "2021-05-02T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-artificial-intelligence-ai-in-drug-discovery.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery",
+      "excerpt": "Artificial Intelligence AI in Drug Discovery Market Scenarios 2021 2028 This report is a data source that covers the industry s existing and future technical and financial knowledge through 2028 A thorough market review illuminates the threats market structures opportunities",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
+      "originalUrl": "https://www.openpr.com/news/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/5/U502676851_g.jpg",
+          "width": 683,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2278458/artificial-intelligence-ai-in-drug-discovery-market-2021",
+      "publishedDateTime": "2021-05-02T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-global-artificial-intelligence-ai-partnering-terms-and-agreements-2010-to-2021.md",
       "title": "Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021",
       "excerpt": "Pages Report] Check for Discount on Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report by Current Partnering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements",

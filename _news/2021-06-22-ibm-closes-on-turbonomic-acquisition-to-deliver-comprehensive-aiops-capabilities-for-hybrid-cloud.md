@@ -49,20 +49,6 @@ related:
     quality: 54
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
-    publishedDateTime: 2021-06-18T01:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
     publishedDateTime: 2021-06-20T18:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192861&cat=PR News Wire"
     type: article
@@ -88,20 +74,6 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
         width: 2700
         height: 1411
-        isCached: true
-  - title: "IBM finalises Turbonomic acquisition"
-    excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
-    publishedDateTime: 2021-06-18T01:52:00Z
-    webUrl: "https://www.crn.com.au/news/ibm-finalises-turbonomic-acquisition-566121"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "J0cOqk/Va/pbhsrAynEJIR0mJmTnh9w01filE/rbA4jOF+7c5pr6xq3l4ZIoSHykovhHtVSiVzONqUUoB2moTZoOvAkzEHvR6xtoyObHNr6v7uU8rYCeUqonHKy36caZxV5QoQNEWR5agpKSrWGnyynFHCDlxlS847U40waRS2UwJcZ1F2pYoZrpPOehNNx7/AEjcNEp8pN1bSm6CB7TwL7ZCfdzCVNzQWzimI1hWGxsK/q5NhlglyvKM8RO/GJ8Hig9ZNNRLgAo0MBUdLBLkwL4MEYCnPYo7hFGtvhUVb8S+y5IHXg7Wsg+bdKMqfpjS6nt3/GS7Tud6Tfnz3lxXG+d0jLZLgrWEe/lkChdsrU=;eRC0mCpsITILW+kbwrgUvQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The future of AI ethics"
+    excerpt: "An ACS Artificial Intelligence Ethics Committee whitepaper endeavours to explain to people within organisations what good governance and assurance of AI looks like, according to Data Synergies Principal Peter Leonard."
+    publishedDateTime: 2021-06-21T03:53:00Z
+    webUrl: "https://www.theaustralian.com.au/news/the-future-of-ai-ethics/video/bf99e590dd72a11c78938b68be2f71a2"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "VVTaWzvjQ5a8jhHmEjwdFkwCMfpMYHn3aX+nATpE6dpWBpkQ1BTypA5GWKrfRUdS0B5QA8xjTEloWh4rVhOw4zOPAS/itEk2JKchLA9r5ZI1aINoaHVD8XEvqs4eXInvgT4Az/QaRr8tib0EyVuzDuOgOe3JdPc73sSB9yp+O/lGjb7FUJbbwV9NS3bXi2Rkoo69EdjMAjwgS/nxHIbZ7NLXkSSXiOjy3LZefYDNxgnasAeWVF08SGhFpNr+6Dn0WYI3lO+lz6ILNDdjFIStBdbnTRtZ2U/SnArfUbQ+vk6Rbrw1the/mlxPT0PwF/Mwyb5N2UrIOMusn1yXEWaPKT6hZnE+WR5lgQO6uwahOrXN0rRxG6tXXISnTGlMpazDadlydBgsm1YJndEGwT87xef1hi0LTkQpEasJTB7q7jZnP46HQ8WRuXK5QgH5D9SnG4wUqu6p/75cRB0N0RNYlvmv1Ax8IVRNgL87cMUQ2lgC4XDPf/i2K20ySXjQcC5GoqBdAWDPTWMWNcbF9G63vg==;15hVcVH54MBWAoEzZNAxPw=="
 ---

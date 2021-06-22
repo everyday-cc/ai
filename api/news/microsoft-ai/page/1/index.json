@@ -151,6 +151,51 @@
       ]
     },
     {
+      "path": "_news/2021-06-22-three-use-cases-how-ai-is-helping-improve-the-healthcare-experience.md",
+      "title": "Three use cases — how AI is helping improve the healthcare experience",
+      "excerpt": "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/",
+      "originalUrl": "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg",
+          "width": 1080,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition.md",
       "title": "IBM Focuses on AI & Cloud, Completes Turbonomic Acquisition",
       "excerpt": "International Business Machines Corporation IBM recently announced the completion of its acquisition of Turbonomic to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
@@ -159,7 +204,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-completes-turbonomic-acquisition-2021-06-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1293,40 +1338,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-displaying-items-by-tag-cognitive-services.md",
-      "title": "Displaying items by tag: cognitive services",
-      "excerpt": "The NSW Police Force is rolling out Azure cloud technology to further support the recent introduction of cognitive services including ethical artificial intelligence (AI) and machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/freelancer-sp-720/tag/cognitive services.html",
-      "originalUrl": "https://itwire.com/freelancer-sp-720/tag/cognitive services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-22-create-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth.md",
+      "title": "Create a large-scale video driving dataset with detailed attributes using Amazon SageMaker Ground Truth",
+      "excerpt": "Do you ever wonder what goes behind bringing various levels of autonomy to vehicles? What the vehicle sees (perception) and how the vehicle predicts the actions of different agents in the scene (behavior prediction) are the first two steps in autonomous systems. In order for these steps to be successful,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/2-3859.jpg",
+          "width": 800,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T12:57:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-healthcare-providers-remain-surprisingly-lax-on-data-protection.md",
+      "title": "Healthcare Providers Remain Surprisingly Lax On Data Protection",
+      "excerpt": "Experts say that the medical industry is resistant to spending money, despite the increased prevalence and sophistication of hackers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/healthcare-data-privacy-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "publishedDateTime": "2021-06-22T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-in-the-workplace-of-the-future-how-important-will-ethics-be.md",
+      "title": "In The Workplace Of The Future, How Important Will Ethics Be?",
+      "excerpt": "In the workplace of the future, ethics will be even more important than it is now. That’s the overwhelming majority vote in a poll I ran on LinkedIn. I’ll present a sample of the four kinds of responses I received and then provide my own analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/",
+      "originalUrl": "https://www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b2a12b6409c810fc667dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bruceweinstein/2021/06/22/in-the-workplace-of-the-future-how-important-will-ethics-be/amp/",
+      "publishedDateTime": "2021-06-22T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
+      "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
       "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
       "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
@@ -416,7 +615,7 @@
       "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -667,7 +866,7 @@
       "originalUrl": "https://techxplore.com/news/2021-06-ai-electronics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1049,213 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate.md",
-      "title": "Global Telecoms Cloud Market Forecast to 2026: AWS, BT, Oracle and Verizon Dominate",
-      "excerpt": "The global telecom cloud market size is expected to grow from USD 19.8 Billion in 2021 to USD 52.3 Billion by 2026, at a Compound Annual Growth Rate (CAGR) of 21.4% during the forecast period. Data stored on a public cloud platform is generally regarded as safe from most hazards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hpe-bolsters-hpc-business-with-determined-ai-acquisition.md",
-      "title": "HPE bolsters HPC business with Determined AI acquisition",
-      "excerpt": "Hewlett Packard Enterprise (HPE) has acquired open source artificial intelligence (AI) startup Determined AI. The four-year-old company, which only brought its product to market in 2020, specialises in machine learning (ML),",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1580816268/HPE.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp",
-      "publishedDateTime": "2021-06-22T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-robotics-market-size-share-value-and-competitive-landscape-2021-2026.md",
-      "title": "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026",
-      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-databricks-cofounders-next-act-shining-a-ray-on-serverless-autoscaling.md",
-      "title": "Databricks cofounder’s next act: Shining a Ray on serverless autoscaling",
-      "excerpt": "After helping shepherd Spark to surmount the data bottleneck, UC Berkeley’s Ion Stoica is helping unleash Ray, an emerging open source project to get over the compute bottleneck for scaling machine learning models into production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/22/5db419aa-0477-47dc-a3ca-4444b6b838aa/sun-rays.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
-      "publishedDateTime": "2021-06-21T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -40,6 +40,20 @@ related:
         width: 1080
         height: 592
         isCached: true
+  - title: "Artificial intelligence is changing how we diagnose disease, triage cases in the ER, even help prep doctors"
+    excerpt: "While algorithms might not have a great bedside manner, new technology is helping save lives: St. Michael’s Hospital saw a 20 per cent reduction in"
+    publishedDateTime: 2021-06-22T19:04:00Z
+    webUrl: "https://www.thestar.com/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 19
+    images:
+      - url: "https://images.thestar.com/OrV6h4DzV0yGbPbdNAnqjftjodY=/1200x846/smart/filters:cb(1624391807455)/https://www.thestar.com/content/dam/thestar/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors/_1_st_michael_s_hospital.jpg"
+        width: 1200
+        height: 846
+        isCached: true
 
 secured: "umvY6s7RDuhUdtOXTsM/+IFTOMKBtrIe7aNOsvDzLW04paoAj5lV/N+bwDS1XP/JritAfARPc51+qYTBEeaetfE1raVTPbb+3NKI0wTab0mC4jAuUDUCj8yX4Hu6WBCIyM3bj3rdOSocFRm6PZjlGsIcjnZriPiSpeLiJLFzegXpT02hetQQt6yyztfSmef0PR9J6EqLHRTJst5ePhsTkZAYQF5jqZHiSx2OYMGKrMj46w6GdX9TPlwRj6sdm0614DEiWYVXVbKLMzqT8IXXajyiqy82/uaQYFyiBu2qaAbXuZ+3XmnpkHAq5Fd9JyKst0FISvZmG66Wf0kGtrkkPm+Wjv0AYeMkDe5AxYt6Qwg=;LNoYLQhe+umvlpEhaLUe4w=="
 ---

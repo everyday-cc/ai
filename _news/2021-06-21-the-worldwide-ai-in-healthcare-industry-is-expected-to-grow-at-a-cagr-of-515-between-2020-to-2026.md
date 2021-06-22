@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-i
 webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
+    publishedDateTime: 2021-06-22T15:56:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
   - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
     excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
     publishedDateTime: 2021-06-22T17:02:00Z

@@ -47,20 +47,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
-    publishedDateTime: 2021-06-18T01:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
   - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
     publishedDateTime: 2021-06-21T18:20:00Z
@@ -88,20 +74,6 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
         width: 2700
         height: 1411
-        isCached: true
-  - title: "IBM finalises Turbonomic acquisition"
-    excerpt: "IBM has closed its acquisition of Turbonomic, a developer of application resource management and network performance management software, and is preparing to combine it with other IBM technologies to provide clients with application-centric AIOps,"
-    publishedDateTime: 2021-06-18T01:52:00Z
-    webUrl: "https://www.crn.com.au/news/ibm-finalises-turbonomic-acquisition-566121"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210618125159_0_0_0_0_70__News_ibm_logo.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "jwrK0ahvKE/0+uKLg+LP/Q08UN2od2iTDWMKKeMJRroLPCvAQb53HN3WrrUoKKn/dXpiCs3l5BwcsqcF5jPBFweYy++GAQvPW7j43FQ4wZXqhJx34V/NWM8/4i4QHcI9QvWRCLh9yzoCzLKLYoLC08QutcqFMjygAba7LGZNhCMKoPKKirzWMlKbB6bTF/d0TnqOKUiEfc1qZWvAXl68scH+N0VSZNqEb3ChQTGQRli9gr4TLM5B9hHMtmcZtsyKTGnSXV3jnpn5Ct+BhiB9X/KnUl8ffr6OgOgIu0502TRxLNwC6GHi02A9DyQiJ6Hc22VZlSr8Xm1V4tKRGxywqd0jkS6Zwn6OchySnW6zWP4=;M4jxz8GcAsEzwQpuFcTcaA=="
