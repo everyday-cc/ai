@@ -2,7 +2,7 @@
 name: "Domino Data Lab"
 overview: "We’re building the platform that enables thousands of data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next."
 type: "profile"
-heat: 77
+heat: 31
 
 website: https://www.dominodatalab.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dominodatalab"
   url: "https://twitter.com/dominodatalab"
-  followers: 8511
+  followers: 8510
 
 size: 51-200 employees
 yearFounded: 2013
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "eBAFajjYO0AIkIPqapFzffD9PqoXfhPw68qtKsEj/L5FbjGuCeEMuBhNXv/5Odl/aaVFW96MaunBYc8X8roVLHXGKB6k8+gGxkWCvgrkRvpjxqV09keaiyUPGOeTD4113DVZ0xtOUEWbdR4wZIzsh+snVU1QvMkVtgRGngTqLTOynxhAsGEWnGLQHmVFQQZu6adh5HTL0VjeytK7mpDEF6/9OUsQ1aE2cSGpVgQBmg1xrMnLTH2bNpOUWo1+JdBSfmD6+NeFoEXj/maZnjmlZ8mFVJOW2FQNVGwxmcLOqYvJM8aOJKBjW7knfrU2Qvx+I/B1ODoOTG4hrsywV0BSrBRiC9fpqyca1/rqj7+dglDxn/MrG+QXxanNJEGQkG6kLVacPebIFFnhKDrjysM6nSEExVuJR2pz5hWJeOi7tQU=;blghtbqZzAB2qUiXCsC6og=="
+secured: "CZC/aUriMdGOoM5BYFN4AtW4cG8Gf5JIHH+4h+oMYUVmXkss4ccoML+7IEoO8LBYTv0H8OKIFFlUJJ7gNhDcZc+EJx97BL70demdqRlsVPok1qlmN7DPg8HztrZT8q2a4h/pJuAunlkD8O0083t9B0yq4rrSKEoFD4/lqIqTLK7+tpRX/9zBAvbtyM6OIQYbKuKxHMh6YVGxD8vb6yghPt1+iJkiZY0nuv31Fzh8WJvD0EjYWYIammFpHm6Ki93UJ2wFXe8/nXE0gpksYB8+s7EvmSJ+NDr0pPHav9oaSusXJLM4o/L8VmQxwnFlrfKXUAOFA/INd/t4+xiBn/zez6UKTFohjnp8zLp+s21aHVcNnsG0uKF5zDatccQI7468ngvIq70e+EKXzmZeTdTpzSw5ftu5w+ERJDXnJhD3/To=;yX7YrYi8eTP1PgsKbzYRkw=="
 ---
 

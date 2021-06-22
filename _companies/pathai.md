@@ -2,7 +2,7 @@
 name: "PathAI"
 overview: "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale"
 type: "profile"
-heat: 57
+heat: 78
 
 website: http://Pathai.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Path_AI"
   url: "https://twitter.com/Path_AI"
-  followers: 1105
+  followers: 1106
 
 locations:
   - Fremont, CA
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cUeScCtTng4"
 
-secured: "Xi1TGRUv3gtZfW8wIkLgbihBoXcHINQkdoYnIBupPAC5IY2RJ9bhzHGy8TrMpBLlRkxpKmxHt4GlneCZNRd3OJ2CoMxQ8o7O27jQOx9Dyui04YLw0dQqSBUXAf0ej1NFP6V1Ej0GP7wJzSOZFcfI18uihJW/kT2gRZ5+i6nSAkmI6hR5YDPxrAeVNFqEw7YSLNk9qb1xjVhi6iPJnZpwx8K50I4/1vnYMu0h/yKegveMDMresvcduky9mvwktfxZY2sW/7BuO5dKbWpd7+TDa6YQSw0kOo+sDcslg5zfqvM1cJvjEucS/SrGotJqtBB8BshnoMUolGujmUemNDE6KzPr9/+SX/YM35+3b7RALvf/dyVYz7HsclIMKUlcfvOjcZeZtwa3kTr1wjoWDG8bydRTGcmdLraEG9KjmNwoE5k=;cNWiXmDe+FV6GEA1OXGKYg=="
+secured: "WbCDAgcyjAF50Gc/rwNrD9OCDwncVcHqJSCcaexoMjS5hL8L+ezrZQ1LUgXoUadA3uN/Z/p5r6CWuPFK3iU1cGN52A5CEZOIWx2PjLxT4FiCpCHOcAOEecbue+o6ig8h5VPYDTP9iXjwpdGxYf1y8Cv7m75wZa/30/C1A4F5JX7z6wKJBhnUuBuGtchA/Nqmxu6yrjfQfnobQrcdlmbDdeoij4b+SajK2BDmjPBtjWjtfYC/1VQkBi+sMoiii7aM/QDyuP8TW1wDvyjMiy+fygD1NfvU8VQ88ePx8q9QLlsT15asfTa4ucmKsATGgffEWWDcJXzhEaVnWU5TYs0IfP3VU0oN2in+Ssr/5/aafHZvyEoaQEikKBg46ARZGwhr53ByLaXpxBJlwhute+cgqSLF/KuQen7gXhZDofTW4JM=;TS9jeqENwwR30zLK1ymVWg=="
 ---
 
