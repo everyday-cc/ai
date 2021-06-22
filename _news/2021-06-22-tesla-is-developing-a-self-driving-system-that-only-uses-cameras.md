@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
+    excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
+    publishedDateTime: 2021-06-22T20:54:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/06/22/former-tesla-litigation-head-joins-self-driving-truck-startup-as-gc-ahead-of-going-public/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/PLUS-Headquarters-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "xjEXxoFzxPglIfdjGFZ1uUgIxOhyFg6ZFEH2WvNrsCLp0CzeVvp4iT5EBM7HRhshwfeKHBGBigYZuAWaNS6boiGSzrq0/bZISbw19zEfqiG8eG/LNzhS186M+xP/yUM2+Dkxo+ZjjZA37ORUiSmCjzYrECg3xcGUG/F7X6j44JjZWrB0fJhsPwywwpUkc9QrTjRZSTThfq5uD2LI39IzQO9cS/CSqcXrNWX4YFCvh5AB8L3VMbrMh3OHCr6xpqRT1TV+kilmK1PN65d8qcEhT6nr+hF616ZXPP5Ks8No5Chnu5QDcLk5V4pUCX5K+FkrzQkSgOtUtvNmUIzeO34uWHUDLrzl8dlz7QrTHzo/ITI=;UBkSzFLJww0BW3z/Fld6ZA=="
 ---

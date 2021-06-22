@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0a4b2ce6895e22530f024%2F0x0.jpg"
         width: 1200
         height: 838
+        isCached: true
+  - title: "Hicks Announces New Artificial Intelligence Initiative"
+    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
+    publishedDateTime: 2021-06-22T21:52:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
+        width: 1280
+        height: 851
         isCached: true
 
 secured: "FOTzuZD3J1agqkRipGo7jdYrc99gZJ5DB+tKBLHRkdTs/u1UHDSFEqhioqhaGsAOt6o38G/p4R038RSeGtaJJCw9KL1rWBbJfMwLtxsigBCqsDygBfb3hS/euqR4q8li+8c6HtXZQz6/to5VAAl/6v4kliC4NFYiRhi1qaEp8UffxBDnSgJYDg1IvdSK36Y+mdKUgnFUv5tZWI9YwihZ2CBgfiHShoEJbyOrNMRMI+Vc9wuvJSckzcQ1k2E8Mr972HR4OFRv5zApu5kmjkKoaM6Rc1ssQpdaVyDEcaA2dC58lBeCX5zGSyDH7EkWpmJzgdMFbo/bsM/NIxdcOgjBklvH8qpWzvx2yZ23EG+h8P3W72dmETLMZ6Oinmmv008G3hXwmtrsKWLktncK+ytEzaxYYqEkRVjq/cMRBO9gtyxZEc3F3vGPN2nFfLZFjpAdUf1uNKWFoVFmmNXg+O+Kunkn7Im8E7Bzzz3TCd0jwb4JcCG/AkVXOqqW7LthQvzgWaEuW1wUAjjKAgVGRDtbTQ==;cSptIMO16wFTYUGkuZhhDQ=="

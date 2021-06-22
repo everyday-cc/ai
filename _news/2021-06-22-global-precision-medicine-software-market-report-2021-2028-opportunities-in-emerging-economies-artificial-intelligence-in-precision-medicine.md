@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End"
+excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech"
 publishedDateTime: 2021-06-22T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies--artificial-intelligence-in-precision-medicine-301317494.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies--artificial-intelligence-in-precision-medicine-301317494.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in/article_08b15856-1e96-5b22-bfa0-3c3998ce00bd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in/article_08b15856-1e96-5b22-bfa0-3c3998ce00bd.html"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: arnnet.com.au
     quality: 2
 
-secured: "+9etkUPPnqE2FDcRJIVLbg9DcStyQCWUZfG90RyGR8zCehxcOGJxztxDm00skKUtGKU01VSFDWdOwL+18HYO0vyuJeTol/4w0bX2aRa3/sTZmbU+DvF1Njvqx/K5m5h3IQET1W44uaFGH6Fc+UrujATJRpHfqGmiy21D8BwDpozLvYdKdRA6vjDiFJ0VJwfs2e71rznBoa5MP35CTH6Utwmr8vYUPJzHQSbHDZrTDBdnuoGzMQuNuV6zU3VdT3ttuhMKEQYVPkoxbQ8Rn2wZklF2HlHkAHJdHROWsEYCiyHznz/re2yNMqmC7lVDCXPbkla9xtfQ3rc3Y9uT6tY2KyCD56v5BC320qNx7WiI3cZ5040CDhsRENKHwUzSrXPEc4zQumRLcocVZlEdAbniAJTm01A7KxDALP5EF4oyUSg3dcM+bvzF8iZ9gJystjY9bvt7UQ4EqG11AAvMJftNsXbO5psgdaa1Ck0geHjKZwY3TQwCy4dBY46HvEUk5+aEyVHD20KujJ1gDyJ3Y0VeTg==;nGmOUqXVLKID2wQyYjRkZA=="
+secured: "nH2GVUc6Eq+ue5QK8dMtMx1782w5CLqYczguBhcTySZs48Fa4/Zpk2FpI5z09+pn3ulSpVOlEOL1sTWJt4J7oxDq2pYUlQZbE+FZm9agT5jVJQNSpt39H9w/+h4Ym8Sk2nAW+/yaM2M3ciJKxoWrNJFRUKipRvdyq9DHvuX733RpnNJsdXlOa9KR/taYuseZ/OYHxcQZxLirJkfBvDqj2bqbAbnDnap17md9dVIP/cI3XEHnbuEdNbCRvHuYCdhC0EvGfmKDPL8w/3jM6FCc7Rc7BKRUMYizsAa8H7h13ryYuKz5dLO7MUFuDRqSROKoH1sOASlsAYDidtvMLNOpCZqVgEPidAqCLWyl3HhSpfQ=;0RjgLle2J3nOQlFECqFbFA=="
 ---
 

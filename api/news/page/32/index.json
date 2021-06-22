@@ -2,6 +2,152 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-05-27-filteredai-closes-7m-in-funding-to-accelerate-its-technical-hiring-service.md",
+      "title": "Filtered.ai closes $7M in funding to accelerate its technical hiring service",
+      "excerpt": "Boston-based Filtered.ai has raised a $7 million round to accelerate its hiring cadence, and built out the go-to-market model for its its engineering and developer-focused hiring service, it recently announced.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/27/filtered-ai-closes-7m-in-funding-to-accelerate-its-technical-hiring-service/",
+      "originalUrl": "https://techcrunch.com/2021/05/27/filtered-ai-closes-7m-in-funding-to-accelerate-its-technical-hiring-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1254738673.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/27/filtered-ai-closes-7m-in-funding-to-accelerate-its-technical-hiring-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/27/filtered-ai-closes-7m-in-funding-to-accelerate-its-technical-hiring-service/amp/",
+      "publishedDateTime": "2021-05-27T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh.md",
+      "title": "Databricks unifies data science and engineering with a federated data mesh",
+      "excerpt": "Databricks unveils tools and platforms to unify data science and engineering practices and accelerate development of AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
+      "originalUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/databricks-ml-homepage-expanded-nav.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/27/databricks-unifies-data-science-and-engineering-with-a-federated-data-mesh/amp/",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
+      "title": "Databricks ups AI ante with new AutoML engine and feature store",
+      "excerpt": "For the developer crowd as well as sophisticated business users, Databricks is introducing an AutoML (automated machine learning) engine; for data scientists, the company is adding a feature store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-baidu-debuts-updated-ai-framework-and-rd-initiative.md",
       "title": "Baidu debuts updated AI framework and R&D initiative",
       "excerpt": "At its Wave Summit deep learning conference, Baidu announced updates to its PaddlePaddle machine learning framework and more.",
@@ -978,146 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-computer-vision-market-size-2021-trends-and-future-growth-outlook-industry-swot-analysis-future-demand-research-regional-forecast-to-2030.md",
-      "title": "Computer Vision Market Size 2021 Trends and Future Growth Outlook, Industry SWOT Analysis, Future Demand Research, Regional Forecast to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-2021-trends-and-future-growth-outlook-industry-swot-analysis-future-demand-research-regional-forecast-to-2030-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-2021-trends-and-future-growth-outlook-industry-swot-analysis-future-demand-research-regional-forecast-to-2030-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
-      "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-how-supply-chain-digitisation-is-paving-the-way-to-gene-therapy.md",
-      "title": "How supply chain digitisation is paving the way to gene therapy",
-      "excerpt": "Big pharma has been on the frontline to vaccinate the world against Covid-19. Digitising supply chains sets them up to personalise patient care",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy",
-      "originalUrl": "https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252501333/How-supply-chain-digitisation-is-paving-the-way-to-gene-therapy?amp=1",
-      "publishedDateTime": "2021-05-26T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

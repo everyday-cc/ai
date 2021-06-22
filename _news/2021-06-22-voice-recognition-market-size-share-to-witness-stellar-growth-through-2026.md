@@ -34,18 +34,18 @@ related:
         height: 630
         isCached: true
   - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End"
+    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech"
     publishedDateTime: 2021-06-22T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies--artificial-intelligence-in-precision-medicine-301317494.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in/article_08b15856-1e96-5b22-bfa0-3c3998ce00bd.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 3
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "EvTWioLJl8AI5rPyCp85pNNQhKcga87IOHfXLjTA7sqmb12NVanooY6VeZboKVkkxYd68K1ngvYGCQEIZXLxQ7QeMEFcIQ3E3zhdh5BJBzplbPFvvZ1rp9FAeUOdhloIeW4+WpJUOZ+2SeXImzWRpN6SmUpNRmw7It/W2f8UfQuCeNm/k336YRY3DqUetTDJDvLy9WnA8lMqdUu2vVougxcSaH34ysGCOc1Zqq/ArMDrYhRacxyCqKRybto7vKevIMo1PEuWMXbIPJBscjFvommYlnj+aM32VrG4Hi4QycnEQsJK55JNIVkHzh0Ms5j74comAo4pD9KZ25r2keCZqYMxagJkqgKewI49XtVfFcQ=;mF36dL+YznYNfOtzn0QTWw=="

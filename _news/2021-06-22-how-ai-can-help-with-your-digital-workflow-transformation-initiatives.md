@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Hicks Announces New Artificial Intelligence Initiative"
+    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
+    publishedDateTime: 2021-06-22T21:52:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
+        width: 1280
+        height: 851
+        isCached: true
 
 secured: "XVMJyqqRxZSCkypK9hDcGYdKiGe5rJtiz8Zf9GKmTyzBPZSfv8yJ3CRDlmzZN8FbL47/DIRMz1QZ1J2pWF9riaCuXfkT8NCPY2LxpbOxh1Ho4Jzw+wTPZFecQzhMjY1glEmi769stoghIbfMAXYu4a96acXE+JOxHu0GamUlu+C5+w7alWjN9sh9EohZ4X2euS1dwf+pxHcR10V/rMDCR8qK5wxDkvrXPJh7R+c3KJAbxn43/lKTQoU1pA8yG+xsf4JmzJiuchclFAm9tZvwVU8YaDqDFGPMkXWke6QjZOUX7xZ0zy+Kzrmu2fjMcJqNELX7GEeX9Sci+icR1ubP2SMWEsTwCYUKDnIcqx+JsWKymFwcYE7JXM14eSval5qiPOsW3WdGw859htnBEOqxYrk5bDVvJLtSqjBe0Wy8Go2v85DvfV2vOSJCpA2RM0FXqeK1dZpnyWRowjUAUoiBfR5gw1wFerRfhWWZ4hDioIIyUVNlXhLgZwdhRNklJIUtDzB4xbwSV69nzNcHc5VdBg==;hYNkB7ojpy/WGzMnt35OXA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/candy-shop-slaughter-is-a-video-game-concept-creatd-by-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

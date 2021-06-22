@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scale.AI launches Mapping Project; More On Pony.AI & Waymo"
-    excerpt: "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride."
-    publishedDateTime: 2021-06-22T17:33:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/"
+  - title: "Real-Estate Agents Look to AI for Sales Boost"
+    excerpt: "Technology leaders at Realogy, Compass and Zillow hope to augment human savvy with algorithms."
+    publishedDateTime: 2021-06-22T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
+    ampWebUrl: "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d21d1fcfa1d201e3480176%2F0x0.jpg"
-        width: 1139
-        height: 703
+      - url: "https://images.wsj.net/im-358164/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "0T9ygXDVdmEP5PzwysKAxGedw+dGMtz2TLPGkqIu4ebnBof9B84frkKPy/xEP3wTwWQssdSeVfeGEvQQy+gI/Uo5rTeRQY9fvt/9d8nxuDF1PI7Ntw40g+vTTXBD4V3yY36G7rIORcZsBBce6efFS8d5nEsu80h3MBrx1g5AFD/mqbOMt2f8Xd4rCxeJVDMOOig3EgxbESrRPmAfvEC5c86VWP9NBaguPUk+K+oZ/8yAg/NDQaMWPxDdz+WUYz+2I/pOEwhsv+HBht75q1/lPfNmHmw5In8cASaOR10RWGAU4Or0UzUgvh0hxjiY4uJZnpFsJ3ljbkzQCvaNLqmepsRK3AxJldCYeFcTI3Q+3kM=;aiNynC2JgCC5aYx3OMgRpw=="

@@ -2,6 +2,153 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-06-08-prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler.md",
+      "title": "Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler",
+      "excerpt": "Data preparation remains a major challenge in the machine learning (ML) space. Data scientists and engineers need to write queries and code to get data from source data stores, and then write the queries to transform this data, to create features to be used in model development and training. All of this",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/22-4153-menu_1.jpg",
+          "width": 700,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T09:12:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks.md",
+      "title": "ISEE brings autonomy to shipping yards with self-driving container trucks",
+      "excerpt": "Robotaxis may still be a few years out, but there are other industries that can be transformed by autonomous vehicles as they are today. MIT spin-off ISEE has identified one in the common shipping yard,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/",
+      "originalUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/ISEE-Yard-Truck-Group.jpg?w=1024",
+          "width": 1024,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/isee-brings-autonomy-to-shipping-yards-with-self-driving-container-trucks/amp/",
+      "publishedDateTime": "2021-06-08T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-ai-powered-transcription-startup-verbit-raises-157m.md",
+      "title": "AI-powered transcription startup Verbit raises $157M",
+      "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-transcription-startup-verbit-raises-$157m-10218780",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-transcription-startup-verbit-raises-$157m-10218780",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-who-won-the-latest-ai-drag-race-aws-or-nvidia.md",
       "title": "Who Won The Latest AI Drag Race? AWS Or NVIDIA?",
       "excerpt": "There is a quiet drama simmering over AI chip benchmarks. This isn’t the first time, and will certainly not be the last. Keeps me busy. This time, it is between Amazon Web Services (AWS) and NVIDIA. It is always NVIDIA.",
@@ -1015,145 +1162,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation.md",
-      "title": "Remote-Controlled Labs? Strateos Raises $56 Million To Build Out Its Vision Of Scientific Automation",
-      "excerpt": "Strateos CEO Mark Fischer-Colbrie wants to build out a worldwide network of remote-controlled labs that can work with chemistry and biology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bea31534e64e5db19645a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1280%26cropY1%3D132%26cropY2%3D851",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/06/08/remote-controlled-labs-strateos-raises-56-million-to-build-out-its-vision-of-scientific-automation/amp/",
-      "publishedDateTime": "2021-06-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-starter-set-for-ai-accelerated-embedded-vision.md",
-      "title": "Starter set for AI-accelerated embedded vision",
-      "excerpt": "Delivering up to 2.3Top/s for deep learning based artificial intelligence, it can run inference engines and libraries such as Arm Neural Network and TensorFlow Lite, according to Congatec. It also integrates with Basler embedded vision software for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/starter-set-ai-accelerated-embedded-vision-2021-06/",
-      "originalUrl": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/starter-set-ai-accelerated-embedded-vision-2021-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/06/08113328/congatec-smx8mp-camera-539.jpg",
-          "width": 539,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-investors-call-for-ethical-approach-to-facial-recognition-technology.md",
-      "title": "Investors Call for Ethical Approach to Facial Recognition Technology",
-      "excerpt": "A group of 50 investors managing more than $4.5 trillion in assets is calling on companies involved in the development and use of facial recognition technology, such as Amazon and Facebook, to do so in an ethical way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp",
-      "publishedDateTime": "2021-06-08T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

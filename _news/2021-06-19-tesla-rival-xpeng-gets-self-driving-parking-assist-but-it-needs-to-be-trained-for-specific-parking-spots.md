@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
+    excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
+    publishedDateTime: 2021-06-22T20:54:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/06/22/former-tesla-litigation-head-joins-self-driving-truck-startup-as-gc-ahead-of-going-public/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/PLUS-Headquarters-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "4dJXqMEI4IBC6CRj/GsrHTbegUZlpU/wYTyg0BRTkr1iPfdw47fQJpIf49XNOdPJpMvCYXw99KDqxbYn1vifQHxpgF2ShiGLaXTSfrqGb6ZIT6HO7wMUvRdTmS6iSMeiSjDEofQEE++gHWiB6A12u6i/OQY5fP5VZ3KHFu1cS0NW4HI8Qg7/kSQvLjUvb6x4yHPqTO+7oARsiY3B/OODzB4punw7UnqjON+Yl977KAlJ+dW5R3oTQWzHpslRX9EbUPVqUUPfcjry086NkPf3TseJCQG/blRDWB1jAVMpBrM/68/58MvplInS4Ec3iD+NYL4a+mlKiCSJUxoSz7ZinLsrsZ6fy0eBTTA/5jMU8TzIW4HCGZ1FIc9WMeyuM9fCJ8Twk9Y3eDYnprS3mphEOqow4Uv2/LflmXCtvN8VruQwJQShEhWpTfzYPTLQw3FfM4ifmMhgW9nimBpXuxUOPGwnyokyUyihYbS3FltwJyhkytFYRga0076nndy+APfhTSjr3c8m7D54cg/SKAV7xA==;DmdxYdv1Ngn+Rf+NXd/VKg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/losangeles/news/2021/06/22/miso-roboti
 webUrl: "https://www.bizjournals.com/losangeles/news/2021/06/22/miso-robotics-unveils-automated-beverage-dispenser.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -21,13 +21,13 @@ topics:
 related:
   - title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
     excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
-    publishedDateTime: 2021-06-22T09:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
+    publishedDateTime: 2021-06-22T09:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
     images:
       - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
         width: 400

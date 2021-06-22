@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  More Details:  Want to customize this report?"
-publishedDateTime: 2021-06-21T22:23:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion/article_b35f1e6d-2f40-57a8-b55a-7a4108b14f88.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion/article_b35f1e6d-2f40-57a8-b55a-7a4108b14f88.html"
+excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+publishedDateTime: 2021-06-21T22:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/12/9123fac4-764c-5534-9830-ffe3fa7283dd/60d1137e55ba2.image.jpg?resize=1000%2C564"
-    width: 1000
-    height: 564
+  - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+    width: 400
+    height: 226
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
       domain: financialbuzz.com
     quality: 12
 
-secured: "UtJ9Zbi87rQCa30PdjMfTN4gM6ZKTtk/34GZsQHGD7sM2q4ei8WY2kON7e3QOyVrt2j/cyitYgOOJNLV1GlEN0ypYu5ezhm1tNVht5nZKA2ihAEDX1EVIi3XoOUR5LteovXBxB557fzbpieKr2Rlu65ML5AvEFVSR9HUW/ezwv8eeaHdAcPw9S1R1rhRhz2iEvAoPuw/4PhNB70Be9vHacNFZvr8JxDouxlHs+6Q1nTMnjwRPL/ohEe6YlXqWkUm5AgNazb240FLl8pHaAQNUWZssZH6jEFluLi30xki9+zjPA8I7koFA38BsehkuJay9sRhlXkDpi8ELGb5gUa/85scHPrOdCVjdGWQTj+POkM=;pvGjbjMBM+/M+dHuHHB4JQ=="
+secured: "zNL/+lj8SWEgWkjyZhJuMEuuHRAqpw4eKtCaTM5YB8GlPTRh7QAEkVaJCYfaFx4kVMO+3QsCllKCSSqNU2twByXG1EyVf+CMZdq4gn7Ev0r1jpfFYN892A+SsRxAvDxMoM4E2a44PvrX7bXkQaUUu2uELWQSgSP0HTISXmIdTXldQfzZrUywBmO8dE81RfGlGQ1sMn1V2qQUse1A7ufgumQYB3sWvsXkvtJq/eY2C5BAocInGM++nWC9k+/dHPNIvcgu++N4oIpou4ZWMccGMfN6bJ8GsiCUjsMdlFW561FbNUAqdy7/qL2aRo2vw0cRnFOY6dFw+c1TKxN7f5f6yfE+6UCPtJGawq+0+TGJy2A=;2zYn4aiMULRkS76wSSZPkw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How regtech is improving efficiency in the financial services industry"
+    excerpt: "Regulatory technology, or RegTech, was developed in the wake of the FinTech revolution and has been continuously expanding since the financial crisis of 2008. Experts predict it will rapidly advance the regulatory landscape by offering technological compliance solutions for the highly regulated financial services industry."
+    publishedDateTime: 2021-06-22T18:00:00Z
+    webUrl: "https://www.cuinsight.com/how-regtech-is-improving-efficiency-in-the-financial-services-industry.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 24
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2019/03/bigstock-Compliance-Rules-Law-Regulatio-245990971.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "tDJuUhb1x+ZDKfZvwDtU3L/PaA5SfeQSR5ZOULDjcxZa4HYJmGXYaUFlRhUhgxoOqibwmZUhkcG6ysKxYGDy0AGyXfWw5/boKV0zLSMrDAfQxHYjbwvZj9J6DoOUrNu/5UiV/W8vQqAMFfZQcBk9TCSD+Kt6YpBUBEaWwe7uBNoHYEFBmXNQujiGiTOn1ZcM60dhhnKYXopUcTdxogo7Pv87sSwDwJsAyJEn2W7JeW8CVo+QpruiWlsf9o9myUzhohZZJvG6WRSntCkYoEcmvo91qzYwEWtA9Cp5pWE6lvW2HEtfkuEPMTiyNrCE0ar20PwQ2U6blmdtmHGRcXFn1YxiXnZ0gPRLpuekYm/xh8E=;hKOPyN8VXnDHYO1RT89Hrg=="
 ---

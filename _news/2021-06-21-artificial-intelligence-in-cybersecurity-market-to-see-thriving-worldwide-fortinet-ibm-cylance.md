@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI’s False Reports Can Deceive Cybersecurity Experts"
-    excerpt: "Automated systems trained to recognise cyber attacks will not detect true threats effectively if they process AI-generated misinformation."
-    publishedDateTime: 2021-06-18T03:30:00Z
-    webUrl: "https://science.thewire.in/the-sciences/ai-can-generate-false-reports-that-deceive-cybersecurity-experts/"
+  - title: "Deep Learning Is Our Best Hope for Cybersecurity, Deep Instinct Says"
+    excerpt: "Thanks to the exponential growth of malware, traditional heuristics-based detection regimes have been overwhelmed, leaving computers at risk. Machine"
+    publishedDateTime: 2021-06-22T20:05:00Z
+    webUrl: "https://www.datanami.com/2021/06/22/deep-learning-is-our-best-hope-for-cybersecurity-deep-instinct-says/"
     type: article
     provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 39
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
     images:
-      - url: "https://cdn.thewire.in/wp-content/uploads/2021/06/17204712/robot-507811_1280.jpg"
-        width: 1280
-        height: 905
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/deep_learning_shutterstock_Zapp2Photo.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "University secures funding to address lack of security and trustworthiness of AI"
-    excerpt: "A team at the University of Wolverhampton is creating an innovative new platform to help financial organisations and banks to add security, trust and explainability to their Artificial Intelligence (AI) based decisions."
-    publishedDateTime: 2021-06-19T10:45:00Z
-    webUrl: "https://www.wlv.ac.uk/news-and-events/latest-news/2021/june-2021/university-secures-funding-to-address-lack-of-security-and-trustworthiness-of-ai.php"
-    type: article
-    provider:
-      name: University of Wolverhampton
-      domain: wlv.ac.uk
-    quality: 31
   - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
     excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
     publishedDateTime: 2021-06-21T10:36:00Z

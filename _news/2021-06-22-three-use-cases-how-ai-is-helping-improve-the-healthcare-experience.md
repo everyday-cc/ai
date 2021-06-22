@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-
 webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "AI + Human Intelligence — A More Effective Solution for the Healthcare Payment Lifecycle"
+    excerpt: "AI is best used in an “augmented intelligence” capacity, where it assists human decisions. Importantly, it also allows us to reallocate human resources to essential patient care tasks."
+    publishedDateTime: 2021-06-22T20:02:00Z
+    webUrl: "https://hitconsultant.net/2021/06/22/ai-human-intelligence-healthcare-payment-lifecycle/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 45
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/06/Navaneeth-Nair.jpg"
+        width: 337
+        height: 337
+        isCached: true
   - title: "Artificial intelligence is changing how we diagnose disease, triage cases in the ER, even help prep doctors"
     excerpt: "While algorithms might not have a great bedside manner, new technology is helping save lives: St. Michael’s Hospital saw a 20 per cent reduction in"
     publishedDateTime: 2021-06-22T19:04:00Z
@@ -51,7 +65,7 @@ related:
     provider:
       name: The Star
       domain: thestar.com
-    quality: 19
+    quality: 21
     images:
       - url: "https://images.thestar.com/OrV6h4DzV0yGbPbdNAnqjftjodY=/1200x846/smart/filters:cb(1624391807455)/https://www.thestar.com/content/dam/thestar/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors/_1_st_michael_s_hospital.jpg"
         width: 1200

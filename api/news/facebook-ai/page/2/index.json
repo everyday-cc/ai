@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-14-facebook-has-trained-an-ai-to-treat-irrelevant-data-like-spoiled-milk.md",
+      "title": "Facebook has trained an AI to treat irrelevant data like spoiled milk",
+      "excerpt": "Facebook researchers hope to help future ... Though still in the early stages of research, “As a next step in our research toward more humanlike AI systems, we're studying how to incorporate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/fb-trained-ai-to-treat-irrelevant-data-like-spoiled-milk-130038110.html",
+      "originalUrl": "https://www.engadget.com/fb-trained-ai-to-treat-irrelevant-data-like-spoiled-milk-130038110.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/6d490490-b44f-11eb-bcfe-f2faf631cdf8",
+          "width": 5234,
+          "height": 3489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-facebook-aims-to-help-ai-models-forget-with-expire-span.md",
       "title": "Facebook aims to help AI models forget with Expire-Span",
       "excerpt": "Benefits and risks of artificial intelligence Expire-Scan is still in the research phase and focuses on past experience memories. Facebook said it will study how to incorporate more memories into neural networks to better replicate the human brain.",

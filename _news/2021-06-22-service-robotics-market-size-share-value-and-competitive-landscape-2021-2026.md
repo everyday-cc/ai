@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market 2021 Leading Competitors, Regional Trends and Growth Trends 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence In Healthcare Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain."
-    publishedDateTime: 2021-06-18T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-leading-competitors-regional-trends-and-growth-trends-2030-2021-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market Size 2021 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
     excerpt: "A new report released by Market Research Update is Face Recognition Device Market 2021. This report provides up-to-date information on the market and also pinpoint all the opportunities for Face Recognition Device market growth."
     publishedDateTime: 2021-06-21T08:24:00Z
