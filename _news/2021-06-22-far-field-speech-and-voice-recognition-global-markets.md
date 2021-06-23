@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "How the Shift to Remote Work is Accelerating Speech Recognition"
-    excerpt: "In this contributed article, Ryan Scolnik, VP of Data Science at FortressIQ, discusses the technology’s applications and what the future of speech recognition may hold. The speech recognition market was projected to reach just over $29 billion by 2026,"
-    publishedDateTime: 2021-06-18T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/06/18/how-the-shift-to-remote-work-is-accelerating-speech-recognition/"
+  - title: "Google, Voiceitt each extending speech recognition capabilities"
+    excerpt: "Tivoli’s development started roughly two years ago using the neural conversation model at the time known as Meena (now LaMDA)."
+    publishedDateTime: 2021-06-21T21:53:00Z
+    webUrl: "https://www.biometricupdate.com/202106/google-voiceitt-each-extending-speech-recognition-capabilities"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Speech_Recognition_shutterstock_1250409154.jpg"
-        width: 300
-        height: 300
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
         isCached: true
 
 secured: "rUR91dLOQUSRSR0uKq70eclKOfoOUeOMIvHwf3qA+w0wxXbQEMcvrlapwZq6m36nFTKczz0/1G/YDu4opLnzX40UtW2dEFKsA+wamfS3ATv2fj3cyc5VjeAG89XQNYGQ8lfiHe7FNOwVqiO31xMz/Q1yn1RbrPUKzov5POtpfbrvpU0yt05dVA3n+7rZQD1XF1f8ugyPuUzPvtEfChG0cKHaYOfHwWZJSQNPavA+UNKbBaTdmhBAcPJtwbN4ryOAtbLfcOZ/Lww2fcJ3FoRRuXw1i8icjkXg3+ko2zYO8uvLpMs7Vy/esaigEbCVhJIarHJ+fdpjv9Fzb29fW2jHPukH3svXsLwZQCzpZNYQ3fQ=;e9pM8y/u2r0AJk2+ySg8WQ=="

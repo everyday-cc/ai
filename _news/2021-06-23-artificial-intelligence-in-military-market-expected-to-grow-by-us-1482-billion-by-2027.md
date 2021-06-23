@@ -41,15 +41,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market (2020 to 2026) – Featuring 3Scan, Atomwise and IBM Among Others – ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) in Healthcare Market 2020-2026” report has been added to ResearchAndMarkets.com’s offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
-    publishedDateTime: 2021-06-18T12:08:00Z
-    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-ai-in-healthcare-market-2020-to-2026-featuring-3scan-atomwise-and-ibm-among-others-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 12
   - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
     excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
     publishedDateTime: 2021-06-22T15:56:00Z

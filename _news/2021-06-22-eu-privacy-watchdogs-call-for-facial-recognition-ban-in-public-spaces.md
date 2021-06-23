@@ -144,6 +144,17 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 54
+  - title: "EU data regulators call for a ban on AI-based facial recognition software"
+    excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
+    publishedDateTime: 2021-06-23T04:14:00Z
+    webUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software"
+    ampWebUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 53
   - title: "EU privacy watchdogs call for ban on facial recognition in public spaces"
     excerpt: "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft"
     publishedDateTime: 2021-06-22T01:50:00Z
@@ -214,6 +225,15 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Artificial Intelligence for Education"
+    excerpt: "What learning, teaching, and education will be in the next future is an open question. Nevertheless, believing that an increasing prevalence of AI may not influence the education field seems objectively unlikely."
+    publishedDateTime: 2021-06-23T04:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/23372/artificial-intelligence-for-education"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 34
   - title: "EU watchdogs call for public ban on automated facial-recognition"
     excerpt: "EU data protection authorities on Monday called for a ban on the use of artificial intelligence (AI) for automated recognition of human features such as faces, fingerprints or voices, in public spaces and in any context."
     publishedDateTime: 2021-06-22T05:04:00Z

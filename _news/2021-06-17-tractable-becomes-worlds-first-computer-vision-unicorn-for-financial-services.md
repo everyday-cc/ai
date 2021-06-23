@@ -1,26 +1,21 @@
 ---
 category: news
 title: "Tractable becomes world's first computer vision unicorn for financial services"
-excerpt: "Tractable, the AI company helping insurers with accident and disaster recovery, today announces a $60M Series D investment led by"
-publishedDateTime: 2021-06-17T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
-webUrl: "https://www.prnewswire.com/news-releases/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services-301314322.html"
+excerpt: "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,"
+publishedDateTime: 2021-06-17T05:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - Computer Vision
+  - AI in Finance
   - AI
+  - Computer Vision
 
-images:
-  - url: "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook"
-    width: 678
-    height: 355
-    isCached: true
-
-secured: "CgdY/EZmYT+hvj5f6gEjWcN5Bu5P3N0B2LrPu3c9MylpRA3Wj3UcH166wKIlVn3k3BL5Ds4MGwrAxqorRRDk8ZXUMh/6Fbalh0PtdNpPgsk34FjKzkdwYB0jkGtDifQremUAYxX+JXAWAmxj9hFtKMs89uQX6sIbsZ5sp2cO9lO0utRh6Dh/w0XraKMyzNmL8myr9JnRWnKjnENGqcxg4VujDi//kfYQSp+MgYknCYS+ZDsMxd+04AXXTHx73uLdL8ktDFzsyacxLnPtwL7+KsS74wauZwIUzUFS2i0bVo/+yX8BafGjdRKBJaESL5R0cDkipclR9huap7wOgiTvmdH2aXPTb8R4dBCcfm8FauY=;IKUBTioysvTGx9X+/u3NLg=="
+secured: "l+6xAr3VbxzoMs572/tzOvsMPwl5mbSoko+3EBGqByqjWg3O3lcahov8tv0hOAo5XzliGCXf7IEasIuQr9m3B/X3qFWr0/6kk1OWhY+xorAQlEzq92d7CnFnh8HmXzM5ShdzQrrTT+J9H4UINTbA2z+zGbhyF2xACHtUVfzoVhWdy5IUYO77NQ3NE1qwKQyOPR0l6CH57Tc5CVPTAS0GpcrdM/u+Y2jIu6cECT+J9pcYAgy/LWRp0FVbCBzrx8zFE1tV5iGKuWplmBv3zv4KAUSqOg+pEe91ePcPPpTgwiUxIRE+hQo4jyhZqsbtG6VIBsXy0FuKq0YsxSGzd8QPFKny+HdzkjciLJdknAYDTCc=;QKXvtZF3cbEyk8CjN6ht5Q=="
 ---
 

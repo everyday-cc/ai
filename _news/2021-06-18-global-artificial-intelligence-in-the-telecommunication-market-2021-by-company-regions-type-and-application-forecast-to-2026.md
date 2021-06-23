@@ -116,17 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Worldwide Data Monetization Industry to 2026 - North America is Expected to Hold Major Share"
-    excerpt: "The \"Data Monetization Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added"
-    publishedDateTime: 2021-06-18T12:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21624004/worldwide-data-monetization-industry-to-2026-north-america-is-expected-to-hold-major-share"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21624004"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21624004"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
   - title: "Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Fintech Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Fintech market report provides"
     publishedDateTime: 2021-06-18T16:35:00Z

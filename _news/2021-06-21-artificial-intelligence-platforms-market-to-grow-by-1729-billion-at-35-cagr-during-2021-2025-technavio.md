@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market (2020 to 2026) – Featuring 3Scan, Atomwise and IBM Among Others – ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence (AI) in Healthcare Market 2020-2026” report has been added to ResearchAndMarkets.com’s offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
-    publishedDateTime: 2021-06-18T12:08:00Z
-    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-ai-in-healthcare-market-2020-to-2026-featuring-3scan-atomwise-and-ibm-among-others-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 12
   - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
     excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
     publishedDateTime: 2021-06-22T15:56:00Z
@@ -61,6 +52,6 @@ related:
       domain: reseller.co.nz
     quality: 8
 
-secured: "s1lBAGPMk4RO6tQzEKjHic+VIBYI1kcw13bULgg4NKWSKWhVtOpUV90dnej4xiBni5un90K34IL8pPuiRAkveJuxCABnC0t2z0UtnbuDJ2NSzGwBoWFtI1v762VvVKuShzhITJtST/oto/8uUQqZq+fAD4+WJO9Rda2N8sw/PrUvV8KAvwOPHIgJFgLmOAKW6SgbAZMyTaFHIA8TmPzwtW7hMTcHT5bTUe8YgtjCqQGT9uebZOtcUrawJYo+E2WDtw0obh2xkAyDv9KsF9gcvQwQ6h+ba5zCOOrh9zDWGo8mn8VjipfA9o5egNvmJYzZy0GgWI6Ke7n2X/y6Mq6poKdsJoRw2VY+VRVhplRx/Wo=;PPi3eWV6cYQ2nsYHzAMp+g=="
+secured: "ZrmFihHosyXg4D+6hEsaV/HBJSb/UZ7vpmj4PZLzHX76K9+lg1RHxC72gW4WNA06fq+iVnvfSJlOiOc2ZyXVsHqfpf9TP1JloftAf6MRqXxWgAZ/5Z6ykpOZlk8epo+fbAGEzeJcaB9J3BBILzA14snyxWvIUpuyPSJS7wXaqQ1CzncqIlNkQzQGSP/ADVpDJ4KWx5/myMGBWtWxJ6C/xsiv6ucxhXfNArOfGuCqwNz0CTiT011C4hM/NcUi4D/V0dxXZIe5+CwuT1IDmXBHzBeRxOlrdhUqalmw/jvseeUeoRjC4gao6EU8q9NxiAiWk6MifF/4Jh8CvbWhXUXcGOiiaeBXe1IR+9bnwjFD2TdiBWMfZzfmaas30pZ0HQUr9eIoeJca63UNXmFFI4wS3biFx0tQl2qYjHZ3xSzFaXXKB6gRkGWple4mdJXAPTTX1j/HzXRzbyx5c196reU1d1Fk5Dfx3o2Nk9NzjAPAbeluznbSA4bzdRJJiufP/ZalgLIO1E+d+USoXdYYinc7dw==;EV/Nbhl39XnOck1xDWznwA=="
 ---
 

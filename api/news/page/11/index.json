@@ -2,6 +2,145 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-14-building-stronger-teams-with-human-and-machine-intelligence.md",
+      "title": "Building Stronger Teams With Human And Machine Intelligence",
+      "excerpt": "Stay away from solutions that make it difficult to communicate across teams and collaborate with individuals and teams outside the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef62f48c7e8ff000777bb2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/building-stronger-teams-with-human-and-machine-intelligence/amp/",
+      "publishedDateTime": "2021-06-14T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-can-mxnet-stand-up-to-tensorflow-pytorch.md",
+      "title": "Can MXNet Stand Up To TensorFlow & PyTorch?",
+      "excerpt": "Developed by the Apache Software Foundation, MXNet is a fully-featured, flexible, and scalable open-source deep learning framework. In a short time, MXNet has emerged as one of the strong contenders to industry favourite frameworks such as TensorFlow and PyTorch.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/can-mxnet-stand-up-to-tensorflow-pytorch/",
+      "originalUrl": "https://analyticsindiamag.com/can-mxnet-stand-up-to-tensorflow-pytorch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/MXNet_AIM.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-webinar-to-explore-impact-of-ai-and-analytics-on-physical-security.md",
+      "title": "Webinar to explore impact of AI and analytics on physical security",
+      "excerpt": "Benefits include faster reactions and investigation, more reliable detection of risksHow can video combined with artificial intelligence (AI) and analytics bring ground-breaking improvements to",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/edge-devices-computing-iot-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/webinar-explore-impact-ai-analytics-physical-co-882-ga.1623658071.html",
+      "publishedDateTime": "2021-06-14T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-google-is-using-ai-to-design-chipsets-in-just-six-hours.md",
       "title": "Google is using AI to design chipsets in just six hours",
       "excerpt": "The new chips are said to be superior or comparable to those produced by humans in all key metrics including power consumption, performance and chip area.",
@@ -1005,160 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ufc-263-recognition-rematches-and-revenge-on-the-line-in-arizona.md",
-      "title": "UFC 263: Recognition, rematches and revenge on the line in Arizona",
-      "excerpt": "UFC 263 looks set to deliver a spectacular night of action, with two world titles on the line in front of a capacity crowd in Glendale, Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "originalUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/F4AE/production/_118883626_adesanya_vettori_getty.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "publishedDateTime": "2021-06-12T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ai-dominated-scientific-output-in-recent-years-unesco-report-shows.md",
-      "title": "AI ‘dominated scientific output’ in recent years, UNESCO report shows",
-      "excerpt": "The UNESCO Science Report 2021 discusses AI, robitics, Industry 4.0, and a spike in scientific reserach, patents, and spending.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "publishedDateTime": "2021-06-11T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-ai-solve-your-hiring-problems.md",
-      "title": "Can AI Solve Your Hiring Problems?",
-      "excerpt": "So then can AI (Artificial Intelligence) help out? Well, it definitely can. The irony is that many companies are using the technology—and don’t even realize it! The reason is that AI is built into the top online job sites.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c407078098c83d5373a60b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/",
-      "publishedDateTime": "2021-06-11T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

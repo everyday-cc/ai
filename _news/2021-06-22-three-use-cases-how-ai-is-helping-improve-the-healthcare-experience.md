@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-
 webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
 type: article
 quality: 58
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/06/Navaneeth-Nair.jpg"
         width: 337
         height: 337
+        isCached: true
+  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
+    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
+    publishedDateTime: 2021-06-22T13:55:00Z
+    webUrl: "https://www.lelezard.com/en/news-19868775.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Artificial intelligence is changing how we diagnose disease, triage cases in the ER, even help prep doctors"
     excerpt: "While algorithms might not have a great bedside manner, new technology is helping save lives: St. Michael’s Hospital saw a 20 per cent reduction in"

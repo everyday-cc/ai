@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
+      "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
+      "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
+      "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/PQEZhlnyJcMI6mHQvEbGTKewuZo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QAA7N6S7OFLDNPSGWINOQW3PWY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
       "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
       "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -798,19 +850,19 @@
     {
       "path": "_news/2021-06-17-self-driving-car-pioneer-waymo-gets-25b-to-fuel-ambitions.md",
       "title": "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions",
-      "excerpt": "The self-driving car pioneer that was spun off from Google isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi service",
+      "excerpt": "Waymo, the self-driving car pioneer spun off from Google, isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781",
+      "webUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
+      "originalUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_85c39896f5214287b24a4f18d2a81c73_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2021/06/8e69ddf54284468eb6bb598dde6e777e.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -818,13 +870,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driving-car-pioneer-waymo-25b-fuel-ambitions-78318781",
-      "publishedDateTime": "2021-06-16T10:35:00-07:00",
+      "ampWebUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
+      "publishedDateTime": "2021-06-16T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "WAVY",
+        "domain": "wavy.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1363,49 +1415,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-nvidia-to-acquire-high-definition-map-maker-deepmap.md",
-      "title": "Nvidia to acquire high-definition map maker DeepMap",
-      "excerpt": "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
-      "originalUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/06/Deepmap-nvidia-featured-web.jpg",
-          "width": 780,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -144,6 +144,17 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 54
+  - title: "EU data regulators call for a ban on AI-based facial recognition software"
+    excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
+    publishedDateTime: 2021-06-23T04:14:00Z
+    webUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software"
+    ampWebUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 53
   - title: "EU privacy watchdogs call for ban on facial recognition in public spaces"
     excerpt: "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft"
     publishedDateTime: 2021-06-22T01:50:00Z
@@ -228,6 +239,15 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Artificial Intelligence for Education"
+    excerpt: "What learning, teaching, and education will be in the next future is an open question. Nevertheless, believing that an increasing prevalence of AI may not influence the education field seems objectively unlikely."
+    publishedDateTime: 2021-06-23T04:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/23372/artificial-intelligence-for-education"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 34
 
 secured: "a7iBzFGTkbTb69n8PG+W+us0+mlShOl/AImR5BBHOff3e5RhsPEAgPHHbvqMYtmHHKyLwvOVfF6lp6IQkgQEb4pNmZiKmQcmCKohHKR2fQZ/Sr04iuSnEwP33VtdgcnyIFa6rYNy6bKmJ4BW1rhW0iaBjQrHZOCGf8QzsvNlyIAHCfOCgxtWiwtyAAGM+cBD9fSLYcDzGF4BNZ7t/mEliAW6m0oeXHpiQovyBKdZVqdiKj5QclVAS4D0WQCoVWlfE4K/I0FfGHWkSq+Mgvplmnsuq0fHjn3i7dHG/0Uwi3OekqDFvCRFebO91i85dmNMKgMAD+hRqFSKjdq6z1s8JEmqfJDJ9WLoQDX0pJla0xiEAyQgkP9CiTy2madydgHhpqhxf9uG0aKnCTOURGuuTOhJcShXLseKczzGswun902mPxgkbfAEyet/CAYsdx/TEQZsXbFj4czVToUNsVbnVQh4DukE5R/dyGDKxtsbFFcVC0TItfD3SEmvj3AvpVOux6ArrZkgcJYq3vtjEpQFfA==;phId4QFS9iCxp6B6aomQiA=="
 ---

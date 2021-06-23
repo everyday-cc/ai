@@ -1,39 +1,49 @@
 ---
 category: news
 title: "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence"
-excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street's partnership with Canoe Intelligence (\"Canoe\"),"
-publishedDateTime: 2021-06-22T12:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394935.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9394935.htm"
+excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu"
+publishedDateTime: 2021-06-22T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
-  - title: "State Street turns to cloud-based machine learning tech"
-    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management."
-    publishedDateTime: 2021-06-22T17:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88218/state-street-turns-to-cloud-based-machine-learning-tech"
+  - title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
+    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
+    publishedDateTime: 2021-06-22T09:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
+        width: 400
+        height: 286
         isCached: true
+  - title: "Miso Robotics unveils automated beverage dispensers for fast-food restaurants"
+    excerpt: "Miso Robotics is moving beyond its grilling robot Flippy to launch a new hardware and software-based beverage dispenser to help automate commercial kitchens. The Pasadena, California-based startup partnered with Lancer Worldwide,"
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2021/06/22/miso-robotics-unveils-automated-beverage-dispenser.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
-secured: "C6EDbi6pjSV/pP5fc1TViyY963lr1D7JIWTXH8pJODpe7ZsE87wOgbszfLmNYirk4AcLY47jfhQyeLnOivnUpYe5D7BraAH3KDHwJT5XSrgXGAGbDjJ/xlg/d3ssvN411tsFvuuq5xGSgiZKjlflxDx+dCs6luUn27KAnOBxiCh2Zv2rvii1XAp0hK4DXds0sz0pp9HfX8DfojcO3vmwoJ32Oi/EZA5H7hqlluE3KE91cfnvdpXBBDtte9NkQOFkhhmtOlQRYqDTG/SnTuuPMfByL5Nv29P0r1vNe/njAitQmNCTqH2Wc5x5cI3M8+9a2+XRvZ9cZxh3vT+efwm9armhsyXNPlgRff9nE3DoaB0=;VLPUezXds/kVSxLLuCwYKw=="
+secured: "MYP5jzHOyrmpeGSOq7mdBORpaWraeGY74JhLzln1ONcugMmj0omYEn9fe6LGUfsmN2GcfLlGydNcR0whBB1dxTsPNYRc7z/jh5ahcpmJ++9y37p6pLmQhjmZOhp0/hk8fVc4i/M1JbbeJBCMWYPmTlxUSlAaNCzQICUwtYGH/t+PpmgToh+Mzy03VHe6ip6tkGuJ1UPtpZHZMeqPArUjm0h2fB1Q1q54BjOQ4KeAGj/OVcBcUmoII+gtzZfGat3O+LjlcIFoA6hqW4k9K1i+7nooOGCu7kPUqe2aOOMKMy2gY+j8iHn/LMQIWOtSBs//efiknZhY0nnzVnNKMqd2xMHs3lNQuA3/tBMADZPwaSo=;gLnsBg7M3Obqdi0NFoI/4g=="
 ---
 

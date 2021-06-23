@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recru
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 126
 published: true
 
 provider:

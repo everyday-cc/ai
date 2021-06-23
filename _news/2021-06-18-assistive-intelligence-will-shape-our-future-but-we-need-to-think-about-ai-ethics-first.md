@@ -56,6 +56,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Sunny Future of AI"
+    excerpt: "This AI system-on-chip uses a new architecture that can support facial and voice recognition algorithms while running on solar power."
+    publishedDateTime: 2021-06-19T01:56:00Z
+    webUrl: "https://www.hackster.io/news/the-sunny-future-of-ai-6f68eda125e4"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 39
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1313663/_fBvzmi2T0A.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "H9G2Q9C6NFWemsClRvwJQyirL8T465mhRnpWPO04IbBNPy1XKDy+Yp1VosbIYF1Mx2S2YNyPcQr/w65hyt2a+SpqdzZAp86xItoYNWkdjyU1uLDbRTkQlkCkFXD6/7mF9zl+uWiGpzCIjGkffFk7bYCFw1Z+NqFZnhJqaAsuUCsKFiFiS+JVVhFBMcTRxjhT12G8M6CYdZySqcF0miD25Cj2tRe9ikA2vYU8CKo1vZIE5CaCUnGhJ0AXcOEbVbFalBy1M8hGgdyuW1ObhV6ZWCOSbBFbj5wpS++WhmEakEF4YgN3CJw6ysIJZlLLLYWHzsyFUNECjpqW/94GpfsOCcABp7iq15HlaDLEvpOgpqlJc9i5aujfJrpT0/iTd8qZeQbvsei67gNYzr/AvsZjYuWC9r9tibz3jH++0JNQm/Aa+zHklZjKtjPD+yoxtbi9ryw6slu4YTqntGwotWECBOe0qDPEEEwZtEmoHaekohLsDGGrffJfevNYiXT+1AbI2JaIdtOFZ+lHC2t1I/cNLQ==;imhRilDHvFiNmN0xMb6xbw=="
 ---

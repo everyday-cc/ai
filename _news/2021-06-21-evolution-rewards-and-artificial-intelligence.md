@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg"
         width: 1200
         height: 742
-        isCached: true
-  - title: "Making operations safer with digitized data acquisition and AI"
-    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
-    publishedDateTime: 2021-06-18T12:20:00Z
-    webUrl: "https://idw-online.de/de/news771038"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
         isCached: true
   - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"

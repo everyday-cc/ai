@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Video: Cruise secures $5 billion for self-driving expansion"
-    excerpt: "This brings the total amount of investment in Cruise to more than $10 billion. Cruise Automation plans to use the new funds to build a fleet of Origin self-driving cars. In the ne"
-    publishedDateTime: 2021-06-18T12:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16849/video-cruise-secures-5-billion-for-self-driving-expansion"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
-
 secured: "G9gR1IQSa3PucClyhHbDr4BF8q3WeL4VVwI8YZdG7DLZnAH496pYwCRR7CQzvNXbFqtUFVBixrxxsHZd49hUfDP2g02ojda5bp3vGFPd/EtBG+lucJP8BrdD1JXRqCs1gvaBFMLy622k6N62TX7A/+aWy06wG+bYrCWsFdUP+NPtpAx38P04Tj5xsNwISlxYrC6IxzSPyVrwhtTj/eW/VZZpbm7/oqerd9+llRctXnc+Qx0jKFsVsfbnxy8N34uJcb8dmgtZBf2sxVTILK0ZERmVq1DTqdtAvILR4FMuyONmWtzLRDUAVOH0NSQN7BBjbHOqrSiTh8JvaJDrKoIRCF2vuHec4NzWDiX7kObJyQc=;sswpHBpmwMMa4a45F3oNwA=="
 ---
 

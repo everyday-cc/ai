@@ -1,30 +1,25 @@
 ---
 category: news
 title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
-publishedDateTime: 2021-06-22T15:51:00Z
-originalUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
+publishedDateTime: 2021-06-22T14:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
 type: article
-quality: 53
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
-    width: 1000
-    height: 600
-    isCached: true
+  - Machine Learning
 
 related:
   - title: "Google says AI and analytics can take its cloud to the next level"
@@ -100,20 +95,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
-  - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
-    excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
-    publishedDateTime: 2021-06-18T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence/article_a3963eb9-526a-5637-89d3-40cdbd80e056.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-        width: 1200
-        height: 441
-        isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -133,6 +114,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "E8/S78CARvRXrNKnhQ+wiMgWd3xshqQ3nT+EiZuHmocxIdP+xKmHfVze12nUHDSL0dEyExn2aC7qlTyARl3uGDCutxnI9gzS7dRHKU6NmyCO1tWVlPLSSqz0IdmAQ5cruFoJP7d/HvCPutOGtrzedsKk2cMwDPzFbUBIAfcK+RlnlALCmak57Lc7OSDObn5EPHiqDpdnyPxHZVdkSdmZphOLCZNJ3jnihmcxWtIs1Hn38PXlN0nAAuKUXM9dBHZF/m6VkL6Hn8jvyoLXmPKQIzZFeHXPpP6Sl59UVZa2x/MstPewT3oA2tNGUy6URgOl/Cuq8/A15V6Xu18X5CvL8LdOLdtew/6WJxgAEOenVwE=;s9F25r7ExVvY5hf9qVMkGA=="
+secured: "R6TDF60bfoCXDIzCHBjQkL/Ry2OWo1cGSRv0TPzl+M5SIHDAOz0BBq7NtgrL2n9jlkb30U8JE9yo03L+aTU+OMPncAhtWX4Y358E9QVByQteDmjiM3Vw9oBACuUcYXWskD6WjzAzbla+TVeMYK5tRNry6R8mwg4KFs8YBByrELYNRUNYA/sN+0Zvx5MwlzFskjU2163J5u1ZSQAGZTiE5luFDw4/ICLNWPtEkOUm/bYzPy+dGCFMoSnF6IA7wyh3PNmMuMYFKXuihf1wuxkff/C7Cgr82lh9u8lXb53Xw6n8gGDDRb4Rgp1l2xheHrVE42rfpPccEkn79IN9rwT144PKyPWhECkTbFpEzzGBMVo=;3vp6Nm5MzQK7zDn6brMhog=="
 ---
 

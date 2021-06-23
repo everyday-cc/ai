@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeepMind wants to use its AI to cure rare diseases"
+    excerpt: "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases"
+    publishedDateTime: 2021-06-23T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases"
+    ampWebUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp"
+    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 74
+    images:
+      - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg"
+        width: 5335
+        height: 3557
+        isCached: true
   - title: "Doubts Surface About DeepMind's Capabilities"
     excerpt: "Jun 18, 2021 (Baystreet.ca via COMTEX) -- Computer scientists are questioning whether DeepMind, the Alphabet- (NASDAQ:GOOGL) owned U.K. firm that's widely regarded as one of the world's premier AI ..."
     publishedDateTime: 2021-06-18T15:53:00Z

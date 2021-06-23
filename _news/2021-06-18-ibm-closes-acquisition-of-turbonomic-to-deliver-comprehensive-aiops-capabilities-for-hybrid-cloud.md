@@ -1,30 +1,26 @@
 ---
 category: news
 title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat"
-publishedDateTime: 2021-06-17T19:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-1030533596"
+excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
+publishedDateTime: 2021-06-18T01:39:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud-301315037.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
-secured: "R+5wn1ZgA7+wxTlCJ9MJG6jkvNs/QjmGaUNWKj6rvHyjd2NimE33GhC91Yj1UItSdJuvu19J8gAEl3Lf9zx1Xs3KB/wvBS5BRttPcXw/x+pmDYU5AKxj63inAKMQDOg/AtRqqA1xhj95bEcYjwxxL3afG54+QU26TU2usmKrcIwN3BSxFQ/kDRBdetcHfOljIDp//i49F1wcfsbjJbwIlYGuUELLALMdA5EPPEbMhuCCs7EjPJCMwRbIHeQz5ZJZUuBvk3GtTQLOZfIXXR7M27jq7YwyJi2ieDS8yiRbmBmrFDTEHfkMNuqBRNFa3eE8X3qwrqClq6yg3HZB6e+OoDVNzsL2NsSF8tzeZcna9ZLpnm2xprUC/8O4h3grFMWAXlqt8wUnHgrGsPWwVZGhvJnByjF+sCR3/s+yGkjh/sM3ICVb1+1x9SiUxJUEtqsXQJbnV+AAA2+jUxyEQngOymGAUmXuFgX99qskzLAa76wt1Kwk6DtpRT5+HRjppDYjXAllKuRelzFHUnuI1J68TA==;2KrhKb+dPhmJlmftO1xIig=="
+secured: "d37zn8gQSHSqdn0JmW+ms1SVZJW5RvttV4f+H5LGYpAYqhiSDngItX1EswTfznJkDhHUgpgiYP5yS2HSpcz+24eDo7zsV/ro+Ow0QoPnaQglKJEOmGh/Xn1mXslZyw+0Qp8FTx5/UPeCCKoga4xPxMBvgI0kkQ1sjmMfD0vPJj96diLBLUseU5cu2trA1UywFYQpVnFXnaWgYE1N9dycxqEuAmdfddpVw81EFAoCseOMrQUenxjmDRLebQH+MIo+nPeJpmYjjMkR+tLe2v6Y66bmwe6tp64lqB8YbvgYY8+WG3ioKn6Ayjt4CgQYn2YYCQKkqHPB1xYvx/JeUZ/Jy9MOx3ZJP1qT9JVSiKWMiB0=;t40nrYLdUaefXEl2Oe88Yg=="
 ---
 

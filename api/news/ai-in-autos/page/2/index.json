@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-12-nvidia-to-acquire-high-definition-map-maker-deepmap.md",
+      "title": "Nvidia to acquire high-definition map maker DeepMap",
+      "excerpt": "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
+      "originalUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/06/Deepmap-nvidia-featured-web.jpg",
+          "width": 780,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-how-to-use-voila-app-that-has-gone-viral.md",
       "title": "How to use Voila app that has gone viral",
       "excerpt": "Voila is an app that uses artificial intelligence to turn your photo into ... MOUNTAIN VIEW, Calif. (AP) — Waymo, the self-driving car pioneer spun off from Google, isn't allowing a recent ...",
@@ -1364,49 +1407,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals.md",
-      "title": "Forget autonomous cars. Self-driving e-boats will sail on Amsterdam canals",
-      "excerpt": "Amsterdam didn't have to look very far when searching for a way to ease traffic on its congested streets. The Dutch capital's canals were used for transport long before cars and trucks powered by polluting internal combustion engines began clogging its narrow roads.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/articleshow/83198736.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-814506,msid-83198867/developers-say-they-still-need-two-to-four-years-to-perfect-the-self-steering-technology-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/forget-autonomous-cars-self-driving-e-boats-will-sail-on-amsterdam-canals/amp_articleshow/83198736.cms",
-      "publishedDateTime": "2021-06-03T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

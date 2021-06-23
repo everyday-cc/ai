@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Hicks Announces New Artificial Intelligence Initiative"
-excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-publishedDateTime: 2021-06-22T21:52:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+excerpt: "Hicks Announces New Artificial Intelligence Initiative. The integration of artificial intelligence technology is abo"
+publishedDateTime: 2021-06-23T05:17:00Z
+originalUrl: "https://www.globalsecurity.org/military/library/news/2021/06/mil-210622-dodnews02.htm"
+webUrl: "https://www.globalsecurity.org/military/library/news/2021/06/mil-210622-dodnews02.htm"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: US Department of Defense
-  domain: defense.gov
+  name: GlobalSecurity.org
+  domain: globalsecurity.org
 
 topics:
   - AI
 
 images:
-  - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-    width: 1280
-    height: 851
+  - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
+    width: 675
+    height: 313
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 838
         isCached: true
 
-secured: "mcke6JJ3T8xczuvlZ3BBP4ruhYN7ijOQsxjcmm4yseqsxPPIOPk6cKxquCWpRvXY1NNxxHsaB7T2X3OiNdRT3FJJSen3iltdRv/wYCKUlm7LeJCp6CKcany2WfochBYU3bPhe7EWFNe6wnmnip7hzPThhno9RjE2XggL12QmFiqj3F3Bydk07c4KM7+vxgt9KwrWnVtT2Q5Cw3JqmMZmbJAEQil0KGW6b2OPx1IMm18rL/hsx7I3So2p94EJNeYZdcW53n6YliKCJ2jF6L+TPdvSv8lb+lWUH3I5moRfS1GU4rnRUPU9wurlcKzlYmgEUp7CWlBh+7AvatKsaCWLD2BHk/rNBERDbnDbHyIoGeiChliBbyYFvgQTdA1Y6ye5MmKjOPu4VR+7Yu8sR7M9iBfBl6IP6Zx5+vljyEDwQZe5rzYO06VddlaeZFYEcKbIfS8d5usHwLKxVSJUfHrR6JV8CSapeQo6UIExte5jAXBZ9IXenL0wXesT9qHoyUcCY/Znv4si2TLcDOsiYr1MsA==;zbWNnGQTv8KslVkPkBIRaw=="
+secured: "6bsShWMYW0K989ptpM0xAAUodaq6abvj9r1v8Re12bwrRd3B7Lks1OgafulWp0qhHUoEV0KqKI0oOLOkTFm2yZ2Yu9mriWzlvMimPaH2q90z/Q9Bcn+yXajJsid1DVv/mcF5tkbejPjr5EZeP8WJ/e9dl9SukB7TmCcLV811AHyB+lEMloBGs6LX/6WTYnkYJXvmaVLHwsMoIrRgaRxPY0uQtJ8jGHNY+l1qkH3q77Llva1/4ruXoMQbtShxpKMf/eNdbu6c0xWp/8shCjhoM7/4Nzq9RY5BCee+Uiu+qIO4WgqpglLUatTUne6Y/vq8a2HWYBFp9FMSVKuhx57fWQMOAsDi6u5n7QmtSvZd7Dg=;TI9cyxsKwz8gfry5meSMBw=="
 ---
 

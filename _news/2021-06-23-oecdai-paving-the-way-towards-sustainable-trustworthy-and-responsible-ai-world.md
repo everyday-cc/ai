@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Making operations safer with digitized data acquisition and AI"
-    excerpt: "The project is based on digitized decision guidelines and self-learning algorithms intended to provide reliable risk assessment based on individual patient data. What is the probability that certain complications will occur,"
-    publishedDateTime: 2021-06-18T12:20:00Z
-    webUrl: "https://idw-online.de/de/news771038"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
   - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z
