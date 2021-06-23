@@ -26,7 +26,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/733105320453668868/nKF3Esx-_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg"
     width: 400
     height: 400
     isCached: true
