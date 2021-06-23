@@ -31,7 +31,7 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/966082055087054850/FztvMVNc_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1407741049733328902/mT66uXhK_400x400.jpg"
     width: 400
     height: 400
     isCached: true
