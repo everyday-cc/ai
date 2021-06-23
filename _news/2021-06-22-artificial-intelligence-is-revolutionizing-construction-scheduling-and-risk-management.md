@@ -86,6 +86,17 @@ related:
         width: 500
         height: 241
         isCached: true
+  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
+    excerpt: "Sixgill LLC Becomes Plainsight, Realizing the Promise of Vision AI for Innovative Enterprises Across Vertical Markets SAN FRANCISCO (PRWEB) Plainsight,"
+    publishedDateTime: 2021-06-23T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21693456/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21693456"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693456"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "l0/gGo2ix4/l3VgYj6+k+lR4B8uTVu5LMuQAP3soFOIDBenHdTKGZaXf+j9069MJqlznJpqJ6xHTKiSEn1fIONs/xlDWnBjRA9NkA3cm5w6iq2Rjf5CaIvjLTHVhH6liKdavWzN8EHP9QnCY2sLxK0lnw0W+o455gcB4OJfDebueT6wNW2uHiF7lx57OOZjGkJ+AWB4E3CemCDbOKchb3PUzVjpfaYu2holn7Az+o2COVJrEGUoSeOo0PB6ZgudTcGiJ97ca5RNp+wCLetnpzlAoOdlu/+litWGlp7aVutT1piu4peGhcFrJexgxgtHVlYMcCb9pL+w2Qbm+rqXmNcfYgEyYg03UiDlR05cSAxtvmRxDdhHrrxH2nPThdvawSqN0LPwquMwY6TfBYub9xHOEjlsVxVbT2i+8rSxWRxPmK013X8/rQu8+Qz2g+XeIjm4Re+HAyNTNU/A98X9Nbc1ephNsuY9Yx8rvGTMc949sVvxAQ8qLrAqMNsKyANNE++9Q+S2wWYKFI2yYyUghQw==;VtR1UO/14RsX17y8HhtYjQ=="
 ---

@@ -1,31 +1,41 @@
 ---
 category: news
-title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
-excerpt: "\"And what it taught us is that Rembrandt never does what you expect.\" The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
-publishedDateTime: 2021-06-23T17:51:00Z
-originalUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.html"
-webUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.html"
-ampWebUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
+title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
+excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
+publishedDateTime: 2021-06-23T20:51:00Z
+originalUrl: "https://www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/"
+webUrl: "https://www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/"
+ampWebUrl: "https://www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/?outputType=amp"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rembrandts-huge-night.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
 related:
+  - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
+    excerpt: "Rembrandt is now complete after centuries of disfigurement, thanks in part to artificial intelligence. Seventy years after Rembrandt painted “The Night Watch,” edges of the 16-foot-wide piece were chopped off in order to fit Amsterdam’s Town Hall;"
+    publishedDateTime: 2021-06-23T20:30:00Z
+    webUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725"
+    ampWebUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/df69ca278ec88a399e30d9e38572b138.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
     excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
     publishedDateTime: 2021-06-23T13:03:00Z
@@ -43,6 +53,6 @@ related:
         height: 336
         isCached: true
 
-secured: "oqtUmayPH3hH2TCXQ4HUWEQlhpyWOqJxPIHHiz0dNVLGP2Z6+yjOiMdAslv+1x6FkuUhEGK7dJ3rB+hP2Hod9lQEQW1VOoCGgfHKt2TK2rH2VLhR08fuujgt8xSW3XHC0o0XBuS67zQlVTEHvQSr9d/H4o/tjz9jY1MwdoTw2YDXzkS3bIo7cAbhqJsEdLVvrAnhSZvb5mdPuANUE2T1F46jSWfo3oU/GJPHxIbWscnhUTDE+Q9TaGsvDCt9SF0G3cn1xOv9YWZBn2xaGfY/RIG87zuD9KjIISbaVfqK6XWXSxHKTNRWCtju8o0O4vKIn5LAhtahE2Ckgj77zfnOt/EITx92ocgia+slhxjHRy8=;9/D0Zig2mCrtPt1Ygu1+Qw=="
+secured: "WmApv6UyHJfTJVPAagWh/0dlj8M8p4ewIkOfb6cQ02uxKB3rMbVxwTKypCz9nbNRQ/98N5ZKEiP+tuEGH8DCMbL7HArC2drBdqdaD3nJGPcGCagIwG9CLbukV7AL458elq5alWje4LWoCVJF/NsKB3fUNT9WkER4rf4gr4nF+ItSKWWt2ImfqcXNjgMBnbmMDStvfTDoeBaOjEdUYdMKk0WttZZh3aLnzpDemiNb5C14MWocbqSUxgOdkxSeWsEvGaM2Nh2L3vaQ1SWpVZ0TU4PvlY9JXh7dt+yCtIJ8K+v5tB/VsRfIwUmVKn4MrykyP03veqg/IZxaQUXF8jW5rx5Tj5NFaIN3BFxZEQXk6Gc=;k1muA2bRAUKJNyAUl2h2Rw=="
 ---
 

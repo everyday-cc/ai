@@ -74,6 +74,17 @@ related:
         width: 1200
         height: 742
         isCached: true
+  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
+    excerpt: "Sixgill LLC Becomes Plainsight, Realizing the Promise of Vision AI for Innovative Enterprises Across Vertical Markets SAN FRANCISCO (PRWEB) Plainsight,"
+    publishedDateTime: 2021-06-23T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21693456/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21693456"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693456"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z

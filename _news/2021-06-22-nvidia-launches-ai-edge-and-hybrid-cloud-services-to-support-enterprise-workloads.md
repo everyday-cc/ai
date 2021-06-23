@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybrid-cloud-services-to-support-enterprise-workloads/amp/"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/22/1c51274a-ad4a-4c85-91e8-a6db0dc6dae2/nvidia-fleet-command.jpg"
         width: 2000
         height: 1260
+        isCached: true
+  - title: "Nvidia’s Canvas AI painting tool instantly turns blobs into realistic landscapes"
+    excerpt: "AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest,"
+    publishedDateTime: 2021-06-23T21:18:00Z
+    webUrl: "https://techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/"
+    ampWebUrl: "https://techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/canvas-1.gif"
+        width: 700
+        height: 337
         isCached: true
   - title: "Here’s How Artificial Intelligence Will Take Nvidia Stock to New Highs"
     excerpt: "Source: Steve Lagreca / Shutterstock.com NVDA stock hit $610 in February this year and dipped to $500 in March. It hit an all-time high of $721 on June 14 and closed Friday at $745 per share. One cannot predict the stock movement after the split but Nvidia is one company that has the ability to scale and generate massive revenue in the coming months."

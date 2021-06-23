@@ -45,6 +45,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
+    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T10:17:00Z
+    webUrl: "https://www.reuters.com/article/embark-ma-northern-genesis/self-driving-truck-maker-embark-to-go-public-via-4-6-bln-spac-deal-idUSL3N2O52G1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DZ18M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DZ18M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "Third Self-Driving Truck Startup to Tap Public Markets"
     excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
     publishedDateTime: 2021-06-23T12:20:00Z
@@ -83,15 +94,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 34
-  - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T10:17:00Z
-    webUrl: "https://www.reuters.com/article/innovationNews/idUSKCN2DZ18M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 34
   - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
     excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
@@ -177,7 +179,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Funded: Self-driving truck maker Embark Trucks plans to go public in a $5.2B SPAC merger"
+    excerpt: "Self-driving truck startup Embark Trucks Inc. announced plans Wednesday to go public in a blank-check merger that would peg its value at $5.2 billion. The San Francisco company plans to merge with Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T19:19:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/23/self-driving-embark-trucks-plans-52b-spac-merger.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "V+vd3J2orn8EgX0TgUhxxpTuGrkRQ5k6IiKYD9xJBsXf/psSvbk+CtxNEpd7sYD8iPHC0llMNIdXEMyMoZUa/qebSO18KAsnOKZZHKHTjlnkTRcGgMchHYYEBb/Vuzl1uF5fWj7Ys3MGvzNvVxyejEtHjKacAS3zs/gC13Dj96HoAQRB/zEbyMGjz5Ih9cn/2bdLaIU4k6o5zQSp6T1h81Ia5Xn6OyswaF0xTPzhdQqHCUS9dgd3NC67ZUSFMtDrYHtCgGW/XYj32ZsjpxCwyWN6ztiCECjdAcn59FjIKRlE5Y3HHzsyQ0QgCxFQW2UmauQ14f/EPIFEu2TtEVsATAnF07K75wrNI96yT7gr6TE=;d7IwHleAkTFzlkuX9TudTg=="
+secured: "NTdUJHKP0PqjGN3fD1QWjhyg/GnCswZX8BYAP8/uLWbnQjWM3yol0Su+sYi4gXMYShdO9QC/HnPgtBAI8DPlS1mPU04Al6KHH33qui0EhCSLKmxg5D6wOzy6QKAPUqjWdg8BQadA7TXj+DCucqXvn19k3aioUySucddToaWBanYaWtSSQyhHqyfpegb2zKnjjQV0IZilUICCDTHGpQFfLw0r4NggpSYsCobXY0UZEUxUSMwepYmse6XIbUVdX02Ar+9cEQW9csYFfXNKC3jdti++HQsJN0JMj5lXbd4MiK130FFyVcmYs6OlZjDcxOg0EUhPY0m5kv7h8/jDsG6wrQ0xv8jkUWhPi/tK8CnXNNxj6bUnsCnhgF82pBEXOIylNh3dGMXMQGBw3Cbt7tXQ58Id+iynp3ViqZoXd3S4tAZbzZrNSuqPOpnZext0rEI2PTh7l4CdHTuKguRRZ5LKqo7FV7LReHhZn1y4S+/RSm6Ac/dRyo2YNs5bW8GqobHbC3Y9i1cgS+oRYiu/4FBf3A==;9ZLHA+XVpdQeJFVu+riCBg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/375114"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375114"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "Tomi.ai Raises $1M in Pre-Seed Funding Round"
+    excerpt: "Tomi.ai, a Palo Alto, CA-based martech startup, raised $1M in Pre-Seed funding from Begin Capital and the Phystech Leadership Fund"
+    publishedDateTime: 2021-06-23T18:34:00Z
+    webUrl: "https://www.finsmes.com/2021/06/tomi-ai-raises-1m-in-pre-seed-funding-round.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/marketing.jpg"
+        width: 999
+        height: 816
         isCached: true
   - title: "Investment Management Startup Upside AI Raises $1.2 Million In Seed Round"
     excerpt: "The funds raised will be used to hire senior sales talent with experience in the space and hire best-in-class product engineers."

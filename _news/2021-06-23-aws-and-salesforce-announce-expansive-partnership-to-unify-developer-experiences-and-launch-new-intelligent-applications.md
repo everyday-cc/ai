@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
-publishedDateTime: 2021-06-23T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
-webUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
+excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
+publishedDateTime: 2021-06-23T12:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
+webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-    width: 400
-    height: 280
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -120,6 +120,6 @@ related:
         height: 432
         isCached: true
 
-secured: "hhIedKet8P1wCC7Sk5RDcSD7ORuGAdD8muDIBLFDWCca7uRtYR3muI6axO2YrbEJqJEVBL/JCeqAuSnV2f/wNCaeSxhNZMgMAXWCEpZm1gT2RQeWUerhvCtQx1OSiYI3GVGrzMr199GQoBEOU0NdKf2+yV6h/6U6wwT9gixSUZKct5jCLO/3+QTBEPeWPMeTcaChnEyHC21KBazbEucR5hafMYx2QZcFttm0FdwdTOTjX8OXzlkR2l2jB8PX/rHZ7oP1f9fP59iH1pW5WcyvpoTuMFeWqUDdYv7jrmPIXcbldoorknJxv5WXibpS0DHBRc9f2FewoEZNK1Fchy4pIvHk8NLUimfTmFVPk64gtTM=;WrCy49azktmrrLmfSAcgZQ=="
+secured: "5X/7Pg/OS0/yKjfQfeWgcLAFou2O784J1mGnUbdfW5pzXp4fiddRbxd/sGycWPKiNZg45iAKvConqjxYh7/8CnICv2jtIxVMAslkGpPisdxzw3hNWlsLcWx5+b9wHU4DrhYpdnwSnipIjVF738Say2o2GOPTVTlhU7L/HM3Yp803G6tVDTIHZF6EcCnfx/J5LEf+/ATaMKW6I+LV6HDeIO6hGSlEaUkdCzRuweHTbrHKPOc+uu7b4cN6oe/9R3mA3aBM6x9YXlrNSdHIeOiKjhYBGl7lcuzLc+1HYxfvDavjUJP+N6TocFYnbOIZPKgeIBYsmP8V/Egg0DhxXXz6Lsyy80e8hVWkzUJnh0po+5I=;xE7txwYMxiIqllwrIplzEw=="
 ---
 

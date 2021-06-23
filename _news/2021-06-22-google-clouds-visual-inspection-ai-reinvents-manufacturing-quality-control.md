@@ -146,20 +146,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "This Chennai Startup Leverages AI To Offer Quality Control Solutions In Manufacturing"
-    excerpt: "Our differentiation is that we are an E2E solution provider with proven implementation experience and not just a software platform."
-    publishedDateTime: 2021-06-19T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-chennai-startup-leverages-ai-to-offer-quality-control-solutions-in-manufacturing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Sekar-Udayamurthy-Jidoka-Technologies.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "P0dkjulHQ40swTUIKkqOwvZl6Mut14kp6ataCW/vXwpsSDa0Lg9mow9x4lQZhm/cGrfhStZdcje05X7bLQHx4pleVANqwKcPZGoXD/cl90O0R28i0YlszSwu/wEjmVg/GluLbdNluFUjhuchAtcFU70jOnDkSJ5A6Ndgyp0lyGgk68oe3axc1ic2WuXGE5S5SojDc+tjvC+yb5blAdBmvBCKzx6Cv0dFsPv5PVif2WoVP5mvl/bSL5ZsE51/pEOOQi+ORuwqviO+SExBtemAo9dC+Qf+MTRupeFwRn1CFPIR8MwLFLSPWaKodSdG83K4F6vyMTeC3e5ohS5QLO+LewQ3ybu7EeqlDO1oNUf/KMw=;TpHioskcKdkhvaZSTuFXBQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-launche
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-launches-ai-dedicated-to-quality-control-and-inspections/"
 type: article
 quality: 89
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GC1016-VIAI-Sizzle-640x480.gif"
         width: 640
         height: 360
-        isCached: true
-  - title: "This Chennai Startup Leverages AI To Offer Quality Control Solutions In Manufacturing"
-    excerpt: "Our differentiation is that we are an E2E solution provider with proven implementation experience and not just a software platform."
-    publishedDateTime: 2021-06-19T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-chennai-startup-leverages-ai-to-offer-quality-control-solutions-in-manufacturing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Sekar-Udayamurthy-Jidoka-Technologies.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
     excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"

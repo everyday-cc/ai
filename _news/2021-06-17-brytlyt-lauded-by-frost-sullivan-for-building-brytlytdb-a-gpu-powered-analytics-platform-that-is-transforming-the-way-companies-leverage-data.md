@@ -2,14 +2,18 @@
 category: news
 title: "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB, a GPU-powered Analytics Platform that Is Transforming the Way Companies Leverage Data"
 excerpt: "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB."
-publishedDateTime: 2021-06-17T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm"
+publishedDateTime: 2021-06-17T16:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage-data-1030532679"
+webUrl: "https://markets.businessinsider.com/news/stocks/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage-data-1030532679"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -21,6 +25,6 @@ images:
     height: 366
     isCached: true
 
-secured: "N8/hjWPpEVHxnUPgAGjWCPNIg3SUc5RUTHyOHcRarZ/fBQSoJ889ZaS174/r0ZARRjjdrGdjs0/qTX2gBNgjVrcjiDH0fA7HApey8CBXXH56ehCrYiEHj+r0m/AfdUwUEMUm1sJlM5sb/eU144J9Y5Hsih2/VNZhN3Pup5b6zqIycQzbv2jy1aQz6xBIEH8Gak9XKYOWwPSb10fzfzMYc7IlFV6dmpxev4Mh5UooF4P9JPinoOZQwJpvIFnEGBLGfP5602FFFGNMIOzlhHXmeU7s9dFft2rzX4DnjVCbXcvfO/RTegAn7doLUbdEy7STYtW3cNSM1RsbVuWcdes8gupQD6+XemGY+SGFbHgIembXuNicUwyXn/0gOINqU68KsNU8ZOT8uXLsg4fklJfWDbRmH1Zf9FXkb4lwFDjAtA/kQAURX3jqOSHh+jwauDbj2LIGuQ5whkEM8KOIeiW3whoYlxGvqGFgyacAQMtofJjWSyIun3RzZsW3ekO7C8w95vPoZDF25PTIUj8PM7RzzA==;7YOiOBFCKDFm4ZP+s6RvBw=="
+secured: "AgW++nPAB9G0XDBK7+y3TZqZWQ765Ce6w1ZXE/Ua8XSI/S1YLsu4wMTCR3NEfci+LOo7FL0ZidrALPOBDcioLG4BEgSmyA5czu+fPRgI/5V2wX0U4x16fymjstcv8oLwZKEYU2Np/gjqgzRd4/oJFEnkVRNYGPK7knmAIOPoEhARTZEZ4W+WoQn9UYL198BepAMJMRyTSUsx5Z6mqzqveysk87Mwf76l0Jmvzs74wiTqeq4bu7zrtOJEFjpU8CapEnmFS0vBvHZcgEi6eAZVB7mB+PFZrsgEsG/O8Je+pIATRV1KK3PJN0lxCV4HT3OiaWcG7C6n86CeKRGAIRlcRZhtxvQVyPNaPdk33TyHrZs=;Y5iCaW9b6IJi9M1tqbpEHA=="
 ---
 

@@ -3,24 +3,24 @@ category: news
 title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
 excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
 publishedDateTime: 2021-06-22T22:13:00Z
-originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
-webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+originalUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+webUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.armytimes.com/resizer/VhwPC1AWLt6BV1bUhNwXBXDPKAc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
-    width: 1024
-    height: 681
+  - url: "https://www.armytimes.com/resizer/RHxQc7jHC8S-HEXJbDjY7_PTwAo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 851
         isCached: true
 
-secured: "hiWCnr66JvX+6Mc92fQ1P1kfqdy1eD3l45F1/4BN5bTetd3vR5A3nl5QtcY7fdh4CSy2uEQr03QKY/LlY2TzgrwLnVyO9rjOnpRqQhoDt7pXCzfnWVIp1eILFUcov/RPKz1xS/cPE9lznfFN7VZ5Ik5W3V+jts4wcatnDWQWJGFyhIvZR1xsvYKwZkgWKxvuttXT6HbH4JnQLNY06axLRyPs1l4n6krXf3FRE+QCtW6q/kVd2N2D1Fqb74K+Gu8+1yfyHhS39pIesQpgpgeSwBTaZO0c99ve1gAiPBHsA0DYBr1O1Gua5YqD2TnRwYzVAeweq2nfyAWPvJSuFznC83GOkJPLX6342P6sD2XQyEQ=;7ub6ttoTC/5htaU8PaPqLQ=="
+secured: "60xnSRi7DPhV0Sf7l5qguXe7au/reHoyvkbzsfowEUBKHIQm5E1vJbA/1vSk3P7Qq8aWrt8CZvS7pCuiY0sPbsmoN1bHDmK3oKcf2dW5Mp+Lnw6H4nTj+17odzTJxGoEVCguDXUQWtELeNIvirTyFOn+MQ5w+hQZG1OKDuOFFVagSDQmxSYgLq6ycmXx0UEwbMq4nFhYAJ4k07f4/NZXitBF3U99H4fWM5nzs1uMYe3O5aI9EbwmS+xWvLQWqZABJdskItcWXw/Zd8SKt2c8rKLT58U9aOWPvuPsF0hQM2ch4eLHevVUCdZ/73RRc1fKs22f0PUC3TVQnM8A2911DMLHmnMvbFSU8sNpXftX5ZU=;kQsktKfZtz3+cWiJx+93qg=="
 ---
 

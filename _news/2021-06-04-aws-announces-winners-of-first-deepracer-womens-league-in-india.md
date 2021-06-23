@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AWS announces winners of first DeepRacer Women's League in India"
-excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ..."
-publishedDateTime: 2021-06-03T19:21:00Z
-originalUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
-webUrl: "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html"
+excerpt: "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ..."
+publishedDateTime: 2021-06-03T21:11:00Z
+originalUrl: "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india"
+webUrl: "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AWS AI
   - AI
   - AI in Autos
 
-secured: "O0WuL4VRoy4b0t0RIVq97rTJ07gOBS1SiTCD34DuMVsGK/pyaMFrOu/sYcxs/72utj+kJw/4jo7gxwOvS10BTDivSF4Ofn2ormSYe38hH1AMRZNp88i+Ephw/L2AprmIfAzl0cAODdQas+FbGxfP/WA7A0qC1PcnjBjlmRDI+g2kUBktYKs+pOKD6rV0MfNwqhQrnWcAG3FqiLb4VZGgZFExsiO0IjzYdZfKyw5AwpRXk3KH6oCLz/0xsmetNOO0lOmaraNfABOFJ3jOL493/KPWBaIrPdZnXWCJ346w/vcLodrTurnrC4wZ2x/PW8ulxSW11n3G75yB9dDp3xcGnuX+l1ZQ3tF4NaO2xBtXpoA=;uQyjsGBVW6Pjx5Y+MmEItQ=="
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "PIgSEyYhavqDUM86MiohEBjM847BcD3hoXshOB6PKlPXR/TLeq9MNymbaCAo+BRC/kEwKt4GMvxRz8umACE4isHcOKCP4YaBTQvv/d99Y8FTPTkG7JxmLazTJULkVX95ZENxbFB6yFbxqzQKC/OFftnhTEXJRanU0TI6nJkenox+mfRV196SrfY3sI16pnP2pQGphC5/TCXG+eKrY3WnJHKfvBJyhZddo5AqCy5rDXTPWkeHg4xdLg06Mipp/pAPlQ88ydRoJF81gJ0SvWU/i1vQf8SbC68Wr8BsnN8kj27k55P4K8cIhKkYpYICKmc+kprjjjVdsiATSs6KWeT+u0yo/tGxTQUkKSBemlpy5Ac=;lMUkMuT713xIHTyUax1VHA=="
 ---
 

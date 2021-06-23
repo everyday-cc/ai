@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "3 AI Implementations That Will Change Our Lives This Decade"
-    excerpt: "That project is to develop a product that uses personalized brain scans and an AI to reverse mental aging potentially and significantly improve mental performance. Kernel may not be successful. It is rare a first mover on a significant technology jump is successful,"
-    publishedDateTime: 2021-06-19T03:40:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/3-ai-changes-this-decade/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
-        isCached: true
-
 secured: "GvN8jq10dxeklHtdVCLEtAoH+7Io7ty9vMC24ASmIogrdatVDc6wCne0KW1x+P/AF/qPZh/uuzbLfwT2P0i4qfFqIR04CXO/8gFcRngInCZw7ngJaJUArUK9tLovCdsiJZljQ0vKAgS5FEnb7mxE81d/37Rm4i9Ja8ZvMYupj1SekagQJCiL61nRcw/8AsMkpTnxpAevPspYf2v0cmZ+2OFQg6SGtPnwzDXdviBF9PebLflG/3WinZgcBgV5V7p9GRiLF43mU0PWx7SWhGSr+zAu3QMtE8RI4BxWjkblvHy1DUDYHo4dBbno92hEKY76cW4mxVhvnP+UiCUUMYA6UcWPyQavHhWXdPXoPIJSouJaKQqG08x2RNiOUdgEDSVI0Py573U61k/6b1h62Ibf8l0py1qyvgtDEqky8ZetWihf/yQNCYdXxhnEO94bJjeAXvdqcEx3sOwxCX0dU5Jm6NV4Ub60SaRalyd5NuEcUjRnqtUwLoJ0yfo5tRj65QFpb0+o1PW26tcmyGt9HIIYQw==;dz0Cuc+FBm2rUIUA7yaE9w=="
 ---
 

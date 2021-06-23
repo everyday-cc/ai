@@ -52,6 +52,22 @@ related:
         width: 2000
         height: 1260
         isCached: true
+  - title: "Nvidia’s Canvas AI painting tool instantly turns blobs into realistic landscapes"
+    excerpt: "AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest,"
+    publishedDateTime: 2021-06-23T21:18:00Z
+    webUrl: "https://techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/"
+    ampWebUrl: "https://techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/canvas-1.gif"
+        width: 700
+        height: 337
+        isCached: true
   - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
     excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
     publishedDateTime: 2021-06-22T23:31:00Z

@@ -138,20 +138,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "This Chennai Startup Leverages AI To Offer Quality Control Solutions In Manufacturing"
-    excerpt: "Our differentiation is that we are an E2E solution provider with proven implementation experience and not just a software platform."
-    publishedDateTime: 2021-06-19T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-chennai-startup-leverages-ai-to-offer-quality-control-solutions-in-manufacturing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 30
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Sekar-Udayamurthy-Jidoka-Technologies.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
     excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -162,6 +148,6 @@ related:
       domain: prnewswire.com
     quality: 17
 
-secured: "Vf0xS3Uq5lq16sVxpp/2bZFW0W1xCOc8wmvCJQk4kXU33iAQIHfbrjY3MlJ+qL7/oepKilzgY0j6SDz/FKgdl77bfoDFFvK+5FfXOXJqhgkLa+ttfT8Qx6ZVc9Jie00cP6bP6mkytd4ywvlW4j11cJvQgZLku4JQL4o1IRjbHvJPbJN0S015bSlcbLGrdxZz46sslyEnQx5VJ+KcEZ9bHMmcUQ+/SM8/dB+oMAS781AqQwXB0/vDzs3CndZqb4KAMFelqOv5FUTcqkvoi1/tE7XTlp74OU2sXT0IO0W93Nv87AwvYyn5NxMm9W+X+ni7JdY4yn17EfS6JV2WT1J6MnUTidKRGOFVl2UqkzexbSg=;MTIe0FTzfZxy4/7PgZ4Cxw=="
+secured: "ImEsXr6n/hOBWSqXBVZAciaLqNJC8uUc2l2cC1S+5ikm7okGQJyoFWkXXrTrygriEdb5rSmodViQABEquvtjKeOoeQNlFn9U9AW89/SjAZlVY2/CdihZZD60EBrdNZ/4s5B21RyS6ID93EIwhF6Q74J+q9ZBB86zTP9adMPxnL+Jm56ICBEO7C3iSF6oYsHMeUnvZvgGRBa1Alq4Gn+UQJjn2ODl4MtOE6Cp+iaFMTHgaz+bvqB8AFPN4jJTQ5h3Wr4f2w+zGG1RfqFWYvRort3ao+co+KVzf8KtyKNJpvJcnyv/ke3J5p8/LoHH72C/6ymzhWvmq5XzKVUELdNZ1hqmcKZtoR5B1fBQNHgtf23nZcxmvuOETHcjtXo12GxKsMOI6LOtJiHSEcYng/uY4i/1gaHbHwugrtXhmvjyo5LlnnQIByM5KLZHc8tElDusk9ckFJNiFWat7min3+AJuwYuFwTzwI1yI25hsMuzt+Bh65gMUUu41mcz+KyBxAc5LzR9JgCfqdgqkkZbtng+3A==;MsROaODwDoLZWJywFY6vZg=="
 ---
 
