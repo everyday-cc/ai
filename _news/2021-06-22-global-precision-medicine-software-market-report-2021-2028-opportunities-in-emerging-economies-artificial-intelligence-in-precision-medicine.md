@@ -1,24 +1,21 @@
 ---
 category: news
 title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech) - Forecast to 2028\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-06-22T16:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in-precision-medicine-1030544037"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in-precision-medicine-1030544037"
+excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
+publishedDateTime: 2021-06-22T16:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9395457.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9395457.htm"
 type: article
-quality: 11
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -46,6 +43,6 @@ related:
       domain: arnnet.com.au
     quality: 2
 
-secured: "NEk/8TMlOILtpQE9HWpwD2zo5Yx/NU2bOteLeQb+9uOgMRS/yRX4dfqQ/13HWiWX9/JBCESsQHwqhgzKbxFSaHLf4vV+ShlC2KedWYvYNGThLVvrDD94EDv+uI+YQBJsTIG0GKLp0LJGq5FsxnCKYS8whaFmNMppkCn4qAiT8h3L6ZqOKJYwcxNQ6l45dK8pJAlTyLV7sipXKdYqi9n0NXg1oh0k6ikdq4p+48vLLQreTXoijWsaeYhX0I2hylP2xA1TtqK/v2Z1Wdg6SF6gKkJxY23P8GXTgTqzBqbav80rb8v79LIZu11OsmzicoVi6uP3jz2YEgNRpwjJz2uO7WN9O3Yww28sYHWa9dQskuY=;/l+4IRjVmPN6m5vgiqXPaw=="
+secured: "ZgrJIHUrCV3ndbdiZ+Bi6TLZMbxcK4LJIFibA2dOCTFiZsYlf8Cex++LGCVL877+jGL7QlDvc6jwei4N/lfA/JxAt3KeN+0u+IaMNlITqBxnVXPICR8imZoH/aM4ehrFrPLy4Xuhd7W6jOwKvlsreSDEAT6MTKcLN0+ZgmikTZcOfXO3crukdmifAd3tKc1WW1SbZmWvbhZHSVfPDs6ijjkLHtB600Zu5BziLrj5mxqDGabss9/7IqqQOSABSWoImpw/rt9SJJ5EKB33F0u/WaGZNtxUMlmWM8t8FOVFkHPJ9H4zYyOFY5ZhKAyHVl6q0gXMvqB8iqvXVG5yNtMGEABojRodbshLcXxtrEBgdu4=;rmHU06vV+UBek1V5hn9CPA=="
 ---
 

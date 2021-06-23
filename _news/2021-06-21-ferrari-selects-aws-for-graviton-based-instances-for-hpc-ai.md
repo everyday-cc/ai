@@ -30,38 +30,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Ferrari, Amazon’s AWS enter agreement on data"
-    excerpt: "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon’s cloud computing unit the luxury carmaker’s cloud storage, machine learning, and artificial intelligence provider, AWS said on Friday."
-    publishedDateTime: 2021-06-18T10:21:00Z
-    webUrl: "https://www.metro.us/ferrari-amazons-aws-enter/"
-    ampWebUrl: "https://www.metro.us/ferrari-amazons-aws-enter/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ferrari-amazons-aws-enter/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5H0HN-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Ferrari and AWS enter agreement on data"
-    excerpt: "Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider, AWS s"
-    publishedDateTime: 2021-06-18T10:59:00Z
-    webUrl: "https://www.timeslive.co.za/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2021-06-18-ferrari-and-aws-enter-agreement-on-data/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/GK5EIKs9aOifqgf6fF6HiQQ7zaioA5RDhyfY3W2e8FNf_fUeDUYq5-oE_OY89cxcIEJL7LaovV558PSRm7RrC3n_L3Gt7QRxKF8=s1000"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Amazon Web Services to be Ferrari’s cloud provider for Formula 1, racecars and road cars"
     excerpt: "Ferrari will use the cloud platform from Amazon Web Services across its automotive venture on and off the race track. This includes its road cars, GT race cars as well as the Scuderia Ferrari F1 team."
     publishedDateTime: 2021-06-18T13:17:00Z
@@ -189,15 +157,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "AWS agrees technical and commercial deal with Ferrari"
-    excerpt: "Amazon Web Services (AWS) said it has reached a technical and commercial agreement with luxury Italian auto manufacturer Ferrari. Under the deal, AWS will become Ferrari's official cloud, machine learning and artificial intelligence provider."
-    publishedDateTime: 2021-06-18T09:52:00Z
-    webUrl: "https://www.telecompaper.com/news/aws-agrees-technical-and-commercial-deal-with-ferrari--1387241"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "AWS Chosen as Ferrari’s Official Cloud Provider"
     excerpt: "(NASDAQ: AMZN) company, Amazon Web Services reported entry into an agreement with Ferrari S.p.A. to become Official Cloud Provider, which includes Machine Learning and Artificial Intelligence Provider."
     publishedDateTime: 2021-06-18T13:35:00Z

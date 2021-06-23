@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-21-computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027.md",
+      "title": "Computer Vision in Healthcare Market – Notable Developments, Potential Players & Worldwide Opportunities 2027",
+      "excerpt": "A new research study on the global Computer Vision in Healthcare market by RMoz gives all the essential information needed to comprehend the important developments in this market for the forecast period of 2020 to 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/20/computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027/",
+      "originalUrl": "https://ksusentinel.com/2021/05/20/computer-vision-in-healthcare-market-notable-developments-potential-players-worldwide-opportunities-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/YytmRP2/R39.jpg",
+          "width": 640,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-ainnovation-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision-report.md",
+      "title": "AInnovation Named a Cool Vendor in the 2021 Gartner 'Cool Vendors in AI for Computer Vision' Report",
+      "excerpt": "AInnovatoin has been recognized by Gartner as a 2021 Cool Vendor in its \"Cool Vendors in AI for Computer Vision\" report. The Gartner Cool Vendor report is \"designed to highlight interesting, new and innovative vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9373789.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1514656/AInnovation_Named_a_Gartner_Cool_Vendor.jpg",
+          "width": 400,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-states-move-to-limit-government-use-of-facial-recognition-software.md",
       "title": "States move to limit government use of facial recognition software",
       "excerpt": "Kristina Partsinevelos joins 'The News with Shepard Smith' to discuss how different states are considering a full ban of facial recognition.",
@@ -1251,101 +1338,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-a-scientist-from-hse-university-has-developed-an-image-recognition-algorithm.md",
-      "title": "A scientist from HSE University has developed an image recognition algorithm",
-      "excerpt": "A scientist from HSE University has developed an image recognition algorithm that works 40% faster than analogues. It can speed up real-time processing of video-based image recognition systems. The results of the study have been published in the journal Information Sciences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-05/nruh-asf051121.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-05/nruh-asf051121.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025.md",
-      "title": "Face Recognition Systems Market Analysis and Demand with Forecast Overview To 2025",
-      "excerpt": "Selbyville, Delaware, Global Face Recognition Systems Report offers market size, share, overview, segmentation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-analysis-and-demand-with-forecast-overview-to-2025-2021-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

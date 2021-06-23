@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-18-corsight-ai-announces-pioneering-enhancements-to-core-technology.md",
+      "title": "Corsight AI announces pioneering enhancements to core technology",
+      "excerpt": "Corsight AI, a foremost facial recognition technology provider, announced significant enhancements to its flagship product, Fortify. The system’s scalability has been increased to enable",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/positives-of-using-facial-recognition-technology-in-cctv-surveillance-systems-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "publishedDateTime": "2021-06-17T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-is-ai-a-magic-bullet-to-combat-covid-19.md",
+      "title": "Is AI – a magic bullet to combat COVID-19?",
+      "excerpt": "Doctors and health tech experts inform that AI is no more alien to the domain, the pandemic has emphasised that it is a necessity and not a luxury",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-83626648,imgsize-31653,width-800,height-434,overlay-ethealthworld/is-ai-a-magic-bullet-to-combat-covid-19.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
+      "publishedDateTime": "2021-06-17T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
       "title": "2. Hopes about developments in ethical AI",
       "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
@@ -512,19 +598,19 @@
     {
       "path": "_news/2021-06-18-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration.md",
       "title": "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration",
-      "excerpt": "New Seeq extensibility features facilitate machine learning initiatives by bridging IT and OT organizations, enabling end user access to data scientist algorithms.",
+      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations.",
       "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
-      "originalUrl": "https://www.automationworld.com/supplier-news/news/21509387/seeq-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "webUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "originalUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/06/Seeq_ML_Expansion_press_release_image.60cb92532a35d.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -534,11 +620,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T11:20:00-07:00",
+      "publishedDateTime": "2021-06-17T10:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -548,8 +634,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1144,108 +1231,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-dear-enterprise-it-cybercriminals-use-ai-too.md",
-      "title": "Dear enterprise IT: Cybercriminals use AI too",
-      "excerpt": "AI-powered cyber threats pose a major risk to enterprises, particularly those engaged in frequent communications susceptible to phishing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/dear-enterprise-it-cybercriminals-use-ai-too/amp/",
-      "publishedDateTime": "2021-06-17T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-audi-mixing-ai-and-big-data-to-play-big-brother-but-in-a-good-way.md",
-      "title": "Audi mixing AI and big data to play big brother, but in a good way",
-      "excerpt": "At the Greentech Festival in Berlin, the automaker announced a variety of methods it is developing to ensure its cars are sustainable beyond the tailpipe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/audi-ai-risk-radar-greentech-festival/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/audi-ai-risk-radar-greentech-festival/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/ktJIftFGkYizd9c0YHkOPsnXhWc=/2019/11/14/d1b05746-76d8-4fb3-8360-7ac69543842c/ogi-audi-badge.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/audi-ai-risk-radar-greentech-festival/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/audi-ai-risk-radar-greentech-festival/",
-      "publishedDateTime": "2021-06-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

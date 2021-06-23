@@ -26,31 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Five Recommendations For Creating More Ethical AI"
-    excerpt: "One of my favorite quotes that I feel sums it up well, famously attributed to Sun Tzu, is, \"If you know the enemy and know yourself, you need not fear the result of a hundred battles.” Using the same analogy in the business of creating ethical AI,"
-    publishedDateTime: 2021-06-18T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/"
+  - title: "Real-Estate Agents Look to AI for Sales Boost"
+    excerpt: "Technology leaders at Realogy, Compass and Zillow hope to augment human savvy with algorithms."
+    publishedDateTime: 2021-06-22T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
+    ampWebUrl: "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89b3125364e8f90ba67838%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-358164/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
-    publishedDateTime: 2021-06-18T16:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "Commerce.AI Launches AI-Generated Market Reports"
+    excerpt: "I has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/commerce-ai-launches-ai-generated-market-reports/article_7b36e43d-ff4f-5bb3-bf19-c1b53cdc1788.html"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/f1/4f139823-c29f-50e0-a7b4-a5bdc5d7e1e6/60d1fc1e4ef8a.image.jpg?resize=1200%2C624"
+        width: 1200
+        height: 624
+        isCached: true
 
 secured: "uA3Zvm72ZlnHCCwK3fv3V+fuilq0++hMbDT18UfJf1UEFcBVO/c7wov1gr2T3tNZCRjS4Ub+AExshk8qP63wBynRKObwv53kmwxpdwPbOfpI72nw8FqGcdglyNLYaHgyyYox3/Rfh0qbIEATqBHZOAViqWkd9a3/Gp7BbklcsZRSE2lNP7uGm5h3oT13x+S55lYQUXL6fQOxPkFonpMR24Epp//mAlHMPt/9/O10G2uwxdGy0PHZsrluybjFsle5hi8YH49imrMv0fA852N8ijI2ZACmcX0hLXUEGb8jgNzeZMifMF33nmqLll1jim0qcm53QQ4+pua0jMbBXrLXgvgblOKWZzZzfcQkBXqFakZYfE2+dZFodsL8X4s7oconIJsIAeKb2Lb79W81RJxC4sf9AuudTPiomtnr+aoU6cT/QzFI3/F0mFOi9YQzQSGjn+HP10HPr3oDZGZfXP0Hn71fhhGGla62JKzdDEzgmteqYOXpZFZvRtS+zswKhhqglWfRIkjIAO9iNbN5jypMuA==;JJNrr1pWnuEauBTwlkqjhw=="
 ---

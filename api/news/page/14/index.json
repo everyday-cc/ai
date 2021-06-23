@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-06-10-protecting-the-human-ethics-in-ai.md",
+      "title": "Protecting The Human: Ethics In AI",
+      "excerpt": "Advancements in AI and technology are meant to make our lives easier, yet they pose a threat to society when they are not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c232b13b1cc34a5d1d53b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deanstoecker/2021/06/10/protecting-the-human-ethics-in-ai/amp/",
+      "publishedDateTime": "2021-06-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-canada-police-broke-law-with-facial-recognition-software-regulator-finds.md",
+      "title": "Canada Police Broke Law With Facial Recognition Software, Regulator Finds",
+      "excerpt": "The Canadian federal police force broke the law when it used controversial facial recognition software, the country's top privacy regulator found in a report released on Thursday. The Royal Canadian Mounted Police (RCMP) initially denied that it used Clearview AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/canada-privacy-regulator-says-federal-police-broke-laws-using-facial-recognition-software",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-10/canada-privacy-regulator-says-federal-police-broke-laws-using-facial-recognition-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-crypto-mining-hackers-hit-kubernetes-clusters.md",
       "title": "Crypto mining hackers hit Kubernetes clusters",
       "excerpt": "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,",
@@ -1087,94 +1183,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-financial-group-selects-aws-as-its-preferred-cloud-provider.md",
-      "title": "BMO Financial Group Selects AWS as Its Preferred Cloud Provider",
-      "excerpt": "One of Canada's largest financial institutions is leveraging AWS to modernize its banking platforms and power its digital transformation into a cloud-first organization",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21504437/bmo-financial-group-selects-aws-as-its-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21504437/bmo-financial-group-selects-aws-as-its-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21504437",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21504437",
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-signs-deal-with-amazon-web-services-to-help-digital-shift.md",
-      "title": "BMO Signs Deal With Amazon Web Services to Help Digital Shift",
-      "excerpt": "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

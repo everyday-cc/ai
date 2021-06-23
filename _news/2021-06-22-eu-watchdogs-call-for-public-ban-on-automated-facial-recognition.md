@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "ICO: Use of facial recognition tech in public spaces deeply concerning"
-    excerpt: "ICO investigations found most companies using the technology tended to be \"immature\" in their approach to data protection"
-    publishedDateTime: 2021-06-18T10:57:00Z
-    webUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial"
-    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp"
+  - title: "EU Data Watchdogs Call for Ban on Facial Recognition Through AI"
+    excerpt: "European Union data protection watchdogs called for a “general ban” on any use of artificial intelligence to identify people in public spaces warning of the “extremely high risks” to people’s privacy."
+    publishedDateTime: 2021-06-21T11:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570817006/itpro/2019/01/facialrecshutterstock_1160291101.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "UK’s ICO warns over ‘big data’ surveillance threat of live facial recognition in public"
-    excerpt: "The UK’s chief data protection regulator has warned over reckless and inappropriate use of live facial recognition (LFR) in public places. Publishing an opinion today on the use of this biometric surveillance in public — to set out what is dubbed as the “rules of"
-    publishedDateTime: 2021-06-18T09:26:00Z
-    webUrl: "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/"
-    ampWebUrl: "https://techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/18/uks-ico-warns-over-big-data-surveillance-threat-of-live-facial-recognition-in-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024"
-        width: 1024
-        height: 533
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igeIlhc5fXoc/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "EU data protection agencies want ban on AI facial recognition"
     excerpt: "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,"
@@ -73,21 +55,83 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "UK watchdog raises alarm over Live Face Recognition tech in public places"
-    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F"
-    publishedDateTime: 2021-06-21T05:08:00Z
-    webUrl: "https://www.freepressjournal.in/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2"
+  - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The commission's plan includes special exceptions for allowing the use of mass facial recognition in cases such as searching for a missing child, averting a terror threat, or tracking down someone suspected of a serious crime."
+    publishedDateTime: 2021-06-21T16:07:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/eu-data-watchdogs-want-ban-on-ai-facial-recognition/article34892116.ece/amp/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 73
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/import/2015/08/etc-7th-lead.jpg"
-        width: 400
-        height: 240
+      - url: "https://www.thehindu.com/sci-tech/technology/2axrxc/article34893000.ece/ALTERNATES/LANDSCAPE_615/facialpublicjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "EU data watchdogs want ban on AI facial recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
+    publishedDateTime: 2021-06-21T17:00:00Z
+    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
+  - title: "EU bodies call for facial recognition ban in public"
+    excerpt: "Two EU regulatory bodies lobbied for a ban on the use of facial recognition in public spaces, warning AI technologies raised severe privacy issues."
+    publishedDateTime: 2021-06-22T10:45:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 61
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/09/MWL_facial_recognition_biometrics_650-e1624358480805.jpg"
+        width: 635
+        height: 390
+        isCached: true
+  - title: "EU data protection authorities call for ban on facial recognition"
+    excerpt: "Faces, gait, fingerprints, DNA, voice, keystrokes and other biometric data also should not be logged, the regulators said."
+    publishedDateTime: 2021-06-21T17:08:00Z
+    webUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/"
+    ampWebUrl: "https://www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-data-protection-authorities-call-for-ban-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2019/12/GettyImages-1161938833-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
+    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
+    publishedDateTime: 2021-06-22T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "EU agencies call for ban on AI facial recognition in public spaces"
     excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
@@ -100,20 +144,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 54
-  - title: "Britain's Information Commissioner issues warning over facial recognition"
-    excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
-    publishedDateTime: 2021-06-21T07:43:00Z
-    webUrl: "https://www.computing.co.uk/news/4033149/information-commissioner-warning-facial-recognition"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 53
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/843344f/4c5182c5-5994-4830-97e7-0bcdb98a8643/6/live-facial-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "EU privacy watchdogs call for ban on facial recognition in public spaces"
     excerpt: "Europe's two privacy watchdogs teamed up on Monday to call for a ban on the use of facial recognition in public spaces, going against draft"
     publishedDateTime: 2021-06-22T01:50:00Z
@@ -127,6 +157,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15061544/16x9/991/557/20955416f80eb815faa64c3babda4a2f/UP/file-photo--a-new-cctv-camera-for-facial-recognition-technology-is-pictured-at-the-train-station-suedkreuz-in-berlin-3.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "EU data watchdogs call for facial recognition ban"
+    excerpt: "The group of regulators believe the EU’s proposed rules for AI do not go far enough in banning live facial recognition in public places."
+    publishedDateTime: 2021-06-21T15:09:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/facial-recognition-eu-ban"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/facial-rec-AdobeStock_277325495.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
     excerpt: "European privacy watchdogs have called for a ban on the use of facial recognition in public spaces, pointing to the “extremely high” risks to privacy. The joint recommendation, which comes from the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS),"
@@ -184,31 +228,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
-    excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
-    publishedDateTime: 2021-06-19T11:45:00Z
-    webUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
-    ampWebUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 35
-    images:
-      - url: "https://cdni.rt.com/files/2021.06/xxl/60cdb83885f5406aa07b6e41.JPG"
-        width: 1240
-        height: 697
-        isCached: true
-  - title: "UK watchdog raises alarm over live face recognition tech"
-    excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you."
-    publishedDateTime: 2021-06-21T10:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20210621/3774890.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "a7iBzFGTkbTb69n8PG+W+us0+mlShOl/AImR5BBHOff3e5RhsPEAgPHHbvqMYtmHHKyLwvOVfF6lp6IQkgQEb4pNmZiKmQcmCKohHKR2fQZ/Sr04iuSnEwP33VtdgcnyIFa6rYNy6bKmJ4BW1rhW0iaBjQrHZOCGf8QzsvNlyIAHCfOCgxtWiwtyAAGM+cBD9fSLYcDzGF4BNZ7t/mEliAW6m0oeXHpiQovyBKdZVqdiKj5QclVAS4D0WQCoVWlfE4K/I0FfGHWkSq+Mgvplmnsuq0fHjn3i7dHG/0Uwi3OekqDFvCRFebO91i85dmNMKgMAD+hRqFSKjdq6z1s8JEmqfJDJ9WLoQDX0pJla0xiEAyQgkP9CiTy2madydgHhpqhxf9uG0aKnCTOURGuuTOhJcShXLseKczzGswun902mPxgkbfAEyet/CAYsdx/TEQZsXbFj4czVToUNsVbnVQh4DukE5R/dyGDKxtsbFFcVC0TItfD3SEmvj3AvpVOux6ArrZkgcJYq3vtjEpQFfA==;phId4QFS9iCxp6B6aomQiA=="
 ---

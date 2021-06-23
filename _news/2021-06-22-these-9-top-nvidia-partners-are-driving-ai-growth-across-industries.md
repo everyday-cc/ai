@@ -85,6 +85,22 @@ related:
         width: 714
         height: 454
         isCached: true
+  - title: "Nvidia Expands AI Stack, Stretches From Cloud To Co-Location"
+    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
+    publishedDateTime: 2021-06-22T23:33:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
+        width: 714
+        height: 454
+        isCached: true
   - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
     excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
     publishedDateTime: 2021-06-22T15:21:00Z

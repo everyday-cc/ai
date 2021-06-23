@@ -83,6 +83,22 @@ related:
         width: 714
         height: 454
         isCached: true
+  - title: "Nvidia Expands AI Stack, Stretches From Cloud To Co-Location"
+    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
+    publishedDateTime: 2021-06-22T23:33:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
+        width: 714
+        height: 454
+        isCached: true
   - title: "These 9 Top Nvidia Partners Are Driving AI Growth Across Industries"
     excerpt: "An Nvidia exec explains the formula behind the company's top nine partners of 2020 who drove growth in AI solutions for vertical industries."
     publishedDateTime: 2021-06-21T19:39:00Z

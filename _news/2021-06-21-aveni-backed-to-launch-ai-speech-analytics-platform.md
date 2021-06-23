@@ -43,17 +43,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-    excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
-    publishedDateTime: 2021-06-22T14:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 65
   - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
     excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
     publishedDateTime: 2021-06-22T15:55:00Z
@@ -67,6 +56,22 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
+    excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
+    publishedDateTime: 2021-06-22T15:51:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 53
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Edinburgh Fintech Aveni Acquires Investment to Support AI and Natural Language Processing Platform for Business Speech Analytics"
     excerpt: "Edinburgh Fintech Aveni acquires investment to support AI and Natural Language Processing Platform for business speech analytics."

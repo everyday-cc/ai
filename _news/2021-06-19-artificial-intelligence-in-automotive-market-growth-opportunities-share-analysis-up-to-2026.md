@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech) - Forecast to 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-06-22T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in-precision-medicine-1030544037"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
   - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
     excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-06-22T12:22:00Z
@@ -46,6 +37,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 2
+  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
+    excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
+    publishedDateTime: 2021-06-22T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9395457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "d5NDb0B7bPAb7Xmgc14/3pB1WHhpktBoSmePwWpQWcSItAari84HZsEtrqXn2hdiBJPazy+QP1q1A86w6JfMnv/Ogav2fiP5kj6D7MzbxkQBW6m+XOxXhd+i1t30Xs/RSML9BY/olgOqJnMdreUZnJXwGQsJDFQ4+E+Uix3Azhgysewp8FsMv9K7s5acNWgkpT2pWBx7auCRhoqxDjAhVGrp4QawAq7wz14EIwNUBpQGYftIn9wtABjSYnx+qxx7DPNZ9vIXmhue5qxhf0Ypn4Dm8WrPGOe+nU/LqV7ynSUXgxNFbVDvMyS447P+bFanBXmS3QlKdKE/lG7tW9C3LPt15xRfGGvVU9hNZ1EPqGk=;rrl3egLbFlju1Xp+3vbvvg=="
 ---

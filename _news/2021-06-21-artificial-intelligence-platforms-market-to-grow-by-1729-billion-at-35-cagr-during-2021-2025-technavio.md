@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
 excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
 publishedDateTime: 2021-06-21T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393972.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393972.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
 type: article
 quality: 18
 heat: -1
@@ -61,6 +61,6 @@ related:
       domain: reseller.co.nz
     quality: 8
 
-secured: "QcM+fbwOM3iXP3/2P1sH6v/7bAuhc2XTH1gSWbPfLNGP+R73Bkzn74NV6uhfVxVhkdYn48aNdl9zVci5964kUHxmlEPjsYv9PKcWCbc6oYI2nrJdrrc1o9JylmYg09jQMAD2tOxDr8Huv89bg2iF/5LHaPo8UR5Q8Bw2kzleNC2brq5QsNk4yNaSFNroVRg3y0vcmHxPx1GxTIgjRXbjwaiQJK1sgt/kWpZd0+kzpRqMpepRP/PspkAmxRzFjKU/CbOP+urTeGMQxAO5CPgBmWV0yURkIiLbdzIvR/MChxr4pOwuT29Fvht1oq7VRw3X60ElJnvTmmfadBfPitQj2+mK98IYDpnGYEUfo65Myvo=;zMZ5p/hMpf2dTCusj1Dkkg=="
+secured: "s1lBAGPMk4RO6tQzEKjHic+VIBYI1kcw13bULgg4NKWSKWhVtOpUV90dnej4xiBni5un90K34IL8pPuiRAkveJuxCABnC0t2z0UtnbuDJ2NSzGwBoWFtI1v762VvVKuShzhITJtST/oto/8uUQqZq+fAD4+WJO9Rda2N8sw/PrUvV8KAvwOPHIgJFgLmOAKW6SgbAZMyTaFHIA8TmPzwtW7hMTcHT5bTUe8YgtjCqQGT9uebZOtcUrawJYo+E2WDtw0obh2xkAyDv9KsF9gcvQwQ6h+ba5zCOOrh9zDWGo8mn8VjipfA9o5egNvmJYzZy0GgWI6Ke7n2X/y6Mq6poKdsJoRw2VY+VRVhplRx/Wo=;PPi3eWV6cYQ2nsYHzAMp+g=="
 ---
 

@@ -41,15 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Indian fintech firm Razorpay co-leads $1m round of MSME edtech startup"
-    excerpt: "MSMEx, an India-based edtech startup for micro, small and medium-sized enterprises, has raised US$1 million in its pre-series A financing round led by fintech firm Razorpay and investment firm TNF Investments."
-    publishedDateTime: 2021-06-18T10:02:00Z
-    webUrl: "https://www.techinasia.com/indian-fintech-firm-razorpay-coleads-1m-msme-edtech-startup"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
   - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
     excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
     publishedDateTime: 2021-06-22T14:21:00Z

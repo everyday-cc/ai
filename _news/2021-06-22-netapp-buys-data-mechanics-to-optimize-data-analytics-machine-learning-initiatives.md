@@ -1,25 +1,30 @@
 ---
 category: news
 title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
-publishedDateTime: 2021-06-22T14:25:00Z
-originalUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
-webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
-ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
+excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
+publishedDateTime: 2021-06-22T15:51:00Z
+originalUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
+webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
+ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
 type: article
-quality: 65
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Smarter Analyst
+  domain: smarteranalyst.com
 
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
+
+images:
+  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "Google says AI and analytics can take its cloud to the next level"
@@ -128,6 +133,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "RDsK/c5fusQTAnLWeWh+XkWQyu1KZy3GvWAqX/8xWPBGcgibpiCXSaSgrDhOzVOfEwDojMgMdKVwdXFE8oswEMbQJ1oNHSZfTI1qir4F3ng/Dv57xDunnGpEj1upLWjF/ZZEFVSLotxwaRWUqc1poeF8VGt2+BeK55+SBhB2Dfa5fUHHIBgMZeOZq9imCc+9gNRnttZ0ZlDVwMK4zLfMfaPZIeLKYopISmhf+8SMaGuhY202kBNtrye/SMThIbzAQruDpS47wTXECSK4gdZDnevzUP+V9Vyaa10pn0Mm7cWhRtm3PGKyGFF+Rd/27UKZZPC8RCgGaFohTvy2Gw4834s6LAXkGy0Y8+XGfnKdqYU=;sjpk84BAoEP4stPxzNOFng=="
+secured: "E8/S78CARvRXrNKnhQ+wiMgWd3xshqQ3nT+EiZuHmocxIdP+xKmHfVze12nUHDSL0dEyExn2aC7qlTyARl3uGDCutxnI9gzS7dRHKU6NmyCO1tWVlPLSSqz0IdmAQ5cruFoJP7d/HvCPutOGtrzedsKk2cMwDPzFbUBIAfcK+RlnlALCmak57Lc7OSDObn5EPHiqDpdnyPxHZVdkSdmZphOLCZNJ3jnihmcxWtIs1Hn38PXlN0nAAuKUXM9dBHZF/m6VkL6Hn8jvyoLXmPKQIzZFeHXPpP6Sl59UVZa2x/MstPewT3oA2tNGUy6URgOl/Cuq8/A15V6Xu18X5CvL8LdOLdtew/6WJxgAEOenVwE=;s9F25r7ExVvY5hf9qVMkGA=="
 ---
 

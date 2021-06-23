@@ -34,14 +34,14 @@ related:
         height: 630
         isCached: true
   - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech) - Forecast to 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-06-22T16:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in-precision-medicine-1030544037"
+    excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
+    publishedDateTime: 2021-06-22T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/22/9395457.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "EvTWioLJl8AI5rPyCp85pNNQhKcga87IOHfXLjTA7sqmb12NVanooY6VeZboKVkkxYd68K1ngvYGCQEIZXLxQ7QeMEFcIQ3E3zhdh5BJBzplbPFvvZ1rp9FAeUOdhloIeW4+WpJUOZ+2SeXImzWRpN6SmUpNRmw7It/W2f8UfQuCeNm/k336YRY3DqUetTDJDvLy9WnA8lMqdUu2vVougxcSaH34ysGCOc1Zqq/ArMDrYhRacxyCqKRybto7vKevIMo1PEuWMXbIPJBscjFvommYlnj+aM32VrG4Hi4QycnEQsJK55JNIVkHzh0Ms5j74comAo4pD9KZ25r2keCZqYMxagJkqgKewI49XtVfFcQ=;mF36dL+YznYNfOtzn0QTWw=="
 ---

@@ -2,21 +2,17 @@
 category: news
 title: "Honeywell's Experion Operator Advisor Incorporates Advanced Machine Learning To Measure And Improve Operator Performance"
 excerpt: "Honeywell (Nasdaq: HON) announced today the addition of Operator Advisor to its Experion® Highly Augmented Lookahead Operations (HALO) suite. This powerful software solution enables plant owners to objectively measure gaps and drive operator effectiveness to the next level."
-publishedDateTime: 2021-06-21T14:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/honeywell-s-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance-1030539822"
-webUrl: "https://markets.businessinsider.com/news/stocks/honeywell-s-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance-1030539822"
+publishedDateTime: 2021-06-21T09:30:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210621ny17160/honeywells-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210621ny17160/honeywells-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance"
 type: article
-quality: 24
-heat: 24
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Machine Learning
@@ -38,6 +34,6 @@ related:
         height: 313
         isCached: true
 
-secured: "Gt25TwwLnIhaPXaDBFges94B7qCtUh+6YW462Hc4iFU4T9ueNa4TCZGEdnhG2bCttjO6d3qJBONtAWYuGwkudnAn4HScOqLMV6hGIfywQUwwwiEgdcXRWKgXscdnnERVxlnsRq6vi+f2CaIuc1V2zGfv4M9mfn/+dO5ZkvegNQ8WcXd2QBnqA5V/vK1SxjMfXp0uVQIlG+TNAKz2Oa03YD1CY40KaDZQ5fHi8eWnnMTgjr1A6krwL1rJP/a13sYOKrWFfcjC8uoMZVdYfn9xmres+0gYXpacrxwCmN+3Wiol6qkgtqCaO9ducDybKOQ6qCqr/bKSml1EmqEtmiMvLT3wOUbxEN/aXObH8Mac37M=;bn0f8h1p3me1X2Tp/4hQPQ=="
+secured: "z4xA05tBNEw6Afoz1Oij/+kHh0MU8Truix03xERkftysLjqyfQeX7OkazGc0qvyVTW/vCKDCyg6Bg6boz2ejbPWHHZEpEXMoMYZ1PSp7xLQ4zlzarx7HTtD9blnO31erVwEk/aFZEF1mVPKiDx72U7wbLaXJI59A8R2ZmfyzYQyufBKHd1gOcx8C4usLR7baii+sf79wQtPL/Rofwv1tYA2IyYmFSICEwoIHhT2B6nh0Emomz42ukoyKIhlWa3ioJBnQ07JfyZa9mf6x3ZqpUJk9c2vrz1YYH2o5Rgz091EnXN1Y5mc0oe2eWAweUJPBF4d7L9nA4RlutMhA2bY2CPWst9jZA52r7srIzD7jvhU=;BWEMaph9F3UqLqEcC2dCTA=="
 ---
 

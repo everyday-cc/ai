@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in the Telecommunication Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence in the Telecommunication market report provides"
+    publishedDateTime: 2021-06-18T16:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4575364-global-artificial-intelligence-in-the-telecommunication-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
   - title: "Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Telecom Artificial Intelligence Software, Hardware and Services Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research."
     publishedDateTime: 2021-06-18T16:35:00Z

@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-18-ai-powered-mayflower-beset-with-glitch-returns-to-england.md",
+      "title": "AI-powered Mayflower, beset with glitch, returns to England",
+      "excerpt": "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_8905fee31e8143a5bc2db66fc7e0ddf6_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
+      "publishedDateTime": "2021-06-18T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now.md",
       "title": "3 great deals on robot vacuums from Shark, Eufy and more you can score right now",
       "excerpt": "The vacuum category offers great deals on Prime Day, says smart shopping expert Trae Bodge of TrueTrae.com, and in some cases the deals have already begun. “As home deals are a large part of the offers on Prime Day,",
@@ -933,6 +975,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-ferrari-amazons-aws-enter-agreement-on-data.md",
+      "title": "Ferrari, Amazon's AWS enter agreement on data",
+      "excerpt": "Ferrari RACE.MI and Amazon Web Services (AWS) have entered an agreement to make Amazon's AMZN.O cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "originalUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ferrari-amazons-aws-enter-agreement-on-data-2021-06-18?amp",
+      "publishedDateTime": "2021-06-18T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-chinese-ai-learns-to-beat-top-fighter-pilot-in-simulated-combat.md",
       "title": "Chinese AI Learns To Beat Top Fighter Pilot In Simulated Combat",
       "excerpt": "A Chinese AI system has defeated a top human pilot in simulated dogfight, according to Chinese media. This echoes DARPA's AphaDogfight result last year in which a machine also won, and signals how rapidly Chinese AI is maturing.",
@@ -1108,92 +1184,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-corsight-ai-announces-pioneering-enhancements-to-core-technology.md",
-      "title": "Corsight AI announces pioneering enhancements to core technology",
-      "excerpt": "Corsight AI, a foremost facial recognition technology provider, announced significant enhancements to its flagship product, Fortify. The system’s scalability has been increased to enable",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/positives-of-using-facial-recognition-technology-in-cctv-surveillance-systems-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "publishedDateTime": "2021-06-17T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-is-ai-a-magic-bullet-to-combat-covid-19.md",
-      "title": "Is AI – a magic bullet to combat COVID-19?",
-      "excerpt": "Doctors and health tech experts inform that AI is no more alien to the domain, the pandemic has emphasised that it is a necessity and not a luxury",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83626648,imgsize-31653,width-800,height-434,overlay-ethealthworld/is-ai-a-magic-bullet-to-combat-covid-19.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/is-ai-a-magic-bullet-to-combat-covid-19/83626648",
-      "publishedDateTime": "2021-06-17T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
-excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
-publishedDateTime: 2021-06-22T15:21:00Z
-originalUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
-webUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
+title: "Nvidia Expands AI Stack, Stretches From Cloud To Co-Location"
+excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
+publishedDateTime: 2021-06-22T23:33:00Z
+originalUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
+webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
+ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: The Next Platform
+  domain: nextplatform.com
 
 topics:
   - AI
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-    width: 500
-    height: 281
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
+    width: 714
+    height: 454
     isCached: true
 
 related:
@@ -83,22 +85,6 @@ related:
         width: 714
         height: 454
         isCached: true
-  - title: "Nvidia Expands AI Stack, Stretches From Cloud To Co-Location"
-    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
-    publishedDateTime: 2021-06-22T23:33:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
   - title: "These 9 Top Nvidia Partners Are Driving AI Growth Across Industries"
     excerpt: "An Nvidia exec explains the formula behind the company's top nine partners of 2020 who drove growth in AI solutions for vertical industries."
     publishedDateTime: 2021-06-21T19:39:00Z
@@ -112,6 +98,20 @@ related:
       - url: "https://www.crn.com/resources/0268-12061e36b423-ba167a1fc5d1-1000/nvidia-2.jpg"
         width: 608
         height: 457
+        isCached: true
+  - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
+    excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
+    publishedDateTime: 2021-06-22T15:21:00Z
+    webUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
         isCached: true
   - title: "Nvidia’s LaunchPad delivers instant AI infrastructure in the cloud"
     excerpt: "AI infrastructure in the cloud and at the network edge. Announced today, the new Nvidia AI LaunchPad program provides customers with instant access to the entire spectrum of Nvidia’s AI computing resources,"
@@ -128,6 +128,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "SrkMP3JleYqZzc1a1OY5YRn9M2jIc89EQEVSgtzk312LyyAZ45cN201TxLYvZocYyNuUMKeYuA9/m2XA17IZHxw5352zWiCd1JApCvycQnosJIi8Xd2JOf3E1zq4w5NGRln97KQkEn4dAco5WEdj1xgkSs2Ub+lJVYxV2BS5yZOiKFt8i9tnecx3Tou4lyCL+OT2oYcH4PWN7N7aLWsvFL6BwzdEZ9LGUELu2481KLfa9v003c0C+BJvTf9FeZZamuAvdZOEyzsR43XAIpwopsLgyG/2rKypm2/YtwhEjnEoRfQZiK6lqQ1Ck9yWGMLU6RSDTwwFP+6l1r+MiiHUjPiXU3Me2IPhaYJH4aYNLQAxQH/xojNqHjDJPWMSvwxughFHN5gD4G6S6XfyCBXcZEjj0Aht9wY0R/oqmg6NADFSCitIgVINJEJmcZOeO8aPXhNz9Hhbzso/UE1vaEa2Nwu5vPzzQ9qend2upoE2UBnaUGofao1VuP6INAqd9d9HWN1PdmuUW6NffuryT9zv3A==;VDfyIohIiXrji5lbivwiBA=="
+secured: "2ULdcPcjJMtNvltjzI2fWzQycJJT5HJHdraE+iRYUxOonN4NO1RbOwn364TtTJCWavWQgt3uDUV5XLLSaKePYAXT9NZJyeag+O+UHu1s0JPeM/30N1qaOZGl5XDQL+gRcSBKUFm54tKXwE0GdE/a9kXt75EQ2ruShh8De8o2BattBT/KIdl8OGdeTwkMnyZKYHXLGi3UcyfkOBgfdRPMk+J73QVOolWE8Z8EIbNpResh8Tbonr6A3jxwvo2zjFMy+KwwWV+NkjySnDZGSmQRgBlRppSe9yP5OV2ow3CKya0yt+GpYVkRqvTPFL66mDMsZo7I9uU7OZgiDjGgWiBfx2vGQzxZVvWBqIAkheS7z/0=;/kcRm/kTO3oXuHidak6RWQ=="
 ---
 
