@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Hicks Announces New Artificial Intelligence Initiative"
-excerpt: "Hicks Announces New Artificial Intelligence Initiative. The integration of artificial intelligence technology is abo"
-publishedDateTime: 2021-06-23T05:17:00Z
-originalUrl: "https://www.globalsecurity.org/military/library/news/2021/06/mil-210622-dodnews02.htm"
-webUrl: "https://www.globalsecurity.org/military/library/news/2021/06/mil-210622-dodnews02.htm"
+excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
+publishedDateTime: 2021-06-22T21:52:00Z
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GlobalSecurity.org
-  domain: globalsecurity.org
+  name: US Department of Defense
+  domain: defense.gov
 
 topics:
   - AI
 
 images:
-  - url: "https://www.globalsecurity.org/images/temp/one-billion-americans.jpg"
-    width: 675
-    height: 313
+  - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
+    width: 1280
+    height: 851
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 838
         isCached: true
 
-secured: "6bsShWMYW0K989ptpM0xAAUodaq6abvj9r1v8Re12bwrRd3B7Lks1OgafulWp0qhHUoEV0KqKI0oOLOkTFm2yZ2Yu9mriWzlvMimPaH2q90z/Q9Bcn+yXajJsid1DVv/mcF5tkbejPjr5EZeP8WJ/e9dl9SukB7TmCcLV811AHyB+lEMloBGs6LX/6WTYnkYJXvmaVLHwsMoIrRgaRxPY0uQtJ8jGHNY+l1qkH3q77Llva1/4ruXoMQbtShxpKMf/eNdbu6c0xWp/8shCjhoM7/4Nzq9RY5BCee+Uiu+qIO4WgqpglLUatTUne6Y/vq8a2HWYBFp9FMSVKuhx57fWQMOAsDi6u5n7QmtSvZd7Dg=;TI9cyxsKwz8gfry5meSMBw=="
+secured: "qVtyxkEd+B0OLotILfVWDs9dEJPNuu5LBoWxId7PLBOo71NSSTiqVN8NcXmB5zSzmuqqeceRs3HuNOIzQywAmx9nhf0c9YGFZdGjmz4fLDo4xTf9OhbEO3ggmTqcOiOSndKo1PvZdXaHeKX/Hpdd+OB3ZZ4xB0aFyZgRtt4VkS/amwlrJCVnSM+KbOoGhEkVTjp5hvagLM8g8eXqYtuQx8rIPKsP5Z8Kmqxwf27np2+UNOwoZHqnlpag9cMYs/HS5X+Gy2QR3Wjn9uzRl66Xp8p2EkeM5x3IhpgreZop9SFxbqhRuUwmuuUb5HhqWYpB64SaZFdFfcwM3cXXHMtHnj4NZCqR+NLS8v3U2Nco3qM=;dITd0el6vsZ5Da9S9RA1eQ=="
 ---
 

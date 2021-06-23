@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-08-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud-seite-2.md",
+      "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud - Seite 2",
+      "excerpt": "In addition, Amazon Web Services (AWS) has launched Snowflake integration with Amazon SageMaker Data Wrangler. Starting today, you can now use Snowflake as a data source in Amazon SageMaker Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud/2",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud/2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wallstreet-online.de/_amp/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud",
+      "cdnAmpWebUrl": "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/14015672-snowflake-announces-new-features-to-bring-together-the-world-s-data-the-data-cloud",
+      "publishedDateTime": "2021-06-08T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
       "title": "Snowflake previews data marketplace, governance tools, management features",
       "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
@@ -1334,40 +1368,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-announces-general-availability-of-amazon-location-service.md",
-      "title": "AWS Announces General Availability of Amazon Location Service",
-      "excerpt": "AWS announced the GA of Amazon Location Service, a service that makes it easier for customers to add location functionality to their applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601006014/en/AWS-Announces-General-Availability-of-Amazon-Location-Service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

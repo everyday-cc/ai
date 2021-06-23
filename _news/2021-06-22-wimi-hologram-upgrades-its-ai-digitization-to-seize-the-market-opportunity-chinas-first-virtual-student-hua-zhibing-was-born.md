@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/wimi-hologram-upgrades-its-ai-di
 webUrl: "https://www.digitaljournal.com/pr/wimi-hologram-upgrades-its-ai-digitization-to-seize-the-market-opportunity-chinas-first-virtual-student-hua-zhibing-was-born"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "WIMI Hologram Upgrades Its AI Digitization to Seize the"
+    excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"WIMI Hologram Upgrades Its AI Digitization to Seize the Market Opportunity, China's First Virtual Student Hua Zhibing Was Born\"."
+    publishedDateTime: 2021-06-23T06:20:00Z
+    webUrl: "https://menafn.com/1102328314/WIMI-Hologram-Upgrades-Its-AI-Digitization-to-Seize-the"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418160"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "umq2+cN0JhcdBOmwzGl80gRsELJdBvxP4Efqej+/ouqCaWIfN4Qedqlq04vn+s2xi4KgQoTpxm//Fl0tZkNYDCSTwTVv1ceSJcgjD0X8jMXWenSaGwCXB58vEYfowhErFh6jyE/Uz2RxZ9dUBAZFOSsHoovKQTwrn58ZQSQE/TB805f0LLvQhMv1eQQOcrJDEFl3lNzjfglx+iyuP6XKW9qhC6Cp/BxSp/H5igchMlOdIAux3fNHamz06RhFS3sLJX3/xIaF/LuZEndzgMpCHYwkqEeW0mTZIKRR/eB3C2etZzhGx5wN2UUpk6Eer+ZGMJe0Ph3PF5PZe+dJohWeyzv6HvxsPusc0/5QeKFTNMvwiQ5z70WEvY4HIxurcQOh1cmQLa9/N+hBvooTA52l6eaxVmYyMgHEq6aWY/DZ8tOwRW8pRA9DCkUeAbr5q3o0vGiQKaUWq5qI+Mq8FJRj67QpjWwXF6WpjwN4OeejIqServ9wao9ezBpMOiBBdI/aEo1QUOcQSYj9xcj4Zb3fTA==;8PFWVc+WyimBwQ8++CHOCg=="
 ---

@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
+      "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
+      "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "originalUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106424520-1583341306047gmevbarra01.jpg?v=1583353549",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
+      "publishedDateTime": "2021-06-16T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-uk-computer-vision-startup-tractable-reaches-unicorn-status.md",
+      "title": "U.K. Computer Vision Startup Tractable Reaches Unicorn Status",
+      "excerpt": "The London-based startup that uses AI to assess auto claims for insurers like Geico has raised $60 million at a $1 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "originalUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca8ceaf4d0e7bf31d71929%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/iainmartin/2021/06/16/uk-computer-vision-startup-tractable-reaches-unicorn-status/amp/",
+      "publishedDateTime": "2021-06-16T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
+      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-tractable-uses-computer-vision-to-accelerate-insurance-claims.md",
       "title": "Tractable uses computer vision to accelerate insurance claims",
       "excerpt": "Tractable's AI performs a real-time analysis that helps insurance companies quickly decide whether a car can be fixed.",
@@ -480,15 +626,15 @@
       "title": "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions",
       "excerpt": "Waymo, the self-driving car pioneer spun off from Google, isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi",
       "sourceUrl": null,
-      "webUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
-      "originalUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
+      "webUrl": "https://www.wsav.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
+      "originalUrl": "https://www.wsav.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2021/06/8e69ddf54284468eb6bb598dde6e777e.jpg?w=1280",
+          "url": "https://www.wsav.com/wp-content/uploads/sites/75/2021/06/8e69ddf54284468eb6bb598dde6e777e.jpg?w=1280",
           "width": 1280,
           "height": 853,
           "title": null,
@@ -498,13 +644,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
-      "publishedDateTime": "2021-06-16T10:38:00-07:00",
+      "ampWebUrl": "https://www.wsav.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
+      "cdnAmpWebUrl": "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
+      "publishedDateTime": "2021-06-16T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WAVY",
-        "domain": "wavy.com",
+        "name": "WSAV-TV",
+        "domain": "wsav.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1022,145 +1168,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone.md",
-      "title": "Self-driving trucks startup Kodiak Robotics snags investment, partnership from Bridgestone",
-      "excerpt": "Tire-making giant Bridgestone has taken a minority stake in Kodiak Robotics, the Silicon Valley-based startup developing autonomous trucks, as part of a broader partnership to test and develop smart tire technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-fedex-partners-with-ai-robotics-company-on-last-mile-delivery.md",
-      "title": "FedEx partners with AI robotics company on last-mile delivery",
-      "excerpt": "Both FedEx and Nuro will explore use cases for on-road autonomous same-day delivery services across the Houston area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/06/16x9/FedEx_Nuro_AI.60c915ebe6bb5.png?auto=format&fit=max&w=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-update-3-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
-      "title": "UPDATE 3-Alphabet's Waymo raises $2.5 bln in first fresh funding in a year",
-      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a statement. The duo became co-CEOs after John Krafcik stepped ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
-      "originalUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL3N2NY329",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2NY329",
-      "publishedDateTime": "2021-06-16T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
+      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
+      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
+      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
+      "publishedDateTime": "2021-06-23T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-build-accurate-ml-training-datasets-using-point-in-time-queries-with-amazon-sagemaker-feature-store-and-apache-spark.md",
       "title": "Build accurate ML training datasets using point-in-time queries with Amazon SageMaker Feature Store and Apache Spark",
       "excerpt": "This post is co-written with Raphey Holmes, Software Engineering Manager, and Jason Mackay, Principal Software Development Engineer, at GoDaddy. GoDaddy is the world’s largest services platform for entrepreneurs around the globe, empowering their worldwide community of over 20 million customers—and entrepreneurs",
@@ -1367,50 +1411,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report.md",
-      "title": "Despite High Proficiency in Machine Learning, Math, India Trails in Data Skills: Report",
-      "excerpt": "Despite having high proficiency skills in mathematics and machine learning, Indians still lack data skills, reveals Coursera’s latest Global Skills Report 2021. More and more Indians are moving towards skill courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "originalUrl": "https://www.news18.com/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623229612_shutterstock_1831313974.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-high-proficiency-in-machine-learning-math-india-trails-in-data-skills-report-3826721.html",
-      "publishedDateTime": "2021-06-09T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

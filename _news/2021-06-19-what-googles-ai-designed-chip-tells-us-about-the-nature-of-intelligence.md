@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nat
 webUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/06/Google-Develops-an-AI-Software-That-Can-Design-a-Chipset-in-Just-Six-Hours.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Assistive Intelligence will shape our future, but we need to think about AI ethics first"
-    excerpt: "AI is nothing like human intelligence. It we ask the right questions now, we can harness this alien intelligence to better our future."
-    publishedDateTime: 2021-06-18T13:29:00Z
-    webUrl: "https://nextconf.eu/2021/06/ai-assitive-intelligence/"
-    type: article
-    provider:
-      name: nextconf.eu
-      domain: nextconf.eu
-    quality: 47
-    images:
-      - url: "https://nextconf.eu/wp-content/uploads/2021/06/BlogShareImage_AssistiveIntelligence-1024x538.png"
-        width: 1024
-        height: 538
         isCached: true
   - title: "The Sunny Future of AI"
     excerpt: "This AI system-on-chip uses a new architecture that can support facial and voice recognition algorithms while running on solar power."

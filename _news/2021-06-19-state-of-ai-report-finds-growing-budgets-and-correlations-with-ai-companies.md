@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-fi
 webUrl: "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
         width: 1740
         height: 1920
         isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
+    publishedDateTime: 2021-06-23T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
 
 secured: "QWA2qCEPf2CWYFoUuxazVxy85ZTtF0B6dcBuOJBM52ppo0Iw9N++k6CZDFdstPXMftnYsA3euF2eFl3P5OGvkVfIjwsaGyRCZU0oMLtD9oi3TV0d8HCHiNm+5JpYrhTxUbbgSGvXBap5Kyh13K4fWGBaC1ZMRdNwK2LJ3xGFcFuwdBLFXV4vV7SD4IU8qn49JET24KgbDH91WOucAoBtYYSPD/U3p6hzMufvX6VH44OC8rLRdSsBLBDwKA2r/+68e/3ZsTMsdvvz50yTsuU7joV4JEHa8n64Ol49zqiUSh+IVoJO7Y4D6UCgbwp/hvYp9wHI7VM+eyAXUnhCXf7JrvvGgvGZeC4WEk/ZS4jmiWINi9oe/1Xahe64y6Lc6FsophctVQXqtmDk10MTsOWcqHlU8UxhRC2ajVgFAptVhDALLY9RZmHexjGh8E/yYZ+4NPAOwNn561xwNKq/dwOcTVEjVYPl2B8ZLmcZw3uCLB6HH90VL6yYWUqFCzRRQ9csZKNBjCndGyqDcXHsUCmc1w==;eysZix6HF1vv1pNNC7wErQ=="
 ---

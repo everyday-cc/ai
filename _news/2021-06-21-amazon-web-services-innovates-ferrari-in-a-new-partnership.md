@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Amazon Web Services to be Ferrari’s cloud provider for Formula 1, racecars and road cars"
-    excerpt: "Ferrari will use the cloud platform from Amazon Web Services across its automotive venture on and off the race track. This includes its road cars, GT race cars as well as the Scuderia Ferrari F1 team."
-    publishedDateTime: 2021-06-18T13:17:00Z
-    webUrl: "https://www.financialexpress.com/auto/car-news/amazon-web-services-to-be-ferraris-cloud-provider-for-formula-1-racecars-and-road-cars/2274135/"
-    ampWebUrl: "https://www.financialexpress.com/auto/car-news/amazon-web-services-to-be-ferraris-cloud-provider-for-formula-1-racecars-and-road-cars/2274135/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/amazon-web-services-to-be-ferraris-cloud-provider-for-formula-1-racecars-and-road-cars/2274135/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 50
-    images:
-      - url: "https://images.financialexpress.com/2021/06/Ferrari-AWS.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ferrari partners Amazon for cloud services; to build fan engagement platform"
     excerpt: "Ferrari will use AWS' advanced analytics, machine learning, compute, storage, and database capabilities to achieve insights into car design..Ferrari will also leverage AWS to gain deeper insights into how its parts and cars perform under real world conditions."
     publishedDateTime: 2021-06-20T11:28:00Z
@@ -158,15 +142,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 34
-  - title: "AWS Chosen as Ferrari’s Official Cloud Provider"
-    excerpt: "(NASDAQ: AMZN) company, Amazon Web Services reported entry into an agreement with Ferrari S.p.A. to become Official Cloud Provider, which includes Machine Learning and Artificial Intelligence Provider."
-    publishedDateTime: 2021-06-18T13:35:00Z
-    webUrl: "https://www.financialbuzz.com/aws-chosen-as-ferraris-official-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "N+A0uj3EJMZRhlCZF7KQqMxtsdyvKJ/sSWqH1l6ABHTI8Qh7f4foYCZFFeOzfRq5IvguvSyP5bDy+qxioepZRTgvI+hFXDVM3a3vBqpg3tRtL6I1zEcC1O0RKrk1EQxOhfLLisVkGqXEtdAoXWd2OESI4fanDPiw85bCUDYHSXnhBPl6uU6y1qZ+sscbIUtOZ0cOHBYPdXpUSdNdl5deXnXmOJdRfO8tFoljTQbTU+m7X4eQShM4Ff4ZKOuWU8frKPV7AyxmCUXW9xUoyLwBozVsz1glmaupxLPjZ8zdEPSlSE/LAdAuxPTkYfQ5+mCW2KqOhsrmliForqeG0rQ8uqz3XuGHDy2hm7/sNUlOHK2cIZqWAESu+Az5k5Jj9OgBFpHmn1IJ6XUjZKlt8e+301Afb9QUvScaauQwaRZGftQTayZ9kL9+F8djLlWBY4u3kqWedIzwO36vSMCXyeiS6+q56h64dksqTnmmKYbMBJIOcoohauXzUoEuSV04cm7UkYgSY5wmUqRlMMB4M7WamA==;gUhBroTLMQzZs2juryTiEw=="
 ---

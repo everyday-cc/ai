@@ -36,17 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "IBM Completes Turbonomic Acquisition"
-    excerpt: "IBM has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to enhance the tech giant's push to"
-    publishedDateTime: 2021-06-18T13:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
     publishedDateTime: 2021-06-20T18:37:00Z
@@ -60,20 +49,6 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
-        isCached: true
-  - title: "IBM Closes Acquisition of Turbonomic"
-    excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
-    publishedDateTime: 2021-06-18T14:50:00Z
-    webUrl: "https://www.finsmes.com/2021/06/ibm-closes-acquisition-of-turbonomic.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
         isCached: true
 
 secured: "J0cOqk/Va/pbhsrAynEJIR0mJmTnh9w01filE/rbA4jOF+7c5pr6xq3l4ZIoSHykovhHtVSiVzONqUUoB2moTZoOvAkzEHvR6xtoyObHNr6v7uU8rYCeUqonHKy36caZxV5QoQNEWR5agpKSrWGnyynFHCDlxlS847U40waRS2UwJcZ1F2pYoZrpPOehNNx7/AEjcNEp8pN1bSm6CB7TwL7ZCfdzCVNzQWzimI1hWGxsK/q5NhlglyvKM8RO/GJ8Hig9ZNNRLgAo0MBUdLBLkwL4MEYCnPYo7hFGtvhUVb8S+y5IHXg7Wsg+bdKMqfpjS6nt3/GS7Tud6Tfnz3lxXG+d0jLZLgrWEe/lkChdsrU=;eRC0mCpsITILW+kbwrgUvQ=="

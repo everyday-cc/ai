@@ -26,22 +26,6 @@ images:
     height: 1024
     isCached: true
 
-related:
-  - title: "Balancing ethics and innovation during tech transformation"
-    excerpt: "With greater tech power comes responsibility. Firms adopting the latest systems need to do more than ensure regulatory compliance to retain public trust"
-    publishedDateTime: 2021-06-18T14:17:00Z
-    webUrl: "https://www.raconteur.net/digital/balancing-ethics-and-innovation-tech-transformation/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/06/Data-protection-data-ethics.png"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "pwi6EZrfu9uLaoPnSrt4aPaRweGhQmQeQI4ImIWZNfHtuTjsg9+J6P4p8lT+IoT9nJX4J2mbQA12wHAu680psCY/w8HfQXedHMNQygPraDBN/a5+m7eyQmG3BvMS7TzHx99Cvn8ha1c70nBzF/PrMcSENPIsW0+N7XSxHPcC7qwT4SsMJrvXgNQrJsK1LfYNeGKt2/b6ia26rrcBa6XUzwXXkqsKCTceTGC5pEK7DSQM+H68gLDp5OkGKECMyq25EdNAWN86131s8IccLj2uF4vwmphy4dG8Ab2jrhXONzM+C6lENDr3wimVar8f8lksMb1D/eD1Xnysog5k/249ALlDz3q7o4PtE/4J/LDQjtU=;NE3iUMwfYygO6QthHu3aqQ=="
 ---
 

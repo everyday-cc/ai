@@ -2,6 +2,187 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-05-28-how-to-master-googles-ai-phone-call-features.md",
+      "title": "How to Master Google's AI Phone Call Features",
+      "excerpt": "Your Android phone can do a lot of fancy tricks, from making reservations with Duplex or screening calls. Here's how to get the most out of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/",
+      "originalUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-google-ai-phone-features-work/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-google-ai-phone-features-work/amp",
+      "publishedDateTime": "2021-05-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-aws-makes-amazon-redshift-ml-generally-available.md",
+      "title": "AWS makes Amazon Redshift ML generally available",
+      "excerpt": "The move allows users to “leverage” Amazon SageMaker, a managed ML service, without moving data or learning a new skill, AWS claimed. Writing in a blog post, the cloud giant said Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
+      "originalUrl": "https://www.arnnet.com.au/article/688719/aws-makes-amazon-redshift-ml-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_dreamstime_2_1_1_1.jpg",
+          "width": 740,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.md",
+      "title": "Tech Digest daily round up: Driverless shuttles hit Cambridge roads",
+      "excerpt": "The UK’s first driverless shuttles have taken to the road in Cambridge, carrying their first passengers in a trial alongside normal traffic. The autonomous vehicle took a 20-minute journey around the University of Cambridge’s West Cambridge campus in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
+      "originalUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techdigest.tv/wp-content/uploads/2021/05/starship-sn15-flight-stream.jpeg",
+          "width": 990,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-28T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Digest",
+        "domain": "techdigest.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-new-ai-powered-deep-learning-model-to-support-medical-diagnostics.md",
+      "title": "New AI-powered deep learning model to support medical diagnostics",
+      "excerpt": "A new deep-learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of University of Alberta computing scientists and the U of A spinoff company MEDO.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
+      "originalUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-powered-deep-le.jpg",
+          "width": 2880,
+          "height": 1622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp",
+      "publishedDateTime": "2021-05-28T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-recent-outages-could-be-taking-some-of-the-shine-off-ibms-cloud-offensive.md",
       "title": "Recent outages could be taking some of the shine off IBM’s cloud offensive",
       "excerpt": "It's difficult to tune in a golf event or even some entertainment programs and NOT see ads from IBM touting its cloud computing efforts. But behind the video glitz there are problems that tech co",
@@ -1000,204 +1181,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology.md",
-      "title": "AI Audio and Video Chip Market Seeking Excellent Growth | Amlogic, Rockchip, Allwinner Technology",
-      "excerpt": "The latest released AI Audio and Video Chip market research of 91 pages suggests that the industry has made modest progress in tech-driven transformation since 2017. Many organizations have yet to scale their end use applications beyond pilots and proofs-of-concept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-audio-and-video-chip-market-seeking-excellent-growth-amlogic-rockchip-allwinner-technology-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada.md",
-      "title": "Expert says 6 GHz spectrum is ‘the biggest Wi-Fi advancement in 20 years’ for Canada",
-      "excerpt": "“The new 6 GHz spectrum allocation for Wi-Fi 6E provides exactly what future Wi-Fi-based services need, and that is more bandwidth,” said Chris Beg, wireless systems architect at Cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
-      "originalUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/05/wi-fi-wifi-flat-featured-image.jpg",
-          "width": 699,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/expert-says-6-ghz-spectrum-is-the-biggest-wi-fi-advancement-in-20-years-for-canada/447813?amp=1",
-      "publishedDateTime": "2021-05-27T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker.md",
-      "title": "Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker",
-      "excerpt": "Proteins, the key fundamental macromolecules governing in biological bodies, are composed of amino acids. These 20 essential amino acids, each represented by a capital letter, combine to form a protein sequence, which can be used to predict the subcellular localization (the location of protein in a cell)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/20/Protein-Sequence.jpg",
-          "width": 800,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T11:25:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-majority-of-europeans-would-replace-government-with-ai-oof-theyre-so-wrong.md",
-      "title": "Majority of Europeans would replace government with AI — oof, they’re so wrong",
-      "excerpt": "A recent survey conducted by researchers at the IE Center for the Governance of Change indicates that a majority of people would support replacing members of their respective parliaments with AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/majority-europeans-replace-government-ai-why-wrong",
-      "originalUrl": "https://thenextweb.com/news/majority-europeans-replace-government-ai-why-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2Feuflag.jpg&signature=647b63a91204adb18f626388ac20c958",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

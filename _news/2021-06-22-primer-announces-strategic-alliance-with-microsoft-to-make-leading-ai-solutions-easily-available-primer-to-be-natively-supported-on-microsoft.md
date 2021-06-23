@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
-excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading AI solutions to market and making them more easily accessible, especially for government customers."
-publishedDateTime: 2021-06-22T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-primer-announces-strategic-alliance-with-microsoft-make-leading-/2021/06/22/9395029.htm"
+excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading"
+publishedDateTime: 2021-06-22T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
+webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
 type: article
-quality: 12
-heat: 12
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
+  - AI
 
-secured: "iyxVDryXmn8Zia0kCF8z+zl9RNswxOQ1Itzq3FNsIgQ7TgFB/rySkVCJ+kIc6yOXQp8s0iQNodIESq5BN6NRMVMTz32SxMEYeVuban2Eh5MlVnJlJBuYQW/VdvimT2yHtQDdFunwEAsjNeYVO1lbw4lWXPyhEbSPZJpDM5LEJGdM1hBAO3SvH9aw0OY+4ggSKxUJ0EwEaDy1wbC0VXehBRWajk8yNUtyg8//y+8dW/1z7YxcMI4oulVkZGk2wWPX+4kGG9Z8u1iboHrjYzHqL90kQ7zDeKAXsDk+0qIys2d8DNY0ndUh3c1ay9RU3r2hF7HRokJPxvO49CAgMBYLrOt4ZXt1vU2N/6O0WozvSW8=;NCfKPGKo9mmCfb9R2NEpJA=="
+secured: "X8IX/ejlj1A3z26ouVPljtczRhRO3yaEX/i8kKKMWgLkFVsHBKbCEJcmUO88LLjPGszbEh5r1BjAOF3XbyibeDG67TRYVKW+bZ1ihxH/nkrWBA50dadqF5DwuL8zzY+ngW/qqRJXy7uv2aC7JZsnjvUbIDIDYPtKX/jMoQ48sZzjsI8vmejJAMzOPy469rae3XT9Mw7+oR2V+v9J2lgszQRPj8mMvFHXZ93B+tAQgrNK/8z3QbArqvjGtFxjsSqTz9B2TNATDo26+16JVqipEOzGWYwryByrh7Oms6L0A3TixlobdVvoQIxRzxp3UGzD+4m2N7b0RH8feD0CHJDfvl6A+fCvurkevU38GLKdgV0=;TINGGuHyCvUSMy+FU1aN3w=="
 ---
 

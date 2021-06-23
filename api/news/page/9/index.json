@@ -2,6 +2,142 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-16-hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation.md",
+      "title": "Hungryroot's AI-Powered Personalized Grocery Service Reaches $750M Valuation",
+      "excerpt": "Artificial intelligence (AI) is becoming a greater part of multiple industries, including groceries. Investments in AI are also increasing as more companies look to technology to remain competitive, and more consumers continue to shop online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c925b5cf33a1b67bd71929%2F0x0.jpg%3FcropX1%3D1031%26cropX2%3D3525%26cropY1%3D230%26cropY2%3D1893",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
+      "publishedDateTime": "2021-06-15T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs.md",
+      "title": "Mexican FinTech Credijusto Buys Bank To Serve X-Border SMBs",
+      "excerpt": "Credijusto says it’s the first Mexican FinTech to buy a regulated bank, transforming itself into Latin America’s only neobank concentrated on working with small to medium-sized businesses (SMBs). “Our acquisition of Banco Finterra creates the first truly digital banking platform for Mexican [SMBs],",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/fintech-acquisitions-digital-banking-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs/amp/",
+      "publishedDateTime": "2021-06-15T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division.md",
+      "title": "Ron Ramaiya joins The Lab and reveals artificial intelligence division",
+      "excerpt": "Ron Ramaiya has joined The Lab as head of data science, and the agency has launched an artificial intelligence and machine learning division, Lab AI.The announcement:The leading insight and strategy company The Lab today announced the appointment of Ron Ramaiya as Head of Data Science,",
+      "sourceUrl": null,
+      "webUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
+      "originalUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mumbrella.com.au/wp-content/uploads/2021/06/Ron-Ramaiya-The-Lab-e1623798113893.jpg",
+          "width": 487,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
+      "cdnAmpWebUrl": "https://mumbrella-com-au.cdn.ampproject.org/c/s/mumbrella.com.au/ron-ramaiya-joins-the-lab-and-reveals-artificial-intelligence-division-688044/amp",
+      "publishedDateTime": "2021-06-15T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mumbrella",
+        "domain": "mumbrella.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector.md",
       "title": "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector",
       "excerpt": "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated.",
@@ -1048,143 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity.md",
-      "title": "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity",
-      "excerpt": "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "originalUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-353929/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
-      "publishedDateTime": "2021-06-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic-fusions-and-driver-mutations.md",
-      "title": "Caris Life Sciences and Elevation Oncology Announce Joint Discovery and Development Collaboration Focused on Oncogenic Fusions and Driver Mutations",
-      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
-      "originalUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/fa/7faabe80-266e-5cb4-9b9c-f24b7b146ba5/60c8855377d65.image.jpg?resize=703%2C630",
-          "width": 703,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
-      "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
-      "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "originalUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U615488872_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
-      "publishedDateTime": "2021-06-15T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-11-kontron-launches-smarc-fa3399-with-arm-rockchip-processor-for-ai-based-pos-applications.md",
+      "title": "Kontron Launches SMARC-fA3399 with Arm® Rockchip Processor for AI-based PoS-applications",
+      "excerpt": "Kontron, a leading global provider of IoT/Embedded Computing Technology (ECT), launches the new SMARC module fA3399 with Arm® processor Rockchip RK3399K. In the benchmark of Arm®-based modules, the new Kontron module has the highest performance compared to its price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
+      "originalUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025.md",
+      "title": "GPU as a Service Market Comprehensive Analysis, Growth Forecast from 2019 to 2025",
+      "excerpt": "Selbyville, Delaware Market Study Report LLC has added a new report on GPU as a Service market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025-2021-06-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-fpga-ip-accelerates-neural-network-computing-for-edge-and-embedded-ai-applications.md",
       "title": "FPGA IP accelerates neural network computing for edge and embedded AI applications",
       "excerpt": "Global Technology partners Xilinx, Avnet, Libertron and E-Elements to speed development of AI solutions across a range of industries and use cases",
@@ -1342,101 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-us-energy-department-launches-the-perlmutter-ai-supercomputer.md",
-      "title": "US Energy Department launches the Perlmutter AI supercomputer",
-      "excerpt": "Each of Phase 1's GPU-accelerated nodes has four Nvidia A100 Tensor Core GPUs, for a total of 6,144 Nvidia A100 Tensor Core GPUs. Each Phase 1 node also has a single AMD Milan CPU. What is AI? Everything you need to know about Artificial Intelligence A ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
-      "originalUrl": "https://www.zdnet.com/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/26/2c65bb00-1c92-4e21-9674-293340f8960a/perlmutter-the-largest-nvidia-a100-powered-system-in-the-world-perlmutter-the-largest-a100-powered-system-in-the-world.jpg",
-          "width": 4000,
-          "height": 3300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-launches-the-perlmutter-ai-supercomputer/",
-      "publishedDateTime": "2021-05-27T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-nvidias-next-major-wave-of-ai-revenues.md",
-      "title": "Nvidia’s Next Major Wave Of AI Revenues",
-      "excerpt": "It is a good thing for Nvidia that most of the hyperscalers in the world – or at least the ones that matter – also have substantial public cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
-      "originalUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
-          "width": 937,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/05/26/nvidias-next-major-wave-of-ai-revenues/amp/",
-      "publishedDateTime": "2021-05-26T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

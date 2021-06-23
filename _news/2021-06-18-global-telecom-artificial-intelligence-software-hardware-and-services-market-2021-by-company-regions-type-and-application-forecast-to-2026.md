@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-06-18T14:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Share, Size, Opportunities, Analysis and Forecast by 2025"
     excerpt: "Selbyville, Delaware, Global Artificial Intelligence in Manufacturing Market Report explores the essential factors of the Artificial Intelligence in Manufacturing market considering such as industry situations,"
     publishedDateTime: 2021-06-21T17:54:00Z

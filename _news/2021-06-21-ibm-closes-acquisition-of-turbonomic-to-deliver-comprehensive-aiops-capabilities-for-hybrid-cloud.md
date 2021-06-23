@@ -36,17 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "IBM Completes Turbonomic Acquisition"
-    excerpt: "IBM has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to enhance the tech giant's push to"
-    publishedDateTime: 2021-06-18T13:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-completes-turbonomic-acquisition-2021-06-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "IBM Closes on Turbonomic Acquisition to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
     excerpt: "IBM has announced the closing of its acquisition of Turbonomic, Inc., an application resource management and network performance management software provider based in Boston. IBM said the acquisition complements its recent acquisition of Instana for application performance monitoring and observability,"
     publishedDateTime: 2021-06-21T18:20:00Z
@@ -60,20 +49,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IBM Closes Acquisition of Turbonomic"
-    excerpt: "IBM (NYSE: IBM) closed the acquisition of Turbonomic, Inc., a Boston, MA-based Application Resource Management (ARM) and Network Performance Management (NPM) software provider"
-    publishedDateTime: 2021-06-18T14:50:00Z
-    webUrl: "https://www.finsmes.com/2021/06/ibm-closes-acquisition-of-turbonomic.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
         isCached: true
 
 secured: "jwrK0ahvKE/0+uKLg+LP/Q08UN2od2iTDWMKKeMJRroLPCvAQb53HN3WrrUoKKn/dXpiCs3l5BwcsqcF5jPBFweYy++GAQvPW7j43FQ4wZXqhJx34V/NWM8/4i4QHcI9QvWRCLh9yzoCzLKLYoLC08QutcqFMjygAba7LGZNhCMKoPKKirzWMlKbB6bTF/d0TnqOKUiEfc1qZWvAXl68scH+N0VSZNqEb3ChQTGQRli9gr4TLM5B9hHMtmcZtsyKTGnSXV3jnpn5Ct+BhiB9X/KnUl8ffr6OgOgIu0502TRxLNwC6GHi02A9DyQiJ6Hc22VZlSr8Xm1V4tKRGxywqd0jkS6Zwn6OchySnW6zWP4=;M4jxz8GcAsEzwQpuFcTcaA=="

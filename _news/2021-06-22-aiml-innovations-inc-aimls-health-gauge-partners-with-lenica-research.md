@@ -20,19 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "This nifty online guide compares AI/ML tools and platforms"
-    excerpt: "This Week in Machine Learning isn't just a popular podcast, it's also a one-stop resource for figuring out what ML solutions your team needs."
-    publishedDateTime: 2021-06-18T15:00:00Z
-    webUrl: "https://thenextweb.com/news/twimls-solutions-guide-ai-ml-landscape-map"
+  - title: "AI/ML's Health Gauge Partners with Lenica Research"
+    excerpt: "AI/ML Innovations Inc. (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
+    publishedDateTime: 2021-06-22T11:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-19867800.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 56
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Ftwimlmap.jpg&signature=62642d1c3c56cbe6117febcc78f165e8"
-        width: 1280
-        height: 640
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
 
 secured: "8kQsuBnMGrWwbOx6y4bjDePt0fMgRXAvjTJp9U6Ia/VZp/5iCL98jbUVIV4Hfv/cMowwQM746j8Z8Q3GbEeomBBEksY6oNRte/lepdXR8YQ8kUxQS0Mao4PsHMYBWLdtjxCKQ8uqACC8zxD6m0zavowjCNq8rZDS2HfCCkY1l/74W4In1ormADd3t6QIBw/GQ1t+Pt3my+SYYz6o9m9gN4kSNcmWA+3rbNMiREbGsCmnEww1FOcxvrCnl1Fbfq4fcL+Vl1RUj6wWIcb+dslYi15jm1WGWOOXnf3fW3c4LRzzZmwdGxSL1VH03LUaFFkl8itTIJx8gYPfb0Yv2+vemDLX0jyIxQAR6vtrK3c3wX0=;NtSAE6vs/tdVVRzcc7wXyA=="

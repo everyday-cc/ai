@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 742
         isCached: true
+  - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
+    excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."
+    publishedDateTime: 2021-06-23T07:00:00Z
+    webUrl: "https://energypost.eu/convolutional-neural-networks-facial-recognition-ai-applied-to-analysis-and-design-of-advanced-nuclear-reactors/"
+    type: article
+    provider:
+      name: energypost.eu
+      domain: energypost.eu
+    quality: 50
+    images:
+      - url: "https://energypost.eu/wp-content/uploads/2021/06/Can-artificial-intelligence-open-new-doors-for-materials-discovery.jpg"
+        width: 500
+        height: 241
+        isCached: true
 
 secured: "l0/gGo2ix4/l3VgYj6+k+lR4B8uTVu5LMuQAP3soFOIDBenHdTKGZaXf+j9069MJqlznJpqJ6xHTKiSEn1fIONs/xlDWnBjRA9NkA3cm5w6iq2Rjf5CaIvjLTHVhH6liKdavWzN8EHP9QnCY2sLxK0lnw0W+o455gcB4OJfDebueT6wNW2uHiF7lx57OOZjGkJ+AWB4E3CemCDbOKchb3PUzVjpfaYu2holn7Az+o2COVJrEGUoSeOo0PB6ZgudTcGiJ97ca5RNp+wCLetnpzlAoOdlu/+litWGlp7aVutT1piu4peGhcFrJexgxgtHVlYMcCb9pL+w2Qbm+rqXmNcfYgEyYg03UiDlR05cSAxtvmRxDdhHrrxH2nPThdvawSqN0LPwquMwY6TfBYub9xHOEjlsVxVbT2i+8rSxWRxPmK013X8/rQu8+Qz2g+XeIjm4Re+HAyNTNU/A98X9Nbc1ephNsuY9Yx8rvGTMc949sVvxAQ8qLrAqMNsKyANNE++9Q+S2wWYKFI2yYyUghQw==;VtR1UO/14RsX17y8HhtYjQ=="
 ---
