@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-23T13:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
 type: article
-quality: 45
-heat: 45
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,9 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-  - IBM AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
@@ -42,6 +40,6 @@ related:
       domain: computerweekly.com
     quality: 41
 
-secured: "SjsVvjpmM/RUeU1sA3Tws/kQVrHnBr9w6Cd5piU4+vfZPa3Ycan6rgrduuhKT/0RAGysUgQvIJqNLObPcy95iCBAZg0CcLqv6wBmUXDddKSeTPDg+d4P7Wl6sBVU+kIIWx29KH0y0G7QCrj7FdSbnruYCFAOU7jNWuqexJBBNso4lwGFsvcpg6C7kNEYV7M5cmWTUPb5k8dXA9Fq5znZAlYmaev+4gFww45zFKBh9nuFTwIoQA9fYQdFHJk6zIlCy/HenHnRtgwXq3/+cZdmSFUaTJyI6Rfy3cO0LyTA2mK+C8fTFyW6QFxPsFtVkLjfTa7CQdSv4VbXfKoa3f2TX0oZaSp0IkJzgNch2JamnJs=;dcdd3ZzTBvPUFT6/ytzH9g=="
+secured: "uIIj9HIsHL4BHDchYTE0QS6wnLi0YO0vnommTgBjKayxG0hrBuefoL2IbMklBKJzeXPs1wHcBUtdeWerEq5PHU5dGBBacdOgJTJzurd8uWNoI23Y97iW0/+fsKMS1wAm5dU8H8g1am1btbx65qVYseH6i/ZVYPtxBUmHbdz4KZ6Vz4bnmSvjR7cPCQVSIRyu6LRJO1rmTAidT7gxoRUxF15wsnKEieWDTR8Js4ClJaq6QkqTEOVLlcyz8mo+vZWFqYB8G6t752H0Gr2gXopsiITrbgGjyhryQ+HREaK++ihKRjEEAYzekCIgLI9YbBBkF1lwWwSP8JMVr8u5KspopUlvQvGaYlsXKbzBLu72rQg=;bte2XmrIhrD+6AV8hYGVXg=="
 ---
 

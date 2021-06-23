@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Universal Electronics Inc. to Provide Voice-Enabled Android TV Remotes and QuickSet ® Technologies to Claro Colombia"
-excerpt: "Universal Electronics Inc. has started shipping voice-enabled Android TV remotes to Claro Colombia, the country’s largest cable provider."
-publishedDateTime: 2021-06-22T21:31:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210622006090/en/Universal-Electronics-Inc.-to-Provide-Voice-Enabled-Android-TV-Remotes-and-QuickSet®-Technologies-to-Claro-Colombia"
-webUrl: "https://www.businesswire.com/news/home/20210622006090/en/Universal-Electronics-Inc.-to-Provide-Voice-Enabled-Android-TV-Remotes-and-QuickSet®-Technologies-to-Claro-Colombia"
+title: "Universal Electronics Inc. to Provide Voice-Enabled Android TV Remotes and QuickSet® Technologies to Claro Colombia"
+excerpt: "Universal Electronics Inc. (UEI) (NASDAQ: UEIC), the global leader in wireless universal control solutions for home entertainment and smart home devices, has started shipping voice-enabled remote controls to Claro Colombia,"
+publishedDateTime: 2021-06-22T21:32:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/universal-electronics-inc-to-provide-voice-enabled-android-tv-remotes-and-quickset-technologies-to-claro/article_5034bcf0-695b-5a59-a518-3e6625caa7f8.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/universal-electronics-inc-to-provide-voice-enabled-android-tv-remotes-and-quickset-technologies-to-claro/article_5034bcf0-695b-5a59-a518-3e6625caa7f8.html"
 type: article
-quality: 0
-heat: 0
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "RiIaA70Hv48bR1xwqvkWMzSBjLZAgZrycSPn7joIDIav1Spb40qlb6Gshxlatqc1rnivqVuLRsyA8Dmas8LbcN6JEwObwZxKO1FbQ9pF4SbK+g1cJJp6FiDQGFIdRVl1VvIPsOJgLkcGML6sjYLzKqJfSc1AGSWqtzbjKF1tHoOZbnSS0yvEQ83qGu1eQlqZAM3oOtOaualcNKk3m5SBUM8LEwWWXt71RDnz3pixP6MdAaqldbZKj0g64KiwsWEK9QsKdDCBjY0+PhJnN2FjoLoPNZ/lV19RsGmxJNpx/wahhbWeUjHjUweZnpMQpevSNPjFMMnynk2cxOa1qWlVA38H/7H7Ytgj5TV/fNISJD5FL6VkdxLaRnTZCh1SEdCU5/FQGjd/ONQCSVyf9XIm/fODv8/G3+U/LvYb2SbaVhcSWeMD8brbnngqHienZD6ZT7wdGC5OwsfbG9R+cZ+jmcXKmLPBZPe8CDIPemOL6nQYbfMO+x9mpR7/JN2vv/zz3A4CBPNeYF4/o3TBZ8bVuw==;kVH3xjYz78ujEV0cibDSMA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/b7/db78f384-1296-5626-a839-807b748f2b12/60d259e31d1b3.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
+
+secured: "ciyKW1we1stz42um7daaAOixzNY/hQnP/+/Yy0C07FsDnM2hBWoYikpndUEEbRBIQq5BGFwJLjjSC+4DaWqBWUM8X0IBiUH31vgYvaYeWNRU2zjxvRcB0uOYPXDl9/m4cHtL5Xxt92vkhUJXUzpL5/IMSQtueQrQ9MpGfmTUGypNCAIdp/7Pv2THWPdRLn0cnmloY5Ds+zYANcK1SN+ELa1D7WdglVonl3fhf5O36VsB3suh5Y+qmhGxLnF53NzU04BQySj7apURYC/ZiYg+tlG3oAbwXGGVB3ne8u1bG5OousyUrmNLZbmz1pd6dEPUuTI3AmHNpXfzNT+UmHeLTpgYebxQZoNyVV1SzeErI8M=;Ucu61ZMr6DlCQazrXVDqaA=="
 ---
 

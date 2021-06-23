@@ -41,15 +41,18 @@ related:
         isCached: true
   - title: "Self-driving truck tech firm Embark to go public via $5.2 bln SPAC deal"
     excerpt: "Embark Trucks Inc, a self-driving truck technology developer backed by private equity firm Tiger Global Management, will merge with a blank-check firm in a deal valuing the equity of the combined company at about $5."
-    publishedDateTime: 2021-06-23T11:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23?amp"
+    publishedDateTime: 2021-06-23T10:17:00Z
+    webUrl: "https://www.reuters.com/technology/self-driving-truck-maker-embark-go-public-via-46-bln-spac-deal-2021-06-23/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/_GxqhbO7hNui7x2yUeWS5EQnDlc=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UA65RJGP6RKCRP3TUCHDUA2YXM.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Third Self-Driving Truck Startup to Tap Public Markets"
     excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
     publishedDateTime: 2021-06-23T12:20:00Z

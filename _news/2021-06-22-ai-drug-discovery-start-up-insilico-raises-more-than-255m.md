@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AI drug discovery start-up Insilico raises more than $255m"
-excerpt: "Hong Kong-based platform has 16 programmes in development including potential cancer and Covid treatmentsRead more on 'Financial Times Companies'"
-publishedDateTime: 2021-06-22T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
+excerpt: "Insilico, an artificial intelligence-based drug-discovery platform preparing to trial its first treatment in humans, has raised more than $255m from investors including Warburg Pincus and Sequoia Capital China."
+publishedDateTime: 2021-06-22T10:30:00Z
+originalUrl: "https://www.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+webUrl: "https://www.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+ampWebUrl: "https://amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b5aac77-4b6e-4965-b9bf-78202e6c0de8.jpg?source=amp&fit=scale-down&width=2400"
+    width: 2400
+    height: 1350
+    isCached: true
 
 related:
   - title: "AI drug discovery platform Insilico Medicine announces $255 million in Series C funding"
@@ -48,6 +52,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "7he/yQqNsQBwuOjOtWAVWO3t2mfLiE+NM3FNLwZ8DY/sebd/N5DVFwzY6n2Wn0oTYfrEzdIVMbiLwkmr0hXb3WuvWs2eKrfnEmu+HQLt9gG/tKJUbaN+UP6bqa+gDUYT+kB2ykxFb6KNqOco9peWI53Poj7h7omzgZp8Y5KXJgQsikIIrNAqwqMg2x1kOP12ZyRjsmqMwpX9e3sb8H+AHwWigK50mDI2mlZcxLMIVw7+oBVGRD8DJrrHDbpA/N9iYFdkh0coB/lqE9eBp+TpO9/xGTewslE3ID5NsffdrZ/kVH1MKSqQdB5tgMbrFyhaS+CoF4fvZ5Fpg2Od+iFHzwslErwKnIV05Rk3Wy+gD/8=;+8BtQx59AwpjLmcuL5rwfA=="
+secured: "yey7S70bZ2+clMq2Rsk75So4i5Q3gnZGsjuhMG/I2HvMMoVkFO/03NSeswL0Ip9nlcbg4l1xMK3b0dg3eRKu5fdLtjC4Kxi2qdX7hwnmKI7iFGHpz/Aw2X1RIFT7SyJuIlfpX7AoAv0eEuAPMrUXXMGldkt9zYygz205Fnd46CVgI4PugTNeaaahMiTp2Tkd86rCDniMffU9c0TkXFUEJJRFsVjSlQvYl1RLpDdS35uAlI8I0ykjc8FG7k3+y3siaOst6yoE9t1z3Y/ZEhAK3/8GXkxG/tFFHcNEQEnI+LbFe5LsMcqs/zifLn+ZxrWsT6cbmM7QIlzngPJTNGf11DQzq7L35UoXTOorue+nwMw=;gT5aTwyDHWQIOpGc4gqFYQ=="
 ---
 

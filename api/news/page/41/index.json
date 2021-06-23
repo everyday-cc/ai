@@ -2,6 +2,153 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-05-24-ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software.md",
+      "title": "IBM’s Project CodeNet will test how far you can push AI to write software",
+      "excerpt": "IBM’s AI group released CodeNet, a 14-million-sample dataset for training machine learning models to help software developers be productive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "originalUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/bdtechtalks.com/wp-content/uploads/2021/05/Project-CodeNet-diversity.jpg",
+          "width": 1920,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/23/ibms-project-codenet-will-test-how-far-you-can-push-ai-to-write-software/amp/",
+      "publishedDateTime": "2021-05-23T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa.md",
+      "title": "Leading Autonomous Cyber AI Powerhouse Darktrace Joins World Cyber Security Summit -Africa",
+      "excerpt": "The first company to apply AI to the challenge of cyber security, Darktrace, will feature at Trescon's virtual edition of the World Cyber Security Summit on May 24 2021. With a special focus on Africa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
+      "originalUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2021/asiaone_default.jpg?itok=ePYeHevC",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/leading-autonomous-cyber-ai-powerhouse-darktrace-joins-world-cyber-security-summit-africa?amp",
+      "publishedDateTime": "2021-05-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-23-brain-controlled-robotic-arm-gives-paralysed-man-sense-of-touch.md",
+      "title": "Brain-controlled robotic arm gives paralysed man sense of touch",
+      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3134329/brain-controlled-robotic-arm-gives-paralysed-man",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3134329/brain-controlled-robotic-arm-gives-paralysed-man",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/21/47ffd554-b9e7-11eb-9461-e80e43f535ad_image_hires_140611.jpg?itok=KkBJWwEM&v=1621577179",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3134329/brain-controlled-robotic-arm-gives-paralysed-man",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3134329/brain-controlled-robotic-arm-gives-paralysed-man",
+      "publishedDateTime": "2021-05-23T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-self-driving-cars-pose-crucial-question-who-to-blame-in-a-crash.md",
       "title": "Self-driving cars pose crucial question: who to blame in a crash",
       "excerpt": "self-driving test car in 2018, has focused attention on the issue ... China’s automated driving technology speeds ahead with research by search engine giant Baidu China’s automated driving technology speeds ahead with research by search engine giant ...",
@@ -1028,153 +1175,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-watch-now-facial-recognition-technology-being-tested-in-central-illinois.md",
-      "title": "Watch now: Facial recognition technology being tested in Central Illinois",
-      "excerpt": "Ever since The New York Times published a story revealing a startup facial recognition company that “harvests” public photos from the internet, the use of its technology — especially in",
-      "sourceUrl": null,
-      "webUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.html",
-      "originalUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/2/15/2151efb7-8552-57f4-bc6a-0e2f123606de/60a83599b7391.image.jpg?resize=1024%2C1530",
-          "width": 1024,
-          "height": 1530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.amp.html",
-      "cdnAmpWebUrl": "https://0-jg--tc-com-0.cdn.ampproject.org/c/s/jg-tc.com/news/local/public_safety/watch-now-facial-recognition-technology-being-tested-in-central-illinois/article_db8a9104-060a-5063-b8eb-db353a8b0eab.amp.html",
-      "publishedDateTime": "2021-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JG-TC",
-        "domain": "jg-tc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-deepmind-reportedly-lost-a-yearslong-bid-to-win-more-independence-from-google.md",
-      "title": "DeepMind reportedly lost a yearslong bid to win more independence from Google",
-      "excerpt": "Tensions between Google and its AI brain trust DeepMind have always been fascinating. To put the relationship in crude terms: DeepMind, founded in 2010, is home to some the best AI researchers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "originalUrl": "https://www.theverge.com/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tM3uxkTrzfKUZ2BrV3lpyVPDi08=/0x0:3500x2335/1400x933/filters:focal(1470x888:2030x1448):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69323166/1281728508.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/5/21/22447272/deepmind-google-independence-tensions-negotiations-wsj-report",
-      "publishedDateTime": "2021-05-21T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-22-youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen.md",
-      "title": "You’ll Soon be Able to Use Your Apple Watch Without Touching the Screen",
-      "excerpt": "Companies like Apple and Spotify are making it easier for people with disabilities to use their products. Accessibility advocates hope more follow suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "originalUrl": "https://www.wsj.com/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342069?width=620&size=custom_495x278",
-          "width": 495,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/youll-soon-be-able-to-use-your-apple-watch-without-touching-the-screen-11621624080",
-      "publishedDateTime": "2021-05-21T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

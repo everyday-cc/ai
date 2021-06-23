@@ -49,6 +49,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fundbox Named “Best Decision Management Company” in AI Breakthrough Awards"
+    excerpt: "Fundbox, the AI-driven financial platform for small businesses, announced today that it has been selected as the winner of “Best Decision Management Company” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2021-06-23T10:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8258067/fundbox-named-best-decision-management-company-in-ai-breakthrough-awards"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "p24g+fqKwP8sVZLXMTeQDlHQ1Is6NM5o3ZohWhPYcH8zwJwJ1moTT2DANVf15AC9KpIzLfXZ8OWwX9Hxx9Mou1LHwWvDF4K4HgnaBUZsrAkbEanRqLSZLAbbuhV9Ts9xTTc0+HohiywfTIILJk/NciXeobWz1SLPkmP0oqESI5ZS1RiSDEpLA9BgeS3E0zcFZGqB6NWw2Ql+fDpTzJpJDFr7L/H4XYIb5di+shAvSrM7zJxNhOV2t+RdeoFBbEd8dDLTod/GtTzvSaKSJPVNUUz/mKfR4j5aFMZ8BrAheET/6c7oJVYENyMjTvsYQBiwCR/GJd+7ke4nxknyP0KO/BING9rUGo/sJbVsXLJLT18=;XxdkJQvDaAFV11I6u+zXhQ=="
 ---

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Data platform startup Incorta secures $120M funding round"
+    excerpt: "Incorta Inc., a startup with a platform that enables companies to aggregate business records from different sources and analyze them in one place, has raised $120 million to expand go-to-market activities."
+    publishedDateTime: 2021-06-23T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/06/23/data-platform-startup-incorta-secures-120m-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/incorta.png"
+        width: 912
+        height: 521
+        isCached: true
   - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
     excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the inve"
     publishedDateTime: 2021-06-23T13:00:00Z

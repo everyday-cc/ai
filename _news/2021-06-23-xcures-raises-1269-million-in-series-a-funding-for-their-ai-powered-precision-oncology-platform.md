@@ -39,14 +39,21 @@ related:
         height: 482
         isCached: true
   - title: "AI drug discovery start-up Insilico raises more than $255m"
-    excerpt: "Hong Kong-based platform has 16 programmes in development including potential cancer and Covid treatmentsRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-06-22T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
+    excerpt: "Insilico, an artificial intelligence-based drug-discovery platform preparing to trial its first treatment in humans, has raised more than $255m from investors including Warburg Pincus and Sequoia Capital China."
+    publishedDateTime: 2021-06-22T10:30:00Z
+    webUrl: "https://www.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+    ampWebUrl: "https://amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b5aac77-4b6e-4965-b9bf-78202e6c0de8.jpg?source=amp&fit=scale-down&width=2400"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "VU1ds7RMxdq+wcaVNBRgAizbUzmWbxFqOd6jy2bUZ1t4uUNVVW+6yBIk7LyDOJDhFRVu6uQ5b/y7UKw9Ul3OrxNBLjMm6WJ/EtxtaCY4ybcAtqNQahjDVte7jIV9+uzYRc1xHVJdBn60ZcGTY+3EzKeqdI08HLmU1Wxpq4cF6nz71LuIH1hcYNZ5Shi/phTKkJccfZMCJKi3aIUG02vTgUB4sNdaztFaDOOhntsCXtoL7/iUGwWRSibTjKxQbiMxH/GYC6QHfZe0uN2849m+KltHLyglBco7G2R/rmX1K9L7MNzQGMlhn2lvMbl5QBu04uH3+6yGbRbwVIr9D6bkf6BBVYaQsTIG1irEbPhnjV/q3L3E7FQlbc39byQkQ+pZ8zJFqzwlR47C5HhbttNj2vqcxn6/5KmGHBIz6ez5vOQv5tJUyRr6DnrK7jW6Bh6DDN+N8p9ABMTrDfKB1aIdrfu7k9u7Y5ITCq/ltXLKHJDsOte0Oo6ZLJrNyZGs18v+yoUpFZrNkss/IyEe/RlNbQ==;FPC4duXVqvo6sJyZ4VsP8Q=="
 ---

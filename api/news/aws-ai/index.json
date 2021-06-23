@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-aws-and-salesforce-launch-integration-partnership.md",
+      "title": "AWS and Salesforce launch integration partnership",
+      "excerpt": "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce's SaaS -based services into solutions running on the AWS cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership",
+      "originalUrl": "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623347449/itpro/shutterstock_AWS_sign.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp",
+      "publishedDateTime": "2021-06-23T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-build-accurate-ml-training-datasets-using-point-in-time-queries-with-amazon-sagemaker-feature-store-and-apache-spark.md",
       "title": "Build accurate ML training datasets using point-in-time queries with Amazon SageMaker Feature Store and Apache Spark",
       "excerpt": "This post is co-written with Raphey Holmes, Software Engineering Manager, and Jason Mackay, Principal Software Development Engineer, at GoDaddy. GoDaddy is the world’s largest services platform for entrepreneurs around the globe, empowering their worldwide community of over 20 million customers—and entrepreneurs",
@@ -1202,24 +1254,33 @@
     {
       "path": "_news/2021-06-09-aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products.md",
       "title": "AWS-powered Artificial Intelligence Capabilities Added to 6Connex's Industry-Leading Virtual Venue Products",
-      "excerpt": "Sustainable Investing Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College See All",
+      "excerpt": "6Connex is the first virtual events provider to leverage AWS's AI technology ... on engagement and personalization, and our new artificial intelligence capabilities allow conference organizers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210609ny05743/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210609ny05743/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products",
+      "webUrl": "https://www.prnewswire.com/news-releases/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products-301309136.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products-301309136.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511844/6C_Logo.jpg?p=facebook",
+          "width": 1060,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T07:55:00-07:00",
+      "publishedDateTime": "2021-06-09T07:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1358,40 +1419,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud.md",
-      "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud",
-      "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210608005431/en/Snowflake-Announces-New-Features-to-Bring-Together-the-World’s-Data-in-the-Data-Cloud",
-      "originalUrl": "https://www.businesswire.com/news/home/20210608005431/en/Snowflake-Announces-New-Features-to-Bring-Together-the-World’s-Data-in-the-Data-Cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

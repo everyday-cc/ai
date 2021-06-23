@@ -57,6 +57,20 @@ related:
         width: 5335
         height: 3557
         isCached: true
+  - title: "DeepMind wants to use its AI to cure neglected diseases"
+    excerpt: "DeepMind solved one of biology’s biggest challenges. Now it’s working on using its AI to find drugs to target neglected diseases"
+    publishedDateTime: 2021-06-23T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter&utm_social-type=owned"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
+    images:
+      - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Players To Be Pitted Against AI As Battle Of Polytopia Becomes Part Of DeepMind’s AndroidEnv"
     excerpt: "Popular strategy game, The Battle of Polytopia, is now all set to become part of DeepMind’s open-ended platform AndroidEnv."
     publishedDateTime: 2021-06-21T09:55:00Z

@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Salesforce launch integration partnership"
+    excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce's SaaS -based services into solutions running on the AWS cloud."
+    publishedDateTime: 2021-06-23T18:12:00Z
+    webUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership"
+    ampWebUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623347449/itpro/shutterstock_AWS_sign.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
+    publishedDateTime: 2021-06-23T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
+        width: 400
+        height: 280
+        isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z
@@ -85,30 +115,7 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Genesys Launches New Capabilities to Enable Rapid Innovation for AI-Driven Customer Experiences"
-    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has announced new tools that enable businesses to easily build and orchestrate their own bot experiences, integrate third party messaging applications,"
-    publishedDateTime: 2021-06-23T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-launches-new-capabilities-to-enable-rapid-innovation-for-ai-driven-customer-experiences-1030546527"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-    publishedDateTime: 2021-06-23T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-        width: 400
-        height: 280
-        isCached: true
 
-secured: "auLTYn1dlMpu5d6dhcXWoTXy7xiyTeW83ke+xJjnFkr0Ewo4jSyURyqZvHZO0V+B7aycxlXqUYUMDpup2xIxJSjxoAJGUCy/FGVEVjRoYuc9hE6/7+hc/dc5W0+cT8lofE7Fu5Y9ZlJqv8rbBKX4c652j0Es18Dzox/vKGJhBdJShEe8yNNwiW70009jTxp96PcSqeKfbyKC21T0zNpVoYf7hAsIJN1pU53PFcGcpfeUKUGT4UAHFPlaqtzQ1iPmR4PE2Y55S35vdyLkfwYp8ha8S0qdA027HF1TxKDElQ7YVgzeJFNMJlheSbf5kr0T8ckeTrq3XxPHLuseyj9BY3U4+9zWpxyrPR/d3uTmw5o=;x8RH4RfU36/05DMxvR+GNQ=="
+secured: "1CXu/FF9850+s1AYrnfTTi3QFjpHx1aGjMALbZYWbGZr4aXON1LMxBSnAOud2+l09hUWx05Y0h3YUCSJ97WNo4ACPOnV6ypKMwrC7bhaETZ6y0Baqep2sY8FbLTotPKeNriFfbqhZkY7S+eGEopH4M46SXkZv6MiExGMN53GCl9y5Jn3eQsw8osqg6jplRB130Wvw3Yt+vGopmR8CecxVTI+s0Dl8/StF0AnVPAH2OWrkboFfkgCAodISB3+rGN/oVo6pEd5bsoa20QmI0JK5songp8UtNwmzCNVbnqiNSJfs962ATfQ3uULsu5c/aMnyBJvo3T1S/LTj8eCvKNc6RtR+l7j3AJmKoDCJnC4Np+PR16J3FZZblGQ8ilEqqX0mZun9aoObgD2uTg8YdDfXOud/93GUGUIJeaSRW82OThqQgGinuhJ12z9bxGDBXyU0paQnCBqSkkiJlVOQYp8Qq7iJIpfgl7fOk7BF16Uty0vyF/TgV9G0GkpkEX/rANFv/RdGj9iWO40ZUgQfdeYfA==;0DpjHcjak8SqPu97nXVZRA=="
 ---
 

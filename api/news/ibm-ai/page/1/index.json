@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2021-06-22-creating-an-ai-text-to-speech-using-ibm-watson.md",
+      "title": "Creating An AI Text-to-Speech Using IBM Watson",
+      "excerpt": "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/",
+      "originalUrl": "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-how-equbot-is-beating-the-market-with-aieq-the-ai-powered-etf.md",
       "title": "How EquBot is beating the market with AIEQ, the AI-powered ETF",
       "excerpt": "Asset managers, banks, and other financial institutions employ armies of analysts to sift through spreadsheets and media chatter. But even the biggest players can’t hope to keep up with the volumes of data produced by the modern global economy. “I was managing north of $30 billion as a portfolio manager",
@@ -1346,49 +1390,6 @@
         "AI",
         "AI in Security",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-a-smarter-business-with-hybrid-cloud-and-ai.md",
-      "title": "A smarter business with Hybrid Cloud and AI",
-      "excerpt": "THE ongoing Covid-19 pandemic has disrupted businesses of all sizes and companies across industries are required to transform how they operate to thrive in this new climate. According to IBM’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2020/12/05/a-smarter-business-with-hybrid-cloud-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/12/05/962056.jpg",
-          "width": 620,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

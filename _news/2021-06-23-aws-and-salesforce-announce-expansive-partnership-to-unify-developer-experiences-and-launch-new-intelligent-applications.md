@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-publishedDateTime: 2021-06-23T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
+publishedDateTime: 2021-06-23T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
+webUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
@@ -25,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Salesforce launch integration partnership"
+    excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce's SaaS -based services into solutions running on the AWS cloud."
+    publishedDateTime: 2021-06-23T18:12:00Z
+    webUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership"
+    ampWebUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623347449/itpro/shutterstock_AWS_sign.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z
@@ -85,15 +105,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Genesys Launches New Capabilities to Enable Rapid Innovation for AI-Driven Customer Experiences"
-    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has announced new tools that enable businesses to easily build and orchestrate their own bot experiences, integrate third party messaging applications,"
-    publishedDateTime: 2021-06-23T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-launches-new-capabilities-to-enable-rapid-innovation-for-ai-driven-customer-experiences-1030546527"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "AWS and Salesforce are integrating their clouds to simplify application projects"
     excerpt: "One is to make it easier for enterprise developers to build applications that use both AWS and Salesforce services under the hood. Another objective is to enhance Salesforce’s Industry Cloud product portfolio,"
     publishedDateTime: 2021-06-23T17:15:00Z
@@ -109,6 +120,6 @@ related:
         height: 432
         isCached: true
 
-secured: "7zi9f+w6KuLgzse7hA50xvQhO2DX46ZoWVdE+nu+JpSUTUVIABFzguWQg14G/OjbmrSUeu0G6gW2HIK2aH+XGcNlISC3dOeb4Kl1qszu/dWSwfY4dhKzozfTled6WDkta7LTdzGlgzv5s1RtUwYqETP3EruoZvvBoeb+AFqAKRwXEJv772TPCsCiF1r/FqGrVfUp/Jx45jXKLn5HJ6xW1sYMxHxtTyJbxzHYHAwjp3tsD1L6XcOXF3dQMsM6CaKsYujTOCdISQWzpmC+V2T+3AateI+8i1YmFQWuKOE/f4A1ScHivyqMAM++0mlEYpTe09fdjboKnuA43dWcpclIu16u7qgXuWz4W7zJCcOeK0gYAJz/Y9+h0QGPpCcUbfCPwiFldRuHt3H80A0KEwquRyzDIr9V5VcVJClD7kcWlPnjWrGdHB9t136q3yodoqElpaeVdpVmRXxm61c4kF2IY71BxxgNzYWWsNHGP3fwDMnPl1UNR6J9OYc2AOOGL+B7+tSAhqAMTTt1drFmQXxgWQ==;YX8B6ShE/oa+OP+yp+KK4g=="
+secured: "hhIedKet8P1wCC7Sk5RDcSD7ORuGAdD8muDIBLFDWCca7uRtYR3muI6axO2YrbEJqJEVBL/JCeqAuSnV2f/wNCaeSxhNZMgMAXWCEpZm1gT2RQeWUerhvCtQx1OSiYI3GVGrzMr199GQoBEOU0NdKf2+yV6h/6U6wwT9gixSUZKct5jCLO/3+QTBEPeWPMeTcaChnEyHC21KBazbEucR5hafMYx2QZcFttm0FdwdTOTjX8OXzlkR2l2jB8PX/rHZ7oP1f9fP59iH1pW5WcyvpoTuMFeWqUDdYv7jrmPIXcbldoorknJxv5WXibpS0DHBRc9f2FewoEZNK1Fchy4pIvHk8NLUimfTmFVPk64gtTM=;WrCy49azktmrrLmfSAcgZQ=="
 ---
 

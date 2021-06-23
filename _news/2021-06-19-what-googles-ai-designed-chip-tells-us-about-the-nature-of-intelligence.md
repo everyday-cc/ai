@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nat
 webUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/06/Google-Develops-an-AI-Software-That-Can-Design-a-Chipset-in-Just-Six-Hours.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "The Sunny Future of AI"
-    excerpt: "This AI system-on-chip uses a new architecture that can support facial and voice recognition algorithms while running on solar power."
-    publishedDateTime: 2021-06-19T01:56:00Z
-    webUrl: "https://www.hackster.io/news/the-sunny-future-of-ai-6f68eda125e4"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 39
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1313663/_fBvzmi2T0A.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "GsCbq2iP+/7JnyRh6/AhbNRClCU57pYeDlnlH2FZ1jpLf7i0T/GPddVuwElf1z9EsNkFgAABHblFVaATR392IgByT5ZCDI8CMKQAuILMQysKIa9OPXAjUzCAIvJpIUidB0eeXmrUv1byzHZjPNUlRHM1AKfFGKF9x1c8iKjMW30JdM3WXlhvm6CPCbbX2he/Pvus4Eeb20Z9Wpy9Uovnxw1qCr9wohpi7ia1m7fyy5/yWMBMSJ2EbaDhl1gSufcsuBEYh4QvXSVaWNjM25c19kv53i0LCtR8gd7nQOP97jZv5Ypw6y48ebbajeQUAghEcT4k//v8Tn9oPObDBSA9etQnrqrbmFbJko3ASSn19XU=;ZlKaj2/DwgCWvZ68FyqjyA=="

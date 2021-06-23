@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-launche
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-launches-ai-dedicated-to-quality-control-and-inspections/"
 type: article
 quality: 89
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.fenews.co.uk/images/user_images/Phil_Smith/A_new_Certificate_in_Artificial_Intelligence_launches_in_September_2021a.jpeg"
         width: 2448
         height: 1633
+        isCached: true
+  - title: "New Google Cloud tool could help businesses leverage AI"
+    excerpt: "Google Cloud has launched a brand new synthetic intelligence (AI)-driven instrument to assist companies streamline their manufacturing and inspection course of. Named Visual Inspection AI, the brand new resolution will enable companies within the manufacturing sector to maximise operational financial savings by shortly coaching and deploying AI fashions to detect manufacturing defects."
+    publishedDateTime: 2021-06-23T11:30:00Z
+    webUrl: "https://bestgamingpro.com/new-google-cloud-tool-could-help-businesses-leverage-ai/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/New-Google-Cloud-tool-could-help-businesses-leverage-AI.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google Introduces New Cloud TPU VMs for Artificial Intelligence Workloads"
     excerpt: "Google announced new Cloud TPU Virtual Machines (VMs), which provide direct access to TPU host machines. With these VMs, the company offers a new and improved user experience to develop and deploy TensorFlow,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/business/aws-salesforce-announ
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/aws-salesforce-announce-expansive-partnership-to-unify-developer-experiences-launch-new-applications/7893e7f9-fbee-478d-a7c0-b5b10f50aaa8"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and Salesforce launch integration partnership"
+    excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce's SaaS -based services into solutions running on the AWS cloud."
+    publishedDateTime: 2021-06-23T18:12:00Z
+    webUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership"
+    ampWebUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623347449/itpro/shutterstock_AWS_sign.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
+    publishedDateTime: 2021-06-23T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
+        width: 400
+        height: 280
+        isCached: true
   - title: "Seeq & AWS Announce Launch of SaaS Migration Program"
     excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, today announces the launch of a new program, the Seeq SaaS Workshop. In collaboration with Amazon Web Services (AWS),"
     publishedDateTime: 2021-06-22T16:54:00Z
@@ -71,15 +101,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Genesys Launches New Capabilities to Enable Rapid Innovation for AI-Driven Customer Experiences"
-    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has announced new tools that enable businesses to easily build and orchestrate their own bot experiences, integrate third party messaging applications,"
-    publishedDateTime: 2021-06-23T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-launches-new-capabilities-to-enable-rapid-innovation-for-ai-driven-customer-experiences-1030546527"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "AWS and Salesforce are integrating their clouds to simplify application projects"
     excerpt: "One is to make it easier for enterprise developers to build applications that use both AWS and Salesforce services under the hood. Another objective is to enhance Salesforce’s Industry Cloud product portfolio,"
     publishedDateTime: 2021-06-23T17:15:00Z
@@ -94,21 +115,7 @@ related:
         width: 770
         height: 432
         isCached: true
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-    publishedDateTime: 2021-06-23T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-        width: 400
-        height: 280
-        isCached: true
 
-secured: "mN1wv8OgDck2sASWSjC+jTOOPR5aWIYHwGT02sOZm9Q9KJfKvW99dCLljOMekHXsdUZRKJTv5qYefn3cw2mwfW6Gy8+b+TB6bOsAAw7cfxLCpheqAMZkVKCkPAIDxzPWccS+WLi6H+WEkFKCGWmgNQXumNzk1ePNWq6cyj+x8dgscjvF6wWsoc2TxAovMeXrTqQWO7NyV4WIWgQ37hedSQSohl1TyxXXb7d0N+lrfPNmec1kCRGfPVooWEtTcYLim6RvVk7OabxImOpo/q7yzNhMfq1GVxxkD87T0h82ObXY9hNL4HmJaqybK1UqgpzELNjYUw50pXwc5C1lTFNVi/Xwf87mXCgcsD0nnLQjGS4=;gtMQdE/dW/8lGRb3HgRuCw=="
+secured: "0Hk0l+txrN/jaDnbCX0K3WKD86jHbruJmu5q+SDVZMB4ebLXXxkKYrEThaEnTYvZiNUUdsQ0cNoKBuig/tMmhgRBHIzh5Op2q5lkseZKAVOkqYD4oJfdK+8PyLru/2slcaiIJbq+H88B5Mkq1Kn/4gbznnwpOTPXtYFQZUOkXo964JslbeLdXJrLWIxOG6rbzUN06nz6pzkj+sAVCwJzOd78dZbu/uepWPEatO3ffofjBrc4YudASnd1r4PM/Rn9/h1ZciySahdkVOv5B/s3I5tc8RNOYU2wCPDrEMGBtPWvoWezrD8mt+VSXQkSRjUbWDo2nTH/sHq9N0GkBXCvtHS8vCNTJgRCP5CVKp2QcPmr7X5X+yU5xmgUR8E5TGQtN8ltUOCipK9IseGxRPM7skcOc5ym+cRrUwrINUAIdAMgakuJj3v00y2vZ1F+1y4m/FaSXsnAr4TO21AcqDBUV/qUN3xZHbqiKzGhFHlITcBlHZ07Uv6clKnYaqMof+VN1I3Bu1Rmgn6OfkRawVkf0Q==;N7su6QKGfAq2x4OGE1U/MQ=="
 ---
 

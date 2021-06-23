@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/online-marketing/googles-latest-a
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced Ping An Insurance (Group) Company of China,"
     publishedDateTime: 2021-06-21T11:31:00Z
     webUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
+  - title: "Fundbox Named “Best Decision Management Company” in AI Breakthrough Awards"
+    excerpt: "Fundbox, the AI-driven financial platform for small businesses, announced today that it has been selected as the winner of “Best Decision Management Company” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2021-06-23T10:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8258067/fundbox-named-best-decision-management-company-in-ai-breakthrough-awards"
     type: article
     provider:
       name: Morningstar, Inc.

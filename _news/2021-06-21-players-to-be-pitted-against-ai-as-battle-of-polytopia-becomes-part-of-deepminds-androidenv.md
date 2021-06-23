@@ -57,6 +57,20 @@ related:
         width: 5335
         height: 3557
         isCached: true
+  - title: "DeepMind wants to use its AI to cure neglected diseases"
+    excerpt: "DeepMind solved one of biology’s biggest challenges. Now it’s working on using its AI to find drugs to target neglected diseases"
+    publishedDateTime: 2021-06-23T05:00:00Z
+    webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter&utm_social-type=owned"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
+    images:
+      - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "DeepMind Has A Solution For AGI. Not Many Agree"
     excerpt: "In a paper titled, \"Reward is enough\" authors propose a hypothesis on why maximising a reward function is enough for intelligence to emerge"
     publishedDateTime: 2021-06-22T06:30:00Z

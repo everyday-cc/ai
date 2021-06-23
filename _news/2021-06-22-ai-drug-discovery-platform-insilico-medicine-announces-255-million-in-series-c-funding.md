@@ -31,14 +31,21 @@ images:
 
 related:
   - title: "AI drug discovery start-up Insilico raises more than $255m"
-    excerpt: "Hong Kong-based platform has 16 programmes in development including potential cancer and Covid treatmentsRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-06-22T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
+    excerpt: "Insilico, an artificial intelligence-based drug-discovery platform preparing to trial its first treatment in humans, has raised more than $255m from investors including Warburg Pincus and Sequoia Capital China."
+    publishedDateTime: 2021-06-22T10:30:00Z
+    webUrl: "https://www.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+    ampWebUrl: "https://amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b5aac77-4b6e-4965-b9bf-78202e6c0de8.jpg?source=amp&fit=scale-down&width=2400"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "xCures raises $12.69 million in Series A funding for their AI-powered precision oncology platform"
     excerpt: "PRNewswire/ -- xCures Inc., the leader in the patient-centric use of artificial intelligence (AI) and predictive"
     publishedDateTime: 2021-06-23T15:07:00Z

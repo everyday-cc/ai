@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning aids earthquake risk prediction"
+    excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
+    publishedDateTime: 2021-06-23T19:49:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210623130649.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Viral Infections Predicted by Microscopy Deep Learning"
     excerpt: "Researchers have shown for the first time that a machine-learning algorithm can recognize cells infected with herpes or adenoviruses based solely on the fluorescence of the cell nucleus."
     publishedDateTime: 2021-06-22T08:26:00Z
@@ -43,21 +52,19 @@ related:
         width: 389
         height: 389
         isCached: true
-  - title: "New machine learning methods could improve environmental predictions"
-    excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
-    publishedDateTime: 2021-06-22T19:09:00Z
-    webUrl: "https://techxplore.com/news/2021-06-machine-methods-environmental.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-machine-methods-environmental.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-machine-methods-environmental.amp"
+  - title: "Deep Learning Aids Prediction of Lung Cancer Immunotherapy Response"
+    excerpt: "Researchers developed a non-invasive deep learning model that uses PET/CT images to measure levels of the PD-L1 biomarker and predict immunotherapy response."
+    publishedDateTime: 2021-06-21T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-aids-prediction-of-lung-cancer-immunotherapy-response"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/freshwaterla.jpg"
-        width: 1920
-        height: 1271
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
+        width: 690
+        height: 400
         isCached: true
   - title: "Machine learning aids earthquake risk prediction"
     excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
@@ -72,20 +79,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/268742_web.jpg"
         width: 1440
         height: 970
-        isCached: true
-  - title: "New machine learning methods could improve environmental predictions"
-    excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."
-    publishedDateTime: 2021-06-22T12:00:00Z
-    webUrl: "https://twin-cities.umn.edu/news-events/new-machine-learning-methods-could-improve-environmental-predictions"
-    type: article
-    provider:
-      name: umn.edu
-      domain: umn.edu
-    quality: 39
-    images:
-      - url: "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/iStock-530996767%20Delaware%20River%20900x600.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "Di2nullhpgQnuwoX8UsyF1yIocDdRbO1guOZe8hQwBWkUmWXDwvC2aPxBYDZdGmgJWTOZAa/T62WTXwZr6xfrqYPGtstLuaDuSeKFIDtFI4hjB7+MaMgrc2NzCJnPcV8c4HPf9ST6C7sYJl3m4DqGV5kfw9Qg/ihkLfmIYO2/Sos8Oe2xJ3tcgs0OIfgJ+f9gxK82AwXgsEWBNUSfQ7agw6sM/sXEPDB19Ey9arBTlH9db1PhUje7s26Q0aF8s6GbYEhKKOm00CJnC0H3fenx0x1Z/QpapLtkXnwGCN17MXb8+8rIKznoODZj39LhD92i7XOabtwciolemKr65v9oQY+JwpN65mUMobk9zl4N2B3E7ZjBnsA92Vd4qthcV8UROzCA6XVs5BzEeIPpJC0xj8RFUX/8Z4P5DMPBIE6OQgaN3iRz7mC1V/9JQqgztVErKtxEk6x2SSFvDcSylXeRJAC05gFFh76U7zvO/mWta1yHFBKZcF/aTbpAbHHNmOkrh52YJd4g+Mh5E/GmZKDSA==;LXdQtgNjvn/htwczLTYR3A=="

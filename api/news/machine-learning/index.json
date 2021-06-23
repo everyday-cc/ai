@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-machine-learning-aids-earthquake-risk-prediction.md",
+      "title": "Machine learning aids earthquake risk prediction",
+      "excerpt": "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210623130649.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210623130649.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-facebook-ai-mila-propose-alma-anytime-learning-at-macroscale.md",
       "title": "Facebook AI & Mila Propose ALMA: Anytime Learning at Macroscale",
       "excerpt": "The English poet Alexander Pope famously wrote, \"a little learning is a dangerous thing,\" a pithy reminder that humans’ initial understanding of things tends to be incomplete, and additional learning is required before it’s possible to make informed decisions.",
@@ -256,7 +299,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-cloud-launches-ai-dedicated-to-quality-control-and-inspections/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -287,49 +330,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-microscopy-deep-learning-predicts-viral-infections.md",
-      "title": "Microscopy deep learning predicts viral infections",
-      "excerpt": "When viruses infect a cell, changes in the cell nucleus occur, and these can be observed through fluorescence microscopy. Using fluoresence images made in live cells, researchers at the University of Zurich have trained an artificial neural network to reliably recognize cells that are infected by adenoviruses or herpes viruses.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-06-microscopy-deep-viral-infections.html",
-      "originalUrl": "https://phys.org/news/2021-06-microscopy-deep-viral-infections.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/microscopy-deep-learni.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-06-microscopy-deep-viral-infections.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-microscopy-deep-viral-infections.amp",
-      "publishedDateTime": "2021-06-21T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },
