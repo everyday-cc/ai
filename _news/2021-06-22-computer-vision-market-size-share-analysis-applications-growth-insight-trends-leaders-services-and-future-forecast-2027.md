@@ -127,6 +127,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "New Study: Global Automotive Artificial Intelligence Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The size of AI in the automotive market exceeded USD 1 billion in 2019 and is projected to grow at a CAGR of over 35 between 2020 and 2026 One of the major industries using AI the automotive industry is"
+    publishedDateTime: 2021-06-22T14:55:00Z
+    webUrl: "https://www.openpr.com/news/2311082/new-study-global-automotive-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
   - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
     excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
     publishedDateTime: 2021-06-21T17:22:00Z

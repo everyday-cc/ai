@@ -7,7 +7,7 @@ originalUrl: "https://www.pr-inside.com/auddia-inc-announces-major-technology-ad
 webUrl: "https://www.pr-inside.com/auddia-inc-announces-major-technology-advancements-in-artificial-intelligence-r4835876.htm"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Corsight AI announces pioneering enhancements to core technology"
-    excerpt: "Corsight AI, a foremost facial recognition technology provider, announced significant enhancements to its flagship product, Fortify. The system’s scalability has been increased to enable"
-    publishedDateTime: 2021-06-18T05:56:00Z
-    webUrl: "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 59
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/positives-of-using-facial-recognition-technology-in-cctv-surveillance-systems-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Auddia Inc. Announces Major Technology Advancements in Artificial Intelligence with New Audio Content Processing Methodology"
     excerpt: "Reconfirms guidance for full national launch in second half of 2021 BOULDER, CO / ACCESSWIRE / June 22, 2021 / Auddia Inc. (NASDAQ:AUUD) (NASDAQ:AUUDW) ('Auddia' or the 'Company'), developer of a proprietary AI platform for audio and innovative technologies for podcasts that is reinventing how consumers engage with audio,"
     publishedDateTime: 2021-06-22T12:15:00Z

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-excerpt: "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure"
-publishedDateTime: 2021-06-22T15:51:00Z
-originalUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-webUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/"
-ampWebUrl: "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/"
+excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
+publishedDateTime: 2021-06-22T14:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
+ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
 type: article
-quality: 53
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/shutterstock_1094923718.jpg"
-    width: 1000
-    height: 600
-    isCached: true
 
 related:
   - title: "Google says AI and analytics can take its cloud to the next level"
@@ -59,20 +53,18 @@ related:
         width: 794
         height: 512
         isCached: true
-  - title: "Improve Your Business’s Processes with Predictive Analytics and Machine Learning"
-    excerpt: "Research into cutting-edge areas like predictive analytics modelling and machine learning AI can already find practical uses"
-    publishedDateTime: 2021-06-18T06:43:00Z
-    webUrl: "https://techwireasia.com/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/improve-your-businesss-processes-with-predictive-analytics-and-machine-learning/"
+  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
+    excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
+    publishedDateTime: 2021-06-22T15:55:00Z
+    webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 58
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/shutterstock_1198894387-450x300.jpg"
-        width: 450
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
         height: 300
         isCached: true
   - title: "Edinburgh Fintech Aveni Acquires Investment to Support AI and Natural Language Processing Platform for Business Speech Analytics"
@@ -102,20 +94,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
-  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2021-06-22T16:01:00Z
-    webUrl: "https://www.cio.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 28
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence"
     excerpt: "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today \"Coffee with Claus,\" h"
     publishedDateTime: 2021-06-18T12:00:00Z
@@ -130,20 +108,6 @@ related:
         width: 1200
         height: 441
         isCached: true
-  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
-    excerpt: "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... of NetApp's Public Cloud Services business unit."
-    publishedDateTime: 2021-06-22T08:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659418/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -153,7 +117,16 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
+  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
+    excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform pr"
+    publishedDateTime: 2021-06-22T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210622005442/en/NetApp-Acquires-Data-Mechanics-to-Accelerate-Spot-Roadmap-and-Optimize-Data-Analytics-and-Machine-Learning-Workloads-in-the-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "5txggNi9UCd724X3uALoQ/dTXWKcslGTDChYtKaYP2b+soLtEFtd0yQo0OK4ZaEcz/wXZBQCYk3tKrgfLZC2EPVOmuUL2HYqz2dkwc1tnroLNlSDjrV75UPtQXjYjED0p1mlQaksk04IpVqFF7fFdAlBmSFHl+yp7NMgg90v8RdG8222YA3MGjEw9geB84pRM04tfx4SB2rNuxBzCkbAh2LYdYsqk0oU/BJMWN/+XVGYsUGf9KHG+kG1J2B0zi02UXxUBfnf8Nc8Jff7sIdOwiyr8edrzZBfu/xoaUf4PsLHqSqmMw0fcA9ToWaqnfRm5Wb6SipBkxrDQU29NQXenJs3DL+pufVLQEZ+ZCN1uU4=;i3VbIcwztcGI2sTaO4ElMg=="
+secured: "RDsK/c5fusQTAnLWeWh+XkWQyu1KZy3GvWAqX/8xWPBGcgibpiCXSaSgrDhOzVOfEwDojMgMdKVwdXFE8oswEMbQJ1oNHSZfTI1qir4F3ng/Dv57xDunnGpEj1upLWjF/ZZEFVSLotxwaRWUqc1poeF8VGt2+BeK55+SBhB2Dfa5fUHHIBgMZeOZq9imCc+9gNRnttZ0ZlDVwMK4zLfMfaPZIeLKYopISmhf+8SMaGuhY202kBNtrye/SMThIbzAQruDpS47wTXECSK4gdZDnevzUP+V9Vyaa10pn0Mm7cWhRtm3PGKyGFF+Rd/27UKZZPC8RCgGaFohTvy2Gw4834s6LAXkGy0Y8+XGfnKdqYU=;sjpk84BAoEP4stPxzNOFng=="
 ---
 

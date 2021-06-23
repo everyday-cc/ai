@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Quadric Reimagines General-Purpose Parallel Processing with an All-New Architecture Optimized for On-Device AI"
-excerpt: "Quadric ( quadric.io ), an innovator in high-performance edge processing, has introduced a unified silicon and software platform that unlocks the power of on-device AI. Built to accelerate computation speeds while reducing power consumption,"
-publishedDateTime: 2021-06-22T07:01:00Z
-originalUrl: "https://www.financialbuzz.com/quadric-reimagines-general-purpose-parallel-processing-with-an-all-new-architecture-optimized-for-on-device-ai/"
-webUrl: "https://www.financialbuzz.com/quadric-reimagines-general-purpose-parallel-processing-with-an-all-new-architecture-optimized-for-on-device-ai/"
+excerpt: "Graph Mode will enable developers to ingest and schedule neural networks in TensorFlow or ONNX formats. Supported neural networks will include MobileNetV2, ResNet-50 and VGG16. In addition, the new SDK release will include a TVM-based scheduler for ..."
+publishedDateTime: 2021-06-22T07:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-quadric-reimagines-general-purpose-parallel-processing-with-an-/2021/06/22/9394519.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-quadric-reimagines-general-purpose-parallel-processing-with-an-/2021/06/22/9394519.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Google AI
@@ -36,6 +36,6 @@ related:
         height: 675
         isCached: true
 
-secured: "RWrVFLM+MtSz6fFUP341+b8asZlO/F06nHfRPsf4+mx7jVJ2gM4ZUI6T8yZtPImTy24QjAXgoMB3sYb47LCs2jmzOyXgTf5bPHl2wukYjqXn7Pu61AUwWjiyK2+nEY2RWpGdFdZ0cGQ4bHM2h1cfV8WgbX5qyZICSn++XmsDD5XnmCFTsI9hN//tENPlClbIPpVNyclVGzhfLGIdSWWB6BAUQCLwy4olOvPAtjO3S3wFLZLwuaSAIvJvIMGEnMpfh3V9PALA890h1yDhDjvtoULkl8jyeHpLgPHFUVPqE/usk565OR1E5ddtisNgjz3YUFW2c5kPgLYSf69Bzt/cl9Jn6ehwXVxTvJJlVHtcGAw=;sNYKtfgjKtWGWSg1ZC9i6Q=="
+secured: "CAe9omvFt6SlS4cGnDBGsoX454wBebnzpMAQIZoPaoeC0nbI4PMkzOsM4UcZ2y7KTqIhc4MbaS9fcgk2zzNO+7HRUMs75Iq6yT0Q1OPk7BUUSXxofVSzSDetPWcKdDhswmhjQlO9MziheSV0PquKmzlxI/hxyQ+0EffjywVJUO1XNiDIkrSt0x4ik29phMTqHZ+n98jiAhr93Eyd4vughP6tgvREm9P6oHrjW0HJKHl95UtprBEPlAYXKPBw7TTsc4ZBfSyy5tI8unqZ/11TYcxxMWoeAT43Y+PnMPCNpZ7S3ywrOwCKnKIpgmif2BztRkStO3vPHb8mMa6kO0Wba+/p8aPIiA0/hm1me/i88Gc=;f/yKGytCKIjrks5vK/re1w=="
 ---
 

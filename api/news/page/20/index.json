@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-06-07-tensorflow-tutorial-uses-python.md",
+      "title": "Tensorflow Tutorial Uses Python",
+      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "originalUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/05/x86-sbc-thumbnail.jpg?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-2-leading-tech-stocks-to-buy-in-2021.md",
       "title": "2 Leading Tech Stocks to Buy in 2021",
       "excerpt": "Trevor primarily covers tech and financials, with a particular interest in artificial intelligence, blockchain, and other innovative technologies. He grew up in Ohio and later moved to the Pacific coast.",
@@ -1146,57 +1190,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers.md",
-      "title": "Artificial Intelligence-Powered Electronic ‘Nose’ Can Accurately Sniff Out Cancers",
-      "excerpt": "The sensor was able to detect ovarian and pancreatic cancers with greater than 90% accuracy in preliminary tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/victoriaforster/2021/06/04/artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers/",
-      "originalUrl": "https://www.forbes.com/sites/victoriaforster/2021/06/04/artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ba94a5fac9b5cc265c1f0e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/victoriaforster/2021/06/04/artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriaforster/2021/06/04/artificial-intelligence-powered-electronic-nose-can-accurately-sniff-out-cancers/amp/",
-      "publishedDateTime": "2021-06-04T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -40,17 +40,6 @@ related:
         width: 1080
         height: 568
         isCached: true
-  - title: "Artificial Intelligence in Retail Market 2021 | IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP, Intel"
-    excerpt: "An informative data report titled Artificial Intelligence in Retail Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
-    publishedDateTime: 2021-06-18T05:57:00Z
-    webUrl: "https://www.openpr.com/news/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
   - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
     excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
     publishedDateTime: 2021-06-22T07:28:00Z

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Intuit Launches New Accelerator for AI-focused Startups to Help Communities Overcome Financial Challenges in North America"
-excerpt: "Intuit Inc. (Nasdaq: INTU), a leading global financial platform company known for products such as TurboTax, QuickBooks, Credit Karma and Mint, and Highline Beta, a venture studio and venture capital firm,"
-publishedDateTime: 2021-06-22T11:22:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-challenges-in/article_43efae4e-e359-5cab-8651-8455bb6caa58.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-challenges-in/article_43efae4e-e359-5cab-8651-8455bb6caa58.html"
+excerpt: "The second annual program invites global tech startups with AI-driven solutions to apply to the latest edition of the Intuit Prosperity Accelerator: AI, powered by Highline"
+publishedDateTime: 2021-06-22T11:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21661492/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-cha"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/b21661492/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-cha"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/3d/03d3cee7-4508-53fd-a8f8-c4a418d69bac/60d1ca60e054e.image.jpg?resize=630%2C630"
-    width: 630
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
     height: 630
     isCached: true
 
@@ -34,6 +34,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "ZB5F9jE63y2xkSiANwN1TPuOlDkUpCj1n3biHRdvZFzVYK3+taiHmGnifKQlOxjp/m72R7kKFpT2/KQfnlXEIcTs/me/BO2guO3X48ktLSUQrlC2HAKAM68xHVqjeSPwvKbHibXy0XWXkYAzLXGBw6KDcNKxS9j7bqVJsGfGiqKbYAcafhwQxORKlPnI0ew5gD4zPXRJeYwMkmC5jqG+mEuyV2R4kXh2VvPAsutFNGWRPT8y4teLKDPqWg3lzwXTNHW6SZLj5ucJG0F9mnkKUzjYy6bK6O/7fSn3W/a/VdIru5FaclzmhlZDkEIdI2i5SrNPH82wMzlOyNyQDK+VrLvtrFT/YTkElBfo9aq/+8o=;VyOIWzm7W/0yCkZYFcdGuw=="
+secured: "fX2Y3cUxL42AqU0BKpqmZDdiyGoZUKi8XKFciU1NmuFU9G181NTaWauq22ePI21EWaMWtmtN0Ol/tpPs+2aVy32GDdQaS1HjbRxfcXNG9XPiu22FrZV6+m07y4NPsgDdq3SvCgRbvTOys1Opxya5rdH4mtnm7/nysB+0T01e/B9cmQeGXMspkOjkry0YBKzWAg6e4ycT0ZWlcqi9jIHh0o6YfQWFwH+gBQqtbNHh9M1RShXBNCaf9LOs4ekkOrw3xuFzxYnq/ndGn9Dc79MpQjD/oOc/WxrAZiuaAgeJfEBDzVNJYZqcRR3Kdfi8A5kw1e0vKxo7G5dgQ5SF9zu1nzsnoLb0grIVZ/1fNR2JY8U=;iEZYQwxchTv5gGpK81hMLg=="
 ---
 

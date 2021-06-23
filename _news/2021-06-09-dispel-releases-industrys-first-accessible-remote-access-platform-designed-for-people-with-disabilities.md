@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities"
-excerpt: "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities to work remotely on industrial control systems."
-publishedDateTime: 2021-06-09T12:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/09/9386921.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/09/9386921.htm"
+excerpt: "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities"
+publishedDateTime: 2021-06-09T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities/article_142b83a2-fa6b-59f0-a9ad-bdb6d132b9e6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities/article_142b83a2-fa6b-59f0-a9ad-bdb6d132b9e6.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "ZqKgVrl2jrNuw9q2xWXhL3LtGtJIE16qCfrzABspcfFq45z33a6/mcqw8FNnmG9Q0/YVsB6v8iAxLKldjc2p9wQ9XOSG3+69Com8BQVSZYLrdwy1yP9n0G2SbE/l+ZONpfcXMnZO0xcJMyo0t7Njsx+CZg9jeuSJyAUBkYPQfD0+RepaQ8icoaOJ6LysNIcbK+OAcmC4hzwOlrNgHsZ4eol8NhShUimdRUFnuf3gDS45ivjbCTwU7XqJixplzS4fil8/erf9Ai0X9G4GnwoczPMG4Am9txOf4j1qmz65LBgYzm21vKSrzJNN1dIL90TMyMuI+emvw1oIRfO4cU3dDC5bPqM1rhZUxZjeduE8cSQ=;AX+fJGGMQrJovVXkn9s4HA=="
+secured: "NAb1R+/XDuYxp1PFe+bsmiQRJ2+erfT7C2JE0KqjXWk7iXXcpa1la+KtOjdxn666eFBGl94XARYhNznjkfe/Rkhbr6YMuiHxa8KuFVNUtVrIe0CCv3dw7VQ/FtdD++Gwd5w2dX2Ms6Ko3ReRBCux43JuLQ9pqjIGMoaFmUW73nAhIhWxW1R7zpMpZRGU5hUg4uq7L9FdPKR8XP6TMEq7CligInx3qGz5Eaa7sdsIniPOZSCUpsGsA5SXRGojMX7GxLciSI5eagPORbquv/0OezqA+8kSnoGmc6Jwvzvdb8+1plcn18OsqMPJu+nEdkwi5a4+V2FP9MLOg/zqFZBfT0NWRawl0j7KvXLm8wpDhe4=;TXYIq+93bmINW6lVCN6IsQ=="
 ---
 

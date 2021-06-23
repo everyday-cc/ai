@@ -126,6 +126,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "New Study: Global Automotive Artificial Intelligence Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The size of AI in the automotive market exceeded USD 1 billion in 2019 and is projected to grow at a CAGR of over 35 between 2020 and 2026 One of the major industries using AI the automotive industry is"
+    publishedDateTime: 2021-06-22T14:55:00Z
+    webUrl: "https://www.openpr.com/news/2311082/new-study-global-automotive-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
   - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
     excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
     publishedDateTime: 2021-06-22T08:17:00Z

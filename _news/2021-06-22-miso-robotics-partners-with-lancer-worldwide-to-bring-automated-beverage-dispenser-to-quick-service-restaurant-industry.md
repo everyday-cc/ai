@@ -2,17 +2,21 @@
 category: news
 title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
 excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
-publishedDateTime: 2021-06-22T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-miso-robotics-partners-with-lancer-worldwide-bring-automated-/2021/06/22/9394555.htm"
+publishedDateTime: 2021-06-22T09:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
+webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
 type: article
-quality: 30
-heat: -1
-published: false
+quality: 60
+heat: 80
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -34,7 +38,16 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 31
+  - title: "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence"
+    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu"
+    publishedDateTime: 2021-06-22T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "a4tOV0fne5E1sQe23cigI41kzE5CN7eF0Y/AA5/v25GsLLP3NRwrjnESRmD0jyYnp/W3/dJI2QfO+cSj2+nFUIg8gPjoj8ErZYedTNwIYv2oAAcY+E8JwmlgSgSYA0DWuACe/iSzXANv3lybI9W3WalkJPKOXVXIzk3hec1fniSDNqQlOb7CM8ecbjQXqJ++LzY/3SJ0WOdWiLCcjYiOmQFZeWgIxMgt8Ox9HTBkZsi4dgnPnGfcVpljWWEzC1iUJkFkfC1RRhAG7QtpQFPjSeBI1PpSCanxmfWW6lmBnfndpebEDRg5PpkTeMF6uVeKLSWdzQdkv51CYEgVcyx28FpHLdCJYY+UYDSiEf54Bhk=;6rVQOOBC+miUITcXHVN8kw=="
+secured: "3GgteRMjw8lziSuJ2D6QYiGvSQg0uvAr8uiPaFgK9wipL5xZL3+3vZqwoaRMt88qcpnUupB/a1FBoyQ6tEbxu5XTkvxHQjSjy0UEkUW6/Z5Ie+rPcvQF/fBbjONT5XFzD39tFcd2OLXBt3jUOAPvgM7PWQoGtw2Y7wMMUEL8dzFnfNn2JRFqIQ7eLPdt7WpkUSfwAp0fWRPBRF6ZIyD0zixhEM49BClr7Fd9zj2Uzwaqnt5t+JWcO6asO15VyITfSPmtGIWDZFQ6a/aYaDwQgPQAAqK9kwaQOGNisz2+WiQzAxOxlM6zeSd1qyyGxmNWbsCWXlv4SJxD74OV6tHgEekpyeR0qPlHy8c8iepvPQE=;UnFdi7UxNkROEVHUU5i2Ig=="
 ---
 

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Amazon to Buy Stake in Self-Driving Truck Technology Startup Plus – Report"
-excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed an order for autonomous driving systems from the startup,"
-publishedDateTime: 2021-06-22T09:24:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
-webUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
-ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
+excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed"
+publishedDateTime: 2021-06-22T09:53:00Z
+originalUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/"
+webUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/"
+ampWebUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
+cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
 type: article
-quality: 52
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Smarter Analyst
+  domain: smarteranalyst.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/Amazon.jpg"
+    width: 750
+    height: 406
+    isCached: true
 
 related:
   - title: "Report: Amazon Orders Self-Driving Tech for 1,000 Trucks"
@@ -72,6 +78,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "a5OrFOOhpyGld31swe89C+4WOhZxryv0948JWhuDRD4p73NXAdCpj37J2HuG+2IyiikeVFu2O3g2ioe6IxWlg/fsp5LQyc5V3ChcssRo/BWKbfVKwyVJajHVGQKSUAStvMdu8GX1+C+BOlcuswGEiYu7Fx3sblVbeOs0mc3haKU5nWYtnMelalXurEF00Q2qBAAi/+IKpAsF1VyjDo4EOJeSSp1xKc9y1KqMXKCMgyJavUek7RSr1sxQssU7BaXMOXOyOBBGduU8bgekGj4rDm4E92UB0tMdRfTnjxx34G84AyYaSuLFHRxQkOk+ezK6JDNdNucKpWm/V23lE8AJUgItXTd4YKUova4LR2N3QFA=;VJoM2szP7xC7CfeO3vHo5A=="
+secured: "GqIIw6M4kzKNk8eSWVYx99BvzGe2ygZHsSAEm8U6KkmVvGW6MwyL9aatNTmqtdWH6XT+qnwyuk5xhEcJIvmqvXNlfVEzYhWdVSej805NrR6o6jojYXpqnW0b80CZRkDWAs9JCE96w33gmOSUZZ3Bd7jIYpMt0uzsxrzSKc95tx/xpdbYjnufWPAWdUxI+atm5Kd4RtbZZq4yEKnqrxlSo3/d5cqe2Za2kGHzRXnsPupq3QHTSBVJ33TWu++4BYP/yljdZxhMBShJD98t6grz0aNCN1TN2vFGXfK5w5c7phhnRuhs3kM6S3f1YwqLCP5Z4WvEoeDzMqOZUSrdibPF+JEOpSQUI0MvO/lBH0wVOZc=;D/On16gXj1BrZLa3bbTmqg=="
 ---
 

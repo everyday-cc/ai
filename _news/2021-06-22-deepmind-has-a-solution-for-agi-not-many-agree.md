@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
+    excerpt: "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly."
+    publishedDateTime: 2021-06-22T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
+    ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 120
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Computer scientists are questioning whether Alphabet’s DeepMind will ever make A.I. more human-like"
     excerpt: "Computer scientists are questioning whether DeepMind will ever be able to make machines with the kind of \"general\" intelligence seen in humans and animals."
     publishedDateTime: 2021-06-18T08:46:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Players To Be Pitted Against AI As Battle Of Polytopia Becomes Part Of DeepMind’s AndroidEnv"
+    excerpt: "Popular strategy game, The Battle of Polytopia, is now all set to become part of DeepMind’s open-ended platform AndroidEnv."
+    publishedDateTime: 2021-06-21T09:55:00Z
+    webUrl: "https://analyticsindiamag.com/players-to-be-pitted-against-ai-as-battle-of-polytopia-becomes-part-of-deepminds-androidenv/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 43
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/DeepMind_AIM.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "DQ2zsAER8A/F+bnFopnMaLMLtKpwz6KE7wLX/+SPka/hUkxud7wlYwjHX8Pe10QjWtHEijGIYq9AHiKCifQhofJELLy6o3PgNXMes9QGmMp75LmQUGggHQWfu1AJkp7u66W9SCUn7t0TnAeim6aZzqYXu/3Oy+C4kOHSX4bvn9LpY4U0KL50W5U+a/hrs0AMUdV0dkIEx1nmE6wjXh8pqkvFLoTC+jccw5MLzaEtP9gG/WDlxlKFLC17fzaP7LhBRUK88RphTFW08pArAEyT7lVouwDbcwkxMGbEUKSuTDuXXEOmDJJmunqm7+RqpOkXmj63I/n9S9W4WPrqDySpZYppCj+JLe44TVkRvXKG8OaknyTnfhamtY7h5RVX159xhP74FIAsOBr3eNkP98CJSY9EwVpr/dAf1kh8cI8WG5gMfi5rGOxwOWXPQI0opVdKvGTNWloB4pzSiixA5dfcYNwV5bTLMydi5UDcHhpGWRYsYnwoPdU/yH6YcFkQwiY6IL5eGXJPUzHoaNruHtoUQg==;YNDJxi154YnW54HpNWToRw=="

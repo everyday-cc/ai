@@ -17,22 +17,32 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
-  - title: "State Street turns to cloud-based machine learning tech"
-    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management."
-    publishedDateTime: 2021-06-22T17:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88218/state-street-turns-to-cloud-based-machine-learning-tech"
+  - title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
+    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
+    publishedDateTime: 2021-06-22T09:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
+        width: 400
+        height: 286
         isCached: true
+  - title: "Miso Robotics unveils automated beverage dispensers for fast-food restaurants"
+    excerpt: "Miso Robotics is moving beyond its grilling robot Flippy to launch a new hardware and software-based beverage dispenser to help automate commercial kitchens. The Pasadena, California-based startup partnered with Lancer Worldwide,"
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2021/06/22/miso-robotics-unveils-automated-beverage-dispenser.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "MEjEeEz1v1SCbZUQEkNn5MS0SAb9QhtNlWl1g5QghcI9dpNsISPy6I/BgrLftcx0QzidkgrO9VA8CgeUnJ4ebBLGXK5IhWbmlDB+2jr8+4les36n+HRiclP1j2HgCyF18Wph1mEZWXOw3XtikdZMN/rpGfsngS8EMin/TRS4xnKD0J+i1QuEcZ2tz9abIfLjfK353bxdLDoWKdxuC5Fm+qxADN8R/VzgMKw9FM7HvaxJ5STYJVfoYiu38MwoaG+B+aURRCpgsJgtjFmgeAxqCjkmSD+tcT/Hb8v5ptISF9H9+BK+1oEp7EzM7GQxix8C8MoF5gyVd7ttIJk48BOVHqdxucLn6LeqacV2YEPMCGA=;3rTKAiAlS3i0UYmxaHvERg=="
 ---

@@ -19,17 +19,17 @@ topics:
 
 related:
   - title: "Intuit Launches New Accelerator for AI-focused Startups to Help Communities Overcome Financial Challenges in North America"
-    excerpt: "Intuit Inc. (Nasdaq: INTU), a leading global financial platform company known for products such as TurboTax, QuickBooks, Credit Karma and Mint, and Highline Beta, a venture studio and venture capital firm,"
-    publishedDateTime: 2021-06-22T11:22:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-challenges-in/article_43efae4e-e359-5cab-8651-8455bb6caa58.html"
+    excerpt: "The second annual program invites global tech startups with AI-driven solutions to apply to the latest edition of the Intuit Prosperity Accelerator: AI, powered by Highline"
+    publishedDateTime: 2021-06-22T11:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21661492/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-cha"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 11
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/3d/03d3cee7-4508-53fd-a8f8-c4a418d69bac/60d1ca60e054e.image.jpg?resize=630%2C630"
-        width: 630
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
         height: 630
         isCached: true
 

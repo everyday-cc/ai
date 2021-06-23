@@ -38,16 +38,21 @@ related:
         height: 630
         isCached: true
   - title: "Amazon to Buy Stake in Self-Driving Truck Technology Startup Plus – Report"
-    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed an order for autonomous driving systems from the startup,"
-    publishedDateTime: 2021-06-22T09:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
+    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed"
+    publishedDateTime: 2021-06-22T09:53:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 42
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/Amazon.jpg"
+        width: 750
+        height: 406
+        isCached: true
   - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
     excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
     publishedDateTime: 2021-06-22T11:08:00Z

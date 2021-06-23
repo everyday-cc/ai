@@ -33,17 +33,6 @@ related:
         width: 1080
         height: 568
         isCached: true
-  - title: "Artificial Intelligence in Retail Market 2021 | IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP, Intel"
-    excerpt: "An informative data report titled Artificial Intelligence in Retail Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
-    publishedDateTime: 2021-06-18T05:57:00Z
-    webUrl: "https://www.openpr.com/news/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    ampWebUrl: "https://www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2308220/artificial-intelligence-in-retail-market-2021-ibm-microsoft"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
   - title: "Microsoft Teams for Android can now translate private chat messages"
     excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
     publishedDateTime: 2021-06-18T15:38:00Z

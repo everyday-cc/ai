@@ -56,6 +56,22 @@ related:
         width: 2000
         height: 1260
         isCached: true
+  - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
+    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
+    publishedDateTime: 2021-06-22T23:31:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
+        width: 714
+        height: 454
+        isCached: true
   - title: "Here’s How Artificial Intelligence Will Take Nvidia Stock to New Highs"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today is record day for the 4-for-1 stock split of shares of Nvidia"
     publishedDateTime: 2021-06-21T10:00:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybrid-cloud-services-to-support-enterprise-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -239,7 +239,7 @@
       "originalUrl": "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1006,10 +1006,10 @@
     {
       "path": "_news/2021-06-09-dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities.md",
       "title": "Dispel Releases Industry's First Accessible Remote Access Platform Designed for People With Disabilities",
-      "excerpt": "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities to work remotely on industrial control systems.",
+      "excerpt": "Dispel today announced new accessibility features across its entire suite of products designed to allow people with mobility, vision, hearing, and cognitive disabilities",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9386921.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/09/9386921.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities/article_142b83a2-fa6b-59f0-a9ad-bdb6d132b9e6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dispel-releases-industrys-first-accessible-remote-access-platform-designed-for-people-with-disabilities/article_142b83a2-fa6b-59f0-a9ad-bdb6d132b9e6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1019,11 +1019,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T05:04:00-07:00",
+      "publishedDateTime": "2021-06-09T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

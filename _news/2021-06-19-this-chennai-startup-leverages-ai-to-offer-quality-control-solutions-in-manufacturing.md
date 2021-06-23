@@ -81,20 +81,6 @@ related:
         width: 2448
         height: 1633
         isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Government launches first AI action plan"
     excerpt: "Christian Porter said the benefits of AI include protecting the environment, improving health and smart cities, and boosting the economy."
     publishedDateTime: 2021-06-21T04:23:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://www.themandarin.com.au/wp-content/uploads/2020/10/integrity-commission-.jpg"
         width: 795
         height: 530
+        isCached: true
+  - title: "Government launches artificial intelligence action plan"
+    excerpt: "The federal government has unveiled a plan dedicated to establishing Australia as a global leader in developing and adopting artificial intelligence."
+    publishedDateTime: 2021-06-22T23:32:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/government-launches-artificial-intelligence-action-plan/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/03/Christian-Porter.jpg"
+        width: 733
+        height: 361
         isCached: true
   - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
     excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
@@ -123,6 +123,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
 
 secured: "A5jWhiuhSQZLN4LYcEJXtjbdxW7DBe+14tUyqc3cO9p27+pO3X5iJRanhufZfrPOnkJhpANdESj2reyadeygTFiriBd+H9V9CXZrYnVNhSVP1G4LIrqVXBe12dZN/AX33Q9W6rn+C3cGVwoapRfl79QPwfcHBQjAvjOjQ/P8lQZp6M7L+BR+4tNzBsnvqrnUDYL+uEb8cLewh3iDWwzSXEs0kwZwbko4UHytNHJp+Y0aAdjFiw1qlOp2uTnpZvDXWmqHNpIsAT8r0PAxoaXFgBybkmS8o1mBHErSs1Jrrn/Y1sot0p1oNTCWCqXje9jmfuxLnufTJ0pmFlVgZfdPIdJM56hCrOaPIRiqMvx1uVFQokenp/usRqcixNvtXQ+piZId8IkZa2CtkMq+91Wm4mln0hhE+4m8NaB6tgO9Y8z+dYxblrGZm2dbC448HOvrHH5IFdxKVy1n9qcNsn6QFQcO/q5tnRsi17Hf9kFTxsFKCnNfqhTclbY7nErbUdQPTyC4YDlPJgHFKQ6CPI0kWQ==;6n2KNNNO6Ysy0WQs9tICcg=="
 ---

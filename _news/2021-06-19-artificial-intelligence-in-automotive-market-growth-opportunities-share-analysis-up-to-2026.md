@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech"
-    publishedDateTime: 2021-06-22T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in/article_08b15856-1e96-5b22-bfa0-3c3998ce00bd.html"
+    excerpt: "The \"Precision Medicine Software Market by Deployment Mode (On-premise, Cloud-based), Application (Oncology, Pharmacogenomics, CNS), End User (Healthcare Providers, Research, Academia, Pharma, Biotech) - Forecast to 2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-06-22T16:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-precision-medicine-software-market-report-2021-2028-opportunities-in-emerging-economies-artificial-intelligence-in-precision-medicine-1030544037"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
   - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
     excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-06-22T12:22:00Z
