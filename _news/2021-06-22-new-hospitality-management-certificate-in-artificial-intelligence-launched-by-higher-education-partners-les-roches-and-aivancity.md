@@ -70,6 +70,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Google Introduces New Cloud TPU VMs for Artificial Intelligence Workloads"
+    excerpt: "Google announced new Cloud TPU Virtual Machines (VMs), which provide direct access to TPU host machines. With these VMs, the company offers a new and improved user experience to develop and deploy TensorFlow,"
+    publishedDateTime: 2021-06-23T11:03:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/cloud-tpu-vms-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 38
+    images:
+      - url: "https://res.infoq.com/news/2021/06/cloud-tpu-vms-preview/en/headerimage/header+%288%29-1624300823994.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Government launches first AI action plan"
     excerpt: "Christian Porter said the benefits of AI include protecting the environment, improving health and smart cities, and boosting the economy."
     publishedDateTime: 2021-06-21T04:23:00Z
@@ -83,20 +97,6 @@ related:
       - url: "https://www.themandarin.com.au/wp-content/uploads/2020/10/integrity-commission-.jpg"
         width: 795
         height: 530
-        isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Government launches artificial intelligence action plan"
     excerpt: "The federal government has unveiled a plan dedicated to establishing Australia as a global leader in developing and adopting artificial intelligence."
@@ -140,6 +140,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
 
 secured: "j+vBrqnxARPL8iYol8GR1P34ahbeCmhyOxOqBCliqoMJKlHAWOMt78jvg3Tg10CSWq5k6RaO71SdBRJkSqZ8DCrEgmvrpUtAr8d2GyArRATWmK3qqWDAuUVIIgpMi9ryE2UMwofMzv+IBwT/QQU5LgQTFotig2xnhQu1HDRGaKT6utm6a6JIS4b7XnOrn4xTnghr3ZHMkBNNXIN+UB6cDl8u1z/aJraATi9i6WXP5aJ4iyoWS4lnMh1tpdLx/3frwRn2KkSGZt27mg45YHVVOrUUw7kRZvh0wnq23r1ot2yzF9LKIZw3hGpV1QiXRWshIoHuvDZgSkU8HTIsEgzSPipbns2TEO66ztoD3HuEzNgT6GbAYFr3GEXczbylJHi8nOnNhcwj29Pswd0egL13TyWkfjaVHHJEGqXxVFGtQINvcEvlzhZpAenHAfHR1Byjrf06nlW1dC+OiE5bTwW55f0c5OlRqQwoIneJfd/WzGpVpKAlCLTW8Wd6IfLoNdbq6RUcMQ8RUC+49rkRNeiIBQ==;qLxaMlCVGW/T/SJ4HmN3wQ=="
 ---

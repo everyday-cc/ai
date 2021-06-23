@@ -42,20 +42,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Overwatch League Brings Hero Rankings with AI IBM Watson"
-    excerpt: "Just as the current Overwatch League season was about to kick off, we reported here the partnership between Blizzard and IBM Watson to"
-    publishedDateTime: 2021-06-18T18:56:00Z
-    webUrl: "https://www.somagnews.com/overwatch-league-brings-hero-rankings-with-ai-ibm-watson/"
-    type: article
-    provider:
-      name: Somag News
-      domain: somagnews.com
-    quality: 54
-    images:
-      - url: "https://www.somagnews.com/wp-content/uploads/2021/06/Overwatch-3.jpg"
-        width: 704
-        height: 264
-        isCached: true
 
 secured: "aGVxV1JoXMBm5ZZwlphcoCceqOcNxQX1niEo0kQm90DbPdR0e9m1A4V2xbnLuAsFGSnQQjx3ZRM/Z9krJmB+cgaWk51QYUcSDKPYLlyR3kkD0THNJqc7cGY+QgcA8B2QZuLKqpdMTEdzQRnJLrkTujHoA1wrdnidePeLfR+cfu8w4EjsluGQqYlmp6GlYXRtxqmqmvcHICDxi9Dt+Xvj44OE789JgUGlgNv2wpMzITztujxbGqmr/oOQfh6cxUuaTMrKMW0ELXMMu/v6zJGfVSrplIni7X+xOlAzlyO6oifp9ukMjQfXWLI8rgs3WDpyQQ7XBkA+gMe/zh1rqDf9qaKmfRZPziGQJR2zMGf3MxIQLffElCXREmjVMHuPKCquXHweCTR7o1HUNFNSif0BPSQ3DRcT3XkpvGbzZlpZ4fFmmDU4auCJjtNzsZr6NkeTnU//YgZ/B0cpAs3TU9GIMRDshmf3w0WFeEUSV405LVAnwuddoAoNRHXrBvNn0+vNP8n9oKtAuKcTYxwOCfHiiQ==;miOOlhEKJV9Jrh5bdxVawQ=="
 ---

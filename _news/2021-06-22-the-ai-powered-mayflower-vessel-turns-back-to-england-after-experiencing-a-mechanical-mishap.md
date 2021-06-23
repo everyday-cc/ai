@@ -25,19 +25,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "AI-powered Mayflower, beset with glitch, returns to England"
-    excerpt: "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran"
-    publishedDateTime: 2021-06-18T17:59:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-powered-mayflower-beset-with-glitch-returns-to-england/"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-powered-mayflower-beset-with-glitch-returns-to-england/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-powered-mayflower-beset-with-glitch-returns-to-england/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-
 secured: "mRjA/ZX/vRf2ObmnhTttXspOAJIMUbfHdayrpw5laTieeSaSB8wDu1/aIJRyC50EPar+ivXe14SXihtONIlYS95Bu2zgd6Hf5M0kbWR2gW99Da5LMeI5upizaejoAQxaxXOBNwhHWuQWcFcVkw35IK3O2W2u4Qonk8KZ/a6OcGLT+U6ABTVj3QIErhRuSK3xH7+b6j5H6xCEWCjr/dXoP3FKf0F4Hfk9XoGBZyo0Z4p1MHGFrt4vYeetogf9YZAWVRpvDM5bwsVr5fF/6gR0Bc0zSojammRb0Lynpl9fWn1uyNYLoVuaz2s7PI1mdTTaV33q3qDRLhebXfqd5D+H7clPAZudan2x8WGmlQD2ogg=;uOtOFc4WW5nzqjhhQHSeaA=="
 ---
 

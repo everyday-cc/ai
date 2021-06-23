@@ -59,6 +59,22 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Artificial Intelligence (AI) in Sport Market Outlook 2021: Big Things are Happening"
+    excerpt: "Artificial AI in Sport Thematic Research is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-06-23T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623836113_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "QconPXjn8CYdgifBl+/CFLmnEm64XXY5Eq3lS8X497jYEab1/RNQWp+zPynv3btrbcG0wc8g+4IHpCo+U18qTJhSEuDSD526lwbvnQIoyb3Rb99Zvpmifop+2Ewn6w/bbsjDH98wtndf/jaEdrPqmRsRoWfr5Ki1hL6z2sc9rkxAjtAFRaOdta10seT/yarbryLMcx7KiTU0t18QadUCR/V5ZX/sbqVPWIyoSMzNY0ZntMHSBvK7kdADn+GigGqzNfPlLsshx2eMvcmUaFmBTCaXnP91l7bga2FfNE8CgVXk87ifPtGFEb0AMfvaaE+JpUEkyRsli538aVdg+TZ0xxeVeR23mh6FJqevHvnnMu8=;hBYJ6USdXzgDyKXj35apIw=="
 ---

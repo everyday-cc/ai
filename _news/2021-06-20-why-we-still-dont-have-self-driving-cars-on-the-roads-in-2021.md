@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Why-we-still-dont-have-self-driving-car
 webUrl: "https://www.econotimes.com/Why-we-still-dont-have-self-driving-cars-on-the-roads-in-2021-1610973"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 496
     height: 330
     isCached: true
+
+related:
+  - title: "Why are We Still Not Seeing Self Driving Cards on Public Roads?"
+    excerpt: "We were shown computer renderings of futuristic cities filled with autonomous robot taxis and luxurious concept vehicles where riders could rest on fully reclining seats while watching high-resolution TVs."
+    publishedDateTime: 2021-06-20T10:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seeing-self-driving-cards-public-roads-188163"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/tesla_0.jpg"
+        width: 1300
+        height: 866
+        isCached: true
 
 secured: "pi6MHvcgUTZ3btnmzkNUkGhnPn+u4u8bKbCTYdwBIYyGl9LL8SkMcfX4eT9pshdd/oNq+CLt0mZrG0HC1OVlz/bc0PBwDwGVLAoasPSDnDVxjPTbKPJEwIXBLsNjdB9lNYlFqUA0tSUM7wom7GQJlu5fZzp/N7umoG/ebpkWSDVzgvr8TommAp0W1o6cMN1cTXFsW4Hze34NHe+otfqQuqUO4mXfwveyshiw6xRSbGp08ndoRCtoD3S998VFlaGeud3ip+SAWNzkqtQyuhev/Ga+LaVee2RRRbgx6btlHnG6ud/dkPUh+cXw/xIKgxwvhsmodfboHQ0SVA34nIcRFuekvczjhtAZRg56KtaPhSHTHt6ECaLirY7JIacfBCa/5Gk2jxykFMuUPXoFv+ee6MI6gv/INhAHKIhoFDxBmecV0SojQHFD0faCD5ovn6voWaBXubJ8CAaky2+etL5aPHmvX+GCvOSJ0/icPMz7pdv8oU1MC5xUXMfswPezeOoLbt7xYFCTZNQJncdJ+AvqiA==;ZeFBaO+5M0FOxpghkvG6TA=="
 ---

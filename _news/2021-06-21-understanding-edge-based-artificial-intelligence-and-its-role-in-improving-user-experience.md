@@ -40,20 +40,6 @@ related:
         width: 1080
         height: 592
         isCached: true
-  - title: "The Promise of Artificial Intelligence in Healthcare"
-    excerpt: "Implementing AI in healthcare, especially in biopharmaceutical development, could facilitate drug discovery and improve drug safety profiling."
-    publishedDateTime: 2021-06-18T18:22:00Z
-    webUrl: "https://bioprocessintl.com/manufacturing/information-technology/the-promise-of-ai-in-healthcare/"
-    type: article
-    provider:
-      name: BioProcess International
-      domain: bioprocessintl.com
-    quality: 56
-    images:
-      - url: "https://bioprocessintl.com/wp-content/uploads/2021/06/19-6-Rodriguez-P1.jpg"
-        width: 1375
-        height: 775
-        isCached: true
   - title: "AI + Human Intelligence — A More Effective Solution for the Healthcare Payment Lifecycle"
     excerpt: "AI is best used in an “augmented intelligence” capacity, where it assists human decisions. Importantly, it also allows us to reallocate human resources to essential patient care tasks."
     publishedDateTime: 2021-06-22T20:02:00Z

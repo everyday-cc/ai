@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Natural Language Processing Tech Startup Primer Raises $110 Million"
+title: "Natural language processing tech startup Primer raises $110 million"
 excerpt: "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round."
-publishedDateTime: 2021-06-22T10:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million"
+publishedDateTime: 2021-06-22T09:31:00Z
+originalUrl: "https://www.reuters.com/article/us-tech-primer-funding-idUSKCN2DY0XL"
+webUrl: "https://www.reuters.com/article/us-tech-primer-funding-idUSKCN2DY0XL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DY0XL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DY0XL"
 type: article
-quality: 64
-heat: 74
+quality: 84
+heat: 94
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -40,6 +42,6 @@ related:
         height: 292
         isCached: true
 
-secured: "XdyCTz4HRcdQ41+Eec53gAiYM+68j6ONU1H9bvxgFCFUTnw65UxuP3RgNyR4mwQSN9JJ2rDZT1yyWzOUxrCZgeGzrWuWxqkLaB9ZeiayVNmMghQrkdYVABkpJPVA08Yn8NYzM61gKo3fdMZB8mq9K3E/QDG82DD1ZBNn3qz49znSP7JIZubKoORz50aD5c3ohCwkTnEbAmvn/A2oGP0G+eBob2KLEXwCfpz5j6YqQMG0DAxWm1NapNJxOXFBwAmrEBuwKISxjL7PyShRWMKMtRcmHUKE4HPBgJSs73cCVRmNsfa8Ha3HVch0O4XTF2F9s8bnNcBPvB4SLBQ1ZRG2WKLfj+dfopUoA1WLty38FUg=;Fdqs1bsJ0hR/pvyr19h9Yw=="
+secured: "yA5AS2eWra0JCjNIOX6sB/Iulvkzif/3D113IqNlOcL3YhlHe4+FIj5lvGqH3RUvssZlq/XN+MUpEPyCwKPue2q0Zc/YAfXdN/7L0+6U3Hf8S0adNFJzpSw/q4ii4wTlrVn5VL79Xkt7QeTGKQLlfd4bbtQh2sa3icPhjG8OhvpQcPPuziPu1geNa+nnhp5XiAYXDSMObtjing0HVCA3jHifaj82BznPEGlUacsdrBF7GovstWpHg/eAG2fuhnW+O6z6uNndEV5lwYhvipIp9z3X7XXJhKxqxSCc+2+fy8alYSrt1zX4Nx6kJ4wToH/gfzvOj/Tb3/MA2JSprnZsqlY0OdFe1t9nE94k43cSdyM=;ib6TEu47+uA58iEGbDUcOg=="
 ---
 

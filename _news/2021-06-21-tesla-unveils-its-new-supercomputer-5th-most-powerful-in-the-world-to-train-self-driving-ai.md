@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://wp-assets.futurism.com/2021/06/tesla-built-powerufl-supercomputer-self-driving-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
+    excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
+    publishedDateTime: 2021-06-23T11:16:00Z
+    webUrl: "https://www.extremetech.com/extreme/324025-tesla-built-a-supercomputer-to-develop-camera-only-self-driving-tech"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/TESLA_2120x920_MS-RedGrill.jpg"
+        width: 1344
+        height: 743
         isCached: true
   - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
     excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."

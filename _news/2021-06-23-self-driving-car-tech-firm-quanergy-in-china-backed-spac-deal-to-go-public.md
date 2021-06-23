@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/news/business/self-driving-car-tec
 webUrl: "https://www.channelnewsasia.com/news/business/self-driving-car-tech-firm-quanergy-in-china-backed-spac-deal-to-go-public-15069566"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,49 @@ images:
     width: 991
     height: 557
     isCached: true
+
+related:
+  - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
+    excerpt: "The company is the latest self-driving truck firm to tap public markets in recent months, joining Plus and TuSimple."
+    publishedDateTime: 2021-06-23T09:00:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 73
+    images:
+      - url: "https://images.wsj.net/im-357324/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
+    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T11:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
+    excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
+    publishedDateTime: 2021-06-22T20:54:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/06/22/former-tesla-litigation-head-joins-self-driving-truck-startup-as-gc-ahead-of-going-public/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/PLUS-Headquarters-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "s+YWM4yGCoE6AEYFh5ButKN3/w8ZYcKeshGzDaU4hGGluBXhuvo2w73AanMDSGLcabNAxM6N58tV5237iONi/Dj+YFYR/XJc3s3Aj28JrAYlgvs3+kseJxnOOc55QmwLEV0tmXKCWYi92qlSW+MxCyuxjDfspU5RNinuyt5JVqeiaZ7LOW1bmBe1afyfWX8Ea1cYCObmE3TIo0vDO2x/udDCcKeJopLS/suslu6JwD/lt6CFM5OlzRAw6+07rZOudysPemU+KYHR6wuf7k6Lr052CwC7uoJdOprGWFfliDKGTxoTxRaeIx4njuXdEvjC5gSd2RxZoViCyoZndzyBl6Mz4U8taGYBmQApeBphbIM=;YR72HQcHIsJ+LgrHFU8DQQ=="
 ---

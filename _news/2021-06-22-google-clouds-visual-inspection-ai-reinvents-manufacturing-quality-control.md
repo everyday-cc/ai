@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce"
+excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
 publishedDateTime: 2021-06-22T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
+originalUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Google Cloud launches AI dedicated to quality control and inspections"
@@ -82,6 +76,20 @@ related:
         width: 2448
         height: 1633
         isCached: true
+  - title: "Google Introduces New Cloud TPU VMs for Artificial Intelligence Workloads"
+    excerpt: "Google announced new Cloud TPU Virtual Machines (VMs), which provide direct access to TPU host machines. With these VMs, the company offers a new and improved user experience to develop and deploy TensorFlow,"
+    publishedDateTime: 2021-06-23T11:03:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/cloud-tpu-vms-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 38
+    images:
+      - url: "https://res.infoq.com/news/2021/06/cloud-tpu-vms-preview/en/headerimage/header+%288%29-1624300823994.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Government launches first AI action plan"
     excerpt: "Christian Porter said the benefits of AI include protecting the environment, improving health and smart cities, and boosting the economy."
     publishedDateTime: 2021-06-21T04:23:00Z
@@ -139,6 +147,6 @@ related:
         height: 900
         isCached: true
 
-secured: "jWaXWi3lj11lxyDv7kUkKMhYHn7CHmLT8S/YZPutVtzMysX6BY8EE9pzdcI+xjGpFNUbNSuBsSGBGNMQaAbh8JOGe6pR2ydf6sfUOmsBwTJBRk5Gsn8aoAnBYQaUpb7HVxQ34giOPkTmttYZQd2NEdiiHDutd3+0BVz/oySDJlP5NRXIS2SuWBDVCEr39Nqgsf4tfs283/vfPGWZNWbyogB6QhmdNZIRURs3KOE9Sv9jmX2G5AwM930ET1SEijFgVTD89NfOA2afHVOJ3ek8WSe8m5HOMVM4W7JFJIPJRuz0uiTFWHO+WnAb9/meokZTbleNJiYxmMNQUVlIvKo8eKmdqLFntKELt62xJsD9vkE=;xLiTCCUZsIUSBVzLA6BynA=="
+secured: "P0dkjulHQ40swTUIKkqOwvZl6Mut14kp6ataCW/vXwpsSDa0Lg9mow9x4lQZhm/cGrfhStZdcje05X7bLQHx4pleVANqwKcPZGoXD/cl90O0R28i0YlszSwu/wEjmVg/GluLbdNluFUjhuchAtcFU70jOnDkSJ5A6Ndgyp0lyGgk68oe3axc1ic2WuXGE5S5SojDc+tjvC+yb5blAdBmvBCKzx6Cv0dFsPv5PVif2WoVP5mvl/bSL5ZsE51/pEOOQi+ORuwqviO+SExBtemAo9dC+Qf+MTRupeFwRn1CFPIR8MwLFLSPWaKodSdG83K4F6vyMTeC3e5ohS5QLO+LewQ3ybu7EeqlDO1oNUf/KMw=;TpHioskcKdkhvaZSTuFXBQ=="
 ---
 

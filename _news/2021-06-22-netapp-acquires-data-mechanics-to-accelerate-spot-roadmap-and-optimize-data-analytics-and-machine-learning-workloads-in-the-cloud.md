@@ -112,6 +112,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
+  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
+    excerpt: "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... of NetApp's Public Cloud Services business unit."
+    publishedDateTime: 2021-06-23T11:48:00Z
+    webUrl: "https://www.businesswireindia.com/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud-73631.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "Bs2+E2N0eajhdR85nFvq64kk5JkytO8XG1fn+XV9LjoL4Q/7tsUaScs1WXyW9JumgJAbvplwlbjZuU9FOFGJGsd7UNOlRI1oCPmkdOO4k2r64Qij5gYcakUyRc4yAbTmLS4lovRSzeqHrGEFpqR8SbUG82OJ8KOqs7PmvcQYwz4tHqZfzwtz3ATF49xGLpKXaKcNDGYIKBKPVTy8zBV/rUeP5JaLpxQS4YWTxZGljP0gYV5PLTJys/c9FADnvlRHVzxtZ3+EpVFTCMJfMssp13jYdmCy8dlBaw7G/mImR5zh6YGUQli6uLgAgxtDJyeifIudv0f9bMRIRZclZVAM4KWkTTr99WCLrjdma8/Uuw/7c+w8i6WXnf+LKDE2Vz0lE5ySj6zUmQfXZbmfaGciy53//+x3jeBEohMZFlb9NWOEI8SjpDDsv0CKFB6UI0zO2rOuyv5SaWnPG9Vc/tDwOEwNMgbA6fZbUDzp5egAUnRQ3H6ErtNmv+HYkJWL9GE1/gR2rPG8JUAmJqzsZ/OWRQ==;IJL/DtC/wFPijU+E5to5Hw=="
 ---

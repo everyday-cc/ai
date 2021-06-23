@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-w
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -116,6 +116,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 0
+  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
+    excerpt: "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... of NetApp's Public Cloud Services business unit."
+    publishedDateTime: 2021-06-23T11:48:00Z
+    webUrl: "https://www.businesswireindia.com/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud-73631.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
     quality: 0
 
 secured: "WJdtWXBWrc/7J728M/5fkKH4xQibcvdj5NQ+0mU61AnoE3pDF8nttrMlOzem07+Pw8prMTb0lPNt5h+0/8/xXZRQX0SNxxlNZNWThw5ABWUTakjr21MonHbyFCSIU8JarIxv9Beo4XE2s/oTLsgIJ+28SAGL4iJocSkceOJzzKu+Ig5phojGjD1rxmH/401bvdku6SbnHwKLs+zwLGo/0MI2R6rZab6ujR2HHJqaME5P6wgksVSgopWBSy7nP2qmUAUCjPJeCWDc+NfnQuyhRx0eyTgL5RlQtNb0raqQEkvF/hCWh6xP90aOozqWsRYSeyBb42K6bV3KtCW55Nl1uyUf8/xoWxIejjTCHzdosLE=;AMsfxQRsIox+dlBW9ZTUjg=="

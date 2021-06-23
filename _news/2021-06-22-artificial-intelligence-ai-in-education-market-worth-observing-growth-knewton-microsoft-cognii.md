@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2310856/artificial-intelligence-ai-in-edu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.openpr.com/U/6/U621854972_g.jpg"
         width: 660
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Sport Market Outlook 2021: Big Things are Happening"
+    excerpt: "Artificial AI in Sport Thematic Research is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-06-23T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623836113_g.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
     excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
