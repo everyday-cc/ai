@@ -21,54 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief"
-    excerpt: "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how."
-    publishedDateTime: 2021-06-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
-    excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
-    publishedDateTime: 2021-06-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
-    excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
-    publishedDateTime: 2021-06-22T19:26:00Z
-    webUrl: "https://www.techrepublic.com/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 66
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/22/cb76eea0-7b93-4c17-b0c7-63be07fae3dc/resize/1200x/81bafa833ff62c463c854cf1bca87437/autonomous-vehicle.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
     excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
     publishedDateTime: 2021-06-18T17:40:00Z
@@ -83,15 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The reawakening of the old idea of children doing AI programming"
-    excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
-    publishedDateTime: 2021-06-21T08:41:00Z
-    webUrl: "https://www.bera.ac.uk/blog/the-reawakening-of-the-old-idea-of-children-doing-ai-programming"
+  - title: "Why are We Still Not Seeing Self Driving Cards on Public Roads?"
+    excerpt: "We were shown computer renderings of futuristic cities filled with autonomous robot taxis and luxurious concept vehicles where riders could rest on fully reclining seats while watching high-resolution TVs."
+    publishedDateTime: 2021-06-20T10:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seeing-self-driving-cards-public-roads-188163"
     type: article
     provider:
-      name: bera.ac.uk
-      domain: bera.ac.uk
-    quality: 19
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/tesla_0.jpg"
+        width: 1300
+        height: 866
+        isCached: true
 
 secured: "0VwBDxVkg9DWGHGaOHbiuccTI43vCmZ08fySmp0xVljkJ1bg4wbGmMsJQxtlcMjXTEuW2xFmU8hYL5XLymb/rcGM6zx6UyAY7TW3wbxsXgwJz2hY1HTcntgfdV6NzXrDTmXGRqRQeJ58X0GeevBIRfNtK6DxtWCQXXBN1N8o0uZYP04YU1FAkas11LLkFKGxKNeeaQy1zLrxIyf+ZjfAjzyByWILyRSe/eDYrqJaBsvtNqdkTAS1h8E7/y+f4qQqXjrT8Y9laMXbUEdGTpS1rmjENsTCNNdcE2hBlHuR63hknmjk+D5PqjJyFNgIiRyl5D0doEjmvhShlKrmI36SDWG41pL8vQcNVjRBHcKUTtNu+AnTqU2SzwjeS69oCn3MbPyJIec9F9jXhVqpct+Fo5IacED/drmVKyg6ILOlsXn6Hww3V+WAsqyO0xbTlsKV/HV14ziAIVn+Qg6iBw+TbhGQ6D0PzGUo67BVpCcuMZdxmyPdlpfdiIDT7vV9v9kg2TFfhvMRRxUxxy0daq0AsQ==;VF8/F9Q0YxRahrVFeSWzBw=="
 ---

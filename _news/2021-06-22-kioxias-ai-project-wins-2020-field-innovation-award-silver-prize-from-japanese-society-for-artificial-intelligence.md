@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Kioxia’s AI Project Wins 2020 Field Innovation Award Silver Prize From Japanese Society for Artificial Intelligence"
-excerpt: "Kioxia Corporation, a world leader in memory solutions, announced today that it was awarded the 2020 Field Innovation Award Silver Prize by the Japane"
-publishedDateTime: 2021-06-22T08:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210622005554/en/Kioxia’s-AI-Project-Wins-2020-Field-Innovation-Award-Silver-Prize-From-Japanese-Society-for-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210622005554/en/Kioxia’s-AI-Project-Wins-2020-Field-Innovation-Award-Silver-Prize-From-Japanese-Society-for-Artificial-Intelligence"
+title: "Kioxia's AI Project Wins 2020 Field Innovation Award Silver Prize From Japanese Society for Artificial Intelligence"
+excerpt: "Kioxia Corporation, a world leader in memory solutions, announced today that it was awarded the 2020 Field Innovation Award Silver Prize by the Japanese Society for Artificial Intelligence (JSAI) for its TEZUKA 2020 project."
+publishedDateTime: 2021-06-22T09:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kioxias-ai-project-wins-2020-field-innovation-award-/2021/06/22/9394550.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kioxias-ai-project-wins-2020-field-innovation-award-/2021/06/22/9394550.htm"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -28,6 +28,6 @@ related:
       domain: businesswireindia.com
     quality: 10
 
-secured: "HcgCxEFMrHeDrncXko5w6aDLti6DAMD3KnchP2mUY8bXAdYp901QKnaomwgHloxAWOasEXgpOzeyJUbRqMwp0Chh6Ld4uIRW1TNf/mhRfOjVLKDF4dRC8qQ0lg1nzoTctVPoUqhxWiU5+uSp0tTPS8JBr9x/NaHjCzkvOKj6KHRlGti+Eg6sKxJC6jGfeHykt8zEgaDIXJAvjMs8+pJiuVIAQ1MBTFUOFFp0AdLQGXYWMYuyLIMHyLiVQOYfKAjOZ9tEVCtH/swnqQdE8acOT9OFnJ4Ui74dxoym/PfS08qbzMUVaOeTzM2NHOpiUq9h0wm7eg2HjKcrRIzLK44tD+LY9lflypOQkycYqlY2sgwEXgdD9xeOfgk5OgnS2+rdTAtAHCafigiu5wQyNFEpox22iXnaWEN9hCHgw9KH/S6Pq+BosspwE3IMMrDNjNZfcVWqy1jC/86HfeZJ7I4nPD+TZWxXi7ExgGbxF972lKJYbgo0ALSv/bezsen5tEFGbiN/51Aunk5nXdJE+5mVZQ==;C7a+ibT0uvneoqVAEPisLw=="
+secured: "vTKFywknQdQjfK8hQTiu8sZqEdaqodWGNmFPkctVc/AZ2Ahcu6IP9fvw6L2iddTTAdpKmh09UG9X1TP/+Xv6Z5nUYzkcrEvc7hux5GlIh1Qmno/4CmoZlm763L1nNij7uiNKy+AmbiwFeUWuBtm/JA2b+8baqstK+HoVO5euuk94VJRo9j7anPyrNn0QIkIEtsHckL7hsVPPZKMoccg0JTfdA3QTnYYyeXGV9BdX/CDXU3UbkMVaktQREUflg+AVQM8J2CgR0XjhGyGy7cLggcyWRKf+YpR1aBGHiDrfMjAtp0sJpJHASAveoSkPomyE2dBhgIJXgVcwm1x9H08BsDtsQ4HGVhNkKCeOirTeXbpN/bTz10QHe6Fvr1KYFDD2TCmnwm+9w1gXWm5Q63bk/+dC2V8jLgALKQdIbmeqPv4MvcVK1mF1L0o2N/LyO0gRdHjSv71vJQaiz27Wm/8GqYOE8X5xi/Fmec5uLd8Nz4dzE0n9R64zl1nzD3MUBr7yKdVyNgFZ5wxuuy0IBnmv/g==;xmokapFnGNkoBy+eV3LHTA=="
 ---
 

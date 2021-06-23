@@ -63,6 +63,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook advances shopping features through AI"
+    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
+    publishedDateTime: 2021-06-23T08:23:00Z
+    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 39
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
+        width: 803
+        height: 419
+        isCached: true
 
 secured: "p5vvhTHy9InwHVDIRrvc1Zw876dZW0V+oMma5PeT+s9A82EeAIHacrW+wAhgUf2wEd9ikvlqlRytaLN9xzU8tOFYkdS6Cc883+9cvcLVJWpt8CUPGMXmIkeLySX5KTxfE2MmBlC6+kcsEMA2YHzAXnbtnHyReq7NRd7jj4oGqhxvK69RF9HnCKKYKSKO5gJPKW9ELTgDrWChUWLnIUjmsXy5ZxknQl0jWnN/6jVbgvdnRUVFroOwSb99XLZN9ogwbePFPdCpxHh0VrHe5QDv21aJ7HwbZEis8yhGbMnBXNQSDOXyD0sfV0jhy3Y/vhtBpEbn+DaPqroEvOTm7ZPVht0lP+artfl/+5X+ZOVMoEM=;FzllW4V5r3wG69189VYoSQ=="
 ---

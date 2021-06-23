@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-22T14:24:00Z
 originalUrl: "https://bdaily.co.uk/articles/2021/06/22/isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications"
 webUrl: "https://bdaily.co.uk/articles/2021/06/22/isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://bdaily.co.uk/images/uploads/Z840xHq2aUb5EUOwS5yQttAyhYM2Cy2qXGXI7JJ8.jpeg?w=940&h=430&fit=crop-50-48&s=3cd34e04e63ba8cbc2a30bf20a3a2724"

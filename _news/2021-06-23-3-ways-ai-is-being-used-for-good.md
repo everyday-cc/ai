@@ -8,8 +8,8 @@ webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/3-w
 ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-83772714,imgsize-77735,width-800,height-434,overlay-etcio/3-ways-ai-is-being-used-for-good.jpg"
@@ -25,6 +26,6 @@ images:
     height: 434
     isCached: true
 
-secured: "7wyDsNWUknZjHkkpIJcKhCLIxZVA/semreSjNw+Nkc0d9tcyl0q04inxxSYXLKX8AXUg3Eerjqcet4yBlvQUMYIyd/QytMKPnccqCMZkK+JQ8uH6mbANZCgCIL6Abigwv/CyUsaMTwLlDgeob1x2NxNgtsJbWZy3QhrWjILQK47tY+nNaTpTmJbJOybp54UYIcF88izgdYczmNNCLAcgcgDN26kVaoTiWmDHEZeGt9SM/BcwOxm6yxQw5BbDcROJmGla2nDm0qafPbjzZi0q/A4S5MCDfAo684XkDcCwUi/v906PEEqFg05lGQOkDKToi9I688nXoQeHSEOlPyPavaRt0kMEkBNBTP/NlRAtVzs=;/viU4O0QexKiv09Q+AAsIw=="
+secured: "YM8jBWtztBlDgeXnfjnHJXsi2eLmdiBJTfzpi1PrRnW+ZKl+WdP6yOjy5C5m+1sOjhUR5/A6T8X77N/C4Vl8d+0bm0RcA7dGb/169FTD0F9tYTofZmgQqKeLA2EWZBtihRX93LrGXt+ltbKLAe7/xaAknV5p8DzEK4wivBzOcbBAHK5m0Hp/RV78WgQ3ub1kFjCfzqlKSN9zxQNV8msvtNs9yq4rczzPUkPqDLtqh7toCLTyJeeXph8u9oQ9UYNXm0RjQ+PAOwchF2/bz8fvAZRsdGoG7xhTQtck44Wv5YO9RxSiKGWTvbU/vYIfTSCIpDS8cXbsClI7TSsTRGAZp3cXfn8zLHFSY+5mRJ0prbWdDiRaB9kktu53NlQe9YsoInkDsEr9XBF29k9L0M4lwDYpFACSW4OpJ2lEaWsmfGkLz2l9+4gpOLTAa9h/4NlHYpdTmeYMrIPfC+UO8fhLnfHDSal7JkdIfBptppqEVDOnDrSUPob1sCLTP5cHSbZhSdQoubm01bVo46jgm9QLHQ==;k9l8NZxOQhGg0P4PKsY2iw=="
 ---
 

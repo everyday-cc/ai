@@ -37,6 +37,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "The reawakening of the old idea of children doing AI programming"
+    excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
+    publishedDateTime: 2021-06-21T08:41:00Z
+    webUrl: "https://www.bera.ac.uk/blog/the-reawakening-of-the-old-idea-of-children-doing-ai-programming"
+    type: article
+    provider:
+      name: bera.ac.uk
+      domain: bera.ac.uk
+    quality: 19
 
 secured: "W7GMXQ9WkE4V8PYnT7E63vSjZNIxYd8ZEorK0Vp2aRG4ri5Ohe0lug0LrgF3Zq6AdDlxJVGyhINnxYtKQV287DqYcSwDfBQY1mHiBNr/Ic3W2S5SjACaE/anP4jyY5MU5YdFd9h8fLWDtVyKwbxfa5/mc0IhiH5r8ZZcgLiOKtMqm7lfBrqEeSNEYPUioYN3WZxOhaSD+n+ShVFTY0Iw4NzkIZ2FTr6DwdnQDe45iHZYznhqH0MFonCE8UPaR0DcxSl5j39D5LbWNjo6WE0QJeHP48oj9j+FXIpGPdFoMXGJ/gsKNQNiSNgZrs/smWZBBYRSxpFgbW8IBb57111X+xdPgVd2c113o8nJ35PGa+k=;nLxX4BP2W4YG/UhqCnITJA=="
 ---

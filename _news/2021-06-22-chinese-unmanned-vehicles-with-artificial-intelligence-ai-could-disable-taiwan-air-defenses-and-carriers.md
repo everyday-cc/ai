@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-22T00:00:00Z
 originalUrl: "https://www.militaryaerospace.com/unmanned/article/14205623/unmanned-artificial-intelligence-ai-air-defenses"
 webUrl: "https://www.militaryaerospace.com/unmanned/article/14205623/unmanned-artificial-intelligence-ai-air-defenses"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/06/China_UAV_22_June_2021.60d1dcc468b7a.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "pE1pqonrCATg9McYdZTOlkxqOeOFv6S69cWj3ExHWUDwuSoei5LPBaZevEFChDxbMLfQsskIeO9AA4d/e0JCE0VUE+OqLttMDBfqw90o6SP0N4Nvw5zO+be96+NZm7yLX/JgwWG+h68JY7HPyuVRcqcjvaNrePePZasQLt2Rn51I56ECBX0aasRcDVwOti/IK5KKROPDgHybyWFpW+B26ATIiSFR1FodFRupTvMekrW4JydLNlI84TZX5rvmzcH6Wv4+OkR9yl/9QCl+GSlQl1F99HKiy8IoLKwJ6fQrV4ouCbYr5mpRTWKkUN//nhUYJvOjr1+GuLy37u6SCESw+mwglRznbYqe91XfdTBNdOk=;vwtIEqqY2XcqRfUxY8j2nA=="
+secured: "s9KEQ0EySbrIye/9Z1uGYOzKUrC7a9r7UboFfbqd6J8xpyW9woDDsnEeU+81tM4dIupR48C0msMIp1cx6jbyOSWQaBYcHnuZj+/TLGPQKyqjzvSMHIH0O+FvZbxsQi0DiaNWDHm4OqLut2Ix8Ppt3kmNzH4MlBOoi3A4yvyShxLVhQHdDXxWEwfNKjyWbLXh/M0kDnXqWCMLY5TCoL8htuB/ZREl1dU/+F2xYJz0FonoKcHqITPmGSDqJjCsT90Erutl5LcUj8TjGfxFqnisVbeTOknZaHp10K19G0JrxA3dya9hUMF3ErTJ3WQSTvc01kO1l5iS/nmx+1zzUPa5r8OCbpawL512ITN4kPUwCMxetYRm5wpwej5mTUQv4rNnUtC0FDA2qCmA460hv/okOTQGYcABiIoiu/SvxiW8Wu0XSSWizBn2o/NhOiRiXrrWtqQK6m13b6r8gxrTZ0a1NtVj7EVLxELYDOh7XFDhZK6NHNAO2TTgKtRW7KPTQlDn5VawoHForm4stU6iD6SJrg==;l0NBv6oNiBCG3Xsra9Q3hw=="
 ---
 

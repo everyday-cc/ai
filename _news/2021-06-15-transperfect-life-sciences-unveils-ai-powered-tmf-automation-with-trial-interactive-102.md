@@ -1,49 +1,26 @@
 ---
 category: news
 title: "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2"
-excerpt: "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for t"
-publishedDateTime: 2021-06-14T21:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970"
-webUrl: "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970"
+excerpt: "TransPerfect President and CEO Phil Shawe commented, \"Introducing our first AI-powered TMF automation ... pharmacovigilance and safety solutions, translation and language services, and call ..."
+publishedDateTime: 2021-06-14T23:17:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2--301311805.html"
+webUrl: "https://www.prnewswire.com/news-releases/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2--301311805.html"
 type: article
-quality: 60
-heat: 70
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg"
-    width: 400
-    height: 307
+  - url: "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg?p=facebook"
+    width: 800
+    height: 418
     isCached: true
 
-related:
-  - title: "A new trajectory for life sciences tech as AI accelerates data sharing"
-    excerpt: "Technological advances in big data, artificial intelligence and cloud computing have altered the trajectory of research and development, energizing and influential industry. The COVID-19 pandemic bolstered telemedicine and eHealth solutions,"
-    publishedDateTime: 2021-06-15T22:53:00Z
-    webUrl: "https://siliconangle.com/2021/06/15/new-trajectory-life-sciences-tech-ai-accelerates-data-sharing-awsshowcase2q21/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/healthcare-life-sciences-data-doctor-virus-covid-vaccine-research-development.jpg"
-        width: 6000
-        height: 3208
-        isCached: true
-
-secured: "GLqHpkQszENetZpqPqRdTZQ6G2HOGOz7Gm7ucaeed56MsfnSjFA8NTvyPvSFd3UdA2uP4gTAE5rk90U3caWhWo2V0Vv3o8zTD4KehN8hkqADs5fN3uGr6OyJeGT3JjgfOmxWYYRi6Litg2dTW3QtL+lviMUXvh9jBbgr9evfDzbvYAKV7s9somUuNKJ/lp1pwqImDo1QkZjImctANJbl+FjJd6MQMoY2hsd/gtwHkAueaggQCGd3dvTNjUn3UOQqTWGXh+syC9PcOZWsm2FDb+w+VUHiUb8QA7Gba9IXZjKjS4D5WiwsblNVU3+V7MB1nwT1amYAnZ0/aTqoc7VQ1DdYrTIblLuNSGG6wuLo801EPmsPlLYwz8yUY+5S1FifWji/7E6OnvPdi4vzEc/v0rRMwsp8aZHcvfn9NjoRrA+jMQccsiTzq+t8ni1wN3RT7lsSkBsTpfiQc3J9U0Ya3U05altp6HZIvBQqEJJU8Iw6wija0je5PBjQaZURh9ZB4KGJ75U1VK0jR0c11uVbLQ==;lrA8wX6oC+dvYoMbO6d++A=="
+secured: "2o6aRHs2djmxhAcAUElCLHvV8Jd6c16QknSKFvh6+2dJtspOldQib67D+eJwCN36GIj8xrVOG6XNN8m/eXrEi51VpTMisGBsUeb3VjnscOlQw6AqVTVL4CFfzamZ46T1GdGYQJ/BwmtREnMEh7YnHh08KhC3+Btm9buxFEymYb+bef9KhnlbOapJfAAn4IQ5YB5xKILDGhxr+oWghOfmu0zOrUd/UOPgE4wQUnGRK293Rc6ft5SrNr1LMeUN/JVHNrAMunTOSpiXiKdwEzmX9YasG6Qfb2S+CqfP2A7MOe8gXVXXmKFeP3tVNOIIMObUpDN2ShYKYE/MdV+6alXPnGE+EfXJ9FMyu9/A8wQ9wxA=;ti/uyPCzFVdPS/elt+jdsQ=="
 ---
 

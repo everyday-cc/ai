@@ -29,35 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla rival Xpeng gets self-driving parking assist, but it needs to be trained for specific parking spots"
-    excerpt: "Xpeng’s P7 is getting a software update with Valet Parking Assist as it tries to catch up with rivals like Tesla, whose autonomous summon feature has received regulatory scrutiny."
-    publishedDateTime: 2021-06-18T17:00:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be"
+  - title: "Why passengers might actually feel safe in Zoox self-driving cars"
+    excerpt: "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features."
+    publishedDateTime: 2021-06-22T14:00:00Z
+    webUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/"
+    ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 87
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/7699694b-c909-4b2c-9733-fcfbe357198f_8cb3e1bc.jpg?itok=k6YXIHFB&v=1623999945"
+      - url: "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8="
         width: 1200
         height: 630
         isCached: true
-  - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
-    excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
-    publishedDateTime: 2021-06-22T20:54:00Z
-    webUrl: "https://www.law.com/corpcounsel/2021/06/22/former-tesla-litigation-head-joins-self-driving-truck-startup-as-gc-ahead-of-going-public/"
+  - title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
+    excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
+    publishedDateTime: 2021-06-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 30
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/PLUS-Headquarters-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
+    excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
+    publishedDateTime: 2021-06-22T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/22/cb76eea0-7b93-4c17-b0c7-63be07fae3dc/resize/1200x/81bafa833ff62c463c854cf1bca87437/autonomous-vehicle.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "How Amazon-owned Zoox designed its self-driving vehicles to prevent crashes and protect if they do"
+    excerpt: "The hubbub surrounding the autonomous vehicle industry often focuses on venture capital rounds, speculation about IPOs and acquisitions. But the industry’s future also hinges on the high-stakes task of proving the technology can operate safer than human drivers do today and gaining the"
+    publishedDateTime: 2021-06-22T19:33:00Z
+    webUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/"
+    ampWebUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 60
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Zoox-in-SF.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "xjEXxoFzxPglIfdjGFZ1uUgIxOhyFg6ZFEH2WvNrsCLp0CzeVvp4iT5EBM7HRhshwfeKHBGBigYZuAWaNS6boiGSzrq0/bZISbw19zEfqiG8eG/LNzhS186M+xP/yUM2+Dkxo+ZjjZA37ORUiSmCjzYrECg3xcGUG/F7X6j44JjZWrB0fJhsPwywwpUkc9QrTjRZSTThfq5uD2LI39IzQO9cS/CSqcXrNWX4YFCvh5AB8L3VMbrMh3OHCr6xpqRT1TV+kilmK1PN65d8qcEhT6nr+hF616ZXPP5Ks8No5Chnu5QDcLk5V4pUCX5K+FkrzQkSgOtUtvNmUIzeO34uWHUDLrzl8dlz7QrTHzo/ITI=;UBkSzFLJww0BW3z/Fld6ZA=="

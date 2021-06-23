@@ -95,6 +95,20 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
     excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -123,15 +137,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
 
 secured: "fVbEZVo43RyTT0zcm5Dl6uVId16M84h2mBpjnPL/A+NhCaOU4HNN3BexkgEcc9lvAz8/JXZfTb68m4h3H1CR8F9S/bOggX1a/54670RP8NVjTscuKDbr8aV61D+0/wYNuawDHt7QvIZBKEGqw3LySBsY9LnDUTXOHIP3yNssWKOBbkVzxzpItXwJ648jQaeyl3+lrDgKFcaOd2NXG+tyv2DupgKSmfWroQ4yLokHIpPu16Wpom01rafagZAjTrkxjH9ZGssWRHjLPLN3Jp2gAGjL8LzLKwlVvHtaYdYLPzsPUChKlVogeFRHbycj/7PZIFvWIzDgqgfS28oQ+TiJIy4yXQFI2TJU7djwrqNEzujECOf862uno7xIppfijdFLlwsQ/WC4FuIi1yfqggC7Uca0xq8XAVsHPRmn+l58Qk41Aev4kdvmGHrfcziHQ4c9R2enP/pXsFNz25RO+1VbJWLI+40ASvDp1TMWQ8hx2jzxEP+kdRhDoWvLr0O3fGKKocs+K5aXPSaYPmctMf4YNg==;OxZLNl4JQoACWG49SsDSng=="
 ---

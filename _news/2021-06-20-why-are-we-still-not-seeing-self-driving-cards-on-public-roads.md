@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seei
 webUrl: "https://nationalinterest.org/blog/reboot/why-are-we-still-not-seeing-self-driving-cards-public-roads-188163"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Why we still don't have self-driving cars on the roads in 2021"
-    excerpt: "Do you remember the time when self-driving cars were upon us? It was almost a decade ago when the Autonomous Vehicle division at Google (now Waymo) promised a world where people would be chauffeured around by"
-    publishedDateTime: 2021-06-20T12:24:00Z
-    webUrl: "https://www.econotimes.com/Why-we-still-dont-have-self-driving-cars-on-the-roads-in-2021-1610973"
+  - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
+    excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
+    publishedDateTime: 2021-06-18T17:40:00Z
+    webUrl: "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/2021061792d9f61ec78848106_th_1024x0.jpg"
-        width: 496
-        height: 330
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "MBTA officials considering self-driving subway cars"
+    excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
+    publishedDateTime: 2021-06-22T09:52:00Z
+    webUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/"
+    ampWebUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
 
 secured: "VaW4pRhQyMfW7VlIn+y9JX32bAxQYbNvT+VtD0YXw2ZW6VO3UOjVZ4Yjken5aCZTR7XszUNNgD9RRyNAS7hCagcJ3b2jedD2zK3aD41zKJCf000k02rtGMEJLtl1kOKfxfP70J14a5c3MPY40L2haXLiC9oJa/AIWR1yepRvaTtKCSyxD89w54PeZxj4QeBNte7db4hlkVzQvB8yIH+Pnnd9sWBX5eZb+PNgHPFlOSr2nZSb8J2ghEg1hzJqsw0fMJNpTTHk6PkWZheVqkpgm5JYCW9ZM57jB7KoJzqHqihfbcqx2f1Iuu3jME4iYYnZmwJolYnC9imihdyRqDhosbg/cJPp+RvuFw4QLD+BcgI=;hgO66p7IvW/8lw+aJnZMOA=="
 ---

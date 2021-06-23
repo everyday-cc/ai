@@ -372,8 +372,8 @@
       "title": "Mydecine Unveils Artificial Intelligence Drug Discovery Program",
       "excerpt": "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/16/9391456.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/16/9391456.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -508,6 +508,40 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028.md",
+      "title": "Artificial Intelligence Market Analysis Growth Challenges, Opportunities and Future Developments to 2028",
+      "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Artificial Intelligence Market and dominate the market share. The report also provides information on the market revenue of the key players.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1293,49 +1327,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic.md",
-      "title": "LGBT+ conversion therapy: banned on Facebook, but thriving in Arabic",
-      "excerpt": "When he was growing up in a small Egyptian town outside Cairo, Omar began feeling sexually attracted to other men. Too afraid to talk to family or friends, he turned to Facebook for help,",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic",
-      "originalUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2021/06/facebook-lgbt-620x413.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic/amp",
-      "publishedDateTime": "2021-06-03T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

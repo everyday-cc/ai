@@ -86,6 +86,20 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce"
+    publishedDateTime: 2021-06-22T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Government launches artificial intelligence action plan"
     excerpt: "The federal government has unveiled a plan dedicated to establishing Australia as a global leader in developing and adopting artificial intelligence."
     publishedDateTime: 2021-06-22T23:32:00Z
@@ -128,15 +142,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
 
 secured: "zC9vusS4tmexurPF3imk2/Ln0idOnJZ559lDhrtqmbrU1ZpVAIOZBSo1eaAkwysMbS21q8cCJqbc2toX0lSQHonM8psZl5FNOXdo92iinib3OarBqab3cfJkz+yn2DnfKygcl51zLPKPKcAJNjLSl5zITr9hTFaOGwMIsvy3r5QJL0QipiqdJH9EVLE2Is2Zjjgoo3dUBrltee054ubr7w9qT/9ONGVskBI28MqsY7szxz8tQmnKbg0QtpQNqk5k1wZa5sajLVM2KctXtJznR936EO/7BlfoB0uxMqwI8aS8EXJyXW8tiUaIUKxFYxdCp/6Cp0oI2vO1cxr1hUeqkMRDoccTZXEkHIdAt+IebSI=;q+bvAr4mXNJCKGssbER6jw=="
 ---

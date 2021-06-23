@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-
 webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Facebook advances shopping features through AI"
+    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
+    publishedDateTime: 2021-06-23T08:23:00Z
+    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 39
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
+        width: 803
+        height: 419
         isCached: true
   - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
     excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -41,6 +41,20 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2019/03/bigstock-Compliance-Rules-Law-Regulatio-245990971.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
+    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+    publishedDateTime: 2021-06-21T22:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+        width: 400
+        height: 226
         isCached: true
 
 secured: "tDJuUhb1x+ZDKfZvwDtU3L/PaA5SfeQSR5ZOULDjcxZa4HYJmGXYaUFlRhUhgxoOqibwmZUhkcG6ysKxYGDy0AGyXfWw5/boKV0zLSMrDAfQxHYjbwvZj9J6DoOUrNu/5UiV/W8vQqAMFfZQcBk9TCSD+Kt6YpBUBEaWwe7uBNoHYEFBmXNQujiGiTOn1ZcM60dhhnKYXopUcTdxogo7Pv87sSwDwJsAyJEn2W7JeW8CVo+QpruiWlsf9o9myUzhohZZJvG6WRSntCkYoEcmvo91qzYwEWtA9Cp5pWE6lvW2HEtfkuEPMTiyNrCE0ar20PwQ2U6blmdtmHGRcXFn1YxiXnZ0gPRLpuekYm/xh8E=;hKOPyN8VXnDHYO1RT89Hrg=="

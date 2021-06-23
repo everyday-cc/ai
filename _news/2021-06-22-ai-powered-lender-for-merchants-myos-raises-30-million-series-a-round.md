@@ -26,17 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Natural language processing tech startup Primer raises $110 million"
+  - title: "Natural Language Processing Tech Startup Primer Raises $110 Million"
     excerpt: "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round."
-    publishedDateTime: 2021-06-22T09:31:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-primer-funding-idUSKCN2DY0XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DY0XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DY0XL"
+    publishedDateTime: 2021-06-22T10:06:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-22/natural-language-processing-tech-startup-primer-raises-110-million"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
 
 secured: "NLwSsXtgz98r7DE6DgpfsTouGij3yyqpy5lE9rV5ZIcOJooYN1nDFXGOq5Hfv2eaAjZk6YyZRkR9PQwbeincD7WlV3H7wsKeSaxTDthhO9NtM2dnCne3fQ0Hv4/pWXKzzfD8Yy0AUuXvIon01qhlDgRndxD1oWpWEIEtWWLyNDLi817413ZORlI5vFdAq0rZgrb9VRX3FRAht4637XSzJwY2YqXTXALhLv09ditxI67TvUkSUeNCpUcw9vfvq3XsNq9GvyjPlJ0xiFxeElC8fiYCuHzwhgWIOLy6xnWQMsEp6DVh6XYSi6VQZc0nwIwOX0zS1ti2/zm3vCTZhGeCJeSI08u1jCIhLOFCtnVPrkE=;0lAuAFRVUNVwpLlW960fPA=="
 ---

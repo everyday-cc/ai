@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief"
-    excerpt: "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how."
-    publishedDateTime: 2021-06-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/18/massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief/amp/"
+  - title: "Why passengers might actually feel safe in Zoox self-driving cars"
+    excerpt: "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features."
+    publishedDateTime: 2021-06-22T14:00:00Z
+    webUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/"
+    ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Mashable
+      domain: mashable.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cbdadbe745fe5d4c133343%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D1627%26cropY1%3D0%26cropY2%3D1150"
+      - url: "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8="
         width: 1200
-        height: 900
+        height: 630
+        isCached: true
+  - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
+    excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
+    publishedDateTime: 2021-06-22T14:49:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
     excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
@@ -63,40 +77,22 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Self-driving cars are a no-go, so let’s all pretend flying cars are coming"
-    excerpt: "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone."
-    publishedDateTime: 2021-06-18T17:40:00Z
-    webUrl: "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming"
+  - title: "How Amazon-owned Zoox designed its self-driving vehicles to prevent crashes and protect if they do"
+    excerpt: "The hubbub surrounding the autonomous vehicle industry often focuses on venture capital rounds, speculation about IPOs and acquisitions. But the industry’s future also hinges on the high-stakes task of proving the technology can operate safer than human drivers do today and gaining the"
+    publishedDateTime: 2021-06-22T19:33:00Z
+    webUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/"
+    ampWebUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 52
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 60
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Zoox-in-SF.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "MBTA officials considering self-driving subway cars"
-    excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
-    publishedDateTime: 2021-06-22T09:52:00Z
-    webUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/"
-    ampWebUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 24
-  - title: "The reawakening of the old idea of children doing AI programming"
-    excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
-    publishedDateTime: 2021-06-21T08:41:00Z
-    webUrl: "https://www.bera.ac.uk/blog/the-reawakening-of-the-old-idea-of-children-doing-ai-programming"
-    type: article
-    provider:
-      name: bera.ac.uk
-      domain: bera.ac.uk
-    quality: 19
 
 secured: "OrP0aKlcQFml4zp4wIjQtJFZEoEFTlqF+1V0F4lu+AO8hWxaST0YAVI4hn0J9JL6W2JeDb2+KDYJ6etv6oNOuK4qE82gfxZGqBsgmD4KReaUgK+b8nrZ44gqbXIjy/yizjtiqp0FFLsBsC3eCcXjSjIH9Io1IlSqh52bmnKrdRTwSH4g6ib1LJ2rQGT8dyJIQ9r9aiSKipoJyYJhjg+dRGHjRm2wg6zW8Zu/+xfi33crOVAGzyinWRYPIWYm8bNWrRnoFxUNVAoZj1syj4jy3PMSoJPMq2DKvGAA+W83GIJ5Cy2bcz/CojouTPOnrjW7OakA0N5+aw6E7ikB3M3RGz9UJiS8rEOFOSigPMDvOHZDb3T69xRiW4kJgKa/zOuObUkNtjPq49/OFXcsGyAGcwaXClHBavErBKqjdt8PXPyim8bPtqdieTiWJ3EQSb9Tejh/+e2fOCDyX5wipK/ocv6H7QYaQ6R1MX8EoEW/b8BDtdzzh3otOAgDvWrJm6EfdI0+I8zBmamgdeabfwC+bg==;buQnAbclSFEsWdr39MJ8IQ=="
 ---

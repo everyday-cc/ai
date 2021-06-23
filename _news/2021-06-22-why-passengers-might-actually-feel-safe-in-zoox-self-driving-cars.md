@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
 type: article
 quality: 74
-heat: 84
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
+    excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
+    publishedDateTime: 2021-06-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
+    excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
+    publishedDateTime: 2021-06-22T14:49:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
+    excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
+    publishedDateTime: 2021-06-22T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/22/cb76eea0-7b93-4c17-b0c7-63be07fae3dc/resize/1200x/81bafa833ff62c463c854cf1bca87437/autonomous-vehicle.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How Amazon-owned Zoox designed its self-driving vehicles to prevent crashes and protect if they do"
     excerpt: "The hubbub surrounding the autonomous vehicle industry often focuses on venture capital rounds, speculation about IPOs and acquisitions. But the industry’s future also hinges on the high-stakes task of proving the technology can operate safer than human drivers do today and gaining the"
     publishedDateTime: 2021-06-22T19:33:00Z

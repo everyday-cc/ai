@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
+excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce"
 publishedDateTime: 2021-06-22T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control/article_4d28438f-5299-538e-a9b5-4b0db3b3ab80.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Google Cloud launches AI dedicated to quality control and inspections"
@@ -133,6 +139,6 @@ related:
         height: 900
         isCached: true
 
-secured: "8a6VYT3xAl9GlaCrm2oN7L7Zt3cqYRmC24y7VFnGh28D7irxx/EHuaof5NX2VdVkmxv28Sj9kpU3WC3QzfdF42myZQfrmTMszXFmV4XWzlSbaUNUkAl5kpVfTz43I9HYyMLcTcFOKKi2StZRiJkbwF8KXAxvoIL+WvpmiBibUOxL0zHOazB0FEaqSm11IoPBnvBQXpC18vc6FNEiXucMRcIong25zB3y6TDj8pDcm474GNpHgIuWuYc3/ZNCp8ikeXlpVVysJQ6QuHbmmXT8ASqZIqRW4kyHRjYZOHGOl4EzikNVOi01jSn5PpKDLIwhDl/47qplDkA/MvVXht+ebUBPx/ZJTosp8R6L9EHVH4U=;MjQk8NMYMvEHy37PKkuuCQ=="
+secured: "jWaXWi3lj11lxyDv7kUkKMhYHn7CHmLT8S/YZPutVtzMysX6BY8EE9pzdcI+xjGpFNUbNSuBsSGBGNMQaAbh8JOGe6pR2ydf6sfUOmsBwTJBRk5Gsn8aoAnBYQaUpb7HVxQ34giOPkTmttYZQd2NEdiiHDutd3+0BVz/oySDJlP5NRXIS2SuWBDVCEr39Nqgsf4tfs283/vfPGWZNWbyogB6QhmdNZIRURs3KOE9Sv9jmX2G5AwM930ET1SEijFgVTD89NfOA2afHVOJ3ek8WSe8m5HOMVM4W7JFJIPJRuz0uiTFWHO+WnAb9/meokZTbleNJiYxmMNQUVlIvKo8eKmdqLFntKELt62xJsD9vkE=;xLiTCCUZsIUSBVzLA6BynA=="
 ---
 

@@ -47,7 +47,7 @@ related:
     provider:
       name: Bdaily Business Network
       domain: bdaily.co.uk
-    quality: 24
+    quality: 26
     images:
       - url: "https://bdaily.co.uk/images/uploads/Z840xHq2aUb5EUOwS5yQttAyhYM2Cy2qXGXI7JJ8.jpeg?w=940&h=430&fit=crop-50-48&s=3cd34e04e63ba8cbc2a30bf20a3a2724"
         width: 940

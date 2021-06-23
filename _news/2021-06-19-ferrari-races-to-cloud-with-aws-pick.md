@@ -52,20 +52,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Ferrari and Amazon's AWS enter agreement on data"
-    excerpt: "MILAN: Ferrari and Amazon Web Services (AWS) have entered an agreement to make Amazon's cloud computing unit the luxury carmaker's cloud storage, machine learning, and artificial intelligence provider,"
-    publishedDateTime: 2021-06-18T15:15:00Z
-    webUrl: "https://www.carsifu.my/news/ferrari-and-amazons-aws-enter-agreement-on-data"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 39
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/06/E4K5zHUWEAMgGbl.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Ferrari road cars and F1 team banks on AWS for innovative solutions"
     excerpt: "As Official Cloud Provider, AWS will provide machine learning, analytics, and compute capabilities to accelerate innovation across the organisation"
     publishedDateTime: 2021-06-19T12:28:00Z
