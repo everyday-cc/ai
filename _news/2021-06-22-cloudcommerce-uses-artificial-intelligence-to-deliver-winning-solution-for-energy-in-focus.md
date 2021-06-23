@@ -1,25 +1,22 @@
 ---
 category: news
 title: "CloudCommerce Uses Artificial Intelligence to Deliver Winning Solution for Energy in Focus"
-excerpt: "CloudCommerce, Inc. (CLWD), a technology driven provider of digital advertising solutions, today announced that SWARM,"
-publishedDateTime: 2021-06-22T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21658808/cloudcommerce-uses-artificial-intelligence-to-deliver-winning-solution-for-energy-in-focus"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/g21658808/cloudcommerce-uses-artificial-intelligence-to-deliver-winning-solution-for-energy-in-focus"
-ampWebUrl: "https://www.benzinga.com/amp/content/21658808"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21658808"
+excerpt: "Energy in Focus turned to CloudCommerce to better understand which creative initiatives would be best for their different audiences, such as b2b partners and its public advocacy audience. SWARM analyzed the top 5 previous posts from Facebook and used artificial intelligence to develop creative variations which ran on other media platforms."
+publishedDateTime: 2021-06-22T07:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloudcommerce-uses-artificial-intelligence-deliver-winning-solution-energy-/2021/06/22/9394516.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloudcommerce-uses-artificial-intelligence-deliver-winning-solution-energy-/2021/06/22/9394516.htm"
 type: article
-quality: 29
-heat: 29
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "hG0f83dE1OL1rOXABqq53EmWdlbke+dCuQ+FBYehBfaAZORxG5RmjANtVODxYNqtq7T0B/mae/kucpa2Yr5sM0cCUcNjrKnajtI7n+/mTskEzOz87V8uy7UD0GB2MBGQxhxTm//Q6RYnG2B2ESzYptZPokLQJb+tRBFmuFzD5mvaSuS2YTDtFsLdDUWLIPVLETKToT3zJ5Jb6vTKzgfXcf7N+UzwSH/G6WboPEGmBDQ9juJOJTMfqyUrmtPvZ6lXrWNCXUO+VVjd2hXkfyV2W83F8/eis+aaj7IfKrFjXa72vr5X6CVrQ8NDSwCOgxNABl4Pg5P69I9E5eWNmIX/GgcWGJnylrrdnAnTnBSVbfs=;iHOGEL9eYIYI6lRZIM94mg=="
+secured: "E2QkYTgH8sg3VFPYseBZlMkPhbrGUaG7Bfr48/vXAkBlrZQlo3C59dGThUzO23C4Ro3hsL+x4czjlZnTPiOdW6/R3XjXX6G0GwXS5O68VcjPx5zIrLO3Rj1ktXSyaM+Z7tNP8L5VJ1I+qB8RcbtYXgWMCsfQJ9y2QC92cgP34xUpROyJP0ZvAjyN2VBfH8DvV4VOGcJApVxFhxvs+EXssPmoS0P2gc0g1Q41Thn77m9c7Sep2kdAB6CRN7DlqYIjVlXDzMFzKq+hYp0a4tA0j3L2IJBHOWFZ78Gin0YD8XKCZRePKzind2yPOK/dWUdlYNpoA036xjEi5Ry+dM0wJp2ypqEv2pfYJhR762+lQQ8=;8KGkrXz4c+zWe2HriwJy5Q=="
 ---
 

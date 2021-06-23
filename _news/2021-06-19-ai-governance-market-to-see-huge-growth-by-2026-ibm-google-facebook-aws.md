@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI to Identify Facebook Deepfake Images"
-    excerpt: "New AI software to identify Facebook deepfake images. The fingerprint sensor will help in tracing of origination and catch the creators."
-    publishedDateTime: 2021-06-18T07:18:00Z
-    webUrl: "https://www.techthirsty.com/ai-to-identify-facebook-deepfake-images/"
+  - title: "Facebook To Expand Shops To Marketplace, WhatsApp"
+    excerpt: "Facebook revealed new ways to shop throughout it apps, as it is expanding Shops to Marketplace and WhatsApp to assist companies with digital sales."
+    publishedDateTime: 2021-06-23T00:07:00Z
+    webUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/"
+    ampWebUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
     type: article
     provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 39
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://www.techthirsty.com/wp-content/uploads/2021/06/facbook-deepfake-images.jpg"
-        width: 976
-        height: 549
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/social-commerce-online-shopping-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Facebook AI Reverse Engineers Deepfake Attacks"
     excerpt: "Facebook’s initiative, led by MSUs Vishal Asnani, attempts to solve the deepfake problem using reverse engineering"

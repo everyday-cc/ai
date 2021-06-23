@@ -28,22 +28,6 @@ images:
 
 related:
   - title: "For the first time, researchers visualize metabolic process at the single-cell level"
-    excerpt: "Understanding cellular metabolism—how a cell uses energy—could be key to treating a wide array of diseases, including vascular diseases and cancer."
-    publishedDateTime: 2021-06-18T07:07:00Z
-    webUrl: "https://medicalxpress.com/news/2021-06-visualize-metabolic-single-cell.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-06-visualize-metabolic-single-cell.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-visualize-metabolic-single-cell.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/for-the-first-time-res.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "For the first time, researchers visualize metabolic process at the single-cell level"
     excerpt: "While many techniques can measure these processes among tens of thousands of cells, researchers have been unable to measure them at the single-cell level. Researchers at the University of Chicago’s Pritzker School of Molecular Engineering and Biological Sciences Division have developed a combined imaging and machine learning technique that can,"
     publishedDateTime: 2021-06-18T17:20:00Z
     webUrl: "https://news.uchicago.edu/story/first-time-researchers-visualize-metabolic-process-single-cell-level"

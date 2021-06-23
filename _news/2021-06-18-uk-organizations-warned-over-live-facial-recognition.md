@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
         width: 1280
         height: 1066
-        isCached: true
-  - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
-    excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
-    publishedDateTime: 2021-06-18T08:08:00Z
-    webUrl: "https://www.parking-net.com/parking-news/adaptive-recognition/4-ways-anpr-contributes-to-better-living-in-smart-cities"
-    type: article
-    provider:
-      name: Parking Network
-      domain: parking-net.com
-    quality: 20
-    images:
-      - url: "https://www.parking-net.com/Upload/ContentManagersPictures/AdaptiveRecognition/License-Plate-Recognition.jpg"
-        width: 500
-        height: 289
         isCached: true
 
 secured: "ahhgatpYavwXOs8J6zsDYd3qDVCz2i7Rwtrnof7rhvZV1bkiINHNoGDu9CJN5N6GPYjZJcyACNKLM9mr1xQwNJONKMwbixMkhNHjmxXEBYSkLePWAH6Scw+vpGBdRC3+PqZcbXftQgHSyO+c75Mow/6j97aCg6hgTU1OHRSUO7HwmoiEc0xgPCK5hc+wh+av8wiEAn4Tt5vW5ZAflEa1W4nOF4VzsB6eURRpSZEDMQQQ5uxnmnQeexuIsR1S982qIU7FVYSvAlEmnC28QB/zlsh4Qua1O0UqaSBcaQHHhQcZMRzwMnXzgFFoHqMEca1kmS+Gj9W9RqQ994VMixGBjJvO6LAHoWWyxXva4610EfwKPCmjRXe7Jo7xHUarsEEyZ9NS/UTegMkjAlc0g56OAsLAlxHaLSHbg5Rlg+KygBc4AkJdw1NvqwMfoZnvrx1X3bOoX3rWj//NKfHrMGhUmRLOSpoN5v0t3ZF66CpC3up96Xn6V9xISesunz98K965Tku2Scys25RylDrNhXSc5Q==;rFPruWds5lualxu33yKdKQ=="

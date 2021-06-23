@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Computer scientists are questioning whether Alphabet’s DeepMind will ever make A.I. more human-like"
-    excerpt: "Computer scientists are questioning whether DeepMind will ever be able to make machines with the kind of \"general\" intelligence seen in humans and animals."
-    publishedDateTime: 2021-06-18T08:46:00Z
-    webUrl: "https://www.cnbc.com/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 75
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106899356-1624000696283-gettyimages-515688464-AFP_8R7LC.jpeg?v=1624000805"
-        width: 3868
-        height: 2580
-        isCached: true
   - title: "Doubts Surface About DeepMind's Capabilities"
     excerpt: "Jun 18, 2021 (Baystreet.ca via COMTEX) -- Computer scientists are questioning whether DeepMind, the Alphabet- (NASDAQ:GOOGL) owned U.K. firm that's widely regarded as one of the world's premier AI ..."
     publishedDateTime: 2021-06-18T15:53:00Z

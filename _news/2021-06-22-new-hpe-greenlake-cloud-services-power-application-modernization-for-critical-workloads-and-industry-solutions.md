@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "HPE says new HPE GreenLake cloud services power application modernisation for critical workloads and industry solutions"
+    excerpt: "Announced at HPE Discover 2021, HPE is offering new cloud services for healthcare, financial services, 5G and more are available now to “improve time to value, increase agility, and lower costs” for customers and partners across a range of industries,"
+    publishedDateTime: 2021-06-23T00:29:00Z
+    webUrl: "https://itwire.com/cloud/hpe-says-new-hpe-greenlake-cloud-services-power-application-modernisation-for-critical-workloads-and-industry-solutions.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 0
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/cef85ea88ce852501659d72ec93c49d8_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
   - title: "New HPE GreenLake Cloud Services Power Application Modernization for Critical Workloads and Industry Solutions"
     excerpt: "Today, at HPE Discover 2021, Hewlett Packard Enterprise (NYSE: HPE) announced new vertically optimized HPE GreenLake cloud services designed to delive"
     publishedDateTime: 2021-06-22T19:00:00Z

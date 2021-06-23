@@ -47,7 +47,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 63
+    quality: 65
   - title: "Aveni backed to launch AI speech analytics platform"
     excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business."
     publishedDateTime: 2021-06-20T22:02:00Z

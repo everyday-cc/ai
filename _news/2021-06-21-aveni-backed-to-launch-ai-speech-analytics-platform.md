@@ -53,7 +53,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 63
+    quality: 65
   - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
     excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
     publishedDateTime: 2021-06-22T15:55:00Z

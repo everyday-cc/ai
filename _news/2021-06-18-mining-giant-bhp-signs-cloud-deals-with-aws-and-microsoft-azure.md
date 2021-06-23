@@ -7,8 +7,8 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-
 webUrl: "https://www.datacenterdynamics.com/en/news/mining-giant-bhp-signs-cloud-deals-with-aws-and-microsoft-azure/"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Datacenter Dynamics
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Teams for Android can now translate private chat messages"
-    excerpt: "Last year, the Microsoft Teams iOS app introduced a new inline translation that allows users to translate chat messages into their preferred language. The company has now announced that the inline chat translation support is now generally available on Android devices."
-    publishedDateTime: 2021-06-18T15:38:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-teams-for-android-can-now-translate-private-chat-messages"
+  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
+    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
+    publishedDateTime: 2021-06-22T04:42:00Z
+    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 56
+      name: Steel News
+      domain: steelguru.com
+    quality: 91
     images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/05/Microsoft-Teams-Android-Google-Play-Store-Listing-Custom.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 849
         isCached: true
   - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
     excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"

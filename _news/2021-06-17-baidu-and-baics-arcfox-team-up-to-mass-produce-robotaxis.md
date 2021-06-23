@@ -1,20 +1,32 @@
 ---
 category: news
 title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
-excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-publishedDateTime: 2021-06-17T10:13:00Z
-originalUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
+excerpt: "By Fabiana Negrin Ochoa Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a"
+publishedDateTime: 2021-06-17T09:42:00Z
+originalUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "T4U63+o+v5LjhMAhDQWPwoFp61I6YFwVrpTsZaSrtvEYphmSALvBRFR+Zc/WmxGp7f+NRo8/CO7ePBxJEiFYEtkAqnCfnR4zGxKvaxd5Un0LUmvRvrKihd0fGfhq/3bX+cFkKRLXmWFLE/vHsfmF3LxJDVMQFJQgz6I13yDIXZVSLwQMg/ZBTWD/v2FT1TCuQqtOzY/n+snz9AmTCh+/GPxQC66XTHJsK8TWrFpz9Tcgw7UPjazeu76re/rryDWIjcHKhO+XEPJGneYwfaYRZxCAq++FMEZocC1Kttf7pPqZ+kizf4PvcyGo9VtnIeyIoV1wG6AcMWm+HNw8lkIXs5oCd1EwPT2QKZZirFCRae8=;Yh14Px/UfkYKyWGWa2lhlQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "FkjyO2kncrU4aZjL3N2wcqdT/PZzmZieug3ZwT35j6BNfX/gv3dqcoIEErVxaAp8r+9AeoSt/GT5pDlJh3SOzbYMcnR/fsT9p2ijA/dAyFX2/akg4dEasEuRbFqp+jwJmJP7/1X3GMWo7YiTYCm3EN7vG0pfXJqUGkwzmGaBGV2JQjOVkDCRK7TixzPgrDMSbu9JrNuCkX/Y0kgAttBeh2rNPijkb7/6twa/eIK67t89XUGjv1XZ0mRyY+dLFfjxLwJUsOgCSclbn+CexJUJxEKyUtPT1vsYwXOKm5rmUlSy2KPnJoTYVYyvjgJ5hEP53KAcojpKD5Q1ym5R9R7HE4yLH6totm9HQ9pAphjXTTc=;9eh/nv7iFeF0Kd9zYzRfXQ=="
 ---
 

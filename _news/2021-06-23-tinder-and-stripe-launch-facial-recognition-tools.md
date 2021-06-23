@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Adaptive Recognition: 4 Ways ANPR Contributes to Better Living in Smart Cities"
-    excerpt: "We use the word “smart” a lot these days to denote next-generation technology where information is captured, transferred, and utilized seamlessly to make people’s life even more convenient."
-    publishedDateTime: 2021-06-18T08:08:00Z
-    webUrl: "https://www.parking-net.com/parking-news/adaptive-recognition/4-ways-anpr-contributes-to-better-living-in-smart-cities"
-    type: article
-    provider:
-      name: Parking Network
-      domain: parking-net.com
-    quality: 20
-    images:
-      - url: "https://www.parking-net.com/Upload/ContentManagersPictures/AdaptiveRecognition/License-Plate-Recognition.jpg"
-        width: 500
-        height: 289
-        isCached: true
 
 secured: "hVFV+RqpJiu0K6kuelSZctU8qZgDzo/DxYZulIh9Nw/cwaUWqpRCWtveE5sYI+xOzegIzJEs+vZlWDvJXET7nuOn6rLQwZfsICMXw/an5yabhW1KznABA2cl2yL2iAIBKv8oknzKrMDfgY4TX/FVbt0vIlM4ACg31bH583HtWlNk+UjrZ2iDG3RowCutLFo0uX9rOg3yXed3jR3eiCOSq/PE5OlVjJd3UMuueqvb0IoEvJHWOvB2bgIZ2mi0r0gEnSlPOtBQpZkSlaGnNQhOjevt1UDBxDU7wPWnGXMNX3Gx7okExYyBANINdjMdpAT6hiIS/BZKZvBfNE8xkJ/8oe6U3k91aZ77TF3EuK/Gm+w=;5/NNWzoBoBeDtwtwt2zn2g=="
 ---

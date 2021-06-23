@@ -32,21 +32,16 @@ images:
 
 related:
   - title: "Amazon to Buy Stake in Self-Driving Truck Technology Startup Plus – Report"
-    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed"
-    publishedDateTime: 2021-06-22T09:53:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report/amp/"
+    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed an order for autonomous driving systems from the startup,"
+    publishedDateTime: 2021-06-22T09:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 42
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/Amazon.jpg"
-        width: 750
-        height: 406
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
   - title: "Amazon is said to be in talks to buy stake in self-driving truck startup Plus"
     excerpt: "Amazon has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
     publishedDateTime: 2021-06-21T19:05:00Z

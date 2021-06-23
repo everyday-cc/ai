@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
 type: article
 quality: 120
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer scientists are questioning whether Alphabet’s DeepMind will ever make A.I. more human-like"
-    excerpt: "Computer scientists are questioning whether DeepMind will ever be able to make machines with the kind of \"general\" intelligence seen in humans and animals."
-    publishedDateTime: 2021-06-18T08:46:00Z
-    webUrl: "https://www.cnbc.com/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/18/computer-scientists-ask-if-deepmind-can-ever-make-ai-human-like.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 75
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106899356-1624000696283-gettyimages-515688464-AFP_8R7LC.jpeg?v=1624000805"
-        width: 3868
-        height: 2580
-        isCached: true
   - title: "Doubts Surface About DeepMind's Capabilities"
     excerpt: "Jun 18, 2021 (Baystreet.ca via COMTEX) -- Computer scientists are questioning whether DeepMind, the Alphabet- (NASDAQ:GOOGL) owned U.K. firm that's widely regarded as one of the world's premier AI ..."
     publishedDateTime: 2021-06-18T15:53:00Z
@@ -91,6 +75,6 @@ related:
         height: 900
         isCached: true
 
-secured: "PyiZpxNi05Paftj+h1ZNidYrvXy6vpgb2yUDUDLuW1WFCxOLE9CMTX0Z30YxsZdOkxuJ9HjPQe7mhTLbj6ERHap3umt2QhvGsOJopXvg7ND85fOi/GF1wA9sf9bK3qFkI2eKLCmqdEfDV4LTsNIvp3rK35LRA1y6yu4Y4x9nOPvU/8SJrgGx0/5MZ6JOdUavZ8+TaEuWP/dSlzcyekqJpFoVV9R9IfI9MRTPzr2YONjR1LpI2GkkehY5nvH6f/ltdH/M8sdKu0+rwMihrdk9lL/sAjzdID+wSJ2sx/Ex9CA9E+nNipnevtPRA+nFGuk3QUSdU+s+7gJetr30qu2lDqXoQYHLo4JHrbgFg5UjTVs=;5CL7UX5bJUQFeASSthw9Ww=="
+secured: "/HcKrO7G5QVe8MTD11pPJ/K9vtvogM4aZtPoKyjzx3BItUrNH4bLHWY9jZ8m/0nVVpBI9VnClFEV8u8sGI6gu0gcpo5YBn1CpubJhFjw83hS5mCl5VQDGbUTLxqd1vlALZ2cPCJNlCJktUkWeoDu09byaQHdqPPffL9eGnWBge1JHbR0wj7JkVCEv9C3p3zpmsNtWg255FJDEZyIEObbnJq3RHpBqBPU49m5UZxc8DhrUVS8CV/WHDFVZzwNuyA0knloPAQxwVWKpZgCpNwij6vAlYNNqXKp9b/vPpywp1YkFCIvq3+Fus6sNWOB2EWKkZBtmcLjUkTeQ3O5cy3+eR3MitcV0K5sJl4l5HLUdAZkWP/FxBspmtkDvzh5lteu/2qgf6OP2MOqYYr8V/+0c8whC72Tvm1TzMqvGBrHn0NU+CwgNjv3T0eza/AH8maUjgnu9lEpo1vbrjfCsf315NPmlHylEguXqtrAqNbQODHs0wO9HA49Qzgbv6Gx8y9oTkwJePrdhiP0BGo/e8he3A==;D8dJYRl7FjRDcj5FA7P2Eg=="
 ---
 

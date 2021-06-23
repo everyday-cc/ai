@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Here’s How Artificial Intelligence Will Take Nvidia Stock to New Highs"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today is record day for the 4-for-1 stock split of shares of Nvidia"
+excerpt: "Source: Steve Lagreca / Shutterstock.com NVDA stock hit $610 in February this year and dipped to $500 in March. It hit an all-time high of $721 on June 14 and closed Friday at $745 per share. One cannot predict the stock movement after the split but Nvidia is one company that has the ability to scale and generate massive revenue in the coming months."
 publishedDateTime: 2021-06-21T10:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-1030538421"
-webUrl: "https://markets.businessinsider.com/news/stocks/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-1030538421"
+originalUrl: "https://www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21"
+webUrl: "https://www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21"
+ampWebUrl: "https://www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21?amp"
 type: article
-quality: 47
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
@@ -113,6 +111,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "duI5RohXSHM8Cat0r/v8eNDe/+AcPudZUh/7liKij6MDbwJB93HY5b0UtFxaCplakAKqqIPQ3uYFsXq5c+9Bh9S75NUEAwYuGNiC2R36pLmhYfvUULJJiJ9vh2VFRrpZHD5NXMZidore1I0ULgk6fCnjUyCO9VmKHt9FgMwmzm7P8OMkbAuOI+KCQifhx0pTFmmIDjOH9JHlUJSH/b/kf1U1ODU+YeMahzB3JRdZz7Sr9/MdIJ14ZH6GcyIjPXeIXfAi6+p3O0NdDwKVsWCor+TUdEAI7MHXk0W+3iu1cgLkLZx1wmrspZG4oNI7+DLJdvm7OYnvKkJiEotDT7vW6kK04pkfMlRHeRs7tzNHVzs=;WCcVRf2Npp6tgoZnBvRyFw=="
+secured: "MvSb7Hh5h9k8N+vcuzNkKEMggxSi3BeDgp6qo71vnxrYmPl2zos9bQ9PJhrhdoFoQqmZWRr+JeflaVoMdZUL9Aod7otRHMYfFLz0hl5FKGuWb3BSAJlRzF6olWgWM3Z69ENX6be9GbrDnsxsJ/SfqvyNhC6OI1YMBak+A4BjgJTajIDos1tOcQz/nGyGuMZ+BLWc078dHB/KAEl3YcI5Qg9ELKRnH5ZLpax/w+d8DIAmF5zJJkQ61dWrdB+yog3yhDnFDbeISBuWOtIYHbWYJFn8TLRXlnqiCsnX5lzdlAkjsQQ6dn6evj6McSc0t4cxe0p0ysupdAzMek4IxzZbznLOTHHep5BfJsOm+cBLCM4=;APzx8qFMXT5o4RslldwoqA=="
 ---
 

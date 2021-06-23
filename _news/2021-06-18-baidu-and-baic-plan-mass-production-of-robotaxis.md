@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu To Build Autonomous Taxis With BAIC Group In China"
-    excerpt: "Baidu has joined forces with Chinese automaker BAIC Group to build 1,000 driverless taxis over the coming three years that will be deployed across the nation’s streets. The vehicles will be operated through Baidu’s Apollo program and will be manufactured under BAIC’s Arcfox electric vehicle brand."
-    publishedDateTime: 2021-06-18T08:57:00Z
-    webUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/"
-    ampWebUrl: "https://www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/baidu-to-build-autonomous-taxis-with-baic-group-in-china/amp/"
+  - title: "Baidu’s Apollo Moon, a new robotaxi model, costs a fraction of competitors’ price"
+    excerpt: "Baidu on Thursday unveiled a new robotaxi model, called Apollo Moon, with a manufacturing cost significantly lower than competitors."
+    publishedDateTime: 2021-06-18T11:32:00Z
+    webUrl: "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
+    ampWebUrl: "https://technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/06/18/baidus-apollo-moon-a-new-robotaxi-model-costs-a-fraction-of-competitors-price/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/05/Baidu-Autonomous-a-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Baidu to make thousands of robotaxis for a driverless service in China"
-    excerpt: "Baidu, a Chinese multinational tech firm specializing in Internet-related services and artificial intelligence, wants to put its Apollo robotaxis on the roads in China by 2023. The company also pledged to produce 1,"
-    publishedDateTime: 2021-06-18T07:07:00Z
-    webUrl: "https://www.econotimes.com/Baidu-to-make-thousands-of-robotaxis-for-a-driverless-service-in-China-1611110"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
+      name: TechNode
+      domain: technode.com
     quality: 54
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/202106183520da4606aa8075b_th_1024x0.jpeg"
-        width: 640
-        height: 420
+      - url: "https://technode.com/wp-content/uploads/2021/06/image001-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Tech Giant Baidu Teams Up With BAIC to Produce 1,000 Apollo Moon Robotaxis"
     excerpt: "Chinese tech giant Baidu announced on Thursday, June 17th, a partnership with BAIC Group's EV brand Arcfox to jointly produce 1,000 Apollo Moon robotaxis over the next three years. The autonomous vehicles are set to provide ride-hailing services in first-tier Chinese cities."

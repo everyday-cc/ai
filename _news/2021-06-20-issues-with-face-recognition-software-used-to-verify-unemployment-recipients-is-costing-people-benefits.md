@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/issues-with-face-recognition-software-used-to-ve
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/issues-with-face-recognition-software-used-to-verify-un-1847135759/amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition to verify unemployment recipients 'doesn't work well'"
+    excerpt: "With millions of people unemployed due to the Covid-19 pandemic, state offices have dealt with a surge of claims over the past year The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits,"
+    publishedDateTime: 2021-06-23T00:38:00Z
+    webUrl: "https://www.tribuneindia.com/news/science technology/facial-recognition-to-verify-unemployment-recipients-doesnt-work-well-271442"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 38
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/Desk/2021_6$thumbimg_805077956.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Facial recognition to verify unemployment recipients 'doesn't work well'"
     excerpt: "The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits, is working inconsistently, leading to many people being denied benefits or having their applications put on hold,"
     publishedDateTime: 2021-06-20T16:56:00Z

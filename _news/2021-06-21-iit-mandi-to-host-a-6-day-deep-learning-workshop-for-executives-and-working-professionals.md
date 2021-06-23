@@ -43,6 +43,22 @@ related:
         width: 647
         height: 363
         isCached: true
+  - title: "IIT Mandi to host Workshop on Deep Learning for Executives and Working Professionals"
+    excerpt: "Mandi, in conjunction with IIT Mandi iHub and HCI Foundation (iHub), is hosting a 6-day weekend workshop on Deep Learning Crash Course (ADLCC 2021) for Executives and Working professionals between 3rd"
+    publishedDateTime: 2021-06-22T20:04:00Z
+    webUrl: "https://indiaeducationdiary.in/iit-mandi-to-host-workshop-on-deep-learning-for-executives-and-working-professionals/"
+    ampWebUrl: "https://indiaeducationdiary.in/iit-mandi-to-host-workshop-on-deep-learning-for-executives-and-working-professionals/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-mandi-to-host-workshop-on-deep-learning-for-executives-and-working-professionals/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 52
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/07/iit-mandi.jpg"
+        width: 680
+        height: 398
+        isCached: true
   - title: "IIT Mandi To Conduct Weekend Workshop On Artificial Intelligence & Machine Learning"
     excerpt: "Machine Learning & Artificial Intelligence crash course being organized virtually by IIT Mandi.Check how to apply, registration fee, and full details here."
     publishedDateTime: 2021-06-21T09:16:00Z

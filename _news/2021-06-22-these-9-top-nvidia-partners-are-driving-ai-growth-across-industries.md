@@ -58,6 +58,17 @@ related:
         width: 2000
         height: 1260
         isCached: true
+  - title: "Here’s How Artificial Intelligence Will Take Nvidia Stock to New Highs"
+    excerpt: "Source: Steve Lagreca / Shutterstock.com NVDA stock hit $610 in February this year and dipped to $500 in March. It hit an all-time high of $721 on June 14 and closed Friday at $745 per share. One cannot predict the stock movement after the split but Nvidia is one company that has the ability to scale and generate massive revenue in the coming months."
+    publishedDateTime: 2021-06-21T10:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-2021-06-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
     excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
     publishedDateTime: 2021-06-22T23:31:00Z
@@ -74,15 +85,6 @@ related:
         width: 714
         height: 454
         isCached: true
-  - title: "Here’s How Artificial Intelligence Will Take Nvidia Stock to New Highs"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today is record day for the 4-for-1 stock split of shares of Nvidia"
-    publishedDateTime: 2021-06-21T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/heres-how-artificial-intelligence-will-take-nvidia-stock-to-new-highs-1030538421"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
     excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
     publishedDateTime: 2021-06-22T15:21:00Z

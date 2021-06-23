@@ -2,6 +2,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-27-artificial-intelligence-is-taking-over-android-app-development.md",
+      "title": "Artificial Intelligence is Taking Over Android App Development",
+      "excerpt": "AI in app development is having a huge impact. Read on to see some of the ways AI is changing Android app development.",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/",
+      "originalUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/ai-android-app-devt.jpeg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/artificial-intelligence-is-taking-over-android-app-development/?amp=1",
+      "publishedDateTime": "2021-05-27T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-openai-fund-of-100-million-for-ai-startups-with-microsoft.md",
+      "title": "OpenAI fund of $100 million for AI startups with Microsoft",
+      "excerpt": "OpenAI startup fund announced it is investing $100 million in AI companies. It states on its website in an announcement that the investment is diverted toward companies which will have a profound, positive impact on the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
+      "originalUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/openai-fund-100-million-ai-startups-microsoft/amp/",
+      "publishedDateTime": "2021-05-27T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-expand-pentagons-chinese-investment-blacklist-says-new-report.md",
       "title": "Expand Pentagon’s Chinese investment blacklist, says new report.",
       "excerpt": "Washington has restricted trade against more than 40 companies linked to the Chinese military, but they’re just the “tip of the iceberg,” says a new report.",
@@ -1059,110 +1145,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-openai-launches-100-million-startup-funded-with-backing-from-microsoft.md",
-      "title": "OpenAI launches $100 million startup funded with backing from Microsoft",
-      "excerpt": "OpenAI today launched the OpenAI Startup Fund, a $100 million early-stage venture intiative funded in part by Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
-      "originalUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/26/openai-launches-100-million-startup-funded-with-backing-from-microsoft/amp/",
-      "publishedDateTime": "2021-05-26T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon.md",
-      "title": "Lockheed Martin And GM Planning Self-Driving Rovers For NASA's Return To The Moon",
-      "excerpt": "General Motors and aerospace giant Lockheed Martin are teaming up to develop new lunar vehicles that astronauts will use on NASA's upcoming missions to the Moon, the companies announced Wednesday, as the two push to join Elon Musk's SpaceX as industry partners to bring humans back to the Moon in the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ae8099f86d9bca57b5b640%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2697%26cropY1%3D0%26cropY2%3D1518",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2021/05/26/lockheed-martin-and-gm-planning-self-driving-rovers-for-nasas-return-to-the-moon/amp/",
-      "publishedDateTime": "2021-05-26T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

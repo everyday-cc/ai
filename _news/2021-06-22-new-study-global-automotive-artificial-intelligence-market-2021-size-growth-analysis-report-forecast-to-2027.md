@@ -115,17 +115,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Artificial Intelligence In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application And Segment Forecasts, 2021 - 2028"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence In Healthcare Market Size, Share &"
-    publishedDateTime: 2021-06-18T08:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21621493/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-report-by-component-by-app"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21621493"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21621493"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
   - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
     excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
     publishedDateTime: 2021-06-22T08:17:00Z
