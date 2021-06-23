@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-21-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo.md",
+      "title": "CrowdStrike stock falls after rival SentinelOne prices IPO",
+      "excerpt": "CrowdStrike (CRWD) shares are down 5% after competitor SentinelOne (S) priced its IPO at $26-29 per share, which would raise up to $928M at a potential $7.36B valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "originalUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "publishedDateTime": "2021-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-how-equbot-is-beating-the-market-with-aieq-the-ai-powered-etf.md",
+      "title": "How EquBot is beating the market with AIEQ, the AI-powered ETF",
+      "excerpt": "Asset managers, banks, and other financial institutions employ armies of analysts to sift through spreadsheets and media chatter. But even the biggest players can’t hope to keep up with the volumes of data produced by the modern global economy. “I was managing north of $30 billion as a portfolio manager",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/05/ACDC-119-ETF-Group-Client-Story_Leadspace_FINAL.jpg",
+          "width": 1962,
+          "height": 988,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T06:00:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier.md",
       "title": "This AI Startup Raised $43 Million To Save Lives (And Money) By Treating Heart Disease Earlier",
       "excerpt": "Cleerly founder James Min wants to make early detection and treatment of America’s number one killer as routine as cancer screenings.",
@@ -165,7 +259,7 @@
       "originalUrl": "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -457,6 +551,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-21-artificial-intelligence-in-transportation-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Artificial Intelligence in Transportation Market to Witness Astonishing Growth by 2030",
+      "excerpt": "The report Artificial Intelligence in Transportation Market by Machine Learning Deep Learning Computer Vision Context Awareness NLP Application Semi Full Autonomous HMI Platooning Offering Hardware Software Process and Region Global Forecast to 2030 The artificial intelligence in transportation market is",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "originalUrl": "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U621906822_g.jpg",
+          "width": 615,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "publishedDateTime": "2021-06-20T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places.md",
       "title": "UK watchdog raises alarm over Live Face Recognition tech in public places",
       "excerpt": "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F",
@@ -559,7 +696,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -944,7 +1081,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -996,7 +1133,7 @@
       "originalUrl": "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1080,161 +1217,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-ai-centers-of-excellence-accelerate-ai-industry-adoption.md",
-      "title": "AI Centers Of Excellence Accelerate AI Industry Adoption",
-      "excerpt": "The AI and Digital age has accelerated the rate of innovation so quickly that some organizations simply can’t keep up. In fact, Senior Leaders and Chief Executives around the world are “extremely concerned”,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ce716d1b2aa835a2ef3cdc%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/19/ai-centers-of-excellence-accelerate-ai-industry-adoption/amp/",
-      "publishedDateTime": "2021-06-19T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-robotics-page-4.md",
-      "title": "Robotics - Page: 4",
-      "excerpt": "The online retailing giant has installed more than 15,000 robots across 10 U.S. warehouses, a move that promises to get packages out the door more quickly in the run-up to Christmas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/topic/robotics/4",
-      "originalUrl": "https://www.entrepreneur.com/topic/robotics/4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
-      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
-      "excerpt": "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
-      "originalUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

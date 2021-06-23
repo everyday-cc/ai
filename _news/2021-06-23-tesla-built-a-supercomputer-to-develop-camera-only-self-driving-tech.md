@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Launches World’s Fifth Most Powerful Computer For AI Training Ahead Of Dojo Project"
+    excerpt: "Tesla just launched the world’s fifth most powerful computer responsible for neural network AI training ahead of the anticipated Dojo supercomputer debut. Tesla seemingly does not run out of new features to unveil for its followers."
+    publishedDateTime: 2021-06-23T12:37:00Z
+    webUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271"
+    ampWebUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/tesla-has-backtacked-on-the-idea-of-an.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
     excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
     publishedDateTime: 2021-06-22T17:28:00Z
@@ -99,6 +115,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "L6eziiS4J1n6Mn+pBBfT8F2z9vunLFr12fLXeiQXYAAkROcP3oXW7+UPeOEXURv6IL4RNBy3d1SvrMLIzHM7y2++3KPDrCUbybtW09Y2P4pokPfXyfCwaRVLn9tyvMYzTHZGVVWxKM5Pjq72jirUqKu0vpsEsSY+4JOhOR1VfN4w1s0OB1TTVrth+XSmkMEgX6x9ldZjyEEPCGemvA9AVQwnE8C0nWJK54ICteJs52iJ3b0588T9IFGAVLFCsCNFbYEzjdTi6LnGOAOXHmjUYVdh/dvPUR5PXmZoedNW0ZbImFUBigYA/QGbUn0epMoIyP6mEtir38u68sIfLdVDnfChbL70X+umhNX/UneCyks=;LrGarvJO/Vtwi2m3CXSOLQ=="
+secured: "yE3eX4vFYQsmn7t0O8WczvTI/Y8W1zkGCgi70kSxmdie/Nc3emaXvH48vc50Fehqc8xqnmpvFfUsiGdnjUpmS9T3hmsYqIhmLkLGncyrfSw5rQC4Mcnq6E8xlfl2M0JTeyuQKSMXBIllaYrs2twDtA2ZonXp+1NHe0hK54AxGj6LESeUhxtPTB/U2crwX1GKYm6XObn8FLSG2vCxndQkomxF698I0P6tKBLXOhsUslRzVXEuQIu2LvVwhg7p8ciXybEu+Y8hGzFWn+UnkY4B1MrU9I/Tc3+U+2RGTCxxoyMI5Qfixcc57eTtkbjXqCfy4yWkQR1vhNmSKhtK3HphVsL6yoNxtaQXCFQ99ztbnt2LdP2K85CTYjky+rzU6Omg3TQkz4E7z57JE4yhfYVcYWSj5FTgRJzOxR7Mbvs0E65qNEvMRRDX1sJC16ZRhB3kEBTUBflExk2Wb7XE1qAZIeO+6yswaxkV+ukfn6nwum97dccw0yxXakNwreF9z0l8CgUM+2vNA5UCGfCy7o8t+A==;etCVjtFkrx1dZR5rXrBPQA=="
 ---
 

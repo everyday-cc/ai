@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-three-areas-of-impact-for-ai-in-fintech.md",
+      "title": "Three Areas Of Impact For AI In Fintech",
+      "excerpt": "With the ability to quickly analyze massive quantities of data to derive important insights and information, AI is used by businesses to create efficiencies and recognize patterns that can improve decision making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d254faaf7245e73967c3cf%2F0x0.jpg",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/",
+      "publishedDateTime": "2021-06-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
       "title": "Simplify machine learning with Azure Applied AI Services",
       "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/375424",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -210,7 +262,7 @@
       "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -870,7 +922,7 @@
       "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1212,48 +1264,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-ai-may-soon-predict-how-electronics-fail.md",
-      "title": "AI may soon predict how electronics fail",
-      "excerpt": "Think of them as master Lego builders, only at an atomic scale. Engineers at CU Boulder have taken a major step forward in combing advanced computer simulations with artificial intelligence to try to predict how electronics,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-ai-electronics.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-ai-electronics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/electronics.jpg",
-          "width": 1920,
-          "height": 1304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-ai-electronics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-electronics.amp",
-      "publishedDateTime": "2021-06-22T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

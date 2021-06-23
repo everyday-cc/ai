@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-15-nlp-parses-text-data-to-drive-value-in-the-enterprise.md",
+      "title": "NLP parses text data to drive value in the enterprise",
+      "excerpt": "Natural language processing (NLP), a subfield of AI involved with natural language understanding, can drive business value in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-06-15T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
+      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
+      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
+      "publishedDateTime": "2021-06-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte.md",
+      "title": "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte",
+      "excerpt": "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies.md",
       "title": "Appens Annual State of AI Report Finds a Shift to Internal Efficiencies",
       "excerpt": "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year’s report reveals a significant year-over-year increase in AI budgets,",
@@ -543,40 +681,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-15-inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots.md",
-      "title": "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots",
-      "excerpt": "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-15-best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks.md",
       "title": "Best of Show Winner Finn AI Adds to its Chatbot Offerings for Banks",
       "excerpt": "Finn AI, the two-time Best of Show winner whose conversational AI technology has helped banks and credit unions add to their digital engagement solutions, announced a set of new additions of its own today.",
@@ -616,6 +720,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots.md",
+      "title": "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots",
+      "excerpt": "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots",
+      "originalUrl": "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Volkswagen-Photo-AFP-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -996,153 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars.md",
-      "title": "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars",
-      "excerpt": "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-datarobot-exec-talks-humble-ai-regulation.md",
-      "title": "DataRobot exec talks ‘humble’ AI, regulation",
-      "excerpt": "Ted Kwartler, vice president of trusted AI at DataRobot, says AI models need to be humble enough to enable humans to keep them relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
-      "originalUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1623679235141.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/14/datarobot-exec-talks-humble-ai-regulation/amp/",
-      "publishedDateTime": "2021-06-14T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102.md",
-      "title": "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2",
-      "excerpt": "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for the biopharmaceutical industry, today announced its release of version 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210614ny10332/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210614ny10332/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg",
-          "width": 400,
-          "height": 307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

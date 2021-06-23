@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Launches World’s Fifth Most Powerful Computer For AI Training Ahead Of Dojo Project"
+    excerpt: "Tesla just launched the world’s fifth most powerful computer responsible for neural network AI training ahead of the anticipated Dojo supercomputer debut. Tesla seemingly does not run out of new features to unveil for its followers."
+    publishedDateTime: 2021-06-23T12:37:00Z
+    webUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271"
+    ampWebUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/tesla-has-backtacked-on-the-idea-of-an.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
     excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
     publishedDateTime: 2021-06-22T17:28:00Z

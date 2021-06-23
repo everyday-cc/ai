@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
-    publishedDateTime: 2021-06-23T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "COVID-19 Slowed Law Libraries' AI Initiatives. But the Technology Isn’t Going Away."
     excerpt: "According to a report released today by the American Association of Law Libraries (AALL), fewer law libraries have and are launching AI initiatives. But many may be using AI more than they think."
     publishedDateTime: 2021-06-22T06:06:00Z

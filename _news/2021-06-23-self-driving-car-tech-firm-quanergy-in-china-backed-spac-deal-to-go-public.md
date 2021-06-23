@@ -52,6 +52,40 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Self-driving truck tech firm Embark to go public via $5.2 bln SPAC deal"
+    excerpt: "Embark Trucks Inc, a self-driving truck technology developer backed by private equity firm Tiger Global Management, will merge with a blank-check firm in a deal valuing the equity of the combined company at about $5."
+    publishedDateTime: 2021-06-23T11:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Third Self-Driving Truck Startup to Tap Public Markets"
+    excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
+    publishedDateTime: 2021-06-23T12:20:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-news-live-updates-062321/card/jJhJbQBLFdhgsqkEt6xq"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-358301/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
+    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T11:29:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/self-driving-truck-maker-embark-to-go-public-via-46-billion-spac-deal"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
     excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
     publishedDateTime: 2021-06-22T20:54:00Z
@@ -66,6 +100,29 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Self-driving truck tech firm Embark to go public with $614 million SPAC deal"
+    excerpt: "Embark Trucks Inc. said on Wednesday it will merge with a blank-check firm, in a deal that will give the self-driving truck technology developer a market capitalization of $5.2 billion. The deal with Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T12:46:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-tech-firm-embark-go-public-614-million-spac-deal"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NUembark.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
+    publishedDateTime: 2021-06-23T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "s+YWM4yGCoE6AEYFh5ButKN3/w8ZYcKeshGzDaU4hGGluBXhuvo2w73AanMDSGLcabNAxM6N58tV5237iONi/Dj+YFYR/XJc3s3Aj28JrAYlgvs3+kseJxnOOc55QmwLEV0tmXKCWYi92qlSW+MxCyuxjDfspU5RNinuyt5JVqeiaZ7LOW1bmBe1afyfWX8Ea1cYCObmE3TIo0vDO2x/udDCcKeJopLS/suslu6JwD/lt6CFM5OlzRAw6+07rZOudysPemU+KYHR6wuf7k6Lr052CwC7uoJdOprGWFfliDKGTxoTxRaeIx4njuXdEvjC5gSd2RxZoViCyoZndzyBl6Mz4U8taGYBmQApeBphbIM=;YR72HQcHIsJ+LgrHFU8DQQ=="
 ---

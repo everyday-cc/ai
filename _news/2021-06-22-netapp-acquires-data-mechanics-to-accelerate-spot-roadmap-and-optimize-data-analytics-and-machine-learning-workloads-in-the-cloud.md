@@ -46,6 +46,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 65
+  - title: "Sebi bets on AI machine learning, plans data analytics project to track market manipulations"
+    excerpt: "Markets regulator Sebi is looking to engage an agency to implement a 'data analytics project' to track possible market manipulations like insider trading and front running"
+    publishedDateTime: 2021-06-23T12:47:00Z
+    webUrl: "https://www.livemint.com/market/stock-market-news/sebi-bets-on-ai-machine-learning-plans-data-analytics-project-to-track-market-manipulations-11624451681928.html"
+    ampWebUrl: "https://www.livemint.com/market/stock-market-news/sebi-bets-on-ai-machine-learning-plans-data-analytics-project-to-track-market-manipulations/amp-11624451681928.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/sebi-bets-on-ai-machine-learning-plans-data-analytics-project-to-track-market-manipulations/amp-11624451681928.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 63
+    images:
+      - url: "https://images.livemint.com/img/2021/06/23/600x338/f6602b5c-b1a5-11eb-8e1b-80b8ec5f5986_1624025960818_1624452098948.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Aveni backed to launch AI speech analytics platform"
     excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business."
     publishedDateTime: 2021-06-20T22:02:00Z
@@ -103,6 +119,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "Skai Named \"Best Overall AI-based Analytics Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been"
+    publishedDateTime: 2021-06-23T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program-301318225.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1527962/Skai_Logo.jpg?p=facebook"
+        width: 1293
+        height: 678
+        isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
     publishedDateTime: 2021-06-22T15:00:00Z

@@ -31,21 +31,14 @@ images:
 
 related:
   - title: "AI drug discovery start-up Insilico raises more than $255m"
-    excerpt: "Insilico, an artificial intelligence-based drug-discovery platform preparing to trial its first treatment in humans, has raised more than $255m from investors including Warburg Pincus and Sequoia Capital China."
-    publishedDateTime: 2021-06-22T10:30:00Z
-    webUrl: "https://www.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
-    ampWebUrl: "https://amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/704ced9a-dffd-49a1-a58f-46fc6dca0cd2"
+    excerpt: "Hong Kong-based platform has 16 programmes in development including potential cancer and Covid treatmentsRead more on 'Financial Times Companies'"
+    publishedDateTime: 2021-06-22T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F569dd15f-acac-406e-97e0-6787f9f99491?source=amp&fit=scale-down&width=1500"
-        width: 1500
-        height: 1500
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "CNOv6MioWcEBS9lTXNxvefqy217h1FiokNEZY0MUkmwGT2ZkVrxlVZ49wdPz2PK9uSbT6BRQZvB5aAq/OXjAsM75Td3qwlEQT3S+WlJppMi76ZByRaWDRvn0fOGs2sSC/E+TJkwFvtFq002asq48RPfb0GlUwIyBEs1eUFyrpVrAWKoU0zc+Wg+XEjTlCQc3JAtzF1nvJbPCVcCwKPTmZxHwZrMjPWLwTeuJHx9IoJ5Oc+8wZ6Qq+MN4gD+VS9yhk2uZv0FdxlkJgE+TULGZOYb5axIxE+FDLMHty//68CatQw1vYCAhEEn+56s2uikRwTdGYcPdE6MRKPpAXkAwt25lmjLCqJw7tiI9b0vZNOgj95sbKaBd+ikgzPv8kW3fAx3nLfCdos4fr8kcv9dxCFGr7eGKYour7GN6oYDom+Gfj6SyFZtKlULVn4wUAzTSzSsDhubMwbQ8h4bnkTCs0y/5ZO4RUMzAjbicmO92dF/pkSTnPZHHb9wd+gNetvSZ1hsB6NLfDkte17OAbEbfXQ==;0yWzS4aqfsanDHKamcX11w=="
 ---

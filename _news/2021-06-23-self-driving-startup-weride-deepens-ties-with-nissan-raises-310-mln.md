@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/china/self-driving-startup-weride-de
 webUrl: "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
     quality: 24
     images:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/WeRide%20robotaxis%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Renault-Nissan alliance invests in Chinese self-driving startup WeRide"
+    excerpt: "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with the Renault-Nissan-Mitsubishi alliance on autonomous driving technology for the China market as it raised $310 million."
+    publishedDateTime: 2021-06-23T12:16:00Z
+    webUrl: "https://www.autonews.com/mobility-report/renault-nissan-alliance-invests-chinese-self-driving-startup-weride"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NUweride.jpg"
         width: 800
         height: 600
         isCached: true

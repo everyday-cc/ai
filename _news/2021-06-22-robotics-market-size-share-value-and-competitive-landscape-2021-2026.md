@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-market-size-sha
 webUrl: "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -146,15 +146,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
-  - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
-    publishedDateTime: 2021-06-21T17:22:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
 
 secured: "FixVMQF+vR8QGBKSqnnr1q7miHArrrimXiyoOKrI5KoNaln1VTX6RfxIanholtj+yVilGZm0WyME7oK0ZQsmiNuhxBHy2M+RuLpa/yYVpwhGLd1zAEBOXoYwMC+leCPcVVjJXLBbHCgibFPOqHCScrvVaMPHeh1NNNhjlEMCrrpNs/5wlt9pTCZeyOqXawItWJwuOausPwvbVybtoHTDGirkQ09P3imZIKmeNcPZy36W6vpn7edaliOd0bAe9Cxyd+ZYtmLfmwkXOviRJiDhcdg2EhLfXnFpQAQ1NC2IHHsMEyoBiYftHWqY3syAdLT6HOCm/j/juQep9zBucw4t4HN01gGeOEVV7SmkOxjddhA=;K8EAc0Jbx38MhBJbU8Cg8w=="
 ---

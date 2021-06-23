@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
-excerpt: "A marriage of art and artificial intelligence has enabled Amsterdam's Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it. The printed strips now hang flush to the edges of the 1642 painting in the museum's Honor Gallery."
-publishedDateTime: 2021-06-23T09:03:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/rembrandts-huge-night-watch-bigger-ai-78437341"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/rembrandts-huge-night-watch-bigger-ai-78437341"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/rembrandts-huge-night-watch-bigger-ai-78437341"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/rembrandts-huge-night-watch-bigger-ai-78437341"
+excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
+publishedDateTime: 2021-06-23T13:03:00Z
+originalUrl: "https://www.chron.com/entertainment/article/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
+webUrl: "https://www.chron.com/entertainment/article/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
+ampWebUrl: "https://www.chron.com/entertainment/amp/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_71269688b0264150b4dbc9a7fb4f0e03_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "/kIHuCQQlyyNDaunbUib9zLFVbzjGlvPXFtXgDEkbe3wowGfB2WfSUsJ+atXbP+hdfDoZeoJAo+aJHiJEqm6cI6e2Q/l9r4osSY3/eESYbj8WaABoRCxV+sDcc483rKZkSCRHoi1Nv3+uRTFit9ccEmn11rStcj+EwaA+J6XoA4NgobUYiRbdO6u0NA08HHvKE2VYt9L1vY9PhwXApwVyCJI6WWdbRr2N9kZAlMRZ6wV3MVWX1qm0dSNAPb30gem1A5iwHooQ7M07sDTXMX4mlSjOPa4H/+3f1wOMWrp1T3nVPhcvxmXe6EEAGelaj3p27bsaCufCERhkA3AyHKZCfFmGaRc+aLX+T6Ut2+jSA4=;UZ0ErQrdjMY3JhXw1AOb8g=="
+secured: "CibV7B7yEF/AKigXtcNrgrdzq4RR+pUaCkM9MODZTWHZeUFddjOYdKc28hlSnmocnqGLNSJJdbkz/aKqFBfF31NMwRcH1ejvZNmMA8REkA82sja4/em7bjiCpGI9f6P2WtysZEWJs1w+d3zKHousCg+sn180zJKtDZV7ieISC18CokfWM2g7O1cfUdhnCZhSuTpLN1aNHJ/ODs+sGq4jTvbk2JYiUD+ac5/YOzrevWD+EGKcqTVB/38Cb5nwGr+z75MroiBB1IJTuDbceZPb+y7IQBaW6AIniQKi7LCm9p7oijfP1UXkhkB3bLeG6FvOMX0q3N+wGHGm12Z7I2t7T/tKa91wSh1NmbSYRlgn/qU=;ZkVN4oEhs7Bc8cDByJ+S8A=="
 ---
 

@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
+    excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
+    publishedDateTime: 2021-06-23T11:58:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
   - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
     excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
     publishedDateTime: 2021-06-21T20:00:00Z

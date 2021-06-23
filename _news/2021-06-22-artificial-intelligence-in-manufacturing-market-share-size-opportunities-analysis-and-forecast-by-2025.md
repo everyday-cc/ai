@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
+    excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
+    publishedDateTime: 2021-06-23T11:58:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
   - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
     excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
     publishedDateTime: 2021-06-22T08:01:00Z

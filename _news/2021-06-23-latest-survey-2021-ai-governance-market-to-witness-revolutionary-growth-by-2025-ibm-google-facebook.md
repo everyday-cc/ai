@@ -19,64 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS"
-    excerpt: "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments."
-    publishedDateTime: 2021-06-18T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
+  - title: "Artificial Intelligence in Transportation Market to Witness Astonishing Growth by 2030"
+    excerpt: "The report Artificial Intelligence in Transportation Market by Machine Learning Deep Learning Computer Vision Context Awareness NLP Application Semi Full Autonomous HMI Platooning Offering Hardware Software Process and Region Global Forecast to 2030 The artificial intelligence in transportation market is"
+    publishedDateTime: 2021-06-21T05:59:00Z
+    webUrl: "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness"
+    ampWebUrl: "https://www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/6/U621906822_g.jpg"
+        width: 615
+        height: 397
         isCached: true
-  - title: "Facebook To Expand Shops To Marketplace, WhatsApp"
-    excerpt: "Facebook revealed new ways to shop throughout it apps, as it is expanding Shops to Marketplace and WhatsApp to assist companies with digital sales."
-    publishedDateTime: 2021-06-23T00:07:00Z
-    webUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/"
-    ampWebUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
+  - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
+    excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-22T12:22:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142271/voice-recognition-market-size-share-to-witness/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/social-commerce-online-shopping-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Facebook AI Reverse Engineers Deepfake Attacks"
-    excerpt: "Facebook’s initiative, led by MSUs Vishal Asnani, attempts to solve the deepfake problem using reverse engineering"
-    publishedDateTime: 2021-06-21T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-reverse-engineers-deepfake-attacks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Facebook advances shopping features through AI"
-    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
-    publishedDateTime: 2021-06-23T08:23:00Z
-    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 39
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
-        width: 803
-        height: 419
-        isCached: true
+      name: ARN
+      domain: arnnet.com.au
+    quality: 2
 
 secured: "p5vvhTHy9InwHVDIRrvc1Zw876dZW0V+oMma5PeT+s9A82EeAIHacrW+wAhgUf2wEd9ikvlqlRytaLN9xzU8tOFYkdS6Cc883+9cvcLVJWpt8CUPGMXmIkeLySX5KTxfE2MmBlC6+kcsEMA2YHzAXnbtnHyReq7NRd7jj4oGqhxvK69RF9HnCKKYKSKO5gJPKW9ELTgDrWChUWLnIUjmsXy5ZxknQl0jWnN/6jVbgvdnRUVFroOwSb99XLZN9ogwbePFPdCpxHh0VrHe5QDv21aJ7HwbZEis8yhGbMnBXNQSDOXyD0sfV0jhy3Y/vhtBpEbn+DaPqroEvOTm7ZPVht0lP+artfl/+5X+ZOVMoEM=;FzllW4V5r3wG69189VYoSQ=="
 ---

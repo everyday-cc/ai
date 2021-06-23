@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-21-artificial-intelligence-in-transportation-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Artificial Intelligence in Transportation Market to Witness Astonishing Growth by 2030",
+      "excerpt": "The report Artificial Intelligence in Transportation Market by Machine Learning Deep Learning Computer Vision Context Awareness NLP Application Semi Full Autonomous HMI Platooning Offering Hardware Software Process and Region Global Forecast to 2030 The artificial intelligence in transportation market is",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "originalUrl": "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U621906822_g.jpg",
+          "width": 615,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness",
+      "publishedDateTime": "2021-06-20T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places.md",
       "title": "UK watchdog raises alarm over Live Face Recognition tech in public places",
       "excerpt": "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F",
@@ -1387,50 +1430,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-investors-call-for-ethical-approach-to-facial-recognition-technology.md",
-      "title": "Investors Call for Ethical Approach to Facial Recognition Technology",
-      "excerpt": "A group of 50 investors managing more than $4.5 trillion in assets is calling on companies involved in the development and use of facial recognition technology, such as Amazon and Facebook, to do so in an ethical way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-07/investors-call-for-ethical-approach-to-facial-recognition-technology?context=amp",
-      "publishedDateTime": "2021-06-08T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

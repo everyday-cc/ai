@@ -20,137 +20,128 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double"
-    publishedDateTime: 2021-06-22T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
+  - title: "Three Areas Of Impact For AI In Fintech"
+    excerpt: "With the ability to quickly analyze massive quantities of data to derive important insights and information, AI is used by businesses to create efficiencies and recognize patterns that can improve decision making."
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d254faaf7245e73967c3cf%2F0x0.jpg"
+        width: 1199
+        height: 799
+        isCached: true
+  - title: "Banks Keep Biz Cards, Modernization At The Top Of Their FinTech Collab Agendas"
+    excerpt: "This week's look at the latest in bank-FinTech collaboration finds commercial card enhancements and an overall push towards digitization remain key priorities."
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/bank-fintech-collaboration-card-modernization/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/bank-fintech-collaboration-card-modernization/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/bank-fintech-collaboration-card-modernization/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
+    excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
+    publishedDateTime: 2021-06-21T18:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Service Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The global service robotics market was valued US$ 20.4 Billion in 2020 and is expected to show significant growth during"
-    publishedDateTime: 2021-06-22T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
+  - title: "5 solutions for Fintech companies to stay cyber aware in 2021"
+    excerpt: "By Neville Louzado, Head of Sales, Hyve Managed Hosting Cybersecurity continues to be a top priority across industries – as financial institutions are responsible for storing and handling sensitive data from millions of users,"
+    publishedDateTime: 2021-06-22T15:51:00Z
+    webUrl: "https://www.globalbankingandfinance.com/5-solutions-for-fintech-companies-to-stay-cyber-aware-in-2021/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/5-solutions-for-fintech-companies-to-stay-cyber-aware-in-2021/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/5-solutions-for-fintech-companies-to-stay-cyber-aware-in-2021/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/06/internet-background-e1624376706695.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Deep Learning Chip Market Forecast, Trend Analysis & Competition Tracking – Global Market Insights 2020 to 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
-    publishedDateTime: 2021-06-22T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22"
+  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
+    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
+    publishedDateTime: 2021-06-23T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+  - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
+    excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
+    publishedDateTime: 2021-06-23T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1539335/CognitiveScale_Tagline_Logo.jpg?p=facebook"
+        width: 1728
+        height: 905
         isCached: true
-  - title: "Face Recognition Device Market Size 2021 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
-    excerpt: "A new report released by Market Research Update is Face Recognition Device Market 2021. This report provides up-to-date information on the market and also pinpoint all the opportunities for Face Recognition Device market growth."
-    publishedDateTime: 2021-06-21T08:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2021-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2021-06-21"
+  - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
+    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
+    publishedDateTime: 2021-06-21T13:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88175/edinburgh-fintech-seals-seven-figure-investment-to-launch-ai-tool-for-vulnerable-customers"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: Finextra
+      domain: finextra.com
+    quality: 31
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Cognitive Computing Market Share Growth, Size Value, Trends, Rigonal outlook by 2028"
-    excerpt: "Cognitive computing represents the third era of computing, we started from computers that could tabulate sums (1900s) to programmable systems (1950s), and now to cognitive systems. Even though computers are better for data processing and making calculations,"
-    publishedDateTime: 2021-06-22T17:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-share-growth-size-value-trends-rigonal-outlook-by-2028-2021-06-22"
+  - title: "There are 100 UK tech unicorns, a third are fintech"
+    excerpt: "Of the private companies that have achieved a valuation at $1bn or more, more than one in three are fintech firms."
+    publishedDateTime: 2021-06-21T04:42:00Z
+    webUrl: "https://www.altfi.com/article/8024_there-are-100-uk-tech-unicorns-a-third-are-fintech"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.altfi.com/images/featured/there-are-100-uk-tech-unicorns-a-third-are-fintech.jpg"
         width: 1200
-        height: 630
+        height: 720
         isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "Report Scope In this report, the market has been segmented based on components, application, microphone solutions"
-    publishedDateTime: 2021-06-22T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
+  - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
+    excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
+    publishedDateTime: 2021-06-22T14:21:00Z
+    webUrl: "https://www.infosys.com/insights/ai-automation/trustworthiness-aerospace.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Artificial Intelligence."
-    publishedDateTime: 2021-06-23T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
-    excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
-    publishedDateTime: 2021-06-21T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2309745/artificial-intelligence-platform-market-share-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "New Study: Global Automotive Artificial Intelligence Market 2021 Size, Growth Analysis Report, Forecast to 2027"
-    excerpt: "The size of AI in the automotive market exceeded USD 1 billion in 2019 and is projected to grow at a CAGR of over 35 between 2020 and 2026 One of the major industries using AI the automotive industry is"
-    publishedDateTime: 2021-06-22T14:55:00Z
-    webUrl: "https://www.openpr.com/news/2311082/new-study-global-automotive-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
-  - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
-    excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
-    publishedDateTime: 2021-06-22T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2310582/computer-vision-market-size-share-analysis-applications"
-    ampWebUrl: "https://www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
+      name: Infosys
+      domain: infosys.com
+    quality: 19
 
 secured: "RA90OVkOE1J1A+CTL31LsGaw0gLj+1KyRSl02X7Rz86sywSSkpgHcLNt3XnX/p9FysPpQU108ZWBujfJ3R4ceJKrIvYw2JUR0wrRNrIJ+q3WRGOYwf6iMicB8U1HrUn5Bojvhxo3VSR9P9V9+pFfYC1EIiIW7PP4b8EqustdaO3LSCPzAlIqY0vz1bWBmYFkhh7kk1D3eafc7NLS2jbW3WTMMYTl2HCF/YTGoavftRJ4ogv8nDcxpi0cxJBKRGMVaonA+shTAsq9QTfL5Q/DVHnV6Hd2j6DbmicrSO+mjy8zUvlAi7/Qs93Z2W8Ay0XjV5amAsB5PChpHJTiXS7GzmJaExr1yHm6eCqGN4tbN38=;lZIa8dRjUYWe1kQkrhAWLw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
 type: article
 quality: 73
-heat: 103
+heat: 153
 published: true
 
 provider:
@@ -42,6 +42,40 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Self-driving truck tech firm Embark to go public via $5.2 bln SPAC deal"
+    excerpt: "Embark Trucks Inc, a self-driving truck technology developer backed by private equity firm Tiger Global Management, will merge with a blank-check firm in a deal valuing the equity of the combined company at about $5."
+    publishedDateTime: 2021-06-23T11:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-tech-firm-embark-to-go-public-via-%245.2-bln-spac-deal-2021-06-23?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Third Self-Driving Truck Startup to Tap Public Markets"
+    excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
+    publishedDateTime: 2021-06-23T12:20:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-news-live-updates-062321/card/jJhJbQBLFdhgsqkEt6xq"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-358301/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
+    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T11:29:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/self-driving-truck-maker-embark-to-go-public-via-46-billion-spac-deal"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
     excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
     publishedDateTime: 2021-06-22T20:54:00Z
@@ -70,7 +104,30 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Self-driving truck tech firm Embark to go public with $614 million SPAC deal"
+    excerpt: "Embark Trucks Inc. said on Wednesday it will merge with a blank-check firm, in a deal that will give the self-driving truck technology developer a market capitalization of $5.2 billion. The deal with Northern Genesis Acquisition Corp."
+    publishedDateTime: 2021-06-23T12:46:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-tech-firm-embark-go-public-614-million-spac-deal"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NUembark.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
+    publishedDateTime: 2021-06-23T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "lwctXSCcI3B04PtF2RWXLGpy/EGMO4uvRNKSDd6WquJ2w8OQ+OVJMU/rthQ+W2FZ9GxrWjEbI0za0KGf4gGIbF6Td4VqRWgQLzNCbE2xpzNBXx21Qnj07Fhd6dISb5ctDlFC0PRguM+4+OaTY0oz7U7Gicl8ZVGhypodXW8nYb2RV9tbx5BFbQY1A4ZzaSFaVaUfJUTqdLTAA3lfKwUbSt5OCe6g3pKtsBOM0SUJ5A+11R2EszF50uGPNzPbDAxU8znv2LWHJygoKVXaLar4aDZ9TfDkKs7/s0rtUIX10i3Aw36fle9hrN7tuV+RHBkXadraLfUAhGtkR7V+cAKBBLFMo/sboBT4dLebcBCAMsI=;g3W9V7Mky5A0LIAH48G3Hg=="
+secured: "C4g3lKwB2U+ZvQbDjaSVLrmP0Vy7Nt/dPQbEzHiF+riZuLme3ppqbrrDpIuqy3RsEnWSbsMa2h2FBFnDsRF3EqTyFg7Te28nH32Sbz7bIYiuWzzzO4x7/loMfnLf3weR9eHGFPaliJDSdKHkPUa8zn6ENWhd1jdMC3ylb/nxe/q1wUZbzT4udyUXduS9vJpayy0jEQsuWvNFdtVKgECv5GVDrwDw6cmH0Rih1t2nBKZtepKoJoODJ/1F0Lmcx92L/WNZeH35Q+5dgaLZ3eFpuTs8Yp1ZDBbTE6YUdr4zXKhq/XCzjJ66D++wJsJ3PjiLiwpcTot2FDvXlEHM+uztS0141LMoKhXW/hYQ/TqEcMrnxZj3Fb/YIpm9s6CG8kZnflt47MknARWhveN67REjGgRlSoUGkMMV77t5quLmR9xUlhVYcQvqkUaU/bx+AsqsZDbRnyH4J6YJk4YeUEgY7OTU0//MrqKX2a5dG1jv3sXd81FQU7Hm2ONpHD+K38yqJKs1Xgwz/FAOWWOquh4f+g==;pxkgG2ec0lIn3r+WReE2aQ=="
 ---
 

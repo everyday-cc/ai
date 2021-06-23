@@ -25,35 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS"
-    excerpt: "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments."
-    publishedDateTime: 2021-06-18T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
+  - title: "Facebook AI software is now able to dig up origins of deepfake images"
+    excerpt: "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from."
+    publishedDateTime: 2021-06-20T07:00:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950"
+        width: 650
+        height: 366
         isCached: true
-  - title: "Facebook To Expand Shops To Marketplace, WhatsApp"
-    excerpt: "Facebook revealed new ways to shop throughout it apps, as it is expanding Shops to Marketplace and WhatsApp to assist companies with digital sales."
-    publishedDateTime: 2021-06-23T00:07:00Z
-    webUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/"
-    ampWebUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
+  - title: "Facebook researchers develop new method for detecting deepfakes"
+    excerpt: "Facebook announced a new method of detecting and attributing deepfakes that relies on reverse-engineering from a single AI-generated image."
+    publishedDateTime: 2021-06-21T18:59:00Z
+    webUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for-detecting-deepfakes/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/06/201128738_125596109600498_3035022110971320247_n.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "MSU team develops deepfake detection model with Facebook"
+    excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"
+    publishedDateTime: 2021-06-21T17:12:00Z
+    webUrl: "https://www.detroitnews.com/story/news/local/michigan/2021/06/21/msu-team-develops-deepfake-detection-model-facebook/7770403002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7770403002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7770403002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
     quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/social-commerce-online-shopping-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/6099c700-bedc-4709-8348-6abc782687a5-test.jpg?auto=webp&crop=208,117,x0,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facebook advances shopping features through AI"
     excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
@@ -69,15 +85,20 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
-    excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
-    publishedDateTime: 2021-06-22T17:18:00Z
-    webUrl: "https://manometcurrent.com/latest-survey-2021-ai-governance-market-to-witness-revolutionary-growth-by-2025-ibm-google-facebook/"
+  - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
+    excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."
+    publishedDateTime: 2021-06-22T14:59:00Z
+    webUrl: "https://wonderfulengineering.com/facebook-says-it-can-now-detect-and-track-down-deepfakes/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 24
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/06/deep-fake-img-1.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "Ge4gkFNglMLUiVHuqzLPSBp/Mb0KWanIyTdfHlkSVH686t1g9ooXEcRrdNOGmevJw7a8LL7s/RVHyPc0nTymnR/5zGzDXgLnNk2TbMzJWRzGcgFU0g4NugADsrEMW/33SH82Drh+TUiIJMKiZITt3V3sQonko1xmCtKN1ac63T3a00QfCdVKb00P2t33z2/UL4JSh6Cu5xRV45jyaZWHopcZZsHcxcHNIAQhKx+njFxm4IZZ43KVnahvmKW/iu0dBGEERTZxwANAiqa/ZNyVeI1KYwk+mBGRUyPsF0Lh60FbtYoFvwt8JCOfztg5yfzGghW1jcc9cJoxjIrW/BjAJiQVF/siFHhTuUwYLMalZ1sHcJaggZcr8jeQMQlHWW2IzVJyP0zbshxsSgMiHpOT9QE0t1BvWL7dDZMqL40dSrEwKd/8Mel7glmCKTJtsliD4gGBSufSH2jP+A2I10DV4MOJF7ylvgxmLMpefPx2SSCTyJ5+GGLJHUtsSifrcDcvh1gJUAon9pQ+h8+3jjxcQg==;hv0pxf/df2yFg1d9r2T3Pw=="
 ---

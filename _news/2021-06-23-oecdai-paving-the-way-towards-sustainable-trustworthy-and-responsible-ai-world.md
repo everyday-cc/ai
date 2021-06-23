@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Oracle launches AI-powered HR skills identification and classification solution"
+    excerpt: "Dynamic Skills helps leaders identify skills gaps, know what skills their employees have and foster career development, the company said."
+    publishedDateTime: 2021-06-23T12:57:00Z
+    webUrl: "https://www.techrepublic.com/article/oracle-launches-ai-powered-hr-skills-identification-and-classification-solution/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/oracle-launches-ai-powered-hr-skills-identification-and-classification-solution/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/oracle-launches-ai-powered-hr-skills-identification-and-classification-solution/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 83
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2019/02/07/42a3186e-cc62-467d-8871-d17594a5f412/resize/1200x/5dd13b0e0ccb6881ac38179fda28c108/image-3.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
     excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."
     publishedDateTime: 2021-06-23T07:00:00Z

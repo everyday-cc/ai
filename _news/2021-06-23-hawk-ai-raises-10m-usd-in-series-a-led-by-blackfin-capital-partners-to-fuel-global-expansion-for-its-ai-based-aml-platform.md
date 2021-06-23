@@ -35,6 +35,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "10 Best Artificial Intelligence Stocks for 2021 in India"
+    excerpt: "Stocks in artificial intelligence arent as uncommon as you may imagine. Many businesses promote AI and machine learning initiatives. Indian start-ups are growing and creating AI solutions in education,"
+    publishedDateTime: 2021-06-22T16:01:00Z
+    webUrl: "https://www.goodreturns.in/personal-finance/planning/10-ai-focused-listed-company-stocks-in-india-which-could-disrupt-in-future-1213514.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/planning/10-ai-focused-listed-company-stocks-in-india-which-could-disrupt-in-future-1213514.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/planning/10-ai-focused-listed-company-stocks-in-india-which-could-disrupt-in-future-1213514.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
+    images:
+      - url: "https://www.goodreturns.in/img/2021/06/ai-career-1624366348.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "JMP1vWu2r2q4ugRAHbsMUzoncXaTdSnSFN0KJ9Bb3l5pjtl4DQ4OnCrdSu51EbHXUnOlCjTW3ozZ21Kaq4IYAGbBqWZoR5eNyGo8XojhfCRfh2yt1WaeFBuDeoL1wIMicm+7VjMeyXaZlcDjNmVBbNDHE0dKqW6O4txSPhB2TzwB4GkOasWfa0eGpdv/j5gf8p2LVgTqyffWq1UROczLSZCjWe15nDtAO2Ilb+fB2IwDQsJHFIZfOj8U7AbB5a7BBk3lljbht63bBYB26S3ga8djW6SfyyjbTmkoQu2Yd8LsIhwB6z21nvVKmHYOmWsxKxu7UhQPgzk46Ie4pfFNQUjr3TeorvusXwQhVLRuTsU=;R2fiC+8pD0PGVD9vJQb+AQ=="
 ---

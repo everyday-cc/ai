@@ -146,15 +146,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
-  - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
-    publishedDateTime: 2021-06-21T17:22:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
 
 secured: "b9EcPvYxncw11xoxFE+k24eK0YrHHhnWO0C5bUzq8+ltUA2SlSu//2dNq5efrUiLsJrt1vpZ8ZCrO+QDFY2SxCYNa2NqmJbiaNZ4T6O9BufnEv2ak2QE9kVog0ThXDDqJ102+i5HrtlSC8ydB5aESzW0C5BwqrYy2m8KAIarUA6EACqP0e1SKIN171sH9fJMIXjh4fFvIg3yHVqlc7u89MLrbw3jzscg7Qs/1uzfBEGCsrNdqBZKwexPplNYDWeXq4uFFf2uozn1TpGv0KqNFK4jlC6Ts6uGOz6kaZS1j9mFh/Buxk7cESn+wCnnw4W6iQjKxCgwoAsyXcz+FSUUF8o6/sqC+22tHo5RihtEEno=;f1DfLkFf5jRPJG2IFW3OXQ=="
 ---

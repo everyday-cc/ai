@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/375424"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375424"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 Best Artificial Intelligence Stocks for 2021 in India"
+    excerpt: "Stocks in artificial intelligence arent as uncommon as you may imagine. Many businesses promote AI and machine learning initiatives. Indian start-ups are growing and creating AI solutions in education,"
+    publishedDateTime: 2021-06-22T16:01:00Z
+    webUrl: "https://www.goodreturns.in/personal-finance/planning/10-ai-focused-listed-company-stocks-in-india-which-could-disrupt-in-future-1213514.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/personal-finance/planning/10-ai-focused-listed-company-stocks-in-india-which-could-disrupt-in-future-1213514.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/personal-finance/planning/10-ai-focused-listed-company-stocks-in-india-which-could-disrupt-in-future-1213514.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
+    images:
+      - url: "https://www.goodreturns.in/img/2021/06/ai-career-1624366348.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
     excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the investment round and Picus Capital expanding its existing share."
     publishedDateTime: 2021-06-23T09:05:00Z

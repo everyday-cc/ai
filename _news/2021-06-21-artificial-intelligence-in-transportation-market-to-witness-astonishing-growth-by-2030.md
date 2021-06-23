@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2309352/artificial-intelligence-in-transp
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
 type: article
 quality: 51
-heat: 51
-published: false
+heat: 71
+published: true
 
 provider:
   name: openpr.com
@@ -25,6 +25,26 @@ images:
     width: 615
     height: 397
     isCached: true
+
+related:
+  - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
+    excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-22T12:22:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142271/voice-recognition-market-size-share-to-witness/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 2
+  - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
+    excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
+    publishedDateTime: 2021-06-22T17:18:00Z
+    webUrl: "https://manometcurrent.com/latest-survey-2021-ai-governance-market-to-witness-revolutionary-growth-by-2025-ibm-google-facebook/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 2
 
 secured: "1aiSRctVXGbUy6PRiNMdhY3CDGRwIc9Tq0Em5mnk4g2dNqlbGdLK+ZyIdmjEOESY/fzwdxMTcqbYfV30K/618dPIt4mTze5ILOWeMd3bGYNvZlPQf5gwU0H7qqhuMgykPcuPtPBA4raJgP9pT5hJsq9eoebUSET/FPWjTopYy4vAKhl486k0zbxfhL7WwV6NFUN4cQrHYhwRPnTSEUPewFB8/1LRKTiU1Xd5NeWAAN3rxsQmRcWM5KeVLIYFXLEwuCeR1S7dChOlVQMF+52uLcskOE/ECIYMXTC9f3bjeN/VMVFgP3xuaG6Jf8/N5pMMAx7Qg3cyxg/Li9cRhpGd+1rXE+rSGbuQCx3EHABR2TSyvzz50zjTTorswGd3inRdVaSp2B4VEHHKw6H+nZEogJnxsoX4EXsJNJutdSjrd21ljIqvO81AykbBYClWIditA8TSKbyabo0Nc/NDzfG5+M0yMHfzzEBWlUbXkvhESsWjDH+vJP669fUbuJNzmKh/LN0FZbE5+4YHMNNOjbS9AQ==;h5yXkULr4/wARwJnnURcrg=="
 ---

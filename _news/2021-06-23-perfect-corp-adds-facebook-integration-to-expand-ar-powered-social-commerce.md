@@ -35,6 +35,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Facebook To Expand Shops To Marketplace, WhatsApp"
+    excerpt: "Facebook revealed new ways to shop throughout it apps, as it is expanding Shops to Marketplace and WhatsApp to assist companies with digital sales."
+    publishedDateTime: 2021-06-23T00:07:00Z
+    webUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/"
+    ampWebUrl: "https://www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/social-commerce/2021/facebook-expand-shops-marketplace-whatsapp/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/social-commerce-online-shopping-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "wpPX/ViqujSNXKKjAPcBZc8yB2+fDuYkNDpHUWQ12+fEW7aWlRng60yhgCap0tFVkqPihPJqaIsjAru5Nz8l7mO3Df88LX2pdijsKMKW31VsywS5i7a2gztoXWHcUV31dhk6gg/2njOnLM23qVlrEzKyRQHSjsJp9VWAp5BD8z744s37DLpZ8VcSg1YJmgRm8L+GUGAj5Tzi6njmXsna179PSX29yMSLmFKSjzcMb80ow/z6/lQT16oj8hjHjIBncqwOLbgoFg3vruxuorPqeuBqr1+yxeSWLV1I1rb7BuIOtUs3kJomf/9/RjtbNQ+mSSsNCLkwACWTNEMg2VwORdEFqk+BxgQxH/KXqhEIOec=;IkMkxExUSMkLtRISfxKhQA=="
 ---

@@ -27,57 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS"
-    excerpt: "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments."
-    publishedDateTime: 2021-06-18T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18"
+  - title: "Facebook Rolls Out Live Audio Rooms, Its Competitor To Clubhouse"
+    excerpt: "Facebook has launched Live Audio Rooms, its competitor to audio-based Clubhouse, making it available to public figures and select groups."
+    publishedDateTime: 2021-06-21T17:24:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Facebook-Live-Audio-Rooms-Clubhouse-4-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Facebook AI Reverse Engineers Deepfake Attacks"
-    excerpt: "Facebook’s initiative, led by MSUs Vishal Asnani, attempts to solve the deepfake problem using reverse engineering"
-    publishedDateTime: 2021-06-21T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-reverse-engineers-deepfake-attacks/"
+  - title: "Perfect Corp. Adds Facebook Integration to Expand AR-Powered Social Commerce"
+    excerpt: "Perfect Corp ., the leading artificial intelligence (AI) and augmented reality (AR) beauty tech solutions provider, is pleased to announce its integration with Facebook for the expansion of AR virtual beauty try-on and shopping experiences across Instagram and Facebook."
+    publishedDateTime: 2021-06-22T20:41:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210622006072/perfect-corp-adds-facebook-integration-to-expand-ar-powered-social-commerce"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Facebook advances shopping features through AI"
-    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
-    publishedDateTime: 2021-06-23T08:23:00Z
-    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 39
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
-        width: 803
-        height: 419
-        isCached: true
-  - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
-    excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
-    publishedDateTime: 2021-06-22T17:18:00Z
-    webUrl: "https://manometcurrent.com/latest-survey-2021-ai-governance-market-to-witness-revolutionary-growth-by-2025-ibm-google-facebook/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 1
 
 secured: "NrTTA85XcYeadsdLRPnEC5JJFH9xsIjf0WXoPdmi8I2MLYVtxz07Bw22EJeUo7ZhvJcCYE8KJ1nKoGCnVlu1KTu8ohiSFSj1uCKKbQUeZ9UJ+iWWU+eRlywnF8mXmE3DZvtfJi2Q0EMvJFKfMVizw4lJMAcw2fhPGeykBM9jHa+LMdGFE445hLt/K1UKHg+R7q+1jj1wtSFAPqCQGgQq7lobulNiHUOt+M4fvRwDN25XTejH0b1ShbymJgxcZWtMyJsH1zuZ8YKJZk9n11I7O38WcitVPZ1iWXNJGsJiOFEiYfOMXkZoZgubQzQdslVscAPFrrC4YeOorGH9JoChJpTFHTulWAXlRkAiA8u1afiEmlTEJJjMNRisQFmMuGc/KdT4cOkZwaYWWnwAUYZ/6XO5XHTid34TN4Yj/a/dluLrFVzrlrped2t3TXYG8Tbva8KhRl0NHLEsZRFcnwNnCUqNHjBc4A/qMyDtjRhB07C9rQCp4iez/6ME1xgIl35kksXrk2Kr1Dw9+iKc5uIhpg==;6HEuEx+xQKIGDtTQ0qYPBw=="
 ---
