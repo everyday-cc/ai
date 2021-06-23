@@ -3,14 +3,14 @@ name: "Taryn Southern"
 bio: "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI"
 location: Los Angeles, CA
 type: "profile"
-heat: 41
+heat: 0
 
 website: https://www.tarynsouthern.com/
 
 twitter:
   username: TarynSouthern
   url: https://twitter.com/TarynSouthern
-  followers: 65697
+  followers: 65696
 
 linkedin:
   url: https://www.linkedin.com/in/tarynsouthern/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Taryn Southern"
 
-secured: "MapRf/MlDdHvgcL8Kv0zocds4+X+sZtDJziOqxGkVlAt1hCWOR2H0ZcxprsN4zoqxV/3TzMZmiYm7GgpjW+sHd1R0w9+ed3MLJVBHb++DkI+c1CLaQcW8VxbHpbuJeWGGdPaXttuUIPCa1gfkuQ/2y0XqdpI7J/f80Adtkg10bl2qh5vyoQ5j8x7COFRUJDzE0i232j3hPq2QHepW7p5kzO1IsiV8ziseVIxJ0UJ0SQ+dhEk+3BksWh8/kfLAoy34wn9GUZk/TlFYLm5bDh2WDXBlvGO88Ah2bjQMt6ldpaMQudSpf3/5/Dz0pNtnzaYz06XN2TRABdTJbHEnTuTVf+1eE5Mh9ug2/we5rlU2OLzS77oGpVhEBjidj/B8HY0NBHzLq9pRSFJKqjchbJQzcjtigcLdjx8nTIpxClVwlw=;xuzqyfEIXOSnyHGhPa/NVA=="
+secured: "KlUTPfCkyqirfZQHmE/XVADz+jma/9jF0ZizCikofJ3edmliaQdzom6DrV1o40N8P1eKvOp3v7OwmwrC1a1vAEoC+0Bq2OdWm135ENyRBHuJ3zohBcQfMKr9rYt439EXb/IUpS8D1EHvtmyJ/+gGWoXU3qE9FJIM85MvqNG5Ljk0r8g7dzthMrGHzCbMypi2uekR3SdYoHLg6Hq1/mLskY1hQV6h0qeNaE5e9QKkMMw2gcT+AyuuT7bz5UkZC4De9mJW0f3pd9ZIVKrSc+KJW6k2OcDESXI+frlvZXXvfVwzoVDM9ZOuoK26b69UlVWJpp54JJ+vmJgC8YsNE4gKKzGg2yMtzMBDeLtIjjJTZq/byF1QceXTKyVBAu+BaqQY3itWGinaNjvLHm/LF1BwfnE2EB9k0bB79oPx0boXg4A=;/ETR0Adm5omyRACatDv7NQ=="
 ---
 
