@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-tap
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21?amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS’ secret weapon is revolutionizing computing"
-    excerpt: "The secret sauce underpinning these innovations is specialized designs that break the stranglehold of inefficient and bloated centralized processing architectures. We believe these moves position AWS to accommodate a diversity of workloads that span cloud,"
-    publishedDateTime: 2021-06-18T22:50:00Z
-    webUrl: "https://siliconangle.com/2021/06/18/aws-secret-weapon-revolutionizing-computing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/secret-weapon-1024x610.jpeg"
-        width: 1024
-        height: 610
-        isCached: true
   - title: "How machine learning will revolutionise drug discovery"
     excerpt: "Alex Housley, founder and CEO of Seldon, discusses how machine learning is set to revolutionise drug discovery"
     publishedDateTime: 2021-06-22T09:12:00Z

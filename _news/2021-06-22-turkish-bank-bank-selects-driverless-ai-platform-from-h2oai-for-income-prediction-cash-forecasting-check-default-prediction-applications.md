@@ -1,44 +1,40 @@
 ---
 category: news
-title: "Turkish Bank, ??bank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-excerpt: "H2O.ai, a leading AI technology software company, has announced that ??bank, officially Türkiye ?? Bankas?, the largest private bank in Turkey, has selected H2O's Driverless AI platform to upgrade its Income Prediction,"
-publishedDateTime: 2021-06-22T12:18:00Z
-originalUrl: "https://www.lelezard.com/en/news-19868033.html"
-webUrl: "https://www.lelezard.com/en/news-19868033.html"
+title: "Turkish Bank, bank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
+excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
+publishedDateTime: 2021-06-22T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+webUrl: "https://www.financialbuzz.com/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
 type: article
-quality: 34
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Finance
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
 related:
-  - title: "Isbank installs H2O.ai for income and default prediction, and cash forecasting"
-    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
-    publishedDateTime: 2021-06-22T15:24:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88216/isbank-installs-h2oai-for-income-and-default-prediction-and-cash-forecasting"
+  - title: "The road to driverless cars is looking hopeless"
+    excerpt: "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ..."
+    publishedDateTime: 2021-06-23T09:50:00Z
+    webUrl: "https://www.deseret.com/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
+    ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 35
+      name: deseret
+      domain: deseret.com
+    quality: 59
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://cdn.vox-cdn.com/thumbor/JCZTa9r6UAsv7Tp6l10w33HgvN8=/0x0:3000x2000/1400x1050/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69493501/AP18078663340923.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
@@ -55,6 +51,6 @@ related:
         height: 430
         isCached: true
 
-secured: "1cLbV2LyQNbxN+nQJFXMnItOb0sOWq01X1qsijW7VDtt3MRJXj6Z7ChJF4/uv7I/15mZqK6q/cEQNQGPUv0KovK3g22C1O/yvzw3bucYvp0UlDcEe1xK01pWpASTW5uix4PNWwm/GXK/kv2MePIqVGUzU694LsyE1GkQnlt7SVJgF1NaK8qKI5UCHYBhmZsO6wR6MUSsmqNvHJzgLZO8c48PS+5g9Jll2fKCWip8VNZGO/dbCfMv+Nc+HT1gS1FIggBuw86SHxfCsVNxdVJJi3PMmBMphqMoHuUAxaUqc986BrBgQYbTf8i9zmMrdRlCHiteSGYhqEcQXbTDI3gMN9XrT6rpvWj4sVEM6r3OVW0=;IKy/DXzbDe+qCqu5BTaF6w=="
+secured: "YMrEKMMgIuLWRuNqivsb+tyb7UCwJjZ7SVpWeir2NY9Jkn40gDWbDd7qBfjAdYe+E6ouLQ60gbFfMnPitgPlPC0HIaB+OwBHGBK8kh0DhAqn2VwwuyqMRZTgAlhsP7gQUQLdfhwwffgSsYkPYIYnnKwt6HMRc8IQp3pg79RbpaW9m0iqIiYwmMBt6Vr8esbY1vAx+QfEb6iLuTBegH3bDSW3ui4jcBwgX1oK5Qv01C7ZYRYkRTYtLyVhvWch0P6UngMmyXpEATg9ZoACee8CysPSgxOfVSgddYJQSOTUB6sDiNk9plo0thYGeAFsLuisFItCvKv0if1TvNdToJ++UmJe57z3nczP/vgPp97Z9PU=;5sRHgBaHYZJ24IZ0sEw1Vw=="
 ---
 

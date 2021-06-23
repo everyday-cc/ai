@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1271
         isCached: true
+  - title: "Machine learning aids earthquake risk prediction"
+    excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
+    publishedDateTime: 2021-06-23T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uota-mla062321.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/268742_web.jpg"
+        width: 1440
+        height: 970
+        isCached: true
 
 secured: "BX7kX5plFg/hYKp1Lnk7KxcBJSveN5WCaMoBLA97F6h2XSDLXd6Re52eODpl1KECpBix66q+K9aIOx48UQ8VXSTQHM+2c/TLUtOEa3fQnJzpScgtOovaHixLQEhiieJh3+nS2HnHAk2g17Sd7UX+6cQcyZKyDO7vA3uRFzqhE1tAKsRD8bTRipLvczZQN2DztjPCEGkmxwFW2dJ639DfiE4O+klYEiliuK4Ljp+kHvQrOeH7G2t+QaHEsUZfDocj4capZvlK54qaxve1mlr8AMrjC9Z2gTN6274129E2XZveM2cjsok63jeIyjoe50heXZzBzEewIdTy0H8FkpSDM+S+ZaJ4qBH3ACSHsTIUMoA=;w30GI0SvWQfNB5bK436RHw=="
 ---

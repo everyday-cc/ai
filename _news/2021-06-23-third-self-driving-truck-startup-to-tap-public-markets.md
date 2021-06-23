@@ -118,16 +118,21 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
-    publishedDateTime: 2021-06-23T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+  - title: "Embark Trucks, Inc., America’s Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern"
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "83Xb+U7N84D4DkANYd5ckqKdiDvBF+Ysjw4Lc30ChzRQNKRBLEhqhvSKD1OR3j7xpuQzFkFHMwh5FCGmIaWiq2IY4JpCKqnd3W4Z+3WBWeNGndhkOFUI30NfkNAyP24NWoPg2MCHmW+Gd7jtSD1a0Hy+iPFVHWkwwY7zZz0JGtqaSe0IxTGVmQJMoL9BmqMUiCY3pgtoSP3wKssXYKupt95ldOnurXbulzESiJEHJGqAYQ2JxeC+3ajypYVCtEa5xqJTUs+rvR6wLraSiOffG9TBXGOvhWtHQj7UcAAqbfLpaeCx/pKxQ83vSYyAki80Q3o2HPeX4hg2M5M4NYXWcSkbd0hpJ/6jes0687Du/vE=;IIQ5rW9vSY1gPWXGltjWbA=="
+secured: "kzEbyvJPuZSQ0qIHh7fuIbjVVXgYMpy/xpPM5UduaoFbS7shX8diOIL6A5yQUy60eNLIkgznr43fjqrkY5Ijc/hiQEe60pGrsceOREp97gUzTPB+sDT5aQF/ZAb4WwzjRRCIoSAbqamw+zmy69tdY7I/bVXEiJfx/P4QGHmeSPRI9C15VqY++J5dII7sEv0FRNzvpUB4MzyvKhNODqru8DqjdMgymcEQKkU8x1WDuvIBZcjBtWwHRMk+nnWd9JfGQQXz14ETt0ESL3mHojZFuF52n79r21iOaBuzhfn2mqCLMCaZYyVRfRo0KBL0gAkYwYf0ZY4K/xlEXaOXVPFXZyC53f2irFXtyJgn1zLAr29mFA5Xk5lVfXfT0Ur11hI4RREHot8bknwbvT1K2XzfhqJjvkaBXlzPHHXAsjahHjEsX9CY67AEn7/SUX2rCcc2Ku4sT/P/F1LGJBOy688b7XPjC/+n4tFliViiMRDzeAB2H8g/1mEZHcpyw16Ei2/JKMU7EqZAd3GnA2BgTXWzkQ==;ysfrFPl+ejzwtxs9I0O8lw=="
 ---
 

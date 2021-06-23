@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 482
         isCached: true
+  - title: "xCures raises $12.69 million in Series A funding for their AI-powered precision oncology platform"
+    excerpt: "PRNewswire/ -- xCures Inc., the leader in the patient-centric use of artificial intelligence (AI) and predictive"
+    publishedDateTime: 2021-06-23T15:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/xcures-raises-12-69-million-in-series-a-funding-for-their-ai-powered-precision-oncology-platform-1030547822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "7he/yQqNsQBwuOjOtWAVWO3t2mfLiE+NM3FNLwZ8DY/sebd/N5DVFwzY6n2Wn0oTYfrEzdIVMbiLwkmr0hXb3WuvWs2eKrfnEmu+HQLt9gG/tKJUbaN+UP6bqa+gDUYT+kB2ykxFb6KNqOco9peWI53Poj7h7omzgZp8Y5KXJgQsikIIrNAqwqMg2x1kOP12ZyRjsmqMwpX9e3sb8H+AHwWigK50mDI2mlZcxLMIVw7+oBVGRD8DJrrHDbpA/N9iYFdkh0coB/lqE9eBp+TpO9/xGTewslE3ID5NsffdrZ/kVH1MKSqQdB5tgMbrFyhaS+CoF4fvZ5Fpg2Od+iFHzwslErwKnIV05Rk3Wy+gD/8=;+8BtQx59AwpjLmcuL5rwfA=="
 ---

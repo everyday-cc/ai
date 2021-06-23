@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "AWS’ secret weapon is revolutionizing computing"
-    excerpt: "The secret sauce underpinning these innovations is specialized designs that break the stranglehold of inefficient and bloated centralized processing architectures. We believe these moves position AWS to accommodate a diversity of workloads that span cloud,"
-    publishedDateTime: 2021-06-18T22:50:00Z
-    webUrl: "https://siliconangle.com/2021/06/18/aws-secret-weapon-revolutionizing-computing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/secret-weapon-1024x610.jpeg"
-        width: 1024
-        height: 610
-        isCached: true
   - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z

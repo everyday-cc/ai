@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "State of AI Report Finds Growing Budgets and Correlations with AI Companies"
-    excerpt: "Increasing AI budgets represent a maturing industry and are closely correlated with metrics of success. In our latest State of AI report, Appen investigated the landscape of the AI industry to try to understand its current challenges,"
-    publishedDateTime: 2021-06-18T22:37:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/"
+  - title: "Grand Theft Auto V is now playable inside of an AI"
+    excerpt: "A portion of GTA V has been recreated inside of an AI in a fascinating project involving a neural mind. AI is a term that is often used when talking about video games, but what it usually refers to is a behavioral set of rules that are reacting to the player."
+    publishedDateTime: 2021-06-22T10:41:00Z
+    webUrl: "https://www.gamesradar.com/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
+    ampWebUrl: "https://www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
+    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 65
+      name: GamesRadar
+      domain: gamesradar.com
+    quality: 57
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png"
-        width: 1043
-        height: 652
+      - url: "https://cdn.mos.cms.futurecdn.net/Usdru3W58p6g8NGpxzUfyi-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Better reporting of studies on artificial intelligence"
-    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
-    publishedDateTime: 2021-06-21T16:52:00Z
-    webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/7-ai.jpg"
-        width: 1740
-        height: 1920
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
-    publishedDateTime: 2021-06-23T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "5DZe5dcsUkQmi0WXoa50wFAFDIksxf1sYZpHHrmKQUwQ05ZxOMYdXAHYIOyAxCjRz+MmtLEmkQcE6BB9gy99iTDHBAndp715nejIztgGCcyERpPw3zQbadKRTlpklvOxmC7LSonul+sGh/NOguMevspKSj5/mgDhCst4AaUif8Rf57rM1mDn2XSXLZVSxGLj2wbekPLEbIhk1lmkuTYnvNJxpQZsIlIOczjoR6Q8pMfTAEndeuLx30Gp0m8Sas1aLKyY6M/5Ih9ZOz/574c0KqFoxfesRnsUEG+RQfYXtVnDu80zWJigtBoEnTEroY0zX3v5vPjFwCk1I/1fK9jpTAf8+1Pa1Fwuy63vRgavNuw=;2BZKI396kQpIhSRWarYEag=="
 ---

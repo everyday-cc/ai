@@ -91,6 +91,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla unveils supercomputer used to train self-driving AI – report"
+    excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
+    publishedDateTime: 2021-06-23T14:01:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
     excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
     publishedDateTime: 2021-06-23T11:16:00Z

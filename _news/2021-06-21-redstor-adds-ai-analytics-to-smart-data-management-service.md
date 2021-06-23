@@ -110,6 +110,22 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
+    excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
+    publishedDateTime: 2021-06-23T14:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/articleshow/83776937.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 47
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163364,msid-83776925/upskill-to-the-cloud-all-are-moving-there.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Skai Named \"Best Overall AI-based Analytics Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been"
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -123,6 +139,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1527962/Skai_Logo.jpg?p=facebook"
         width: 1293
         height: 678
+        isCached: true
+  - title: "GRAX Launches DataOps Solution that Streamlines Critical Cloud Data into Analytics and Operations Systems"
+    excerpt: "GRAX, Inc., a leading SaaS Data Value Platform, is offering a new platform, dubbed History Stream, that allows users to effortlessly stream native SaaS app data stored in their own AWS or Azure cloud data lake into industry-standard tools."
+    publishedDateTime: 2021-06-23T15:28:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/GRAX-Launches-DataOps-Solution-that-Streamlines-Critical-Cloud-Data-into-Analytics-and-Operations-Systems-147634.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 7
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"

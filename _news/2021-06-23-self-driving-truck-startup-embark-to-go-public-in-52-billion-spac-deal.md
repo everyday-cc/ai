@@ -118,15 +118,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
-    publishedDateTime: 2021-06-23T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+  - title: "Embark Trucks, Inc., America’s Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern"
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "C4g3lKwB2U+ZvQbDjaSVLrmP0Vy7Nt/dPQbEzHiF+riZuLme3ppqbrrDpIuqy3RsEnWSbsMa2h2FBFnDsRF3EqTyFg7Te28nH32Sbz7bIYiuWzzzO4x7/loMfnLf3weR9eHGFPaliJDSdKHkPUa8zn6ENWhd1jdMC3ylb/nxe/q1wUZbzT4udyUXduS9vJpayy0jEQsuWvNFdtVKgECv5GVDrwDw6cmH0Rih1t2nBKZtepKoJoODJ/1F0Lmcx92L/WNZeH35Q+5dgaLZ3eFpuTs8Yp1ZDBbTE6YUdr4zXKhq/XCzjJ66D++wJsJ3PjiLiwpcTot2FDvXlEHM+uztS0141LMoKhXW/hYQ/TqEcMrnxZj3Fb/YIpm9s6CG8kZnflt47MknARWhveN67REjGgRlSoUGkMMV77t5quLmR9xUlhVYcQvqkUaU/bx+AsqsZDbRnyH4J6YJk4YeUEgY7OTU0//MrqKX2a5dG1jv3sXd81FQU7Hm2ONpHD+K38yqJKs1Xgwz/FAOWWOquh4f+g==;pxkgG2ec0lIn3r+WReE2aQ=="
 ---

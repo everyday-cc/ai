@@ -113,6 +113,22 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
+    excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
+    publishedDateTime: 2021-06-23T14:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/articleshow/83776937.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 47
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163364,msid-83776925/upskill-to-the-cloud-all-are-moving-there.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Redstor adds AI, analytics to smart data management service"
     excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
     publishedDateTime: 2021-06-21T06:32:00Z
@@ -124,6 +140,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "GRAX Launches DataOps Solution that Streamlines Critical Cloud Data into Analytics and Operations Systems"
+    excerpt: "GRAX, Inc., a leading SaaS Data Value Platform, is offering a new platform, dubbed History Stream, that allows users to effortlessly stream native SaaS app data stored in their own AWS or Azure cloud data lake into industry-standard tools."
+    publishedDateTime: 2021-06-23T15:28:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/GRAX-Launches-DataOps-Solution-that-Streamlines-Critical-Cloud-Data-into-Analytics-and-Operations-Systems-147634.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 7
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -152,6 +182,6 @@ related:
       domain: businesswireindia.com
     quality: 0
 
-secured: "1+QLTFWnsHJuxaZAWZhCDbrPzEkrz81DLgqWqK9WrYNEEPbRg0798r9eodBC8FjEutylBS/yFd/LPXVVHBwkNSDBB4RXH3jmT6y0kEHqx6bfR6wvzsjs45FR2cIbom56rbXqxqY/AM8U12bREzaph2on0N8YgzZwID5UglLxv1KS8cOw5HmXBwQxQEl6s31LfmDa2Hw7+eJaHh7DHEX4JCYoa4R+MDBMUYTCz5gldBist8syum2a0978Mt3Ji2f/w2GOotBifwzQKlFfB5RQHHi7FiVmVhSQUUGlrcWuRVyeP7YuW+MKhs+rTo77dvqkk3TTqeGXSQTyhgackzrpylYYE+0VcEoM0w8F2W7r5c8=;si1GdHLz/rAdy3zteUU7Rw=="
+secured: "yG4EceMoCmCw9AZmo3xPiaiSzlrcgG3zUnNcrGTZvpK5ehvYqnUbD92DwYhGFiuwZxqVYwpJXF0tA80anqA2+GEvDyZBIIgdptgzH5OulhQykE9MM48XKqA8vM2399WuxCsDty8+ZigiI5wbvAg9x4OHeLLI5LZ5FM9d19XjygOVRLwLeCnbCb1orhc63HSq5E2wtfJcXLi7KxmGgH64KgqlC3xymLpig1DVU/QQ6wCmIxRAfd+SUNxrGoQS0UrsqXv8fLW8Suk/cj/E0iqvZYDp9rlKuM470kFbJH4iY5SPI35+OdLJfgjvzigMmo/Ng77V1Qo2JTtLVMED62pbLyd20fX1vbmmI+Ox+tq4pNgt8gyqBbKNEqHLH/3oCjf6+R3mhL3dboKqCQ/PpqjTzrKclMWmi/yPHT2YEpJzxu68gATpN1YZw2tF62PRKfBfs1Dehb9J6ds4bqaI9X4aEGb+8f0uGu2QWt2wkaFNpZe3NpXcblzW/OCvwsIfHqPnitgppgpOR64UNJS7VmINww==;w9S9ne9z4rKTEf0A+dlbFQ=="
 ---
 

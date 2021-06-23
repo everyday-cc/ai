@@ -85,7 +85,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 40
+    quality: 42
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z
@@ -147,6 +147,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "kdXKW6EKSw14e5nk9ya2Ms288vvjL8MXIpyTxHl8rNjWcUn5cerwJikhJc1bpUBNL0J08LeT5tDLfAAzW2zrllUvlOc+LjjkIbpiHFttDhoqdMNufSapgxCO1br3YSeOKhfOYcHnvRuXnl9aApDYbtWlZtZX1Rpi8HXJ+6H6gE2oq1aIwPzbz4ZBIXG5TNN2i/ebGJXr9D+wLVxY+qwaPZk72h6AyZWrD6Lx2DypoHQ/LjgmRsc7lOGUwHFUGUl7CR1C4Jt/gyMwn96itcv138vuuHhXJU/x5dOR1zQwEgo3qTQNDdPH4mCv6hubeDdu8siN3YrqFKui03TtuENQgaAICzaArk2dPiYvB1ki7Bc=;W2WRf2QdIm4cL8XN3z2bMQ=="
+secured: "sZwbBVHX0t82dhiTb7k1pqpd3DsyxzLtCfO3AVmdriw0q9dU1xhYIryNZlFSsQ6n3bTZvUttLh1l+buPdYuAKoI7GSItP3bBDguF5ZLGqCh7Q23Xsejctaw8qRPL3fpih5E/RcntmGkCyK+AHQ1T44XKbzdZxaxLK9zhvu6Hi56uBmcGq/Ek/sGhgJ6NEV8wYid0EwIzMg68/ZLdBfBeCTK1WI3zVKpZv3vkLfnSG2qmf5Yb1invQqGszrvBG1Sae80hloXqBi3OagIAB3mqx+rvHiBJ6cnVuI2LK7SfRowLh3EVHKXruBeV63A5I1sVq37THXGlQAAaMNXCYL3jYd8zSXirkZbloDhMFwgL1Vba2tZ3gsypRsn8+e7Ydyl7w6KbZ/vR7aqWPflBWk+6CQIdIAIVWohTqF0m+d/edE5aAoQdf+L4q52yT26JIttQoM9LYjpMuF5aOG8uhItXtpCBbsQzWlbPL3zJohmRatsirWZjeK62hQ3CD1cyNZjgl5pOb+9c7cUMsWSpocpqCA==;4v5evy88r1tgIOXypUhgjw=="
 ---
 

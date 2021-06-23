@@ -25,23 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous trucks hit the highways, with Australian tech helping drive the revolution"
-    excerpt: "\"Our artificial intelligence doesn't get tired or distracted ... If all goes to plan, TuSimple will roll out a fleet of driverless trucks in 2024. Autonomous vehicles require sensors to perceive ..."
-    publishedDateTime: 2021-06-18T21:50:00Z
-    webUrl: "https://www.abc.net.au/news/2021-06-19/autonomous-trucks-hit-the-road-carrying-watermelons/100218538"
-    ampWebUrl: "https://amp.abc.net.au/article/100218538"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100218538"
+  - title: "OneSoft and Advisian Enter Into Teaming Agreement and Initiate First ..."
+    excerpt: "EDMONTON, AB and BRISBANE, AUSTRALIA / ACCESSWIRE / June 23, 2021 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (\"OneSoft\") and Advisian, a Worley global consulting business (\"Advisian\"), have entered into a Teaming Agreement (\"Agreement\") to conduct collaborative pipeline integrity projects using the Cognitive Integrity Management (\"CIM\") software-as-a-service (\"SaaS\") solution developed by OneSoft's subsidiary,"
+    publishedDateTime: 2021-06-23T11:00:00Z
+    webUrl: "https://www.pr-inside.com/onesoft-and-advisian-enter-into-teaming-agreement-and-initiate-first-r4836060.htm"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 23
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/907f7f78859e535243ee65d82f8bfb63?impolicy=wcms_crop_resize&cropH=466&cropW=700&xPos=0&yPos=52&width=862&height=575"
-        width: 700
-        height: 466
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "ZJ71rhoL9ye9ceLPLnm63zno16tFqa93JB2BZrUO5FNe4ocIQUzd12fwIXR6g52FtYKEUgW4+KLZ6r6Wpqd0mFppH8PW/PdEDHIcJ+D3BIRuvxoamI13tdDGnfcsMdLdWJnxjRxdN2v4LhPIr7TIvhIt5g6LQ4vf3Rr5P1QD2qVcbc2g+z6K7w9WtUcBEBRQayA8GUedHFonJLqmwd1hCHPrYvLvKrCQqMWyfGa8qE8e/AObMyLE7LnX+N3q8IkaRTFReO4tKYroFtE3b4SGWJo/uAZT03L11XHcVviNMYBvwcZZSi6aOAlU6B+hmu9F8tK/cRMyy0HR7MCMfIgQo7JKyICKUoF3Zm4mzvRgq18=;uxICEMoKh5L3rOstrOX3Vw=="
+secured: "DBUjAQUCswMtQWUmy++v+TAl9eoisnjb8GussmRSsACR+6Xj8BT/DG8JlleZZUATZFpZl57l5ajmg1I+HF6D0uCydX0Be+0nZ4KcXJbEniu/gGVuRENfbGl++1Z8QEHB5khjpsjMcPXIoKpidexbvuTc2Ge1DzdKjh3R67MGpstcys7k7kgfrLEoR8TO0W0j3NPjD+ENjVPiOB1lExl/jL+hO+z8Mk0NKcmc6vsKM0c44j4DldWJTzuoeJATzha0dR2HKU+04F7mBKdqYgPuiYla7HmzIN65NbOBlHTUZXue+hVQ+6JyrDZRSzqT++IvDEbYNApaLqy/eV1IlwjQrNS7bXVmeynPxDKiRPHbjYLY4kKAFByWXIMGT3G1l78LnQW2RNq8e/M1t+ul3Be7mWYiW07U1MxRxtXThniMklijbKZV5yE5/pY75jsL+92VqxEbK7Z4wf7aBJZuH63QZDr60lDBVOrbvtgVIrLO8CDulMR9rL6kRIhwa+KzztEdHjOVF9tAh0cgyeYtRoQAYA==;XjSUTd4WP9MTPk9YOAR0Kw=="
 ---
 

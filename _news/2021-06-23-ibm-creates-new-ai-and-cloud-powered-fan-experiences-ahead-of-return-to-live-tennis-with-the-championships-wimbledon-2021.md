@@ -3,11 +3,11 @@ category: news
 title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
 excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
 publishedDateTime: 2021-06-23T13:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547276"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547276"
 type: article
-quality: 43
-heat: 43
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,11 +19,10 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
+  - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg "
     width: 400
     height: 292
     isCached: true
@@ -39,8 +38,8 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 39
+    quality: 41
 
-secured: "7L7+GO2hP0DchbDfXXbgql6feFkwmBeSdF8fiBegI/wKdxPQcGHDHHYpqK2OChVn9f1hzvcamnX3QtS23mjTAW/53Ly2yBAlOnPhAzIMwGMI4KHirKzrfosPV6nxptnqV2VP2RFwfCUKwpJelwjUDSHrpzGt8qMgwiyJ+cCyl+y+yunCtjOyIj/g+t8eos0FHTRR7nA3qIi0wueg1xlEojKXTdZryLgRZc42iQmQYN2N+X2i4a0I521QzRPobBZRWt6tQrdRB5RvGCWQD7GVI69OMiwkmeg4NZ8rJzjc3RpS2PFFX/uxcbEU1aGxK9j06oFhd8Qkhu4rqum9Fo45/J7ZY2vnAztSf/8kEV00jCg=;I5Jn1Z2rLnXFSX1WhcWJDg=="
+secured: "MY9RHLF73YQJ4jGI2rdKO2La9Zd+kwQ9K0EhCWUEN2E2k9LFQvuahdk/EwmhBmjRXwHcWqoj6fn/w5Aj0myM8RKboPhl5Nl1d2E3lEJtXBxfbI7+zbF9ksRUQVxGmoygGg3Ga9SEtDPE41Km3RXDibBFmnWlCKqVevNt/9DYeoiQ2fwbqV62yUBInoEnwGYK9iFgOv4trNR3slEJUaE3l0K22ye5wOxRv/v43HgObkxq9qgn54QgRgLQBjArv4uO1HZcKM8ISh7CAPAlv0Gl/1tCWoqI2ELQikefQztecLi2mdJE0I4pA+UESbA9CYACcxN7WUPoNNWy24sz/mePl5cmXizEX2k4sTqA+c5Vnts=;5+v8J4tI7q7bJfOJK9V1mg=="
 ---
 

@@ -1,23 +1,20 @@
 ---
 category: news
 title: "VisionQuest Uses Artificial Intelligence to Screen 40,000 Patients for Diabetic Retinopathy"
-excerpt: "VisionQuest Biomedical Inc. announces that the company has used the EyeStar artificial intelligence (AI) software to screen over 40,000 patients for diabetic retinopathy at the Clínicas del Azúcar . The EyeStar AI system screens patients for diabetic retinopathy and macular edema,"
-publishedDateTime: 2021-06-15T12:15:00Z
-originalUrl: "https://www.financialbuzz.com/visionquest-uses-artificial-intelligence-to-screen-40000-patients-for-diabetic-retinopathy/"
-webUrl: "https://www.financialbuzz.com/visionquest-uses-artificial-intelligence-to-screen-40000-patients-for-diabetic-retinopathy/"
+excerpt: "VisionQuest Biomedical Inc. announces that the company has used the EyeStar artificial intelligence (AI) software to screen over 40,000 patients for d"
+publishedDateTime: 2021-06-15T16:15:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy"
+webUrl: "https://www.businesswire.com/news/home/20210615005073/en/VisionQuest-Uses-Artificial-Intelligence-to-Screen-40000-Patients-for-Diabetic-Retinopathy"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "RWCtp4uyNmA0Ey7mEMGEEr1cJoMz6zDFaSgNbAlRiDWHJucTmeiMiagVOEWxEY/ivh/rLnxMIqxMsR+GfdGsc/1LEB3I3GDLrxaAcaraS/VZh1AFim7eE2TyTdYo9/RS/l3+8jkSNyu98H06mRaM74TJ4TyqLzpU+jTcHOn7CHgaWeG75f3u9u7ciTcxOpJc6Z8uWrsvnfsJevKi2SsVQutYZfywWrzql58urjjv5ZszKWoEToCHaj1AUZ/FHo4QKjikOXHEEefE9ZYg/0X7+h4ekV1dmERWnNtws+4MQwuBxY6LhyukV+BXiavOZD5KH4Ib3xApNk6IpyDwxYW0KzcUGMGUfdexRQc/5TzwXhE=;7C2QVGiKQhO6LDFbCNIobw=="
+secured: "PAOY2qj2fQnWa3XQhPdcfEyRJrDcvCx07kQ3bjGOnCUf+oR5DC1EafKEieie0YJzCMAX90h/HtAsPdPiG6KnXihAM/k0fJl0raYYu2dEEXrfh2VoK2WOCRll4BW3VenrLTRW2hXSUGM3t7otpFzUaEWTCd9F08yB4slvCAPIyhFmVFIRlJY2bU9hbBwPsNJQ+fR3rwyCCOpq9x3alN0aCmsijuACtFtzlLsOwllBgmm2N746CnTDnwYWRbGHx46wf38wCzyLXvORu5fiPAi8X/avHXJamsUimqoUZZDTKK7qzIOOUzxE9AIt+UYY46sgxxlfbjoNOzxN390DXxXntbKtBF9idS/WcyyJ8rIox1I=;jXOyDafJKbN+FSQv+QbiiQ=="
 ---
 

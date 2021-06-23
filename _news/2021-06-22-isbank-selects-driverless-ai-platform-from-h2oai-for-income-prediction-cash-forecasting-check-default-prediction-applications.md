@@ -26,34 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Isbank installs H2O.ai for income and default prediction, and cash forecasting"
+  - title: "The road to driverless cars is looking hopeless"
+    excerpt: "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ..."
+    publishedDateTime: 2021-06-23T09:50:00Z
+    webUrl: "https://www.deseret.com/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
+    ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 59
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/JCZTa9r6UAsv7Tp6l10w33HgvN8=/0x0:3000x2000/1400x1050/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69493501/AP18078663340923.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "Turkish Bank, bank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
-    publishedDateTime: 2021-06-22T15:24:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88216/isbank-installs-h2oai-for-income-and-default-prediction-and-cash-forecasting"
+    publishedDateTime: 2021-06-22T12:00:00Z
+    webUrl: "https://www.financialbuzz.com/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 35
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Turkish Bank, ??bank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-    excerpt: "H2O.ai, a leading AI technology software company, has announced that ??bank, officially Türkiye ?? Bankas?, the largest private bank in Turkey, has selected H2O's Driverless AI platform to upgrade its Income Prediction,"
-    publishedDateTime: 2021-06-22T12:18:00Z
-    webUrl: "https://www.lelezard.com/en/news-19868033.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 34
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 15
 
 secured: "jphU5AZ4P2Q/kXcCStZPqKn0W9yw59Wz72kw5McMKNlxybND66m15A3aaNvbOmJUK++U+ZtZ4HSlDayEuCwglWCMzHX8L5H/9qZkqyRYAILgDECRwxcCjLiTaSy6wpgqrcORNJ9AvmwDBZTbuSWfJ4V2b50XFLz2SEgvGCbgSUEahjNo15bx5zyn7iedzF1mdm8e263rGTL5Xsr3sk4h2J+kH2v0hRo0dZBhwrBLWz/ljSftTShaq81gg7bK5Mds4NmPks3MmdEyAHtmUzGkJUcxnCow/bc+u2GqCbj7P6eJIKJoac/EvGLW66jF0mAIxd6eX0fwavQdNyURkNofB1uLMc2uMmfQ28DuPKrZBnOISzssnXNxzIrJLE5HB0DuNNeLXY0Qb70R3gkNvuwng1vc0BR0DADeUqZQnZIS8olrdRuBaSEkkoI+0cJH6o9ec7W8JTN6DGTpiHu3UKt+dgK81cpISD4gO64afz5egDzkxEPZS43xzcgza+gIsGBF5mh5a37xeHWQug5f/nGyNQ==;OzJeeTYbUXE2HRVcZekFqQ=="
 ---

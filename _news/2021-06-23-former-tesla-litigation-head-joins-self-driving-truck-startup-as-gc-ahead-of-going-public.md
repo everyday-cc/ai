@@ -114,15 +114,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
-    publishedDateTime: 2021-06-23T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+  - title: "Embark Trucks, Inc., America’s Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern"
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6+uesxb5BMAukjPrWUti1phjNdWLziK/iSeY18VCURRopH+k+SEOeMk2sulw1H0c2tzIaYE/hunWbIi/1Sh0qed29QAdYDmPJKEjzKVi+NhXOt0hol4wPvsvDmFXDOmOmWy/a9A81aQ/m7n3x2GSiPnlLwVLVV9cjb6RrEw16DRP3rujD/Q15N0HOVSypNQpe0+hC6/GEuTvHk/Ppch99Jm8KW0Hl8EIOfP9BTtrmOA7/6JeVDmakKslq7ACz2M7KNByc6DaEFLxDVnSrF5CG5xvj2QcfoBvA2THvkM4DjIeN+djl9f4P+sJ7kqUbi3avY3kCe1ruNHFxJqdcl2b3BfaimufPKjjqCC9KbGbMNFmuN59looXQnJtb3bdHEBdpNkfr77jOQjc6ihp6oXwYFwZz3ob1WJ5p33ehrYqb/YgfbIYAO17DDlguqbeIoKSyZtnRbX1h4c/A1HKdl0kJlbsuWbaiHRSN7ZYALt9Wot69mYhC1dwV7nM8wA2VnrN67rVk3FSJeBKnjOb9JbMRA==;74wdcAKzwl5Q8v3hnucKoQ=="
 ---

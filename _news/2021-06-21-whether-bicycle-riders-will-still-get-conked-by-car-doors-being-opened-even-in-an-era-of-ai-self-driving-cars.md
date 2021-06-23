@@ -31,67 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why passengers might actually feel safe in Zoox self-driving cars"
-    excerpt: "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features."
-    publishedDateTime: 2021-06-22T14:00:00Z
-    webUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/"
-    ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
+  - title: "Internal Whistleblowers Might Just Blow The Lid Off Some Quite Dicey AI Self-Driving Cars"
+    excerpt: "You can expect that there will be whistleblowers about self-driving cars, something that might seem surprising and altogether unexpected, but it is going to happen nonetheless. Here's why."
+    publishedDateTime: 2021-06-23T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/23/internal-whistleblowers-might-just-blow-the-lid-off-some-quite-dicey-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8="
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cd37770b24e71b5d37d80b%2F0x0.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
-    excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
-    publishedDateTime: 2021-06-22T14:49:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
-    excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
-    publishedDateTime: 2021-06-22T19:26:00Z
-    webUrl: "https://www.techrepublic.com/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 66
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/22/cb76eea0-7b93-4c17-b0c7-63be07fae3dc/resize/1200x/81bafa833ff62c463c854cf1bca87437/autonomous-vehicle.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "How Amazon-owned Zoox designed its self-driving vehicles to prevent crashes and protect if they do"
-    excerpt: "The hubbub surrounding the autonomous vehicle industry often focuses on venture capital rounds, speculation about IPOs and acquisitions. But the industry’s future also hinges on the high-stakes task of proving the technology can operate safer than human drivers do today and gaining the"
-    publishedDateTime: 2021-06-22T19:33:00Z
-    webUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/"
-    ampWebUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 60
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Zoox-in-SF.jpg?w=1024"
-        width: 1024
-        height: 576
+        height: 800
         isCached: true
 
 secured: "OrP0aKlcQFml4zp4wIjQtJFZEoEFTlqF+1V0F4lu+AO8hWxaST0YAVI4hn0J9JL6W2JeDb2+KDYJ6etv6oNOuK4qE82gfxZGqBsgmD4KReaUgK+b8nrZ44gqbXIjy/yizjtiqp0FFLsBsC3eCcXjSjIH9Io1IlSqh52bmnKrdRTwSH4g6ib1LJ2rQGT8dyJIQ9r9aiSKipoJyYJhjg+dRGHjRm2wg6zW8Zu/+xfi33crOVAGzyinWRYPIWYm8bNWrRnoFxUNVAoZj1syj4jy3PMSoJPMq2DKvGAA+W83GIJ5Cy2bcz/CojouTPOnrjW7OakA0N5+aw6E7ikB3M3RGz9UJiS8rEOFOSigPMDvOHZDb3T69xRiW4kJgKa/zOuObUkNtjPq49/OFXcsGyAGcwaXClHBavErBKqjdt8PXPyim8bPtqdieTiWJ3EQSb9Tejh/+e2fOCDyX5wipK/ocv6H7QYaQ6R1MX8EoEW/b8BDtdzzh3otOAgDvWrJm6EfdI0+I8zBmamgdeabfwC+bg==;buQnAbclSFEsWdr39MJ8IQ=="

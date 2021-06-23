@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
+    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
+    publishedDateTime: 2021-06-23T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
     excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
     publishedDateTime: 2021-06-22T15:56:00Z

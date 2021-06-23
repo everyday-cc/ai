@@ -43,16 +43,7 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
-    excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the investment round and Picus Capital expanding its existing share."
-    publishedDateTime: 2021-06-23T09:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-hawk-ai-raises-10m-usd-series-led-blackf-/2021/06/23/9395748.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "9SlcnT0XX4WcLWjYz70OO7zkI2ZU0qXg+cYdWhw8LLIXM0FNvS4wjDjB5nIpMNIq0BkXN3vztTY5ikzTEVXjm4jdZEaMXFJzAMr8W7UWXuQoKKNNrxq/tpfR8Zo7b5r/6+7Ga6g0SRR/tS4lg0cUqSD0b7N8KgqivRM453hZJqhDl9Ec1Yh934Q1LJbWK75lcJCkc9TDC7xa8Xa168YaEC6Yv6js33FdBqChfmDQ+Cv1hVGNxWJauRyUfjc6E6e1VrFO+8SNtDVRdRgDOHeWBWe3epxdh1N302BOrDCIPIDoTRhyN4P6vq0XpnhvMRYVbsWCNbCS8wSuqRVp5B+KTleUJlQ9J+cH2Uy80OWsC9g=;6tO7Jq5drOxN+2V6xWuDvg=="
+secured: "4qKlV/l7mcCeow3GBlD711fM2tfWFtsLS7i5XUpEYCAuoai9ere7PTixle1X0qhffk29QJgj9l2tZDZtY9cskV1RumEWldYTEugvjbNkdR0crzkYhSA1mKPh2auNpJuyaCIkaKVFDofTywd5qdTuKvr9GLAvtSoc290fpAsz7CXAvCLbRbRcC5OyIImygTN1dLKKacZDgSsM3bjWuGGJJMDh8OEYc0q45ywF3eSNQwFOdvOjvFytSk/xbHpIHjIk/ec1tWyPByzDYuYUYveHGCoX2Yebqo4JOI3gxlg6fCA8C+cntnMMblrDyU3W/7lf3gfZoBmWV1VONz+9InNOyPLDNZUBfckCDtQmdOuIJkOhfcXupF6BAzNxQtBs1XQmxEvUKTlPRa8oyu6caXFbTuZFHY9U3oTCEYMG4HPFHSStwrNnFlS4FVx/BQLzSV7XqQxTfFa6CWl6ND9e+guuuqcbM4g2yy6DsBR3mn9u8tv/ic+zrhL5lUozZzmdbRiYA1aj9b2iL/uoh78jw6ebUQ==;1/1bKESXk1JeVvzeCn0NpQ=="
 ---
 

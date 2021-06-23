@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Nexar and Blyncsy's use dash cam footage and machine learning to improve road maintenance"
-excerpt: "Nexar, whose dash cams enable crowd-sourced vision, and Blyncsy, a movement and data intelligence company, announced a partnership to"
-publishedDateTime: 2021-06-23T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nexar-and-blyncsys-use-dash-cam-footage-and-machine-learning-to-improve-road-maintenance-301318147.html"
-webUrl: "https://www.prnewswire.com/news-releases/nexar-and-blyncsys-use-dash-cam-footage-and-machine-learning-to-improve-road-maintenance-301318147.html"
+excerpt: "Nexar, whose dash cams enable crowd-sourced vision, and Blyncsy, a movement and data intelligence company, announced a partnership to collect data on America's 4.1 million miles of public highway and provide actionable insights to the state and local governments that maintain them."
+publishedDateTime: 2021-06-23T13:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nexar-blyncsys-use-dash-cam-footage-machine-learning-/2021/06/23/9396204.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nexar-blyncsys-use-dash-cam-footage-machine-learning-/2021/06/23/9396204.htm"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "pw+d4RegPmoK0n3EzuqEhttwghtRd/yKyuSjFVxOpiAm4l7uFWjpYDs+6aQ5hrlnwFOHHYQAkOdhemGqh1KWnM6UMMhJhwd2/bCDMrLv/73UB1ZbtWMZheZpJThAoivXQ2rbUtV9q4M3/bNHAA5RN26bc0TIEPVwIGngABF6lGdUjfjuFtnGA7EzAk2BM2o6Tmcr/mAuxfqM+5ezouV1YVnnT9uKIeCJU4LRdBCfVhY/XLySJi+L3YsKOD4IyyWu7NW10LVrSn8FLRTqYEdGf4NqzEm1i5ATUYVPSHINr67LGXy8d7Qd2ZMcy+2wqQsRNzY15U/JMf+arPnO8o3QmKtFz0L3FzMrsL4eYNzlHm8=;OyKd8DFOVdX2HZWSGGYQtg=="
+secured: "rRwqJ46XQBAPJ2Okpr/ZWZl/msVNkeGnCclUwZQD3BFtqae9xJUunsBFKop6M7r22KcBNCOGO0HXsbSY9QqofvfmM9HEedNRCQUxklQmVNaHSonnGSeMmxN4Li9SPnmdUAIOprv5ox+7iztSkfMdM/x8gGgb+yHWVpp4IBjSDndp2m2Ap14MCIhLbjbj+YkbYGh+rSHGMsAZqmK9XLVnSo8Vf32WuxSuX9u13gplVa7BQPm5my4p00TP1a4xj1eXu1LlwthiLeHmtpTcNvX36Cfm2pEmMdJBtovJxMF7BPg8fznPrcIJuiSqYG7wpQEFcw+a6v18TvUFFKD7Xs8w0e1RpiTfV8ZBx2Ag9XcNmHY=;VCBusfn8o9f/JwSl783Dig=="
 ---
 

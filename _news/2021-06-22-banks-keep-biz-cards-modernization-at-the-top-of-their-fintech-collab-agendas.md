@@ -81,7 +81,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 40
+    quality: 42
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z

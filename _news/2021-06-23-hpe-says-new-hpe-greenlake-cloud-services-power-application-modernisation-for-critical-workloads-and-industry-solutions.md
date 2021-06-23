@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/cloud/hpe-says-new-hpe-greenlake-cloud-services
 webUrl: "https://itwire.com/cloud/hpe-says-new-hpe-greenlake-cloud-services-power-application-modernisation-for-critical-workloads-and-industry-solutions.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New HPE GreenLake Cloud Services Power Application Modernization for Critical Workloads and Industry Solutions"
-    excerpt: "New cloud services for healthcare, financial services, 5G, and more are available now to improve time to value, increase agility, and lower costs Customers and"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21668300/new-hpe-greenlake-cloud-services-power-application-modernization-for-critical-workloads-and-indust"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21668300"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668300"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
   - title: "New HPE GreenLake Cloud Services Power Application Modernization for Critical Workloads and Industry Solutions"
     excerpt: "Today, at HPE Discover 2021, Hewlett Packard Enterprise (NYSE: HPE) announced new vertically optimized HPE GreenLake cloud services designed to delive"
     publishedDateTime: 2021-06-22T19:00:00Z

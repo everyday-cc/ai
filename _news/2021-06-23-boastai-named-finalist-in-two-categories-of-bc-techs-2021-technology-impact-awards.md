@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-23T11:25:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
 webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "Three Areas Of Impact For AI In Fintech"

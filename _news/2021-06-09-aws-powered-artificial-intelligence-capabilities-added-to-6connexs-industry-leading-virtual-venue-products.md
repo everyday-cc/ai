@@ -1,40 +1,20 @@
 ---
 category: news
 title: "AWS-powered Artificial Intelligence Capabilities Added to 6Connex's Industry-Leading Virtual Venue Products"
-excerpt: "Connex, the leading global enterprise platform for virtual and hybrid events, today announced that it has integrated Amazon Personalize"
-publishedDateTime: 2021-06-09T14:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products-301309136.html"
-webUrl: "https://www.prnewswire.com/news-releases/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products-301309136.html"
+excerpt: "Sustainable Investing Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College See All"
+publishedDateTime: 2021-06-09T14:55:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210609ny05743/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210609ny05743/aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1511844/6C_Logo.jpg?p=facebook"
-    width: 1060
-    height: 557
-    isCached: true
-
-related:
-  - title: "OnSolve and Base Operations Partner to Provide Customers with Contextual Based, Risk Assessment Capabilities Powered by Artificial Intelligence"
-    excerpt: "OnSolve, a leading critical event management provider for enterprises, SMB organizations, and government entities, today announced a partnership with Base Operations, a risk"
-    publishedDateTime: 2021-06-09T14:24:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/onsolve-and-base-operations-partner-to-provide-customers-with-contextual-based-risk-assessment-capabilities-powered/article_d2c7d6cc-3d65-5a6b-83de-38a740ce8c79.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
-secured: "QO8YDLdoR/DrZ2l9yDQoujen0rKinPEbwBDs3tUpkCb+NrLhvqax7tdhJq5+R74h6I/y0D/pULjI4doeV/OrrvwTSje19lgz1vLzEjWgChkQHep/RhL/BymIG343rit1GISCCnB+hO72wfBDRhmKnhU7/hIg7ob4/Qbyezdl4TOosCzPxiK9RiCSnr4QQ8dDtOnZn9KaAnI0++L0aZUhdBtCh14pG26YJWmBwCLuUHg0xl7LSQnPGMuxzFIil92Xq5kbaflOTxk4pp1jvPxDlxQciDY/OJWDWyhArseRMc5XNQc/s7bEFDyl9Bmb0BcqBIqS2m4wnvyhiSMvlnsBBVL0P8oG1YcZ9G6/ETpg2MWHToC/PGv1hVivUYA4J2pzghGZIycyiwQrm/leRaVOtFZIw7REegeMJM8LgtV/0kDhUq6PfbQ+NdAcpeElTIAIe688FGoyxrJhj2aasEKyiFVFE3V1/cFP4zJP+hBrIP18nnCB3fJbj9s5EGFgoWHDp5KVCuOysWM+3/POXCdpSA==;qRoLiM1tjP6eo9pc5wPOiQ=="
+secured: "YOqMm85EqgAL1/tweilWNDRWEkv5O7ArXiMtnlDTkbEO6ktO/rKQnR9mKjLeI8pHku6wKSea7jHm/FypwvtVYBGJiFL6YEe6N6ZQ0sQid0T3MRZoi9jUeDJDstQorzSu2bvNjPpiW3UWynp0LJ1LO8HxFbd3hjg8h0VSorzDuK6tgmm/OGws88JwIhDtWyt7H/2cmbqiY/C/jMcDJ5zOfF0EhSp03JYvDQtV3byMmRejlYRrUnUtj0IJRbW8ypoUZBkdsljecZaAvn5LerIQVH0wmwsMylghWa39tKusTT7ilptZlCm/lsBtj2HBi34QrOsS+MogjpYcLPeZREZxzxSBi19xR4iN8UjhZZpal7c=;d5lcdJSmDXIBKOamobyW+A=="
 ---
 

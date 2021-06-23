@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-microscopy-deep-viral-infections.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/freshwaterla.jpg"
         width: 1920
         height: 1271
+        isCached: true
+  - title: "Machine learning aids earthquake risk prediction"
+    excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
+    publishedDateTime: 2021-06-23T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uota-mla062321.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/268742_web.jpg"
+        width: 1440
+        height: 970
         isCached: true
   - title: "New machine learning methods could improve environmental predictions"
     excerpt: "Machine learning algorithms do a lot for us every day—send unwanted email to our spam folder, warn us if our car is about to back into something, and give us recommendations on what TV show to watch next."

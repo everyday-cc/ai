@@ -92,6 +92,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla unveils supercomputer used to train self-driving AI – report"
+    excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
+    publishedDateTime: 2021-06-23T14:01:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
     excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
     publishedDateTime: 2021-06-23T11:16:00Z
@@ -116,6 +130,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "+PtibqYbdBU2w8kXdURaPoT2aneu+d6qHMs4Xyz7cazDAmVqWHBDYy9xyR0mbCUjiyXINUARjpNxFX7lB+TGreX5IgM7XGMekr5QwjbgwIRyMCxfkSI6N3bRRavGtrEvTqVDUo0SomCAgIz9AYUlQGfnuKpvq3HxZVzr8248PjQLuBls/WRFRLVXslJjt6VZmvLs536rckJ/0IZ76U8LY+is8kue9bahnW9s3GAo+CwReyXFaf6socJtFvswuVQzUH2me6NLFTeHb592EUkotpAOpQFWbWQeKQ4IF4T2Vate3O9gm7Sr+Whu+l+jDiXEubrB9GbK40m8Z7Msi/DQoGecl77ftdZs5KEjZZqV4E0=;7Dd94miD9sjS4XNfjumoDA=="
+secured: "I/6RPc+bwW0YDJRgBQf0wt20ZhnmUr/TG2DUQ5KOPy54aHuoYVI9SBou+XtedU6SFDz46oJ1FE5LB10rMMAseOmQU8MT9nMvpRlHzsBhuGiD/wvXUAC4DLfbMg4GfDljI4xFQMQyr8ZJB4T4AviapOHJrWlJghHVFhsRMK/hPkl2KNTnDgiSK31T6LVsS/jGnV8MeG8rO1e94MAOd5T9GSuE9g7Ze68VFidLclLuPxthEjW1yhaV26KRc4CgKj5ZPOys2gomQxRmZ2vTKpmStllwRN1g9xyuSJtvbhdyFnCMLqHsGuyVcEeQo838Lig2iy76bwhQZojzdtflAGSj7rHBDz91/GJOAA87MjKFUoeotHiWAlYvOnAkpFRdOGOHrz+yaLLUV6zTl8ALTHxOi2eTOGTOLnCBGRNJgBYD1JltoWpJdrThgIRi9ZiR6+yvrfpEyMO24ZH+SrfKkwdpbbIQxvOca4v0ymlLOOQ4aWuR4F+415fOB8ksEIeEufAF9oXjAgClIIVCZKLiJaDvVA==;Aq6gbpp6TmZBM3prQUg4tw=="
 ---
 

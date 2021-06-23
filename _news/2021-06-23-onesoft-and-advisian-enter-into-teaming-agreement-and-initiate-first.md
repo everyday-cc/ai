@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "OneSoft and Advisian Enter Into Teaming Agreement and Initiate First CIM Project with Australian Pipeline Company"
+    excerpt: "EDMONTON, AB and BRISBANE, AUSTRALIA / ACCESSWIRE / June 23, 2021 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft“) and Advisian, a Worley global consulting business (“Advisian“), have entered into a Teaming Agreement (“Agreement“) to conduct collaborative pipeline integrity projects using the Cognitive Integrity Management (“CIM“) software-as-a-service (“SaaS“) solution developed by OneSoft’s subsidiary,"
+    publishedDateTime: 2021-06-23T11:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/onesoft-and-advisian-enter-into-teaming-agreement-and-initiate-first-cim-project-with-australian-pipeline-company"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Volkswagen-Photo-AFP-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "nEV7kobsp9EEJ0ir3luuYECXzToo5omkFd+f4ocQ+FvmjHqfPzK8fIMNbeVtRe8RI0nvrFP1G3ax3jQSAgsMFExolrpjbwnscVpbpQ1SeIFVB339EmjvkUrp7iNZOL3+Ox4zfILpEiqMDMJli15WUz/HVmO313SswBifBBC+QhC5yzL0w9BQZvmjf0EzisVLIzi5W679RlE5L52dz7NAVFYKm2uYHzucpwvXCPWhV9ySbwIKecYoBdNiRwJFSKUUYA1CocQ20wkBs1CzU8xF0Pswy4WizZrnEDW4DczJT75ipIzSNbkYvL/RPldomz1eBLyHKpeQlnVd2dK1vf6CBvMxIFdWafTeSAz5UoTIPqM=;7W7CAuTL6KgSSctww1BNJQ=="
 ---
 

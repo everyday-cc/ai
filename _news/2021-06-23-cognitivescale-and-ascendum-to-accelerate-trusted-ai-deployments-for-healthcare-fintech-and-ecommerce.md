@@ -96,7 +96,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 40
+    quality: 42
   - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
     excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
     publishedDateTime: 2021-06-21T13:04:00Z
@@ -144,6 +144,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "ZNw1yqAcZMD943bjuiUyiRia3Jwld/zNG00j4YgCAPiaTNiaJE2frcZzMIgwWw2p93kDMS0USkEbQTAMWk8VV/32+YxJJMHObNNjTh4NupYRGtpHKjXcBFUk1xDoaxq9dMv7+yTwTAHJeBw1I/gdtN5gVHIYvr/fITPxLxj+lwthCgmwqo0FjqDknSCAZbJY3xFW4drBnaFExDBn/foFDW3CxdyzKN0ljIZ9ZbUF3ShOtHxqYh6nwj5u0V9L+eFhSUVffjOz4ogamriPpOq9EL7l3EhAqSojdQ2KTBNMoUGjx6s8bE2JfV42B374EIXfxmLAos6EoQ7ExtqFPCHVBYLOC8OGs6p8Vg3ImYZI1oc=;7ch/rDeJ+wcaXj/AIqHz/w=="
+secured: "NsrawqEYVhYmkRdDfEHCbPAPvRzW27YHRHg7B7ilg2t1BuQ6ZglAOhEdvBUpjsLlX6eAZpqViaSRTH32g4BWdEcfnCQSPvNDmX74odOtSLFEObDLs7Jae00HuhfcshC6L4CYrBAai4lsHqoovDq1fYwl1lyK2GUBsHgcT/Ng0O80hW498XCa1Mwb/s3opHghZLmC4YeORIALdxoSAYEeAY1koWpCdWHLH0sQvaPeY2cnZyp6qr/IkUu/pw+fLfJ32VoPoOO1ayXSUM/1mxGmM4IETyxSln4F41r3P4kxXifK8RvxWan1LgLAxyaej8cGz7PygfbSJsTIBC+O5v4IhBGjrF1aD/mY9feuxjlXAfqpmAr0Akk2tOnbSVK07zBsSwWVEpQ+dHJs48qoCECUMIkYkJWaHIoTGkvD7FmQnAAd8Lt58kP/uzEu/emMtGBV5jwpuxpHEtm9Yn57LA2bHYKepkEIC7GEaNRYKfSEu37Gzz1ssaO0pH9Oz4am7oEkWdskO0K0rd5jA9tdjw4bqA==;hVY9YiwlK/rUlemCncQdCg=="
 ---
 

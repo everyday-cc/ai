@@ -20,19 +20,19 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Prime Day PC Parts Deals (2021): Early CPU, GPU, Motherboard, SSD & More Sales Reported by Retail Fuse"
-    excerpt: "Save on PC parts, hardware & components deals at the Prime Day 2021 sale, together with all the latest early RAM, hard drive, NZXT coolers & cases & more savingsBOSTON--(BUSINESS WIRE)--Find all the top early PC parts deals for Amazon Prime Day 2021,"
-    publishedDateTime: 2021-06-18T22:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=487533"
+  - title: "Graphics Card (GPU) Prime Day Deals 2021: NVIDIA GTX & RTX Series Video Card & More Deals Rated by Consumer Walk"
+    excerpt: "A list of all the best graphics card (GPU) deals for Amazon Prime Day, featuring offers on NVIDIA RTX & GTX series GPU & AMD RX GPUsBOSTON--(BUSINESS WIRE)--Prime Day experts at Consumer Walk have reviewed the best graphics card (GPU) deals for Prime Day,"
+    publishedDateTime: 2021-06-21T07:50:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=488045"
     type: article
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 55
+    quality: 18
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series Video Card & More Savings Compared by Save Bubble"
     excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series."

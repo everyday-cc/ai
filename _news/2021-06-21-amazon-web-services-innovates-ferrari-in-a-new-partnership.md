@@ -52,20 +52,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Ferrari Races To Cloud With AWS Pick"
-    excerpt: "The carmaker and tech giant announce an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider. Amazon Web Services’ machine learning,"
-    publishedDateTime: 2021-06-18T22:12:00Z
-    webUrl: "https://www.crn.com/news/cloud/ferrari-races-to-cloud-with-aws-pick"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026a-128d5f29ab98-4f0786cb1142-1000/ferrari-f1-team.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Ferrari road cars and F1 team banks on AWS for innovative solutions"
     excerpt: "As Official Cloud Provider, AWS will provide machine learning, analytics, and compute capabilities to accelerate innovation across the organisation"
     publishedDateTime: 2021-06-19T12:28:00Z
@@ -77,20 +63,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 39
-  - title: "Ferrari selects AWS as its official cloud service provider"
-    excerpt: "Amazon Web Services AWS a subsidiary of Amazoncom announced Friday that it has entered into an agreement with the Ferrar"
-    publishedDateTime: 2021-06-18T21:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/269953298/ferrari-selects-aws-as-its-official-cloud-service-provider"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Ferrari races to cloud with AWS pick"
     excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
     publishedDateTime: 2021-06-20T19:52:00Z
