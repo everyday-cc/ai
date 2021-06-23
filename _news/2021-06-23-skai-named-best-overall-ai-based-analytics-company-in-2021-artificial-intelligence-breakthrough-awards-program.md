@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Skai Named \"Best Overall AI-based Analytics Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been"
+excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been selected as the winner"
 publishedDateTime: 2021-06-23T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program-301318225.html"
-webUrl: "https://www.prnewswire.com/news-releases/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program-301318225.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program/article_f691f383-cad2-54ca-a1cf-7fa3b2bc01ba.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program/article_f691f383-cad2-54ca-a1cf-7fa3b2bc01ba.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1527962/Skai_Logo.jpg?p=facebook"
-    width: 1293
-    height: 678
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/17/b174e2eb-fcfe-5a64-8ee1-baaaa2f05397/60bf6a56cc164.image.jpg?resize=1200%2C542"
+    width: 1200
+    height: 542
     isCached: true
 
 related:
@@ -182,6 +182,6 @@ related:
       domain: businesswireindia.com
     quality: 0
 
-secured: "yG4EceMoCmCw9AZmo3xPiaiSzlrcgG3zUnNcrGTZvpK5ehvYqnUbD92DwYhGFiuwZxqVYwpJXF0tA80anqA2+GEvDyZBIIgdptgzH5OulhQykE9MM48XKqA8vM2399WuxCsDty8+ZigiI5wbvAg9x4OHeLLI5LZ5FM9d19XjygOVRLwLeCnbCb1orhc63HSq5E2wtfJcXLi7KxmGgH64KgqlC3xymLpig1DVU/QQ6wCmIxRAfd+SUNxrGoQS0UrsqXv8fLW8Suk/cj/E0iqvZYDp9rlKuM470kFbJH4iY5SPI35+OdLJfgjvzigMmo/Ng77V1Qo2JTtLVMED62pbLyd20fX1vbmmI+Ox+tq4pNgt8gyqBbKNEqHLH/3oCjf6+R3mhL3dboKqCQ/PpqjTzrKclMWmi/yPHT2YEpJzxu68gATpN1YZw2tF62PRKfBfs1Dehb9J6ds4bqaI9X4aEGb+8f0uGu2QWt2wkaFNpZe3NpXcblzW/OCvwsIfHqPnitgppgpOR64UNJS7VmINww==;w9S9ne9z4rKTEf0A+dlbFQ=="
+secured: "Dd6nCJjkpVxa84LKTF5XuJzopVFSM9T0uZEgCSr7HYgWKGLSH62NWaTGPlCpdIHZlt5c+jP/g36hGI2tjArrN5UGIOfO2g8xbC5ZErK1KshSFeTWtX8Aq5FQFoSCNiIVqrkJ2FOIYv3UN3N1Q1lEVtBWyZMoxFPyzokbYk1OVDXbxiQQQH4giXcWVc9VvoSRc/uaEM9htTcR0xwb1TS8BZdUrDv6+9K9aYUcmOQvqALQgUWhXtVpJ7uQw7S8YmnnLZyjpWkDn/gKUL6/x7PGdc4cN+hb80s5GxR1NJlmBPM4/M1QV/CTAetgRQZo1U5QqroJHEaSalfmJGJSY5kD6H8LAgiDCszZu3NCTavDnWU=;QeIqdbPKbv4VThKgkenqnQ=="
 ---
 

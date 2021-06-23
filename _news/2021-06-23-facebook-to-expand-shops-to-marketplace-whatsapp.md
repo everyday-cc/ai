@@ -43,6 +43,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Perfect Corp. Integrates With Facebook For AR Beauty-Try Ons"
+    excerpt: "Perfect Corp. has integrated with Facebook for the growth of augmented reality (AR) digital beauty try-on and shopping experiences."
+    publishedDateTime: 2021-06-23T14:59:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/beauty-retail-social-commerce-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Perfect Corp. Adds Facebook Integration to Expand AR-Powered Social Commerce"
     excerpt: "Perfect Corp ., the leading artificial intelligence (AI) and augmented reality (AR) beauty tech solutions provider, is pleased to announce its integration with Facebook for the expansion of AR virtual beauty try-on and shopping experiences across Instagram and Facebook."
     publishedDateTime: 2021-06-22T20:41:00Z

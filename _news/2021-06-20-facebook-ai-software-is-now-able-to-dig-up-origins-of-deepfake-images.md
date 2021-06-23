@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facebook advances shopping features through AI"
-    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
-    publishedDateTime: 2021-06-23T08:23:00Z
-    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 39
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
-        width: 803
-        height: 419
         isCached: true
   - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
     excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."

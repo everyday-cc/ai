@@ -8,9 +8,9 @@ webUrl: "https://syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-fram
 ampWebUrl: "https://syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-47/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-47/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: syncedreview
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
@@ -26,6 +27,22 @@ images:
     height: 320
     isCached: true
 
-secured: "muQBG+8+XO96Y2CuJKtMlkVEsco53xLT//wq04MHOLw6TEndtOlG7QObi3Qz0pckRov0uytavzOV1OK4AMY4xyUiAJDhVUXoRiv8mlQ98ptyywZns5Gz0AXry1QdzR2L4D6kmkCvRLi6LzEyqPnnO04VdJ4sdwwjjpRyqDq7JPDoSDuoB8Byp2aF5/ZWObXjvcSKkMEe5Io42RKvyTpEaa9rOXC4ku68lJHTv3Y38YnHKAY63a/V2nYfAeARUMSYbOteWptKzGAeWB9BSEijIRrEMD7dlCyVNpwQz4TbUgAF5EGENUxcuyvQ0OUVCJT39paim4hpRbgDLGOyOgH3LwqCoy7SE6axwh33V1hhXVs=;mAu2YPJcB8cc7MMskhTMeQ=="
+related:
+  - title: "Facebook advances shopping features through AI"
+    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
+    publishedDateTime: 2021-06-23T08:23:00Z
+    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 39
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
+        width: 803
+        height: 419
+        isCached: true
+
+secured: "DNE1Xi/xqxmGbUmFz1hx8MNvSvYN0EZoEAsbxfaIRXrMeQjy/7yCjXTO7iv2vXMF0KhGOxspI1U7Q579T60N00DBuEtaH4AHFEhSAROl0hjzHQxaAAcEQJsBM1ZcQubb9OrijeAkaQRq8boDKYRo6Kv31tLF3qQ/Qqxgro3W+ROsK6LS4XbogZt/6uN6xXBnZbb+FzXT4c84Ywz8RyAeBaGIM+BmnDsjcDrMqK7QYcqJzpzIoBWsM2fkZgwvXRYGDNgVOQ9tXxU6czdGoV29kIkEqkTKTTrihpGCVttmRVseOkU9Ar3a6H2OSj2gy8qe1WJfl0//uUhRhLaErLyq8dUTdrKJNkW21shuJm89O/qK1jtJVChCYzIp9xJK23GamY6VvFYkXBzA3mQTA3+PLDdopH+p1U5mknRQdjov6wLLh8pRrLmKzDta0ZBbJf2ji2Z4qljSmDXu/GA/HuLfx2uR3xDbtzWDaJon72Ty0QghCf/ng5kHafSC1iekeiSNsPtBbEeytGY5dlRwtatXxQ==;NJDCh2dYEceDmUOxP4J6mQ=="
 ---
 

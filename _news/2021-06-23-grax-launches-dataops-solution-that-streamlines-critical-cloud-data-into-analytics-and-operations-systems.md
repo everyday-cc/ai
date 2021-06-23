@@ -142,18 +142,18 @@ related:
       domain: itweb.co.za
     quality: 39
   - title: "Skai Named \"Best Overall AI-based Analytics Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been"
+    excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been selected as the winner"
     publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program-301318225.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program/article_f691f383-cad2-54ca-a1cf-7fa3b2bc01ba.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/1527962/Skai_Logo.jpg?p=facebook"
-        width: 1293
-        height: 678
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/17/b174e2eb-fcfe-5a64-8ee1-baaaa2f05397/60bf6a56cc164.image.jpg?resize=1200%2C542"
+        width: 1200
+        height: 542
         isCached: true
   - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
     excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"

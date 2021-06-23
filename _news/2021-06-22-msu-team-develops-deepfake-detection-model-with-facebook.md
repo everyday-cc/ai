@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facebook advances shopping features through AI"
-    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
-    publishedDateTime: 2021-06-23T08:23:00Z
-    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 39
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
-        width: 803
-        height: 419
-        isCached: true
   - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
     excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."
     publishedDateTime: 2021-06-22T14:59:00Z

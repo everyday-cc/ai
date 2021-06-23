@@ -2,19 +2,21 @@
 category: news
 title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
 excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-publishedDateTime: 2021-06-23T11:17:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
-webUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
+publishedDateTime: 2021-06-23T10:17:00Z
+originalUrl: "https://www.reuters.com/article/innovationNews/idUSKCN2DZ18M"
+webUrl: "https://www.reuters.com/article/innovationNews/idUSKCN2DZ18M"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -62,6 +64,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Embark Joins Convoy Of Self-Driving Truckers Going Public With $5.2B Deal"
+    excerpt: "Embark Trucks, a self-driving vehicle company, is set to go public in a deal valued at about $5.2 billion. The San Francisco-based startup is merging with a special-purpose acquisition company (SPAC), Northern Genesis Acquisition Corp., a press release said."
+    publishedDateTime: 2021-06-23T16:27:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 43
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/autonomous-trucks-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
     excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T11:29:00Z
@@ -85,6 +103,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Embark Self-Driving Truck Company to Go Public"
+    excerpt: "Embark Trucks, America’s longest-running self-driving truck program, plans to go public through a merger with Northern Genesis Acquisition Corp. II."
+    publishedDateTime: 2021-06-23T17:14:00Z
+    webUrl: "https://www.forconstructionpros.com/equipment-management/fleet-news/news/21521362/embark-embark-selfdriving-truck-company-to-go-public"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 24
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Embark_trucks.60d3693f313df.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Self-driving car tech firm Quanergy in China-backed SPAC deal to go public"
     excerpt: "REUTERS: Quanergy Systems Inc, a supplier of self-driving car technology, said on Tuesday it will go public through a merger with Chinese"
     publishedDateTime: 2021-06-23T05:50:00Z
@@ -98,6 +130,20 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
         width: 991
         height: 557
+        isCached: true
+  - title: "Self-Driving Truck Startup Embark to Launch IPO in a $5.2 Billion SPAC Deal"
+    excerpt: "San Francisco-based autonomous truck startup Embark Trucks Inc. plans to launch an IPO this year in a merger with special purpose acquisition company (SPAC) Northern Genesis Acquisition Corp. II (Northern Genesis 2),"
+    publishedDateTime: 2021-06-23T17:15:00Z
+    webUrl: "https://www.futurecar.com/4700/Self-Driving-Truck-Startup-Embark-to-Launch-IPO-in-a-$52-Billion-SPAC-Deal"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 22
+    images:
+      - url: "https://img.futurecar.com/202106/23/l_60d3707aa79a4.jpeg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Self-driving truck tech firm Embark to go public with $614 million SPAC deal"
     excerpt: "Embark Trucks Inc. said on Wednesday it will merge with a blank-check firm, in a deal that will give the self-driving truck technology developer a market capitalization of $5.2 billion. The deal with Northern Genesis Acquisition Corp."
@@ -128,6 +174,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FskAuIRgNMzT0wguB3fYLQ+59WlG0YRazTkYrGDzggvQ68ntvMi2cWu3NNqSwNiWtvmk4wMM6jYvQItktgTf8wgcdR9mtwWlC2Yka9aIb55HsU0yOFSG8ljXWjnwTDcuBtGs/WmiqygkVB6SBnj2JYJWpp7Okhs52HFD78amhm3LD3GnR7ySBOEVBPBuMbmBziS0j4jd5jLbWXTXnrZ9Ndyw4KzntLdzuiLvdl2pjlt7vMh+pciyeMZ7t1nVG2zQ+X/I6UUMqmQcX1WoJ/+dQiYpy7nb1Byxfe+sxtcL8/KwTyM3XH9cXnAOGknb+SjmDTArycClYlLfIxrkJ3e805FsHj8A1ni+UfoC76TFMV9S2JLtho3CbQ/7NtelMgW/iOSZ8D+EDpS4wbKn472KydHJrXJMvHRLxgKjhtLm2glwWwsYlfTZtZvlOLGruaO3P9TS2L/mBiXkRazu9yeiugR6I8NRAP7O2nxQ4RUBgjuW5QN2VzATzVVirZfXVSBjtEKXXguE/SJssQopEO6+IQ==;WSY3JWh6+J/6qv+mU9zHQg=="
+secured: "yeToviEjwDSs8ppzsKWQS4Wi3XnhBEFpxXyVylM7Htpf/KgSWsXEEiIP3uW4L8YakmZyqHLCfmisDeqE4ZErmLZCPctn6BWFBnE2l3nNZ4AGu39lZJowfTE3uEvNIqEdTBGUq4h+tzjZ21QyoxK5MLWtACv3s7XyHtTgPaENmhzMz+dXKy1pqI66ZVY/aYx9TQ1bTVafXUF38SwwdfWFOYt29TYaOE53FKB2lUDHMKKCsDk3iORPAOBcpNtSN7XaoaPcktFqKllJVx+kJStX+Uqw6AFy8zPN20vc8SFuRQt6DRSicd+VIPhTpj05rH/JFDGsz6FNYbK5QtV+UQ2UKmNx/PGzelEaUKUvClUp7vs=;KCQfE+Xq2ez7LQVlQM6qjw=="
 ---
 

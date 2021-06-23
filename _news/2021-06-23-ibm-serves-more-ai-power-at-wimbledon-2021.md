@@ -25,14 +25,14 @@ related:
   - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
     excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
     publishedDateTime: 2021-06-23T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547276"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 41
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg "
+      - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
         width: 400
         height: 292
         isCached: true

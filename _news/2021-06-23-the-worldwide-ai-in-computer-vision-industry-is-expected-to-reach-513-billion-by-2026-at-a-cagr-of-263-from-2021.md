@@ -34,6 +34,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
+    excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
+    publishedDateTime: 2021-06-21T22:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+        width: 400
+        height: 226
+        isCached: true
   - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
     excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
     publishedDateTime: 2021-06-21T12:47:00Z
@@ -67,6 +83,6 @@ related:
       domain: reseller.co.nz
     quality: 8
 
-secured: "uwuGlpXhHhx0nCFgjmU0CdShxdinEJDnHFanAVTA2pB1QPnhwNXqxXdvyANpzYhFX2/08kSI0ohhaE39RjOwS1hlmufoQL+gZhyiJzA7KwYyosrrhEs2tvRA1qXvR3J96Fl7EsAoIn4HgCSGla+iEjHt3Wx6Knly4nIbdsAuL4Vlc1qcRcngIcMiCkEDdzJRnWnHdykvPzaShRvnE4JYfTMTpxl4SqkFQwsFwWVpdx4DLYFI4aMVXc2eiHhhIqL/buWLBYyLVdl8wkR7aqAYoaYr//GTlBXNBLEgG2zmyBf/V9EQcQPPQ4FMyL94mOimdNZhCtQjF3xaTLIHUsYeLEBOT75HphURCkiBju6y1FI=;b3OTY97dXw/9CXkTU9EL5Q=="
+secured: "LI1EwTxXQ6QYmce9VWMD693KxMwXkkvv/4CvMdUMXFBPzlhJG5tIOfYfXtwyD8wZMsBk/W6hPeAJ81UbHAJpRjBsjCHESwRYplciqpj9X8LMMS6gePD+V0i+Vwc2/5pjtCzaO9R9YIlVk9j1Ay2MTA7gWcLiRrByg4gaRsqPuUl8m4ty2YUUt9/qCeczbbhHDOiBpP/k8SLjBSPo/OlW41TVd1d4m4pZ4dsxIItj1xiKxzcFegNmmeQ1b7EZoIidC4mR0+8qXOrBqPkUYBhcFA9U044XN05aoZhN93j9yi0/e/MHANAxMalsxaKdROWUWuKBVZLF/C5MeNU4YCKfg7iDHGFW0Kx1fwXihu60IidArCYO0z1LEG/LVD3wCqWVvprDgtJtGjpaNUXIrFd1GqLM+SH781mfIQ4DTlBZQoIPNNHEcks2unutOVyNmYVLc62R91vFDyAx4F2CiZ6HWTF9kHH0BGI5bpDfqYq2iFukIap6vUOBN9FsgyqXMKcMs/6X++D5uyFbl8bMUqsaYA==;mhsnjTLNCy9dmEuirSnUcw=="
 ---
 

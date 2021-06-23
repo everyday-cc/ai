@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-14-facebook-teaches-machines-what-to-forget-to-improve-ai.md",
+      "title": "Facebook teaches machines what to forget to improve AI",
+      "excerpt": "Facebook has been relying more heavily on AI. Subscribe to CNET Now for the day's most interesting reviews, news stories and videos. Facebook's research scientists said in a blog post that it created a new method known as Expire-Span that teaches AI how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-teaches-machines-what-to-forget-to-improve-ai/",
+      "originalUrl": "https://www.cnet.com/news/facebook-teaches-machines-what-to-forget-to-improve-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Ioh02XXlH6jPxgRPeFZ837bive0=/1200x630/2019/05/16/d158cb95-047a-4d91-8885-c16d9bcb8028/facebook-logo-fingerprints-magnifying-glass.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-teaches-machines-what-to-forget-to-improve-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-machines-what-to-forget-to-improve-ai/",
+      "publishedDateTime": "2021-05-14T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-facebook-has-trained-an-ai-to-treat-irrelevant-data-like-spoiled-milk.md",
       "title": "Facebook has trained an AI to treat irrelevant data like spoiled milk",
       "excerpt": "Facebook researchers hope to help future ... Though still in the early stages of research, “As a next step in our research toward more humanlike AI systems, we're studying how to incorporate ...",

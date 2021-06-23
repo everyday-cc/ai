@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Genesys Launches New Capabilities to Enable Rapid Innovation for AI-Driven Customer Experiences"
-    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has announced new tools that enable businesses to easily build and orchestrate their own bot experiences, integrate third party messaging applications,"
-    publishedDateTime: 2021-06-23T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-launches-new-capabilities-to-enable-rapid-innovation-for-ai-driven-customer-experiences-1030546527"
+  - title: "EcoEnergy Insights Wins 2021 Artificial Intelligence Breakthrough Award for the CORTIXtm platform"
+    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that EcoEnergy Insights,"
+    publishedDateTime: 2021-06-23T12:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-19870751.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 26
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "RBb0UUA2L/H7ABLcfyVzCXLNwOzw+e/hs9fJbptUCiPwzpZClKDYFKxgESkRY7I39OZX+lRMWloqYIpmGbjf1aNXQNHKFIywH+AnTzwEfzo4NqKgM1Kuc78006I9lR956h0o8BL8su9zUwWHtZfmwUadBjEa4UB0imenxsXlJdieEj2Mj+tI22N0egexnn9J1NxgKWib91AyNs3lAeRSz3yT9TK6tq6qcae92NQFisQj4bcdO1wY/zI9j7e5BiGNejzowBvriKItmIV3RSnuI16Zx5dDY7NsBUbvKP8GQ5aAvgRL6HNNJ+e+wm1G3mtU7HhWEIq0ivrOfVhgb7MxdPcH2B8EeDWaq7Cn5PlrfXA=;0BvXJS7UulUiCHI1smIpAA=="
 ---

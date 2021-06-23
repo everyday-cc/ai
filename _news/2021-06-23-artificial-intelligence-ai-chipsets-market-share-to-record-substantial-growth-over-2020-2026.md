@@ -3,21 +3,20 @@ category: news
 title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
 excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
 publishedDateTime: 2021-06-23T11:58:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
-webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
+originalUrl: "https://www.reseller.co.nz/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
+webUrl: "https://www.reseller.co.nz/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
 type: article
-quality: 39
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
-  - AI
-  - AI Hardware
   - AI in Robotics
+  - AI
 
 related:
   - title: "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026"
@@ -162,6 +161,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "lvh/fzM0KcXDXdjB/RpanWRm6O2DpSPENNIlsxUBp5gpMrEDletcZVVC4+Qy1+0hD82guxK8Z93oeKRv574tLsB/DUP9P858bqOYd+ZM8PcV+pdrt/zGDTNIcnb9mylb4hxfkAFmCJ0WcnhhA+fytyc5Ga2mQt+/5H3tBjdUpTFflwOdcJO5iSmEP9IBxcVj4EXZ8wBsQ7VMT8asU2b54uuHOa0Kb+MPg+Lxu69qToAoxe+KPLdfzk1yjlxcVLOTGPYj7ZD1pKm74CEyESNnAotNX2HaYD4eBN8dBCaR5rh7mX1NTEI9mbADvA5faGetQjsdNQn30JbXJCu/klG4Zv9R0L2gKH/2Lj0RgD8Pp8Q=;HW1bZTS/5gxfxN6yfM/UZg=="
+secured: "tTZbdNYpluNdRYQIb0qAC2tTjSyiOAKeu0AJNKcUIKlxi2FYEGOFXPA1Wd5zKMfYeO9aQieWV/VeEk5FLzdBVXzE2BczQiJP6Y0tVBUGWZxvJl1HFeBEiM0zUQPC57/JcQxSmf2NlyPP6D3jnBB24ZaBmLeuwvfm7AUfYlAcRqQsxjDHuDcQ+dETH3v06ol1/7zuFx9AHYOMM5DripxGnCfvGtQUAFu6lciXk7eFk93CGdldmjQLk92MuK9GGjcaw7jjxCuRfRGb7QORoY5ueiZ2aOJehKQOowZCrDCVE6sWPYWnDVpSU+dAz+JSt4lPQQztMkLMMp2lbuogh7W7F2EbI/AchdoNRF6lP359sR0=;bBaBxzXTYmK+QQGvEMutSQ=="
 ---
 

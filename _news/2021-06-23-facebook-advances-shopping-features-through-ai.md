@@ -25,79 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI software is now able to dig up origins of deepfake images"
-    excerpt: "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from."
-    publishedDateTime: 2021-06-20T07:00:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
+  - title: "Facebook AI & Mila Propose ALMA: Anytime Learning at Macroscale"
+    excerpt: "The English poet Alexander Pope famously wrote, \"a little learning is a dangerous thing,\" a pithy reminder that humans’ initial understanding of things tends to be incomplete, and additional learning is required before it’s possible to make informed decisions."
+    publishedDateTime: 2021-06-23T15:20:00Z
+    webUrl: "https://syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-47/"
+    ampWebUrl: "https://syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-47/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-47/amp/"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 59
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 61
     images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "Facebook researchers develop new method for detecting deepfakes"
-    excerpt: "Facebook announced a new method of detecting and attributing deepfakes that relies on reverse-engineering from a single AI-generated image."
-    publishedDateTime: 2021-06-21T18:59:00Z
-    webUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for-detecting-deepfakes/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/06/201128738_125596109600498_3035022110971320247_n.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "MSU team develops deepfake detection model with Facebook"
-    excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"
-    publishedDateTime: 2021-06-21T17:12:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/michigan/2021/06/21/msu-team-develops-deepfake-detection-model-facebook/7770403002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7770403002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7770403002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/6099c700-bedc-4709-8348-6abc782687a5-test.jpg?auto=webp&crop=208,117,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook AI Reverse Engineers Deepfake Attacks"
-    excerpt: "Facebook’s initiative, led by MSUs Vishal Asnani, attempts to solve the deepfake problem using reverse engineering"
-    publishedDateTime: 2021-06-21T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-reverse-engineers-deepfake-attacks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
-    excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."
-    publishedDateTime: 2021-06-22T14:59:00Z
-    webUrl: "https://wonderfulengineering.com/facebook-says-it-can-now-detect-and-track-down-deepfakes/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 24
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/06/deep-fake-img-1.jpeg"
-        width: 1920
-        height: 1280
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
 
 secured: "14p0GjDdOi9mVy/N9NLjet8s1rlYADml7JQb6ae1cjm1nZX2Gh1jei+BBtc7+J7WKHDNrCgpNyTLlL8weskNXtkCGErQ9Lg4v9MHVz5dNCbP3QT47+Pkxva8ijAXVpav3Hs3D80k6RkWNHi/HAyY/9ulV9n75+q7CdOEZBg3PoRtOGAZW+kGqL6INree4pW245tIcDtMPxEcp2e0QWb5XqrGkq8xljevWXDb68gl0CH6XaLOX43A+GZJ8RB5ijqNjE52lSgBWCEseccJzZOC6tgLgOqY7Ui4Q4IASktpv16vSxXAe/gtUuyY/MacxUoH5esCgFZ0WHBdn9V35YN5jF4M3DnPb5HskWV0h18Cb0Cug68KWWWZBYstzy+WQc1SEN/H6U5kEPfrXTsK6mD9HS74nKxXdIGySrta8lT3mIlahpdTKrfQIBWQthzWNCwQnRrrkUj2HOXjvo4tX3FK2CCjCW5MftC5dQW8N5550CTrDZnrtiKBkmc/COK9ssNKmQ6NpLqCPaiVEDudEQiyGw==;lDYnBWuCPkNDvNuDUsy6wQ=="

@@ -2,22 +2,22 @@
 category: news
 title: "NXTsoft and Upstart Partner to Streamline Delivery of AI-Based Lending Platform to Banks and Credit Unions"
 excerpt: "NXTsoft (nxtsoft.com), the market leader in secure, comprehensive and complete API connectivity, and Upstart (NASDAQ: UPST), a leading AI lending platform provider, today announced a partnership that will enable Upstart to more efficiently implement its all-digital AI lending platform to any U."
-publishedDateTime: 2021-06-23T13:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210623005369/nxtsoft-and-upstart-partner-to-streamline-delivery-of-ai-based-lending-platform-to-banks-and-credit-unions"
-webUrl: "https://www.morningstar.com/news/business-wire/20210623005369/nxtsoft-and-upstart-partner-to-streamline-delivery-of-ai-based-lending-platform-to-banks-and-credit-unions"
+publishedDateTime: 2021-06-23T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nxtsoft-upstart-partner-streamline-delivery-ai-based-lending-/2021/06/23/9396222.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nxtsoft-upstart-partner-streamline-delivery-ai-based-lending-/2021/06/23/9396222.htm"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "IkR6+N6nm64L1pKAxyJRFB/h1XA3mnKRCoJUJzlQAT8r3GMDnX/6pYy0PgB/ELLUnq4Zf4MFgldT/0ZYA4bKFAATaKrBC8s8RN6Z6c3JoJ1BD2UJJCndBgLnvynfApsU86cAq3YQ6GhHArGUNR2L4dBy2vI75u0bVt3wsRdSFuDUFrVfgLMDLze4QZ/AD5oCPwxqMTRTDHS0Ktp4VPjrvh2pvBVBQBwSZbqkWCblfyNXzVRIZgpudfZBnv8kAN8Kn2oM8Z9SdDxyglsi8k2yFiG2p/UwU4qknwtk55Vv0WtRE63TOx/+NdLhDRuvrEvRwaRLQaK1Ly/htDyW8AvkQnLr/ddfweK41OduAQw1IZs=;EfWG5OK5Wbg99Gj3IvJ7Lg=="
+secured: "eCJjG0ytIJqGEpCSlTsfcMX1S2Xaob81SbdaV7oA5l5hkBm6WXpNgYkednz2LAHTYLZD7RrV+PQHZ+w4OGuHpli8VcWtkkQce72ONuP4XY5mNVSQD7dToNQnWzlNL7AmB7AvEzxowlpEoxeMyU/bXD4AI2755VwolhwU05IYU1aoanhLjSqmzoCc3DkMZHhYrB/bjD7MxXIbtsKMFaD1YJkL/eSiY+SDSprC8Vdum11SCYCAG2G6LDrHW8s1qjgqa18pA1TM0nnBWMo2AFCokxRRlWnui/MJEGuyD98X6gGNbAx+xPrPQi2qwwWYq+aYj+rMOsMqrButaUFjBWNiUFZr2j82kaloyDbl/slnpvfrklwPlDBxQLuM6mVGlVQi7pLk1eYOEvc7h5oLwk/VTCHzVoX8tXL5bL+xi+ndJ6SQH9L5F5XnhKkgt5MKDkcDJpOvnTXXBB3cunwixqctZAJBV0CkEbYXqgWLSOW6mBQr5vTdZKoZ2UqimZEv6cyh+hchomtxRa1UTht/YLYcSw==;QJ5OlX2haKnta8h7Lh1M9w=="
 ---
 

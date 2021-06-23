@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2309352/artificial-intelligence-in-transpor
 ampWebUrl: "https://www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
 type: article
-quality: 51
-heat: 71
+quality: 53
+heat: 73
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI in Autos
 
 images:
   - url: "https://cdn.openpr.com/U/6/U621906822_g.jpg"

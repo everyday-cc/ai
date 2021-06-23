@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
-publishedDateTime: 2021-06-23T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
-webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
+excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
+publishedDateTime: 2021-06-23T11:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-boastai-named-finalist-two-categories-bc-techs-2021-/2021/06/23/9395838.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-boastai-named-finalist-two-categories-bc-techs-2021-/2021/06/23/9395838.htm"
 type: article
-quality: 42
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI
   - AI in Finance
+  - AI
 
 related:
   - title: "Three Areas Of Impact For AI In Fintech"
@@ -127,6 +123,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
+    excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
+    publishedDateTime: 2021-06-23T17:13:00Z
+    webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 20
   - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
     excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
     publishedDateTime: 2021-06-22T14:21:00Z
@@ -146,6 +151,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "tT1C5u5eq7bhSPC8SJhkMTt8S4SzcTWJclo/aEFVcMXOODxcYj/1xB1FygBRe9OppQQjEvOP9HIfkfM1m+gbjpq1+R0kjzl5ZY8mGNnaGcqUQThil6ZwFsw+7uFta8VVjDOOktEKAsf58qsCqCGquTW0NqDlNUFMW0UU3b53mcfdjVBWNxjTlhyNXIk7JJnMjvXQi6M7hLVk7h4vmP9QNrqfe9m/LGl8eOJyKTMXDQ8X5p1/SToNQ7Esnh5T2ATMbd4KhKYAwhuvmDVcUovMXLZBgVs++1raDymwKiqfncsR+e94O1Y2DIILTI2SJ5FRYufF8J2sTT8gNMiTSqNf9Lo8iwKkSzVGuQ4nUxD3dPg=;cLFcTvSA26wvTyq9tTT8Tg=="
+secured: "SbnHQd+EVB4rZANnFXxMm7rjKmVQNa7zs7OtSK0D6bNVZ6x5K9rpZPxi3ri/gTUD3d6A6fZ74vzAkzDD9gCZakat5ruFPR/nt2dCwl9YNK/qdKTEinXGESSegxduAzjymD3Rq9Q3ym7QvzYwVHSLoCqWgtiq51dbv+eKT8sonVbkewBkEXbLB8Z7J/bzYOEFyFDUHAhZnJ/kDb4rrHNQkCNxwJy4yvJoyon/VSo5vmAqU8F3sBYNbCnsHnu4WzgvDjMih91hgu4uQC8UmrWqNw1svJzley7LWowuBqBCRTS8BrydzAIkFSud88Yui/2BrnnDznoJ5iObIGM5t2Qq2r952TIflPAIFxeu7DcZfKQ=;SlMoApiui5uifeWTk0kWFA=="
 ---
 

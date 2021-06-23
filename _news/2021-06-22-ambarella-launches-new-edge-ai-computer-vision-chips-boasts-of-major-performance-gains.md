@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "AnyVision AI facial recognition software available on Ambarella chips"
+    excerpt: "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition."
+    publishedDateTime: 2021-06-23T16:40:00Z
+    webUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 71
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
     excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
     publishedDateTime: 2021-06-21T23:07:00Z

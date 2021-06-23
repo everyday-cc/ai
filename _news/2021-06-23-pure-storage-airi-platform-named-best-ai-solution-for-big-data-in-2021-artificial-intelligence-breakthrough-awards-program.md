@@ -41,16 +41,14 @@ related:
         height: 448
         isCached: true
   - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep"
+    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced Ping An Insurance (Group) Company of China,"
     publishedDateTime: 2021-06-21T11:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21641649/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21641649"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21641649"
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "FXMoZHYUbYzKWAsEfkpp14ka+G8rlYDsO8p/x95SAieCl+RJmi12hAhJeJYr4JIPhNgLcUqWcFYmjgeX7rBkT6SlrwWt0dscx8qfeu4mQKiEmGGnmi+joQx8yjjlNO/XGIcqBFdXmKT2MkE2f8qo8/6rp4gxUKaYigQMWioxEm6fyigk7T71AkKdLOaMmXArO22ZSjeeLQfCU59viFH6MQVgOA2EtXPQCuVB/Xi+m57WuZVzwaG5g5nYuVyB56lN8B1BpiYTQimWlQPDKt1xezfVE2ygKrNS21fw88vrcN5XS5BxOBJkaVdyjNrW/B241qXbnRai/OFBPrXQFgCxA89rxQKYQEbjbpW8YGEMNAw=;wRED8QO/iq+nulWvxfTI3Q=="
 ---
