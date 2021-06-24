@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,13 +24,13 @@ topics:
 related:
   - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
     excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
-    publishedDateTime: 2021-06-23T13:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
+    publishedDateTime: 2021-06-23T13:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
     images:
       - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
         width: 400

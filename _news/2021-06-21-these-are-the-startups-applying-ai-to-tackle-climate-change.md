@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/03_product.png?w=1024"
         width: 1024
         height: 625
-        isCached: true
-  - title: "These 10 AI startups raised the biggest Series A and B rounds of the last 2 years and are poised to boom"
-    excerpt: "Agile Robots, ArmorBlox, and Weights & Biases may not be household names yet, but they're promising AI startups that raised big, early-stage rounds."
-    publishedDateTime: 2021-06-19T13:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-startups-big-series-a-b-funding-rounds-growth-investment-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/60ca80f320bd1300181c6ba4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
     excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."

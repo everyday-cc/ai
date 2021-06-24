@@ -56,20 +56,6 @@ related:
         width: 1024
         height: 625
         isCached: true
-  - title: "These 10 AI startups raised the biggest Series A and B rounds of the last 2 years and are poised to boom"
-    excerpt: "Agile Robots, ArmorBlox, and Weights & Biases may not be household names yet, but they're promising AI startups that raised big, early-stage rounds."
-    publishedDateTime: 2021-06-19T13:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-startups-big-series-a-b-funding-rounds-growth-investment-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/60ca80f320bd1300181c6ba4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ni5sm+Wd20Zcbh51hlgM6B/+ePYLivDcMGbItsZeb3F8bD9DmIQOYP/fR4mpnhu7o/z2BZJpRb11SXqLbee18lEARz/rWgv3wKPRHdoTwVn0ROlkzjRqSnpLw50syqXjYp4ogN219X/6/hx9EK/KxzYz6WxpvXkvLHZnYcJKKmWQuy9YiEnyudGx65yuGZGQuRLPkRnK2Q5i1roe6BY6tZG5qmQ7TOVpL2Ubwa00847JRoO7MrONlPEPBxW0EoczA9/lUH1LppLwHXI8YBw3j432oY6V8CuClWG/WSMdgE3kT0mvCBcytf/gfeubP2R+wJPnqos4+zxRX6HWePfPvJueAOqTxyEj3yUCoJCtl/+nyn2Y762+sr3OYG14hNC8x5ZLyGgsWGbbtvO5VEpM0VOzgYF6YpvgsY1a78Gd2VpG/cjGXFy860JJMRRwG5yq8v7XuAOvFqLILqlUd0JIEhN7+JcFxYuABponnW4mKLBgAXKprGlIdCN+Kzv6OY3h6WE7eFN4nSDExw+xw6IbzA==;+Ki2VZvz8cmqOmIzZKXLRw=="
 ---

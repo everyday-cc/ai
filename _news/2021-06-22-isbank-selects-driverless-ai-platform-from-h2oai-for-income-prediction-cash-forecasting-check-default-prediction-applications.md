@@ -51,6 +51,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 15
+  - title: "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
+    excerpt: "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ..."
+    publishedDateTime: 2021-06-22T12:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 14
 
 secured: "jphU5AZ4P2Q/kXcCStZPqKn0W9yw59Wz72kw5McMKNlxybND66m15A3aaNvbOmJUK++U+ZtZ4HSlDayEuCwglWCMzHX8L5H/9qZkqyRYAILgDECRwxcCjLiTaSy6wpgqrcORNJ9AvmwDBZTbuSWfJ4V2b50XFLz2SEgvGCbgSUEahjNo15bx5zyn7iedzF1mdm8e263rGTL5Xsr3sk4h2J+kH2v0hRo0dZBhwrBLWz/ljSftTShaq81gg7bK5Mds4NmPks3MmdEyAHtmUzGkJUcxnCow/bc+u2GqCbj7P6eJIKJoac/EvGLW66jF0mAIxd6eX0fwavQdNyURkNofB1uLMc2uMmfQ28DuPKrZBnOISzssnXNxzIrJLE5HB0DuNNeLXY0Qb70R3gkNvuwng1vc0BR0DADeUqZQnZIS8olrdRuBaSEkkoI+0cJH6o9ec7W8JTN6DGTpiHu3UKt+dgK81cpISD4gO64afz5egDzkxEPZS43xzcgza+gIsGBF5mh5a37xeHWQug5f/nGyNQ==;OzJeeTYbUXE2HRVcZekFqQ=="
 ---

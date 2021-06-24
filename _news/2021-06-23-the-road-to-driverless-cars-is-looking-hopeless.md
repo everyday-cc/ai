@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 15
+  - title: "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
+    excerpt: "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ..."
+    publishedDateTime: 2021-06-22T12:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 14
 
 secured: "QN1ZNjyWBJ1OofyI/9VzBwzq54oAXwzRlFqNaYu55lWLqymuDuV+jYK+Ne4G8mWSAK2uWdt2ummY8+ZREk5mWC3fBHGNErLAQG06GeemJNsK3foSYqaRB2KC3uvG0tZeUL5XE4eFEcIhvyN40HUuOBT8g06dhcA5yuo9DKJKF87dKUmr7s7yVNCg4OhEj0bOVPVKCGLh51wERwDf8G5SMCMxe/5AnYlJFlmLXMm6U0KlpkH25KOGLJzgn5uaFGiqzokQrSWjNb/mq9a9pB8h0b/ygb72fsORXDbjA0NDtlf5AcfhvfpHEoUxXjmcmrcF0kx0gfWRvWGh3XU5xIXskBI/UhF6OFRsh4RB7etvydM=;05XGO4rtxfI9gMcVZnP1cQ=="
 ---

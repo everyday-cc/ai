@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Machine-learning approach could accurately predict the evolution of breast cancer"
+    excerpt: "From amoebas to zebras, all living things evolve. They change over time as pressures from the environment cause individuals with certain traits to become more common in a population while those with other traits become less common."
+    publishedDateTime: 2021-06-24T04:05:00Z
+    webUrl: "https://www.news-medical.net/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z

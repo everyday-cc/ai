@@ -39,6 +39,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
+    excerpt: "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population."
+    publishedDateTime: 2021-06-24T05:48:00Z
+    webUrl: "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
     excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
     publishedDateTime: 2021-06-23T18:14:00Z

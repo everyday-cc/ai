@@ -52,17 +52,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Ferrari road cars and F1 team banks on AWS for innovative solutions"
-    excerpt: "As Official Cloud Provider, AWS will provide machine learning, analytics, and compute capabilities to accelerate innovation across the organisation"
-    publishedDateTime: 2021-06-19T12:28:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/98358-ferrari-road-cars-and-f1-team-banks-on-aws-for-innovative-solutions"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/98358-ferrari-road-cars-and-f1-team-banks-on-aws-for-innovative-solutions?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/98358-ferrari-road-cars-and-f1-team-banks-on-aws-for-innovative-solutions?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
   - title: "Ferrari races to cloud with AWS pick"
     excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
     publishedDateTime: 2021-06-20T19:52:00Z

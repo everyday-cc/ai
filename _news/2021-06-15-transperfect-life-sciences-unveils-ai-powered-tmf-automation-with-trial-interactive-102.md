@@ -1,26 +1,30 @@
 ---
 category: news
 title: "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2"
-excerpt: "TransPerfect President and CEO Phil Shawe commented, \"Introducing our first AI-powered TMF automation ... pharmacovigilance and safety solutions, translation and language services, and call ..."
-publishedDateTime: 2021-06-14T23:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2--301311805.html"
-webUrl: "https://www.prnewswire.com/news-releases/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2--301311805.html"
+excerpt: "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for t"
+publishedDateTime: 2021-06-14T21:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970"
+webUrl: "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg?p=facebook"
-    width: 800
-    height: 418
+  - url: "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg"
+    width: 400
+    height: 307
     isCached: true
 
-secured: "qMIKQkpCP65NAtJ2QadsZJyHldKAq8AjyyVvh35vNSwcHNYG4+cFXbDzAs5UhP376obikYiQY5UIA9S1CYpWL56TrpNvhQmgSBMcqwwiudvD1WSxyqsJD9YdRChfJZfKte91SULUL/HsUAH8AVFyabU9XUym/IXfgXi2+OwCCDBXW7HDWwcXa/YlaHmQhqzW38J+/LgxgrXK5l57bDI7fSjzfraZYU+UFMeTVXa069xVfdTIdiBdzKUaErO9FCCSafsE3lcXLpddE7vH6F9oajVqBPy/8OOFgpqZ8G6Qm1HmOZ2PNoVu0t3h+idMftCdEKSfX458K5U7sZPbG9rvLLGgzzA+OyzzfIyUJ4H0Qyw=;bX2p3XLIpRMrdhONTvEUsQ=="
+secured: "S5xmF1G3TyCr4+s6KbdgvzSkx+vjVjtZuQlEx1koJo65T5jhv1BXUKO8Ue6tZCN8rFWEpavGcdlmjCLuEy51ZMS3Y04fJwce3qu3x7Cf0IWQ7cEd0VafuH6cJb71pG4fd3K9symidjMvuLEQ/FvUfsLvfUV2ZUX54nTBDkx3BkprZGWmOyoUIlZB6ZWBVmbIpMKdEr/K9h9SkqGDw8lfJVDaZiJWkOp8U9jJ1UmvadkA0bbsEYroMxOWJbNmF8P6ulS6ykUNR9TuoTS86eAyDmKWVj/ZVQgn4wZ+KNq7vP+oQytL9jn1GDk7tG94AsO7QmhA7ciC+uNmaTRcOW/hitq2B4HPA2WOiTcsfUqtuEE=;zrmmJhAQyCb1HYSuyn4dMQ=="
 ---
 

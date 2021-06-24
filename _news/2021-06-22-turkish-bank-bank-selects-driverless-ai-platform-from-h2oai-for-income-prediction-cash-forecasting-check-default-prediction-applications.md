@@ -50,6 +50,15 @@ related:
         width: 940
         height: 430
         isCached: true
+  - title: "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
+    excerpt: "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ..."
+    publishedDateTime: 2021-06-22T12:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 14
 
 secured: "YMrEKMMgIuLWRuNqivsb+tyb7UCwJjZ7SVpWeir2NY9Jkn40gDWbDd7qBfjAdYe+E6ouLQ60gbFfMnPitgPlPC0HIaB+OwBHGBK8kh0DhAqn2VwwuyqMRZTgAlhsP7gQUQLdfhwwffgSsYkPYIYnnKwt6HMRc8IQp3pg79RbpaW9m0iqIiYwmMBt6Vr8esbY1vAx+QfEb6iLuTBegH3bDSW3ui4jcBwgX1oK5Qv01C7ZYRYkRTYtLyVhvWch0P6UngMmyXpEATg9ZoACee8CysPSgxOfVSgddYJQSOTUB6sDiNk9plo0thYGeAFsLuisFItCvKv0if1TvNdToJ++UmJe57z3nczP/vgPp97Z9PU=;5sRHgBaHYZJ24IZ0sEw1Vw=="
 ---

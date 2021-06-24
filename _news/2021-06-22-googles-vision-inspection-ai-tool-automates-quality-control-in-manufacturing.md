@@ -124,6 +124,17 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce defects and deliver significant ..."
+    publishedDateTime: 2021-06-22T15:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Government launches artificial intelligence action plan"
     excerpt: "The federal government has unveiled a plan dedicated to establishing Australia as a global leader in developing and adopting artificial intelligence."
     publishedDateTime: 2021-06-22T23:32:00Z
@@ -138,15 +149,6 @@ related:
         width: 733
         height: 361
         isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
 
 secured: "rAivvorhLZ94VyN7bxXmblbSh4vt1GRyV18WpfqdmIhRYrD3mZDxZfHA4fnQ46klk3lFJbIdWWS9qXbuRbuCxo3A0umMRAcqiJtALnI3Hgm4CnMqWINAFUEXrfdcnpOSSAIejAmlQR3bvTqrBSXMynAYgTaZEkQ/iw/1/IdCfQLGbaxjZSSTdU5WwxZEr46dslDuBisY72nJ058c8gXPPD4Gkn9VXaJo4iZT24U6c+QSzO0Hvu4IDcRr1QmuNN2PdPE/+5fFOR2134nvl1z902AGLhye7PIh+lBvD8h1a+jkfG1rUrXQyD5qvDD11jugJ1uUvGeXm5r6l7m80i7wl8LVqoV8n5fsWdHZTwkRESB4eLxky7d9r8oARYU665T3HqrXyjFbRtNDQIG0iMf2Uu/INHJ3AV20B5rXdQW8K8jdBf1EzvcOatnDW85X8P9q7CftKmML6HPXJ8lw+uzO1enOIVH1X/YNahIK74LSqLB3a3hPExBP880hTHvwIYZ99HNeAhlJFJbN0G8x8c+30w==;Ocwqr0dgkhookn/pHYtBpw=="
 ---

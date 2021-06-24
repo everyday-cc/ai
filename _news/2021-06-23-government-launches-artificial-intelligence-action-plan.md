@@ -123,6 +123,17 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce defects and deliver significant ..."
+    publishedDateTime: 2021-06-22T15:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
     excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -137,15 +148,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
 
 secured: "fVbEZVo43RyTT0zcm5Dl6uVId16M84h2mBpjnPL/A+NhCaOU4HNN3BexkgEcc9lvAz8/JXZfTb68m4h3H1CR8F9S/bOggX1a/54670RP8NVjTscuKDbr8aV61D+0/wYNuawDHt7QvIZBKEGqw3LySBsY9LnDUTXOHIP3yNssWKOBbkVzxzpItXwJ648jQaeyl3+lrDgKFcaOd2NXG+tyv2DupgKSmfWroQ4yLokHIpPu16Wpom01rafagZAjTrkxjH9ZGssWRHjLPLN3Jp2gAGjL8LzLKwlVvHtaYdYLPzsPUChKlVogeFRHbycj/7PZIFvWIzDgqgfS28oQ+TiJIy4yXQFI2TJU7djwrqNEzujECOf862uno7xIppfijdFLlwsQ/WC4FuIi1yfqggC7Uca0xq8XAVsHPRmn+l58Qk41Aev4kdvmGHrfcziHQ4c9R2enP/pXsFNz25RO+1VbJWLI+40ASvDp1TMWQ8hx2jzxEP+kdRhDoWvLr0O3fGKKocs+K5aXPSaYPmctMf4YNg==;OxZLNl4JQoACWG49SsDSng=="
 ---

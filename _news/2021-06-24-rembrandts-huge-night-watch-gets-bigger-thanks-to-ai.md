@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
-publishedDateTime: 2021-06-23T20:51:00Z
-originalUrl: "https://www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/"
-webUrl: "https://www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/"
-ampWebUrl: "https://www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/06/23/business/rembrandts-huge-night-watch-gets-bigger-thanks-ai/?outputType=amp"
+title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
+excerpt: "\"And what it taught us is that Rembrandt never does what you expect.\" The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
+publishedDateTime: 2021-06-23T17:51:00Z
+originalUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.html"
+webUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.html"
+ampWebUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rembrandts-huge-night.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
 
 related:
   - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
@@ -69,6 +75,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WmApv6UyHJfTJVPAagWh/0dlj8M8p4ewIkOfb6cQ02uxKB3rMbVxwTKypCz9nbNRQ/98N5ZKEiP+tuEGH8DCMbL7HArC2drBdqdaD3nJGPcGCagIwG9CLbukV7AL458elq5alWje4LWoCVJF/NsKB3fUNT9WkER4rf4gr4nF+ItSKWWt2ImfqcXNjgMBnbmMDStvfTDoeBaOjEdUYdMKk0WttZZh3aLnzpDemiNb5C14MWocbqSUxgOdkxSeWsEvGaM2Nh2L3vaQ1SWpVZ0TU4PvlY9JXh7dt+yCtIJ8K+v5tB/VsRfIwUmVKn4MrykyP03veqg/IZxaQUXF8jW5rx5Tj5NFaIN3BFxZEQXk6Gc=;k1muA2bRAUKJNyAUl2h2Rw=="
+secured: "md38jb6GcqudtlrZSqu4mAf4MHjokvcJbaW2uKjA4PTNCnJTkGPmM882et55s+InrEz7UweErk26njUfv9AraoDVb1NnGOnOYWYQQjy1bMGgQR0gtGOT0THQ8qIcLFQ0TnEz8YSymxxdDDCeT2N0tjJvbKbgh4/UjbUH5CjNwy5XEwZ9twIENnvveOPBbBniHqmqJbWpIKO04SrX/0t3uWpZcrS62cO30UzqwLEpTMTjWpXDx4359LOkofz58ZE9tsSqKtIDm/VVsW2qhehqKBGagS/j90O1SIUc0eHL3IYpTA5uip8EX/udxyc8ok1nVtkDaLx6HvAMJT94OVEn+/yFr9hDdTAFbxbwWWqQwpY=;TKxk5BZS3J0FQdyWZZqYYQ=="
 ---
 

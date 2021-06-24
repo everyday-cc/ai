@@ -2,9 +2,9 @@
 category: news
 title: "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year"
 excerpt: "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ..."
-publishedDateTime: 2021-06-16T13:12:00Z
-originalUrl: "https://www.reuters.com/article/waymo-funding-idUSL3N2NY31Y"
-webUrl: "https://www.reuters.com/article/waymo-funding-idUSL3N2NY31Y"
+publishedDateTime: 2021-06-16T12:57:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
+webUrl: "https://www.reuters.com/business/autos-transportation/alphabets-waymo-raises-25-bln-funding-round-2021-06-16/"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "IqF9FEAGjqBsUrFNeTStbCbQGX02fIQhal7wzfUo4CMTZ4LImGLzGstFO2FCbRgVF2r7B6c5GBVimhu4cPr6JHUgD03/m3d2NXKmYJG09A8ggWuQcNQT8qXY3JTPhvVAnZs2tnF83eH5wmKNiBxmc8NM2QGjDbSvFfoi6e4ick819mI2HTwYUoOzMwxIwnyOysaM5AdghvD0rfGOT4AdZaT0BTecDuUlM8tDSTWhUM2Q/ZVgrGcW0k8LhYb+eiIjW7R8HA9di4vmyOwefaZ03VKnaV2wn8hfPjANCp1Ue5Em0tc5/MDq6W+w/KA4Bma47ylF5aCAAirfhZn6Cj1RHm1hw/8M9tWBVEjDbb2iWG0=;wd9cdvWJwkUDibzPxmogyw=="
+secured: "CgBtuUKa1zXFJAgi0T/vVRKHtRy+qhLJkYUL5hYNuer5KC6ybNMuF+7xPboVZrUTEpagdT+PPuwaDAlhqiMsytmiI4yQyhU+fErONUJDXPUUVw5SxxGUGe7kHVg1vD4xwFMi5N8+oIGrrmHSDbHrNeBf1i6HrJzGmvkAlo9nmQ9W4+jg7xK1+pRwzl3TaLjBb21BKh7z6c3jbfEFoNkhvvZ6SI8kbzk38MJOvmzyRRxG8IcDHf3MeZiy2PkSHotwRh4pzw8i94q4JDVi+YasxaqIrELSyfj2f/x0OiUWjxOdOKcF4+M1UMGsqQStKje6ZVfVS0QF5+7p79F57z4HxbevWmPw+H2eQ90gwGSiRWI=;LNE5oUgNKyZm4w9DVD2X4A=="
 ---
 

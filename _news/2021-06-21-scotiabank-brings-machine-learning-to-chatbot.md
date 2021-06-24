@@ -34,6 +34,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "AI Chatbots without Programming"
+    excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
+    publishedDateTime: 2021-06-22T18:05:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+2T2021_verified"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "The reawakening of the old idea of children doing AI programming"
     excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
     publishedDateTime: 2021-06-21T08:41:00Z

@@ -110,6 +110,17 @@ related:
         width: 795
         height: 530
         isCached: true
+  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
+    excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce defects and deliver significant ..."
+    publishedDateTime: 2021-06-22T15:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Government launches artificial intelligence action plan"
     excerpt: "The federal government has unveiled a plan dedicated to establishing Australia as a global leader in developing and adopting artificial intelligence."
     publishedDateTime: 2021-06-22T23:32:00Z
@@ -138,15 +149,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-    excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
 
 secured: "3ihHmHKf7wqR7xEKsn5tlCVEU0LEeMOCppZ8t3qoIyGilDmpbO7ulNTGaX2o+gHFzqBFU+9jnuDiy5lDXO9ED/f4Djz3WjU+LQorhb1R7uxig4uDyeLZ6zhdI9IL9q7xMbX+Z0mOMyHSMC5n2qFC58shuSKnlMsGkPtc2xi8Twu4s85JmcufUNaef7MKWdp3xTGBdksuNollXhb8iqPQ3oRseLT5l2A4ju8+vBA1X4w11j9/oDA/OyBHuZTxjzJEVx3mFSoG0c5W9g/QBaSWxKOtxqws+S5x49XbYMXuL7MnHJANWpYv0qCJ/UFn7JC2xkP6XXTGjLiZieW3+03RvR+9fEcyjCpA/a3ap1CaNEA=;xSCdDbW/F/i0khZmYszLGQ=="
 ---

@@ -49,6 +49,22 @@ related:
         width: 1013
         height: 675
         isCached: true
+  - title: "Machine-learning approach could accurately predict the evolution of breast cancer"
+    excerpt: "From amoebas to zebras, all living things evolve. They change over time as pressures from the environment cause individuals with certain traits to become more common in a population while those with other traits become less common."
+    publishedDateTime: 2021-06-24T04:05:00Z
+    webUrl: "https://www.news-medical.net/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "mv4VjrBafuT73uD+zxpoZ1Hf7epzuT1EbBfSR+WaDTvHKOuzqtKTB8Ilxi3M7rpDJQriqGuzgrJP5mg+nnUdKzFRGTYAfKHc0RI52JL/9aKR8LUgWSmhGuhwnXdgcyK0/MHTArgRoQNi6NasUuylbRRgrYMozTJVQ8hRcSAIlXEol8pJD4NjxHO7ILoXlPYz74fx2TPcBihjQUyvhnop9F3Qq/v3XvMiZwbisCdfUHnXNecQvOAtFf+YxfopXT3RJZP+zrDfowYu5wzLl6w2Omy5WVNwNvWJ7G74My9n/2y9BBV3Ukwz1FSL9vtHT59hBLx8bEpFvHxJk8qMxNIeJLcvE7TBYvZllje+EG9c3L9Ph+IwZqjCBIUsqXNy1ObDrcvE4WgfYT3lGyrJv+jYoNhP/eBceeHsgMkuGxanYECf4G0hPmyTTeLkyZl4ShUeLg88SwJXUsT5sR0iYQlSOxEiNEo2UE7UDprSLHMtrdgfm/sQ24hAfFoEE+eeGPem/N51veS2F6v/mI0yMGcLww==;3gKGt+lsHy/w90tUfNqvBQ=="
 ---

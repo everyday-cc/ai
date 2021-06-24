@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Embark Trucks, Inc., America’s Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern"
-publishedDateTime: 2021-06-23T12:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
-webUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
+title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
+publishedDateTime: 2021-06-23T12:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
 type: article
-quality: 17
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
@@ -203,6 +193,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "mpwbOcu9P+upY41+pTETZWz6ESL37TVCnfdRxw4QE8TUivl4fzf0JJLv29xcXfb6dLkwD4PqQpSin5Fe4/hmvTg1/QOMo+Q3FiDq6uUjL/dQtWGCW3nWzPDHCNwgSC1xgKcoLAaUPb26WgRcTSXjnVFLNVztC87Qh1B3E5Yi/d/cZ7mMT9EQ/eRJAEVH48kjNp9z3r0Dqu7fXAV90OqQFRc2MsMpKFiQSMv9SC2FkR/u7Fm68ixcDyOBxsxHHi/n2mwHjP5ZTQ6ewBM8rKzH+i7xCxZcE4gm2mtfoUBj53f620LqHRWPqiMVksg8XoY/TiGsbcAhbUtQ26hlYKoQT6RT/03ZKivL2gv3NjCDMbM=;U6uCQtG+NWdZEzGO6JZ1pQ=="
+secured: "hf7rHbd7wxEU9CxghZ6rZHAcwX031ppJHkG00HNatSWOujTAL3bB+E7ZX4KuQUgqAqw2YQOcY0+I5PRei8eQLv6TiVds9rE/EFeoM6UQc1Oa0hiYc3eVqCJGL3gWX0HbkCpujN4Yl6Am/m32v6xBU3C9rPHtvjMTxe6lnXr72t056DXgHlimrIcoxxBkl3bDiDH1HMA825/9Zx5z+FBBsGAhA2Pn4+kPOY+P6nQFs0B1sKyU+lEZE8MryxLzFuJWfkqngIZibcm/rN4UcRQHYR9QDRyoJZ/X2TQGSRABn1vVJ00GQn2rXFpQQjHT2HGgvIl5OFTaHp2+bGAkd6kqSVuvUfac6I5UkOUwkXg8Zj4=;TrP9WRO8eSeZbz+ehRfGbg=="
 ---
 

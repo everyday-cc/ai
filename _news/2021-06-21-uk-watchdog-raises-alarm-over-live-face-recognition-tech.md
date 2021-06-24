@@ -49,21 +49,19 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "‘Every step we take’ could be monitored and analysed if facial recognition tech isn’t reined in, UK data watchdog warns"
-    excerpt: "The head of the UK’s Information Commissioner’s Office (ICO) has raised alarm over the potential abuses of facial recognition software, after several investigations found that the technology was not being properly deployed."
-    publishedDateTime: 2021-06-19T11:45:00Z
-    webUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/"
-    ampWebUrl: "https://www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/527029-facial-recognition-privacy-ico/amp/"
+  - title: "How Facial Recognition Technology Can Benefit in the Workplace"
+    excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
+    publishedDateTime: 2021-06-24T04:59:00Z
+    webUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-can-benefit-in-the-workplace-nid-33902-cid-189.html"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 35
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://cdni.rt.com/files/2021.06/xxl/60cdb83885f5406aa07b6e41.JPG"
-        width: 1240
-        height: 697
+      - url: "https://www.cioreview.com/news_new/companyimages/ticpr.cas.jpg"
+        width: 410
+        height: 237
         isCached: true
 
 secured: "gOgDF8m5dQtSUv4LVGR4yoW3TASbncj9dDTabBz2f5a1pht9pOAu2h99GXdme2CxI/Kw4ZrTbldzpK/r+nr95IM2mMXAq/8BHe5dkRb6XRXykuZjsWK9p0YMZNYPiAAAAJVJtBfFPZpKqRbhwzeCa+pTRHPq/3zMpfKU0tK5vw02hJE1xTvskrvBpMup4ELLwvCub3YSMK9N0G7ubmdL4a1Js9RHKBQKOlCVIru2KLsk2DGxBzKDYJAzC2XKF7Li1qwNX7JBdmZFPd5uBV2WzQnImzmUtAlUsdNYyDLRgYY4FDOh0xcEEivsBgqeZhVsqC30Q88jiOZO8mwsTnzq0FHjpvK8MmJw0XiuEVjVOU4=;W/inw2gyZDPbl7lZ5JmCCw=="

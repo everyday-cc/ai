@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
-excerpt: "Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies,"
-publishedDateTime: 2021-06-22T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
-webUrl: "https://www.prnewswire.com/news-releases/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control-301317486.html"
+excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other businesses worldwide reduce defects and deliver significant ..."
+publishedDateTime: 2021-06-22T15:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control"
+ampWebUrl: "https://www.benzinga.com/amp/content/21668304"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -147,6 +149,6 @@ related:
         height: 360
         isCached: true
 
-secured: "P0dkjulHQ40swTUIKkqOwvZl6Mut14kp6ataCW/vXwpsSDa0Lg9mow9x4lQZhm/cGrfhStZdcje05X7bLQHx4pleVANqwKcPZGoXD/cl90O0R28i0YlszSwu/wEjmVg/GluLbdNluFUjhuchAtcFU70jOnDkSJ5A6Ndgyp0lyGgk68oe3axc1ic2WuXGE5S5SojDc+tjvC+yb5blAdBmvBCKzx6Cv0dFsPv5PVif2WoVP5mvl/bSL5ZsE51/pEOOQi+ORuwqviO+SExBtemAo9dC+Qf+MTRupeFwRn1CFPIR8MwLFLSPWaKodSdG83K4F6vyMTeC3e5ohS5QLO+LewQ3ybu7EeqlDO1oNUf/KMw=;TpHioskcKdkhvaZSTuFXBQ=="
+secured: "3iTuMpSOWkjOeONIGsqtdrfKJ7Oe8z/LbJVCYEKaHBDkhtmZoh1idVzpqvXza0uOAc1oFAkATloML36qfy0b1yVMB+xpDR8hehCxznjH6AQE/l2KtH5cU0cT9L282MIOykZqj+A52F0VXsTbDah9yf+RL58g2FUsSu7lk/hVcuu0Xprq7+Ic+BjkaBK+5dy8de4PaeiHMa33XPmoTaLZY3gAvaZJwxECdDxMmwe9Whwxyjna++F9btjSZ718V646nwXbYeAWTUSXMcOm9/pln2q5eI2bU667tf0kh6Ta/yEhTLQ6uIuo5bqGWS5zReubYj3at2+pBlijExNRVm4PisB+qQRUqxYjpmaFPKkUeJk=;Hg67GsGcKE5NISWFISooYA=="
 ---
 
