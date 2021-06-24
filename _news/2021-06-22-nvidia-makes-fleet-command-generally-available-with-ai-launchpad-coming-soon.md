@@ -73,6 +73,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes"
+    excerpt: "If you’re anything like me, you’ll love Nvidia’s new Canvas AI. It turns your shaky strokes into beautiful landscapes. The company has released this new app for Windows user"
+    publishedDateTime: 2021-06-24T07:40:00Z
+    webUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-tool"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FNVIDIA-canvas.jpg&signature=d89bd29e2c7eca7c265389e5c1bcb8b8"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
     excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
     publishedDateTime: 2021-06-22T23:31:00Z

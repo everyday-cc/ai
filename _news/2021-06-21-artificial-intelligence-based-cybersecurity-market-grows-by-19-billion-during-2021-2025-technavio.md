@@ -1,21 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
-publishedDateTime: 2021-06-21T10:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393768.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393768.htm"
+excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio."
+publishedDateTime: 2021-06-21T10:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
+ampWebUrl: "https://www.benzinga.com/amp/content/21640643"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21640643"
 type: article
-quality: 24
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AWS AI
   - AI
 
 images:
@@ -38,6 +39,34 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/deep_learning_shutterstock_Zapp2Photo.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
+    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+    publishedDateTime: 2021-06-21T22:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+        width: 400
+        height: 226
+        isCached: true
+  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
+    publishedDateTime: 2021-06-21T12:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Cybersecurity Researchers Develop Technology That Lures and Traps Hackers In an Artificial World"
     excerpt: "Scientists have created a cybersecurity technology called Shadow Figment that is designed to lure hackers into an artificial world, then stop them from doing damage by feeding them illusory tidbits of success."
@@ -63,6 +92,6 @@ related:
       domain: manometcurrent.com
     quality: 5
 
-secured: "aHYanPS/CnrMae9ytxFQQkLNymxnU1AKqJ/AsGvAmEUgY63+Bazpujx9JXkc38iHm7uiTI4ct3ooKuwiS9hHV0pkp+QR08rDAu0YQXwKgMEDFK2xNFz8mMdpk6olFeGBo8KYIYkJycLSL6xE68X7MIvOEddGiajuQQL1jEOcduQ+7gLO6yHBKpnRKcJG/HKbOdaxmcPsgd933KfxCCHzpzlW4WLiZgYWmyzsI7eccptIZlIKHW94UIYWekwoO9CKVzHeRsRZasjoMatRWsOQSmgr8xGXLwlUI2F7t8YwEOkeV0KaTOe4BsE4RpZCSG9676B7GBb+QDglxHirlYsHL4lYGjeL1Qr6MKokBLh794E=;hXD6ZnssztYRCN4LbEC7OA=="
+secured: "/pzY4PN5OvQdmTpwPWLu8IrBPEP4jRhLMCsUXnWTJBB3eLuBQJ5A4xYbxXum01bLVYyECcsD3RmE2PTAUNJaI8QXm1akFY2JA+vs0v10EI5hhdoUG/+AOzW8K6nGUWMFUBz6Mv4NOUqbm3CokAni+P4d4w0OAmUWDfTNLH2c0b5plnjbVoWwAfO2uy7jq2EQYntN3ZNfA6jEeFEcCNp21jp8+lQFNDww4ZcDnMJfrlKGBeAr0Bd6QwAHX71jISbdzOp6mQTnO4QmENaaDaS2nsSGZ3NMJP9fHK7O3bveU2L0pSAODrk63iRVA3D8xcXlPjBZHcE67jka6QK3/8d+4LY45oXr5ywzEwDR8aupV1w=;5h7ZWN4eqxlcNn7huXNl5A=="
 ---
 

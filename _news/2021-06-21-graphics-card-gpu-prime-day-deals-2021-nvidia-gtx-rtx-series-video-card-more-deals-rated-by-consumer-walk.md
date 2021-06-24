@@ -35,13 +35,13 @@ related:
       domain: businesswire.com
     quality: 4
   - title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series Video Card & More Savings Compared by Save Bubble"
-    excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series."
-    publishedDateTime: 2021-06-20T02:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble"
+    excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings"
+    publishedDateTime: 2021-06-20T11:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210620005212/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-Video-Card-More-Savings-Compared-by-Save-Bubble"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "QbiLnnnm9X+Svhna9PET+WEbWPxcQp98IT6Pj4Vq3ZgUI7LNE1hwhOyXHDfndiqJxzeauowzXuVsL5bhf6RqQHrRLisEs3BZqfUAE3hhRXWvJrUzGfBdRebFkSxfZ+bJZ2fkAjS8bTvJN8YAdBv/gy6vw2x7gYARMOFoDo3OoDYdQyc7EL3fLZv6wPX71sOHrg4AacXBqmSPEvX97Quq9nnLxrQ7LJRtusz9mddj1myTD3xHPgAfq55mc2eSZW5Vip0q9q+JsPaN2NG5lTRGe/MORVHQXIusZLiwEJQ3xwUhgh8Ma9QLbvoMnGFNRIo6AgP2sL1OFXqxFEnlO17nPTpkaf931MaF17MK8VPpUHo=;lxtx0uUMe/hDXY9djXqxXQ=="

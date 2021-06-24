@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-et
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F569dd15f-acac-406e-97e0-6787f9f99491?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 900
+        isCached: true
+  - title: "How AI-powered pricing is shaping the customer experience"
+    excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
+    publishedDateTime: 2021-06-24T06:47:00Z
+    webUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
+        width: 417
+        height: 450
         isCached: true
 
 secured: "iwrbb/I+00y31tYhHIPP8rif4shpaHm5cKfsm23pbBFI8veyPEVjiT0PSaE5e6Dg6xHGGbZoQunyQW4EEmvUSFU21csRBx8A4D68U11FnKvMoa9iD1QE3wcThtFr5IzfHzNr1ukp0FRqZx2pxp2hr/ji9fX0E4oB9qsQxCd0pm00eRcTtfWCdRCw/rC8QPP9P/LgtXowu7k2GXLqxrgySkMAin2J5YUvC8LVsLWH+AnR4ysMz06LwI0pg8y9+SHeMbBRQIOcDzjfBde2fvRK5H96CK+fsG+E2PXSDwWbhMMQyYtI6BZQEtpEAwR/+ZppbwrcCwZ6COH3AThiVtY/YcpEsQqi3pfpXLUTrK0P2w8=;jVNC4UQvtKI2oc5y3a7wxA=="

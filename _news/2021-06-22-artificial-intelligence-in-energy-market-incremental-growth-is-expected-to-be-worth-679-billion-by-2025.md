@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
-publishedDateTime: 2021-06-21T22:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+publishedDateTime: 2021-06-21T22:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -27,28 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Grow at a CAGR of 51.5% Between 2020 to 2026"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
-    publishedDateTime: 2021-06-21T14:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
+  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio."
+    publishedDateTime: 2021-06-21T10:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21640643"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21640643"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
-    publishedDateTime: 2021-06-23T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Deep Learning Is Our Best Hope for Cybersecurity, Deep Instinct Says"
+    excerpt: "Thanks to the exponential growth of malware, traditional heuristics-based detection regimes have been overwhelmed, leaving computers at risk. Machine"
+    publishedDateTime: 2021-06-22T20:05:00Z
+    webUrl: "https://www.datanami.com/2021/06/22/deep-learning-is-our-best-hope-for-cybersecurity-deep-instinct-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/deep_learning_shutterstock_Zapp2Photo.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
     excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
@@ -64,25 +69,30 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
-    publishedDateTime: 2021-06-22T15:56:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+  - title: "Cybersecurity Researchers Develop Technology That Lures and Traps Hackers In an Artificial World"
+    excerpt: "Scientists have created a cybersecurity technology called Shadow Figment that is designed to lure hackers into an artificial world, then stop them from doing damage by feeding them illusory tidbits of success."
+    publishedDateTime: 2021-06-21T11:06:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cybersecurity-researchers-develop-technology-that-lures-and-traps-hackers-in-an-artificial-world/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
-    publishedDateTime: 2021-06-22T17:02:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 9
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2019/11/hacker-4031973_1280.jpg"
+        width: 1280
+        height: 889
+        isCached: true
+  - title: "Artificial Intelligence in Cybersecurity Market to See Thriving Worldwide | Fortinet, IBM, Cylance"
+    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of Artificial Intelligence in Cybersecurity The artificial intelligence in cybersecurity enhances efficiency and effectiveness of the cyber networks."
+    publishedDateTime: 2021-06-21T11:22:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-cybersecurity-market-to-see-thriving-worldwide-fortinet-ibm-cylance/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 5
 
-secured: "K+4M4kUiccgMWM81rIKiufbyj/Nyu3bHpOynNnHIGV3AkOEbvj/lMg3RiK/ziUXqGVLILcq8mYjW4MXHcmnDsvUoS9J78G+Vq2GyPMmcWuEqPUdDBzR5+eVrKr6El4q+U+seaAp0aD2p7yOjvW0PpVx6DC/oSW1AK0q4BGjb3EL7nYXDD3lPPrVpXVaBrgqjfVvlMyD10amv2I+JSJey8CfEVTQ2Yj7pmQl/UM9Ko3xO1aFDI72t/L2tWksEo2i+9eQVBbURvyrBhTzFaR2TIbL1Y7ffpzFCdMftcsguhLJTFwKzM2uFL8bBRT/4ol1Dgdr3O8bmf/VgMquI7qghVdFjXN+opwXypwA9ZqJ+UXb4ZRh1669bw7krAvNlzgyfczS40+W/SqKRj/c4jRLhJw+N5mJpbu0z3uqlu/nl1nJexmU6oIJQU6cqWwIrGjONrstBOgL28h6jBxTFfjm46snBsT7IPpBkpwpLoKx8tRCefsbPlfjJVaELYMdkHmxZsacMoyYB8an4lL2L6rA1/Q==;JQq30Ih8sY6suC3l9uWnjA=="
+secured: "dTLtUpmgp96g73MULQ+mz3mK24XaZ0CH3TEJV1MsjD5PuEHdb/V8hMQSifyYWcWhgngWpVOGW21DovuSnFjJV+JgFDtuTlRpx0gUuaXPK16HcQv0C6LHKqWojs36oiH/Is25VqXBeJj1DDUZBKkafUQgbOeKZbuZnrqSNHKj3uxMKryaXlTmFIYCU6Mab7JkYiL1rJuN5+DRt6cjVxTvzFaewPx7PazMBcaXkEzIuPmVI3nmrsxX2XDV+AhC+RlyOG84GLbesi0HtTNUP0ITaOC4AzXoPr9wZ0OZnlTwXNQA1LSpDbkLuHfD7cUPKq0z5m+QZE1NrJFjpNaZZcK3YsJIRU+PAWtDGCTSEwTMH1g=;04fsiV64FokRhAb4SQ31UA=="
 ---
 

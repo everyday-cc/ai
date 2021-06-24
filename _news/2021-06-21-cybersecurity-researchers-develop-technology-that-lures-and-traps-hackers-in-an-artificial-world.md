@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio."
+    publishedDateTime: 2021-06-21T10:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21640643"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21640643"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Deep Learning Is Our Best Hope for Cybersecurity, Deep Instinct Says"
     excerpt: "Thanks to the exponential growth of malware, traditional heuristics-based detection regimes have been overwhelmed, leaving computers at risk. Machine"
     publishedDateTime: 2021-06-22T20:05:00Z
@@ -38,15 +54,29 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
-    publishedDateTime: 2021-06-21T10:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393768.htm"
+  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
+    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+    publishedDateTime: 2021-06-21T22:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 24
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+        width: 400
+        height: 226
+        isCached: true
+  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
+    publishedDateTime: 2021-06-21T12:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
     images:
       - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
         width: 400

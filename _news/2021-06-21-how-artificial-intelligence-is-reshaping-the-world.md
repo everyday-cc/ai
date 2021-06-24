@@ -38,6 +38,20 @@ related:
         width: 1962
         height: 988
         isCached: true
+  - title: "How AI-powered pricing is shaping the customer experience"
+    excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
+    publishedDateTime: 2021-06-24T06:47:00Z
+    webUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
+        width: 417
+        height: 450
+        isCached: true
 
 secured: "QsYG/Ve5itjmYg73XZ0tLNjjt7fwH39dkPtijbZG46bYExpFtpFxGeJ4qdCfESYmK0jBisvRQ8i50S44ZgbPkxfS7rJPMovqmois2drV207CqY94qPb3qociSzHlJpHr/s78VL6VGA77upVJ2loCFE18xCoIQPEDDKae6C4dD360GSkYYboFcZlXrhDrsT5QiCGAGRGrHHDc3LIkpqBF1PzTXXTHFtvGD47QC6bqKrCG5sH3y3OwePznZZ3ef6VqOPMAfBtPrBsJAnMuhR+UpqY95RX/AuU5NiSOLrvts8TrivyjCkZyyaeSGjzML1lnh1AdBinq6+1yDO3W5AQV2lDJqDHo1dNmeeCVhRjVXdjUP6SDpmCFn03MeVsmoy3HQ+eqzn8YjdMaDaVu9ezChhtVlso+voFYgwJ5gMcblM/WAKOQYMvWu03qkEQc7O/fO5h7Axl3XFAssKuQOHCuY9qtm4eQoiJC3VsoBV+1C2jm2CIPr6Qqcp7YrKTUIGOLnC6qSoyIugHXiuranihBkA==;TRBu4Kz0VEej6AizhG1YTw=="
 ---

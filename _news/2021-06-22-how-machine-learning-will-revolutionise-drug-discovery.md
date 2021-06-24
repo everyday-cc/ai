@@ -52,6 +52,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning to Bring a Revolutionary Transformation in Software Testing"
+    excerpt: "Machine Learning to Bring a Revolutionary Transformation in Software Testing  - The test automation effort will continue to accelerate. Surprisingly, a lot of businesses do have manual checks in"
+    publishedDateTime: 2021-06-24T07:27:00Z
+    webUrl: "https://www.cioreview.com/news/machine-learning-to-bring-a-revolutionary-transformation-in-software-testing-nid-33911-cid-112.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 36
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_57Bl192I.jpg"
+        width: 705
+        height: 485
+        isCached: true
   - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z

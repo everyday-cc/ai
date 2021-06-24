@@ -3,8 +3,8 @@ category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
 excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
 publishedDateTime: 2021-06-23T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395982.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395982.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
 type: article
 quality: 14
 heat: -1
@@ -144,6 +144,6 @@ related:
         height: 432
         isCached: true
 
-secured: "VJj8a8TRCtL9A1Ym4mwj+axQ1t0neOFziTnUsQ7Oz7xl/Sy+eTKuquCI4e6aM7xhqVnPDj/pikFQNqOK99DrVUtr+2lghh7gKKhoXLglfInglwKG3PWFydu1senShVTyWtDZYFlMnJ8wgzYH0vAYEdQwrGdnfz7/PWSRJkSWp571VzIG76AiSZvwMojTYwBZCIq3vjkRbPKkUOjY2sd3uDQeX+JwLDf+nU+8NNhb/ZhUEpQQnutLZNuLXRRd485rXwPhm1JuJM59A/cAtLXHIxmRUWCLtRNc2Gx6lr01Ac0zPzD0b+4RFBfZGBUrslIdL81WtBP5dnL18p7IZ68bxfvtu1a3fT1v6ryjHyYV6Do=;Jm7WGbGhvsYr64tpHPghbQ=="
+secured: "71+7dRzOfQXLANcSUV1grbjwRoLhlIBRmlEUwXgXIGIqowah3XDAG8qtOgpzsVaS509gOrWmKwaGfMo1nQyj678KCROVp8n8LoHU1HO0L7ik/OcTVLlozbbQkd7f3T31PGY55T/WNeYDvQrtvLOmgaRcBTHFmnjWVKtreruSYffjIP8FPp3vqsbbZQ2lUVqhH4TACivXNpjugqOUjpUaBx7riykaKqaq8TUrzc3QN3xwESGJDI7Jg+LT40oVXfELYV9PvXNHNQ78hryoDJDplxDC6KWaCW3W78syrQHzZQk1MbWe1eHi7IThX4Le3aWbuO7J8oWRBkGx696ZCtakBTEtl0KQRldPaDv20phsVg8=;3jPW/lc8NbGfDEBMYPDvzg=="
 ---
 

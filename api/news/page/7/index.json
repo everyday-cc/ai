@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
+      "title": "Last-mile, landscaping and leaping robots",
+      "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZtlRVO8fpE0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
+      "publishedDateTime": "2021-06-17T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-artificial-intelligence-ranks-colfax-corp-and-evertec-inc-among-todays-top-buys.md",
       "title": "Artificial Intelligence Ranks Colfax Corp And Evertec Inc Among Today’s Top Buys",
       "excerpt": "The Dow Jones rose 30 points, while the S&P 500 rose 0.1%, and Nasdaq was flat. Make the most of this market with today's Top Buys from Q.ai's artificial intelligence.",
@@ -1081,8 +1133,8 @@
       "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
       "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",
       "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255",
-      "originalUrl": "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "webUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "originalUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1099,13 +1151,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "ampWebUrl": "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
       "publishedDateTime": "2021-06-16T18:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
+        "name": "WTAE-TV",
+        "domain": "wtae.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1116,57 +1168,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
-      "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
-      "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "originalUrl": "https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106424520-1583341306047gmevbarra01.jpg?v=1583353549",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html",
-      "publishedDateTime": "2021-06-16T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

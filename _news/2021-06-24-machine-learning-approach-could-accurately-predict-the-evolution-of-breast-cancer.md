@@ -52,6 +52,20 @@ related:
         width: 1013
         height: 675
         isCached: true
+  - title: "Machine Learning to Bring a Revolutionary Transformation in Software Testing"
+    excerpt: "Machine Learning to Bring a Revolutionary Transformation in Software Testing  - The test automation effort will continue to accelerate. Surprisingly, a lot of businesses do have manual checks in"
+    publishedDateTime: 2021-06-24T07:27:00Z
+    webUrl: "https://www.cioreview.com/news/machine-learning-to-bring-a-revolutionary-transformation-in-software-testing-nid-33911-cid-112.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 36
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_57Bl192I.jpg"
+        width: 705
+        height: 485
+        isCached: true
   - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z
@@ -67,6 +81,6 @@ related:
         height: 673
         isCached: true
 
-secured: "YiJjZkDA3WxRxPeYdpxzp4rvTq4fcLfo822tHBMW23+4DyPVQcH+1YkxAilb8AqxPVLomfnN36nqfM3LoEJ9m6ydAkN0895Ne7awzk/rtuTcRobVjfyfoYe4S2CfOqOCkrCBMbF611LhZOR2V3jMaFk+Ro4M+gffng0LdCU1sWpVZQXOga7Q38rljiK6g8A3oJ4Sz+uNXu4Y5hJt61jetIjUOHpMII7lDc56X1tQbO4YrcgRNroSlCkad9xYVpVjTEpQW40EEcgcH2VoFXBr5/VH9PTtMl5+qWU8WwIual92QoP/7FiPiodrDHT7JrJHO1VY6WGkKf098HnaM0fbq5Pa6OkiGou9lFKZJqFAk5M=;o9mJ+6l0Rpt7Zg6rOV1r+Q=="
+secured: "8/LAGW1lLSHL/575uWX5s1zedrtZ++8dtMTSlU0YiiF4KokqfMwoESJxyA0Gyvx4hs8Xky6ndXWyEEx9MxmIjSNb9yiJFULqg1KhgYJ5lpfFOPFIi1NtqzOVDZ5qF8qAiQ4h/XcZXDBl1hkvfObG/j/o4ZeDzScVxbogvQIRj3Y/pXkCwvvMdginrdP0FGOnBf06Q2edh3FvnYwxuAyXQtF6+UcqpHICZMp1w65WlpoUDmK/3kcJSOvYLtRgfsPk2hKko1J2x2evKKbol9OZ9XKBJ8WLsXH34oNpzmojYey4SG5XF+YndUuklfQ0d22oYROfHthKc0iVxaLCN8nJGVYypPFHTSX6zqNgLNsDMeHYGCFn/TZjvp3JFUYVKiiWxxdsYnX78Fi6eOUQkIqOaCcd8gLQS0wABxCmMfk3w/pBVZB4oCaPA259LIrJ+sWb73kNLgQt2j1it9jb7XwE2pQxDM79btiBZvSdXDktufJq9nfUF/8BK7MXti3q3ZRB3rJaYOl8mSiVufVKudO7Uw==;Tid6hAQD3y0Ihk/gVrcpVw=="
 ---
 

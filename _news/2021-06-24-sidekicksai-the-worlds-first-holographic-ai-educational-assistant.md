@@ -32,6 +32,20 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Government launches first AI action plan"
+    excerpt: "Christian Porter said the benefits of AI include protecting the environment, improving health and smart cities, and boosting the economy."
+    publishedDateTime: 2021-06-21T04:23:00Z
+    webUrl: "https://www.themandarin.com.au/160734-government-launches-first-ai-action-plan/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 37
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2020/10/integrity-commission-.jpg"
+        width: 795
+        height: 530
+        isCached: true
 
 secured: "7jGBKV1D7D/xuoCowAgZbiaRoUHufREHw+uAE3Cr4yLdqJtrzLL6Jtp94B7DPvTQG7+SpOTFbGhTPdf4rSvCpVvNJ1v+NHr6ukEPWlQrVcCRtyQ3CZvCntYkcECMDGJZxILwaw1oxm8M6ylhZKc8x87BfF2fSc0tCIQKWoT/xIPl33TL6qCKiZWMahn4dnNMJ6+qL1nBkwkUye7FVPBTxle20vZG1oIuAIyT3hlTgXg5kFdYfBW2J1e5yB3hFLs8Nkyn9XM7lBZYXkTsyLOdBhF0A/etVDJ6oKeE8UGxakC+QgS4eNqWigaHQEeN1eiJSphINeauk8tk9R8q3FRIcreOECVZVHQxW43vrdhyjhs=;36EOy/uhR19CayTy/br3sw=="
 ---

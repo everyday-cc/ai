@@ -65,6 +65,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning to Bring a Revolutionary Transformation in Software Testing"
+    excerpt: "Machine Learning to Bring a Revolutionary Transformation in Software Testing  - The test automation effort will continue to accelerate. Surprisingly, a lot of businesses do have manual checks in"
+    publishedDateTime: 2021-06-24T07:27:00Z
+    webUrl: "https://www.cioreview.com/news/machine-learning-to-bring-a-revolutionary-transformation-in-software-testing-nid-33911-cid-112.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 36
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_57Bl192I.jpg"
+        width: 705
+        height: 485
+        isCached: true
 
 secured: "mv4VjrBafuT73uD+zxpoZ1Hf7epzuT1EbBfSR+WaDTvHKOuzqtKTB8Ilxi3M7rpDJQriqGuzgrJP5mg+nnUdKzFRGTYAfKHc0RI52JL/9aKR8LUgWSmhGuhwnXdgcyK0/MHTArgRoQNi6NasUuylbRRgrYMozTJVQ8hRcSAIlXEol8pJD4NjxHO7ILoXlPYz74fx2TPcBihjQUyvhnop9F3Qq/v3XvMiZwbisCdfUHnXNecQvOAtFf+YxfopXT3RJZP+zrDfowYu5wzLl6w2Omy5WVNwNvWJ7G74My9n/2y9BBV3Ukwz1FSL9vtHT59hBLx8bEpFvHxJk8qMxNIeJLcvE7TBYvZllje+EG9c3L9Ph+IwZqjCBIUsqXNy1ObDrcvE4WgfYT3lGyrJv+jYoNhP/eBceeHsgMkuGxanYECf4G0hPmyTTeLkyZl4ShUeLg88SwJXUsT5sR0iYQlSOxEiNEo2UE7UDprSLHMtrdgfm/sQ24hAfFoEE+eeGPem/N51veS2F6v/mI0yMGcLww==;3gKGt+lsHy/w90tUfNqvBQ=="
 ---

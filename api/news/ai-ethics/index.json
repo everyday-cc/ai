@@ -541,6 +541,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-15-appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies.md",
+      "title": "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies",
+      "excerpt": "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
       "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
       "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
@@ -580,40 +614,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies.md",
-      "title": "Appens Annual State of AI Report Finds a Shift to Internal Efficiencies",
-      "excerpt": "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year’s report reveals a significant year-over-year increase in AI budgets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/",
-      "originalUrl": "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

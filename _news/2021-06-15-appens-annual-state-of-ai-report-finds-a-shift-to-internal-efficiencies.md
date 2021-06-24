@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Appens Annual State of AI Report Finds a Shift to Internal Efficiencies"
-excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released its seventh annual State of AI report. This year’s report reveals a significant year-over-year increase in AI budgets,"
-publishedDateTime: 2021-06-15T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/"
-webUrl: "https://www.financialbuzz.com/appens-annual-state-of-ai-report-finds-a-shift-to-internal-efficiencies/"
+title: "Appen’s Annual State of AI Report Finds a Shift to Internal Efficiencies"
+excerpt: "Appen Limited (ASX:APX), the leading provider of high-quality training data for organizations that build effective AI systems at scale, today released"
+publishedDateTime: 2021-06-15T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies"
+webUrl: "https://www.businesswire.com/news/home/20210615005050/en/Appen’s-Annual-State-of-AI-Report-Finds-a-Shift-to-Internal-Efficiencies"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "XJHC1C9Q77b18aVD7x5Sg7q1wjDFEPfW1NXnBasr+zCxg/tUfNTXtZdioAeVp0pNgnNKQEvpYGIFjYO0lYsJlUUweWeoR0TRl8gy7XMeb3165k0/km+SmTga086yYhCA24JIUrj3MrfM1OnnaQ+hWhuM0viYJImSQY4KCqewO5vDhwXJGTsrOr16mPfH99TyVpdbcsIOqASMey/8zlHj4ijM2l4twTVE01FV3UaPgyBFZjnGbEnpSeHrMxXWW6/rXjLWwzPiu6Tif9VuRmru651IYFWKoGCafwgBve7e8zDDEuXwlShIaTliTaNgE1t7z/E1Cr4R36zfGsda1H9PEeyFoezpsq6gt+TWBsHMnQI=;Zx8wZJrO9fnwuHqaTZw6fQ=="
+secured: "ZF+NlYuiAbwnlOpPRs8hqoMSe68XRocN29QFO2MB6pb3wIKhWeVM05gxFkD9K++NeNEvOFMGPJyxOhc1/aiRChRLbUBFznl58ZqPs07jeRoLk49e0/klMUf+74Z8OD4lYjP5d6tffYQF2VaC53d4NM+TRLZwe7Qobi448nXsicXyTAytkILyOjFnS9L7CL7Z+ozvFC1ZWmb115mlhrofEXAMc73TJDcbhv8dK1zLitf3Qoy7AWveuHztAlIg6Rjz1OHhJSj/j8yKu9FxbUkbz0kgnpHgyn6jTmrKk1HxoDfhiqUNM+o6hlTwwZyyI7Uq7zj2p3eHx1HGEAtHyLI1kPornLCNYkEuCYjhsAdHXtE=;3xndj6swhH7L3b2RyCBBfA=="
 ---
 

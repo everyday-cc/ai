@@ -2,6 +2,40 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-05-07-best-tech-stocks-to-buy-now-4-names-to-know.md",
+      "title": "Best Tech Stocks To Buy Now? 4 Names To Know",
+      "excerpt": "The sector comprises businesses that sell goods and services in industries such as ... with the largest market capitalizations such as Microsoft Corporation (NASDAQ: MSFT) and Amazon.com (NASDAQ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
+      "originalUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-its-time-to-train-professional-ai-risk-managers.md",
       "title": "It’s time to train professional AI risk managers",
       "excerpt": "With European regulations underway that will mandate AI safety, businesses around the world will face AI audits.",
@@ -1155,49 +1189,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-minds-without-brains-the-promise-and-peril-of-artificial-intelligence.md",
-      "title": "Minds Without Brains? The promise and peril of artificial intelligence",
-      "excerpt": "In the view of many scientists, Artificial Intelligence (AI) isn’t living up to the hype of its proponents. We don’t yet have safe driverless cars—and we’re not likely to in the near future. Nor are robots about to take on all our domestic drudgery so that we can devote more time",
-      "sourceUrl": null,
-      "webUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
-      "originalUrl": "https://3quarksdaily.com/3quarksdaily/2021/05/minds-without-brains-the-promise-and-peril-of-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3quarksdaily.com/wp-content/uploads/2021/05/Farrell-360x202.jpeg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "3 Quarks Daily",
-        "domain": "3quarksdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

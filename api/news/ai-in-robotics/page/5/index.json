@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-20-equinix-uses-precision-robotics-in-healthcare-tech-quest.md",
+      "title": "Equinix uses Precision Robotics in healthcare tech quest",
+      "excerpt": "Digital infrastructure firm Equinix has announced that Precision Robotics, a surgical robotics startup from Imperial College London, has deployed an NVIDIA DGX A100 system in Equinix International Business Exchange HK4 in Hong Kong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
+      "originalUrl": "https://www.theasset.com/article/43680/equinix-uses-precision-robotics-in-healthcare-tech-quest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theasset.com/storage/Image/2021/May/1621487663robosurg4c.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asset",
+        "domain": "theasset.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-brain-stimulation-evoking-sense-of-touch-improves-control-of-robotic-arm.md",
       "title": "Brain stimulation evoking sense of touch improves control of robotic arm",
       "excerpt": "The brain-computer interface user was able to transfer objects with a robotic arm at twice the ... let alone a mind-controlled one. In a paper published today in Science, a team of bioengineers ...",
@@ -1356,49 +1400,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-researchers-create-aifoam-for-robots-to-interact-intelligently-with-their-surroundings.md",
-      "title": "Researchers create AiFoam for robots to interact intelligently with their surroundings",
-      "excerpt": "Robots and machines are getting smarter with the advancement of artificial intelligence, but they still lack the ability to touch and feel their subtle and complex surroundings like human beings. Now,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-create-aif.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-aifoam-robots-interact-intelligently.amp",
-      "publishedDateTime": "2021-05-10T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
