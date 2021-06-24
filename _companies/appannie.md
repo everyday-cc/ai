@@ -2,7 +2,7 @@
 name: "App Annie"
 overview: "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences."
 type: "profile"
-heat: 320
+heat: 262
 
 website: https://www.appannie.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "App Annie"
 
-secured: "kr09rsfuN+77fg5mncfohvAgcTO5IqcXa8L9W0On35iEtdECk9NnAtCHLnzah6URmaqeRFZG0f0PuiTgF7zRB+AHKQaoPioYOzbMxQKCkG4Oxje/oOjrG8rgJX0LOz+HKutUEkYYQTJt53OZHfwlHv+6EhMPm6Jn7v1ooEk4cw/t5v4FDvduRRObajRnWl4JaCHlYNOxRVYjYyKfY/Gu8eAmR6LphPuFG7T8zmTSZAp2yPqd6S+dGJWTFo/Uia0ScLZtLpATSMWgI5WqG5HXJ4qWp6UB+6gO99hcd3OGujbkHD1R6NEcixhl22a9AKWTsdAOFSSx5ny+2aOfggscWJ4OWrCyJTD57pifbmDaP8fOH94sgxfN1nEb8HB5PCw6xOlKwMNfF0NqAWNHWl38yjDcTnErzUWq6qL313iJiHY=;GCXUfi2jPYx3L9jTwvtaGg=="
+secured: "kuqezKTNXBUUkRNab4QJPlUtHf7XC3UKARBebfFCyvSLKNDoYdZeWdXEpxAhiX5/HJ0Z1+Az62KYD6BrZIX1oCi3pjbKwgbzEM+CN/lLAKRZY1U1Ep+Lvh8rFw1c27gcE2uGf86gmQ0dI5rxHtC17+DH8Eb0Auxs1VBZ4nvTen5Mtz7KyEdYB65N4v9CEV6PWIxSymKC1wV02Ff5pMOBXRX06/saLKM5YWQGQXEVVr9VwM9ZsQtmyH2sqSz+82XwSx8UIjIzLLDL3jznADoP5XhRk0UoB0dNJEeb1XjOe1sGpsJvgsLSpklBzYlBnegT18Gx6vzJIuU4gm9oqz2mFuThedzmpas0FUiyx5y1FnawP1NAilpdHgdPMNMvxPB823HppP36LPkqNVaNr4asx9QCcYyHUrVc6B/KiHUcZUs=;M/uOqv+WNB2J659P29C/dQ=="
 ---
 
