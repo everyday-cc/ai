@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-global-precision-medicine-software
 webUrl: "https://www.tmcnet.com/usubmit/-global-precision-medicine-software-market-report-2021-2028-/2021/06/22/9395457.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
+    excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
+    publishedDateTime: 2021-06-23T04:42:00Z
+    webUrl: "https://www.openpr.com/news/2311364/outlook-of-global-emotional-intelligence-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "Global Applicant Tracking Systems Market 2021-2025: Emergence of Artificial Intelligence (AI)-related Services - ResearchAndMarkets.com"
+    excerpt: "The \"Global Applicant Tracking Systems Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The applicant tracking systems market is"
+    publishedDateTime: 2021-06-22T09:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659796/global-applicant-tracking-systems-market-2021-2025-emergence-of-artificial-intelligence-ai-related"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1EweGDXsHMZ374kTxHYN9mGZSvnQkfzmWMb7adnPIA663IOJ/KY+OchCQlUzjcqT1vM+KxfLc9LeaBNvQJnsdKYMyj8rprO83zbC8kV9Xc4WNm3q0J5SWsAG4hf2MmGi8V9BbSNXVPcffD6oB1BMflpzjo7baXpzzGjTZxUssFIlcs2kTCOLEtw83KpSx+IwmAQAI8SEwXKOkkGKWhpcsEetgLr8Je/A9UiIQ9ooQw3t5n06PgjCXYWnxVGCDsb/NRm3z3kbSj+ly4PhpdzKhQFX5TK9Lg7qd0Oty5evbI5nDHgqyKDA3v5IvxWLImv1sbyGYQdEq8ehSnqAO905pBfnZMQqpmLo2ajKyHF6wPc=;8pe+MbF2qeAZlivYGo/pXw=="
 ---

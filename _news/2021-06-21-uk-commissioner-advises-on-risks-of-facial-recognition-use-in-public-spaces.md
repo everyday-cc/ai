@@ -71,22 +71,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "EU data watchdogs want ban on AI facial recognition"
-    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
-    publishedDateTime: 2021-06-21T17:00:00Z
-    webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
-        width: 1920
-        height: 1357
-        isCached: true
   - title: "EU bodies call for facial recognition ban in public"
     excerpt: "Two EU regulatory bodies lobbied for a ban on the use of facial recognition in public spaces, warning AI technologies raised severe privacy issues."
     publishedDateTime: 2021-06-22T10:45:00Z
@@ -144,6 +128,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 54
+  - title: "EU Data Watchdogs Want Ban on AI Facial Recognition"
+    excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy. In a non-binding opinion,"
+    publishedDateTime: 2021-06-22T12:54:00Z
+    webUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 54
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "EU data regulators call for a ban on AI-based facial recognition software"
     excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
     publishedDateTime: 2021-06-23T04:14:00Z

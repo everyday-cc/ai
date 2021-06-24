@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/06/22/deep-learning-is-our-best-hope
 webUrl: "https://www.datanami.com/2021/06/22/deep-learning-is-our-best-hope-for-cybersecurity-deep-instinct-says/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity Startup Illumio Raises $225M At $2.75B Valuation"
+    excerpt: "Cybersecurity startup Illumio, which offers Zero Trust products, has hit a valuation of $2.75 billion after reeling in $225 million in a Series F funding round."
+    publishedDateTime: 2021-06-24T20:06:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Illumio-investments-Zero-Trust-cybersecurity-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
     excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
     publishedDateTime: 2021-06-21T10:36:00Z
@@ -54,15 +70,6 @@ related:
         width: 1280
         height: 889
         isCached: true
-  - title: "Artificial Intelligence in Cybersecurity Market to See Thriving Worldwide | Fortinet, IBM, Cylance"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of Artificial Intelligence in Cybersecurity The artificial intelligence in cybersecurity enhances efficiency and effectiveness of the cyber networks."
-    publishedDateTime: 2021-06-21T11:22:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-cybersecurity-market-to-see-thriving-worldwide-fortinet-ibm-cylance/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 5
 
 secured: "EmZkai31zAE0F0ENcnw3C7kn2TkO4vYImIYwSzCUHO/GGAFZZejt4vu2A5sacCwbD9JzHH7cbvz4YNWWLlHRAl84M6Eo1jfwoF53QmH0Qfk8Nu5og+w/MJKnFvhoNu+dEQuzGArYtXzapSP8mUFiwI2C5cKn0qgQPaCkjNqSrpmJ8Bc0rPx0Ujty1mId55NRy1VrM60oVSXByRUqI/BW1Uc6sFg0dW7ALm+OkI+lMTpgMMI78YiYSjJxO9W2PhU/5yGvl1XMuDj30G8BXp6VKDB/jcki4IKr18U68Fvop/YjX1HsIE/n+75Eq+WC7P8K7LzaSdh0jRI+61SMgFUASwCfjW5aDV1sXedhAKNP7qrCF5UrZVYKmx+gao8WzNfAA/zNKFseo8gBaJEstfZqVQBTylOxxXfI+nf2Up6fR3T1d6CYLytIF2TLxCryYaOC5dq+Hd2RPimL4So+WTR5RQ7+3m7d+583XZCXZBD4juVeWwjumeZEgO9xlR6hfZ3TSQMNW/8dvyGxcSnPH819pA==;p5BUu0DOBrpcnsfKCGfrKg=="
 ---

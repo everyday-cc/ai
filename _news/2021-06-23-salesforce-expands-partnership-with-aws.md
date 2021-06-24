@@ -121,6 +121,15 @@ related:
         width: 770
         height: 432
         isCached: true
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "Amazon Web Services, Inc., an Amazon.com Inc. company, and Salesforce, today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new"
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 24
   - title: "AWS, Salesforce partnership to unify developer experiences"
     excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-24T15:28:00Z
@@ -130,20 +139,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-    publishedDateTime: 2021-06-23T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+  - title: "AWS, Salesforce strengthen cloud partnership amid steeper competition"
+    excerpt: "AWS said the move is an effort to \"integrate\" the products of both companies. The extended partnership is also a response to competitors such as Microsoft and Google."
+    publishedDateTime: 2021-06-24T21:53:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/06/24/amazon-salesforce-partnership-cloud.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-        width: 400
-        height: 280
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "8MzRojf9loXpcaS9hpAEgotI2XO3zag8nSQRIJKLS/CT4ZsenBdMWSb4B3uh1fQZ4JPZahJ5JRJVhY+i46piYrmdLfWWnNpQqhoMNiFMMhbGQnRgyxFdprGPqqeoIuoXce0w3enynNEwpw78YnhQcg0wsmXGGUy+uEJ3q7fvbjQXiinh57pAicQaYVTMnSqrOOaVR4jt1crjkcyRuyiy8X6IIwo6HwFuHYfd9GdQUhg7SpneYMvT+zWPusuyNDiyv8uL4Zl7CHwZHtVl1BJ1YhClLFVrWYpeS3XTCj5Tp1Pswg/Zd3a5zz8QnDu8G/fvkP9Cn9n69ApBz6cswjJU+octpy1VJArno4M/LSKQHDc=;sgTtHZ4JPWNMNG/1WLB3gg=="
 ---

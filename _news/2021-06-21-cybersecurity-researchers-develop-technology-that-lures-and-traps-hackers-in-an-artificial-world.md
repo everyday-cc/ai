@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity Startup Illumio Raises $225M At $2.75B Valuation"
+    excerpt: "Cybersecurity startup Illumio, which offers Zero Trust products, has hit a valuation of $2.75 billion after reeling in $225 million in a Series F funding round."
+    publishedDateTime: 2021-06-24T20:06:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Illumio-investments-Zero-Trust-cybersecurity-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Deep Learning Is Our Best Hope for Cybersecurity, Deep Instinct Says"
     excerpt: "Thanks to the exponential growth of malware, traditional heuristics-based detection regimes have been overwhelmed, leaving computers at risk. Machine"
     publishedDateTime: 2021-06-22T20:05:00Z
@@ -52,15 +68,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence in Cybersecurity Market to See Thriving Worldwide | Fortinet, IBM, Cylance"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of Artificial Intelligence in Cybersecurity The artificial intelligence in cybersecurity enhances efficiency and effectiveness of the cyber networks."
-    publishedDateTime: 2021-06-21T11:22:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-cybersecurity-market-to-see-thriving-worldwide-fortinet-ibm-cylance/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 5
 
 secured: "Vt6jrQR8+boLtp1Bv4dekpHxHnPTD5ftKmcD+7pO+yJtwuHzWfzuG5lrky3z3qOCj539aNh/tm+Elbu1/dsged1SFR6vGvnrYbx0Zo0wvUV6XG301HYmisPsRUAZVkl45rYzhboASjzDpdfYvaYD8qQbM4IAahlAUr87M5i7AIEWGIJDo/rvaEBjEC38b1sSjpBMQeRe9ZT77ZTzPcv7D+VTYKm/tk+NYHjd+76fEytexJ+F9eyK3I+ZuTY1+yFdWxLtG59LQk6P4d7hyljdFlQxeUGrhWhnEqetxj/teLIsxn8B9X21ZmQ3eLQiE640wGPrB5etgq6gLmtMmYKw0rcu9nqt57sl87PIDQD+8zU=;02wB+B3mz2nb65G/4deBJw=="
 ---

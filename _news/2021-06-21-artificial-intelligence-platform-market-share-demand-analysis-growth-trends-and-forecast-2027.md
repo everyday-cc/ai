@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
+    excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
+    publishedDateTime: 2021-06-24T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/bfsi-artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2026-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Study: Global Automotive Artificial Intelligence Market 2021 Size, Growth Analysis Report, Forecast to 2027"
     excerpt: "The size of AI in the automotive market exceeded USD 1 billion in 2019 and is projected to grow at a CAGR of over 35 between 2020 and 2026 One of the major industries using AI the automotive industry is"
     publishedDateTime: 2021-06-22T14:55:00Z

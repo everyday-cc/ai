@@ -1,29 +1,27 @@
 ---
 category: news
-title: "EU data watchdogs want ban on AI facial recognition"
-excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy."
-publishedDateTime: 2021-06-21T17:00:00Z
-originalUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
-webUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.html"
-ampWebUrl: "https://techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-eu-watchdogs-ai-facial-recognition.amp"
+title: "EU Data Watchdogs Want Ban on AI Facial Recognition"
+excerpt: "The EU's data protection agencies on Monday called for an outright ban on using artificial intelligence to identify people in public places, pointing to the \"extremely high\" risks to privacy. In a non-binding opinion,"
+publishedDateTime: 2021-06-22T12:54:00Z
+originalUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
+webUrl: "https://www.securityweek.com/eu-data-watchdogs-want-ban-ai-facial-recognition"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Security Week
+  domain: securityweek.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-ai.jpg"
-    width: 1920
-    height: 1357
+  - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -249,6 +247,6 @@ related:
         height: 270
         isCached: true
 
-secured: "9HTHuaJSUF5YqAgsBQ/l/GbFDcF696EG77W3tnso8xH93Zgn7V4Blzl/LyVjfE0+/RJkt4BIvMl0fEcXiVMDlj/W3c1D8nyxe1c93ewZpn5nfVLIQbZaT9R9hh4L1NCc0uJH69hja+TxHA8kg2UcWWTZNxFXI2CUq2MGr6TB7jkpM3L149vC9p+TmmHzuzrneeHrjV+UDxed/QZy28BZVAAio8qR74XEw1np+uCJnXK6gpnaVH/2XfRoWFFomHkdFHQQx99T9eGjpYuA9+auTY2KjwK1JczpA11G4ZAoni+7Zjs8lCJxUeloarmWstGx4A69PA6KARk6SHt5/t9wOuWUjDW0XsrL7OYKzxfuR0kIRIRUKjK1Wy5lEqlNdbA/mpIuOPUN9oOKFTUDVFRM/0mIxaLufJzICkn5y8czx0QdaRRlmaVsL28oY/Z7zEe56cWY9YSBBSL6SHmhUhNCECPEdGRGtecOXHO7a+RWsg3H/OLW4df6Lgr6zH8cIZjelqRa1uj2ODV6mUTIJrH+6w==;FXWE+HC3X7XAKlr9MIQjTA=="
+secured: "gLJxZQQhe4IowxzAmLzTmZ+Vw7WFPspujEgcgja9/HICQeXnV3RD7XYH1VTGakt429KjgdiXTdG4MJI7DfFbgpVDKaecP8n8FsTk/Fgdcw+fkZMcjexzrXTcdIu8YfQPYNPRYoRxX52uWsOXpvZTnY7nazTiyxV+MD6G6AA//F/RRiDhjDLg0wALgI34rGiRDQRFcAL5V3dcDeMZyabJh7FExcOXiMTBXdmt1dhVOwkEHHDMIVD+btc9Sg8GigdXMdSQBHTyQD96bpmSjHsIDzAaLfefntG1pTL7gzJ+9ap5peb8BPlcZJJL4U2BoyitcyNopS0sGTyyu2DJQgcyIbkEfa/Y9SoZE9oUyWqMmYI=;4+mmG1makPhUd4LfvEcSyg=="
 ---
 

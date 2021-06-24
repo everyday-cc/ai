@@ -20,16 +20,14 @@ topics:
 
 related:
   - title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
-    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its"
-    publishedDateTime: 2021-06-22T09:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21659429"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659429"
+    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
+    publishedDateTime: 2021-06-22T09:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
       - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
         width: 400

@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
-    publishedDateTime: 2021-06-21T22:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+  - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
+    excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."
+    publishedDateTime: 2021-06-23T09:12:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142407/europe-artificial-intelligence-chipsets-market/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-        width: 400
-        height: 226
-        isCached: true
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 10
 
 secured: "gG/Y4igpkVvgf0K9wmOOlOyRnVsFnQdxDkxPoz7xaa9enIifGFn5CQuKBed8YI5QSq2ze5kGn7OlQwndwxpSoCKyZOsNy+ClkfsUz8MnD7oLNrB077wYwWqD03alAZiouU+/4j/F7fdR7TUJiNy7GlqcSeV11CiGGFJDmRLgljIHaO+pB2ec0iwtKb2FHcBnLbDVME40VMsUexuuQu6HjKR8VROCyRhclJGgdvxyVTpimhPWUTFyqZ5yhWsSFkSN5/TMf96kDc++/lLceybuJsSJYEFY52wQzM6x+UmYrlMlHa855XIF9rjceeaoieR1SoVlU5u3M05zz3ifmJvaVNUQNNbIh0h8PHMTk1B6oQk=;ju8zjhgwQX7P3BIr8WritQ=="
 ---

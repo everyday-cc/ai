@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-large-sca
 webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 564
     isCached: true
-
-related:
-  - title: "Build accurate ML training datasets using point-in-time queries with Amazon SageMaker Feature Store and Apache Spark"
-    excerpt: "This post is co-written with Raphey Holmes, Software Engineering Manager, and Jason Mackay, Principal Software Development Engineer, at GoDaddy. GoDaddy is the world’s largest services platform for entrepreneurs around the globe, empowering their worldwide community of over 20 million customers—and entrepreneurs"
-    publishedDateTime: 2021-06-22T22:54:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-accurate-ml-training-datasets-using-point-in-time-queries-with-amazon-sagemaker-feature-store-and-apache-spark/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "Ggw/TD6owLdskVbqd6A0YtTyl14xaBdMF/RyWzdMCTu0yucEej6i3aibQJXyfv+njvzo35VroIvXUzSSplIKW6u8EVC0zTWEj7dO4C0xu3YbvR7uF6M4ChW7GthUtqMeWFMeWsnqM2TFifMX5+085gB5q3+4LViJljxgcoxRpP1XAXRAyjsf02dhfIN6X9hANFRADLH54EO3gNKoycvYcD5BYRdKfZkuQ0zq/g2EVuJkLYfydw25RgIzEkDF1NVNCoR7d0QK4Kep4ykZqk1VxCOwHoZKzwigDUQXyGfC9h2W0FiRp7lWXmsMIn1r7sDEYUGuDjF7u3jyniMCAgQZgNcG98nvEx240IREZwcVM/M=;MvWYVgPoLBD9DEPQLUf/Fw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
 type: article
 quality: 120
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
+    publishedDateTime: 2021-06-23T13:51:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind wants to use its AI to cure rare diseases"
     excerpt: "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases"
     publishedDateTime: 2021-06-23T05:00:00Z

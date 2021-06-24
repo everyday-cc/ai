@@ -41,6 +41,22 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "B.C. privacy commissioner considering investigation of Liberal Party use of facial-recognition technology"
+    excerpt: "B.C.’s privacy commissioner says the use of facial recognition by the Liberal Party of Canada raises privacy concerns and he is considering launching an investigation"
+    publishedDateTime: 2021-06-24T20:22:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 27
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/gdZLmTqQH5ZX8Bzxt21XRnn0P1Q=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OQSDFMKXJVNDVCJ4XQLDA2GQOQ.jpg"
+        width: 760
+        height: 481
+        isCached: true
 
 secured: "RS9aTZ7dHbR4fvvy0ocNLM3WqFtOy+zT2VDZJLsX449mhdFk8+pFcXxTBDmIi39SUjN4BQRHbYmztdokkovYS3jEvvvrIw4437uCfkhuyGYLwsMNkM8pW5NTf75qwXwJJZZ1tcdexthDnNd4HYpcdGww+8LEffzUbGUgsDVmX+K9n64OV8xho5xHg26SmpM9PtPfY6Yvrg6mZVTlZq7bK9hxVtpKilpWc/uLfaXE3Mjl0Si+xvZyygRgVkYaCcHxDe3Qe1ff9clRedejHEAryRaV5aV+k6jQz3nVqsYqgA9WX6BxdGFSJQ3A+D44E7JvkAxG6VDSFwtRYlBv6YSCnn7t66F2MnqQNMWQ0VxFA4s=;X6qgXV22iu/m2L40P0/dOg=="
 ---

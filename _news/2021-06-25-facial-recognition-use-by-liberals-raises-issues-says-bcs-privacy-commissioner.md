@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facial recognition use by Liberals raises issues, says B.C.’s privacy commissioner"
-excerpt: "British Columbia’s information and privacy commissioner says he’s considering launching an investigation into the use of facial"
-publishedDateTime: 2021-06-24T19:18:00Z
-originalUrl: "https://www.thestar.com/politics/2021/06/24/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.html"
-webUrl: "https://www.thestar.com/politics/2021/06/24/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.html"
+title: "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner"
+excerpt: "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia,"
+publishedDateTime: 2021-06-24T21:26:00Z
+originalUrl: "https://www.nsnews.com/national-news/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner-3904750"
+webUrl: "https://www.nsnews.com/national-news/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner-3904750"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com
+  name: News
+  domain: nsnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.thestar.com/TARFRQcWETXefDlnkZyC7IqRH4c=/1280x1024/smart/filters:cb(1624562327718)/https://www.thestar.com/content/dam/thestar/politics/2021/06/24/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner/20210624140652-60d4d452b46c27ba2366fac3jpeg.jpg"
-    width: 1280
-    height: 1024
+  - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/06/20210624140652-60d4d452b46c27ba2366fac3jpeg.jpg;w=650;h=411;mode=crop"
+    width: 650
+    height: 411
     isCached: true
 
-secured: "YFTXVO4goe/2om7rb/yjSmBF4h0O8DsbGR0CoI5BUXVeMF61xBatXB/dHYGQWWNzactvY1aKuIC5KAooF6XE6H9H5Gd/u1Orn8Awp6/EmHPPCGEOsmbvVs/gz94QhMSWVYNsi5KOYh3GOqzc/IktB85bK7t4R4vszX6PU0dCYRLA6G+myxv+PhKI9BAQqvTvVd8DcmWVe00s9z1k0NflGx9KBKErG+zSat65+EmCjvsAGgWpqNlpFeaWUom43s819Yt9KTxX3Bw8xamjg25LvC7ilTM8yT5dOka3eovuMYux7m2L9ejPUzPrjTy9U5uApoTIed/ATpiPYgiERsx0UDAFmfJNhIfTlQijsdw6En8=;aVcuP8CJEbmQsDWPzo8URQ=="
+secured: "ML6R0yiEH6mV/XZxWcy7VEBEaNmSxRqjBBVKGfJlCsQ1rGjCHkRdb5/8E0FC5q2wFxUWhjMjA+QZLmcTWflRNqLnjOQJ8/1m201EJbf86DgfxvcKQc5JhuotJPHHu62wbvFPoomK1JyJe+P/58s0CkiEkkGFOIMbFZD8YzXLKCkuLlNrGFdURAaO8Gq6Fb8lYVd/ujvicR+dV42qObOp0iw7Ca71svaP+TtH8rLJ6PRNRVWPl4Vlab+N9jbTDpu/9B9g8/kqCnOWgjk22/k7AQCDB5+Ymeu1f4vF4du5tv5aCRlBNMFiLJ0lrsrQvLRN5U/gSe5P3xaguVxl80Kx1DNOqJuDWtLj2C6gJRd4gm0=;HmyhrrtFYQ42kaPqjc9xmA=="
 ---
 
