@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced Ping An Insurance (Group) Company of China,"
-publishedDateTime: 2021-06-21T11:31:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210621cn17373/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research"
+excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
+publishedDateTime: 2021-06-21T13:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
 type: article
-quality: 17
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -59,6 +63,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "p24g+fqKwP8sVZLXMTeQDlHQ1Is6NM5o3ZohWhPYcH8zwJwJ1moTT2DANVf15AC9KpIzLfXZ8OWwX9Hxx9Mou1LHwWvDF4K4HgnaBUZsrAkbEanRqLSZLAbbuhV9Ts9xTTc0+HohiywfTIILJk/NciXeobWz1SLPkmP0oqESI5ZS1RiSDEpLA9BgeS3E0zcFZGqB6NWw2Ql+fDpTzJpJDFr7L/H4XYIb5di+shAvSrM7zJxNhOV2t+RdeoFBbEd8dDLTod/GtTzvSaKSJPVNUUz/mKfR4j5aFMZ8BrAheET/6c7oJVYENyMjTvsYQBiwCR/GJd+7ke4nxknyP0KO/BING9rUGo/sJbVsXLJLT18=;XxdkJQvDaAFV11I6u+zXhQ=="
+secured: "mmKaw4Y7hHMXlQSMRFNp3PAqCO908kFOya5vQ/L6Jn52DGVTG+0uknlUAaIB0i/iE2KAiPE+2lMVjm35mqmt3rCOxHykltF1HD1zYTkgT0vyjTnP+o959IkTbaHsiFm7zklpt/hqQqhH17KrBteS1O9TsUIc+MUuuBClmSeSn3qzAxnOood97IoUGgG6/FbDFmqF/Ry4XulgH6lwaDFye/RdHrxBYcor50wSyh/TsYcNPnabMT2O4oEo0ZWGNkmaOutcQrhXHAvy22u8L+VRxmI65SMAvO2Yu088u6HBgyLa4pRg/ulmGeN1a8DRVDmw+37UEa01XEJSx64F6lXCr71oN2qLRVXdVUlHKWIzDwk=;I97kxMlrWCnrAXPcWEvK9g=="
 ---
 

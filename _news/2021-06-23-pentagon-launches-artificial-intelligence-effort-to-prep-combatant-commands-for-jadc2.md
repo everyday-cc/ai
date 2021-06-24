@@ -3,16 +3,16 @@ category: news
 title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
 excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
 publishedDateTime: 2021-06-22T22:13:00Z
-originalUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
-webUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+originalUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+webUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Marine Corps Times
-  domain: marinecorpstimes.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
@@ -69,6 +69,6 @@ related:
         height: 851
         isCached: true
 
-secured: "7oHNrNVuvuNYx23m0r5j0ZJGPwwo9Vn/xNhZI7Ie00PvwWGBzQWdNModPnKuDWyodVtde4ZPX1hV+xjwNouXSaEWlCFjSqB0Ozf8aDC8w5BMKiRVg6wV0g2IOBqegqYhhjlsV/1HSovADuIxQsuXMASHLblyxeVoSMATGcAcok8oqOqe92dLs/VK5lvVzSURvIeFz53g616KFY5IhIlX4TaQf1+GnnlbSoHoxBOYn/Gt643QbUiOEP/pTodfe2QXIF44M6UQTdHAv0/mXp1qpyopETzrDaqFgR+QRoGXbPeK69cdXGdc956C9EKiY7ZsUra8Yqesuws2umgTMMb181xST/5RnLF2hBncci5DhfCtDghwUWpQxAWJ1f/krE06nPYJRa8bTiw3G6ZmqsvK8GKFdlvUhovoE34PVdMZ9NwNMR7saCSyz9W2W7vOQqG59+gQfBPPwCbZr40ecKYIq76xs3xYaW63cy2k5gHNShX3bZhtWcKerwECshrBBf+14NWfcTRyqZeL7KGPHwjh6Q==;vUxK4gulPArmXDHY5e5bOQ=="
+secured: "ErF35p5jFQ5CwUABgkSXwV8t7CX0OQQ7J7FSLIhHLLzQtRMWwu0K03TIGtQXtcAAAw9oiTvuFbLDRs1InMZOn0ho11/fnOLsYDMvXrRo6KW3ggdCtDq0gn3gn26JLTLW+ji2czt2x6tW0IXHFZPRmkxQnr+ZTQGBjP9/pQujJ7+hg4ejCjfYlClCgMZRTvtRFdy8lDzXsVLd0f77nTD0CGG+Vv1YdQzVWZHZehr9AbvzvemxWtI9hPYRY4fmlVzwwDprvEJJzUhIYp9IA5a1Ynb6OjJIlKe12pNcYJZws9g29V/hMzotznrajB17OVylfK2aX1ToNJVy6KF1+yOX4g/TtLTY8ZQWsKc/I4WHHHA=;WmzDRwK97BGttKRHOsKTpQ=="
 ---
 

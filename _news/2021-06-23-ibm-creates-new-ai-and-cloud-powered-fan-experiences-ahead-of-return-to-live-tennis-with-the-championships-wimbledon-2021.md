@@ -2,26 +2,21 @@
 category: news
 title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
 excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
-publishedDateTime: 2021-06-23T13:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
+publishedDateTime: 2021-06-23T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
 type: article
-quality: 45
-heat: 45
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI
-  - Natural Language Processing
   - IBM AI
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
@@ -42,6 +37,6 @@ related:
       domain: computerweekly.com
     quality: 41
 
-secured: "i5fHEwTsw/bPDSjNBw1P3tzJgh/tCbV8XYiZjvz7hGBr70LYMPESZetXHDBHhqcWT+Pln4251zBzpQAGfSO4OwdsFy02ctZto08OPUohQGJHK7M0pD5iI1bnaBxXBnnyPTWTlH/PubG0ux4HRvQ68urDaW5vYd7KDP4zY1pOBvA8esHo4EBkqj4VNRW4pfcCyxAlvUWdj8ZTHvmX7HIHSxhGiDxDDVJMkE0gVRRpkA8OwtFk5LCxK0qkAKKYqma3jJyaLec2VEusNqlbh2+558dOpKZxQQZWNlvMFZrprgIQ4LOennMs6d/Fa3+Q1cb+76M1AVtMcZkokZGYbDiDFjDzBHoINz/TzLJeMuBTFTmFY3X8trhPvMnTqF5zaHQtxA3H+dBzmQNdjIoPWEu7+1w3H0oZ+ZRxE898NT+d3CZGvBXWD8vzX0/QCt1aRV9if5hqsHpsBT8nV1BKmIU9u6TELbnvVRIUc38GMvEqAZUAWhFlcUk9t/3JdCVqU0tXf8vU7Z5kfk3pGcM0/Jc7lw==;SwpNyHoEImiKC9hsIex+PA=="
+secured: "9+dDA7rzvkfxh3iNObFv/UGn2jTmhVSZgYl6KOPBwNfnWry+yhdnhLz8Dfm3l6EUI1aNkEzY1rsWbivm8+olaHRu1l0cZYgxxMeN4pSDluI3iBVRS3vJdcFwdJpFYH3bc2WGqcAeFh9VPyF1zosiI+2oi2dTEf52E2BXIvVdH37L3zdgGT1jrvgzqWWh0JQ2SpS3HBK+U/GpvuWWs4oXeCymCpuPXJcacWGN4SEZVSvDX3HVGAbhLiZ3N8884v/umJNSU6FmvkJFeU2lVoThpcDfYpebEgeUDtoCPG6Wba5iM+/Vb3otOSpJS1LzFXrmk6yFSJ/D2ce3d8xla2/aYnpkBMxgO/6RBzZ/Wk1k6A0=;8GiH9uV1E4/tdHQE/DywLg=="
 ---
 

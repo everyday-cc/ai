@@ -2,27 +2,22 @@
 category: news
 title: "Resgreen Group Makes Disinfection Autonomous with New Wanda SA Self-Driving Robot"
 excerpt: "Resgreen Group International (OTCPINK: RGGI), a leading mobile robot company, changed the disinfection industry today with the launch of its Wanda SA, autonomous mobile robot (AMR) that sanitizes everything from hotels and medical offices to restaurants and other businesses."
-publishedDateTime: 2021-06-23T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/resgreen-group-makes-disinfection-autonomous-with-new-wanda-sa-self-driving-robot-1030546352"
-webUrl: "https://markets.businessinsider.com/news/stocks/resgreen-group-makes-disinfection-autonomous-with-new-wanda-sa-self-driving-robot-1030546352"
+publishedDateTime: 2021-06-23T11:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-resgreen-group-makes-disinfection-autonomous-with-new-wanda-/2021/06/23/9395871.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-resgreen-group-makes-disinfection-autonomous-with-new-wanda-/2021/06/23/9395871.htm"
 type: article
-quality: 46
-heat: 46
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "GyeXGv9PDaPTSvMJbyWP8/xwdC7pbXeLZe+1O1vFCcIN4uqj3pvSoPX8TZpjiZrXsZ78vfnxl9c8e3jEAVgU+89xiZ12KXuf3QPWksRuiYqedk0h+eoTiX248RrTkb6yzlW/iPcz2HkPJaICqHZpRfoucHh/fnrYF9/O+WPN1t2oGa0Cc6JjXwSGb4ULe9RzCHbHt7gXjckJEWkT3vielohSTliTL1alG9w9O5TpfVt+B7ytmLxc6tHqExdqvJL1lSnIqe3oFeuui8xnhtH1n2MaQS4WIG2iZy/N7UomdVlx3dALFcSS2xAQIQ8WWNfEhwV2HJhAVmifcQIxo99hoqscztHvjS095gWeYFFijKQ=;vsWyG2ZagGFX7CI9wJCvTw=="
+secured: "DZg8tuPl4ORYs1Ufji/+ZsbmJAgd+Xpiy6u3WxGthvvBrFO7XriZSo5+ff3jBmHDlo61preXgvve84aRhxZiYu/0S7CqJUykDbSaVhiVQvk2tsV34B4ZyRNjb6umYFBC4j956nGyKAUOaXo9/gadfBtK8QX/f0cWIoX+hcjdNYInptRSoiQ2PkaOy7I5hAv1ukxPDrzbHJPTanxeg6pVc4Sx1fxRzWDnRhHdi56qhvi2Y/Gw634+G9cW+Auk4Zr64TNFjunDS5zwmKmES1m4FfqwtjbyrY6YOOAtyZ7Rsz4Gb0nPFq1bxoZrNlfOxC3RnxOIGZNN2iqCsDzFZwwyWGOITPHVDE2T0zlcgDnc6S0=;Cn6+gChBT5kUDgY2sbysAg=="
 ---
 

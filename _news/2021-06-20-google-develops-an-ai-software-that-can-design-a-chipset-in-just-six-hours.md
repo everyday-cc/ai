@@ -9,8 +9,8 @@ ampWebUrl: "https://beebom.com/google-ai-can-design-chipset-in-six-hours/amp/"
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-ai-can-design-chipset-in-six-hours/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Beebom
@@ -25,22 +25,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "What Google’s AI-designed chip tells us about the nature of intelligence"
-    excerpt: "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy."
-    publishedDateTime: 2021-06-19T10:01:00Z
-    webUrl: "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "mvbtRD4mU6gh9LNKSF5fn9qXWRLfXIVyUsk9krrvI4Sq0vqVtAAz0Y6yVnjnJmFUCuQbqgmj5jq6e/osgBvFD4d9SfvAHop7HtT4IbHr3TJWWXHv58KIYlutBLgSF/gKG2qd2/x/I27m5Y0DNQsbJR7kN9toDDFyiUE6xIaqFXAajrFH7qXkBdIRoDXjbp4/bOA90bLQNQtf+w2nlFtEwFQ3qq27wDTy4QzfztsiN8MtYjFqiMaS/pUioQAnJR94/15IQ98xCXaIJCQOFMJjPHHjBNiEt9tD1HX0JRV2Zd7rxBq6NLffgBxqI96+FuXmW1M3SvqG+/jm0gnluh0uR6TmNJKp3hvKu/SB7bXoMDtZEE9qVbKW4inDNexTz3SH7XAymgCqcvf1A2iAGP/nJ7cdpxvhYX2dBj4yQYcmNBCEHEXrKMEhvd5OYlgj1PiNDgfskcxbYjpBgqFFOTkq2vQPavlq0eb2VlaKFQRIc/hgQu2hHnae0J0DBJrb5CTU2ajCpF+4L/WMbxMVINUcvw==;6IcLEsf9VYl82w2N+xc9BQ=="
 ---

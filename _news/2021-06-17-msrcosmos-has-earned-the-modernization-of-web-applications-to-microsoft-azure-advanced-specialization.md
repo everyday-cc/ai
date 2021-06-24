@@ -1,20 +1,22 @@
 ---
 category: news
 title: "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure."
-publishedDateTime: 2021-06-16T18:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm"
+excerpt: "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization,"
+publishedDateTime: 2021-06-16T18:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21594082/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specializat"
+ampWebUrl: "https://www.benzinga.com/amp/content/21594082"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21594082"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "iCcfeo083m4K4kD4TVceVdbROovxmxQBcJbxPc5lIatCC0j85/PFg+KCaB5xQADLOKExS9IYPDV1WDOUko/J355TjL2nOOwjCimHKdXcskPg4rISce776APS7JsFqVhwt4oAiJn9Hew8mGb8hwk/tWCrx/BR3eUF58PpA1v4sfpswTMp9yhC6yhnI51z7QETJnMN/sbwsBgzkkujR3bHJpsP3o/uXPeEWPNqBxuWPdVH7IOBGLLYcoHrZ5uuI5NyQfhLZVXuUEa787vPYDttZC3C9WbGDxtlJDAswhyRRL7yUtJJR66vQMkyK1oHDC3mTMF04Bgh38WV8FVPhhx+ohC8PAw+gA9Owi5X7nWbeWs=;nYrFUOYRA3dEzQGFFdTpQg=="
+secured: "e/p90XBhX83rKPSveAVr5ZPISP4KFGLnj+0ba1vo+jTBAMf0z6MIVKDrelPZysXxuhP6MNmOaMzTG7z2bXgwe4pNlTfC/oAs/bBQiA89vUHeyCN4Bp1OPbmpclk4Iy6YNARLjbIHflyg1qhXF1r0vfSHKqvxWlLzofyP9udRUz50KJ0DK7nVbTiMfUTFvlJW/lJ2uZzFqTAhTSjTqscjEw7UZKKMgC4mxFmE4LPEciShKNrKQyQyMlPyxe7KxOIN5VhngiuUTSmZaIk4yd7sEQQwAclSLlvVpPwosfEeylqLb8PSIpSPBg2pkUBjCyPNLDYDW+zIoPeQSnwA7fkztFpICUn/dCxiN12EOXpnImY=;aMDlxcBT4+Ns76EYAUKLAg=="
 ---
 
