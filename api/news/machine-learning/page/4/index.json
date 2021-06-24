@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-27-udacity-aws-to-offer-free-courses-in-machine-learning.md",
+      "title": "Udacity, AWS to Offer Free Courses in Machine Learning",
+      "excerpt": "Launched two years ago, the course has been updated with several new modules including an introduction to Reinforcement Learning (RL) with AWS DeepRacer, generative AI with AWS DeepComposer, and computer vision with AWS DeepLens. In addition, the course ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "originalUrl": "https://www.news18.com/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/05/1622109948_scholarships-online-free-courses.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/udacity-aws-to-offer-free-courses-in-machine-learning-3782669.html",
+      "publishedDateTime": "2021-05-27T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-lattice-looks-to-simplify-deployment-of-aiml-models-on-edge-devices.md",
       "title": "Lattice looks to simplify deployment of AI/ML models on Edge devices",
       "excerpt": "Enhancements include support for the Lattice Propel design environment for embedded processor-based development and the TensorFlow Lite deep-learning framework for on-device inferencing. The new version includes the Lattice sensAI Studio design environment ...",
@@ -1299,49 +1343,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-deep-learning-algorithm-estimates-cancer-risk-of-pulmonary-nodules.md",
-      "title": "Deep-learning algorithm estimates cancer risk of pulmonary nodules",
-      "excerpt": "A deep-learning algorithm can yield comparable performance to experienced thoracic radiologists in estimating the malignancy risk of pulmonary nodules on chest CT exams, according to research published online May 18 in Radiology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
-      "originalUrl": "https://www.auntminnie.com/index.aspx?sec=log&itemid=132441",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_05_19_18_58_7336_2021_05_18_AI_CT_social.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AuntMinnie",
-        "domain": "auntminnie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

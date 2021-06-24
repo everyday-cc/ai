@@ -68,6 +68,20 @@ related:
         width: 337
         height: 337
         isCached: true
+  - title: "Healthcare Technology Trends Will Improve the Patient Experience in 2021 and Beyond"
+    excerpt: "In our ever-evolving, technologically advanced world, convenience is king—and that absolutely applies to the healthcare industry. Improving the patient experience is a noble goal, but the truth is it’s a constantly moving target."
+    publishedDateTime: 2021-06-24T15:33:00Z
+    webUrl: "https://www.softwareadvice.com/resources/healthcare-technology-trends/"
+    type: article
+    provider:
+      name: Software Advice
+      domain: softwareadvice.com
+    quality: 33
+    images:
+      - url: "https://www.softwareadvice.com/resources/wp-content/uploads/Tile-190.png"
+        width: 450
+        height: 246
+        isCached: true
   - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
     excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
     publishedDateTime: 2021-06-22T13:55:00Z

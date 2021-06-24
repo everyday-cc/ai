@@ -37,7 +37,7 @@ related:
     provider:
       name: CMS Wire
       domain: cmswire.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.cmswire.com/-/media/c9cc5c3a621940399529b32484f77be9.ashx?mw=1024"
         width: 640

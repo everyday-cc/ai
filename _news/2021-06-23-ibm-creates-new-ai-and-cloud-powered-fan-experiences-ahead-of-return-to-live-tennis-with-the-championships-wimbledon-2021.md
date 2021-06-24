@@ -2,26 +2,21 @@
 category: news
 title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
 excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
-publishedDateTime: 2021-06-23T13:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
+publishedDateTime: 2021-06-23T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
 type: article
-quality: 45
-heat: 45
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - IBM AI
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
@@ -30,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wimbledon Hopes To Turn Casual Viewers Into Tennis Fanatics With AI-Powered Digital Services"
+    excerpt: "Wimbledon has long viewed digital as essential to maintaining its status as the most prestigious grand slam. This year, it plans to convert casual fans into experts through its digital applications."
+    publishedDateTime: 2021-06-24T12:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d47948682dbab47bf2f788%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM serves more AI power at Wimbledon 2021"
     excerpt: "Wimbledon tennis championship is an event IBM uses to showcase the insights possible using Watson-based artificial intelligence applications."
     publishedDateTime: 2021-06-23T09:00:00Z
@@ -56,6 +67,6 @@ related:
         height: 669
         isCached: true
 
-secured: "PLZSk7OkNgJpjO+4Rh1uo1Nacy5a6QRtnHxif4BxQVmH30KS56YUCaSIhWVfsakeP1hHMfEdzGc91TncjZdxjTstj4MMFxNliHShToN7+NrJC5wLldY66lxIdFYYX/KK+mPjI3H2isylNoa2BqPcqrU+GxMlrfNu2oVAsOGRJ0j2CysrF7nsDhqFVWLmQpGkVL4JFNXIlR/rv1hIHCZ0xqNUN0P3UVwfLuhqopdOTijyKjclDgBLB7eRNn4+IkP0wyk/TfdbsOaD+fL3mmp5kz6kwp/YAvregrrJO5vfd0PQUJLb2V5ZxXS63TSG2qg380N4s/rR4WooH007ELNTIkiQF3C42LJcbHvptuzO4jRIeFsfQ6ROin/0EFM7rFCWoB4pnZL1hbnL7KQFbxp9kM2aSQjkcyk4ntc2pwtitgzW/veL6EbH7E3S5JN7xiusOMfgYBbHujRGHS+IAHyfDd4rU3O5YZrVMAvvnHzRXkgYPg+xlvvIGE33VZPHaYwN5uwqV8lwYD8/0XnAZOlScw==;sIkxisHUUE3EKDVYchOnoA=="
+secured: "N1ODt1NvSWky56/jriZ+TUDbcykg/IwdYv9bnTJt6JyhF7Mc3NclMXx7VdwZvfziGxPy9x8aJ7q1CE7QNaryZ2XvnPTgg7aJAE5wzUakr9vTKDUfjQ1PTeIg94xvo1zoxkhDiYjdbKfAWhvMEJSFmiCVxXhx6gzM8xx1GBRTC6kiQw028nqGXjjMXLiXi1DyN0+bsSLp8DeyfB1NTWn3bRtyHtQaRNS3gXzSkJ17ll28HwBbrmrTSzHhmpyFGNqRnhrjZrTIdf8zzdxWALwXHXw5UcgsSuQbYqA7mlxOzdmfkIIux3QuJuDpmkV+7HDTdRtup0GauFm/0zvqSzWiIk/d19139GSaEjqeWC95vz4=;TRsezsg3S7pejwS6IN3lrg=="
 ---
 

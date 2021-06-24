@@ -162,13 +162,13 @@ related:
         height: 720
         isCached: true
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-    excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
-    publishedDateTime: 2021-06-23T17:13:00Z
-    webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
+    excerpt: "Partnership Brings Together People, Process and Trust for Successful AI Application Development AUSTIN, June 23, 2021 — CognitiveScale, the enterprise AI company that helps organizations win with intelligent,"
+    publishedDateTime: 2021-06-24T14:24:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
     quality: 20
   - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
     excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
@@ -198,6 +198,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "/Q47zGo2z533w+DqDDkC6pCKGiqdDYbTQT4UcomnZuFTT3+Y/5UqdGOBFVMqN84JSDKd2Zvts8syOEFl0FsHgV3VnIm+VD6JVZfmdzD/DAqtOpbbrQu0TXSnAZ7FUVSknofBVLs6g7GdzpCLg9fTENDHfMDSxq3Gz8AESy7lyc0nNx5iEPu26BNFqt8DVlHTVCPBvFfX3UfOTIHMDojwpdsdt5qSto9HowIwWMyCTCZ8kqEsfN/l5OvYH41tG8TvPct+eEcKldTreJX4nuboJL1Q2tsJE9mIXWAPx0fNRsv8uJkmV01ETBRSKEmmDKtBzbqoRaOfMxdR/4kUuGYGLE4ulh/eEZl5+CB+BxZx7KQ=;DSL+jRnFNlODy5juj1epqw=="
+secured: "MUI2EKf2PyLs5DUoXI5361Q8Jq6Y9LgT4MluNeIO4wKsM6pF3ZEKsAqACHs01UrNGNZL68DNbLegwGBqGVQd5sQnCjG3LSbiCyMDqN/ZmboteEUlQv8vfsohMAGBwEhmdkg/AfZYw/a/WIchvfWIHHJ25ru4qinH9OK/nZFvdvgeLD+T57ZXWlNBzmX7i5oGm1tREUkCudM4iiyJzks1ji/XvI/AuAFsmjjU/dtKgAgvsaR1TrwrNtEVzE5TNNKfSK6Xi6VXT2tLLkMug1+ObU8my/dOvFHbvBEb6VIuCsKjNu68I6SO7Ur3yzf84eqrfwlhuKAzd17rbd9EmgPpSPc8xjkJ99/3zBEPyCRO23jX+GpTLfMxPg5twLfM+UvHm3p7YLO9oc7rV2uXf597cpt2uLTdHCkb3kXuQJXeBKJkCsPGfgTnO2vsJ0KfM1pWXyEIVU5Fq4NxgzDTU0mOJa+vhubTz8LC6StayMCTeb0d5edjYkIdpV1GBqFMIESNnAid3QSedvZrdvCj8uqo6g==;fR2wikCHj0kjCE0DeAoDkg=="
 ---
 

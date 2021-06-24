@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fusion of Artificial Intelligence and Nanopore Technology: Passing the COVID Test in Just Five Minutes"
-    excerpt: "Researchers at Osaka University develop a new highly sensitive test for the SARS-CoV-2 virus that utilizes a fusion of artificial intelligence and nanopore technology which may enable rapid point-of-care testing for COVID."
-    publishedDateTime: 2021-06-21T10:16:00Z
-    webUrl: "https://scitechdaily.com/fusion-of-artificial-intelligence-and-nanopore-technology-passing-the-covid-test-in-just-five-minutes/"
-    ampWebUrl: "https://scitechdaily.com/fusion-of-artificial-intelligence-and-nanopore-technology-passing-the-covid-test-in-just-five-minutes/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/fusion-of-artificial-intelligence-and-nanopore-technology-passing-the-covid-test-in-just-five-minutes/amp/"
+  - title: "‘AI for a better normal’: PH’s COVID-19 Artificial Intelligence technologies unveiled"
+    excerpt: "The technology which seeks to determine whether a patient caught coronavirus disease (COVID-19) or simply a viral pneumonia, known as CHERISH App, and the gender-responsive COVID-19 Cases Monitor (CCM"
+    publishedDateTime: 2021-06-24T15:59:00Z
+    webUrl: "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/"
+    ampWebUrl: "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/?amp"
+    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/?amp"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 41
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 67
     images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Nanopore-for-Coronavirus-Detection.jpg"
-        width: 777
-        height: 713
+      - url: "https://mb.com.ph/wp-content/uploads/2021/06/13686.jpeg"
+        width: 331
+        height: 400
         isCached: true
 
 secured: "nz1019if48chIyu9xtoNfCwUvcDTesS2+r4Me5V6ju/747eEsN4dGiROe1HrFf0dXaMx/RXOLKvmQIi3hIOWTAf8D4KtJONZnWRQoKLQNnUsNb/44Wz3HEuhzBYxjuwVm6LYQi7WVahWRw9UKyyyX6uCo2DhuFgDOuCl2okiM32X3gig/OVfhjAHzd4Q/H4m/mMnqtWE4Gyt77lKA/poDdGgeXmqBt8xohXuUhvpxRJtrYKb0jyOPyG2EM0XaFwqzYSvYGl5y00W6DrhH8COBv9x+B4rcSeaV5IBlSTJWidKlP/vvKSLLCCYaTJB6ouLgbuk4ZPLOtHiN/1HlLUqCVuptnfTLI7eufZRpgSbHsd12mObaBlOGnhSe54hVbf2Gm+j1zoFISr9qPhUOtIXT4B5f6wTZ3E3T4GT91GMVNT7nr+yp0ns7BLHVctM4Sxh3IY6/UC+66ELwC+Hsdl+c5uHFx/KK3ZzO1OIYM2tuBDME9/SYZKVwOiMLz+wr0LIaeCPZdOG9mmeHVaY0NcX6g==;xPXWM8i4UV3WdnrCD6mXvQ=="

@@ -8,7 +8,7 @@ webUrl: "https://www.cmswire.com/digital-experience/the-many-reasons-ai-should-p
 ampWebUrl: "https://www.cmswire.com/digital-experience/the-many-reasons-ai-should-play-a-role-in-your-dx-strategy/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/the-many-reasons-ai-should-play-a-role-in-your-dx-strategy/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cmswire.com/-/media/c9cc5c3a621940399529b32484f77be9.ashx?mw=1024"
@@ -43,6 +44,6 @@ related:
         height: 434
         isCached: true
 
-secured: "yELt2s/tP5/lSfohVnmFohvGMq5/yRhjMAgTA0kvD1C4Ao2nXD9TQDLAW9gkoZIMoPyPy9NhAt6owluY/OKAdjjpphELJKAJyS8c9afQt1LI8gQTrNYd6j6qIK1XSeYdSTTD3iTZHBi9Ea9G97gL8b/SwCpEmZiYJM8+oaiju40OEj1cfKVULFWm9y64Cq/3LBt4dqgpWEgIQWY4Coi+1zRIAPPnn+19lN5xTpUiEVItgtQC7gi/gpwEfuHaMgHyXfUA79RHf5RWmp9W1gpRBMBTBbILf57FoC/rNav7kAtAYrGaRMsPNarAESm31I+03AxM7nrCkAyVO/ckKCWkAXXvhJDxKqriMPmBTWP3oTg=;NuOvNZ0uVYLKLBDlzI3UAw=="
+secured: "72VimA2ZqqXWUKO2MrwpOLxn/ye4x/pWdmfqyoGHTp3m7TrjyEHxPDQ+uQFGjreFG9418KC41J42kzmjpQsY26BbR3f6t0LJZoqhnF6ghTLLmQgxHqh7hzXoiqDUXqYCqF9V01/owFzuuzwoBcThM7tGjlMel3BbhGp66LJ1skAR8Qv9kiO+1C2ljQAKf3CM8j0lXVvQsFRSVKmt/FmZwPagnpPrg9ylKNRT1Lysi0Tal6Wtm07erTXE99RqpuBS0oBiT5weLdEtim9btACH8fGYUS90tx52Trdf4lXhnSsmb+oVoaKSlDRRUH4UbpURhVQpQnFOHPRtd8gZJWCdLSqXqzHzzWc0faG3Xr9n0EUXnwpmD25FYnSrfP4bu6t3Ilu9pq0J4+htIGPdtKxyZb3EllTiwc55spH94S9UTgQymTTeRtVfCFB9lIgjULrMBX9LuH3k1+0cpkkLReSf9Nj+dEaCZ3uogQ87zVlvL1Ne9FV/bWlHD+ZaOUGrseK5d2pB8AiPe5UZZw7S3VGueA==;tDBd3N5UEFHmCLQeqb/vaQ=="
 ---
 

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
-publishedDateTime: 2021-06-23T17:13:00Z
-originalUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
-webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
+excerpt: "Partnership Brings Together People, Process and Trust for Successful AI Application Development AUSTIN, June 23, 2021 — CognitiveScale, the enterprise AI company that helps organizations win with intelligent,"
+publishedDateTime: 2021-06-24T14:24:00Z
+originalUrl: "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/"
+webUrl: "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Retail Dive
-  domain: retaildive.com
+  name: Multichannel Merchant
+  domain: multichannelmerchant.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - AI in Healthcare
 
@@ -198,6 +198,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "wIkpBVuFKKKz/3bAuMwrAPhtLWDl66R8zvWxvr6jn9aKPZdH7ajgqb4ZBqLBnE008oSnirldKk6AyTYq0ElDftN8SEaWQkeXLTfrIGAD/AQnpgrtuZXegxUmcKm2T9Uo/9HMJsC2iWmVNn+z6FDGxlJNe6wn34iVOnXnKG1az8q9QHjzArkg5S6GlWzCr8LZwq0FqR5eoIRlNAE3C/eK24zjXb5RebdeLwG3Xb/NTGWs23gH0DC4tHX4Ds1CcYZ2u/b9Vkf/UD/Mig9jzri2YbIwjiiUZMj0yARUPHKiFV/j5nGQBqfP8zkrJpmmXV5HNJTH1SZrdDkCSHxj7czC+eWGXFrw8rR6IoxMEFzwBhY=;R4oDyvlS9e0wjusTD+/epg=="
+secured: "eKN+71Xcx+Ina381RzbZXifCzA5OPytGrjrS2HDmlOsofOuXfDsaKZd9VFw1I/SneoPxuqzTGk0pj4W5N+BvkvBfi4h9mYAL18py/HpiQrQxJhjiPs49iXv0gbdPh3XPswV55mOP337eXIQCbeeCXe88lYRLlsynEeOK+8XXvZWRbmaY4LGdNGiZCGjz2lDiYuZ+92vQmFMx8zpTtHa+sxqaviSVVRFKXe+/MjZoQP+BEm5vE6eiS2qTN7XZW0b9ZL1EgFF4N8rQ8q5XRH76WnNQNjoyNPC55Tp9sjjHXBGsV1SG+WzVvkPFOi7qAHn6FyUlg9YxEiNjNkQmqh5X5hTDaYD5TymeYTxrEBTZLyc=;7xnhlnae/WelAYXjX8wQvQ=="
 ---
 

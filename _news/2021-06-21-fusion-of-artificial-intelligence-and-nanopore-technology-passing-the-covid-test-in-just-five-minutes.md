@@ -25,22 +25,6 @@ images:
     height: 713
     isCached: true
 
-related:
-  - title: "COVID-19 Slowed Law Libraries' AI Initiatives. But the Technology Isn’t Going Away."
-    excerpt: "According to a report released today by the American Association of Law Libraries (AALL), fewer law libraries have and are launching AI initiatives. But many may be using AI more than they think."
-    publishedDateTime: 2021-06-22T06:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/06/22/covid-19-slowed-law-libraries-ai-initiatives-but-the-technology-isnt-going-away/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/06/Library-Software-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-
 secured: "jF/rHyKvdEzQPQ3FGZaSJIhJkIl+0w7r1S9APL4ZSnh9c7RYblqA5Fh2YVfwh4lFHukZDDrX2vswWnNH+rG4/7ktl7o50kn4Od2adV+8cH4kMZqR7xRcDGNE8sNBK2Rf6OKgyM0RnICmL5ZQtxYdKyRnhElxx2uaZkh1qBv3hLd90Qf5VUP9b5VqyAv3RGuD3T1viy0H32QZrWtwqXv1TGcLgc8p4paWsnIm4LosT1kZsfwluxiVO5VCIZs3DLxW/YuT0FeDupYpHybGssLoi52neYguEzd2Bsiw13lrQbrYwLXvLDE+9PujQSeev5vFMbfGHvKCzIJa9vyTS74cVpLLXjb62YeR5lrmUCAeJ5io4dVJVQtsqjA4yrrSxqMTPqLg83NjHDo4YW95rl45VSDkmhDi7IPVAZezQMPXghdUQdjhqgJEB7XO9BGPEFqivCtpSdw0d+nq0657fvu1QeQ8XWr6pLYT2DimAgJ0QT0ZmndfXDdO/B/lWPkidPLhqy72TR/hI/CXINAif9j5SQ==;ko/R+xs4PWSELo3bKnBIWg=="
 ---
 

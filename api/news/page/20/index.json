@@ -2,6 +2,168 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-06-08-use-new-technologies-to-improve-not-dilute-human-rights-and-social-issues.md",
+      "title": "Use new technologies to improve, not dilute, human rights and social issues",
+      "excerpt": "AI-enabled translation services can provide local language education that can extend the reach of education services and make them more inclusive. 5G can play a significant role in bridging this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/blog/technology/use-new-technologies-to-improve-not-dilute-human-rights-and-social-issues/",
+      "originalUrl": "https://www.forbesindia.com/blog/technology/use-new-technologies-to-improve-not-dilute-human-rights-and-social-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/blog/wp-content/uploads/2021/06/technology-intersects-with-ethics-and-human-rights-b.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-wovenware-issued-patent-for-its-synthetic-data-generation-method-for-use-in-computer-vision-models.md",
+      "title": "Wovenware Issued Patent for its Synthetic Data Generation Method for Use in Computer Vision Models",
+      "excerpt": "\"The training of deep learning models using large amounts of annotated data has become essential to the accuracy of computer vision applications,\" said Christian González, CEO, Wovenware. \"The issuance of this new patent recognizes Wovenware's unique approach to generating synthetic datasets and reinforces our expertise in developing highly accurate solutions that enable automated object detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/08/9386200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-composeai-raises-21m-to-help-everyone-write-faster.md",
+      "title": "Compose.ai raises $2.1M to help everyone write faster",
+      "excerpt": "Compose.ai, which built its own language model to help folks write faster, landed a $2.1 million seed round led by Craft Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
+      "originalUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-539000490.jpg?w=1024",
+          "width": 1024,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/08/compose-ai-raises-2-1m-to-help-everyone-write-faster/amp/",
+      "publishedDateTime": "2021-06-08T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments.md",
+      "title": "Voiceitt Launches State-of-the-Art Speech Recognition App to Empower Communication for Individuals with Speech Impairments",
+      "excerpt": "Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app, which is available here on the Apple Store. The Voiceitt app can be downloaded for free by individuals or in volume by institutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-voiceitt-launches-state-of-the-art-speech-recognition-/2021/06/08/9386042.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-using-ai-to-block-unconscious-bias-widen-the-talent-pool-and-increase-diversity.md",
       "title": "Using AI To Block Unconscious Bias, Widen The Talent Pool And Increase Diversity",
       "excerpt": "DEI is the top talent management priority for CEOs. As more organizations prioritize diversity, the challenge is figuring out how to achieve it. For starters, how can we block unconscious bias in the hiring process?",
@@ -1000,178 +1162,6 @@
       "provider": {
         "name": "InvestorPlace",
         "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-europes-ai-rules-open-door-to-mass-use-of-facial-recognition-critics-warn.md",
-      "title": "Europe’s AI rules open door to mass use of facial recognition, critics warn",
-      "excerpt": "Activists fear loopholes in the bloc’s artificial intelligence bill could allow for widespread facial recognition beyond Europe’s borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/06/07/GettyImages-1231623017-1320x880.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-ai-artificial-intelligence-rules-facial-recognition/amp/",
-      "publishedDateTime": "2021-06-07T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-newtown-fitness-center-offer-ai-robotics-technology-based-workout.md",
-      "title": "Newtown fitness center offer AI, robotics technology-based workout",
-      "excerpt": "Using robotic exercise technology, a new Newtown fitness center, The Exercise Coach, aims to speed up workouts and boost efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
-      "originalUrl": "https://www.buckscountycouriertimes.com/story/news/2021/06/08/artificial-intelligence-robotic-exercise-technology-fitness-center-newtown/5094535001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/01/NBCC/247017d9-b282-4dd2-bf88-bda1e8ebae19-exercisecoach.jpg?auto=webp&crop=4175,2349,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.buckscountycouriertimes.com/amp/5094535001",
-      "cdnAmpWebUrl": "https://amp-buckscountycouriertimes-com.cdn.ampproject.org/c/s/amp.buckscountycouriertimes.com/amp/5094535001",
-      "publishedDateTime": "2021-06-07T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bucks County Courier Times",
-        "domain": "buckscountycouriertimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
-      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
-      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
-          "width": 1318,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

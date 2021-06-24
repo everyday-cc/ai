@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
-    excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
-    publishedDateTime: 2021-06-23T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
+  - title: "Wimbledon Hopes To Turn Casual Viewers Into Tennis Fanatics With AI-Powered Digital Services"
+    excerpt: "Wimbledon has long viewed digital as essential to maintaining its status as the most prestigious grand slam. This year, it plans to convert casual fans into experts through its digital applications."
+    publishedDateTime: 2021-06-24T12:25:00Z
+    webUrl: "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
-        width: 400
-        height: 292
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d47948682dbab47bf2f788%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "IBM serves more AI power at Wimbledon 2021"
     excerpt: "Wimbledon tennis championship is an event IBM uses to showcase the insights possible using Watson-based artificial intelligence applications."
@@ -50,6 +52,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
+    excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
+    publishedDateTime: 2021-06-23T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
+        width: 400
+        height: 292
+        isCached: true
 
 secured: "pO5EW7a8zUxnscMlcHoWkviUPZ2sa1YvAB5clfbFElG5wZUwHf3Z3LiU/3FL9sVXLlfiqfN+goL0iZQzPmLjsUweSNDxpptpvMbAqpbXP9zuaskrihDsAwJWOixkGL7omyUFmbuwzYf09yj0ySl/hDK4bWS9HHeNE1RITj/fUDW6vRA+/jgKdDaTS2WPmg6zTB8je9c73ueTlI8lNoleTzVRfmRoGdE3/HtfR2Xg5qNi1bKrGwxy0kgWpIeR8/ReJ8YrNGRMDrOQtc8dlKyVb6QI7BCM7cucd/AAMlLpHBk/FrKtPrsBkE5v69vTjyBWkxGej6VUx+0xbArTMCD1/3ZLaphRfUTPPyMZuICm6yw=;GY7WW66I9g3VKldG6t2nmg=="
 ---

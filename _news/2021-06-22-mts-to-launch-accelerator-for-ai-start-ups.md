@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/mts-to-launch-accelerator-for-ai
 webUrl: "https://www.telecompaper.com/news/mts-to-launch-accelerator-for-ai-start-ups--1387579"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,19 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Intuit Launches New Accelerator for AI-focused Startups to Help Communities Overcome Financial Challenges in North America"
-    excerpt: "The second annual program invites global tech startups with AI-driven solutions to apply to the latest edition of the Intuit Prosperity Accelerator: AI, powered by Highline"
-    publishedDateTime: 2021-06-22T11:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21661492/intuit-launches-new-accelerator-for-ai-focused-startups-to-help-communities-overcome-financial-cha"
+  - title: "What Happens When Multiplication No Longer Defines AI Accelerators?"
+    excerpt: "Current custom AI hardware devices are built around super-efficient, high performance matrix multiplication. This category of accelerators includes the"
+    publishedDateTime: 2021-06-24T16:15:00Z
+    webUrl: "https://www.nextplatform.com/2021/06/24/what-happens-when-multiplication-no-longer-defines-ai-accelerators/"
+    ampWebUrl: "https://www.nextplatform.com/2021/06/24/what-happens-when-multiplication-no-longer-defines-ai-accelerators/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/24/what-happens-when-multiplication-no-longer-defines-ai-accelerators/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/ab_quantum_general.jpg"
+        width: 1300
+        height: 500
         isCached: true
 
 secured: "QZxOmuWg2JeUqWG4d/D2RzH2VtnLzUl5DHn9WsHP4md+HipXaq9B3eloFRl+WAqD2DYHFMlNYFaQNfwnYQvF9oOYlIOC4tdGnCY21g9WLY/ggNPRuCy1ZLAhCKvRDP/kc7BoXfgyloXyK3gGXN+9xFTKAqd9dib7zdPJE1Kl0pSiZU1Mtb+pIMLnTIAs9R0GAPtsNaLln1zNc1a9lHtt+6srCLMt0hzYmz0poq8X1fR+9Ct4cQD2DSKO4EszYEKfNQcaFNA9hytmxEsK8E2OGcBmf7ldAtGDw3n37fbJFh34Bd+MrH6TwjyNDJsVf2mzSyE8XTfy/crhJmPE3imilapHyBz39kyqNhqxcPPw6xM=;okSnNGYOIgP1pNmzJLslqA=="

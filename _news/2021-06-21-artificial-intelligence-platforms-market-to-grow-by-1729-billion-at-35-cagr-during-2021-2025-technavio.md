@@ -47,22 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-    excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
-    publishedDateTime: 2021-06-21T22:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-        width: 400
-        height: 226
-        isCached: true
   - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
     excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
     publishedDateTime: 2021-06-23T15:30:00Z

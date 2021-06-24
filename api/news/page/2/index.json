@@ -2,6 +2,178 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "originalUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-fg-urges-schools-to-embrace-artificial-intelligence-robotics.md",
+      "title": "FG urges schools to embrace artificial intelligence, robotics",
+      "excerpt": "FG has urged schools in Nigeria to embrace the growth and development of artificial intelligence and robotics as this will strengthen",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/",
+      "originalUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2019/10/chukwuemeka-nwajiuba3.jpg",
+          "width": 450,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/amp/",
+      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/fg-urges-schools-to-embrace-artificial-intelligence-robotics/amp/",
+      "publishedDateTime": "2021-06-23T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-ai-helps-restore-the-missing-pieces-of-a-chopped-up-rembrandt.md",
+      "title": "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt",
+      "excerpt": "Rembrandt is now complete after centuries of disfigurement, thanks in part to artificial intelligence. Seventy years after Rembrandt painted “The Night Watch,” edges of the 16-foot-wide piece were chopped off in order to fit Amsterdam’s Town Hall;",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725",
+      "originalUrl": "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/df69ca278ec88a399e30d9e38572b138.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp",
+      "publishedDateTime": "2021-06-23T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-machine-learning-aids-earthquake-risk-prediction.md",
+      "title": "Machine learning aids earthquake risk prediction",
+      "excerpt": "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210623130649.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210623130649.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-dod-teams-to-streamline-data-at-combatant-commands-in-ai-initiative.md",
       "title": "DoD teams to streamline data at combatant commands in AI initiative",
       "excerpt": "Deputy Defense Director Kathleen Hicks announced the formation of units to help U.S. combatant commands better deal with data and artificial intelligence.",
@@ -1020,205 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
-      "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
-      "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d21d1fcfa1d201e3480176%2F0x0.jpg",
-          "width": 1139,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
-      "publishedDateTime": "2021-06-22T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-smart-elastomers-are-making-the-robots-of-the-future-more-touchy-feely.md",
-      "title": "Smart elastomers are making the robots of the future more touchy-feely",
-      "excerpt": "Imagine flexible surgical instruments that can twist and turn in all directions like miniature octopus arms, or how about large and powerful robot tentacles that can work closely and safely with human workers on production lines.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/soft-robots----smart-e.jpg",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
-      "publishedDateTime": "2021-06-22T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-how-ai-can-boost-your-next-email-marketing-campaign.md",
-      "title": "How AI Can Boost Your Next Email Marketing Campaign",
-      "excerpt": "Email campaigns are an essential part of any company’s marketing stack. Hubspot estimates that email marketing generates $38 for every dollar",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/375329",
-      "originalUrl": "https://www.entrepreneur.com/article/375329",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-375329.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375329",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375329",
-      "publishedDateTime": "2021-06-22T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-linux-foundation-initiative-advocates-open-standards-for-voice-assistants.md",
-      "title": "Linux Foundation initiative advocates open standards for voice assistants",
-      "excerpt": "The Linux Foundation's Open Voice Network aims to develop standards around voice assistant technologies, including speech recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/amp/",
-      "publishedDateTime": "2021-06-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

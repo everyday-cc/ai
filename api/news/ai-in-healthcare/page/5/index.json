@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-05-gene-therapy-in-alzheimers-disease-mouse-model-preserves-learning-and-memory.md",
+      "title": "Gene Therapy in Alzheimer’s Disease Mouse Model Preserves Learning and Memory",
+      "excerpt": "Novel gene therapy treatment prevents learning impairments and memory loss in mouse models of Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
+      "originalUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2021/05/alzheimers-gene-therapy-neurosciences-public.jpeg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/alzheimers-gene-therapy-memory-learning-18348/amp/",
+      "publishedDateTime": "2021-05-04T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-at-36-cagr-artificial-intelligence-ai-market-size-and-forecasts-research-report-up-to-2025.md",
       "title": "At 36% CAGR, Artificial Intelligence (AI) Market Size and Forecasts Research Report up to 2025",
       "excerpt": "Market Forecast Report provides details analysis of Artificial Intelligence (AI) industry which will accelerate your business. Artificial Intelligence (AI) market report covers the current state of business and the growth prospects of the worldwide Artificial Intelligence (AI) Market.",

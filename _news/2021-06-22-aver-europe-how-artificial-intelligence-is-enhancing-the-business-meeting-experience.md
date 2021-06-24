@@ -83,6 +83,20 @@ related:
         width: 337
         height: 337
         isCached: true
+  - title: "Healthcare Technology Trends Will Improve the Patient Experience in 2021 and Beyond"
+    excerpt: "In our ever-evolving, technologically advanced world, convenience is king—and that absolutely applies to the healthcare industry. Improving the patient experience is a noble goal, but the truth is it’s a constantly moving target."
+    publishedDateTime: 2021-06-24T15:33:00Z
+    webUrl: "https://www.softwareadvice.com/resources/healthcare-technology-trends/"
+    type: article
+    provider:
+      name: Software Advice
+      domain: softwareadvice.com
+    quality: 33
+    images:
+      - url: "https://www.softwareadvice.com/resources/wp-content/uploads/Tile-190.png"
+        width: 450
+        height: 246
+        isCached: true
   - title: "Artificial intelligence is changing how we diagnose disease, triage cases in the ER, even help prep doctors"
     excerpt: "While algorithms might not have a great bedside manner, new technology is helping save lives: St. Michael’s Hospital saw a 20 per cent reduction in"
     publishedDateTime: 2021-06-22T19:04:00Z

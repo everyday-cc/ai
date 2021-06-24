@@ -9,8 +9,8 @@ ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-wit
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
 type: article
 quality: 59
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Smarter Analyst
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce (CRM) Expands AWS Partnership to Enhance App Development"
+    excerpt: "Salesforce CRM recently announced that it is expanding its partnership with Amazon’s AMZN cloud arm, Amazon Web Services (AWS), to make their combined offerings more accessible to customers. This extended partnership will help customers rapidly develop compelling applications to accelerate the digital migration of their businesses."
+    publishedDateTime: 2021-06-24T16:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z

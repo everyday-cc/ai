@@ -35,6 +35,20 @@ related:
         width: 615
         height: 397
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application, Geography and Forecast 2021-2030"
+    excerpt: "Acumen Research and Consulting has announced the addition of the \"Global Machine Learning as a Service (MLaaS) Market : Global Industry Size, Share, Trends and Forecast, 2021-2030\" report to their offering."
+    publishedDateTime: 2021-06-24T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-geography-and-forecast-2021-2030-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
     excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-06-22T12:22:00Z

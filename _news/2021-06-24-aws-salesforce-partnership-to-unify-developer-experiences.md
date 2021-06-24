@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce (CRM) Expands AWS Partnership to Enhance App Development"
+    excerpt: "Salesforce CRM recently announced that it is expanding its partnership with Amazon’s AMZN cloud arm, Amazon Web Services (AWS), to make their combined offerings more accessible to customers. This extended partnership will help customers rapidly develop compelling applications to accelerate the digital migration of their businesses."
+    publishedDateTime: 2021-06-24T16:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "Amazon AWS Strengthens Ties with Salesforce"
     excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
     publishedDateTime: 2021-06-24T11:40:00Z

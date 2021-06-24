@@ -1,18 +1,18 @@
 ---
 category: news
 title: "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence"
-excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu"
-publishedDateTime: 2021-06-22T16:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
+excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s partnership with Canoe Intelligence (“Canoe”),"
+publishedDateTime: 2021-06-22T12:30:00Z
+originalUrl: "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/"
+webUrl: "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
@@ -20,30 +20,46 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
-    excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
-    publishedDateTime: 2021-06-22T09:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
+  - title: "State Street to Implement Machine Learning: Tech Roundup"
+    excerpt: "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,"
+    publishedDateTime: 2021-06-24T17:31:00Z
+    webUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/"
+    ampWebUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
+    cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 61
     images:
-      - url: "https://mma.prnewswire.com/media/1538039/Miso_Robotics_and_Lancer_Worldwide.jpg"
-        width: 400
-        height: 286
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Technology_Social_Media_Shutter_640x640.jpg"
+        width: 640
+        height: 640
         isCached: true
-  - title: "Miso Robotics unveils automated beverage dispensers for fast-food restaurants"
-    excerpt: "Miso Robotics is moving beyond its grilling robot Flippy to launch a new hardware and software-based beverage dispenser to help automate commercial kitchens. The Pasadena, California-based startup partnered with Lancer Worldwide,"
-    publishedDateTime: 2021-06-22T12:00:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2021/06/22/miso-robotics-unveils-automated-beverage-dispenser.html"
+  - title: "State Street turns to cloud-based machine learning tech"
+    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management."
+    publishedDateTime: 2021-06-22T17:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88218/state-street-turns-to-cloud-based-machine-learning-tech"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "State Street Uses Machine Learning for Private Markets"
+    excerpt: "State Street Corporation announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s p (“Canoe”), allocators and managers in the private markets sector will have an integrated experience where traditionally onerous and manual alternative investment workflows will be automated and streamlined,"
+    publishedDateTime: 2021-06-24T12:21:00Z
+    webUrl: "https://www.tradersmagazine.com/am/state-street-uses-machine-learning-for-private-markets/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 21
 
-secured: "b5tDx7bCF6VwIRtdZdEveNMKQVfRzUuGma4UHiMsvPv1MsuP0Y05T46k46lBjEc1vdYlfkiq5Yoe//eNGRbt1CxS5GI7YjtWMdGJtyShIFM6gg8cRo/ZyEZQtMb14U8x1fLswcY7+oQ7bQC5UMQvPhyixsGqcFw+XAgtYp3SneP9SPNvJpjExzFVKSEnjthcFmleeuS4/Jlc5IXd+2JbMPUFkakxuK5pB1sk2D3/xfzVqlLp9IjESnjAk/ZL92qba3eCXtnP07EIBWw9/rJsLcqO9fvilsCIkTgZk9OQ/2N0GkaaarhHP1vWhqHnsa6Tm01d6jPHsSJ8DacQ6oaz/g8E+zVKGU+/QESe52/Mx5c=;Gej8Conb3ONHLfuXM2fPcQ=="
+secured: "nR7PI3DJyxHGwIUajlSb9HjVg6XWcC6Eri9kXvTgGS8CB88WU63cxsvSoAtXaKvV6K7jqRclbP0U9qneF6jz23Beg0dHbjXVsHOLbu+7ZPmQoh6yGuzmNruE+tMZNu4JxPLJQrRNP7AyJ38GJNV+1ytDy13WA5hntUm1uVBAK2LVfkSG4o0YPgT6qcaMC64gzukahGqy2gx6GXyia5whjfli3Uyg8tgZGyVeryKaARB51bGc1m47I4j6jD00BKcgH92adRiW839NL5Z0NKeYL+1eSREF6o5ZAw/1PMybMAkfdbHRuSOsfnbewdT1DVf7btoNYrPbRsvNHRqEVMFkquiAqhQozLI5Kqv7bfm6TA4=;hJoI6m0INA3BiVvrwKq+CA=="
 ---
 

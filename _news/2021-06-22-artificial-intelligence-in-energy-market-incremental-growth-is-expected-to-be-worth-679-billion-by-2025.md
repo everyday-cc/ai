@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
-publishedDateTime: 2021-06-21T22:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+publishedDateTime: 2021-06-21T22:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
 type: article
-quality: 41
-heat: -1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -27,58 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025"
-    excerpt: "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,"
-    publishedDateTime: 2021-06-24T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23"
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
+    publishedDateTime: 2021-06-22T17:02:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Grow at a CAGR of 51.5% Between 2020 to 2026"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
-    publishedDateTime: 2021-06-21T14:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
-    publishedDateTime: 2021-06-23T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
-    publishedDateTime: 2021-06-21T12:41:00Z
-    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
-    type: article
-    provider:
-      name: Troy Record
-      domain: troyrecord.com
-    quality: 18
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/39/739dd46d-9de5-5170-a564-fc500b065178/60d08d9285ae4.image.jpg?resize=1200%2C585"
-        width: 1200
-        height: 585
-        isCached: true
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 8
 
-secured: "CDPUj0y0qziKGG53DxKZqQdyK2qhio+tY7okul9aF79DrU2MUrrfbYOsbqKen2ADTW7doX2QW80ZMT2MouKxp5wIMnZEYwj8sy3Bchzk8oR3Qy8K3//lmAyfwkivz9U+g9dqvsLUy4//xTqEbhbunlf4kmstll0DfzY2NThJYKMZUTmLKvGwMaXAEehz7bn/i+hMeedvYqiRMXMQstGrtJYjryL+0on9K/bEWMKeLDzU+X1ilc1F6IxuPc6/XyQyP2WDvtd+lfRGHEf2IEjpsPf3le1uVvVNXTCFZ099fMCu+h68mxrM8SAIfto5CQz8m3cHmEFBKIW6ll0tEu8Kk0BAXpJyN/oIob1n3dAK3ec=;JLp4RHPgaREp0+muCioWeQ=="
+secured: "HjqghV0+R/nX/9h3gsf8G2Gvx0VtGVHhhBjqzR56M/Q8oEWe/9ll9sH/0trtYDyIJ00TBz1B4/G6zVh2mZmjmsJc+U2d8PyGDoaLOM3B7hXNAteG/Qn3HIava/5uGyh4LMQ2Y6MwDrK5BqVC7jWkc5VAd2Pvh8MU1o8/LU1TYq3M3WqcwP9eDnmAbRAO/wZt8vvZStgFtYDewOX+pWow7z7feG0pcuohrsLoNvOw4lYzwZWtye70zPNYVFsi6WsnCLKJxLuwjE9QKRTJnJlHaQZNr7zHjyk6nKYbCuXILBlqU2kJr4HPwY7kSlenwraOAQV/UCOhcIqsoBh04rgw/Nlt5VSCucNwgcvaAULC0T0=;OO+ZdAGhKorjay4z3G0hJA=="
 ---
 

@@ -2,6 +2,199 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-22-bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure.md",
+      "title": "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure",
+      "excerpt": "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "originalUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
+      "publishedDateTime": "2021-06-21T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-aqua-security-launches-on-aws-cloudformation-public-registry-for-iac-automation.md",
+      "title": "Aqua Security Launches on AWS CloudFormation Public Registry for IaC Automation",
+      "excerpt": "Aqua Security, the pure-play cloud native security leader, today announced its participation in the launch of the AWS CloudFormation Public Registry, with a published listing to enable customers to easily discover,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19867139.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19867139.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-improve-newspaper-digitalization-efficacy-with-a-generic-document-segmentation-tool-using-amazon-textract.md",
+      "title": "Improve newspaper digitalization efficacy with a generic document segmentation tool using Amazon Textract",
+      "excerpt": "We are living in a digital age. Information that used to be spread by printouts is disseminated at unforeseen speeds through digital formats. In parallel to the inventions of new types of media, an increasing number of archives and libraries are trying to create digital repositories with new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-newspaper-digitalization-efficacy-with-a-generic-document-segmentation-tool-using-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-newspaper-digitalization-efficacy-with-a-generic-document-segmentation-tool-using-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/16/8-2778.jpg",
+          "width": 800,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T14:26:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-elon-musk-tesla-will-hold-ai-day-to-show-progress-and-recruit-talent.md",
+      "title": "Elon Musk: Tesla will hold ‘AI Day’ to show progress and recruit talent",
+      "excerpt": "Elon Musk announced that Tesla will hold an ‘AI Day’ in about a month to show its progress in software and hardware related to artificial intelligence. However, the main goal is to recruit talent. Over the last few years,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/",
+      "originalUrl": "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/",
+      "publishedDateTime": "2021-06-21T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-the-biorevolution-an-etf-that-taps-into-nearly-everything.md",
       "title": "The BioRevolution: An ETF That Taps Into Nearly Everything",
       "excerpt": "Exchange traded fund investors should consider the current opportunities in healthcare innovation. In the recent webcast, The Era of Biotech: How Biology Became Technology, Jeremy Schwartz, Executive Vice President, Global Head of Research, WisdomTree Asset Management; and Jamie Metzl, member of the World Health Organization expert committee on human genome editing, explained that the so-called BioRevolution, or Biology Revolution, covers the advances across multiple fields including computer science, artificial intelligence, big data analytics, automation, chemistry, biology, and engineering, which are creating previously unimaginable new opportunities to re-engineer biological systems. Looking ahead, the revolution in our ability to read, understand, write, and hack DNA, the genetic code of all life, will transform healthcare, agriculture, manufacturing, energy production, consumer services, and data storage. The strategists explained that the technologies underpinning the BioRevolution are connected and reinforcing advancements across interdisciplinary fields. For example, genetic technologies can prevent and treat disease, leading to significant enhancements to human health, well-being, and longevity. Healthier and more sustainable models can feed our growing population. Biological reengineering can be used to produce physical inputs needed for manufacturing. Additionally, DNA has approximately one million times greater storage capacity than hard-disk storage. \"We expect our healthcare system to transition from generalized medicine to personalized, or precision, healthcare based on each person’s individual biology,\" Schwartz said. \"The BioRevolution will pave the way for predictive, preventative healthcare that will help us live healthier and longer lives.\" We have already witnessed many high-profile preliminary applications of BioRevolution in the healthcare industry. For example, diagnostics and surveillance have used biological data to screen and diagnose diseases, disorders, or traits. Precision health/gene therapy has used biological data to screen and diagnose diseases and disorders to enable more precise interventions. However, biotechnology in the healthcare industry is only one aspect of the ongoing revolutionary application of biotechnology. For example, we will witness greater precision agriculture, plant-based meats, and cellular agriculture. Synthetic manufacturing, precision fermentation, and biofuels will expand the materials, chemicals, and energy industries. Lastly, biological machines and interface will combine DNA sequencing with data storage. \"The same intersection of biology and technology that is transforming the healthcare sector, is also driving transformations across many sectors and industry verticals of our global economy,\" Schwartz said. \"Although healthcare is the most mature market for these technologies, other sectors will catch up.\" To help investors access innovation in the growing BioRevolution space, WisdomTree recently launched the WisdomTree BioRevolution Fund (WDNA) on the CBOE. WDNA seeks to track the price and yield performance, before fees and expenses, of the WisdomTree BioRevolution Index (WTDNA) and has an expense ratio of 0.45%. WisdomTree leveraged data from Dr. Jamie Metzl, one of the world’s leading technology futurists and special strategist for WisdomTree, in its construction of the WisdomTree BioRevolution Index, which identifies the key sectors and industries that are expected to be most significantly transformed by advances in biological science and technology. \"WisdomTree and Dr. Metzl share the view that the application of genetics and biotechnology will extend far beyond healthcare. In our shared view, the BioRevolution is creating a historic investment opportunity equivalent to the industrial and internet revolutions,\" Schwartz added. Financial advisors who are interested in learning more about the biotechnology sector can register for the Monday, June 21 webcast here. Read more on ETFtrends.com. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc. Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
@@ -809,7 +1002,7 @@
       "originalUrl": "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -987,202 +1180,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-evaluate-the-utility-companys-ai-maturity-curve-to-determine-next-steps.md",
-      "title": "Evaluate the utility company’s AI maturity curve to determine next steps",
-      "excerpt": "Utilities acknowledge the transformational power of data, but where they are on the AI maturity curve determines how effectively they use it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
-      "publishedDateTime": "2021-06-20T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-these-are-the-startups-applying-ai-to-tackle-climate-change.md",
-      "title": "These Are The Startups Applying AI To Tackle Climate Change",
-      "excerpt": "A group of promising startups has emerged to do just that. Both climate change and artificial intelligence are sprawling, cross-disciplinary fields. Both will transform literally every sector of the economy in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caac3ad2b1ff3c9b86dc8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2235%26cropY1%3D232%26cropY2%3D1490",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
-      "publishedDateTime": "2021-06-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-williams-f1-drives-digital-transformation-in-racing-with-ai-quantum.md",
-      "title": "Williams F1 drives digital transformation in racing with AI, quantum",
-      "excerpt": "Williams F1 invests in AI to drive data-led digital transformation in auto racing. Quantum computing will likely join the race down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1323004185.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/williams-f1-drives-digital-transformation-in-racing-with-ai-quantum/amp/",
-      "publishedDateTime": "2021-06-20T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center.md",
-      "title": "Bipartisan Senate bill seek to establish US-Israel AI research center",
-      "excerpt": "Senator Blackburn said that “countering China’s increasing Artificial Intelligence advancement and destabilizing presence is essential for global security.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565",
-      "originalUrl": "https://www.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/430464",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/american-politics/bipartisan-senate-bill-seek-to-establish-us-israel-ai-research-center-671565/amp",
-      "publishedDateTime": "2021-06-20T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

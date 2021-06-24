@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-state-street-to-implement-machine-learning-tech-roundup.md",
+      "title": "State Street to Implement Machine Learning: Tech Roundup",
+      "excerpt": "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/",
+      "originalUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Technology_Social_Media_Shutter_640x640.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1",
+      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1",
+      "publishedDateTime": "2021-06-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently.md",
       "title": "Carrot And Stick: How Deep Reinforcement Learning Trains AI Differently",
       "excerpt": "Rather than generating potential outcomes based on historical data, deep reinforcement learning teaches AI agents and machines with the time-tested \"carrot and stick\" method.",
@@ -1373,50 +1417,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event.md",
-      "title": "CVPR 2021 to Unveil Latest Research on Global AI, Machine Learning, and Computer Vision During Virtual Event",
-      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) conference—the largest event exploring artificial intelligence, machine learning, and computer vision research and applications—will take place 19-25 June 2021 as an all-virtual event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210610dc06703/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210610dc06703/cvpr-2021-to-unveil-latest-research-on-global-ai-machine-learning-and-computer-vision-during-virtual-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1530205/CVPR_2021.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
         "Machine Learning"
       ]
     }
