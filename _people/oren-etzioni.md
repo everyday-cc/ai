@@ -14,7 +14,7 @@ website: https://allenai.org/team/orene/
 twitter:
   username: etzioni
   url: https://twitter.com/etzioni
-  followers: 26074
+  followers: 26076
 
 googleScholar:
   url: https://scholar.google.com/citations?user=-hmxit8AAAAJ
