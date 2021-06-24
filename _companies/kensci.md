@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KenSci"
   url: "https://twitter.com/KenSci"
-  followers: 1508
+  followers: 1509
 
 size: 51-200 employees
 yearFounded: 2015

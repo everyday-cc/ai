@@ -28,7 +28,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1267818992774680579/qhZXbTIZ_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1408165464505827335/KBeXLFuM_400x400.jpg"
     width: 400
     height: 400
     isCached: true
