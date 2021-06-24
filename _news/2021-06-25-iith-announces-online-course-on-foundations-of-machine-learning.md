@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/iith-announces-online-
 webUrl: "https://www.prnewswire.com/in/news-releases/iith-announces-online-course-on-foundations-of-machine-learning-804964352.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIIT-Hyderabad launches online foundation course in Machine learning"
+    excerpt: "Hyderabad: The International Institute of Information Technology, Hyderabad (IIIT-H) launched a 50-week online foundation course in Modern Machine Learning for engineering students on Thursday. The online course will be open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology,"
+    publishedDateTime: 2021-06-24T18:45:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624204626.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "IITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "The online course is open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology, Electronics Engineering, Electrical Engineering or other allied branches from any technical institution in India."
     publishedDateTime: 2021-06-24T08:36:00Z
@@ -44,6 +60,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "PB/r8AtwA+D6yT0HqKhMpUEP384tylkk1Kv8VXTNMNwhygmPCWwQt3rPTCO5w7tn0gdh0d0uLYBVs2Kpxt6WREPqZeRYbaj3ReSQAzbI+2ue14b9EYS7rcMwLOPm+Nbsd24Iy8Ro6icPOHx7bEiZFQvdNcAcAT3ZkWD0O8KdlZmCOTxe33zuzQ4l1Lk+XRMt3Uk5y9rIPDKTQHe0TZUBq+k3+Ex3vs4UHD0qSFjxAuVZ+Cd0e8/VNkJ+Njm4K0AAvSjxM8i6Jqb6YRFDmW1cbWW8FiRtCfJOjlHKV8LNRNIOOEiL9sBrLNDUAhlhTpEJmy3HZjWQX8V7MydnWIPax9SEdrBkI+F168+kQy7aeg8=;j2w0IEP5y0H0/U0YswQzng=="
+secured: "gy34xCKXxufRi6djyVtss1UHV92CKR3wFmzMiIptSnGKSDN3MsDg84KFU6i5LXdGv+Nh/HWIzzE8/uJ1ZWl2QKPRFY3scjKSB+yF5V0RuITT0TgjPZFOgHEmWuBvbj7/O0rzbWN1dhf1d9dluOuZHHlRxKO+aHcG+qT4FPYAd+hZIyEwsgwXn4plEgr5Glb8sP7VrHuQD6prrKhR1VGjkOZvihNH6bl5x4le9Lgmx+0tIyjs0heZvWtl9irrr9vAHbfFUE/4jgthZKOwGUqrau7LOwmEz7nLIX6O4Wnv21D1UUMWv8+ekXvAXjnk7qlmqFbax2Su+RaJW95ebkYJdKjE7w/08orKXBJcayE0sP6SkmA11eLrR/bdSkBWAxmA+TRDqCUF6TKRA1aOhU1rdZbKSjhDF/q+F+bcAw/o8PmueqMAgq/NZrdCTTyBitoTuTqKxw4GtXSFrMRG41lNtrUgkajp91LaWyOgrKaHxOyrdz+Hk+LAV4de0z2d92lTOV9VoR57+bxqrENlBQSGWg==;oeuCLdDEpBKTxJmhlh/Amw=="
 ---
 

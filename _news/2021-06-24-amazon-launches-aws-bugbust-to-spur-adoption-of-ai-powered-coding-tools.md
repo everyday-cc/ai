@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/amazon-launches-aws-bugbust-to-sp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/amazon-launches-aws-bugbust-to-spur-adoption-of-ai-powered-coding-tools/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 3
+  - title: "AWS Announces AWS BugBust—the World’s First Global Competition to Find and Fix 1 Million Software Bugs"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the AWS BugBust Challenge, the world’s first global comp"
+    publishedDateTime: 2021-06-24T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210624005724/en/AWS-Announces-AWS-BugBust—the-World’s-First-Global-Competition-to-Find-and-Fix-1-Million-Software-Bugs"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 3
 
 secured: "RgXITbzrCjdVAWe1XjAM0MGZDj/kJDVQ5Jg/hJQE380OuIANf/8ISJHI7FcHgP6tEKnuvMxAmENJedZSmPyqL6IlMwcPAvJ/6PKfQS0zcBhI6ZWj026YdbkmpKBJ0WFfebAWafKbXQJIdDrblsf/CZ3fOE/N/IcHp427Pz+/+GvfodzNK1z2KLC+Eb+2qBpL/pxWAmh5FyZNyzTkigrnX/k+dIfAP+f1O+/nALYHLY7O5NKm8s915HvplDv4eprhluJLr4YntdNJd6f9uWmalc/D0flL0IAOkOlnklnGLXhD+5b1Y1vOHwKI/QT4XT9mFqNskwmIj0MH/8d/zTf5PNq4FjS7wDNDHVH4wu2zWdSJ7UMvcm2D5TX5S9/DK/5gyQ62xcyQHSFTfPrpX68AslycbWHwvk0aFXJ9Ofi2eSMdoPWNTQUhnjdfBaBUeK6DUEvUh5oiq0W7vpeV2cnXx9a70Cq8/BsA72JlIcvYG4AoSo+kwjmiVtGgUIbh3lyrSYEnsI8+2kys3PJ0BxUy8A==;8cZD0FtiHrZUDXiJWPGQsA=="

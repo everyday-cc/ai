@@ -190,6 +190,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 0
+  - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
+    excerpt: "This study elucidates how the Automotive Artificial Intelligence (AI) market Sizewill perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-06-24T17:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142647/automotive-artificial-intelligence-ai-market-with/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
 secured: "MvoXqFlvIFqMob5YrGqipeXwBcEq6bi8z8KFpWZtDPUlxkRpFIRsnExWENWHXuZUf9/WoRB2ED6dErva3TODTSsnIyTncCHGE5hqJvt6SVAJtmrp9VNXxXyAvIWnjovra+Dn1wRX3XVCXYH30j1cmHkWE2Y/tqMRVU9tCWaSjSffa2bbzQ5MJ6+DEK0cYV2me+BZyy+m+2u9+RPKKqGwxFSCGzJhBo9ZOdCZS0A+ugoPThTEwvcefOXBvd540Yg0/m7YedT8KiPWaPP8AoR3Ba41z6y+f9e38fME4NzD9y5ok8O3rH/fzirj5q7gaTyq3qzqlRsSemwvxs8FjQB/IKHnwUHH/ejT1pF91AznB6U=;kXppziupiWX13PzD6SZ6aQ=="
 ---

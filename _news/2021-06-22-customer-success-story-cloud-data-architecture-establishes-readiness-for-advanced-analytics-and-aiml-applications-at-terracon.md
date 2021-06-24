@@ -121,6 +121,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
+    excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
+    publishedDateTime: 2021-06-24T18:35:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/june/marinus-analytics-xprize.html"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 41
+    images:
+      - url: "http://www.cmu.edu/news/stories/archives/2021/june/images/xprize_finalists_900x600-min.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Redstor adds AI, analytics to smart data management service"
     excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
     publishedDateTime: 2021-06-21T06:32:00Z

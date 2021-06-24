@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-w
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163364,msid-83776925/upskill-to-the-cloud-all-are-moving-there.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
+    excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
+    publishedDateTime: 2021-06-24T18:35:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/june/marinus-analytics-xprize.html"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 41
+    images:
+      - url: "http://www.cmu.edu/news/stories/archives/2021/june/images/xprize_finalists_900x600-min.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Redstor adds AI, analytics to smart data management service"
     excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"

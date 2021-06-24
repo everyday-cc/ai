@@ -2,14 +2,14 @@
 category: news
 title: "Library of Congress Looks to AI to Help Users Sift Through Its Collection"
 excerpt: "America’s oldest federal cultural institution is investigating how artificial intelligence can help humans sift through some of its millions of digitized items."
-publishedDateTime: 2021-06-24T16:29:00Z
-originalUrl: "https://www.wsj.com/articles/library-of-congress-looks-to-ai-to-help-users-sift-through-its-collection-11624552197?mod=hp_minor_pos4"
-webUrl: "https://www.wsj.com/articles/library-of-congress-looks-to-ai-to-help-users-sift-through-its-collection-11624552197?mod=hp_minor_pos4"
+publishedDateTime: 2021-06-24T15:29:00Z
+originalUrl: "https://www.wsj.com/articles/library-of-congress-looks-to-ai-to-help-users-sift-through-its-collection-11624552197"
+webUrl: "https://www.wsj.com/articles/library-of-congress-looks-to-ai-to-help-users-sift-through-its-collection-11624552197"
 ampWebUrl: "https://www.wsj.com/amp/articles/library-of-congress-looks-to-ai-to-help-users-sift-through-its-collection-11624552197"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/library-of-congress-looks-to-ai-to-help-users-sift-through-its-collection-11624552197"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "wrgkOxo57FF03AeU/CXAe8+msiNUDxQvVcyQMW4uyoiM1HiDqHvfRvsuaK+ycT6s4FddwSLo7yB5L5ijfPv4Xs94VTcMEj5VurqmTxdMW573Mcg2QBreG5wLeYh9iFZQabYiVap/faDyZTEgHrUNGJPDorMd7QnAqqVcxdrHEuEk1tgwaxDbq2Bx4F3HCP6N8nH1SXs2ld4UDHqGwu1WNtrljIDMQm5YAJrtVccyhobaLzGro1ccuS19pdPFsOUEc721nKvmKAcdU4Laxv785h49F+ic5hkBmKNdvyoql9St+Vg3NQX3cZivM+wHoJtkcgCdT/XsYbiYdPNliKYR9ED5QcDOJkXatPB7jCupc0c=;YwzRyaDzCnaKDGj2geTzpA=="
+secured: "zIML6p4aUezuH306iCFOv5ldxgEWO3W0eGRNdVWdRu0YlRGhoPk18SQGAlKjqHLoz4ESgxowvLM0KO+aDCyUaH9HmQKl9MqUwE2u6ECoHZWkvSYpm5DdHndWAM6ZwBHkmnwoiWOj0KB6FfneUF128tyAbPkf8NUEZL4x9lPfS/FwcEJcVJXTlcTySobgVmnSSKIlSDlGewWOZ1vSurqSFhSkMIqxpud2mCXkYN5d+yeIT5x4doanU/Jj6J9fNVSWd48R2O7UyY5ubY2C8wy5tLvuX9CJIgCH9d9Qlt1B0SQhl1qG+2MuEfDgfgh2UjssIoKgdbJyHjthpJIpVQ1DmgBFSiUAZRXWbEOqkJ+vEE8=;8ORlyO0jDnIFvm+2M/Lr5g=="
 ---
 

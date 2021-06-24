@@ -131,6 +131,22 @@ related:
         width: 714
         height: 454
         isCached: true
+  - title: "NVIDIA Canvas is an AI-powered tool that turns your sketches into photorealistic scenes"
+    excerpt: "NVIDIA showed off a new AI project, GauGAN. The tool turned sketches and doodles into photorealistic scenes. Now known as NVIDIA Canvas, the tool is ready for the public, and it promises impressive results."
+    publishedDateTime: 2021-06-24T18:42:00Z
+    webUrl: "https://www.dpreview.com/news/1092164536/nvidia-canvas-is-an-ai-powered-tool-that-turns-your-sketches-into-photorealistic-scenes"
+    ampWebUrl: "https://m.dpreview.com/news/1092164536/nvidia-canvas-is-an-ai-powered-tool-that-turns-your-sketches-into-photorealistic-scenes.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1092164536/nvidia-canvas-is-an-ai-powered-tool-that-turns-your-sketches-into-photorealistic-scenes.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 51
+    images:
+      - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/1092164536/nvidia-canvas-2.jpeg"
+        width: 590
+        height: 330
+        isCached: true
   - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
     excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
     publishedDateTime: 2021-06-22T15:21:00Z

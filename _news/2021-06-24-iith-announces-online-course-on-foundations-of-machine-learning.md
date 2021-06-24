@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IIIT-Hyderabad launches online foundation course in Machine learning"
+    excerpt: "Hyderabad: The International Institute of Information Technology, Hyderabad (IIIT-H) launched a 50-week online foundation course in Modern Machine Learning for engineering students on Thursday. The online course will be open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology,"
+    publishedDateTime: 2021-06-24T18:45:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624204626.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "IITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "In keeping with its objective of enhancing the quality of education in Artificial Intelligence (AI), iHub-Data at IIITH has launched a"
     publishedDateTime: 2021-06-24T17:59:00Z

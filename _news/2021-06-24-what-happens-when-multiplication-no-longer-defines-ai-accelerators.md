@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2021/06/24/what-happens-when-multiplicatio
 ampWebUrl: "https://www.nextplatform.com/2021/06/24/what-happens-when-multiplication-no-longer-defines-ai-accelerators/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/24/what-happens-when-multiplication-no-longer-defines-ai-accelerators/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/ab_quantum_general.jpg"
@@ -36,6 +37,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "4+KA/QGFiMwYY/qQ9acRuh34K8lbLTK7N9DzsVNyuSKg+piioS05w/h/+uvRIIo5BXenqRwQDNXLPLxlZKpXd3RkjcISs9r/CJq8szBlrcURjWqW3CT7japxld2yF3U07y449PLHt75KqolfLIQPAIzRLm3UD+P6h/43jKSYR6q9qtO/YzsCk9nBKIyURG73SkhGUeMLjBobVzrr2lGDdzfAc+clhisBU2Q2/QfS0pK5qR0OyPJ/IMal3e7d5pRSd2fuSz3WIFiprbGew+vajQ8SiN4E1iB8tn63yTzM9bDAQYD0ZoytKd6yiiLfVVPCqL4JaLzA11Jlp4XXSLWqaH0uNsan5X6pqaVkbmW4cUI=;guY7/AvanjIRGmDnTb89uQ=="
+secured: "llmUOrJf60dY93QacedWn0H5K6TbWcibOLFOVYwGrLwb8FaXEA16X+LwF2bzixrYcgndfSMJo+EHOt7A6iKU/lWr3ZXfn/ZMN1cOkOlWap6++btDzODMcA2S0beYyDLmV0rcYAyzVAQVxE3pEDTcZf5parTtVGGopPWpQ5kXfvNQ0CdYOETsPcMvxvAkqu8uAQXMRK0raq8A17GlYrAR49Rv2pVf5gD0nVnaIygKiWrzlwvBRHErxJCrGlANLxYMbYC6MuecVfLBZA93arfUX50pRj7RUFYBTHgAnF6hhrDmLV8oKoPedVUnVUVVzFbh+tvLOFYs/iVi0l4NuCntZLLM+xjdzSyEKMiOi204mtNUmzaQhjOtDykF8BevfRFCVFKTVdOdV+8ZhwX3BAk1gyiIq2pxIqYbKR3/FLtD6T+s5TxupvqEhoZovN/f2TE17uOvCq5e1gCuN9s4vpU2rcECq+f2g69dmsRC8IMnqnn2OLjzQJjZlXOhhd2ivDnLVUzEjhnT7wvhGquu5VGXSQ==;1AklvckTkxov17Lo7byt3A=="
 ---
 

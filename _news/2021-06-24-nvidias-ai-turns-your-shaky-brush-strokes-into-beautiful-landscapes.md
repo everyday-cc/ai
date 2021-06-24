@@ -7,14 +7,14 @@ originalUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-to
 webUrl: "https://www.nvidia.com/en-us/studio/canvas/"
 type: article
 quality: 167
-heat: 257
+heat: 267
 published: true
 
 provider:
   name: The Next Web
   domain: thenextweb.com
   images:
-    - url: "/assets/images/organizations/thenextweb.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -119,6 +119,22 @@ related:
         width: 714
         height: 454
         isCached: true
+  - title: "NVIDIA Canvas is an AI-powered tool that turns your sketches into photorealistic scenes"
+    excerpt: "NVIDIA showed off a new AI project, GauGAN. The tool turned sketches and doodles into photorealistic scenes. Now known as NVIDIA Canvas, the tool is ready for the public, and it promises impressive results."
+    publishedDateTime: 2021-06-24T18:42:00Z
+    webUrl: "https://www.dpreview.com/news/1092164536/nvidia-canvas-is-an-ai-powered-tool-that-turns-your-sketches-into-photorealistic-scenes"
+    ampWebUrl: "https://m.dpreview.com/news/1092164536/nvidia-canvas-is-an-ai-powered-tool-that-turns-your-sketches-into-photorealistic-scenes.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1092164536/nvidia-canvas-is-an-ai-powered-tool-that-turns-your-sketches-into-photorealistic-scenes.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 51
+    images:
+      - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/1092164536/nvidia-canvas-2.jpeg"
+        width: 590
+        height: 330
+        isCached: true
   - title: "These 9 Top Nvidia Partners Are Driving AI Growth Across Industries"
     excerpt: "An Nvidia exec explains the formula behind the company's top nine partners of 2020 who drove growth in AI solutions for vertical industries."
     publishedDateTime: 2021-06-21T19:39:00Z
@@ -162,6 +178,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "DyZcUNkvWAhIgLMADzot7X8HQdTN+rhbAZKBSj18GIhfarFTwakSThX8bM1nV9KllULWjdp0b3m4ZrDlJP7JTV5qTCzzA1/pyIAZpCEP+lG4w7fOVFd612MyxinTOIKE96qUc11tKXODpDkS1dCY9gEwxpzoRNMPRSk6nMnl0mk8jX+bUvq7isapXpy03tPTGg1/u8MrbPza4+FMDFFa7ULJQDm0zNAhA+RnbGkZVNXQMtc2Nm+jxPHBMn/K1a1RqXsA7Q5NnUNLUQDB+q1ub6aUuDK1LjSVzvqeq1HaMyexEiqsaD8iA6oq5MDq+3ntkVMcKWy5oVK0s6hjl+wsyXeyuxEuCpJMniQZSZtWb7o=;BFLeqVobIGOX24ddZs/JAA=="
+secured: "oOTdB02bEjGxpDRFIjO3+qg4XHQLa0uAL5ANIn75ZkS+eZAtJdNGYsajWKTgK7A+yR3zIsia/OVLPzQSM+0U9mbykpJc3VPWQgCRVur4Sqsp8Uy/YK9p7L7o7P++M18hjXFc57p6HCOJ0SCXJGrf+tz1A3naX/2u+mQNyq6SAmXHw0LZvu0fKJKcnfkf9ezTt35kNIZ8ZdPU/Bjg2L5RoLk79qPch2nS3mX0fuj+Qqe6faQFjiniIeGx4j4fGH53vrLr5SQC1NcdDFEcPuHwk0RXlw71Lx1OtxqoMQJZpHycQybQriOVp02jeglBrnRlN23kYCFldzuY0mfGSUlA1y4GNaWhFgmN3TKxyHyru6gRV6Z2mqVsYZn4s0KCGu7ZXGk1SpDJ7O55wcyeIXa13z11g0u6zoI4jqEIP6cPJKE23uNNU2vKBsQFlpGiLmC/C9frU9fVhB9qm+XbnXSjWUDEVfDxR1X/MPtDgqhSHBTH9MxG19sf0rLHQQQ9vPLCmv32AAPlDVhSlC0IQlWgAOxL7fBor7AmfSZ5SVemT5Q=;a4UgcTrk77bgD67WbRP13w=="
 ---
 

@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
-excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
-publishedDateTime: 2021-06-22T09:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
-webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
+excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its"
+publishedDateTime: 2021-06-22T09:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic"
+ampWebUrl: "https://www.benzinga.com/amp/content/21659429"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659429"
 type: article
-quality: 60
-heat: 70
-published: true
+quality: 50
+heat: 60
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -39,6 +37,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "+r4auoiPKNoE1RkGOVvg9hfT+u4z50cvVQv+h+4MxmeNcj0yrwc6GAjuS+RNtoLYJiN1gGDlUHrYcrF/VN0RWhdUKBfmjWmkRDqhP4Wy0+H/A6gAKwqcwiLcRY5uXkeB51iT8y01J8fP88XOodCcjM8rMhqqYgiT8FdJTL7Hk90B6gSlVxYLpC/i3Q+y3ZzhQfgwutCy+Jru0B1SopZ1L5zWjmsyPPhf9lc8wjXEG/ujjas6n56rUNmvOn7xyGhMATfZNsKRYQ8ojqBI1oPS2M70vH7Y0sy7Xft2O36ri1i8m0+vWgshr4NXlx4DFP1O8Y0hyy1fIUjSPkbamTEsMhsMFD8e02EIUrkDXlJneMYeDb9YGlkXb32zfNbz7C3NRvquxArx94fy9qS12iRVBIse11XGB3nUNnoxzus+EVhAUnT2VashZNHGq0wVVFHn8yCRiGOATP/P/4A0X/0iOsojHHYna9SHXAiJ6qxWgN6vaAXcPeWuQt2FszXq/OowIfv5ZtEy+8ILSKjjJ8aA8g==;qSmBZWB98YyuAqS9D32sJA=="
+secured: "gW++JMEmVUY40cvX7E+yuQZhmvPYAlcW/aFhfn55SPt9St8vdfQlX5N6a/HW6twDWWFVKxdhvUP+vNw3p1IKUp/Id9zNpYAdvVSNfuSkSY+NXmZCh1BYSQ/11Da13tVZnqbwjsuC2BZ/44jXudJpO6pPYfWhWRcoYl1bJETzZ6RiPQuzoABhxU6ONP7le2ccLSk5+RhDCjBTrurTN0rPDFgiuvGH50XI9OQ+i6ou8pL+0jcFqrzHU3aJm5NxV2YmI2QcrPtLVCWxoTD974zxdRLTebIHSu1v4+xKWB0S9T6UP4RG3bljV/vk7O8NYWbje2e8BIXjO7WBHV2Iskkjgsk8sY7Gt8OXUXncdirXbhQ=;8FCzRj2Pe5t+4gzhZjA3VQ=="
 ---
 

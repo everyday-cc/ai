@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-24T15:54:00Z
 originalUrl: "https://siliconangle.com/2021/06/24/cloud-meets-telecom-5g-spread-and-ai-integration-signal-extensive-mobile-agenda-at-mwc-2021-mwc21/"
 webUrl: "https://siliconangle.com/2021/06/24/cloud-meets-telecom-5g-spread-and-ai-integration-signal-extensive-mobile-agenda-at-mwc-2021-mwc21/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Mobile-World-Congress-2021.png"
@@ -23,6 +24,6 @@ images:
     height: 665
     isCached: true
 
-secured: "HMso8FeE2cyZhMGSAZgMd5b/r9EnbI0oZYcZdT9t5koEFia8RQQuN5jos5vlIKJl12RGqHT9d56nlt1nGmLLeW3uetA5ZPXnP6UPR2pjuJof6I+snuVJFmKC5P0+1OFqXKlcQOBIeWs1Y4wGSqM5h9ix5pHaaLTIdUkDPytCR8G/W7tA20DG3M0WXhOgcdVQINS8KdPTv3pCn6PyMWHTGwRUcuYcJ1/S7a7mEHjBH4vCV3oanpM9UKq7VOiIF/ohNWjwsUraXXtEdkfa2RUCAJ/3LK9UpiZb4ra9Q4mf+xPCFnu8z2rdRbNCxnOJ62EDC3KpioPwhJdcyM4LtKPtOf84DQTF5OaDPC+0K7vDuxU=;MQ8DHtGyLnPiPpi85e17QQ=="
+secured: "AWZnJLMrqqQbIrN8oASnugsah72QDfgOaDhngsEjf8+25FWA0+FCTrg1QkD+ZiG2GHjhltJn5St7HGMCEwRAN98af0S2J7a1NypKeeRTvp46+U0/xVHELEIZ/MHPepuh+hbtgfDTccQmiXOW2odGe+/s4U8Ld97xLWR1+krFgps3A0HckA3NixxabtaMRGSXnSIyLbtLYWbE3F/tpyj2e0EUOONGrBW3tB5DSH7RAbfc6twf1jKmHSmSbr74FmJcu9mt3WygwevzqEy/kwjnGew1ZhDAwhISV52x+jASPtM49bahdqAMxFHheXdajxGzChrWRo5+TO6CSZTQgqBEkcMb+hMYLApPK5OgXsX52mdqxdjcmymnx3+yM/MoAW3fUlqYmoTRIoiEEm+bOHy2Opp93GM7H884KDsdfz6lS1UK8SFOoI6Meu+IBSA2iIGIatYSg/hmpe3iUjAJE93EDQYDX3tBszCb+IHQkayBvn5eHJSA4s+v562KQ/nv7rKXcQE90nbdq4Qw89fY9M3X4A==;YmJ1aGNVvRshN6Ewe/5PcQ=="
 ---
 

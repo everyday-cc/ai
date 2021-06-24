@@ -114,6 +114,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 36
+  - title: "Startups using AI to tackle malaria, mental health and human trafficking take top awards, and cash, from IBM XPrize"
+    excerpt: "An Israeli startup that uses artificial intelligence and other tech tools to wipe out  A digital health company focused on clinical decision support in mental health and a startup using AI to help law enforcement battle human trafficking also took home top prizes."
+    publishedDateTime: 2021-06-24T19:20:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/ibm-xprize-startup-winners-using-ai-to-tackle-malaria-mental-health-and-human-trafficking"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 17
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1624551395/ZZapp%20Field%202.jpeg?5Aw.nNraUzH7eq03i3MNs7xOOL4GGhzK"
+        width: 1600
+        height: 1200
+        isCached: true
 
 secured: "akyjU5di2DkLx/ORF4WcLK69nZVARNQdghkZFFUa/d6wmNs7VnLCfJqZ9Uo5C3F9i41TQgm2dzSR0cognfUntVaYPn6cWDoNktbKYWeWPhm3PgC2oweq7xzHTvojG73pxzMbcZP8mBQ3zc804H2/u+qFG1mQK4VdBBT1sxqfZnfFaGGJHI3hfTSG68ED9/PdV1wYxxyT53cyoyvhuaxLgpaONe0HySOPQ6L/BcE8Y9N0/QFfhbzQS5TbkANofkyl2h7NHXf1xvTAQhpCwd0EIOj7IK5BPUzwSpkRg7fm86So3T9fnTjFW/bFRDy5jZ2L2XianiJlBk26I9aJIkiEUA7Apq6sF3aifSO6lcM/lP7+PVeH4TNwy7FF+D4O0l4ZAV6W+nYY1oAE/6UXXYo/oQ2CFDKCDUAI5YtfDLX/pLilVfe9dCQzYp1yWXWBbWGkBg+XtGlRGFiFwDOKUCjD7EkNExo1PehpbeJPN9d50+ywgtMNcqEuWNZEwmR2OprS+aFfB3ovu0PzuZNjKik8gA==;Q8DsQPUybaFTUUwCByaRiw=="
 ---

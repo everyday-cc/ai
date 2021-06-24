@@ -55,6 +55,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 3
+  - title: "AWS Announces AWS BugBust—the World’s First Global Competition to Find and Fix 1 Million Software Bugs"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the AWS BugBust Challenge, the world’s first global comp"
+    publishedDateTime: 2021-06-24T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210624005724/en/AWS-Announces-AWS-BugBust—the-World’s-First-Global-Competition-to-Find-and-Fix-1-Million-Software-Bugs"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "KUkSVQMXXI+20wEwjX4oRVhfP5jmMhkFNfxX9jWL51opyCxAlEocFRRRYawRkSB8KJw08i20c+0gxaNlcLC1fyYNqpmtORmr9V1Ygr9N7o+LDGF410ndUKM1Hw9MZMqC2yz9CESRTmQHOlwjM1ndeK7Yx1VZNCfu0gCn0Wr0CKdt6rKzni0FmSzr1WxjiJ4XHxqOz8fFPCbs2qcOut8hC7N+RUHsbkF9Bh/dMHCicMTf8ZR61QBi/VT73VqlqjQhAFOQuqkY9Vs//5YA6AHEIm0gyqIUaQKXxuTPoXetyMb6wrmbJEf72sdSuElzzxlXI7RehHcoiFxt+Rhe2aWUs5o7PirZAf3CHdEjT20luVE=;8ydvuWW9NEW/P7fgji/Ypg=="
 ---

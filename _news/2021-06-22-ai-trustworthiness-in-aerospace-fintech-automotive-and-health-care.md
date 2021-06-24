@@ -170,13 +170,13 @@ related:
         height: 1380
         isCached: true
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-    excerpt: "Partnership Brings Together People, Process and Trust for Successful AI Application Development AUSTIN, June 23, 2021 — CognitiveScale, the enterprise AI company that helps organizations win with intelligent,"
-    publishedDateTime: 2021-06-24T14:24:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce/"
+    excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
+    publishedDateTime: 2021-06-23T17:13:00Z
+    webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
     type: article
     provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
+      name: Retail Dive
+      domain: retaildive.com
     quality: 20
   - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
     excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots"
-excerpt: "Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
-publishedDateTime: 2021-06-14T20:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
-webUrl: "https://www.digitaljournal.com/pr/inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots"
+excerpt: "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services."
+publishedDateTime: 2021-06-14T22:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/1ef476bea4f620992002d4d77ea3fc836c1e7fb9-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "F+mxK5kO4KEJf1yK5OgPluf+FT6utUpcLYXUKPcxOv9sjWPiQyN0ahOx+kmHdVYIXe0qLYLJfQK4T/eYmy7SH4bf4KtifmYCFjPDuOpKuAKyNTIgoRXUfavzTBt0iAhBxvM4kzWSX93ipOkQP0b6IisK77L1Ugy11sHAAt0ZmBMFlAvFuuSIx4cpLJDklLPi6qNNCkDCDPqCf/VamMv/59h2860YdE/w0AEmjjEufeTPJ5Kdz9YPFhCfDvLWuyJ5GoO6Mgzx7kHigwBI/Bwvi4oh6KUMqodcJKm4FYlCHTjWC3nkvAVwgnjmYeAwdG6rss+FnkG8FXZduptDWtjEt9zS35557vIViCdWzP08/bs=;SMXtXjtJ0YgqLEXzX/VOPQ=="
+secured: "f0r0wTwijqncmKxNUNQsBJ4kF+YgHiUeG4TRw+k7HurSRKdlyqX1jBGcnAfWsX5h1wRxGwoglDGAINiPUjjL/laZCPPqktGaIidg/ZFI4JmUG9ayMsKalCkVIqOwiI6U1qyE7KyGso5pMAEpN3+9FZG0uTrH1inJ9MMohzRfPye+GyThtSGyUHRHiYFpfrXU75K/jas0o5IGFmIf0uP/lahSnzjrJrh5NgK+zA6XcIeHjrqo6Ia5ipq7iQdGQkS2cZhjbvlynu8dqQnDRPCeiHcUAtYS60acsO7xzsCbXsxecOvp8Eh3yNCqcLbWeQ3xc/OzKhX9BJSbe+Tl1G1JCqwI06eyQckmNayAeI0Wg9A=;fqWtuuQcr2/IP3f2u9DkDQ=="
 ---
 
