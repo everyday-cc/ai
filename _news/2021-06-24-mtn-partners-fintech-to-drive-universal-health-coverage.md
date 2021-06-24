@@ -89,6 +89,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
+    excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
+    publishedDateTime: 2021-06-24T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/10/First-American-PFS-Florist-Ecommerce-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z

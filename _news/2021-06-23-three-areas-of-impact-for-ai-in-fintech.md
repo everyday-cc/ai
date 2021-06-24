@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/06/internet-background-e1624376706695.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
+    excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
+    publishedDateTime: 2021-06-24T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/10/First-American-PFS-Florist-Ecommerce-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
   - title: "MTN Partners Fintech to Drive Universal Health Coverage"
     excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"

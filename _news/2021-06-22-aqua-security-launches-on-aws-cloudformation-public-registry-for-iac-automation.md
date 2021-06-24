@@ -7,8 +7,8 @@ originalUrl: "https://www.lelezard.com/en/news-19867139.html"
 webUrl: "https://www.lelezard.com/en/news-19867139.html"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Le Lézard
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "VDMA Robotics + Automation, GO2automation partnership drives global access to automation"
+    excerpt: "Under the GO2automation platform, small- and medium-sized firms will receive data-driven access to automation and a range of experts."
+    publishedDateTime: 2021-06-24T13:00:00Z
+    webUrl: "https://www.compositesworld.com/news/vdma-robotics-automation-go2automation-partnership-drives-global-access-to-automation"
+    type: article
+    provider:
+      name: CompositesWorld
+      domain: compositesworld.com
+    quality: 45
+    images:
+      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2021-cw/0621-cw-news-go2automation-platform1.jpg;maxWidth=1200"
+        width: 1103
+        height: 734
+        isCached: true
   - title: "New HPE GreenLake Cloud Services Power Application Modernization for Critical Workloads and Industry Solutions"
     excerpt: "Today, at HPE Discover 2021, Hewlett Packard Enterprise (NYSE: HPE) announced new vertically optimized HPE GreenLake cloud services designed to deliver the cloud experience for the applications and workloads that organizations rely on to run their businesses."
     publishedDateTime: 2021-06-22T15:00:00Z

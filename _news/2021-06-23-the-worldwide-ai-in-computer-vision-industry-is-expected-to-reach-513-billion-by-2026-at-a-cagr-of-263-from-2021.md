@@ -48,21 +48,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-    excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
-    publishedDateTime: 2021-06-21T22:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
+    publishedDateTime: 2021-06-21T12:41:00Z
+    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: Troy Record
+      domain: troyrecord.com
+    quality: 18
     images:
-      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-        width: 400
-        height: 226
+      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/39/739dd46d-9de5-5170-a564-fc500b065178/60d08d9285ae4.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
         isCached: true
 
 secured: "LI1EwTxXQ6QYmce9VWMD693KxMwXkkvv/4CvMdUMXFBPzlhJG5tIOfYfXtwyD8wZMsBk/W6hPeAJ81UbHAJpRjBsjCHESwRYplciqpj9X8LMMS6gePD+V0i+Vwc2/5pjtCzaO9R9YIlVk9j1Ay2MTA7gWcLiRrByg4gaRsqPuUl8m4ty2YUUt9/qCeczbbhHDOiBpP/k8SLjBSPo/OlW41TVd1d4m4pZ4dsxIItj1xiKxzcFegNmmeQ1b7EZoIidC4mR0+8qXOrBqPkUYBhcFA9U044XN05aoZhN93j9yi0/e/MHANAxMalsxaKdROWUWuKBVZLF/C5MeNU4YCKfg7iDHGFW0Kx1fwXihu60IidArCYO0z1LEG/LVD3wCqWVvprDgtJtGjpaNUXIrFd1GqLM+SH781mfIQ4DTlBZQoIPNNHEcks2unutOVyNmYVLc62R91vFDyAx4F2CiZ6HWTF9kHH0BGI5bpDfqYq2iFukIap6vUOBN9FsgyqXMKcMs/6X++D5uyFbl8bMUqsaYA==;mhsnjTLNCy9dmEuirSnUcw=="

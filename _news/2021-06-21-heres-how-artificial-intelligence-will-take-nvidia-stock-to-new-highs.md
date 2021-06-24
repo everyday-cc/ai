@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes"
+    excerpt: "If you’re anything like me, you’ll love Nvidia’s new Canvas AI. It turns your shaky strokes into beautiful landscapes. The company has released this new app for Windows user"
+    publishedDateTime: 2021-06-24T07:40:00Z
+    webUrl: "https://www.nvidia.com/en-us/studio/canvas/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 167
+    images:
+      - url: "https://www.nvidia.com/content/dam/en-zz/Solutions/studio/canvas/canvas-og-1200-630px.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia launches AI edge and hybrid cloud services to support enterprise workloads"
     excerpt: "Nvidia is rolling out new services aimed at enabling datacenter and hybrid cloud workloads, particularly those involving AI."
     publishedDateTime: 2021-06-22T13:00:00Z
@@ -67,20 +81,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/canvas-1.gif"
         width: 700
         height: 337
-        isCached: true
-  - title: "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes"
-    excerpt: "If you’re anything like me, you’ll love Nvidia’s new Canvas AI. It turns your shaky strokes into beautiful landscapes. The company has released this new app for Windows user"
-    publishedDateTime: 2021-06-24T07:40:00Z
-    webUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-tool"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FNVIDIA-canvas.jpg&signature=d89bd29e2c7eca7c265389e5c1bcb8b8"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
     excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
@@ -155,20 +155,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/NVIDIA-AI-LaunchPad.jpg"
         width: 2000
         height: 1260
-        isCached: true
-  - title: "Dell’s PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads"
-    excerpt: "Dell's PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads - SiliconANGLE"
-    publishedDateTime: 2021-06-24T11:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/24/dells-powerflex-software-defined-storage-offering-adds-support-nvidia-gpus-power-new-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/image-1-1.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "MvSb7Hh5h9k8N+vcuzNkKEMggxSi3BeDgp6qo71vnxrYmPl2zos9bQ9PJhrhdoFoQqmZWRr+JeflaVoMdZUL9Aod7otRHMYfFLz0hl5FKGuWb3BSAJlRzF6olWgWM3Z69ENX6be9GbrDnsxsJ/SfqvyNhC6OI1YMBak+A4BjgJTajIDos1tOcQz/nGyGuMZ+BLWc078dHB/KAEl3YcI5Qg9ELKRnH5ZLpax/w+d8DIAmF5zJJkQ61dWrdB+yog3yhDnFDbeISBuWOtIYHbWYJFn8TLRXlnqiCsnX5lzdlAkjsQQ6dn6evj6McSc0t4cxe0p0ysupdAzMek4IxzZbznLOTHHep5BfJsOm+cBLCM4=;APzx8qFMXT5o4RslldwoqA=="

@@ -115,6 +115,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities"
+    publishedDateTime: 2021-06-24T09:19:00Z
+    webUrl: "https://www.canindia.com/aws-salesforce-partnership-to-unify-developer-experiences/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
+    images:
+      - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
+        width: 252
+        height: 388
+        isCached: true
   - title: "Pimcore and Summa Linguae Announce Partnership for Localization and Language Solutions"
     excerpt: "Pimcore today announced a new partnership with Summa Linguae Technologies This partnership will provide Pimcore customers a robust automated localization solution that accelerates time to market Through this partnership Pimcore can seamlessly integrate a traceable"
     publishedDateTime: 2021-06-23T14:25:00Z
@@ -145,15 +159,6 @@ related:
         width: 770
         height: 432
         isCached: true
-  - title: "AWS, Salesforce partnership to unify developer experiences"
-    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
-    publishedDateTime: 2021-06-24T09:11:00Z
-    webUrl: "https://www.sify.com/news/aws-salesforce-partnership-to-unify-developer-experiences-news-education-vgyjlEbghhihh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
   - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
     excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
     publishedDateTime: 2021-06-23T12:06:00Z

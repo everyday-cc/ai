@@ -46,6 +46,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Rembrandt's Huge 'Night Watch' Gets Bigger Thanks to AI"
+    excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, Wednesday, June 23, 2021. Right above Dibbits,"
+    publishedDateTime: 2021-06-24T12:16:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai"
+    ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
     excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
     publishedDateTime: 2021-06-23T13:03:00Z
@@ -61,22 +72,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
-    excerpt: "\"And what it taught us is that Rembrandt never does what you expect.\" The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
-    publishedDateTime: 2021-06-23T17:51:00Z
-    webUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rembrandts-huge-night.jpg"
-        width: 2880
-        height: 1920
         isCached: true
   - title: "Artificial intelligence recreates Rembrandt's Night Watch that has stripped off parts, in Amsterdam’s Rijksmuseum"
     excerpt: "The strips' addition restores to the work the off-centre focal point that that rebellious Golden Age master Rembrandt originally intended."

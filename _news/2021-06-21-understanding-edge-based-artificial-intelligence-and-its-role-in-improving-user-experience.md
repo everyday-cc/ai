@@ -40,6 +40,20 @@ related:
         width: 1080
         height: 592
         isCached: true
+  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
+    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
+    publishedDateTime: 2021-06-24T13:16:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 51
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI + Human Intelligence — A More Effective Solution for the Healthcare Payment Lifecycle"
     excerpt: "AI is best used in an “augmented intelligence” capacity, where it assists human decisions. Importantly, it also allows us to reallocate human resources to essential patient care tasks."
     publishedDateTime: 2021-06-22T20:02:00Z

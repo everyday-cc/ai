@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/3
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
 type: article
 quality: 87
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "HPE Acquires Deep Learning Training Platform Determined AI"
-    excerpt: "Hewlett Packard Enterprise has acquired deep learning training platform Determined AI for an undisclosed amount. The latter will work with HPE to boost high-performance computing"
-    publishedDateTime: 2021-06-22T06:29:00Z
-    webUrl: "https://analyticsindiamag.com/hpe-acquires-deep-learning-training-platform-determined-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/HPE.gif"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "HPE acquires Determined AI to ramp up machine learning development"
     excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services."
     publishedDateTime: 2021-06-22T13:36:00Z

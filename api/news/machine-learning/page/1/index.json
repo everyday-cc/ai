@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently.md",
+      "title": "Carrot And Stick: How Deep Reinforcement Learning Trains AI Differently",
+      "excerpt": "Rather than generating potential outcomes based on historical data, deep reinforcement learning teaches AI agents and machines with the time-tested \"carrot and stick\" method.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d34ea2e22fb5d923a8b3e1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/",
+      "publishedDateTime": "2021-06-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing.md",
       "title": "Google Visual Inspection AI Augments AutoML To Detect Defects In Manufacturing",
       "excerpt": "Visual Inspection AI takes AutoML Vision to the next level through its domain knowledge of the manufacturing industry.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1317,64 +1369,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-10-deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.md",
-      "title": "Deep neural network model can accurately predict the brain age of healthy patients",
-      "excerpt": "A study shows that a deep neural network model can accurately predict the brain age of healthy patients based on electroencephalogram data recorded during an overnight sleep study, and EEG-predicted brain age indices display unique characteristics within populations with different diseases.",
+      "path": "_news/2021-06-10-enterprise-machine-learning-guide.md",
+      "title": "Enterprise Machine Learning Guide",
+      "excerpt": "AWS has the broadest and deepest set of machine learning (ML) and AI services, and is focused on ... handling customer feedback to more advanced financial forecasting: the advantages will be ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
+      "webUrl": "https://www.cio.com/resources/219987/enterprise-machine-learning-guide",
+      "originalUrl": "https://www.cio.com/resources/219987/enterprise-machine-learning-guide",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210610/Deep-neural-network-model-can-accurately-predict-the-brain-age-of-healthy-patients.aspx",
-      "publishedDateTime": "2021-06-09T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-develop-and-deploy-ml-models-using-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot.md",
-      "title": "Develop and deploy ML models using Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot",
-      "excerpt": "Data generates new value to businesses through insights and building predictive models. However, although data is plentiful, available data scientists are far and few. Despite our attempts in recent years to produce data scientists from academia and elsewhere, we still see a huge shortage that will continue",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/develop-and-deploy-ml-models-without-writing-any-code-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
+          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1384,21 +1393,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T14:01:20-07:00",
+      "publishedDateTime": "2021-06-10T06:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1407,8 +1407,8 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

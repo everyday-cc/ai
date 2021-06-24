@@ -115,6 +115,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities"
+    publishedDateTime: 2021-06-24T09:19:00Z
+    webUrl: "https://www.canindia.com/aws-salesforce-partnership-to-unify-developer-experiences/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
+    images:
+      - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
+        width: 252
+        height: 388
+        isCached: true
   - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
     excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
     publishedDateTime: 2021-06-24T01:40:00Z
@@ -159,16 +173,7 @@ related:
         width: 770
         height: 432
         isCached: true
-  - title: "AWS, Salesforce partnership to unify developer experiences"
-    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
-    publishedDateTime: 2021-06-24T09:11:00Z
-    webUrl: "https://www.sify.com/news/aws-salesforce-partnership-to-unify-developer-experiences-news-education-vgyjlEbghhihh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
-secured: "kAPku/MvfRYEPqrcU/AlhMxEXtEbXPxMXVu8qpCNPSzaOnfHVII7s1CDEzgsUE2hGFMT2arEK5XGV/sG7EUQRoHqEFzmo2edC2VQ7PjpmEX8Ph+noTd20ALnvhBw4g9HzsyN1ysjFrKC2fkV0NMfCw1/uk244qm1wIGTZgTVsiR00l2i/WcaCfivZAwR8ujpi12fPts7WgrZLHvm3f2HZc33WD+R5mOMtD9gcMfR8eDqjm7tCXZpw1aKESUAXVulo48b2bMYh2LlAeEZIG6W6JQpKIldQmYz0VYOhf+C5D/yK33LQ1cVixmId0MoovCy1vJVAIB2wf5KAFzyfsYXFJgnpiZzARIVN58eCrK1FWc=;hkI5aMUNCA+M6TT3lWmI2A=="
+secured: "EXUKZi81wVJrZpU2ChNnDNc98Tcof5HFBgu980d8zSn0Z8/bn8FoM535VfpIQ2MSnrVGtFxCN3zih8/IrIUfyuXiXdd4MgI8XO3g/goyLzL0UatdcvvLF/dEXcrgUAd9aZInvGSapJM3p5jgwSBuQeTsjqD9FWNiBWM9n+cBlRc1OVuHDFdDQO2NxpGx/EjQNV9Bq8yfBlpPCmLx4i1l0/B0m8poElexcFYyz0kAJk/rEz9YaqwhwdNXVC2Ih7sJroxusAJNHzj7P/XL65zAQzibQgObmAx12Alrgzy0UejiR4Mk+heADK7A1FjIndkPD1PrZxaOapxYlS2eqHToyEXVZa3IrI+oAlK42EtvDjya61EgiEk/3ks934U/UNRA9C3sDK0PhBwk/pbcYaidsA7oA7cjf/WsUg326v3PxR/RZVUz/IPCrOHwKef5PBjPazpMSni6U9SqyVrfca1E4J5aGs6uJ0MjRzV9+SJNUa3vfX5m4NOMlSccFttJuB4vap1VJoahu/E0EwQ83FymTw==;PZn8SQ1tAd+WEEyfZ3twrA=="
 ---
 

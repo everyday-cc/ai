@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/online-marketing/googles-latest-a
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
+    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
+    publishedDateTime: 2021-06-21T13:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Pure Storage AIRI® Platform Named \"Best AI Solution For Big Data\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
     publishedDateTime: 2021-06-23T13:00:00Z

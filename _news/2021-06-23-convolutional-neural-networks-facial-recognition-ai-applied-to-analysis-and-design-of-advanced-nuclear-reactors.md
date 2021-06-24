@@ -74,12 +74,26 @@ related:
         width: 1200
         height: 742
         isCached: true
+  - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
+    excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
+    publishedDateTime: 2021-06-24T12:23:00Z
+    webUrl: "https://www.euractiv.com/section/health-consumers/news/irelands-green-light-for-medical-cannabis-and-calls-to-ban-ai-face-recognition/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 50
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/06/1-1536x864-2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-    excerpt: "Sixgill LLC Becomes Plainsight, Realizing the Promise of Vision AI for Innovative Enterprises Across Vertical Markets SAN FRANCISCO (PRWEB) Plainsight,"
+    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
     publishedDateTime: 2021-06-23T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21693456/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21693456"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693456"
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
     type: article
     provider:
       name: Benzinga.com

@@ -85,20 +85,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "HPE Acquires Deep Learning Training Platform Determined AI"
-    excerpt: "Hewlett Packard Enterprise has acquired deep learning training platform Determined AI for an undisclosed amount. The latter will work with HPE to boost high-performance computing"
-    publishedDateTime: 2021-06-22T06:29:00Z
-    webUrl: "https://analyticsindiamag.com/hpe-acquires-deep-learning-training-platform-determined-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/HPE.gif"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Robots make more business sense with AI"
     excerpt: "Robotic systems are now reaching a level of genuine usefulness in business –  just don’t expect fireworks. Robots are secretly becoming practical these days. You wouldn’t necessarily know it: there has been no flashpoint moment or Elon Musk figure in the robotics field."
     publishedDateTime: 2021-06-22T11:49:00Z

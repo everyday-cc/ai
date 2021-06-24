@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-fo
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -42,6 +42,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
+    excerpt: "New funding will accelerate the development and commercialization of easy-to-use AI for industrial quality inspections Today, Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing."
+    publishedDateTime: 2021-06-24T08:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210624005088/neurala-raises-12-million-to-scale-artificial-intelligence-for-industrial-manufacturing"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 23
 
 secured: "NLwSsXtgz98r7DE6DgpfsTouGij3yyqpy5lE9rV5ZIcOJooYN1nDFXGOq5Hfv2eaAjZk6YyZRkR9PQwbeincD7WlV3H7wsKeSaxTDthhO9NtM2dnCne3fQ0Hv4/pWXKzzfD8Yy0AUuXvIon01qhlDgRndxD1oWpWEIEtWWLyNDLi817413ZORlI5vFdAq0rZgrb9VRX3FRAht4637XSzJwY2YqXTXALhLv09ditxI67TvUkSUeNCpUcw9vfvq3XsNq9GvyjPlJ0xiFxeElC8fiYCuHzwhgWIOLy6xnWQMsEp6DVh6XYSi6VQZc0nwIwOX0zS1ti2/zm3vCTZhGeCJeSI08u1jCIhLOFCtnVPrkE=;0lAuAFRVUNVwpLlW960fPA=="
 ---

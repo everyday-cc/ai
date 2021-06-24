@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-excerpt: "Sixgill LLC Becomes Plainsight, Realizing the Promise of Vision AI for Innovative Enterprises Across Vertical Markets SAN FRANCISCO (PRWEB) Plainsight,"
+excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
 publishedDateTime: 2021-06-23T20:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/p21693456/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/p21693456/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-ampWebUrl: "https://www.benzinga.com/amp/content/21693456"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693456"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
 type: article
 quality: 39
 heat: -1
@@ -83,6 +83,20 @@ related:
         width: 500
         height: 241
         isCached: true
+  - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
+    excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
+    publishedDateTime: 2021-06-24T12:23:00Z
+    webUrl: "https://www.euractiv.com/section/health-consumers/news/irelands-green-light-for-medical-cannabis-and-calls-to-ban-ai-face-recognition/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 50
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/06/1-1536x864-2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
     excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
     publishedDateTime: 2021-06-22T05:12:00Z
@@ -98,6 +112,6 @@ related:
         height: 673
         isCached: true
 
-secured: "BgEWGH9XT3h+I6FXl6SPAhb+6Ll5Ru0PsL7rzd8ziunHNsRa3TfNwz53plMyj8T3+m4N1k0LM//Ga2ynW6i3VO1b3GgfgU1DLH6/akvpCIxiyeqTojdBJDmnkSvFAxI1aue3zQTWJ2T7xQ4Zq9P7xzNb+MeI0vJg+GTs/nazNu5Q50VUb5vZdsgzWil2fsMLCfk+CeOJTYfongixKPWLYEB4VpEhlQgKA0zF0BpCYygGJ5nNgkbrGQPOUGv3R+nkb5HswKPr9385wlssNPnLvgISdVUaAZJYGvwzSAMiBTu8B2kyL+AmulDtbxApPtncaWI2L3U3pwsqwzXWcH3tBIo2sABingemz0KN4xYbLQ0=;fV0SsylZXsHoVSzOA/IhTQ=="
+secured: "Hu3aj5hdUGMo/6s3m/UsDIdbxhmMBB5SQ57EmqWtyuRhS7ahCQu5zsitSGj+ijFRqjEzFVIiM58xcEGGKByGi592HHuQHktpEH3QoZ4H3ncJ7I9W5YpeYg41xTyvRtQyAFtSrJ9RHt7yzj7Md5EDSYGRRfVqEQWibLQ5TTiSEOwZIQ0E6stPXf+zjSc04vzE5f5TxwSIsr2uJjhHpjkAxlL1k1oz4TOR7hgT/oFABZnAWxH6W2AFXRUjyL5KJzAIypiR4b6nrzk7Y90ZzZR+AVVZCmtaOKlv3EmPnaHM0IcOrxVhnIiSlwRhd1BYgqk3TDQL1sQoetJE+d/ooDktgGSjVmpUUtCpHc0XQneL5jc=;ParZTnD7AiedHLq/csZQCg=="
 ---
 

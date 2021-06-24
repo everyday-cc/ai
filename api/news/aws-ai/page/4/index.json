@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
+      "title": "Best practices in customer service automation",
+      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T15:48:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-21-implement-live-customer-service-chat-with-two-way-translation-using-amazon-connect-and-amazon-translate.md",
       "title": "Implement live customer service chat with two-way translation, using Amazon Connect and Amazon Translate",
       "excerpt": "Many businesses support customers across multiple countries and ethnic communities, and therefore need to provide customer service in a wide variety of local languages. It’s hard to consistently staff contact centers with agents with different language proficiencies. During periods of high call volumes,",
@@ -1290,58 +1342,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-build-a-cognitive-search-and-a-health-knowledge-graph-using-aws-ai-services.md",
-      "title": "Build a cognitive search and a health knowledge graph using AWS AI services",
-      "excerpt": "Medical data is highly contextual and heavily multi-modal, in which each data silo is treated separately. To bridge different data, a knowledge graph-based approach integrates data across domains and helps represent the complex representation of scientific knowledge more naturally. For example, three",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cognitive-search-and-a-health-knowledge-graph-using-amazon-healthlake-amazon-kendra-and-amazon-neptune/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/07/3-2590.jpg",
-          "width": 800,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T16:39:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -4,17 +4,17 @@ title: "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes"
 excerpt: "If you’re anything like me, you’ll love Nvidia’s new Canvas AI. It turns your shaky strokes into beautiful landscapes. The company has released this new app for Windows user"
 publishedDateTime: 2021-06-24T07:40:00Z
 originalUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-tool"
-webUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-tool"
+webUrl: "https://www.nvidia.com/en-us/studio/canvas/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 167
+heat: 257
+published: true
 
 provider:
   name: The Next Web
   domain: thenextweb.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+    - url: "/assets/images/organizations/thenextweb.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FNVIDIA-canvas.jpg&signature=d89bd29e2c7eca7c265389e5c1bcb8b8"
-    width: 1280
-    height: 640
+  - url: "https://www.nvidia.com/content/dam/en-zz/Solutions/studio/canvas/canvas-og-1200-630px.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -161,21 +161,7 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Dell’s PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads"
-    excerpt: "Dell's PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads - SiliconANGLE"
-    publishedDateTime: 2021-06-24T11:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/24/dells-powerflex-software-defined-storage-offering-adds-support-nvidia-gpus-power-new-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/image-1-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "c5KJJfFWIrkO68JGgkYu/xlYpDBxnMxqBk8lQDGW1G2AbXSdOh8sOE8ORVBRc6VcHHPTJWGMvdrfiKzZ2f8s74gYt6WCCYBubpwTsXajSSyp6ZVPAz5uEszjhw6eWix1ls+vQNWlPqYWEM7fD4PLpgs4hKJ96fBy+PFRmfB2yq+LkeLDEeTcgm2Ll1fOEzuPl+gwIlVjKJoqJKqiwtSNHWkdjHAPXoX9LlPAS+9PCXxNZBuJbWNzaQn2JCLCeLlUMCokH9HOKq1QL0jhDQSMa+Ltl7jqu/7B7mR6NPJwJRvkMCuOSN9cnLR68ADkQhlhOfs/0v2f66ApJkDjfE4feDbl7I5RWQtBaE0ODABtQaIjW7bSXp7kPmxqCZXw4JIDdPLXz0wjDDTjZ1+CEAN5Cq41mqG9OLMEfbwgrV3avQXj7J7eot48yFv8oWVPXk3cdxOzwgX1Z0hHgdPKM8uW9zKiZ9AaEwLD5jBVKvYqFAJnz5iT6NXerwAAeo0xWmVZgm/1E2Emzaa4sX5pn/oilg==;hGqRk29mH1ogUE5AMaDySA=="
+secured: "DyZcUNkvWAhIgLMADzot7X8HQdTN+rhbAZKBSj18GIhfarFTwakSThX8bM1nV9KllULWjdp0b3m4ZrDlJP7JTV5qTCzzA1/pyIAZpCEP+lG4w7fOVFd612MyxinTOIKE96qUc11tKXODpDkS1dCY9gEwxpzoRNMPRSk6nMnl0mk8jX+bUvq7isapXpy03tPTGg1/u8MrbPza4+FMDFFa7ULJQDm0zNAhA+RnbGkZVNXQMtc2Nm+jxPHBMn/K1a1RqXsA7Q5NnUNLUQDB+q1ub6aUuDK1LjSVzvqeq1HaMyexEiqsaD8iA6oq5MDq+3ntkVMcKWy5oVK0s6hjl+wsyXeyuxEuCpJMniQZSZtWb7o=;BFLeqVobIGOX24ddZs/JAA=="
 ---
 

@@ -33,6 +33,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "VDMA Robotics + Automation, GO2automation partnership drives global access to automation"
+    excerpt: "Under the GO2automation platform, small- and medium-sized firms will receive data-driven access to automation and a range of experts."
+    publishedDateTime: 2021-06-24T13:00:00Z
+    webUrl: "https://www.compositesworld.com/news/vdma-robotics-automation-go2automation-partnership-drives-global-access-to-automation"
+    type: article
+    provider:
+      name: CompositesWorld
+      domain: compositesworld.com
+    quality: 45
+    images:
+      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2021-cw/0621-cw-news-go2automation-platform1.jpg;maxWidth=1200"
+        width: 1103
+        height: 734
+        isCached: true
 
 secured: "7YQ/994SDnRUt29G2OyEoGr7URbsLU2hx1MgApS5HE3U4Bmpw9cERfX+cEoCCSnb/F3pEKQtCNTRPLve3y156TABoeop7hpUoq9drjOZigJSB+WLtqTFTv+zJzQgpieoMWQdwKHSkPo/hoW7LH56uSsld/1sWG3DVxKt+c8aRCNPh/fYGLjvBvCPLKHdWqYgLH+J1ZAqxaB7m6UihHIUVDuBw6odV58cZPpKMumtkMTROKz8ANHHrxQcgheHXSvsNxjreR1SGCVPk3oj+UqklVi6fLWSC1NafVQA84D0mLSjHmaqsDIe7FPpJwlSZjGvubLLPVebxViiHLpkrcq54oMgRmPmMIuipu5HP44eXfg=;Tp505aCS4t6+dxP3bjBrpQ=="
 ---

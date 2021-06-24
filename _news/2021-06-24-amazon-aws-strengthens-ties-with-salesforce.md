@@ -101,6 +101,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities"
+    publishedDateTime: 2021-06-24T09:19:00Z
+    webUrl: "https://www.canindia.com/aws-salesforce-partnership-to-unify-developer-experiences/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
+    images:
+      - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
+        width: 252
+        height: 388
+        isCached: true
   - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
     excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
     publishedDateTime: 2021-06-24T01:40:00Z
@@ -145,15 +159,6 @@ related:
         width: 770
         height: 432
         isCached: true
-  - title: "AWS, Salesforce partnership to unify developer experiences"
-    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
-    publishedDateTime: 2021-06-24T09:11:00Z
-    webUrl: "https://www.sify.com/news/aws-salesforce-partnership-to-unify-developer-experiences-news-education-vgyjlEbghhihh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
   - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
     excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
     publishedDateTime: 2021-06-23T12:06:00Z
@@ -169,6 +174,6 @@ related:
         height: 280
         isCached: true
 
-secured: "EWkg9/xlXqzTIrZo2tHDmwIyf2NHE0agFDM4rWVs6tW69NxOGE0odg7XBNhuwD+y3KwoaPxCV+A+3e1Fo1T5T9qzAFR7ZkNgKuGo1zaVP739vax8VTmL3g8jDguNOMveWLra3e/BWz4q+GWtthIhA6bi9UjYEO7AWLJ+JsiL3RUhA46WkEWav6XqA2PvZGhuYSg5I0eTpRpsP4/3NOYS1IyrIY6uoUBZCKUvjIQCPpcpUYjNtIEtHnVt6/1Y8AQ/s2gH6GHcgdOQQAfDIlYQfDqg5MSBiheX6dn09FIUBZGsAMPKFIKhZG/MIaH4Ifyea2fqCxrjzSa4UWRjvB0311EaUTPlRuNqhqQDGfEpJeA=;3y3xrHyVYVbjAg/h5+T3+w=="
+secured: "VqUBz8bUxRzKLJ/bBTjUPVion2uFY3Yvp2w0S/ZDRhVw9Zbtob9ersqxA98JMa4A/TMLGkWqJVfsxpIoe9I/ttHz7FwedYElai0rHFJZIfKWlLXh/xBefPinKc/W0VyazZrFmSSLQJqpnKU2J1qr8SV/19/th88wlLwW+r+0VhytBItahCSgkvMN0AEpZytPgUm4WfvsFDukX0Hu35PUOAydgWbqzROaFwUlfcGXnslOPSjCADBo47MSp+PQrVBR9U7McAHhchcfoWMpA3KAKb7UELlL38gu1kH7cYNXvg4JlCc9omnI3+5TXlbumDYPFxx2xZZWAD8VAYK98T6nD321gamRRyIeMMGTIYXr3lxsF+PoSc+kn0vPkerl8w1FXb4o3UN24BXx3DM92Zh9U5JIJpLWnhK5OI3VKNRYAh34DeTEiGyKYn9+uZH7ittIomSRLdnrVApUDUPkfFwmeKCumi/mDJTw/m9oSt+MsQ7haLVNeQTWkP4rpuzETgx+D8DNN/svCdN63b4GffbQ4A==;SenBVPH3Q93VzgSyD+1bWA=="
 ---
 

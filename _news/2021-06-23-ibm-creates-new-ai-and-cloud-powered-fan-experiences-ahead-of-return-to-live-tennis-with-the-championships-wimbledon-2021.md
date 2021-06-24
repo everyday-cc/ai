@@ -41,6 +41,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
+  - title: "IBM serves up player tracking tools for Wimbledon fans"
+    excerpt: "IBM has announced a set of new AI-based fan experiences for this year's Wimbledon Tennis Championships, which are set to start on Monday. The tech giant has a 30-year history with the competition, providing innovative features through its Watson AI service."
+    publishedDateTime: 2021-06-24T13:40:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9130/ibm-serves-up-player-tracking-tools-for-wimbledon-fans"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 24
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/07/ballshutterstock_372900823.jpg"
+        width: 1000
+        height: 669
+        isCached: true
 
 secured: "PLZSk7OkNgJpjO+4Rh1uo1Nacy5a6QRtnHxif4BxQVmH30KS56YUCaSIhWVfsakeP1hHMfEdzGc91TncjZdxjTstj4MMFxNliHShToN7+NrJC5wLldY66lxIdFYYX/KK+mPjI3H2isylNoa2BqPcqrU+GxMlrfNu2oVAsOGRJ0j2CysrF7nsDhqFVWLmQpGkVL4JFNXIlR/rv1hIHCZ0xqNUN0P3UVwfLuhqopdOTijyKjclDgBLB7eRNn4+IkP0wyk/TfdbsOaD+fL3mmp5kz6kwp/YAvregrrJO5vfd0PQUJLb2V5ZxXS63TSG2qg380N4s/rR4WooH007ELNTIkiQF3C42LJcbHvptuzO4jRIeFsfQ6ROin/0EFM7rFCWoB4pnZL1hbnL7KQFbxp9kM2aSQjkcyk4ntc2pwtitgzW/veL6EbH7E3S5JN7xiusOMfgYBbHujRGHS+IAHyfDd4rU3O5YZrVMAvvnHzRXkgYPg+xlvvIGE33VZPHaYwN5uwqV8lwYD8/0XnAZOlScw==;sIkxisHUUE3EKDVYchOnoA=="
 ---

@@ -2,6 +2,351 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-20-google-develops-an-ai-software-that-can-design-a-chipset-in-just-six-hours.md",
+      "title": "Google Develops an AI Software That Can Design a Chipset in Just Six Hours",
+      "excerpt": "As per a recent research paper, Google has developed an AI software that can design the \"floorplan\" of chipset in just six hours.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/google-ai-can-design-chipset-in-six-hours/",
+      "originalUrl": "https://beebom.com/google-ai-can-design-chipset-in-six-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2021/06/Google-Develops-an-AI-Software-That-Can-Design-a-Chipset-in-Just-Six-Hours.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/google-ai-can-design-chipset-in-six-hours/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-ai-can-design-chipset-in-six-hours/amp/",
+      "publishedDateTime": "2021-06-19T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-robotics-page-4.md",
+      "title": "Robotics - Page: 4",
+      "excerpt": "The online retailing giant has installed more than 15,000 robots across 10 U.S. warehouses, a move that promises to get packages out the door more quickly in the run-up to Christmas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "originalUrl": "https://www.entrepreneur.com/topic/robotics/4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
+      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
+      "excerpt": "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
+      "originalUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-19T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-bidens-ai-initiative-will-it-work.md",
+      "title": "Biden’s AI Initiative: Will It Work?",
+      "excerpt": "It has a good chance of working. The program has a decent budget and there is a focus on unleashing government data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1145585734%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "publishedDateTime": "2021-06-18T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies.md",
+      "title": "State of AI Report Finds Growing Budgets and Correlations with AI Companies",
+      "excerpt": "Increasing AI budgets represent a maturing industry and are closely correlated with metrics of success. In our latest State of AI report, Appen investigated the landscape of the AI industry to try to understand its current challenges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/state-of-ai-report-finds-growing-budgets-and-correlations-with-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/cloud-security.png",
+          "width": 1043,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-prime-day-pc-parts-deals-2021-early-cpu-gpu-motherboard-ssd-more-sales-reported-by-retail-fuse.md",
+      "title": "Prime Day PC Parts Deals (2021): Early CPU, GPU, Motherboard, SSD & More Sales Reported by Retail Fuse",
+      "excerpt": "Save on PC parts, hardware & components deals at the Prime Day 2021 sale, together with all the latest early RAM, hard drive, NZXT coolers & cases & more savingsBOSTON--(BUSINESS WIRE)--Find all the top early PC parts deals for Amazon Prime Day 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=487533",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=487533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026.md",
+      "title": "Artificial Intelligence in Automotive Market Growth, Opportunities, Share Analysis up to 2026",
+      "excerpt": "Selbyville, Delaware, Global Artificial Intelligence in Automotive Market Report explores the essential factors",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-growth-opportunities-share-analysis-up-to-2026-2021-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-19-ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws.md",
       "title": "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS",
       "excerpt": "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments.",
@@ -852,351 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-five-recommendations-for-creating-more-ethical-ai.md",
-      "title": "Five Recommendations For Creating More Ethical AI",
-      "excerpt": "One of my favorite quotes that I feel sums it up well, famously attributed to Sun Tzu, is, \"If you know the enemy and know yourself, you need not fear the result of a hundred battles.” Using the same analogy in the business of creating ethical AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89b3125364e8f90ba67838%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/",
-      "publishedDateTime": "2021-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-neural-network-captures-noisy-neurons-in-autism-mouse-model.md",
-      "title": "Neural network captures noisy neurons in autism mouse model",
-      "excerpt": "Mice missing the autism-linked gene SHANK3 use more neurons to engage in social behavior than control mice do, reflecting a more disorganized, less efficient brain signaling network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
-      "originalUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/06/17122732/20210610-PrefrontalCortex1120-1120x550.jpg",
-          "width": 1120,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
-      "cdnAmpWebUrl": "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
-      "publishedDateTime": "2021-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-the-future-challenges-of-big-data-in-healthcare.md",
-      "title": "The Future Challenges Of Big Data In Healthcare",
-      "excerpt": "Incredible discoveries in the science community have made data collection of individual health measures simple, from everyday wearables that measure vitals to mouth swabs that map out a genome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60803c75be8007f68f0bb05d%2F0x0.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/amp/",
-      "publishedDateTime": "2021-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ico-use-of-facial-recognition-tech-in-public-spaces-deeply-concerning.md",
-      "title": "ICO: Use of facial recognition tech in public spaces deeply concerning",
-      "excerpt": "ICO investigations found most companies using the technology tended to be \"immature\" in their approach to data protection",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
-      "originalUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570817006/itpro/2019/01/facialrecshutterstock_1160291101.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp",
-      "publishedDateTime": "2021-06-18T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-uk-organizations-warned-over-live-facial-recognition.md",
-      "title": "UK Organizations Warned Over Live Facial Recognition",
-      "excerpt": "In a formal opinion, Elizabeth Denham says that the use of live facial recognition (LFR) can't be justified for reasons of efficiency or cost reduction alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cc78348718ed535bc99e6c%2F0x0.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/06/18/uk-organizations-warned-over-live-facial-recognition/amp/",
-      "publishedDateTime": "2021-06-18T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-upstart-personal-loans-review-2021-artificial-intelligence-driven-loans-for-those-with-fair-or-no-credit.md",
-      "title": "Upstart Personal Loans Review 2021: Artificial Intelligence-Driven Loans for Those With Fair or No Credit",
-      "excerpt": "Upstart’s loans are available to people with fair credit or no credit history, but borrowers may pay a high APR and an origination fee. Find out more here.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/nextadvisor/loans/personal-loans/upstart-review/",
-      "originalUrl": "https://time.com/nextadvisor/loans/personal-loans/upstart-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/nextadvisor/wp-content/uploads/2021/06/na-upstart-personal-loans-review-1000x630.jpg",
-          "width": 1000,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://time.com/nextadvisor/loans/personal-loans/upstart-review/amp/",
-      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/nextadvisor/loans/personal-loans/upstart-review/amp/",
-      "publishedDateTime": "2021-06-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-waymo-raises-25bn-to-rev-self-driving-cars.md",
-      "title": "Waymo raises $2.5bn to rev self-driving cars",
-      "excerpt": "There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale- Waymo co-chiefs Tekedra Mawakana and Dmitri Dolgov Investors taking part ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127",
-      "originalUrl": "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-attachments.timesofmalta.com/ef73d90ddf20e302a1043ec768a0bfc9d1202f14-1623937564-3b6b289e-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp",
-      "cdnAmpWebUrl": "https://timesofmalta-com.cdn.ampproject.org/c/s/timesofmalta.com/articles/view/waymo-raises-25bn-to-rev-self-driving-cars.880127.amp",
-      "publishedDateTime": "2021-06-18T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of Malta",
-        "domain": "timesofmalta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

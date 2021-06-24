@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
+      "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
+      "excerpt": "Bratin Saha, vice president and general manager of machine learning services at AWS, said customers ... What is deep learning? | What is artificial general intelligence? In an interview ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "originalUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
+      "publishedDateTime": "2021-06-02T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-amazon-aws-machine-learning-summit-keynote-kicks-off-with-alexa-toilet-humor.md",
       "title": "Amazon AWS Machine Learning Summit keynote kicks off with Alexa toilet humor",
       "excerpt": "Sivasubramanian called out Amazon SageMaker, the company's development environment, which is the way the company brings machine learning frameworks such as PyTorch and TensorFlow to data scientists.",
@@ -1331,58 +1375,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-best-practices-in-customer-service-automation.md",
-      "title": "Best practices in customer service automation",
-      "excerpt": "Chatbots, virtual assistants, and Interactive Voice Response (IVR) systems are key components of successful customer service strategies. We had the pleasure of hearing from three AWS Contact Center Intelligence (AWS CCI) Partners as part of our Best Practices in Customer Service Automation webinar, who",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-in-customer-service-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/3660-Thumbnail.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-21T15:48:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
-publishedDateTime: 2021-06-24T09:10:00Z
-originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
-webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
+publishedDateTime: 2021-06-23T21:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 134
+heat: 204
+published: true
 
 provider:
   name: Business Wire
-  domain: businesswireindia.com
+  domain: businesswire.com
 
 topics:
-  - IBM AI
   - AI
-  - AI Ethics
+  - IBM AI
 
 related:
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
@@ -48,24 +47,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+  - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
+    excerpt: "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population."
+    publishedDateTime: 2021-06-24T05:48:00Z
+    webUrl: "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
-    publishedDateTime: 2021-06-21T13:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
     excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
     publishedDateTime: 2021-06-23T16:42:00Z
@@ -94,19 +89,19 @@ related:
         width: 768
         height: 384
         isCached: true
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+  - title: "Montréal’s Aifred Health wins second place at IBM AI XPRIZE competition"
+    excerpt: "Montréal-based healthtech and artificial intelligence startup Aifred Health today won second place at the final round of the IBM Watson AI XPRIZE competition."
+    publishedDateTime: 2021-06-23T20:06:00Z
+    webUrl: "https://betakit.com/montreals-aifred-health-wins-second-place-at-ibm-ai-xprize-competition/"
     type: article
     provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
     images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/Aifred-Health.jpg"
+        width: 1050
+        height: 700
         isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
@@ -118,6 +113,6 @@ related:
       domain: morningstar.com
     quality: 36
 
-secured: "qdGZZCqT9v7pyeIs2pPvarMi0GCJ79A35NYzg/7lgLiSi3n+j72lzicIDx10Wa14nL7ggLhH/ertKvW+m/z1iLZv+qBLxshjAwm2+egKm/Su0PSWpmYoHC/FU71t2RtMYRFZqrfAL/8OpHKtzGFlEDXB0HjmcBw7KNa7MjQNa+QKQRMdukrCOy3pfd2XTUOJI6EDxW8J9abolJWR47nNEsO1AuRXAxP6crSAdup/yEfpNwkC8gYZozn7iplv+YsfbHf09fP0NEKll4kvBViig+rEclfnivlxewFegDMMfBxydtwTsAH/d074q6VsmbgHGX88pPMg2dVySipKM6V1ozXRfoG+1tFIiQ304Ep4l7E=;LdLVFHD2cUWWSIGKFqsxtA=="
+secured: "N7DGG+lLwr7r/UEOhn4RSarMWYx4oZaG0GW5KGtUywxXIpNV8TFOfcEDIQu/P2jbDf86YJekZXkL6bWrbLo38+SFbo2rVigHZgI4uOL8410kgU2cBLD4Ber86flI89uX17w9RYYP5tv+MWFoypTNmNJiQyHgqEH2zvzEng6bpTo0Z7nvGwClk0kKe59GUIBp6NH9k2+BoRKJdisrRd7JYcgHrg2MdBuAR6EvMFvHVh8eAk2+UnTe3g0olyI0JTjK78MTluLzERDlJSHo7Tk+XqqarwvdqH0fwnJ2k2c9U9JABGfGOiTR/4ucCnXo+2a7WZnBS3AT0xtMYWXe+tVVaiu9/sMV/402kWcXtxc1wi4=;tXWDe2bW16n5/17qpIIujA=="
 ---
 

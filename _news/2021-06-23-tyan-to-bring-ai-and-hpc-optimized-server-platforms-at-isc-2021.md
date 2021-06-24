@@ -1,23 +1,29 @@
 ---
 category: news
 title: "TYAN to Bring AI and HPC Optimized Server Platforms at ISC 2021"
-excerpt: "TYAN exhibits its latest AI and HPC server platforms for data centers and enterprises at ISC21 Digital from June 24th to July 2nd"
-publishedDateTime: 2021-06-23T07:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021"
-webUrl: "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021"
+excerpt: "TYAN ®, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary, continues its strong presence at ISC 2021 and joins the “ #ISC21 ” platform from June 24 th to July 2 nd to exhibit its latest AI and HPC server platforms for data centers and enterprises."
+publishedDateTime: 2021-06-23T07:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021/article_e4a76533-1c1e-535a-ad03-ee4647a6e668.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021/article_e4a76533-1c1e-535a-ad03-ee4647a6e668.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "8K9wAANyb22Edk/M/+/X8WVyW6yWvSY5zNc5vDfxte8XePHHuNYapNNIf3e9pXhQvYQVidmRiW4ygHn19QSuPQQCDmZS15TjmowGiUzMqzSWrEjHP5BkchGGtCjd5t+Htmz9vSwCGA7fpKdeo7gGjMaof9lun4d1AewraxBWhjUsJ5OQkKcAt0NybCh365u+tL6mxKbyr29r0zJkjoMEvYTN84dvfxD7VldoRQSPbpNnhyn7PRMa9YhyCimgXAIKj1H0+onXAAuDQOMxErRQXdfg2g2N6+xtH/RAVKog45xrfiH+pv6HJxR2/qeJqALxn+OBBNulH2/q2tn4rwDx9J817IjsWvqP4kNvqS4zCHs=;pjFznH6Hmc/Fq2SuJoYraQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/b7/eb79dc0b-aa72-53a4-952c-846eb9d8bd00/60d2dc9297e68.image.jpg?resize=1200%2C550"
+    width: 1200
+    height: 550
+    isCached: true
+
+secured: "92LEhJtOosUTAXJnlPom04hxnffzXiFe4+Teuw0hdyCSR0TdK7KNudMCadBmOP1kLzYuUSW58RY3/C+dthHfYdIBmde+b0zlGxQK4D4UL+0/aqA/stmUCt7Ek4V3E2ujkUSqdQkLq7awJbIIscJxfn5tBWx5eZjcLFd+GFemUa55PMrpQqriZj7AyDEfx9dMswg4wAMGwg8DlKQdxX+156USXwPulNo5/lS37pYjoZ4gK6bBiZ1ISK6xbzVmXDpvWy8x/Ncf58TRLJ40bSm19xn+j0TUwNC7FTyJfTUNsvEO78fYjY/mCBVGLFDCBjdjf/9uE+TcWsXeI+z5Zl3Q/4Drvjzj8ysA2ZlB+iUH5zU=;y3sQWCcDuGns74OoZ7RyNA=="
 ---
 

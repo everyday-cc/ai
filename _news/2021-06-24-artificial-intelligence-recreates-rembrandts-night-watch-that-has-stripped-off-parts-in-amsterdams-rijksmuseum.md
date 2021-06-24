@@ -42,6 +42,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Rembrandt's Huge 'Night Watch' Gets Bigger Thanks to AI"
+    excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, Wednesday, June 23, 2021. Right above Dibbits,"
+    publishedDateTime: 2021-06-24T12:16:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai"
+    ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
     excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
     publishedDateTime: 2021-06-23T13:03:00Z
@@ -73,22 +84,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6c8bb35b8506b436b0b1889355d25d76e43ac7ae/108_203_3299_1978/master/3299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02320d3c2fed82f460a8089b4aeb031f"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
-    excerpt: "\"And what it taught us is that Rembrandt never does what you expect.\" The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
-    publishedDateTime: 2021-06-23T17:51:00Z
-    webUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-rembrandt-huge-night-bigger-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rembrandts-huge-night.jpg"
-        width: 2880
-        height: 1920
         isCached: true
   - title: "Scientists recreate Rembrandt’s masterpiece ‘The Night Watch’ using artificial intelligence"
     excerpt: "Based on a small 17th century copy of \"The Night Watch\", scientists used artificial intelligence to recreate the missing sections, which have been printed and mounted around the famed artwork."

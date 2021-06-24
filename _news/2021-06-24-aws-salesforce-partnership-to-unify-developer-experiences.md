@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS, Salesforce partnership to unify developer experiences"
-excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
-publishedDateTime: 2021-06-24T09:11:00Z
-originalUrl: "https://www.sify.com/news/aws-salesforce-partnership-to-unify-developer-experiences-news-education-vgyjlEbghhihh.html"
-webUrl: "https://www.sify.com/news/aws-salesforce-partnership-to-unify-developer-experiences-news-education-vgyjlEbghhihh.html"
+excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities"
+publishedDateTime: 2021-06-24T09:19:00Z
+originalUrl: "https://www.canindia.com/aws-salesforce-partnership-to-unify-developer-experiences/"
+webUrl: "https://www.canindia.com/aws-salesforce-partnership-to-unify-developer-experiences/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
+    width: 252
+    height: 388
+    isCached: true
 
 related:
   - title: "AWS and Salesforce launch integration partnership"
@@ -168,6 +174,6 @@ related:
         height: 280
         isCached: true
 
-secured: "4BLYAlWqnVF+ptnLj244kgCda6LKM8yHToexIlhPtEcfaNu0K4/sI+TQUECKOaJnqhnyoar2E/K8Xh2TNAy1dbhdSK5/YE+JN0rfNG/s+0MT7GeDIO3pVughng1sSjz5Q5prHzkTeaXW5WSphLPIql0+KzTVp/P7y3xaACcq4awuyfS1ITyHiIkX0sZVZc6HBnyLaROciYEyKLBlYPCiXC2F77bfu7YRgjZ4NNaFINrpcvwVATeWmj1r9IaOpW3KwVoh5HWOwgh/qHimRYlAltIZLZey6UAjGDj7XRgFAHGT46xM+s2ZI5SnV0r5lNzM4kOlazZY9USkc4Lry4SrIBWXJWlIwBZIIe0xSgsnN5g=;lyRPBNhY4d8UDwYbR6j+dg=="
+secured: "Ua6nsLkufqWTcI5kQfQzlLpSg2u9yNbMpQtmmjoUNpeq6ZszhQAanzp/W9jMPVs3fA/lkr9XDd3PsNYf0oPJ1v2yvLfY3zqzlYYceT9Ki377c0xUSLE3DZFGpzqsNgBag56VtsLpm6d0fIKcCiVLhQMVRifJdCsOMg6UfCcvrkkx6TKKtwxU6jfuG0a+7A03tEPc+0O6mAssDDIbQ/8aZa2fCVa9IPDPKbAxkN2HKcDfwx+hLJbCCC90h2aUC6jdVTF0xKFNzK47TI31KUzZF3SAkWOyp+5D5chqo5uE69iiPs6jFiugAVzb8RzAM0Rm54wqm3Dzx5f4L8alYRU/9Ar4QD2A9+kVq4uiouoqJZs=;EVWaTxBZdfPPSYsCxbaLBQ=="
 ---
 

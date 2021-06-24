@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-09-blue-prisms-contact-center-offering-integrated-into-aws.md",
+      "title": "Blue Prism's Contact Center Offering Integrated into AWS",
+      "excerpt": "When Blue Prism announced its new Service Assist solution in October of 2020, the company stated that it new offering would automate next-generation contact Centers with an artificial intelligence-powered digital workforce that it hoped would transform the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/449175-blue-prisms-contact-center-offering-integrated-into-aws.htm",
+      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/449175-blue-prisms-contact-center-offering-integrated-into-aws.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-jun/9280523731-AdobeStock_cloud_contact_center_female_agent_SUPERSIZE.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-snowflake-announces-new-features-to-bring-together-the-worlds-data-in-the-data-cloud.md",
       "title": "Snowflake Announces New Features to Bring Together the World’s Data in the Data Cloud",
       "excerpt": "Snowflake (NYSE: SNOW), the Data Cloud company, today unveiled its latest product innovations that redefine what’s possible in the Data Cloud. At its",
@@ -841,6 +884,50 @@
       ]
     },
     {
+      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of first DeepRacer Women's League in India",
+      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-03T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-will-maintain-stand-on-policy-till-india-gets-pdp-law-whatsapp.md",
       "title": "Will maintain stand on policy till India gets PDP law: WhatsApp",
       "excerpt": "New Delhi, June 3 (IANS) Facebook-owned WhatsApp on Thursday reiterated that privacy of users remains its highest priority and it will maintain its stand till the Personal Data Protection (PDP ...",
@@ -881,41 +968,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
-      "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
-      "originalUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1307,50 +1359,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-aws-deeplearningai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization.md",
-      "title": "AWS, DeepLearning.ai aim to bridge scaling gap with machine learning models via Coursera specialization",
-      "excerpt": "Bratin Saha, vice president and general manager of machine learning services at AWS, said customers ... What is deep learning? | What is artificial general intelligence? In an interview ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "originalUrl": "https://www.zdnet.com/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-deeplearning-ai-aim-to-bridge-scaling-gap-with-machine-learning-models-via-coursera-specialization/",
-      "publishedDateTime": "2021-06-02T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,256 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently.md",
+      "title": "Carrot And Stick: How Deep Reinforcement Learning Trains AI Differently",
+      "excerpt": "Rather than generating potential outcomes based on historical data, deep reinforcement learning teaches AI agents and machines with the time-tested \"carrot and stick\" method.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d34ea2e22fb5d923a8b3e1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/",
+      "publishedDateTime": "2021-06-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-appzen-launches-finance-ai-appstore.md",
+      "title": "AppZen Launches Finance AI AppStore",
+      "excerpt": "AppZen, a modern finance AI software platform, announced the launch of the AppZen AppStore Thursday. What Happened: The development comes as AppZen looks to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "originalUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/pexels-andrea-piacquadio-3774903_0.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21696443",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21696443",
+      "publishedDateTime": "2021-06-24T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-walmarts-ai-is-getting-smarter-about-grocery-delivery.md",
+      "title": "Walmart’s AI is getting smarter about grocery delivery",
+      "excerpt": "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
+      "originalUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.53.02-AM.png?w=680",
+          "width": 680,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
+      "publishedDateTime": "2021-06-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics.md",
+      "title": "BMW i Ventures invests in autonomous truck technology company Kodiak Robotics",
+      "excerpt": "BMW’s Silicon Valley-based venture capital arm is investing in Kodiak Robotics, a company that develops autonomous trucking technology.  Kodiak will use the funds to build out a safety case for its self-driving tech stack so it can more quickly commercialize.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
+      "originalUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Kodiak-Final-10-small.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
+      "publishedDateTime": "2021-06-24T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-be-human-first-the-robot-proof-human-trifecta.md",
+      "title": "Be Human First: The Robot-Proof Human Trifecta",
+      "excerpt": "The \"human trifecta\" refers to having a liberal arts foundation and building on it with design thinking and entrepreneurial mindsets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d358a5882e2674341bfd4c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
+      "publishedDateTime": "2021-06-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-data-apps-a-domain-centric-path-for-leveraging-ai-to-deliver-actionable-intelligence.md",
       "title": "Data Apps: A Domain-Centric Path For Leveraging AI To Deliver Actionable Intelligence",
       "excerpt": "Data apps help reduce “data hoarding” costs, increase revenue and profits across multiple business objectives, optimize operational processes and democratize AI by empowering companies of all sizes with actionable insights that deliver quantifiable business outcomes.",
@@ -53,21 +303,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising.md",
-      "title": "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising",
-      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,",
+      "path": "_news/2021-06-24-nvidias-ai-turns-your-shaky-brush-strokes-into-beautiful-landscapes.md",
+      "title": "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes",
+      "excerpt": "If you’re anything like me, you’ll love Nvidia’s new Canvas AI. It turns your shaky strokes into beautiful landscapes. The company has released this new app for Windows user",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478",
+      "webUrl": "https://www.nvidia.com/en-us/studio/canvas/",
+      "originalUrl": "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-tool",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 257,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://www.nvidia.com/content/dam/en-zz/Solutions/studio/canvas/canvas-og-1200-630px.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,14 +327,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T04:13:00-07:00",
+      "publishedDateTime": "2021-06-24T00:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -100,7 +350,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -315,7 +564,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -441,6 +690,40 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "originalUrl": "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -641,7 +924,7 @@
       "originalUrl": "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -896,301 +1179,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-three-areas-of-impact-for-ai-in-fintech.md",
-      "title": "Three Areas Of Impact For AI In Fintech",
-      "excerpt": "With the ability to quickly analyze massive quantities of data to derive important insights and information, AI is used by businesses to create efficiencies and recognize patterns that can improve decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d254faaf7245e73967c3cf%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/",
-      "publishedDateTime": "2021-06-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
-      "title": "Simplify machine learning with Azure Applied AI Services",
-      "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
-      "originalUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_neural_network_thinkstock_636754212-100724428-large.jpg",
-          "width": 700,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
-      "publishedDateTime": "2021-06-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-the-road-to-driverless-cars-is-looking-hopeless.md",
-      "title": "The road to driverless cars is looking hopeless",
-      "excerpt": "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.deseret.com/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous",
-      "originalUrl": "https://www.deseret.com/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/JCZTa9r6UAsv7Tp6l10w33HgvN8=/0x0:3000x2000/1400x1050/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69493501/AP18078663340923.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous",
-      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous",
-      "publishedDateTime": "2021-06-23T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "deseret",
-        "domain": "deseret.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-truck-startup-embark-to-go-public-in-52-billion-spac-deal.md",
-      "title": "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal",
-      "excerpt": "The company is the latest self-driving truck firm to tap public markets in recent months, joining Plus and TuSimple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-357324/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "publishedDateTime": "2021-06-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-coffeemugai-raises-625000-from-paradigm-shift-capital-and-angellist-india-in-pre-seed-round.md",
-      "title": "CoffeeMug.ai Raises $625,000 From Paradigm Shift Capital And AngelList India In Pre-Seed Round",
-      "excerpt": "The company plans to use this fund to accelerate its efforts to refine its AI-based matchmaking algorithm, double its existing user base of 50,000 globally, and connect them with genuine business oppo",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/375424",
-      "originalUrl": "https://www.entrepreneur.com/article/375424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1624434392-hivan-arvizu-soyhivan-MAnhvw0nDDY-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375424",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375424",
-      "publishedDateTime": "2021-06-23T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-yotta-launches-virtual-pro-workstations-for-3d-architectural-designs-ai-ml.md",
-      "title": "Yotta Launches Virtual Pro Workstations for 3D architectural designs, AI, ML",
-      "excerpt": "Path-breaking combination of virtual GPU and advanced VDI technology, to deliver extreme performance for video editing, graphics design, 3D architectural designs, AI, ML and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "originalUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2016/10/cloud-computing-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/yotta-launches-virtual-pro-workstations-3d-architectural-designs-ai-ml/amp/",
-      "publishedDateTime": "2021-06-23T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

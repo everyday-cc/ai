@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
+    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui"
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
+    ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM"
+        width: 763
+        height: 509
+        isCached: true
   - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
     publishedDateTime: 2021-06-22T14:24:00Z
