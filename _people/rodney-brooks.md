@@ -14,7 +14,7 @@ website: https://rodneybrooks.com/
 twitter:
   username: rodneyabrooks
   url: https://twitter.com/rodneyabrooks
-  followers: 22446
+  followers: 22447
 
 linkedin:
   url: https://www.linkedin.com/in/rodney-brooks-1a137517/
@@ -31,7 +31,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1144121553346392064/dwqvhw0H_400x400.png
+  - url: https://pbs.twimg.com/profile_images/1408149522560081920/xtAuctIj_400x400.jpg
     width: 400
     height: 400
     isCached: true
