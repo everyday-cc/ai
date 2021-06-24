@@ -179,14 +179,14 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
-    publishedDateTime: 2021-06-23T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+  - title: "Embark Trucks, Inc., Americas Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (“Embark” or the “Company”), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (“Northern Genesis 2”),"
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.financialbuzz.com/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
   - title: "The Funded: Self-driving truck maker Embark Trucks plans to go public in a $5.2B SPAC merger"
     excerpt: "Self-driving truck startup Embark Trucks Inc. announced plans Wednesday to go public in a blank-check merger that would peg its value at $5.2 billion. The San Francisco company plans to merge with Northern Genesis Acquisition Corp."

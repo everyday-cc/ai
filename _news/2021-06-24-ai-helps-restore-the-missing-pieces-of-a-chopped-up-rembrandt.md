@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -77,6 +77,36 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/rembrandts-huge-night.jpg"
         width: 2880
         height: 1920
+        isCached: true
+  - title: "Artificial intelligence recreates Rembrandt's Night Watch that has stripped off parts, in Amsterdam’s Rijksmuseum"
+    excerpt: "The strips' addition restores to the work the off-centre focal point that that rebellious Golden Age master Rembrandt originally intended."
+    publishedDateTime: 2021-06-24T08:48:00Z
+    webUrl: "https://www.firstpost.com/art-and-culture/artificial-intelligence-recreates-rembrandts-night-watch-that-has-stripped-off-parts-in-amsterdams-rijksmuseum-9748681.html"
+    ampWebUrl: "https://www.firstpost.com/art-and-culture/artificial-intelligence-recreates-rembrandts-night-watch-that-has-stripped-off-parts-in-amsterdams-rijksmuseum-9748681.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/art-and-culture/artificial-intelligence-recreates-rembrandts-night-watch-that-has-stripped-off-parts-in-amsterdams-rijksmuseum-9748681.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 36
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/06/rembrandt640.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Scientists recreate Rembrandt’s masterpiece ‘The Night Watch’ using artificial intelligence"
+    excerpt: "Based on a small 17th century copy of \"The Night Watch\", scientists used artificial intelligence to recreate the missing sections, which have been printed and mounted around the famed artwork."
+    publishedDateTime: 2021-06-24T08:27:00Z
+    webUrl: "https://www.gulftoday.ae/culture/2021/06/24/scientists-recreate-rembrandts-masterpieceusing-artificial-intelligence"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 27
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2021/6/24/remb1.ashx?h=500&w=750&hash=ABD37963DA214C99841BBDC6EC0B1BC1"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "ipVB7NULkcK82RI/3eRtSdupCawFYNbhQYyxumCejKX2nHmFr5HhIApgry7sdT+LKWwguWmyNT0VAZCSB26GbkinbCHQIGuI7L85ty0reo0lVb9C2kZW7vzcHkNB7nqSt7AvziIHXjU+RKMnWrp5JTetMmxEtdkB0PcTfipbFItmSTIkeUkzn+80Wh/azVynINCmxX5U3V3iuTmGDy7BSUtNhf0JVkac98mmPwPOXY4b2NBg51svxYCPTb5Lu9Z3oyc0bTFe2ikktOZkigXS8j8p+f1T0jc359nz79ogXwP7pnueb8VyzocTHMMfdjiOvIWLBw2rldAM/xlysz1eYLpnBbMHkgInk1+Oth9fqC97W5aORTNFrkB5JUQSejd8/S0A9BEwEDWiU5Mp99acTg04/FRyEOqUhjxv0ItbEofgjSpREKBLUupIzRpc97ZvBMam7f407g/gLffYb50LHUUhCMyQ8LrwIpVyYQc333B1b3YkIbaWhOM9PErgP+pgWcntMl9hT2GDrTwIXvnrCw==;K0HvqdarQ7uJG13m9bn/xw=="

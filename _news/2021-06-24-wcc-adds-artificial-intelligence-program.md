@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-24T05:15:00Z
 originalUrl: "https://www.newsargus.com/news/local/wcc-adds-artificial-intelligence-program/article_c1c26cff-af48-5eef-95ed-4b85fb96bcbf.html"
 webUrl: "https://www.newsargus.com/news/local/wcc-adds-artificial-intelligence-program/article_c1c26cff-af48-5eef-95ed-4b85fb96bcbf.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/newsargus.com/content/tncms/assets/v3/editorial/9/65/965db4e5-e1c3-53b0-a01c-40b61338b56d/60d3998e1f220.image.jpg?resize=941%2C630"

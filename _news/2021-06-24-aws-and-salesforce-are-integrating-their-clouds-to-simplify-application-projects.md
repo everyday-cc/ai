@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
+    publishedDateTime: 2021-06-23T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z
@@ -99,6 +113,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce"
+    publishedDateTime: 2021-06-24T09:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/aws-salesforce-partnership-to-unify-developer-experiences"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
     excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
     publishedDateTime: 2021-06-24T01:40:00Z
@@ -128,20 +156,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U623536127_g.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-    publishedDateTime: 2021-06-23T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-        width: 400
-        height: 280
         isCached: true
 
 secured: "1CXu/FF9850+s1AYrnfTTi3QFjpHx1aGjMALbZYWbGZr4aXON1LMxBSnAOud2+l09hUWx05Y0h3YUCSJ97WNo4ACPOnV6ypKMwrC7bhaETZ6y0Baqep2sY8FbLTotPKeNriFfbqhZkY7S+eGEopH4M46SXkZv6MiExGMN53GCl9y5Jn3eQsw8osqg6jplRB130Wvw3Yt+vGopmR8CecxVTI+s0Dl8/StF0AnVPAH2OWrkboFfkgCAodISB3+rGN/oVo6pEd5bsoa20QmI0JK5songp8UtNwmzCNVbnqiNSJfs962ATfQ3uULsu5c/aMnyBJvo3T1S/LTj8eCvKNc6RtR+l7j3AJmKoDCJnC4Np+PR16J3FZZblGQ8ilEqqX0mZun9aoObgD2uTg8YdDfXOud/93GUGUIJeaSRW82OThqQgGinuhJ12z9bxGDBXyU0paQnCBqSkkiJlVOQYp8Qq7iJIpfgl7fOk7BF16Uty0vyF/TgV9G0GkpkEX/rANFv/RdGj9iWO40ZUgQfdeYfA==;0DpjHcjak8SqPu97nXVZRA=="

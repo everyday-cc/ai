@@ -1,97 +1,67 @@
 ---
 category: news
 title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
-excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
-publishedDateTime: 2021-06-21T12:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
+excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
+publishedDateTime: 2021-06-21T12:41:00Z
+originalUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
+webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/39/739dd46d-9de5-5170-a564-fc500b065178/60d08d9285ae4.image.jpg?resize=1200%2C585"
+    width: 1200
+    height: 585
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio."
-    publishedDateTime: 2021-06-21T10:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21640643"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21640643"
+  - title: "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025"
+    excerpt: "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,"
+    publishedDateTime: 2021-06-24T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Deep Learning Is Our Best Hope for Cybersecurity, Deep Instinct Says"
-    excerpt: "Thanks to the exponential growth of malware, traditional heuristics-based detection regimes have been overwhelmed, leaving computers at risk. Machine"
-    publishedDateTime: 2021-06-22T20:05:00Z
-    webUrl: "https://www.datanami.com/2021/06/22/deep-learning-is-our-best-hope-for-cybersecurity-deep-instinct-says/"
+  - title: "The Worldwide AI in Healthcare Industry is Expected to Grow at a CAGR of 51.5% Between 2020 to 2026"
+    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
+    publishedDateTime: 2021-06-21T14:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
+    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
+    publishedDateTime: 2021-06-23T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/deep_learning_shutterstock_Zapp2Photo.jpg"
-        width: 1000
-        height: 667
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
-  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
-    publishedDateTime: 2021-06-21T22:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-        width: 400
-        height: 226
-        isCached: true
-  - title: "Cybersecurity Researchers Develop Technology That Lures and Traps Hackers In an Artificial World"
-    excerpt: "Scientists have created a cybersecurity technology called Shadow Figment that is designed to lure hackers into an artificial world, then stop them from doing damage by feeding them illusory tidbits of success."
-    publishedDateTime: 2021-06-21T11:06:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cybersecurity-researchers-develop-technology-that-lures-and-traps-hackers-in-an-artificial-world/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 9
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2019/11/hacker-4031973_1280.jpg"
-        width: 1280
-        height: 889
-        isCached: true
-  - title: "Artificial Intelligence in Cybersecurity Market to See Thriving Worldwide | Fortinet, IBM, Cylance"
-    excerpt: "Get Free Exclusive PDF Sample Copy of This Research @  Scope of the Report of Artificial Intelligence in Cybersecurity The artificial intelligence in cybersecurity enhances efficiency and effectiveness of the cyber networks."
-    publishedDateTime: 2021-06-21T11:22:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-cybersecurity-market-to-see-thriving-worldwide-fortinet-ibm-cylance/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 5
 
-secured: "O/q1baqNHUOUFAwh03GWkfkMhq5liEOrc81rkf9D3DhtsCk0kLh+pbt9I0U2hn5CX6mF0/pavi9GUlDDW5o3bSNG8ysjeUVdzzhRz2pgGinesgSf2cUZvl5KMujTuljkjgJ6Q5ok8TMf64/JOYb9QSFoofEro2AuPiI/ys2F3VWN9WRazfzayS7Usft4BWiy6MQZYi2SDnIgiUT7dz3XWswSBYyVHuTxMNreoKU1GfwA4dSV8AoZC6g6F/inpMmC9DdY/+mGUfEgeRbiw6+FLcNOuK+DTas5tukSLwEK3JajmR3IU0N0GKjdiutp0buStRKadCbZfPIqCfDbHmzYlz6x3D9EjzXuE7szEF426ZDqJ7FyJa2YI1gEUatETrtCvY4ZbqhvsU9R5tlGds8iSS9VeyPhvu2CXVT238qq0wfsylgQ501E6N6NEtJV1js2KV9ZDn8K31r/Bxemaz0H2WEoY65EKCyrCuG4Vl9tQUyB5bgYxXpJ+dK6fznoQ3rhvRCkBKnqe85+Qc4ea+N3IQ==;UMqO+uEPXB6Ql1zRE9+Ljw=="
+secured: "wE08Mp00Rt9w1CqgLJaBSYwFiWfI3qNhHa3Fhbk6PULx7gq7JXdh13Q5Dl80kuij4mdL1bX/9nlrCZxQDkzOFd8LXWrPsCvyGc2thfGSXHhyxAQTqlBBoapkwpgePgkJRS5KFzjYupoLay8Q1/5nySuI8ZKsCn1oegv8kJPckT8X1IYjteOvZzMovtFkWFnwlmIMmTrMxNJVmM9dZppQ4pAmyGDEd+f611maWU4QBcTwby5ryQ53XdyB3yxDcoqZbl5y+skSYa0PPR8i51iXmlkXCqE3Q+P2/l0UNNSSCsXh9773QpyKPqjQ+lT0kV6Emsgf/X48483cXR9C/T7ai6vNNB8RYWyl0stn/5uXtyE=;haWo5WOGpZ6Z1MZTZy/ETA=="
 ---
 

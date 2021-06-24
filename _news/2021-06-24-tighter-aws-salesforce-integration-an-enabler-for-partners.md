@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
+    publishedDateTime: 2021-06-23T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z
@@ -99,6 +113,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce"
+    publishedDateTime: 2021-06-24T09:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/aws-salesforce-partnership-to-unify-developer-experiences"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Pimcore and Summa Linguae Announce Partnership for Localization and Language Solutions"
     excerpt: "Pimcore today announced a new partnership with Summa Linguae Technologies This partnership will provide Pimcore customers a robust automated localization solution that accelerates time to market Through this partnership Pimcore can seamlessly integrate a traceable"
     publishedDateTime: 2021-06-23T14:25:00Z
@@ -128,20 +156,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Image.jpg"
         width: 770
         height: 432
-        isCached: true
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-    publishedDateTime: 2021-06-23T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-    images:
-      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-        width: 400
-        height: 280
         isCached: true
 
 secured: "vGwVjpRPUtif3Yhy5LWyCelV8p1Fs0S2huMSyUpv+s/vHhk9opAnf1VFVhCfKtdxjdun2o9TTZRnGKxzE17WjqRvrOfr4n8nx5IulXULuKkLk89nQPR4G0ICnq1UwdacPxQj6TRsju8ReAjNCdepPa2JqZqOsuq7uftiqhn116+aAXdfuHCDB9LOwvmw1Y2fCsPxb4XeDcEoFaGPz+4Y045J+kdyfa4qwwifM7ajwvH3/daAIP2zW3CuKY1UGybIRG4yP+yLWePl/fN2CG9JxXtYfuuEd8gHk2SnPGoHrbc0qtEQQvpaU8mT+vjlFzJLL46sWk9ZQRvj6NnMA7sOEumdUGHT5MWhGX2Xac7PTtsquYB4Ip8D30EGGfNslnNyHrhJb2yRXNRmW3IT/pkNn10URagCsgWVprbcZQqvQWWQv0AHczS9/e9ahrGvaCl4vf7x1kDUik/Rb6xeKZQr4n7ek36sIAF4deEviRHVRtjPyonoCwTPP59UDJFoKs12uatglyHimRK+K1WmTL3LJw==;Z1jq4zo4SlTptYZT1WV0gg=="

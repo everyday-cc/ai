@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
 type: article
 quality: 74
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Infineon creates radar sensors to monitor people in self-driving cars"
+    excerpt: "Infineon Technologies has radar sensors that can monitor the well being of drivers and passengers in self-driving cars."
+    publishedDateTime: 2021-06-24T09:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/infineon.jpg?w=1200&strip=all"
+        width: 1200
+        height: 592
+        isCached: true
   - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
     excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
     publishedDateTime: 2021-06-22T14:49:00Z

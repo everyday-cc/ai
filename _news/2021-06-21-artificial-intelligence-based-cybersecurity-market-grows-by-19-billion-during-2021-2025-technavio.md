@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio."
+excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed"
 publishedDateTime: 2021-06-21T10:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21640643/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio"
-ampWebUrl: "https://www.benzinga.com/amp/content/21640643"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21640643"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
 type: article
-quality: 42
-heat: 42
+quality: 22
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/03/403e0efc-36e7-5d01-a4bd-0ed34431e9c9/60d06afbdd476.image.jpg?resize=1200%2C585"
+    width: 1200
+    height: 585
     isCached: true
 
 related:
@@ -39,34 +37,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/deep_learning_shutterstock_Zapp2Photo.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
-    publishedDateTime: 2021-06-21T22:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-        width: 400
-        height: 226
-        isCached: true
-  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
-    publishedDateTime: 2021-06-21T12:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-1729-billion-35-/2021/06/21/9393972.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Cybersecurity Researchers Develop Technology That Lures and Traps Hackers In an Artificial World"
     excerpt: "Scientists have created a cybersecurity technology called Shadow Figment that is designed to lure hackers into an artificial world, then stop them from doing damage by feeding them illusory tidbits of success."
@@ -92,6 +62,6 @@ related:
       domain: manometcurrent.com
     quality: 5
 
-secured: "/pzY4PN5OvQdmTpwPWLu8IrBPEP4jRhLMCsUXnWTJBB3eLuBQJ5A4xYbxXum01bLVYyECcsD3RmE2PTAUNJaI8QXm1akFY2JA+vs0v10EI5hhdoUG/+AOzW8K6nGUWMFUBz6Mv4NOUqbm3CokAni+P4d4w0OAmUWDfTNLH2c0b5plnjbVoWwAfO2uy7jq2EQYntN3ZNfA6jEeFEcCNp21jp8+lQFNDww4ZcDnMJfrlKGBeAr0Bd6QwAHX71jISbdzOp6mQTnO4QmENaaDaS2nsSGZ3NMJP9fHK7O3bveU2L0pSAODrk63iRVA3D8xcXlPjBZHcE67jka6QK3/8d+4LY45oXr5ywzEwDR8aupV1w=;5h7ZWN4eqxlcNn7huXNl5A=="
+secured: "LPylASTfvi6w2k0HlpKiW86HMVbj+2d2FzcLDzlfs6VZTPTvaRIlQhCxOihkVhyZt8BM3zB5LWlbg1Dp1tXddez6G8aXVfSnZ++jiM3/JJWso85S15Tvhs8AiW9INVDpaXI0WO4dJQ44a5aQQwkaDR9q/CSvBFaRRRpcuj0od5MqQ+tTv40GXkXecZ0nxzK7Yv2/KU2C94/l/HlcXhAR7gtsfp8+zE2BvMNInzQWTv/Nw6MOeiRcXXc3uh4EIkmpsUbTOmQl0/OXRjz6iTp06U7Gv+gA/FqTi0gcqyIfwl+oFXoFPYIrSSmNjK/LfGv9v2WRSijvyViqFnXF7AbJDhMrmagNP0yC//KtKK7ZP1Q=;H+91czs463MHMybTQFtXyw=="
 ---
 

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
-publishedDateTime: 2021-06-23T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
+publishedDateTime: 2021-06-23T12:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
+webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-    width: 400
-    height: 280
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -99,6 +103,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce"
+    publishedDateTime: 2021-06-24T09:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/aws-salesforce-partnership-to-unify-developer-experiences"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
     excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
     publishedDateTime: 2021-06-24T01:40:00Z
@@ -144,6 +162,6 @@ related:
         height: 432
         isCached: true
 
-secured: "71+7dRzOfQXLANcSUV1grbjwRoLhlIBRmlEUwXgXIGIqowah3XDAG8qtOgpzsVaS509gOrWmKwaGfMo1nQyj678KCROVp8n8LoHU1HO0L7ik/OcTVLlozbbQkd7f3T31PGY55T/WNeYDvQrtvLOmgaRcBTHFmnjWVKtreruSYffjIP8FPp3vqsbbZQ2lUVqhH4TACivXNpjugqOUjpUaBx7riykaKqaq8TUrzc3QN3xwESGJDI7Jg+LT40oVXfELYV9PvXNHNQ78hryoDJDplxDC6KWaCW3W78syrQHzZQk1MbWe1eHi7IThX4Le3aWbuO7J8oWRBkGx696ZCtakBTEtl0KQRldPaDv20phsVg8=;3jPW/lc8NbGfDEBMYPDvzg=="
+secured: "zVNmEYpD5/QpxAGObuSbE3vehAeAatl8Ra8Lm0wPYKOsS1JE5VP4qxpQ1HI6+hBaGMWsWG0noOfb8BtYPe90Xe5IBcYoQXSmvd9xDGDVCLi7Er/7P34SSRhC7eomfux+lha5VCMj4UXq5mkQa2apNCQTrfMLiovodLxLIq3ePsbVKJlMAwgg1ox4msPRUA8JVnAde22YyvgtgH6cY2X6feWnOXLWfcRXP+2cvfIpSOu9HpOovzFyHpVIuAGePR0JENulu4ONpJ3oQRCbumKnbkRuElCVR23J0FApu0vMCpGDzDNWeb/OeeH46DO4ZIHsfaWl8gMKMz4Hc+oFLUSWuNpsfEAEgZ4ls7NcOTLc4LA=;A/s1AchIdKYn5QIjDC6obg=="
 ---
 

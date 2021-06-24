@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-publishedDateTime: 2021-06-23T21:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
+publishedDateTime: 2021-06-24T09:10:00Z
+originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
 type: article
 quality: 36
 heat: -1
@@ -12,12 +12,12 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
-  - AI Ethics
-  - AI
   - IBM AI
+  - AI
+  - AI Ethics
 
 related:
   - title: "Creating An AI Text-to-Speech Using IBM Watson"
@@ -86,6 +86,6 @@ related:
       domain: morningstar.com
     quality: 36
 
-secured: "hEdeyIdzvgAtRhj/fS5GeJnvdNrKo8U42WlLSEjaB5Rcz+BUUFglQTcP8lqXAL3vd6zDOSO+W+Xsi3OnpXSKbkmKb8e68w4Y5bGjD3SNHuZjON1y1T57MNRQ4DeNtUgS/pftrRqlsI93IYIU6jT3amzri/0LjGuQUbDStAWVpQrvzYwc+Sjgg957I+XC1Uj8MRUB6RY72832hwcldBG5jSJC1DYe1oZPqJGftd3TrUGyO3IHdNnAI6H4pHYHIxJIOhgSMnPCHdwzmVtcXN7UoSbcKVYQgZCUfrI9Vuu+gjTrcA3QgTXJBbC6aDXRtZJmsNQV3PvZPC+VU2o81xw/Sut5gyZO9ZZEnHNjsfNvZII=;P99oEFWbCYD+gqu1/v3a8w=="
+secured: "qdGZZCqT9v7pyeIs2pPvarMi0GCJ79A35NYzg/7lgLiSi3n+j72lzicIDx10Wa14nL7ggLhH/ertKvW+m/z1iLZv+qBLxshjAwm2+egKm/Su0PSWpmYoHC/FU71t2RtMYRFZqrfAL/8OpHKtzGFlEDXB0HjmcBw7KNa7MjQNa+QKQRMdukrCOy3pfd2XTUOJI6EDxW8J9abolJWR47nNEsO1AuRXAxP6crSAdup/yEfpNwkC8gYZozn7iplv+YsfbHf09fP0NEKll4kvBViig+rEclfnivlxewFegDMMfBxydtwTsAH/d074q6VsmbgHGX88pPMg2dVySipKM6V1ozXRfoG+1tFIiQ304Ep4l7E=;LdLVFHD2cUWWSIGKFqsxtA=="
 ---
 

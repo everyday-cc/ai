@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-17-facebook-wants-you-to-stop-fighting-in-its-groups-and-a-new-ai-tool-might-try-to-calm-things-down.md",
+      "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
+      "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "originalUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facebook-fighting-cnn-1623895603.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "publishedDateTime": "2021-06-16T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTAE-TV",
+        "domain": "wtae.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-gm-ups-spending-on-evs-and-autonomous-vehicles-by-30-to-35-billion-by-2025-on-higher-profits.md",
       "title": "GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits",
       "excerpt": "GM, America's largest automaker, is racing to catch up to Tesla on EVs and become a leader in the space against other well-established automakers such as VW.",
@@ -1125,49 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first.md",
-      "title": "Vodafone and AWS Wavelength launch edge computing in Europe-wide first",
-      "excerpt": "Wavelength on the Vodafone 4G and 5G networks delivers ultra-low latency capabilities to UK business customers and software developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/",
-      "publishedDateTime": "2021-06-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -77,13 +77,13 @@ related:
       domain: morningstar.com
     quality: 36
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-    publishedDateTime: 2021-06-23T21:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
+    publishedDateTime: 2021-06-24T09:10:00Z
+    webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
     type: article
     provider:
       name: Business Wire
-      domain: businesswire.com
+      domain: businesswireindia.com
     quality: 36
 
 secured: "Q3balqbCu5hQUASNPMe8Bw/og5KkgDz9LwWnzZJXjGwduHr8gCabHZTy1/r8bTMUpcaPnO5GS1CP+vDnpoR3u4JO8OCPfPzhxQdNW0TRT5EOz9/WzvYlfNPI0CaPAmcZ1MBbRRbfPUVi7GI6pzc6bk6N+reBj3lMLjDH9wJZRhtw7nAc+S9l54UxuGgLKJudFpMDDcTId3fiTdpvALtI0u/AqtAtXhlYe71M0LW/0IZNtoU4ROwzUZt5ORW2hnqSHSwt9YMzGU3ymbf5gBKmAVPvV8QVZkmP6TmcfOjikNBiW0MpuJstnrJalP+9WYBJYiOq4zFrU/v4H/AhG2pzOpObFUgXAKTva08+UArcslsGWk+hveCMsu2mGp6zjH7rRKsB2eHvR/Buajkz3mvq6jmaICFE+f6WWPucU28YhUCIeorj0SODqDvvI1IWVp2q2ejar0VYH8VqS65WLF5YZiycIWQEMHMmPEvuAFE+ixlZOCVCDC2raY7jpkgpC7jMzmjerBQ2BYxRADxjIfF73w==;ZAigtRN/GBRZWp0mgnNjdg=="

@@ -183,14 +183,14 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-    excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
-    publishedDateTime: 2021-06-23T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+  - title: "Embark Trucks, Inc., Americas Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+    excerpt: "Embark Trucks, Inc., (“Embark” or the “Company”), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (“Northern Genesis 2”),"
+    publishedDateTime: 2021-06-23T12:00:00Z
+    webUrl: "https://www.financialbuzz.com/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "A+a+aVkjr2i6hOa94CgaZAi0XxaKm1c0+sU0U8lBpxCzZSh4dRPlIiZODW/N95dGfTXCyUVy7ARTcr1Ff2DZpD7v1H952lcPnKz5hWcgPOVJLYWEMTQrbe0rAzPApDrOma4pmvarmsfHkj/deLOHxVOqRH1JrVK3w7uLHElXatGmMISyBGCMdb/TLVwCsDNqZyPIQnOKglYdU6RAXBm509qUxbI4JGpngVS0+IRMx+D6zbumqghHc1Kc4GuuOB0xQ0TH0J/l3WquSa6h5T6Y9zDlgNLs0wXGK5yak5LEOB9XX7yuVxer+GhL2DR8PFtWF42ogV3ajH7pq71rq4TqTgu25TpA6kQ5+yWvM/qidVLfM4De0HELXlMbMw0aWT0VggFGnn4Oy5bzRuvlY8frDcet7kr5ZN1I2AFJmUckl7dblKGvQvsKqUNhWP1eihno86Iy37cXb6ZhCPuJkTLCDRWs7o9R4KCSA1nYtqyhb5ny6gZuYfwaVxwX3sNDsI5ImzvK0yIskUf1HeJvVgq5Ag==;rrGG4t8SIKeHl12n7R/w1Q=="

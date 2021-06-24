@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Infineon creates radar sensors to monitor people in self-driving cars"
+    excerpt: "Infineon Technologies has radar sensors that can monitor the well being of drivers and passengers in self-driving cars."
+    publishedDateTime: 2021-06-24T09:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/infineon.jpg?w=1200&strip=all"
+        width: 1200
+        height: 592
+        isCached: true
   - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
     excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
     publishedDateTime: 2021-06-22T19:26:00Z

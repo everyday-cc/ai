@@ -33,7 +33,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -48,6 +48,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
+    publishedDateTime: 2021-06-21T12:41:00Z
+    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
+    type: article
+    provider:
+      name: Troy Record
+      domain: troyrecord.com
+    quality: 18
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/39/739dd46d-9de5-5170-a564-fc500b065178/60d08d9285ae4.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
+        isCached: true
 
 secured: "LI1EwTxXQ6QYmce9VWMD693KxMwXkkvv/4CvMdUMXFBPzlhJG5tIOfYfXtwyD8wZMsBk/W6hPeAJ81UbHAJpRjBsjCHESwRYplciqpj9X8LMMS6gePD+V0i+Vwc2/5pjtCzaO9R9YIlVk9j1Ay2MTA7gWcLiRrByg4gaRsqPuUl8m4ty2YUUt9/qCeczbbhHDOiBpP/k8SLjBSPo/OlW41TVd1d4m4pZ4dsxIItj1xiKxzcFegNmmeQ1b7EZoIidC4mR0+8qXOrBqPkUYBhcFA9U044XN05aoZhN93j9yi0/e/MHANAxMalsxaKdROWUWuKBVZLF/C5MeNU4YCKfg7iDHGFW0Kx1fwXihu60IidArCYO0z1LEG/LVD3wCqWVvprDgtJtGjpaNUXIrFd1GqLM+SH781mfIQ4DTlBZQoIPNNHEcks2unutOVyNmYVLc62R91vFDyAx4F2CiZ6HWTF9kHH0BGI5bpDfqYq2iFukIap6vUOBN9FsgyqXMKcMs/6X++D5uyFbl8bMUqsaYA==;mhsnjTLNCy9dmEuirSnUcw=="
 ---

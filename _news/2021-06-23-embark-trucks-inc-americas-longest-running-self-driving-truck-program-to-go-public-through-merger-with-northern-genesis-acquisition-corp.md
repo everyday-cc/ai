@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Embark Trucks, Inc., America's Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (\"Northern Genesis 2\"),"
-publishedDateTime: 2021-06-23T12:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396008.htm"
+title: "Embark Trucks, Inc., Americas Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+excerpt: "Embark Trucks, Inc., (“Embark” or the “Company”), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (“Northern Genesis 2”),"
+publishedDateTime: 2021-06-23T12:00:00Z
+originalUrl: "https://www.financialbuzz.com/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2/"
+webUrl: "https://www.financialbuzz.com/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Autos
@@ -193,6 +193,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "hf7rHbd7wxEU9CxghZ6rZHAcwX031ppJHkG00HNatSWOujTAL3bB+E7ZX4KuQUgqAqw2YQOcY0+I5PRei8eQLv6TiVds9rE/EFeoM6UQc1Oa0hiYc3eVqCJGL3gWX0HbkCpujN4Yl6Am/m32v6xBU3C9rPHtvjMTxe6lnXr72t056DXgHlimrIcoxxBkl3bDiDH1HMA825/9Zx5z+FBBsGAhA2Pn4+kPOY+P6nQFs0B1sKyU+lEZE8MryxLzFuJWfkqngIZibcm/rN4UcRQHYR9QDRyoJZ/X2TQGSRABn1vVJ00GQn2rXFpQQjHT2HGgvIl5OFTaHp2+bGAkd6kqSVuvUfac6I5UkOUwkXg8Zj4=;TrP9WRO8eSeZbz+ehRfGbg=="
+secured: "GkWMqDV9+k7zuMJYJqA+QuLBoKuWlwo90YlZoZ54ExhU3qxZUHQTvWEgGp4nnVq7xwR45EipLOO3S0DxwvKZ18IqmYEbQbA9Fg3RXpmnCsrSNwg03jWt7I3XCsgYkaukHIxyB2cgz+SfAeNV4+e2W33d+s+Kn9p4eHMZKxZDvRHzr6ol5w0BIAUY0ihKx2MKagb1A7KZas9KjoeGGNuDfQw/Yseto9sxsjHX9uXTbN2w2VdNre3LaIRgYeC6FSvEj+LZCuN58VC7baGsa5lnwxSYIf8rhNmRFgz7WMGkefQNfBqWe+zTlqeZi9jhVFicFieDVXfD5+Ga/RTQEp3kTXbDLzerhnGXma1z0cfOQus=;dIGsOT4l7ZmfM4IFeFALjA=="
 ---
 
