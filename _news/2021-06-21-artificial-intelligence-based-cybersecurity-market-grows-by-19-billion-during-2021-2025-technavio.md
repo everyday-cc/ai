@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed"
-publishedDateTime: 2021-06-21T10:31:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
+excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
+publishedDateTime: 2021-06-21T10:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/03/403e0efc-36e7-5d01-a4bd-0ed34431e9c9/60d06afbdd476.image.jpg?resize=1200%2C585"
-    width: 1200
-    height: 585
+  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -62,6 +63,6 @@ related:
       domain: manometcurrent.com
     quality: 5
 
-secured: "LPylASTfvi6w2k0HlpKiW86HMVbj+2d2FzcLDzlfs6VZTPTvaRIlQhCxOihkVhyZt8BM3zB5LWlbg1Dp1tXddez6G8aXVfSnZ++jiM3/JJWso85S15Tvhs8AiW9INVDpaXI0WO4dJQ44a5aQQwkaDR9q/CSvBFaRRRpcuj0od5MqQ+tTv40GXkXecZ0nxzK7Yv2/KU2C94/l/HlcXhAR7gtsfp8+zE2BvMNInzQWTv/Nw6MOeiRcXXc3uh4EIkmpsUbTOmQl0/OXRjz6iTp06U7Gv+gA/FqTi0gcqyIfwl+oFXoFPYIrSSmNjK/LfGv9v2WRSijvyViqFnXF7AbJDhMrmagNP0yC//KtKK7ZP1Q=;H+91czs463MHMybTQFtXyw=="
+secured: "9rrx4TIiWcCujzmssWCUclrfM2tyiI2S8afoU1ZEmmUONnTGVQxGtq6bOXpMUDDP0vLUL0j/KR1C+TdWNBKIa9I20pta1YAyf+pkQhJgufnjrmxGjenqN4UM08IkidRn62UNrZhX9AyFiHNLjYY8EPhLQpA3ZTis/ZPf6NWMvjDq8Brb8FteLPzafwGPg78M4Yte68khGn4VlnItrr/rQ0/x2bxIzqR1nV5AySOMQjkoVVWZW1ShKExGDRa34UnHLNXFjGRMe+0XhfWKmC1hUDng4qA7Yj9Ormc602SMe1zUIpaDSExY0DgEveujYHg1mVWkrAReSNdUAid9f+2nkstCWEAncaFaC0U6bADsj9M=;sW6xpvNJVsFrS1I1TYgc0A=="
 ---
 

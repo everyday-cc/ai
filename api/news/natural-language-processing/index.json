@@ -161,50 +161,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-creating-an-ai-text-to-speech-using-ibm-watson.md",
-      "title": "Creating An AI Text-to-Speech Using IBM Watson",
-      "excerpt": "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/",
-      "originalUrl": "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-improve-newspaper-digitalization-efficacy-with-a-generic-document-segmentation-tool-using-amazon-textract.md",
       "title": "Improve newspaper digitalization efficacy with a generic document segmentation tool using Amazon Textract",
       "excerpt": "We are living in a digital age. Information that used to be spread by printouts is disseminated at unforeseen speeds through digital formats. In parallel to the inventions of new types of media, an increasing number of archives and libraries are trying to create digital repositories with new technologies.",
@@ -266,7 +222,7 @@
       "originalUrl": "https://www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1470,6 +1426,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-rws-announces-revival-of-language-weaver-brand.md",
+      "title": "RWS Announces Revival of Language Weaver Brand",
+      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19847012.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19847012.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

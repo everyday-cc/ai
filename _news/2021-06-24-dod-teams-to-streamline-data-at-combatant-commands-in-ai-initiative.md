@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-da
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/06/istock-1058616412.ashx?h=500&w=878&la=en&hash=BE906264D1949BEBC5DE0388F18A5B94"
         width: 878
         height: 500
-        isCached: true
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
         isCached: true
   - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
     excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."

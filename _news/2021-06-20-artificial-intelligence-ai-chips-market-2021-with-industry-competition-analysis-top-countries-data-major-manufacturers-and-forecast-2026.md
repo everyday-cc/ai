@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
 type: article
 quality: 64
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -169,6 +169,17 @@ related:
     provider:
       name: ReportsnReports
       domain: reportsnreports.com
+    quality: 0
+  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
+    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
+    publishedDateTime: 2021-06-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
 secured: "cTmnkzs+nSeS+4ZxKPzctWy2gPfo7JmVWfmOzRkG4kpxIeM1gIyGtvJFQdC3ETr7Jr8naVz9hM1s9cpwd1Y04ngoXlYmRzj1aNWIVWNeNZ92l3XV8VEI2lf4BBICwK6F/HLGjicXIqYRRBfM77mKFwXzoiSLwQtaRHPQ2mN3TO1BYeARB7B+tquoC+jDwbu9TfhfjKE53hjRC/0+TVZMnDsfIGqtWZVxa6aA8DqkHUeLhwEwz+OMb6WxCI0nBHmh3dAoOvUL0Hawknr2s74cYJFJ4X+zO+dALVgON5eUsHFFwz+GH0H+a2j2iy8Hu16OzaeOD8XEzU5qqaeQKTfNAuzTat9vUFhH1tNapnA6/gg=;JOYY+zg4+aFlikEO4z/vJw=="

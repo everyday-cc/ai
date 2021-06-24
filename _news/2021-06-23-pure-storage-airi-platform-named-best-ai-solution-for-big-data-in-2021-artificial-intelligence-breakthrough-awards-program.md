@@ -40,15 +40,6 @@ related:
         width: 678
         height: 448
         isCached: true
-  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
-    publishedDateTime: 2021-06-21T13:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Fundbox Named “Best Decision Management Company” in AI Breakthrough Awards"
     excerpt: "Fundbox, the AI-driven financial platform for small businesses, announced today that it has been selected as the winner of “Best Decision Management Company” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2021-06-23T10:00:00Z

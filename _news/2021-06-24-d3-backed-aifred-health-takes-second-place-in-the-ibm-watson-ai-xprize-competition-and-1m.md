@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
+    publishedDateTime: 2021-06-24T11:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Creating An AI Text-to-Speech Using IBM Watson"
     excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
     publishedDateTime: 2021-06-22T07:30:00Z
@@ -39,20 +53,24 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
-    excerpt: "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population."
-    publishedDateTime: 2021-06-24T05:48:00Z
-    webUrl: "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/"
+  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
+    publishedDateTime: 2021-06-24T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
+    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
+    publishedDateTime: 2021-06-21T13:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
     excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
     publishedDateTime: 2021-06-23T16:42:00Z
@@ -66,6 +84,20 @@ related:
       - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
         width: 768
         height: 613
+        isCached: true
+  - title: "Hicks Announces New Artificial Intelligence Initiative"
+    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
+    publishedDateTime: 2021-06-22T21:52:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
+        width: 1280
+        height: 851
         isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"

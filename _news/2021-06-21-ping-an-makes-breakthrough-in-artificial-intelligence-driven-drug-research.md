@@ -23,45 +23,103 @@ topics:
   - AI
 
 related:
-  - title: "Google’s Latest AI Breakthrough, MUM"
-    excerpt: "This coincided with an article published on The Keyword, written by Vice President of Search, Pandu Nayak, detailing Google’s latest AI breakthrough. In essence, MUM is an evolution of the same technology behind BERT but Google says the new model is 1,"
-    publishedDateTime: 2021-06-21T19:00:00Z
-    webUrl: "https://www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144"
-    ampWebUrl: "https://www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144/amp"
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
+    publishedDateTime: 2021-06-24T11:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/google-mum-technology-boots.png"
-        width: 678
-        height: 448
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
-  - title: "Pure Storage AIRI® Platform Named \"Best AI Solution For Big Data\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pure-storage-airi-platform-named-best-ai-solution-for-big-data-in-2021-artificial-intelligence/article_1f81b43e-5544-5354-b8df-cf28c126e856.html"
+  - title: "Creating An AI Text-to-Speech Using IBM Watson"
+    excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
+    publishedDateTime: 2021-06-22T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
+    publishedDateTime: 2021-06-24T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
+    excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
+    publishedDateTime: 2021-06-23T16:42:00Z
+    webUrl: "https://www.miragenews.com/d3-backed-aifred-health-takes-second-place-in-583549/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 45
+    images:
+      - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
+        width: 768
+        height: 613
+        isCached: true
+  - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
+    excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
+    publishedDateTime: 2021-06-23T18:14:00Z
+    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html"
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 43
+    images:
+      - url: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m/_jcr_content/top-image.img.768.medium.jpg/1624462106264.jpg"
+        width: 768
+        height: 384
+        isCached: true
+  - title: "Hicks Announces New Artificial Intelligence Initiative"
+    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
+    publishedDateTime: 2021-06-22T21:52:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
         width: 1280
-        height: 720
+        height: 851
         isCached: true
-  - title: "Fundbox Named “Best Decision Management Company” in AI Breakthrough Awards"
-    excerpt: "Fundbox, the AI-driven financial platform for small businesses, announced today that it has been selected as the winner of “Best Decision Management Company” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2021-06-23T10:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8258067/fundbox-named-best-decision-management-company-in-ai-breakthrough-awards"
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
+    publishedDateTime: 2021-06-23T12:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
     type: article
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 17
+    quality: 36
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
+    publishedDateTime: 2021-06-24T09:10:00Z
+    webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 36
 
 secured: "mmKaw4Y7hHMXlQSMRFNp3PAqCO908kFOya5vQ/L6Jn52DGVTG+0uknlUAaIB0i/iE2KAiPE+2lMVjm35mqmt3rCOxHykltF1HD1zYTkgT0vyjTnP+o959IkTbaHsiFm7zklpt/hqQqhH17KrBteS1O9TsUIc+MUuuBClmSeSn3qzAxnOood97IoUGgG6/FbDFmqF/Ry4XulgH6lwaDFye/RdHrxBYcor50wSyh/TsYcNPnabMT2O4oEo0ZWGNkmaOutcQrhXHAvy22u8L+VRxmI65SMAvO2Yu088u6HBgyLa4pRg/ulmGeN1a8DRVDmw+37UEa01XEJSx64F6lXCr71oN2qLRVXdVUlHKWIzDwk=;I97kxMlrWCnrAXPcWEvK9g=="
 ---

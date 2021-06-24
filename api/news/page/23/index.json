@@ -2,6 +2,113 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-05-global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025.md",
+      "title": "Global Artificial Intelligence Chip Market In-depth Analysis by Risk Factors, Economic Fluctuations and Industry Dynamics by 2025",
+      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-build-an-automatic-inventory-solution-with-public-datasets-and-amazon-rekognition-custom-labels.md",
+      "title": "Build an Automatic Inventory Solution with public datasets and Amazon Rekognition Custom Labels",
+      "excerpt": "Inventorying store items is a general demand for retail stores and supermarkets. This is usually performed manually by counting items and visually checking the correct placement. Tracking changes in inventory helps business owners evaluate performance of each product, validate correct placement, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/5-1361-Soda.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T10:24:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-how-ai-can-simplify-streamline-and-enhance-supply-chain-operations.md",
       "title": "How AI can simplify, streamline, and enhance supply chain operations",
       "excerpt": "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations.",
@@ -1040,101 +1147,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model.md",
-      "title": "China outstrips GPT-3 with even more ambitious AI language model",
-      "excerpt": "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "originalUrl": "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
-      "publishedDateTime": "2021-06-03T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic.md",
-      "title": "LGBT+ conversion therapy: banned on Facebook, but thriving in Arabic",
-      "excerpt": "When he was growing up in a small Egyptian town outside Cairo, Omar began feeling sexually attracted to other men. Too afraid to talk to family or friends, he turned to Facebook for help,",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic",
-      "originalUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technology.inquirer.net/files/2021/06/facebook-lgbt-620x413.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic/amp",
-      "publishedDateTime": "2021-06-03T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

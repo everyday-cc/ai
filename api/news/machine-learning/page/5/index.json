@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-19-researchers-use-hole-y-math-and-machine-learning-to-study-cellular-self-assembly.md",
+      "title": "Researchers use 'hole-y' math and machine learning to study cellular self-assembly",
+      "excerpt": "In recent years, researchers have drawn on mathematical topology to help explain a range of phenomena like phase transitions in matter, aspects of Earth's climate and even how zebrafish form their iconic stripes.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
+      "originalUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/researchers-use-hole-y.jpg",
+          "width": 1220,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-hole-y-math-machine-cellular-self-assembly.amp",
+      "publishedDateTime": "2021-05-19T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-alteryx-announces-new-automl-product-and-intelligence-suite.md",
       "title": "Alteryx announces new AutoML product and Intelligence Suite",
       "excerpt": "Intelligence Suite also adds some light automated machine learning (AutoML) capabilities. But if AutoML is what you're after, you'll want to take a look at the new Alteryx Machine Learning product ...",
@@ -1379,50 +1423,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students.md",
-      "title": "DeepMind provides machine learning scholarships for four Wits Master's students",
-      "excerpt": "Artificial intelligence (AI) research and applications company DeepMind has donated scholarship funding for four University of the Witwatersrand (Wits) students to complete their Master's degrees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13",
-      "originalUrl": "https://www.engineeringnews.co.za/article/deepmind-provides-machine-learning-scholarships-for-four-wits-masters-students-2021-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
-          "width": 1022,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
-      "cdnAmpWebUrl": "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=583933&rep_id=5581",
-      "publishedDateTime": "2021-05-13T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

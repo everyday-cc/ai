@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybrid-cloud-services-to-support-enterprise-workloads/amp/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/NVIDIA-AI-LaunchPad.jpg"
         width: 2000
         height: 1260
+        isCached: true
+  - title: "Dell’s PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads"
+    excerpt: "Dell's PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads - SiliconANGLE"
+    publishedDateTime: 2021-06-24T11:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/24/dells-powerflex-software-defined-storage-offering-adds-support-nvidia-gpus-power-new-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/image-1-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "DD8sho1WkODW8+GtjtikEswEQziL5hrh5W+p7oue+5bzHatBLYk0O5zgDRzsF4vBRN1+/1hbSs6GwvTeobN5+iGUJlD3h/xlEgLUoirAJaAqzEHcmVBg2jeVkLVYkE4LrPDg4q+JUX4q3p2ewny+bQ2QBQMhh2h2EWnXLwi7TbhwkR4YoVZFu3Veywls6zjtmes/mwNlIsPmQ/Ph3/bL3CKALcYU+rtAIITazMY83NkaHLe6l5++w4h5t/ebMTQX7Ekjyv02ZMUGUWpe5tm71oKZlK6ICuUcCRYlPhsaqTInMD5Snyp3moHy+1fkb4xzzh03uiOU3IZYWCTHxZhVz7tOrFLQqVXGIstFGictV1HmF5SV2XyTY4eGbaROWgTFwuuLUkV24HQKeZoP55wMgGiNBVgZgEfHdDLg5BuX1DaSrberWxKv8Adk8LX453l+o6oooWyGuasiq3A3V7vDPhsPuC5yZxnOfT2pIay4E5vmehc6u7SqC/buUtwkZWV4CL+GkqQ9sPjHVgQAj21azA==;j7ggLMJQY7/+XkrhIeH6bQ=="

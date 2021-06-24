@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Embark Trucks, Inc., Americas Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
-excerpt: "Embark Trucks, Inc., (“Embark” or the “Company”), a leading developer of autonomous software technology for the trucking industry and Northern Genesis Acquisition Corp. II (NYSE: NGAB) (“Northern Genesis 2”),"
+title: "Embark Trucks, Inc., America’s Longest-Running Self-Driving Truck Program, to Go Public Through Merger with Northern Genesis Acquisition Corp. II"
+excerpt: "Embark Trucks, Inc., (\"Embark\" or the \"Company\"), a leading developer of autonomous software technology for the trucking industry and Northern"
 publishedDateTime: 2021-06-23T12:00:00Z
-originalUrl: "https://www.financialbuzz.com/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2/"
-webUrl: "https://www.financialbuzz.com/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2/"
+originalUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
+webUrl: "https://www.marketwatch.com/press-release/embark-trucks-inc-americas-longest-running-self-driving-truck-program-to-go-public-through-merger-with-northern-genesis-acquisition-corp-ii-2021-06-23"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
@@ -73,6 +83,20 @@ related:
       - url: "https://images.wsj.net/im-358301/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Self-driving truck race suffers from major traffic"
+    excerpt: "The race to create self-driving trucks, as well as public companies to invest in them, is getting crowded. Embark Trucks is the latest to merge with a blank check firm in a $5.2 billion deal. It has built up some speed."
+    publishedDateTime: 2021-06-24T04:56:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-race-suffers-major-traffic-2021-06-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/9FBX6XGyeBXUvN3q30XYY3Riwuc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLCU7MYWYJJ6NFZ2C6LEP2SXIU.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Latham, Husch Blackwell steer self-driving truck tech firm's SPAC tie-up"
     excerpt: "Latham & Watkins and Husch Blackwell are steering self-driving truck technology maker Embark Trucks Inc’s plans to go public through a nearly $5.2 billion merger with a special purpose acquisition company."
@@ -193,6 +217,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "GkWMqDV9+k7zuMJYJqA+QuLBoKuWlwo90YlZoZ54ExhU3qxZUHQTvWEgGp4nnVq7xwR45EipLOO3S0DxwvKZ18IqmYEbQbA9Fg3RXpmnCsrSNwg03jWt7I3XCsgYkaukHIxyB2cgz+SfAeNV4+e2W33d+s+Kn9p4eHMZKxZDvRHzr6ol5w0BIAUY0ihKx2MKagb1A7KZas9KjoeGGNuDfQw/Yseto9sxsjHX9uXTbN2w2VdNre3LaIRgYeC6FSvEj+LZCuN58VC7baGsa5lnwxSYIf8rhNmRFgz7WMGkefQNfBqWe+zTlqeZi9jhVFicFieDVXfD5+Ga/RTQEp3kTXbDLzerhnGXma1z0cfOQus=;dIGsOT4l7ZmfM4IFeFALjA=="
+secured: "1N5rAKz7usIiB02MghTZ26OtzOhmgc4CNSVF0uX7imVaP+zNd586v/wJBPu/FeOeTEPf+JCc3Yygv+XpOA7/05LphKgduhaqigRIYRCxbIz49LFvUv8X+jhjI7t+9Ocs2/xy88R9R+QQplK1Lnsr0A1RIYZdWks58/cQzll7tssUM6oF/p13J4FjZm9bdcG9ZAupoXKlVuD7wpBPD1YVpYoK5KcK3G3N04GLdD1oUHQnxX7u23SZTZROPw9BXDXQylhX/WcJXbcln3w7+J+8NFkNjIZ1xl73JAeT+CHDSHFExN/3HMc5A55Dg1Dt1M4FYRQTqHi92hC9Yvhw64/oJ5SBNwPI4jwHZMzvOM5928U=;xk8bYppa2Ey2YOcVfPA/lQ=="
 ---
 

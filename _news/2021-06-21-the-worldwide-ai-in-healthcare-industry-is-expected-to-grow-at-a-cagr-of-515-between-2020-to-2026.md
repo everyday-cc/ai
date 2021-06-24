@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
+    excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
+    publishedDateTime: 2021-06-21T22:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+        width: 400
+        height: 226
+        isCached: true
   - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
     excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
     publishedDateTime: 2021-06-23T15:30:00Z
@@ -50,20 +66,6 @@ related:
       - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
         height: 419
-        isCached: true
-  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
-    publishedDateTime: 2021-06-21T12:41:00Z
-    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
-    type: article
-    provider:
-      name: Troy Record
-      domain: troyrecord.com
-    quality: 18
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/39/739dd46d-9de5-5170-a564-fc500b065178/60d08d9285ae4.image.jpg?resize=1200%2C585"
-        width: 1200
-        height: 585
         isCached: true
 
 secured: "z98tFYPg6ZmOttyeBkLMuX/B3BhoS9ZAXSbTPQ46m4S9PQXj/vX6bHKvrogPy26Ti/2Ay9Ahq9Jhz7s58IsFQibAEwwU7oMotVcnghhr4yIeG7d1I1GZdK6QvwVQhELkaNlGSmkQPXukrY7mA06MpKVyi/TIlLRWUcERc38VfUrWv+L5ZjtZ2uof025ReWBavw2GlgE6JbQAcjDTsDlyTN1EsFM5xBim4vKqwzQr//IBmO/o+SsKNCEMLVHwmxTgYJ03LQ2YW3vnk7D1gk1N96UhWjuU7NWNQ4SmbtP4/WLBGGz7EMZg0MAT11OlX7/SlYK+YBxR4qyZXLCzBucLMJAOeJ81J+FsnmkV7NwYmhY=;G9mogLoXDUC/i/1Rd+NeKQ=="

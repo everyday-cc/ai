@@ -161,6 +161,20 @@ related:
         width: 2000
         height: 1260
         isCached: true
+  - title: "Dell’s PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads"
+    excerpt: "Dell's PowerFlex software-defined storage offering adds support for Nvidia GPUs to power new AI workloads - SiliconANGLE"
+    publishedDateTime: 2021-06-24T11:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/24/dells-powerflex-software-defined-storage-offering-adds-support-nvidia-gpus-power-new-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 20
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/image-1-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+moHA15K9P2XmBWHoRzUIhkgDCJY13+T7c9OzP4VEWGyFkoV3YD887pi2sPaIavRfLfoDmVgzfa8RWM6xr7b6bdmTSxl/jxYJjBDBMRgeK7o3d1kcqk/mwWdUPJcpaPSuFw9c/05BcTIqeUVpQfHNq5RWz9EJpVHXAjlfmTOd8/NgHnew855LcD8yMwuXinzWql+I48vJyTKhP76GGneV6MMGSkM4ZxgJGwuSDWE26IIR36L2gN5CtJi4phaSOqdL/cMCHyzhlknjg1dVpJtc0fbIFRzKb7O/JOZLdFuPsVu76kSU0/6aKAcfrurPeo4o3pYX+/aloQhUEeFv+hQOeb7HeqdMnss9dUJQ8WmYA2jIDnxxXXNamT8V8mW30D+fN02tVzwxeeNPh3e/9yLcTReKnp88vMz12OOJ8prvtpiseMxLx42xcgrcIPU7DCvlNg51chXFJ7kOUnOrHpgkWE6TvNxNPHwCOPJagaogG0bESiJcsl5oQXszuMybBVpkVJHkOxObJE/i4CwcR5WRQ==;v1dsoHru6+T6r9LIqcY57g=="
 ---

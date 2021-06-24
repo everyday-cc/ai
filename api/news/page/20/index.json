@@ -2,6 +2,111 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-06-08-why-the-dream-of-truly-driverless-cars-is-slowly-dying.md",
+      "title": "Why the dream of truly driverless cars is slowly dying",
+      "excerpt": "If you're waiting around to buy your own completely driverless car, you may be waiting a lot longer than everyone originally thought.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
+      "originalUrl": "https://thenextweb.com/news/why-truly-driverless-cars-may-never-happen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fteslafsd.jpg&signature=2171b81204e7dccf351a1f495ead2e6b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024.md",
+      "title": "Overview of Healthcare Artificial Intelligence Market Sales, Supply & Demand Analysis 2024",
+      "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024-2021-06-08?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024-2021-06-08?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-razer-sets-its-sights-on-saving-the-seven-seas-with-smart-robots.md",
       "title": "Razer sets its sights on saving the seven seas with smart robots",
       "excerpt": "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters.",
@@ -1023,83 +1128,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision.md",
-      "title": "Prospera Technologies Named a Cool Vendor in the 2021 Gartner Cool Vendors in AI for Computer Vision",
-      "excerpt": "Prospera Technologies, an agricultural technology company recently acquired by Valmont® Industries Inc. (NYSE: VMI), announced today that Gartner has recognized the company in its report, “Cool Vendors in AI for Computer Vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
-      "originalUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-study-shows-ai-generated-fake-reports-fool-experts.md",
-      "title": "Study shows AI-generated fake reports fool experts",
-      "excerpt": "Takeaways · AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defen",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
-      "originalUrl": "https://www.timesunion.com/news/article/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesunion.com/news/amp/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
-      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Study-shows-AI-generated-fake-reports-fool-experts-16229887.php",
-      "publishedDateTime": "2021-06-07T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

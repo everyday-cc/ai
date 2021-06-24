@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
-    publishedDateTime: 2021-06-23T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
+  - title: "Amazon AWS Strengthens Ties with Salesforce"
+    excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
+    publishedDateTime: 2021-06-24T11:40:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Amazon-750x406-1.jpg"
+        width: 750
+        height: 406
         isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
@@ -103,20 +105,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AWS, Salesforce partnership to unify developer experiences"
-    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce"
-    publishedDateTime: 2021-06-24T09:37:00Z
-    webUrl: "https://www.glamsham.com/world/technology/aws-salesforce-partnership-to-unify-developer-experiences"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 39
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
     excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
     publishedDateTime: 2021-06-24T01:40:00Z
@@ -160,6 +148,29 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Image.jpg"
         width: 770
         height: 432
+        isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
+    publishedDateTime: 2021-06-24T09:11:00Z
+    webUrl: "https://www.sify.com/news/aws-salesforce-partnership-to-unify-developer-experiences-news-education-vgyjlEbghhihh.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
+    publishedDateTime: 2021-06-23T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
+        width: 400
+        height: 280
         isCached: true
 
 secured: "T/+TGVAXYJmZxf5Z5yFTedrElGt4lfsgsIemfxAgnUZgrfDSOe7zds+PHmFuaqIT1NoB1BsUxFKJ6LhtfNMDOvW62ZqryPx7cy2j/0/lCMYGgHQWCTEfOqR5bo23K7pJhSjhvZJWMHz8R+cWqUdWWsZLO2GSBokRxbgEG9rZKJn7VdEChfRQ6X6Pr1WJKTR2SArfBLBp4QFGrYfN/zccxcG3nn91S7B1hZBRehtX8H8tQjRUq1rlvRUY/34RIZGgieYqOzPXUxpWh3y5rLbu2Qs4ZPCF6AOA9dA21uPWY4uWbuvySrpgkMQi/fm6Bgrl+UFiCDAE7kfIGPobqWeTUNY1mWPhROoB9a+mwexQ19A=;mzhBgbNxSTYphoBro7hOcA=="
