@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
 type: article
 quality: 120
-heat: 160
+heat: 161
 published: true
 
 provider:

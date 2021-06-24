@@ -2,21 +2,17 @@
 category: news
 title: "Linux Foundation Introduces Open Voice Network to Prioritize Trust and Interoperability in a Voice-Based Digital Future"
 excerpt: "The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
-publishedDateTime: 2021-06-22T15:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future-1030543760"
-webUrl: "https://markets.businessinsider.com/news/stocks/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future-1030543760"
+publishedDateTime: 2021-06-22T15:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-linux-foundation-introduces-open-voice-network-prioritize-trust-/2021/06/22/9395365.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-linux-foundation-introduces-open-voice-network-prioritize-trust-/2021/06/22/9395365.htm"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -40,20 +36,20 @@ related:
         height: 697
         isCached: true
   - title: "The Linux Foundation Tackles Safe Open Standards for AI Voice Assistants"
-    excerpt: "The Linux Foundation on Tuesday announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems. Organizations are beginning to develop,"
+    excerpt: "The Open Voice Network is dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
     publishedDateTime: 2021-06-22T15:15:00Z
-    webUrl: "https://www.technewsworld.com/story/87173.html"
+    webUrl: "https://linuxinsider.com/story/the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants-87173.html"
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 40
+      name: LinuxInsider
+      domain: linuxinsider.com
+    quality: 38
     images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-voice-assistant-1.jpg"
-        width: 620
-        height: 360
+      - url: "https://c6w8h3d4.rocketcdn.me/wp-content/uploads/sites/2/2021/06/voice-assistant.jpg"
+        width: 1000
+        height: 520
         isCached: true
 
-secured: "0ZaLJpADfYfvDuHE13y2I5HtJVA/t7vXeoPv8tXfJeSEsHgkBexcK0RF9fLSP+nPPAdF1sUa8ciSQTA2/Pf31ib+bUi3I7Rz2w+yMtrbk+m5FQ29v7ELgPm8ncOB+Tk24BRFbvRIxQJWtk4AspMwuIOGRzotMpKmCJeouliN/ri1xE/+uBOCO9Sq2047G2Lxpzus9c4bg/iiQj/zjyCuz5uoWiCuDRJTHi9S2hFlWT1DShP3UVeqrV/CLJLx5qqC35xh87Fnm89Xv4FcFAjX/pcw/yAlvzGtMk9iEIWXZGOB8igO3yGFhkKF+ESuK2KpHjohE1NN7F0nSK92HSsB2eeCA8DWYvjSRyJJrwsV7SA=;10hB7nyyTQ9xQKcRvz12Fw=="
+secured: "EUI0VIEz0P3QDi06sVAnsPS4tlLEwxro2B4jBUZtGs9jpEJcu3zJ3OyEf8i8CfBcLGMx344fEDDSTPR4Fpjt960x10H5rm6+mdMMFZyh8HezOM/c6vu7Z80SXPGjD3PZfwWsqprrTRa0EovPschF/YSAUEU61nxmSqlkpjyio5prMm6mm7bVuHfyXjunzFHQ0CrhwxQCRnveOMtTC8018eE7KDbrNSSuBrBJSSO2xF7GJJH+ui5+JZ2H9qD+eob869OL+u2twbFJaWo6G1t6Ye6sMPQhuDlJlqkL5nVIw4/hsc+WklCEdG7nOEgZs+ddv3TTZM9jGoThQpAn5VutadrGynyq2sxI9x/m5+DAEGM=;c4GSi0IsOWAZ8T7ALtVgOQ=="
 ---
 

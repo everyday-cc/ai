@@ -62,6 +62,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
+    publishedDateTime: 2021-06-23T12:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "TN3ykWLJ+ILe+yWEag+GYkLtQWB7MWv2eZDDwiXa9WbdfffjuJ0Z2gHXev4OuBaCrKMHok5IBNQCKncE9vX6lziqWpLxa+vvb/OvdAtA/jwYK5iFHyRRrGTHQdPYF+pSNh4o4vJL71Xws2Z6WgMiwdMNrx6BnEijQfQwJR8ICDxBS08g9uXcHwCrv8dn2bByK5dxLOFCmUg2vA4lut/82wqBb3k7qK/WBqqnOPtAV6eg/9N9oMQG4AUyUvrem++FunON2C0qECHwx8NsZh/LCou+IN5QtHZoD7G3751E3wZc5/SgLEz6ljj3gIpn7qz58P4x3YipbMV14gJ4tRaosrmTKBWzfJ2ed+jFx9rAZEo=;ffIQW5QteDlFLR/a0V3S4w=="
 ---

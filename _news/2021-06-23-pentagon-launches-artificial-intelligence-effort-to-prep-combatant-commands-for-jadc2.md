@@ -3,16 +3,16 @@ category: news
 title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
 excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
 publishedDateTime: 2021-06-22T22:13:00Z
-originalUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
-webUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+originalUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+webUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Army Times
-  domain: armytimes.com
+  name: Marine Corps Times
+  domain: marinecorpstimes.com
 
 topics:
   - AI
@@ -69,6 +69,6 @@ related:
         height: 851
         isCached: true
 
-secured: "60xnSRi7DPhV0Sf7l5qguXe7au/reHoyvkbzsfowEUBKHIQm5E1vJbA/1vSk3P7Qq8aWrt8CZvS7pCuiY0sPbsmoN1bHDmK3oKcf2dW5Mp+Lnw6H4nTj+17odzTJxGoEVCguDXUQWtELeNIvirTyFOn+MQ5w+hQZG1OKDuOFFVagSDQmxSYgLq6ycmXx0UEwbMq4nFhYAJ4k07f4/NZXitBF3U99H4fWM5nzs1uMYe3O5aI9EbwmS+xWvLQWqZABJdskItcWXw/Zd8SKt2c8rKLT58U9aOWPvuPsF0hQM2ch4eLHevVUCdZ/73RRc1fKs22f0PUC3TVQnM8A2911DMLHmnMvbFSU8sNpXftX5ZU=;kQsktKfZtz3+cWiJx+93qg=="
+secured: "jgHFbYII+l00rRskHz/hdnEphRGiw/GnkOqJFq5B8uAMJoMky04RtIJVdvRz91oIN0edwqVHUeNh0dPEZQIN4T9K0kVc/v1vg8+eA7QMnjtRaiCPYUfeEmzDs09Vs707PUpMAU5FMKBEsNPNv34Xe4aPhHQ4l9hKJhZuJuxbsV4R76zw5zWjXvW2B39z8eHM+tCxz/1mP9C1y1zWAuaP/lHsKhQjM0hov6Y9EkzWLd82jikoShJ1rt9BNe0OVh7xWPCKsKhQc5G10mMWybqQIUTTZLePIl7n9TDdiBY6Jmpt67sAjUHtihfHoIyJKO+rUOO4U/rfAUh2SFBq6MTnp8ad3ZXtjBZhsweg4BwWc1Y=;g9Bapo1U62w6872HbPgqgg=="
 ---
 

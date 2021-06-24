@@ -32,28 +32,28 @@ images:
 
 related:
   - title: "The Linux Foundation Tackles Safe Open Standards for AI Voice Assistants"
-    excerpt: "The Linux Foundation on Tuesday announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems. Organizations are beginning to develop,"
+    excerpt: "The Open Voice Network is dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
     publishedDateTime: 2021-06-22T15:15:00Z
-    webUrl: "https://www.technewsworld.com/story/87173.html"
+    webUrl: "https://linuxinsider.com/story/the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants-87173.html"
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 40
+      name: LinuxInsider
+      domain: linuxinsider.com
+    quality: 38
     images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-voice-assistant-1.jpg"
-        width: 620
-        height: 360
+      - url: "https://c6w8h3d4.rocketcdn.me/wp-content/uploads/sites/2/2021/06/voice-assistant.jpg"
+        width: 1000
+        height: 520
         isCached: true
   - title: "Linux Foundation Introduces Open Voice Network to Prioritize Trust and Interoperability in a Voice-Based Digital Future"
     excerpt: "The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
-    publishedDateTime: 2021-06-22T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/linux-foundation-introduces-open-voice-network-to-prioritize-trust-and-interoperability-in-a-voice-based-digital-future-1030543760"
+    publishedDateTime: 2021-06-22T15:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-linux-foundation-introduces-open-voice-network-prioritize-trust-/2021/06/22/9395365.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "clXb2HCE//zRZPAF7q91eEDHdXUxrty9kTNL7de+sMZCqLH9QDWtoEeA/abEw9lWiog3thKdAs2x0RuhJw0bhZ7mbsqqfl7uHc//IlsXGoPIaYWWqpSTSET8AATeAV5fF3EVjaSbQ9odwWVsFCyWLgZ+ef02LnjLbnKg/g9gY6/g58liOBMjgUS9M1+heLKt0WX3S5hBdAXTBTG2QthVWcaX1qH36vHryyNCjn1+3QUpFGCkvAkOfuWioMR0NrA3h2qtH4r7K2afw8lKVN8BaEVLTEGZtL8tGIyWG3XmiXbi3BuPKlutIVrkmsYTHWI7kSvx5++erXKxZKEEA9K4oY4v8M7NpcNCMic71D9ww7t5dXQrwr4fCR+uVzUdfVAiVvLQVI8NMNYs0kit7/LQGZTcD9EV3jIyKJRYpPKAcmPjSswSxXfVO5/FVhK/eX05A4uzSgc4DQ+NkEoSQuoKj/YVh2UEaP0SXL1qO5zRbxMQiowDU8ygPDYTzdbXU+jfBTwAsJUJ12ci7WNk1BgNlA==;Of1kgxNpwpwB7A9bmiPZ6A=="
 ---

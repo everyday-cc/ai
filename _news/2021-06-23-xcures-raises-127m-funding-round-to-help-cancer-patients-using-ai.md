@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/06/23/xcures-raises-12-7m-funding-he
 webUrl: "https://siliconangle.com/2021/06/23/xcures-raises-12-7m-funding-help-cancer-patients-using-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Data platform startup Incorta secures $120M funding round"
-    excerpt: "Incorta Inc., a startup with a platform that enables companies to aggregate business records from different sources and analyze them in one place, has raised $120 million to expand go-to-market activities."
-    publishedDateTime: 2021-06-23T19:11:00Z
-    webUrl: "https://siliconangle.com/2021/06/23/data-platform-startup-incorta-secures-120m-funding-round/"
+  - title: "Tomi.ai raises $1M to help brick-and-mortar companies optimize digital ads"
+    excerpt: "Tomi.ai, a digital sales optimization platform, has raised $1 million in seed funding from Begin Capital and the Phystech Leadership Fund."
+    publishedDateTime: 2021-06-23T22:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/23/tomi-ai-raises-1m-to-help-brick-and-mortar-companies-optimize-digital-ads/"
+    ampWebUrl: "https://venturebeat.com/2021/06/23/tomi-ai-raises-1m-to-help-brick-and-mortar-companies-optimize-digital-ads/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/tomi-ai-raises-1m-to-help-brick-and-mortar-companies-optimize-digital-ads/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/incorta.png"
-        width: 912
-        height: 521
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/texting.GettyImages-1148661848-e1609779322579.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
     excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the inve"

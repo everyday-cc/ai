@@ -1,24 +1,38 @@
 ---
 category: news
 title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series Video Card & More Savings Compared by Save Bubble"
-excerpt: "Save on graphics card deals at the early Prime Day 2021 sale, featuring NVIDIA RTX Series & GTX Series savings Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series."
-publishedDateTime: 2021-06-20T02:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble"
-webUrl: "https://www.morningstar.com/news/business-wire/20210620005212/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble"
+excerpt: "Here’s our list of all the early graphics card (GPU) deals for Amazon Prime Day 2021, together with the latest offers on top-rated NVIDIA video cards like the GTX Series & RTX Series. Links to the top deals are listed below."
+publishedDateTime: 2021-06-20T07:30:00Z
+originalUrl: "https://www.financialbuzz.com/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble/"
+webUrl: "https://www.financialbuzz.com/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-video-card-more-savings-compared-by-save-bubble/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
 
 related:
+  - title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series & AMD RX Series Video Card Sales Shared by Save Bubble"
+    excerpt: "Early graphics card (GPU) deals for Prime Day 2021, including NVIDIA RTX & GTX series GPU & AMD RX series graphics card offers Compare the top early graphics card"
+    publishedDateTime: 2021-06-20T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21635864/graphics-card-gpu-prime-day-deals-2021-early-nvidia-gtx-series-rtx-series-amd-rx-series-video-card"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graphics Card (GPU) Prime Day Deals 2021: NVIDIA GTX & RTX Series Video Card & More Deals Rated by Consumer Walk"
     excerpt: "A list of all the best graphics card (GPU) deals for Amazon Prime Day, featuring offers on NVIDIA RTX & GTX series GPU & AMD RX GPUsBOSTON--(BUSINESS WIRE)--Prime Day experts at Consumer Walk have reviewed the best graphics card (GPU) deals for Prime Day,"
     publishedDateTime: 2021-06-21T07:50:00Z
@@ -33,16 +47,7 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Graphics Card (GPU) Prime Day Deals (2021): Early NVIDIA GTX Series & RTX Series & AMD RX Series Video Card Sales Shared by Save Bubble"
-    excerpt: "Early graphics card (GPU) deals for Prime Day 2021, including NVIDIA RTX & GTX series GPU & AMD RX series graphics card offers"
-    publishedDateTime: 2021-06-20T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210620005026/en/Graphics-Card-GPU-Prime-Day-Deals-2021-Early-NVIDIA-GTX-Series-RTX-Series-AMD-RX-Series-Video-Card-Sales-Shared-by-Save-Bubble"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
 
-secured: "HMTuc7fY3slJBXToTwqvFjiRRVYL0LcgElW2LyKI3h6wNrZe3oH1p5H8mC6W4vu8zulerp37rr8aUzzsNLkAh42nrt08a9r+uniGR1LzQQzIjPew/+5geCHOS93PvT1gcPwXwg3hI8Cw7OXHuu+KrXtFkrsX2iCxCMDBLo4ynn2W94aH0iPiRHbdQVejQRRLm8Advmi9NwRLGQ1LHUCMxqCGafEVlz6ProPpMgXsN73zRIMcWouEmPxasDs7yYv5jPlCRUAU7yVrsEEWreVQ2NbSRugzkKARFfFAFO3fqQllHsFidlPnfrc3nubd++0tyissN2IlIw6PoZcv82LXohTFhLrxEloqUcg1Jacc/l4=;yhgNlXGSBJGnvzJ1e9Wg5g=="
+secured: "MfoAy+EpfvGlfEn82eywNNtLqcEDuJ4RdyTO85t48Qj/854KrjMq2tSEwGTtBqt1DOqyo2TUGqRzwKjERp98n2sBddBXYeUAyN1TsvD+EM2ssUOgCp5uKQ9H1tC9LzKPvAVV/fOPwPtdwPiEc641cJYZLqDP+PKa2c4ZvdEYo/qOqHjd12+SL4C4aOD9IZlm2uioKzyWv+do2eCOG0Z8WTwdBzt7IjvnBECT46NxX6SjIFeRhA6TNnDUNfHQ6PKSJEQpav6mvzq7K6oJ34nz79Hy37jABqfqyZ6pMZdovQ7621/RnaORTxaHEw391lfy+gYoHs0CSdN+cLqZ45sZajklXc2pHvGuCYvq9fzsZ0Q=;eyI+aiHehzmAFG0Kc+kRYw=="
 ---
 

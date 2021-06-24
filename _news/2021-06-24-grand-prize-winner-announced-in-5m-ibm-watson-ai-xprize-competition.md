@@ -62,6 +62,15 @@ related:
         width: 768
         height: 384
         isCached: true
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
+    publishedDateTime: 2021-06-23T12:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "CsjoT5mKtcGC0LAGcqdQF6d20zy1t90N4qCEo+LLcMaeTVR109fzz/HeKwtOm30aaa1+k4ihRTRlAm8+OpF3GPEgFiG1eIK5r6EQoX1ti37iI0SLIaI/m3jHY1hb0tfnQ8ABZWQXh6YWY9qwLTIeW9AwsjOg7v3u+acQH2yIzYks+JOugn9CvgMzXpYe8vARVvY09JrtYw+WGnaifUML+cehjddQrxYUSuGBJ/k+9AiIzd5Q6ZWPE3WI47Chq/3UFkPtUy8ah9Zy+zOuX6DutIe9knuNk+Ch/eRAbgkYGKz7Dqur4oevMUQMMnPmhTLWIiYy/4POd3RAjTtlrXDVUmsEYgV/4nuU/ekHOEcuTtk=;r/fsGWdv3WS8tt3de4trWw=="
 ---

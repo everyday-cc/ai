@@ -2,6 +2,162 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-06-09-how-edge-ai-can-make-enterprises-more-agile.md",
+      "title": "How edge AI can make enterprises more agile",
+      "excerpt": "Edge AI, or AI implemented locally, on edge hardware, can bring about enormous benefits for organizations in key industries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory-e1623189788805.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/how-edge-ai-can-make-enterprises-more-agile/amp/",
+      "publishedDateTime": "2021-06-09T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-anti-money-laundering-startup-intellewings-raises-100000-in-seed-round.md",
+      "title": "Anti-money Laundering Startup IntelleWings Raises $100,000 In Seed Round",
+      "excerpt": "The Panchkula-based startup will be utilizing the funds to advance its product, EYE, a product based on machine learning to help regulatory firms with anti-money laundering compliance needs",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/374119",
+      "originalUrl": "https://www.entrepreneur.com/article/374119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623251717-dollar-2891817-1920.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/374119",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/374119",
+      "publishedDateTime": "2021-06-09T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips.md",
+      "title": "Google used reinforcement learning to design next-gen AI accelerator chips",
+      "excerpt": "In a paper published in the journal Nature, Google detailed its method for creating an AI system capable of designing computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/google-used-reinforcement-learning-to-design-next-gen-ai-accelerator-chips/amp/",
+      "publishedDateTime": "2021-06-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-aws-powered-artificial-intelligence-capabilities-added-to-6connexs-industry-leading-virtual-venue-products.md",
       "title": "AWS-powered Artificial Intelligence Capabilities Added to 6Connex's Industry-Leading Virtual Venue Products",
       "excerpt": "6Connex is the first virtual events provider to leverage AWS's AI technology ... on engagement and personalization, and our new artificial intelligence capabilities allow conference organizers ...",
@@ -991,152 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-analysis-as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out.md",
-      "title": "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out",
-      "excerpt": "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
-      "originalUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2NK4XL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2NK4XL",
-      "publishedDateTime": "2021-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-element-adds-aws-integration-for-industrial-sensor-data.md",
-      "title": "Element adds AWS integration for industrial sensor data",
-      "excerpt": "Element is launching an API integration between its Element Unify software and AWS IoT SiteWise to contextualize industrial sensor data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1212287865.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/element-integrates-aws-to-contextualize-industrial-sensor-data/amp/",
-      "publishedDateTime": "2021-06-08T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-ai-powered-transcription-startup-verbit-raises-157m.md",
-      "title": "AI-powered transcription startup Verbit raises $157M",
-      "excerpt": "Verbit, a startup offering AI-powered transcription services, has raised $157 million in venture capital at an over $1 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/ai-powered-transcription-startup-verbit-raises-157m/amp/",
-      "publishedDateTime": "2021-06-08T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

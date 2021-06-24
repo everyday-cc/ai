@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-
 webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
+    publishedDateTime: 2021-06-23T12:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 34
 
 secured: "aGVxV1JoXMBm5ZZwlphcoCceqOcNxQX1niEo0kQm90DbPdR0e9m1A4V2xbnLuAsFGSnQQjx3ZRM/Z9krJmB+cgaWk51QYUcSDKPYLlyR3kkD0THNJqc7cGY+QgcA8B2QZuLKqpdMTEdzQRnJLrkTujHoA1wrdnidePeLfR+cfu8w4EjsluGQqYlmp6GlYXRtxqmqmvcHICDxi9Dt+Xvj44OE789JgUGlgNv2wpMzITztujxbGqmr/oOQfh6cxUuaTMrKMW0ELXMMu/v6zJGfVSrplIni7X+xOlAzlyO6oifp9ukMjQfXWLI8rgs3WDpyQQ7XBkA+gMe/zh1rqDf9qaKmfRZPziGQJR2zMGf3MxIQLffElCXREmjVMHuPKCquXHweCTR7o1HUNFNSif0BPSQ3DRcT3XkpvGbzZlpZ4fFmmDU4auCJjtNzsZr6NkeTnU//YgZ/B0cpAs3TU9GIMRDshmf3w0WFeEUSV405LVAnwuddoAoNRHXrBvNn0+vNP8n9oKtAuKcTYxwOCfHiiQ==;miOOlhEKJV9Jrh5bdxVawQ=="
 ---

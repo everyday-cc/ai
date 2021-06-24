@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
+      "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
+      "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "originalUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/06/2021-06-22-ts3_thumbs-d4c.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
+      "publishedDateTime": "2021-06-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-scaleai-launches-mapping-project-more-on-ponyai-waymo.md",
+      "title": "Scale.AI launches Mapping Project; More On Pony.AI & Waymo",
+      "excerpt": "Scale has launched a new mapping tool/service offering for not just self-driving cars, but also for delivery companies. Also, Pony AI demonstrates taxi with no human safety driver in China, and Waymo shows Pride.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d21d1fcfa1d201e3480176%2F0x0.jpg",
+          "width": 1139,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/",
+      "publishedDateTime": "2021-06-22T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-smart-elastomers-are-making-the-robots-of-the-future-more-touchy-feely.md",
+      "title": "Smart elastomers are making the robots of the future more touchy-feely",
+      "excerpt": "Imagine flexible surgical instruments that can twist and turn in all directions like miniature octopus arms, or how about large and powerful robot tentacles that can work closely and safely with human workers on production lines.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
+      "originalUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/soft-robots----smart-e.jpg",
+          "width": 1440,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
+      "publishedDateTime": "2021-06-22T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-google-cloud-launches-ai-dedicated-to-quality-control-and-inspections.md",
       "title": "Google Cloud launches AI dedicated to quality control and inspections",
       "excerpt": "Google Cloud announced Tuesday the launched Visual Inspection AI, a new purpose-built tool to help manufacturers, consumer packaged goods companies and other businesses reduce product defects and quality control cut costs.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-cloud-launches-ai-dedicated-to-quality-control-and-inspections/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -269,7 +416,7 @@
       "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -520,7 +667,7 @@
       "originalUrl": "https://techxplore.com/news/2021-06-ai-electronics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1201,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1078,153 +1225,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hpe-bolsters-hpc-business-with-determined-ai-acquisition.md",
-      "title": "HPE bolsters HPC business with Determined AI acquisition",
-      "excerpt": "Hewlett Packard Enterprise (HPE) has acquired open source artificial intelligence (AI) startup Determined AI. The four-year-old company, which only brought its product to market in 2020, specialises in machine learning (ML),",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1580816268/HPE.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp",
-      "publishedDateTime": "2021-06-22T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-creating-an-ai-text-to-speech-using-ibm-watson.md",
-      "title": "Creating An AI Text-to-Speech Using IBM Watson",
-      "excerpt": "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/",
-      "originalUrl": "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-robotics-market-size-share-value-and-competitive-landscape-2021-2026.md",
-      "title": "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026",
-      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

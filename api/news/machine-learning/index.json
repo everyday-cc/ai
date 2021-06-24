@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks.md",
+      "title": "Deep Instinct: AI, deep learning tools can help prevent cyberattacks",
+      "excerpt": "In Deep Instinct's Voice of SecOps report, 86% of respondents said tools driven by AI, ML, and deep learning would help fight cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/",
+      "originalUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-874781132-e1618738014241.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/deep-instinct-ai-deep-learning-tools-can-help-prevent-cyberattacks/amp/",
+      "publishedDateTime": "2021-06-23T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-machine-learning-aids-earthquake-risk-prediction.md",
       "title": "Machine learning aids earthquake risk prediction",
       "excerpt": "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event.",
@@ -299,7 +351,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-cloud-launches-ai-dedicated-to-quality-control-and-inspections/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1359,49 +1411,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-machine-learning-speeds-up-simulations-in-material-science.md",
-      "title": "Machine learning speeds up simulations in material science",
-      "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210609105851.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210609105851.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

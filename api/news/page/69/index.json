@@ -2,6 +2,136 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-05-04-focus-on-big-science-the-collaborative-project-for-the-development-of-an-efficient-open-source-language-model.md",
+      "title": "Focus on “Big Science”, the collaborative project for the development of an efficient open source language model",
+      "excerpt": "In order to develop an efficient open source multilingual language model in one year, several laboratories, large groups and start-ups have come together. They will use the French supercomputer Jean Zay to carry out the “Big Science”project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.actuia.com/english/focus-on-big-science-the-collaborative-project-for-the-development-of-an-efficient-open-source-language-model/",
+      "originalUrl": "https://www.actuia.com/english/focus-on-big-science-the-collaborative-project-for-the-development-of-an-efficient-open-source-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.actuia.com/wp-content/uploads/2021/05/maxresdefault-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Actu IA",
+        "domain": "actuia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-spotify-urged-to-rule-out-invasive-voice-recognition-tech.md",
+      "title": "Spotify urged to rule out 'invasive' voice recognition tech",
+      "excerpt": "Musicians and rights groups including Tom Morello, Talib Kweli and Amnesty International urge music streaming company to abandon 'dangerous' project",
+      "sourceUrl": null,
+      "webUrl": "https://news.trust.org/item/20210504140300-keqp5",
+      "originalUrl": "https://news.trust.org/item/20210504140300-keqp5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/28851b1a-d179-4636-b342-5480ff6ee1a8/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thomson Reuters Foundation",
+        "domain": "trust.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-defining-a-role-for-ai-ethics-in-national-security.md",
+      "title": "Defining a role for AI ethics in national security",
+      "excerpt": "We spoke with Mariarosaria Taddeo, an associate professor and senior research fellow at the Oxford Internet Institute and Dstl Ethics Fellow at the Alan Turing Institute working on digital and AI ethics about two recent reports from the UK and the US on using AI in national defence and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s42256-021-00344-9",
+      "originalUrl": "https://www.nature.com/articles/s42256-021-00344-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00344-9/MediaObjects/42256_2021_344_Figa_HTML.png",
+          "width": 546,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-apple-snaps-up-ex-google-ai-leader-who-quit-in-the-wake-of-timnit-gebrus-firing.md",
       "title": "Apple snaps up ex-Google AI leader who quit in the wake of Timnit Gebru’s firing",
       "excerpt": "Apple has hired former Google AI scientist Samy Bengio, who resigned from the Big G following the controversial firing of ethics researcher Timnit Gebru.",
@@ -1016,136 +1146,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025.md",
-      "title": "How the AI Chips Market will be Valued at $129 billion by 2025",
-      "excerpt": "The AI chips market that is leveraging the data centres run by cloud providers is going to be estimated to grow to $129 billion in 2025. Here’s how industries will benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/",
-      "originalUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/05/AI-chips.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/how-the-ai-chips-market-will-be-valued-at-129-billion-by-2025/?amp",
-      "publishedDateTime": "2021-05-03T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-path-robotics-raises-56m-for-aggressive-expansion-of-ai-powered-welding.md",
-      "title": "Path Robotics raises $56M for 'aggressive' expansion of AI-powered welding",
-      "excerpt": "Path Robotics Inc. has raised $56 million to perfect the engineering of its AI-driven autonomous welding robot and aggressively expand sales to manufacturers across the country. New York City VC firm Addition led the Series B round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/cleveland/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html",
-      "originalUrl": "https://www.bizjournals.com/cleveland/news/2021/05/03/path-robotics-raises-56m-to-add-65-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-creating-an-end-to-end-application-for-orchestrating-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions.md",
-      "title": "Creating an end-to-end application for orchestrating custom deep learning HPO, training, and inference using AWS Step Functions",
-      "excerpt": "Amazon SageMaker&nbsp;hyperparameter tuning provides a built-in solution for scalable training and hyperparameter optimization (HPO). However, for some applications (such as those with a preference of different HPO libraries or customized HPO features), we need custom machine learning (ML) solutions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-custom-deep-learning-hpo-training-and-inference-using-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/1-Flowchart.jpg",
-          "width": 800,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-03T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-cloud-launche
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-launches-ai-dedicated-to-quality-control-and-inspections/"
 type: article
 quality: 89
-heat: 181
+heat: 179
 published: true
 
 provider:

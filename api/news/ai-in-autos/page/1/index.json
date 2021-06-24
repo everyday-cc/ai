@@ -105,7 +105,7 @@
       "originalUrl": "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -209,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -261,7 +261,7 @@
       "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1368,21 +1368,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
-      "title": "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year",
-      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
+      "path": "_news/2021-06-16-alphabets-self-driving-car-company-waymo-announces-25-billion-investment-round.md",
+      "title": "Alphabet's self-driving car company Waymo announces $2.5 billion investment round",
+      "excerpt": "Google sibling company Waymo announced a $2.5 billion investment round Wednesday, which will go toward advancing its autonomous driving technology and growing its team. The round includes funding from Waymo parent company Alphabet,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/waymo-funding-idUSL3N2NY31Y",
-      "originalUrl": "https://www.reuters.com/article/waymo-funding-idUSL3N2NY31Y",
+      "webUrl": "https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabets-self-driving-car-company-waymo-announces-2425-billion-investment-round/ar-AAL6F70",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 384,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/s1ecHHtxuKpo3OVoURQIIAwO68c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3NUHQPGSJNNNPLMX7UPVOM5Z4.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://image.cnbcfm.com/api/v1/image/105930488-1558638540445gettyimages-1061811620.jpeg?v=1623845457",
+          "width": 5300,
+          "height": 3535,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1390,23 +1390,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T06:12:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+      "publishedDateTime": "2021-06-16T05:30:01-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+        "domain": "com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1415,8 +1406,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

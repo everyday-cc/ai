@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
 type: article
 quality: 121
-heat: 173
+heat: 171
 published: true
 
 provider:

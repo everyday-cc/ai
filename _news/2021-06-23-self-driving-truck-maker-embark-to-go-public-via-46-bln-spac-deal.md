@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Latham, Husch Blackwell steer self-driving truck tech firm's SPAC tie-up"
+    excerpt: "Latham & Watkins and Husch Blackwell are steering self-driving truck technology maker Embark Trucks Inc’s plans to go public through a nearly $5.2 billion merger with a special purpose acquisition company."
+    publishedDateTime: 2021-06-23T21:24:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-2021-06-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 53
+    images:
+      - url: "https://www.reuters.com/resizer/T-73-Ze86FCm-Kf9HEzIJe-G100=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E4INHPFZ3FNXZPKSXDGU22IO7Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Embark Joins Convoy Of Self-Driving Truckers Going Public With $5.2B Deal"
     excerpt: "Embark Trucks, a self-driving vehicle company, is set to go public in a deal valued at about $5.2 billion. The San Francisco-based startup is merging with a special-purpose acquisition company (SPAC), Northern Genesis Acquisition Corp., a press release said."
     publishedDateTime: 2021-06-23T16:27:00Z

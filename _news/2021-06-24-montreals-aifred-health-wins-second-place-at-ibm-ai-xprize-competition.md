@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-23T20:06:00Z
 originalUrl: "https://betakit.com/montreals-aifred-health-wins-second-place-at-ibm-ai-xprize-competition/"
 webUrl: "https://betakit.com/montreals-aifred-health-wins-second-place-at-ibm-ai-xprize-competition/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - IBM AI
 
 images:
   - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/Aifred-Health.jpg"
@@ -24,6 +25,6 @@ images:
     height: 700
     isCached: true
 
-secured: "/tIBRRXYVtYM9taV7wLXakbCqfSEHQY/mxrWO9WUmSFpaxOh53iHUeKIxrlAgQPIf01koILUXYCW02TyGhtb4vX0/wvQj2hzvHQ5FQnw2sZbgVlZKAi8N9HgAGaWQifJue+G9hVP4VLSQ866nQhJ5KMsMHjVmb9HjTHiLkaeHUIhaIbUwnkuPN+G+6GPi+st0URVnSkjv3ld5foCmog0w+8thK9fTCgOTipAux9XJD3yh9bYn9pE1C4R6aiakUAR0i52g1gnpzNvSollFXT1voy+gsXVmRKzyY43a6SEuSKAz64y8WlOCBR0YuxDhBZJPlAIboAZGj62xKPOMJ6cERLouToPM5HztyFVbXcfaHA=;7IBeKqJdbSUa6NBkng6KKw=="
+secured: "akyjU5di2DkLx/ORF4WcLK69nZVARNQdghkZFFUa/d6wmNs7VnLCfJqZ9Uo5C3F9i41TQgm2dzSR0cognfUntVaYPn6cWDoNktbKYWeWPhm3PgC2oweq7xzHTvojG73pxzMbcZP8mBQ3zc804H2/u+qFG1mQK4VdBBT1sxqfZnfFaGGJHI3hfTSG68ED9/PdV1wYxxyT53cyoyvhuaxLgpaONe0HySOPQ6L/BcE8Y9N0/QFfhbzQS5TbkANofkyl2h7NHXf1xvTAQhpCwd0EIOj7IK5BPUzwSpkRg7fm86So3T9fnTjFW/bFRDy5jZ2L2XianiJlBk26I9aJIkiEUA7Apq6sF3aifSO6lcM/lP7+PVeH4TNwy7FF+D4O0l4ZAV6W+nYY1oAE/6UXXYo/oQ2CFDKCDUAI5YtfDLX/pLilVfe9dCQzYp1yWXWBbWGkBg+XtGlRGFiFwDOKUCjD7EkNExo1PehpbeJPN9d50+ywgtMNcqEuWNZEwmR2OprS+aFfB3ovu0PzuZNjKik8gA==;Q8DsQPUybaFTUUwCByaRiw=="
 ---
 

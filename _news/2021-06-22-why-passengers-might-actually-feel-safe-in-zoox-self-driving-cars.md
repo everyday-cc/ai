@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

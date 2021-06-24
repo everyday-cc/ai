@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
