@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "The Challenge of Finding Top AI Leaders"
+    excerpt: "North American cities are increasingly important hubs for artificial intelligence (AI) research. The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing,"
+    publishedDateTime: 2021-06-24T13:37:00Z
+    webUrl: "https://huntscanlon.com/the-challenge-of-finding-top-ai-leaders/"
+    type: article
+    provider:
+      name: Hunt Scanlon Media
+      domain: huntscanlon.com
+    quality: 39
+    images:
+      - url: "https://huntscanlon.com/wp-content/uploads/2021/06/story1-12-e1624541818926.jpg"
+        width: 438
+        height: 274
+        isCached: true
 
 secured: "ni5sm+Wd20Zcbh51hlgM6B/+ePYLivDcMGbItsZeb3F8bD9DmIQOYP/fR4mpnhu7o/z2BZJpRb11SXqLbee18lEARz/rWgv3wKPRHdoTwVn0ROlkzjRqSnpLw50syqXjYp4ogN219X/6/hx9EK/KxzYz6WxpvXkvLHZnYcJKKmWQuy9YiEnyudGx65yuGZGQuRLPkRnK2Q5i1roe6BY6tZG5qmQ7TOVpL2Ubwa00847JRoO7MrONlPEPBxW0EoczA9/lUH1LppLwHXI8YBw3j432oY6V8CuClWG/WSMdgE3kT0mvCBcytf/gfeubP2R+wJPnqos4+zxRX6HWePfPvJueAOqTxyEj3yUCoJCtl/+nyn2Y762+sr3OYG14hNC8x5ZLyGgsWGbbtvO5VEpM0VOzgYF6YpvgsY1a78Gd2VpG/cjGXFy860JJMRRwG5yq8v7XuAOvFqLILqlUd0JIEhN7+JcFxYuABponnW4mKLBgAXKprGlIdCN+Kzv6OY3h6WE7eFN4nSDExw+xw6IbzA==;+Ki2VZvz8cmqOmIzZKXLRw=="
 ---

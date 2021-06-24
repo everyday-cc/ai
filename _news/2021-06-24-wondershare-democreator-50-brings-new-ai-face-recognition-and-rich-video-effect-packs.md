@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Wondershare DemoCreator 5.0 Brings New AI Face Recognition and Rich Video Effect Packs"
-excerpt: "Wondershare has revealed the newest Wondershare DemoCreator version to provide a resourceful and effective screen recording, and video"
+excerpt: "Wondershare has revealed the newest Wondershare DemoCreator version to provide a resourceful and effective screen recording, and video editing experience to its users."
 publishedDateTime: 2021-06-24T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/wondershare-democreator-5-0-brings-new-ai-face-recognition-and-rich-video-effect-packs-301319202.html"
-webUrl: "https://www.prnewswire.com/news-releases/wondershare-democreator-5-0-brings-new-ai-face-recognition-and-rich-video-effect-packs-301319202.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/wondershare-democreator-5-0-brings-new-ai-face-recognition-and-rich-video-effect-packs/article_0f005147-a84f-53ee-bd5a-4ca841c47c37.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/wondershare-democreator-5-0-brings-new-ai-face-recognition-and-rich-video-effect-packs/article_0f005147-a84f-53ee-bd5a-4ca841c47c37.html"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i1.ytimg.com/vi/2mW6ol5L8yE/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/70/2706e19f-b45c-5224-80bc-123b29b93d93/605b2e0145c5a.image.jpg?resize=768%2C448"
+    width: 768
+    height: 448
     isCached: true
 
-secured: "ZHej0ZLuK+pW5NaD0Fe6lhOcO/a9bHoTiPit+OVktzg0vwafaNnViqymDTTKa7nJsmqi8+ysPNuqDmD3a9K+V3lHq/lbyrS70IE3JOLPxieRBmuIz0RBZa0kwBw9iyZEIgz4Q3ZkgMSLmTKmQPuzvtNv1mtjK9Xt7sd19/zZD+tPgWrZrYpkHzW9JMyhQxfRXlo3amED7jJcd3KU3tuU05xZzAOKBzOO6lsHMIZ8FLtOjMFuRhYKH3kJGP8+TR5eUXCMvAWJP2xU1cDeM668LifK0grobVvvpEJ02EPeKl/ImxgCJ5ZKenZoEdHLpZK2R0nrB0sDqBX8anXEdj+uRVTm/pPrBHsRERJWy91/3M8=;wskMyNoxfA37NNVA/e4pyA=="
+secured: "+5oHyfc3DCkmbm+jc/6PwQ0KSqTevDRQUoune6363AfwE+nHLEtm9+48awW894tILHOYQF410FCYeYT1MF+2hNhyFwmn6es+AN+nQwDgR9wv97NSjwgOTToJzFseWNbp0pmSpebuZZvJ0f2hxhasXSLl1ystxzrGni8r7vaC7t/pXMFp4V23zfKwiomvm3+49XwRUkGquPDi+QjyIuv8Y4cv3LBYGyH3iwqpCH5ENyBfYruQ8xY8lEvcyGMpWxLwR2L0ydDIdTGTfquG1dasFCVm/86jtQwSQ53VXnKqVczviXShiQL2Jz9FzS4OyL34duWGNzHhWE/hsd5jHWow7Mxal0FTL6lkQh5EllPtDGg=;HbS+PDWjoEGg/WkuRz2XEA=="
 ---
 

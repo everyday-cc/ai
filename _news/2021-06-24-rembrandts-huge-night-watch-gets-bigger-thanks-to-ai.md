@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Rembrandt's Huge 'Night Watch' Gets Bigger Thanks to AI"
-excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, Wednesday, June 23, 2021. Right above Dibbits,"
-publishedDateTime: 2021-06-24T12:16:00Z
-originalUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai"
-webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai"
-ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
+title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
+excerpt: "One of Rembrandt van Rijn's biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam's Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it."
+publishedDateTime: 2021-06-24T12:15:00Z
+originalUrl: "https://apnews.com/d9312050e505c720b8870f0ad0608609?curator=upstract.com"
+webUrl: "https://apnews.com/d9312050e505c720b8870f0ad0608609?curator=upstract.com"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/71269688b0264150b4dbc9a7fb4f0e03/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
@@ -103,6 +103,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Q3sG7QgZkD0ZKRVPrL2cj1opsdfZkf4GsH72hAhUcnNXGX8IYsNc3VXqjwYN8plYfF/+VGkulBkGcLPNjm9yv9cbvU2sshdpii7xpylxpaymF5SoX1pQgfY1oL/nGk8oGcoWJkYBynplBui5aWEOxmyHVONLG6Ok8MBEHUj0uqjI6fXu1wFSh9maV8J5pmI5n16f7h+qt4zKNnvWsVyHK5MtTNS2a++u/CFQCkkZzwN+oNz0eBWy0fxuAZgw4qi7qjsEiTQwwTqp0pTGr3Y2m+81pP89DxzmQz7yKRkSf53/q8lFUF++raOQNTCWr8kJA1YRP5b+1OwFE875tnNSJwDIwasFPFmnsyQ6Yc0JSufuoRh61OzyfxdqFVh78yLA3ybv7VDcXT7PQWiHMTCe6ZGpnmLgfAzMiqNWx3/iOshXzhoTRxzoYKvLjnP9nlPr5p3cMrrGXQyPrQbCHdrGHPzfOnQnWYG+vxCmeT0Z/htZNp8AFGi4M5aSGDnKuE6Je1MeL7Okya2bglYTPddTlg==;bgdGbuh7ywU9iYIIrLYKZg=="
+secured: "hr/rLrYrNu2Kcn/+hrhCk8EjhOgh1h7Byd7xV2t6BbKweuNz4xkGbdZkAXr18ZLq9qwxVCMRJFS8cWkGQfrWZbTUPxQY1N6sJw4SUGEKSzTJZEjHpI99zYQRWpy3mRDr83ZqC3eLWNM94ctw72jzqfKfmmn/1HwkHXVx4XN5cNowWj9sfhUI+nBzGOvNh0fNDEhXsuxueIoXBxYIHdBH42m7FAmUtTOk2qSWKJGx+mfbLFKtd8ePmMsSfnbnsP4S78RdRD+59tHsXfVdUkI+tGLTGQTGb2JorYsT3LPb3r3y9dm2zwdKjMbEeAMBEwnl55hq46ajCoqQlRJ5tHJc50qBv9Clxzqj1ZbDhyg3+dY=;zCnP7pjfOjehkMh9IIxGaQ=="
 ---
 

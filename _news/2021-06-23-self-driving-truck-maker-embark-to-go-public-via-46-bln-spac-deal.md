@@ -2,23 +2,19 @@
 category: news
 title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
 excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-publishedDateTime: 2021-06-23T10:17:00Z
-originalUrl: "https://www.reuters.com/article/embark-ma-northern-genesis/self-driving-truck-maker-embark-to-go-public-via-4-6-bln-spac-deal-idUSL3N2O52G1"
-webUrl: "https://www.reuters.com/article/embark-ma-northern-genesis/self-driving-truck-maker-embark-to-go-public-via-4-6-bln-spac-deal-idUSL3N2O52G1"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DZ18M"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DZ18M"
+publishedDateTime: 2021-06-23T11:17:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
+webUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
+ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -216,6 +212,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "5EFeq3ohO2WNUx2t1dxQbjFu3HTruSJIts2rx2uVxHuyoTcLrvQOrO44MT1yEtHSOww63I8trQe45xJiLcMnc5IOcUNblGhhZdbj5rVplKtvptUwjC08jnx8DzHpvNHcxTNwURmGKtK4Yccru9CVZu1mj+0Owx3ZrX7a8kikb0XmyMwHXAgo+5fvRcX73RqCLuSFKDPXoYbqSnb3kQILGgzAiWisaZuTzu4i8NhjafZDrOsirxKbEtw8fefZypR3Jfs5lCXwGyU/znjoFkz10aUhplNfI8NzXkWCTyBzTwpbxas9NroddSqyOm+5QTM7AUZ6r+6hsU7o/yRuBjIl1EUFrE2K6eZcyq6Bd+ZYYwU=;kCMGiK0OhhffHtYy/eP56A=="
+secured: "52X3OuBywcXotf6H8+9Zd6pWFgAfWMg+xzlmUhjqdBuwqtl7EOefYuXrsGFKFNwaAQQkdP6vKaHQXtLlQVxdcCLWIUDMr6pOx3uVMeIKJ0hARbT8/qlgM1p1SZZ+jZTkWaTXHZ+u7vGlsw7qHkERxYHBvba28iviXC2DIwAXFlCQUF0NK0wnrKrO4+39u+pBuWYuZMzfrU9hKiQAllKspTelfjkiZQPxWLUDbdj6qvaAwt0BJ3MeDo4iestPv6xJp3jHUprXlRAQK2Lt8m2BSbWSY0KLi+hCrRdFnEEXiymaaiFEnGcQ641XfU2JE0vOegGREabq4iC8yyPDWQyzqWUV+1ktKIznUFBuFzLPHQogljA2lUS9Iuq/d7u+fTgHjzJooVYGhA/Mnyae0x2Z+OQY1ED/Rs1apXIF/PpQISQkkn5vEfDvajKQ6qj8kzsX5nPzL7nmNM/QMnXK7e5x6S03oDoc2bjIU592DtyUQEI8sQfEQrF92S5Lz2JEzXa2d+5o2GhXtzv+wxAkLOGGfg==;a2kPyyEHarKA8BekjQEjuA=="
 ---
 

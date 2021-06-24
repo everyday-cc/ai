@@ -37,7 +37,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 134
+    quality: 136
   - title: "Creating An AI Text-to-Speech Using IBM Watson"
     excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
     publishedDateTime: 2021-06-22T07:30:00Z

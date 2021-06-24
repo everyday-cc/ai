@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "The world of Fintech jobs"
+    excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
+    publishedDateTime: 2021-06-24T14:38:00Z
+    webUrl: "https://jerseyeveningpost.com/news/business/2021/06/24/the-world-of-fintech-jobs/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 24
+    images:
+      - url: "https://jerseyeveningpost.com/resizer/YRq00TcjgC4kfKOWW48YdVQ8ntU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/42EDBNDLZJHO5IFFSAFCMFETVM.jpg"
+        width: 1200
+        height: 1380
+        isCached: true
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
     publishedDateTime: 2021-06-23T17:13:00Z
@@ -184,6 +198,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "nhb2IcAf/tC6/tcORbN/nT+HpaJfd6Bnuw7nsBq9rfLifaPvbzs5YIBVhQNF2+r7F86oNmJvCHu4oanvYhqOoDF0tzu7pC/vVU+Fh9ScL3xLAwLeovzrpL0QVhOEnzCPafkYj6OpD15eHyGm7HWgsCjDdgBRXHDCgwTx0DMWBMBaYZMcCSmoyqEaLi6rf71+XRH1APgk9jsHnT1gvoH0keXuBnJ9QXA8jjTIk0SaJIeSfOnWYxU+j7JQGW7PSy3YOHp+IeAX8YBGT31Ki8kBgO+RhImIsEXuhP5zufsjE1lKGiVrFlVUjIzjyCOxJdob5r1yVUh/lmZZ5hJYULwF6nT5bpUzCPLVDRyq94ZHv0k=;QAKdzu0Z+NIzTQtqfnlKdQ=="
+secured: "80X6mB3ikyh+jjDmgye9+3qZaSArmevfvyMi2S0X5JXOfIDHBjmS69gdoNPs47XVSnCc7phn6yXM2OckTq1dG4WAXnC7mtiMA/78+/BGcheTBtGhjzvfKuT66hbPtrrnT+okc4+J4FkWZ0mlYMwLdaP39YJCpBwrwonnOKURJHtCkOj73UamA/N2Dwy8zxj7/2wDUVlWa/ihVhm+vJWjo18YVEh41lX1aFsW6AXHnBPKrM8lg5zloLMS+VFwkyI+OOxkVqjqLDxzcMAslMlLNdDxAFMsjt332i7RvFmMUYcrTHXQgLgvnBiLW3tK2AjDgzITR2KlpfI62Kf9/iOy+gFKhJ8HHw8xyktj18U74N9gRQWR2lVziylf/uctZXqzAorI7iGKTmvNiX6SsU/oZIh7gi70as42g0+CJpqi/SFFYswclbkVnaTKWrDAqQR8d1MM8fi51jGbVjgPc951Zr7KbqljX3BD1UGzy3ojWnQeHbjvRiEHBAN+dsIPgKr0SnbahTbwAcFs97PZjDA2rg==;MwW3dPtNDYFWsJCF3cM1EA=="
 ---
 

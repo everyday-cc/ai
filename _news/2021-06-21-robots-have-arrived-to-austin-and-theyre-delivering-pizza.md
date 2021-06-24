@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kut.org/transportation/2021-06-21/the-robots-have-arrive
 cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-06-21/the-robots-have-arrived-in-austin-and-theyre-delivering-pizzas?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KUT
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.hpm.io/wp-content/uploads/2021/06/24071823/download-7.jpg"
         width: 880
         height: 587
+        isCached: true
+  - title: "Robots Have Arrived In Austin, And They’re Delivering Pizza"
+    excerpt: "In a narrow glimpse of the increasingly automated future awaiting humanity, 10 silver robots shaped like ice-cream carts are delivering Southside Flying Pizza to hungry Austinites in Travis Heights and the Central Business District."
+    publishedDateTime: 2021-06-24T14:09:00Z
+    webUrl: "https://www.texasstandard.org/stories/robots-have-arrived-in-austin-and-theyre-delivering-pizza/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
+    quality: 39
+    images:
+      - url: "https://www.texasstandard.org/wp-content/uploads/2021/06/austin_bikes_robots-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "V3Ue2U/I6b3wEQYLih3j4bRJjnd5WyuUyBZyXmBZsI5DgrsZ7/i4VOrWG5qCO6YtodL/wlXPxT9CPxYYR4AODVhSzAxdq9F94m5WgHlK+GERe601jDF6YcjmdQrCBu+kfeH2uBk3vfYU187EWo/prUWscjPZDAhVaLG997uqCC4g2Wk+E+IFvT5eCdwN2pq4+E6ZIl7vSbwVZtnA6r8TwS34ngU+9rxUvOAYFmylwqPO83TWCcmTEfFvv8hVZUSI0rYnPEaQA++sDTevG8VozKIw0mqoRxDf+L0obEYOXtFHXKWa1u13/e4IVmqwXiSXaKvVJ61CxDFzuR+tG1zSWiIAkAxlmXyPBVyWD+NCOi8mRh+Jxh1rrxd43AHQ4mFoAQsWxyqIM9xBmYRZvgKcaRYv1URBKAMT/0c21rau5iC9f3hevCMijRrjZ3cHUoNlMh7Zuy9WmVeJYS5MjUdGji6Li4FWi0ChoA5g0HZp9HnN0jKW7UkX6aqp4gDwcHqu4pCc654SgKa9F98atnjS5Q==;5HPrIVOM57dq07TOb5SULg=="

@@ -43,14 +43,14 @@ related:
         height: 292
         isCached: true
   - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
-    excerpt: "New funding will accelerate the development and commercialization of easy-to-use AI for industrial quality inspections Today, Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing."
-    publishedDateTime: 2021-06-24T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210624005088/neurala-raises-12-million-to-scale-artificial-intelligence-for-industrial-manufacturing"
+    excerpt: "Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing. The round, led by Zebra Ventures and Pelion Venture Partners,"
+    publishedDateTime: 2021-06-24T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neurala-raises-12-million-scale-artificial-intelligence-industrial-/2021/06/24/9397228.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 23
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "0hOwiVJWh77m8hAQF3DOV9RsnZWNIU2VeOhpqcRa5s53a91cqeLPJVRGZLIzdtN/7PMGkolVHKqwpxmBKRlzwvVp+zu6ZTZRgjE9dCMfs7hf2Vgf/kozM3ennN98nho7IJnDEfdCawUDy5NPS4TaVOyKMT6MH9WcLlXxziv4lCZdBdeTR1P2zi1ShPD0aH2ELoru5v2DWro1bb6iSgPa100XTfQ7GE+P6B+DvepSRuiQWu6oxidn/sN2DQuj4IkPto9N7a0FmH/yt+9dPpy97Y6/bBqkopdda1n3G9DbtM1AslFxFfr9mzb10tEs28XJGGUJtfdRmSsyvP8iNrC+91j93cjaLWh0ZyXoG0iBJtDxQIIdwakRcGlkUudF2D6iUDL3neWkLoP0ETFLGvYNhpNQsQE6agPKkmwzhXxuaY8Yqhp3/jaE2qsbUwNMnxNuZCgynQQXz8BtSLExHFnZchpKH9Sc3iMzrZj0JdubfqKeBKeAXEcAMGwbWLBYwnnpnvhpTLb8mAKtYEHRVots/Q==;kseUs3vxez4fVwZRCI+mUg=="
 ---

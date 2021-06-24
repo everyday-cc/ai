@@ -43,7 +43,21 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Robots Have Arrived In Austin, And They’re Delivering Pizza"
+    excerpt: "In a narrow glimpse of the increasingly automated future awaiting humanity, 10 silver robots shaped like ice-cream carts are delivering Southside Flying Pizza to hungry Austinites in Travis Heights and the Central Business District."
+    publishedDateTime: 2021-06-24T14:09:00Z
+    webUrl: "https://www.texasstandard.org/stories/robots-have-arrived-in-austin-and-theyre-delivering-pizza/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
+    quality: 39
+    images:
+      - url: "https://www.texasstandard.org/wp-content/uploads/2021/06/austin_bikes_robots-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "lKfWPbBLbhpXXwAin4OYOs1MVUad2+xCOODWeKKmKVmvc9BBmU69GwmrYACuV5WIzZAci8i5DDBiMVI/LuptsEO/S/W9gZ4luxIR3QJnWY4fsxyOXOUaREixnwcpoXXzMw6+kmeXlNrF+lkB6m9SK6uD3WakVPGKjPr3basZ/SihNpzMtX6Xg9aL3GSjB/WRNOfGH9I9wJCt8j5RLA42bUM/J+6wHY+RRPmmPVR/j9byhrjea29t33MD7aWat6hC0Kn6PAB76t+bhrEZyy+Yev3+458tUC1nkKk498XXJ93Km4H3THpbsgrvaRCkgq2bC9UOUa89oVls3nymNb4Z0Xw0bUZdRsXyJMenNbpNojA=;0zt3Haat89Vi5wvC5vh3iw=="
+secured: "/NNWwYWHcln8xPOpXkWTZ8UxXgrRXWYSzps4jGgiTZvu8nOPxQufk62Wd1zYGWsVraJpILCiP8OkWDf4Vc7Ck1LSuzaW3Fh2zJ9bNCLRlIOfkcpBhM5xRyrMgcNzeYqx208O/FvbjgZPMvJb3Jy8w8YWfC/ZiPCt2k2X/ExjdWWqecGRk5uzZ8rfcAmeH0cfryrbtf1bbvfsreoObwf9xPEvZoiejgKGXQWA3/siBMaInvs85e+mb4s51x6dbZTOTW5hvWLqjI6ZnDb8TDku71V0XifNSZG+Yp/sEzVxD37KpWhdW0iztGUP7e/cuSGCQxdhnpgdJMwnwIeHVx3VeyRSMjyBF/x7M/36vjDsFxxX8e7dNY0vmkXVi/HKSNhppjThZJ3Q4qZi61qXAgzeFgD5eyE40EswLHkqrRK5euwFCiAJW2ougrfYufVX2iTf742kaOsvskRI/x2v3DXSA/qS1Z40kpCuFvvV2GPt551jQnJL5hoB3AaLotj+BXnwPmCZuBe5h5bHpBuU/s0m8w==;fWvNiyKmvp1Pc5fm2trfMw=="
 ---
 

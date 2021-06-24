@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Salesforce launch integration partnership"
-    excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce's SaaS -based services into solutions running on the AWS cloud."
-    publishedDateTime: 2021-06-23T18:12:00Z
-    webUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership"
-    ampWebUrl: "https://www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-operations/sales-crm/359976/aws-and-salesforce-launch-integration-partnership?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623347449/itpro/shutterstock_AWS_sign.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Amazon AWS Strengthens Ties with Salesforce"
     excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
     publishedDateTime: 2021-06-24T11:40:00Z
@@ -73,20 +57,6 @@ related:
         width: 770
         height: 434
         isCached: true
-  - title: "Seeq & AWS Announce Launch of SaaS Migration Program"
-    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, today announces the launch of a new program, the Seeq SaaS Workshop. In collaboration with Amazon Web Services (AWS),"
-    publishedDateTime: 2021-06-22T16:54:00Z
-    webUrl: "https://www.automation.com/en-us/products/june-2021/seeq-aws-announce-launch-saas-migration-program"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
-    images:
-      - url: "https://www.automation.com/getmedia/47dad696-9c32-48ee-8c10-66ea38da153e/Seeq-prod-June-22-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Salesforce Expands Partnership with AWS"
     excerpt: "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms."
     publishedDateTime: 2021-06-23T04:00:00Z
@@ -101,50 +71,31 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Seeq & AWS Announce Launch of SaaS Migration Program"
-    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, today announces the launch of a new program, the Seeq SaaS Workshop. In collaboration with Amazon Web Services (AWS),"
-    publishedDateTime: 2021-06-23T13:42:00Z
-    webUrl: "https://www.dcvelocity.com/articles/51457-seeq-aws-announce-launch-of-saas-migration-program"
+  - title: "AWS and Salesforce launch integration partnership"
+    excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce’s SaaS-based services into solutions running on the AWS cloud."
+    publishedDateTime: 2021-06-24T13:57:00Z
+    webUrl: "https://www.techcentral.ie/aws-and-salesforce-launch-integration-partnership/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
+      name: Mozilla
+      domain: techcentral.ie
     quality: 39
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/4b8f78dc-693f-4cb4-9783-c1f66e0518c1.png?height=635&t=1624469560&width=1200"
-        width: 600
-        height: 338
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/05/AWS_Dennis.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "AWS, Salesforce partnership to unify developer experiences"
-    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities"
-    publishedDateTime: 2021-06-24T09:19:00Z
-    webUrl: "https://www.canindia.com/aws-salesforce-partnership-to-unify-developer-experiences/"
+  - title: "Salesforce declares AWS partnership to enable intelligent applications"
+    excerpt: "Salesforce and Amazon Web Services have declared a ‘strategic partnership’ that is claimed to enable the easier creation of artificial intelligence-infused applications."
+    publishedDateTime: 2021-06-24T14:58:00Z
+    webUrl: "https://www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications"
+    ampWebUrl: "https://www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications?amp=1"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 39
-    images:
-      - url: "https://www.canindia.com/epaper/CIFRONT-HOLDER.png"
-        width: 252
-        height: 388
-        isCached: true
-  - title: "Pimcore and Summa Linguae Announce Partnership for Localization and Language Solutions"
-    excerpt: "Pimcore today announced a new partnership with Summa Linguae Technologies This partnership will provide Pimcore customers a robust automated localization solution that accelerates time to market Through this partnership Pimcore can seamlessly integrate a traceable"
-    publishedDateTime: 2021-06-23T14:25:00Z
-    webUrl: "https://www.openpr.com/news/2312074/pimcore-and-summa-linguae-announce-partnership"
-    ampWebUrl: "https://www.openpr.com/amp/2312074/pimcore-and-summa-linguae-announce-partnership"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312074/pimcore-and-summa-linguae-announce-partnership"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
-    images:
-      - url: "https://cdn.openpr.com/U/6/U623536127_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AWS and Salesforce are integrating their clouds to simplify application projects"
     excerpt: "One is to make it easier for enterprise developers to build applications that use both AWS and Salesforce services under the hood. Another objective is to enhance Salesforce’s Industry Cloud product portfolio,"
     publishedDateTime: 2021-06-23T17:15:00Z
@@ -159,6 +110,15 @@ related:
         width: 770
         height: 432
         isCached: true
+  - title: "AWS, Salesforce partnership to unify developer experiences"
+    excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
+    publishedDateTime: 2021-06-24T15:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210624/3776749.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
     excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
     publishedDateTime: 2021-06-23T12:06:00Z

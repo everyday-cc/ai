@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-23T21:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
 webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
 type: article
-quality: 134
-heat: 204
+quality: 136
+heat: 206
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - AI Ethics
 
 related:
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
@@ -113,6 +114,6 @@ related:
       domain: morningstar.com
     quality: 36
 
-secured: "N7DGG+lLwr7r/UEOhn4RSarMWYx4oZaG0GW5KGtUywxXIpNV8TFOfcEDIQu/P2jbDf86YJekZXkL6bWrbLo38+SFbo2rVigHZgI4uOL8410kgU2cBLD4Ber86flI89uX17w9RYYP5tv+MWFoypTNmNJiQyHgqEH2zvzEng6bpTo0Z7nvGwClk0kKe59GUIBp6NH9k2+BoRKJdisrRd7JYcgHrg2MdBuAR6EvMFvHVh8eAk2+UnTe3g0olyI0JTjK78MTluLzERDlJSHo7Tk+XqqarwvdqH0fwnJ2k2c9U9JABGfGOiTR/4ucCnXo+2a7WZnBS3AT0xtMYWXe+tVVaiu9/sMV/402kWcXtxc1wi4=;tXWDe2bW16n5/17qpIIujA=="
+secured: "d43Kd0rSIINSkQKTmkgxABPcui/DOywSjYN52iMWmIe0e2wh+M8BDknvUYJeg9r8KusK6TzxX+nXh4va5NkZ022S99Hc+5HeRda+fqAmCbAYvpE6Zuk9whsUpoVxc2eLPxMGVjX5htI8HpPdmL7kbhEaxy+/0lIo9JSQNAbTmYPk8atJskYGT5JH1QCs+W5onKU9EJtg0EgjA5OYvTBmRHq9Pkm3gMFFqNDRsM5z6d+neGBvoNuNFmmwgURH9S3xVgEjfGGkyTAinl1IssclTp7aCXEVVMQ1Zerzgd5xOPUtcEnEEANo7HZYGNdMS3O2gcxM/QAnbd4cgEoBWa9IDv+nnHqQPktLwjC2o61N8Nc1LB8FXQksMl1oAgXmCxVg;5nEfNYBwFPWC9Pv8M8RB+g=="
 ---
 

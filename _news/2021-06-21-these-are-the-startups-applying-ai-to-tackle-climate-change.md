@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-start
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/03_product.png?w=1024"
         width: 1024
         height: 625
+        isCached: true
+  - title: "The Challenge of Finding Top AI Leaders"
+    excerpt: "North American cities are increasingly important hubs for artificial intelligence (AI) research. The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing,"
+    publishedDateTime: 2021-06-24T13:37:00Z
+    webUrl: "https://huntscanlon.com/the-challenge-of-finding-top-ai-leaders/"
+    type: article
+    provider:
+      name: Hunt Scanlon Media
+      domain: huntscanlon.com
+    quality: 39
+    images:
+      - url: "https://huntscanlon.com/wp-content/uploads/2021/06/story1-12-e1624541818926.jpg"
+        width: 438
+        height: 274
         isCached: true
   - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
     excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."

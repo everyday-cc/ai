@@ -156,6 +156,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "The world of Fintech jobs"
+    excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
+    publishedDateTime: 2021-06-24T14:38:00Z
+    webUrl: "https://jerseyeveningpost.com/news/business/2021/06/24/the-world-of-fintech-jobs/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 24
+    images:
+      - url: "https://jerseyeveningpost.com/resizer/YRq00TcjgC4kfKOWW48YdVQ8ntU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/42EDBNDLZJHO5IFFSAFCMFETVM.jpg"
+        width: 1200
+        height: 1380
+        isCached: true
   - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
     excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
     publishedDateTime: 2021-06-22T14:21:00Z
@@ -184,6 +198,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "eEtyKZy6nWwBy00yJruCo1l0+9K82Ui72m1ctVgzJGni5sCbXOoP8EE59TpiMdYyN3v0HFclYweUJH3zqURX/tGd2nnONeSam0z50TpXBNkqpLPXR0VPhDCRbxp0tLQQAmKwL1FUCHTKSo1iQDH3iR3vxVcbneDuZIEwO16LGAR0e+PcA4EfPk3GfWNFtjuDMPr9kq1dBgFXVRB1ilfKqjD5ES5c72szkVR1auDnukhcbA8yjXfJlPh0Rw79g0ogt1AqZJjjXFzhcL790sRtiH4a3Y2e4hjqpKsvcWTbRzvjAWu2N/sv5JJIjowXR0aiPGEBZE3VqFi+qTZSkXByG+l66b2w4SjZzQ2qs9PABtY=;MAK7+A/2ooVH0crjV/smcg=="
+secured: "wIkpBVuFKKKz/3bAuMwrAPhtLWDl66R8zvWxvr6jn9aKPZdH7ajgqb4ZBqLBnE008oSnirldKk6AyTYq0ElDftN8SEaWQkeXLTfrIGAD/AQnpgrtuZXegxUmcKm2T9Uo/9HMJsC2iWmVNn+z6FDGxlJNe6wn34iVOnXnKG1az8q9QHjzArkg5S6GlWzCr8LZwq0FqR5eoIRlNAE3C/eK24zjXb5RebdeLwG3Xb/NTGWs23gH0DC4tHX4Ds1CcYZ2u/b9Vkf/UD/Mig9jzri2YbIwjiiUZMj0yARUPHKiFV/j5nGQBqfP8zkrJpmmXV5HNJTH1SZrdDkCSHxj7czC+eWGXFrw8rR6IoxMEFzwBhY=;R4oDyvlS9e0wjusTD+/epg=="
 ---
 

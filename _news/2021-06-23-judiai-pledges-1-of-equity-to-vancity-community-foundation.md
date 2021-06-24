@@ -35,6 +35,20 @@ related:
         width: 2448
         height: 1633
         isCached: true
+  - title: "JUDI.AI pledges 1% of equity to Vancity Community Foundation"
+    excerpt: "JUDI.AI, a fintech leader in small business lending and growth analytics, is immensely proud to announce they have pledged 1% of their equity to Vancity Community Foundation. This donation will be made through The Upside Foundation of Canada upon a successful liquidity event."
+    publishedDateTime: 2021-06-24T13:52:00Z
+    webUrl: "https://www.cuinsight.com/press-release/judi-ai-pledges-1-of-equity-to-vancity-community-foundation"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "Artificial intelligence at the service of hospitality management, a joint Certificate launched by Les Roches and aivancity Paris-Cachan"
     excerpt: "CRANS-MONTANA, Switzerland and PARIS, June 22, 2021 /PRNewswire-PRWeb/ -- The hospitality sector is an extremely propitious terrain for the use of AI as it generates large"
     publishedDateTime: 2021-06-22T08:00:00Z

@@ -75,6 +75,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Artificial Intelligence in BFSI Market to See Booming Growth with Avaamo, Google, Microsoft"
+    excerpt: "AI in banking refers to the development of operating banking operations by highly automatic techniques. Banking industries particularly applying artificial intelligence to offer personalized banking,"
+    publishedDateTime: 2021-06-24T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-to-see-booming-growth-with-avaamo-google-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/3a7ac440a23bb569779cd2de162d8de81db17bd8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "QconPXjn8CYdgifBl+/CFLmnEm64XXY5Eq3lS8X497jYEab1/RNQWp+zPynv3btrbcG0wc8g+4IHpCo+U18qTJhSEuDSD526lwbvnQIoyb3Rb99Zvpmifop+2Ewn6w/bbsjDH98wtndf/jaEdrPqmRsRoWfr5Ki1hL6z2sc9rkxAjtAFRaOdta10seT/yarbryLMcx7KiTU0t18QadUCR/V5ZX/sbqVPWIyoSMzNY0ZntMHSBvK7kdADn+GigGqzNfPlLsshx2eMvcmUaFmBTCaXnP91l7bga2FfNE8CgVXk87ifPtGFEb0AMfvaaE+JpUEkyRsli538aVdg+TZ0xxeVeR23mh6FJqevHvnnMu8=;hBYJ6USdXzgDyKXj35apIw=="
 ---

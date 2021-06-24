@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210623/AI-system-can-rapidly
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210623/AI-system-can-rapidly-identify-healthy-productive-skin-stem-cells.aspx"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI spots healthy stem cells quickly and accurately"
+    excerpt: "Researchers have designed a deep learning-based system that accurately identifies individual skin stem cells grown under artificial conditions and tracks their motion. Using this system to perform quality control of stem cell cultures could improve the speed and efficiency of growing skin grafts for use in regenerative medicine and may also be useful for other types of stem cell cultures."
+    publishedDateTime: 2021-06-23T19:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210623113849.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI spots healthy stem cells quickly and accurately"
     excerpt: "Stem cell therapy is at the cutting edge of regenerative medicine, but until now researchers and clinicians have had to painstakingly evaluate stem cell quality by looking at each cell individually under a microscope."
     publishedDateTime: 2021-06-23T15:25:00Z

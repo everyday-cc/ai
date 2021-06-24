@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/epredia-and-aifori
 webUrl: "https://markets.businessinsider.com/news/stocks/epredia-and-aiforia-announce-partnership-for-global-distribution-of-ai-powered-pathology-software-1030538963"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,22 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "The promise and perils of Artificial Intelligence partnerships"
-    excerpt: "Artificial Intelligence (AI) has emerged as one technology of particular importance because of its role as an accelerator, its versatility"
-    publishedDateTime: 2021-06-23T08:45:00Z
-    webUrl: "https://www.orfonline.org/research/the-promise-and-perils-of-artificial-intelligence-partnerships/"
-    ampWebUrl: "https://www.orfonline.org/research/the-promise-and-perils-of-artificial-intelligence-partnerships/"
-    cdnAmpWebUrl: "https://www-orfonline-org.cdn.ampproject.org/c/s/www.orfonline.org/research/the-promise-and-perils-of-artificial-intelligence-partnerships/"
+  - title: "NXTsoft and Upstart Partner to Streamline Delivery of AI-Based Lending Platform to Banks and Credit Unions"
+    excerpt: "NXTsoft (nxtsoft.com), the market leader in secure, comprehensive and complete API connectivity, and Upstart (NASDAQ: UPST), a leading AI lending platform provider, today announced a partnership that will enable Upstart to more efficiently implement its all-digital AI lending platform to any U."
+    publishedDateTime: 2021-06-23T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nxtsoft-upstart-partner-streamline-delivery-ai-based-lending-/2021/06/23/9396222.htm"
     type: article
     provider:
-      name: Observer Research Foundation
-      domain: orfonline.org
-    quality: 57
-    images:
-      - url: "https://www.orfonline.org/wp-content/uploads/2021/06/Artificial-Intelligence.jpg"
-        width: 660
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "0/vZsarua+p0z4NX+jRULwo9hCOQaqlfoH4DcUKI8FYPb56p8713ZQ1YKnKqaqOvDQIBY2D0TXrIBsOJ6z3apv3VL5AwVrdY4d/Y3IWySmtIHORNo6bqgVkXwR7uxjnOgYwK/8P/2UJmkTdsXdEhCHESj7T8gJcz9R5pxPDuAqXC7NHNOm7mi0Tbif6TuUDVgWw/LD/mrGw4wcqRudomv1u0TvhcuC9/fdeHe5P90RJp/rwZaI8A/9ekhODwTkM2SrNCgw0o4VN9V7uqn7Hc7PJaE/t9yAixKr7h+ZiOYPxYgbcIJdbPZkRQ5eO2CunwBfwQUSSBfEb23mIVbEyax3wH8fi9AgBNzbcgrPRf56g=;wNEbCf86VBO18o7PA/RMqg=="
 ---

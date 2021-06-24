@@ -42,17 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Rembrandt's Huge 'Night Watch' Gets Bigger Thanks to AI"
-    excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, Wednesday, June 23, 2021. Right above Dibbits,"
-    publishedDateTime: 2021-06-24T12:16:00Z
-    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai"
-    ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2021-06-23/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
   - title: "AI helps return Rembrandt’s The Night Watch to original size"
     excerpt: "Rijksmuseum reproduces the work in all its glory, 300 years after it was cut to fit between doors"
     publishedDateTime: 2021-06-23T22:05:00Z
@@ -68,6 +57,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/6c8bb35b8506b436b0b1889355d25d76e43ac7ae/108_203_3299_1978/master/3299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02320d3c2fed82f460a8089b4aeb031f"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
+    excerpt: "One of Rembrandt van Rijn's biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam's Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it."
+    publishedDateTime: 2021-06-24T12:15:00Z
+    webUrl: "https://apnews.com/d9312050e505c720b8870f0ad0608609?curator=upstract.com"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/71269688b0264150b4dbc9a7fb4f0e03/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Artificial intelligence recreates Rembrandt's Night Watch that has stripped off parts, in Amsterdam’s Rijksmuseum"
     excerpt: "The strips' addition restores to the work the off-centre focal point that that rebellious Golden Age master Rembrandt originally intended."

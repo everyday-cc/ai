@@ -46,6 +46,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "JUDI.AI pledges 1% of equity to Vancity Community Foundation"
+    excerpt: "JUDI.AI, a fintech leader in small business lending and growth analytics, is immensely proud to announce they have pledged 1% of their equity to Vancity Community Foundation. This donation will be made through The Upside Foundation of Canada upon a successful liquidity event."
+    publishedDateTime: 2021-06-24T13:52:00Z
+    webUrl: "https://www.cuinsight.com/press-release/judi-ai-pledges-1-of-equity-to-vancity-community-foundation"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
 
 secured: "c1MSRx9eV4N8Jamjt0cKpL3zppIC3DvRm/7GXl+i9O8Dnekt79r90zDWF9zCorQSgwibGHgBgR+KPAohD6DnrsXJojLeNcMNPa1uRfwLKmu9RL/C1GonD1KP7yzm87K9/ghYf3gyM4DNTrTO1BFniAaiGUxEh3qGsrSBbVFrleUx2/suU3xbdscW21n081REUJuxhUhfRYkmjqxAW9QIeZstmO6d868cb8MuHWYmEHsHU8c2K11wDyLTjWwMW9o4anQybFTcRBKT6Gd8eci0/nVH4DJYuztwBLkhYK//iO5GeixHXFCvhC+ruZH5KCx3IE+a5lxMdTGf7aCgotzi/jHaXR9Dc3k4El1gqwdIwmY=;GWZNGKOnBrVkEAwI/Gv4kA=="
 ---

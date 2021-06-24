@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Market for Emotion Recognition Projected to Grow as Some Question Science"
+    excerpt: "Emotion recognition software is growing in use and is being questioned for its scientific foundation at the same time."
+    publishedDateTime: 2021-06-24T15:12:00Z
+    webUrl: "https://www.aitrends.com/emotion-recognition/market-for-emotion-recognition-projected-to-grow-as-some-question-science/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 23
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-25EmotionRecognition-2.jpeg"
+        width: 550
+        height: 237
+        isCached: true
+
 secured: "yac8BkrobWYGKb5VCnGFymUa6HZ1wkyiFU/LTx/dopudbFax8uIU5Ka6gbXjKuhy4NbaXWt7Fbihq6eG8IAJg8QsVUHsRrrNAzzkpeG+XR0IkFUeLKwhql1sjuqYp83f9WmHnmWKkkBcMYw6cCVVm1BAcPAnGHx8zcIxU2LVAYBRg9REEcwpazqHuMM47Pdu6SIY4oMySkqA4Rc1CDgHhvXN0igN5iiuZ7Q0CqVA3oyFtakMfl2c6+u/3mlRRv/3yXQl4GINr8Wj1LmkZApO8Sid8DkqpHyIcFzi/cfMuo/tW+Rgpq0KCKrGsA/O/qhggHCu7dDVRvVc3LrOre2YkUWv2+AJ/RThoZsANInvCQE=;MMcVYgt9iP5xI1GYOXG4SA=="
 ---
 

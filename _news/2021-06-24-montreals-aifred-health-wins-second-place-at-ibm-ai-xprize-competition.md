@@ -34,7 +34,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 134
+    quality: 136
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
     excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
     publishedDateTime: 2021-06-24T11:13:00Z

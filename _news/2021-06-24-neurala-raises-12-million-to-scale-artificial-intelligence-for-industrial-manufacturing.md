@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
-excerpt: "New funding will accelerate the development and commercialization of easy-to-use AI for industrial quality inspections Today, Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing."
-publishedDateTime: 2021-06-24T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210624005088/neurala-raises-12-million-to-scale-artificial-intelligence-for-industrial-manufacturing"
-webUrl: "https://www.morningstar.com/news/business-wire/20210624005088/neurala-raises-12-million-to-scale-artificial-intelligence-for-industrial-manufacturing"
+excerpt: "Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing. The round, led by Zebra Ventures and Pelion Venture Partners,"
+publishedDateTime: 2021-06-24T13:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-neurala-raises-12-million-scale-artificial-intelligence-industrial-/2021/06/24/9397228.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-neurala-raises-12-million-scale-artificial-intelligence-industrial-/2021/06/24/9397228.htm"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - Machine Learning
   - AI
 
 related:
@@ -51,6 +52,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QJniDrjFPhKJ3JvfSjYS2yRQ0A3Pj4xDD8WJKkgzS6srY8nGXJQUvcsE7FZw1MFoMZ84tjP41aTxm4/IKIev+C3urX/3ax1HjdtIw+biOY+2mu6AyiV9wixFM38IeeGGIlzbhYWs3Q1gU6Y19BaIlMzuW7sQxjxbUfuT5E9IH7nQT377b/e2q3Q1aUdzFTT+Ryt3P/GQEtGxJcQQmcKZ0RWzhyZbC+0JXc3OAYcvYzNut9GNRuEr3imQ05to9Of2q3VxkWPgyuR/3QjXEJIggHkkygNFiO8Y7GN9Pue3zjfz+e7qJW8VEwMicaEFANTtTdcNujWQLwbCUoI826DICfEPZNRTZ8a2sMd/1Wt9+k4=;58AT4+iF0KvYOxJDw7dWag=="
+secured: "dFL/B3MZGfF114KRzG8HG0oRhNRDJBCjd/Qted3PsLpNxrBafQWDxJH4GMPUl0PoBAlecOr9FlgRu17d68Fpfi6Ee3DeMWSlX0htn4qVSr2z3kWUS/qVQkljInOxfd1gWFe+Ar3TDKG6HDPoLl1S87zAJUW1oXJJwMiXaMQUdoLhiryvm5NlZxZ4AzcxpTzQKKubzew4dPQoImF0Sw6Y2rDpDRJd1Lmp1eoSPNlxhNR2354DTT4beHdMvlZNJvvp4LACC9lpPjszmbhkgmoEwprBsx0bERoIf0JW/sv6p0ajukMPpN+A3oVd+cIY1MLKS8lM53wLktxB+vQYA0lmIxOzqVbbedCzpvzuLqzB1DI=;AF3aLfiHBG8gi5W8w24Lkw=="
 ---
 

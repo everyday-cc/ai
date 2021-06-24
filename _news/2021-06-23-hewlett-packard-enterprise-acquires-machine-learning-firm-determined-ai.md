@@ -35,22 +35,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "HPE acquires Determined AI to bolster its high-performance compute business"
-    excerpt: "Hewlett Packard Enterprise (HPE) has acquired startup Determined AI to support the growth of its high-performance compute (HPC) segment."
-    publishedDateTime: 2021-06-21T15:05:00Z
-    webUrl: "https://venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/"
-    ampWebUrl: "https://venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/hpe-HQ-featured.jpg?w=1200&strip=all"
-        width: 1200
-        height: 604
-        isCached: true
   - title: "HPE buys Determined AI, aims to meld model training with its HPC portfolio"
     excerpt: "According to HPE, Determined AI will help it give businesses the ability to create models faster and deliver business value without worrying about infrastructure underneath."
     publishedDateTime: 2021-06-21T07:13:00Z

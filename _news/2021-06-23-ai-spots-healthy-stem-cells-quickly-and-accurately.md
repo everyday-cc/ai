@@ -40,6 +40,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI spots healthy stem cells quickly and accurately"
+    excerpt: "Researchers have designed a deep learning-based system that accurately identifies individual skin stem cells grown under artificial conditions and tracks their motion. Using this system to perform quality control of stem cell cultures could improve the speed and efficiency of growing skin grafts for use in regenerative medicine and may also be useful for other types of stem cell cultures."
+    publishedDateTime: 2021-06-23T19:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210623113849.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "r8zGiqRuOe7GhFDX737IHomqnK3mzl5Zn1X53p6EaYMl2NrWHcCetTF/lJrZjqqChq3VCYIjXRIXhrMlgbZUZVw4N6IOOWoI4tijEmHS6bfwvjZpKmJ/gSGxXxrNKejSLkO8mnZDS+wKryKQuJEvDVlI/bWGwua0Z5oi3DOk25EvqvMkcW34AMpn4LnwWSyNqLIQdweE4OkFhstxu93/bBv/AVmlcrNZT9W+TdRt2bVptjR6qbNevMH5bvW52U37k61TuuCdSZwzW64enS6xqyzqdFCQ60wFNv4hp7K85eJEE7J+cfXuJvYoWVV+oRHth5WTBOjRR+5V+46HZcdEFZ/70+/Wm4Tstgf3f3D0AJ2cHs2hLfRqeCBal86+pmK4yPyc4Jodld7EqYq/bhGbnb9Vy4vkbjEhJXjqqQpbMU+CeKuzRi7YKpwczjOdWe8dwuhp0YIh7Jn6xVCaJEyUlB+9db8iSWz8iUEYyEi85dBws1WQ3kyHlI9YerksI7qCjZ/1IwdhovHAHumD1MoU0A==;mk3nBVYDsdQuSubw503aEg=="
 ---

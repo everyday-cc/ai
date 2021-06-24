@@ -23,6 +23,22 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "Spectral MD Holdings - Contract Award from US Department of Defense"
+    excerpt: "C Spectral MD Holdings, Ltd. 24 June 2021. Contract Award from US Department of Defense. LONDON, U.K. AND DALLAS, TX, U.S. Spectral"
+    publishedDateTime: 2021-06-24T15:43:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/LON:SMD/Spectral-MD-Holdings-Ltd/rns/994290"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 24
+    images:
+      - url: "https://www.proactiveinvestors.co.uk/assets/img/fb_pai.png?4362984378"
+        width: 600
+        height: 315
+        isCached: true
+
 secured: "mJurPhopco1sIe8rrPRg2aZoRTkPEJMrdT9+InD4G1bXggw7jChGmpxKM2itQeUdJrFbzi8AzRdExlq8BPz6wtjDZOlFfrZ9ju3LvmaYDOis38gAXODzpSXae1cPvoDHvfD1QogchPVwUwuQbV2uxjrtTzS07lJC+rQigBCxmYs8glxecQ/0iSjuQavHG+Joj/3OAZZI/tnZFF4ToA8cFFNpGamBuxKFQtlDrVpqEAOtCJpfrzuvGZNI7rnTv8jWssGh/NpUJwAdbsXuAwwgYmofvTrJni8hMzQsHKioFHuHgHSIqOa/mgjQeyf+A+IRZvAXhNmnVHgz5TRtAomojGHOkfcIXUAOtwmnCMjOhhdBlX32C9Bu+B9V474Cn3NucVwCqVUyF9QBBiwP3cdeOHMyE8cxotWQ/brVbZ7GBQr4tSgKDfVFBUbiB14P3A8VkFFMH+c7WrMVNlVx35BgyzOUpi/z0zVScBW1SS/ztMZxw333K9U9Jc9QTPCYxjLJYoVVCMSj7PZ8x2AehX1rWQ==;Ub9iqG4Bo0h7YpacstXAqA=="
 ---
 
