@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advoc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://c6w8h3d4.rocketcdn.me/wp-content/uploads/sites/2/2021/06/voice-assistant.jpg"
         width: 1000
         height: 520
+        isCached: true
+  - title: "The Linux Foundation Launches the Open Voice Network, Promises Privacy at the Heart of Its Standards"
+    excerpt: "An official Foundation project, the Open Voice Network aims to encourage the development and adoption of open standards."
+    publishedDateTime: 2021-06-24T01:20:00Z
+    webUrl: "https://www.hackster.io/news/the-linux-foundation-launches-the-open-voice-network-promises-privacy-at-the-heart-of-its-standards-7e4797f4581c"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 9
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1315771/_KXgG7ulmbq.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
         isCached: true
   - title: "Linux Foundation Introduces Open Voice Network to Prioritize Trust and Interoperability in a Voice-Based Digital Future"
     excerpt: "The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-18-3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now.md",
+      "title": "3 great deals on robot vacuums from Shark, Eufy and more you can score right now",
+      "excerpt": "The vacuum category offers great deals on Prime Day, says smart shopping expert Trae Bodge of TrueTrae.com, and in some cases the deals have already begun. “As home deals are a large part of the offers on Prime Day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "originalUrl": "https://www.marketwatch.com/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-356292/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/3-great-deals-on-robot-vacuums-from-shark-eufy-and-more-you-can-score-right-now-01624032049",
+      "publishedDateTime": "2021-06-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-massive-record-breaking-heat-wave-reveals-how-ai-self-driving-cars-could-provide-some-cooling-relief.md",
       "title": "Massive Record-Breaking Heat Wave Reveals How AI Self-Driving Cars Could Provide Some Cooling Relief",
       "excerpt": "This mega-heat wave is getting worse, which if we had AI-based true self-driving cars might be somewhat mitigated, here's how.",
@@ -138,6 +190,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-ibm-completes-turbonomic-acquisition.md",
+      "title": "IBM Completes Turbonomic Acquisition",
+      "excerpt": "IBM (IBM) has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
+      "originalUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg",
+          "width": 1000,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
+      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
+      "publishedDateTime": "2021-06-18T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smarter Analyst",
+        "domain": "smarteranalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1090,92 +1185,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track.md",
-      "title": "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track",
-      "excerpt": "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html",
-      "originalUrl": "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/1/b8/1b8ef32d-d6ee-5053-b6f4-650cd7c41615/60cc41cc125ca.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-corsight-ai-announces-pioneering-enhancements-to-core-technology.md",
-      "title": "Corsight AI announces pioneering enhancements to core technology",
-      "excerpt": "Corsight AI, a foremost facial recognition technology provider, announced significant enhancements to its flagship product, Fortify. The system’s scalability has been increased to enable",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/positives-of-using-facial-recognition-technology-in-cctv-surveillance-systems-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
-      "publishedDateTime": "2021-06-17T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

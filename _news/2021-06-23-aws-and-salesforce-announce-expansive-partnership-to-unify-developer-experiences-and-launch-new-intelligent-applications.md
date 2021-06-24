@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
-publishedDateTime: 2021-06-23T12:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
-webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
+excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
+publishedDateTime: 2021-06-23T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
 type: article
-quality: 44
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
+    width: 400
+    height: 280
     isCached: true
 
 related:
@@ -89,6 +85,34 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Seeq & AWS Announce Launch of SaaS Migration Program"
+    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, today announces the launch of a new program, the Seeq SaaS Workshop. In collaboration with Amazon Web Services (AWS),"
+    publishedDateTime: 2021-06-23T13:42:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51457-seeq-aws-announce-launch-of-saas-migration-program"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/4b8f78dc-693f-4cb4-9783-c1f66e0518c1.png?height=635&t=1624469560&width=1200"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
+    excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
+    publishedDateTime: 2021-06-24T01:40:00Z
+    webUrl: "https://www.crn.com/news/cloud/tighter-aws-salesforce-integration-an-enabler-for-partners"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0266-11a630a261cb-195ea8a3f3b5-1000/aws-sign.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Pimcore and Summa Linguae Announce Partnership for Localization and Language Solutions"
     excerpt: "Pimcore today announced a new partnership with Summa Linguae Technologies This partnership will provide Pimcore customers a robust automated localization solution that accelerates time to market Through this partnership Pimcore can seamlessly integrate a traceable"
     publishedDateTime: 2021-06-23T14:25:00Z
@@ -120,6 +144,6 @@ related:
         height: 432
         isCached: true
 
-secured: "5X/7Pg/OS0/yKjfQfeWgcLAFou2O784J1mGnUbdfW5pzXp4fiddRbxd/sGycWPKiNZg45iAKvConqjxYh7/8CnICv2jtIxVMAslkGpPisdxzw3hNWlsLcWx5+b9wHU4DrhYpdnwSnipIjVF738Say2o2GOPTVTlhU7L/HM3Yp803G6tVDTIHZF6EcCnfx/J5LEf+/ATaMKW6I+LV6HDeIO6hGSlEaUkdCzRuweHTbrHKPOc+uu7b4cN6oe/9R3mA3aBM6x9YXlrNSdHIeOiKjhYBGl7lcuzLc+1HYxfvDavjUJP+N6TocFYnbOIZPKgeIBYsmP8V/Egg0DhxXXz6Lsyy80e8hVWkzUJnh0po+5I=;xE7txwYMxiIqllwrIplzEw=="
+secured: "smF4OO9phZjLhFycrVCXUZSzXO1gOijRtoF9N3AjXlc8BgdwOyobK7wlq2XSvOX0HbuQojdypzDklp6HDZGCreP0h0EPp/32XCBj9497UvZF0wyFRIsbYzMTNpKLz5lrtXlxk54BRstfjXonIZ2qIYpNXjvLj/HCBBhagA/atewEU+qzn2xa4IuHK7l9TgnrUikZn2s57TfS0lCqOuAQX8ZbcsoWQmUIRAdf5l4hKl5GEnSQNjXE5TQlg46fKckUp47XmyqgakpV92Mg+4nWO2Qi3Ig3dXnxOP3vdHe4wr3WYSAlJTZkcWn9A6bu0yqZNg/aX5aS3Cq6iG8ArHfydPxzj8BmdpF4FtdABml3i3o=;btf1AbK/izXlsbOuCW7V0w=="
 ---
 

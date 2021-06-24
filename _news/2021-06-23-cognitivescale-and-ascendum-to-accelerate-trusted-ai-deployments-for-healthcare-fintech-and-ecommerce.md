@@ -88,6 +88,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "MTN Partners Fintech to Drive Universal Health Coverage"
+    excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"
+    publishedDateTime: 2021-06-23T23:46:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/d0eb8d23-mtn-nigeria.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
     excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
     publishedDateTime: 2021-06-21T13:04:00Z

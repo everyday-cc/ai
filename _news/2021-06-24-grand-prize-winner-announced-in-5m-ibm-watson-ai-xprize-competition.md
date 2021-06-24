@@ -3,10 +3,10 @@ category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
 excerpt: "XPRIZE, the world's leader in designing and operating incentive competitions to solve humanity's grand challenges, and IBM Watson, IBM's (News - Alert) AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
 publishedDateTime: 2021-06-23T17:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396582.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9396582.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-grand-prize-winner-announced-5m-ibm-watson-ai-/2021/06/23/9396582.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-grand-prize-winner-announced-5m-ibm-watson-ai-/2021/06/23/9396582.htm"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-  - AI Ethics
 
 related:
   - title: "Creating An AI Text-to-Speech Using IBM Watson"
@@ -70,8 +69,8 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
-    quality: 34
+    quality: 36
 
-secured: "CsjoT5mKtcGC0LAGcqdQF6d20zy1t90N4qCEo+LLcMaeTVR109fzz/HeKwtOm30aaa1+k4ihRTRlAm8+OpF3GPEgFiG1eIK5r6EQoX1ti37iI0SLIaI/m3jHY1hb0tfnQ8ABZWQXh6YWY9qwLTIeW9AwsjOg7v3u+acQH2yIzYks+JOugn9CvgMzXpYe8vARVvY09JrtYw+WGnaifUML+cehjddQrxYUSuGBJ/k+9AiIzd5Q6ZWPE3WI47Chq/3UFkPtUy8ah9Zy+zOuX6DutIe9knuNk+Ch/eRAbgkYGKz7Dqur4oevMUQMMnPmhTLWIiYy/4POd3RAjTtlrXDVUmsEYgV/4nuU/ekHOEcuTtk=;r/fsGWdv3WS8tt3de4trWw=="
+secured: "bS3IX2H7g2NW6/oHfrpPimMPYxOcdjt3gECZyS+lKJONV7VnzzcYyhxCSqc33TFIasgRGtjzzCCOQh5ACWteji0kYqPQ586ew3f45pdth1Hq9qNvvIdir3j/x17bIpZpdrZ8ZZn6W+OHKCtlvjEIUAuploAKic2KoK9xYu7v4uR3NwmiMpR+/6ufDi+Wjro8sKF5NqI9fMEPajxxJ/wVs7cZJYE7wfBcUFUmNBH5fd3aIXxhPfODAN5Q7+QCYFvH6VDjGTyjM5893szOyuGMjC2fdEVnpuO2AGy1ow3MFbgVBsuv8nddEbuEgUSl+uRuq6/bQQvrLQinesdP4F3fP7xeYwAUJmWbUfbl2J8IMzo=;SD/WuPz4CvPQFdfnQsJ1tg=="
 ---
 

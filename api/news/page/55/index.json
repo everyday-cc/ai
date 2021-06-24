@@ -2,6 +2,102 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-14-healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Research 2021 Report | Growth Forecast to 2027 NEC, Apple, Microsoft, Dolbey, IBM",
+      "excerpt": "Market is growing at a 20.47% CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market”. Healthcare Natural Language Processing (NLP) Market research report is the new statistical data source added by A2Z Market Research.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
+      "originalUrl": "https://ksusentinel.com/2021/05/14/healthcare-natural-language-processing-nlp-market-research-2021-report-growth-forecast-to-2027-nec-apple-microsoft-dolbey-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/05/A2Z-MARKET-RESEARCH-4-190-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-labor-pitches-startup-year-as-key-to-australias-future.md",
+      "title": "Labor pitches 'startup year' as key to Australia's future",
+      "excerpt": "The 'startup year', Opposition Leader Anthony Albanese declared, is a program aimed at driving innovation and increasing links between universities and entrepreneurs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "originalUrl": "https://www.zdnet.com/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/14/9fba52dc-2a0d-46b5-a568-ff29df43ddce/anthony-albanese.jpg",
+          "width": 5455,
+          "height": 3637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labor-pitches-startup-year-as-key-to-australias-future/",
+      "publishedDateTime": "2021-05-13T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-generate-positivity-with-machine-learning.md",
       "title": "Generate Positivity With Machine Learning",
       "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
@@ -1052,74 +1148,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-patriot-one-technologies-announces-accuracy-enhancements-to-video-recognition-software-for-weapons-and-threat-detection.md",
-      "title": "Patriot One Technologies Announces Accuracy Enhancements to Video Recognition Software for Weapons and Threat Detection",
-      "excerpt": "Patriot One Technologies Inc. (TSX: PAT) (OTCQX: PTOTF) (FRANKFURT: 0PL) (“Patriot One” or the “Company”) today announced enhancements to its Video Recognition Software (VRS) for identifying weapons and other threats in crowds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-patriot-one-technologies-announces-accuracy-enhancements-video-recognition-/2021/05/13/9368950.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization.md",
-      "title": "Wipro Has Earned the Microsoft Windows Virtual Desktop Advanced Specialization",
-      "excerpt": "Windows Virtual Desktop is a Microsoft solution that seamlessly ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210513005625/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210513005625/wipro-has-earned-the-microsoft-windows-virtual-desktop-advanced-specialization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

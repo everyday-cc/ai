@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Theraclion Strengthens its Board of Directors"
-excerpt: "Theraclion will then be truly positioned to transform the world of healthcare. Mehdi understands that our HIFU platform has potential far beyond the treatment of thyroid, breast and varicose veins. The developments he supports,"
-publishedDateTime: 2021-06-22T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210622005781/theraclion-strengthens-its-board-of-directors"
-webUrl: "https://www.morningstar.com/news/business-wire/20210622005781/theraclion-strengthens-its-board-of-directors"
+excerpt: "THERACLION (Paris:ALTHE) (ISIN: FR0010120402; Memo: ALTHE, PEA-PME eligible), an innovative company specializing in ultrasound therapy (using High Intensity Focused Ultrasound or HIFU), announces the arrival of a health specialist,"
+publishedDateTime: 2021-06-22T16:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=489251"
+webUrl: "https://us.acrofan.com/detail.php?number=489251"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
+    isCached: true
 
 related:
   - title: "CORRECTING and REPLACING: Theraclion Strengthens Its Board of Directors"
@@ -34,6 +40,6 @@ related:
         height: 324
         isCached: true
 
-secured: "a+JuFkK06EqcLiBnf8Ezh/3pdpS1O7xJktvS4vtfok0k6oKimqmepqrNW0P5stVBQoM0QTPYb/kKIXAIom2yLNz/2g9fxXNe5VlvDKIMzIO2Gf6m3lDaU34CcQuNaJb5jMXZ08NWkEfwZzS3xs29kV/z/DP2jidtKS3ZqCouzNyhZWvWO83jpFyCbvz30BaZBLToBcvQPsVwqST3y6nYqb/qFzW6HTFx4QSnicE4GQ0NXcyKgvmsIJgB+mWX0NPNrsLrdakk5omCkExSlaFvfNxKy/nPAXAauyp9y0YCaOTtJ5ov4JTxvIP7mf4CuhhmYPdaLN9egniuphh2VBrgOd87JeOtJ7l1t4zv4O3KVGc=;HsS5KPcdtofRz0DHIPz9Hw=="
+secured: "YqlupVFQb3wqFWp2Dv4CLYxfgJkkCkqYJakKGEgbJldZ+9ihbzyEBGxOlokvrDXc1y2gLF0S55mL8sl+g+8BGS+c2P2g0NaIEdf1tg20PQgehVuXPsivFo5NKcwOuPo5qD72N4R6UbQU8F1BtbaBT0jdD4ZjD7Soa1mLHnm3gVwJ8JnHOd8Iz95XH1TZfhcOfUOos4XK53bKz5I6HaFdDC65YSETP4am5kBQwQ8Sgz4opdU82HK1W7XZleug9EcmW8NkL+Ln8ne9sxbn9Vp8dYDRkWHeHMYK1xeEALXBK/oJg0DyKyhHMAwZ5MGqLytGP/TgN5W1p/VFSO8B6ov5mJ7ePHfu8QqT+LQ5Ze1Ms5o=;feIk77TZYlhdcYL5HsNEnQ=="
 ---
 

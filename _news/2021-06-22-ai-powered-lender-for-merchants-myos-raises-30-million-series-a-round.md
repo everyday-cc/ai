@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-fo
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,17 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Natural language processing tech startup Primer raises $110 million"
-    excerpt: "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round."
-    publishedDateTime: 2021-06-22T09:31:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-primer-funding-idUSKCN2DY0XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DY0XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DY0XL"
+  - title: "AI Fraud Protection Firm Servicing Digital Goods nSure.ai Raises $6.8 Million Seed Round"
+    excerpt: "Israel-based nSure.ai has raised a $6.8 million Seed round led by DisruptiveAI, Phoenix Insurance, Kamet (an AXA backed VC), Moneta Seeds and other individual investors. nSure.ai is a 'predictive AI fraud protection company' that services digital goods such as gift cards,"
+    publishedDateTime: 2021-06-20T21:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176867-ai-fraud-protection-firm-servicing-digital-goods-nsure-ai-raises-6-8-million-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176867-ai-fraud-protection-firm-servicing-digital-goods-nsure-ai-raises-6-8-million-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176867-ai-fraud-protection-firm-servicing-digital-goods-nsure-ai-raises-6-8-million-seed-round/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/Alex-Zeltcer-CEO-Co-founder-Left-Ziv-Isaiah-CTO-Co-founder-Right-1-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "NLwSsXtgz98r7DE6DgpfsTouGij3yyqpy5lE9rV5ZIcOJooYN1nDFXGOq5Hfv2eaAjZk6YyZRkR9PQwbeincD7WlV3H7wsKeSaxTDthhO9NtM2dnCne3fQ0Hv4/pWXKzzfD8Yy0AUuXvIon01qhlDgRndxD1oWpWEIEtWWLyNDLi817413ZORlI5vFdAq0rZgrb9VRX3FRAht4637XSzJwY2YqXTXALhLv09ditxI67TvUkSUeNCpUcw9vfvq3XsNq9GvyjPlJ0xiFxeElC8fiYCuHzwhgWIOLy6xnWQMsEp6DVh6XYSi6VQZc0nwIwOX0zS1ti2/zm3vCTZhGeCJeSI08u1jCIhLOFCtnVPrkE=;0lAuAFRVUNVwpLlW960fPA=="
 ---

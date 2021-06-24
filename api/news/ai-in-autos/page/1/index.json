@@ -1368,21 +1368,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-16-alphabets-self-driving-car-company-waymo-announces-25-billion-investment-round.md",
-      "title": "Alphabet's self-driving car company Waymo announces $2.5 billion investment round",
-      "excerpt": "Google sibling company Waymo announced a $2.5 billion investment round Wednesday, which will go toward advancing its autonomous driving technology and growing its team. The round includes funding from Waymo parent company Alphabet,",
+      "path": "_news/2021-06-16-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
+      "title": "Alphabet’s Waymo raises $2.5 bln in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/alphabets-self-driving-car-company-waymo-announces-2425-billion-investment-round/ar-AAL6F70",
+      "webUrl": "https://www.reuters.com/article/waymo-funding-idUSL3N2NY31Y",
+      "originalUrl": "https://www.reuters.com/article/waymo-funding-idUSL3N2NY31Y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 384,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/105930488-1558638540445gettyimages-1061811620.jpeg?v=1623845457",
-          "width": 5300,
-          "height": 3535,
+          "url": "https://www.reuters.com/resizer/s1ecHHtxuKpo3OVoURQIIAwO68c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3NUHQPGSJNNNPLMX7UPVOM5Z4.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1390,14 +1390,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
-      "publishedDateTime": "2021-06-16T05:30:01-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T06:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
-        "domain": "com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1406,8 +1415,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

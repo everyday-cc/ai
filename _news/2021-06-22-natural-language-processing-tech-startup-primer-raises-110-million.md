@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DY0XL"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DY0XL"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,21 +25,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Powered Lender for Merchants Myos Raises $30 Million Series A Round"
-    excerpt: "Myos has raised $30 million in Series A funding led by Fasanara Capital and Xploration Capital. Tomahawk.VC and a group of new and existing investors also participated in the funding round, according to the company."
-    publishedDateTime: 2021-06-22T13:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
+  - title: "Natural language processing tech startup Primer raises $110M"
+    excerpt: "With $110 million in funding, natural language processing platform Primer plans to add pharmaceutical and financial customers."
+    publishedDateTime: 2021-06-24T00:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/"
+    ampWebUrl: "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/markus-spiske-Berlin-Germany-Greetings-Card-Love-copy-300x292.jpg"
-        width: 300
-        height: 292
+      - url: "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "yA5AS2eWra0JCjNIOX6sB/Iulvkzif/3D113IqNlOcL3YhlHe4+FIj5lvGqH3RUvssZlq/XN+MUpEPyCwKPue2q0Zc/YAfXdN/7L0+6U3Hf8S0adNFJzpSw/q4ii4wTlrVn5VL79Xkt7QeTGKQLlfd4bbtQh2sa3icPhjG8OhvpQcPPuziPu1geNa+nnhp5XiAYXDSMObtjing0HVCA3jHifaj82BznPEGlUacsdrBF7GovstWpHg/eAG2fuhnW+O6z6uNndEV5lwYhvipIp9z3X7XXJhKxqxSCc+2+fy8alYSrt1zX4Nx6kJ4wToH/gfzvOj/Tb3/MA2JSprnZsqlY0OdFe1t9nE94k43cSdyM=;ib6TEu47+uA58iEGbDUcOg=="

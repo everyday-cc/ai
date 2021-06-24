@@ -2,6 +2,110 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-05-27-dream-bot-l10-pro-review-a-robot-vacuum-newcomer-that-cleans-well.md",
+      "title": "Dream Bot L10 Pro Review: A robot vacuum newcomer that cleans well",
+      "excerpt": "The Dreame Bot L10 Pro is one of the first bots from Dreame Technology, which is looking to make a name of itself in the always competitive robot vacuum space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/",
+      "originalUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dreame-bot-l10-pro-review-11-of-12.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/dream-bot-l10-pro-robot-vacuum-review/?amp",
+      "publishedDateTime": "2021-05-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-clearview-ai-hit-with-legal-complaints-in-5-countries-accused-of-facial-recognition-abuse.md",
+      "title": "'Clearview AI' Hit With Legal Complaints In 5 Countries, Accused of Facial Recognition Abuse",
+      "excerpt": "Clearview AI, the American maker of a controversial facial recognition tool used mostly by police, is facing a downpour of legal complaints across Europe as of Thursday, alleging scopious privacy violations,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "originalUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/75b12be5ae0c734da6fbdfb994b5c987.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-faces-fresh-legal-complaints-in-5-countrie-1846980506/amp",
+      "publishedDateTime": "2021-05-27T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-librestream-unveils-workforce-collaboration-and-knowledge-sharing-enhancements-as-part-of-ai-connected-expert-vision.md",
       "title": "Librestream Unveils Workforce Collaboration and Knowledge-Sharing Enhancements as Part of AI Connected Expert Vision",
       "excerpt": "Librestream, the #1-rated provider of augmented reality (AR) and remote collaboration solutions, launched new foundational capabilities for its Artificial Intelligence (AI) Connected Expert",
@@ -955,110 +1059,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-rsa-conference-startup-competition-showcases-next-gen-cybersecurity.md",
-      "title": "RSA Conference Startup Competition Showcases Next Gen Cybersecurity",
-      "excerpt": "In 2020 we went virtual and migrated to the cloud by necessity. The Innovation Sandbox startup contest showcases the tech needed to secure 2021’s virtual cloud world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
-      "originalUrl": "https://www.eweek.com/security/rsa-conference-startup-competition-showcases-next-gen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-lemonade-jk-jk-we-dont-use-facial-recognition-to-reject-your-insurance-claims.md",
-      "title": "Lemonade: JK, JK, We Don't Use Facial Recognition to Reject Your Insurance Claims",
-      "excerpt": "The insurance startup is walking back tweets saying its AI-trained facial recognition could detect fraudulent claims.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "originalUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5fec531d86029d32932e6fe7e266d001.png",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lemonade-jk-jk-we-dont-use-facial-recognition-to-rej-1846976751/amp",
-      "publishedDateTime": "2021-05-26T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -49,6 +49,20 @@ related:
         width: 1000
         height: 520
         isCached: true
+  - title: "The Linux Foundation Launches the Open Voice Network, Promises Privacy at the Heart of Its Standards"
+    excerpt: "An official Foundation project, the Open Voice Network aims to encourage the development and adoption of open standards."
+    publishedDateTime: 2021-06-24T01:20:00Z
+    webUrl: "https://www.hackster.io/news/the-linux-foundation-launches-the-open-voice-network-promises-privacy-at-the-heart-of-its-standards-7e4797f4581c"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 9
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1315771/_KXgG7ulmbq.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "EUI0VIEz0P3QDi06sVAnsPS4tlLEwxro2B4jBUZtGs9jpEJcu3zJ3OyEf8i8CfBcLGMx344fEDDSTPR4Fpjt960x10H5rm6+mdMMFZyh8HezOM/c6vu7Z80SXPGjD3PZfwWsqprrTRa0EovPschF/YSAUEU61nxmSqlkpjyio5prMm6mm7bVuHfyXjunzFHQ0CrhwxQCRnveOMtTC8018eE7KDbrNSSuBrBJSSO2xF7GJJH+ui5+JZ2H9qD+eob869OL+u2twbFJaWo6G1t6Ye6sMPQhuDlJlqkL5nVIw4/hsc+WklCEdG7nOEgZs+ddv3TTZM9jGoThQpAn5VutadrGynyq2sxI9x/m5+DAEGM=;c4GSi0IsOWAZ8T7ALtVgOQ=="
 ---

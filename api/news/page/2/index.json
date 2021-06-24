@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-23-deep-learning-market-share-trends-industry-overview-2021-to-2026.md",
+      "title": "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-hyundai-officially-takes-controlling-stake-in-robot-maker-boston-dynamics.md",
       "title": "Hyundai officially takes controlling stake in robot maker Boston Dynamics",
       "excerpt": "Korean car manufacturer Hyundai announced that it had closed a deal to purchase controlling stock in US robot maker Boston Dynamics. The company, well-known for its",
@@ -261,7 +313,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/22/linux-foundation-initiative-advocates-open-standards-for-voice-assistants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1147,49 +1199,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-natural-language-processing-tech-startup-primer-raises-110-million.md",
-      "title": "Natural language processing tech startup Primer raises $110 million",
-      "excerpt": "Primer, a San Francisco-based startup that offers a natural language processing platform used by U.S. national security agencies and others, on Tuesday said it raised $110 million in its latest funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-tech-primer-funding-idUSKCN2DY0XL",
-      "originalUrl": "https://www.reuters.com/article/us-tech-primer-funding-idUSKCN2DY0XL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DY0XL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DY0XL",
-      "publishedDateTime": "2021-06-22T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {

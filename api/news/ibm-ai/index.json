@@ -185,6 +185,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-ibm-completes-turbonomic-acquisition.md",
+      "title": "IBM Completes Turbonomic Acquisition",
+      "excerpt": "IBM (IBM) has completed the acquisition of Turbonomic, affirming its focus on building an ecosystem of business partners. The acquisition is expected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
+      "originalUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/02/shutterstock_779236312.jpg",
+          "width": 1000,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
+      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/ibm-completes-turbonomic-acquisition/amp/",
+      "publishedDateTime": "2021-06-18T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smarter Analyst",
+        "domain": "smarteranalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-ibm-closes-acquisition-of-turbonomic-to-deliver-comprehensive-aiops-capabilities-for-hybrid-cloud.md",
       "title": "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud",
       "excerpt": "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ...",
@@ -1336,60 +1379,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
-      "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030-2021-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
       ]
     }
   ],

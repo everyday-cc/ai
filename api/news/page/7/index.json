@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-17-engineers-unveil-solar-powered-ai-system-on-chip.md",
+      "title": "Engineers unveil solar-powered AI system-on-chip",
+      "excerpt": "AI systems typically use lots of energy and rely on the cloud, which presents IT security issues. Scientists in Switzerland have addressed these problems by squeezing an AI system onto a single computer chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "originalUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/4271623934810/2021/1/16239377247962/v1.5/Engineers-unveil-solar-powered-AI-system-on-chip.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
+      "publishedDateTime": "2021-06-17T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it.md",
+      "title": "Deep reinforcement learning will transform manufacturing as we know it",
+      "excerpt": "Reinforcement learning and simulation are essential to solving the constraints and novel challenges that take place in factories and supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
+      "publishedDateTime": "2021-06-17T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-dear-enterprise-it-cybercriminals-use-ai-too.md",
       "title": "Dear enterprise IT: Cybercriminals use AI too",
       "excerpt": "AI-powered cyber threats pose a major risk to enterprises, particularly those engaged in frequent communications susceptible to phishing.",
@@ -53,6 +148,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-17-brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage-data.md",
+      "title": "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB, a GPU-powered Analytics Platform that Is Transforming the Way Companies Leverage Data",
+      "excerpt": "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-brytlyt-lauded-frost-sullivan-building-brytlytdb-gpu-powered-/2021/06/17/9392829.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1534809/Brytlyt_Award.jpg",
+          "width": 400,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-audi-mixing-ai-and-big-data-to-play-big-brother-but-in-a-good-way.md",
       "title": "Audi mixing AI and big data to play big brother, but in a good way",
       "excerpt": "At the Greentech Festival in Berlin, the automaker announced a variety of methods it is developing to ensure its cars are sustainable beyond the tailpipe.",
@@ -100,49 +238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage-data.md",
-      "title": "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB, a GPU-powered Analytics Platform that Is Transforming the Way Companies Leverage Data",
-      "excerpt": "BrytlytDB's ability to analyze multi-billion-row data sets in milliseconds to derive valuable insights makes it highly valuable in a wide range of industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is/article_2cb7fe3a-2491-5e7d-80bc-3205a2a04114.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is/article_2cb7fe3a-2491-5e7d-80bc-3205a2a04114.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/1c/b1ce94f3-ff01-5841-9cad-1b52e67c9c95/60cb55985169f.image.jpg?resize=688%2C630",
-          "width": 688,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -849,8 +944,8 @@
       "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
       "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",
       "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255",
-      "originalUrl": "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "webUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "originalUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -867,13 +962,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "ampWebUrl": "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
       "publishedDateTime": "2021-06-16T18:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
+        "name": "WTAE-TV",
+        "domain": "wtae.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1082,100 +1177,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-a-fintech-ipo-to-watch-and-a-very-complex-spac-deal.md",
-      "title": "A Fintech IPO to Watch and a Very Complex SPAC Deal",
-      "excerpt": "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
-      "publishedDateTime": "2021-06-16T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai.md",
-      "title": "Tractable raises $60M at a $1B valuation to make damage appraisals using AI",
-      "excerpt": "As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01.png?w=1024",
-          "width": 1024,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/amp/",
-      "publishedDateTime": "2021-06-16T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

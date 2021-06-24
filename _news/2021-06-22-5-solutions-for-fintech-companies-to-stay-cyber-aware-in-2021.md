@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MTN Partners Fintech to Drive Universal Health Coverage"
+    excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"
+    publishedDateTime: 2021-06-23T23:46:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/d0eb8d23-mtn-nigeria.jpg"
+        width: 1280
+        height: 721
+        isCached: true
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z

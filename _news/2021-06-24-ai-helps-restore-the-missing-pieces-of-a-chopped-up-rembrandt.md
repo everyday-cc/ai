@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "AI helps return Rembrandt’s The Night Watch to original size"
+    excerpt: "Rijksmuseum reproduces the work in all its glory, 300 years after it was cut to fit between doors"
+    publishedDateTime: 2021-06-23T22:05:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2021/jun/23/ai-helps-return-rembrandts-the-night-watch-to-original-size"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2021/jun/23/ai-helps-return-rembrandts-the-night-watch-to-original-size"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2021/jun/23/ai-helps-return-rembrandts-the-night-watch-to-original-size"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/6c8bb35b8506b436b0b1889355d25d76e43ac7ae/108_203_3299_1978/master/3299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02320d3c2fed82f460a8089b4aeb031f"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
     excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."

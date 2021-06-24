@@ -2,6 +2,102 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-11-fix-the-use-of-dna-data-and-facial-recognition-software-not-ban-it-commentary.md",
+      "title": "Fix the use of DNA data and facial recognition software, not ban it | COMMENTARY",
+      "excerpt": "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html",
+      "originalUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/WAc5sIphmLqohYNbeAckk4XNvqo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SICWEM6CVREC7BWNV3E5OTTAYM.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/opinion/editorial/bs-ed-0614-genealogy-facial-recognition-20210610-5l5dnjmphraipmuakco3t66u4i-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-10T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
+      "title": "How AI could radically change education and standardized testing",
+      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
+      "publishedDateTime": "2021-06-10T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027.md",
       "title": "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027",
       "excerpt": "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,",
@@ -1114,91 +1210,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bbc-host-thrashes-calls-for-independent-scotland-to-rejoin-eu-deficit-is-8-times-higher.md",
-      "title": "BBC host thrashes calls for independent Scotland to rejoin EU 'Deficit is 8 times higher!'",
-      "excerpt": "BBC presenter Stephen Jardine dismantled Nicola Sturgeon's plan to rejoin the EU with an independent Scotland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
-      "originalUrl": "https://www.express.co.uk/news/politics/1447993/scottish-independence-bbc-debate-night-Stephen-Jardine-snp-latest-vn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F679fdf47-2ea8-43d9-91fc-bb7b6753c426.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bb80e462-fbb9-49d1-8a87-b3ad511c1d4e",
-      "publishedDateTime": "2021-06-10T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-national-stock-exchange-offers-certification-course-in-ai-for-financial-markets.md",
-      "title": "National Stock Exchange Offers Certification Course in AI for Financial Markets",
-      "excerpt": "NSE Academy, the education arm of the National Stock Exchange of India along with TalentSprint have launched an Advanced Certification Program in AI for Financial Markets. The six-month programme is a unique opportunity for professionals working in hedge funds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "originalUrl": "https://www.news18.com/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623308843_online2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/national-stock-exchange-offers-certification-course-in-ai-for-financial-markets-3830030.html",
-      "publishedDateTime": "2021-06-10T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

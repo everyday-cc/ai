@@ -2,6 +2,109 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-06-02-texas-proving-grounds-to-test-ai-in-the-real-world.md",
+      "title": "Texas proving grounds to test AI in the real world",
+      "excerpt": "AI is making its way into the physical world. How do you make sure nothing goes horribly wrong? How do you test out how AI will interact with physical systems in a real-world environment? If you're SparkCognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "originalUrl": "https://www.zdnet.com/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/31/ab2962ca-1e04-450f-bd21-eb60865b3fcb/boeingdrone.jpg",
+          "width": 920,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/company-opens-texas-proving-grounds-to-test-ai-in-the-real-world/",
+      "publishedDateTime": "2021-06-01T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-banned-gamblers-in-south-australia-to-be-found-using-facial-recognition-tech.md",
+      "title": "Banned gamblers in South Australia to be found using facial recognition tech",
+      "excerpt": "A number of gaming rooms in South Australia have adopted facial recognition tech from Vix Vizion as part of the state's gambling reforms that went live in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/02/90403232-2d0f-455a-ad7d-5d02bf0fce3f/man-gambling.jpg",
+          "width": 6720,
+          "height": 4480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/banned-gamblers-in-south-australia-to-be-found-via-facial-recognition/",
+      "publishedDateTime": "2021-06-01T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-conversational-ai-startup-cognigy-nabs-44m.md",
       "title": "Conversational AI startup Cognigy nabs $44M",
       "excerpt": "Cognigy, a platform for designing conversational, AI-powered experiences, raised $44 million in fresh capital.",
@@ -1063,83 +1166,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-neural-network-performs-complex-hand-movements-in-new-simulation.md",
-      "title": "Neural Network Performs Complex Hand Movements in New Simulation",
-      "excerpt": "A simulation of a robotic hand implemented on the EBRAINS research infrastructure is beginning to perform human-like digit configurations",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/neural-network-performs-complex-hand-movements-in-new-simulation-349365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/neural-network-performs-complex-hand-movements-in-new-simulation-349365.jpg?cb=20210603",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-01-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world's leading AI and machine learning platforms, announced today that it is now available through the Microsoft (News - Alert) Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-dataiku-now-available-the-microsoft-azure-marketplace-/2021/06/01/9381257.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

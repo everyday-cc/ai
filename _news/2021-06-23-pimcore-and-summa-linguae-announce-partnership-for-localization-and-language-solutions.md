@@ -43,20 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-    excerpt: "SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire via COMTEX/ -- SEATTLE and SAN FRANCISCO, June 23, 2021 /PRNewswire/ -- Amazon Web Services, Inc."
-    publishedDateTime: 2021-06-23T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-2021-06-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z
@@ -101,6 +87,34 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Seeq & AWS Announce Launch of SaaS Migration Program"
+    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, today announces the launch of a new program, the Seeq SaaS Workshop. In collaboration with Amazon Web Services (AWS),"
+    publishedDateTime: 2021-06-23T13:42:00Z
+    webUrl: "https://www.dcvelocity.com/articles/51457-seeq-aws-announce-launch-of-saas-migration-program"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/4b8f78dc-693f-4cb4-9783-c1f66e0518c1.png?height=635&t=1624469560&width=1200"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
+    excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
+    publishedDateTime: 2021-06-24T01:40:00Z
+    webUrl: "https://www.crn.com/news/cloud/tighter-aws-salesforce-integration-an-enabler-for-partners"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0266-11a630a261cb-195ea8a3f3b5-1000/aws-sign.jpg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "AWS and Salesforce are integrating their clouds to simplify application projects"
     excerpt: "One is to make it easier for enterprise developers to build applications that use both AWS and Salesforce services under the hood. Another objective is to enhance Salesforce’s Industry Cloud product portfolio,"
     publishedDateTime: 2021-06-23T17:15:00Z
@@ -114,6 +128,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Image.jpg"
         width: 770
         height: 432
+        isCached: true
+  - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
+    excerpt: "The partnership will drive customer value through new and enhanced unification between AWS and Salesforce products. Developers will now be able to build and launch custom applications that extend the power of both platforms by connecting Salesforce data and workflows natively into their solutions running on AWS,"
+    publishedDateTime: 2021-06-23T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-salesforce-announce-expansive-partnership-unify-developer-experiences-/2021/06/23/9395982.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
+        width: 400
+        height: 280
         isCached: true
 
 secured: "cr4RMlsY2eIzVRvH+FCMrPEddpyBYWdsBvYydRou3lvWhgjiATTbrUt672QJ7sUwqdYsTG+TiwUgMWqhwTzR/fUOgIk1hoTa7xh9c9RtgyALUcNYc0KYucNd8tAl6QFuqiNodP/mLLuosAB/ZUd9ZutXZZ83sxt6TgRB8dZgxmJHWUWuRMhOOSYUzz8y6O+ElQ3K0z+CXv1lji9rbUILVqr3YYKZh6QLSrg/6mz22QsJ6MvOEPhOa67jgC+Jom260BUJHCR7ieHBYp3ErwF2apwyew0BAvQVVtzlq4S8zBQk4yDxiBxYTk4lTPUViQEscnd4k1UK7PurOVCEKk33WrP/OvxceFadVICPcCUmox9Hre35l+nztWXKJ5J0PAn2leQVEXaWQC0bLCizaJLFx/lAhDWrVnF56Xtre7C8GbNGILmQ9U837bzuD79NxnYJrqxcbz2bjuzFfT2cZhjVBSzJjCx0XMp8EkfxFXsfcXiGzxiRm9a8fVbO95jx7zkEPzoZmLCFdn+qRIRXhn+hUA==;Bh8Nu/2emqopsOmCvP3G2A=="

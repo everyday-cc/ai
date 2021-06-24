@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-18-ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track.md",
+      "title": "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track",
+      "excerpt": "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html",
+      "originalUrl": "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/1/b8/1b8ef32d-d6ee-5053-b6f4-650cd7c41615/60cc41cc125ca.image.jpg?resize=945%2C630",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-corsight-ai-announces-pioneering-enhancements-to-core-technology.md",
+      "title": "Corsight AI announces pioneering enhancements to core technology",
+      "excerpt": "Corsight AI, a foremost facial recognition technology provider, announced significant enhancements to its flagship product, Fortify. The system’s scalability has been increased to enable",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/positives-of-using-facial-recognition-technology-in-cctv-surveillance-systems-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-announces-pioneering-enhancements-core-co-1590149149-ga-npr.1623919141.html",
+      "publishedDateTime": "2021-06-17T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-is-ai-a-magic-bullet-to-combat-covid-19.md",
       "title": "Is AI – a magic bullet to combat COVID-19?",
       "excerpt": "Doctors and health tech experts inform that AI is no more alien to the domain, the pandemic has emphasised that it is a necessity and not a luxury",
@@ -1109,101 +1195,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-engineers-unveil-solar-powered-ai-system-on-chip.md",
-      "title": "Engineers unveil solar-powered AI system-on-chip",
-      "excerpt": "AI systems typically use lots of energy and rely on the cloud, which presents IT security issues. Scientists in Switzerland have addressed these problems by squeezing an AI system onto a single computer chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4271623934810/2021/1/16239377247962/v1.5/Engineers-unveil-solar-powered-AI-system-on-chip.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/06/17/switzerland-ai-system-on-a-chip/4271623934810/",
-      "publishedDateTime": "2021-06-17T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it.md",
-      "title": "Deep reinforcement learning will transform manufacturing as we know it",
-      "excerpt": "Reinforcement learning and simulation are essential to solving the constraints and novel challenges that take place in factories and supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/amp/",
-      "publishedDateTime": "2021-06-17T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

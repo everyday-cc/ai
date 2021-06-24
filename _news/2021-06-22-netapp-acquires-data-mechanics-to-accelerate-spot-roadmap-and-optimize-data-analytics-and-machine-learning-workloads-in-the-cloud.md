@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Google says AI and analytics can take its cloud to the next level"
