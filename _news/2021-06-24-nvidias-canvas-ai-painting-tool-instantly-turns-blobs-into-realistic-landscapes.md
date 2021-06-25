@@ -177,6 +177,20 @@ related:
         width: 2000
         height: 1260
         isCached: true
+  - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
+    excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
+    publishedDateTime: 2021-06-24T23:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/24/nvidias-vid2vid-cameo-ai-brings-2d-photos-life-video-calls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/EMBARGOED-Vid2Vid-Cameo-Image.jpg"
+        width: 1280
+        height: 680
+        isCached: true
 
 secured: "+moHA15K9P2XmBWHoRzUIhkgDCJY13+T7c9OzP4VEWGyFkoV3YD887pi2sPaIavRfLfoDmVgzfa8RWM6xr7b6bdmTSxl/jxYJjBDBMRgeK7o3d1kcqk/mwWdUPJcpaPSuFw9c/05BcTIqeUVpQfHNq5RWz9EJpVHXAjlfmTOd8/NgHnew855LcD8yMwuXinzWql+I48vJyTKhP76GGneV6MMGSkM4ZxgJGwuSDWE26IIR36L2gN5CtJi4phaSOqdL/cMCHyzhlknjg1dVpJtc0fbIFRzKb7O/JOZLdFuPsVu76kSU0/6aKAcfrurPeo4o3pYX+/aloQhUEeFv+hQOeb7HeqdMnss9dUJQ8WmYA2jIDnxxXXNamT8V8mW30D+fN02tVzwxeeNPh3e/9yLcTReKnp88vMz12OOJ8prvtpiseMxLx42xcgrcIPU7DCvlNg51chXFJ7kOUnOrHpgkWE6TvNxNPHwCOPJagaogG0bESiJcsl5oQXszuMybBVpkVJHkOxObJE/i4CwcR5WRQ==;v1dsoHru6+T6r9LIqcY57g=="
 ---

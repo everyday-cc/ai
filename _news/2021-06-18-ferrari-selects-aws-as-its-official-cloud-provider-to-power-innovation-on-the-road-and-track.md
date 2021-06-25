@@ -2,19 +2,25 @@
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
 excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
-publishedDateTime: 2021-06-18T06:30:00Z
-originalUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
-webUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
+publishedDateTime: 2021-06-18T06:31:00Z
+originalUrl: "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html"
+webUrl: "https://www.register-herald.com/region/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and/article_1abb31cb-4103-5eda-8228-66e20c0ffdc6.html"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Jl5ZaLy00xD/B5LUsrbSC7jIOlralaue2FVnEJ8Z1LfF4ZLZZt2Bmp2xf54ng36JCxCyp1oat1J98I3BBqUbvkffPLIoWQY6vHGgZrl64P14oNgEYVb0H1IIVRg4pnfUMM0FU/d/ETgKl1z4ot+YsWh27goixb0dS2Ct/1x/s3/TpI6EJXy4343wDlRktUdn7OprPufnuuiYZz8An9EidDEl0mJ6lSv7v8YC0ETMyo/yW7opp5mPhulXzNe0DplNRnDVxr074xIpe3JKmd2G4V+cpkZ24sUS05I4T2N8Y7k1TyciEO9yXJh411XBwkgrrbFBDlRfFBydw4IPQHxCBKdyKAEPCUg+tNNPWuKddCumoNWlzIiV8bduXLMKH/lC6KxShHduAWwYdkcreWCEKbDYwnYNhu+xxLRl0EnBlkDhKiMlDW7FnqVixkXnsITBouWUnC2vzrVu5baUtwgbFFc85reW6rhPzZ5h2SqAtNWnzL1NWAxmHxaD/FHqqq7lZaliLWmze02iB4bH80eg8Q==;wosWJITZzOAJ8Nzlxq2SoQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/1/b8/1b8ef32d-d6ee-5053-b6f4-650cd7c41615/60cc41cc125ca.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
+
+secured: "xYT5sv+tpm30O1mwuvOJM2zm7QRKFLgG7QRZJ0binJNrGbibXWQe3aBuyM3WiY7YDUPu10dMJgfSL/FE8FCwxCe9y1zb9YMJM694k1yLy/czshEyG0A6emH9XIvpZNny7g+WEcjOzVgTBwkpGwc4FKaZrvZ7/hozZJ7aezOhuGQTh4sXobAw9fFR/IuzjeK9WZKYabd2JcdmTtDcGTFPHDvd592qAl0LiRuJ/fhmLYEro75vqiTbyLvPAJyHtJR95exz3uSk/zqWxVGaCLr69hWtzfnkdCpJyePs14hOTkpOoAMqsMBesZwP8MT8oX2ish5+1jzOA0YXyXULKavBRs2g2UXkaNBwzGs/32ThnD0=;UVGuOKPTLpzuI6ae9OcBrg=="
 ---
 

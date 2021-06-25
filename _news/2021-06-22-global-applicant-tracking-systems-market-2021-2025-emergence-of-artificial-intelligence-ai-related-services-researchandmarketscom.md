@@ -24,31 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
-    excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
-    publishedDateTime: 2021-06-23T04:42:00Z
-    webUrl: "https://www.openpr.com/news/2311364/outlook-of-global-emotional-intelligence-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
+  - title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
+    excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
+    publishedDateTime: 2021-06-23T11:58:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
+      name: ARN
+      domain: arnnet.com.au
+    quality: 42
     images:
-      - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
-        width: 620
-        height: 350
+      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/dane_eldridge_-_profile_shot.jpg"
+        width: 300
+        height: 225
         isCached: true
-  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
-    excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
-    publishedDateTime: 2021-06-22T16:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-precision-medicine-software-market-report-2021-2028-/2021/06/22/9395457.htm"
+  - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
+    excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."
+    publishedDateTime: 2021-06-23T09:12:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142407/europe-artificial-intelligence-chipsets-market/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 10
 
 secured: "XRemE/dsmaigvQ7QihYGoW80WShkSjVSOCGorzums8/UpWqOUVNqc1Q3kIgB4UQLzcHyWaYpZvUjBzWeSU/KM/k/V2z4RbBMkXRJqnKBgyTNaYW+CuiHGVYLQdHLkPM54cBHqY/RvtRy3ANk0MwOA2FV/SGCeyqWmAir79cLnoCr4fzxJfln9JRUx0gF44OPnDVw8TlgfMeRrOn5kdWQrkopud9U545a2RkJpeqPsSryvFhGB7w5GYG/S+TFRczp1JnC4qX4jfCGpCTb2hdSKOMzCKHxWGF8s2ZlC80/s91W7Co9e3hV5BKREpSEb1Fmdjk/rxZ1BX+niIoTzqHiJm9DVQ3+IwWgMWziiQ9T2iE=;mmnbmGX5F/v50sEdxyATxw=="
 ---

@@ -1,29 +1,77 @@
 ---
 category: news
 title: "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner"
-excerpt: "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia,"
-publishedDateTime: 2021-06-24T21:26:00Z
-originalUrl: "https://www.nsnews.com/national-news/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner-3904750"
-webUrl: "https://www.nsnews.com/national-news/facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner-3904750"
+excerpt: "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada."
+publishedDateTime: 2021-06-25T00:32:00Z
+originalUrl: "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881"
+webUrl: "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881"
+ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
-quality: 48
-heat: 48
-published: false
+quality: 68
+heat: 98
+published: true
 
 provider:
-  name: News
-  domain: nsnews.com
+  name: CTV News
+  domain: ctvnews.ca
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/06/20210624140652-60d4d452b46c27ba2366fac3jpeg.jpg;w=650;h=411;mode=crop"
-    width: 650
-    height: 411
+  - url: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+    width: 1020
+    height: 575
     isCached: true
 
-secured: "ML6R0yiEH6mV/XZxWcy7VEBEaNmSxRqjBBVKGfJlCsQ1rGjCHkRdb5/8E0FC5q2wFxUWhjMjA+QZLmcTWflRNqLnjOQJ8/1m201EJbf86DgfxvcKQc5JhuotJPHHu62wbvFPoomK1JyJe+P/58s0CkiEkkGFOIMbFZD8YzXLKCkuLlNrGFdURAaO8Gq6Fb8lYVd/ujvicR+dV42qObOp0iw7Ca71svaP+TtH8rLJ6PRNRVWPl4Vlab+N9jbTDpu/9B9g8/kqCnOWgjk22/k7AQCDB5+Ymeu1f4vF4du5tv5aCRlBNMFiLJ0lrsrQvLRN5U/gSe5P3xaguVxl80Kx1DNOqJuDWtLj2C6gJRd4gm0=;HmyhrrtFYQ42kaPqjc9xmA=="
+related:
+  - title: "ITL launches USB device for facial recognition, age verification"
+    excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."
+    publishedDateTime: 2021-06-24T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202106/itl-launches-usb-device-for-facial-recognition-age-verification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
+  - title: "Civil liberties group urges Liberal Party to stop using facial recognition technology"
+    excerpt: "In a letter obtained by The Globe and Mail on Wednesday, the association calls on the Liberal Party of Canada to “cease and desist using it” to verify the identity of people voting in candidate nomina"
+    publishedDateTime: 2021-06-23T16:04:00Z
+    webUrl: "https://www.theglobeandmail.com/politics/article-civil-liberties-group-urges-liberal-party-to-stop-using-facial/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 32
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/nj5_Fane0STgEM8VWaLc4E-1hek=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/EIFYUZQ6QZPW7FQV6YMGKIYNA4.jpg"
+        width: 1200
+        height: 845
+        isCached: true
+  - title: "B.C. privacy commissioner considering investigation of Liberal Party use of facial-recognition technology"
+    excerpt: "B.C.’s privacy commissioner says the use of facial recognition by the Liberal Party of Canada raises privacy concerns and he is considering launching an investigation"
+    publishedDateTime: 2021-06-24T20:22:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 27
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/gdZLmTqQH5ZX8Bzxt21XRnn0P1Q=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OQSDFMKXJVNDVCJ4XQLDA2GQOQ.jpg"
+        width: 760
+        height: 481
+        isCached: true
+
+secured: "OCWQTpYNyJ+kKsN9W+MnJBNmI95ko4EhCe3U6z8/Y/ZaCJSUHA6PVhaghA0KCc3sNj5xxgso8vJlppwpHSZovh2Y47Lg8n6tYwmuGBpNcJVsnWnV5O9d9ljSx/A05WQS0fF3A5MWshpLtZnaWkM3H/nYTTyS37bDYGdqFCg3VxyIqdM3gow7vtlspSwF7Ld9hng1xmEpkMKH0a70HEKcSIjWb1sTk1wbZxDoM2GlNEOhqS/1qABRLQ7QxuFUygMhspp4z2xbxH+AeKWlWZnLXa3qRBWH71w06J4H+vM4ylo9sDUDgGvCUK7cXsBU5zBsrniy98blNlWEP8WVfZwi8tawUfefIDWC9JhBlLp8P9M=;c5xaS+02aGwLsTMV1dAFgQ=="
 ---
 

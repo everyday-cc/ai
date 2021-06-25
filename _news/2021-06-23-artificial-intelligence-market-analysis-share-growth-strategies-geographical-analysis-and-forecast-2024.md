@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026"
-    excerpt: "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing"
-    publishedDateTime: 2021-06-20T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Share, Size, Opportunities, Analysis and Forecast by 2025"
     excerpt: "Selbyville, Delaware, Global Artificial Intelligence in Manufacturing Market Report explores the essential factors of the Artificial Intelligence in Manufacturing market considering such as industry situations,"
     publishedDateTime: 2021-06-21T17:54:00Z
@@ -56,59 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-06-24T12:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
+  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
+    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
+    publishedDateTime: 2021-06-22T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
-    excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
-    publishedDateTime: 2021-06-23T11:58:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 42
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/dane_eldridge_-_profile_shot.jpg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-06-22T08:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
-    publishedDateTime: 2021-06-23T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
   - title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
     excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence (AI) market in the manufacturing industry in optimistic,"
     publishedDateTime: 2021-06-22T12:40:00Z
@@ -137,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
-    excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
-    publishedDateTime: 2021-06-22T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-based-on-covid-19-impact-analysis-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
     excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
     publishedDateTime: 2021-06-21T20:00:00Z
@@ -165,23 +98,14 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Deep Learning in Drug Discovery and Diagnostics market"
-    publishedDateTime: 2021-06-21T05:48:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4583083-global-deep-learning-in-drug-discovery-and-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
+    excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
+    publishedDateTime: 2021-06-22T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-precision-medicine-software-market-report-2021-2028-/2021/06/22/9395457.htm"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The In-Flight Voice Recognition market report provides a"
-    publishedDateTime: 2021-06-21T05:49:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4583266-global-in-flight-voice-recognition-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
   - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
     excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"

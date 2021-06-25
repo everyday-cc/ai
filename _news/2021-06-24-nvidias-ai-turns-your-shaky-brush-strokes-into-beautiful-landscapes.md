@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-to
 webUrl: "https://www.nvidia.com/en-us/studio/canvas/"
 type: article
 quality: 167
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -176,6 +176,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/NVIDIA-AI-LaunchPad.jpg"
         width: 2000
         height: 1260
+        isCached: true
+  - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
+    excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
+    publishedDateTime: 2021-06-24T23:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/24/nvidias-vid2vid-cameo-ai-brings-2d-photos-life-video-calls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/EMBARGOED-Vid2Vid-Cameo-Image.jpg"
+        width: 1280
+        height: 680
         isCached: true
 
 secured: "oOTdB02bEjGxpDRFIjO3+qg4XHQLa0uAL5ANIn75ZkS+eZAtJdNGYsajWKTgK7A+yR3zIsia/OVLPzQSM+0U9mbykpJc3VPWQgCRVur4Sqsp8Uy/YK9p7L7o7P++M18hjXFc57p6HCOJ0SCXJGrf+tz1A3naX/2u+mQNyq6SAmXHw0LZvu0fKJKcnfkf9ezTt35kNIZ8ZdPU/Bjg2L5RoLk79qPch2nS3mX0fuj+Qqe6faQFjiniIeGx4j4fGH53vrLr5SQC1NcdDFEcPuHwk0RXlw71Lx1OtxqoMQJZpHycQybQriOVp02jeglBrnRlN23kYCFldzuY0mfGSUlA1y4GNaWhFgmN3TKxyHyru6gRV6Z2mqVsYZn4s0KCGu7ZXGk1SpDJ7O55wcyeIXa13z11g0u6zoI4jqEIP6cPJKE23uNNU2vKBsQFlpGiLmC/C9frU9fVhB9qm+XbnXSjWUDEVfDxR1X/MPtDgqhSHBTH9MxG19sf0rLHQQQ9vPLCmv32AAPlDVhSlC0IQlWgAOxL7fBor7AmfSZ5SVemT5Q=;a4UgcTrk77bgD67WbRP13w=="

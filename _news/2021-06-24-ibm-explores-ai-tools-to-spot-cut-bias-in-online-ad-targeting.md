@@ -1,30 +1,26 @@
 ---
 category: news
-title: "IBM explores AI tools to spot, cut bias in online ad targeting"
+title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
 excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
 publishedDateTime: 2021-06-24T10:16:00Z
-originalUrl: "https://www.metro.us/ibm-explores-ai-tools/"
-webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
-ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
@@ -40,6 +36,22 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM explores AI tools to spot, cut online ad targeting bias"
+    excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
+    publishedDateTime: 2021-06-25T00:18:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Creating An AI Text-to-Speech Using IBM Watson"
     excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
@@ -137,8 +149,8 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 34
+    quality: 36
 
-secured: "DSC0KfhW9kHkuik+lJwEeZNFIv7URdqq4NvrbZnO/euzRRYbiJ1Hh3YjhwMKM0apViBTGo/8ZSGTImGq3XLCXOgcE5ZnvszCpqN567dBx+i4NyG/fE4p7TtJ/CcnGVhBrxVsK6eUHeS1sPsUuwPAN9nzqBtxg06CT1Mdq3/6/MZISGxGc0WcR/NurgU3d3Ate8zSqCkO/RntP8DI07SQ7l5BFp84TbiTcXfxhsuR+eXkuHhC8ylrPnMt2S49iJZckS73B1Ellcx84pEbgW6s7WDJ3MyqaM5VGyalsz7EPPtJMnAbIfE0AnC481Z4Ci8cH+4GR1gaQ0hr59f9/3kFRw2WPdpXmts0M+TnC8P9scycbiW5PGGS4saRxtY7jo21hJQJHI0enyJf2fV5Z8bSW94AxrkdykIIdnTg5mm6VjtLcYCYsVgK7ccNDyvu2+gWROzN9DG96TmmM3Enr/FmgsWkRp+KN2Q54AZCNH4GIPb0+A43cgSedvY+MPlA+dyzlISSmdiIGEPnImztahcc8A==;QY9NrZ3lL1mqpTlTNYH1yw=="
+secured: "Q1H6Sx6m3xMMf7xkM5o9O4XoL4YgHkPMHhgxUjKpVfLHrGSXnUAybQEvr71AvpI5ligaxhKDOLS7wGLdnsH7haJv0ZOci96Z4s2muvJgg9HiqC0o3ASIPWXSr+UD8e2wWD+CH3iJljNbvLgfZpnf8IoYFkbZ6VkleWZUUlzCUQDsQZieS9te1Z2RYcME69x4Vj+3C2pN/xx82PL6nEU6DiXRBRwsomgXA9V8BjhiEB9clJ/FvF1rR3D70eKf//4+czVdpRHHpOyYrsWqENPvdlxak9Tsgchn69gTKC3ptskLRCMyeCMXngg9J6pxO4U36WW9ikUMEcjqzT/JPIPeuWT4ekFbJwl8Ak1RpIWVFhY2Hai994KtE2kudIVqH/SJhJuLgpG+O3PA41S3I7kyNN59kHc7xJi90QavsU/uk6Yur14WFYRwanymqB9v4gRWVL8WdKwNXeO7HmV+oImMomo3tA7VrVLP8/jMl4EnIXhlLNxUsM3thSaJlIFOOpP27qI1AqzRx8AfaIqhRpdrAw==;X6Eg9badcLmugG1GXgNrNg=="
 ---
 

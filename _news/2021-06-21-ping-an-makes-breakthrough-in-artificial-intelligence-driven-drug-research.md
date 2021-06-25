@@ -37,21 +37,21 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
-    ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
+  - title: "IBM explores AI tools to spot, cut online ad targeting bias"
+    excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
+    publishedDateTime: 2021-06-25T00:18:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 59
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
-        width: 800
-        height: 533
+      - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Creating An AI Text-to-Speech Using IBM Watson"
     excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
@@ -67,6 +67,15 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
+    publishedDateTime: 2021-06-24T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
     excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
     publishedDateTime: 2021-06-23T16:42:00Z
@@ -140,7 +149,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 34
+    quality: 36
 
 secured: "mmKaw4Y7hHMXlQSMRFNp3PAqCO908kFOya5vQ/L6Jn52DGVTG+0uknlUAaIB0i/iE2KAiPE+2lMVjm35mqmt3rCOxHykltF1HD1zYTkgT0vyjTnP+o959IkTbaHsiFm7zklpt/hqQqhH17KrBteS1O9TsUIc+MUuuBClmSeSn3qzAxnOood97IoUGgG6/FbDFmqF/Ry4XulgH6lwaDFye/RdHrxBYcor50wSyh/TsYcNPnabMT2O4oEo0ZWGNkmaOutcQrhXHAvy22u8L+VRxmI65SMAvO2Yu088u6HBgyLa4pRg/ulmGeN1a8DRVDmw+37UEa01XEJSx64F6lXCr71oN2qLRVXdVUlHKWIzDwk=;I97kxMlrWCnrAXPcWEvK9g=="
 ---

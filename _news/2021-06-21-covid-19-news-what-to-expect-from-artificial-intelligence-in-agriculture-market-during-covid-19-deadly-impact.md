@@ -39,6 +39,54 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-06-22T08:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
+    publishedDateTime: 2021-06-23T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The In-Flight Voice Recognition market report provides a"
+    publishedDateTime: 2021-06-21T05:49:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4583266-global-in-flight-voice-recognition-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "8/NaPctRBZqo+2uRFC06ta3N06aIZ2Ybyv4STsKlKx8kNhZ+w3fzFFAb4JQM89R15jYPDU0XNeeY0y+4MFoTspkvixi2OMLoola92mYqS5/f6xsBwfAxMiYpSPybBB+gLCoca1TBlmFFPzpJGL+H7kJsRjispPmvK2aQRpOb5nduI7obHJJ7sC2jva+7W8kvyTjSbsXHtH6Al5xqbvp0CUDkzMJtdcllzKies2HyEzcl3aAK+y1/aMdv8RbJzfzI46D6fFZKkf5nlRQHlDHY2kwBAEPHAZGCdDGLYm9HV+3GjMaLCW1GOuygAjqOZk+sObRacA3awIKmlDI2rzF1liTMZVwl0rmqHbASeqBxHIFf/7E0lTVepXsLZjjTS0UmU0sG9eWupnmd/htIrk3ksmcJoRfqO3Xy+ZOO/0nnb9F2sbZ2PX6tN4V+sx3RU9kW03kLfH2tOLsoMDRebEso/JGBcfxEteRA4LRhdy93kC4Ip5j8uwfCWJKOUpYhl9Av+kXME3k3IJW7gqrwbv2kKw==;YLJv6/vtJrkw7ELr2mgQhw=="
 ---

@@ -2,6 +2,203 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-05-30-computer-and-human-vision-perspectives.md",
+      "title": "Computer and Human Vision Perspectives",
+      "excerpt": "4. On what it means to see, and what we can do about it Shimon Edelman 5. Generic object recognition: the case for high level 3-D features Gerard Medioni 6. Functional organization and development of the human ventral stream Kalanit Grill-Spector 7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/us/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives",
+      "originalUrl": "https://www.cambridge.org/us/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/object-categorization-computer-and-human-vision-perspectives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-why-natural-language-processing-is-ais-jewel-in-the-crown.md",
+      "title": "Why natural language processing is AI’s jewel in the crown",
+      "excerpt": "As we enter the intelligent era, smart devices and data volumes will skyrocket, as will the demand for human-computer interaction through speech and language - that's why it will be a US$16 billion market by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
+      "originalUrl": "https://www.huawei.com/it/technology-insights/publications/winwin/33/why-natural-language-processing-is-ais-jewel-in-the-crown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www-file.huawei.com/-/media/corporate/images/magazine/winwin/33/liuqun-natural-language-process-l.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Huawei",
+        "domain": "huawei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-novel-ai-tool-to-help-assess-covid-severity.md",
+      "title": "Novel AI tool to help assess Covid severity",
+      "excerpt": "Toronto, May 29 (IANS) Researchers have developed an Artificial Intelligence (AI) technology that is capable of assessing the severity of Covid-19 cases with a promising degree of accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/novel-ai-tool-to-help-assess-covid-severity",
+      "originalUrl": "https://www.glamsham.com/world/technology/novel-ai-tool-to-help-assess-covid-severity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-beijings-self-driving-vehicle-test-mileage-tops-3-mln-km.md",
+      "title": "Beijing's self-driving vehicle test mileage tops 3 mln km",
+      "excerpt": "The safety test mileage of Beijing self-driving vehicles has exceeded 3 million km to date equivalent to going about 75 times aroun",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/269677672/beijings-self-driving-vehicle-test-mileage-tops-3-mln-km",
+      "originalUrl": "https://www.bignewsnetwork.com/news/269677672/beijings-self-driving-vehicle-test-mileage-tops-3-mln-km",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-29T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-29-new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients.md",
+      "title": "New AI tool to help doctors assess severity of COVID in patients",
+      "excerpt": "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree",
+      "sourceUrl": null,
+      "webUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "originalUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg",
+          "width": 600,
+          "height": 298,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
+      "publishedDateTime": "2021-05-29T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madhyamam",
+        "domain": "madhyamam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-mind-controlled-robot-arm-allows-paralyzed-man-to-drink-beer-like-a-boss.md",
       "title": "Mind-controlled robot arm allows paralyzed man to drink beer like a boss",
       "excerpt": "Featured Video Hide Just ask Erik G. Sorto, who hasn’t had the use of his limbs for 12 years: Thanks to a new prosthetic robot arm that he actually controls with his mind, dude can now kick ...",
@@ -951,238 +1148,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.md",
-      "title": "Tech Digest daily round up: Driverless shuttles hit Cambridge roads",
-      "excerpt": "The UK’s first driverless shuttles have taken to the road in Cambridge, carrying their first passengers in a trial alongside normal traffic. The autonomous vehicle took a 20-minute journey around the University of Cambridge’s West Cambridge campus in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "originalUrl": "https://www.techdigest.tv/2021/05/tech-digest-daily-round-up-driverless-shuttles-hit-cambridge-roads.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2021/05/starship-sn15-flight-stream.jpeg",
-          "width": 990,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-new-ai-powered-deep-learning-model-to-support-medical-diagnostics.md",
-      "title": "New AI-powered deep learning model to support medical diagnostics",
-      "excerpt": "A new deep-learning model can learn to identify diseases from medical scans faster and more accurately, according to new research by a team of University of Alberta computing scientists and the U of A spinoff company MEDO.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
-      "originalUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-powered-deep-le.jpg",
-          "width": 2880,
-          "height": 1622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-05-ai-powered-deep-medical-diagnostics.amp",
-      "publishedDateTime": "2021-05-28T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-recent-outages-could-be-taking-some-of-the-shine-off-ibms-cloud-offensive.md",
-      "title": "Recent outages could be taking some of the shine off IBM’s cloud offensive",
-      "excerpt": "It's difficult to tune in a golf event or even some entertainment programs and NOT see ads from IBM touting its cloud computing efforts. But behind the video glitz there are problems that tech co",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/05/28/recent-outages-could-be-taking-some-of-the-shine-off-ibms-cloud-offensive/",
-      "originalUrl": "https://www.wraltechwire.com/2021/05/28/recent-outages-could-be-taking-some-of-the-shine-off-ibms-cloud-offensive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2020/11/cloud-computing-internet-of-things-e1605713015179-1024x576.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-why-its-time-for-your-agency-to-finally-adopt-ai.md",
-      "title": "Why It’s Time For Your Agency To Finally Adopt AI",
-      "excerpt": "If you can make informed decisions from the start, your agency will have a much better chance of succeeding. Just remember that adopting AI doesn’t need to happen overnight. As long as you’re moving toward the next era of creative performance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/05/28/why-its-time-for-your-agency-to-finally-adopt-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/05/28/why-its-time-for-your-agency-to-finally-adopt-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-ai-rises-to-the-challenge-with-cobol.md",
-      "title": "AI rises to the challenge with COBOL",
-      "excerpt": "As is the case with spoken languages, meaning risks getting lost in translation between different ... reveal the bug that they seek to fix. When AI knows in advance all behaviors, such tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol",
-      "originalUrl": "https://www.techradar.com/news/ai-rises-to-the-challenge-with-cobol",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ai-rises-to-the-challenge-with-cobol",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-rises-to-the-challenge-with-cobol",
-      "publishedDateTime": "2021-05-28T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

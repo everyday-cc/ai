@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
-    excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"
-    publishedDateTime: 2021-06-21T15:34:00Z
-    webUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses"
-    ampWebUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+  - title: "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner"
+    excerpt: "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada."
+    publishedDateTime: 2021-06-25T00:32:00Z
+    webUrl: "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881"
+    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 49
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 68
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 575
+        isCached: true
+  - title: "ITL launches USB device for facial recognition, age verification"
+    excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."
+    publishedDateTime: 2021-06-24T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202106/itl-launches-usb-device-for-facial-recognition-age-verification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
   - title: "Civil liberties group urges Liberal Party to stop using facial recognition technology"
     excerpt: "In a letter obtained by The Globe and Mail on Wednesday, the association calls on the Liberal Party of Canada to “cease and desist using it” to verify the identity of people voting in candidate nomina"

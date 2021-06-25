@@ -60,6 +60,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
+    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
+    publishedDateTime: 2021-06-25T01:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "5 solutions for Fintech companies to stay cyber aware in 2021"
     excerpt: "By Neville Louzado, Head of Sales, Hyve Managed Hosting Cybersecurity continues to be a top priority across industries – as financial institutions are responsible for storing and handling sensitive data from millions of users,"
     publishedDateTime: 2021-06-22T15:51:00Z

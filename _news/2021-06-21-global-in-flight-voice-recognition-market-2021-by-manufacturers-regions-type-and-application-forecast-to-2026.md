@@ -19,43 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026"
-    excerpt: "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing"
-    publishedDateTime: 2021-06-20T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20"
+  - title: "Natural Language Processing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-06-22T08:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Share, Size, Opportunities, Analysis and Forecast by 2025"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence in Manufacturing Market Report explores the essential factors of the Artificial Intelligence in Manufacturing market considering such as industry situations,"
-    publishedDateTime: 2021-06-21T17:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-share-size-opportunities-analysis-and-forecast-by-2025-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Analysis, Share, Growth Strategies, Geographical Analysis and Forecast 2024"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence Market Report explores the essential factors of the Artificial Intelligence market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
-    publishedDateTime: 2021-06-22T19:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-share-growth-strategies-geographical-analysis-and-forecast-2024-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -74,20 +46,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
-    excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
-    publishedDateTime: 2021-06-23T11:58:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 42
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/dane_eldridge_-_profile_shot.jpg"
-        width: 300
-        height: 225
         isCached: true
   - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
     excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
@@ -114,91 +72,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
-  - title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence (AI) market in the manufacturing industry in optimistic,"
-    publishedDateTime: 2021-06-22T12:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-grow-787-billion-manufacturing-/2021/06/22/9394911.htm"
+  - title: "COVID-19 News : What to Expect from Artificial Intelligence in Agriculture Market during COVID-19 Deadly Impact?"
+    excerpt: "The research report is an ideal source of information for businesses and individuals in search of complete insights and statistics pertaining to the artificial intelligence in agriculture industry. The report furnishes key market segments,"
+    publishedDateTime: 2021-06-21T11:29:00Z
+    webUrl: "https://manometcurrent.com/covid-19-news-what-to-expect-from-artificial-intelligence-in-agriculture-market-during-covid-19-deadly-impact/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 18
     images:
-      - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg"
-        width: 400
-        height: 225
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-COVID-19-Impact-Analysis-2-720x470.jpg"
+        width: 720
+        height: 470
         isCached: true
-  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
-    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
-    publishedDateTime: 2021-06-21T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
-    excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
-    publishedDateTime: 2021-06-22T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-based-on-covid-19-impact-analysis-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
-    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
-    publishedDateTime: 2021-06-21T20:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-markets-to-2025---increasing-demand-for-big-data-analytics-due-to-huge-unstructured-data-generation-at-end-use-industry-sites-301316528.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Deep Learning in Drug Discovery and Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Deep Learning in Drug Discovery and Diagnostics market"
-    publishedDateTime: 2021-06-21T05:48:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4583083-global-deep-learning-in-drug-discovery-and-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
-  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
-    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
-    publishedDateTime: 2021-06-24T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
-    excerpt: "This study elucidates how the Automotive Artificial Intelligence (AI) market Sizewill perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
-    publishedDateTime: 2021-06-24T17:53:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142647/automotive-artificial-intelligence-ai-market-with/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 0
 
 secured: "eVVhK5h6UkX4sV9d+HfLO7kZdZTqu9ccswF15J4zdRiUtcM7xCjzTr7ZxIUR6gVlN9pLxYCL1jx75ZhO4r0yl/gzYAWu659jevDoAvmmnAesdd26DaQ8gH9030Mxfq/jxQcJmCGL1WK2J/1s/Y2KOrTmMIQEtV/OtJLG2qPDpaoYv8xPN9F8P119IJv/siqvkGnKVyGu6TweW/JPPoKmWq+wZZWM9OVf6/mDeXvOEA0agM4VJhSEHL6apHNUPajkl0QnUamKuuCVpwTjvSgDFe4Q+0x0KpfjIAIv295R1FwJE9LoZAE2jT06mj6g5bRyx59seMqr7mVJcH+6Cbw9CWD9pE711jJYmd5WM43E/1E=;twmacP+i2YR8HQWsIcbSpg=="
 ---

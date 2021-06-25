@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-09-salesforces-ai-surfaces-relationships-to-drive-sales.md",
+      "title": "Salesforce’s AI surfaces relationships to drive sales",
+      "excerpt": "Salesforce's new tool, Einstein Relationship Insights, finds relationships between customers, prospects, and companies",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/salesforces-ai-surfaces-relationships-to-drive-sales/amp/",
+      "publishedDateTime": "2021-06-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-rws-announces-revival-of-language-weaver-brand.md",
       "title": "RWS Announces Revival of Language Weaver Brand",
       "excerpt": "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation.",
@@ -1308,49 +1361,6 @@
       "provider": {
         "name": "Huawei",
         "domain": "huawei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-29-india-will-see-breakthrough-application-of-ai.md",
-      "title": "India will see breakthrough application of AI",
-      "excerpt": "Nilekani said this during a fireside chat with Ajay Sawhney, secretary in the Ministry of Electronics and Information Technology (MeitY) and Debjani Ghosh, president of IT industry body Nasscom",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/articleshow/83044473.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-952319,msid-83044527/nilekani.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/india-will-see-breakthrough-application-of-ai/amp_articleshow/83044473.cms",
-      "publishedDateTime": "2021-05-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

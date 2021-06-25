@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance,"
-publishedDateTime: 2021-06-11T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-513-billion-2026-/2021/06/11/9388941.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-513-billion-2026-/2021/06/11/9388941.htm"
+excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),"
+publishedDateTime: 2021-06-11T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "iQibkshtZ81ihnYvvr800gS14EbObWOwLhjmYEjp3+sOzhEFfT6NjBiVyIdqeHQ/1DPVo8NRhO7gUol1lcEjFNXnHIIfcjCALWo2uXWYW/LQIKl4bR+ryg/YqPaNIf3hXo4HbgEMdWp3TPS+JuTJ+L0vn4IJLpI5uwDLGv/ZPch/MMFOajlxwtWVUoxuYmYUlnlYX0d38Cfs5YFEJkIZSajqW1ULqe16FT7d/nTHlzz/xxk7xU9T8fva82o0N/xYoN6czcF30OFFVx68r+XyfuFf7hwKSFHWnLc5b/BLpr9/jPDqsZRg5VPfUFFoCGNAomb3mvCwRZoH7B8PiiGHZWDvAxcPfyKsqZUN7eQexfRYfZnwgO4Ska4fwudci6a+6tmlL6rwxXMzTJ8gmROvDTZGkcjAg0vgIWCyGUvoJ/G03egGtGW3c5YMJ+Efx9BIZAYsmu8wfOCjOmTg7cr50p34IQaYN6jU86X6IM5mjqdL8z2SFrWrT+XoX1GzLn6mU5Eacd1Xx5LfK8lYsIGQKg==;9dKndkDicGC0J09RES8+nA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
+    width: 669
+    height: 229
+    isCached: true
+
+secured: "OLNFMZKL0O5z3wS6g4aRD3o+kKxxkiUhbjPaQkIszlI239crx7DwWs+/pMqQU5QoVW/dR58u8ru96xu85Z87/2CpjBsxTevxd19tfQtSoAm97yLJr/9GmuEvabhwutD/z7g5MIIw7zsJMdFwUHDE2SPE1OOc0XY3hPJPSUwxvwfwAujF7bFLnemy46S2iNd16ZCGPLQtEuYf9S0ujKsS4UbehyYYGCFslKi0lHlQ6ZCRVAklLTtm9qKZtE4uSt+VRodh+LwGNOmqrMnHq+3ViSp6zs6q32DDxGlCFgAaPoATFe9zcIEtFY5/WiQeSGrgBNd0jQflo4AUSWM+DmPaoR6cUcHMhtS7HQP9Hc4Lzc4=;H9Ctzpwfu24JfvX+Ke5BrA=="
 ---
 
