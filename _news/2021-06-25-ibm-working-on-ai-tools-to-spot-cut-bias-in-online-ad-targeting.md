@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 type: article
 quality: 91
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Watson’s new research explores how AI can mitigate bias in advertising"
+    excerpt: "IBM Watson Advertising announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
+    publishedDateTime: 2021-06-25T09:54:00Z
+    webUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/"
+    ampWebUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 72
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-simulation-main_opt.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
     excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
     publishedDateTime: 2021-06-24T11:13:00Z

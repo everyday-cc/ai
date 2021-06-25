@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "AdTheorent Named \"Best AI-based Solution for Advertising\" For Fourth Consecutive Year In 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "AdTheorent, Inc ., a digital advertising leader using advanced machine learning technology and solutions to deliver real-world value for advertisers and marketers, today announced that it has been selected as the winner of \"Best AI-based Solution for Advertising\" in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2021-06-24T16:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program-1030551876"
+  - title: "AdTheorent Named “Best AI-based Solution for Advertising” For Fourth Consecutive Year In 2021 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "AdTheorent, Inc., a digital advertising leader using advanced machine learning technology and solutions to deliver real-world value for advertisers and marketers, today announced that it has been selected as the winner of “Best AI-based Solution for Advertising” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+    publishedDateTime: 2021-06-24T14:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-business-science-7da5db7c583d9319d7bf8de88a02c384"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://mma.prnewswire.com/media/1550935/AdTheorent_AI_Breakthrough_Awards_2021.jpg"
-        width: 400
-        height: 390
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Vpx20f2ZLt2omloNr9X1SdS1E9o1+uqyWHTWcwKL225ujprr30NgJBbORqXS0yQsGSbfLXrQ0+P3haXfhjd5xUo4cCVf7BxpFKf4zRJlOx0/sudqK+UjfydIDwdF4mkAl3uA78h6bHBYE7OfbaKeJBEa223GeMKp2lz2ijBYZ3iXqZ5V1nnN2iTvajpTPg+sZBsJZpLJXIx0wgKuC6t6C+KoDvXltjW+8QIpxE/uOuiXtvPeM0HoOwKbpHKo6y4wKB/U38r9hSkkaCN8qxXBzPX8txVemcEr15uzjQwI8XRscip3lfVKv1QIi3dKgyNKUAdwbu4KYD4VEnu/z+IyiAKRhi46E2zL7ikRBnV61E1sBueiKiDOYHdRjvZWoIzPBqKmAQ1N22YFVK5NjI0A+IluxVFoqP8G/1HUMGlxztvtY4pmuBLRHy1tBvhAhOLRLjTaIKlFyfNAYJn7/QFhYyYjSRwUFdu9gMDE7eFOnZvTC/1iOsO+qwF/fo5gPG2NDiMm9obRA7Te9VYzemfnUA==;N06unWR6qFnpH/n5k+VuuA=="

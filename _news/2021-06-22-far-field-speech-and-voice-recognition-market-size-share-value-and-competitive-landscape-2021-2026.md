@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "Automatic speech recognition (ASR) is the use of computer hardware and software-based techniques to identify and"
+    publishedDateTime: 2021-06-25T08:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
     excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
     publishedDateTime: 2021-06-24T19:07:00Z
@@ -176,6 +190,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 10
+  - title: "Far Field Speech Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 22 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with machines using"
+    publishedDateTime: 2021-06-25T11:16:00Z
+    webUrl: "https://www.openpr.com/news/2314046/far-field-speech-voice-recognition-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
 
 secured: "crXch9LudRce9nlTu36ct4H1P4H4rUX9KOFxd+S5rXXxIJiPZoEr2Et+48NIBxENCGbN8naqs4pOwLXkwPS4YMzhAEP+zmHHqXSchE69/u3Yvz2dh5odgYtew4uJz5QnDubJ7meOPWR0/7d7pY7Xywevkqjz5EpbB0dk2zCBPRqJzzy8WYnPxOCcGk0jRSHjJuR68q5HIdh0qXILXtYC7cuTjDmH8wOtVF6OrEWwB2P5gD1KhvyWoKyBkR+6UZ5HX6TiFYu3tIWRx8BZnSsERyFUZFQwpGpZSrEyLFZeEqWKADwDS+R3f42B3nqXraprPeoqCje+OzzKoU2Z7Ugbj8yAMKHjnxKJSbE9YQreyj0=;iakj5JPnl648qGY731tYPw=="
 ---

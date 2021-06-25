@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Closes-on-Turbonom
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-Closes-on-Turbonomic-Acquisition-to-Deliver-Comprehensive-AIOps-Capabilities-for-Hybrid-Cloud-147575.aspx"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "IBM Closes Acquisition of Turbonomic to Deliver Comprehensive AIOps Capabilities for Hybrid Cloud"
-    excerpt: "Complements recent acquisition of Instana and launch of IBM Cloud Pak for Watson AIOps to address AI-driven automation of IT; powered by Red Hat OpenShift to run anywhere Acquisition builds on IBM ..."
-    publishedDateTime: 2021-06-20T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1192861&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "J0cOqk/Va/pbhsrAynEJIR0mJmTnh9w01filE/rbA4jOF+7c5pr6xq3l4ZIoSHykovhHtVSiVzONqUUoB2moTZoOvAkzEHvR6xtoyObHNr6v7uU8rYCeUqonHKy36caZxV5QoQNEWR5agpKSrWGnyynFHCDlxlS847U40waRS2UwJcZ1F2pYoZrpPOehNNx7/AEjcNEp8pN1bSm6CB7TwL7ZCfdzCVNzQWzimI1hWGxsK/q5NhlglyvKM8RO/GJ8Hig9ZNNRLgAo0MBUdLBLkwL4MEYCnPYo7hFGtvhUVb8S+y5IHXg7Wsg+bdKMqfpjS6nt3/GS7Tud6Tfnz3lxXG+d0jLZLgrWEe/lkChdsrU=;eRC0mCpsITILW+kbwrgUvQ=="
 ---

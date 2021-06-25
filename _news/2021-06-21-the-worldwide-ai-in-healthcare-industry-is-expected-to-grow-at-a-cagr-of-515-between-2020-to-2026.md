@@ -51,6 +51,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global GPU Database Market Size, Share Valuation to Reach USD 279 million By 2025"
+    excerpt: "The report GPU Database Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides GPU Database Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-25T09:42:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142680/global-gpu-database-market-size-share-valuation/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 14
 
 secured: "z98tFYPg6ZmOttyeBkLMuX/B3BhoS9ZAXSbTPQ46m4S9PQXj/vX6bHKvrogPy26Ti/2Ay9Ahq9Jhz7s58IsFQibAEwwU7oMotVcnghhr4yIeG7d1I1GZdK6QvwVQhELkaNlGSmkQPXukrY7mA06MpKVyi/TIlLRWUcERc38VfUrWv+L5ZjtZ2uof025ReWBavw2GlgE6JbQAcjDTsDlyTN1EsFM5xBim4vKqwzQr//IBmO/o+SsKNCEMLVHwmxTgYJ03LQ2YW3vnk7D1gk1N96UhWjuU7NWNQ4SmbtP4/WLBGGz7EMZg0MAT11OlX7/SlYK+YBxR4qyZXLCzBucLMJAOeJ81J+FsnmkV7NwYmhY=;G9mogLoXDUC/i/1Rd+NeKQ=="
 ---

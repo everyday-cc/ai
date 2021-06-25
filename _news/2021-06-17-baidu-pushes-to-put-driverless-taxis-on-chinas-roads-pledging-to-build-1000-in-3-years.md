@@ -15,6 +15,10 @@ published: true
 provider:
   name: com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html
   domain: com/2021/06/17/baidu-pushes-to-put-driverless-taxis-on-china-roads-with-baic-tie-up.html
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -102,6 +106,6 @@ related:
         height: 472
         isCached: true
 
-secured: "EMJH1Vs5qL3Ns4ZkgC3EwIV0KgbSzdu8S5DFsL0PYXqKwOFYeEdFV16wlVD3uZWTeOK2tSFmbf1G9xUT5LCm2T65yE+3+mzFhe47Urg2fIdNpc/xyHVG0UDrI2Arwob5WhynRPg/OR8R22VRIf0R67XB+bRs5oUxRhbFDM3gu8+0KFWIModXf+AGUyaT3BD6s5AnsfFdtwc9QyXABvGRhlxQcJESyosZA/TbwSRRbM2sSPJ2ZfMtyMToC82yz12BWMEIf5Wz8LDNSrttPVHwSZvh7CBOsPEqrKHHf6N1AVbfs50HIyNXJ7RgAF9DfH3WPFjn95FcrfumiX58g9nwsuiVcZylG75QZYMOsosQreg=;K4tK0vERbgqApsAc50Untg=="
+secured: "VBOeCZmBfmG/09hvnDHX0F7uvWA1Wwz6oh6TEO2El+l3C2mrxGnThbmqjZGa2LtXgYCyzDq0idJ3w8YyQbcjEQjWh4oISUexB94elz61xAezpb/PlvhkV+0EEN5xPmA1I5S+1GQJzXgj1ABahlimwSXsr7y17QD1o67/L1H35ILaJKArO4KBxPUyDpTHBeuC3YmeOkFqxw8d4ru9Fq+MUVPyv1KBHL5SeZraM8fqkFdMopdibyFt3OSU2rCE23Kv4X24Cqy45mff+LV6ZCicA/QtW88ql8ZMRVvmPxEQbe3KXqGOtuayKJQ1ZM6PZhIYXLcwkQBP8sGnQOUrnPJiImE2NaUrTlLdfp2aN8SxwU1HqfNCMGMSwP+X0n9bvQls;IgdTrUG6kCXRKTpKwND4qA=="
 ---
 

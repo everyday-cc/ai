@@ -110,6 +110,20 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Lost Edges of Rembrandt’s ‘Night Watch’ Are Restored Using Artificial Intelligence"
+    excerpt: "Now, researchers have restored the work to its original size using A.I. As Mike Corder reports for the Associated Press (AP), experts used a combination of scanners, X-rays and 528 digital exposures to recreate and print the missing portions of the canvas during “Operation Night Watch,"
+    publishedDateTime: 2021-06-25T10:30:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/lost-edges-rembrandts-night-watch-are-restored-using-artificial-intelligence-180978056/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 33
+    images:
+      - url: "https://thumbs-prod.si-cdn.com/8OVtrBDKufYIei7y3J905SD9Z60=/fit-in/1600x0/https://public-media.si-cdn.com/filer/89/52/895244a6-8aef-42e8-9878-2a8d43ec7511/rembrandt_night_watch.jpg"
+        width: 800
+        height: 507
+        isCached: true
 
 secured: "TUhFkI1vktf+Kv6r+o8bbZtqmeNX2ydn16aonyK6UsUBfJEAG/Bd8PVj1vdn3AHwwu5dh7S4HP3oKpfEiEq+yQCujHU+Hpgpka0JBKX2eWoUSEdRtLQ9w4xA6T+v9lZUGc0qW0hodb0SBKSxqA4NS9ypsOkTvbi8GEM9B4J1GDDLKuw88JW4DWMns5YUKYAJb1wxshpXYfIw/Iozuw2Vu3diyXhArkC8LdYcoxiD0qvF750EqhG6QB7rM+iSHm45tPaZfd45aulizJTzFBgVO3+6//4HE/KeTv6qFosnxzafSbKdF2e6HJpZMY27XvHUkORzLLRKYqz+SzH6ZJFspgPNm2IZM5pm9eb7sTpK1Rs=;xKsHoAz/vf4/fMB4RS62OA=="
 ---

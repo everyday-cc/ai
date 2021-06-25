@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificia
 webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global GPU Database Market Size, Share Valuation to Reach USD 279 million By 2025"
+    excerpt: "The report GPU Database Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides GPU Database Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-25T09:42:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142680/global-gpu-database-market-size-share-valuation/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 14
 
 secured: "6comS4og7SDW+WWCOss0NwGHTqUWG21CMHD3NXiTzccUF13bvx7yNOUNBpqn3m5tyLeHtkbR6MXOJWCrJLkbFSSM9U7HGitpFXS4RHb7pWEtjHtNC3OBugZLUoS9FQHVLeQZ2JBvhsEmz7DxgLJpSEoVlU5B6b2Tb3IMjtUw1gaMF4JTsmtx9ryXm2C5fj5BU3AWbqhScgNy0uqVz4qJl05frm4IDMMyfzhEi3BDpRK4oShw9NDlyLL+etUtyPms2YkizkgBTP2Qdh/SfkMp975wu2THhExGubgBFyop0vw+cYFpad4ttSYOl9U75WjIOEBlGxmu6yW2Mtcd7CKYrXCHAC/UeyRXUJnNYdcEusE=;KDEFmkZ4y5s/1Nxz+VsC4w=="
 ---

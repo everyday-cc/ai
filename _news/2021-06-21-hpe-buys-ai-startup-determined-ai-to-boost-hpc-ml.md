@@ -82,20 +82,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Robots make more business sense with AI"
-    excerpt: "Robotic systems are now reaching a level of genuine usefulness in business –  just don’t expect fireworks. Robots are secretly becoming practical these days. You wouldn’t necessarily know it: there has been no flashpoint moment or Elon Musk figure in the robotics field."
-    publishedDateTime: 2021-06-22T11:49:00Z
-    webUrl: "https://www.just-style.com/features/robots-make-more-business-sense-with-ai/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 56
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/06/possessed-photography-jIBMSMs4_kA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1843
-        isCached: true
   - title: "HPE Buys Startup Determined AI to Accelerate ML Training"
     excerpt: "Hewlett Packard Enterprise on Monday announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful"
     publishedDateTime: 2021-06-22T02:59:00Z
