@@ -1,26 +1,30 @@
 ---
 category: news
-title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
+title: "IBM explores AI tools to spot, cut bias in online ad targeting"
 excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
 publishedDateTime: 2021-06-24T10:16:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+originalUrl: "https://www.metro.us/ibm-explores-ai-tools/"
+webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
+ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metro US
+  domain: metro.us
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "IBM working on AI tools to spot, cut bias in online ad targeting"
@@ -33,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all"
         width: 1200
@@ -98,6 +102,6 @@ related:
         height: 557
         isCached: true
 
-secured: "Q1H6Sx6m3xMMf7xkM5o9O4XoL4YgHkPMHhgxUjKpVfLHrGSXnUAybQEvr71AvpI5ligaxhKDOLS7wGLdnsH7haJv0ZOci96Z4s2muvJgg9HiqC0o3ASIPWXSr+UD8e2wWD+CH3iJljNbvLgfZpnf8IoYFkbZ6VkleWZUUlzCUQDsQZieS9te1Z2RYcME69x4Vj+3C2pN/xx82PL6nEU6DiXRBRwsomgXA9V8BjhiEB9clJ/FvF1rR3D70eKf//4+czVdpRHHpOyYrsWqENPvdlxak9Tsgchn69gTKC3ptskLRCMyeCMXngg9J6pxO4U36WW9ikUMEcjqzT/JPIPeuWT4ekFbJwl8Ak1RpIWVFhY2Hai994KtE2kudIVqH/SJhJuLgpG+O3PA41S3I7kyNN59kHc7xJi90QavsU/uk6Yur14WFYRwanymqB9v4gRWVL8WdKwNXeO7HmV+oImMomo3tA7VrVLP8/jMl4EnIXhlLNxUsM3thSaJlIFOOpP27qI1AqzRx8AfaIqhRpdrAw==;X6Eg9badcLmugG1GXgNrNg=="
+secured: "gaVVZJ5DZNqUg+rd7IFq4D7yedpQhVEqjzB8jxk+irU6WA3UMfzzD8nV+zOoWAr2I5h5pYiq/XQzYmpgG/8nIQ3a0GiHjrFqiTuXNDawRgwF8QUzN0v5lSgntZmMoP+GK/JOgYGoxRXB713HVKqDl2c3Xh7iEkrn8q32IVkK770ehR5Xazq6SUM3jbTkJKS+9EsmS51bE4KJKcN7C8FYq/xrBRHrO9aly4hswXhx8HNRnm1ptlHI4To0H/JDjLo9+yq7dpxnBjQKGw6mOQt9yFGpowoXSqt8ThxzZ67Ay0IFLPlyC3dgMF1kHfq75sfqGZHnC3KTgGWNWWJdsa0CEGD7oEJNdBa+f5ayGxnz1PY=;Ckxq3YtWVqI16FWKiRdPyQ=="
 ---
 

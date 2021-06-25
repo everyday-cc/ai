@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/future-of-mobility-transportation
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Real estate agents should be the first to be replaced by robots"
+    excerpt: "If ever there was a profession to be automated out of existence, surely there are no arguments over which it should be."
+    publishedDateTime: 2021-06-25T04:20:00Z
+    webUrl: "https://www.businessinsider.com.au/real-estate-agents-automation-bullshit-jobs-australia-2021-6"
+    ampWebUrl: "https://www.businessinsider.com.au/real-estate-agents-automation-bullshit-jobs-australia-2021-6/amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/real-estate-agents-automation-bullshit-jobs-australia-2021-6/amp"
+    type: article
+    provider:
+      name: Business Insider Australia
+      domain: businessinsider.com.au
+    quality: 59
+    images:
+      - url: "https://edge.alluremedia.com.au/uploads/businessinsider/2021/06/GettyImages-163842036.jpg"
+        width: 2159
+        height: 1388
+        isCached: true
   - title: "Enterprise hits and misses - AI-for-good versus AI-for-yuck, edge computing hype versus reality"
     excerpt: "This week - applying AI across industries brings use case lessons. But the AI-for-good versus AI-for-yuck issue looms, given the scale of live systems. Edge computing hype gets a reality check; cloud repatriation gets a critical look."
     publishedDateTime: 2021-06-21T12:43:00Z

@@ -1,0 +1,46 @@
+---
+category: news
+title: "The Future of Computer Vision, Machine Learning and Artificial Intelligence in Mortgage Industry"
+excerpt: "Mortgage industry is instigated to adopt Computer Vision, Artificial Intelligence and Machine Learning algorithms to utilise intelligent data capture technology and TF-IDF for information retrieval efficiently."
+publishedDateTime: 2021-06-24T10:45:00Z
+originalUrl: "https://www.analyticsinsight.net/the-future-of-computer-vision-machine-learning-and-artificial-intelligence-in-mortgage-industry/"
+webUrl: "https://www.analyticsinsight.net/the-future-of-computer-vision-machine-learning-and-artificial-intelligence-in-mortgage-industry/"
+type: article
+quality: 58
+heat: -1
+published: false
+
+provider:
+  name: Analytics Insight
+  domain: analyticsinsight.net
+
+topics:
+  - Computer Vision
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/The-Future-of-Computer-Vision-Machine-Learning-and-Artificial-Intelligencein-Mortgage-Industry.jpg"
+    width: 900
+    height: 500
+    isCached: true
+
+related:
+  - title: "The future of US AI policy may hinge on a pretend war against a fictional China"
+    excerpt: "War is coming. Later this year the US military will fight its most advanced war campaign ever as it faces off against a fictionalized version of China. The battles will be fake, but the results ..."
+    publishedDateTime: 2021-06-24T21:30:00Z
+    webUrl: "https://thenextweb.com/news/future-ai-policy-wargame-war-china-autonomous"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fplayagame.jpg&signature=bab8499891cbf24af0d70358bd722647"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "h7QRtRlUGQ+RBmY4HFg4JVzsvniBdBwasbUFtJK3w8nsVRqkFVL7sspZ1BUA4oeqeH6qAR2j6NRpM1ScJQmcqscqQYv+V87INFPnEfmRhxmz8TL/d2xGEyaSbI2V2un5pqZtWbCzJKuN6pJNp8NLeDrCxE+vGnDWwtTy4/YkuhliHHQrKeaMNkx/lLTuwhBVGYDsACRIo9ZPMfGFIQH1wfv368t/xfXLQLZ2Qk3St6pytHCDCgN65w9Sunk5UipjfyU0M2Kui2yI03gldMinWOf0fSticyFES/HK+dWBqgd+nYjklsmfPeNQDYcuhu/VUMfujVj3dmcZTlDbnIIMsqQRsTHS8Xvi6ZoNwt6bgWw=;/Se0mSSCMRcdvLnSVu/4Aw=="
+---
+

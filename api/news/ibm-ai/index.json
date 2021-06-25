@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting.md",
+      "title": "IBM working on AI tools to spot, cut bias in online ad targeting",
+      "excerpt": "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
+      "originalUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/",
+      "publishedDateTime": "2021-06-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-malaria-zapping-israeli-startup-zzappmalaria-wins-ibm-watson-ai-xprize.md",
       "title": "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE",
       "excerpt": "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population.",
@@ -1324,49 +1377,6 @@
       "provider": {
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades.md",
-      "title": "ASML and IBM, hardware brothers in arms for more than four decades",
-      "excerpt": "Last year, its revenue in hardware amounted to 5.5 billion dollars. This is a mere 7.5 percent of its total revenue, but it nevertheless gives a high priority to research in this area. One would rather expect new nanometer milestones from Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://bits-chips.nl/artikel/asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades/",
-      "originalUrl": "https://bits-chips.nl/artikel/asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bits-chips.nl/wp-content/uploads/2021/05/ASML-PAS-5500-02.jpg",
-          "width": 800,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bits&Chips",
-        "domain": "bits-chips.nl",
         "images": null,
         "publishers": null,
         "authors": null

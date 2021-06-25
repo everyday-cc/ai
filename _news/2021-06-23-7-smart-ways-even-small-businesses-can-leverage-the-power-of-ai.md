@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90648920/7-smart-ways-even-small-busin
 webUrl: "https://www.fastcompany.com/90648920/7-smart-ways-even-small-businesses-can-leverage-the-power-of-ai"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
+    excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
+    publishedDateTime: 2021-06-22T13:40:00Z
+    webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "WhOF2A50gyTMXIllAnZNQf4mSnvfLKKbasl07CkALsaH0LJ5P6sT8FcWGY1o2AaVi222/Q+2R92wK87XzJdmOQ7POPzQ9pUEJdXTWSnqaN0/vugKWemClWLg/kQUOpon4v92ALpxjOEcUMnyd3nZ8+qbDnYzrw8W/JxVgIApflANX5BdLuo1mKp9QEkuFWHaIrBLwd+9Zp26DxNRSiOYZnLQKzpSLnol2IS99S3sBfEgjk3TB3qGPTDHQcq9iDmm36jvrH0bsPa+MCwKbsMI61qU1Sdvedeqzv9yZ/CYWE7yWoQHbRu6dinB2jU3dGTOadPOWBKwYHrOaG12kwTgbPf4NUcaNv4hHUreM+tOO3L5J6R1e328Um1LvXfPebrk8/I4EQnhvyMEdQdqkoLsPTM61OTvwLZrVp/qCuoLrlHesC7VRI5cw3PH1M+ifVE89gSn+eo2/VRP+P8YQUsZvRv7jdPok6ZviptQIXkFrSMjQGlQi8nf9pbS7kVUj4kergpQW3RGr7lpI6ddxTXxsA==;xMmtQHEwXS5E9+ztIYI6pw=="
 ---

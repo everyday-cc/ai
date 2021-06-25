@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-ma
 cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
 type: article
 quality: 61
-heat: 91
+heat: 92
 published: true
 
 provider:

@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
+excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  More Details:  Want to customize this report?"
 publishedDateTime: 2021-06-21T22:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion/article_b35f1e6d-2f40-57a8-b55a-7a4108b14f88.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion/article_b35f1e6d-2f40-57a8-b55a-7a4108b14f88.html"
 type: article
-quality: 41
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-    width: 400
-    height: 226
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/12/9123fac4-764c-5534-9830-ffe3fa7283dd/60d1137e55ba2.image.jpg?resize=1000%2C564"
+    width: 1000
+    height: 564
     isCached: true
 
 related:
@@ -65,6 +62,6 @@ related:
         height: 419
         isCached: true
 
-secured: "nPlNgsESmbl8L4PZxCu5ovD7m1U5iWZs2CDHKygxW78L3/oupWUfg/Df8ZNikeEEptr8O4HZqF55XLtHFYcSelJq80n5UBRkS+WcRx8A64Q/5JPmqmz7AIYSmdfovdyt7WtHF/kCgO4Dgt/0axBviRmEpF+gYT1xO8ji58hCupVO8zcA6FZcRtCYMElEHOg0mFktDAxx1dKwiFEY1NS9EJmP2moTRNZZ8y3GGtwtUJMfEmIHYx3qgyrGdP6/JEOOPXygOV9933d/veysWgfFF27VRuOgOMAz9dSVAglWXKUN0AjTZAveAKczDmRkHHVvAHhzbubNbFigPzPsHcpGPbvU7x/yB3Bg71KjcZSJLok=;DwQJYdu6L7kCLXcZb6rlOQ=="
+secured: "tUUjyz+YYFtrDprvkOj1K/g6VEu+Bn08g0LqL98nAZSQOHmicsSFeOdqvzgyoXxiqLSLj03Qgp40r7OQpcsHzUSNLAtqH9K7W2Tr/0t+ZNZ7s9n+8y7R/3swsat3YbK5Z0ZUd1CeqFpbZVZFad/oE+OFwYP54BYdaHljLZXo+Q0Vww5PgoXAjcBJdH9Miz91rBW7o7D5RnGGI0i8+zUYKFN/bGxQaXVFYRCHeT8REWSssYmYj1OnytPduAM4h0KAfOJS9Wta6W36vX4mJ/hCNLHJrc3LL6Eq/xdCuepcr8g1e23ErouUzryQVELAA7F6YBMHx65PXVqNRIJ+J3ffrtxnA6KJsG/XQykwvEKEHo8=;u0Vof9fPxgTQF8s3iB1S8g=="
 ---
 

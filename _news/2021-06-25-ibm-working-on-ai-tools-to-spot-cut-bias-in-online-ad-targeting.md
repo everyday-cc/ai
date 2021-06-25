@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-
 ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 type: article
-quality: 89
-heat: 139
+quality: 91
+heat: 142
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all"
@@ -44,6 +45,22 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
+    publishedDateTime: 2021-06-24T10:16:00Z
+    webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
+    ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "IBM explores AI tools to spot, cut online ad targeting bias"
     excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
@@ -75,15 +92,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
     excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
     publishedDateTime: 2021-06-24T22:20:00Z
@@ -99,6 +107,6 @@ related:
         height: 557
         isCached: true
 
-secured: "p/mrpBtvc22A6J5UBYc1hDDiORrGkjyrsQQ+XZWhKC/DYVEwpxRQPcomECItIFxZZZMGFtHV6TYf9FdHQuG1zYJfh/PoxvDQLNcVvnkX/UVy8YMqHqYSjaJYLjodYxtxWsAHH6Us6XG1J1ou5PXUS84JMu6X05TgdGBUqVR1KG6c33Kvnd7zrmBaO/5u0gjKSO9Z2nISKht5NAYEN2sDhGtA5a6HeeWkJrfdIPiZjwpdganPM/zvIGEK760DqrSFJWDNpuiBHJUbdoQZiROey6Vg0ShJL77qIWM7d6YXzkglDI7hbJ29nsMqibSuiqsYUZfpSfACHvw7iUWB7trdT8/em8ar65DCffal+WbBBtI=;53NwdPx4fsBipfZQj6ScWA=="
+secured: "/yxZvUWPkZhiUW6wfahvdkpq8KUnM1MdZnwupxV4X/38j9vnwxJ3icZ4OxmBZOjOry3Zz6duYb3adqo2aeuVgFkYVS+Tg2FGC2L/a13cQeXt9PAUIxE+GFJUrfppZg89StfVwFK5+5ygqe5bBwTh//INGfT83NiGaKp/hmiNeSJEyC1IQRzeVFQS9u/o4RrBqZ/0vnGZO9e/Re3VOXBiHVVS9SeoQJhgkJa7XSH3aK3qSOx4FBPYtz66zsYAFaSzHdN0FHR7rEHlnAlJZNBRbdX4xR5ZOWxfdmIrmKztvMyVkYYZYWGGbRuEoVee4cg7C50nB6VILurSlGDsv1BNQR1q3mNocS87nCzrNCiMI68jRx0mcGfb4jQwv4GJ92RgQKKrLLgSuh8IvTiOKaf3k98IMVSBnUqrmrz/4UQIZtbtcHrmxi2Uy93mgn4IwWaRRU9nTgWkY4sL1UXGlMD1c+cCQ4f9tMAwSESwzMLeI8Mg5sCTaK6I1ZapSU2OBVldfOKUApfig33EJtXmimPIhw==;XXhqGAyC2ieMwkMAXd/HXg=="
 ---
 

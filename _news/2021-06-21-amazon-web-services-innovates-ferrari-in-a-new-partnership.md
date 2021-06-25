@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Ferrari partners Amazon for cloud services; to build fan engagement platform"
-    excerpt: "Ferrari will use AWS' advanced analytics, machine learning, compute, storage, and database capabilities to achieve insights into car design..Ferrari will also leverage AWS to gain deeper insights into how its parts and cars perform under real world conditions."
-    publishedDateTime: 2021-06-20T11:28:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/ferrari-partners-amazon-for-cloud-services-to-build-fan-engagement-platform-41624184911530.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/ferrari-partners-amazon-for-cloud-services-to-build-fan-engagement-platform/amp-41624184911530.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/ferrari-partners-amazon-for-cloud-services-to-build-fan-engagement-platform/amp-41624184911530.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 41
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/20/600x338/555_1624188352358_1624188368252.jpeg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Ferrari races to cloud with AWS pick"
     excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
     publishedDateTime: 2021-06-20T19:52:00Z

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Micropsi Industries’ AI-driven Control System Speeds Complex and Precise Robot Training and Deployment"
-excerpt: "Industrial and collaborative robots learn to perform camera-guided movements more quickly with the latest version of Micropsi Industries' MIRAI robot control system. Using artificial intelligence (AI),"
-publishedDateTime: 2021-06-24T14:46:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17069"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17069"
+excerpt: "Industrial and collaborative robots learn to perform camera-guided movements more quickly with the latest version of Micropsi Industries ' MIRAI robot control system. Using artificial intelligence (AI),"
+publishedDateTime: 2021-06-24T15:10:00Z
+originalUrl: "https://www.automation.com/en-us/products/june-2021/micropsi-industries-ai-driven-control-system-robot"
+webUrl: "https://www.automation.com/en-us/products/june-2021/micropsi-industries-ai-driven-control-system-robot"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Y2/l4aw1q4kG3u1lk+Hf7ZclsG+/5VQEekIArhRLLjKHyF5HZcZ+fdEFU8vTDFDjs+SV2VJ/g0rwl5Ax5Tu4xNoMatYTHK/oc5TQtFSOCY2Fpz/rx6t9urnM0VC+gC0IlbjEbthzCS6pklk3uLmLSrB/W619wezWiltit7Hpryg2SXfsqSSoy9UgxYyVyVlYCYWaVEuaPhwbWPdpxBh1Pa6OTdfVPPXKZT5SW1j7aCa+dv7x5ePgcvpNcM1FTPngPfwGi1drRDzrqwgHETVq8vP3PMOcLKx0wTnrCl+6Bh4cTvHXQFQhgtxdltWlJ0uMzEdLXRC4jRr7/WzZJgB/V1vC7gKOPAqwEzFjyLN4nNk=;e1yDrflWKQOI12hEBLKvZg=="
+images:
+  - url: "https://www.automation.com/getmedia/9c2018ae-2f58-495a-a4b6-ee10edfa3348/Microspi-prod-June-24-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
+secured: "tws0qmRgB5rGcoDVPFamPG9/TARxs42zHtUUpCbonvBpEvGji9Pyua2uCBt+wjtzfrbFEZT6FmcOrr6kuDK9IQyT+r77IplbwITKGlXg8ZGKPRjGXgsSIttzGKlnSb84lYvqTHJF+edosPOm2mvyYnTad0tx6CYhTbSDjthh/2dB8XtDAxvQibUov+tCrSco2drdgwEAtZrILy1qzcuD5i/Lt0ujJ03Gs2LbF0R58Fop4VJkA/ECSdxjOKxgMxZ/+hgVyjVLOxkdQCzF3JU3XRvimApnkojQkuVQW4Fcn2QGZaO3deEwtcjea94Mxl8brQQxEenYrbv+RAfC/DiwlSbJDtiuiG+FTbA3I5nSNJs=;h+Ylg/ZB9JADoO40Jo2ySg=="
 ---
 

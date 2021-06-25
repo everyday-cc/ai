@@ -41,6 +41,22 @@ related:
         width: 1020
         height: 575
         isCached: true
+  - title: "Facial Recognition Market: Investigation, Consumption, Revenue (Mn USD), Share Forecast To 2026"
+    excerpt: "The information mentioned in the Global Facial Recognition Market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the technological developments and the product launches and their consequences on the Global Facial Recognition Market."
+    publishedDateTime: 2021-06-25T04:41:00Z
+    webUrl: "https://www.openpr.com/news/2313605/facial-recognition-market-investigation-consumption"
+    ampWebUrl: "https://www.openpr.com/amp/2313605/facial-recognition-market-investigation-consumption"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313605/facial-recognition-market-investigation-consumption"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/6/U625924396_g.jpg"
+        width: 660
+        height: 300
+        isCached: true
   - title: "Civil liberties group urges Liberal Party to stop using facial recognition technology"
     excerpt: "In a letter obtained by The Globe and Mail on Wednesday, the association calls on the Liberal Party of Canada to “cease and desist using it” to verify the identity of people voting in candidate nomina"
     publishedDateTime: 2021-06-23T16:04:00Z

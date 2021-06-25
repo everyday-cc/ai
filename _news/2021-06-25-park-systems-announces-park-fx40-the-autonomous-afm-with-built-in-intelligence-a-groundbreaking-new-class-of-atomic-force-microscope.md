@@ -2,9 +2,9 @@
 category: news
 title: "Park Systems Announces Park FX40, the Autonomous AFM with Built-in Intelligence - A Groundbreaking New Class of Atomic Force Microscope"
 excerpt: "Park Systems, the fastest growing manufacturer of Atomic Force Microscopes (AFM) just announced Park FX40, a groundbreaking autonomous atomic force microscope, infused with innovative robotics, intelligent learning features,"
-publishedDateTime: 2021-06-25T01:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/park-systems-announces-park-fx40-the-autonomous-afm-with-built-in-intelligence-a-groundbreaking-new-class-of-atomic-force-microscope-1030553375"
-webUrl: "https://markets.businessinsider.com/news/stocks/park-systems-announces-park-fx40-the-autonomous-afm-with-built-in-intelligence-a-groundbreaking-new-class-of-atomic-force-microscope-1030553375"
+publishedDateTime: 2021-06-25T04:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/park-systems-announces-park-fx40-the-autonomous-afm-with-built-in-intelligence-a-groundbreaking-new-class-of-atomic-force-microscope-1030553383"
+webUrl: "https://markets.businessinsider.com/news/stocks/park-systems-announces-park-fx40-the-autonomous-afm-with-built-in-intelligence-a-groundbreaking-new-class-of-atomic-force-microscope-1030553383"
 type: article
 quality: 22
 heat: 22
@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1549737/Park_FX40_with_monitor.jpg"
+  - url: "https://mma.prnewswire.com/media/1549737/Park_FX40_with_monitor.jpg "
     width: 400
     height: 283
     isCached: true
 
-secured: "UtUMgAHcaY3A/QeZ8KtjXWnUltKBfdkbk+PV96yzceQlpPv405PTDoBTiMDz4Kt/q/nhu3SrEEj8ryecPG099Y6ReTGcbbR1n/lJxRGysuoUu1KB5mq3QQ9p5VJPMtPVTu8o3+11PmHn3r21mc5DD8cem64IHXk63rXlTiPG3xKzzkz/3LE2Mc4oxtJJntesfqSUz9akW0BjsXUatSMqH+IHszjhqvr/l5kdJBqZObu598AAHHDBb6SRRQ6NFUz0X2w0vOtBTb9hr9gknUupTAZiJJOuAb/T83tlqsVOC4K/GBOppvcfN4Wo4AdrDivSlSfjEw4bAhWDW9gZ3PKN3PsLFC18XdQWpIMgbPHUd2w=;OSGvoSySEusiX2lZNgYhEg=="
+secured: "soaOoj5jZF9OP2484GYgmmZdpOo71tqqYgtqqNxy7QCMZLqCrXLzAjlAB2Hbc/r2KZvEZ0bin0ayhJKR8EbyItW+0B7zOAxTfUqbmvoqYD4XlHgnuCpr8dUznVFNF86/nWSqOGPsFDzyK6kpJU86x9fSZfI3GJSeKeVvj0vDlPrd7ZSyyLrmg25TWFge9R8D5ddmE+vrhC7m1f5qGKRaKnrx6wq+PVLgtpXmZ1ErXR/xaL0fehZwgqKFbvB99a3i238Opgos3Gi+ENqjhyMHPw3CloKT9JBKd8JYOQFfivh4+fzb7gZkWtKfZ+U8xYbJG95Qv0A2PYceYMUHg6EEJamfE3yNtamV7xHc2wdRZeU=;io2XRffn72j87tlo7gJruw=="
 ---
 

@@ -75,19 +75,16 @@ related:
         height: 630
         isCached: true
   - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-    excerpt: "One of Rembrandt van Rijn's biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam's Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it."
-    publishedDateTime: 2021-06-24T12:15:00Z
-    webUrl: "https://apnews.com/article/europe-lifestyle-travel-technology-arts-and-entertainment-d9312050e505c720b8870f0ad0608609"
+    excerpt: "Researchers and restorers who have painstakingly pored over the work for nearly two years using a battery of high tech scanners, X-rays and digital photography combined the vast amount of data they generated with the copy to recreate and"
+    publishedDateTime: 2021-06-24T14:00:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/71269688b0264150b4dbc9a7fb4f0e03/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Scientists recreate Rembrandt’s masterpiece ‘The Night Watch’ using artificial intelligence"
     excerpt: "Based on a small 17th century copy of \"The Night Watch\", scientists used artificial intelligence to recreate the missing sections, which have been printed and mounted around the famed artwork."
     publishedDateTime: 2021-06-24T08:27:00Z

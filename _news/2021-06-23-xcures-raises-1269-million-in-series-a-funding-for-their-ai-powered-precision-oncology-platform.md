@@ -47,6 +47,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Asian biotech startup Insilico is disrupting the pharmaceutical industry using Artificial Intelligence"
+    excerpt: "HK-based Insilico Medicine recently raised US$ 255m, and is disrupting the pharma industry with its novel use of deep learning and AI."
+    publishedDateTime: 2021-06-25T04:50:00Z
+    webUrl: "https://techwireasia.com/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 43
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Image-by-Gerd-Altmann-from-Pixabay--450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "VU1ds7RMxdq+wcaVNBRgAizbUzmWbxFqOd6jy2bUZ1t4uUNVVW+6yBIk7LyDOJDhFRVu6uQ5b/y7UKw9Ul3OrxNBLjMm6WJ/EtxtaCY4ybcAtqNQahjDVte7jIV9+uzYRc1xHVJdBn60ZcGTY+3EzKeqdI08HLmU1Wxpq4cF6nz71LuIH1hcYNZ5Shi/phTKkJccfZMCJKi3aIUG02vTgUB4sNdaztFaDOOhntsCXtoL7/iUGwWRSibTjKxQbiMxH/GYC6QHfZe0uN2849m+KltHLyglBco7G2R/rmX1K9L7MNzQGMlhn2lvMbl5QBu04uH3+6yGbRbwVIr9D6bkf6BBVYaQsTIG1irEbPhnjV/q3L3E7FQlbc39byQkQ+pZ8zJFqzwlR47C5HhbttNj2vqcxn6/5KmGHBIz6ez5vOQv5tJUyRr6DnrK7jW6Bh6DDN+N8p9ABMTrDfKB1aIdrfu7k9u7Y5ITCq/ltXLKHJDsOte0Oo6ZLJrNyZGs18v+yoUpFZrNkss/IyEe/RlNbQ==;FPC4duXVqvo6sJyZ4VsP8Q=="
 ---

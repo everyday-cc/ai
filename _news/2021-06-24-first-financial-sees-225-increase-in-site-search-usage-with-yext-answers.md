@@ -1,29 +1,29 @@
 ---
 category: news
 title: "First Financial Sees 225% Increase in Site Search Usage with Yext Answers"
-excerpt: "PRNewswire/ -- (NYSE: YEXT), the AI Search Company, today announced it has helped successfully transform the website of First Financial Bank (Nasdaq: FFBC),"
+excerpt: "Yext, Inc. (NYSE: YEXT), the AI Search Company, today announced it has helped successfully transform the website of First Financial Bank (Nasdaq: FFBC),"
 publishedDateTime: 2021-06-24T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_a1699248-fb86-5faf-9fc2-acc652f18636.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_a1699248-fb86-5faf-9fc2-acc652f18636.html"
+originalUrl: "https://www.news-herald.com/news/ohio/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_993fc980-5b23-503b-9949-030cb86c427d.html"
+webUrl: "https://www.news-herald.com/news/ohio/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_993fc980-5b23-503b-9949-030cb86c427d.html"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: The News-Herald
+  domain: news-herald.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/34/33446df0-9412-5a12-87a7-e4cd39fd2012/60d466af94ba9.image.jpg?resize=1119%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/news-herald.com/content/tncms/assets/v3/editorial/a/3e/a3ec9588-25cc-5251-be72-f60a6cbcbb5f/60d46cd4c2af4.image.jpg?resize=1119%2C630"
     width: 1119
     height: 630
     isCached: true
 
-secured: "WpgnqouMj2qAFKdVtivbcrR5W40J3C2SUrVPGbIz4NqrFPP6TOIQ25N9DPEKB5Uiv6fhhXY6RV9h1yINIxd3auYu2kxqrzCLS4l9M/+SNmNN1C0pCQbebfFS+J9T8fjXPlUTdz9N8cqG2c1fIIfrIosAggy8InRrdfDUCW1WFZjTpp6F9oC/osv+m7Q6i98nkpGE6kV5DPCLtqL4fd7qw+FA67HEl6F+1L/nbXNCMdPQtw5js8P3wueL88w/W7aQNsMaIdhAe4w4R/l4KkjQYPXLxoDr0q3LN+wOJHFvo/120f04NaTFezclDb47ImEZeeQJ8HqBnpGCa6eScLCgKKxzl2EIRs9z3bqacGV3AA7UoehyQGrwR0458sRCN354/+5GnAx+3skvVn03rdKmWXL7hflLpBJ/Y5WT/fr5+AjTE+BGvhnLQ/CavYMq/A4uvx6+tDXwBZtd4fOTyXL9KYRpzrEdkSVPSOISy96Wo+sqXhw754n7oy5r8qRfCp9T8Q9L478SuWKsuUShi3c4Ug==;B2Jke+tJeXwNEemFhAJ0UQ=="
+secured: "gmzv6ZKMHL7j9SWAPCiKAV5YR74A/F0Bp50ycDRI/XbCtpGgWDYW8A7VYNK8hqV9BQ18qV6e5PTHBBZn9mT/Usoudw7HhXOlpObMK4qnOarC13dYNmnigYICCpId+jF6QihR3cDvgLOMCav1wZbWFm5f8Uzo3esXzA7nhELlz2Wwx0QJfx9IwX90nvpq4v4JG1FX3rQSYFZcBZAabVKKxy+2V9PpmojaMrc4EkZ1Nq6ITzClnJ9YpxVf453nxQKYunQyBbAFQgsRz4AD636R1M4NO15787HGTl8k7vJshMnEfREkG219xAEVGv/egeD4sH/SGHviAsuSbr3DTt4mZJe+2u25MssbTEqf3VT5GYo=;8FLaKafoazr0RR1CItEdiw=="
 ---
 

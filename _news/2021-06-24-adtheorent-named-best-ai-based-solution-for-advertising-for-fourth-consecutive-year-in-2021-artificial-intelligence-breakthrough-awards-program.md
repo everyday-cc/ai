@@ -1,22 +1,18 @@
 ---
 category: news
 title: "AdTheorent Named \"Best AI-based Solution for Advertising\" For Fourth Consecutive Year In 2021 Artificial Intelligence Breakthrough Awards Program"
-excerpt: "AdTheorent, Inc ., a digital advertising leader using advanced machine learning technology and solutions to deliver real-world value for advertisers and marketers, today announced that it has been selected as the winner of \"Best AI-based Solution for Advertising\" in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2021-06-24T14:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program-1030551876"
-webUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program-1030551876"
+excerpt: "AdTheorent, Inc., a digital advertising leader using advanced machine learning technology and solutions to deliver real-world value for advertisers and marketers, today announced that it has been selected as the winner of \"Best AI-based Solution for Advertising\" in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2021-06-24T09:30:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210624ny23301/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210624ny23301/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program"
 type: article
-quality: 45
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
@@ -45,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "yyn+PdtVzeCQcveHl8xaRunN2QOEdd85KwmWwlli0ulAXIrCgI5MR0wQFXrHbUBiTQOZZoElgX0Tqj/XAATA5MVaU9OS6sa1D7KTtw5FtTZ+IQljaslmV7rbN/HEMoyQ6sBsD8EPZv3eb8dd0CVPgpg3QjUOiRdHo1O6OzOQHh3j0q23L5OXUsBW8u9C89iRL0xnz8kckX7tQS1qlQ7BXMgaA2J4AV1ZMukUNbfbw7ZqY89Acc1LsPFbEE173BU6OeX9xJypH4EJUtfHLxM/I0D3SV+IEmOztR/bgsYWrmFuSip1HrwjOMhR1mQ77MiFlrXJJjd8gwnBL6lXiNizMmfM+iKdbd1SZhBiQS55IVm/itKManl3RTee/oXywlGSSULWQSnwQNXQ+XfW62wYozaYRAeslahPH4V5Lw94u4dMMh5Hg/PxdB/buOWXLJnP/+hjM6tYyD4LBNl25PXPoHuRUrWVbZMdiZ4K8YJvjdD4vtCRkSW4g5FiN8pYrNieuhm6ebg2usgeqoa9qHsGyw==;naMI52j8worL08bMr4L36A=="
+secured: "IhD3isBD8UfYVnS7Xz/2B8pVyEesEI6J7Oj0iXRn4WlORoBAmcadAhVGJF2UK6/msKBBYryne8X0z2XJQe02wH4yTNwsSRgVdG6XLadzpRQ8++1KJXqxT56xp6PzZEd4gppIy/i/G0pcf6ciFcmJyjO4LKhvXzeWArq5Tl2v4uVVnZl8OvZVfydpUQbJLYR5p+3sv3D3lPsp4L/1UR0cO1XgT0I/y50A3xPzRfYdi+v8svBWeHG/K/RLk+FX0tOcOTIX+coFvaQV4zMQIyK+knoBjvdCCrMQV/Jsvzy19sQVKtQTE3+gduqckVPXqh1B4qEHUBnQuXRePEW1cR0oLUgqqfq2RDILzP1GZSvQl7Q=;z7fHCJ7zMbeHkko0rDjygQ=="
 ---
 

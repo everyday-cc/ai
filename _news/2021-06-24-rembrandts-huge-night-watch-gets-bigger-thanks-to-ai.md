@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-excerpt: "One of Rembrandt van Rijn's biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam's Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it."
-publishedDateTime: 2021-06-24T12:15:00Z
-originalUrl: "https://apnews.com/article/europe-lifestyle-travel-technology-arts-and-entertainment-d9312050e505c720b8870f0ad0608609"
-webUrl: "https://apnews.com/article/europe-lifestyle-travel-technology-arts-and-entertainment-d9312050e505c720b8870f0ad0608609"
+excerpt: "Researchers and restorers who have painstakingly pored over the work for nearly two years using a battery of high tech scanners, X-rays and digital photography combined the vast amount of data they generated with the copy to recreate and"
+publishedDateTime: 2021-06-24T14:00:00Z
+originalUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
+webUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
+ampWebUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/71269688b0264150b4dbc9a7fb4f0e03/3000.jpeg"
-    width: 3000
-    height: 2000
-    isCached: true
 
 related:
   - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
@@ -103,6 +99,6 @@ related:
         height: 500
         isCached: true
 
-secured: "/ieHp2bH+pZo5Ew9nr9V/gnmx6utguUImv9GRf1kCvjMp/OTYW9iBp1iLIm0qStpbHEDvviaYd//ingcigHBgXaZ/0qtpd1y+pwcFfVqM5Ef3C0e85cxV0hNhMwFlctmiigN5NZDsHy1HirtKtPdRKs6kfSpkNRsXLwmvIgZgF2BPtATdqPGJqpWfmLYqshlgOhWrnFC0rmR/xNuCl5SjCO/11FUY41JBNW+qxUWgCvYLeqHXhEa/2YsNYsT58LxaRomMzq5AC2dk+0yWO7YOvdilFTvzGq3+e5f4eLP/RRteFCzZ+eDarO1sNsrxxPw0XSuJ4Vfx5mV9AL2Whu1l9jmehDMqBVFW76Mt1Lt+cQ=;o6Ge5gsB/9aRBwKk6PcmwA=="
+secured: "3Ixk0vhcKlbe7yC+RFxalbHzVFtBarokYsJoUNE37joodVjN/MyzSNWszp/LE9njSbjUx5keSoTEKxid/v1bUHBSzEUb5hxrYrkkeCl7DG3fPtBKtrVbi1v01+giuIbIP//H7K9INPrri/pUaTO+AelUsPaWPhMPT2/pMaeOkdm3w39g+zkvSGt7gMbBuLPGTnLQdVX+Q9/1IgfsyiHFVmR2y6E082+9Vjo8MJhqKI3+6RMTZtax5EM4F6jngPrizgsTGf0rgvxcN1Hl6GSRx6nYu3HaBQc7F2g+O4pIk5satW4PQZeylxoJs5FkQUIv9fOm8WHw9gVj9Lw7yIwqEh5NcCKf7VyqIJzhSu1+t/vnEv8oV7Qxd78vco3HhjrQCyOkSTNocNFZlM9Q78qMB5SzgUk1EF9B5k7NnU83iEACpuqHLkFWyv69TC628EdSths4FDbhDgWUGGDuRwOCMLuSXHHnJ/WaSsKR5xJnJnUiPqlEh4M7o26UvGvmhdFjWqI3HpWYp/hH90vAroDVyQ==;Vzo/XQ8xWf9FZRimTFpZdA=="
 ---
 

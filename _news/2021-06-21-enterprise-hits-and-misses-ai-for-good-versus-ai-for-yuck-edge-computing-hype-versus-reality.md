@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Real estate agents should be the first to be replaced by robots"
+    excerpt: "If ever there was a profession to be automated out of existence, surely there are no arguments over which it should be."
+    publishedDateTime: 2021-06-25T04:20:00Z
+    webUrl: "https://www.businessinsider.com.au/real-estate-agents-automation-bullshit-jobs-australia-2021-6"
+    ampWebUrl: "https://www.businessinsider.com.au/real-estate-agents-automation-bullshit-jobs-australia-2021-6/amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/real-estate-agents-automation-bullshit-jobs-australia-2021-6/amp"
+    type: article
+    provider:
+      name: Business Insider Australia
+      domain: businessinsider.com.au
+    quality: 59
+    images:
+      - url: "https://edge.alluremedia.com.au/uploads/businessinsider/2021/06/GettyImages-163842036.jpg"
+        width: 2159
+        height: 1388
+        isCached: true
   - title: "Commerce.AI Launches AI-Generated Market Reports"
     excerpt: "I has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible"
     publishedDateTime: 2021-06-22T15:00:00Z

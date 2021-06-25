@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-publishedDateTime: 2021-06-23T21:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
+publishedDateTime: 2021-06-24T09:10:00Z
+originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
   - IBM AI
   - AI
-  - AI Ethics
 
 related:
   - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
@@ -86,6 +85,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "7/r9dQXzNMA5IwTy90XOC8Nvj0p3L2tWmFAKWZqM+X6gutsj+W1rPR2guoJ0SNtJjhDosyDRQfuEPEvAR/gYOP4m1Z8WoTWo9vJ9o+4fuHi9X938EFUSydGuiQdUDmqyeFaIKsjUTN9LjY5YyHKniP3pwfJupLZfFbofK1w4Sfxubu+oMS0CHbzQIv5LRvYB9L8qLvM2udckmonAo++67G2V0nhWpTLK9Fps/YCa+3datvWLcN24tybDn6p0MqNMR3TPphV8a7ZpuupkcDQUbiAPs6sjN9cb1W1rfzM6l1DRsgTCh435s+YJ7rqTE/P0DhTXL4UtRMhu/ReOQ1Hy5Qmm9dQTtEU/qFR6K8fsWvs=;kpUMKMsDpHK0yN7po957kw=="
+secured: "e6ODxbn3xUd1xQBpamvQbE5m2a+jBsJOMNe7jkEzq5grXgakadmYtvEOpDWjZbzdn/lC17sNj1srx4KHUqhHEvUMNb8fKWKOZOWDt3UALMCYZQtsyDj0W+0+i5vI9gZqB0yzNF+bT7k3WK+rMxo95ExJrHsQvaIqBNecwwFdENNdWWUIfzp7U+DE3187GkRnFTGbj4zdxGt9bKRTnffVt4j2gFQgAgf2QIMjRLoAYHh8gViwyePJvFDD7YM+WUad6ErYC3FRY6RPcp4X47gzhAv3bRsKP1LXzSrNmP3FtSyuiAMkXWLUCO6Ot+ed0s5bF0u96CVwC3B4IrBS4RkW1duKQBkBY+hs0GdMxE9qnLo=;ErXZX6SvC46deRQY980qwA=="
 ---
 

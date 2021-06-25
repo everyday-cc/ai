@@ -38,6 +38,22 @@ related:
         width: 1024
         height: 482
         isCached: true
+  - title: "Asian biotech startup Insilico is disrupting the pharmaceutical industry using Artificial Intelligence"
+    excerpt: "HK-based Insilico Medicine recently raised US$ 255m, and is disrupting the pharma industry with its novel use of deep learning and AI."
+    publishedDateTime: 2021-06-25T04:50:00Z
+    webUrl: "https://techwireasia.com/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 43
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Image-by-Gerd-Altmann-from-Pixabay--450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "xCures raises $12.69 million in Series A funding for their AI-powered precision oncology platform"
     excerpt: "PRNewswire/ -- xCures Inc., the leader in the patient-centric use of artificial intelligence (AI) and predictive"
     publishedDateTime: 2021-06-23T15:07:00Z

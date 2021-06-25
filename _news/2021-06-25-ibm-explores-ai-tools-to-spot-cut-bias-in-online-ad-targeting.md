@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all"
         width: 1200
@@ -54,6 +54,22 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
+    publishedDateTime: 2021-06-24T10:16:00Z
+    webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
+    ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "IBM explores AI tools to spot, cut online ad targeting bias"
     excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
@@ -85,15 +101,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "RkqJBOfynCFr87WeO9qQ+7BFuf7ftJhntaDgEHlpsg2PfT04rGtT0h+t0gyrgyRDUAueo5qZJ2SW5lALZ9uQhLt7nOhdkyxosj2T7O1bu4b2CNtDI3bWTetJHCfGcsm8KjCTAhzNhv9DmvLdGpL8gTmkg06MhA3jWYaftZF3zmUjjYGzTQkeaJdY4zqqCnk6EUELVdMN7pbWFpxusnSBP8yibVoMCo8eoMWGz5YPtII31WyfgJs+PzEmeqoyA//foo1YeXXLH+/75zHkkS6BSB4KkZNoRiQUjkj6KdAIrvi0IsbfZIaHhWeB8iho2kDgIlIWhH64z9yQR24WE4y9AKk4Tgvbdz24Jfd5hY8Khlk=;M+ZppHfHaqTt+Krn6XDMzg=="
 ---
