@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
-    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
-    publishedDateTime: 2021-06-25T15:41:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 41
-    images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence In Aviation Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
     excerpt: "Market.us has to return up with a brand new report specifically Global Artificial Intelligence in Aviation Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."
     publishedDateTime: 2021-06-24T09:03:00Z
@@ -137,12 +123,21 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
+    excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
+    publishedDateTime: 2021-06-25T15:41:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 23
   - title: "Global GPU Database Market Size, Share Valuation to Reach USD 279 million By 2025"
     excerpt: "The report GPU Database Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides GPU Database Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-06-25T09:42:00Z

@@ -98,6 +98,20 @@ related:
         width: 760
         height: 481
         isCached: true
+  - title: "NDP highlights concerns with the Liberals use of facial recognition technology in letter to Privacy Commissioner"
+    excerpt: "OTTAWA - The NDP’s Critic for Ethics, Charlie Angus (Timmins- James Bay), has sent a letter to the Privacy Commissioner of Canada, it was discovered that the Liberal Party uses facial recognition technology in local nomination meetings."
+    publishedDateTime: 2021-06-25T18:19:00Z
+    webUrl: "https://www.ndp.ca/news/ndp-highlights-concerns-liberals-use-facial-recognition-technology-letter-privacy-commissioner"
+    type: article
+    provider:
+      name: New Democratic Party
+      domain: www.ndp.ca
+    quality: 18
+    images:
+      - url: "https://www.ndp.ca/sites/all/themes/canadandp.themes/canadandp/images/Generic-Scrape-NDP-2021.jpg?1624651312"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "CKBkLERPF22JXylDJXY3snCrdko+d92a0eLj/dqcePZHKVXLTYmm4MWxghn6y8WtVzKWwn+mKzCNmriwtmUujSzKUepY4d6zBN3EoRk+Kfwz3w1rwETg4Gm/fPKGsk7jLu6NcmwPHwvUi5ms7G7v2XfQFLceodbR/MJHRk/2fg2vtoMpzB/NiGZ5P2JWPLH/y5hwHkzAFA1iPgsshN/UmKDzkldZM8LuAviL/akRpZTgePqMO/I0yUzEHPZslf7Iq/d3Dz1Yq2PkQ52VJ1BNvSZqTbYj+tL3iAWoxOAYb3yC/8bn+/E+8HnYrSGYwwv4AYoeRFwv+OGLT+cxslQTDnfaCdKGux3huu/DjylTtXpbl2N8TzFUM31LQff979b/8I2s7Lp3qWrMBlG4eNKp5mrH9w12OcCufHYkkAIGRCFJ20YSGltkZ5yaxiFmrTd6l7f9LRyBtJO1qY53LpH8eG6+3ET3pYojn7oYJVvwL2G6pDuU5NaAQBzWBL5xobLyczrqMYNLQwIYNztXqz6BQg==;vd/L+48iU7AOPfnYXF3UBQ=="
 ---

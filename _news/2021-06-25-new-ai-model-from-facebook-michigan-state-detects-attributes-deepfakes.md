@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-25T16:30:00Z
 originalUrl: "https://www.datanami.com/2021/06/25/new-ai-model-from-facebook-michigan-state-detects-attributes-deepfakes/"
 webUrl: "https://www.datanami.com/2021/06/25/new-ai-model-from-facebook-michigan-state-detects-attributes-deepfakes/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_deepfake_faces_recognition.jpg"
@@ -83,6 +84,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "Nwl92amK+l/LspwJNSHTEPmixj2HMgOWDXo9vNoGUSAhz3x0bTrinrOsX77bKPtuDM4e0VJHydzPkpP8srg2+gPE79l0EcfDnsQVj6qfjJLuLJg/MWFUrJACj1rVXM60+r4DME8D3ALCxagVMWUrxBn02UEH9ARNdS0uvpfJUUH4grkWpv0WKG5d1wTp5gf/xxL1i4/D7s/xZmG2y04kzKIVKimPUy/xi5rwPz7vLMCGz/mni3ye50j+F77OzQz1EIGVUWlUx7xbjce1+cyKcGo+sM6GAIjVQzhIl9oXrhS9JElZr+8dzgFRfFaSDuOIxMkdiC6hDlwLqxHnpA0UB0H1ufJFBuKfqsJVhdUkyXk=;AJWBq6jHaJ9TfqPZBsrlTA=="
+secured: "NRnSrC32IMb42y1GPqO475UIpIfbNA3zXB1IXPkM079emQc4K+VkYO0Clv5odGKS61uAzXVlXj4bVqBYuu6RiDqRoO4oILr1rgGZTzGtnRKdwrHYLY+9MmjI4RsP0+LHVYVgNDObdNxtQFuROWmx5SKJp5mfbPJCHY3oYgRnVKkCo6JqK+ValdCcLmCHyiV4lPMzUgi15yhQcGbgIrWhaNOe00PQBmSqbf/dHrkByGip6RitehVOSjpZi6Hw56u6bHr9CrHBVGo5JnxkJRgZYVAfOReJGVvkfZnhZr6fnqIYl4zwxoojEodQG2SzIzEY4BYHBMj4QbwPnBydxAcdkgcqhXphNVObL+QjC0DRZ6ffJE2N4tEje9k6VD+EinsRCGO3uWWI80FLnDx2VmbYvpvAmtpwUsxit5ND91n36fzjxlu9dWWQk9EtomlZeeRHZBd2I8SskeeX0FoH28p/UkCzZGyqKz35IoiLm/uzemOUUWKgaEEef5pwUUm/4qzmuh2UBd06v8fq1gDQUm8adg==;sH6PpCYVDIWUVy1EeeL/hQ=="
 ---
 

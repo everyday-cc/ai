@@ -44,6 +44,20 @@ related:
         width: 800
         height: 303
         isCached: true
+  - title: "Hyundai reduces ML model training time for autonomous driving models using Amazon SageMaker"
+    excerpt: "Hyundai Motor Company, headquartered in Seoul, South Korea, is one of the largest car manufacturers in the world. They have been heavily investing human and material resources in the race to develop self-driving cars, also known as autonomous vehicles. One of the algorithms often used in autonomous driving"
+    publishedDateTime: 2021-06-25T18:37:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/hyundai-reduces-training-time-for-autonomous-driving-models-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 111
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/27/1-3547-Architecture.jpg"
+        width: 800
+        height: 479
+        isCached: true
   - title: "Create a large-scale video driving dataset with detailed attributes using Amazon SageMaker Ground Truth"
     excerpt: "Do you ever wonder what goes behind bringing various levels of autonomy to vehicles? What the vehicle sees (perception) and how the vehicle predicts the actions of different agents in the scene (behavior prediction) are the first two steps in autonomous systems. In order for these steps to be successful,"
     publishedDateTime: 2021-06-22T19:57:29Z

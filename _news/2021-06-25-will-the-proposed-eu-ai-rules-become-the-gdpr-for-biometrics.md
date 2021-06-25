@@ -80,6 +80,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Idemia face biometrics deployed at LAX for international flights"
+    excerpt: "Biometric matches are conducted in the cloud by U.S. Customs and Border Protection (CBP) under the process, which U.S. citizens can opt out of."
+    publishedDateTime: 2021-06-25T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202106/idemia-face-biometrics-deployed-at-lax-for-international-flights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
+        width: 748
+        height: 499
+        isCached: true
   - title: "Biometric payments on the rise, with face, iris, and fingerprint recognition deployments"
     excerpt: "Several companies have released new biometric payment platforms or unveiled new projects and data this week. Veritran unveiled a new digital payment service using facial recognition in Brazil, PayEye announced the first cinema in Poland (and the world) with an iris payment system,"
     publishedDateTime: 2021-06-24T21:28:00Z
@@ -95,6 +109,6 @@ related:
         height: 1032
         isCached: true
 
-secured: "xTLRDADbXBsuaKcwB+45pqdouIRaYUulfQakhEyQcWTLcyoeUkckHmU4X2KlCNiROsNb9a8elFJY7r03OumW7P1NwIwSYPGnvNNtbO30Ir1kLjfFuKATeo/JVkEDRqKyWc/UZUbCooZnJGl+R1jFATXSxKZDxQ61Nfy1zW6PdmQUnhgw0T6rKTEc7Xg+NiPlLXO8trLLHahlYsQFO9hR0I+wNmoQQ0Fgakeyd9vmugCXdJXpD8DN/tYgbZ00Kzen2rYdQUX+7ix44ZryqfJZss8J/W/cU1xZAYimy8hD0Aam+sEjF1skPEeQOwEU9VkI2K+88+EC1JjxL+HuysjAYgyc+ZlxsXiWACEiEW5amc0=;2A1HL40OoMvGBfYwjv69qA=="
+secured: "J8/cALxgZOrHEDWU9c4u5ivsoVQ+NAla98jKvncZCtuwbGjifwqD9JrisVBMTZ77dmFdTdvYvnwrUjINLxgZXjr0zqXd0GXEszwbrN34HysX5NACv2UXK/sjJ1EoFN/qJRG+cTwf0HhuuR8FKmaIyK90fuP1Ji+rcxcFzu5+iUfmjF6FsUYYKcY1JxRm1xEoWaz4pxdsj7TqaYTKqG/eK0GnqWdgaOHRtWeCiEVUA7HP5KsoJtAIOM3+LI8il4iRzxMuDvxud2NTV1xT02wBvvS38aWt8icv4Unqhod1s//g+swlrPXH3udqA9yBTP5DYuD1hWpIS85mwSNqhe8n7wIzEGyseCT/yQxkt0LT/UaiS7m5ywjH8OpReMgYRx70fgRT4AYSL3MNG2ikht4Xbz2n9bBKj3IN+eI6r/g0iodj8QFq0AzlzNjuI2KKmMfUmAwzDvGpPDxbbJX7dektKcvprCGHWrguxJXtvOoacccDI1utlGG5pon2Bji6o74YK7mA4TWBsDBZmdbKzc0z0g==;vt3LkCFCkoNez82TyEBXWQ=="
 ---
 

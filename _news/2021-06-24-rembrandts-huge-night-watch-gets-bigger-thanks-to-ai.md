@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-excerpt: "Researchers and restorers who have painstakingly pored over the work for nearly two years using a battery of high tech scanners, X-rays and digital photography combined the vast amount of data they generated with the copy to recreate and"
-publishedDateTime: 2021-06-24T14:00:00Z
-originalUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
-webUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
-ampWebUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
+excerpt: "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate"
+publishedDateTime: 2021-06-24T12:19:00Z
+originalUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
+webUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
+ampWebUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
+cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: WTNH
+  domain: wtnh.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2021/06/9d7ff698457b4ed9aa62bd42cf9eaf1b.jpg?w=1280"
+    width: 1280
+    height: 853
+    isCached: true
 
 related:
   - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
@@ -124,6 +131,6 @@ related:
         height: 500
         isCached: true
 
-secured: "3Ixk0vhcKlbe7yC+RFxalbHzVFtBarokYsJoUNE37joodVjN/MyzSNWszp/LE9njSbjUx5keSoTEKxid/v1bUHBSzEUb5hxrYrkkeCl7DG3fPtBKtrVbi1v01+giuIbIP//H7K9INPrri/pUaTO+AelUsPaWPhMPT2/pMaeOkdm3w39g+zkvSGt7gMbBuLPGTnLQdVX+Q9/1IgfsyiHFVmR2y6E082+9Vjo8MJhqKI3+6RMTZtax5EM4F6jngPrizgsTGf0rgvxcN1Hl6GSRx6nYu3HaBQc7F2g+O4pIk5satW4PQZeylxoJs5FkQUIv9fOm8WHw9gVj9Lw7yIwqEh5NcCKf7VyqIJzhSu1+t/vnEv8oV7Qxd78vco3HhjrQCyOkSTNocNFZlM9Q78qMB5SzgUk1EF9B5k7NnU83iEACpuqHLkFWyv69TC628EdSths4FDbhDgWUGGDuRwOCMLuSXHHnJ/WaSsKR5xJnJnUiPqlEh4M7o26UvGvmhdFjWqI3HpWYp/hH90vAroDVyQ==;Vzo/XQ8xWf9FZRimTFpZdA=="
+secured: "hN7rXMy6cfkP87vZNZFgPARxDBDtA+CKSK/vIaNYzscSRzG7tam0AYZyPlXmgFaHeu4XmJ8O2+AnNw4CLY+FJgE/of1bjhRdfgx2vOp+O845CfuR6EZDOkKCl/ABu26psNjsFs19l1CIrg3fgBp4dHIoiZCbG3rJDI7zNgc2tcElSqg0rFP6B9wx/gUsfX+sSgo/EtkMxEjr15Bal0aVy/MJkiq50IxdyvxJ6eLBu8cqKpg1tQw/yeIJekqDpwC3b4WtWS253zlTiv3Xs1EDHpaB7Ei4LAjsd0RH+sYgSzjgWKItALmZJoHKKmiMH4m4sn3hXRdWQo6YOgXi4mNI1fnmD7z0NYbzUkCnbORTPeo=;zuIs4Ek2pgNABypLs8wnxA=="
 ---
 

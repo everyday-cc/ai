@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp (7203.T), is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services, its chief executive told Reuters."
+    publishedDateTime: 2021-06-25T09:00:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 165
+    images:
+      - url: "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
     excerpt: "The company is the latest self-driving truck firm to tap public markets in recent months, joining Plus and TuSimple."
     publishedDateTime: 2021-06-23T09:00:00Z
@@ -42,6 +56,22 @@ related:
       - url: "https://images.wsj.net/im-357324/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
+    excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
+    publishedDateTime: 2021-06-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-Driving Tech Company Pony.ai Considers Going Public"
     excerpt: "Pony.ai, a self-driving tech firm backed by Toyota, is mulling going public to help finance its goal of commercializing driverless ride-hailing."
@@ -59,30 +89,37 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T11:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
+  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "The startup, active in the United States and China, plans to install its technology in hundreds of vehicles next year, rising to tens of thousands in .."
+    publishedDateTime: 2021-06-25T13:26:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self-driving truck tech firm Embark to go public via $5.2 bln SPAC deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck technology developer backed by private equity firm Tiger Global Management, will merge with a blank-check firm in a deal valuing the equity of the combined company at about $5."
-    publishedDateTime: 2021-06-23T10:17:00Z
-    webUrl: "https://www.reuters.com/technology/self-driving-truck-maker-embark-go-public-via-46-bln-spac-deal-2021-06-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/_GxqhbO7hNui7x2yUeWS5EQnDlc=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UA65RJGP6RKCRP3TUCHDUA2YXM.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83842238,imgsize-700330,width-800,height-434,overlay-etauto/toyota-backed-self-driving-startup-pony-ai-considers-going-public.jpg"
         width: 800
-        height: 419
+        height: 434
+        isCached: true
+  - title: "Amazon is in talks to buy stake in AI truck-driving startup Plus"
+    excerpt: "Plus is among a handful of startups trying to up-end a fragmented long-haul trucking business with driverless technology."
+    publishedDateTime: 2021-06-22T01:50:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus-41624283725571.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/06/21/600x338/2021-02-06T185607Z_1_LYNXMPEH150I2_RTROPTP_3_AMAZON-ENGINES-NATURAL-GAS_1612682042347_1612682051962_1624283883954.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Third Self-Driving Truck Startup to Tap Public Markets"
     excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
@@ -98,33 +135,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-driving truck race suffers from major traffic"
-    excerpt: "The race to create self-driving trucks, as well as public companies to invest in them, is getting crowded. Embark Trucks is the latest to merge with a blank check firm in a $5.2 billion deal. It has built up some speed."
-    publishedDateTime: 2021-06-24T04:56:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-race-suffers-major-traffic-2021-06-24/"
+  - title: "Funding is pouring in to companies trying to crack self-driving tech"
+    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
+    publishedDateTime: 2021-06-25T00:30:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
     images:
-      - url: "https://www.reuters.com/resizer/9FBX6XGyeBXUvN3q30XYY3Riwuc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TLCU7MYWYJJ6NFZ2C6LEP2SXIU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Latham, Husch Blackwell steer self-driving truck tech firm's SPAC tie-up"
-    excerpt: "Latham & Watkins and Husch Blackwell are steering self-driving truck technology maker Embark Trucks Inc’s plans to go public through a nearly $5.2 billion merger with a special purpose acquisition company."
-    publishedDateTime: 2021-06-23T21:24:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-2021-06-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/T-73-Ze86FCm-Kf9HEzIJe-G100=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E4INHPFZ3FNXZPKSXDGU22IO7Q.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
+        width: 740
+        height: 415
         isCached: true
   - title: "Embark Joins Convoy Of Self-Driving Truckers Going Public With $5.2B Deal"
     excerpt: "Embark Trucks, a self-driving vehicle company, is set to go public in a deal valued at about $5.2 billion. The San Francisco-based startup is merging with a special-purpose acquisition company (SPAC), Northern Genesis Acquisition Corp., a press release said."
@@ -142,29 +167,62 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
-    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
-    publishedDateTime: 2021-06-25T10:15:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/exclusive--toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091266"
+  - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
+    excerpt: "Last month, self-driving technology company TuSimple shipped a truckload of watermelons across the state of Texas ten hours faster than normal… They did this by using their automated driving system for over 900 miles of the journey."
+    publishedDateTime: 2021-06-25T13:00:00Z
+    webUrl: "https://awaken.com/2021/06/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 36
+      name: Awaken
+      domain: awaken.com
+    quality: 39
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091302/16x9/991/557/ba62d8a31ab1d2cf87e7acadd4a4cfc7/gZ/a-screen-showing-traffic-and-other-objects-is-seen-inside-a-vehicle-equipped-with-pony-ai-s-self-driving-technology-during-a-demonstration-in-fremont-4.jpg"
-        width: 991
-        height: 557
+      - url: "https://awaken.com/wp-content/uploads/2021/06/waymo2.jpg"
+        width: 520
+        height: 280
         isCached: true
-  - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T11:29:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/self-driving-truck-maker-embark-to-go-public-via-46-billion-spac-deal"
+  - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
+    excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
+    publishedDateTime: 2021-06-21T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/amazon-talks-buy-stake-ai-truck-driving-startup-plus"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/plus-automated-truck-1200_1.jpg?itok=MG-kALv_"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Amazon Is in Talks to Buy Stake in AI Truck-Driving Startup Plus"
+    excerpt: "Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter. The deal would give Amazon the right to buy preferred shares of Plus via a warrant at a price of $0."
+    publishedDateTime: 2021-06-21T13:45:00Z
+    webUrl: "https://www.bloombergquint.com/business/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aSxCmFVzR8/v0/560x-1.jpg"
+        width: 560
+        height: 373
+        isCached: true
+  - title: "Toyota-backed self-driving startup Pony.ai considers going public in the US"
+    excerpt: "The startup has also tapped Lawrence Steyn, vice chairman of investment banking at JPMorgan Chase & Co, as chief financial officer."
+    publishedDateTime: 2021-06-25T14:09:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/pony-ai-considers-going-public-247706/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 35
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg"
+        width: 1080
+        height: 540
+        isCached: true
   - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
     excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
     publishedDateTime: 2021-06-22T20:54:00Z
@@ -179,6 +237,17 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "MBTA officials considering self-driving subway cars"
+    excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
+    publishedDateTime: 2021-06-22T09:52:00Z
+    webUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/"
+    ampWebUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 24
   - title: "Embark Self-Driving Truck Company to Go Public"
     excerpt: "Embark Trucks, America’s longest-running self-driving truck program, plans to go public through a merger with Northern Genesis Acquisition Corp. II."
     publishedDateTime: 2021-06-23T17:14:00Z
@@ -192,48 +261,6 @@ related:
       - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Embark_trucks.60d3693f313df.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "Self-driving car tech firm Quanergy in China-backed SPAC deal to go public"
-    excerpt: "REUTERS: Quanergy Systems Inc, a supplier of self-driving car technology, said on Tuesday it will go public through a merger with Chinese"
-    publishedDateTime: 2021-06-23T05:50:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/self-driving-car-tech-firm-quanergy-in-china-backed-spac-deal-to-go-public-15069566"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 22
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
-        width: 991
-        height: 557
-        isCached: true
-  - title: "Self-Driving Truck Startup Embark to Launch IPO in a $5.2 Billion SPAC Deal"
-    excerpt: "San Francisco-based autonomous truck startup Embark Trucks Inc. plans to launch an IPO this year in a merger with special purpose acquisition company (SPAC) Northern Genesis Acquisition Corp. II (Northern Genesis 2),"
-    publishedDateTime: 2021-06-23T17:15:00Z
-    webUrl: "https://www.futurecar.com/4700/Self-Driving-Truck-Startup-Embark-to-Launch-IPO-in-a-$5.2-Billion-SPAC-Deal"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 22
-    images:
-      - url: "https://img.futurecar.com/202106/23/l_60d3707aa79a4.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Self-driving truck tech firm Embark to go public with $614 million SPAC deal"
-    excerpt: "Embark Trucks Inc. said on Wednesday it will merge with a blank-check firm, in a deal that will give the self-driving truck technology developer a market capitalization of $5.2 billion. The deal with Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T12:46:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-tech-firm-embark-go-public-614-million-spac-deal"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NUembark.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Embark Trucks Going Public, Ready to Commercialize Class 8 Self-Driving Technology"
     excerpt: "Embark Trucks Inc., a developer of autonomous software technology for the trucking industry, and Northern Genesis Acquisition Corp. II, a special-purpose"
@@ -249,16 +276,16 @@ related:
         width: 2320
         height: 998
         isCached: true
-  - title: "The Funded: Self-driving truck maker Embark Trucks plans to go public in a $5.2B SPAC merger"
-    excerpt: "Self-driving truck startup Embark Trucks Inc. announced plans Wednesday to go public in a blank-check merger that would peg its value at $5.2 billion. The San Francisco company plans to merge with Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T19:19:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/23/self-driving-embark-trucks-plans-52b-spac-merger.html"
+  - title: "Amazon to buy 1,000 self-driving trucks"
+    excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
+    publishedDateTime: 2021-06-25T13:12:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
-secured: "OWkZcyVjtqgNAlSRZMe5xMOx8/yM07niOZxL6Z9n5jNWjJRdALcDIN8BQ4MS3aE8wzYhDWn9xdF4lOn91Ym7ll9k0oQYE0vUgIL0D/fon9xrbnubluIi/1g266VNlAa9eYVOZKeBrXXsojAHSUzyYjCoCzBmnaEaSbM9ntcoqh3kesAsihmaHjw/itq6gQhW+yLBxB4kfG6VWTDncbloNTzLk68fDV2ftinIRsG0DEmNtJwk1FgjnuKYTpTZyxYa0g1z0bG7hoIzj94xvLQzidLeOXarg75i8WNzCNLbSpW55sUClLH1rAtHPepe2380qepAl+2Q4JUKd1iUensF+xrkdPplJ3GghxoH/NAXSEM=;9sq38UCjwjXeOa6Yi77YgA=="
+secured: "uud7O44L4KvRKYRq645sxH9GRE5NC2Pe0T4RoXWT9b66C/VYDs0D5lwddxQ//ZYpUDc+4pNUKnGiMOWYI5VzGk+buH7J+QmUW5trR0Klk0N/r0Ouz9ZquWMm4PXRY0J3SEqaPyDWo1c8iQ8hMLuJCXd0m4lkL8gC4P73qy5/yRnPWUPW7eG1qp6Q2y8HM5A0U/wWstfxCZd2dIM9z9hLD4vHXoFcFobVMfHbIFZEzuTa/YvgNM+8PPyL1Je53HajhcsVJu6P6nq8zyTwwWLfR7Tb4XZEhf45Ayc6LJnHRh8O8bIEzH324yA7lGJcZIKB8W1/oQHyU70afzItBZLVp+lrxGI4uVDQtSnq7UYqNpTgjJEbChOZzXA2g6kkg65jAUNZWL+2RQpz05Oi7m0xIXF07F0cVWPsFPM9C5VkLq0djlLxhva19RXZ86oTBG/jZSPJoXS6ZwbKXz22u1dfCw/50tIrxWKyGcdBIsNsqC61GNKFHsX4Cn4gSPJwSw88IBfnSQx8Ph243XD1EsSL+g==;wImMmxwlwQ+kURmQj/8Gug=="
 ---
 

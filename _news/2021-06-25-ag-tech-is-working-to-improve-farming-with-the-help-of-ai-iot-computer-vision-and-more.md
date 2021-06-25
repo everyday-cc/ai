@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Funding is pouring in to companies trying to crack self-driving tech"
-    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
-    publishedDateTime: 2021-06-25T00:30:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
-        width: 740
-        height: 415
-        isCached: true
   - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
     excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
     publishedDateTime: 2021-06-23T20:35:00Z
@@ -102,6 +86,6 @@ related:
       domain: benzinga.com
     quality: 39
 
-secured: "X1/qg9Za1NfhD2OtHd6a0Y8Br5FoL3HAWYKWMGKJmdByDasroBJKD4JDOFjxbciWhH2fyUAhIlZqxioH1mBDyB4nsjSygqwtCVYhmg4jaOdfEREb5uflkDpdDbbm4GsoQqUU03J7Cl/xyuaOKQ6bCJQbEQyZGLBEciH7sWodWMLGTRj3QGPwxbO+mZIO/0weFQywev8n/6Gsh8D0D+NFgQZ+hJxYyFrlOM7Ii5rhb58CtbMOW1f8QzQpAz512VqQsReaidEIk7tQlqxlK3P4R+RBaoTtVDC0sVB8RXoXIr5SNXW5V94Q6LVIGbFNEpemqxKihq2ji0ZamR32a+McsTzVBbLOw/6J7+Av/LOCKkc=;7/ptXTcz/YeEodnfMpBD9g=="
+secured: "5xXbODUePaujfd4iVjQFGQAdfUzrk8OxhBUR5/Fn/aiVE0X8fKxWxR8vuI1Nj2X+u0jWUQwzC8Ch56cXJMhx3BvDr4T3cfaOP4SHfF5qLbvm6dnZAT6c12NGG8MtvzUE29VNtcA8Tt8poYTAWmIPIY5L27VnNIVtBS+emGMuN1g72mzl+ZAA2tf2tUmFiW+n2vP679HdsR6x8q7l6D/FFy+q3hm6qGb3S+Mp/bn2B+p9JUOzVeLRnjlwCD0u3hA99WHRYrVKgDGnbt5ZG/8hgOl0sId3dCORP8GDMABtFs85/A4Pw4bxyM8QH/QoSV5moCmoDVwM2ULSeeWrVJa8DUVQFh6q3kraCge7kQbjjuxQKxSVyUBSKK4E5dkFxiSoPyf/yauiZiOS2PyNil5SbHpFF8ydd/XySAuU0HKPoi935d1xa7kpVWd9oy/VJDx562iNbttDFmhoeEvYWzyyG/csY47JjclnxMnx6bGMih8XjUE5OyQfl2KOQGjhRIgv7AviqdW4jS8OIpokDVcQ6Q==;at646+TLy8tLEvq/KXol8w=="
 ---
 

@@ -3,26 +3,21 @@ category: news
 title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
 excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
 publishedDateTime: 2021-06-25T15:41:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
-webUrl: "https://www.arnnet.com.au/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
+originalUrl: "https://www.reseller.co.nz/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
+webUrl: "https://www.reseller.co.nz/mediareleases/142736/artificial-intelligence-ai-in-education-market/"
 type: article
-quality: 41
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
+  - AWS AI
   - AI
   - AI in Education
-
-images:
-  - url: "https://www.arnnet.com.au/dimg/300x300/dimg/win20_edu_remotelearning_026.jpg"
-    width: 300
-    height: 225
-    isCached: true
 
 related:
   - title: "AI Chip Market New Innovations Trends, Research, Global Share and Growth Factor"
@@ -133,7 +128,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -158,6 +153,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "iYdr/iVR1vS8jpbv3Ef64dbUcN6nZ3t7PPa7MTZ4fsyg4kn/cY34cKVe7mf8Rxx4hV8YABIMccJmh4cU4D7g9gaXfNptnb+hfAU2RBlwi50tnmdy33sGh2zOxIpdlgFGlsVTQXKCiyJmnL8Rjz6EqGBH91yoeTZKpEHJjD35B7jofrUqYguuOU+6/aDONQUE9XSFK4GTBtF4hAbxLd5E1kErPA434ueIt0BxH5XftoaCC+jwvfq7gouKcvYpFc8YiRcQv5y9PmSuU54Ze+PnBNPzfOL1/bdCanN9rMupk6M6m8cLlnkjsaEjRypaHVeySzborILBGzEQN/piPEk1rWmvq46uqI0rQRKN3+d2nPI=;rAwU8aoPdi0XUjIvG/4utA=="
+secured: "bScVABLJvwsHprOuT1lBUPxjKLmgQqMDwraQ+QtFx09fzBvF2+Gywfs1/8n47rpcc3Qoe/ugHy+YKX3l2qZe9WkRR1ZE3cbb2phTuzF6dJ8tOz1rVPsiHKYUEvr6s9BaYfP+193sQTDuxMn0jebpn9MLp4IJhqHnfdAXnE4K70eJCYae5T5YYn0UfH694jqA8EIBkfyvahgchggWG1pPn6VMuwvrZW11QR6ohd6pRCn5sQ1rWVW/xBORUwxHxhThVtnRBMD7NFJGt+LgNTZdIjr6MGT7Ac7ted2oIhMihiekvScbX+MFQnb0TOzcIK8WLp3+ts3vyYXblKgIHuHRV6aUK8SXFeC6XZ+t4YXZyi4=;+YVKh+orhjY2dRjYm6JqOQ=="
 ---
 

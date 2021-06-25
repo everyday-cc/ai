@@ -40,6 +40,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
+    excerpt: "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate"
+    publishedDateTime: 2021-06-24T12:19:00Z
+    webUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
+    ampWebUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
+    type: article
+    provider:
+      name: WTNH
+      domain: wtnh.com
+    quality: 59
+    images:
+      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2021/06/9d7ff698457b4ed9aa62bd42cf9eaf1b.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
     excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
     publishedDateTime: 2021-06-23T13:03:00Z
@@ -72,17 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-    excerpt: "Researchers and restorers who have painstakingly pored over the work for nearly two years using a battery of high tech scanners, X-rays and digital photography combined the vast amount of data they generated with the copy to recreate and"
-    publishedDateTime: 2021-06-24T14:00:00Z
-    webUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
-    ampWebUrl: "https://www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Artificial intelligence recreates Rembrandt's Night Watch that has stripped off parts, in Amsterdam’s Rijksmuseum"
     excerpt: "The strips' addition restores to the work the off-centre focal point that that rebellious Golden Age master Rembrandt originally intended."
     publishedDateTime: 2021-06-24T08:48:00Z

@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By"
+    publishedDateTime: 2021-06-25T19:38:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1551025/octopus.jpg?p=facebook"
+        width: 798
+        height: 419
+        isCached: true
   - title: "Auddia Inc. Announces Major Technology Advancements in Artificial Intelligence ..."
     excerpt: "New approach increases overall accuracy by 170% and reduces processing time by a minimum of 5X while virtually eliminating most hard costs as it scales to thousands of stationsReconfirms guidance for full national launch in second half of 2021BOULDER,"
     publishedDateTime: 2021-06-22T11:01:00Z

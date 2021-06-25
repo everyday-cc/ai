@@ -79,22 +79,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Funding is pouring in to companies trying to crack self-driving tech"
-    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
-    publishedDateTime: 2021-06-25T00:30:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
-        width: 740
-        height: 415
-        isCached: true
 
 secured: "Hu3aj5hdUGMo/6s3m/UsDIdbxhmMBB5SQ57EmqWtyuRhS7ahCQu5zsitSGj+ijFRqjEzFVIiM58xcEGGKByGi592HHuQHktpEH3QoZ4H3ncJ7I9W5YpeYg41xTyvRtQyAFtSrJ9RHt7yzj7Md5EDSYGRRfVqEQWibLQ5TTiSEOwZIQ0E6stPXf+zjSc04vzE5f5TxwSIsr2uJjhHpjkAxlL1k1oz4TOR7hgT/oFABZnAWxH6W2AFXRUjyL5KJzAIypiR4b6nrzk7Y90ZzZR+AVVZCmtaOKlv3EmPnaHM0IcOrxVhnIiSlwRhd1BYgqk3TDQL1sQoetJE+d/ooDktgGSjVmpUUtCpHc0XQneL5jc=;ParZTnD7AiedHLq/csZQCg=="
 ---

@@ -81,6 +81,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Idemia face biometrics deployed at LAX for international flights"
+    excerpt: "Biometric matches are conducted in the cloud by U.S. Customs and Border Protection (CBP) under the process, which U.S. citizens can opt out of."
+    publishedDateTime: 2021-06-25T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202106/idemia-face-biometrics-deployed-at-lax-for-international-flights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
+        width: 748
+        height: 499
+        isCached: true
   - title: "Biometric payments on the rise, with face, iris, and fingerprint recognition deployments"
     excerpt: "Several companies have released new biometric payment platforms or unveiled new projects and data this week. Veritran unveiled a new digital payment service using facial recognition in Brazil, PayEye announced the first cinema in Poland (and the world) with an iris payment system,"
     publishedDateTime: 2021-06-24T21:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.h
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
 quality: 68
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/gdZLmTqQH5ZX8Bzxt21XRnn0P1Q=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OQSDFMKXJVNDVCJ4XQLDA2GQOQ.jpg"
         width: 760
         height: 481
+        isCached: true
+  - title: "NDP highlights concerns with the Liberals use of facial recognition technology in letter to Privacy Commissioner"
+    excerpt: "OTTAWA - The NDP’s Critic for Ethics, Charlie Angus (Timmins- James Bay), has sent a letter to the Privacy Commissioner of Canada, it was discovered that the Liberal Party uses facial recognition technology in local nomination meetings."
+    publishedDateTime: 2021-06-25T18:19:00Z
+    webUrl: "https://www.ndp.ca/news/ndp-highlights-concerns-liberals-use-facial-recognition-technology-letter-privacy-commissioner"
+    type: article
+    provider:
+      name: New Democratic Party
+      domain: www.ndp.ca
+    quality: 18
+    images:
+      - url: "https://www.ndp.ca/sites/all/themes/canadandp.themes/canadandp/images/Generic-Scrape-NDP-2021.jpg?1624651312"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "OCWQTpYNyJ+kKsN9W+MnJBNmI95ko4EhCe3U6z8/Y/ZaCJSUHA6PVhaghA0KCc3sNj5xxgso8vJlppwpHSZovh2Y47Lg8n6tYwmuGBpNcJVsnWnV5O9d9ljSx/A05WQS0fF3A5MWshpLtZnaWkM3H/nYTTyS37bDYGdqFCg3VxyIqdM3gow7vtlspSwF7Ld9hng1xmEpkMKH0a70HEKcSIjWb1sTk1wbZxDoM2GlNEOhqS/1qABRLQ7QxuFUygMhspp4z2xbxH+AeKWlWZnLXa3qRBWH71w06J4H+vM4ylo9sDUDgGvCUK7cXsBU5zBsrniy98blNlWEP8WVfZwi8tawUfefIDWC9JhBlLp8P9M=;c5xaS+02aGwLsTMV1dAFgQ=="

@@ -67,7 +67,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_deepfake_faces_recognition.jpg"
         width: 1000

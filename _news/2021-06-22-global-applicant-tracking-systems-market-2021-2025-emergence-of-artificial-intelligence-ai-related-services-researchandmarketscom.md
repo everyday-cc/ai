@@ -24,19 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Share to Record Substantial Growth Over 2020-2026"
-    excerpt: "Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook, Application Potential, Competitive Market Share & Forecast, 2020 - 2026’,"
-    publishedDateTime: 2021-06-23T11:58:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142431/artificial-intelligence-ai-chipsets-market-share/"
+  - title: "Aerospace Robotics Market Professional Industry Research Report 2027"
+    excerpt: "Aerospace Robotics Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Aerospace Robotics Market currently leading in Europe,"
+    publishedDateTime: 2021-06-25T19:42:00Z
+    webUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 42
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 54
     images:
-      - url: "https://www.arnnet.com.au/dimg/300x300/dimg/dane_eldridge_-_profile_shot.jpg"
-        width: 300
-        height: 225
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png"
+        width: 772
+        height: 270
+        isCached: true
+  - title: "GCC Agricultural Robots Market 2020 Professional Survey, Growth Factors, Size, Shares, Opportunity Analysis and Forecast to 2027"
+    excerpt: "By incorporating advanced technologies such as agricultural robots, Big Data, and artificial intelligence in cloud ... systems ranging from UAVs to driverless cars. Agricultural robots minimize ..."
+    publishedDateTime: 2021-06-23T14:38:00Z
+    webUrl: "https://www.openpr.com/news/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    ampWebUrl: "https://www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623283900_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
+    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
+    publishedDateTime: 2021-06-21T20:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-markets-to-2025---increasing-demand-for-big-data-analytics-due-to-huge-unstructured-data-generation-at-end-use-industry-sites-301316528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "XRemE/dsmaigvQ7QihYGoW80WShkSjVSOCGorzums8/UpWqOUVNqc1Q3kIgB4UQLzcHyWaYpZvUjBzWeSU/KM/k/V2z4RbBMkXRJqnKBgyTNaYW+CuiHGVYLQdHLkPM54cBHqY/RvtRy3ANk0MwOA2FV/SGCeyqWmAir79cLnoCr4fzxJfln9JRUx0gF44OPnDVw8TlgfMeRrOn5kdWQrkopud9U545a2RkJpeqPsSryvFhGB7w5GYG/S+TFRczp1JnC4qX4jfCGpCTb2hdSKOMzCKHxWGF8s2ZlC80/s91W7Co9e3hV5BKREpSEb1Fmdjk/rxZ1BX+niIoTzqHiJm9DVQ3+IwWgMWziiQ9T2iE=;mmnbmGX5F/v50sEdxyATxw=="

@@ -95,6 +95,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Idemia face biometrics deployed at LAX for international flights"
+    excerpt: "Biometric matches are conducted in the cloud by U.S. Customs and Border Protection (CBP) under the process, which U.S. citizens can opt out of."
+    publishedDateTime: 2021-06-25T18:52:00Z
+    webUrl: "https://www.biometricupdate.com/202106/idemia-face-biometrics-deployed-at-lax-for-international-flights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
+        width: 748
+        height: 499
+        isCached: true
 
 secured: "7k2FNgIU+sIZKC87+24vSVIlGsJixyq8FbW12VS7aID8nEpe/1Pk5zrCMfdnboYBEEMHmH4WGmvMYaBYqpweiEAx5uqBQQw3U7VGqbnrnBOeAI0rWxhvDH09JYv9JuVgQG4Is2Y+SwpQ/EKNncKJTvGt4HXD9CK7HYXTbOZt61nT79wvcTlhw7cqIel1amz0pY3IC4jUsi5E6HYFLrJQr3zexYZ4M+EPPRADmFq/9EeRnQM8cyzxPxJWICAjEeKQ95w4eOhQWAw3I+nIieHeUb4LcVkm8ysnJOXUC8iJuYCUt1tMT+5GZETvCemVx4ugN5zCc6uCoj/YDcFQGJX8p0ukWE3RACEisOoeD26sL0vNYJR4iQcM4AkZRXtpkD14zlvF+fybIjKwALtwX41BFLZzF1j6lRS74LNZ+XBXQugRI60ffwJZKNPMayDUxyhFdZVucuXZemCl/obAJKI+eswiFBZ/UzrmhhfMHKqD0wce6DTsCpLcARZaib6VFNwcvyxXM7uKHHc6oouMThqL3A==;2pYo9J27O3XXAzAaQ0Xc3w=="
 ---

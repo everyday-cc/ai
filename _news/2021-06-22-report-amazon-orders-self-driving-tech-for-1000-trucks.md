@@ -67,10 +67,10 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Amazon to buy 1,000 self-driving trucks"
-    excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
-    publishedDateTime: 2021-06-25T13:12:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
+  - title: "Amazon to develop 1,000 self-driving trucks"
+    excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
+    publishedDateTime: 2021-06-25T18:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-develop-1-000-self-driving-trucks"
     type: article
     provider:
       name: Engineering360 News
