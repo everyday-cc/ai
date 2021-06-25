@@ -3,8 +3,8 @@ category: news
 title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
 excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
 publishedDateTime: 2021-06-23T11:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-boastai-named-finalist-two-categories-bc-techs-2021-/2021/06/23/9395838.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-boastai-named-finalist-two-categories-bc-techs-2021-/2021/06/23/9395838.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
 type: article
 quality: 12
 heat: -1
@@ -197,6 +197,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "SbnHQd+EVB4rZANnFXxMm7rjKmVQNa7zs7OtSK0D6bNVZ6x5K9rpZPxi3ri/gTUD3d6A6fZ74vzAkzDD9gCZakat5ruFPR/nt2dCwl9YNK/qdKTEinXGESSegxduAzjymD3Rq9Q3ym7QvzYwVHSLoCqWgtiq51dbv+eKT8sonVbkewBkEXbLB8Z7J/bzYOEFyFDUHAhZnJ/kDb4rrHNQkCNxwJy4yvJoyon/VSo5vmAqU8F3sBYNbCnsHnu4WzgvDjMih91hgu4uQC8UmrWqNw1svJzley7LWowuBqBCRTS8BrydzAIkFSud88Yui/2BrnnDznoJ5iObIGM5t2Qq2r952TIflPAIFxeu7DcZfKQ=;SlMoApiui5uifeWTk0kWFA=="
+secured: "J0BswVUqBvB5Vl0L7lJK4LPsbRZR/qTDGRgtY2ufitMCGn6Mo9JBdv9CCRExy8mnNgmJwkn4Bd75BpWsCOoArbLDtoZl1c9fhpaSCYEccsK6TJgpHWtJWhwFAiDxCIPexbxQj3YMEe776IrGYsAYMtLbEIkEc30kVWCLso158GaC2J6+er3LxRjmz6x16rvNaFivo8Df1Ad6nq+uTYSb4snpcnJq/fSUrxtwqH0u1bUjRrXObwEjrxSjBLxnh3eO4AjjEqsxAZlFwX8j9GaJE1QGbvLhg2mweiORftfiq2GEaHkhQqcW4REA6K5zDo2o1syCwrDQibhejyL1PwOE5GsrgQdI+Rfe2EBMaix125E=;CZjtfmAlRLcPR1BRytY65Q=="
 ---
 

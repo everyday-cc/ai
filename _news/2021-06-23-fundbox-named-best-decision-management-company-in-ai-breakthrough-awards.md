@@ -49,6 +49,20 @@ related:
         width: 720
         height: 540
         isCached: true
+  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
+    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+    publishedDateTime: 2021-06-24T20:28:00Z
+    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
+        width: 720
+        height: 540
+        isCached: true
   - title: "Pure Storage AIRI® Platform Named \"Best AI Solution For Big Data\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
     publishedDateTime: 2021-06-23T13:00:00Z

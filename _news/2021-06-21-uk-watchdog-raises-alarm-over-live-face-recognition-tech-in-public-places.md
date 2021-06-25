@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/business/uk-watchdog-raises-al
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/843344f/4c5182c5-5994-4830-97e7-0bcdb98a8643/6/live-facial-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Use of live facial recognition in public spaces is 'deeply concerning'"
+    excerpt: "UK Information Commissioner Elizabeth Denham, has said she is 'deeply concerned' about live facial recognition (LFR) technology, and it has the potential to be used inappropriately, excessively or even recklessly."
+    publishedDateTime: 2021-06-21T09:29:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/use-of-live-facial-recognition-in-public-spaces-is-deeply-concerning"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1624267612/widgetdocs/facial-recognition_f8jukk_yutkw7.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "How Facial Recognition Technology Can Benefit in the Workplace"
     excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"

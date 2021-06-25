@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-03-deepracer-womens-league-aws-announces-winners-of-ml-for-women-initiative.md",
+      "title": "DeepRacer Women’s League: AWS announces winners of ML for women initiative",
+      "excerpt": "The initiative introduces machine learning to women students, allowing them to explore and apply ML skills in a virtual racing league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "originalUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg",
+          "width": 625,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deepracer-womens-league-aws-announces-winners-ml-women-initiative/amp/",
+      "publishedDateTime": "2021-06-03T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-indian-scientists-construct-a-powerful-artificial-synaptic-network-to-imitate-the-human-brain.md",
       "title": "Indian Scientists Construct a Powerful Artificial Synaptic Network to Imitate the Human Brain",
       "excerpt": "Scientists at the Jawaharlal Nehru Centre for Advanced Scientific Research in Bengaluru, an autonomous institute of the Indian government's Department of Science and Technology, developed a new approach for fabricating an artificial synaptic network (ASN) that resemble the biological neural network using a simple self-forming technique (the device structure is formed by itself while heating).",
@@ -1279,49 +1324,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-databricks-ups-ai-ante-with-new-automl-engine-and-feature-store.md",
-      "title": "Databricks ups AI ante with new AutoML engine and feature store",
-      "excerpt": "For the developer crowd as well as sophisticated business users, Databricks is introducing an AutoML (automated machine learning) engine; for data scientists, the company is adding a feature store.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-ups-ai-ante-with-new-automl-engine-and-feature-store/",
-      "publishedDateTime": "2021-05-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AI in Computer Vision Market worth $51.3 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial),"
-publishedDateTime: 2021-06-11T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-computer-vision-market-worth-51-3-billion-by-2026---exclusive-report/article_3185609b-6df4-567d-87c5-2ffd628994ef.html"
+excerpt: "According to the new market research report \"AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance,"
+publishedDateTime: 2021-06-11T13:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-513-billion-2026-/2021/06/11/9388941.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-513-billion-2026-/2021/06/11/9388941.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/63/a63dc5dc-7992-5fd0-8794-8539b71dd644/60abab2ba5c22.image.jpg?resize=669%2C229"
-    width: 669
-    height: 229
-    isCached: true
-
-secured: "eNxxA67AmJngQHD8aMltSWdl7nmDh/0o5SwV4ocFyL+nDXMjZYSp21ODLCgwLQIwCIpoA96kbWkq+HMQ/A4Iv2U5huCC/C6rDDJSsBb7wFo1BIYkBwLZttBzeE8JGTQYvPVdIDM839N5Xb2BSZ47BbaF2iC+hhbu7SbUs5N91TsvfWdGfJ55ENxNDjYU0tX3sJv1NiY/iISjkAdFmUCXm7abOb1LAX0NFn00gc9D/b/95Ajwja3bFbHPtmPCqAXL+H0inxbKIj7zlbdluhlN1PKx81Ll/kxLduARDZ33704yQChaxW1oC2H0wPePWUoArS5KlpjVBkyp+axsFFnXi/yJQP7de1o1nIENBUPY4FHxAUOjHPuKj6YwQEWShsEXjLjok+0KrfyUXzYm8OKbvD7r8Ohg9VCwUT7CWyuublxajWTY/mFAkr9wN6ozcQG6IWrzi+s44TqDKxBktdBmg3uEYwFZ2VS1osXAdgdRlpAOE//3bqaSJ9kofJMhh2K9wfL42VZcubUlrWCCokwrqw==;uwP8gFlIqfdF4J9USg2+Jg=="
+secured: "iQibkshtZ81ihnYvvr800gS14EbObWOwLhjmYEjp3+sOzhEFfT6NjBiVyIdqeHQ/1DPVo8NRhO7gUol1lcEjFNXnHIIfcjCALWo2uXWYW/LQIKl4bR+ryg/YqPaNIf3hXo4HbgEMdWp3TPS+JuTJ+L0vn4IJLpI5uwDLGv/ZPch/MMFOajlxwtWVUoxuYmYUlnlYX0d38Cfs5YFEJkIZSajqW1ULqe16FT7d/nTHlzz/xxk7xU9T8fva82o0N/xYoN6czcF30OFFVx68r+XyfuFf7hwKSFHWnLc5b/BLpr9/jPDqsZRg5VPfUFFoCGNAomb3mvCwRZoH7B8PiiGHZWDvAxcPfyKsqZUN7eQexfRYfZnwgO4Ska4fwudci6a+6tmlL6rwxXMzTJ8gmROvDTZGkcjAg0vgIWCyGUvoJ/G03egGtGW3c5YMJ+Efx9BIZAYsmu8wfOCjOmTg7cr50p34IQaYN6jU86X6IM5mjqdL8z2SFrWrT+XoX1GzLn6mU5Eacd1Xx5LfK8lYsIGQKg==;9dKndkDicGC0J09RES8+nA=="
 ---
 

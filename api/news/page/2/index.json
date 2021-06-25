@@ -2,6 +2,208 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-24-google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing.md",
+      "title": "Google Visual Inspection AI Augments AutoML To Detect Defects In Manufacturing",
+      "excerpt": "Visual Inspection AI takes AutoML Vision to the next level through its domain knowledge of the manufacturing industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d424c449305f4e9367c3cf%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/",
+      "publishedDateTime": "2021-06-23T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025.md",
+      "title": "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025",
+      "excerpt": "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-worlds-first-ai-analog-chip.md",
+      "title": "World’s First AI Analog Chip",
+      "excerpt": "Austin-based Mythic has launched the Mythic Analog Matrix Processor (Mythic AMP) — a single-chip analog computation device. The M1076 AMP uses Mythic Analog Compute Engine (ACE) to deliver the compute resources of a GPU at up to a tenth of the power consumption.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/worlds-first-ai-analog-chip/",
+      "originalUrl": "https://analyticsindiamag.com/worlds-first-ai-analog-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/analog-chip.gif",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-natural-language-processing-tech-startup-primer-raises-110m.md",
+      "title": "Natural language processing tech startup Primer raises $110M",
+      "excerpt": "With $110 million in funding, natural language processing platform Primer plans to add pharmaceutical and financial customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/",
+      "originalUrl": "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/",
+      "publishedDateTime": "2021-06-23T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-ai-system-can-rapidly-identify-healthy-productive-skin-stem-cells.md",
       "title": "AI system can rapidly identify healthy, productive skin stem cells",
       "excerpt": "Stem cell therapy is at the cutting edge of regenerative medicine, but until now researchers and clinicians have had to painstakingly evaluate stem cell quality by looking at each cell individually under a microscope.",
@@ -559,7 +761,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -750,7 +952,7 @@
       "originalUrl": "https://www.deseret.com/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -897,7 +1099,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/375424",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -981,215 +1183,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
-      "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
-      "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/PQEZhlnyJcMI6mHQvEbGTKewuZo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QAA7N6S7OFLDNPSGWINOQW3PWY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
-      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
-      "excerpt": "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "publishedDateTime": "2021-06-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-create-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth.md",
-      "title": "Create a large-scale video driving dataset with detailed attributes using Amazon SageMaker Ground Truth",
-      "excerpt": "Do you ever wonder what goes behind bringing various levels of autonomy to vehicles? What the vehicle sees (perception) and how the vehicle predicts the actions of different agents in the scene (behavior prediction) are the first two steps in autonomous systems. In order for these steps to be successful,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/2-3859.jpg",
-          "width": 800,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T12:57:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-real-estate-agents-look-to-ai-for-sales-boost.md",
-      "title": "Real-Estate Agents Look to AI for Sales Boost",
-      "excerpt": "Technology leaders at Realogy, Compass and Zillow hope to augment human savvy with algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "originalUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-358164/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
-      "publishedDateTime": "2021-06-22T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

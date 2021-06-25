@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-st
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -26,49 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Is Our Best Hope for Cybersecurity, Deep Instinct Says"
-    excerpt: "Thanks to the exponential growth of malware, traditional heuristics-based detection regimes have been overwhelmed, leaving computers at risk. Machine"
-    publishedDateTime: 2021-06-22T20:05:00Z
-    webUrl: "https://www.datanami.com/2021/06/22/deep-learning-is-our-best-hope-for-cybersecurity-deep-instinct-says/"
+  - title: "Zero trust startup Illumio raises $225M to protect multicloud and edge"
+    excerpt: "Zero trust security expert Illumio raised $225 million in a funding round led by Thoma Bravo, others. Channel expansion is among goals."
+    publishedDateTime: 2021-06-24T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/"
+    ampWebUrl: "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/deep_learning_shutterstock_Zapp2Photo.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
-    publishedDateTime: 2021-06-21T10:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Cybersecurity Researchers Develop Technology That Lures and Traps Hackers In an Artificial World"
-    excerpt: "Scientists have created a cybersecurity technology called Shadow Figment that is designed to lure hackers into an artificial world, then stop them from doing damage by feeding them illusory tidbits of success."
-    publishedDateTime: 2021-06-21T11:06:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cybersecurity-researchers-develop-technology-that-lures-and-traps-hackers-in-an-artificial-world/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 9
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2019/11/hacker-4031973_1280.jpg"
-        width: 1280
-        height: 889
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1182955043-e1619720482359.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
-secured: "RE43EvgteGlNOyADdQcHZKQVUorNhWtXwafftLffE97xMpct2gIqFmWCOm4xnwsLvqvBH6UTEcQOWzNXNTYCHjPOq1PORAaW0rmbiZSCTx92bSQzt1HPafnXYOn32OZU2Mjq3u4+BJ7oVVnrGl3jwtvxOZYQN480ziMJ8cmwt5NyFdnNl0JJBQqc+LaWG+mWsp7t1MLrQJuNMsXXmoHC2540YyjVUzmPRnEi3RtLIOeGa85eG8eKeNjf9KpJEHHXyz1m3FQ7bQcT3+98ElbhaeQAfanA+zNtR/kp8mXBMy7uZjAlsSWr/v8zDrwCADN6GWeDreGUFrEFNRI0FiKPcYiZF9u4J+hePu2H/Rz1X2E=;jC2C8Bh1B6/9YQMTwDtHaA=="
+secured: "yptHM8YCZj1lNSwtzy6KMlca6R8j1cdwyNYD3xBm9beUhKChOpTdLUScWKwghRTACn9n37CsKRcbReQpVsOnbk4VyZHM8JlRiJobdi+aRc/bwskQhAvvamtt62UL4VOJDlcY70xTBuz1q7kHdFPiIU8nyIdG74b0fyoEZRYfx6i8RYcheqbRsZ+FQ9sA0Xkm3GTiqMrgzPTCJU1hnL+GGkSI33UyZ3CmtrPvtyJx3avDu7sjlC+G32RkAB55Kx1/uGEKR7W1jW3PRWYtCh2BpgLAecGFGchTMnqKME+hMMiaZSJ5Ibsm6EOOr2xGphl+J/P/zMRruyV5q1y6sDy+8TWJgRmXW4mpM7TTVh0K979G6pUXrQCl1BuaI1/MncdUyBLxNk89xc59eWun5w7AEwHJIy09/ijeBPNouMKprFKL/zoDubG33f6WOiSK+MUaz+117XW5XS7DgYYSbbiabUws+Fx1ekRs2pjUFLjtw5DQ5fMh2rKfVrjFm9aswTpp6EBSHZh33UZ2jTUD2xrE+w==;mPyB8sZermU9A7WEC4gURg=="
 ---
 

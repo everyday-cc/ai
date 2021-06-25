@@ -43,6 +43,22 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "İşbank selects Driverless AI platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction applications"
+    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
+    publishedDateTime: 2021-06-24T21:47:00Z
+    webUrl: "https://www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 45
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/06/lens-flare-effect_zkH5budu.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
     publishedDateTime: 2021-06-22T14:24:00Z
@@ -76,6 +92,6 @@ related:
       domain: finanznachrichten.de
     quality: 14
 
-secured: "ODFA4BHnc2pmeEK3Lptb4Orj/KmWj4EgBTS7KCAttPNTch+p5l13UbL2VUOYle7MKl+4Uq8okHwQNJ5LFZ/ykPWW24ZJkT+NJz0eLwAd04dNg9Lciv8s0OdY+3wTr05jfbsXftuQT+yTG+ncmQsvGdRxG3akPzXfGynDWYf65VxlfLnTi9ELFhdZKOBFb46ysNmmi+3+IMt5C6xOtck/7tph4HQ+7nAVKKDyTkeUoZhDtJuracQ5vETitw8zZMpciywcKcckNoD0Dijmv3NpyyqEw4FLf6TvqTBqKc3kdhGEAp6qpPpmEbHnOlafzcjsqx5RD1RmwYitZKR73krXjhzKredKJKGTbiUJRW30MYw=;eBSZYDi1fCjPbeAKl9VZhg=="
+secured: "BuHxdyfA69z91iJmzCTXtlo+rxG0IEYgd1tDVy3FMeUBtYJFQVvbOQ7orVwML7J/KDoYN38TXkqZZqilKFGZVLjrzh2Zk5ihuzUm/XJPySAKT05X3t7pvJYgRt05gexIcduF6mFu1PCyd0uX2K4fYHPPL+n1yN6ovyxcvrRaY1UWFSkPcn91xygwkHjmdu2Q9bnrLQ1LLP6T6s88YE2VBZ1se4hod2kpi2M4lKrjxthfqhZlrpYNdIrTdB/O53nocBL+B4Hdwo6sh1psItkcCudUVKSuhrBOe8YkxiL4QRJ/CYmSSsQ8kbFv8aNJ0zTMHQWkZj/N3Chi8uWb8pVz9yTBMfNuVwDHEX2NGMPHtLO0ZHl678evSOSPs/lZ0dJn0tzPlle1tpjRW+CEdwf4Z+lWbceASUSRbTuSBwaMCEO4UIHai+ECwJAXhPiKNO6QvpiBzI/DhG2J95GromoOyXWK7IRnpj/wXvRFinViW/2VKOK5YBfrU4Ev8OGOCVzU2FYccJguVtK7eTydlbcBhg==;d7XiwFcT4owOCDtIu2Kmtg=="
 ---
 

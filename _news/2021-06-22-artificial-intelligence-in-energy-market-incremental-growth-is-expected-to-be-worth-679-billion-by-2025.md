@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
@@ -63,21 +64,7 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Artificial Intelligence Platforms Market to grow by $ 17.29 Billion at 35% CAGR during 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence platforms market is expected to grow by USD 17.29 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence platforms market in optimistic,"
-    publishedDateTime: 2021-06-21T12:41:00Z
-    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-platforms-market-to-grow-by-17-29-billion-at-35-cagr-during-2021/article_46fe2d51-444d-55cc-ab40-ee95d9fcdd2b.html"
-    type: article
-    provider:
-      name: Troy Record
-      domain: troyrecord.com
-    quality: 18
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/39/739dd46d-9de5-5170-a564-fc500b065178/60d08d9285ae4.image.jpg?resize=1200%2C585"
-        width: 1200
-        height: 585
-        isCached: true
 
-secured: "+iys6+jGyH4C7oBoIiuwFS33K+pfQ9xMnj2FUxdbDjXKeWiwtzqwLh6vWxj2AtwbvMXnMHG8rlkCXIVfObv3mLaIHC1VKjoP268ufMF+IMQTobaFWq5KV3/hy31xJO7pl5NOxE5xX7iServ+X5DbDCKL8kku5YHCTiFzvJJeW604wtMdgUsusM0JUZpiA8A8V8vT+Fl0DRqbKVi556Sjdj4rkiHaqYb58hY62Te68SmQIrfo23EgQ1ix/yYZJGJWIl8iljJS5Og6hO2VX5AKkknqOZM8IpsE1bZGRBzFGJNvwGMOu/Nz0oioOsQTsc9LBlJ/DNbBw1qKU4rdP172pZYrfajEPvxbqmjD63qJnu8=;qPWLJzjAkwBauxEe9GRgCg=="
+secured: "AvEMnHfguLvmYKq0bghsis1z/NRMx2oNV5JNaS9nXsneDcCZgzbzKkU4NXTnpBWtZzna1qWKVwsXixXnKAOD3ZBfAO7sFYVppmPgaXeoRYkSvOTVvq2LNfmuGasXHTmFPLu8E+unIdqXS83T4ys/yuH30vMDcMNR+NntkYURk3UuQLYqM4RSXWjwtaZ95lHC/eD7yW1WnQrjqG7hOb8gW91V1JV1FSP0HmXQVpUgj0Hh4ccKL0AsD26+RwaRTcSENGYkrC6/+zaR/6tmpBzUHWg8dku16dKRD3QHS6UpiOCeJiRME8UzdyefybDqQ2lRMI4DDFsMg4TyDXLf2N3kJSw1Lo+PseBpApaNRMfkqO676zmCzZhxYe27KhrOMaoAxRnjLoUXTxleTYH1pWtdbTHXnsLbNDQAFIHxaIoyLYulxBHBje55N6pFoGxHxVidr7z38A6aZU8V/9mHVu8YNk217EA6ZXPldOKXzdxAdBzOIXhks6VKXg7a6EYE44+9ONuXFIWjH1yL7dG/dB149Q==;zvODisIkiIM8EbPoiqdvQg=="
 ---
 

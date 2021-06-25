@@ -2,6 +2,438 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-05-18-aetina-releases-rugged-vpx-board-v3t5000-wrc-v3t3000-qrc-powered-by-quadro-rtx-gpu.md",
+      "title": "Aetina Releases Rugged VPX Board V3T5000-WRC & V3T3000-QRC, Powered by Quadro RTX GPU",
+      "excerpt": "Aetina Corporation, an industrial embedded GPGPU solutions provider, announces the new series of rugged VPX boards powered by Quadro RTX GPU. The news coming product includes V3T5000-WRC & V3T3000-QRC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9371248.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1511387/PR_photo_VPX.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-sogou-launched-worlds-first-ai-sign-language-news-anchor.md",
+      "title": "Sogou Launched World's First AI Sign Language News Anchor",
+      "excerpt": "Sogou Inc. (NYSE:SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, announced its launch of world's first AI sign language news anchor in Chinese at 2021 Sohu Tech 5G & AI Conference held in Beijing on May 17th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-sogou-launched-worlds-first-ai-sign-language-news-/2021/05/18/9371204.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sogou-launched-worlds-first-ai-sign-language-news-/2021/05/18/9371204.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512449/Xiao_Cong__the_world_s_first_AI_sign_language_news_anchor.jpg",
+          "width": 400,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-google-vertex-ai-unifies-cloud-machine-learning-toolkit.md",
+      "title": "Google Vertex AI unifies cloud machine learning toolkit",
+      "excerpt": "Vertex AI brings together all of the Google Cloud services for building machine learning under one unified UI and API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "originalUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/06/knowledge_wisdom_learning_ideas_data_thoughts_thinking_mind_brain_intelligence_expertise_education_brainstorm_creativity_innovation_brain_drain_1_by_erhui1979_getty_images_1200x800-100761229-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3619215/google-vertex-ai-unifies-cloud-machine-learning-toolkit.amp.html",
+      "publishedDateTime": "2021-05-17T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-ready-for-a-world-of-ai-powered-superhuman-precision-its-coming.md",
+      "title": "Ready For A World Of (AI-Powered) Superhuman Precision? It’s Coming",
+      "excerpt": "Can we outstretch our collective hands to AI-controlled robots or will we get our arms ripped off by imprecise electronics? Already, the next generation of scientists are discovering new applications of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a340b069bb6447459aee55%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2021/05/18/ready-for-a-world-of-ai-powered-superhuman-precision-its-coming/amp/",
+      "publishedDateTime": "2021-05-17T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-helping-students-of-all-ages-flourish-in-the-era-of-artificial-intelligence.md",
+      "title": "Helping students of all ages flourish in the era of artificial intelligence",
+      "excerpt": "A new cross-disciplinary research initiative at MIT aims to promote the understanding and use of AI across all segments of society. The effort, called Responsible AI for Social Empowerment and Education (RAISE),",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
+      "originalUrl": "https://news.mit.edu/2021/raise-artificial-intelligence-0518",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202105/MIT-RAISE-01-PRESS.jpg",
+          "width": 2476,
+          "height": 1651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated.md",
+      "title": "Moderna leveraging its 'AI factory' to revolutionise the way diseases are treated",
+      "excerpt": "The biotech firm was built in the cloud and, as a result, it's been able to speed up every step of the process required to develop a COVID-19 vaccine. It now has plans to take its learnings further to revolutionise the way diseases are treated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "originalUrl": "https://www.zdnet.com/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2020/04/09/ceef9f66-5c03-441e-b01b-07f3d706125b/coronavirus.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/moderna-leveraging-its-ai-factory-to-revolutionise-the-way-diseases-are-treated/",
+      "publishedDateTime": "2021-05-17T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-rise-of-the-robots-bank-of-america-names-its-favorite-stocks-for-our-post-covid-future.md",
+      "title": "Rise of the robots: Bank of America names its favorite stocks for our post-Covid future",
+      "excerpt": "As technologies like automation and AI are rapidly adopted, strategists at BofA name a slew of stocks set to benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/18/bank-of-america-picks-its-favorite-robotic-ai-and-automation-stocks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106883283-1621003066000-gettyimages-1221937566-dsc04379gi.jpeg?v=1621003179",
+          "width": 5831,
+          "height": 3888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-california-places-teslas-full-self-driving-under-review.md",
+      "title": "California places Tesla's 'Full Self-Driving' under review",
+      "excerpt": "California’s Department of Motor Vehicles is reviewing whether Tesla is violating a state regulation by advertising its vehicles as being fully autonomous without meeting the legal definition of self-",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_4a35d5a5f27e4bffb6600fd2462f18dc_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/california-places-teslas-full-driving-review-77745300",
+      "publishedDateTime": "2021-05-17T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-mech-mind-launches-next-gen-mech-eye-laser-industrial-3d-camera-to-further-empower-ai-defined-robotics.md",
+      "title": "Mech-Mind Launches Next-Gen Mech-Eye Laser Industrial 3D Camera to Further Empower AI-defined Robotics",
+      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\"), launches its next-generation Mech-Eye Laser Industrial 3D Camera which overcomes ambient light interference, greatly optimizing the operational capacity of industrial robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/18/9372576.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1512714/Photo2.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-machine-learning-ide-in-alpha.md",
       "title": "Machine Learning IDE In Alpha",
       "excerpt": "Machine is an IDE for building machine learning systems using TensorFlow. You can sign up for the alpha, but first, have a look at the video below to see what it is all about. You’ll see in the ...",
@@ -713,426 +1145,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-watch-gta-v-get-an-ai-powered-photorealistic-makeover.md",
-      "title": "Watch GTA V get an AI-powered photorealistic makeover",
-      "excerpt": "The sprawling cityscapes of Grand Theft Auto V have been given an AI-powered makeover that makes the game’s online world look almost photorealistic. Researchers at Intel Labs transformed the graphics by training convolutional networks on real-world images.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/watch-gta-v-ai-photorealistic-graphics-intel-convolutiona-network",
-      "originalUrl": "https://thenextweb.com/news/watch-gta-v-ai-photorealistic-graphics-intel-convolutiona-network",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FUntitled-design-2021-05-14T121223.463.png&signature=925554eefeecb5d4248b0e660f85a52c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-how-ai-vendors-can-navigate-the-health-care-industry.md",
-      "title": "How AI Vendors Can Navigate the Health Care Industry",
-      "excerpt": "The adoption of AI in health care is being driven by an exponential growth of health data, the broad availability of computational power, and foundational advances in machine lear",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2",
-      "originalUrl": "https://hbr.org/2021/05/how-ai-vendors-can-navigate-the-health-care-industry?ab=hero-subleft-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/05/May21_17_1226988439.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/05/how-ai-vendors-can-navigate-the-health-care-industry",
-      "publishedDateTime": "2021-05-17T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-hayden-ai-secures-45m-funding-round-led-by-bootstraplabs-to-support-growth.md",
-      "title": "Hayden AI Secures $4.5M Funding Round Led by BootstrapLabs to Support Growth",
-      "excerpt": "Hayden AI Technologies, Inc. (\"Hayden AI\"), a leading smart city solutions provider, today announced the closing of a $4.5 million funding round led by BootstrapLabs, an early-stage Silicon Valley venture capital firm focused on Applied Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hayden-ai-secures-4-5m-funding-round-led-by-bootstraplabs-to-support-growth-1030436393",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hayden-ai-secures-4-5m-funding-round-led-by-bootstraplabs-to-support-growth-1030436393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1510754/Hayden_AI_secures_additional_funding_from_BootstrapLabs.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-google-and-seagate-think-they-can-tell-when-your-hdd-will-fail.md",
-      "title": "Google and Seagate think they can tell when your HDD will fail",
-      "excerpt": "Google Cloud and Seagate has devised a machine learning (ML) system to predict when disks inside Google’s data centers might fail. Despite their volatility and high fail rates, hard disk drives (HDD) are the preferred means of housing data inside a data center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/google-and-seagate-think-they-can-tell-you-when-your-hdd-will-fail",
-      "originalUrl": "https://www.techradar.com/news/google-and-seagate-think-they-can-tell-you-when-your-hdd-will-fail",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p7uiwcWgterYtXWA2idGtA-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-waymo-self-driving-taxi-confused-by-traffic-cones-flees-help.md",
-      "title": "Waymo self-driving taxi confused by traffic cones flees help",
-      "excerpt": "A self-driving taxi has blocked a road in Arizona after becoming confused by a lane closed off with traffic cones. The Waymo vehicle repeatedly drove away from roadside assistance, dispatched within minutes of the car becoming stuck.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-57144755",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-57144755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/131A4/production/_118544287_gettyimages-1142591427.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-57144755.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-57144755.amp",
-      "publishedDateTime": "2021-05-17T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-learning-from-the-past-to-future-proof-your-customer-service-operation.md",
-      "title": "Learning From The Past To Future-Proof Your Customer Service Operation",
-      "excerpt": "After 1918, telephone companies were never the same because their entire trajectory of innovation changed, as did the expectations of their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2b1ba333bc3442553ebf61%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/17/learning-from-the-past-to-future-proof-your-customer-service-operation/amp/",
-      "publishedDateTime": "2021-05-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-truliant-federal-credit-union-invests-in-boston-area-fintech-for-ai-capabilities.md",
-      "title": "Truliant Federal Credit Union invests in Boston-area fintech for AI capabilities",
-      "excerpt": "\"This is the way the world is moving,\" says Karan Kashyap, CEO and co-founder of Posh Technologies. \"This is the way that the big banks are already moving, and if you don't understand that, then it's going to just be harder for you to stay relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/charlotte/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html",
-      "originalUrl": "https://www.bizjournals.com/charlotte/news/2021/05/17/truliant-invests-in-posh-ai-technologies-chatbot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-international-automaker-to-launch-self-driving-cars-in-pakistan.md",
-      "title": "International automaker to launch self driving cars in Pakistan",
-      "excerpt": "The concept of self-driving cars replacing conventional cars has been been a trending discussion but the implementation of this has been varying due to safety",
-      "sourceUrl": null,
-      "webUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "originalUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofislamabad.com/digital_images/extra-large/2021-05-17/international-automaker-to-launch-self-driving-cars-in-pakistan-1621249505-5432.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "cdnAmpWebUrl": "https://timesofislamabad-com.cdn.ampproject.org/c/s/timesofislamabad.com/17-May-2021/international-automaker-to-launch-self-driving-cars-in-pakistan?version=amp",
-      "publishedDateTime": "2021-05-17T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Islamabad",
-        "domain": "timesofislamabad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-artificial-intelligence-market-to-perceive-substantial-growth-during-2021-2025-says-kenneth-research.md",
-      "title": "Artificial Intelligence Market to Perceive Substantial Growth during 2021- 2025 | Says Kenneth Research",
-      "excerpt": "Kenneth Research, in its repository of Artificial Intelligence Market research reports, have recently added a report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-perceive-substantial-growth-during-2021--2025-says-kenneth-research-2021-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "İşbank selects Driverless AI platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction applications"
+    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
+    publishedDateTime: 2021-06-24T21:47:00Z
+    webUrl: "https://www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 45
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/06/lens-flare-effect_zkH5budu.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
     excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui"
     publishedDateTime: 2021-06-24T12:30:00Z

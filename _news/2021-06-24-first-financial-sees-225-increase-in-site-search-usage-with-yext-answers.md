@@ -3,8 +3,8 @@ category: news
 title: "First Financial Sees 225% Increase in Site Search Usage with Yext Answers"
 excerpt: "PRNewswire/ -- (NYSE: YEXT), the AI Search Company, today announced it has helped successfully transform the website of First Financial Bank (Nasdaq: FFBC),"
 publishedDateTime: 2021-06-24T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_a1699248-fb86-5faf-9fc2-acc652f18636.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_a1699248-fb86-5faf-9fc2-acc652f18636.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_a1699248-fb86-5faf-9fc2-acc652f18636.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/first-financial-sees-225-increase-in-site-search-usage-with-yext-answers/article_a1699248-fb86-5faf-9fc2-acc652f18636.html"
 type: article
 quality: 23
 heat: 23
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "c6FyiZ+9IaH4sojY01QBbGvySC/cJx/TpMDkATzFQr8mNf2ItFBw6od90Ll+crWIX9xsjwbmkjGAABMbQ2HAQjDlgJkekli7/M7UdtmZhHSdjZt5a5UEqifSjDsEmnNiNXnrz8kLVfp8zrzyhLpZB2zLGTs+cNj9emgVc7U1qFGFKaRof5BM/4WZuS6px1lQ6VVNCH8+H/rk6Wv5HXV4c0sR6yuM8sV+inIBYLvgKXroQ1DuU7wOqy8qlijPYD6Lw/QtUEMEEzrTAfmjxpJEe3qABh3d06Szd9KYCKH9mBLxpUQA1kQg2aOjl3zlsNgw0WiQbVf21pMhDwDNZR0bO8RD5zVz9irnipi6Nleq6F5MsZW5cu6tpiuPeLwmIDYwCK7zYOitn+KcGCB5UXKwTTOOPbSSGlmdypSo9IDnjqWTvL85F4c4dRibAR2aB13vz7PFfY0pJtYbehm0LEA5oaxBBOzHYS7FKoHRKAKDtowZwg5IinaJYu78ZGdqxEQanJHJOZo5D54BLDVTbq4pAQ==;IIayO+22sgYZDhMctbKkqw=="
+secured: "MpjiV1uFZVw6rwUutUOi9CCEZxdhj1chdjkw/QB9KABdA+QLqmIun6KwgOWxANM9JxHnNv6jTVPMNXuQYPQ2gVxFDtBcSD6q+KO5NrCipQCIkCIU0IaBBh2Xqs0bwzJFqwNrLizJ9hce9effX/zMF+dFSWEz4//uODQFN+OERj82ImxECiTVBehnH4gt2mEn2Sszyw4x4NbnXlSQWGylqPmI8rK4uwU1b4KXPfdSvr/4i0qMBkPLxNeGWemICe4dmnJfaCRxgMkiV/uXBbnfEHXmwHGegBjUfmR+m7zQUlfMXpTye/leqgo6MWPOhStBK4l3iEKQc1px6xCDM2e6euJySlJ5+ztOI+BiUHSLqRE=;FM2v7J7VuJ7H7AzkeRv5sA=="
 ---
 

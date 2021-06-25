@@ -54,6 +54,20 @@ related:
         width: 720
         height: 540
         isCached: true
+  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
+    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+    publishedDateTime: 2021-06-24T20:28:00Z
+    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
+        width: 720
+        height: 540
+        isCached: true
   - title: "Fundbox Named “Best Decision Management Company” in AI Breakthrough Awards"
     excerpt: "Fundbox, the AI-driven financial platform for small businesses, announced today that it has been selected as the winner of “Best Decision Management Company” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2021-06-23T10:00:00Z

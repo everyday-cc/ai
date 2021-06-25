@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/06/22/scaleai-launches-mapping-project-more-on-ponyai--waymo/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

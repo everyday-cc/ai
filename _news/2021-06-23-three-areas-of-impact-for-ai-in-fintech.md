@@ -186,7 +186,7 @@ related:
   - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
     excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
     publishedDateTime: 2021-06-23T11:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-boastai-named-finalist-two-categories-bc-techs-2021-/2021/06/23/9395838.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
     type: article
     provider:
       name: TMCnet

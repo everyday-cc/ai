@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "OMRON Healthcare and Kyoto University Collaborative Research Program “Healthcare Medical AI” to Prevent the Events of Cardiovascular Diseases With AI and Home Measurement Data"
+    excerpt: "OMRON Healthcare Co., Ltd. (Head Office: Muko-city, Kyoto, Japan, President & CEO: Isao Ogino) and Kyoto University (Sakyo-ku, Kyoto-city Kyoto, J"
+    publishedDateTime: 2021-06-24T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210624005436/en/OMRON-Healthcare-and-Kyoto-University-Collaborative-Research-Program-“Healthcare-Medical-AI”-to-Prevent-the-Events-of-Cardiovascular-Diseases-With-AI-and-Home-Measurement-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Cvkmlkge5q84qSJyBtMS1EBNUaYxsGu1dmxXWeAtMYEzcBG531S6sjTgvVkOAnF3dCxauA7gg/fK8x27Tkf00QgiX74cVA8LoZLJz8me709NpOphSKUbAmYxKHWZe6OqQtzlu8sLyE+r7yJB4ngMbfRzJG7GxpWUykMkFZpAav0jX+9Ua5Tha+GhhpH4QhTBGYgxbbted5HLR/2Aw4GvDhVrNL9HDkrsxAWk6/3jM04fZ95KypMPksC+SS4OvTy4xjn2iY2ZAhg5hFCqggD6hfLMJa6dBBRHoSw6J8X1vA0twfZ65DD3o4heUAgwAUXkz7CtkJXgjr3JZoq6V4CL3ppigt4gqzavSt+YrdS1Xoc=;S3S7u0lNfAdZQJbm7j6RHg=="
 ---

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-aws-announces-winners-of-the-aws-deepracer-womens-league-in-india.md",
+      "title": "AWS announces winners of the AWS DeepRacer Women’s League in India",
+      "excerpt": "Read Article Artificial intelligence (AI) and machine learning (ML) are innovative technologies that are unlocking opportunities and helping solve some of our most difficult challenges. But to date in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "originalUrl": "https://www.crn.in/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.crn.in/wp-content/uploads/2019/06/17104829/trophy_820.jpg",
+          "width": 696,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "cdnAmpWebUrl": "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-winners-of-the-aws-deepracer-womens-league-in-india/",
+      "publishedDateTime": "2021-06-03T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "www.crn.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-tesla-turns-on-facial-recognition-kia-adds-in-car-fingerprint-biometrics.md",
       "title": "Tesla turns on facial recognition, Kia adds in-car fingerprint biometrics",
       "excerpt": "Tesla using facial recognition to ensure driver is seated and alert, Kia K9 features fingerprint authentication, more automakers add biometric capabilities.",
@@ -101,24 +145,33 @@
     {
       "path": "_news/2021-06-04-aws-announces-winners-of-first-deepracer-womens-league-in-india.md",
       "title": "AWS announces winners of first DeepRacer Women's League in India",
-      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women's League in India, held to boost women students to learn machine learning (ML ...",
+      "excerpt": "New Delhi, June 3 (IANS) Amazon Web Services (AWS) on Thursday announced winners of the first-ever DeepRacer Women’s League in India, held to boost women students to learn machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
-      "originalUrl": "https://www.sify.com/news/aws-announces-winners-of-first-deepracer-womens-league-in-india-news-education-vgdnPGdhiiddh.html",
+      "webUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-announces-winners-of-first-deepracer-womens-league-in-india",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/8cfc123217bbd72174d3ad49d9eab2d2-1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T12:21:00-07:00",
+      "publishedDateTime": "2021-06-03T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1310,59 +1363,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia.md",
-      "title": "Self-driving truck startup Kodiak partnering with SK Group to expand into Asia",
-      "excerpt": "Kodiak Robotics, the U.S.-based self-driving truck startup, is partnering with South Korean conglomerate SK to explore the possibility of deploying its autonomous vehicle technology in Asia. The ultimate aim of the partnership is to sell and distribute Kodiak’s self-driving technology in the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
-      "originalUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Kodiak-Truck-Sunset.jpg?w=1024",
-          "width": 1024,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/26/self-driving-truck-startup-kodiak-partnering-with-sk-group-to-expand-into-asia/amp/",
-      "publishedDateTime": "2021-05-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

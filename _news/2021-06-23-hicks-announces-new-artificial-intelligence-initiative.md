@@ -105,6 +105,20 @@ related:
         width: 768
         height: 384
         isCached: true
+  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
+    publishedDateTime: 2021-06-24T22:20:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/ibm-explores-ai-tools-to-spot--cut-bias-in-online-ad-targeting-15083268"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15083266/16x9/991/557/5dec68c4f8c2be9dca58c5d88d316cd9/hl/file-photo--a-man-stands-near-an-ibm-logo-at-the-mobile-world-congress-in-barcelona-3.jpg"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
     publishedDateTime: 2021-06-23T12:30:00Z
@@ -115,23 +129,14 @@ related:
       domain: morningstar.com
     quality: 36
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
-    publishedDateTime: 2021-06-24T09:10:00Z
-    webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
+    publishedDateTime: 2021-06-23T21:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
     type: article
     provider:
       name: Business Wire
-      domain: businesswireindia.com
+      domain: businesswire.com
     quality: 34
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T21:45:00Z
-    webUrl: "https://japantoday.com/category/tech/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
 
 secured: "YH2PsskWkj3B6239yUu2tELq2Wq6w04IL7fzPXKbvxl0XJGDv/dYK35djpN64tDKv+jix7SVO6xbNuL7HpMWBSR6/OIvb9WxNRhL9Lwsd+PSgfTwt5asN/I8VntOXwzIP7r896zs4NTYle30N/IUxpaH8Vx0dft/eo7XAj43KAyRDbRRIOHgGrNsji9iple8n49QNhyCV93AsDBFiory8T0mTVWxoQFe/BwQgWYBkpPbexQyzGkRATHxykLJYIDAtPoimvRY3VUg11I/7G+wjdiryq+Cii08DGb16XxzDGnsdnm78XdDnvBi3+P2MGPh3JlWdK8t7umvL+tPNc2qbTTWywaW19o/1qUd6blvL7EzaSz26hqU2qFcKz0KjVKfpfojLlQpDbW9v1UMupUyYvkngXi5+4101o3S62gB0hz9kboNDYisIm3vyzO8jEybiPwxJ3cFaWtgahL9JMrXCgYSE7bnhgumPbWsWoOdFWoK85sL9LMHK5CU2QF8pCI7uPJAP7wzBCTszICLJPRUrg==;vy5AJb6ce802Eru9H/yQPg=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Use of live facial recognition in public spaces is 'deeply concerning'"
+    excerpt: "UK Information Commissioner Elizabeth Denham, has said she is 'deeply concerned' about live facial recognition (LFR) technology, and it has the potential to be used inappropriately, excessively or even recklessly."
+    publishedDateTime: 2021-06-21T09:29:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/use-of-live-facial-recognition-in-public-spaces-is-deeply-concerning"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1624267612/widgetdocs/facial-recognition_f8jukk_yutkw7.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "UK watchdog raises alarm over live face recognition tech"
     excerpt: "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you."
     publishedDateTime: 2021-06-21T10:27:00Z

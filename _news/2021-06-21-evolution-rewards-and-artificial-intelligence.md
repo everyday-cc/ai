@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg"
         width: 1200
         height: 742
+        isCached: true
+  - title: "How AI Powers Mobile Innovation"
+    excerpt: "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level."
+    publishedDateTime: 2021-06-22T21:44:00Z
+    webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
     excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."

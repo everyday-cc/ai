@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge."
-publishedDateTime: 2021-06-24T09:10:00Z
-originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
-webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
+publishedDateTime: 2021-06-23T21:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
 type: article
 quality: 34
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswireindia.com
+  domain: businesswire.com
 
 topics:
   - IBM AI
@@ -100,6 +100,20 @@ related:
         width: 768
         height: 384
         isCached: true
+  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
+    publishedDateTime: 2021-06-24T22:20:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/ibm-explores-ai-tools-to-spot--cut-bias-in-online-ad-targeting-15083268"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15083266/16x9/991/557/5dec68c4f8c2be9dca58c5d88d316cd9/hl/file-photo--a-man-stands-near-an-ibm-logo-at-the-mobile-world-congress-in-barcelona-3.jpg"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Hicks Announces New Artificial Intelligence Initiative"
     excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
     publishedDateTime: 2021-06-22T21:52:00Z
@@ -123,16 +137,7 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 36
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T21:45:00Z
-    webUrl: "https://japantoday.com/category/tech/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
 
-secured: "ULHZkZYWwbLjsj+vEhdZWkuPzB6eB4y8xGtR9ek+eRDGLCclklUHkmenmpEO617D6TbjRlzuLT9NVJKoENhmA8fjC7yZnw5Wz6OBJv6ZA9k/BDYyW852jRlkRUkwRg8q0Z/OYUCEcxfQE4pxjDvD3xZ7Ua7EHoU54M6QPPr8tnXt1FIEmw7YhJuyPhcck1flk8RnrtRAvSPqmbsGVlLlfITjdWHgXPvYSTRx9ATIqS9EmHoFLhFUcZxNy4YMm07iQ9o/y0ufEMuCVjnOYZVCG7pW3tNoVblgrdQ/Ba2/yksrb7CeT+qe1GZieRSCdOFn/J5K15KGOY+r9lEN4C6YLd1xNehjYL+jB2/Y9HUT+eg=;q3V4bddj6RPweA4EBbqhbg=="
+secured: "7/r9dQXzNMA5IwTy90XOC8Nvj0p3L2tWmFAKWZqM+X6gutsj+W1rPR2guoJ0SNtJjhDosyDRQfuEPEvAR/gYOP4m1Z8WoTWo9vJ9o+4fuHi9X938EFUSydGuiQdUDmqyeFaIKsjUTN9LjY5YyHKniP3pwfJupLZfFbofK1w4Sfxubu+oMS0CHbzQIv5LRvYB9L8qLvM2udckmonAo++67G2V0nhWpTLK9Fps/YCa+3datvWLcN24tybDn6p0MqNMR3TPphV8a7ZpuupkcDQUbiAPs6sjN9cb1W1rfzM6l1DRsgTCh435s+YJ7rqTE/P0DhTXL4UtRMhu/ReOQ1Hy5Qmm9dQTtEU/qFR6K8fsWvs=;kpUMKMsDpHK0yN7po957kw=="
 ---
 

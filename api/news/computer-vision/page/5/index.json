@@ -2,6 +2,211 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-12-funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology.md",
+      "title": "Funny faces in face recognition could increase phone security with new technology",
+      "excerpt": "But experts said the best way to keep your phone safe using facial recognition technology is by putting on a funny face. “We’ve been able to actually take a regular picture of ourselves and fool the system,",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
+      "originalUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2021/03/cell-phone.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2021/05/11/funny-faces-in-face-recognition-could-increase-phone-security-with-new-technology/amp/",
+      "publishedDateTime": "2021-05-11T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-ibms-ceo-says-its-leaving-consumer-ai-like-facial-recognition-to-other-companies-as-it-doubles-down-on-pitching-watson-to-businesses.md",
+      "title": "IBM's CEO says it's leaving consumer AI like facial recognition to other companies, as it doubles down on pitching Watson to businesses",
+      "excerpt": "Dialing back its consumer AI ambitions, CEO Arvind Krishna said IBM is solely focused on business use cases like automating IT and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
+      "originalUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "IBM AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-your-face-voice-and-fingerprints-could-defend-you-against-banking-scams.md",
+      "title": "Your face, voice, and fingerprints could defend you against banking scams",
+      "excerpt": "Daphné Leprince-Ringuet tells Karen Roby that HSBC says that it prevented hundreds of millions of dollars from falling prey to hackers, simply thanks to voice recognition technology. Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
+      "originalUrl": "https://www.zdnet.com/video/your-face-voice-and-fingerprints-could-defend-you-against-banking-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/05/11/8104b7ae-9d38-43cb-8ac5-84137f5d6e35/thumbnail/770x578/be84cecb7e419c7da08de55941d1cefc/20210510-daphne-karen-bio.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-amazon-facing-calls-from-civil-rights-groups-to-permanently-ban-police-use-of-facial-recognition-as-deadline-approaches.md",
+      "title": "Amazon Facing Calls From Civil Rights Groups To Permanently Ban Police Use Of Facial Recognition As Deadline Approaches",
+      "excerpt": "Amazon has yet to announce whether it will lift a one-year moratorium on the sale of its Rekognition product to police departments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609aa48c81b6b135842ea502%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2021/05/11/amazon-facial-rekognition-ban-civil-rights-groups/amp/",
+      "publishedDateTime": "2021-05-11T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-graphene-flagship-spin-off-qurv-will-develop-imaging-technology-for-next-generation-computer-vision-solutions.md",
       "title": "Graphene Flagship spin-off Qurv will develop imaging technology for next-generation computer vision solutions",
       "excerpt": "The new company will market graphene-enabled image sensors with disruptive cost and performance potential compared to current alternatives.",
@@ -1222,208 +1427,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-computer-vision-inches-toward-common-sense-with-facebooks-latest-research.md",
-      "title": "Computer vision inches toward ‘common sense’ with Facebook’s latest research",
-      "excerpt": "Machine learning is capable of doing all sorts of things as long as you have the data to teach it how. That’s not always easy, and researchers are always looking for a way to add a bit of “common sense” to AI so you don’t have to show it 500 pictures of a cat before",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/",
-      "originalUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/segmentation-gif2.gif",
-          "width": 800,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/30/computer-vision-inches-towards-common-sense-with-facebooks-latest-research/amp/",
-      "publishedDateTime": "2021-04-30T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter.md",
-      "title": "From Coral Reefs To Assembly Lines, Computer Vision Gives New View On How To Work Smarter",
-      "excerpt": "Once a thing of science fiction, the vast uses for computer vision technology are now clear. Advancements in artificial intelligence (AI) over the past 10 years have helped scientists develop computer vision technology – an AI application that allows computers to “see” their surroundings and make these visual inputs actionable with 99% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608ace495cdafc942f2b2c8a%2F0x0.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/30/from-coral-reefs-to-assembly-lines-computer-vision-gives-new-view-on-how-to-work-smarter/amp/",
-      "publishedDateTime": "2021-04-30T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-samsung-launches-jet-bot-ai-robot-vacuum-cleaner.md",
-      "title": "Samsung Launches Jet Bot AI Robot Vacuum Cleaner",
-      "excerpt": "Samsung unveiled its AI-powered Bespoke Jet Bot Robot Vacuum cleaner in Korea. Building upon the design of currently available",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
-      "originalUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/04/608bcadab1525.png",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/04/30/samsung-launches-jet-bot-ai-robot-vacuum-cleaner/amp/",
-      "publishedDateTime": "2021-04-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-in-korea.md",
-      "title": "Samsung Bespoke Jet Bot AI Robot Vacuum Cleaner launched in Korea",
-      "excerpt": "Samsung has unveiled the Bespoke Jet Bot AI Robot Vacuum Cleaner designed to significantly improve home cleaning duties. The robot vacuum cleaner features enhanced capabilities for object recognition and adopts artificial intelligence (AI) technology which significantly improves the performance as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
-      "originalUrl": "https://www.gizmochina.com/2021/04/30/samsung-bespoke-jet-bot-ai-robot-vacuum-cleaner-launched-korea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/Samsung-Bespoke-Jet-Bot-AI.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2021-06-artificial-intelligence-fusion.html"
 ampWebUrl: "https://phys.org/news/2021-06-artificial-intelligence-fusion.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-artificial-intelligence-fusion.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-13.jpg"
@@ -41,6 +42,6 @@ related:
         height: 275
         isCached: true
 
-secured: "eNRZ9A1BLWWHHOGRuKi/aaf/5hTOJfDs3PW6Tt/ivXocOHMW3T+4KM7sTZj3UBAyZnCAQurmqBwg62PKQDQEHMbo/8mkJV+KMLzybGoP3hQR84mQULyhoR1T2xkXSB6faA6YCMERagCU+EcxehmwjmeoDQI+PZtRk0bbDLr17fVll58QeSM73RvEVDkK8slJzwP+co6J8FMz8pC4N0t7lCQgZN0z9XHarFAODzUJvf3+0VsW3kKtSW9VIihDKhYNKgY697rgGmuHTqCj4E1q/bh0/kE7KmyXHzcw7PzLhZuwM4oen6KaJCZmgCWIat6lDmPczOLk1rBKPUjlKWd2WFq9ADd5wljsLpu2qKCIFYs=;oy47Navm7en4UlBeOM/BGw=="
+secured: "5VN+Stz1kBYapdfV9Vn1PsBw6nx1CRxfNalk+rZam9swkuDx+uDEIikIVk23Pt3o4EWTYIWNXPHxGRjmn0L5bBWITiaat+WEeSNBRh3c/OorsmX2BiTy1qo3LfF9qPhd41OkTf/Gh+1UyMqiCFdSS9mCTG2DnOQ45kclWnxy64al7abc18x24FxQKK8HXgx5T37CnVk6LdDoagpsB4wrms17FG1LoUnQLM7DftzL858UhpewU/dBjpQEFSUUFHIp3JKUk3H9E76QYeU7ddSq9iKkTc3oT5s+f0vt4DM9hqWatt6WF7sL0LkE9sMASlB/HLgWCs3pLikGgsMHy4feiQp01ElZ1IIthL+g95ufLn/emYDVSC+1vFrNmQfAkmmK6PW9XX1UNIan5hU6ifw+0Y3z+it+kJJV7jBVwBEpouzdg9Pj5hS9SmolINu4A8kb4MIbQ1qxJVbm0lujqqAdD0SFP/Y61FHrKYkby1ubxcNv1Zo7ICmCKhiAJlcs6Py39+wYF5gBp4PhNonBPz8DOQ==;ImiCaCrwal5x/q8Ot8W1Fw=="
 ---
 

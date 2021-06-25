@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 742
         isCached: true
+  - title: "How AI Powers Mobile Innovation"
+    excerpt: "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level."
+    publishedDateTime: 2021-06-22T21:44:00Z
+    webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
     excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
     publishedDateTime: 2021-06-24T12:23:00Z

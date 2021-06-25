@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI software is now able to dig up origins of deepfake images"
-    excerpt: "Facebook scientists said they developed artificial intelligence software to not only identify ’deepfake’ images but to figure out where they came from."
-    publishedDateTime: 2021-06-20T07:00:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/facebook-ai-software-is-now-able-to-dig-up-origins-of-deepfake-images-06705daa-afb1-41c8-80db-d976bff00d68"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 59
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/File-picture-AP-Photo-Richard-Drew?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/7d296af3-2399-5dbf-9636-e3d8e0070d56&operation=CROP&offset=0x275&resize=5244x2950"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Facebook researchers develop new method for detecting deepfakes"
     excerpt: "Facebook announced a new method of detecting and attributing deepfakes that relies on reverse-engineering from a single AI-generated image."
     publishedDateTime: 2021-06-21T18:59:00Z

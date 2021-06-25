@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-03-its-a-lens-plus-a-rear-view-mirror-and-a-telescope-javed-ahmed-schneider-electric-india.md",
+      "title": "It’s a lens, plus a rear-view mirror and a telescope: Javed Ahmed, Schneider Electric India",
+      "excerpt": "Javed Ahmed, SVP – Global Supply Chain International, Schneider Electric India talks to Dataquest about the solutions the company has to offer for digital twin, and much more about the development and deployment of the technology. What are the solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/lens-plus-rear-view-mirror-telescope/",
+      "originalUrl": "https://www.dqindia.com/lens-plus-rear-view-mirror-telescope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/Javed-Ahmed.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/lens-plus-rear-view-mirror-telescope/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/lens-plus-rear-view-mirror-telescope/amp/",
+      "publishedDateTime": "2021-06-02T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-aws-deeplearningai-partner-on-data-science-specialization.md",
       "title": "AWS, DeepLearning.AI Partner On Data Science Specialization",
       "excerpt": "Amazon Web Services and DeepLearning.AI have developed a new Data Science Specialization to help data professionals master machine learning essentials and deploy data science projects at scale in the",
@@ -1330,59 +1373,6 @@
         "Computer Vision",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-your-guide-to-the-aws-machine-learning-summit.md",
-      "title": "Your Guide to the AWS Machine Learning Summit",
-      "excerpt": "We’re about a week away from the AWS Machine Learning Summit and if you haven’t registered yet, you better get on it! On June 2, 2021 (Americas) and June 3, 2021 (Asia-Pacific, Japan, Europe, Middle East, and Africa), don’t miss the opportunity to hear from some of the brightest minds in machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-the-aws-machine-learning-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/25/2021_ML_Email-Signature_400x173@2x.png",
-          "width": 800,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T11:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

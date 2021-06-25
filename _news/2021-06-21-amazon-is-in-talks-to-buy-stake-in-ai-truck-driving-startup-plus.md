@@ -60,6 +60,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "OMRON Healthcare and Kyoto University Collaborative Research Program “Healthcare Medical AI” to Prevent the Events of Cardiovascular Diseases With AI and Home Measurement Data"
+    excerpt: "OMRON Healthcare Co., Ltd. (Head Office: Muko-city, Kyoto, Japan, President & CEO: Isao Ogino) and Kyoto University (Sakyo-ku, Kyoto-city Kyoto, J"
+    publishedDateTime: 2021-06-24T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210624005436/en/OMRON-Healthcare-and-Kyoto-University-Collaborative-Research-Program-“Healthcare-Medical-AI”-to-Prevent-the-Events-of-Cardiovascular-Diseases-With-AI-and-Home-Measurement-Data"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "KSmFvZILhgX03RN9YSDJYHrpCeDNVu6gNhKPQ55a+mPaXgg7tcLtL2dg6oyfrlt3Z0zHm+qeeSzdGtSUQHvqVjb0dOEl8q3RLUy5Si4Ap/fbNaXaYI5d41TfWqMLTsrc0IlZClbe8uo3aN52H43/QtTmdg8AOjtX0r2vXVnzfoX/2x8qO26MVIDRGjl5KnzKO7Z50YusNfGmWjuQzTOdFehG6WLAD0v0FSaxXHtnCaWNzN1VHfwV767S4Uy50uVLL3/s9QL75tJ1ZidCeD17gOQKL67zg+5rcSaq/elRpDchLWAoUsZbj8hbtSzvQ51sAD5KKxzUqKgtk3M4NIbstITuIXmTq7YTMM3k4Bbdios=;wZfkuSPqhFz8SO4ko5n9SA=="
 ---
