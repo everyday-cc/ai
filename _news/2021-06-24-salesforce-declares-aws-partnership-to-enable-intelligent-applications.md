@@ -106,6 +106,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "AWS and Salesforce expand partnership for product integration"
+    excerpt: "Amazon Web Services and Salesforce have expanded their global strategic partnership with a focus on streamlining integration between products from the two companies."
+    publishedDateTime: 2021-06-25T03:55:00Z
+    webUrl: "https://www.arnnet.com.au/article/689350/aws-salesforce-expand-partnership-product-integration/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/handshake-business2_5.jpg"
+        width: 800
+        height: 527
+        isCached: true
   - title: "AWS and Salesforce are integrating their clouds to simplify application projects"
     excerpt: "One is to make it easier for enterprise developers to build applications that use both AWS and Salesforce services under the hood. Another objective is to enhance Salesforce’s Industry Cloud product portfolio,"
     publishedDateTime: 2021-06-23T17:15:00Z

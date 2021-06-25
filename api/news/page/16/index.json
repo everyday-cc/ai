@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
+      "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
+      "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2dded616fbd5e8a08c4c0%2F0x0.jpg",
+          "width": 915,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "publishedDateTime": "2021-06-10T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
       "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
       "excerpt": "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry.",
@@ -1158,58 +1209,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-crypto-mining-hackers-hit-kubernetes-clusters.md",
-      "title": "Crypto mining hackers hit Kubernetes clusters",
-      "excerpt": "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters",
-      "originalUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp",
-      "publishedDateTime": "2021-06-10T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

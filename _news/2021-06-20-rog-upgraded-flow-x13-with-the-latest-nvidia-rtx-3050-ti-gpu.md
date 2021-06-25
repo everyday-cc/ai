@@ -7,7 +7,7 @@ originalUrl: "https://www.khaleejtimes.com/news/general/rog-upgraded-flow-x13-wi
 webUrl: "https://www.khaleejtimes.com/news/general/rog-upgraded-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ROG upgrades Flow X13 with the latest Nvidia RTX 3050 Ti GPU"
-    excerpt: "Together, the Flow X13 and XG Mobile redefine what’s possible with a 13-inch device Asus Republic of Gamers (ROG) today announced the upgraded ROG Flow X13, the ultra-portable 2-in-1 convertible ROG gaming laptop with the latest Nvidia 3050 Ti GPU."
-    publishedDateTime: 2021-06-20T10:45:00Z
-    webUrl: "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
-    ampWebUrl: "https://gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/06/20/Asus-Flow-X13-_17a28722ad6_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "ROG upgraded Flow X13 with the latest Nvidia RTX 3050 Ti GPU"
     excerpt: "ROG's powerful and portable 13 convertible gaming laptop with the upgraded GPU for the ultimate gaming experience ASUS Republic of Gamers (ROG) t"
     publishedDateTime: 2021-06-23T07:23:00Z

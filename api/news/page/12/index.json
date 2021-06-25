@@ -2,6 +2,111 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630357%2Fartificial-intelligence-3.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/15/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2021-06-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-how-gpus-can-boost-ai-for-your-business.md",
+      "title": "How GPUs can boost AI for your business",
+      "excerpt": "Big data, HPC and cloud computing are starting to dominate IT, providing the bedrock for AI and ML processing. A solid hardware platform such as that provided by the Gigabyte G482-Z54 can deliver the CPU power and GPU density to meet the demands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
+      "originalUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1623768264/Gigabyte_G482-Z54_AMD_logo.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/infrastructure/server-storage/359886/how-gpus-can-boost-ai-for-your-business?amp",
+      "publishedDateTime": "2021-06-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-construction-robotics-firm-dusty-raises-165m.md",
       "title": "Construction robotics firm Dusty raises $16.5M",
       "excerpt": "It certainly follows then that some leading construction robotics companies are able to strike while the iron is hot with some healthy raises. Today, Bay Area-based Dusty Robotics announced a $16.5 million Series A.",
@@ -368,40 +473,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "A rtificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1090,40 +1161,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028.md",
-      "title": "Artificial Intelligence Market Analysis Growth Challenges, Opportunities and Future Developments to 2028",
-      "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Artificial Intelligence Market and dominate the market share. The report also provides information on the market revenue of the key players.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

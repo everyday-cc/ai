@@ -40,6 +40,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Good data is a key component to AI innovation and machine learning"
+    excerpt: "They recognize the importance and they’re pushing for more development in the field by making good data available. So data is a very key component of AI and machine learning-based methods. Manocha said AI is as old as the field,"
+    publishedDateTime: 2021-06-24T22:07:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-is-a-key-component-to-ai-innovation-and-machine-learning/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg"
+        width: 2246
+        height: 1335
+        isCached: true
   - title: "BREAKING: Pentagon Launches New AI Data Initiative"
     excerpt: "The Pentagon is kicking off a new artificial intelligence initiative aimed at better curating and managing data, Deputy Secretary of Defense Kathleen Hicks announced June 22. The effort — known as the DoD AI and Data Acceleration initiative,"
     publishedDateTime: 2021-06-22T15:24:00Z
@@ -53,6 +67,20 @@ related:
       - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/06/istock-1058616412.ashx?h=500&w=878&la=en&hash=BE906264D1949BEBC5DE0388F18A5B94"
         width: 878
         height: 500
+        isCached: true
+  - title: "Hicks Announces New Artificial Intelligence Initiative"
+    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
+    publishedDateTime: 2021-06-22T21:52:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
+        width: 1280
+        height: 851
         isCached: true
 
 secured: "aLlmTNtQR/wpKnwvPY9Em39FI/qKk/LIYvq8GzQWuvkOlfFEveEStKeIHCRczXDw12RNknK5oHsQ6MXf9xUaCzIc+/V7S948l4i0AYKZ8AoVgvCnEXESoBoo1bOIX+TkBL7K7F91orM+vg4pWYOONOF/TBANy4J1sD2bAecAtyndVgwc5HCkpflyumpXhPDiA+Pvi19exmB35X+67VVu6vwLu2T3AjZKJ8Bpsa4jD+wQpA/zBm4jQsRbsv7/e8LTDNTma0L4Vs6k8+r2BvBok4SzOvEuv90Ra4/0NqOq/EsTbll6vKBS6I4RmEOqz3XOMabqvou1QQXVwANDiScoV2WQpqmwfXahaVkuO7PeUmKhUELVo5dINGwZQlAGqwZzpAF+S4G/3RdBdDj1XeT9hXiRtBSp0ejsdYb4BzK3Wa8VTMaRimIRQATm5crMJeX18C4yii/7vGPs/c53GVkYCui65FQHzUtTxKOWz1LIUR6193XLfRsadSC7E9AZwCyG/ea4d4Axhl2mr50G+O/fYQ==;ybLkpzTI3uXUQYi2FvPkWg=="

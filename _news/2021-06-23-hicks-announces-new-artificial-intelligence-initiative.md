@@ -24,128 +24,64 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
-    publishedDateTime: 2021-06-24T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
+  - title: "DoD teams to streamline data at combatant commands in AI initiative"
+    excerpt: "Deputy Defense Director Kathleen Hicks announced the formation of units to help U.S. combatant commands better deal with data and artificial intelligence."
+    publishedDateTime: 2021-06-23T17:28:00Z
+    webUrl: "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
+    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: UPI.com
+      domain: upi.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://cdnph.upi.com/sv/ph/og/i/8161624464536/2021/1/16244650918862/v1.5/DoD-teams-to-streamline-data-at-combatant-commands-in-AI-initiative.jpg"
+        width: 800
+        height: 532
         isCached: true
-  - title: "IBM explores AI tools to spot, cut online ad targeting bias"
-    excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
-    publishedDateTime: 2021-06-25T00:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
+  - title: "Good data is a key component to AI innovation and machine learning"
+    excerpt: "They recognize the importance and they’re pushing for more development in the field by making good data available. So data is a very key component of AI and machine learning-based methods. Manocha said AI is as old as the field,"
+    publishedDateTime: 2021-06-24T22:07:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-is-a-key-component-to-ai-innovation-and-machine-learning/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 54
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
-        width: 1600
-        height: 900
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg"
+        width: 2246
+        height: 1335
         isCached: true
-  - title: "Creating An AI Text-to-Speech Using IBM Watson"
-    excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
-    publishedDateTime: 2021-06-22T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
+  - title: "BREAKING: Pentagon Launches New AI Data Initiative"
+    excerpt: "The Pentagon is kicking off a new artificial intelligence initiative aimed at better curating and managing data, Deputy Secretary of Defense Kathleen Hicks announced June 22. The effort — known as the DoD AI and Data Acceleration initiative,"
+    publishedDateTime: 2021-06-22T15:24:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2021/6/22/pentagon-launches-new-ai-data-initiative"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 37
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png"
-        width: 2240
-        height: 1260
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/06/istock-1058616412.ashx?h=500&w=878&la=en&hash=BE906264D1949BEBC5DE0388F18A5B94"
+        width: 878
+        height: 500
         isCached: true
-  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+  - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
+    excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
+    publishedDateTime: 2021-06-22T22:13:00Z
+    webUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
-    publishedDateTime: 2021-06-21T13:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
-    excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
-    publishedDateTime: 2021-06-23T16:42:00Z
-    webUrl: "https://www.miragenews.com/d3-backed-aifred-health-takes-second-place-in-583549/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 45
+      name: Army Times
+      domain: armytimes.com
+    quality: 30
     images:
-      - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
-        width: 768
-        height: 613
+      - url: "https://www.armytimes.com/resizer/RHxQc7jHC8S-HEXJbDjY7_PTwAo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
-    excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
-    publishedDateTime: 2021-06-23T18:14:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 43
-    images:
-      - url: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m/_jcr_content/top-image.img.768.medium.jpg/1624462106264.jpg"
-        width: 768
-        height: 384
-        isCached: true
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
-    publishedDateTime: 2021-06-24T22:20:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/ibm-explores-ai-tools-to-spot--cut-bias-in-online-ad-targeting-15083268"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15083266/16x9/991/557/5dec68c4f8c2be9dca58c5d88d316cd9/hl/file-photo--a-man-stands-near-an-ibm-logo-at-the-mobile-world-congress-in-barcelona-3.jpg"
-        width: 991
-        height: 557
-        isCached: true
-  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
-    publishedDateTime: 2021-06-23T12:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 36
-  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-    publishedDateTime: 2021-06-23T21:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 36
 
 secured: "YH2PsskWkj3B6239yUu2tELq2Wq6w04IL7fzPXKbvxl0XJGDv/dYK35djpN64tDKv+jix7SVO6xbNuL7HpMWBSR6/OIvb9WxNRhL9Lwsd+PSgfTwt5asN/I8VntOXwzIP7r896zs4NTYle30N/IUxpaH8Vx0dft/eo7XAj43KAyRDbRRIOHgGrNsji9iple8n49QNhyCV93AsDBFiory8T0mTVWxoQFe/BwQgWYBkpPbexQyzGkRATHxykLJYIDAtPoimvRY3VUg11I/7G+wjdiryq+Cii08DGb16XxzDGnsdnm78XdDnvBi3+P2MGPh3JlWdK8t7umvL+tPNc2qbTTWywaW19o/1qUd6blvL7EzaSz26hqU2qFcKz0KjVKfpfojLlQpDbW9v1UMupUyYvkngXi5+4101o3S62gB0hz9kboNDYisIm3vyzO8jEybiPwxJ3cFaWtgahL9JMrXCgYSE7bnhgumPbWsWoOdFWoK85sL9LMHK5CU2QF8pCI7uPJAP7wzBCTszICLJPRUrg==;vy5AJb6ce802Eru9H/yQPg=="
 ---

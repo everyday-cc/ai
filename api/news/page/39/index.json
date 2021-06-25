@@ -2,6 +2,48 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-05-26-squirro-launches-the-app-studio-a-no-codelow-code-platform-to-build-ai-powered-applications.md",
+      "title": "Squirro launches the App Studio - a no code/low code platform to build AI-powered applications",
+      "excerpt": "Launch will take place at upcoming App Building Day, an expert-led training session, where attendees will learn how to build a Cognitive Search app in just a few steps Zürich, 26 May 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://squirro.com/",
+      "originalUrl": "https://pressreleases.responsesource.com/news/101312/squirro-launches-the-app-studio-a-no-code-low/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://squirro.com/wp-content/uploads/2020/07/M_GenericWorld-01.png",
+          "width": 3130,
+          "height": 1646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "responsesource.com",
+        "domain": "responsesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-through-2027.md",
       "title": "Artificial Intelligence (AI) In Retail Market Size to Record 29.7% CAGR Through 2027",
       "excerpt": "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution, Services), by Function, by Technology and Regional Forecasts 2020-2027',",
@@ -1096,58 +1138,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-3-reasons-applied-materials-is-more-than-just-a-chip-shortage-stock.md",
-      "title": "3 Reasons Applied Materials Is More Than Just a Chip Shortage Stock",
-      "excerpt": "A global shortage of semiconductors -- basic building blocks for everything from high-tech services to autos to household appliances -- is reverberating through the economy. For semiconductor manufacturing equipment providers like Applied Materials (NASDAQ:AMAT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/14d2a740700f7cfec74e9045798e7186.png",
-          "width": 720,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/25/3-reasons-applied-materials-is-more-than-just-a-ch/",
-      "publishedDateTime": "2021-05-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-06-10-crypto-mining-hackers-hit-kubernetes-clusters.md",
+      "title": "Crypto mining hackers hit Kubernetes clusters",
+      "excerpt": "Security researchers have warned of hackers ' continued attacks against Kubernetes clusters running Kubeflow machine learning (ML) instances by installing malicious containers that mine cryptocurrencies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters",
+      "originalUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815742/itpro/2018/01/bitcoin_mining_cryptocurrency.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/cryptocurrencies/359840/crypto-mining-hackers-hit-kubernetes-clusters?amp",
+      "publishedDateTime": "2021-06-10T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-gpu-as-a-service-market-comprehensive-analysis-growth-forecast-from-2019-to-2025.md",
       "title": "GPU as a Service Market Comprehensive Analysis, Growth Forecast from 2019 to 2025",
       "excerpt": "Selbyville, Delaware Market Study Report LLC has added a new report on GPU as a Service market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
@@ -1103,59 +1155,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-signs-deal-with-amazon-web-services-to-help-digital-shift.md",
-      "title": "BMO Signs Deal With Amazon Web Services to Help Digital Shift",
-      "excerpt": "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

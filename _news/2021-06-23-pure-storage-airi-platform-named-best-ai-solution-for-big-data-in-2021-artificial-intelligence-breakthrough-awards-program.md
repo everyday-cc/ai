@@ -40,6 +40,15 @@ related:
         width: 678
         height: 448
         isCached: true
+  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
+    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
+    publishedDateTime: 2021-06-21T13:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
     excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
     publishedDateTime: 2021-06-24T04:00:00Z
@@ -54,20 +63,6 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-    publishedDateTime: 2021-06-24T20:28:00Z
-    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
-        width: 720
-        height: 540
-        isCached: true
   - title: "Fundbox Named “Best Decision Management Company” in AI Breakthrough Awards"
     excerpt: "Fundbox, the AI-driven financial platform for small businesses, announced today that it has been selected as the winner of “Best Decision Management Company” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
     publishedDateTime: 2021-06-23T10:00:00Z
@@ -77,6 +72,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "Artificial Intelligence Breakthrough Gives Longer Advance Warning of Ozone Issues"
+    excerpt: "Ozone levels in the earth’s troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+    publishedDateTime: 2021-06-24T18:43:00Z
+    webUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
+    type: article
+    provider:
+      name: University of Houston
+      domain: uh.edu
+    quality: 12
 
 secured: "FXMoZHYUbYzKWAsEfkpp14ka+G8rlYDsO8p/x95SAieCl+RJmi12hAhJeJYr4JIPhNgLcUqWcFYmjgeX7rBkT6SlrwWt0dscx8qfeu4mQKiEmGGnmi+joQx8yjjlNO/XGIcqBFdXmKT2MkE2f8qo8/6rp4gxUKaYigQMWioxEm6fyigk7T71AkKdLOaMmXArO22ZSjeeLQfCU59viFH6MQVgOA2EtXPQCuVB/Xi+m57WuZVzwaG5g5nYuVyB56lN8B1BpiYTQimWlQPDKt1xezfVE2ygKrNS21fw88vrcN5XS5BxOBJkaVdyjNrW/B241qXbnRai/OFBPrXQFgCxA89rxQKYQEbjbpW8YGEMNAw=;wRED8QO/iq+nulWvxfTI3Q=="
 ---

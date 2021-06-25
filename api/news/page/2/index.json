@@ -113,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -157,6 +157,49 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-malaria-zapping-israeli-startup-zzappmalaria-wins-ibm-watson-ai-xprize.md",
+      "title": "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE",
+      "excerpt": "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/",
+      "originalUrl": "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -632,7 +675,7 @@
       "originalUrl": "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -898,7 +941,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1138,57 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-coffeemugai-raises-625000-from-paradigm-shift-capital-and-angellist-india-in-pre-seed-round.md",
-      "title": "CoffeeMug.ai Raises $625,000 From Paradigm Shift Capital And AngelList India In Pre-Seed Round",
-      "excerpt": "The company plans to use this fund to accelerate its efforts to refine its AI-based matchmaking algorithm, double its existing user base of 50,000 globally, and connect them with genuine business oppo",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/375424",
-      "originalUrl": "https://www.entrepreneur.com/article/375424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1624434392-hivan-arvizu-soyhivan-MAnhvw0nDDY-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375424",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375424",
-      "publishedDateTime": "2021-06-23T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-17-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
+      "title": "NVIDIA and the battle for the future of AI chips",
+      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/16:9/w_1280,c_limit/1621-WIRED-Chips.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-chinas-ponyai-plans-to-begin-commercial-driverless-robotaxi-service-in-california-in-2022.md",
       "title": "China’s Pony.ai plans to begin commercial driverless robotaxi service in California in 2022",
       "excerpt": "Chinese startup Pony.ai has commenced testing of its driverless vehicles on public roads he the US state of California. This is a prelude to the full rollout of commercial robotaxi services in the US planned for 2022.",
@@ -419,8 +462,8 @@
       "title": "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down",
       "excerpt": "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in.",
       "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255",
-      "originalUrl": "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "webUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
+      "originalUrl": "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -437,13 +480,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "ampWebUrl": "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
+      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255",
       "publishedDateTime": "2021-06-16T18:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
+        "name": "WTAE-TV",
+        "domain": "wtae.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1048,8 +1091,8 @@
       "title": "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
       "excerpt": "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/16/9392126.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1107,49 +1150,6 @@
       "provider": {
         "name": "WAVY",
         "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-waymo-raises-further-25bn-for-self-driving-car-project.md",
-      "title": "Waymo raises further $2.5bn for self-driving car project",
-      "excerpt": "The deployment of driverless technology is taking considerably ... “There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "originalUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5feecf-7435-4600-95c4-d69820be9aec.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "publishedDateTime": "2021-06-16T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM working on AI tools to spot, cut bias in online ad targeting"
+    excerpt: "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory."
+    publishedDateTime: 2021-06-25T02:02:00Z
+    webUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/"
+    ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
     excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
     publishedDateTime: 2021-06-24T11:13:00Z
@@ -64,43 +80,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
-    publishedDateTime: 2021-06-21T13:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
-    excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
-    publishedDateTime: 2021-06-23T16:42:00Z
-    webUrl: "https://www.miragenews.com/d3-backed-aifred-health-takes-second-place-in-583549/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 45
-    images:
-      - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
-        width: 768
-        height: 613
-        isCached: true
-  - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
-    excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
-    publishedDateTime: 2021-06-23T18:14:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 43
-    images:
-      - url: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m/_jcr_content/top-image.img.768.medium.jpg/1624462106264.jpg"
-        width: 768
-        height: 384
-        isCached: true
   - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
     excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
     publishedDateTime: 2021-06-24T22:20:00Z
@@ -115,39 +94,7 @@ related:
         width: 991
         height: 557
         isCached: true
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
-        isCached: true
-  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
-    publishedDateTime: 2021-06-23T12:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 36
-  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-    publishedDateTime: 2021-06-23T21:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 36
 
-secured: "VELwGOJCIJAPeSt0R5xnQTfAbwbbocbF8vGzvOqoA0Ha4nov4AqNy6kdR7XUsA+ZGvjtRBY0JDfiinScsa7BkyptVt1B2IZ+nuS9fG9OV4J0rKmQojWHjVkqUuy2Ovvg7CFyM92jpEL7w5X2K4P0OgUAch26NqX21MCwOroYJvprO+ExwySwT8vy8Jy03Sz6xzrEDyIZ8iHY7NxwAR+65EQQB8fCgSHE4DjvF1OF05JWVfgDlP98uzi7qrPiEUS7LNk1XoGlqSEjCH+p3uWQ0gCnYzs9cEu/fLfQpLdO3OTqYr1k1IY4A1kQMlnk1H1+A9z+EtjMngCe2Wl13WHZ4KRKLVhkpMJmj4CVAyRuzBA=;kQ+L3r6isNvWMIGR7yE9Vw=="
+secured: "daiO/9Z/MZIYH7MK0c4pvcmJZ7KgRH22RTlD9AX3kfm+jv7Vlrka7zAvDv3gWheWixYfmyTab+QXKiC5BJ8ecHYzPtCNgceJd8sKTIq/RtDFiAwEyCDds325vwOt/gn9k2se64I3hj2fZ2AbrOWRLAZ/UufrF00PgYoHVYyHg58w/UiZJJhj6TmBl+wLB7Xm5+8IVTGjEnNg6ErQGjyPDqeki9RiYc6coxf6nMyj3Gc0ay8IcEgPo9Vsrkc4Pp6ZTH9HvIdqdry8NvEuprgz/7iny5ytISshCROoijwgP7vzXghgKkD+XMfiShprkOYezVTEC+76Do8X29WD3OKiX7EMF1l4EfG9eWowKQhDwpe12al9coCi0EpXQdLPSabMIBKymU9deZ3sejTPTlUvnFOs3YwakhBVBL2O82GvTWcDO3d20HJKd/DNis8hYQ4CrBexh5d6IMwKLF/OOeiMT/0xjmpGOrOmVuZ7/9B1oYF0Qsqw3h8/dUh2lTHGl1BPdRXBmwbAvJjm4Nd+So8VIQ==;UUyDljj/3cPArWvaWWxoqQ=="
 ---
 

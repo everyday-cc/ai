@@ -2,6 +2,59 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-06-10-bmo-signs-deal-with-amazon-web-services-to-help-digital-shift.md",
+      "title": "BMO Signs Deal With Amazon Web Services to Help Digital Shift",
+      "excerpt": "Bank of Montreal picked Amazon.com Inc.’s web-services division as its preferred cloud provider to help the bank modernize operations and introduce new digital applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-10/bmo-signs-deal-with-amazon-web-services-to-help-digital-shift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNmtVmGrkNyw/v1/1200x603.jpg",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-is-there-any-way-out-of-clearviews-facial-recognition-database.md",
       "title": "Is there any way out of Clearview’s facial recognition database?",
       "excerpt": "In March 2020, two months after The New York Times exposed that Clearview AI had scraped billions of images from the internet to create a facial recognition database, Thomas Smith received a ...",
@@ -1152,59 +1205,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-the-pandemic-and-its-implications-on-industrial-machine-learning.md",
-      "title": "The Pandemic And Its Implications On Industrial Machine Learning",
-      "excerpt": "For a moment, let’s set aside the abject tragedy of the Covid-19 pandemic and the demoralizing conditions through which the world continues to persevere. Instead, let’s examine the state of affairs from a dispassionate and scientific position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/09/the-pandemic-and-its-implications-on-industrial-machine-learning/amp/",
-      "publishedDateTime": "2021-06-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

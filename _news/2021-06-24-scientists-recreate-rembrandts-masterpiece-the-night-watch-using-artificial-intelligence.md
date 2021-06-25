@@ -75,7 +75,7 @@ related:
   - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
     excerpt: "One of Rembrandt van Rijn's biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam's Rijksmuseum to recreate parts of the iconic “Night Watch” painting that were snipped off 70 years after Rembrandt finished it."
     publishedDateTime: 2021-06-24T12:15:00Z
-    webUrl: "https://apnews.com/d9312050e505c720b8870f0ad0608609?curator=upstract.com"
+    webUrl: "https://apnews.com/article/europe-lifestyle-travel-technology-arts-and-entertainment-d9312050e505c720b8870f0ad0608609"
     type: article
     provider:
       name: Associated Press

@@ -35,6 +35,15 @@ related:
         width: 678
         height: 448
         isCached: true
+  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
+    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
+    publishedDateTime: 2021-06-21T13:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
     excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
     publishedDateTime: 2021-06-24T04:00:00Z
@@ -46,20 +55,6 @@ related:
     quality: 32
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/268991_web.jpg"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-    publishedDateTime: 2021-06-24T20:28:00Z
-    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
         width: 720
         height: 540
         isCached: true
@@ -77,6 +72,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial Intelligence Breakthrough Gives Longer Advance Warning of Ozone Issues"
+    excerpt: "Ozone levels in the earth’s troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+    publishedDateTime: 2021-06-24T18:43:00Z
+    webUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
+    type: article
+    provider:
+      name: University of Houston
+      domain: uh.edu
+    quality: 12
 
 secured: "MeomwNsPxgoUer9EDthI0qxdXwdcqELxGZ7QHtGushmVqAHYMtvp1koWG+FRyfVTV1AlLFbJfkwFsWcZ8xVWLkavWMQD/zFG93zcuOwe+eUvVXQaFeUDyulygJ2r9vZGakSgoPS7aDp3pkPHPBpXIPW0FnimtljwzSenHjJbrbBoyJ1ih6vX+9UiWu91TzVIl5AoUOeKnDmY5siM29Ti9cnRn21KqaCz3nB4eW8QUASgK0IhFs+IH/k2ey3xwAnmxOuw1GIOkRAh95HA42DfMCCsQfgNXo4dO7/rg8flhqNlyoKwj5HqWGbTv5c6apdMPCAeEYgnz6DiPpFCl5Eb605uQaRmARfM9of8LuwrU0U=;mR67gcuN/wmbb/I3tnnMrg=="
 ---

@@ -2,6 +2,50 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
+      "title": "Chinese AI speech recognition chip startup secures new war chest",
+      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-05-computer-science-course-listing.md",
       "title": "Computer Science Course Listing",
       "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
@@ -1141,49 +1185,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031.md",
-      "title": "Global Light Therapy Market 2021 – Growth statistics, top trends, covid-19 impact and forecast 2031",
-      "excerpt": "ESOMAR-certified consulting firm Future Market Insights projects a positive growth outlook for the global light therapy market over the forecast period of 2021 and 2021. The market posted expansion at an impressive pace in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-06-04/global-light-therapy-market-2021-growth-statistics-top-trends-covid-19-impact-and-forecast-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

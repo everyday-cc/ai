@@ -40,20 +40,15 @@ related:
         width: 678
         height: 448
         isCached: true
-  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-    publishedDateTime: 2021-06-24T20:28:00Z
-    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
+  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
+    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
+    publishedDateTime: 2021-06-21T13:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
-        width: 720
-        height: 540
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Pure Storage AIRI® Platform Named \"Best AI Solution For Big Data\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
     publishedDateTime: 2021-06-23T13:00:00Z
@@ -77,6 +72,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "Artificial Intelligence Breakthrough Gives Longer Advance Warning of Ozone Issues"
+    excerpt: "Ozone levels in the earth’s troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+    publishedDateTime: 2021-06-24T18:43:00Z
+    webUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
+    type: article
+    provider:
+      name: University of Houston
+      domain: uh.edu
+    quality: 12
 
 secured: "qf5PLlVdN2yTCJ/qexH+6PXahdJVskYJonzuhm7rZ4eG9b/skhmdEo6lRpcEXMNw8YCi7KrQhobKYP3K6ssdMVsLdvjpvqG811/EKMrmaWhIzUk+Dn1maBAL+zHTy3TmQL6gR1OYLbu1DaGiAYws4pidHWSfmEXwu86PmUrepuJdmWLsvDikR33z1r4snHdIdpJ0v/mW6jglEqR2WH04hhNbHs71dP5Fn9p00C/1ECp0zoIAG/4JmSwue5KsOiGsyc8xFIdey2QffjbQCaZNCTsZl+qPnWnPhKvOxnZ9qjzWruxglITc9waPJUvdrq+5ImNi8Zhz8M0TdvyyPQRdyziSwj3/F+uVKaexxNUI1/8=;aGq2TaF5FqP4/SxtwguDNw=="
 ---

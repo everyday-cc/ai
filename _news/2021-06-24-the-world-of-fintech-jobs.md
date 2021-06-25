@@ -41,6 +41,36 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
+    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
+    publishedDateTime: 2021-06-25T01:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
+    excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
+    publishedDateTime: 2021-06-25T01:58:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Banks Keep Biz Cards, Modernization At The Top Of Their FinTech Collab Agendas"
     excerpt: "This week's look at the latest in bank-FinTech collaboration finds commercial card enhancements and an overall push towards digitization remain key priorities."
     publishedDateTime: 2021-06-22T12:00:00Z
@@ -56,20 +86,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
-    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
-    publishedDateTime: 2021-06-25T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
     excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."

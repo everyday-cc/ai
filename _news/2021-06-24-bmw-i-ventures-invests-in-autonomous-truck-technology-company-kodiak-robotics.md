@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "BMW iVentures Invests in Silicon Valley-based Self-Driving Truck Startup Kodiak Robotics"
+    excerpt: "BMW iVentures, the Silicon Valley-based venture capital arm of automaker BMW that invests in promising mobility startups, announced today an investment in Kodiak Robotics, Inc., a developer of self-driving technology for long-haul trucks."
+    publishedDateTime: 2021-06-24T19:30:00Z
+    webUrl: "https://www.futurecar.com/4703/BMW-iVentures-Invests-in-Silicon-Valley-based-Self-Driving-Truck-Startup-Kodiak-Robotics"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 47
+    images:
+      - url: "https://img.futurecar.com/202106/24/l_60d4daf6d7e80.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "iB3wm5kZqGSCWKYoZMSVnP8kxaO4Rdcisp4CDych6LdyfPILR92J9PtO1ax9tjSKzPlw8CG/tQ7E+uz/iqexC/w33HHXRsdDzJ++xfWRjnji3ypPBmweEJEZ8qTzSXDjFbUHZgOk8hknoCTFCB1xxRliLpp14nyO3rDcaH4isg1/GGDIuQRjGK/ifUdiipLEopEL1kCB4OEiy2oLE+AP1upl9+WpylTCG/bwnoxi4ZgB2dfWboXwMMPeCjt+eoiKuNm4ztTT4mOr9JPycn82R0kYcnkeYR4b1EPzFd5RHoy2bAZqqOj6ivlry4Siogopi0h6xLWHZhvbuiXQdx7W6jnjT6U53jTZfyumth+qF1hoksy+1olRYnfH2M8VnMZ6nURzX/iYCWHlYSZJv/SbR81ZTqqilx+AEEFWtQ/eHyxqejt8bXVrbs0mvh7T0hsvusfKO9MJLvzdeMhSb8vGwjXTc/2cbU0b5VA7T/PXhQAzQhhSZtsl60Ri12dwklIhQQ1puHY8Q0cyapq4Y2zCiA==;C4QElxEfBbFxxKDc6Y+FKg=="
 ---
