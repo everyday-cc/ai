@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-
 webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+2T2021_verified"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Chatbots Without Programming"
-    excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
-    publishedDateTime: 2021-06-20T16:13:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+3T2020_verified"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Scotiabank brings machine learning to chatbot"
     excerpt: "Scotiabank is bringing machine learning to its search function, prepping a chatbot that will be able to instantly answer complicated customer questions."
     publishedDateTime: 2021-06-20T23:18:00Z

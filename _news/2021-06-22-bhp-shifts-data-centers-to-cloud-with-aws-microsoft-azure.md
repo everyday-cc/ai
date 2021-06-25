@@ -9,7 +9,7 @@ ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-t
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
+    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
+    publishedDateTime: 2021-06-25T09:14:00Z
+    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 49
   - title: "HPE buys AI startup, expands HPE GreenLake with support for Microsoft Azure Stack, SQL Server"
     excerpt: "Hewlett Packard Enterprise (HPE) has bought Determined AI, an AI startup based in San Francisco, for an undisclosed amount. Determined AI is the developer of a software stack that trains AI models more quickly,"
     publishedDateTime: 2021-06-22T07:28:00Z

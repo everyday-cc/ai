@@ -2,19 +2,19 @@
 category: news
 title: "Chauvin could face decadeslong sentence in Floyd's death"
 excerpt: "Chauvin, 45, faces decades in prison, with several legal experts predicting a sentence of 20 to 25 years. Though Chauvin is widely expected to appeal, he also still faces trial on federal civil rights charges,"
-publishedDateTime: 2021-06-25T07:54:00Z
-originalUrl: "https://www.chron.com/news/article/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
-webUrl: "https://www.chron.com/news/article/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
-ampWebUrl: "https://www.chron.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
+publishedDateTime: 2021-06-25T09:51:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
+webUrl: "https://www.seattlepi.com/news/article/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Computer Vision
@@ -26,6 +26,6 @@ images:
     height: 336
     isCached: true
 
-secured: "bQmffF5pZZZrdbyvMBu5k7tkvo+Am/hczM9qP1yeC4LLob/uVMXrCYs8Lzr5L3kVuDpR84K/o7oaryLU6KA1wktX8NZK04PYLrmL+QF1Bd75xT+1PjknkxlsM8Sn72VQnLa2WY3VoenuNck4WuGY1TBeZQ8B2OSdbHjueoCBd1g8bzu4d9dqVDdxS9lSX3wNwEhDTYtk477VC93vnfvSQFxitrL/3xlxbGPrllUmYlUZfh0lLD2a7Pygfzu8LeYfmEZUYvGgiVbhAMtVTsJmTJdyj6x6+GOoQ+9NRpPniBk1yMRr7W8hiI6E3Ed7j/5gknqLo93dBN+IV3pOcY9qK9IzPqrSPRjXD/ZEcw6/hnU=;ne5+fS2Nx4K8Ft7GUB23rg=="
+secured: "WDBhRfOowwL8WjY7q0BWSzoHBiGJIuNMC/aZSlsdvpuSjaCWGVGS69LRNECTMvqR1mx8icGQ2mQ72A56hUeHqprGQkr9MlNBO160hvVXKevD9+YFE2VWyB78MPTIskSEizfwM4M9IQCY1T84bl1SvJZ1GPR/yuBJXtZTHpcrrY3wzUCDRZPsyckn9K4jjJWu9ljT5WY7CIMtji3SS7Udbw8LozOj2+Ozp/CJw69nk8znIuYJiclaKXR9wPMfgohZ+02GQOGSfp/BxJ42mLmLZQwrAWLQKYvcU+mjE+Q4gJ/sknqEG2iYbDx2b1Cc5aO2Vp/vnhQ8mFDkawFFrxHLineduVaUJmbi7AqG524Oqww=;uyDAcFE6Pxty+gYImgatWQ=="
 ---
 

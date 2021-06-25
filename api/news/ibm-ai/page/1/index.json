@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-malaria-zapping-israeli-startup-zzappmalaria-wins-ibm-watson-ai-xprize.md",
-      "title": "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE",
-      "excerpt": "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population.",
+      "path": "_news/2021-06-24-grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition.md",
+      "title": "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition",
+      "excerpt": "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ...",
       "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/",
-      "originalUrl": "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/",
+      "webUrl": "https://www.register-herald.com/region/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition/article_9c9eacbb-298c-5d8b-914d-17acdedc2550.html",
+      "originalUrl": "https://www.register-herald.com/region/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition/article_9c9eacbb-298c-5d8b-914d-17acdedc2550.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -79,11 +79,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T22:48:00-07:00",
+      "publishedDateTime": "2021-06-23T10:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,8 +93,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     },
     {

@@ -3,15 +3,15 @@ category: news
 title: "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down"
 excerpt: "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in."
 publishedDateTime: 2021-06-17T01:42:00Z
-originalUrl: "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255"
-webUrl: "https://www.wcvb.com/article/facebook-group-fighting-ai-social-media/36746255"
-ampWebUrl: "https://www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
+originalUrl: "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255"
+webUrl: "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255"
+ampWebUrl: "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
+cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
 type: article
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: WTAE-TV
+  domain: wtae.com
 
 topics:
   - Facebook AI
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "gLBVrsZgl+4u8ZgFQl1qrcBgJpTgm5qE7SebOUhGC2/jw3a68A3G/PQbTR+XdJ+uxbXuQrGBI/r5Ed7ZLgMAJiiozFORIBRF7mQXbJZazF2OqxvfEXOO7CwLp5iKe45NHSXkIXlnq9sXPrvhpAwDI7xO+rwDP100sg2oq5lwd2RuYGJ0YbU8nLrofyM7xTSIJ7WhIAx2VLmaWEWODtMGJsH3NG8jaWe3Ma30gIhjtqfiVQHj6w1bF69pxh8Y2xGEmOJuSmCHxhb3Eg2NMHfbmPJkE7ZHUtUJonqiDbRHyCZOvxzVXI7mMbcEEX3DfLjEcq9oe/4zUMe4WvRsw2D2TClRlqEfGcNUyuMwPc4M630=;zBKJCwygLOZCz2ecjnZa+Q=="
+secured: "eBjkt7duoC4zWlt8IcfDeC5FB/cEZlYjZKtP9eT1200gxq/zO8R/9jdGAwi3allopgJgIex35U3nBpK79NCtWZsvJAtzRe12Mcs655nx/Ze05mOWNzNLdbvBM29y+CmHUSLq+50FyL4owvHmkgbuw6zbIvunYRsU6lkGHBFBkS0XvUbe6Gfu+FckA33pUv0FzIQ+2inIci1xS3VGlN8eL3p4Ow1G1uLBDll9YoMxtWGiMeSGU3QXE7LxW2DV7wwpzdH/txUOJ8T9eJuhfZn9eLWUGljffUHtk32MnXGimkdX8UVyh3h0JVjEZAH2v97zKyIsk02tD5Y7AwGcT3vYriq3GQCZageFj1e+s9fewzI=;8EDj9Pt3hDfW222jQ47SSA=="
 ---
 

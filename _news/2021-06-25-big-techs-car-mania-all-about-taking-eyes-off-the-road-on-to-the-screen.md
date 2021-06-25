@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 683
         isCached: true
+  - title: "Apple’s car obsession is all about taking eyes off the road"
+    excerpt: "At first glance, the forays Apple Inc, Google and other technology giants are making into the world of cars don’t appear to be particularly lucrative."
+    publishedDateTime: 2021-06-25T08:20:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/06/25/apples-car-obsession-is-all-about-taking-eyes-off-the-road"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/06/25/1197795.jpeg"
+        width: 1240
+        height: 868
+        isCached: true
 
 secured: "DsAWUZrjTlmPnaE+foVeO0JhiAnpbUMpm9s0b87RzjG0RwxA5d0FlP8+t2JJIa3IYsg5+r4E4KspyhOAqBVEVg0JMUBdQJ/ynaGTW8WRhz9/AhDL8Jf5JupUQNkRwa7AsC2LXxW2brchhT0Dz9jbpVcdEePnCGKBXrN8nGAsWP/7Z6YGMhMy1NzI63FdPnZGnHzTdlGkT4i5pIgseNdUfxCv4S/s7QRsDv/PeHqiiLffyB7DjwoQb7eXzw2fQMzc8Mvzl3t2Mz4CgzBxAoGcqTqzWNF9db/TvWPpE7Tn5nMGOYT8ysLYQNXcOAgIWIdD9e+NFQnGMuewN/urpgO9Hnl+h++Vr969oNnnCycEprc=;XHlgPFVYIggob3WVnKh1Qg=="
 ---

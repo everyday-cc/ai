@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-05-05-deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto.md",
+      "title": "DeepMind extends hunt for the world’s best A.I. researchers to Toronto",
+      "excerpt": "DeepMind already has a member of its team working out of a Google office in Toronto. DeepMind, which also has offices in Montreal and Edmonton, employs 51 people across Canada, according to LinkedIn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "originalUrl": "https://www.cnbc.com/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1532563838",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/05/deepmind-extends-hunt-for-the-worlds-best-ai-researchers-to-toronto-.html",
+      "publishedDateTime": "2021-05-05T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-wixcom-buys-riseai-to-add-gift-cards-to-e-commerce-platform.md",
       "title": "Wix.com buys Rise.ai to add gift cards to e-commerce platform",
       "excerpt": "Wix.com, which helps small businesses build and operate websites, said on Wednesday it bought Israeli startup Rise.ai to extend its platform to include gift and loyalty cards and rewards and referrals.",
@@ -1077,57 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-why-autonomous-ai-based-software-tests-save-costs.md",
-      "title": "Why Autonomous , AI-based Software Tests Save Costs",
-      "excerpt": "When you weigh test cases by severity and frequency that a failure can impact the business, you can much better prioritize what to test.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/news/why-autonomous-ai-based-software-tests-save-costs/",
-      "originalUrl": "https://www.eweek.com/news/why-autonomous-ai-based-software-tests-save-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/02/eWEEK.logo_.DataPoints-blue.border2020-1.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

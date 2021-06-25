@@ -72,16 +72,16 @@ related:
   - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
     excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
     publishedDateTime: 2021-06-22T22:13:00Z
-    webUrl: "https://www.armytimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
     type: article
     provider:
-      name: Army Times
-      domain: armytimes.com
+      name: C4ISRNET
+      domain: c4isrnet.com
     quality: 30
     images:
-      - url: "https://www.armytimes.com/resizer/RHxQc7jHC8S-HEXJbDjY7_PTwAo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.armytimes.com/resizer/VhwPC1AWLt6BV1bUhNwXBXDPKAc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "CfpKWH8IdlWO9ilf9keg5KP1OxgGNcNij4S/mJcfrrl1pfCFIn9svlH4QvJPYKeXrpFXLrSvRxOzKHuK0z9pC1YD3NGP6dY+XVnAHvGAahFcGnR4Cpxiyp3mGtWPGxLYdtArJyHnNPi05KoK1nVOmXXIeYeeSTVu9fNj7FzxLDdF0rEV5SFOda8tcCy2FuY5Y+TfO0mrIGNOajLvjorzUYhL5cKIXJhVNFAKPTkCAZYONZrRjtEAcgmu2CMkcXoE6TtIKzyaR/Q6q3YhIBNNFPQzPUz+LoJnNZytxfEfaljaICzo7gbZYd+MT6AlaB2JbzValdXLiDvGH2y9FphK9nB29ljTOl3XwB7WrWWDI1A=;v9NLm99LUneSkvOx1gjJJQ=="

@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-06-09-us-passes-250-technology-bill-for-chips-ai-and-robotics.md",
+      "title": "US Passes $250 Technology Bill for Chips, AI and Robotics",
+      "excerpt": "The US passed the U.S. Innovation and Competition Act, a $250 billion bill promoting US semiconductors, AI, robotics and technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2018/08/chinaindiausa.jpeg",
+          "width": 602,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/06/us-passes-250-technology-bill-for-chips-ai-and-robotics.html",
+      "publishedDateTime": "2021-06-09T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-how-edge-ai-can-make-enterprises-more-agile.md",
       "title": "How edge AI can make enterprises more agile",
       "excerpt": "Edge AI, or AI implemented locally, on edge hardware, can bring about enormous benefits for organizations in key industries.",
@@ -1080,49 +1124,6 @@
           "url": "https://www.eurekalert.org/multimedia/pub/web/267435_web.jpg",
           "width": 720,
           "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-machine-learning-speeds-up-simulations-in-material-science.md",
-      "title": "Machine learning speeds up simulations in material science",
-      "excerpt": "Research, development, and production of novel materials depend heavily on the availability of fast and at the same time accurate simulation methods. Machine learning, in which artificial intelligence autonomously acquires and applies new knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-06/kift-mls060921.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-06/kift-mls060921.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/267380_web.jpg",
-          "width": 1440,
-          "height": 966,
           "title": null,
           "attribution": null,
           "isCached": true

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
+    publishedDateTime: 2021-06-23T17:59:00Z
+    webUrl: "https://www.register-herald.com/region/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition/article_9c9eacbb-298c-5d8b-914d-17acdedc2550.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
     excerpt: "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population."
     publishedDateTime: 2021-06-24T05:48:00Z
@@ -68,6 +82,20 @@ related:
         width: 768
         height: 384
         isCached: true
+  - title: "Montréal’s Aifred Health wins second place at IBM AI XPRIZE competition"
+    excerpt: "Montréal-based healthtech and artificial intelligence startup Aifred Health today won second place at the final round of the IBM Watson AI XPRIZE competition."
+    publishedDateTime: 2021-06-23T20:06:00Z
+    webUrl: "https://betakit.com/montreals-aifred-health-wins-second-place-at-ibm-ai-xprize-competition/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 41
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/Aifred-Health.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
     publishedDateTime: 2021-06-23T12:30:00Z
@@ -77,15 +105,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 36
-  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-    publishedDateTime: 2021-06-23T21:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
 
 secured: "aMUaZMYcDx4fC38KT/gJVqfnz0bvipIvKjH2WVE8FEjK3igRCIDn7HjdEnSFv8CQ5OTdVPFpSS0Qidj8VuZ5BX8d8A0ecCooM8B14sVsdw7K/hL3nTU18+Pn+C5VJByEhNKRiDnFKUmV70zVplUw2sdKDmaqcU1qstWVDabp+D0qz08pybRW41HLq/pRAbsRkJWyuy48HwLqhIuIpgsgs6DiezrcvlwDJOMG+eUHd1ZOXR755KFP6+y/QtQzMz3yEgBvm77VTQOq1nV+ivOKbMWMwgq6oHHCeJhqVujHpT44jFDm5bk+GZXPoW+ERkJ4eDBNLZHYiNB4bglFYHDzDUPwArEQt+OrAbH3jnjiKtGhcjaGZ1OZG9LRyDNODS/Isf6c6GmEmj03TYz5qMf9PVMca2NAcVcToz/kWi8p9+fVWwlUmZAfvLAu8iZvWCaBL6skyhsuz9FuwHBfaXsP2SqmDu/A1nS5scX/vwboC8+Wt/D0/Ft2SL26C3O8ARaoA3HmDIfuAKBVdh0ia7SgYA==;Y34cD4ZXamiayTSOcRVdRw=="
 ---

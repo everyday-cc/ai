@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 849
         isCached: true
+  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
+    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
+    publishedDateTime: 2021-06-25T09:14:00Z
+    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 49
   - title: "Microsoft introduces Azure private multi-access edge compute system, services"
     excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
     publishedDateTime: 2021-06-21T15:18:00Z

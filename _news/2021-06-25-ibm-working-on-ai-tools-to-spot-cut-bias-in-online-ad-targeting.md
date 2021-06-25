@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 type: article
 quality: 91
-heat: 152
+heat: 153
 published: true
 
 provider:

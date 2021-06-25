@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chatbots Without Programming"
-    excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
-    publishedDateTime: 2021-06-20T16:13:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+3T2020_verified"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "AI Chatbots without Programming"
     excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
     publishedDateTime: 2021-06-22T18:05:00Z

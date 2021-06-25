@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/electric-volvo-xc90-lidar-ai-sa
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electric-volvo-xc90-lidar-ai-safety-technology/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Biggest Volvo SUV Will Soon Be Going Electric, And It Will Employ LiDAR And AI"
+    excerpt: "The successor to the current-gen XC90 from Volvo will be electric. According to the latest statement from the carmaker, the next-gen SUV will be revealed in 2022. Volvo plans to convert half of its lineup to electric vehicles by 2025,"
+    publishedDateTime: 2021-06-25T09:08:00Z
+    webUrl: "https://www.cardekho.com/india-car-news/the-biggest-volvo-suv-will-soon-be-going-electric-and-it-will-employ-lidar-and-ai-27347.htm"
+    ampWebUrl: "https://www.cardekho.com/india-car-news/the-biggest-volvo-suv-will-soon-be-going-electric-and-it-will-employ-lidar-and-ai-27347.htm?amp=1"
+    cdnAmpWebUrl: "https://www-cardekho-com.cdn.ampproject.org/c/s/www.cardekho.com/india-car-news/the-biggest-volvo-suv-will-soon-be-going-electric-and-it-will-employ-lidar-and-ai-27347.htm?amp=1"
+    type: article
+    provider:
+      name: CarDekho
+      domain: cardekho.com
+    quality: 53
+    images:
+      - url: "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/27346/1624612101998/GeneralNews.jpg"
+        width: 650
+        height: 420
+        isCached: true
   - title: "Next-Gen Volvo XC90 Will Be An EV With Luminar LiDAR and an AI Computer"
     excerpt: "Volvo’s latest release does not mention Tesla a single time. Yet, the comparisons are inevitable when the Swedish carmaker states that the next-generation XC90 will be a fully electric SUV. More than that,"
     publishedDateTime: 2021-06-24T14:02:00Z

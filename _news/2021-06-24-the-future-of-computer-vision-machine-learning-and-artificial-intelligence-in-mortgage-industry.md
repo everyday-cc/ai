@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Banking on AI: The Opportunities and Limitations of Artificial Intelligence in the Fight Against Financial Crime and Money Laundering"
+    excerpt: "Financial crime has thrived during the pandemic. It seems obvious that the increase in digital banking, as people were forced to stay inside for months on end, would correlate with a sharp rise in money laundering (ML) and other nefarious activity,"
+    publishedDateTime: 2021-06-25T08:31:00Z
+    webUrl: "https://internationalbanker.com/technology/banking-on-ai-the-opportunities-and-limitations-of-artificial-intelligence-in-the-fight-against-financial-crime-and-money-laundering/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 23
+    images:
+      - url: "http://internationalbanker.com/wp-content/uploads/2021/06/Banking-on-AI.png"
+        width: 975
+        height: 650
+        isCached: true
 
 secured: "tJ6LXsWifo3M7uj2nsrDllRofebSS1oj7lPJB09KKH/C0GCr6gRLXGqTZd/fq0r06YkHLa5hO8tP5ChpganFUEg4O+HAAN2mIGhLsKl8bHDlGnQrDm/oXzC6R0mD7VuCEcRnUq6mFocM5oYqXhGIj7BxGJVELWQIZRqAs9+GIoupaGxr77cJBMj0+JI52P48Mh6wbllXTmsw3Jdo3ENwAmV2VFNhFOPxtxtk/k2if+mp5mt1514GqKA29QPuwD0A9pqXQiD9aSidVxmW3DLxV3wFXz9bORkVV1gOR1isjZKqeBBmqXKAifWOflhRwk9tXiXWPYSwtdGenG2+5CSChn1HKSXGcyjN99R+BWe+K/o+JMTUZLWCegqA/sDc6RNOPElXVC1GMwEn9zoESGhMBH2Br8/fJ3IurvuPu44y5l9v7a7lx9mx5LEOEClzkuaXnGc81osP/5pvnqIiXO3n6oQlVCHiI5luitoLJK5ldZ4/ZHX0mxi4zjMRNVJ0FCbIq3ITURGbLDLicQox1rr7IA==;SPQ7iTUwnF8RxeobBbdO+g=="
 ---
