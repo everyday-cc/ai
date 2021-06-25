@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AppTek's Director of Science to deliver opening keynote address at INTERSPEECH 2021"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
-publishedDateTime: 2021-06-24T12:33:00Z
-originalUrl: "https://www.insidenova.com/news/state/appteks-director-of-science-to-deliver-opening-keynote-address-at-interspeech-2021/article_ef9e392a-7daa-51ff-a708-ac155b4efac0.html"
-webUrl: "https://www.insidenova.com/news/state/appteks-director-of-science-to-deliver-opening-keynote-address-at-interspeech-2021/article_ef9e392a-7daa-51ff-a708-ac155b4efac0.html"
+excerpt: "INTERSPEECH is the world's largest and most comprehensive conference on the science and technology of spoken language processing. It is hosted annually by the International Speech Communication Association (ISCA),"
+publishedDateTime: 2021-06-24T12:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397159.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397159.htm"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: INSIDENOVA.COM
-  domain: insidenova.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/f/f2/ff2c2cd2-4f32-5382-ba7b-69674c2d2c8c/60d47e6f046fb.image.jpg?resize=592%2C630"
-    width: 592
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1549918/1.jpg"
+    width: 376
+    height: 400
     isCached: true
 
-secured: "oU3+v+PsviTSxwZqywQuf7hyw61XTV9Rlra6JOTegMuorjo4iSntWF20eXGnUB3O4yDPlMs0M+jML+2BOu5jX8aLGcVN99B9yBmDWvZl6GBTr0Vjgl+eMymC5oRYiDJjY9rfOlzZjbdrg42tSZFxjbxezz1l5kHBHJ1ZlrbL028fAQuhC258LpcS/T37cQIW4jU9dIJr6hSUG89nUevmHIQR1kmm+esg7RTf8mOACzGipCmh9X+69pUiH57kZjsuZZip6nrmtM6ePP/iW/uWX43KyL6nos3i6mFa3PYzlwErt/szNPpMLZloZFHoCKFCX/nbwX04jhIOjC/HHfRoin7GI9EOVBPum0ijYb5K9jQ=;5DV4/Ua/Rj1YLpwcGhZXvA=="
+secured: "WaXRIzOD4NC532D2ejDRVswQZQscK+jB+FisXJUyLc+7cUtKeUGch6x1JFMY1CRG49yn0ZPH27gse9P66dt1K685B45gaI6s/rOxoCqjGzdwrCnkvgcn5JvXig3JSW+PuZhrRrVVj+/3bZ9Ul8ZwXf2pmO+RbvUm0nQZmgFZRpMiPAf+pY/NEJ3fMwsr3dj0hxjXvKZ0NInk6NR/krdgq45nO1H1VbCqwM2MqRe5o+MKW19zGPHuZLUU1nbqYeD3AQTUJLd9eqTRA7P1DSYZ3un1Y0LvZreIqadgKANoomqjqnFiMBMTxCwQ3gekrFvECUEiS+XxxHNQe2Dv7MzJOqlekZPsp4sH1IGKbOwYLWo=;c2zyKaxEio6z0v+arg+NXQ=="
 ---
 

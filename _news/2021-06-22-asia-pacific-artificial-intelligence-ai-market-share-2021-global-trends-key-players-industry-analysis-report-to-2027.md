@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
-    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
-    publishedDateTime: 2021-06-22T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sPdsgHHiQGZ7AqV1HvgEr0/GQrZGvOmwxOxXMrDWAnbENpXMHpwrz8kGmoaIxyeMUmAtJFGRRIFd0ylp20S17bFupUAZnpPX+2CpCXlkaXrqkMVeWok3jOmAsbTNXxwor5ZOLGSOZT90hOBgBp/kGDDnqWGaYzraNxbodvTyp3Yo7t7w3P4Lg+y5lwOeTIHHcfONUoZnC53Qq8XpuxLtjReRG1z4KetcDClLnuk/eOBqSb5zE31bV0dbBoeWzHswn2r6RUSOP4B0G0Y/tv53ODYBbfJ7ywTWBX9imQa3lnBcodnOi+3AY3A18fPtHKE6KnxKUMvFJr8KNnc76LRAvxcpIq9Afr7DxOBceAQUaVU=;RvR0WnHoNEyRPkl7bAVStg=="
 ---

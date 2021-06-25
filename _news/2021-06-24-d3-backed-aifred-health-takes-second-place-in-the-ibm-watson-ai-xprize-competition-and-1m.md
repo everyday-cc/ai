@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet The Winners Of IBM Watson AI XPRIZE"
+    excerpt: "IBM and XPRIZE, a non-profit organisation focused on designing and implementing innovative competition models to solve real world problems, launched IBM Watson AI XPRIZE in 2016. The competition aims to accelerate the adoption of AI technologies to solve societal challenges."
+    publishedDateTime: 2021-06-25T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/meet-the-winners-of-ibm-watson-ai-xprize/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IBM-WATSON.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
     publishedDateTime: 2021-06-23T17:59:00Z
@@ -66,6 +80,20 @@ related:
       - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
         width: 768
         height: 613
+        isCached: true
+  - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
+    excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
+    publishedDateTime: 2021-06-25T13:47:00Z
+    webUrl: "https://www.algemeiner.com/2021/06/25/israels-zzappmalaria-wins-ibm-watson-ai-xprize-competition-by-helping-eliminate-malaria/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 45
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2021/06/Red_blood_cells_infected_with_malaria-1.jpg"
+        width: 720
+        height: 360
         isCached: true
   - title: "Montréal’s Aifred Health wins second place at IBM AI XPRIZE competition"
     excerpt: "Montréal-based healthtech and artificial intelligence startup Aifred Health today won second place at the final round of the IBM Watson AI XPRIZE competition."

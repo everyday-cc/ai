@@ -2,9 +2,9 @@
 category: news
 title: "Life Whisperer launches its third global IVF clinic collaboration at ESHRE to apply Artificial Intelligence to Oocytes"
 excerpt: "Life Whisperer, fertility arm of AI healthcare company Presagen, will invite clinics to participate in its third global IVF"
-publishedDateTime: 2021-06-25T07:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/life-whisperer-launches-its-third-global-ivf-clinic-collaboration-at-eshre-to-apply-artificial-intelligence-to-oocytes-301319391.html"
-webUrl: "https://www.prnewswire.com/news-releases/life-whisperer-launches-its-third-global-ivf-clinic-collaboration-at-eshre-to-apply-artificial-intelligence-to-oocytes-301319391.html"
+publishedDateTime: 2021-06-25T12:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/life-whisperer-launches-its-third-global-ivf-clinic-collaboration-at-eshre-to-apply-artificial-intelligence-to-oocytes-836371048.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/life-whisperer-launches-its-third-global-ivf-clinic-collaboration-at-eshre-to-apply-artificial-intelligence-to-oocytes-836371048.html"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "/ips+6Gpzw5jEOd2xlpM0PV1LHlvH3mVfrnOpiMvOA/eZj7j5GBxSMKTFEHLaUqT7KNo4ajcC2d0lgwEimIA12MqZesqeWrtMiP41J3XN0hDHWnREnDkQqgAM8btfWS8ISuD4PPhTqeHlpNekqIUDGoJrhtM/TjgpOQT+T0ICaq3HIw9wcYoET3BI+pp+/NU+rhD/fU3IN3BHMfcxFzRqJl7fSRMjMFMJrUkEH8PLRZnvatGqJ1mCQLSDj8w1j5fhRrjJbLRXmSFP8JAYOLdi7PWwIq+YpoH1Bvsci4GgRNxCLXzEqSUh+/N6R8dGZjEerhZXGBhuf3DqiLmXArTIxu5/8NJEKOBloyJu7FNW4o=;id7SAq9TJaq/MPcyuSh38Q=="
+secured: "e8h5BO+1vi0mnCEdY20U3jHjd4Eu0eeZPJY5AdYcPtNLd3EGyss3u82pcMNGH/ZoCc+5GMN4UBtesvraAU4uNMAU2VUXQVMu2O/NX3e8Bgvvf7mIoc46ue3O5Q7g7uAexSoN5AyOLejjVQnOHdZKTZpIKBs5yxS54VTtvuCNt4gJRP4gDlLe0RWRgDUqH5GlIoLuI8Yp8Jf2cnCocC5g5BLnlXJgCB08LHYDs/zi5odh4V7vflOZ+UcnH1jB1RkPfWxiZmPrQquIIFf44+EIXhM2G+OzizosFFnjAcjpSfytUWugf1BypURVxu1waTlPk2iYfjKpmUxgsHKuLSgkemogxP3YSp7N3G38NAwe3qs=;Eq8eAAphhm38Epmt25eRsA=="
 ---
 

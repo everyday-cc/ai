@@ -55,20 +55,6 @@ related:
         width: 615
         height: 397
         isCached: true
-  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
-    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
-    publishedDateTime: 2021-06-22T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in the Global Food & Beverages Market to Reach a Valuation of $29.94 Billion by 2026"
     excerpt: "The \"Artificial Intelligence (AI) in Food & Beverages Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 -"
     publishedDateTime: 2021-06-22T16:30:00Z

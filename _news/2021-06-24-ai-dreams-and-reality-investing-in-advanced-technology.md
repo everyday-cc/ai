@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-i
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-in-advanced-technology-2021-06-23?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible changes in human faces, it makes an AI-driven facial recognition algorithm misrecognize persons."
+    publishedDateTime: 2021-06-25T12:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/25/9398013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "Auddia Inc. Announces Major Technology Advancements in Artificial Intelligence ..."
     excerpt: "New approach increases overall accuracy by 170% and reduces processing time by a minimum of 5X while virtually eliminating most hard costs as it scales to thousands of stationsReconfirms guidance for full national launch in second half of 2021BOULDER,"
     publishedDateTime: 2021-06-22T11:01:00Z

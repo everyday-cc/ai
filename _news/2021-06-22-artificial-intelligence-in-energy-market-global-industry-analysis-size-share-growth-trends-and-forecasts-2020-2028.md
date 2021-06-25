@@ -29,31 +29,110 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Share, Trends | Industry Overview 2021 to 2026"
-    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
-    publishedDateTime: 2021-06-22T17:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22"
+  - title: "AI Chip Market New Innovations Trends, Research, Global Share and Growth Factor"
+    excerpt: "Research Nester published a report titled \"AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030\" which delivers detailed overview of the global AI chip market in terms of market segmentation by type,"
+    publishedDateTime: 2021-06-25T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia-Pacific Artificial Intelligence (AI) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Asia Pacific artificial intelligence market is projected to grow significantly at a CAGR of 36 during the forecast period The main countries contributing to the market are China India and Japan China is the largest market for AI Artificial"
-    publishedDateTime: 2021-06-22T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2311086/asia-pacific-artificial-intelligence-ai-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2311086/asia-pacific-artificial-intelligence-ai-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311086/asia-pacific-artificial-intelligence-ai-market-share-2021"
+  - title: "Artificial Intelligence in the Education Sector Market Types, Recent Trends, Future Growth Analysis, Industry Analysis and Forecasts 2027"
+    excerpt: "The global Artificial Intelligence in the Education Sector market research is carried out at the different stages of"
+    publishedDateTime: 2021-06-25T07:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-recent-trends-future-growth-analysis-industry-analysis-and-forecasts-2027-2021-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Analysis, Share, Growth Strategies, Geographical Analysis and Forecast 2024"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence Market Report explores the essential factors of the Artificial Intelligence market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
+    publishedDateTime: 2021-06-22T19:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-share-growth-strategies-geographical-analysis-and-forecast-2024-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Aviation Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
+    excerpt: "Market.us has to return up with a brand new report specifically Global Artificial Intelligence in Aviation Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."
+    publishedDateTime: 2021-06-24T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
+    excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
+    publishedDateTime: 2021-06-23T04:42:00Z
+    webUrl: "https://www.openpr.com/news/2311364/outlook-of-global-emotional-intelligence-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 27
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
+    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
+    publishedDateTime: 2021-06-22T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global GPU Database Market Size, Share Valuation to Reach USD 279 million By 2025"
+    excerpt: "The report GPU Database Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides GPU Database Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-25T09:42:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142680/global-gpu-database-market-size-share-valuation/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 14
+  - title: "Worldwide Artificial Intelligence (AI) Market in Manufacturing Industry to 2025 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence (AI) Market in Manufacturing Industry 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is ..."
+    publishedDateTime: 2021-06-24T09:28:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210624005703/worldwide-artificial-intelligence-ai-market-in-manufacturing-industry-to-2025-key-drivers-challenges-and-trends-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "yKxiStbEHbguRP/gtx2LPN47X7+scPDlGSwcPtqY9S/7vLTmusTO+00/UPmSII+4vIk6+9coVWG9EwY3TrkoO5Kieybg5fYDaomuIdwiT2zUemkzKQmpEkG/QyT6x5f+wVvJ9jGdCYDJ97KXZegvshBsigo5lpaiiugq4tDc86TOtJUoUalexbzqsJb2oc2HnEzN2ACwhV63vA2fHhYfR+N1x+v3q4tUJeaqZg0U9DN476pbekJzLe7CHnvJ1jTX5qbKUEpXbs38WL4/Br1llpyUWFAhniZDTxQlQrWYHzUoClcUpfgPPgbYBdVhaJirXxFIphy3vHZP7nv9c0pdgcYDG5USFo+MHzCEX2rTfSU=;5EASezbfQR/HM4qglAwvMw=="
 ---

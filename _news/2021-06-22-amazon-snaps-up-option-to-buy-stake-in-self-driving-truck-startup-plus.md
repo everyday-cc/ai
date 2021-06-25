@@ -63,6 +63,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Amazon to buy 1,000 self-driving trucks"
+    excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
+    publishedDateTime: 2021-06-25T13:12:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
   - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
     excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
     publishedDateTime: 2021-06-21T18:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-mark
 webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-markets-to-2025---increasing-demand-for-big-data-analytics-due-to-huge-unstructured-data-generation-at-end-use-industry-sites-301316528.html"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,95 @@ images:
     width: 800
     height: 419
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Manufacturing Market Share, Size, Opportunities, Analysis and Forecast by 2025"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence in Manufacturing Market Report explores the essential factors of the Artificial Intelligence in Manufacturing market considering such as industry situations,"
+    publishedDateTime: 2021-06-21T17:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-share-size-opportunities-analysis-and-forecast-by-2025-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
+    excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence (AI) market in the manufacturing industry in optimistic,"
+    publishedDateTime: 2021-06-22T12:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-grow-787-billion-manufacturing-/2021/06/22/9394911.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
+    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
+    publishedDateTime: 2021-06-21T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GCC Agricultural Robots Market 2020 Professional Survey, Growth Factors, Size, Shares, Opportunity Analysis and Forecast to 2027"
+    excerpt: "By incorporating advanced technologies such as agricultural robots, Big Data, and artificial intelligence in cloud ... systems ranging from UAVs to driverless cars. Agricultural robots minimize ..."
+    publishedDateTime: 2021-06-23T14:38:00Z
+    webUrl: "https://www.openpr.com/news/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    ampWebUrl: "https://www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623283900_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
+    excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
+    publishedDateTime: 2021-06-22T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-precision-medicine-software-market-report-2021-2028-/2021/06/22/9395457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
+    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
+    publishedDateTime: 2021-06-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
+    excerpt: "This study elucidates how the Automotive Artificial Intelligence (AI) market Sizewill perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-06-24T17:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142647/automotive-artificial-intelligence-ai-market-with/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
 secured: "V7uobLtPGjIU21yuNhcJpJvCLv6aHrRJGlPl2J4KPlk13WOpUVF+ZCLxloZLS5VSPXj0n6W1SQjVzcHqqQAZ+BIkeaByACwizi2YH0zt+8wf+L5jUmhALEF31LSh/Q/TcLwebU5P7lGtcJxOJq2LDtQRowp+75x48zyHBpRGOIuhEAstTKFMj4UNmWAX43rdS3GfqLBRwOeztm0LuwhklR4NCmHODmfbEySt4i93Uw4yJEu0q8dasaklO1gW15eIii+sgw1mTV5QVAEdFWLtm8/818Z3sJj0nHMJ21eGfp61TNEGOc98QcGeH+Avi8eBsE1D6LqyeazrPI5kJkKd5a7nx4YlaWg6DybUSLXsKqpkgoYTiCudcw1o1IWI5A5sCLqSwOVswq0k7P8D6veIi8vLZ+hhFZkUgJKV88GWBuQPCkcRTqZUGIx3Eqbpl5bxYz77BWqsrbqTNB6knI7PVMENA3OamATOZdnSKkPGNUY9EdbXG90ENWn44pPj0kChICqAyFEkc7pOa3P+si2vZA==;xdT6abuSHrbeOZwIqW2cRw=="
 ---

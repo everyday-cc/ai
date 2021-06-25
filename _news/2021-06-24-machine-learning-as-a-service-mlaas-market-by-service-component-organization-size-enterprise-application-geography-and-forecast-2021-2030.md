@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Analysis, Share, Growth Strategies, Geographical Analysis and Forecast 2024"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence Market Report explores the essential factors of the Artificial Intelligence market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
-    publishedDateTime: 2021-06-22T19:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-share-growth-strategies-geographical-analysis-and-forecast-2024-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech and Voice Recognition Technology Market Positive Demand and Development Approaches through 2021-2026"
     excerpt: "MarketQuest.biz has announced a new research study on Global Speech and Voice Recognition Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which comprises the most up-to-date market insights and analysis performed."
     publishedDateTime: 2021-06-22T09:06:00Z

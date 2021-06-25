@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-25T01:11:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
 webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
 type: article
-quality: 71
+quality: 54
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - AI
-  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
@@ -139,6 +138,15 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
+    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
+    publishedDateTime: 2021-06-23T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z
@@ -213,15 +221,6 @@ related:
       name: Infosys
       domain: infosys.com
     quality: 19
-  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
-    publishedDateTime: 2021-06-23T11:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
   - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
     excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
     publishedDateTime: 2021-06-21T17:22:00Z
@@ -232,6 +231,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "34xlTbpxj5+d9Y0oKDE64Y0rn3ugzUGy2HLaUPqvT+Tanp/CJUt3CvsQ4l1Jp707sqi6MAv3fVSfpsOsWnlva0qdQLN2SiaARDa5cT+MdYU0cwu29uDYG1iHDBSddiy1GL3I1RTLLByYjKHrsrYfNAZ7GOPglZmPt6iZhEs/XXrZls4JVbgjc2gxcHAsIvne5I7gwLxV32Gr0EWqdrCu33GGYkb805nQAmp+gihrrHg0B8mJLz672rcsq5ssQhQs/pgtNZBAQl9/u1j7QHn3x1qd1/MypJsq92fV49OVvIZM6F/n8jh1XJCkTGS2O0lVegUJp8jIAuT87hg94rCXxRIxY0fTdaJ/61CBk1tohTrJjd+dcq+eGQU+JDKbZabztjUqy7tJb/ge/hyT7Z0ShgZxcdBeKpCEjPRsLTEGumR/Rf8ykbw4ncpCeGH4pKWWbKRxDOoiANNb1DALHFg8ZLyQxAP6bO33L4KA64HC+Ja/gI6tQz6IWOpmsJPK96nCbcuIpei5Q2tdJ4WBj8wtLg==;ctpYQxAMr9fNCbJJAQAoqA=="
+secured: "IvS5HtOWXfZ6aOf+LSNh/wbT5dO+RNmFpuh/e1oGZhRkdXE93dtIXBZjdf71Od7D4tiO0U1r8k5odEUHCliJkT51OhFw9jRSXt46Ml6vAWJAR0+qXJ9w8a8kn2oBIaTnJf6Nf+mcaTLVUd2Q44kCAtqeQ0YsGtRBJPfQ66+FC2UeA6hvszjQ5fIirDzxjVOi7vGhiQLQuA1VbeOGpntt9d/V4nA5+0nUFphVTYbTy2/Ant/l+fry2jYlvLyrwWcVNhfGCVp4aw8dbd3cDp8Lmj4wBh1vGu+adig7uLu4nff+vtA8KrZnuVjV603pw80GK7kFLjixOOxo8A2XB02clIe8FJIDwGb7cNhKISMiqI8=;tQX+Ok1exdibmfNFcl8g9g=="
 ---
 

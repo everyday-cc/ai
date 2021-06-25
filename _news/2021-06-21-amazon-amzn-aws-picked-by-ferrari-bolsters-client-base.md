@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/9517bcb00e416bce0b8c12225ce13ffd_M.jpg"
         width: 375
         height: 250
-        isCached: true
-  - title: "Ferrari races to cloud with AWS pick"
-    excerpt: "The two companies announced an agreement for AWS to serve as Ferrari’s official cloud, machine learning (ML) and artificial intelligence (AI) provider, according to AWS parent company Amazon. Ferrari will use AWS tools for designing and testing cars and adding a fan engagement platform to its mobile app."
-    publishedDateTime: 2021-06-20T19:52:00Z
-    webUrl: "https://www.crn.com.au/news/ferrari-races-to-cloud-with-aws-pick-566195"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/image16x9.img.1536.high.jpg"
-        width: 1536
-        height: 863
         isCached: true
   - title: "Ferrari confirms AWS as technical partner"
     excerpt: "The Scuderia Ferrari Mission Winnow team has announced that it has entered into a new technical and commercial partnership with Amazon Web Services which will see the two parties work on a new fan engagement platform."

@@ -51,20 +51,6 @@ related:
         width: 615
         height: 397
         isCached: true
-  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
-    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
-    publishedDateTime: 2021-06-22T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
     excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
     publishedDateTime: 2021-06-21T22:36:00Z

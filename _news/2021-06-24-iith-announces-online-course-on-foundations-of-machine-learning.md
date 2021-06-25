@@ -66,7 +66,7 @@ related:
   - title: "IIITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "The online course is open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology, Electronics Engineering, Electrical Engineering or other allied branches from any technical institution in India."
     publishedDateTime: 2021-06-24T17:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-iiith-announces-online-course-foundations-machine-learning-/2021/06/24/9397647.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397647.htm"
     type: article
     provider:
       name: TMCnet

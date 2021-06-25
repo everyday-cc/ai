@@ -19,43 +19,115 @@ topics:
   - AI
 
 related:
-  - title: "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025"
-    excerpt: "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,"
-    publishedDateTime: 2021-06-24T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23"
+  - title: "AI Chip Market New Innovations Trends, Research, Global Share and Growth Factor"
+    excerpt: "Research Nester published a report titled \"AI Chip Market: Global Demand Analysis & Opportunity Outlook 2030\" which delivers detailed overview of the global AI chip market in terms of market segmentation by type,"
+    publishedDateTime: 2021-06-25T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide AI in Healthcare Industry is Expected to Grow at a CAGR of 51.5% Between 2020 to 2026"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
-    publishedDateTime: 2021-06-21T14:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-ai-in-healthcare-industry-is-expected-to-grow-at-a-cagr-of-51-5-between-2020-to-2026-1030539872"
+  - title: "Artificial Intelligence in the Education Sector Market Types, Recent Trends, Future Growth Analysis, Industry Analysis and Forecasts 2027"
+    excerpt: "The global Artificial Intelligence in the Education Sector market research is carried out at the different stages of"
+    publishedDateTime: 2021-06-25T07:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-recent-trends-future-growth-analysis-industry-analysis-and-forecasts-2027-2021-06-25"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
-    publishedDateTime: 2021-06-23T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Analysis, Share, Growth Strategies, Geographical Analysis and Forecast 2024"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence Market Report explores the essential factors of the Artificial Intelligence market considering such as industry situations, market demands, market players adopted business strategies and their growth scenario."
+    publishedDateTime: 2021-06-22T19:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-share-growth-strategies-geographical-analysis-and-forecast-2024-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
+    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
+    publishedDateTime: 2021-06-22T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Aviation Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
+    excerpt: "Market.us has to return up with a brand new report specifically Global Artificial Intelligence in Aviation Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."
+    publishedDateTime: 2021-06-24T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
+    excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
+    publishedDateTime: 2021-06-23T04:42:00Z
+    webUrl: "https://www.openpr.com/news/2311364/outlook-of-global-emotional-intelligence-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
+        width: 620
+        height: 350
+        isCached: true
+  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
+    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
+    publishedDateTime: 2021-06-22T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Artificial Intelligence (AI) Market in Manufacturing Industry to 2025 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence (AI) Market in Manufacturing Industry 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is ..."
+    publishedDateTime: 2021-06-24T09:28:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210624005703/worldwide-artificial-intelligence-ai-market-in-manufacturing-industry-to-2025-key-drivers-challenges-and-trends-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "/4dfep7KgsgPuGHYSCAcFPhpBiVBk5qxbLjldSOh4Zrwc0RwO6l6ARYDs8b9Uc+VVo9dNRYyvAkHHpLhOrhax+3oB9uDdEKmN6RBwOqhWV3Xdyo+rTNj7qRMlttO6mPNTgYrNcQoCXFoIgDyGoV8CyQaLv+ROs4v9N+bJO4pNGw+cZKmK1rYIsOzyU9yLVXOFQqQXdEX1NPwlS7Dovibl5NVZR6eY0RNYVQjl48h8JsBmGCu1MZ/fk0WPzwOyDN+9Tg11CoU4m8BGutI8NHDh+v4NEl2Ilh0o1sK0pDNYGPh2wyDKHyekh7dDWprYrnTOhR1zl8cTUOw1MaF40QO09fFzii0s1CxsaE9ctzdnEk=;aJbXkySOstWu9DFzPeWsTQ=="
 ---

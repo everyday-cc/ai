@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
+    publishedDateTime: 2021-06-25T13:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-service-robotics-market-to-reach-110-4-billion-by-2026--301319783.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1550686/MCP_6565.jpg?p=facebook"
+        width: 1536
+        height: 803
+        isCached: true
   - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
     excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
     publishedDateTime: 2021-06-23T15:30:00Z
@@ -51,15 +65,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Global GPU Database Market Size, Share Valuation to Reach USD 279 million By 2025"
-    excerpt: "The report GPU Database Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides GPU Database Market Growth and information corresponding to market segments such as geographies,"
-    publishedDateTime: 2021-06-25T09:42:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142680/global-gpu-database-market-size-share-valuation/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 14
 
 secured: "z98tFYPg6ZmOttyeBkLMuX/B3BhoS9ZAXSbTPQ46m4S9PQXj/vX6bHKvrogPy26Ti/2Ay9Ahq9Jhz7s58IsFQibAEwwU7oMotVcnghhr4yIeG7d1I1GZdK6QvwVQhELkaNlGSmkQPXukrY7mA06MpKVyi/TIlLRWUcERc38VfUrWv+L5ZjtZ2uof025ReWBavw2GlgE6JbQAcjDTsDlyTN1EsFM5xBim4vKqwzQr//IBmO/o+SsKNCEMLVHwmxTgYJ03LQ2YW3vnk7D1gk1N96UhWjuU7NWNQ4SmbtP4/WLBGGz7EMZg0MAT11OlX7/SlYK+YBxR4qyZXLCzBucLMJAOeJ81J+FsnmkV7NwYmhY=;G9mogLoXDUC/i/1Rd+NeKQ=="
 ---

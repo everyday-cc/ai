@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-27-top-50-use-cases-of-artificial-intelligence-in-diverse-sectors.md",
+      "title": "Top 50 Use Cases of Artificial Intelligence in Diverse Sectors",
+      "excerpt": "Over the past two decades, artificial intelligence has created an irreplaceable spot in humans’ daily life. The use cases of artificial intelligence, machine learning, natural language processing, etc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-50-use-cases-of-artificial-intelligence-in-diverse-sectors/",
+      "originalUrl": "https://www.analyticsinsight.net/top-50-use-cases-of-artificial-intelligence-in-diverse-sectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-asml-and-ibm-hardware-brothers-in-arms-for-more-than-four-decades.md",
       "title": "ASML and IBM, hardware brothers in arms for more than four decades",
       "excerpt": "Last year, its revenue in hardware amounted to 5.5 billion dollars. This is a mere 7.5 percent of its total revenue, but it nevertheless gives a high priority to research in this area. One would rather expect new nanometer milestones from Intel,",
@@ -1417,58 +1451,6 @@
         "name": "Dataquest",
         "domain": "dqindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
-      "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
-      "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
-      "originalUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Turbonomic8-intuitiveUX.gif?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/30/ibm-is-acquiring-turbonomic-to-advance-aiops-agenda/amp/",
-      "publishedDateTime": "2021-04-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

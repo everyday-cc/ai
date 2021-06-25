@@ -35,6 +35,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible changes in human faces, it makes an AI-driven facial recognition algorithm misrecognize persons."
+    publishedDateTime: 2021-06-25T12:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/25/9398013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
 
 secured: "zhez4HmrASOEJAWxgpF0Xt2Dd4TWC/ttIFqwzsoidJbs4qc6iYMDOtvgFTf9Rmzug2C2BVwjJXQdSR31xgzyRNJ9nDfACk/MbOdmz2ZtHkPXKBfJe4h1M1A/zd6m6Im4J3G6E9S2NGY64LccjQnNcY1Ij2vkIPbZM0pqT9QGWfhE4MEaMRPoyINXKxHe82Oyv20QEHGr/LhOQqP4OMLtTrEQK/bfUjTxcwy/rj2zWqQV74tqPPDzBfjqPzN6PCDdiRk1n3ib5s5O5f//ci28I8xgvOHfSP8ZQrCGZtM8nuk0hACm6GkLJAw83t6NwC85icjDuwEdBPsRabJT7yftfPMkkmZFWG+YUqzZ34BOxEA=;DDat4JHYlGmDYlG00f3TWA=="
 ---

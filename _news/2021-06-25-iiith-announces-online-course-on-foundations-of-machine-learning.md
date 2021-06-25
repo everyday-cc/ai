@@ -3,8 +3,8 @@ category: news
 title: "IIITH Announces Online Course On Foundations Of Machine Learning"
 excerpt: "The online course is open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology, Electronics Engineering, Electrical Engineering or other allied branches from any technical institution in India."
 publishedDateTime: 2021-06-24T17:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iiith-announces-online-course-foundations-machine-learning-/2021/06/24/9397647.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iiith-announces-online-course-foundations-machine-learning-/2021/06/24/9397647.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397647.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397647.htm"
 type: article
 quality: 19
 heat: -1
@@ -73,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "GFTa2QgolXwsJjp52mTW+IYc0yuuD8AIZ0crhWHO/NmMGr2IiG0oHhI/ZwpJ6gDRSjwRvkylBMlHFMrl2yWxMBv0/zdw9PIU4TTNpu383vEsy/7YDUiKc/UlTN0MKtrFmVX5goBL0Iyfbeq24y9E+HPhxSgsm6yZg+dSkkJjjGRVbOe0MWdxm2gd13NXNznuOp06gJuEDS9Pvd0vtEWBivgVgvKUcfVc8dn1O0yu5fyo3Rnj7rfrtvaB9mosA4FzPTsD5i592se3Iry39BQwTetvCyl7oJXr0cxYj2CCCyrmc1GKUEX5DCFEHJjClmqzA1sSU8Bfps7b7hmj3iYeeizyD5S71tXO7RNqz3wNtkmgEj+iZsRmxUAiHqAXam5BqK/PjWsqGkZ1Or1dbgWnfy3MGzs/rWNtFs1Rn0vLmO5KuSb7m0tZO4b4JAn9ISTewLLQ3oanikIVzyqfsRi6DK8lgjaWCpyIo4h7yAZp91WtuzHeYqAfNJkhUxAZPnMxTr6qUHgHxAOeR9kBT5yahw==;sHQeZK7kZWyT3IUwWEVixw=="
+secured: "IMIcozziAP4Qg9tlu+LocA8Ci3RZUiFdJNeWLiJ6HQG7nE4KOQRQB+4mvyiyHFGcqKl0Mhp8eGjpQMyr/w9hQmNjEV/Yh4kjU29+hiPMHsgDE2AxMrqh/GDMk9ssdku0MIabi0mhv+ynijICJdjsTu0znxxrN828BmeFwlTUFlfSXF4S0izoMvFErOANNnHrc3eMRmEvuQrz+5lQ7Idvsi5YilWh6OIG+phZWkOZifJ7fBD7LWah05nSB1Yq3hI0H0yrCIYk8fKD8l2wyKeB4OqpTavXyp8OwjJZhFq1AmiCqX3CNVdxjvwtfyy4HPzUGAZcaFMKlapSJSMISGX860WcbvK1nomZSgbqZbjYhsV86ndB6PasLQ9LdHm2vVttI0c6rdf4A7lBxgxD8ICNaFtI/62SjFs7kULkLlMYlhDtnLECd8sUYBWLv5d9VYVO+V3lr0VrIRRGTj0xGIuhVjp3u5068AFcvqVzxme4aooQpWU1yZR3Aqiwk5wrhE7rlx4RNaNa5bcLE1ZQDTlq4g==;4Dq1OZKPG9sM8nMBeeTJSw=="
 ---
 

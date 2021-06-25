@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-publishedDateTime: 2021-06-24T20:28:00Z
-originalUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
-webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
+title: "Artificial Intelligence Breakthrough Gives Longer Advance Warning of Ozone Issues"
+excerpt: "Ozone levels in the earth’s troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+publishedDateTime: 2021-06-24T18:43:00Z
+originalUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
+webUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: University of Houston
+  domain: uh.edu
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
+  - url: "https://www.uh.edu/uhnews/earth-as-seen-from-space--must-credit-nasa---uh-ozone-research.jpg"
     width: 720
     height: 540
     isCached: true
@@ -87,6 +87,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "kk0fv45lu31fwR8LPHcBtuOxdk+8PpAMaGpsN13KUtZDtjuaCN6hj7Adyhk6SbrynQpIRmZVDaCV5/l++9oaCYLegFkmF60HE/W9uOYht+FrBw8aie0Tzfz7b7Lme3ZL4Fkspdb0xXgq4xuIQ3NqzDdG8yzoyAJyhQ50yS+j5E3hSPSORPg3RP6abGM6a+WaqC8n0cQeVXfg9Rie0BXagC6L17ZyqCjwAU1oI5+/ysOxYn47sr2T0B2G2MbaAdpyb24+ZvMD2Y7/fFir4TzY7vWYHS/PN1Z2fTq/1SLeBNAOSqd2qvT9cGMkEtD1YdDucSZr+KnNgfe26ytZoyYxpMzhyYTzdBzMPElYi+ErQ01qre2sAsOmnjsTIsD2K7orHnLmI/YVd+9YxPn8BpggLboFUhwYGWoZkNc070lzL599FA+KqSD2EDMHg5xNuF1ixdxKGNvPOL3EFZSuZ6ikT6BjualGex/wdc3BrpcZtZMUwD2mRBORIgv/WsZcibbb2Ifq/U+HngCHTmci66JGVw==;5hmNxtQBEmETxQrOLH7nvw=="
+secured: "D3ucyPuzx4AzrerME5SG95xXu+2rnrIPLvyHwlmwfEdMdPuxdVzA1KSW2/gPONWrEDcejhHyQpTEMYQS5iIexr+VIZJGJIsAYDmJFM3e0gpIyegM6CVkxUCXBbWjTtM+vbLFRBsxZsKpdh8OqPL1fCvAeMqaFs7eWVv1tMaCAmqGOt5ms26nBM3Gm6stG5s8TsoC+oePObP4orkSxsJEEMju2wluGaO7AS+F9ck9ex2OtxySB1cH+0J9vyrWdFFxZtadkj469dfJPA8Y8Cu+lTMVvL5HUnMR9duvdr9dULNk+cBIAQuRI5j9ITeUICV7RvM1VXqYAV8Gn1PKoq8Sw6RGGd+xMZ6PBldCd2FF1OA=;qCWjgmlNC9BzjdLTgcMqMw=="
 ---
 
