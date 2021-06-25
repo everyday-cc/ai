@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chauvin could face decades-long sentence in Floyd’s death"
+    excerpt: "Former Minneapolis police Officer Derek Chauvin is set to learn his fate as a Minnesota judge sentences him for murder in the death of George Floyd."
+    publishedDateTime: 2021-06-25T15:38:00Z
+    webUrl: "https://www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/"
+    ampWebUrl: "https://www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/AYGCJ3BSIRA4DKFPYXHUTIVN4I.jpg"
+        width: 5419
+        height: 3613
+        isCached: true
   - title: "Chauvin could face decadeslong sentence in Floyd's death"
     excerpt: "Chauvin, 45, faces decades in prison, with several legal experts predicting a sentence of 20 to 25 years. Though Chauvin is widely expected to appeal, he also still faces trial on federal civil rights charges,"
     publishedDateTime: 2021-06-25T09:51:00Z
@@ -45,8 +61,8 @@ related:
         isCached: true
   - title: "Derek Chauvin could face decadeslong sentence in Floyd's death"
     excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd' s death, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
-    publishedDateTime: 2021-06-25T11:43:00Z
-    webUrl: "https://westchester.news12.com/derek-chauvin-could-face-decadeslong-sentence-in-floyds-death"
+    publishedDateTime: 2021-06-25T15:22:00Z
+    webUrl: "https://brooklyn.news12.com/derek-chauvin-could-face-decadeslong-sentence-in-floyds-death"
     type: article
     provider:
       name: News 12 New Jersey

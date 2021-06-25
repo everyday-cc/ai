@@ -73,22 +73,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Aveni backed to launch AI speech analytics platform"
-    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business."
-    publishedDateTime: 2021-06-20T22:02:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
-    type: article
-    provider:
-      name: dailybusinessgroup.co.uk
-      domain: dailybusinessgroup.co.uk
-    quality: 59
-    images:
-      - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png"
-        width: 794
-        height: 512
-        isCached: true
   - title: "Edinburgh Fintech Aveni Acquires Investment to Support AI and Natural Language Processing Platform for Business Speech Analytics"
     excerpt: "Edinburgh Fintech Aveni acquires investment to support AI and Natural Language Processing Platform for business speech analytics."
     publishedDateTime: 2021-06-21T15:04:00Z

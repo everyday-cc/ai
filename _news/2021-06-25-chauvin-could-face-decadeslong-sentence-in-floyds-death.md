@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattlepi.com/news/amp/Chauvin-could-face-decadeslong-se
 cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chauvin could face decades-long sentence in Floyd’s death"
+    excerpt: "Former Minneapolis police Officer Derek Chauvin is set to learn his fate as a Minnesota judge sentences him for murder in the death of George Floyd."
+    publishedDateTime: 2021-06-25T15:38:00Z
+    webUrl: "https://www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/"
+    ampWebUrl: "https://www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/AYGCJ3BSIRA4DKFPYXHUTIVN4I.jpg"
+        width: 5419
+        height: 3613
+        isCached: true
   - title: "Derek Chauvin sentencing: Ex-cop could face decades in prison for George Floyd's murder"
     excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd's murder, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
     publishedDateTime: 2021-06-25T11:52:00Z
@@ -45,8 +61,8 @@ related:
         isCached: true
   - title: "Derek Chauvin could face decadeslong sentence in Floyd's death"
     excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd' s death, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
-    publishedDateTime: 2021-06-25T11:43:00Z
-    webUrl: "https://westchester.news12.com/derek-chauvin-could-face-decadeslong-sentence-in-floyds-death"
+    publishedDateTime: 2021-06-25T15:22:00Z
+    webUrl: "https://brooklyn.news12.com/derek-chauvin-could-face-decadeslong-sentence-in-floyds-death"
     type: article
     provider:
       name: News 12 New Jersey

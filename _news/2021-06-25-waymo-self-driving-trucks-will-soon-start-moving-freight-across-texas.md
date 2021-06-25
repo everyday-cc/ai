@@ -41,6 +41,20 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Toyota-backed self-driving startup Pony.ai considers going public in the US"
+    excerpt: "The startup has also tapped Lawrence Steyn, vice chairman of investment banking at JPMorgan Chase & Co, as chief financial officer."
+    publishedDateTime: 2021-06-25T14:09:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/pony-ai-considers-going-public-247706/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 35
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg"
+        width: 1080
+        height: 540
+        isCached: true
   - title: "MBTA officials considering self-driving subway cars"
     excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
     publishedDateTime: 2021-06-22T09:52:00Z

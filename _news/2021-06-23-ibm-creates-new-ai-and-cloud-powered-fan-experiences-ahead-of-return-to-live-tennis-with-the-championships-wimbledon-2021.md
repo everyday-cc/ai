@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
-excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
-publishedDateTime: 2021-06-23T13:15:00Z
+excerpt: "To help answer these questions, for the first time this year, the AELTC will leverage IBM Power Rankings with Watson, an AI-powered analysis of player performance presented as a leaderboard ..."
+publishedDateTime: 2021-06-23T13:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
 type: article
-quality: 45
+quality: 43
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - IBM AI
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
@@ -72,6 +71,6 @@ related:
         height: 669
         isCached: true
 
-secured: "3JT/5y0FpCQAb8Sdb1rLanosSx+Pb3Qrg+23JSJa4nGKMhRQocARe4hj2uqMgu6gn7slAqvpDSCceKL0c/SZmZiDxtYC4sOejP1KCjOi5m9uuQKs/xsneurz3+Dydf/8gsUjw3Mzv/P3EISuF0oxlIH2RN/RuiBrjtkLHrRYQWBxyXOe4C53cHUfEgiEw1szGy7/zGBSJ8HJSwveISpjF01iMJPJzn9f74TUOidGkUjjQUgAPS0DzJWnv/Rww/ysKIbhKApcZbaat22iQnVjizf2mkFlNnwPe2cJSPzbQwqJu4NkF1fFS8l/axq8K+zZE93ja5GlhQ0kt0maoicOuGcynRrrwzpjbIKwiWhA1mLJN8ldAJlyj04hp0dhXKwl3nwvf7PCWnX1ml8naJPQ2AqIpbwtSVLZZfaUEynPQZKLK8D7ZtKKJiJSfXUO6Ax1t12nqUOpZKKaNPAkwh0jQc38t83/8+w62fk44Y5HPH5yjzUjinstQ+FHfK4L7geOxz19e5+tmBtpqMtKY53SOw==;7gHM30fSc90tlXvkQbH+/Q=="
+secured: "VAfpuvv26PCHKyUyxz99hWwbY2OR+KwuOloHSEROwvDlAJxVd/fkwubI6WDnR1vbok6xjShnefV5ahhiBOsbtn0PtzC2Icl4CWCX3CCoOMX9hvxCNhuCgtZEEoMlmwxwpU5hDgQWwyNYnJRprBjDce7jKnbyjaNCEZt8KpyTXuDCFw7uGm5kM9OCaY4j16fFUdlUd5/b+oW44AsZwDOOWcaqIfNuVvOGnw2KKfxyF7n2qEzAy4vXIPJPc4tUwrDKYxyQbBEC2aLvsGKrT6fKqEnrl/6XJ5soI5N6J+9/evXj1mGEPCPEfopgpv49+IzKucj2zhuAAj2Ktgkjt3CLjD/ErVLV3vvT/3oOgvP88gE=;mGQKi6H9n+wM0WrzZsa/mw=="
 ---
 

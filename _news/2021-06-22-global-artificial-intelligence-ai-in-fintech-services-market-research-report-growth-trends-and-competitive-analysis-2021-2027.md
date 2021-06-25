@@ -36,6 +36,20 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
+    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
+    publishedDateTime: 2021-06-25T01:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
     publishedDateTime: 2021-06-25T01:58:00Z
@@ -67,20 +81,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
-    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
-    publishedDateTime: 2021-06-25T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
     excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
@@ -144,15 +144,6 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
-    publishedDateTime: 2021-06-23T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z
@@ -227,6 +218,15 @@ related:
       name: Infosys
       domain: infosys.com
     quality: 19
+  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
+    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
+    publishedDateTime: 2021-06-23T11:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "RA90OVkOE1J1A+CTL31LsGaw0gLj+1KyRSl02X7Rz86sywSSkpgHcLNt3XnX/p9FysPpQU108ZWBujfJ3R4ceJKrIvYw2JUR0wrRNrIJ+q3WRGOYwf6iMicB8U1HrUn5Bojvhxo3VSR9P9V9+pFfYC1EIiIW7PP4b8EqustdaO3LSCPzAlIqY0vz1bWBmYFkhh7kk1D3eafc7NLS2jbW3WTMMYTl2HCF/YTGoavftRJ4ogv8nDcxpi0cxJBKRGMVaonA+shTAsq9QTfL5Q/DVHnV6Hd2j6DbmicrSO+mjy8zUvlAi7/Qs93Z2W8Ay0XjV5amAsB5PChpHJTiXS7GzmJaExr1yHm6eCqGN4tbN38=;lZIa8dRjUYWe1kQkrhAWLw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-abo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart boosts shopper acceptance of substitutions with deep learning AI"
+    excerpt: "Walmart executive Srini Venkatesan shared in a blog post how the retailer is using the technology to improve customer satisfaction and streamline order picking for online grocery orders."
+    publishedDateTime: 2021-06-25T15:12:00Z
+    webUrl: "https://www.grocerydive.com/news/walmart-boosts-shopper-acceptance-of-substitutions-with-deep-learning-ai/602429/"
+    type: article
+    provider:
+      name: grocerydive.com
+      domain: grocerydive.com
+    quality: 53
+    images:
+      - url: "https://www.grocerydive.com/user_media/cache/b2/ab/b2ab94966a2f1240de0604e5249a8ee9.jpg"
+        width: 770
+        height: 363
+        isCached: true
   - title: "5 Ways AI Technology is Making Our Buildings Smarter"
     excerpt: "Smart technology has led to the most notable changes in our lifestyle. For more than a year now, millions of people have been working from home and life has been led largely online. During the pandemic,"
     publishedDateTime: 2021-06-24T18:50:00Z
@@ -43,6 +57,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/57/05/21164368/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Walmart's new AI predicts grocery substitutes for shoppers"
+    excerpt: "Big-box retailer Walmart is using artificial intelligence to aid customers and personal shoppers and better handle still-surging online demand for groceries amidst the COVID-19 pandemic."
+    publishedDateTime: 2021-06-25T14:49:00Z
+    webUrl: "https://www.foxbusiness.com/technology/walmart-artificial-intelligence-grocery-substitutes-shoppers"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 37
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/walmart-.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "23VuzMDG/1JZQcn8sDGYh468UhHaXfOOpQUqb53ZFBEW1q+C3e4UE+U58XgNaBsrs+/MA4xbFrF0+ATclUXTafQXnSb2WZgcwd0Ia5KJ2u8/fjn9EoAE4/hd9R2km8QgOQD7dNswWA3A2Mfc0hADUg1oDS1jjhBnhg+H65QXxVkqOcHptdUZU0ERIbpcitK44fWUoFnPEzIW8Ble6lKNgXPDhHdVP5FTsPS6PdLdIx5WPhwFAvdfIFa4hDhFDcn0iWHmt6NaYiJnI2+a0GplyaU3gb0OZeAfzQg1dyXI/SVa8sgqLAk9e8CmvN1GPnYJ2JxhUXSLbKIj3kCfiLrUmd9fvTBNdWL0Iqd/5+N9TgDeltuL4BEw0QRgdEkneE8tm0L/lWNmmN0qnQ50K0KbkB7yBjuH1ah41hqXyx+S53qcVNcx5s/fBxuPnu7153ZNzYZt53Zs3ttqpSdEoS07pOQTJN4zafSVAC4qwJJHSWWPbdVSlldLpxVbNvsZQ+Eq2/W3Ein5ACxPdbPsP+OwMQ==;FzlGL0YG6Gg//w88ryzKDw=="

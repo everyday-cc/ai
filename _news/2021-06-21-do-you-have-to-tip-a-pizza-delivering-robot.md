@@ -57,6 +57,22 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Special delivery: Your next Austin take-out order could be delivered by a robot"
+    excerpt: "Refraction AI, which makes AI-powered delivery robots, is operating a fleet of 10 robots in the South Congress area to deliver take-out and groceries."
+    publishedDateTime: 2021-06-25T14:00:00Z
+    webUrl: "https://www.statesman.com/story/business/2021/06/25/your-next-austin-take-out-order-could-delivered-robot/5306065001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5306065001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5306065001"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/23/NAAS/234502da-4d06-487d-b6bd-95c5840b01df-RBB_Robot_delivery_034086.jpg?auto=webp&crop=1999,1125,x0,y97&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robots Have Arrived In Austin, And They’re Delivering Pizza"
     excerpt: "In a narrow glimpse of the increasingly automated future awaiting humanity, 10 silver robots shaped like ice-cream carts are delivering Southside Flying Pizza to hungry Austinites in Travis Heights and the Central Business District."
     publishedDateTime: 2021-06-24T14:09:00Z

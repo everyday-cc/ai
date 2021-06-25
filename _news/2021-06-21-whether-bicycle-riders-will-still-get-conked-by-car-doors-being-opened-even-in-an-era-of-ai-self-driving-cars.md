@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Absurdity And Misleading Baloney About AI Self-Driving Cars That Will Be Uncrashable"
+    excerpt: "There are those claiming that self-driving cars will be uncrashable, which sounds nifty, but it is nonsensical and worse still it sets false expectations of what self-driving cars will be able to do."
+    publishedDateTime: 2021-06-25T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/25/the-absurdity-and-misleading-baloney-about-ai-self-driving-cars-that-will-be-uncrashable/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d2c5bda7a6618a4767c3cf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2403%26cropY1%3D110%26cropY2%3D1462"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OrP0aKlcQFml4zp4wIjQtJFZEoEFTlqF+1V0F4lu+AO8hWxaST0YAVI4hn0J9JL6W2JeDb2+KDYJ6etv6oNOuK4qE82gfxZGqBsgmD4KReaUgK+b8nrZ44gqbXIjy/yizjtiqp0FFLsBsC3eCcXjSjIH9Io1IlSqh52bmnKrdRTwSH4g6ib1LJ2rQGT8dyJIQ9r9aiSKipoJyYJhjg+dRGHjRm2wg6zW8Zu/+xfi33crOVAGzyinWRYPIWYm8bNWrRnoFxUNVAoZj1syj4jy3PMSoJPMq2DKvGAA+W83GIJ5Cy2bcz/CojouTPOnrjW7OakA0N5+aw6E7ikB3M3RGz9UJiS8rEOFOSigPMDvOHZDb3T69xRiW4kJgKa/zOuObUkNtjPq49/OFXcsGyAGcwaXClHBavErBKqjdt8PXPyim8bPtqdieTiWJ3EQSb9Tejh/+e2fOCDyX5wipK/ocv6H7QYaQ6R1MX8EoEW/b8BDtdzzh3otOAgDvWrJm6EfdI0+I8zBmamgdeabfwC+bg==;buQnAbclSFEsWdr39MJ8IQ=="
 ---

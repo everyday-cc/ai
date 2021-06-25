@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Web Services innovates Ferrari in a new partnership"
-    excerpt: "Ferrari has chosen Amazon Web Services to improve not only the performance of its cars but to speed innovation across the entire organisation. Ferrari will also use AWS’ services and infrastructure to streamline designs and test cars to give customers a safer driving experience."
-    publishedDateTime: 2021-06-20T22:42:00Z
-    webUrl: "https://itwire.com/business-it/amazon-web-services-innovates-ferrari-in-a-new-partnership.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/9517bcb00e416bce0b8c12225ce13ffd_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Ferrari confirms AWS as technical partner"
     excerpt: "The Scuderia Ferrari Mission Winnow team has announced that it has entered into a new technical and commercial partnership with Amazon Web Services which will see the two parties work on a new fan engagement platform."
     publishedDateTime: 2021-06-24T07:00:00Z

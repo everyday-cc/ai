@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
-excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible changes in human faces, it makes an AI-driven facial recognition algorithm misrecognize persons."
-publishedDateTime: 2021-06-25T12:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/25/9398013.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/25/9398013.htm"
+excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By"
+publishedDateTime: 2021-06-25T12:38:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
   - AI Ethics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1551025/octopus.jpg?p=facebook"
+    width: 798
+    height: 419
+    isCached: true
 
 related:
   - title: "AI Dreams and Reality: Investing in Advanced Technology"
@@ -46,6 +52,6 @@ related:
         height: 628
         isCached: true
 
-secured: "l2fEmfsUYyU0ihBCQHW4OPILPC6sGdSZcdKZgEDUIpVLt6HWTHVgjWM4PTAhCg+lY7HvgF4I8lauYcxmk39fR0+5eKgObfLQRe4kruC9+GNTfEsuD8/HL/Vqfla6bKxujKV6shdtbzq5TFUPKYILRtmZwwn8Wluy/7g6t9uzwx9H4T697AHsXAGHDCw40y5i7KKKnkzVRDBQdAoEehC5p4WEvgcSH4oYZghYkbu8jYTRIOJlLb/pYkSxK0SiODVV1OIMgVQgP/8TPtSSndIFdVEKwnW4akyu/EFNw8PtF0mv7GVFEhnKDY+c2E4qScTQ/HYnwEDxwSgmboYjL7eAkrISA65NTt/wUbh7BW7+mWU=;eXCiQ8SWpSLiF5SkiQxybQ=="
+secured: "jpXvTKau/fNyY253zt1DxyMvLnfH/8VJGE84pH8Eg/IwDsuAutikxauxQXkNf74SxjqUeeW/DAoQxhmm9XpMhZaE2V7w7SL0a7lu+wpK2y0xoSCgWP+u9VSgx3QuEM1T4+s/SqE2q9+rMDzSH0r29Pd7uO2r8/HrR0eE/m4HEJjnvOGMOANRATHLcqhDXvLboNjbL2T5mILi51p/xAm8Hw300QRGJHkbh9BSE40n6IdX8ufITdWcEHjGELTfA776C14zNL2t7NxewtVVQcdzLQbXK30JW+lwAtTk/Sc/hC15eCxrqzTnxU8g0O3/Ci03phUNzNtTOfGU1GLg8oiojkM5F+7f6KNE2esBD6lg3A0=;8ka309I+GpQZwxjOaCNHHA=="
 ---
 

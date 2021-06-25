@@ -30,12 +30,12 @@ images:
 related:
   - title: "NXTsoft and Upstart Partner to Streamline Delivery of AI-Based Lending Platform to Banks and Credit Unions"
     excerpt: "NXTsoft (nxtsoft.com), the market leader in secure, comprehensive and complete API connectivity, and Upstart (NASDAQ: UPST), a leading AI lending platform provider, today announced a partnership that will enable Upstart to more efficiently implement its all-digital AI lending platform to any U."
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210623005369/nxtsoft-and-upstart-partner-to-streamline-delivery-of-ai-based-lending-platform-to-banks-and-credit-unions"
+    publishedDateTime: 2021-06-23T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nxtsoft-upstart-partner-streamline-delivery-ai-based-lending-/2021/06/23/9396222.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 16
 
 secured: "0/vZsarua+p0z4NX+jRULwo9hCOQaqlfoH4DcUKI8FYPb56p8713ZQ1YKnKqaqOvDQIBY2D0TXrIBsOJ6z3apv3VL5AwVrdY4d/Y3IWySmtIHORNo6bqgVkXwR7uxjnOgYwK/8P/2UJmkTdsXdEhCHESj7T8gJcz9R5pxPDuAqXC7NHNOm7mi0Tbif6TuUDVgWw/LD/mrGw4wcqRudomv1u0TvhcuC9/fdeHe5P90RJp/rwZaI8A/9ekhODwTkM2SrNCgw0o4VN9V7uqn7Hc7PJaE/t9yAixKr7h+ZiOYPxYgbcIJdbPZkRQ5eO2CunwBfwQUSSBfEb23mIVbEyax3wH8fi9AgBNzbcgrPRf56g=;wNEbCf86VBO18o7PA/RMqg=="

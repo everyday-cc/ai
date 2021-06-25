@@ -51,6 +51,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
+    excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
+    publishedDateTime: 2021-06-21T14:45:00Z
+    webUrl: "https://www.ttnews.com/articles/amazon-talks-buy-stake-ai-truck-driving-startup-plus"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/plus-automated-truck-1200_1.jpg?itok=MG-kALv_"
+        width: 470
+        height: 246
+        isCached: true
   - title: "This is Why Miners are Investing in Artificial Intelligence"
     excerpt: "In addition, “The mining industry is seeing an increase in artificial intelligence (AI) investment across several key metrics, according to an analysis of GlobalData data,” as noted by Mining Technology."
     publishedDateTime: 2021-06-23T15:56:00Z

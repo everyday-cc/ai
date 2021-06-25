@@ -62,7 +62,7 @@
       "originalUrl": "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -356,48 +356,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round.md",
-      "title": "AI Powered Lender for Merchants Myos Raises $30 Million Series A Round",
-      "excerpt": "Myos has raised $30 million in Series A funding led by Fasanara Capital and Xploration Capital. Tomahawk.VC and a group of new and existing investors also participated in the funding round, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/markus-spiske-Berlin-Germany-Greetings-Card-Love-copy-300x292.jpg",
-          "width": 300,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/",
-      "publishedDateTime": "2021-06-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-ai-may-soon-predict-how-electronics-fail.md",
       "title": "AI may soon predict how electronics fail",
       "excerpt": "Think of them as master Lego builders, only at an atomic scale. Engineers at CU Boulder have taken a major step forward in combing advanced computer simulations with artificial intelligence to try to predict how electronics,",
@@ -636,6 +594,57 @@
         "AI",
         "AI in Education",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-how-ai-can-help-with-your-digital-workflow-transformation-initiatives.md",
+      "title": "How AI Can Help With Your Digital Workflow Transformation Initiatives",
+      "excerpt": "If organizations want to get further down the road (faster) in their digital transformation journey, they’re going to need fuel. And not just any type will cut it: They need artificial intelligence. Over the last few years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0a4b2ce6895e22530f024%2F0x0.jpg",
+          "width": 1200,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/",
+      "publishedDateTime": "2021-06-22T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1104,7 +1113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {

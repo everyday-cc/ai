@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
-publishedDateTime: 2021-06-23T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
-webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
+excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
+publishedDateTime: 2021-06-23T11:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
 type: article
-quality: 42
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -38,6 +34,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d254faaf7245e73967c3cf%2F0x0.jpg"
         width: 1199
         height: 799
+        isCached: true
+  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
+    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
+    publishedDateTime: 2021-06-25T01:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
@@ -70,20 +80,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
-    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
-    publishedDateTime: 2021-06-25T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
     excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
@@ -231,6 +227,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "MMxfdzSdTZ8d+bB6RZ5SUm1/ukM4F3CHMDsUQzs7zdLxjfWj0XrXvixdxw4dLZv7q2IKOdFkZo/lgu/cA9PwI4fGoumuC2+mGv1YQXZRy01LmVYEwH1veUUFM8Y+VHvU5gbFy1uWe6fdMalE36JKAA33jQ4GOXcioxBe9+k/jrqdiSpnDtQ0u/jvWND5f+1tcuhSrP4snQerMWESAFhbM56JYyRzHnBDT5P5Ot8MtebqXrLw1OnKdJCXvw8+IslTy0XraS8K+JMXMC33umDE1dmbmMVMhFuMznfEcVUPOSsfAhvxQRiQdoRrMnR5VCoWGh0EkRzP0c9jMf/CAXuj6Z6z8u5AlSzxfsDnh8lqCAk=;/lHGejHkMWAymCJp+5kPtA=="
+secured: "1zoyPB7qdgYP/CZmNKxeVlj2JuznVxutLoKMK3CD2stede79uUZANjoVcI7SOEhRXoyi+vHsEFQMehXU2mlgZ/ipCiJjUktAa9jVnyIMaprxkXpgRT+Dg8URKGf5eShj7WSJH4+lB2WrNwuKceJa7qDcpChHeYJR3JvrA3eh3HGKT7VGreOJ+lqMWfeCTsqz1B8nTRSSp5fw+5mA6t40IvDEF4kOGjkYvabh8XuJLt5OAdV/wMy+j1wTB6Tg9DcEpz31m2gIFQWmFEb16tt2gqvCsJ5Rg/2rYYgoNfEKEcBBJUIGppwl1Qfi8Clx8OU1V8Pq0OV1nnKH1Bdx3UYD4JrhwNkf6a6AoR7BZQAosfI=;dpp+CQcfCrDLS2BRRT5Y4Q=="
 ---
 

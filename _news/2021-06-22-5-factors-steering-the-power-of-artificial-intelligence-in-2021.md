@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Challenge of Finding Top AI Leaders"
+    excerpt: "North American cities are increasingly important hubs for artificial intelligence (AI) research. The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing,"
+    publishedDateTime: 2021-06-24T13:37:00Z
+    webUrl: "https://huntscanlon.com/the-challenge-of-finding-top-ai-leaders/"
+    type: article
+    provider:
+      name: Hunt Scanlon Media
+      domain: huntscanlon.com
+    quality: 39
+    images:
+      - url: "https://huntscanlon.com/wp-content/uploads/2021/06/story1-12-e1624541818926.jpg"
+        width: 438
+        height: 274
+        isCached: true
   - title: "7 smart ways even small businesses can leverage the power of AI"
     excerpt: "Existing tools and low-code platforms make tapping into the power of AI an achievable goal for businesses of any size and expertise. And you might be surprised at AI’s flexibility—there’s much more AI can do for your business beyond powering a website chatbot."
     publishedDateTime: 2021-06-22T17:00:00Z

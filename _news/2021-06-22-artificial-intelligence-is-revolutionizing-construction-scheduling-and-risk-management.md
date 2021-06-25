@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Disaster response and mitigation in an AI world"
+    excerpt: "After the destructive California wildfires of 2019, the U.S. government put together a White House Executive forum to develop better ways of protecting the nation and key infrastructure, such as the power grid,"
+    publishedDateTime: 2021-06-25T14:37:00Z
+    webUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.html"
+    ampWebUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/disaster-response-and.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
     excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."
     publishedDateTime: 2021-06-23T07:00:00Z

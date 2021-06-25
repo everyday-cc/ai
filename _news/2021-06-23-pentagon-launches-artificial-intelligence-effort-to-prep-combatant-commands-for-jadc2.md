@@ -3,24 +3,24 @@ category: news
 title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
 excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
 publishedDateTime: 2021-06-22T22:13:00Z
-originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
-webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+originalUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+webUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Marine Corps Times
+  domain: marinecorpstimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.armytimes.com/resizer/VhwPC1AWLt6BV1bUhNwXBXDPKAc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
-    width: 1024
-    height: 681
+  - url: "https://www.armytimes.com/resizer/RHxQc7jHC8S-HEXJbDjY7_PTwAo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -68,21 +68,7 @@ related:
         width: 878
         height: 500
         isCached: true
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
-        isCached: true
 
-secured: "kJgqCDiEZktG6GBI34gSZEVPoyqetsOEOazSmP0Qg626Cftllzx0o7GXqEluTx6hZKeUj8fz17mz0BF08IeMepCCPSf8nLg6aWZawh4Myx27RH/YOX6tUGrQJm6QeKgPJadfD/TwSPzydlkDCuqHyE7cvb4DraWPXPLstSXkP51rmagXJCLGkV9h4MCbOWKfF4Ne4aePq0m6pTRpPqZpwHozxCs4/0DRwuu/3gIkO6+8sPcQ7SObeWzL/mt1k3rxFzgBxO+TJWT/pldLIzheIk1i3rHqhrs/IxeObkqLAfgZA7GTu9zH2fYhYLhOYljPNMaKpu3LE07yl9ZqinSCSm5ljki2V6bWjBIT0r0EOtxebHNji2IvQtIE6Ix5Er3QpyMuiGxxMhBx87LT0TWn4D7cW8+AyrJV3hC/th/Tx2WhWvPyoeM5TUzdmBXLQKZc8M4cHtb9gUtl9cmKoGb9CqC5OEPllSLRYXS8jVUcfNhwT1OTdI2GqfooYm11EVDOstbIS87uYHPt3D4gICTaCA==;C4WSi7XFbIP5BDuMYiHgZg=="
+secured: "9ID2S7nP9Qij9GePYvAn4dlsD0qvrZXKGBJAh/FwvB8HivYlyZNws2m2TozBiKmpx1uka++1g3nzsESx+qjFdyxaDYZsFZ2WfD3tsoRyVq+2SoM18Tb23W/RTVnfsf6Wz47/QFXLldTlsIXhIIlUxULsJJS7oek0aifhjUlcZWTVOY8sqIwr3Yzl2vnrwOS52DEacpY5y6DrkIBEnj+ys9IbTzthX6H7wdRjs7re4kk3WhPdUGFoji7q9m7xVvC1AhuGqfoTD3DcX1OzxCQhf17twV/ap7uMPUSMgWlExWJx9jW0u4/OdAt9S51xZdK5VhmdB6byKzeeqJE0KtYGqI4iqod5O65Sqf39IfutdxQ=;CcMMClaCci7B1lo4y788JQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Disaster response and mitigation in an AI world"
+    excerpt: "After the destructive California wildfires of 2019, the U.S. government put together a White House Executive forum to develop better ways of protecting the nation and key infrastructure, such as the power grid,"
+    publishedDateTime: 2021-06-25T14:37:00Z
+    webUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.html"
+    ampWebUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/disaster-response-and.jpg"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
     excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."

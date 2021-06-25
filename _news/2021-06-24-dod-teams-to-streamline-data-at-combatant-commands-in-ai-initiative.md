@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-da
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -54,33 +54,19 @@ related:
         width: 878
         height: 500
         isCached: true
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
-        isCached: true
   - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
     excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
     publishedDateTime: 2021-06-22T22:13:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+    webUrl: "https://www.marinecorpstimes.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
     type: article
     provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
     quality: 30
     images:
-      - url: "https://www.armytimes.com/resizer/VhwPC1AWLt6BV1bUhNwXBXDPKAc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
-        width: 1024
-        height: 681
+      - url: "https://www.armytimes.com/resizer/RHxQc7jHC8S-HEXJbDjY7_PTwAo=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dp06SG+b/NO1enJCFbgsaQT6EnXfOsuMYSOAqY4PdP8AaBQwWNSrporF4z3OgUNDmQ34oMPTv6joT5p8HeCNw2R3yBehnCoQeThOLiNujOg5hQhXYnUYD3iMApQHEoLycICEPOmwTNGt/zJflpq4CML12jSXhnLZXSYqAzQHg7bhTaJpZkDcN8Agz8HMWXjEvvX0ISldY/R8VGXuBaEw1r7U+CLiMWd6SwDp3lm6kYJQA6L0jsMBlxkTghGjtP+twK/uecnSdVVv2rrPcgWbTmFPnuWqgYI/zKhqO3Wn+Kf11KbMgwL3U9bvJPw9OK+oq8GB0z13rkGhnIQVmksxw0w6RVIahWcjGIEpoHp2bUGXnhf0HOm0IZRmsg5o9lVpfSl0H0rQWTQWJTwvwPR2vtm31QAaRTVX6t108/gd4lWEcE3hXhYBlSAHj5PQ19+K+1McU3rCMVMitj9PGr91/RNp4MscHZ8if3TETAoWkiphD/ALSDzlwjlLGqqwsjkNS+Lln+DITYy30wcoN/H9IA==;VCrxEZzAPXoa0odLtwPvmg=="

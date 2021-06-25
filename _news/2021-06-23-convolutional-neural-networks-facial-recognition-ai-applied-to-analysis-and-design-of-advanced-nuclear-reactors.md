@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Disaster response and mitigation in an AI world"
+    excerpt: "After the destructive California wildfires of 2019, the U.S. government put together a White House Executive forum to develop better ways of protecting the nation and key infrastructure, such as the power grid,"
+    publishedDateTime: 2021-06-25T14:37:00Z
+    webUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.html"
+    ampWebUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/disaster-response-and.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
     excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
     publishedDateTime: 2021-06-24T12:23:00Z

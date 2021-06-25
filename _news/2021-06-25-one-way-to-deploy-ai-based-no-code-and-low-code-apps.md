@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/one-way-to-deploy-ai
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 800
     isCached: true
 
-secured: "TUkMVcSiAWJpbSzWxEO2wXFilH9fxyBhsRpPorYQiLkx/yIWcV1Hd7+PxCzWai8zk7pawAaxYXouTEjK7OkgKw0rkbWmmlWaXx1n3oT3crc8lZicNkWKurHGOx/K2mQzqXXUeNAJKYRUr0oKPxenLs5YSKjAJjlJyb6SETo4JIS88qQWiGL7g9tu9xPaP0tPmF2lIbvXo66FckyE4OGlZm/tOA7BLuZv+MYt3+jzj6KU8zd1YqmfciTaJ21DwqZY/s7ukegruIdM7pCuGM+6nDDrchuFi5PFai9DdxHxzx4MGXiMeSCPb4vWc6D62hb/RSGsEt4OZe47vXfV4xhnxRbZNtiNWMhAR4b9EzYSXLI=;7BTp1lShuSrxstNPdNSbRQ=="
+related:
+  - title: "Memory.ai, the startup behind time-tracking app Timely, raises $14M to build more AI-based productivity apps"
+    excerpt: "Time is your most valuable asset — as the saying goes — and today a startup called Memory.ai, which is building AI-based productivity tools to help you with your own time management, is announcing some funding to double down on its ambitions: it wants not only to help manage your time,"
+    publishedDateTime: 2021-06-22T12:41:00Z
+    webUrl: "https://techcrunch.com/2021/06/22/memory-ai-the-startup-behind-time-tracking-app-timely-raises-14m-to-build-more-ai-based-productivity-apps/"
+    ampWebUrl: "https://techcrunch.com/2021/06/22/memory-ai-the-startup-behind-time-tracking-app-timely-raises-14m-to-build-more-ai-based-productivity-apps/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/memory-ai-the-startup-behind-time-tracking-app-timely-raises-14m-to-build-more-ai-based-productivity-apps/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 68
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/03_product.png?w=1024"
+        width: 1024
+        height: 625
+        isCached: true
+
+secured: "VoGJxc+smHLFyWVjDqsTdJmV7unQ5+rJIAkzHMIByCC9ufyWnkF/VD8uOI+einVeAXME8g+v3mOm4w8W+BYIVfVYRBvUQ0GdK8fPS4DM92sjIfl6VUPyu3RQLCR+fJI0kBZNPfszQxHVkrMVcfjmf1zcj3DMcjWON6alkx5sK7i0hyO3ieqoYUJqzIHzQj9dh6Ef7vq/XPlwGDVgWF37WT/a7VACiSGMSLwhPl6HADLL49Fq2espSOQpns3MWn23pF0SXHE9wtNx6QOgLOSWjKPFxEdPJzTaDM/QJOYv5Z5F+QC1D/u3Ct3q5GCy7GMnUZelyZC2YrhMSmfd36zN/6YipgyRaO1lffhX7pkiiE1Z8Blc6HcBmLioWB7kvANfegg1V+GlKBvBOk7IKDY/ct5PJlfOxllZjSg9JbR4h1z5Mrf6cRaWaenKdTWDXNNjlHmUY9bzHqZDDUFc/rQ7EbwNRNcKLVZ26TYTu4GR44p1+LzFZjZWhrMRZ4z6CGHQZObkBEaIXFIXJPo9bgR7Gg==;U89vU5Y/DoUUQ/pC6Ng+kA=="
 ---
 

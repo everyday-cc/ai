@@ -40,6 +40,34 @@ related:
         width: 680
         height: 377
         isCached: true
+  - title: "Walmart boosts shopper acceptance of substitutions with deep learning AI"
+    excerpt: "Walmart executive Srini Venkatesan shared in a blog post how the retailer is using the technology to improve customer satisfaction and streamline order picking for online grocery orders."
+    publishedDateTime: 2021-06-25T15:12:00Z
+    webUrl: "https://www.grocerydive.com/news/walmart-boosts-shopper-acceptance-of-substitutions-with-deep-learning-ai/602429/"
+    type: article
+    provider:
+      name: grocerydive.com
+      domain: grocerydive.com
+    quality: 53
+    images:
+      - url: "https://www.grocerydive.com/user_media/cache/b2/ab/b2ab94966a2f1240de0604e5249a8ee9.jpg"
+        width: 770
+        height: 363
+        isCached: true
+  - title: "Walmart's new AI predicts grocery substitutes for shoppers"
+    excerpt: "Big-box retailer Walmart is using artificial intelligence to aid customers and personal shoppers and better handle still-surging online demand for groceries amidst the COVID-19 pandemic."
+    publishedDateTime: 2021-06-25T14:49:00Z
+    webUrl: "https://www.foxbusiness.com/technology/walmart-artificial-intelligence-grocery-substitutes-shoppers"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 37
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/walmart-.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8NtLpT9MnEbKHol0eermaibesyycd/k4Ca6FJUUqOkpA14SnWJKwmIPqCdAtkqfdnJBmrZU6pY74oCMU+qitN3Bm1lYmdvaYZdIJNkkSXsMtqZD2gSqmv1rxP5/lpjJc7EXQLTOr9gOQPpUc9DfV83DADCab+LOd/9cuim/hDL+kvixe+E2BSLstf6VFyDpGrhqVlRq1VN7MYt8lyyy3f9fvN+lRPLyhulxjFKmV/YCSwPg+tWuj0Bw5L63XvPr7lo3pykzqsLw4rkqikGpAbYldrd0igyTulWiOQS4nZHgQVKnPH8eNs0Nw5gb8wcV1qydblf0L6PUqN7BddmcVa+eXlKmGQkEpl65edE8koeyOFZa2XO9G67XESivlR7PtUoGWzd84a9JfSZaimsjNXY0t+2tFdMbBQCqs41mz6AsV+1IihpqrKTJWFV3Op/wvcpH9bodVGC10L9OK6KnC/ceWVZDzfS4mKcXN1oCUbwfIZW9XVKjLreVqS9VrtdrlH6vBccgU605ddoFAbQLW9w==;ZWdBunziNLgj9ms3o0sFKg=="
 ---

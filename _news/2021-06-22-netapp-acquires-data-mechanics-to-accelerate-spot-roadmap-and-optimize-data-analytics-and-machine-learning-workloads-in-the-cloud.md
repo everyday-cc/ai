@@ -63,22 +63,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Aveni backed to launch AI speech analytics platform"
-    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform for speech analytics in business."
-    publishedDateTime: 2021-06-20T22:02:00Z
-    webUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/"
-    ampWebUrl: "https://dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://dailybusinessgroup-co-uk.cdn.ampproject.org/c/s/dailybusinessgroup.co.uk/2021/06/aveni-backed-to-launch-ai-speech-analytics-platform/amp/"
-    type: article
-    provider:
-      name: dailybusinessgroup.co.uk
-      domain: dailybusinessgroup.co.uk
-    quality: 59
-    images:
-      - url: "https://dailybusinessgroup.co.uk/wp-content/uploads/2021/06/Joseph-Twigg-CEO-Jamie-Hunter-COO-and-Dr-Lexi-Birch-Head-of-Aveni-Labs.png"
-        width: 794
-        height: 512
-        isCached: true
   - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
     excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
     publishedDateTime: 2021-06-22T15:55:00Z

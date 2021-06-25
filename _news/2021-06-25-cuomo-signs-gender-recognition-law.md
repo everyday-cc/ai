@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Cuomo Signs Gender Recognition Law"
-excerpt: "Governor Andrew Cuomo has signed into a law the Gender Recognition Act, which was approved by the state legislature earlier this month. It’s aimed at"
-publishedDateTime: 2021-06-24T19:09:00Z
-originalUrl: "https://www.wamc.org/post/cuomo-signs-gender-recognition-law"
-webUrl: "https://www.wamc.org/post/cuomo-signs-gender-recognition-law"
+title: "Cuomo signs gender recognition law"
+excerpt: "Governor Andrew Cuomo signed into law the Gender Recognition Act, approved by the state legislature earlier in June. It’s aimed at reducing discrimination against transgender and non-binary New Yorkers."
+publishedDateTime: 2021-06-25T15:26:00Z
+originalUrl: "https://www.northcountrypublicradio.org/news/story/44014/20210624/cuomo-signs-gender-recognition-law"
+webUrl: "https://www.northcountrypublicradio.org/news/story/44014/20210624/cuomo-signs-gender-recognition-law"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Ac2B8ah30n4217DHcX3/PdPsF5wFR1BoWTzzhjIhwWjMW/PolP0LNCtvZbVnXcAt74CGSTFmrqfPmSSaR9P/JPxg1CL8s0nbTSZwTeIFcUv0IQE/dgNx2UJscjUOO2jft33aIwe9WTSxnilyBAQhb1z7yK+NBQmHQ60TuMhCzH0mI0jxcjJ5yKskqhbE9sunapRclMzK2hV9LKjEgBfjO0A7ETuco7th+nnIQSPqSzDfreErqAkuGBBr7Q1a+AjqLINxAJNxf33Iyfqbf0Vap7uDxu66223ZjvCDbODCUs0zgrXKquNug7vM/oHwtBDj2VWSSOQ+cekQy/wv41eXUYMbrCD8q/BkHk070y4upvo=;7mX6WVlS5HxAZ2GTQfDlgA=="
+images:
+  - url: "https://www.northcountrypublicradio.org/news/images/prideflagCC.jpg"
+    width: 1400
+    height: 933
+    isCached: true
+
+secured: "tiVUu1yHnbIC7Yyf8i50N6PeRxPBNow3uFZB6egotazr7rZoqHXj2LIy5S5n+8bngc4nMJKNAyARuUO71tkMbSSzQfj0MSFGhyqeWP2Ao0UuxPow4kIfO8XpXgO5vKSqSYZkwcQaBE9F1cYQTwdeVT2N5qT2JqzKw/2rTdluFbFP8NpF3K4hLk5+bN30GP989RlJhRYe5FWymUt41SkrhpdRt1fYhXeNvCosC/fgV3FBjA7unXIWfdtsVgLNeo81EXhc7WXpcU+Xtb0x/C8czrmKipC4wDv32ZQmtrk9UvpORUCXeKtM7vZrXILOY0g7BY77WVPrfT1sYFBp6+EP4JyAUnYf+Na8vFF7tOJVsBg=;Rfp7gITOp4kf6n+Ei4L9qA=="
 ---
 

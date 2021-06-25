@@ -30,49 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "These Are The Startups Applying AI To Tackle Climate Change"
-    excerpt: "A group of promising startups has emerged to do just that. Both climate change and artificial intelligence are sprawling, cross-disciplinary fields. Both will transform literally every sector of the economy in the years ahead."
-    publishedDateTime: 2021-06-20T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/"
+  - title: "One way to deploy AI-based no-code and low-code apps"
+    excerpt: "Palantir and IBM have come up with a solution for simplifying the development of AI-based applications in the enterprise."
+    publishedDateTime: 2021-06-25T13:40:00Z
+    webUrl: "https://www.techrepublic.com/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caac3ad2b1ff3c9b86dc8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2235%26cropY1%3D232%26cropY2%3D1490"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "The Challenge of Finding Top AI Leaders"
-    excerpt: "North American cities are increasingly important hubs for artificial intelligence (AI) research. The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing,"
-    publishedDateTime: 2021-06-24T13:37:00Z
-    webUrl: "https://huntscanlon.com/the-challenge-of-finding-top-ai-leaders/"
-    type: article
-    provider:
-      name: Hunt Scanlon Media
-      domain: huntscanlon.com
-    quality: 39
-    images:
-      - url: "https://huntscanlon.com/wp-content/uploads/2021/06/story1-12-e1624541818926.jpg"
-        width: 438
-        height: 274
-        isCached: true
-  - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
-    excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
-    publishedDateTime: 2021-06-21T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/amazon-talks-buy-stake-ai-truck-driving-startup-plus"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/plus-automated-truck-1200_1.jpg?itok=MG-kALv_"
-        width: 470
-        height: 246
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/12/31/cfe02e57-8256-4c99-8177-af9212d6cba4/resize/1200x/03b76fedaaaa195d3219d225e34f617f/istock-1000962622.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "GfmULvJGog43amdShXlL5fc8slPxT3QJnSCv1m1fxFCcift4Vs0gw60Yly9TZJAL5mZmVtVf/fXZjlvpncXk6hcIDo6PRji+YgkmDYVIw04PrL4Idqbe1U2KjPweXBDKG52sAe3mHW7XMlWuXFk8IQfuP8Z8HnJYbDVzDEMGfTT5ppemC3uL+CWO8tMu8l5lsD+PF4vqqtPCW0bVYcyj6k6+/GHsATPIVOc3geHYVUn6dWrGIxi753XdqPTQt15k/Pl9U5KvWyR2Q8P2Ggtl4wD9Et/2okfVfpN7edfRL2uUI/Jw+KMlAlfkkP51DgNW6IcBGQt38CGCxVVPwXaxGQBszPXxIUt5qt1TXCvlkhGoZh58HeN5KUnPMfLf1HCf9o62yf9My45CuZUjj32vnLq82xAHkuYoAX2DvShSFZbgUtj5mpvpd/KW6cApySpmBSusHcSIHQWujEgRo/DorE+66qErMONj2jiiefwHImaK4bZRKq2mAJYyu2Z0KIfOjiOpWzEB+vjViOoF54tlhw==;IqqX6XMqvf22jaJu2j3Vtw=="

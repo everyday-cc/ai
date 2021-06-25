@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-06-25T13:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-service-robotics-market-to-reach-110-4-billion-by-2026--301319783.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1550686/MCP_6565.jpg?p=facebook"
-        width: 1536
-        height: 803
-        isCached: true
   - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
     excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
     publishedDateTime: 2021-06-23T15:30:00Z

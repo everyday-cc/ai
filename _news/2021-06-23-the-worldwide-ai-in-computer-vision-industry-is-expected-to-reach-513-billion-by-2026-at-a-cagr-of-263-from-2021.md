@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-06-25T13:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-service-robotics-market-to-reach-110-4-billion-by-2026--301319783.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1550686/MCP_6565.jpg?p=facebook"
-        width: 1536
-        height: 803
-        isCached: true
   - title: "The Worldwide AI in Healthcare Industry is Expected to Grow at a CAGR of 51.5% Between 2020 to 2026"
     excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The global market for AI in healthcare is projected to have a CAGR of around 51."
     publishedDateTime: 2021-06-21T14:51:00Z
