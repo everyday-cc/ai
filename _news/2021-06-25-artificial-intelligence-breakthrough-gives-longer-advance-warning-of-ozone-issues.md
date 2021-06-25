@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Artificial Intelligence Breakthrough Gives Longer Advance Warning of Ozone Issues"
-excerpt: "Ozone levels in the earth’s troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-publishedDateTime: 2021-06-24T18:43:00Z
-originalUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
-webUrl: "https://uh.edu/news-events/stories/2021/june-2021/06242021-ozone.php"
+title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
+excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
+publishedDateTime: 2021-06-24T20:28:00Z
+originalUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
+webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: University of Houston
-  domain: uh.edu
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.uh.edu/uhnews/earth-as-seen-from-space--must-credit-nasa---uh-ozone-research.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
     width: 720
     height: 540
     isCached: true
@@ -42,8 +42,8 @@ related:
         isCached: true
   - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
     excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
-    publishedDateTime: 2021-06-21T13:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808"
+    publishedDateTime: 2021-06-21T13:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538739"
     type: article
     provider:
       name: Business Insider
@@ -87,6 +87,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "YKl3mubrCv4qTtkfmeirLFH8P+1ihy/wSE3k+ydDvgh3eKk8uzw9OO+Je9kAQZaxbpez7qLiRqTabPkSFfY6BFbTl85raJyqky/iDfkR+xfPGnoF/02mPFU6tQD8xj4OtUz1DU6hjNmWVfBURGylRRvYzWxdojbzlms5g+1vjKcdvJRf4bD4DaocqtqCVCHCTcnK/voxP47T6RR2MAwywhCWZYH2zU9rS8cPWUBUQhF7A7LvTsu4mlWAq7DZ3xS5rH1rtzGvhuli8S6Jdq2VJf2JiZlaJFbB29RoE9gYR7iImWwof3DiIk+A0OqI1b/CKmlIrtN93PXTrZNe/CCJNR36Gy6Gmf8nRIk/fWrNBKM=;4XOkOy8WZoOSxXdmguVdZw=="
+secured: "JvIxLO69nkWUi8qQpe8Cw5rPmxl5sKIS90ked20tuMOXzp3DE7rxq1GXoecKvtgU9lSoM5NsmhJDzX0ZHxquHYZ00zLxiDEBhjAs0f6VatJgrCEtUnuTFbeBDybOaAhMenkUvKHjlTBcjkz6VS5aoZUZA4tRurf7QWSlJqgbwHRJRLGe19J/LFJpUcAfNnZwD8oZMsD9OzYj22h6053I58NcukhrTtk/1nC4QFy6/uCxF9ZOURlht6AxG7ihyjcEncGtMWoFP4ZnAZYMUiLGB+ACKKzV+xEsmRH/2+4MrFSYUsE29k4X8nkVNYnIKDELGPqH4hOPv3Ny2vdXdkE7jub1MwJLMQ0xGeUXwmUzY8U=;bl64Mv9f7bHbpDEYRj8HLQ=="
 ---
 

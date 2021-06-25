@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-et
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/equbot-aieq-ai-powered-etf/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is reshaping the world"
-    excerpt: "Plus, the FT’s innovation editor, John Thornhill, talks about the new season of the Tech Tonic podcast and its main focus, artificial intelligence. See acast.com/privacy for privacy and opt-out information."
-    publishedDateTime: 2021-06-21T04:00:00Z
-    webUrl: "https://www.ft.com/content/3f71a408-0fba-47de-a583-bed8c9842753"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F569dd15f-acac-406e-97e0-6787f9f99491?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 900
-        isCached: true
   - title: "How AI-powered pricing is shaping the customer experience"
     excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
     publishedDateTime: 2021-06-24T06:47:00Z

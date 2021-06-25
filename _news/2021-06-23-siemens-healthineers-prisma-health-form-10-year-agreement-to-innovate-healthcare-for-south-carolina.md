@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Health AI exec who led HealthLake departs for health IT startup"
-    excerpt: "Jean-Olivier Racine has left Amazon to join a health IT startup after serving in artificial intelligence and tech leadership roles for nearly 10 years. Mr. Racine was the head of health AI at Amazon Web Services and led HealthLake,"
-    publishedDateTime: 2021-06-24T16:35:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/amazon-health-ai-exec-who-led-healthlake-departs-for-health-it-startup.html"
+  - title: "Microsoft deepens its presence in healthcare: A timeline"
+    excerpt: "From acquiring health IT company Nuance for nearly $20 billion to hosting EHR networks on its cloud, Microsoft has deepened its role in healthcare. Here are the tech giant's moves in healthcare in the last year: June 30,"
+    publishedDateTime: 2021-06-25T18:57:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-deepens-its-presence-in-healthcare-a-timeline.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 37
+    quality: 56
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/5.jpg"
         width: 400
         height: 300
         isCached: true

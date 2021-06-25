@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-25T19:00:00Z
 originalUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-estimation-2021-2024-analysis-by-key-players-r4836495.htm"
 webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-estimation-2021-2024-analysis-by-key-players-r4836495.htm"
 type: article
-quality: 22
-heat: 22
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI in Healthcare
 
 secured: "Q2Tx3mRxTFQ3RGrlSvrLD6i4X72bNnz6ZfbEd4rSUaIMTa5Rbyn8aR+OiF84yZSkemn6ye4A/bU7HCSLXHFcxjFM++Q/XhuoqkQbmMxdbGay4/MrV6WkKYW6yb/8frHyjPl9TKMOrXfwwftZBqtWJfzem2nbrGzNOH4TTP4MO3ErZ/co0QzeE2/M/vIsEhwIXOHu6ajmLurPMS181/Pz6Y1tpn7dOSli7u5Zvq9bg+9UsmH72NVtKxxkPPGsAJdpPnsAd3QFHSqm2nQeJgt5phohb3ObQUqzBaAIKYtplAUhPXC2Tb993hnZn6vgvKo3a390N9aGxwIGlPDWfhiBg03mASiuoe++tDj6SLmdO8E=;JqPwA1PtYXNGOquUpZRVLA=="
 ---

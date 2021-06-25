@@ -23,17 +23,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Siemens Healthineers, Prisma Health Form 10-Year Agreement to Innovate Healthcare for South Carolina"
-    excerpt: "Siemens Healthineers and Prisma Health announced a 10-year strategic relationship to help create a better state of health for South Carolina."
-    publishedDateTime: 2021-06-22T21:53:00Z
-    webUrl: "https://hitconsultant.net/2021/06/22/siemens-healthineers-prisma-health-partnership/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 4
-
 secured: "gOGI1Os5rGTEcJdyMCDA7gp5pN5XiTrHyuFi8Wtsozft/vTe3PTmEnIsFQrei9twafRIEJrLT1lf3OxhAHp1QqCY9HqMnttBWL/vSA3TdOsU+s9t9YC9+RFDrjQmVvMhUc5EVNDdaRMpInn3RZWlF78BnF8u2N5CTFZ/n4iD7qkI70q4CEBWefIBy974CpstTLz37kYCnDkejiZKSy8PbpWqDrTuH0i7XPTB5CdN+gtCgO+JuWjU85z62x3m4izPOakOX2L6Y9DMm8q+Y9Ds8o4+1ko6vLLiqJsEIsb1cme6dORWbLNaHY/yhBfPGZf2ShlsR2QheXtq0ctt0Iu7dtQrhIH1yY6MqvsVuQ8E12s=;0O9GMrBKDQqQJmMGeKBnXA=="
 ---
 

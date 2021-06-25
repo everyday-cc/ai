@@ -130,6 +130,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
+    excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
+    publishedDateTime: 2021-06-25T18:56:00Z
+    webUrl: "https://www.cs.cmu.edu/news/cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 39
+    images:
+      - url: "https://www.cs.cmu.edu/sites/default/files/web_Traffic%20Jam%20Visual.jpg"
+        width: 600
+        height: 331
+        isCached: true
   - title: "Making it Work: AI is the future for deep data start-up Altum Analytics"
     excerpt: "Less than a year after its establishment, Altum Analytics, the Belarus-founded, Dublin-headquartered software company, has already raised €500,000 in funding and is readying itself for an expansion drive."
     publishedDateTime: 2021-06-24T09:15:00Z

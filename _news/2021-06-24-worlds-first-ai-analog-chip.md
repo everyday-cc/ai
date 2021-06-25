@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/worlds-first-ai-analog-chip/"
 webUrl: "https://analyticsindiamag.com/worlds-first-ai-analog-chip/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 512
     height: 288
     isCached: true
-
-related:
-  - title: "Government launches first AI action plan"
-    excerpt: "Christian Porter said the benefits of AI include protecting the environment, improving health and smart cities, and boosting the economy."
-    publishedDateTime: 2021-06-21T04:23:00Z
-    webUrl: "https://www.themandarin.com.au/160734-government-launches-first-ai-action-plan/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 37
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2020/10/integrity-commission-.jpg"
-        width: 795
-        height: 530
-        isCached: true
 
 secured: "SdI2oS+KdP3sSwwiKZtR//PTAMYHfEnkRT77iurwD9ULS865MxklgFU0yn0+ENL5NpKFVNAma+RDZXeHFWUyxMbysNhIi8sTzwZGC4JqI6eJtWiHRrafUl6ssu30qg3IKIK9HqVhWz0oAx6uv7GJPQiNJL3JGyBTlU5+A4zlSMun6KmnyC9AYBILKVG66FkqZw8aX+yHGxI+HJTsLdI5JgpNDDdISVoSCeUTRne1i7bPGiYw0QnPRbFC9oe6P6ZGZkdT7gUpDPVz9VTVJIqznDP0jwwN2j9D2dcoV3Gu/2s+xxIOX75I6PR0XX1/Lhaqor9ld0I+DFT8UpH9B6Qh0gML5bVBOaKeKr4gFxOm/ksR/Zu9bRGJTzCQFvyhch+AlLnG+tEuSJhHBGL4QMA1ytjMgiPzKdnwfnPtuB4jvkoNe4zUpCKiuV88tWEtDlKxGl9OuU+9CIAPLpuSdNAZOzAcjraduWm+iCxaTeVK01a3HVHzwfdVxGpexAnKb4oEUaBpTolQWwiqpIeKDNwczg==;z1ohMs6WEJ2f5PXynp99Aw=="
 ---

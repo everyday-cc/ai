@@ -2,6 +2,102 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-05-05-segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Segment paragraphs and detect insights with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Many companies extract data from scanned documents containing tables and forms, such as PDFs. Some examples are audit documents, tax documents, whitepapers, or customer review documents. For customer reviews, you might be extracting text such as product reviews, movie reviews, or feedback. Further understanding",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/segment-paragraphs-and-detect-insights-with-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/03/2-1411-Specify-Detals.jpg",
+          "width": 800,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T09:32:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-cloud-networking-services-comparison-arista-vs-dell-cloud.md",
+      "title": "Cloud Networking Services Comparison: Arista vs. Dell Cloud",
+      "excerpt": "In this guide, we will delve into what you should know about two of the best cloud networking services on the market: Arista Networks and Dell Technologies Cloud. Arista Networks’ cognitive cloud networking solution, Universal Cloud Network (UCN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterprisenetworkingplanet.com/guides/cloud-networking-services-comparison-arista-vs-dell-cloud/",
+      "originalUrl": "https://www.enterprisenetworkingplanet.com/guides/cloud-networking-services-comparison-arista-vs-dell-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/05/Cloud-Services-Comparison.jpeg",
+          "width": 1500,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enterprise Networking Planet",
+        "domain": "enterprisenetworkingplanet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-white-house-announces-website-to-advance-artificial-intelligence.md",
       "title": "White House Announces Website to Advance Artificial Intelligence",
       "excerpt": "The new website will serve as a connection point to ongoing activities that will advance US leadership in artificial intelligence research and development.",
@@ -1075,85 +1171,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-imago-visionai-artificial-intelligent-camera-supports-tensorflow-lite-and-automl-vision-edge.md",
-      "title": "Imago VisionAI artificial intelligent camera supports Tensorflow Lite and AutoML Vision Edge",
-      "excerpt": "Developers and Tensorflow enthusiasts may be interested in a new smart artificial intelligent camera in the form of the Imago VisionAI. The VisionAI",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-camera-05-05-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-camera-05-05-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/05/artificial-intelligent-camera.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-cotiviti-to-present-on-artificial-intelligence-at-ai4-2021-healthcare-summit.md",
-      "title": "Cotiviti to Present on Artificial Intelligence at Ai4 2021 Healthcare Summit",
-      "excerpt": "Cotiviti EVP Nicole Neumarker will speak on how to reduce healthcare fraud and waste using artificial intelligence at the Ai4 2021 Healthcare Summit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit",
-      "originalUrl": "https://www.businesswire.com/news/home/20210505005175/en/Cotiviti-to-Present-on-Artificial-Intelligence-at-Ai4-2021-Healthcare-Summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

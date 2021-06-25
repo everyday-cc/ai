@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-25T16:17:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
 webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
 type: article
-quality: 33
+quality: 29
 heat: -1
 published: false
 
@@ -15,9 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -154,6 +152,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "hADjOaNj7b9/mXKSyEiABp2TfCfL3pIdEHx4bZUpuuhyYCZl7XpM0C4NBDWc+of6damisamRrkqgPVsjKFt7iMB5a2jrmOf+iLPHcB3QDwWaMb707gnutqB9RLXejMzUcmBixVvL85nD7J6csGwAiAvvrtqCpnTEvMyYHx1+cvtCQnCsaZejFKsqMwYGQfApHxusjmUAhhTNT6CNhIcTZUdba+rObFImKjcQhxnbFioJw/WyrtogGAEiarRpTn29GWTuuoBAF2rXOCiJhbZjqOfDLcMVIYuVUSFaBZlu8y85CuNZtk935Nh4BTytkAAqPLCA8GZLMsihK86YXApxv38DXcxuyQF9q8Cd4N512/E=;pCbejjb+qDOT4E4UIeXxvA=="
+secured: "QEB2y4/ocTcJjgh2JeFGbSzOAq3jxGMFLl0UidcsGzk7dglslO8gd8YThI7BfOXzpLFOyFvBCLHXdzt2WLVnAeSFQ4s3EZnPcu5bCf+aI0w30yfLCFF+Rl7sKGzeJGg7zGQgzvhqb8q85clkyxf5AAL4aSedrN1wPsFv/SLcAV5fE/uvA5E5vlq8mzgKkz7yu64PNb6/gcUyIEMh7c7P9nRLHS5AW8r0zFEp2SKwMP50V3aA7GkDBXUshDVLXKPlgykL89u8+WbmXGuRm7KXjROChP3WJBcsunszsH1InFWhwwIGCjuC0F5EVWQilbxWlfAR0WOFLZs90ZYQkUcfRqFGW5lv8rzO0bw+i30dZIg=;NEG0gaQ25+vJWxI6NnMveA=="
 ---
 

@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Chatbots without Programming"
-    excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
-    publishedDateTime: 2021-06-22T18:05:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+2T2021_verified"
+  - title: "Better reporting of studies on artificial intelligence"
+    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
+    publishedDateTime: 2021-06-21T16:52:00Z
+    webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/7-ai.jpg"
+        width: 1740
+        height: 1920
+        isCached: true
 
 secured: "6r33Y6inDlN2IYvXP4QuXBk7TXUQ4Z19qvzMTMOmc/46XuG7lSRF2Ukk6kHLzhTDF/eYa99Al573CXz2lwW6LPHa40HVXA5Sgj4FWprlq+EFyCW3EU8OGPJoo8HpHYZUQiFJzDwOojQtlreniWbDSX4F5AS7TBWjdDqsSCKF/1BCahuvmTAWfB0oHYWlUcohc5nCF9RcTTMNRWrF9sFpx2jpq6Hbg9onBnph4UBlhuSnqZwplfIanvqwAdBxJu9lwCHJX+3j5T55bWrURwBYLjq0vr+wop/oB+1k3MBqeVmuky8bV3HQi1sJuvsg41Ii4OGvorXvQbO0FgQckxaj+lU5OHI7h+O5o5RFd4nqwdY=;gJ1fGenQusbS7NsdWE3BHw=="
 ---

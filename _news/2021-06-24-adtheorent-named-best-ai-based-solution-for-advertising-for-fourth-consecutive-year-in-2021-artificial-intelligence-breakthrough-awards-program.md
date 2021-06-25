@@ -1,26 +1,30 @@
 ---
 category: news
-title: "AdTheorent Named “Best AI-based Solution for Advertising” For Fourth Consecutive Year In 2021 Artificial Intelligence Breakthrough Awards Program"
-excerpt: "AdTheorent, Inc., a digital advertising leader using advanced machine learning technology and solutions to deliver real-world value for advertisers and marketers, today announced that it has been selected as the winner of “Best AI-based Solution for Advertising” in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2021-06-24T14:46:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-business-science-7da5db7c583d9319d7bf8de88a02c384"
-webUrl: "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-business-science-7da5db7c583d9319d7bf8de88a02c384"
+title: "AdTheorent Named \"Best AI-based Solution for Advertising\" For Fourth Consecutive Year In 2021 Artificial Intelligence Breakthrough Awards Program"
+excerpt: "AdTheorent, Inc ., a digital advertising leader using advanced machine learning technology and solutions to deliver real-world value for advertisers and marketers, today announced that it has been selected as the winner of \"Best AI-based Solution for Advertising\" in the fourth annual AI Breakthrough Awards program conducted by AI Breakthrough,"
+publishedDateTime: 2021-06-24T16:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program-1030551876"
+webUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-named-best-ai-based-solution-for-advertising-for-fourth-consecutive-year-in-2021-artificial-intelligence-breakthrough-awards-program-1030551876"
 type: article
-quality: 15
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1550935/AdTheorent_AI_Breakthrough_Awards_2021.jpg"
+    width: 400
+    height: 390
     isCached: true
 
 related:
@@ -41,6 +45,6 @@ related:
         height: 800
         isCached: true
 
-secured: "p5DdO8Vs2UDOG+EiITIQNtSM8V4vtfFPGlWtU+1O9F2s47cFYzA+pvlDOrbVghx3mwir9QlsTjRuyAarOA12mO1BSnuAZVuO5WA/9cV6wkYVNO5px9HclPwxXcVEIWPUP9/Ay0J2EBEQ/Ucx4LxinB7ZVt2+De+yj5hL6stllNMgEAJJo4PVb0L6cYNWcKTmOm+VE8Ob109zwaIX7VIxxEedXgNlHSb3EbPzysealHbd2okMhrtT++TSoNVXufyiMw1goHZ9IiuTC8MFY0oGGXCgyEkLsARUnYlt1yv8SrDp9HAe7wT5X1wNlh0fvo6iHqGxmSRZidq0b5FrC9O1vcGp1oct1519+3M/iRpD+Ak=;RsJFLWVYXi93xNXemBIcPQ=="
+secured: "u4TJffq6IcjUlAq1ESVHkKlGagUlCTReh33jarGtpHhNqvVxpnozqoJAdBigE2Pajz7RefyuUdGm4n0hGVl9P5Lb2g1d1bA2YOk8ZfmbqVZpLBn/ZOFGbJAY/XZ/WTMEWHkxIfM15PV/C0rPWOj5n+dZ3NTR2Fpb/qVgsnX35ocxWuRJOZNJMfUa9reJ0XsLeRJrlh/Q/sZPplYlFz8iRF9+kGrf3hRNoqf0KMMCzylHjR0KCpkaRGgiF/2L6woO7oLgy251l/CCdj0mD3sjQGmINVyBL2D5ym8QfWjL01XtbLs87ObHjRK6CYS7c3Ory3dBTnJfJI9cFsQLIM+fkCyzXuSUizVMaQ+jyloNYk8=;D0o2zJA8JGKBP9eSP1NC1w=="
 ---
 

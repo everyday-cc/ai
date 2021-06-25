@@ -50,20 +50,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
-    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
-    publishedDateTime: 2021-06-21T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 51
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7jGBKV1D7D/xuoCowAgZbiaRoUHufREHw+uAE3Cr4yLdqJtrzLL6Jtp94B7DPvTQG7+SpOTFbGhTPdf4rSvCpVvNJ1v+NHr6ukEPWlQrVcCRtyQ3CZvCntYkcECMDGJZxILwaw1oxm8M6ylhZKc8x87BfF2fSc0tCIQKWoT/xIPl33TL6qCKiZWMahn4dnNMJ6+qL1nBkwkUye7FVPBTxle20vZG1oIuAIyT3hlTgXg5kFdYfBW2J1e5yB3hFLs8Nkyn9XM7lBZYXkTsyLOdBhF0A/etVDJ6oKeE8UGxakC+QgS4eNqWigaHQEeN1eiJSphINeauk8tk9R8q3FRIcreOECVZVHQxW43vrdhyjhs=;36EOy/uhR19CayTy/br3sw=="
 ---

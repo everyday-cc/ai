@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-fo
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -67,6 +67,24 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Amazon to buy 1,000 self-driving trucks"
+    excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
+    publishedDateTime: 2021-06-25T13:12:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
+  - title: "Amazon to collaborate with self-driving startup Plus"
+    excerpt: "Amazon has entered into an agreement with Plus, a self-driving freight startup, to retrofit 1,000 trucks. According to Bloomberg, under the agreement, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
+    publishedDateTime: 2021-06-25T20:23:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-collaborate-with-self-driving-startup-plus"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
   - title: "Amazon to develop 1,000 self-driving trucks"
     excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
     publishedDateTime: 2021-06-25T18:52:00Z

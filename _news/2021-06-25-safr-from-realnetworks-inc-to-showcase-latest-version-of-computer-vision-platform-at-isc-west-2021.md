@@ -26,6 +26,22 @@ images:
     height: 355
     isCached: true
 
+related:
+  - title: "SAFR to showcase latest version of computer vision platform at ISC West 2021"
+    excerpt: "At ISC West 2021, in booth #11109, SAFR from RealNetworks, Inc. (NASDAQ: RNWK), the premier facial recognition platform for live video, will showcase the latest version of its high-performance computer vision platform."
+    publishedDateTime: 2021-06-25T20:20:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/press-release/21228286/safr-from-realnetworks-inc-safr-to-showcase-latest-version-of-computer-vision-platform-at-isc-west-2021"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 36
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/06/SAFR_20in_20Security_20Center2.60d63a2e70227.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "QhdZlfXk+cLLfbqnK0ccaRVF5PQH6IvrGp4hFiL7U/tLEQWSi3FWlVZKN+iiu8OAllNMyVsV/yKmr/CALnkPo0rektMFJvRfoJmw9AG8VxEFIm/6iq3uEuC+7A+Mdbfr5CNilS5GptjtY1Otby4LouPO6CHhmDxZ8QzUVLIQHOLuFGwUHqIe9oi93RHSi/1r0JyINYAkDHBQkBd/BURtUlDYM0BvSqE7f68J1w171Ypps08diwfdltSjIM1UFO84LCgCfrJ/sY7WZ95nWKFXpVHSacHmNElO/WRa2EMEIo3ABaa8vasN6P/iL5L5KKdhsFTa6HMXX2AM0gGD8wx/AQHmlwmeRTkV997IXaBo1w0Kjri55CXbrofaTNUEY9PIGWRIAZb5Aook8msQPpz7ATvdoNxv6K+8NDnKEpz0ia02+NnVP+oW6CXEaURwd9sg4E0aiEZf81MXLe/k3/OzvGBh37p9cYm29jXftRFKfm1HMOMywO8Fw8UcD/Rviqch+97Uh16RP5cri/2ItNj8QA==;DLGMNQwFzIYrCRX6qiquWg=="
 ---
 

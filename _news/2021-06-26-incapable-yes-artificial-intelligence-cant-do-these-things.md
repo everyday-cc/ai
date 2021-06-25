@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-25T17:30:00Z
 originalUrl: "https://www.analyticsinsight.net/incapable-yes-artificial-intelligence-cant-do-these-things/"
 webUrl: "https://www.analyticsinsight.net/incapable-yes-artificial-intelligence-cant-do-these-things/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/Incapable-Yes-artificial-intelligence-cant-do-these-things.jpg"

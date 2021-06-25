@@ -138,6 +138,20 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 39
+  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
+    excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
+    publishedDateTime: 2021-06-25T18:56:00Z
+    webUrl: "https://www.cs.cmu.edu/news/cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 39
+    images:
+      - url: "https://www.cs.cmu.edu/sites/default/files/web_Traffic%20Jam%20Visual.jpg"
+        width: 600
+        height: 331
+        isCached: true
   - title: "Skai Named \"Best Overall AI-based Analytics Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been selected as the winner"
     publishedDateTime: 2021-06-23T13:00:00Z

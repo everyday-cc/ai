@@ -1,22 +1,32 @@
 ---
 category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-excerpt: "Amazon Web Services, Inc., an Amazon.com Inc. company, and Salesforce, today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new"
-publishedDateTime: 2021-06-23T12:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and"
-webUrl: "https://www.nasdaq.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and"
+excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
+publishedDateTime: 2021-06-23T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
+webUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
+    width: 400
+    height: 280
+    isCached: true
 
 related:
   - title: "Salesforce (CRM) Expands AWS Partnership to Enhance App Development"
@@ -162,6 +172,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "ymJZFdGcJlFiyafB16XSzfSu4lXljASGVJDM8+6/WQgBrj1gpNZcEHOkz9GjMxmADSkNaVJ9Po5o7pTqyylMY/eSuK2KVJGWE8aELqn6LHvWIRZ0YcdJHpiIAh70aDFMM9IIw8lZPWba966vxTzgwf8hiweSoVTicj/Eb7D94ZDIYxhQQCtTTP8mCo8DpZXFGT3mb2C9W9ULkszyk1kc58IileJ/ObtWxzdakDXtt8QIQYYjaoLhcxOWbEkzISsOccK4q/ZaTzEXQAMLW5ZmLrxzdQMA54bERWFQS/KRi7Z2Hnl95qrqP6LaFup2hgz22z8UWmi5Myg6NRgdnxKUSx7sUX+dJpaRvZwxokcbl4s=;bCC743x19/8blkYo0u82Hw=="
+secured: "EpsaVqkCxxsGddfvhNZ7jhdgZI9Qc5k4rrszUN5+wR5mL5Ms2xR8PozQoMPOpdCWP3z19Kw35wZNvLqiCH/q6JS5E1EhvWWmeZUYO8Fjbdl/tKvudx4ojvpCsG2Bwerfyc1eLvgBS0ojTMMUOR6NayMk3Y3qQHAtr91hLRW2lxXYEaVRX10AJt1526yssyMC/AZ+0OzRjzan2VUnupni9tDKX+xnvX1sllAjUczI3o0OEeNBSBolR4Jyn/iSrmdaD+G4l0ZdONaLW0LbqK25n7DXyY2yzv2C/ba/fwlRHWorIAyLtDpmye769BE3DpvqVWIWbfK5U7c9a+1cTauSnqklmgW1rFaBXdCEd5WH5NM=;gZr4RMhXZQr8EoiE4EP6qg=="
 ---
 

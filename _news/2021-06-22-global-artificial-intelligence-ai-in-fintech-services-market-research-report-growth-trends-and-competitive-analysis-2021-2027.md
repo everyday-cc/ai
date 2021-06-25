@@ -172,20 +172,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "There are 100 UK tech unicorns, a third are fintech"
-    excerpt: "Of the private companies that have achieved a valuation at $1bn or more, more than one in three are fintech firms."
-    publishedDateTime: 2021-06-21T04:42:00Z
-    webUrl: "https://www.altfi.com/article/8024_there-are-100-uk-tech-unicorns-a-third-are-fintech"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/there-are-100-uk-tech-unicorns-a-third-are-fintech.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "The world of Fintech jobs"
     excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
     publishedDateTime: 2021-06-24T14:38:00Z
