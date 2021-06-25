@@ -45,21 +45,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
-    ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
+  - title: "IBM explores AI tools to spot, and reduce bias in online ad targeting"
+    excerpt: "Th tools would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy"
+    publishedDateTime: 2021-06-25T07:35:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83834378,imgsize-109816,width-800,height-434,overlay-etcio/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting.jpg"
         width: 800
-        height: 533
+        height: 434
         isCached: true
   - title: "IBM explores AI tools to spot, cut online ad targeting bias"
     excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
@@ -91,6 +91,15 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
+    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
+    publishedDateTime: 2021-06-24T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
     excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
     publishedDateTime: 2021-06-24T22:20:00Z

@@ -24,6 +24,17 @@ images:
     height: 237
     isCached: true
 
+related:
+  - title: "Voice Recognition Market Size, Share to Witness Stellar Growth Through 2026"
+    excerpt: "The report Voice Recognition Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides Voice Recognition Market Growth and information corresponding to market segments such as geographies,"
+    publishedDateTime: 2021-06-22T12:22:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142271/voice-recognition-market-size-share-to-witness/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 2
+
 secured: "rcjwJSWiWKwTQVwmXiV0byz640PCkW3BlxIyUJcY9KQoLY3+ptfDBRIXyj2EKLPhyhFFp7s8zTN/QONQaZznnHV6FciTN1GH0dfj2l178Fa/oxVGSaTBQgtK5Tk0E7GxKagKeojARhI16kOcqyW7816OMRD2Hea0yMxGD8CgSjIc+iYTiEB5eSHdzoXBbqrOfl2g9XG81Hb4Gg66NJOkPhfzCgv8haMnAb3yqCtMnh730t05eZ16TS+QEOWGlsMClbt6v///MqAMW4SVuE6TkyfDvAUJTsUip9KpJKvxyJ3Mo6B2HNl+L7ZEy5cxZQhSaAf5R13eJoc+Ne0kukkJdDz2xAwWMSpznfqGg43xzLD9ViT9eJz2L0vbd7a/MoBjEqZQwfXuI3yOpjauQ8WQKo/BEKkk3iH6gInpSN6+ejz/TnjWg8yIWEfRkRUPocaFDU9BBJwB9QU65OZc3X0cSKPCQqMlxdFRw6WTESBSqNDeIXYDYSgpQmSUMGRzxWcD8i8CB0YOcr3Y7H4ux7echw==;uPV6bvV/dTlYk3HXZZiiyQ=="
 ---
 

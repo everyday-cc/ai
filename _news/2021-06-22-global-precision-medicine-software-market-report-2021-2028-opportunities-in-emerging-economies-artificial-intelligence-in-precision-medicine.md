@@ -47,15 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
-    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
-    publishedDateTime: 2021-06-22T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application, Geography and Forecast 2021-2030"
+    excerpt: "Acumen Research and Consulting has announced the addition of the \"Global Machine Learning as a Service (MLaaS) Market : Global Industry Size, Share, Trends and Forecast, 2021-2030\" report to their offering."
+    publishedDateTime: 2021-06-24T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-geography-and-forecast-2021-2030-2021-06-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

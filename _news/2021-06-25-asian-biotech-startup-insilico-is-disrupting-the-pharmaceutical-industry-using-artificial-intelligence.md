@@ -8,7 +8,7 @@ webUrl: "https://techwireasia.com/2021/06/hk-biotech-startup-insilico-disrupting
 ampWebUrl: "https://techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Image-by-Gerd-Altmann-from-Pixabay--450x300.jpg"
@@ -62,6 +63,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "/mqBGm3FYp2zXn7UF1dVhbIPHWWH97xZjIE2IH8luzNWYBIoq3OniL+5Do+5N44fyZ7DvWybkXC2odbKU6/BKcykLHPouJZxUnyAvNjj9+L8sliYgHC8ZppMuHWTUr16jlwg1Ff5fYKEEjDaRZ79U7pjotx2M4X19SqvAuhv5XeqNEKjgcqkMjvESsIOY36zLaTbQ0t5cNBbsMdFGBgMNLkzdHkzPCcNgVh/OwC08f4cqQcbG5b5pFcnkKI4kuyENc9elzHVnHQVqw9AnWCJtfhBcy/lPwmghiMuBulEO2jMJSr45xUaFPoYj4fX9jPzkKeD6vVEw/UiW5IFUw51XMvILgtN3/0vi8U2oQrXZgY=;DWaSiy5fGpG/lbo3FkcOpg=="
+secured: "Lxt/hMCUrJKM6GrIvbSeXMj0tizcQl1kIGXg84WgRRgHvQlJInwESzz7Zi09X/EVObJM13pEx2IsQJqad8Qe6Tavgi0dRs2K+ca6KTXdpVHsIGgbdV0COfI1oksMi6Y/+lW14j4PhcfUuUhVLpVMr4yXpqRDpNXigXoCHhgHqOdQJI9fqulSVLYx1GI3w7xXoJBcgMHWkd0Y+EEV6Oc4bhUukOLmsN80PD8mzUFzGTKPmGJ6NrX7jfsqBZZ6NOBusW57apj1+SWfs4XpDY35Zgb5LHvJHgWqVzare1P1dUpKLfLotIjEa3uXT67+DssNzxP1ePKT4mGldlRl8qTHrnf3KT3y4RwaKTWdkTVkYX8f3M+Pp57GZA92nBourylbNqxvoJYvj8y29JanTf56PmewwrMC58tSIVF8z3pZ9P15yQdSMbcvrR1jRzdfJt9erasrP588VtBukkHToDNUoli7TN46779EJotesvL1RbVRlQVCJhOBvdQBrzf5V/2DH3axYzJ15vjULpXPHOKCSw==;2DQMfSyPyp3vc9xbitp5/A=="
 ---
 

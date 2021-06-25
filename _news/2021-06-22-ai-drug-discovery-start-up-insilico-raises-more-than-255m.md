@@ -48,7 +48,7 @@ related:
     provider:
       name: techwireasia.com
       domain: techwireasia.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Image-by-Gerd-Altmann-from-Pixabay--450x300.jpg"
         width: 450

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "IBM explores AI tools to spot, cut bias in online ad targeting"
+title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
 excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
 publishedDateTime: 2021-06-24T10:16:00Z
-originalUrl: "https://www.metro.us/ibm-explores-ai-tools/"
-webUrl: "https://www.metro.us/ibm-explores-ai-tools/"
-ampWebUrl: "https://www.metro.us/ibm-explores-ai-tools/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/ibm-explores-ai-tools/amp/"
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXNPEH5N0GY-BASEIMAGE.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "IBM working on AI tools to spot, cut bias in online ad targeting"
@@ -56,6 +52,22 @@ related:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
+        isCached: true
+  - title: "IBM explores AI tools to spot, and reduce bias in online ad targeting"
+    excerpt: "Th tools would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy"
+    publishedDateTime: 2021-06-25T07:35:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83834378,imgsize-109816,width-800,height-434,overlay-etcio/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "IBM explores AI tools to spot, cut online ad targeting bias"
     excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
@@ -102,6 +114,6 @@ related:
         height: 557
         isCached: true
 
-secured: "gaVVZJ5DZNqUg+rd7IFq4D7yedpQhVEqjzB8jxk+irU6WA3UMfzzD8nV+zOoWAr2I5h5pYiq/XQzYmpgG/8nIQ3a0GiHjrFqiTuXNDawRgwF8QUzN0v5lSgntZmMoP+GK/JOgYGoxRXB713HVKqDl2c3Xh7iEkrn8q32IVkK770ehR5Xazq6SUM3jbTkJKS+9EsmS51bE4KJKcN7C8FYq/xrBRHrO9aly4hswXhx8HNRnm1ptlHI4To0H/JDjLo9+yq7dpxnBjQKGw6mOQt9yFGpowoXSqt8ThxzZ67Ay0IFLPlyC3dgMF1kHfq75sfqGZHnC3KTgGWNWWJdsa0CEGD7oEJNdBa+f5ayGxnz1PY=;Ckxq3YtWVqI16FWKiRdPyQ=="
+secured: "ATlM6qjEmwUCByeD6xp7FG5OD0J4zMhgeG6Auj8qvuAAzAbtLrvYPQoNV6o2ox8GQt5NTbvdhj0umB2J6AnmWq3WwylNAN/90ow70AvGpd02H0khEE/TiWvdejNZzNaDTFbnAnYIQJzeGftdDqKUxTmwX65DOq6s94eB9Gg/BDj6yptmRIW0vr1/Qq8nwVruXbXGo69t4H/nsaRl14yUea3VMRQ0rjDeJE3x4+sy+O0axiN8EAhGadbKyBldmh0zt2kBmxKm07cEVgjjcjOV5XJxoohmVw7Z+c8HUoZv/ei8OqI08Pwp2IuoQ2/hIv6V5uhQ1m1zFmxVe4KjKUKFB9iIoFIv0cQY1xvEoPGLIow+XpYVG4bbgx7Kws0JHsXDjdh/Gt2MIoz6LE7hk7W6xglWtiZUrKeslNMLPOmlzkj7EVBg/zc8DL4xgGr8zZjFe+BXUdXFXId1sc/K4Zqc/vQE8rP1alqjLTo7is4YUB5L+0bAQ8b3/POaUCjZ/OVMOy82QdaIftYlMVoSj0B9Dg==;N856BwZcQc/u428nh7Rysg=="
 ---
 

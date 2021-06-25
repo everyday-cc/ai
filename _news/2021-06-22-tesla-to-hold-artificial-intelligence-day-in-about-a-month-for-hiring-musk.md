@@ -73,6 +73,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla to host “Artificial Intelligence Day” to Hire New Talents: Elon Musk"
+    excerpt: "Elon Musk, the founder of Tesla announced to hold “Artificial Intelligence Day” for a month. This can generate new opportunities for professionals seeking jobs at Tesla."
+    publishedDateTime: 2021-06-23T12:28:00Z
+    webUrl: "https://www.analyticsinsight.net/tesla-to-host-artificial-intelligence-day-to-hire-new-talents-elon-musk/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 52
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/Elon-Mus-Tesla-will-host-AI-Day-to-show-progress-and-recruit-talent.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "+XOmiM1nBGRbryFK+owJWZIZw/zO9W7+GpC44AToWLlddFc0zaPT/hRepHpYr1kEB+egCltMgqWZ0Dzoi8Up+kPeHgQRmaFiZjqdM+CO6YJAFZMAZv0jj2rGkqPV7XsnszGq+4E4MjKyUXAVgz4Q9Lq75BTzxQhklCTyHh0X4cNSAo4fZBWYnkFniEXJn7kVXPaaxSEVDuD4QzqVeAV9HuI9JR5lGYI8emjFKkF5wUQ0/4W7PIOtPVrWN43L/N/Tgl7P0Udv1sYmVScprZPNbtbjj48Lv82yPscCvwA1N/0PkJpEXEsy644Paa8hYSKaCknWIkaJcOIJmdhJhAZtqy8MT184K3rDGBnUOyU/4/clCVjJi3aKun+1OxkwYav/0Gl6bUbDA1GYsBWTYp2IOHkNXeO/n/jJSvXGXp6J5DcBwx5Blhxdqll+0OQzr5Ex/AtOnXu6XbKWFsv5ROntqpdKKbDWNWUdJ4GmUYHIbIlyHEwxY5ao/v1FjuVWi7dR4d78qRgqflDUum07Mbht7g==;/Y9EgureaKL9Xv9ohpEjJw=="
 ---

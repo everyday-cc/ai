@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
         width: 720
         height: 470
         isCached: true
-  - title: "Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global In-Flight Voice Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The In-Flight Voice Recognition market report provides a"
-    publishedDateTime: 2021-06-21T05:49:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4583266-global-in-flight-voice-recognition-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "GY3deT5JPMb4Ez0F/ADIsf80zGYi5jmLExyjRHjdBn+5a/GTWiemps6aa+RnC4F4oNg+y2qZ/9bgOj212izqSQ7mTe/56HHuulM5iWtFyBMrxoaRhVrIY74IUz2EuX7Zzn1EhpQv1TXgylJOqPYfYCWKBSpc450MO8lwmX9hvnjXRYvGRpDo3F2TwqvawWW6so/oEqziathAhr+bqFA9iSKjiy1c+iduRn9Z40lCXMpPBdwuJGzrJiLfGIec3tDs1Bz0gUNpAJ+Mp3lB4soitYP9mOc5IwASS9widgnoRXj0A9GBYeZVv5j0bENFNe7h1gN9id6erZ2jBYBh8Sce3Mv+5nNJ8r3ASdtHTWmSYVo=;2a+f2ykp2hO7O1sUQA+Muw=="
 ---

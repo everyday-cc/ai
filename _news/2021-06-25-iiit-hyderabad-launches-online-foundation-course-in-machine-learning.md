@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/ii
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIIT Hyderabad Launches Online Course In Modern Machine Learning"
+    excerpt: "The iHub-Data at IIITH has launched a 50-week foundational course (online) in machine learning for engineering students"
+    publishedDateTime: 2021-06-25T06:48:00Z
+    webUrl: "https://analyticsindiamag.com/iiit-hyderabad-launches-online-course-in-modern-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Untitled-design4.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "IITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "In keeping with its objective of enhancing the quality of education in Artificial Intelligence (AI), iHub-Data at IIITH has launched a"
     publishedDateTime: 2021-06-24T17:59:00Z

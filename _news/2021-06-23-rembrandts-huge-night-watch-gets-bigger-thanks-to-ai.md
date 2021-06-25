@@ -42,6 +42,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Rembrandt's 'Night Watch' on Display With Missing Figures Restored by AI"
+    excerpt: "Watch' on Display With Missing Figures Restored by AI AMSTERDAM (Reuters) - For the first time in 300 years, Rembrandt's famed \"The Night Watch\" is back on display in what researchers say is its original size,"
+    publishedDateTime: 2021-06-23T13:46:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "AI helps return Rembrandt’s The Night Watch to original size"
     excerpt: "Rijksmuseum reproduces the work in all its glory, 300 years after it was cut to fit between doors"
     publishedDateTime: 2021-06-23T22:05:00Z

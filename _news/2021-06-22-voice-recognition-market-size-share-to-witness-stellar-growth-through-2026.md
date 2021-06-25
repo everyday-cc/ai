@@ -19,45 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Transportation Market to Witness Astonishing Growth by 2030"
-    excerpt: "The report Artificial Intelligence in Transportation Market by Machine Learning Deep Learning Computer Vision Context Awareness NLP Application Semi Full Autonomous HMI Platooning Offering Hardware Software Process and Region Global Forecast to 2030 The artificial intelligence in transportation market is"
-    publishedDateTime: 2021-06-21T05:59:00Z
-    webUrl: "https://www.openpr.com/news/2309352/artificial-intelligence-in-transportation-market-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309352/artificial-intelligence-in-transportation-market-to-witness"
+  - title: "Market for Emotion Recognition Projected to Grow as Some Question Science"
+    excerpt: "Emotion recognition software is growing in use and is being questioned for its scientific foundation at the same time."
+    publishedDateTime: 2021-06-24T15:12:00Z
+    webUrl: "https://www.aitrends.com/emotion-recognition/market-for-emotion-recognition-projected-to-grow-as-some-question-science/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
+      name: aitrends
+      domain: aitrends.com
+    quality: 23
     images:
-      - url: "https://cdn.openpr.com/U/6/U621906822_g.jpg"
-        width: 615
-        height: 397
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-25EmotionRecognition-2.jpeg"
+        width: 550
+        height: 237
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application, Geography and Forecast 2021-2030"
-    excerpt: "Acumen Research and Consulting has announced the addition of the \"Global Machine Learning as a Service (MLaaS) Market : Global Industry Size, Share, Trends and Forecast, 2021-2030\" report to their offering."
-    publishedDateTime: 2021-06-24T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-geography-and-forecast-2021-2030-2021-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest Survey 2021: AI Governance Market to Witness Revolutionary Growth by 2025 | IBM, Google, Facebook"
-    excerpt: "The up-to-date coverage of the latest report AI Governance Market provides a detailed synopsis as well as a consistent evaluation of accurate revenue over the forecasted timespan. Current trends, industry analysis,"
-    publishedDateTime: 2021-06-22T17:18:00Z
-    webUrl: "https://manometcurrent.com/latest-survey-2021-ai-governance-market-to-witness-revolutionary-growth-by-2025-ibm-google-facebook/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
 
 secured: "EvTWioLJl8AI5rPyCp85pNNQhKcga87IOHfXLjTA7sqmb12NVanooY6VeZboKVkkxYd68K1ngvYGCQEIZXLxQ7QeMEFcIQ3E3zhdh5BJBzplbPFvvZ1rp9FAeUOdhloIeW4+WpJUOZ+2SeXImzWRpN6SmUpNRmw7It/W2f8UfQuCeNm/k336YRY3DqUetTDJDvLy9WnA8lMqdUu2vVougxcSaH34ysGCOc1Zqq/ArMDrYhRacxyCqKRybto7vKevIMo1PEuWMXbIPJBscjFvommYlnj+aM32VrG4Hi4QycnEQsJK55JNIVkHzh0Ms5j74comAo4pD9KZ25r2keCZqYMxagJkqgKewI49XtVfFcQ=;mF36dL+YznYNfOtzn0QTWw=="
 ---

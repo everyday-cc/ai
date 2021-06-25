@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recru
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/elon-musk-tesla-ai-day-progress-recruit-talent/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/TESLA-AI-DAY.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Tesla to host “Artificial Intelligence Day” to Hire New Talents: Elon Musk"
+    excerpt: "Elon Musk, the founder of Tesla announced to hold “Artificial Intelligence Day” for a month. This can generate new opportunities for professionals seeking jobs at Tesla."
+    publishedDateTime: 2021-06-23T12:28:00Z
+    webUrl: "https://www.analyticsinsight.net/tesla-to-host-artificial-intelligence-day-to-hire-new-talents-elon-musk/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 52
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/Elon-Mus-Tesla-will-host-AI-Day-to-show-progress-and-recruit-talent.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "k7kqvATT/4mcwQHXtTUdai0+WTiyOUyu89cgvu26gjPjYeFl+Tn7f7XU7G9v7iUGwScK/LtAfVfXKqxfsBuccyvQ+9uqnS7Tzo1Wk2iurYIGiTOv1ILHHtR8OfMVFbXGqNLBg2WJukUcGHFUb+9Nd+paJtiYE8+x/wXS5sSTfzBRokK3EXJS0QtZqScwQ5nMk1Rj7jUPWZk8XlRmCH4an049e5UQ/bMR8uZfRd2sRIBXDGm6ke3re5t59NSZznnKIf4IfVGtN+qARsemUXVmw90RYrnkk34e9BzUurq/F2P2Z3bJ8zbqvGFxsxR9iDDTWo+I8qJB67T7koqCxuj1XkoxePHx0Z0NAUUqJ45MBt4G22ei2mSoefNPE44/84DC7Bg+QHmkmsTcHdlvRAM+8Kw5a5f7Db4SPJIG47CeE8BZki0wCwEkyZzpILOU1HHxkaPiCt8Za/dat3KChMv7NQZYm7t7bWn0y0iq4xqdZQFvx8gF8E/4HjmCctacU0gTg0X+Wa/3GA+MybGTHNmIdw==;g/GbAGjX3xvjzTsSPGBrQA=="

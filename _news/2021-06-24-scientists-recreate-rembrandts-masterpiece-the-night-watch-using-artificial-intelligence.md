@@ -40,6 +40,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Rembrandt's 'Night Watch' on Display With Missing Figures Restored by AI"
+    excerpt: "Watch' on Display With Missing Figures Restored by AI AMSTERDAM (Reuters) - For the first time in 300 years, Rembrandt's famed \"The Night Watch\" is back on display in what researchers say is its original size,"
+    publishedDateTime: 2021-06-23T13:46:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
     excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
     publishedDateTime: 2021-06-23T13:03:00Z

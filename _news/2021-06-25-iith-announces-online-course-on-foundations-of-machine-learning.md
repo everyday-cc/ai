@@ -41,6 +41,20 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "IIIT Hyderabad Launches Online Course In Modern Machine Learning"
+    excerpt: "The iHub-Data at IIITH has launched a 50-week foundational course (online) in machine learning for engineering students"
+    publishedDateTime: 2021-06-25T06:48:00Z
+    webUrl: "https://analyticsindiamag.com/iiit-hyderabad-launches-online-course-in-modern-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Untitled-design4.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "IITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "The online course is open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology, Electronics Engineering, Electrical Engineering or other allied branches from any technical institution in India."
     publishedDateTime: 2021-06-24T08:36:00Z
