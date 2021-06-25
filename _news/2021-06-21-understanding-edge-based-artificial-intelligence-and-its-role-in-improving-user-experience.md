@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/understanding-edge-based-artificial-intellig
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/understanding-edge-based-artificial-intelligence-role-improving-user-experience/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,89 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "Three use cases — how AI is helping improve the healthcare experience"
-    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
-    publishedDateTime: 2021-06-22T10:01:00Z
-    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
+  - title: "Machine Learning and the Gambling Experience"
+    excerpt: "Online casino gaming has become one of the most popular and fastest-growing industries in the world. By providing players a wide range of gaming options and the freedom to choose their favorite device or payment method,"
+    publishedDateTime: 2021-06-24T19:03:00Z
+    webUrl: "https://www.techzone360.com/topics/techzone/articles/2021/06/24/449264-machine-learning-the-gambling-experience.htm"
+    ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2021/06/24/449264-machine-learning-the-gambling-experience.htm/amp"
+    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2021/06/24/449264-machine-learning-the-gambling-experience.htm/amp"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 58
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
-        width: 1080
-        height: 592
-        isCached: true
-  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
-    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
-    publishedDateTime: 2021-06-24T13:16:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
+      name: Tech Zone 360
+      domain: techzone360.com
+    quality: 39
+  - title: "Why do Customer Experience and Conversational AI go Hand in Hand?"
+    excerpt: "Consumer behavior has witnessed a whirlwind of changes in the past decade. Technological developments have enabled all industries to embrace digital transformation at scale."
+    publishedDateTime: 2021-06-25T09:33:00Z
+    webUrl: "https://www.digitaldoughnut.com/articles/2021/june-2021/customer-experience-and-conversational-ai"
     type: article
     provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 51
+      name: digitaldoughnut.com
+      domain: digitaldoughnut.com
+    quality: 39
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "AI + Human Intelligence — A More Effective Solution for the Healthcare Payment Lifecycle"
-    excerpt: "AI is best used in an “augmented intelligence” capacity, where it assists human decisions. Importantly, it also allows us to reallocate human resources to essential patient care tasks."
-    publishedDateTime: 2021-06-22T20:02:00Z
-    webUrl: "https://hitconsultant.net/2021/06/22/ai-human-intelligence-healthcare-payment-lifecycle/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 45
-    images:
-      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/06/Navaneeth-Nair.jpg"
-        width: 337
-        height: 337
-        isCached: true
-  - title: "Healthcare Technology Trends Will Improve the Patient Experience in 2021 and Beyond"
-    excerpt: "In our ever-evolving, technologically advanced world, convenience is king—and that absolutely applies to the healthcare industry. Improving the patient experience is a noble goal, but the truth is it’s a constantly moving target."
-    publishedDateTime: 2021-06-24T15:33:00Z
-    webUrl: "https://www.softwareadvice.com/resources/healthcare-technology-trends/"
-    type: article
-    provider:
-      name: Software Advice
-      domain: softwareadvice.com
-    quality: 33
-    images:
-      - url: "https://www.softwareadvice.com/resources/wp-content/uploads/Tile-190.png"
-        width: 450
-        height: 246
-        isCached: true
-  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
-    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
-    publishedDateTime: 2021-06-22T13:55:00Z
-    webUrl: "https://www.lelezard.com/en/news-19868775.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Artificial intelligence is changing how we diagnose disease, triage cases in the ER, even help prep doctors"
-    excerpt: "While algorithms might not have a great bedside manner, new technology is helping save lives: St. Michael’s Hospital saw a 20 per cent reduction in"
-    publishedDateTime: 2021-06-22T19:04:00Z
-    webUrl: "https://www.thestar.com/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 21
-    images:
-      - url: "https://images.thestar.com/OrV6h4DzV0yGbPbdNAnqjftjodY=/1200x846/smart/filters:cb(1624391807455)/https://www.thestar.com/content/dam/thestar/business/mars/2021/06/22/artificial-intelligence-is-changing-how-we-diagnose-disease-triage-cases-in-the-er-even-help-prep-doctors/_1_st_michael_s_hospital.jpg"
-        width: 1200
-        height: 846
+      - url: "https://www.digitaldoughnut.com/getattachment/38fd9de9-d6d1-4c26-a521-0aff86cac2b8/Customer-Experience-and-Conversational-AI"
+        width: 734
+        height: 475
         isCached: true
 
 secured: "umvY6s7RDuhUdtOXTsM/+IFTOMKBtrIe7aNOsvDzLW04paoAj5lV/N+bwDS1XP/JritAfARPc51+qYTBEeaetfE1raVTPbb+3NKI0wTab0mC4jAuUDUCj8yX4Hu6WBCIyM3bj3rdOSocFRm6PZjlGsIcjnZriPiSpeLiJLFzegXpT02hetQQt6yyztfSmef0PR9J6EqLHRTJst5ePhsTkZAYQF5jqZHiSx2OYMGKrMj46w6GdX9TPlwRj6sdm0614DEiWYVXVbKLMzqT8IXXajyiqy82/uaQYFyiBu2qaAbXuZ+3XmnpkHAq5Fd9JyKst0FISvZmG66Wf0kGtrkkPm+Wjv0AYeMkDe5AxYt6Qwg=;LNoYLQhe+umvlpEhaLUe4w=="

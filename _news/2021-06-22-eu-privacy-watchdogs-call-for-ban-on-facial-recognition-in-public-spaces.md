@@ -156,6 +156,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 53
+  - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
+    excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
+    publishedDateTime: 2021-06-24T12:23:00Z
+    webUrl: "https://www.euractiv.com/section/health-consumers/news/irelands-green-light-for-medical-cannabis-and-calls-to-ban-ai-face-recognition/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 50
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/06/1-1536x864-2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "EU data watchdogs call for facial recognition ban"
     excerpt: "The group of regulators believe the EU’s proposed rules for AI do not go far enough in banning live facial recognition in public places."
     publishedDateTime: 2021-06-21T15:09:00Z

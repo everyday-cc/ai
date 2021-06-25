@@ -21,109 +21,79 @@ topics:
   - AI
 
 related:
-  - title: "Evolution, rewards, and artificial intelligence"
-    excerpt: "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ..."
-    publishedDateTime: 2021-06-21T00:01:00Z
-    webUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
+  - title: "Ag tech is working to improve farming with the help of AI, IoT, computer vision and more"
+    excerpt: "These leading technologies will play pivotal roles in transforming farming practices to help feed a growing world population."
+    publishedDateTime: 2021-06-25T16:07:00Z
+    webUrl: "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/25/22b8a7b9-529b-4243-92a0-490a432fb750/resize/1200x/1bdbc397c8c1c5c174bbf20591edd38e/smart-farming.jpg"
         width: 1200
-        height: 600
+        height: 900
         isCached: true
-  - title: "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World"
-    excerpt: "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,"
-    publishedDateTime: 2021-06-22T19:57:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/"
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
+    publishedDateTime: 2021-06-24T11:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg"
-        width: 1200
-        height: 742
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
-  - title: "How AI Powers Mobile Innovation"
-    excerpt: "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level."
-    publishedDateTime: 2021-06-22T21:44:00Z
-    webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
+  - title: "Three use cases — how AI is helping improve the healthcare experience"
+    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
+    publishedDateTime: 2021-06-22T10:01:00Z
+    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
+      name: Information Age
+      domain: information-age.com
+    quality: 58
     images:
-      - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
+        width: 1080
+        height: 592
         isCached: true
-  - title: "Disaster response and mitigation in an AI world"
-    excerpt: "After the destructive California wildfires of 2019, the U.S. government put together a White House Executive forum to develop better ways of protecting the nation and key infrastructure, such as the power grid,"
-    publishedDateTime: 2021-06-25T14:37:00Z
-    webUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.html"
-    ampWebUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
+  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
+    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
+    publishedDateTime: 2021-06-24T13:16:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 51
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/disaster-response-and.jpg"
-        width: 1600
-        height: 1200
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
-    excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."
-    publishedDateTime: 2021-06-23T07:00:00Z
-    webUrl: "https://energypost.eu/convolutional-neural-networks-facial-recognition-ai-applied-to-analysis-and-design-of-advanced-nuclear-reactors/"
+  - title: "Funding is pouring in to companies trying to crack self-driving tech"
+    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
+    publishedDateTime: 2021-06-25T00:30:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
     type: article
     provider:
-      name: energypost.eu
-      domain: energypost.eu
-    quality: 50
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
     images:
-      - url: "https://energypost.eu/wp-content/uploads/2021/06/Can-artificial-intelligence-open-new-doors-for-materials-discovery.jpg"
-        width: 500
-        height: 241
-        isCached: true
-  - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
-    excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
-    publishedDateTime: 2021-06-24T12:23:00Z
-    webUrl: "https://www.euractiv.com/section/health-consumers/news/irelands-green-light-for-medical-cannabis-and-calls-to-ban-ai-face-recognition/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 50
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/06/1-1536x864-2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
-    excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
-    publishedDateTime: 2021-06-22T05:12:00Z
-    webUrl: "https://www.forconstructionpros.com/profit-matters/article/21509256/artificial-intelligence-is-revolutionizing-construction-scheduling-and-risk-management"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 29
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Schedule_feature_01__2_.60ca78fef0b13.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
+        width: 740
+        height: 415
         isCached: true
 
 secured: "Hu3aj5hdUGMo/6s3m/UsDIdbxhmMBB5SQ57EmqWtyuRhS7ahCQu5zsitSGj+ijFRqjEzFVIiM58xcEGGKByGi592HHuQHktpEH3QoZ4H3ncJ7I9W5YpeYg41xTyvRtQyAFtSrJ9RHt7yzj7Md5EDSYGRRfVqEQWibLQ5TTiSEOwZIQ0E6stPXf+zjSc04vzE5f5TxwSIsr2uJjhHpjkAxlL1k1oz4TOR7hgT/oFABZnAWxH6W2AFXRUjyL5KJzAIypiR4b6nrzk7Y90ZzZR+AVVZCmtaOKlv3EmPnaHM0IcOrxVhnIiSlwRhd1BYgqk3TDQL1sQoetJE+d/ooDktgGSjVmpUUtCpHc0XQneL5jc=;ParZTnD7AiedHLq/csZQCg=="

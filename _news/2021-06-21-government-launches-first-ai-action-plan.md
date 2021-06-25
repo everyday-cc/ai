@@ -38,15 +38,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "Sidekicks.ai: The World’s First Holographic AI Educational Assistant"
-    excerpt: "Sidekicks.ai is on a mission to revolutionize education and give AI a friendlier face by breathing life into smart characters full of personality, emotions, and, sometimes, an attitude."
-    publishedDateTime: 2021-06-23T17:15:00Z
-    webUrl: "https://www.pr.com/press-release/838911"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 17
 
 secured: "msMkEN0xnwOm+9Dre3O+/g0BQzN5IjDtT8T4dcndLrsWf0gbl52exuP6ftdXRNJA+6qIlhuF+mtrLp1XiCc6z83pR8kExpywAtHaQ71RltkgO8ImiBazatRvQdr0No5x0VMevWqiwOSxD6/93QVNVbQetdd3toA7a1XznErYVcBQ4qVAM+qn9XUG6l3DiAKv8ytkztfbOcxfkQV3C2hf1/kZPaFpyB6Cp1CKhN9QDYNGJw7jT7lew7sxRaQ4cvFSi+Z4G8a3IaKycALJJsB+N9QaHK1eiKioMGhZdaa5/POBjhUc45/aHB4oa0sORuaypUVddrl8zzOpubb4a/F3M6O4AOP9TgkS6JWk0x/Gm4Q=;e3R0PLUGsfpXo+5fV1jJ5w=="
 ---

@@ -43,6 +43,38 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Tech Company Pony.ai Considers Going Public"
+    excerpt: "Pony.ai, a self-driving tech firm backed by Toyota, is mulling going public to help finance its goal of commercializing driverless ride-hailing."
+    publishedDateTime: 2021-06-25T16:26:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-tech-company-pony-ai-considers-going-public/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-tech-company-pony-ai-considers-going-public/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-tech-company-pony-ai-considers-going-public/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Self-Driving, Electric Trucking Startups Are Creating 20-Something Billionaires"
+    excerpt: "A slew of self-driving and electric truck companies are going public through SPAC mergers, making their young founders overnight billionaires."
+    publishedDateTime: 2021-06-25T13:00:00Z
+    webUrl: "https://observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/"
+    ampWebUrl: "https://observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/06/electric-autonomous-truck-embark-spac-go-public-young-billionaire/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 55
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2021/06/Embark.jpeg?quality=80&#038;strip"
+        width: 3072
+        height: 2154
+        isCached: true
   - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
     excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T11:17:00Z

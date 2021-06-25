@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Scotiabank brings machine learning to chatbot"
-    excerpt: "Scotiabank is bringing machine learning to its search function, prepping a chatbot that will be able to instantly answer complicated customer questions."
-    publishedDateTime: 2021-06-20T23:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38297/scotiabank-brings-machine-learning-to-chatbot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/bots-to-you.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "The reawakening of the old idea of children doing AI programming"
     excerpt: "In the recently published British Journal of Educational Technology article, ‘Constructionism and AI: A history and possible futures’, Niall Winters and I examine the 50-year history"
     publishedDateTime: 2021-06-21T08:41:00Z

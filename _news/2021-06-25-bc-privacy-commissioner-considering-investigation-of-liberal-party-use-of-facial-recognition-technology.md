@@ -73,6 +73,17 @@ related:
         width: 730
         height: 499
         isCached: true
+  - title: "Corrective to June 24 story on Liberals use of facial recognition technology"
+    excerpt: "The Canadian Press erroneously reported on June 24 that the Liberal Party of Canada consulted the federal privacy commissioner on the use of facial recognition technology. In fact, the party says it consulted the public guidance from the commissioner on the appropriate use of the technology."
+    publishedDateTime: 2021-06-25T16:43:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/corrective-to-june-24-story-on-liberals-use-of-facial-recognition-technology"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/corrective-to-june-24-story-on-liberals-use-of-facial-recognition-technology/wcm/9e11c7d0-2ed7-4e14-915b-c7fe1122af7e/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/corrective-to-june-24-story-on-liberals-use-of-facial-recognition-technology/wcm/9e11c7d0-2ed7-4e14-915b-c7fe1122af7e/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 36
   - title: "Civil liberties group urges Liberal Party to stop using facial recognition technology"
     excerpt: "In a letter obtained by The Globe and Mail on Wednesday, the association calls on the Liberal Party of Canada to “cease and desist using it” to verify the identity of people voting in candidate nomina"
     publishedDateTime: 2021-06-23T16:04:00Z

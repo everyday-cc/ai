@@ -27,31 +27,75 @@ images:
     isCached: true
 
 related:
-  - title: "Using machine learning to build maps that give smarter driving advice"
-    excerpt: "Mapping services built for the developed world fail in fast-growing regions. The solution could be an AI-based routing system fed by real-time vehicle data."
-    publishedDateTime: 2021-06-23T17:10:00Z
-    webUrl: "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/"
-    ampWebUrl: "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/"
+  - title: "Ag tech is working to improve farming with the help of AI, IoT, computer vision and more"
+    excerpt: "These leading technologies will play pivotal roles in transforming farming practices to help feed a growing world population."
+    publishedDateTime: 2021-06-25T16:07:00Z
+    webUrl: "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/Stanojevic-Episode-Page-Header.png?w=1920"
-        width: 1920
-        height: 1005
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/25/22b8a7b9-529b-4243-92a0-490a432fb750/resize/1200x/1bdbc397c8c1c5c174bbf20591edd38e/smart-farming.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Dynamic Games for Social Model Training Service Market via Federated Learning Approach"
-    excerpt: "In recent years, an increasing amount of new social applications have been emerging and developing with the profound success of deep learning technologies, which have been significantly reshaping our daily life,"
-    publishedDateTime: 2021-06-24T02:39:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9462832"
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
+    publishedDateTime: 2021-06-24T11:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
     type: article
     provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "Three use cases — how AI is helping improve the healthcare experience"
+    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
+    publishedDateTime: 2021-06-22T10:01:00Z
+    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 58
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
+        width: 1080
+        height: 592
+        isCached: true
+  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
+    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
+    publishedDateTime: 2021-06-24T13:16:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 51
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
+    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
+    publishedDateTime: 2021-06-23T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "rv0K36pgllgC1y1aVzlwvp+SzzojiNd/HKzV2mlvL/tY+2iVhEcjt+fjUjejyvyO+q3HsF/h6oxCcBu28ZhKv+CAOJs6PLoG6lltew1ywQ8sAbCmBx/q8R99GoadK3Gwi/GXIHXRSJpB2qvS+idpu3pxO0dEWCWPkOz79bMgMkIw6OJgId7BNmSj9MHp/u12ZENyeQPZkpxES+ZhnRpOexAzQKf5UVlIxBwMJeAhyL7u3dGxzql9VEqcbuqUnSyAND5IbcULUzig9D9HEYcJsP5+tfNOkxUNvAOqUYCQby2itBzufzsKu134qNElQSJNz2pxebOaVWC+AQREODkHvXIxyamRZbeTsLqveT9UnnQ1mObVuHqJX3aQkfTV2SnLWkqk4U/jjhdjyJHx7oZekSWAfBWFGYGD+JUhdGwjdbyasVVxiNhPTi0MII7bzImv+Tgy6ikEPu8wkATMRvExa5sWefkhJKTcZHmaz27Yhdvv186q8ixeq/FP9amCzLX5lhlhdxvoYcSdBP3CUeQ4tQ==;944EP+s4gAZuYftF2Sw0fg=="
 ---

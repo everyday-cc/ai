@@ -38,7 +38,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
         width: 400

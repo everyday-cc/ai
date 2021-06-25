@@ -9,7 +9,7 @@ ampWebUrl: "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-art
 cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/?amp"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:

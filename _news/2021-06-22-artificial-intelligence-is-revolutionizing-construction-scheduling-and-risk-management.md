@@ -24,107 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "Evolution, rewards, and artificial intelligence"
-    excerpt: "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ..."
-    publishedDateTime: 2021-06-21T00:01:00Z
-    webUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
+  - title: "The BioRevolution: An ETF That Taps Into Nearly Everything"
+    excerpt: "Exchange traded fund investors should consider the current opportunities in healthcare innovation. In the recent webcast, The Era of Biotech: How Biology Became Technology, Jeremy Schwartz, Executive Vice President, Global Head of Research, WisdomTree Asset Management; and Jamie Metzl, member of the World Health Organization expert committee on human genome editing, explained that the so-called BioRevolution, or Biology Revolution, covers the advances across multiple fields including computer science, artificial intelligence, big data analytics, automation, chemistry, biology, and engineering, which are creating previously unimaginable new opportunities to re-engineer biological systems. Looking ahead, the revolution in our ability to read, understand, write, and hack DNA, the genetic code of all life, will transform healthcare, agriculture, manufacturing, energy production, consumer services, and data storage. The strategists explained that the technologies underpinning the BioRevolution are connected and reinforcing advancements across interdisciplinary fields. For example, genetic technologies can prevent and treat disease, leading to significant enhancements to human health, well-being, and longevity. Healthier and more sustainable models can feed our growing population. Biological reengineering can be used to produce physical inputs needed for manufacturing. Additionally, DNA has approximately one million times greater storage capacity than hard-disk storage. \"We expect our healthcare system to transition from generalized medicine to personalized, or precision, healthcare based on each person’s individual biology,\" Schwartz said. \"The BioRevolution will pave the way for predictive, preventative healthcare that will help us live healthier and longer lives.\" We have already witnessed many high-profile preliminary applications of BioRevolution in the healthcare industry. For example, diagnostics and surveillance have used biological data to screen and diagnose diseases, disorders, or traits. Precision health/gene therapy has used biological data to screen and diagnose diseases and disorders to enable more precise interventions. However, biotechnology in the healthcare industry is only one aspect of the ongoing revolutionary application of biotechnology. For example, we will witness greater precision agriculture, plant-based meats, and cellular agriculture. Synthetic manufacturing, precision fermentation, and biofuels will expand the materials, chemicals, and energy industries. Lastly, biological machines and interface will combine DNA sequencing with data storage. \"The same intersection of biology and technology that is transforming the healthcare sector, is also driving transformations across many sectors and industry verticals of our global economy,\" Schwartz said. \"Although healthcare is the most mature market for these technologies, other sectors will catch up.\" To help investors access innovation in the growing BioRevolution space, WisdomTree recently launched the WisdomTree BioRevolution Fund (WDNA) on the CBOE. WDNA seeks to track the price and yield performance, before fees and expenses, of the WisdomTree BioRevolution Index (WTDNA) and has an expense ratio of 0.45%. WisdomTree leveraged data from Dr. Jamie Metzl, one of the world’s leading technology futurists and special strategist for WisdomTree, in its construction of the WisdomTree BioRevolution Index, which identifies the key sectors and industries that are expected to be most significantly transformed by advances in biological science and technology. \"WisdomTree and Dr. Metzl share the view that the application of genetics and biotechnology will extend far beyond healthcare. In our shared view, the BioRevolution is creating a historic investment opportunity equivalent to the industrial and internet revolutions,\" Schwartz added. Financial advisors who are interested in learning more about the biotechnology sector can register for the Monday, June 21 webcast here. Read more on ETFtrends.com. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc. Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday."
+    publishedDateTime: 2021-06-21T19:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-biorevolution%3A-an-etf-that-taps-into-nearly-everything-2021-06-21?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World"
-    excerpt: "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,"
-    publishedDateTime: 2021-06-22T19:57:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/06/22/oecdai-paving-the-way-towards-sustainable-trustworthy-and-responsible-ai-world/amp/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "How machine learning will revolutionise drug discovery"
+    excerpt: "Alex Housley, founder and CEO of Seldon, discusses how machine learning is set to revolutionise drug discovery"
+    publishedDateTime: 2021-06-22T09:12:00Z
+    webUrl: "https://www.information-age.com/how-machine-learning-will-revolutionise-drug-discovery-123495722/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0b8605e94f1d70330f026%2F0x0.jpg"
-        width: 1200
-        height: 742
-        isCached: true
-  - title: "How AI Powers Mobile Innovation"
-    excerpt: "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level."
-    publishedDateTime: 2021-06-22T21:44:00Z
-    webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Disaster response and mitigation in an AI world"
-    excerpt: "After the destructive California wildfires of 2019, the U.S. government put together a White House Executive forum to develop better ways of protecting the nation and key infrastructure, such as the power grid,"
-    publishedDateTime: 2021-06-25T14:37:00Z
-    webUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.html"
-    ampWebUrl: "https://phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-disaster-response-mitigation-ai-world.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/disaster-response-and.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
-    excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."
-    publishedDateTime: 2021-06-23T07:00:00Z
-    webUrl: "https://energypost.eu/convolutional-neural-networks-facial-recognition-ai-applied-to-analysis-and-design-of-advanced-nuclear-reactors/"
-    type: article
-    provider:
-      name: energypost.eu
-      domain: energypost.eu
-    quality: 50
-    images:
-      - url: "https://energypost.eu/wp-content/uploads/2021/06/Can-artificial-intelligence-open-new-doors-for-materials-discovery.jpg"
-        width: 500
-        height: 241
-        isCached: true
-  - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
-    excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
-    publishedDateTime: 2021-06-24T12:23:00Z
-    webUrl: "https://www.euractiv.com/section/health-consumers/news/irelands-green-light-for-medical-cannabis-and-calls-to-ban-ai-face-recognition/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 50
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/06/1-1536x864-2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
-    publishedDateTime: 2021-06-23T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Information Age
+      domain: information-age.com
     quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/06/how-machine-learning-will-revolutionise-drug-discovery.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
+  - title: "Machine-learning approach could accurately predict the evolution of breast cancer"
+    excerpt: "From amoebas to zebras, all living things evolve. They change over time as pressures from the environment cause individuals with certain traits to become more common in a population while those with other traits become less common."
+    publishedDateTime: 2021-06-24T04:05:00Z
+    webUrl: "https://www.news-medical.net/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210624/Machine-learning-approach-could-accurately-predict-the-evolution-of-breast-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine Learning to Bring a Revolutionary Transformation in Software Testing"
+    excerpt: "Machine Learning to Bring a Revolutionary Transformation in Software Testing  - The test automation effort will continue to accelerate. Surprisingly, a lot of businesses do have manual checks in"
+    publishedDateTime: 2021-06-24T07:27:00Z
+    webUrl: "https://www.cioreview.com/news/machine-learning-to-bring-a-revolutionary-transformation-in-software-testing-nid-33911-cid-112.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 36
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_57Bl192I.jpg"
+        width: 705
+        height: 485
+        isCached: true
+  - title: "Artificial Intelligence is Revolutionizing This Contractor's Construction Scheduling and Risk Management"
+    excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
+    publishedDateTime: 2021-06-22T05:12:00Z
+    webUrl: "https://www.forconstructionpros.com/profit-matters/article/21509256/artificial-intelligence-is-revolutionizing-this-contractors-construction-scheduling-and-risk-management"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 20
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Schedule_feature_01__2_.60ca78fef0b13.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "l0/gGo2ix4/l3VgYj6+k+lR4B8uTVu5LMuQAP3soFOIDBenHdTKGZaXf+j9069MJqlznJpqJ6xHTKiSEn1fIONs/xlDWnBjRA9NkA3cm5w6iq2Rjf5CaIvjLTHVhH6liKdavWzN8EHP9QnCY2sLxK0lnw0W+o455gcB4OJfDebueT6wNW2uHiF7lx57OOZjGkJ+AWB4E3CemCDbOKchb3PUzVjpfaYu2holn7Az+o2COVJrEGUoSeOo0PB6ZgudTcGiJ97ca5RNp+wCLetnpzlAoOdlu/+litWGlp7aVutT1piu4peGhcFrJexgxgtHVlYMcCb9pL+w2Qbm+rqXmNcfYgEyYg03UiDlR05cSAxtvmRxDdhHrrxH2nPThdvawSqN0LPwquMwY6TfBYub9xHOEjlsVxVbT2i+8rSxWRxPmK013X8/rQu8+Qz2g+XeIjm4Re+HAyNTNU/A98X9Nbc1ephNsuY9Yx8rvGTMc949sVvxAQ8qLrAqMNsKyANNE++9Q+S2wWYKFI2yYyUghQw==;VtR1UO/14RsX17y8HhtYjQ=="
 ---

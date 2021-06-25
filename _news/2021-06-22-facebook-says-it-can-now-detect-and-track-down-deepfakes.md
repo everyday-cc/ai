@@ -69,6 +69,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "New AI Model From Facebook, Michigan State Detects & Attributes Deepfakes"
+    excerpt: "Deepfake technology allows for the easy digital transplant or manipulation of real faces, enabling users to depict, for instance, politicians saying"
+    publishedDateTime: 2021-06-25T16:30:00Z
+    webUrl: "https://www.datanami.com/2021/06/25/new-ai-model-from-facebook-michigan-state-detects-attributes-deepfakes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_deepfake_faces_recognition.jpg"
+        width: 1000
+        height: 662
+        isCached: true
 
 secured: "htuL+IFtB2m65ym9M5+ITDb2UJArb6Dc9bKxgMQa05SsGEgsLNn1uXI8kr6/pbMDAiKzAOeO6ChBQREentmDGTs81Kl+ndWltfcozjQUHzX99niReZrLPszefTOkRnA0tukzfG5rVkrPSgLAdpfyuz6aNIVSt8+LXc/8+p8QrEMnmaEdvgtMhyLW0zhpMPenNij/vXSi6PTktUkkO34wOeDqsdWeW4/t+PHmAJpqlEUsvwUdLPts2cdBNMlZ/NnQQY0DdM1YNeqrqdln7ivlpC4Vvv2t7VWV2hAMgjYMWjAaiB68Yc4AqYXBr6EixnT9QLVTqsz/8vXWQjDIftr60KCwk86Elj5A+8+yj4Lydtg=;B5G5qGwl8DBoUNuoDXID+w=="
 ---

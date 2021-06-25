@@ -41,6 +41,22 @@ related:
         width: 680
         height: 377
         isCached: true
+  - title: "Walmart Uses Predictive AI To Avoid E-Grocery Substitution Shame"
+    excerpt: "The retail giant will offer the ability for shoppers to use artificial intelligence to more accurately fulfill orders when requested items are out of stock."
+    publishedDateTime: 2021-06-25T15:30:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/walmart-uses-predictive-ai-for-grocery-substitutions/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/walmart-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "5 Ways AI Technology is Making Our Buildings Smarter"
     excerpt: "Smart technology has led to the most notable changes in our lifestyle. For more than a year now, millions of people have been working from home and life has been led largely online. During the pandemic,"
     publishedDateTime: 2021-06-24T18:50:00Z

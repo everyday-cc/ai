@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wspa.com/news/partnership-announced-to-improve-health-ca
 cdnAmpWebUrl: "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/partnership-announced-to-improve-health-care-for-patients-while-increasing-workforce-development/amp/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 546
     height: 304
     isCached: true
+
+related:
+  - title: "Healthcare Technology Trends Will Improve the Patient Experience in 2021 and Beyond"
+    excerpt: "In our ever-evolving, technologically advanced world, convenience is king—and that absolutely applies to the healthcare industry. Improving the patient experience is a noble goal, but the truth is it’s a constantly moving target."
+    publishedDateTime: 2021-06-24T15:33:00Z
+    webUrl: "https://www.softwareadvice.com/resources/healthcare-technology-trends/"
+    type: article
+    provider:
+      name: Software Advice
+      domain: softwareadvice.com
+    quality: 33
+    images:
+      - url: "https://www.softwareadvice.com/resources/wp-content/uploads/Tile-190.png"
+        width: 450
+        height: 246
+        isCached: true
 
 secured: "Uc9RFBQikEKVZGt78xqj9626DNfCWrcVaz//lTo7qAm+7wFwQNKpjJ5owOo/5mEcZe+SpQIqlTv4OdiNGPGGre+8ZMr9edSOzCIUqnPKyLpt5mFdiHCJtPPpSrbKgSZqw+Ibm3dmfosBy852/Dg6/OGheWE7wu5Db56X0HQWg/IP9AIOmi/VbfkAObVY+9oqEh1+dpBBwBTwTHiVGuQpzIWLrvhwy+TgZkuD/sGnvV3fU5Rw2mT7Y4UskMERIr9X7G1LN7tGCwsDtftfxiG+ebv1RStwH9A1AEf3E6zAtj3CcKLNNuskHLqRmCFjZxDxfaxmqGehe2Vn9f3gfv7OfjEsKbIHdDjKTKA2q90GLBeXNkGHrAzodjR1jWKjAPLLK0FNS+IWPIqWCph0rc7bepy5svLtFdyGItsd70ij4EJ5RIc/sLpwdL5daUIyUJ3vHCWkBOYzhcCExJAkv96DZNRrN0qJ0HNDrQgMDPxF9fu2P4eyT1n1neRf6uMRaguoa/VQfp6ozGKWa79bJjX5qw==;guJCgt0cMRJGDMyJyjbfDA=="
 ---

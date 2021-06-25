@@ -36,18 +36,18 @@ related:
       domain: nasdaq.com
     quality: 69
   - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
-    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By"
+    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible"
     publishedDateTime: 2021-06-25T12:38:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 62
     images:
-      - url: "https://mma.prnewswire.com/media/1551025/octopus.jpg?p=facebook"
-        width: 798
-        height: 419
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/ad/dad4680b-753f-50fd-9e08-d27135bf9c60/60d5cfe838e52.image.jpg?resize=800%2C400"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "zhez4HmrASOEJAWxgpF0Xt2Dd4TWC/ttIFqwzsoidJbs4qc6iYMDOtvgFTf9Rmzug2C2BVwjJXQdSR31xgzyRNJ9nDfACk/MbOdmz2ZtHkPXKBfJe4h1M1A/zd6m6Im4J3G6E9S2NGY64LccjQnNcY1Ij2vkIPbZM0pqT9QGWfhE4MEaMRPoyINXKxHe82Oyv20QEHGr/LhOQqP4OMLtTrEQK/bfUjTxcwy/rj2zWqQV74tqPPDzBfjqPzN6PCDdiRk1n3ib5s5O5f//ci28I8xgvOHfSP8ZQrCGZtM8nuk0hACm6GkLJAw83t6NwC85icjDuwEdBPsRabJT7yftfPMkkmZFWG+YUqzZ34BOxEA=;DDat4JHYlGmDYlG00f3TWA=="

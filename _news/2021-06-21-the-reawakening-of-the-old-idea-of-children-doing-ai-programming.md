@@ -28,20 +28,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Scotiabank brings machine learning to chatbot"
-    excerpt: "Scotiabank is bringing machine learning to its search function, prepping a chatbot that will be able to instantly answer complicated customer questions."
-    publishedDateTime: 2021-06-20T23:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38297/scotiabank-brings-machine-learning-to-chatbot"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/bots-to-you.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "6r33Y6inDlN2IYvXP4QuXBk7TXUQ4Z19qvzMTMOmc/46XuG7lSRF2Ukk6kHLzhTDF/eYa99Al573CXz2lwW6LPHa40HVXA5Sgj4FWprlq+EFyCW3EU8OGPJoo8HpHYZUQiFJzDwOojQtlreniWbDSX4F5AS7TBWjdDqsSCKF/1BCahuvmTAWfB0oHYWlUcohc5nCF9RcTTMNRWrF9sFpx2jpq6Hbg9onBnph4UBlhuSnqZwplfIanvqwAdBxJu9lwCHJX+3j5T55bWrURwBYLjq0vr+wop/oB+1k3MBqeVmuky8bV3HQi1sJuvsg41Ii4OGvorXvQbO0FgQckxaj+lU5OHI7h+O5o5RFd4nqwdY=;gJ1fGenQusbS7NsdWE3BHw=="
 ---

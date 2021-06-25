@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chauvin could face decadeslong sentence in Floyd's death"
+    excerpt: "Former Minneapolis police Officer Derek Chauvin is set to learn his fate as a Minnesota judge sentences him for murder in the death of George Floyd"
+    publishedDateTime: 2021-06-25T17:23:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/chauvin-face-decadeslong-sentence-floyds-death-78481097"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 24
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_9d8a51512ea241a1b5e05abed5a410f6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "aGYXSrdTruJH1NYa/fClDfVGDSdZbH9NY7dDY3oRfcsWX3tjOFf/Vl377UDgZnzwQiFmNQFe1nV9Jrb/am0kkyvM3xAg22E2KStFEpNiO1kFBzb2EpIq7JPpdDhue4LtBb+oAupND8WhDFsDONgNbLbOb0l3A/g3kz13edxSTy8+9DD97XVDvIXElXSEU6brJVBBnIVAV+kTzCMG6YVH0Mao659ghnpYsza2QioqI7ceZIBKFfuSVx+JCkLPYLZxM77ihzxHV8YHiBg8n/g8mlwyKZwTQlTe3pGIZHnrEw4LJmNTn9rcFN29LEDvVlrRqkpMMbUEFpUegbo1LTGuToXTnRdCkll5glyamQ9/22k=;p1VwmA8aWSCrh6GBq9JspA=="
 ---

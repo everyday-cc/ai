@@ -29,107 +29,77 @@ images:
     isCached: true
 
 related:
-  - title: "IBM working on AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM is developing tools to ensure online advertising algorithms do not unfairly show ads in ways that may be discriminatory."
-    publishedDateTime: 2021-06-25T02:02:00Z
-    webUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/"
-    ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
+  - title: "Ag tech is working to improve farming with the help of AI, IoT, computer vision and more"
+    excerpt: "These leading technologies will play pivotal roles in transforming farming practices to help feed a growing world population."
+    publishedDateTime: 2021-06-25T16:07:00Z
+    webUrl: "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1178840216-e1624585857682.jpg?w=1200&strip=all"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/25/22b8a7b9-529b-4243-92a0-490a432fb750/resize/1200x/1bdbc397c8c1c5c174bbf20591edd38e/smart-farming.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM Watson’s new research explores how AI can mitigate bias in advertising"
-    excerpt: "IBM Watson Advertising announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
-    publishedDateTime: 2021-06-25T09:54:00Z
-    webUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/"
-    ampWebUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 72
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-simulation-main_opt.jpg"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "IBM explores AI tools to spot, and reduce bias in online ad targeting"
-    excerpt: "Th tools would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy"
-    publishedDateTime: 2021-06-25T07:35:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting/83834378"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83834378,imgsize-109816,width-800,height-434,overlay-etcio/ibm-explores-ai-tools-to-spot-and-reduce-bias-in-online-ad-targeting.jpg"
-        width: 800
-        height: 434
-        isCached: true
-  - title: "IBM explores AI tools to spot, cut online ad targeting bias"
-    excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
-    publishedDateTime: 2021-06-25T00:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
-        width: 1600
         height: 900
         isCached: true
-  - title: "Creating An AI Text-to-Speech Using IBM Watson"
-    excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
-    publishedDateTime: 2021-06-22T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
+  - title: "Three use cases — how AI is helping improve the healthcare experience"
+    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
+    publishedDateTime: 2021-06-22T10:01:00Z
+    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: Information Age
+      domain: information-age.com
+    quality: 58
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png"
-        width: 2240
-        height: 1260
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
+        width: 1080
+        height: 592
         isCached: true
-  - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
-    publishedDateTime: 2021-06-24T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-24/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting"
+  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
+    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
+    publishedDateTime: 2021-06-24T13:16:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
-    publishedDateTime: 2021-06-24T22:20:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/ibm-explores-ai-tools-to-spot--cut-bias-in-online-ad-targeting-15083268"
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 51
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Funding is pouring in to companies trying to crack self-driving tech"
+    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
+    publishedDateTime: 2021-06-25T00:30:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
+        width: 740
+        height: 415
+        isCached: true
+  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
+    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
+    publishedDateTime: 2021-06-23T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15083266/16x9/991/557/5dec68c4f8c2be9dca58c5d88d316cd9/hl/file-photo--a-man-stands-near-an-ibm-logo-at-the-mobile-world-congress-in-barcelona-3.jpg"
-        width: 991
-        height: 557
-        isCached: true
 
 secured: "8CUbs4NPfcLA6vLzyCxcYa3K6bdwbUsTBBULydZrchAv8gAfuOqTO3muHNu9UWnXQoZchV+ao28YmkTBPdnxL6LqAobqfJ7EVSonTTbCvjfGXN9GwYG/Lf5WXvOQkN5WVZSgutQ9tXmWjKxQ2tC+QpfueXZXo/MTlh68BVKjt8xbguVXyN6YJu/T3rIAylR8+SF4zIU3ydg/tF4XqEw+kZq0FwcPs98U/6E5z3BcKMX9Jf9ccZOs2/p3prs/Dzcwsxzv+yD0aGmSBMs4chnA28s0ynxtFB/xDwLhOt/f1jDA5ttioVBwhu8MEDkTQa+rSZ8zijddJUWRWEeDo8niCB/SVLmrfoPmfJvZfma5KdwzvYwW3iUmnpTCck+L5/eQjNNxodjNm/6Ia2u+K4STsBDnKta144nROMiZEbb8TiwwVB3a3YWK424sODlmLmv3ODfSaC6NUI2ogvvKEzd9E1IfWtreripL0M4vBgiv49dxitfac17lxJk7eWxFzpgETOp9I/oJllqVGwDVH0L4qQ==;nZjLCaiMYikhbz6HkbOP/g=="
 ---

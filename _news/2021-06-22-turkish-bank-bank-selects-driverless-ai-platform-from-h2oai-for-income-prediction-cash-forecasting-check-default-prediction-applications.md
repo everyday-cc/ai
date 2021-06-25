@@ -52,22 +52,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
-    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary, Lishui"
-    publishedDateTime: 2021-06-24T12:30:00Z
-    webUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
-    ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 38
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM"
-        width: 763
-        height: 509
-        isCached: true
   - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
     publishedDateTime: 2021-06-22T14:24:00Z
@@ -91,6 +75,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 14
+  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
+    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,"
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "YMrEKMMgIuLWRuNqivsb+tyb7UCwJjZ7SVpWeir2NY9Jkn40gDWbDd7qBfjAdYe+E6ouLQ60gbFfMnPitgPlPC0HIaB+OwBHGBK8kh0DhAqn2VwwuyqMRZTgAlhsP7gQUQLdfhwwffgSsYkPYIYnnKwt6HMRc8IQp3pg79RbpaW9m0iqIiYwmMBt6Vr8esbY1vAx+QfEb6iLuTBegH3bDSW3ui4jcBwgX1oK5Qv01C7ZYRYkRTYtLyVhvWch0P6UngMmyXpEATg9ZoACee8CysPSgxOfVSgddYJQSOTUB6sDiNk9plo0thYGeAFsLuisFItCvKv0if1TvNdToJ++UmJe57z3nczP/vgPp97Z9PU=;5sRHgBaHYZJ24IZ0sEw1Vw=="
 ---

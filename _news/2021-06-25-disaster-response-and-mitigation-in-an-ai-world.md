@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Evolution, rewards, and artificial intelligence"
-    excerpt: "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ..."
-    publishedDateTime: 2021-06-21T00:01:00Z
-    webUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "OECD.AI: Paving The Way Towards Sustainable, Trustworthy And Responsible AI World"
     excerpt: "How do we ensure that AI is trustworthy and its benefits are shared by all? From the measurement of AI trends and developments to the direction and impact of national and regional AI policies and initiatives,"
     publishedDateTime: 2021-06-22T19:57:00Z
@@ -58,74 +42,30 @@ related:
         width: 1200
         height: 742
         isCached: true
-  - title: "How AI Powers Mobile Innovation"
-    excerpt: "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level."
-    publishedDateTime: 2021-06-22T21:44:00Z
-    webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
+  - title: "Better reporting of studies on artificial intelligence: CONSORT-AI and beyond"
+    excerpt: "An increasing number of studies on artificial intelligence (AI) are published in the dental and oral sciences but aspects of these studies suffer from a range of limitations. Standards towards reporting,"
+    publishedDateTime: 2021-06-21T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/iaa-bro062121.php"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 51
     images:
-      - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Convolutional neural networks: facial recognition AI applied to analysis and design of Advanced Nuclear Reactors"
-    excerpt: "Scientists are looking for new ways to predict how materials survive high temperatures, pressures and corrosion levels, and design new materials that can do so. Temperatures can reach 800 Celsius in parts of solar energy plants and advanced nuclear reactors."
-    publishedDateTime: 2021-06-23T07:00:00Z
-    webUrl: "https://energypost.eu/convolutional-neural-networks-facial-recognition-ai-applied-to-analysis-and-design-of-advanced-nuclear-reactors/"
+  - title: "Sidekicks.ai: The World’s First Holographic AI Educational Assistant"
+    excerpt: "Sidekicks.ai is on a mission to revolutionize education and give AI a friendlier face by breathing life into smart characters full of personality, emotions, and, sometimes, an attitude."
+    publishedDateTime: 2021-06-23T17:15:00Z
+    webUrl: "https://www.pr.com/press-release/838911"
     type: article
     provider:
-      name: energypost.eu
-      domain: energypost.eu
-    quality: 50
-    images:
-      - url: "https://energypost.eu/wp-content/uploads/2021/06/Can-artificial-intelligence-open-new-doors-for-materials-discovery.jpg"
-        width: 500
-        height: 241
-        isCached: true
-  - title: "Ireland’s green light for medical cannabis and calls to ban AI face recognition"
-    excerpt: "This week our podcast focuses on a milestone move by Ireland: approving medical cannabis prescriptions and giving patients the right to have access to medical cannabis and be reimbursed for it."
-    publishedDateTime: 2021-06-24T12:23:00Z
-    webUrl: "https://www.euractiv.com/section/health-consumers/news/irelands-green-light-for-medical-cannabis-and-calls-to-ban-ai-face-recognition/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 50
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/06/1-1536x864-2-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
-    publishedDateTime: 2021-06-23T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "Artificial Intelligence is Revolutionizing Construction Scheduling and Risk Management"
-    excerpt: "Scheduler/controller Project Controls Cubed preserves project managers’ decision-making experience using InEight Schedule’s AI to automatically build complex schedules, adjust for risk and estimate th"
-    publishedDateTime: 2021-06-22T05:12:00Z
-    webUrl: "https://www.forconstructionpros.com/profit-matters/article/21509256/artificial-intelligence-is-revolutionizing-construction-scheduling-and-risk-management"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 29
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Schedule_feature_01__2_.60ca78fef0b13.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
+      name: PR
+      domain: pr.com
+    quality: 17
 
-secured: "3Be+RmL8ZALmlfu62RakaTi2gKfGFELUcAnnBL6jDqeB6AhXnVbLT+qWKD3HtHPGOAjiqK6KcwEf+Y3MRs6VyZwlO9jAtCFIh3Bt0iMqWkrLNux494L8fEMfTd0xG+g/nlDLUvJeaYHkoqPuMQ4rLmnPrTFh0T8aMdhlg3wrtQgCS3PcK5Ukfz0S6OYd39uWoAFW//r4pz/199TZtI/dgJBUXCa7itPUPxc5LrXEnQdOihnNcEby/bGcSQ07vp6l/RfhiUXGK8EcTzBKckSLbgkTYFNVh0uqkWlcbormxyBU85equdXQrB4wZZr5qa4QhPiI0iu67JhGhca4obOzbiagIedmr9HT3YXmbqlEoVk=;gA1kkgt8mc/xBT6LfZcIGQ=="
+secured: "Woy7QbbJjUS+oJ4Pg61jyy1GTzctJ9KhxcNJdEPMeM3LGEBleRbVk7LgeXs+NCO8mL6xy7fWn24Um+1PTCwyuZL3WYiFiGX6SbepHUjbDg3gE1pUYUqBquhiMvmpHDbQEihkYZkrQInTEgiHHyz17aeYCBC0Uq2l3emmQhNORPlXC2JxVZ8mceiP9+970lKcSW+F9Oe9HyKd8B0ftCyVKvd8V+9bJq3/Zd/cpzD0hR+hZoZVva2Gic/+gswPfKKuZaQjnvunBTM6646aC5IRFa2nIKc7ffguZm+obkcxAzLqZCTa0u9b+wHB37S9l0f+36QuH1HrYNuNqgQoEvwizIo/tLyu0OabBoQuJ4Dd0zE1Gw8uDR/eSrqyUMtXzyijdeeAy2P5/Y/8K0P2JmAMPqiIaO0XOcW5bkO9F/oufvM/mK/0G7qQ1NKpBGLV7RzxLVD0gsKoQEsA6uo0AAbYZfaKcrnmxlHr1dfgUksI3wImAEdm+haM0S+Te/SbiSuRHntCSmHlVhMgxzl+PjRBvw==;i1SwigGeapcKXskbxrc28A=="
 ---
 
