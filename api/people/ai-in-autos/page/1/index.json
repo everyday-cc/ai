@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 57430110
+        "followers": 57429147
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -25,7 +25,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 699,
+      "heat": 668,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1404334078388670466/DgO3WL4S_400x400.jpg",
@@ -51,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 699444
+        "followers": 699593
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -75,7 +75,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 444,
+      "heat": 494,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 14000
+        "followers": 13999
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -117,13 +117,51 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 264,
+      "heat": 138,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jean-liu.md",
+      "title": "Jean Liu",
+      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
+      "type": "profile",
+      "name": "Jean Liu",
+      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "location": "Beijing, China",
+      "twitter": {
+        "username": "jeanliuqing",
+        "url": "https://twitter.com/jeanliuqing",
+        "followers": 1219
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/u/2209030102",
+        "followers": 1906714
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
           "isCached": true
         }
       ],
@@ -205,44 +243,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/jean-liu.md",
-      "title": "Jean Liu",
-      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
-      "type": "profile",
-      "name": "Jean Liu",
-      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "location": "Beijing, China",
-      "twitter": {
-        "username": "jeanliuqing",
-        "url": "https://twitter.com/jeanliuqing",
-        "followers": 1217
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/u/2209030102",
-        "followers": 1906714
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/john-krafcik.md",
       "title": "John Krafcik",
       "excerpt": "We're building the world's most experienced driver.",
@@ -268,7 +268,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 0,
+      "heat": 20,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",

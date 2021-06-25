@@ -17,7 +17,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 262198
+        "followers": 262213
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -37,55 +37,13 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 334,
+      "heat": 302,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
-      "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
-      "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 14000
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ],
-      "heat": 264,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alexandr Wang",
           "isCached": true
         }
       ],
@@ -105,7 +63,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 383222
+        "followers": 383230
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -139,7 +97,7 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 236,
+      "heat": 276,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -165,7 +123,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17470
+        "followers": 17474
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -192,13 +150,55 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 71,
+      "heat": 140,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Harry Shum",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 13999
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
           "isCached": true
         }
       ],

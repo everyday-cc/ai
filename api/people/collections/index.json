@@ -27,7 +27,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 333,
+          "heat": 319,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -51,7 +51,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 236,
+          "heat": 276,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -96,7 +96,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 270,
+          "heat": 228,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -109,7 +109,7 @@
         }
       ],
       "size": 23,
-      "heat": 324,
+      "heat": 331,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -145,7 +145,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 333,
+          "heat": 319,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -168,7 +168,7 @@
             "Natural Language Processing",
             "Machine Learning"
           ],
-          "heat": 151,
+          "heat": 196,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -192,7 +192,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 236,
+          "heat": 276,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -227,7 +227,7 @@
         }
       ],
       "size": 5,
-      "heat": 283,
+      "heat": 331,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -235,6 +235,120 @@
           "height": 400,
           "title": "Andrew Ng",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/top-ai-professors-in-mit.md",
+      "title": "Top AI Professors in MIT",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-professors-in-mit/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-professors-in-mit/",
+      "type": "collection",
+      "name": "Top AI Professors in MIT",
+      "bio": "",
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Daniela L. Rus",
+          "excerpt": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
+          "type": "profile",
+          "name": "Daniela L. Rus",
+          "bio": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
+          "topics": [
+            "AI"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
+              "width": 140,
+              "height": 140,
+              "title": "Daniela L. Rus",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Joy Buolamwini",
+          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+          "type": "profile",
+          "name": "Joy Buolamwini",
+          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+          "topics": [
+            "AI"
+          ],
+          "heat": 233,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Joy Buolamwini",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Karl Iagnemma",
+          "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+          "type": "profile",
+          "name": "Karl Iagnemma",
+          "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+          "topics": [
+            "AI",
+            "AI in Autos"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
+              "width": 400,
+              "height": 400,
+              "title": "Karl Iagnemma",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Lex Fridman",
+          "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+          "type": "profile",
+          "name": "Lex Fridman",
+          "bio": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "AI in Autos"
+          ],
+          "heat": 494,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Lex Fridman",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 279,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
+          "width": 140,
+          "height": 140,
+          "title": "Daniela L. Rus",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -287,7 +401,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 270,
+          "heat": 228,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -311,7 +425,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 334,
+          "heat": 302,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -324,127 +438,13 @@
         }
       ],
       "size": 3,
-      "heat": 270,
+      "heat": 228,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
           "width": 105,
           "height": 128,
           "title": "Yoshua Bengio",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/collections/top-ai-professors-in-mit.md",
-      "title": "Top AI Professors in MIT",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-professors-in-mit/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-professors-in-mit/",
-      "type": "collection",
-      "name": "Top AI Professors in MIT",
-      "bio": "",
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Daniela L. Rus",
-          "excerpt": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
-          "type": "profile",
-          "name": "Daniela L. Rus",
-          "bio": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
-          "topics": [
-            "AI"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
-              "width": 140,
-              "height": 140,
-              "title": "Daniela L. Rus",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Joy Buolamwini",
-          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "type": "profile",
-          "name": "Joy Buolamwini",
-          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "topics": [
-            "AI"
-          ],
-          "heat": 213,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Joy Buolamwini",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Karl Iagnemma",
-          "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
-          "type": "profile",
-          "name": "Karl Iagnemma",
-          "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
-              "width": 400,
-              "height": 400,
-              "title": "Karl Iagnemma",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Lex Fridman",
-          "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
-          "type": "profile",
-          "name": "Lex Fridman",
-          "bio": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "AI in Autos"
-          ],
-          "heat": 444,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Lex Fridman",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 255,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
-          "width": 140,
-          "height": 140,
-          "title": "Daniela L. Rus",
           "isCached": false
         }
       ],
@@ -473,7 +473,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 213,
+          "heat": 233,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1218584329540063233/DkdIuybw_400x400.jpg",
@@ -566,7 +566,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 42,
+          "heat": 87,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -588,7 +588,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
@@ -609,7 +609,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 71,
+          "heat": 0,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -631,7 +631,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 50,
+          "heat": 57,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
@@ -644,7 +644,7 @@
         }
       ],
       "size": 8,
-      "heat": 60,
+      "heat": 68,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
