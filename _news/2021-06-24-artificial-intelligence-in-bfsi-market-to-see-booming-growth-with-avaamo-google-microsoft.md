@@ -41,22 +41,6 @@ related:
         width: 604
         height: 403
         isCached: true
-  - title: "Machine Learning in Education Market Comprehensive Study Explore Huge Growth In Future: IBM, Microsoft, Google"
-    excerpt: "A new statistical surveying study titled Machine Learning in Education Market investigates a few critical features identified with Machine Learning in Education Market covering industry condition division examination and focused scene Down to earth ideas of the market are referenced"
-    publishedDateTime: 2021-06-21T12:22:00Z
-    webUrl: "https://www.openpr.com/news/2309879/machine-learning-in-education-market-comprehensive-study"
-    ampWebUrl: "https://www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309879/machine-learning-in-education-market-comprehensive-study"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 73
-    images:
-      - url: "https://cdn.openpr.com/U/6/U621854972_g.jpg"
-        width: 660
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence (AI) in Sport Market Outlook 2021: Big Things are Happening"
     excerpt: "Artificial AI in Sport Thematic Research is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
     publishedDateTime: 2021-06-23T11:45:00Z

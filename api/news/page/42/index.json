@@ -2,6 +2,94 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-05-25-pixel-6-leak-reveals-64-inch-120hz-display-5000-mah-battery-and-whitechapel-with-focus-on-ai-and-ml.md",
+      "title": "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML",
+      "excerpt": "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
+      "originalUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.androidbeat.com/wp-content/uploads/2021/05/pixel-6-pro-feature-1024x665.jpg",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
+      "cdnAmpWebUrl": "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/05/pixel-6-new-specifications/amp/",
+      "publishedDateTime": "2021-05-25T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "androidbeat.com",
+        "domain": "androidbeat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-microsofts-zero-infinity-library-trains-32-trillion-parameter-ai-model.md",
+      "title": "Microsoft's ZeRO-Infinity Library Trains 32 Trillion Parameter AI Model",
+      "excerpt": "Microsoft recently open-sourced ZeRO Infinity, an addition to their open-source DeepSpeed AI training library that optimizes memory use for training very large deep-learning models. Using ZeRO-Infinity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
+      "originalUrl": "https://www.infoq.com/news/2021/05/microsoft-zero-infinity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/05/microsoft-zero-infinity/en/headerimage/microsoft-zero-infinity-header-1621783123438.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-how-watson-discovery-helps-contractpodai-provide-legal-excellence.md",
       "title": "How Watson Discovery helps ContractPodAi provide legal excellence",
       "excerpt": "IBM Watson Discovery speeds contract renewal time by 50% IBM Watson Assistant helps counsel find specific information among thousands of data points IBM business partner ContractPodAi offers an end-to-end contract management solution designed by lawyers for lawyers. The solution aims to dissolve traditional",
@@ -1097,101 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics.md",
-      "title": "Flush with $42M, hot AI startup Faculty plans to hoover-up more PhDs… and steer clear of politics",
-      "excerpt": "In the wake of the news that UK-based AI startup Faculty has raised $42.5 million in a growth funding round, I teased out more from CEO and co-founder Marc Warner on what his plans are for the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/",
-      "originalUrl": "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/image002.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/24/flush-with-42m-hot-ai-startup-faculty-plans-to-hoover-up-more-phds-and-steer-clear-of-politics/amp/",
-      "publishedDateTime": "2021-05-24T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
-      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
-      "excerpt": "The result is the modern epidemic of low emotional intelligence: in many cases, we do not know how to read others, we do not know when to listen, or we do not know how to communicate with people who are different from us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
-      "originalUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/20/16/70/21032496/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

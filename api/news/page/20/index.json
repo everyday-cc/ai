@@ -2,6 +2,111 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-06-09-supercharging-self-driving-super-vision.md",
+      "title": "Supercharging Self-Driving Super Vision",
+      "excerpt": "Few startups were as prescient as Scale AI when it came to anticipating the need for massive sets of tagged data for use in AI. Co-founder and CEO Alex Wang also made a great bet on addressing the needs of lidar sensing companies early on,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
+      "originalUrl": "https://techcrunch.com/video/supercharging-self-driving-super-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2021-06/09/60c0627031cb5a6fc9ad060c/60c0658866a5ff0c1d575a0e_o_U_v1.jpg?w=640&h=360",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai.md",
+      "title": "DeepMind says reinforcement learning is ‘enough’ to reach general AI",
+      "excerpt": "In a new paper submitted to the peer-reviewed Artificial Intelligence journal, scientists at U.K.-based AI lab DeepMind argue that intelligence and its associated abilities will emerge not ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1202680493-e1609770660893.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/amp/",
+      "publishedDateTime": "2021-06-09T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-meet-grace-the-healthcare-robot-covid-19-created.md",
       "title": "Meet Grace, the healthcare robot COVID-19 created",
       "excerpt": "The Hong Kong team behind celebrity humanoid robot Sophia is launching a new prototype, Grace, targeted at the healthcare market and designed to interact with the elderly and those isolated by the COVID-19 pandemic.",
@@ -1065,100 +1170,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-rws-announces-revival-of-language-weaver-brand.md",
-      "title": "RWS Announces Revival of Language Weaver Brand",
-      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management, and intellectual property services, today announces the return of Language Weaver, a pioneering brand in automatic language translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19847012.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19847012.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc.md",
-      "title": "Artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 | ARC",
-      "excerpt": "The global artificial intelligence (AI) in retail market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and projected to reach the market value of around US$ 6,762.3 Mn by 2027. The global Artificial Intelligence (AI) in Retail Market research report is inclusive of detailed and productive qualitative and quantitative information,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-is-expected-to-grow-at-a-cagr-of-around-349-from-2020-to-2027-arc-2021-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

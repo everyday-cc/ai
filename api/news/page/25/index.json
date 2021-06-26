@@ -2,6 +2,102 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-06-facebook-proposes-nethack-as-a-grand-challenge-in-ai-research.md",
+      "title": "Facebook proposes NetHack as a grand challenge in AI research",
+      "excerpt": "Facebook is proposing the '80s game NetHack as a grand challenge in AI and machine learning research, launching a competition at NeurIPS 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
+      "originalUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/09/facebook-proposes-nethack-as-a-grand-challenge-in-ai-research/amp/",
+      "publishedDateTime": "2021-06-05T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species.md",
+      "title": "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species",
+      "excerpt": "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared",
+      "sourceUrl": null,
+      "webUrl": "https://www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.html",
+      "originalUrl": "https://www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/5/94/594dc2cd-0927-5a8d-845c-366ae7187992/60bbe7f259288.image.jpg?resize=1024%2C657",
+          "width": 1024,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.amp.html",
+      "cdnAmpWebUrl": "https://www-winonadailynews-com.cdn.ampproject.org/c/s/www.winonadailynews.com/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_a42636df-5983-5747-9bc8-644e2b27a3a7.amp.html",
+      "publishedDateTime": "2021-06-05T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winona Daily News",
+        "domain": "winonadailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-microsofts-low-code-strategy-paints-a-target-on-uipath-and-the-other-rpa-companies.md",
       "title": "Microsoft's Low-Code Strategy Paints a Target on UIPath and the Other RPA Companies",
       "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. In this podcast, John DesJardin, Chief ...",
@@ -1102,102 +1198,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-usaf-and-industry-research-cognitive-algorithms-for-contested-environments.md",
-      "title": "USAF and industry research cognitive algorithms for contested environments",
-      "excerpt": "The USAF Research Laboratory has picked Black River Systems as its industry partner to research and develop prototype software and hardware for the Cognitive Algorithms for SIGINT Contested and Degraded Environments (CASCADE) initiative. Work on the $11.97 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
-      "originalUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.shephardmedia.com/live/default/media/cache/images/images/article/USAF_ISR/9d427340395e3be5e6716eea9605f135.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shephard Media",
-        "domain": "shephardmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-transcript-ezra-klein-interviews-brian-christian.md",
-      "title": "Transcript: Ezra Klein Interviews Brian Christian",
-      "excerpt": "People hear about Google’s DeepMind. They hear about OpenAI. There’s obviously a lot of work at Tesla. And then, of course, also at Uber on how to do driverless cars. It’s not going to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/04/podcasts/transcript-ezra-klein-interviews-brian-christian.amp.html",
-      "publishedDateTime": "2021-06-04T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

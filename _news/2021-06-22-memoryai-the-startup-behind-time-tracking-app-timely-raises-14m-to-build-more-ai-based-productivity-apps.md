@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Now Apple Introduces A No-Code AI Platform"
+    excerpt: "Trinity is composed of data pipelines, an experiment management system, a user interface, and a containerised deep learning kernel."
+    publishedDateTime: 2021-06-26T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/now-apple-introduces-a-no-code-ai-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AIM-Illustrations-14.jpg"
+        width: 2240
+        height: 1261
+        isCached: true
 
 secured: "GfmULvJGog43amdShXlL5fc8slPxT3QJnSCv1m1fxFCcift4Vs0gw60Yly9TZJAL5mZmVtVf/fXZjlvpncXk6hcIDo6PRji+YgkmDYVIw04PrL4Idqbe1U2KjPweXBDKG52sAe3mHW7XMlWuXFk8IQfuP8Z8HnJYbDVzDEMGfTT5ppemC3uL+CWO8tMu8l5lsD+PF4vqqtPCW0bVYcyj6k6+/GHsATPIVOc3geHYVUn6dWrGIxi753XdqPTQt15k/Pl9U5KvWyR2Q8P2Ggtl4wD9Et/2okfVfpN7edfRL2uUI/Jw+KMlAlfkkP51DgNW6IcBGQt38CGCxVVPwXaxGQBszPXxIUt5qt1TXCvlkhGoZh58HeN5KUnPMfLf1HCf9o62yf9My45CuZUjj32vnLq82xAHkuYoAX2DvShSFZbgUtj5mpvpd/KW6cApySpmBSusHcSIHQWujEgRo/DorE+66qErMONj2jiiefwHImaK4bZRKq2mAJYyu2Z0KIfOjiOpWzEB+vjViOoF54tlhw==;IqqX6XMqvf22jaJu2j3Vtw=="
 ---

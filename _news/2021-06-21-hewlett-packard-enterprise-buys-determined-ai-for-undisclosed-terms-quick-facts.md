@@ -119,15 +119,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Hewlett Packard Enterprise Acquires Determined AI to Accelerate Artificial Intelligence Innovation with Fast and Simple Machine Learning Modeling"
-    excerpt: "Hewlett Packard Enterprise today announced that it has acquired Determined AI, a San Francisco- based startup that delivers a powerful and robust software stack to train AI models faster, at any scale,"
-    publishedDateTime: 2021-06-21T12:38:00Z
-    webUrl: "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-acquires-determined-ai-to-accelerate-artificial"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 42
   - title: "HPE bolsters AI offering with acquisition of San Francisco startup"
     excerpt: "Hewlett Packard Enterprise (HPE) has acquired Determined AI, a San Francisco-based, machine learning startup in a move it says will allow its engineers \"to build AI models at a greater scale\". It will see HPE combine Determined AI's software solution with its own AI and high performance computing (HPC) offerings to enable machine learning engineers to \"easily implement and train machine learning models\"."
     publishedDateTime: 2021-06-21T14:37:00Z

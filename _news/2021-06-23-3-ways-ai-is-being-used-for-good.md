@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,35 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways AI Should Be Playing a Role in Your DX Strategy"
-    excerpt: "In what ways is AI being incorporated into your DX strategy? Companies are investing in AI-based platforms in increasing numbers each year, and as a result, the AI worldwide software market revenue is expected to top $247 billion dollars,"
-    publishedDateTime: 2021-06-24T15:31:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/the-many-reasons-ai-should-play-a-role-in-your-dx-strategy/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/the-many-reasons-ai-should-play-a-role-in-your-dx-strategy/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/the-many-reasons-ai-should-play-a-role-in-your-dx-strategy/amp/"
+  - title: "How AI Is Taking Over Our Gadgets"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
+    publishedDateTime: 2021-06-26T04:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://www.cmswire.com/-/media/c9cc5c3a621940399529b32484f77be9.ashx?mw=1024"
+      - url: "https://images.wsj.net/im-359618/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
+    excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
+    publishedDateTime: 2021-06-22T13:40:00Z
+    webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "How AI-powered pricing is shaping the customer experience"
+    excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
+    publishedDateTime: 2021-06-24T06:47:00Z
+    webUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
+        width: 417
+        height: 450
+        isCached: true
+  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
+    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
+    publishedDateTime: 2021-06-22T13:55:00Z
+    webUrl: "https://www.lelezard.com/en/news-19868775.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "19 For a Cure: Artificial Intelligence Being Used in Mammography to Fight Breast Cancer"
-    excerpt: "CINCINNATI (WXIX) - FOX19 is dedicated to finding a cure. This month we take a look at the use of artificial intelligence to fight breast cancer. See a spelling or grammar error in our story? Please include the title when you click here to report it."
-    publishedDateTime: 2021-06-25T23:18:00Z
-    webUrl: "https://www.fox19.com/2021/06/26/19-cure-artificial-intelligence-being-used-mammography-fight-breast-cancer/"
-    type: article
-    provider:
-      name: WXIX-TV
-      domain: fox19.com
-    quality: 29
-    images:
-      - url: "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/_Y9Bwmt7L63PZPHhmYWN0Yfve4g=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MTLGOPY4N5GQNHQUQFDOHOVHGY.jpg"
-        width: 980
-        height: 552
         isCached: true
 
 secured: "YM8jBWtztBlDgeXnfjnHJXsi2eLmdiBJTfzpi1PrRnW+ZKl+WdP6yOjy5C5m+1sOjhUR5/A6T8X77N/C4Vl8d+0bm0RcA7dGb/169FTD0F9tYTofZmgQqKeLA2EWZBtihRX93LrGXt+ltbKLAe7/xaAknV5p8DzEK4wivBzOcbBAHK5m0Hp/RV78WgQ3ub1kFjCfzqlKSN9zxQNV8msvtNs9yq4rczzPUkPqDLtqh7toCLTyJeeXph8u9oQ9UYNXm0RjQ+PAOwchF2/bz8fvAZRsdGoG7xhTQtck44Wv5YO9RxSiKGWTvbU/vYIfTSCIpDS8cXbsClI7TSsTRGAZp3cXfn8zLHFSY+5mRJ0prbWdDiRaB9kktu53NlQe9YsoInkDsEr9XBF29k9L0M4lwDYpFACSW4OpJ2lEaWsmfGkLz2l9+4gpOLTAa9h/4NlHYpdTmeYMrIPfC+UO8fhLnfHDSal7JkdIfBptppqEVDOnDrSUPob1sCLTP5cHSbZhSdQoubm01bVo46jgm9QLHQ==;k9l8NZxOQhGg0P4PKsY2iw=="

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 News : What to Expect from Artificial Intelligence in Agriculture Market during COVID-19 Deadly Impact?"
-    excerpt: "The research report is an ideal source of information for businesses and individuals in search of complete insights and statistics pertaining to the artificial intelligence in agriculture industry. The report furnishes key market segments,"
-    publishedDateTime: 2021-06-21T11:29:00Z
-    webUrl: "https://manometcurrent.com/covid-19-news-what-to-expect-from-artificial-intelligence-in-agriculture-market-during-covid-19-deadly-impact/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 18
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Market-Research-COVID-19-Impact-Analysis-2-720x470.jpg"
-        width: 720
-        height: 470
-        isCached: true
 
 secured: "JHuba3eoEZ+3IUG1sWlhUv/W7qjFKepL2DspBBCFjaD3crmzvXDoBddpqE+wPexTEL/HWRhxS+bdQ6AuIXNqzjvDVOigZ+CsnZCP4XAQ0t67VAuUk1nSaZ1kJ9Ky7M/vICY9hh3FS13iDBndypz/9r0kSqH5FypykyTIWfgNvU4jg8n6ypIO2CQoaj9NgDTEHDIJSzWEjt9+FvSZFZHlprH2k7tGgNcPWPkt+WLngEebB7JCd8ThlmmiG5tRsz1le4543zM3+NLe50v/i0ryP8Lw3o5axXLLKzAX32AhKMdpudK72B4i9qP5dGIasJ2r8tZjz5cm39/2K7yyn7FubvXoxpw5QuBZUaIig09dvQQ=;mHYQBsF6aAav1+EAkzQlPQ=="
 ---

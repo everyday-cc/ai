@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/cardiovascular/start-cleerly-sees-path-
 webUrl: "https://www.mddionline.com/cardiovascular/start-cleerly-sees-path-using-ai-prevent-cardiovascular-disease"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Startup Raised $43 Million To Save Lives (And Money) By Treating Heart Disease Earlier"
-    excerpt: "Cleerly founder James Min wants to make early detection and treatment of America’s number one killer as routine as cancer screenings."
-    publishedDateTime: 2021-06-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/"
-    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/06/21/this-ai-startup-raised-43-million-to-save-lives-and-money-by-treating-heart-disease-earlier/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cfd10b3377cd9eacef3cde%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D202%26cropY2%3D540"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Cleerly, a startup using AI to diagnose coronary artery disease, raises $43M"
     excerpt: "Min, founder and CEO of Cleerly, a company that uses artificial intelligence to identify the features of plaques that may cause heart attacks. \"COVID significantly affected heart disease in that people did not get evaluated in a timely fashion."
     publishedDateTime: 2021-06-21T22:30:00Z

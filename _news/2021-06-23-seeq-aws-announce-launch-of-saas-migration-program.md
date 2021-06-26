@@ -39,20 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Ann Arbor’s Campfire Interactive Announces Strategic Collaboration with Amazon Web Services"
-    excerpt: "Campfire Interactive Inc. announced a new collaboration with Amazon Web Services (AWS) to create a reliable scalable cloud-based platform."
-    publishedDateTime: 2021-06-21T12:57:00Z
-    webUrl: "https://www.dbusiness.com/tech-mobility-news/ann-arbors-campfire-interactive-announces-strategic-collaboration-with-amazon-web-services/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 29
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/06/TMN_Campfire-800.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "3P73Gt18L/njoZaVQ/TcV56Pv4PUV8WEQrnGkm6EgF02nGeNjCPe9IdhxBjyb8HB1pPkFvKKjlTiiPzTGhDB8iM2sj30NnnC1tvWF/a6NGxD+nO3bbxMKED9SthTLQEE5eFdrXTEL8CzhNr2ZwJWLAoOuLPCtC2t7QcxSKjqn0z+vGINvC3TY2Nd2EWJKLWbcJ3BwUHaxSjEFlLThuy4tIvjS3bA2dR79503BvpcnY8+hj+950FjIrD7Z5sICrXHWxTwPimKseFv2oZBYAe+WDWXxh0I9/W7ReXA/H6wgx2RcEWAYKgkkhjOiUy4EoX7YJYpGv4Teyv96AaU7r0XJTUkin5Uen6bmaNwBL+coaej1uXrf6cNmmO/18ea0MP6LU5UFmAsUxyldVCdxB9c9QSFkC8NWn/yI8GO7cPj8LWOgZioCgCv87Kn+WpyZhxcPeXC7Lhe76sN+cI0o5JxR0k9EyYtP6KxsadztAESKG47lHYAXE/1eFMqkYoF833179zNZSBxm9q2T0vhaJC2zg==;VGOJcoUD3KbO8Df7Nfka+g=="
 ---

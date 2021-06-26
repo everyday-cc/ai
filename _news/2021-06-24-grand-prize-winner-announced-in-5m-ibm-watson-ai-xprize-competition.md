@@ -84,7 +84,7 @@ related:
   - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
     excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
     publishedDateTime: 2021-06-23T18:14:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html"
+    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html?c=/research"
     type: article
     provider:
       name: Concordia University
@@ -133,6 +133,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "vBa7sdKykIoKcx3gfYiOIDAJoUz3v+pcAkwFx+7gNGijp5+yvLyJs2H2hdWbYV6vXzEcrU9KuHQO5Fn0HPq7DQAB8W07eTunoBW5qnYapYZ6/F5Yok0a44zpLfxx9Ayz9AgYyfLCWkVREwC/kZaTIUZcoaSw+iBznxSpdLaLnSos6x+LYXtqJgG4vC7JodyCOF1h8cBMP16T9FXUJhzRAPwX9506Hgvd3vqpPcVr6MJ+5TnKdN0wfEY+FLThTqjHVW21SkFgYg9ut3+xjuguSTHinGXbkONCtTsvq1A3IY84tmmEBsCTHJJLFoUo9fBAbv3iGL+M2ix57ksooFlnVBXK1rdHjCHiT4iIiIjmRbU=;vYZZ7d+m/CM4gJurXfBxDQ=="
+secured: "iTE1uk+kiZv1nphnRlojCN/c7QHtYJ0BpEbNf/mmOEeVw4Pb/kaeZ0C5rbiBCwYFR6GX3c6zWNZXIwULlTZoApIDpSXaexibdiJ/O7COxTu/ag+VpFW5X7Zu+9AbJh/GeN4Z7ign/Rksg/GRreG12VsM71JvbyBgyGieYOxcfmDjJbkdLCJNy13fMw6IppTQnYx0RbbYYr2nk5vGEsVvKA1XaEHVmzy4R9rw0JegVTgfmi9DQOFrm4wMInUHcC3sY+JGl4lBrTKA97PxQYBjikD0hvhNrHd+JV7NiqAFpsEE0wPtxcd5yyvChYQmbnw/BNcr6iaaGPXDKJUP7BzVbLrSI1jDQ7+/IS0CIGY9dxI=;Xxvvz4TirqhA7Q1gBSojRw=="
 ---
 

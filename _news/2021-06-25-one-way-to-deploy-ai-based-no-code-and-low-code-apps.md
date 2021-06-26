@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/one-way-to-deploy-ai
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/03_product.png?w=1024"
         width: 1024
         height: 625
+        isCached: true
+  - title: "Now Apple Introduces A No-Code AI Platform"
+    excerpt: "Trinity is composed of data pipelines, an experiment management system, a user interface, and a containerised deep learning kernel."
+    publishedDateTime: 2021-06-26T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/now-apple-introduces-a-no-code-ai-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AIM-Illustrations-14.jpg"
+        width: 2240
+        height: 1261
         isCached: true
 
 secured: "VoGJxc+smHLFyWVjDqsTdJmV7unQ5+rJIAkzHMIByCC9ufyWnkF/VD8uOI+einVeAXME8g+v3mOm4w8W+BYIVfVYRBvUQ0GdK8fPS4DM92sjIfl6VUPyu3RQLCR+fJI0kBZNPfszQxHVkrMVcfjmf1zcj3DMcjWON6alkx5sK7i0hyO3ieqoYUJqzIHzQj9dh6Ef7vq/XPlwGDVgWF37WT/a7VACiSGMSLwhPl6HADLL49Fq2espSOQpns3MWn23pF0SXHE9wtNx6QOgLOSWjKPFxEdPJzTaDM/QJOYv5Z5F+QC1D/u3Ct3q5GCy7GMnUZelyZC2YrhMSmfd36zN/6YipgyRaO1lffhX7pkiiE1Z8Blc6HcBmLioWB7kvANfegg1V+GlKBvBOk7IKDY/ct5PJlfOxllZjSg9JbR4h1z5Mrf6cRaWaenKdTWDXNNjlHmUY9bzHqZDDUFc/rQ7EbwNRNcKLVZ26TYTu4GR44p1+LzFZjZWhrMRZ4z6CGHQZObkBEaIXFIXJPo9bgR7Gg==;U89vU5Y/DoUUQ/pC6Ng+kA=="

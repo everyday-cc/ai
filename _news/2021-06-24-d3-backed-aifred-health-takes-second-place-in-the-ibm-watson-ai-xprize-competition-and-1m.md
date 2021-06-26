@@ -3,8 +3,8 @@ category: news
 title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
 excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
 publishedDateTime: 2021-06-23T18:14:00Z
-originalUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html"
-webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html"
+originalUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html?c=/research"
+webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html?c=/research"
 type: article
 quality: 43
 heat: -1
@@ -133,6 +133,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "g27ye+Gi9Cu/X8EmQiWqUJJSmzsZSKKf5LPA+NEAR2cl2nHTjtGYB20tPgYPvQHAjwd50BD7GBoEtyUnPMZYVo40YbHek3+Wz69QaiVCyBVxJ0BgOylv7cKkmLBaBvcC1WAzD46Esn8qcdmiFgC4nGulxL1qTOQejE4FFDgGJSh1LrrMsuFALxDapxLRS6BLwkvC2Er91FuE1dZIrOZPeBPTOlfwQngGV/UQwJbvGIbvCBpX7E5quTjUmHmp4Sb779CjCo9UR8I5CY/r76NSezCmrtGet4mc2xmFrc3cBn1gm5C7IlHUv6NDFCx4oqmG0x9ZwSeNlJZE5/EkC1da9aDl2LM3xvE769H3RqD3v2HNhfeVdVqYUIrV48urwzf6upZel+R0Rrb0C9sgqBIVFQaLo1mpWYTyKjYo7AoO90D7nsBYEadm8jIZ6VWlhZ8SVQf6v/eWzxyun5xFMgyYsenqw5WgyhI2VQxYGhvJKhimjadTP4VL0f/BDBZ1jLXIvXGOFdDiMyXB9No5MJafAg==;dyvQz1+LAtP36wzuTQeUZA=="
+secured: "FwQeFAK3oTKA1XvMuw6QJ1d1OQP/TIeOjC7zpLztI5YI1Jg0ZB26qWMwm52fwa7Wun7zuX2CZ8daTv7tpeIPbYmJtq+mO3uuEZiZr4HieD8C8xrMEyvh8xuoACW2Yl1M6gVYfEfyPiRKSHc5SQctIUerx6Xq69Py4juV+K2y/h5vUmDPNZbiDPOS6ZW901mb9UvSmORGb+cYWmv47pdty94rGvpV3Iw3WEECAa3v5zc7ilbezfckiROLt2gKa7qztGXnOM8ZfYqqNUQ8lPCE53esJwi/1jGaSxYjuADTEXK8mOYaXFU117TCo26/kFi7AWrzzIcwX14/3egg5sqr1nYRNvMcfoEJ3J5emMdTPbk=;scM9Mbdj/rBUVExcIU4jqw=="
 ---
 

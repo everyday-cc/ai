@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-s
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://edge.alluremedia.com.au/uploads/businessinsider/2021/06/GettyImages-163842036.jpg"
         width: 2159
         height: 1388
-        isCached: true
-  - title: "Enterprise hits and misses - AI-for-good versus AI-for-yuck, edge computing hype versus reality"
-    excerpt: "This week - applying AI across industries brings use case lessons. But the AI-for-good versus AI-for-yuck issue looms, given the scale of live systems. Edge computing hype gets a reality check; cloud repatriation gets a critical look."
-    publishedDateTime: 2021-06-21T12:43:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-ai-good-versus-ai-yuck-edge-computing-hype-versus-reality?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "http://diginomica.com/sites/default/files/images/2013-06/chess1.jpg"
-        width: 425
-        height: 283
         isCached: true
   - title: "Commerce.AI Launches AI-Generated Market Reports"
     excerpt: "I has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible"

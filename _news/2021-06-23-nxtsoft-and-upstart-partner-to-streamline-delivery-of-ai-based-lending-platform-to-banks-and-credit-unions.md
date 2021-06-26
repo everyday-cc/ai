@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-nxtsoft-upstart-partner-streamline
 webUrl: "https://www.tmcnet.com/usubmit/-nxtsoft-upstart-partner-streamline-delivery-ai-based-lending-/2021/06/23/9396222.htm"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Epredia And Aiforia Announce Partnership For Global Distribution Of AI-powered Pathology Software"
-    excerpt: "Epredia, a global leader in precision cancer diagnostics, and Aiforia, a medical software company providing Artificial Intelligence (AI) based solutions for image analysis in pathology, have announced today that they have entered into a commercial distribution agreement for Aiforia's comprehensive portfolio of workflow enhancing solutions which enable pathologists to harness the power of deep learning AI for image analysis."
-    publishedDateTime: 2021-06-21T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/epredia-and-aiforia-announce-partnership-for-global-distribution-of-ai-powered-pathology-software-1030538963"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1537009/Clinical_Ki67_IA.jpg"
-        width: 400
-        height: 276
-        isCached: true
 
 secured: "p9CQuKV4QvP9lPxh/6kKDDIyUVafKqYxsWFH+/P+BJjhGwz2ciNXJuWtcrBfn1LVGWGFUNAjDTpr7UqViGdEnstYPzBIzSe0RXHDmaWOuarPx6lNnFKfD272IV63SVjmkY/Hcp4oqKxfBT3eeu7b7neDOCPo2IIM5CfwgpbrHy1oj7TTqOS+hmzE0FHf2eJYnBJ4DkI3865FswWxNc1LkAKv9kECEWQmkTTVMOkNNB7kZdITH/b/rGs/zfKywWj2amuRNIGtteSskxtGe6aRbJeGqT9+X73D/3peGyiyJZVNz1H/BrZvpF3B13SSu0IVSz1AoBzQH/VL31i44rTBpTrjAZ5EmN5G6DszB3SAqObFZICknV0vm+XNGEmkspIHZnEMxALO9rVp1E7VYD6wPUWzF2rwFndIJRxNf7MZFyUgrgSl0AZP3F5m0vVMJpcpHbX2cBQA0+2s2jkP1Np8dcXYeVPrGYJIOq43tRKaS4ZE7X/hqe5khSCBmLgru7bE3TPAmhK1Fb61Uza74BlZmg==;8mmMDoWI61UBtKT7qPuOxg=="
 ---

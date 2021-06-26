@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-28-robots-drones-and-ai-the-new-technology-making-waves-in-wash.md",
+      "title": "Robots, drones, and AI: The new technology making waves in WASH",
+      "excerpt": "From sanitizing open-air markets to identifying leaky pipes, robots and AI are increasingly found in the WASH space. Devex looks at the potential positives and pitfalls of engaging a \"robo-WASH\" workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312",
+      "originalUrl": "https://www.devex.com/news/robots-drones-and-ai-the-new-technology-making-waves-in-wash-99312",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/devex/image/fetch/c_limit,w_1200/https://lh5.googleusercontent.com/DIrIWRji_Zokhv-x550QyWc7WwTJkHhX93_oSniSy9StDo8GvX6ryjuO083d1yMiRkuncZFccs-iAWenX0n0XY2kn2X7w-59eJQAUozXa2IzLTboF-E4zZUYwBa70UX4CcpEPC9u",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Devex",
+        "domain": "devex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-south-korean-firm-to-develop-liability-insurance-for-ai-robots.md",
       "title": "South Korean firm to develop liability insurance for AI robots",
       "excerpt": "South Korean telecom giant KT is developing an insurance program covering artificial intelligence-based robotics services for the first time.",
@@ -1326,40 +1369,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-new-sensation-pioneering-mind-controlled-arm-restores-sense-of-touch.md",
-      "title": "New sensation: pioneering mind-controlled arm restores sense of touch",
-      "excerpt": "Imagine being able to control a robotic arm from a distance, using only your mind. Now imagine being able to feel when its fingers grasp an object, as though it were your own hand. US researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "originalUrl": "https://www.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "cdnAmpWebUrl": "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/breaking-news/new-sensation-pioneering-mindcontrolled-arm-restores-sense-of-touch/news-story/84afbd66f3eca8f1d99f833c0bb69efc",
-      "publishedDateTime": "2021-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News.com.au",
-        "domain": "news.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
