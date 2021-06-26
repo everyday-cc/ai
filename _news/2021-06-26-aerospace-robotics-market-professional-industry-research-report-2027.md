@@ -7,7 +7,7 @@ originalUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-
 webUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U623283900_g.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
-    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
-    publishedDateTime: 2021-06-21T20:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-markets-to-2025---increasing-demand-for-big-data-analytics-due-to-huge-unstructured-data-generation-at-end-use-industry-sites-301316528.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "/I+9ONMXlOmkpAB5KDt3cSy0m3uHrCSoYij4qZHOPWkExnjHurIb/l69riubSBk9LMBGgWTIIolLw+pFJWuVuWLBrOIAoz4DO1qWcuR5289D9uScT9wnEpiS94EEJxaRY5qbyj15tv95NxExy/ZPaPJ1KJHx9PEHC/QeIsuozp8KSP1APgWrI0/FO6/KtOlpCZXromGq7NLqjzTSYY8SXHWnqWgjsK33rSVUdsnnk9uk84ak6/WLgEnKpKMEEWohg6O4H6s3C2Tz03fn4hPgIjcsaV+rfyr/hkaInPvFZtPxo5pa+cTmgXkFeSCWNMxMBtjkOEa3cybzRxMF+/DORbNnUou9Jsz0qFuJMtYrygs=;UQM/O0ea4sViZPDvjUZxCA=="

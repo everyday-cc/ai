@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "The startup, active in the United States and China, plans to install its technology in hundreds of vehicles next year, rising to tens of thousands in ..",
-      "sourceUrl": null,
-      "webUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "originalUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83842238,imgsize-700330,width-800,height-434,overlay-etauto/toyota-backed-self-driving-startup-pony-ai-considers-going-public.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "publishedDateTime": "2021-06-25T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
       "title": "The future of mobility: 5 transportation technologies to watch out for",
       "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
@@ -253,6 +210,40 @@
       ]
     },
     {
+      "path": "_news/2021-06-23-self-driving-truck-maker-embark-to-go-public-via-46-bln-spac-deal.md",
+      "title": "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal",
+      "excerpt": "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
+      "publishedDateTime": "2021-06-23T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-the-road-to-driverless-cars-is-looking-hopeless.md",
       "title": "The road to driverless cars is looking hopeless",
       "excerpt": "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ...",
@@ -283,58 +274,6 @@
         "name": "deseret",
         "domain": "deseret.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-truck-startup-embark-to-go-public-in-52-billion-spac-deal.md",
-      "title": "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal",
-      "excerpt": "The company is the latest self-driving truck firm to tap public markets in recent months, joining Plus and TuSimple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-357324/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400",
-      "publishedDateTime": "2021-06-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -503,7 +442,7 @@
       "originalUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -555,7 +494,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -597,6 +536,49 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk.md",
+      "title": "Tesla to hold Artificial Intelligence Day in 'about a month' for hiring: Musk",
+      "excerpt": "Tesla Inc chief Elon Musk is considering holding an Artificial Intelligence Day in about a month, where the Silicon Valley billionaire will showcase the progress in AI software and hardware with an aim to recruit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042",
+      "originalUrl": "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/54187-Untitled%2520design%2520%25284%2529_122.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/tesla-to-hold-artificial-intelligence-day-in-about-a-month-for-hiring-musk-393042/amp",
+      "publishedDateTime": "2021-06-21T19:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

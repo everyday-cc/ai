@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Markets to 2025 - Increasing Demand for Big Data Analytics Due to Huge Unstructured Data Generation at End-Use Industry Sites"
-    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The report provides an overview of the"
-    publishedDateTime: 2021-06-21T20:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-deep-learning-markets-to-2025---increasing-demand-for-big-data-analytics-due-to-huge-unstructured-data-generation-at-end-use-industry-sites-301316528.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "8fhML8Ja7Fx8/2uo7ZBQGUz0jx4aZHs8nbd2eA+TDvatCerU1gAyEwgvj6X4IfDc3InxKYwVspcWHfQxr0lBhtI8ngDUHDmpyBJeG2MrX91+zjtIMC+us9JjSeAgSjZWj4nz+uyCNYp+bpa9XIhJ21GsHIoJZrrIWUYvt93l2PqCQEBmBCg5Qx7iaoJRADS7SfJsgtMIW3jZfebWD/GbygqHZXAea38f9GbnakorRQLfslgr6hV4IKna33Lw3DvGau2zZuzN3AJS65Q4852QUixc5inlIOqbfxgkzfeVnw4xj3cggur0yVF+/UaS/z2zUBhzst4Bj0A1D1g0z6WmUxVlNCXtzJGelhgpU/NQ9vA=;LwciQYKafG8CV8gDcyv8lA=="
 ---

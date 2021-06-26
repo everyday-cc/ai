@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-21-eu-data-protection-agencies-want-ban-on-ai-facial-recognition.md",
+      "title": "EU data protection agencies want ban on AI facial recognition",
+      "excerpt": "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "originalUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/30564-untitled%25252520design%25252520%25252833%252529-20171013033238.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "publishedDateTime": "2021-06-21T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo.md",
+      "title": "CrowdStrike stock falls after rival SentinelOne prices IPO",
+      "excerpt": "CrowdStrike (CRWD) shares are down 5% after competitor SentinelOne (S) priced its IPO at $26-29 per share, which would raise up to $928M at a potential $7.36B valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "originalUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
+      "publishedDateTime": "2021-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-how-equbot-is-beating-the-market-with-aieq-the-ai-powered-etf.md",
       "title": "How EquBot is beating the market with AIEQ, the AI-powered ETF",
       "excerpt": "Asset managers, banks, and other financial institutions employ armies of analysts to sift through spreadsheets and media chatter. But even the biggest players can’t hope to keep up with the volumes of data produced by the modern global economy. “I was managing north of $30 billion as a portfolio manager",
@@ -254,19 +340,19 @@
     {
       "path": "_news/2021-06-21-artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio.md",
       "title": "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio",
-      "excerpt": "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,",
+      "excerpt": "Gain more insights into the global trends impacting the future of the artificial intelligence-based cybersecurity market, Request Free Sample @ https://www.technavio.com/talk-to-us?report=IRTNTR44001 Amazon.com Inc.: The company offers AWS. It is a cloud ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
+      "webUrl": "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html",
+      "originalUrl": "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/8/1b/81bc13a3-3d69-565c-8a14-b0c2e46a2458/60d071d846571.image.jpg?resize=1200%2C585",
+          "width": 1200,
+          "height": 585,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -276,11 +362,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T03:36:00-07:00",
+      "publishedDateTime": "2021-06-21T03:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1132,101 +1218,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu.md",
-      "title": "ROG upgrades Flow X13 with the latest Nvidia RTX 3050 Ti GPU",
-      "excerpt": "Together, the Flow X13 and XG Mobile redefine what’s possible with a 13-inch device Asus Republic of Gamers (ROG) today announced the upgraded ROG Flow X13, the ultra-portable 2-in-1 convertible ROG gaming laptop with the latest Nvidia 3050 Ti GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "originalUrl": "https://gulfnews.com/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/06/20/Asus-Flow-X13-_17a28722ad6_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/rog-upgrades-flow-x13-with-the-latest-nvidia-rtx-3050-ti-gpu-1.1624176723917",
-      "publishedDateTime": "2021-06-20T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market 2021 with Industry Competition Analysis, Top Countries Data, Major Manufacturers and Forecast 2026",
-      "excerpt": "Global \"Artificial intelligence (AI) Chips Market\" report provides a brief analysis of the growth factors influencing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2021-with-industry-competition-analysis-top-countries-data-major-manufacturers-and-forecast-2026-2021-06-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-20T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

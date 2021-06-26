@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
 type: article
 quality: 90
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Tesla is using a supercomputer to train its self-driving tech"
+    excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
+    publishedDateTime: 2021-06-26T09:00:00Z
+    webUrl: "https://www.popsci.com/technology/tesla-self-driving-supercomputer/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 54
+    images:
+      - url: "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
     excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."

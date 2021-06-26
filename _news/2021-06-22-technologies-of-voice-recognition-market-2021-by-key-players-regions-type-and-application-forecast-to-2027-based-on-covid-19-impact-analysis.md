@@ -54,6 +54,34 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "ePharmacy Market Size Worth US$370 Million by 2031:"
+    excerpt: "Visiongain has published a new report on Global ePharmacy Market Report Forecast 2021-2031. Forecasts by Product (Prescription Medicine (Rx) and Over-The-Counter (OTC)). PLUS Profiles of Leading ePharmacy Companies and Regional and Leading National Market Analysis."
+    publishedDateTime: 2021-06-26T12:16:00Z
+    webUrl: "https://menafn.com/1102346055/ePharmacy-Market-Size-Worth-US370-Million-by-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7436"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
+    excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+    publishedDateTime: 2021-06-21T22:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
+        width: 400
+        height: 226
+        isCached: true
   - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
     excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."
     publishedDateTime: 2021-06-23T09:12:00Z

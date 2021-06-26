@@ -2,6 +2,154 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-06-artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027.md",
+      "title": "Artificial Intelligence (AI) in Precision Farming Market [ PDF ] To Witness Significant Growth By 2021-2027",
+      "excerpt": "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :-, Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk, DTN, Resson, Vision Robotics, CropX, John Deere ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-facebook-makes-its-best-tool-available-for-better-translation.md",
+      "title": "Facebook makes its best tool available for better translation",
+      "excerpt": "New Delhi, June 6 (IANS) In a bid to help build better translation ... language remains a fundamental barrier to accessing information and communicating freely with other people. “The AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/facebook-makes-its-best-tool-available-for-better-translation",
+      "originalUrl": "https://www.glamsham.com/world/technology/facebook-makes-its-best-tool-available-for-better-translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/06/834f3b8c1e03550d3a98729783555531.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-the-rush-to-commercialize-ai-is-creating-major-security-risks.md",
+      "title": "The rush to commercialize AI is creating major security risks",
+      "excerpt": "Researchers from the University of Maryland presented an attack technique meant to slow down deep learning models that have been optimized for fast and sensitive operations.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
+      "originalUrl": "https://thenextweb.com/news/rush-commercialize-ai-creating-security-risks-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FAI-Security-hed-shutterstock_1740944516.jpg&signature=47e30a1c370659443e3ae86f0a64fd63",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-ihp-offers-access-to-memristive-technology-for-edge-ai-computing-or-hardware-artificial-neural-networks-applications.md",
       "title": "IHP offers access to memristive technology for edge AI computing or hardware artificial neural networks applications",
       "excerpt": "Progress in work on memristive circuits and systems is growing rapidly. They find applications in non-volatile memories, advanced computing technologies, e. g. edge AI computing applications, or in hardware artificial neural networks (ANNs) with memristive elements as synaptic elements.",
@@ -1059,164 +1207,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025.md",
-      "title": "Global Artificial Intelligence Chip Market In-depth Analysis by Risk Factors, Economic Fluctuations and Industry Dynamics by 2025",
-      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-in-depth-analysis-by-risk-factors-economic-fluctuations-and-industry-dynamics-by-2025-2021-06-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-build-an-automatic-inventory-solution-with-public-datasets-and-amazon-rekognition-custom-labels.md",
-      "title": "Build an Automatic Inventory Solution with public datasets and Amazon Rekognition Custom Labels",
-      "excerpt": "Inventorying store items is a general demand for retail stores and supermarkets. This is usually performed manually by counting items and visually checking the correct placement. Tracking changes in inventory helps business owners evaluate performance of each product, validate correct placement, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-automatic-inventory-solution-using-public-datasets-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/20/5-1361-Soda.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T10:24:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-how-ai-can-simplify-streamline-and-enhance-supply-chain-operations.md",
-      "title": "How AI can simplify, streamline, and enhance supply chain operations",
-      "excerpt": "The shift to advanced automation and AI was already underway as IT teams streamline and enhance their supply chain processes and operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/",
-      "originalUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/04/how-ai-will-simplify-streamline-and-enhance-supply-chain-operations/amp/",
-      "publishedDateTime": "2021-06-04T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

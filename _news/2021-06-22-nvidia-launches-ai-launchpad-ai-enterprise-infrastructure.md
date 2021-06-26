@@ -134,20 +134,6 @@ related:
         width: 590
         height: 330
         isCached: true
-  - title: "These 9 Top Nvidia Partners Are Driving AI Growth Across Industries"
-    excerpt: "An Nvidia exec explains the formula behind the company's top nine partners of 2020 who drove growth in AI solutions for vertical industries."
-    publishedDateTime: 2021-06-21T19:39:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/these-9-top-nvidia-partners-are-driving-ai-growth-across-industries"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/0268-12061e36b423-ba167a1fc5d1-1000/nvidia-2.jpg"
-        width: 608
-        height: 457
-        isCached: true
   - title: "Nvidia’s LaunchPad delivers instant AI infrastructure in the cloud"
     excerpt: "AI infrastructure in the cloud and at the network edge. Announced today, the new Nvidia AI LaunchPad program provides customers with instant access to the entire spectrum of Nvidia’s AI computing resources,"
     publishedDateTime: 2021-06-22T13:00:00Z

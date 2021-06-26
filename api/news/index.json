@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-26-heres-what-a-trend-analyzing-ai-thinks-will-be-the-next-big-thing-in-tech.md",
+      "title": "Here’s what a trend-analyzing A.I. thinks will be the next big thing in tech",
+      "excerpt": "The \"technology intelligence engine\" uses A.I. to sift through hundreds of millions of documents online, then uses all that information to spot trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/",
+      "originalUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp",
+      "publishedDateTime": "2021-06-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-these-cute-robots-are-now-delivering-pizza-across-austin-texas.md",
       "title": "These cute robots are now delivering pizza across Austin, Texas",
       "excerpt": "The REV-1 delivery robots are electric, have three wheels, operate in bike lanes, and will start delivering pizzas across Austin, Texas.",
@@ -50,6 +102,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-how-ai-is-taking-over-our-gadgets.md",
+      "title": "How AI Is Taking Over Our Gadgets",
+      "excerpt": "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-359618/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "publishedDateTime": "2021-06-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -157,7 +260,7 @@
       "originalUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -351,7 +454,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -593,49 +696,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
-      "title": "Toyota-backed self-driving startup Pony.ai considers going public",
-      "excerpt": "The startup, active in the United States and China, plans to install its technology in hundreds of vehicles next year, rising to tens of thousands in ..",
-      "sourceUrl": null,
-      "webUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "originalUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83842238,imgsize-700330,width-800,height-434,overlay-etauto/toyota-backed-self-driving-startup-pony-ai-considers-going-public.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/toyota-backed-self-driving-startup-pony-ai-considers-going-public/83842238",
-      "publishedDateTime": "2021-06-25T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -942,6 +1002,57 @@
       ]
     },
     {
+      "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
+      "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
+      "excerpt": "Self-driving tech company Pony.ai, backed by Toyota Motor Corp (7203.T), is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services, its chief executive told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-natural-language-processing-nlp-market-by-type-deployment-model-technology-vertical-geography-and-forecast-2021-2030.md",
       "title": "Natural Language Processing (NLP) Market By Type, Deployment Model, Technology, Vertical, Geography and Forecast 2021-2030",
       "excerpt": "Acumen Research and Consulting added Most up-to-date research on \"Global Natural Language Processing (NLP) Market : Global Industry Size, Share, Trends and Forecast, 2021-2030\" to its huge collection of research reports.",
@@ -1138,111 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
-      "title": "The future of mobility: 5 transportation technologies to watch out for",
-      "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
-      "originalUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/volocopter2.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
-      "publishedDateTime": "2021-06-24T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
-      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
-      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
-          "width": 800,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T15:58:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

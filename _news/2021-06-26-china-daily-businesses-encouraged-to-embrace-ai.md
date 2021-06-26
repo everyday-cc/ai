@@ -52,6 +52,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "7 smart ways even small businesses can leverage the power of AI"
+    excerpt: "Existing tools and low-code platforms make tapping into the power of AI an achievable goal for businesses of any size and expertise. And you might be surprised at AI’s flexibility—there’s much more AI can do for your business beyond powering a website chatbot."
+    publishedDateTime: 2021-06-22T17:00:00Z
+    webUrl: "https://www.fastcompany.com/90648920/7-smart-ways-even-small-businesses-can-leverage-the-power-of-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/06/FCEB-7up-EP-power-of-AI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qittYSDkP9590oqnjvoPBqi4rwi30/NTUjwsRVDHNxcA6j/VP9FpZSks4FNMGeaq613idBVse04pcA+1wnGe9l/SEC6Y7eNzObD29LLvrg/z4Di0McJv+vTI2xg59g3M7rjbHm+I4+4rDe1KfD8ag0khFGu6MhV5sXy+1X/Qo4AN/2IHNIkIsIC9AwSzmqida/rntIWHBxKI6443PZLs0YBPZOsB5ukGDGxRREjQ85Q0Bi+6NRCCvCqk+qR6pAAmXWCmFW4tZMVnZ11IkHC+NjJOxgjxxrEEPIWfIgypPNmdkQgI6wu5ognPondnfSFZil9HNZ3nrpgnLdgUz8EB5iDuTNl4shi52a9S2fyo1Ac=;fuPq3Y0Tuwuh3wii53SbfQ=="
 ---

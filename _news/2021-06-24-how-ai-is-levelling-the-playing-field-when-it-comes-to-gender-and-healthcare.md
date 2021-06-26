@@ -64,22 +64,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Funding is pouring in to companies trying to crack self-driving tech"
-    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
-    publishedDateTime: 2021-06-25T00:30:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
-        width: 740
-        height: 415
-        isCached: true
   - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
     excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
     publishedDateTime: 2021-06-23T20:35:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Max Kelsen revs up ML system for car share platform"
-excerpt: "Australian car share platform Car Next Door has tapped Max Kelsen to deploy an ML system geared at reducing inappropriate car borrower behaviour."
-publishedDateTime: 2021-06-22T06:01:00Z
-originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
-webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
+excerpt: "Utilising Amazon Web Services (AWS) tech like managed ML service Amazon SageMaker, Max Kelsen built a machine learning application to assist Car Next Door’s investigations team to flag ‘bad ..."
+publishedDateTime: 2021-06-22T05:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
+webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
 type: article
 quality: 41
 heat: 41
@@ -55,6 +55,6 @@ related:
         height: 900
         isCached: true
 
-secured: "RJsek49G07Q6w1G+3aLjPA3sNp8JPckBZqePaaYL7OWvs/XomA1tsiAEo9rW7ycGd5XqTpJjtL1230nrbAh3c88BTNtpiPYxJoinwl9Pa/UvbifFgHeENaNFLBp0kUC1eHd0P1YqY9gV5spLDCanZOGekJPkdo1QUoOSg6TowGRq2VVg/70pqWvQHSw9Led4NwMeK2zDTzmkhFRaVgQq++pFTAE5JmaqunwakotykKtq7MTbdaux28C+Qb90qvYx9MMDVOPmZg4LsFS4Dynk2ub21GnPZ65BP39pcOBtKjYc88OYI4/fmCr5r+T45C7z3JbCDinpfZgoBO1yt6Sk/Enhm3FtP2ZuaIqTnGoWw1QIY5bvRKovNBmRDNH/veHIFqnLsbvTWc6n9ELjWQBtwcTXjD4k1+ng64C4Q4+dKXbcotu3BR1vebAoMrK6WsNbN3l58zmUUqei7K65L7H5mkeFxoy69cS9MpL41tSW4/l9QIThO91tHoPnESoZQ8+BXijQWMGHnHNKcMt2asFLOA==;bg0x/knQE75ltVrMMBjh2A=="
+secured: "N2+vqutILOshyfeQsFY4iAW2KtL18jf9T4x/gZFVoYeQBpjbjKyy82/3lWSplG0xNgoCucG2YI5Pe4ykodYFTiFifzA8j28VgZkKGIhu/Gic2xtK7TFbV+uzpzkHfeMYLCfX01+Rt8sbktX98DvKLQwf+fRTypzUMsYLMA/duXgTFXZH5bO1p/1TuKojJOFxu8cwC9uwuwmz6KjY6NDciwBtxam4MabYsSHBa9WTeiLXWFLhc70716Q2+sgxUkPrHpAqnRoje/JcYll8ZVu6fktaVh6KXu8F2YIaozGwj8oVMSwcbIQjfUARVIUN67piWh54rEtGnqRQZe8TT1MAc4agI4DjunUd4+k54Y9FE60=;u5n2+6VdOVjcIYuXgzYlZA=="
 ---
 

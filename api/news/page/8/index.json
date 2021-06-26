@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-18-is-this-ai-startup-the-next-pixar.md",
+      "title": "Is This AI Startup The Next Pixar?",
+      "excerpt": "Israeli startup D-ID has developed AI with the potential to change how digital media is created, enhanced and used by the entertainment and media industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cba958f4ba964038764df8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D600%26cropY1%3D146%26cropY2%3D484",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/18/is-this-ai-startup-the-next-pixar/amp/",
+      "publishedDateTime": "2021-06-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible.md",
+      "title": "The Future Of AI And ML Fairness In Southeast Asia: Who's Responsible?",
+      "excerpt": "Regulators, practitioners and businesses must collaboratively rise to the challenge of unlocking the power of data ethically in response to the evolving needs of SEA communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211552718%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
+      "publishedDateTime": "2021-06-18T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-fico-launches-executive-linkedin-live-video-series-on-operationalizing-analytics-and-artificial-intelligence.md",
+      "title": "FICO Launches Executive LinkedIn Live Video Series on Operationalizing Analytics and Artificial Intelligence",
+      "excerpt": "FICO is launching two new LinkedIn Live video series about operationalizing analytics and AI to meet common business challenges pressing organizations today Global analytics software provider, FICO, today announced its upcoming executive LinkedIn Live video series,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fico-launches-executive-linked-live-video-series-operationalizing-/2021/06/18/9393317.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-making-the-generic-ai-trend-work-for-your-business.md",
       "title": "Making The Generic AI Trend Work For Your Business",
       "excerpt": "Generic AI might look great in the lab and in the demos we see online, but in the real world, problem-specific models are what we need to achieve high accuracy and precision — and, therefore, effectiveness — with AI.",
@@ -1009,153 +1147,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
-      "title": "2. Hopes about developments in ethical AI",
-      "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
-      "originalUrl": "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
-      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
-      "excerpt": "Google Brain scientists published in Nature a deep reinforcement learning technique for floorplanning, or arranging components on chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/05/screen-shot-2017-05-17-at-10-17-19-am-e1623759898466.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/",
-      "publishedDateTime": "2021-06-17T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-basic-ethical-questions-of-transparency-and-bias-in-ai-remain-unsolved-experts-say.md",
-      "title": "Basic ethical questions of transparency and bias in AI remain unsolved, experts say",
-      "excerpt": "Big Tech companies are expected to perform a delicate balancing act in advancing AI development, while ensuring the technology’s ethical application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/17/c2c9fe55-4125-4bc1-a5b8-117eb2a6fda4_8650bdb4.jpg?itok=7p6UsNJ0&v=1623932989",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "publishedDateTime": "2021-06-17T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -78,22 +78,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Funding is pouring in to companies trying to crack self-driving tech"
-    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
-    publishedDateTime: 2021-06-25T00:30:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
-        width: 740
-        height: 415
-        isCached: true
   - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
     excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
     publishedDateTime: 2021-06-23T20:35:00Z
@@ -106,6 +90,6 @@ related:
       domain: benzinga.com
     quality: 39
 
-secured: "Jntwy+3ILNBq5heMwsVz6v/GnhZdJGLxp3e5gJUZtXhG2Pna33H5Lk0DrszmZVX0iTfaxcoxbvmDIRb6fXgI8K74P1WQY/G02G5zMsDbS/nZX5YToEkRGX2zn0lzVS9ug97u3Pfw0C7RBI+MyhDYciZqG97xsuxVIIlYG3UNeSHfN8gs2YLp22+Bo3wGDQ6ode47ruxGpBVt1nb4tDLXVS/DWgbPWcHPMP4GdALTs1Hu9B0hbcfYkmK0wKC2ofYXi8rh44huEoLlwQ7C8Pa3jrUJ0tFW5WXNcJNCO35LTNJwb8w9MfrOmTUmisTVlYPWESj1PjGK3aebfFUEDs2lOK8h52c0a/3a7pUX60GG+0A=;6fJzajMMn5Ag8QA5m+Y0Aw=="
+secured: "ElNqxtd946WkGP8nTGn+zuuovZ5rd5ZA1+kRsqQu0XW57Npa0eaWdl8AU03OLeHJDZOOGDW8Pzktt+Xc58PYrB9l4B8wFYQYJnjP9z3x9kMUhTH8HkAkWRlzvq2Y97qeNtx/1QQriqJWF7QgdJEZ9yrQEY44wUDJBuSjeZ+ud/hlCy+UnrRuXagPk64YOZ1OFJOLskCBVa8VOA9aqPFPWPswwzroJg6tf8XWV/MpgjASYRwbVnwr6c2g/cidnCr4NY/iEDFi4udxdRLIEdL3S0rpapPwRKHMeGm5jRhPReyDQBxq1A+i083nHpy8e0tFKnEWlOl5XWnQA8yrFeCbtQLrchXolseg0bm7OcwW5eU=;JZScvvTtNa616PFLlvMvLg=="
 ---
 

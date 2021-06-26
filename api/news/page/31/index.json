@@ -2,6 +2,134 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-06-02-hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-self-driving-cars.md",
+      "title": "Hacking and loss of driving skills are major consumer concerns for self-driving cars",
+      "excerpt": "The following perceptions, gained through qualitative interviews and quantitative surveys, are key to consumer decision making around autonomous vehicles. The three key perceived risks for autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/news_business/hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-selfdriving-cars",
+      "originalUrl": "https://www.poandpo.com/news_business/hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-selfdriving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/stocfiles/image/fetch/https://www.histerius.com/hs0621/autonomous_vehicles.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-field-deployable-computer-vision-wood-identification-of-peruvian-timbers.md",
+      "title": "Field-Deployable Computer Vision Wood Identification of Peruvian Timbers",
+      "excerpt": "Illegal logging is a major threat to forests in Peru, in the Amazon more broadly, and in the tropics globally. In Peru alone, more than two thirds of logging concessions showed unauthorized tree harvesting in natural protected areas and indigenous territories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
+      "originalUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.frontiersin.org/files/MyHome%20Article%20Library/647515/647515_Thumb_400.jpg",
+          "width": 400,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Frontiers",
+        "domain": "frontiersin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-singaporean-ai-startup-sqreem-acquires-programmatic-ad-solutions-firm.md",
+      "title": "Singaporean AI startup Sqreem acquires programmatic ad solutions firm",
+      "excerpt": "Sqreem Technologies, a Singapore-based artificial intelligence solutions startup, announced that it will be acquiring programmatic advertising solutions platform Gamma SSP. The deal will initially see Gamma becoming a fully owned subsidiary of Sqreem before its supply-side platform (SSP) gets merged with the AI firm’s tech stack,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/singaporean-ai-startup-sqreem-acquires-programmatic-ad-solutions-gamma-ssp",
+      "originalUrl": "https://www.techinasia.com/singaporean-ai-startup-sqreem-acquires-programmatic-ad-solutions-gamma-ssp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp.md",
       "title": "AI-driven platform to facilitate early Covid intervention over WhatsApp",
       "excerpt": "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,",
@@ -1022,142 +1150,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce.md",
-      "title": "Abstracting Amazon? Fakespot Layers AI-Based Trust Over Digital Commerce",
-      "excerpt": "Now there’s a layer on top of Amazon. And it’s one that will eventually rest on Walmart, eBay, Best Buy, Sephora, and probably other stores as well. Fakespot is launching “the world’s first secure shopping browser” in a new app,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66eee7598cefe4a7dd31d%2F0x0.jpg",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/amp/",
-      "publishedDateTime": "2021-06-01T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-moleculeone-grows-its-drug-synthesis-ai-platform-with-a-46m-seed-round.md",
-      "title": "Molecule.one grows its drug synthesis AI platform with a $4.6M seed round",
-      "excerpt": "Polish computational chemistry outfit Molecule.one has raised $4.6M to expand its quest to bring theoretical drug molecules to reality. Its machine learning systems predict the best ways to synthesize potentially valuable molecules,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/",
-      "originalUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/molecule-one-header.png?w=1024",
-          "width": 1024,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/amp/",
-      "publishedDateTime": "2021-06-01T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

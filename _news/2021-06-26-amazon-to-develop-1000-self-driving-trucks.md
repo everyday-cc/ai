@@ -46,17 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
-  - title: "Amazon is said to be in talks to buy stake in self-driving truck startup Plus"
-    excerpt: "Amazon has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
-    publishedDateTime: 2021-06-21T19:05:00Z
-    webUrl: "https://www.seattletimes.com/business/amazon-is-said-to-be-in-talks-to-buy-stake-in-self-driving-truck-startup-plus/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazon-is-said-to-be-in-talks-to-buy-stake-in-self-driving-truck-startup-plus/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-is-said-to-be-in-talks-to-buy-stake-in-self-driving-truck-startup-plus/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
   - title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
     excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
     publishedDateTime: 2021-06-26T07:23:00Z
@@ -82,24 +71,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Amazon to buy 1,000 self-driving trucks"
-    excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
-    publishedDateTime: 2021-06-25T13:12:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
-  - title: "Amazon to collaborate with self-driving startup Plus"
-    excerpt: "Amazon has entered into an agreement with Plus, a self-driving freight startup, to retrofit 1,000 trucks. According to Bloomberg, under the agreement, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
-    publishedDateTime: 2021-06-25T20:23:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-collaborate-with-self-driving-startup-plus"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "P4DQRHxV/JY57b8VNbFd0BvJohPXuUkV3JAI8LbzLzXnYExfHpJkk0ngHDV1RjIYYZwb8B5UzAB37+aX8lDxi5dngcbp0J6O0vHtSgAqBjotIEc/P3TJrEI0Uuk7sVrw+hhcbClF7t29JLTNp5v7uhOGj12sVQ9AVQpESppiDs6aFBsqWn3zOu/0HBUDW8652jE6Fxkw2Kye280Od3Pa0ytE/MMyjMZZ+MUpP4nlCieDa9p+7jG6xNBcLhZ12Q3bGL9jzt02V7e+8NG80B1wIn3V1ESY+FJiSK0r6K0ZrR5WMzeWfEzMT93amcNaFEXUEW52ato0+hQFJb3+lBhUJyLFTW3KCMr8hUs7QvqsbXw3kODBeOn7wouZdvqPMja/LT/ZlE3WFGafOmDvAriY4jZxG6VfyBYH+YSRIGfj/N0yG/HcNk20pJ/mrivHPhIR61wdkoWLCXvD21gQ83Vf1KJN+Uxgbe4pSLGmU3hg2hYtSts86JeijKs/nT5CKAj7dWSOJOrMUK8AVVViDganHw==;MAh+JO+P0mnRQXAMhKi9GA=="
 ---

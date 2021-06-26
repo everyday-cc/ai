@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-06-23-3-ways-ai-is-being-used-for-good.md",
-      "title": "3 ways AI is being used for good",
-      "excerpt": "As health providers increasingly come to rely on AI systems during this pandemic and into the future, and governments across the globe consider way..",
+      "path": "_news/2021-06-23-intel-restructures-to-create-units-for-gpu-high-performance-computing.md",
+      "title": "Intel restructures to create units for GPU, high-performance computing",
+      "excerpt": "Intel said it would create two new business units that would focus separately on software and high-performance computing and graphics.",
       "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714",
+      "webUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
+      "originalUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83772714,imgsize-77735,width-800,height-434,overlay-etcio/3-ways-ai-is-being-used-for-good.jpg",
-          "width": 800,
-          "height": 434,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-tiger-lake-h.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714",
-      "publishedDateTime": "2021-06-23T00:40:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
+      "publishedDateTime": "2021-06-23T02:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,59 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-coffeemugai-raises-625000-from-paradigm-shift-capital-and-angellist-india-in-pre-seed-round.md",
+      "title": "CoffeeMug.ai Raises $625,000 From Paradigm Shift Capital And AngelList India In Pre-Seed Round",
+      "excerpt": "The company plans to use this fund to accelerate its efforts to refine its AI-based matchmaking algorithm, double its existing user base of 50,000 globally, and connect them with genuine business oppo",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/375424",
+      "originalUrl": "https://www.entrepreneur.com/article/375424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1624434392-hivan-arvizu-soyhivan-MAnhvw0nDDY-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/375424",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375424",
+      "publishedDateTime": "2021-06-23T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1045,7 +1105,7 @@
       "originalUrl": "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1181,51 +1241,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-artificial-intelligence-ai-in-education-market-worth-observing-growth-knewton-microsoft-cognii.md",
-      "title": "Artificial Intelligence (AI) in Education Market Worth Observing Growth | Knewton, Microsoft, Cognii",
-      "excerpt": "The Global Artificial Intelligence AI in Education Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short term challenges they face One major attraction",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "originalUrl": "https://www.openpr.com/news/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U622407575_g.jpg",
-          "width": 604,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310856/artificial-intelligence-ai-in-education-market-worth",
-      "publishedDateTime": "2021-06-22T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education",
-        "Microsoft AI"
       ]
     }
   ],
