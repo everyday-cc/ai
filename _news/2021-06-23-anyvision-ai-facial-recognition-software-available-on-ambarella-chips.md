@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recogni
 webUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella unveils 2 new AI chip families for 4K security cameras"
-    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision."
-    publishedDateTime: 2021-06-21T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/"
-    ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/ambarella-Photo_CV52S_Embargo-June-21-2021-5am-ET.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Ambarella Launches New Edge AI Computer Vision Chips, Boasts of Major Performance Gains"
     excerpt: "The company's two new parts come with some impressive performance claims, including a fourfold boost in AI compute."
     publishedDateTime: 2021-06-22T16:47:00Z
@@ -56,6 +40,42 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
+    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
+    publishedDateTime: 2021-06-22T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "EU agencies call for ban on AI facial recognition in public spaces"
+    excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
+    publishedDateTime: 2021-06-22T00:30:00Z
+    webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
+    ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+  - title: "EU data regulators call for a ban on AI-based facial recognition software"
+    excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
+    publishedDateTime: 2021-06-23T04:14:00Z
+    webUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software"
+    ampWebUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 53
   - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
     excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
     publishedDateTime: 2021-06-21T23:07:00Z

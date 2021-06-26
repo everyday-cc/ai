@@ -2,27 +2,21 @@
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
 excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
-publishedDateTime: 2021-06-23T17:59:00Z
-originalUrl: "https://www.register-herald.com/region/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition/article_9c9eacbb-298c-5d8b-914d-17acdedc2550.html"
-webUrl: "https://www.register-herald.com/region/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition/article_9c9eacbb-298c-5d8b-914d-17acdedc2550.html"
+publishedDateTime: 2021-06-24T09:12:00Z
+originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
 
 related:
   - title: "Meet The Winners Of IBM Watson AI XPRIZE"
@@ -133,6 +127,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "tjyNP2BS2fFoqlFSEiY7DFaHUvYJyUH03aaQHgXQiRnd92IXImvsTR4zWjcnGgJe5Q0DsudbMCMHoWW4E5ayU8HzJfHaSi3kebVeDRghxnehqmANsmvH7Ozao1hDzQR6dCtagLgp2uKwfI2BO+0cVqhJROFWvG1DVf1K9SMuSEehXlSm2Eh+TBKDXCqstm+SxNlCPxgzrhjwY5uhmBuHCizQONvVWGlxk2LjdtPxw39/LvsR2G0uTJ8hopHpk2yVYeHC5GLiLr4V1p5GeFghlRCrfq/2A6ok1MvgwChy3WRM8yBeixgV287oVTLITO9bAScKJX3v9GIf2L1jIkQuEbZhskKlNQD70zCe0HpDHq0=;jO8xrrnummWeBdsGIhXU5Q=="
+secured: "gxwyRCotyC9oDzfo/hRqgWzyaRM8BthkP7+rhaZUOEo3z3EbwUPElFmYYqw0upjEn+yXc3NNwII2FipdGCGBQXckgPoV1xy67QoXxpJ6l9gTiwGgQxKhdcdpZ6YimbUDycQiicYpR33wJ492KjGOgIcRrdoqSw/xEbhfeMCCFduBsm2PiMHKwjPHa9GTNgeZsWF/RDUHmwIQJ4Yc0H4q47Abieyoy/gvZ3gCaAIn30SLAK9UcQBAiKaehq5y2M37thKY1Or/RWJxH9MaXQ8n8Z3OW6azUNDvOixflo7sUiRgrh0ap6Mfr7CHTGHGjJ1I7xTNThJzfdDZ03oq6dI1A2iK9eW9NBUMONvtTnSSwA8=;2tuGEHLRvvP9X92hweIqEg=="
 ---
 

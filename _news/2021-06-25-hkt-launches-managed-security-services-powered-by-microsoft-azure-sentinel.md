@@ -45,15 +45,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 38
-  - title: "Microsoft introduces Azure private multi-access edge compute system, services"
-    excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
-    publishedDateTime: 2021-06-21T15:18:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-azure-private-multi-access-edge-compute-system-services--1387445"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
 
 secured: "OX0PgJnA1aJr4GYoAzGYtNh/VRwBgHd0WK+bBWJNvR6L3Qud9PH+EM43/Ro0ux+aUI7iAfyULDSPoCMRfKgFEqYwd6h5n8iWQKmK5qIxujFBqjIPJL6OCttQO9D0XOfbyVOnu3vfTSwul5JO6aX+2wg7aYw1wIv349aOiK3iM5qWzPzB9kmRc7c54lkTynGhILYlFrmuysqKFG65MvkpxeA18iIlyg18RaP7QIV6gVVXGAfkW1c7CQRm8GO69bAXDQgiquc41H9jexpbl61+iThnLXM0xJuktYOww7K5yIylB2aTSn/BNUW622lT8Yw8vvHMBzINzIRmDuMikgB24NCWtS9ea1RHUKeBoAEcJyA=;t0rfRxo66IsgTopNgSERXg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/intel-restructures-to-create-unit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "HPE acquires Determined AI to bolster its high-performance compute business"
-    excerpt: "Hewlett Packard Enterprise (HPE) has acquired startup Determined AI to support the growth of its high-performance compute (HPC) segment."
-    publishedDateTime: 2021-06-21T15:05:00Z
-    webUrl: "https://venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/"
-    ampWebUrl: "https://venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/hpe-acquires-determined-ai-to-bolster-its-high-performance-compute-business/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/hpe-HQ-featured.jpg?w=1200&strip=all"
-        width: 1200
-        height: 604
-        isCached: true
   - title: "Intel Restructuring: Navin Shenoy Out; New Software, GPU Units"
     excerpt: "Intel CEO Pat Gelsinger announced that top data center executive Navin Shenoy is leaving as the company restructures the Data Platform Group into two business units and forms two new divisions."
     publishedDateTime: 2021-06-22T20:51:00Z

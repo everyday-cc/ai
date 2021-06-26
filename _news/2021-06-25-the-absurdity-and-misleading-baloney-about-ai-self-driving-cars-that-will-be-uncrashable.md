@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Whether Bicycle Riders Will Still Get Conked By Car Doors Being Opened Even In An Era Of AI Self-Driving Cars"
-    excerpt: "Dooring events consist of a car door being opened and a bike rider ramming into or otherwise getting injured, which some hope that AI self-driving cars will avert, maybe."
-    publishedDateTime: 2021-06-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/21/whether-bicycle-riders-will-still-get-conked-by-car-doors-being-opened-even-in-an-era-of-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caa056c44fab6487d71929%2F0x0.jpg%3FcropX1%3D12%26cropX2%3D2476%26cropY1%3D88%26cropY2%3D1474"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "e6u+WX5H9gjXqZc28pFpv1ULwz9SJEvUDOjBwgeWd/cZtnl3o0p8byNW/cnNRGv6lVAgSLmSpwUWIiCoqTVUx/EqX32MGmcIUIYZkKzjuRWEk8j7z+SyhY2sIoLwY8wap7NB1eU9XCPUiATtNuGt9sd2o0H8JJlvDAU5MtxOOsC3ADP+qMif6BpMTig7xteXxC6/Fi0MXB87uyIHjsT/Ms0UDm5C+1YniY1v7/d9NjT7jD4BYULcerLxoZqr/bKNL9wIsaSt71Cxoa/hgb+DZJwJd8LTlK6hCUBWRP5S4b7yEYPqCVPXThVk0XqYbXFZE/8ZiW4nApi713WYX1tL5Fyo5wwuXwrF6NE7LriGDitFo5yoKga2nUd+JO8+MTSkF5QG5YQA3PXvB776f+GKeYmjx8aByqzsp+QsssSPfkuIBrJrZD1NtNhbAa/Vn3vlTll9DKcphtUrqyH8ImlHw3F+kdNlGVzRaDCqkzr/tpyIaX5/lxok+anO0YH6p0mWySGnbuxSCyDwqWlRR5jtrw==;L3KKNiRM65gVWDPR5ShB4g=="
 ---

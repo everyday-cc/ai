@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "City of Baltimore May Criminalize the Use of Facial Recognition Technologies by Businesses"
-    excerpt: "The Baltimore City Council recently passed an ordinance, in a vote of 13-2, barring the use of facial recognition technology by city residents, businesses, and most of the city government (excluding t"
-    publishedDateTime: 2021-06-21T15:34:00Z
-    webUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses"
-    ampWebUrl: "https://www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/city-baltimore-may-criminalize-use-facial-recognition-technologies-businesses?amp"
+  - title: "Tinder And Stripe Launch Facial Recognition Tools"
+    excerpt: "Tinder is now requiring users to submit to facial recognition to validate their identity. This news comes right on the heels of Stripe"
+    publishedDateTime: 2021-06-22T17:14:00Z
+    webUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-tools/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 49
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 39
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
         isCached: true
 
 secured: "KiLT3xUdDH9WGyGBuzUXlmdRC5leyDjqv0xOT6HZ4eTMKUVJMbC+osfUA30QMkgePb7UcOw3B1SXhSy3UVDPUdCDqhdC5GsCSc1z+OHmIFsx89g10T6Ug7lsBM6nKVV6QR1/s4KNQwg4kifgBWGwKSO4SY1wdrbtG9q3f7nur2G/mBo9aqUyxb15YreqJxU9NE9UcFcYQSJ/JsV4ahxYZ2dkCNyFvFY8gXlENtNEgtZd56u0BetnHGOUlV2OHR5zQK0jcKOPBunLxmntsN6XkRs87wepCTJKYIQ2tWlpmkkQWDO1XANwWRqsuff4rFkM46GG4us4jl4kIsMFbhhdtE8FMnM786TY+UiTXjv3ZNkhTP3X0JE7gVoJWJebUIWZcvemdIkvp1ebIeWSSMhvqnW0s7SPe1GXIqVCLDLWqrSbvciRhY02G/H3FtnYI3g3st4sVpQI6D/AlqxYFHJGFhfLNFE8N3xNk1iXpJgGm50O044NlkxB7t+6x+KfP5xhn59k5Zu+9EItjXXNG/bAzQ==;TadgNUoYBojkvCUg3VhDUQ=="

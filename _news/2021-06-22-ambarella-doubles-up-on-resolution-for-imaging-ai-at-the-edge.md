@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella unveils 2 new AI chip families for 4K security cameras"
-    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision."
-    publishedDateTime: 2021-06-21T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/"
-    ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/ambarella-Photo_CV52S_Embargo-June-21-2021-5am-ET.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "AnyVision AI facial recognition software available on Ambarella chips"
     excerpt: "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition."
     publishedDateTime: 2021-06-23T16:40:00Z
@@ -69,6 +53,42 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
+    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
+    publishedDateTime: 2021-06-22T09:50:00Z
+    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 56
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "EU agencies call for ban on AI facial recognition in public spaces"
+    excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
+    publishedDateTime: 2021-06-22T00:30:00Z
+    webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
+    ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+  - title: "EU data regulators call for a ban on AI-based facial recognition software"
+    excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
+    publishedDateTime: 2021-06-23T04:14:00Z
+    webUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software"
+    ampWebUrl: "https://www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/98431-eu-data-regulators-call-for-a-ban-on-ai-based-facial-recognition-software?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 53
 
 secured: "O4oqIL2kKPaRlTzPKsd1qHDCNkEO3dh+0ROgtH3qqqye5m/lOYd03AwXk1uuH0NdNf1SdoNh7kDs7vjveeHL6mC33VBUl1gXvMWMjNfm5XotwkGB79YCMxqZLY1nXL7ax4XToI+NmgjGEXmJNO5d/NrQpCjcLgPm3vpQoxF/uQNUafOrO4mdFM4gmrvEErF1+vRZxb26Qe5dqsvJhtc7kizsYuJHjDMWBF/+3n2CtMJAoqSWwqckHRgmS2BGhnGvMHAcYIkY7a9PzZB17PxEp6CpDtN6rTDejsSrfH4NwMdmhNvoJK5e4Qli2KAkaxtmhYL6Dhn2Jiz0cUpud9suI8ykHsio2R6RNJpEb2cRp2sKD/Y7wQ8A8X7dsu/p8STBs1vM/ZuZSWUNc4myY4g6QzNqAOeDPCNcug2YATMnC5HowNocza836z+2I+xIjoOZA7v762Tihda55TbwxLH9ufis0dOkM7H9OFVfZqXf1Peo25tvgoFMKDtVjy5X767JJPj6JiGDSLGZaeM3P1czkw==;yMDGkAkuwiKL+cAGqIahcQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-22T19:40:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-share-growth-strategies-geographical-analysis-and-forecast-2024-2021-06-22"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-share-growth-strategies-geographical-analysis-and-forecast-2024-2021-06-22"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

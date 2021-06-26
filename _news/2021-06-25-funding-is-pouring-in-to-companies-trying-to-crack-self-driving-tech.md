@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
-    publishedDateTime: 2021-06-24T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Three use cases — how AI is helping improve the healthcare experience"
     excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
     publishedDateTime: 2021-06-22T10:01:00Z
@@ -96,6 +82,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
+    publishedDateTime: 2021-06-24T11:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "rv0K36pgllgC1y1aVzlwvp+SzzojiNd/HKzV2mlvL/tY+2iVhEcjt+fjUjejyvyO+q3HsF/h6oxCcBu28ZhKv+CAOJs6PLoG6lltew1ywQ8sAbCmBx/q8R99GoadK3Gwi/GXIHXRSJpB2qvS+idpu3pxO0dEWCWPkOz79bMgMkIw6OJgId7BNmSj9MHp/u12ZENyeQPZkpxES+ZhnRpOexAzQKf5UVlIxBwMJeAhyL7u3dGxzql9VEqcbuqUnSyAND5IbcULUzig9D9HEYcJsP5+tfNOkxUNvAOqUYCQby2itBzufzsKu134qNElQSJNz2pxebOaVWC+AQREODkHvXIxyamRZbeTsLqveT9UnnQ1mObVuHqJX3aQkfTV2SnLWkqk4U/jjhdjyJHx7oZekSWAfBWFGYGD+JUhdGwjdbyasVVxiNhPTi0MII7bzImv+Tgy6ikEPu8wkATMRvExa5sWefkhJKTcZHmaz27Yhdvv186q8ixeq/FP9amCzLX5lhlhdxvoYcSdBP3CUeQ4tQ==;944EP+s4gAZuYftF2Sw0fg=="
 ---

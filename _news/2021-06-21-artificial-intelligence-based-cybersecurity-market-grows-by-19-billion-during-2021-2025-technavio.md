@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-excerpt: "Gain more insights into the global trends impacting the future of the artificial intelligence-based cybersecurity market, Request Free Sample @ https://www.technavio.com/talk-to-us?report=IRTNTR44001 Amazon.com Inc.: The company offers AWS. It is a cloud ..."
+excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed"
 publishedDateTime: 2021-06-21T10:31:00Z
-originalUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html"
-webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_220e6c12-799a-5bb1-8751-69b1f713e811.html"
 type: article
 
 provider:
-  name: Troy Record
-  domain: troyrecord.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/8/1b/81bc13a3-3d69-565c-8a14-b0c2e46a2458/60d071d846571.image.jpg?resize=1200%2C585"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/03/403e0efc-36e7-5d01-a4bd-0ed34431e9c9/60d06afbdd476.image.jpg?resize=1200%2C585"
     width: 1200
     height: 585
     isCached: true
 
-secured: "Qn+mact/YkNlPEaBG1/17mzfSnRXSN1VBZ46/aTUtVITLhWPSzzkFoAmUmGQlayMPKuxrbeRnHA8uJXiug6gzyDJjk1pYI+m2X4p4V0ZABqjOzlqC1wyPBPJEKYeHoF3hIu6j0Jd/MiRB4R+TRrdweaZIrmSk7J15S2IvjjdNTRMMW0/nB55WmFbcKCa/lI2spO/dMXS2fXkYQBHRJtUtsCvXEYxbhNfILLIxQ0rAKbbjF5ceJ25TWZeNzG5nwowlqoCaJYj6VfgtZxu+ymwLvvdpbN6xFzAmCn4h8eU4a0J/HJIge3Iljy//3FK2bACLgoBFgTuXe/azed3ZarepL70pkHIlEY+2AhwziH33k4u64mRm96Nkpn+xXI6Wb1ITjM6HFWWdFeji3W2bXgoFzfAZYVMghXMerf1ci2CrUKJIIHC7NRhvYMdpWyD18pEJKCjxdn47Lsjw+YsxwnDZLLy55uml4HJz8nfd2e5UlfcNqooDBAqxyLAMjAtLBUkZi7HgcBRBIsFuUWP24UoqQ==;mzq9RxabOjFcgzA2uHao9A=="
+secured: "21py7nUw7PJ8oKR/b2VYK2Uy9U/MVyC9DQiBSw4ldGmNXaDDjkp4DPUUW5E4uLc8DgFAv5pHjejF45bz31ukkKiZKEZN9NN1xNIg33WA+9GoiDG59vu7CKrTuG7M37aKSuMVjfVc1ENrielKjM1v2n9LSmR74jC0WOHp/nC2gRVJRJ+Rly2be4fTax/d52nrgMZpRkCpXuZxclCk+SY/BjixAM8l4kd5ml4NnToGNMfAsWSDi7IQGMsnDSjFv1Mj+5Pw1knO3CahZGqHOc3Cx95DkfYagm+eBhIT9opraMzH+KPqPTk85iJd9W/2R1QatKvSnbAz/CUqUnANs3IuLfXLtZYMJO56yfGqcTOT1Dk=;95MOpV9iRvHfi9MfkLpLcA=="
 ---
 

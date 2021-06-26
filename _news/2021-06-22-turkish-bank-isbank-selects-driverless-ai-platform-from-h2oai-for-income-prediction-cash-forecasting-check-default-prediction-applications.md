@@ -52,6 +52,15 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
+    excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
+    publishedDateTime: 2021-06-24T12:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-1030551036"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
     publishedDateTime: 2021-06-22T14:24:00Z
@@ -75,15 +84,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 15
-  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
-    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,"
-    publishedDateTime: 2021-06-24T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "kVDnw7swx6JV/99uAdFAvH11UpQOQRlsBCQoYXw6H5rOBU4orP5omqz3ewXa8e0Th0WipO6ctTcGPDBzU3X7nwO6zRu+6JyDmtLnjbALstAhYWi3LvdzD088ed3Y7fV44AlLVpqTw7GHOVMrAtWQNF5suodCcJ4Zr1dATpJ6CUvUWzxqLfvhMIGMHdYVxmZAM43pvk/Bl6hAUMcV7t2s7jNqhEUj5+TwVqlSss/uZH7Nuw8VGYL0LARYTPyFv42IH/h1Evl5mxe6zqzCNOxDhFy2T+6ERJm4Ww6nzc/W9+k0t+M2VsEePSRfng6IQIcKjVenMNGAbDBRNJKWVd9mE1l5Ncr8xkaqczLx3zRBAGg=;OabT0qBqOxEuN+2YRUdrGQ=="
 ---

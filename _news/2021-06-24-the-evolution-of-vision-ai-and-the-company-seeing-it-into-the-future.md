@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
-    publishedDateTime: 2021-06-24T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Three use cases — how AI is helping improve the healthcare experience"
     excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
     publishedDateTime: 2021-06-22T10:01:00Z
@@ -94,6 +80,20 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
         width: 740
         height: 415
+        isCached: true
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
+    publishedDateTime: 2021-06-24T11:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "Hu3aj5hdUGMo/6s3m/UsDIdbxhmMBB5SQ57EmqWtyuRhS7ahCQu5zsitSGj+ijFRqjEzFVIiM58xcEGGKByGi592HHuQHktpEH3QoZ4H3ncJ7I9W5YpeYg41xTyvRtQyAFtSrJ9RHt7yzj7Md5EDSYGRRfVqEQWibLQ5TTiSEOwZIQ0E6stPXf+zjSc04vzE5f5TxwSIsr2uJjhHpjkAxlL1k1oz4TOR7hgT/oFABZnAWxH6W2AFXRUjyL5KJzAIypiR4b6nrzk7Y90ZzZR+AVVZCmtaOKlv3EmPnaHM0IcOrxVhnIiSlwRhd1BYgqk3TDQL1sQoetJE+d/ooDktgGSjVmpUUtCpHc0XQneL5jc=;ParZTnD7AiedHLq/csZQCg=="

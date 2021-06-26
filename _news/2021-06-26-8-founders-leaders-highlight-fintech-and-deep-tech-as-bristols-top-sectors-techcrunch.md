@@ -179,6 +179,15 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
+    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
+    publishedDateTime: 2021-06-23T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
     publishedDateTime: 2021-06-23T13:30:00Z
@@ -239,15 +248,6 @@ related:
       name: Infosys
       domain: infosys.com
     quality: 19
-  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
-    publishedDateTime: 2021-06-23T11:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
   - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
     excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
     publishedDateTime: 2021-06-21T17:22:00Z
@@ -258,6 +258,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "R/EWq+HliacFGG8a1AMSiOvmTKNhvYRn0ezOHZu4owG9E7SK8nEt/XzVUYuMQXhppQdEtgNmDotfSMABqAuHpEZZUubfB/ALLcEKAJl78dl4SZ5rUjdEG1uk9GxUOK8IQUo8rlV9QXjHucqdhKrcDV8LdixM8PWB2Vs9ddFD1jrg6mUjzKD8gVkYbVWmR4fV1msFz949VijI0mMeNZdmSwbF72SikwpnilDzIYpGkGab/jKGEQQmzxPPwRZ9wMY0A02eMoUc1Zhv7DhKcTEvaptdbVJ4mWdBlqDlqKSuoGXFL6uXo9vr/GhQ3yvVGckO9vUB/R+vdOa4Sl9kBp5GLbUXTbIndmUWQMbrkbs2tyM=;jAClpyVBjMCSrUmClhR6ow=="
+secured: "TfTx1gjyyZMETVxAS8ziWG8V0UMjT/1jf5l1VibozATUS+DlVHIQfo5SUcEZTWwishy4NSuiZyvTNUbuBi2W56nkgWWMBiv9QdLpH5BBTOh4FHcPZqbK7h07TGrkbQT04GjpIIkGhYieEURC242YM518GTi7teYXEuoPin+VThB6v9WvNaozZbifj1bjuefRQwRn7xYDn1bbebkdv2nKPw3T0e6p1DRgNZ17f6NdqQVg6VXx7T8qda6iHRkYhmRP/sbrD9S07NuhCuwFt0zdCuQ3zigUCFOYoFUfDgzpiSRjt4gNBAYY2VccAuDlgbtfFV2ASUgXoF0p0uDW2c9YSrV48hiaUQNTCMLR/lmzYTgZGyZ1vZLXz3GrCtZeLHNwDyhKsKumIazPlU5ELovTmM4Y3XssjbSdCDra1BP8LswVSGDfwzmuuJ5Ti07snT8iDPnDdCqO6SjREbCXcacdnWLqnfoBCToqamDkkRoYoWgDbZE4pV9xMEXw0l4MJ32hgrnBcuMJlKXMDQtnKKuObQ==;WyNCNW0XeLh77FdGaaP1ig=="
 ---
 

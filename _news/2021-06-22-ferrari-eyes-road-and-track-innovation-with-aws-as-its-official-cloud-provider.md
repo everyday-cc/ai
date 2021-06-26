@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon (AMZN) AWS Picked by Ferrari, Bolsters Client Base"
-    excerpt: "Amazon Web Services (“AWS”)—entered an agreement with Ferrari RACE. Notably, Ferrari selected AWS as its official cloud, Machine Learning, and AI provider to bring advancements across its road cars department,"
-    publishedDateTime: 2021-06-21T15:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Ferrari confirms AWS as technical partner"
     excerpt: "The Scuderia Ferrari Mission Winnow team has announced that it has entered into a new technical and commercial partnership with Amazon Web Services which will see the two parties work on a new fan engagement platform."
     publishedDateTime: 2021-06-24T07:00:00Z

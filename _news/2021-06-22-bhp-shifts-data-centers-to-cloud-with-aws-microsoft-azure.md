@@ -9,7 +9,7 @@ ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-t
 cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 38
-  - title: "Microsoft introduces Azure private multi-access edge compute system, services"
-    excerpt: "As a follow up to the launch of the Azure for Operators initiative last year, Microsoft has now introduced Azure private multi-access edge compute (MEC), plus new services to accelerate 5G and edge monetisation,"
-    publishedDateTime: 2021-06-21T15:18:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-azure-private-multi-access-edge-compute-system-services--1387445"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
 
 secured: "HxBTIVFsAwp48RpQwe0Qd6mbmvHtAMIl+hxKZew+LYwz/srfsWd0JeG5MW+pKyu12teevQtrCv94L9rnIuBNiSPYFLoN25i3o4aqVHhh6G7hPr/qXQaQPwfk4jSKQoBgBQNS8Y9DjbOlKa5Tv8Qj0vQe8K0da4EYtBQbkVF54CG8rrYuGd7Df6/mlhExeDOVjQ+J/cBAF3kL8cZzwssd0uUlGV+6u+vNoiOotqzIR0Dg9EW1YWG0Ok2Ifc25igoYf7kOUURA8IhAgOSNePdcEmq4Phb1MBwKozwuoeKgKJ3wLBUkI40w6jwfUYgFd1yWtj5AgmoqkHVsZkCVu5Jm5jc/fTf2zM3/xtb9rMoIU050KJBJAioSm+8qBl3q4WbjjxNgF29hwyqmJxqti3m3bb1bJlzM14YKLBqF+ihGT9pKbIXdEs98rGOPF6em1PoLmWhVFNQruWI+3XOxG7sa0mlZhvEy4Zd0i5xbLMK05D9gaaxPH2Nht/rylL+2Pew9CXtWX5bopykttcA7QGqn1g==;WhS+xDjN5xRa/PvbcELOmQ=="
 ---

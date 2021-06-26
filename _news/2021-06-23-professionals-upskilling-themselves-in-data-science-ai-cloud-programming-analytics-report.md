@@ -100,22 +100,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Edinburgh Fintech Aveni Acquires Investment to Support AI and Natural Language Processing Platform for Business Speech Analytics"
-    excerpt: "Edinburgh Fintech Aveni acquires investment to support AI and Natural Language Processing Platform for business speech analytics."
-    publishedDateTime: 2021-06-21T15:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176884-edinburgh-fintech-aveni-acquires-investment-to-support-ai-and-natural-language-processing-platform-for-business-speech-analytics/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176884-edinburgh-fintech-aveni-acquires-investment-to-support-ai-and-natural-language-processing-platform-for-business-speech-analytics/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176884-edinburgh-fintech-aveni-acquires-investment-to-support-ai-and-natural-language-processing-platform-for-business-speech-analytics/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
     excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
     publishedDateTime: 2021-06-24T18:35:00Z

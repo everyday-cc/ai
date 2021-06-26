@@ -43,6 +43,15 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
+    excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
+    publishedDateTime: 2021-06-24T12:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-1030551036"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
   - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
     excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
     publishedDateTime: 2021-06-22T14:24:00Z
@@ -75,15 +84,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 14
-  - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
-    excerpt: "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,"
-    publishedDateTime: 2021-06-24T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "gaE3DGr16Uurd2bhHlE53eCByoVHdek2z0RM3Na671KP/po6wovdOMy0xLpNm7f/6go/NIWDCpoQ4vTrFGhtFQr+Uk5yglH54pvdq8E9tE3+8pKGFGLxoQWgnNsS2QCUpUdgmauNzVgS6NKr07kdnafKeU7WtHBjTYcNcVaZx3Rt6R4IOdHNliIsdRmo84O3eOIqmrt5tED8jm+ba79BXBBoW/tvsuy+kja3ZjsAKlpVCGB3VtP10Potne9xG4r+2cdZSX+S5I7sjVOem1N04E81AYr6EvBqWw6XxLqwizz1uUaPyJjvHM9CMLX2zU8JyxaqHweZjUQrF1CTleThpfe63wOK/rebfPGe0oNBat5ExDeuFuqFzdB1QYT9RYXoxqa7mvOoAgtHnr8y70OqkDlgMYTe8zxJhc1ZP56SWl7ztPM6mT1uJ3SLJUiN6ikP0+HW+7LqPRDdh9WrCYfN7gVYteUsXxDHP1s5nKBXHejtTD8HaawfbKgWRMotBlhKd0I3FcgiJyPh8czqY+bVmA==;HTUXLma3Yeu8v5nyRsgnmQ=="
 ---

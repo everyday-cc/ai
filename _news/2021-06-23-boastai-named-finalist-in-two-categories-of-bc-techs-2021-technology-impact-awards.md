@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
-publishedDateTime: 2021-06-23T11:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/23/9395838.htm"
+excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
+publishedDateTime: 2021-06-23T11:25:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
+webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
 type: article
-quality: 12
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -257,6 +261,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "1zoyPB7qdgYP/CZmNKxeVlj2JuznVxutLoKMK3CD2stede79uUZANjoVcI7SOEhRXoyi+vHsEFQMehXU2mlgZ/ipCiJjUktAa9jVnyIMaprxkXpgRT+Dg8URKGf5eShj7WSJH4+lB2WrNwuKceJa7qDcpChHeYJR3JvrA3eh3HGKT7VGreOJ+lqMWfeCTsqz1B8nTRSSp5fw+5mA6t40IvDEF4kOGjkYvabh8XuJLt5OAdV/wMy+j1wTB6Tg9DcEpz31m2gIFQWmFEb16tt2gqvCsJ5Rg/2rYYgoNfEKEcBBJUIGppwl1Qfi8Clx8OU1V8Pq0OV1nnKH1Bdx3UYD4JrhwNkf6a6AoR7BZQAosfI=;dpp+CQcfCrDLS2BRRT5Y4Q=="
+secured: "P3sWQIfuI9dtItgfIB2lpyJhyNONoIJtAN89BK8uRNv/LqO8rBUy5X7wsmj/W3Td73AEy1YCLJBLFNSVrA9EPjzghRWSovyoT8QniCNlPlaJaeS5989hfjXulBCbbPV8sgw5GK1E2YtTG9LaGuIW9v1RCO9IgSrsBbh/Pqs5nI2bG47Ji0kUldIR9nssKxcsAh7bBEsd5GkrESJP8RzAhnuwNQb4oZ0lVirD1pdvhusKwfexeLS8CR/MUKbydJLMv7XvN23xo+AM3Kki0Mft5tkfclBwT9IVH5hePArorZEkEu7aW/U0FtZPN214SGxzm6rKjogKTmUNmoPPXfOoLW16aMscLGsBNW8OwW6mlNc=;QR5bXwn4aTk3fSse9Cda0A=="
 ---
 

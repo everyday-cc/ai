@@ -2,6 +2,100 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-05-25-security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m.md",
+      "title": "Security startup Tessian, which uses AI to fight social engineering, trousers $65M",
+      "excerpt": "In the latest chunky funding round out of Europe, UK-based email security startup, Tessian, has closed $65 million in Series C funding. The startup applies machine learning to build individual behavior models for enterprise email use that aims to combat human error by flagging problematic patterns",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/",
+      "originalUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/06/Tessian-Co-founders-L-R-Tim-Sadler-CEO_-Ed-Bishop-CTO_-Tom-Adams-Head-of-Client-side-engineering.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/security-startup-tessian-which-uses-ai-to-fight-social-engineering-trousers-65m/amp/",
+      "publishedDateTime": "2021-05-25T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-rsa-2021-can-artificial-intelligence-play-a-role-in-cybersecurity.md",
+      "title": "RSA 2021: Can Artificial Intelligence Play a Role in Cybersecurity?",
+      "excerpt": "AI is becoming an increasingly common tool to defend against cyberattacks. But is it being employed by cybercriminals as well? AT RSA 2021, we spoke with thought leaders about the use of AI in both offensive and defensive tactics.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity",
+      "originalUrl": "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/RSA%202021%20Thumbnail%20Video%205.jpg?itok=hnNwWiyE",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/rsa-2021-can-artificial-intelligence-play-role-cybersecurity?amp",
+      "publishedDateTime": "2021-05-25T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-pixel-6-leak-reveals-64-inch-120hz-display-5000-mah-battery-and-whitechapel-with-focus-on-ai-and-ml.md",
       "title": "Pixel 6 Leak Reveals 6.4-Inch 120Hz Display, 5,000 mAh Battery and Whitechapel with Focus On AI and ML",
       "excerpt": "Recently we saw a Pixel 6 render with the redesigned back panel and a dual-color treatment. Like Apple, Google is expected to switch to their in-house",
@@ -1068,108 +1162,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-creating-impact-with-ai-doing-well-by-doing-good.md",
-      "title": "Creating Impact With AI: Doing Well By Doing Good",
-      "excerpt": "From pandemic prevention and fighting cancer, to fighting hunger, wildlife conservation and boosting accessibility, this article will explore exactly how AI is doing well by doing good.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac1169057baa980eb5b648%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/05/24/creating-impact-with-ai-doing-well-by-doing-good/amp/",
-      "publishedDateTime": "2021-05-24T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-ai-e-discovery-company-reveal-taps-gibson-dunn-legal-tech-vet-for-c-suite.md",
-      "title": "AI e-discovery company Reveal taps Gibson Dunn, legal tech vet for C-Suite",
-      "excerpt": "Reveal-Brainspace, which provides an artificial intelligence-enabled electronic discovery platform, has looked to legal technology company DISCO for its latest hire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-legalinnovation-reveal-hire-idUSKCN2D525D",
-      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-reveal-hire-idUSKCN2D525D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210524&t=2&i=1563260198&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4N14T",
-          "width": 819,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D525D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D525D",
-      "publishedDateTime": "2021-05-24T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
