@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-fo
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
-    excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
-    publishedDateTime: 2021-06-21T18:28:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/21/amazon-has-option-to-buy-20-stake-in-plus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "FrNEmlbVvd/kHTvVvQhDvgrQ6BtBPiInv+S9tp/RAvYw4v2I6gehTKlXQ+U84rB+LK2A0V3TCmdh2epmcgiEc7Zs1ss7rH45UpMQY+3+Y2jbCoK0jgNKQzaiRyswdxc7Q8V4LNYWnyZMsIBoKNcwyNRVIYH7O2gcugKJNMt0TdgPPbwLvT8dxILuwg7l2uAnZ30tH6GHu+z6hhUlml2PZmSt3KM3h6FPVtD7QvyZZ/Tb/1+EjgI6z02c4VBx4F7hcPyxExB7kxZVJCa39THn8Gs7J6U184rfsySOztyI/z4Av/FdzM4w0w7+XSK9pLnQe7goSCmSnY9h4Znd/4jETASla814u3nl8cqRuCAMQ/Vc9wEN6jtNcIF/sc83BOTKheAQnOjhm+cN7chtnTeOAA+BKsbLhY8mmIU465wZxDvze3VV2VoG7Sm5UFf2rDvs9V/8TIAHet3bKKTdX5PHXFYPqcRqsUsLMm+JlTN6bsSxmH6xubl5ZU0Tuueow5djkC9V5mBfK3N5x69g2S3V5w==;nbONLTiQAMI6Vp3ssbBDog=="
 ---

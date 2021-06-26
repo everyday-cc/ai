@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
-    excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
-    publishedDateTime: 2021-06-21T17:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2021-2027-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
     publishedDateTime: 2021-06-25T01:58:00Z
@@ -118,20 +104,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
-    excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
-    publishedDateTime: 2021-06-21T18:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
     excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
@@ -248,15 +220,6 @@ related:
         width: 602
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
-    publishedDateTime: 2021-06-21T17:22:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
 
 secured: "G4twlyh8q6g7yFMsPe9aE3MDpfTJO57NXCdzIKG3mBGSJQD0PUSVpnc1qxPbrUf8Uw95NEsh5ceb5roNY7Em3PJc2Tcf2I91Fjo3viwgvUhSSABw2iCFIyN/DPhmxCky456jnfU5F2mqCQgvfyDG2ta0NRv5x8ss6SMDIjF+PvyhXr4rGgwl85J5lbcedQxmy4Qp7xGc3sBvtCCpRIlJ0LqeIYxNqtHNnjhoEzkvhaXltBWhZYjewKorGJHzxeBzuUCKxoBDdEt2ep49LD5DRguFYxJJYrRDqhUsecBlTmxOaGCM+SqECpgBuJHpleZCR5uSKAgpxGSgJpWH/OX183KtO3nC3qQvf1hHo01Y2MyXcBFYrKr16R2P/EbOcC/KLF5pVJgncDZVQaJMWt55lY9BFZ80AGNHs87s88w7mD0mbwL23J5zFOSPqC0s9RQ2+ksPcrsWeizErjUL5jhUdZmvOoWR2+mMYKcnhFD+z9CkIdAYFq6p/VYFZdJnzgi6jux5eLK+h5EoGqYCpmCUUA==;7cqCDxhNVA8YLlnG3r2d7Q=="
 ---

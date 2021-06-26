@@ -71,6 +71,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The AI Explosion is Coming"
+    excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-ai-explosion-is-coming-2021-06-24"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
     excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
     publishedDateTime: 2021-06-23T20:35:00Z

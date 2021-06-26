@@ -2,25 +2,29 @@
 category: news
 title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
 excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
-publishedDateTime: 2021-06-24T12:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-1030551036"
-webUrl: "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-1030551036"
+publishedDateTime: 2021-06-24T13:01:00Z
+originalUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
+webUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
+ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
 type: article
-quality: 28
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "The road to driverless cars is looking hopeless"
@@ -88,6 +92,6 @@ related:
       domain: finanznachrichten.de
     quality: 14
 
-secured: "iAAnhkOCEE9y2fh78GpQFvv6xYH7ogaoRV9FWeZ0DNkWgf2fpo7h+hfTPbcZ+PoVfHFGpwW4wyv3lP6XlyfqfXM4AMvc7F0oOZtuy2n+mlzmB8VIJgpgYOAP3S4wRF9QqqpVzGP/IjTrgP5oVVKx0wFEOWGsvLwK+VPVAtIoxt3TDpZJpdjJNfsREgK9RsO92ZaaB0y/moYJkHCiZnEWM3tvq29W736IHA6C60dvf8pgbRnGtIU4WjFclKNrukBIXQUx4CGqE00yMBhxmVAZRhHdLwO2CUm1ZxIcK/VwHjKxd5Ynj7AKs2IlI5lBzxH06WVz3MNtjaWB8mcMAOPXGF+elAXtTl42SQHb44SM7gg=;5FL7AW/2N4hE2TgtVEu36g=="
+secured: "o7Scj4iuqlaQgIv88OFGd1d5lTKvFoEyri1NKnYh3Y4fF95mSSSNwm5A8QNyIz/zvsPpYsJQPLuEbuycKMcBDyVNILAY5cjyPCS7yxZ2a20qSC++Lr6X/QowKWrffvjjOnrC0zdWpRlw4UT76STAfv4jZOG5qo3a/TlsIuaaBw9xFZ32XWhFDYUqw5JaZcACbBEUR5tGlRo8a3VuY0ZVdZBaB5BGl7KgJxLZpe0lnoAWYsHynWjzaIQKbrp3owvSlxoj/6CeTh+Ea2gQ1Om/6uYMx9okSCyqTp6Z953Rzl0GekeXZ2zGVac5bU2vZnVfpeAe9JM7Td7/1kodcOV434DXI/x5WOEh2e1LPqUoxno=;TQXU3O2yc8jDwPRhjEnjbA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 229
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
-    excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
-    publishedDateTime: 2021-06-21T17:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2021-2027-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
     publishedDateTime: 2021-06-25T01:58:00Z
@@ -106,20 +92,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
-    excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
-    publishedDateTime: 2021-06-21T18:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "5 solutions for Fintech companies to stay cyber aware in 2021"
     excerpt: "By Neville Louzado, Head of Sales, Hyve Managed Hosting Cybersecurity continues to be a top priority across industries – as financial institutions are responsible for storing and handling sensitive data from millions of users,"
@@ -252,15 +224,6 @@ related:
         width: 602
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
-    publishedDateTime: 2021-06-21T17:22:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
 
 secured: "sZwbBVHX0t82dhiTb7k1pqpd3DsyxzLtCfO3AVmdriw0q9dU1xhYIryNZlFSsQ6n3bTZvUttLh1l+buPdYuAKoI7GSItP3bBDguF5ZLGqCh7Q23Xsejctaw8qRPL3fpih5E/RcntmGkCyK+AHQ1T44XKbzdZxaxLK9zhvu6Hi56uBmcGq/Ek/sGhgJ6NEV8wYid0EwIzMg68/ZLdBfBeCTK1WI3zVKpZv3vkLfnSG2qmf5Yb1invQqGszrvBG1Sae80hloXqBi3OagIAB3mqx+rvHiBJ6cnVuI2LK7SfRowLh3EVHKXruBeV63A5I1sVq37THXGlQAAaMNXCYL3jYd8zSXirkZbloDhMFwgL1Vba2tZ3gsypRsn8+e7Ydyl7w6KbZ/vR7aqWPflBWk+6CQIdIAIVWohTqF0m+d/edE5aAoQdf+L4q52yT26JIttQoM9LYjpMuF5aOG8uhItXtpCBbsQzWlbPL3zJohmRatsirWZjeK62hQ3CD1cyNZjgl5pOb+9c7cUMsWSpocpqCA==;4v5evy88r1tgIOXypUhgjw=="
 ---

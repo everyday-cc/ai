@@ -55,6 +55,15 @@ related:
         width: 1080
         height: 592
         isCached: true
+  - title: "The AI Explosion is Coming"
+    excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-ai-explosion-is-coming-2021-06-24"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Funding is pouring in to companies trying to crack self-driving tech"
     excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
     publishedDateTime: 2021-06-25T00:30:00Z

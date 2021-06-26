@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ecoenergy-insights-wins-
 webUrl: "https://www.marketwatch.com/press-release/ecoenergy-insights-wins-2021-artificial-intelligence-breakthrough-award-for-the-cortixtm-platform-2021-06-23"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Pure Storage AIRI® Platform Named \"Best AI Solution For Big Data\" in 2021 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
+    publishedDateTime: 2021-06-23T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pure-storage-airi-platform-named-best-ai-solution-for-big-data-in-2021-artificial-intelligence/article_1f81b43e-5544-5354-b8df-cf28c126e856.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Everise Recognized for Customer Experience Innovation in 2021 Artificial Intelligence Breakthrough Awards Program"
     excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"

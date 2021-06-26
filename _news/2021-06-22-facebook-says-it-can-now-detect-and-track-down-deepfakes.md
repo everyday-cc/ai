@@ -25,49 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook researchers develop new method for detecting deepfakes"
-    excerpt: "Facebook announced a new method of detecting and attributing deepfakes that relies on reverse-engineering from a single AI-generated image."
-    publishedDateTime: 2021-06-21T18:59:00Z
-    webUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for-detecting-deepfakes/"
+  - title: "Perfect Corp. Integrates With Facebook For AR Beauty-Try Ons"
+    excerpt: "Perfect Corp. has integrated with Facebook for the growth of augmented reality (AR) digital beauty try-on and shopping experiences."
+    publishedDateTime: 2021-06-23T14:59:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/amp/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/06/201128738_125596109600498_3035022110971320247_n.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "MSU team develops deepfake detection model with Facebook"
-    excerpt: "Artificial intelligence experts at Michigan State University and Facebook have debuted a model that can detect fake images of people online better than current methods. The new reverse-engineering model,"
-    publishedDateTime: 2021-06-21T17:12:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/michigan/2021/06/21/msu-team-develops-deepfake-detection-model-facebook/7770403002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7770403002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7770403002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 44
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/6099c700-bedc-4709-8348-6abc782687a5-test.jpg?auto=webp&crop=208,117,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/beauty-retail-social-commerce-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "New AI Model From Facebook, Michigan State Detects & Attributes Deepfakes"
-    excerpt: "Deepfake technology allows for the easy digital transplant or manipulation of real faces, enabling users to depict, for instance, politicians saying"
-    publishedDateTime: 2021-06-25T16:30:00Z
-    webUrl: "https://www.datanami.com/2021/06/25/new-ai-model-from-facebook-michigan-state-detects-attributes-deepfakes/"
+  - title: "Today In Retail: Bed Bath & Beyond Launches Wild Sage Brand; Perfect Corp. Links Up With Facebook For Integration"
+    excerpt: "Bed Bath & Beyond has introduced an additional owned brand as part of its private-label push. Wild Sage, which is available only at the retailer, was created for young adults and “the young at heart.” Merchandise in the collection will include furniture and bedding,"
+    publishedDateTime: 2021-06-23T17:40:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/bed-bath-beyond-wild-sage-perfect-corp-facebook-integration/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/bed-bath-beyond-wild-sage-perfect-corp-facebook-integration/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/bed-bath-beyond-wild-sage-perfect-corp-facebook-integration/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 38
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_deepfake_faces_recognition.jpg"
-        width: 1000
-        height: 662
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/private-label-brand-omnicommerce-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "htuL+IFtB2m65ym9M5+ITDb2UJArb6Dc9bKxgMQa05SsGEgsLNn1uXI8kr6/pbMDAiKzAOeO6ChBQREentmDGTs81Kl+ndWltfcozjQUHzX99niReZrLPszefTOkRnA0tukzfG5rVkrPSgLAdpfyuz6aNIVSt8+LXc/8+p8QrEMnmaEdvgtMhyLW0zhpMPenNij/vXSi6PTktUkkO34wOeDqsdWeW4/t+PHmAJpqlEUsvwUdLPts2cdBNMlZ/NnQQY0DdM1YNeqrqdln7ivlpC4Vvv2t7VWV2hAMgjYMWjAaiB68Yc4AqYXBr6EixnT9QLVTqsz/8vXWQjDIftr60KCwk86Elj5A+8+yj4Lydtg=;B5G5qGwl8DBoUNuoDXID+w=="

@@ -3,8 +3,8 @@ category: news
 title: "Latham, Husch Blackwell steer self-driving truck tech firm's SPAC tie-up"
 excerpt: "Latham & Watkins and Husch Blackwell are steering self-driving truck technology maker Embark Trucks Inc’s plans to go public through a nearly $5.2 billion merger with a special purpose acquisition company."
 publishedDateTime: 2021-06-23T21:24:00Z
-originalUrl: "https://www.reuters.com/legal/transactional/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-2021-06-23/"
-webUrl: "https://www.reuters.com/legal/transactional/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-2021-06-23/"
+originalUrl: "https://www.reuters.com/article/us-m-a-embark-power-spac/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-idUSKCN2DZ2P6"
+webUrl: "https://www.reuters.com/article/us-m-a-embark-power-spac/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-idUSKCN2DZ2P6"
 type: article
 quality: 53
 heat: -1
@@ -293,6 +293,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "7lK7z0oIZY015A/hncV3C0Htk5BuhxFYtf4l1PsEGjo1Gbwsej6Wt7fEigBI0rt6P+0uSW2ksG95yQTApiudUXnZ7csLyxDr9o8Rd4S3puqAa9w2F3t0ET3g6AWqpX0mgZw1Wmpq8r3PAnTr4f09Mr9U8eay8jklhRUnUu5ZBmzSXxEwX77VOijUFgTEURjDPZtwjQ7wPip4NQd72TjwzaC8OQfnpL2zbj/EP197RAeC3MzOnm7WU4Hu78hbBJIeNKOZzfBNxvRuAQ1fGXPKbu93cNHx+1+0zIlyvnDyGJZJD9oJj+o3YQB6Y7n/CYNpfEJMI877oa5szZiiBD+IfG4fpf2R1GeEQaS9uWQKvXFGSu13bGCng5cYRiPijZevT9a2rKJ5MalQ4Ptw4YY9YjD5KKIavL7fNs5N6RLrIHKr9ogtSnOlsg/3lLi38o8siJ4zLPAvmiEjUBs/cQoURhbN9vzmq3eA9oBRjNyKuBphlB4LV27Q19O98lvvoPJzq1QRvT1jC9du5ntM3fIZhQ==;DQuuz2/SXGcT462z9nOfWQ=="
+secured: "xxNWwHa7scBBVEP1jydhiskRqQQMPk5GrpkNWscVejpS3bW9e9yvR63uAzRB2YymM/q6FmVMUYtuu0ahTrCFiRVwZjJiPxIM76pAQMso9DeefsJkS2zMtLnMzIk/M5wppFBJrroVJzlKQ3wAocy1tDrejQjeFe3l+Ivo1OjwrYjcj3ehywrSW6VHPsm9wg1S6utS4hlfSVlJ+MTN24s9v4SRcZv2I1EIh7DNgFFA6VAXhm2rZX1rn83ORoPSggi5yYhjTQy2JdWfT5rJBhaRR+0Xsil+HxNJzA6Q+QGjFw71UsbYryll1A9rKA/RVrnJ21RGd6Gq9YFoNHQ8YxIFeRXEaOD2SGze7AQrxJENPrs=;qSDyhuxVDz9O9bRsO6qeIw=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "7 smart ways even small businesses can leverage the power of AI"
-    excerpt: "Existing tools and low-code platforms make tapping into the power of AI an achievable goal for businesses of any size and expertise. And you might be surprised at AI’s flexibility—there’s much more AI can do for your business beyond powering a website chatbot."
-    publishedDateTime: 2021-06-22T17:00:00Z
-    webUrl: "https://www.fastcompany.com/90648920/7-smart-ways-even-small-businesses-can-leverage-the-power-of-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/06/FCEB-7up-EP-power-of-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "China Daily: Businesses encouraged to embrace AI"
     excerpt: "The online event, themed “The Future of AI in Manufacturing Industries”, was jointly organized by the Tianjin Municipal People’s Government Information Office, China Daily, and Asia News Network. “People have doubted that AI could go this far,"
     publishedDateTime: 2021-06-25T17:15:00Z

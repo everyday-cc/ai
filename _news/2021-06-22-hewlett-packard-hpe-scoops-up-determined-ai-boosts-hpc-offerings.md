@@ -78,43 +78,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "HPE Discover: HPE acquires Artificial Intelligence Startup Determined AI"
-    excerpt: "HPE will combine Determined AI’s open-source AI training platform with its high-performance computing solutions to accelerate machine learning modelling."
-    publishedDateTime: 2021-06-21T17:34:00Z
-    webUrl: "https://www.channelfutures.com/mergers-and-acquisitions/hpe-discover-hpe-acquires-artificial-intelligence-startup-determined-ai"
-    type: article
-    provider:
-      name: channelfutures
-      domain: channelfutures.com
-    quality: 51
-    images:
-      - url: "https://www.channelfutures.com/files/2021/03/2-Machine-Learning.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "HPE acquires Determined AI to boost its supercomputer and AI server businesses"
-    excerpt: "The acquisition will boost HPE’s machine learning capabilities in a time when AI is becoming an increasing priority for buyers of its supercomputers and servers. San Francisco-based Determined AI launched in 2017 and has raised over $13 million in funding to date."
-    publishedDateTime: 2021-06-21T17:14:00Z
-    webUrl: "https://siliconangle.com/2021/06/21/hpe-acquires-determined-ai-boost-supercomputer-ai-server-businesses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/HPE-1-750x418.jpg"
-        width: 750
-        height: 418
-        isCached: true
-  - title: "HPE Buys Startup Open Source ML-HPC Platform Determined AI"
-    excerpt: "Hewlett Packard Enterprise (HPE) today announced that it has acquired Determined AI, a San Francisco-based startup with a software stack designed to train AI models faster using its open source machine learning (ML) platform."
-    publishedDateTime: 2021-06-21T18:36:00Z
-    webUrl: "https://insidehpc.com/2021/06/hpe-buys-startup-open-source-ml-hpc-platform-determined-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
   - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
     excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."
     publishedDateTime: 2021-06-22T19:15:00Z

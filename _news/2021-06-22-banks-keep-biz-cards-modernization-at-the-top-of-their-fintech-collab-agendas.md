@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
-    excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
-    publishedDateTime: 2021-06-21T17:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2021-2027-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
     publishedDateTime: 2021-06-25T01:58:00Z
@@ -102,20 +88,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Artificial Intelligence In Regtech Market Promising Growth, Positive Impact On The System Forecast 2027"
-    excerpt: "This research service provides a strategic analysis of the Artificial Intelligence In Regtech Market 2021-2027."
-    publishedDateTime: 2021-06-21T18:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-promising-growth-positive-impact-on-the-system-forecast-2027-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "5 solutions for Fintech companies to stay cyber aware in 2021"
     excerpt: "By Neville Louzado, Head of Sales, Hyve Managed Hosting Cybersecurity continues to be a top priority across industries – as financial institutions are responsible for storing and handling sensitive data from millions of users,"
@@ -248,15 +220,6 @@ related:
         width: 602
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Services Market Research Report, Growth Trends and Competitive Analysis 2021-2027"
-    excerpt: "The Artificial Intelligence (AI) in Fintech Services Market ‘s growth is attributed towards different products and estimated growth of CAGR at rate of XX % by the end of 2027. The revenue of this market grew from USD XX billion in 2020 to USD XX billion in 2027."
-    publishedDateTime: 2021-06-21T17:22:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-fintech-services-market-research-report-growth-trends-and-competitive-analysis-2021-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
 
 secured: "3ME8l9lbO9qcJ62qeIaN0zyh6Zn5iCeMoVCDgqMmXpo6U4xo9ogMOEq/T4oPP34qmjICJtf/bhDXUW0DTFtiFrfvVGSwydH7vLSnWRKlf5ozXG5ZGCgCh8S3SSlRA05bIaP+jnw5S1EJEb654VfodmolaFOJMwpQVIEIzdEqkbtfa16qRI+r025FyI0/X32xjw4+gUt/PaKr4u0tqaU4g6MQtHJuk2ORNxfLTV3gqf+AeWtM7mSRe27mv7O1cAgwm/sXJWQCyL5eeVXZi/a1o5diqmFZNbimLZYthp+vjakgYYsDYygWc0Hdk892La21eWN3es30LPLwNhhbOMJBrE7g/stf2jrAMoMX4vEAU7vRF3aXRlbfBvkiJbbKUC8XmeIZE4lJA6h/I/XGHJvMn6X+drFV6AntOB16sCE9hRxK4syfoZJ4hHRsUDBhIQuonVNY0YNrOvhGXqn9GqbPuTKn7j+CeL8ftfnGcStntgFTIiLsxfuDbaRWzNkBi5ejbA56tfGLOhucNP8UtqE1YQ==;Hm13nY0Bb4HH0ylpiCavgA=="
 ---

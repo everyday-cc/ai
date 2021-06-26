@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook Rolls Out Live Audio Rooms, Its Competitor To Clubhouse"
-    excerpt: "Facebook has launched Live Audio Rooms, its competitor to audio-based Clubhouse, making it available to public figures and select groups."
-    publishedDateTime: 2021-06-21T17:24:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-rolls-out-live-audio-rooms-its-competitor-to-clubhouse/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Facebook-Live-Audio-Rooms-Clubhouse-4-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Facebook To Expand Shops To Marketplace, WhatsApp"
     excerpt: "Facebook revealed new ways to shop throughout it apps, as it is expanding Shops to Marketplace and WhatsApp to assist companies with digital sales."
     publishedDateTime: 2021-06-23T00:07:00Z
@@ -51,21 +35,21 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Perfect Corp. Integrates With Facebook For AR Beauty-Try Ons"
-    excerpt: "Perfect Corp. has integrated with Facebook for the growth of augmented reality (AR) digital beauty try-on and shopping experiences."
-    publishedDateTime: 2021-06-23T14:59:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/perfect-corp-integrates-with-facebook-for-ar-beauty-try-ons/amp/"
+  - title: "Today In Payments: Krispy Kreme Seeks $560M IPO; Facebook To Expand Shops To Marketplace, WhatsApp"
+    excerpt: "In today’s top news, Krispy Kreme eyes a $4 billion valuation in its IPO, and Facebook will expands its Shops feature to WhatsApp and Facebook Marketplace."
+    publishedDateTime: 2021-06-23T20:42:00Z
+    webUrl: "https://www.pymnts.com/news/2021/today-in-payments-krispy-kreme-seeks-560m-ipo/"
+    ampWebUrl: "https://www.pymnts.com/news/2021/today-in-payments-krispy-kreme-seeks-560m-ipo/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2021/today-in-payments-krispy-kreme-seeks-560m-ipo/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 44
+    quality: 30
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/beauty-retail-social-commerce-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/today-in-payments-2-3-457x208.png"
         width: 457
-        height: 274
+        height: 208
         isCached: true
 
 secured: "wpPX/ViqujSNXKKjAPcBZc8yB2+fDuYkNDpHUWQ12+fEW7aWlRng60yhgCap0tFVkqPihPJqaIsjAru5Nz8l7mO3Df88LX2pdijsKMKW31VsywS5i7a2gztoXWHcUV31dhk6gg/2njOnLM23qVlrEzKyRQHSjsJp9VWAp5BD8z744s37DLpZ8VcSg1YJmgRm8L+GUGAj5Tzi6njmXsna179PSX29yMSLmFKSjzcMb80ow/z6/lQT16oj8hjHjIBncqwOLbgoFg3vruxuorPqeuBqr1+yxeSWLV1I1rb7BuIOtUs3kJomf/9/RjtbNQ+mSSsNCLkwACWTNEMg2VwORdEFqk+BxgQxH/KXqhEIOec=;IkMkxExUSMkLtRISfxKhQA=="

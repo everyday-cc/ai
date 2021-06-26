@@ -19,64 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Google’s Latest AI Breakthrough, MUM"
-    excerpt: "This coincided with an article published on The Keyword, written by Vice President of Search, Pandu Nayak, detailing Google’s latest AI breakthrough. In essence, MUM is an evolution of the same technology behind BERT but Google says the new model is 1,"
-    publishedDateTime: 2021-06-21T19:00:00Z
-    webUrl: "https://www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144"
-    ampWebUrl: "https://www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/online-marketing/googles-latest-ai-breakthrough-mum-02414144/amp"
+  - title: "cnvrg.io Named \"Best Machine Learning Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
+    excerpt: "Awards Program Honors Standout AI and Machine Learning Solutions and Companies LOS ANGELES (PRWEB) AI Breakthrough, a leading"
+    publishedDateTime: 2021-06-23T12:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21682484/cnvrg-io-named-best-machine-learning-company-in-2021-artificial-intelligence-breakthrough-awards-p"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21682484"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21682484"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/google-mum-technology-boots.png"
-        width: 678
-        height: 448
-        isCached: true
-  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-    publishedDateTime: 2021-06-24T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uoh-aib062421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/268991_web.jpg"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-    publishedDateTime: 2021-06-24T20:28:00Z
-    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-14.jpg"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "Pure Storage AIRI® Platform Named \"Best AI Solution For Big Data\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today"
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pure-storage-airi-platform-named-best-ai-solution-for-big-data-in-2021-artificial-intelligence/article_1f81b43e-5544-5354-b8df-cf28c126e856.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "MeomwNsPxgoUer9EDthI0qxdXwdcqELxGZ7QHtGushmVqAHYMtvp1koWG+FRyfVTV1AlLFbJfkwFsWcZ8xVWLkavWMQD/zFG93zcuOwe+eUvVXQaFeUDyulygJ2r9vZGakSgoPS7aDp3pkPHPBpXIPW0FnimtljwzSenHjJbrbBoyJ1ih6vX+9UiWu91TzVIl5AoUOeKnDmY5siM29Ti9cnRn21KqaCz3nB4eW8QUASgK0IhFs+IH/k2ey3xwAnmxOuw1GIOkRAh95HA42DfMCCsQfgNXo4dO7/rg8flhqNlyoKwj5HqWGbTv5c6apdMPCAeEYgnz6DiPpFCl5Eb605uQaRmARfM9of8LuwrU0U=;mR67gcuN/wmbb/I3tnnMrg=="
 ---

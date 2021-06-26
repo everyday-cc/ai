@@ -24,47 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "New Google Cloud tool could help businesses leverage AI"
-    excerpt: "Google Cloud has launched a brand new synthetic intelligence (AI)-driven instrument to assist companies streamline their manufacturing and inspection course of. Named Visual Inspection AI, the brand new resolution will enable companies within the manufacturing sector to maximise operational financial savings by shortly coaching and deploying AI fashions to detect manufacturing defects."
-    publishedDateTime: 2021-06-23T11:30:00Z
-    webUrl: "https://bestgamingpro.com/new-google-cloud-tool-could-help-businesses-leverage-ai/"
+  - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
+    excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
+    publishedDateTime: 2021-06-22T13:40:00Z
+    webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
     type: article
     provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 39
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/New-Google-Cloud-tool-could-help-businesses-leverage-AI.jpg"
-        width: 1200
-        height: 675
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Lawyers Leveraging AI For Trial Prepration Due to Growing Court Backlogs"
-    excerpt: "The perfect storm of unprecedented court backlogs and a flood of new filings has forced the courts to speed cases through, leaving traditional methods of case preparation harder, more costly and in many cases too slow for current conditions."
-    publishedDateTime: 2021-06-23T12:14:00Z
-    webUrl: "https://www.lelezard.com/en/news-19870750.html"
+  - title: "The Challenge of Finding Top AI Leaders"
+    excerpt: "North American cities are increasingly important hubs for artificial intelligence (AI) research. The demand for AI specialists focused on data and machine learning is growing exponentially internationally and the search for top talent is increasing,"
+    publishedDateTime: 2021-06-24T13:37:00Z
+    webUrl: "https://huntscanlon.com/the-challenge-of-finding-top-ai-leaders/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 38
+      name: Hunt Scanlon Media
+      domain: huntscanlon.com
+    quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "China Daily: Businesses encouraged to embrace AI"
-    excerpt: "The online event, themed “The Future of AI in Manufacturing Industries”, was jointly organized by the Tianjin Municipal People’s Government Information Office, China Daily, and Asia News Network. “People have doubted that AI could go this far,"
-    publishedDateTime: 2021-06-25T17:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/china-business-technology-34ba539578b663039cc38b005e424dd3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://huntscanlon.com/wp-content/uploads/2021/06/story1-12-e1624541818926.jpg"
+        width: 438
+        height: 274
         isCached: true
 
 secured: "WhOF2A50gyTMXIllAnZNQf4mSnvfLKKbasl07CkALsaH0LJ5P6sT8FcWGY1o2AaVi222/Q+2R92wK87XzJdmOQ7POPzQ9pUEJdXTWSnqaN0/vugKWemClWLg/kQUOpon4v92ALpxjOEcUMnyd3nZ8+qbDnYzrw8W/JxVgIApflANX5BdLuo1mKp9QEkuFWHaIrBLwd+9Zp26DxNRSiOYZnLQKzpSLnol2IS99S3sBfEgjk3TB3qGPTDHQcq9iDmm36jvrH0bsPa+MCwKbsMI61qU1Sdvedeqzv9yZ/CYWE7yWoQHbRu6dinB2jU3dGTOadPOWBKwYHrOaG12kwTgbPf4NUcaNv4hHUreM+tOO3L5J6R1e328Um1LvXfPebrk8/I4EQnhvyMEdQdqkoLsPTM61OTvwLZrVp/qCuoLrlHesC7VRI5cw3PH1M+ifVE89gSn+eo2/VRP+P8YQUsZvRv7jdPok6ZviptQIXkFrSMjQGlQi8nf9pbS7kVUj4kergpQW3RGr7lpI6ddxTXxsA==;xMmtQHEwXS5E9+ztIYI6pw=="

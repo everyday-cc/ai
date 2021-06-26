@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neuromorphic Chip Market Worth USD 1,560.3 Million by 2026, Registering a CAGR of 11.7% - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \" Global Neuromorphic Chip Market information by Application, Vertical and Region - Forecast till 2026 \" market is estimated to reach USD 1,"
-    publishedDateTime: 2021-06-21T17:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21650623/neuromorphic-chip-market-worth-usd-1-560-3-million-by-2026-registering-a-cagr-of-11-7-report-by-ma"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21650623"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21650623"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
   - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
     excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
     publishedDateTime: 2021-06-22T15:56:00Z

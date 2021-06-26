@@ -100,15 +100,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
-    excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
-    publishedDateTime: 2021-06-21T18:28:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/21/amazon-has-option-to-buy-20-stake-in-plus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "FRTSaogKM12Tlmoy37ClN1w3I1uDXBixH/Evzd8dx4DhnTkxjUC5wfVASgn8DlAfZKGGrh3E91qNDyzk3HPRtjQHcjTvNjWDAWM6RmvFakisxPMUDwILPr/RGzrGyLthljjNIYEU3lXxCVjHA84eSvktWnZwUm3FJKI+fetfQEIBL1BUf9q2O88a/6rf/U73DnTju6FjDius8I5YzL4pKk3rRARXK2C4zEb8vl56UaaRIlkUHeNKGxC5s+n12x3ultvbwSDHd/eNENXZFVGIyGaXpc09wRFO1lTWecFGwOohvX25CmrJd3Yj6eFs8Cnh+/MeXTxLBP2YufKGSyrE+Zmoc+ZgaPyA8doi8FjPUDs=;+azbBTu1H46UPC1tJhwYGQ=="
 ---

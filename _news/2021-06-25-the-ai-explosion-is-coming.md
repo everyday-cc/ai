@@ -1,23 +1,21 @@
 ---
 category: news
-title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
-publishedDateTime: 2021-06-23T20:35:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
+title: "The AI Explosion is Coming"
+excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"
+publishedDateTime: 2021-06-24T21:26:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-ai-explosion-is-coming-2021-06-24"
+webUrl: "https://www.nasdaq.com/articles/the-ai-explosion-is-coming-2021-06-24"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 related:
@@ -65,15 +63,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The AI Explosion is Coming"
-    excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"
-    publishedDateTime: 2021-06-24T21:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-ai-explosion-is-coming-2021-06-24"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Funding is pouring in to companies trying to crack self-driving tech"
     excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
     publishedDateTime: 2021-06-25T00:30:00Z
@@ -90,6 +79,17 @@ related:
         width: 740
         height: 415
         isCached: true
+  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
+    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
+    publishedDateTime: 2021-06-23T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
     excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
     publishedDateTime: 2021-06-24T11:04:00Z
@@ -105,6 +105,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "Hu3aj5hdUGMo/6s3m/UsDIdbxhmMBB5SQ57EmqWtyuRhS7ahCQu5zsitSGj+ijFRqjEzFVIiM58xcEGGKByGi592HHuQHktpEH3QoZ4H3ncJ7I9W5YpeYg41xTyvRtQyAFtSrJ9RHt7yzj7Md5EDSYGRRfVqEQWibLQ5TTiSEOwZIQ0E6stPXf+zjSc04vzE5f5TxwSIsr2uJjhHpjkAxlL1k1oz4TOR7hgT/oFABZnAWxH6W2AFXRUjyL5KJzAIypiR4b6nrzk7Y90ZzZR+AVVZCmtaOKlv3EmPnaHM0IcOrxVhnIiSlwRhd1BYgqk3TDQL1sQoetJE+d/ooDktgGSjVmpUUtCpHc0XQneL5jc=;ParZTnD7AiedHLq/csZQCg=="
+secured: "7P2UPXQUbiFgvNHNmPwZv5f7lyuWLQuIeReFKQW8E2JHkpRdsIyWIQN1CNT4j+lT4K66GfN5YzyTAJ31aJ5Qorvae/3fz5Djeadn+kMHRiFe0jD81KXZwYgcgrRcQNSW25psut/S+VMIzverRDMihjw9O6luIi2IPEniO7UNypTkdMra7L7YRbACNtDvtTjoNsgRAdrezcApAgNHESqWvZB2eppXs4lYRbg4Z4H37biedaNWx/fNuGRZZOWJ2Tza62kRMNRihF481uIAoGfY1UNdoH4Mm499yDbPVZ0dlbF2RuJXLS9mUK6A7PJjFcrmAzD2h59cgZ9KT4+kTBpEG9rHDMCF6uI4UpMCz2lqLck=;tkVWsvYqs6k7yfEUyt66Jg=="
 ---
 

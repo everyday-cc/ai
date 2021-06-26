@@ -9,8 +9,8 @@ ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2021
 cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Public Media
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cyclists Split On Sharing Bike Lanes With Pizza Delivery Robots"
-    excerpt: "Some cyclists are not happy about the robots using bike lanes, while others are optimistic that sharing their path will lead to good things down the road."
-    publishedDateTime: 2021-06-23T20:26:00Z
-    webUrl: "https://www.kut.org/transportation/2021-06-23/cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots"
-    ampWebUrl: "https://www.kut.org/transportation/2021-06-23/cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots?_amp=true"
-    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/transportation/2021-06-23/cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots?_amp=true"
+  - title: "These cute robots are now delivering pizza across Austin, Texas"
+    excerpt: "The REV-1 delivery robots are electric, have three wheels, operate in bike lanes, and will start delivering pizzas across Austin, Texas."
+    publishedDateTime: 2021-06-26T10:20:00Z
+    webUrl: "https://thenextweb.com/news/these-cute-robots-deliver-pizza-across-austin-texas-syndication"
     type: article
     provider:
-      name: KUT
-      domain: kut.org
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/6ace978/2147483647/strip/true/crop/2424x1364+0+126/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Fe5%2F1766f885407aa204868dfa8b69ee%2F51254271179-aec29ba60f-o.jpeg"
-        width: 430
-        height: 242
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-83.jpg&signature=d8491d49b10082cd33b4f5e78525ecca"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Special delivery: Your next Austin take-out order could be delivered by a robot"
     excerpt: "Refraction AI, which makes AI-powered delivery robots, is operating a fleet of 10 robots in the South Congress area to deliver take-out and groceries."

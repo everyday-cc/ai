@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027-2021-06-22"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -54,17 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neuromorphic Chip Market Worth USD 1,560.3 Million by 2026, Registering a CAGR of 11.7% - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \" Global Neuromorphic Chip Market information by Application, Vertical and Region - Forecast till 2026 \" market is estimated to reach USD 1,"
-    publishedDateTime: 2021-06-21T17:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21650623/neuromorphic-chip-market-worth-usd-1-560-3-million-by-2026-registering-a-cagr-of-11-7-report-by-ma"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21650623"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21650623"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
   - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
     excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."
     publishedDateTime: 2021-06-23T09:12:00Z

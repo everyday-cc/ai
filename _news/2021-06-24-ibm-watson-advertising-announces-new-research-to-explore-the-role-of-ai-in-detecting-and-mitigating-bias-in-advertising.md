@@ -69,6 +69,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The AI Explosion is Coming"
+    excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-ai-explosion-is-coming-2021-06-24"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Funding is pouring in to companies trying to crack self-driving tech"
     excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
     publishedDateTime: 2021-06-25T00:30:00Z
@@ -97,6 +106,6 @@ related:
       domain: benzinga.com
     quality: 39
 
-secured: "iLHsEXAX1j6LyWn9dVtvil6B0WlWCl1jAl2kBkmRcnXOzzuRt2xYP6zfobO7yFvE13jTGtNGfwkPr7AtcSj2l0p4ccWUxsu3g1UYnhIE5cCbiDXNZ07aSwBMMp3kyToqgn5r6mjqsRymVd+rR/kz3jGoEZwqRvimXNzZM/xA624P3R0ynAkfnp7aaJk0pjH/+rwUj2hEjUVoJtRb2+XVxccyFYOSGIj5OWQ+NV8CTifhwqVU6JnsKS+o3WKVtXrzMVeZxCZP1I8gDkq4wyxtowQohBuOlzXCA0LC9v4FBnj2eA6NupslMEQt72hld06sfjfUrcdmq6C9HKni09R4d+hZbR4aC09M2TF82tysTno=;ibnqC446USI9ROJYcXFwJQ=="
+secured: "Jntwy+3ILNBq5heMwsVz6v/GnhZdJGLxp3e5gJUZtXhG2Pna33H5Lk0DrszmZVX0iTfaxcoxbvmDIRb6fXgI8K74P1WQY/G02G5zMsDbS/nZX5YToEkRGX2zn0lzVS9ug97u3Pfw0C7RBI+MyhDYciZqG97xsuxVIIlYG3UNeSHfN8gs2YLp22+Bo3wGDQ6ode47ruxGpBVt1nb4tDLXVS/DWgbPWcHPMP4GdALTs1Hu9B0hbcfYkmK0wKC2ofYXi8rh44huEoLlwQ7C8Pa3jrUJ0tFW5WXNcJNCO35LTNJwb8w9MfrOmTUmisTVlYPWESj1PjGK3aebfFUEDs2lOK8h52c0a/3a7pUX60GG+0A=;6fJzajMMn5Ag8QA5m+Y0Aw=="
 ---
 

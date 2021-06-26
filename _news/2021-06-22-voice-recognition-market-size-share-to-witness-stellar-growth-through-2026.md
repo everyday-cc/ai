@@ -18,6 +18,19 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
+    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
+    publishedDateTime: 2021-06-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "EvTWioLJl8AI5rPyCp85pNNQhKcga87IOHfXLjTA7sqmb12NVanooY6VeZboKVkkxYd68K1ngvYGCQEIZXLxQ7QeMEFcIQ3E3zhdh5BJBzplbPFvvZ1rp9FAeUOdhloIeW4+WpJUOZ+2SeXImzWRpN6SmUpNRmw7It/W2f8UfQuCeNm/k336YRY3DqUetTDJDvLy9WnA8lMqdUu2vVougxcSaH34ysGCOc1Zqq/ArMDrYhRacxyCqKRybto7vKevIMo1PEuWMXbIPJBscjFvommYlnj+aM32VrG4Hi4QycnEQsJK55JNIVkHzh0Ms5j74comAo4pD9KZ25r2keCZqYMxagJkqgKewI49XtVfFcQ=;mF36dL+YznYNfOtzn0QTWw=="
 ---
 

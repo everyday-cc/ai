@@ -130,7 +130,7 @@ related:
   - title: "Latham, Husch Blackwell steer self-driving truck tech firm's SPAC tie-up"
     excerpt: "Latham & Watkins and Husch Blackwell are steering self-driving truck technology maker Embark Trucks Inc’s plans to go public through a nearly $5.2 billion merger with a special purpose acquisition company."
     publishedDateTime: 2021-06-23T21:24:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-2021-06-23/"
+    webUrl: "https://www.reuters.com/article/us-m-a-embark-power-spac/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-idUSKCN2DZ2P6"
     type: article
     provider:
       name: Reuters

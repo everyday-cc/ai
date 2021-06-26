@@ -1004,49 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots.md",
-      "title": "Austin Cyclists Split On Sharing Bike Lanes With Pizza Delivery Robots",
-      "excerpt": "Some Austin cyclists are not happy about the robots using bike lanes, while others are optimistic that sharing their path will lead to good things down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/",
-      "originalUrl": "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.hpm.io/wp-content/uploads/2021/06/24071823/download-7.jpg",
-          "width": 880,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/",
-      "publishedDateTime": "2021-06-24T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Public Media",
-        "domain": "houstonpublicmedia.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-be-human-first-the-robot-proof-human-trifecta.md",
       "title": "Be Human First: The Robot-Proof Human Trifecta",
       "excerpt": "The \"human trifecta\" refers to having a liberal arts foundation and building on it with design thinking and entrepreneurial mindsets.",
@@ -1197,6 +1154,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing.md",
+      "title": "Google Visual Inspection AI Augments AutoML To Detect Defects In Manufacturing",
+      "excerpt": "Visual Inspection AI takes AutoML Vision to the next level through its domain knowledge of the manufacturing industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d424c449305f4e9367c3cf%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/",
+      "publishedDateTime": "2021-06-23T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
