@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/3
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "HPE Buys Startup Determined AI to Accelerate ML Training"
-    excerpt: "Hewlett Packard Enterprise on Monday announced that it has acquired Determined AI, a San Francisco-based startup that delivers a powerful"
-    publishedDateTime: 2021-06-22T02:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20039-hpe-buys-startup-determined-ai-to-accelerate-ml-training"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 54
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7b5a9b42f145a0fbb26efa43903483fe.jpg?t=20210622_025719"
-        width: 752
-        height: 408
         isCached: true
   - title: "HPE picks up ML model training pace with Determined AI buy"
     excerpt: "HPE is set to bolster its high performance computing and artificial intelligence stack with machine learning model training tech from Determined AI, which it has acquired."

@@ -105,22 +105,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Amazon is in talks to buy stake in AI truck-driving startup Plus"
-    excerpt: "Plus is among a handful of startups trying to up-end a fragmented long-haul trucking business with driverless technology."
-    publishedDateTime: 2021-06-22T01:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus-41624283725571.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/21/600x338/2021-02-06T185607Z_1_LYNXMPEH150I2_RTROPTP_3_AMAZON-ENGINES-NATURAL-GAS_1612682042347_1612682051962_1624283883954.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Third Self-Driving Truck Startup to Tap Public Markets"
     excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
     publishedDateTime: 2021-06-23T12:20:00Z

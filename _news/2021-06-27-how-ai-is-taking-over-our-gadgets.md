@@ -1,27 +1,29 @@
 ---
 category: news
-title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
-excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
-publishedDateTime: 2021-06-22T13:40:00Z
-originalUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
-webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
+title: "How AI Is taking over our gadgets"
+excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls"
+publishedDateTime: 2021-06-26T19:29:00Z
+originalUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
+webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
+ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Analytics Insight
-  domain: analyticsinsight.net
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
-    width: 900
-    height: 500
+  - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -57,21 +59,19 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "How AI Is taking over our gadgets"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls"
-    publishedDateTime: 2021-06-26T19:29:00Z
-    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
-    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
+  - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
+    excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
+    publishedDateTime: 2021-06-22T13:40:00Z
+    webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
-        width: 600
-        height: 338
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "How AI-powered pricing is shaping the customer experience"
     excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
@@ -102,6 +102,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Y/UlVsb/TjDfwKLVHRoWCcDT2yVlwF4ESnLEDBjAQg0zvT8JlRF3nwPyp6bhaGQ42ENF8CY/y5ai4csE0AMm07ta2WEYuZ7wEOWMoIsLJN7CrZVQk64wZ4j+8f59kMgPJGtnucLLpKFtm8x6ul258+9sKR1mMAPaJKCUB4Xt3vHH1K93lh9ilqgu4EsyrT6ZXXRsp7THXz3zHwrrc61uwERU4mtpu3tvlr/oqOKkO2SEzkA0/NMK+rX5+A9EwxXzRUOs81pOWqhueYIQpAyRIHNjfLAG/L6/NDldAn41XLk5oITvUbm9xTv4nxUuD9PXpb5FypfcYBDWBF2OqFJRxMDhteXhosuY9ilCsT8Ft3V7fqxuV6izMoAfiFof9KyuAkrsk81CGaZXy5Jk5XFJKloKIAYiDD1Gvnh7KKxmQLLDpFWA1ORkTI3v8FpTjcLdEZ/jBexq8R5TG6m8mnwwMQOkO8ZINRRaYUokGkdElIEs7sHolnc5kjbZUQXeipVTHx/V334Q5a+vYyzGiPEorg==;UcymLjyCZFj2fSfMxm/Epw=="
+secured: "RFwG6zcSeIBgu7730SMWUXfzEgZ6y/DVU55thkYCKcBW51uH2MPzeIdIQBoRraXIsvZ+PLsgjkXSJiB8MfYA5V8IIK8G/1jJmLcVR2qlgOHZjN6xjeCpeo+zLcLq3n+KNRK+/I3PZMPSayf973TfYnc51pBbf6oUFzC2Q6DghS8RqyAjRBOkjjA0LYU1OtdyROktJPsjpxrr3nOTDw2DG5/jLdT9uT7wvwlA8eAwjenTPBEGOdCqun67iUcYpioDGgGid9mbJ9smtJumR+6ChV07P8aDMqG9lBN2Lsz1+2HW79iVNMIEoWKix5EnAson6EOvDMxQQicvkaW13jV1dX5/FJ2feRnSvt4rTwen7w0=;z+4ctY1SdwoY7nPVtk+/Gg=="
 ---
 

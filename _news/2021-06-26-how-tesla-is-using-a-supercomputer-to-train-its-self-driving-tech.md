@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla backs vision-only approach to autonomy using powerful supercomputer"
-    excerpt: "Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo’ since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving."
-    publishedDateTime: 2021-06-22T02:10:00Z
-    webUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/"
-    ampWebUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
+  - title: "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows"
+    excerpt: "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time."
+    publishedDateTime: 2021-06-25T15:15:00Z
+    webUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/"
+    ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
+      name: Electrek
+      domain: electrek.co
+    quality: 78
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-12.57.01-pm.png?w=1024"
-        width: 1024
-        height: 640
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
     excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
@@ -54,22 +54,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla Launches World’s Fifth Most Powerful Computer For AI Training Ahead Of Dojo Project"
-    excerpt: "Tesla just launched the world’s fifth most powerful computer responsible for neural network AI training ahead of the anticipated Dojo supercomputer debut. Tesla seemingly does not run out of new features to unveil for its followers."
-    publishedDateTime: 2021-06-23T12:37:00Z
-    webUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271"
-    ampWebUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/tesla-has-backtacked-on-the-idea-of-an.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
     excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
@@ -115,6 +99,15 @@ related:
         width: 1344
         height: 743
         isCached: true
+  - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
+    excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."
+    publishedDateTime: 2021-06-22T14:45:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/22/a-top-tesla-attorney-jumps-to-plus.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "fgCijttOFKgUKeO5/4tFuLhWcLH0qK9JqAZSqblEX/M6+H8Fy3v3Nwi06Ou/fjw1YXitb/ywqLpneC4VOsvqnv6SnsrA2rzt9WOhU1g5LH9t+Vcmeq+MTxHkQXldGeeCAHzReM3KGW28sHftw/qCsbbW7N5hhK7uS+O7vs3E+xX0rJWNuEW65z6jAVJLgXTgnyLSjm+MFEbBeeVeokISjHBkcyw+i9S8kgln2eH3EvxRsLzfAGNZjFXQxy8Nv3BB+KL9JxhPCdrQM1lz4SZNUnYsxxsUGrbhYwaXlGAjCHw/gSV/HJXMbdgc9fVBmVmR93AY6EzyiXCrwNZxJ4Z4r+jIwvKkqEE5yCxzxnLt7Ac=;r6CSIsVFiTsvWsmWqdCW6g=="
 ---

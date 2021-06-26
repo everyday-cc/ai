@@ -89,22 +89,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Amazon is in talks to buy stake in AI truck-driving startup Plus"
-    excerpt: "Plus is among a handful of startups trying to up-end a fragmented long-haul trucking business with driverless technology."
-    publishedDateTime: 2021-06-22T01:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus-41624283725571.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/21/600x338/2021-02-06T185607Z_1_LYNXMPEH150I2_RTROPTP_3_AMAZON-ENGINES-NATURAL-GAS_1612682042347_1612682051962_1624283883954.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Self-Driving, Electric Trucking Startups Are Creating 20-Something Billionaires"
     excerpt: "A slew of self-driving and electric truck companies are going public through SPAC mergers, making their young founders overnight billionaires."
     publishedDateTime: 2021-06-25T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/exclusive-to
 webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
 type: article
 quality: 165
-heat: 355
+heat: 345
 published: true
 
 provider:
@@ -89,22 +89,6 @@ related:
     quality: 59
     images:
       - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Amazon is in talks to buy stake in AI truck-driving startup Plus"
-    excerpt: "Plus is among a handful of startups trying to up-end a fragmented long-haul trucking business with driverless technology."
-    publishedDateTime: 2021-06-22T01:50:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus-41624283725571.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus/amp-41624283725571.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/21/600x338/2021-02-06T185607Z_1_LYNXMPEH150I2_RTROPTP_3_AMAZON-ENGINES-NATURAL-GAS_1612682042347_1612682051962_1624283883954.JPG"
         width: 600
         height: 338
         isCached: true
@@ -293,6 +277,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "xUjx0b4RSJJAk4Qr709NYpXeb+pL4epSS/OJTjsVrov0wQoXShxWrKeq7PS8EZexPJrq5ZVOd9dsSZ8ytgHfcHUAbOfsCsdHPnzNeEdJ5FG7/NHqYkmBhpijTJuzKBGfSdvd2YJzDyjOppv7iLKDrMJC7CD1Tv5cWmKK26RyPkJpHcLuHH0NWNiZBShKRie6dEIqFIS1RMYmQ6B0ZqWxAM6bKjKfAj3d09eEP0LxMs7QLhhy4OgnGRvqMya78RXJsxipEVj5kX7tI45j3wGGgXvTXByRUyA5UvXE2apyR5ch4OO5MAtJKHAcTa0nbmB7I1ngKqvS2tE0I1H5N4ax1/rjW+A2QWJ6KenXpCWivn4=;gSVPcKitVWW2uiUA7lUzMg=="
+secured: "rV7tMcJJrKMDdFRDw76eNNZzjrrPkfhgEqTtiEgwXBmXhGahAagh9EacJjube28H9FwgWt1qsCEdKZscWSnYelSlMw+R7FjlodRgGWdYtJ9hQWKjN8zFJgriwIw3Gz40AiZkUWmZP+JecSXv9b122xsMQpKt+m+5HCL+OeNIzoA+HCwW+G0GGTpemq7uo357oIeooHCZnscOI4l/3FiVD9zJ8ndY9SuufWct2y65g5hHG2Yrxxc0UWESXHI/n12Gk0ipxLDAxS7NF1RyEEFX3O9fzpsjsJNmntxfRhy6W1ny7Q4zeuy+89gvrVoH8MOlphOLcrzMN2jvESewuLt3Nufchb8ex+2AMfhB0U7IDF7OiS5wZ2Hgqw5dobXU9IU9bWLC/99gXGDVw8qMZXTFnqVfeiYp8wkM+7tSpclscOQFvFjtpyZ5MKSZvt/0C2XRukcgvg3vYeuANYKkvyOQAJGJ++EBd90w4hztLzDyULPEGWyHeDSEMVGFEHYARVwgg2BtocSja7smPhb7bl0Iy1EJD2bjQE+gJojYiwrjkkQ=;gPjbQN2lNtgjKxgJYBECZA=="
 ---
 
