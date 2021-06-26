@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "Report Scope In this report, the market has been segmented based on components, application, microphone solutions"
-    publishedDateTime: 2021-06-22T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
     excerpt: "This report elaborates the market size, market characteristics, and market growth of the Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Artificial Intelligence."
     publishedDateTime: 2021-06-23T07:16:00Z

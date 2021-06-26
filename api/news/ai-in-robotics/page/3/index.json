@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-06-artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027.md",
-      "title": "Artificial Intelligence (AI) in Precision Farming Market [ PDF ] To Witness Significant Growth By 2021-2027",
-      "excerpt": "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :-, Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk, DTN, Resson, Vision Robotics, CropX, John Deere ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-05-samsung-jet-bot-90-ai-robot-vacuum.md",
       "title": "Samsung Jet Bot 90 AI+ Robot vacuum",
       "excerpt": "Many of today’s best robot vacuums have powerful suction that can rival the best vacuum cleaners on the market, along with rechargeable batteries that can outlast some of the be",
@@ -1442,6 +1390,49 @@
         "AI",
         "AI in Robotics",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-retailers-ariat-decathlon-latest-to-adopt-exotec-robotics.md",
+      "title": "Retailers Ariat, Decathlon latest to adopt Exotec robotics",
+      "excerpt": "Warehouse robotics firm Exotec announced footwear retailer Ariat and the world’s largest sporting goods retailer Decathlon will deploy its Skypod warehouse robotics system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "originalUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/05/Exotec_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/retailers-ariat-decathlon-latest-to-adopt-exotec-robotics/amp",
+      "publishedDateTime": "2021-05-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

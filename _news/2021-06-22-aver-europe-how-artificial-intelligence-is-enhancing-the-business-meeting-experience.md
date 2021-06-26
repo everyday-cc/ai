@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How AI Is taking over our gadgets"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls"
+    publishedDateTime: 2021-06-26T19:29:00Z
+    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
+    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "3 ways AI is being used for good"
     excerpt: "As health providers increasingly come to rely on AI systems during this pandemic and into the future, and governments across the globe consider way.."
     publishedDateTime: 2021-06-23T07:40:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-83772714,imgsize-77735,width-800,height-434,overlay-etcio/3-ways-ai-is-being-used-for-good.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "How AI Is taking over our gadgets"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls"
-    publishedDateTime: 2021-06-26T19:29:00Z
-    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
-    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
-        width: 600
-        height: 338
         isCached: true
   - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
     excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."

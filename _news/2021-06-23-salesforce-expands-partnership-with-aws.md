@@ -2,9 +2,9 @@
 category: news
 title: "Salesforce Expands Partnership with AWS"
 excerpt: "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms."
-publishedDateTime: 2021-06-23T04:00:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639"
+publishedDateTime: 2021-06-23T16:36:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Expands-Partnership-with-AWS-147639.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Expands-Partnership-with-AWS-147639.aspx"
 type: article
 quality: 39
 heat: -1
@@ -168,6 +168,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "8MzRojf9loXpcaS9hpAEgotI2XO3zag8nSQRIJKLS/CT4ZsenBdMWSb4B3uh1fQZ4JPZahJ5JRJVhY+i46piYrmdLfWWnNpQqhoMNiFMMhbGQnRgyxFdprGPqqeoIuoXce0w3enynNEwpw78YnhQcg0wsmXGGUy+uEJ3q7fvbjQXiinh57pAicQaYVTMnSqrOOaVR4jt1crjkcyRuyiy8X6IIwo6HwFuHYfd9GdQUhg7SpneYMvT+zWPusuyNDiyv8uL4Zl7CHwZHtVl1BJ1YhClLFVrWYpeS3XTCj5Tp1Pswg/Zd3a5zz8QnDu8G/fvkP9Cn9n69ApBz6cswjJU+octpy1VJArno4M/LSKQHDc=;sgTtHZ4JPWNMNG/1WLB3gg=="
+secured: "rGAM4tIPUaPoePqMk4aPiWhqzzAp9bbplju+KQTCOb2vpZW16DayZ2rrHkyNiBDtXDPJiXI8orjIPi4OGnC4SqYfmucgqR2jgf6E6YTjGKYUZc8sdxypomGyWV0FlRiB4mWZbz41KpS3aWBruaTfcGRzX8S1WhwjPQ0SoqGMcp5oyYfq9bATeAHcJnje31Ue3m+ueAacObMfDYYNQ1cWhhvs8kPQq7nMtCphpz7v2Ns0DcPaPJTWrEyRMCpDFRdrRo6fWsAEnCgjeu8mJwnbaWFd/4HDoXR8ebHopm1fRQiof59/hIUZedVQrisHvaEg21EzRRh/BfDDyXdDvw62BtjEsrcHRyVnUymfg12/vOw=;tIQK2SRqYYQjOWrf30zXHQ=="
 ---
 

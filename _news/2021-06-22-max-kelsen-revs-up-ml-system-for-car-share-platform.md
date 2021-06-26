@@ -25,36 +25,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Max Kelsen uses ML to weed out rude users for Car Next Door"
-    excerpt: "Brisbane-based AI and ML specialist consultancy Max Kelsen has built and deployed a system for the Australian car sharing platform Car Next Door to reduce inappropriate car borrower behaviour. The solution aims to grow trust for car owners as the company’s business model does not need them to physically meet with the borrower."
-    publishedDateTime: 2021-06-22T03:43:00Z
-    webUrl: "https://www.crn.com.au/news/max-kelsen-uses-ml-to-weed-out-rude-users-for-car-next-door-566290"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 41
-    images:
-      - url: "https://i.nextmedia.com.au/News/team-2020.jpeg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Mex Kelsen uses ML to weed out rude users for Car Next Door"
-    excerpt: "Brisbane-based AI and ML specialist consultancy Max Kelsen has built and deployed a system for the Australian car sharing platform Car Next Door to reduce inappropriate car borrower behaviour. The solution aims to grow trust for car owners as the company’s business model does not need them to physically meet with the borrower."
-    publishedDateTime: 2021-06-22T03:43:00Z
-    webUrl: "https://www.crn.com.au/news/mex-kelsen-uses-ml-to-weed-out-rude-users-for-car-next-door-566290"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 41
-    images:
-      - url: "https://i.nextmedia.com.au/News/team-2020.jpeg"
-        width: 1400
-        height: 900
-        isCached: true
-
-secured: "jPipQrkcvvHJqso09LPnC/FdEovu5ZLv7y1uNbYMVpIRYrC+c79KrYaMTnNnMufFDAOEGSzPYSKDRrDcYADH8uhDz46stUY3X3O+jMoljngHplrP03hZ9ajA4THWpomLluKgCd8Hj220dOjm+AEfMyHX1aidaTvT/c7dYIjcIX+9YrZEDrESHpwp2OyD3HuW/NLfLeqmwWyNhBxqRFvwEx38HTEdS8doxIQmtMbgHI3KU83P280eBCeq5xnSjiQmIS3fBaI944TXiNaHhZwSY1/Bs0YOLgXN7Y78x5ukOzLyQl1R4ktG66JP+K3+603D5Qul56d9j13p4ODKTLvjYz5RwnMtEB0gmnfiOwBJovk=;YXN8sEmAohTsDZMmlzWR3A=="
+secured: "v6SNjMXzRnDytHyarnEzKqZ/71wEpwl7JsCyqVXrOmySX5OyPNdY6EE4KQ4BG3yrB2xJ3YcQ7MFdnhwOz5BX6IpwqNt4OLFpohCfNhiaIa8261bQ7xpuTRl2cPEPCu4r54hfeLGUZTk9adGR1jyZ+eMmHH3AuMnNAJSnGTfv1A80A2CNMV4MwtkILyqoBHBzDz2+c+09Qmt0DswMGx3o1YoOpdhKaISkzxlaAu56XfMM5ERhQbEnY5mjuTPcAO92PsLlb6hZ5yScXmqz/G7bfiM5JL+r+OLWxhvMtuYpwORkh7LKDpZBdH2w9jcOf6B/qzMcF7dwhDjw1V3QWjmOPnBP+HzSFFwMvJowrfWiAqqJswC5b9wX9Qb29xeHpDewPB0bU4y8cLRt7oDM2e9fA8jh73hSIiodx26X0mYqoQ+nSSwEms1+ReMKr2R4H7j4GE+gdmtZA2Mgo0Ds30GmdFQJYV7FNLlSsZ5csoDZyyuDFp5G3Dnntta5x3/PqVs7sIT68VbhnKIZQhZLZ1w5bA==;McEdA9w8gqCZP9VvP6116w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-
 webUrl: "https://www.telecompaper.com/news/hpe-buys-ai-startup-expands-hpe-greenlake-with-support-for-microsoft-azure-stack-sql-server--1387507"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -19,31 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure"
-    excerpt: "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,"
-    publishedDateTime: 2021-06-22T04:42:00Z
-    webUrl: "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    ampWebUrl: "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
-    cdnAmpWebUrl: "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure"
+  - title: "Primer Announces Strategic Alliance with Microsoft to Make Leading AI Solutions Easily Available; Primer to be Natively Supported On Microsoft Azure"
+    excerpt: "Primer, an artificial intelligence (AI) company, today announced a strategic alliance with Microsoft to collaborate on taking leading"
+    publishedDateTime: 2021-06-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/primer-announces-strategic-alliance-with-microsoft-to-make-leading-ai-solutions-easily-available-primer-to-be-natively-supported-on-microsoft-azure-301316917.html"
     type: article
     provider:
-      name: Steel News
-      domain: steelguru.com
-    quality: 91
-    images:
-      - url: "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 849
-        isCached: true
-  - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
-    excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
-    publishedDateTime: 2021-06-25T09:14:00Z
-    webUrl: "https://www.telecompaper.com/news/hkt-launches-managed-security-services-powered-by-microsoft-azure-sentinel--1388049"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 49
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
 
 secured: "GKtUv0hi9qDx4yw52o7TbPYYXrTHMqSjc6VLKt+sX/8D63dEZAh4h8VsnVQsoBmBrltCKFfOMSN0mU03mA07ch0LjNZOndcWP6k+wtSzSwVcpwo2R3YZAjP2isjNnMyQjYY702p7t4SNriBKchl9L4j3KaTBICWNYDjXJL/yH871yb8gKlVRGQHLxeaJ6fUVXNFKg//blYYhtdauY2oAHz7bCr2HeAcWt+rK8pIFI2ONhIodvEVQNPQV8kqfWc7RojOS+9ASaHXHYD5XVBPy51InjX2zHLWnEnOtZ3FjHlfPg7rK1tJQ9TgvfOU1NP7KCpjOvigxHX5d4AdKRFlewsZIg5UthcKZ+o5AqPx7URk=;h2aNRuh9l4DMYAj9QuVDzA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-t
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore.com
@@ -40,20 +40,6 @@ related:
       - url: "https://www.nanowerk.com/news2/robotics/id58292_1.png"
         width: 400
         height: 266
-        isCached: true
-  - title: "Soft robots -- smart elastomers are making the robots of the future more touchy-feely"
-    excerpt: "Imagine flexible surgical instruments that can twist and turn in all directions like miniature octopus arms, or how about large and powerful robot tentacles that can work closely and safely with human workers on production lines."
-    publishedDateTime: 2021-06-22T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/su-sr-062221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/268583_web.jpg"
-        width: 1440
-        height: 958
         isCached: true
 
 secured: "Gxl0mYGqQ0S+gf4RVJjoo76lZMHTaOz5An44ifEtP4bHOj3MPI2Bp8dzlFr2ZVxTumpFRrHvnPPXaaT5idOcZI8VftBOyo9+qjmOgxOeBr0XfThR35X6J5FZ5WE7Rva3SmCWVZAiY29w+mgxIrqAu3IUXbpge8rocF9a+tZ6eMOzeA1f0HfT1xj88p5PF3zXoKSOK6aHkd3MGjY5PymbtEaRjBQ6CcSMnFCu6uyLSgBypv7yD0o4jbuVo+jp8vqI/8oW9WNRX5J5fshNIBtkyr+ZEslmyC0xGhtnc8vDJVYLnPLaGXyqxcvtotDPIwucRO9lY++zkKX0gPcNXI51MYSx9O/OsuC2RJ2hHuQf7vKmsrO9IHQ4O9jW1goliODin6N7dhNlVkhl7rOsGSc0ySotX3pe8j3+TwKf9coWMSwrIDOsG92BJhc6DWaPdlvyI1z1ITEzukoJ/95kGfmNiNsFWlke0C1OKCs5kCRc1433V/+YUs6HfJm6ecHGUZ/O2CKM7EAxQ+CmaRqZIOdrZw==;lOcvlf6Fc0AeEwXoeC2AQw=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
+      "title": "Machine learning identifies new brain network signature of major depression",
+      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
+      "publishedDateTime": "2021-06-26T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
       "title": "DeepMind AGI paper adds urgency to ethical AI",
       "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
@@ -1211,49 +1254,6 @@
         "Facebook AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.md",
-      "title": "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner",
-      "excerpt": "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
-      "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
-      "publishedDateTime": "2021-06-24T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

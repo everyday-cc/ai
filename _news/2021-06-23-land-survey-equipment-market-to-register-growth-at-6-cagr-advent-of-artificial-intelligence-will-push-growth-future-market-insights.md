@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Land Survey Equipment Market to Register Growth at 6% CAGR; Advent of Artificial Intelligence will Push Growth: Future Market Insights"
-excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
-publishedDateTime: 2021-06-23T13:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/land-survey-equipment-market-to-register-growth-at-6-cagr-advent-of-artificial-intelligence-will-push-growth-future-market-insights-1030547429"
-webUrl: "https://markets.businessinsider.com/news/stocks/land-survey-equipment-market-to-register-growth-at-6-cagr-advent-of-artificial-intelligence-will-push-growth-future-market-insights-1030547429"
+excerpt: "The global land survey equipment market is expected to rise at a CAGR of 6% over the forecast period of 2021 to 2031. The growth in demand is strengthened by rising construction activities in the government and private sectors."
+publishedDateTime: 2021-06-23T13:36:00Z
+originalUrl: "https://www.lelezard.com/en/news-19871317.html"
+webUrl: "https://www.lelezard.com/en/news-19871317.html"
 type: article
-quality: 15
-heat: 15
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "o3DYKTURzYbJ3CfGgUt443JQ9X6Jjularq6+aB+z3+roj8BwJOsXxKNbICX0N4rYZtwIZGuskn4kw6n7x/lsE2r+C+HCAp1DKbu+wGExxSGpp/3y9JG6ASavNzVXD3cAo2wWikPYYSiUDAM2D4w3lKsxC6r24Gl7lv65Z+5emebhZP4xUkHDDJ6hObztiaB3DXEVKoLSyVrGZf0BhewQTVqxfE92c3KEqcvqQPj9RHyGMMZrTr2bwfguz/n33rM4TTWaVVTXbLWJJD4kktL/iOY8LrJzkSY4IZeWE9XMZ+rxOJGrQItBk5XmWAzsgE5Zxg4Ps5/vKwvinlaycu/yvlcixh2K6U3iCdEwtm1sC9287ZEDT35JSrwCP4sOqNcFTGcZwENgTVPiDSS53So3HpYwqWwQyD3aPWfjgv6TVTsUtIIqGLVSdG4hg/9exKWglkXS8skqpoZTJdAdzqA3wHo1zA4T5p4162JzGFyv6LQquGc9B61JHf1yqhPGJrn5M2viSnwp9N+wk2m+M+4hAw==;j53FYv9JEyqx3cBuBHtgFA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "XtJvzNCq/+H62xECGIE+hE1T51RqHt/wMcpzdl0Iuj4sD3qV5/H3m1F0gWMQMbogsBTLyl2cm+ihgiqyXC7fiTlQsNWaSnVZXxhonkIj8XJdi1hN/YgQESg+LM7YUbnR87Kiu49pJHncy61qixj4MJ40BFB1pAb2Ml6Jfy0TljWOouapk8OCQ/UKM4s7LJKuX7PUbgGZuE7dW+GP8wmlIbmAVGmI7zmJpW3StTdZWloSLknKr9DHixAaS3DDSMSlfcmLAM8VZCz7uLDUGsDAm6Uy9Bpr4dXWYcOURJk9QoIj6TzZgdWbuQ5SMnXi8DJyRX77cx12oUKR3wXZe4AX5nF4J2vb71X6rP5oALANGKQ=;N1o7UhTaYwf5NE7p3+BFvw=="
 ---
 

@@ -70,8 +70,8 @@ related:
         isCached: true
   - title: "Salesforce Expands Partnership with AWS"
     excerpt: "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms."
-    publishedDateTime: 2021-06-23T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639"
+    publishedDateTime: 2021-06-23T16:36:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Expands-Partnership-with-AWS-147639.aspx"
     type: article
     provider:
       name: Destination CRM

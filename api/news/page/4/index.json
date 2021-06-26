@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-23-simplify-machine-learning-with-azure-applied-ai-services.md",
+      "title": "Simplify machine learning with Azure Applied AI Services",
+      "excerpt": "We’ve seen some of this with the evolution from Project Adam to Azure Cognitive Services. Now Microsoft is taking the next step, using that foundation to deliver a set of machine learning models that provide assistance with common tasks: Azure Applied AI Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "originalUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/05/artificial_intelligence_machine_learning_binary_code_neural_network_thinkstock_636754212-100724428-large.jpg",
+          "width": 700,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622595/simplify-machine-learning-with-azure-applied-ai-services.amp.html",
+      "publishedDateTime": "2021-06-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-the-road-to-driverless-cars-is-looking-hopeless.md",
       "title": "The road to driverless cars is looking hopeless",
       "excerpt": "They want to approach the necessary artificial intelligence by building systems that learn the way human babies do. Others want to divide the problem into smaller chunks, developing systems that each handle a piece of the puzzle. Biondi said he thinks ...",
@@ -595,49 +648,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-smart-elastomers-are-making-the-robots-of-the-future-more-touchy-feely.md",
-      "title": "Smart elastomers are making the robots of the future more touchy-feely",
-      "excerpt": "Imagine flexible surgical instruments that can twist and turn in all directions like miniature octopus arms, or how about large and powerful robot tentacles that can work closely and safely with human workers on production lines.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/soft-robots----smart-e.jpg",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
-      "publishedDateTime": "2021-06-22T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

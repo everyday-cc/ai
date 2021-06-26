@@ -491,49 +491,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-smart-elastomers-are-making-the-robots-of-the-future-more-touchy-feely.md",
-      "title": "Smart elastomers are making the robots of the future more touchy-feely",
-      "excerpt": "Imagine flexible surgical instruments that can twist and turn in all directions like miniature octopus arms, or how about large and powerful robot tentacles that can work closely and safely with human workers on production lines.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
-      "originalUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/soft-robots----smart-e.jpg",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-smart-elastomers-robots-future-touchy-feely.amp",
-      "publishedDateTime": "2021-06-22T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup.md",
       "title": "Five Questions To Ask Before Raising A Series A For Your Robotics Startup",
       "excerpt": "As a founder of a robotics startup, how do you successfully access venture capital, and more specifically, how can you raise a series A at a fair valuation with favorable terms?",
@@ -646,7 +603,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1422,6 +1379,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-construction-robotics-firm-dusty-raises-165m.md",
+      "title": "Construction robotics firm Dusty raises $16.5M",
+      "excerpt": "It certainly follows then that some leading construction robotics companies are able to strike while the iron is hot with some healthy raises. Today, Bay Area-based Dusty Robotics announced a $16.5 million Series A.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/",
+      "originalUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8zE4X06fly8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/amp/",
+      "publishedDateTime": "2021-06-15T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

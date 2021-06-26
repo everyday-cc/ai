@@ -53,7 +53,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
         width: 600

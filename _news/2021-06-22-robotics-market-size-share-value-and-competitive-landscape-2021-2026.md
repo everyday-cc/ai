@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-market-size-sha
 webUrl: "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
 type: article
 quality: 84
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "Report Scope In this report, the market has been segmented based on components, application, microphone solutions"
-    publishedDateTime: 2021-06-22T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
