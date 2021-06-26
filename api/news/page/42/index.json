@@ -2,6 +2,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-05-25-new-report-from-corinium-and-fico-finds-that-lack-of-urgency-around-responsible-ai-use-is-putting-most-companies-at-risk.md",
+      "title": "New Report from Corinium and FICO Finds that Lack of Urgency Around Responsible AI Use is Putting Most Companies at Risk",
+      "excerpt": "FICO and Corinium today released its second annual executive research report on Chief Analytics, Chief AI, and Chief Data Officers 65% of respondents' companies can't explain how specific AI model decisions or predictions are made 73% have struggled to get executive support for prioritizing AI ethics and responsible AI practices Only a fifth (20%) actively monitor their models in production for fairness and ethics Today,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-new-report-from-corinium-fico-finds-that-lack-/2021/05/25/9376837.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-south-america-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-regional-analysis-by-component-and-end-user.md",
+      "title": "South America AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Component and End-User",
+      "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/south-america-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-regional-analysis-by-component-and-end-user-2021-05-25?dist=bigcharts&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/south-america-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-regional-analysis-by-component-and-end-user-2021-05-25?dist=bigcharts&tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-geico-to-use-artificial-intelligence-to-speed-up-car-repairs.md",
       "title": "Geico to Use Artificial Intelligence to Speed Up Car Repairs",
       "excerpt": "The insurer is using new technology so body shops can begin work earlier and customers can get back on the road faster.",
@@ -1099,110 +1185,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
-      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
-      "excerpt": "Learn to develop self-leadership and to govern your emotions in the face of situations that are happening at full speed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372732",
-      "originalUrl": "https://www.entrepreneur.com/article/372732",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621869982-Depositphotos-160926830-l-2015.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372732",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372732",
-      "publishedDateTime": "2021-05-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science.md",
-      "title": "Bridging the STEM divide: AI hackathon helps young women excel in computer science",
-      "excerpt": "The post Bridging the STEM divide: AI hackathon helps young women excel in computer science appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/europe/features/bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science/",
-      "originalUrl": "https://news.microsoft.com/europe/features/bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2021/05/SUR21_LaptopGo_Contextual_0501_RGB-1-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T08:15:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

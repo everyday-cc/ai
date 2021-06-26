@@ -80,22 +80,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Artificial Intelligence in action"
-    excerpt: "This trope of man being replaced by machine often comes up in discussions about artificial intelligence (AI) and its potential impact on our world and workforce. But the fear around how emerging technologies will challenge our existing culture and change our lives fails to acknowledge the many benefits that accompany the growth of innovations such as AI."
-    publishedDateTime: 2021-06-21T07:44:00Z
-    webUrl: "https://mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/"
-    ampWebUrl: "https://mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 59
-    images:
-      - url: "https://media.mg.co.za/wpmedia/2021/06/b848f918-ai-2.jpg"
-        width: 1728
-        height: 972
-        isCached: true
   - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
     excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -111,6 +95,6 @@ related:
         height: 360
         isCached: true
 
-secured: "DP/0QD+/opRuyhLRkK9WOCJUPxK8l0hFUo4X9RziGDCy9qf2yg0Dsqt/UzWOOlAjZ2hf970hUhdGuXrujHecI6BtHB7W0sI7BSnwabIib1RPaD+pgtdQ1O0lFAG0fDg6CS/b/oh8sewIArg4tapW4e3n1Vi82tV9uf2hUhUXhkO68YBrilfG+wqtWV5YtiXt3suX6ZAf+WFX7dRGTDJJpyireBvKf2KGINrOC6o50bXxLjig7iG86UbiiGy2RBDa+w63nSe6wJCgBy22i/pDEilvGC4SRAjtd/1GmpR5ZUueQnB5/FlDDy/keM3lGNVq6NGxlWOrWWczF4QcgvAGEEEFQEGGaJrFoC1xkKc2f8s=;iAPH1Ft7vPDUQZu6TakY9g=="
+secured: "fD89xkM6HeSLEElAwO0kvn2TjZzsQCKxGQXKjr7gSAuOHG8Qp06TQpWHL21NAuCBuWQJWn+DKyWqERFB3GHQF+wJRHGhpyuiwwSCZyh/2+yx85E7EgglUxBpbVuARrsuM0Ol4iNsNT9VKET1gDDIMxVr7TWuAj3nNZMbj9C3lKLLt+ocsGO7SzovgDddlgVRPrtWWOm/yANMcKZOIFII3Nmer4YjQB2ZP78gTdF5upWuUBKvGdKmAq6Klr/iK6ESzELoPKYLzmp4wVHoL7pEAuThaGkHOEFHkGSyYalo1svPdLdU4Bez+9jZfmC2LPoIDyXuNrY2AaR+VWeYEO9twInpQ0nSmZBXZ91yjIA98PY=;tVcfw0sE7JJQi2N9Qp5dwg=="
 ---
 

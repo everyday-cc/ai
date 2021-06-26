@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Britain's Information Commissioner issues warning over facial recognition"
-    excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
-    publishedDateTime: 2021-06-21T07:43:00Z
-    webUrl: "https://www.computing.co.uk/news/4033149/information-commissioner-warning-facial-recognition"
+  - title: "Facial recognition use by federal Liberal party raises issues here, says B.C.'s privacy commissioner"
+    excerpt: "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia."
+    publishedDateTime: 2021-06-25T23:57:00Z
+    webUrl: "https://www.cbc.ca/news/canada/british-columbia/facial-recognition-liberals-1.6081006"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6081006"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6081006"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 53
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
     images:
-      - url: "https://www.computing.co.uk/api/v1/wps/843344f/4c5182c5-5994-4830-97e7-0bcdb98a8643/6/live-facial-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://i.cbc.ca/1.6081061.1624665370!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facebook-privacy-20190425.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Facial Recognition Market: Investigation, Consumption, Revenue (Mn USD), Share Forecast To 2026"
     excerpt: "The information mentioned in the Global Facial Recognition Market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the technological developments and the product launches and their consequences on the Global Facial Recognition Market."

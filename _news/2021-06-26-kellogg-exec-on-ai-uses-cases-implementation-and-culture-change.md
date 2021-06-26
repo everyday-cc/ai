@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implem
 ampWebUrl: "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all"

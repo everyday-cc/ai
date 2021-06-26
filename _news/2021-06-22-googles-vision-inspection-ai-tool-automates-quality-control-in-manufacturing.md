@@ -84,22 +84,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Artificial Intelligence in action"
-    excerpt: "This trope of man being replaced by machine often comes up in discussions about artificial intelligence (AI) and its potential impact on our world and workforce. But the fear around how emerging technologies will challenge our existing culture and change our lives fails to acknowledge the many benefits that accompany the growth of innovations such as AI."
-    publishedDateTime: 2021-06-21T07:44:00Z
-    webUrl: "https://mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/"
-    ampWebUrl: "https://mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/special-reports/2021-06-21-artificial-intelligence-in-action/?amp"
-    type: article
-    provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 59
-    images:
-      - url: "https://media.mg.co.za/wpmedia/2021/06/b848f918-ai-2.jpg"
-        width: 1728
-        height: 972
-        isCached: true
   - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
     excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ..."
     publishedDateTime: 2021-06-22T15:06:00Z

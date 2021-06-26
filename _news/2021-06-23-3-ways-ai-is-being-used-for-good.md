@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -42,6 +42,20 @@ related:
       - url: "https://www.cmswire.com/-/media/c9cc5c3a621940399529b32484f77be9.ashx?mw=1024"
         width: 640
         height: 480
+        isCached: true
+  - title: "19 For a Cure: Artificial Intelligence Being Used in Mammography to Fight Breast Cancer"
+    excerpt: "CINCINNATI (WXIX) - FOX19 is dedicated to finding a cure. This month we take a look at the use of artificial intelligence to fight breast cancer. See a spelling or grammar error in our story? Please include the title when you click here to report it."
+    publishedDateTime: 2021-06-25T23:18:00Z
+    webUrl: "https://www.fox19.com/2021/06/26/19-cure-artificial-intelligence-being-used-mammography-fight-breast-cancer/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 29
+    images:
+      - url: "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/_Y9Bwmt7L63PZPHhmYWN0Yfve4g=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MTLGOPY4N5GQNHQUQFDOHOVHGY.jpg"
+        width: 980
+        height: 552
         isCached: true
 
 secured: "YM8jBWtztBlDgeXnfjnHJXsi2eLmdiBJTfzpi1PrRnW+ZKl+WdP6yOjy5C5m+1sOjhUR5/A6T8X77N/C4Vl8d+0bm0RcA7dGb/169FTD0F9tYTofZmgQqKeLA2EWZBtihRX93LrGXt+ltbKLAe7/xaAknV5p8DzEK4wivBzOcbBAHK5m0Hp/RV78WgQ3ub1kFjCfzqlKSN9zxQNV8msvtNs9yq4rczzPUkPqDLtqh7toCLTyJeeXph8u9oQ9UYNXm0RjQ+PAOwchF2/bz8fvAZRsdGoG7xhTQtck44Wv5YO9RxSiKGWTvbU/vYIfTSCIpDS8cXbsClI7TSsTRGAZp3cXfn8zLHFSY+5mRJ0prbWdDiRaB9kktu53NlQe9YsoInkDsEr9XBF29k9L0M4lwDYpFACSW4OpJ2lEaWsmfGkLz2l9+4gpOLTAa9h/4NlHYpdTmeYMrIPfC+UO8fhLnfHDSal7JkdIfBptppqEVDOnDrSUPob1sCLTP5cHSbZhSdQoubm01bVo46jgm9QLHQ==;k9l8NZxOQhGg0P4PKsY2iw=="

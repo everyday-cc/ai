@@ -59,6 +59,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
+    publishedDateTime: 2021-06-26T01:30:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public-41624622848494.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
     excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T11:17:00Z

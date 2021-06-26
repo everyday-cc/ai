@@ -55,6 +55,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
+    publishedDateTime: 2021-06-26T01:30:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public-41624622848494.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Self-Driving, Electric Trucking Startups Are Creating 20-Something Billionaires"
     excerpt: "A slew of self-driving and electric truck companies are going public through SPAC mergers, making their young founders overnight billionaires."
     publishedDateTime: 2021-06-25T13:00:00Z

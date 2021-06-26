@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 1380
         isCached: true
+  - title: "KT to Invest in Fintech Firm Webcash Group"
+    excerpt: "KT, the second largest telecom business in South Korea, recently announced that it will invest KRW 23.6billion in Webcash group"
+    publishedDateTime: 2021-06-26T01:19:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/20070-kt-to-invest-in-fintech-firm-webcash-group"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/9b76e213e703da5228b1cb41f1440af1.jpg?t=20210626_011745"
+        width: 752
+        height: 408
+        isCached: true
   - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
     excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
     publishedDateTime: 2021-06-23T17:13:00Z

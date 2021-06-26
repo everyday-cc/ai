@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "yellow.ai launches voice bots to boost customer experience"
-    excerpt: "Yellow Messenger, on Monday unveiled a new brand identity and a platform suite, along with AI-powered voice bots to help brands deliver better customer experiences. Brands can now hyper-automate customer experience,"
-    publishedDateTime: 2021-06-21T11:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210621/3774946.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
-
 secured: "eYH3R0yp1Fy2tfED7Rk72dg2n+whFNNaQCI945J1a19/OEjQQchjbq10/+ZCO2lLwF9TPNdbbRZNgVDIZ657VoyOIxqrxDStkFdT3ZCha1vAXFw0eflb+6zHixUFwwCFB6poXhgZl8bPiuuMsZwDO7ImxcfLR1w44C1vCc9LrDP+OG61bv3fuJBD9YclvgVqhiaCzh1BcbPJ/leSR4sKDlqYyTtTRMMpHw4dAAWByC5DGrq/9ZLjNcjxMnreFvmhPa0OIILDHx4zS9uLcFNRhJE2RKksEr5JFVS9m0ty0/i0v1I4d4gN+vMnBGVwwCy2saioUDavWuLO4rhmcyzzr6wHFIf30w1DbuhVl+wbEwB60rSXAtuJqwUV3ehUTkyEvvGpFtJnEfLjSyrOLtHX4PBlVlX3XqbwzPM1K4t2IuaN4xaXVY3kXJZ1qcVqPoCTHuH2IeQhsJcbJMrTqdyVA+q4sKfpILsMZuHaPBT+c8ptFyX1Fa7YyaOYaNijndyQ8J70XTyS31ogGKL6MXzJaQ==;cB4wEICtlw6iGYyFg0Olmg=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-excerpt: "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,"
-publishedDateTime: 2021-06-21T10:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm"
+excerpt: "Gain more insights into the global trends impacting the future of the artificial intelligence-based cybersecurity market, Request Free Sample @ https://www.technavio.com/talk-to-us?report=IRTNTR44001 Amazon.com Inc.: The company offers AWS. It is a cloud ..."
+publishedDateTime: 2021-06-21T10:31:00Z
+originalUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html"
+webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Troy Record
+  domain: troyrecord.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/8/1b/81bc13a3-3d69-565c-8a14-b0c2e46a2458/60d071d846571.image.jpg?resize=1200%2C585"
+    width: 1200
+    height: 585
     isCached: true
 
 related:
@@ -63,6 +63,6 @@ related:
       domain: manometcurrent.com
     quality: 5
 
-secured: "3oC/BpZPGBKzcycSdeQoBnZKFkWswqoHV+M8r93JB7Xtm4OMsm2q+rGAcfO8RnD/YgtdkglqiBmqDSyWMrd88RjuzERVkibZvYtcT9oY5r/dEzT8jkXmftP89j+t1TUaFQTjhEzJtjd+gqx3pWebXYi1/Q/rQgRC52uChl0XVu/MIaHs3cEYHrUxkZQ3qlVaynqYlcBGkd9xbOM7hZGKjZAXjp8Uzttr6RDk70G5y/On9Pr3ilIhPzgJC/cqC2T66HYXK9fSJ9Cqclr/7GaIB+ugGzIrqGvb6jZ03f52C/YmLYJ73I/K9jQUoUy1+2ZqzhsfzVLt59xSuC6UZt7/XlObXmPIsuajf/Od0VsPT5KdJEjoRpdEE5zJR56kcQ9OdBi1Z43dPngdg8BmIe37ABI/vWfjO8FrODsZVVgnKTyCWgttMIZFataBKLIig7eRvA6YXGpninWgm+r+eLsKshZzw+Sh+mpTsUpWLaVeUOEYUvpcRXMXxfrGj9jFyI0SWFc3v8v/ybMCbrmq+TVM2A==;GY9TdZ4mwpGrSlnNX6fKcw=="
+secured: "vOkFOOpYPqZVVCZ8DcluJk/IwsiJbtkB1hJRc4xseFaNLGUYRpd/dkT0l1yOso/z6WmvE3cqvAM2EngnxXDSAsVvLTRsz489SUo7e5mszjS39OoPcFxYCCxqRarkxJuX5NUnVrjnHZRs1wecFgPPQt0gzqb7b/2m+0NN7kyYKkXQJEFZj4256I+LzO6gVxdByeWCJVsAaMMm/0COwdj6u5ewUYXsnVtjxlKYr1kOYQFNc6js4wSzqDR7Y0qTDmXjmjDeLxkze8QwHMGlS6g4Oc1rB9j9mJvyxFXkw1kgOaU9zAcm0YHSmko41c3YGwLPEeMr95/gLGki9+lJee1QmAcZ6fKXSmTNTuA7DsvmzqI=;pZcu69vnvUQNZfbeTi6Tlw=="
 ---
 

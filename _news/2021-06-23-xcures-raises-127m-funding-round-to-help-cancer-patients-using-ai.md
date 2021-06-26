@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tomi.ai Raises $1M in Pre-Seed Funding Round"
+    excerpt: "Tomi.ai, a Palo Alto, CA-based martech startup, raised $1M in Pre-Seed funding from Begin Capital and the Phystech Leadership Fund"
+    publishedDateTime: 2021-06-23T18:34:00Z
+    webUrl: "https://www.finsmes.com/2021/06/tomi-ai-raises-1m-in-pre-seed-funding-round.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/marketing.jpg"
+        width: 999
+        height: 816
+        isCached: true
   - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
     excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the inve"
     publishedDateTime: 2021-06-23T13:00:00Z

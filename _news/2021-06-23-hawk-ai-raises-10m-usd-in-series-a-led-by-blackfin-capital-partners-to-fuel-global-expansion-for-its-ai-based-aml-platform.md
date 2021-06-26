@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tomi.ai Raises $1M in Pre-Seed Funding Round"
+    excerpt: "Tomi.ai, a Palo Alto, CA-based martech startup, raised $1M in Pre-Seed funding from Begin Capital and the Phystech Leadership Fund"
+    publishedDateTime: 2021-06-23T18:34:00Z
+    webUrl: "https://www.finsmes.com/2021/06/tomi-ai-raises-1m-in-pre-seed-funding-round.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/marketing.jpg"
+        width: 999
+        height: 816
+        isCached: true
 
 secured: "0pT2hK5lGGmEAzbkRu7YUtXktnlyUqchu7WxVg91q1tsMay4IcbUn95yIphqbTy0oDWRf8RyaVHD86f/CtQ1XBICMigCl5JnRAwSo4CRbn8qCALg2AxPNr6QEmYp94mUGo5vFz3EwtnvDblu3IDAVCDN7djAjwlx9mYMCcuiBclhKN1ojC2JqBnWNCTWatFZkcLSayyZdEmghScmJWd4fbi4Ta57JCPaOPs1uBgEXM071cy3moMctcIWWjir4w6ZO6vpGDXyeTjZ5MqST5zaMCwhtrBco3imP3WQ48xljd8NcdRcW6G2hwNvQI6fTQEYt83F5TnfoQd7qcRyWJXSuu0/lzcM/HJF8hYwsl/LsdI=;CXlXr0bnCtU4jcxmnvtU/w=="
 ---

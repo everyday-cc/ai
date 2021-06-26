@@ -1,32 +1,22 @@
 ---
 category: news
 title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
-excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
-publishedDateTime: 2021-06-23T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
-webUrl: "https://markets.businessinsider.com/news/stocks/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and-launch-new-intelligent-applications-1030546706"
+excerpt: "Amazon Web Services, Inc., an Amazon.com Inc. company, and Salesforce, today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new"
+publishedDateTime: 2021-06-23T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and"
+webUrl: "https://www.nasdaq.com/press-release/aws-and-salesforce-announce-expansive-partnership-to-unify-developer-experiences-and"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/341399/SALESFORCE_Logo.jpg"
-    width: 400
-    height: 280
-    isCached: true
 
 related:
   - title: "Salesforce (CRM) Expands AWS Partnership to Enhance App Development"
@@ -41,16 +31,21 @@ related:
       domain: nasdaq.com
     quality: 101
   - title: "Amazon AWS Strengthens Ties with Salesforce"
-    excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer applications. The two have also strengthened ties to enable the sharing of data and workflows across their platforms."
-    publishedDateTime: 2021-06-24T07:43:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
+    excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
+    publishedDateTime: 2021-06-24T11:40:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Amazon-750x406-1.jpg"
+        width: 750
+        height: 406
+        isCached: true
   - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
     excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T17:44:00Z
@@ -167,6 +162,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "EpsaVqkCxxsGddfvhNZ7jhdgZI9Qc5k4rrszUN5+wR5mL5Ms2xR8PozQoMPOpdCWP3z19Kw35wZNvLqiCH/q6JS5E1EhvWWmeZUYO8Fjbdl/tKvudx4ojvpCsG2Bwerfyc1eLvgBS0ojTMMUOR6NayMk3Y3qQHAtr91hLRW2lxXYEaVRX10AJt1526yssyMC/AZ+0OzRjzan2VUnupni9tDKX+xnvX1sllAjUczI3o0OEeNBSBolR4Jyn/iSrmdaD+G4l0ZdONaLW0LbqK25n7DXyY2yzv2C/ba/fwlRHWorIAyLtDpmye769BE3DpvqVWIWbfK5U7c9a+1cTauSnqklmgW1rFaBXdCEd5WH5NM=;gZr4RMhXZQr8EoiE4EP6qg=="
+secured: "v7LiuI2TflbE0Eil+2DJ7RAtEcyz6wCQrzUd/nW/QcEEx6jc4LqBAvv1Z9tcfzgF0OxBJyhrXjiWM4KZh4hDSnW7boduCcdLM/7qzDMS6+0FmvbSb3YdVU/OB+KuaBtS4wifFee2QH+BVETs/+Wtw7DxyyAmSr0chdemNGR31x2Zyfs7QWxMg4t7SOqxnlmY/RxLSriB44+PPPCAar05vtJXfXZQ8nNLM6czKxbFKbYpVgJiafRg5rJgvRpfiFCLwXCy3CWCf6KXB82LTgoF9LTOzt+nnZNKDOyMeyFhkAjIY+gQf5mA6zhEKXL17CJAng2/hO+N/1mD3sOjKTrh4PGnX0vIDrMWu+l5ZZvdpYs=;AOlLC7g/60DgyxLU49galA=="
 ---
 

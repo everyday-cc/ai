@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Genesys Launches New Capabilities to Enable Rapid Innovation for AI-Driven Customer Experiences"
-    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has announced new tools that enable businesses to easily build and orchestrate their own bot experiences, integrate third party messaging applications,"
-    publishedDateTime: 2021-06-23T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-launches-new-capabilities-to-enable-rapid-innovation-for-ai-driven-customer-experiences-1030546527"
+  - title: "Why do Customer Experience and Conversational AI go Hand in Hand?"
+    excerpt: "Consumer behavior has witnessed a whirlwind of changes in the past decade. Technological developments have enabled all industries to embrace digital transformation at scale."
+    publishedDateTime: 2021-06-25T09:33:00Z
+    webUrl: "https://www.digitaldoughnut.com/articles/2021/june-2021/customer-experience-and-conversational-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: digitaldoughnut.com
+      domain: digitaldoughnut.com
+    quality: 39
+    images:
+      - url: "https://www.digitaldoughnut.com/getattachment/38fd9de9-d6d1-4c26-a521-0aff86cac2b8/Customer-Experience-and-Conversational-AI"
+        width: 734
+        height: 475
+        isCached: true
 
 secured: "vwZWZcVfNARwA8LAgo77DOy1g8JjYGw+k6pnErbrNgpCA0C1vEA6ZaXaGx8TkDQ9zjpAVNHk/Z59/1cP6Q6CVzCTRohiKuGkmdZV3sW1NU5zULZTOZwTcUTjWhQ/YqjIzQGUpJO2tEvWtfAjJuBOO+SHevUgqe2adfZ2tcwH9nD2J93bsds1YBnwBe50ZjOXmlKYsaaoYOfO1os+qHRqHtOUwA5iM+zbmDFhh4hEt1Dv8NmngVcEAp0vmefZtrEX/KK2Xs/xZQJ3xUWicoIcvV2O7trufUis9Ob1T//hN2odlVlZL9jRv3xPCJfFnb6CXNPIg5Q4tUrh6VmLY62ion3ExjYRHiBKtOneqV2pcAw=;q+6z4kfB8N02HOBAbgJpSg=="
 ---

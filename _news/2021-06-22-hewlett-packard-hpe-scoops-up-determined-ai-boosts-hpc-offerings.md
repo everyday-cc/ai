@@ -36,22 +36,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "HPE buys Determined AI, aims to meld model training with its HPC portfolio"
-    excerpt: "According to HPE, Determined AI will help it give businesses the ability to create models faster and deliver business value without worrying about infrastructure underneath."
-    publishedDateTime: 2021-06-21T07:13:00Z
-    webUrl: "https://www.zdnet.com/article/hpe-buys-determined-ai-aims-to-meld-model-training-with-its-hpc-portfolio/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-buys-determined-ai-aims-to-meld-model-training-with-its-hpc-portfolio/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-buys-determined-ai-aims-to-meld-model-training-with-its-hpc-portfolio/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/21/dbfb9a34-64e1-4621-927e-9489259550d9/determined-components.jpg"
-        width: 1939
-        height: 906
-        isCached: true
   - title: "HPE acquires Determined AI to ramp up machine learning development"
     excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services."
     publishedDateTime: 2021-06-22T13:36:00Z

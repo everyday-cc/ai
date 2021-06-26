@@ -47,20 +47,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Big Data & Machine Learning in Telecom Market Size 2021 Report Includes Raw Materials Sources, Major Manufacturers, Export and Import by Regions"
-    excerpt: "Jun 21, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Big Data and Machine Learning in"
-    publishedDateTime: 2021-06-21T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-size-2021-report-includes-raw-materials-sources-major-manufacturers-export-and-import-by-regions-2021-06-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
     excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
     publishedDateTime: 2021-06-24T10:45:00Z

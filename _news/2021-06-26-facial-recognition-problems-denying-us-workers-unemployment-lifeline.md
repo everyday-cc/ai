@@ -7,7 +7,7 @@ originalUrl: "https://www.hrw.org/news/2021/06/25/facial-recognition-problems-de
 webUrl: "https://www.hrw.org/news/2021/06/25/facial-recognition-problems-denying-us-workers-unemployment-lifeline"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition systems are denying unemployment benefits across the US (updated)"
-    excerpt: "A facial recognition system from ID.me is denying unemployment benefits to people across the US with potentially concerning frequency.."
-    publishedDateTime: 2021-06-21T07:25:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-failures-id-me-unemployment-benefits-172654494.html"
+  - title: "Facial recognition to verify unemployment recipients 'doesn't work well'"
+    excerpt: "With millions of people unemployed due to the Covid-19 pandemic, state offices have dealt with a surge of claims over the past year The facial recognition programme, used by nearly two dozen US states to verify people seeking unemployment benefits,"
+    publishedDateTime: 2021-06-23T00:38:00Z
+    webUrl: "https://www.tribuneindia.com/news/science technology/facial-recognition-to-verify-unemployment-recipients-doesnt-work-well-271442"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 38
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ea51a200-d11c-11eb-bffb-1da0370bb14a"
-        width: 7952
-        height: 5304
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/Desk/2021_6$thumbimg_805077956.jpg"
+        width: 300
+        height: 225
         isCached: true
 
-secured: "Oqjy3qqw+6dRKBOs4Ef2m8uimn0sxyV2Pv5G8C1GrfL2U1WK9YFrlof7hyCZltqcF8HK141WtysW+pl2sAML1L9GQJB5fImZc2yEslOArzbOYYLSmTGtgvabJuF0cTZg0f+FCfpamR+7WdKlo48kvoAgn/RP2rEVD1YVgpDNKPiduR66Fwt5D63mmL7IQ+sSDznFSTjyblFnu8OWyUkP5UO1fT/N6yTMa9u+lKdoV/z5pKaJLvETHg8E+pHQyDIoV98xXdnNVDcFx2576pRlbQnc13eGGVZIUR9olvD0i9Pd5/O2yOuJXlTStpj0nZ0CZ3peb/JeD8+HHeNbeWGOyCH3ucd+npvOoTX54BxPWP0=;sL1h42bOC8lgqEdahE24Ig=="
+secured: "aGaffbj786AuytvChAkhbEZPUsFj9KqHKhEkEqNaQIpmhmSjTvXUycOeKGsEh8FqSVdhElgNcBtoKiG2b/urHQa6Yz1SZQ5Zf3FP1W635/HyqtKzJv1L6RAR2GKyyu0OG1Dp8e8SmxmfOYz+0ermxrehzm6hTTW9J8iMtLAl93d3mPlHXtZUH6Efdlo7aiCQWXyucr+yqN6Si1W3Zgd8TQZXpt5ws5iZ5vzUWQExqJj4HgeaD0owu8VJbtOVvRw07qCzR7eyTFwK5aGRY4djCJbEQ4BGMDg9WOkYcir1ocAxgqFDalTMa0QdWufvYz3AZPAEHRBQF558cYIThequVwpwOZQkhPvYbSY1Er0pdiXCV5RsTsLaDLtsRm0RV8s+peba0gkqR7doAhUGpWLkYCBxhRhPy+0W30a/Gv6FZDldx5lKG+5Yy0m3ozMXcmlHCzVyiv3+XLZpN2zhI9NQ9KXYvTBXdXPyggFsDIYTF0Ea5/FoRf2ZWaNfl1AaY+aQI2k3Sfz32txT8ebJUt+50Q==;YW/9c4LLD0fBXjOGi3Y2rA=="
 ---
 
