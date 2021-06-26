@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 572
+heat: 581
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10383053
+  followers: 10384000
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "jcJBStCUxnx8irXdWXc3bA/VeT3FT+4yN8WuykLa7SreoTVUokzs45xmlmP2ejwdk9docvW6sg7JXWs9v7Mx2ZrjHJnGf64vXOie3SX56C6YQ7ysVlUyb64vFEQIyRafcPcsNtspCRPO4TJThcjrKqDw5Szd+kwEylYNw86DK8tezR8jOy2gb56jqD/caprXl7R9Cd/3vVBPXwqhd+3ZmSagnGcc7oTT3ePzLdZfkjLUb37JaH3Xxw/sSlfFVYSX1dTnt4wb3xeUTYl00tPMSTRR1E+E25x2j10k3Qo/E9HjEq/tktA5XoUL1KQmh5xYp+IYBnWaduH6GXWsATinbCAUpMkAO2QMG7HdI4DqeJtJf5hweBULq9OfGtbSjFw9LesfDMS2dCan79F7DerD9fb0qLL0YvZk8M1wIYpTqAM=;C3YEEL5jAH7O6Bs/H0goaw=="
+secured: "O+LuaD44kkeTQwqWtKkgxLZDUaYGdqVQ1b6A6UJaxBjsEEZvSREjc6FYW95Uk9mT1S5W2L0J4FSb6r21jDfncugfAqg41tKnj3jDh9wtDilLIOY0bRIem/WkDb9BuZ+2adTNKxD9uEG8gzrFz3L0YZjoi1Lysdmz8ZfjyfHm4lvFtMAlgzlX28S5kqw8csALZrqRTVFf9jiACK7xB9AA+ym2nTAf8kAVjsEkl5wxdJZeLEDyiXgYks4PMqwiR8J3Db/8Gw2OOO0ztOKszxQkJk815CT8Gs8NtY0QVKMOPn32tVNB4xjnkPqBe5zX5hePCH85K6lNWc5xpHDPlVVr6h0vSqAGbAqJciavI3mEqx/lX033oeXa4seudMsDFtSJkOKhLtlndAJgrmRi3IcqU/T3+YfaWi3ZP5ehnd65V8c=;oazejGOc21DPZdO1D1eK2w=="
 ---
 
