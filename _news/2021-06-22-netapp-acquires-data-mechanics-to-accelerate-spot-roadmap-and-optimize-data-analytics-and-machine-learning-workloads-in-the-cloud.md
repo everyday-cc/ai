@@ -79,20 +79,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Customer success story: Cloud data architecture establishes readiness for advanced analytics and AI/ML applications at Terracon"
-    excerpt: "With robust, cloud data warehousing, cutting-edge extract, transform, load (ETL) technology, big data analytics, and advanced data visualization tools, organizations have empowered their business intelligence programs more than ever before."
-    publishedDateTime: 2021-06-22T15:55:00Z
-    webUrl: "https://www.infoworld.com/resources/220420/customer-success-story-cloud-data-architecture-establishes-readiness-for-advanced-analytics-and-ai-m"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 58
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
     excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
     publishedDateTime: 2021-06-23T14:05:00Z

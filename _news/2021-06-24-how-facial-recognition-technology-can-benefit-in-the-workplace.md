@@ -39,6 +39,17 @@ related:
         width: 1280
         height: 1066
         isCached: true
+  - title: "Far-Field Speech and Voice Recognition: Global Markets"
+    excerpt: "Reportlinker.com announces the release of the report \"Far-Field Speech and Voice Recognition: Global Markets\" -"
+    publishedDateTime: 2021-06-22T08:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21659302/far-field-speech-and-voice-recognition-global-markets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21659302"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659302"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "KiLT3xUdDH9WGyGBuzUXlmdRC5leyDjqv0xOT6HZ4eTMKUVJMbC+osfUA30QMkgePb7UcOw3B1SXhSy3UVDPUdCDqhdC5GsCSc1z+OHmIFsx89g10T6Ug7lsBM6nKVV6QR1/s4KNQwg4kifgBWGwKSO4SY1wdrbtG9q3f7nur2G/mBo9aqUyxb15YreqJxU9NE9UcFcYQSJ/JsV4ahxYZ2dkCNyFvFY8gXlENtNEgtZd56u0BetnHGOUlV2OHR5zQK0jcKOPBunLxmntsN6XkRs87wepCTJKYIQ2tWlpmkkQWDO1XANwWRqsuff4rFkM46GG4us4jl4kIsMFbhhdtE8FMnM786TY+UiTXjv3ZNkhTP3X0JE7gVoJWJebUIWZcvemdIkvp1ebIeWSSMhvqnW0s7SPe1GXIqVCLDLWqrSbvciRhY02G/H3FtnYI3g3st4sVpQI6D/AlqxYFHJGFhfLNFE8N3xNk1iXpJgGm50O044NlkxB7t+6x+KfP5xhn59k5Zu+9EItjXXNG/bAzQ==;TadgNUoYBojkvCUg3VhDUQ=="
 ---

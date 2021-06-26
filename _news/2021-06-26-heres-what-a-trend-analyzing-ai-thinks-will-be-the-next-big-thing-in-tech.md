@@ -8,8 +8,8 @@ webUrl: "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next
 ampWebUrl: "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://icdn.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723.jpg"
@@ -30,6 +31,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "/DyLvnqjhajzq1iT49MhUkun5w8GDoS0GBkwnaz1Sc0CehxQGJ8X+kClojTllvAWI0c80m30qxOuUsNwafUmSJfYgnBwqYuzmKS38n7fzBTBq09ibHCe1OstsFktWDAWVp4zaj5f4IX7VxsEYyZePhPRToFNZclHzgujUIGGhHMf8nrKjgOmVkDqaaaXO4BcDxWKdtux8A5dAkQ60M37yMSiCEHZ6cKRNa4EoKJULXh1L+Nq9aoGGxRQbX14HFUO2N339uTGvtnZB0TAgI+xKFS2GRvrPyr92pY0d8XxV7CfW1d1ccEeQ3EY6LyKjh9E7eYWA6dDurabTjqZPhG5NKTeM9e4VcARTtKDY2P7eTI=;pqJdrsULf5Ly89eXPnCVgg=="
+secured: "Gqwrfc0DDYItlF/8SPM3Eo+jfOcVPz1wczKGrMxGN/+cCkjpDqD55PvpIKMmcrk/Z2ptcxpRDl9VahmPN1DtWr7/Vc2aKue3CJcSbAUa+SjgQjLeB34EI7BwO5S0jtOK7x6NS+cEhFlJPh8Az2uEFxyLmNCsuzavWjb3NeS1Gu01oWC/tNjj+fRAktpmMzH026dxgleO8kNLh8GJCciEK0t7wXdBcgCK8RTD7afCh2AzwFEE2mRtKRC5Ukni7znrYyuwMxle6D8AUe/JAKIOGtK7aTDbzxvGuiLn5m+wptJSQ33iMVdWWgPf7oyxtQlJTm7LHA1ImBZ49Kuh6cTFtuVzF4mvcI+7OT8l63FgUvhvgymtAJo9qgL9aVnLElgE2TRIELgUOH+xwxsB3cBIev7QP6WYYhKF2vWu5FvPd+id44YP2eYY/eAf0cgjvhSzo5WPoa0EiDYQOBCLvMjveb67wVivJ9UTHZzymxhG8K4/K3Y5CyWlyb89Uji5rKntBZsPGjO/swCxHM2yarHWQA==;QUTUTIrbdb9a99gLG4u2EQ=="
 ---
 

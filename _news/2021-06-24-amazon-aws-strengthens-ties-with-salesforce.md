@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Amazon AWS Strengthens Ties with Salesforce"
-excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
-publishedDateTime: 2021-06-24T11:40:00Z
-originalUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
-webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
-ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
-cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
+excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer applications. The two have also strengthened ties to enable the sharing of data and workflows across their platforms."
+publishedDateTime: 2021-06-24T07:43:00Z
+originalUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
+webUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
+ampWebUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Smarter Analyst
-  domain: smarteranalyst.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Amazon-750x406-1.jpg"
-    width: 750
-    height: 406
-    isCached: true
 
 related:
   - title: "Salesforce (CRM) Expands AWS Partnership to Enhance App Development"
@@ -168,6 +162,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "fYw8gcLMXN7iUL7YYluDPEphPi92CVzPKicA9IeYiwkhD9GmiTTqFxponqHHHhKCpup5OTcHIs2ahGMOQ+yVdH8CLSU9uE3ZTb0BdXvNJrhYLT+vos3ZxKzJ7gOPQ/tbqew2vcWFhIDcYUj3iEENDHP5w9t0/3dJJmntBI5nwF5JjH3CPY807CpNZQvExitQ7VoOdZ+OqKhfTYbnaBd4SDLuO133Qaen8zCkMiypcE+76GU2324NL8V9UQHSC0zZtaPMfDlxDItUk/enCxpLHHmNkCG2ZdhzD+YaJVUO9oBAPcQR+m61/91JGX/ob0g9nH4E+LrjIuQ1W2P8+I5RG6pLONdLEA9SX7BlPY+Tz8nYPMf1RkbgU/pA1chJ27qMPCWv6tSYivxJn7RiYtXrcznzoyy72xa6Adl1UiRy9zfSe1QsMObBi8UNcN3JEHT416N8Sq8vnhvWGZ04YYaQKvZmBrt9IBW3wIeDZZMNYRz6vYWOyHf/fh0t0Z+jx6dYTN6UtKPc86+HeCOej4k2Yw==;pLQIDgyX+lZbVL7ARfa9LQ=="
+secured: "Lb7xsQKN7Z9iowiDWgn9kd7/Q3SAVEeCJ2zlRO/idKUGMvOxEAqVG+Hffqeyk1IEx276hHMCktS1cR2a/ImzW+A0FAAIiWSx5Yer7purIAmcElIRfzIdhKtuBczfhfkwz7OQZnblzw3LltPHqKF90Zn4l4qlsaVRlS/ChOCVUYrXgW2NHAdd31OzHxivYrgyiOkPflKPilR6e/isvkHAbXamQzdpPBuhznoQFDuKwwqPc1DIIKXqAiC21X7qsCxUQHNH7zxHMHJU0sbw/nTDMBkOtnO8NRULk/dJ+OEgMGv4HVsH4vIr1kP125Lc6owUoWlwHPe6icj28CL4DKtVWSq8utPL0aGsT/X13E0UVfY=;7HLwEMlKk4rXAk2SuRU+pw=="
 ---
 

@@ -21,19 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Google, Voiceitt each extending speech recognition capabilities"
-    excerpt: "Tivoli’s development started roughly two years ago using the neural conversation model at the time known as Meena (now LaMDA)."
-    publishedDateTime: 2021-06-21T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202106/google-voiceitt-each-extending-speech-recognition-capabilities"
+  - title: "Tinder And Stripe Launch Facial Recognition Tools"
+    excerpt: "Tinder is now requiring users to submit to facial recognition to validate their identity. This news comes right on the heels of Stripe"
+    publishedDateTime: 2021-06-22T17:14:00Z
+    webUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-tools/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: ValueWalk
+      domain: valuewalk.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
+      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
+        width: 1280
+        height: 1066
+        isCached: true
+  - title: "How Facial Recognition Technology Can Benefit in the Workplace"
+    excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
+    publishedDateTime: 2021-06-24T04:59:00Z
+    webUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-can-benefit-in-the-workplace-nid-33902-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/ticpr.cas.jpg"
+        width: 410
+        height: 237
         isCached: true
 
 secured: "rUR91dLOQUSRSR0uKq70eclKOfoOUeOMIvHwf3qA+w0wxXbQEMcvrlapwZq6m36nFTKczz0/1G/YDu4opLnzX40UtW2dEFKsA+wamfS3ATv2fj3cyc5VjeAG89XQNYGQ8lfiHe7FNOwVqiO31xMz/Q1yn1RbrPUKzov5POtpfbrvpU0yt05dVA3n+7rZQD1XF1f8ugyPuUzPvtEfChG0cKHaYOfHwWZJSQNPavA+UNKbBaTdmhBAcPJtwbN4ryOAtbLfcOZ/Lww2fcJ3FoRRuXw1i8icjkXg3+ko2zYO8uvLpMs7Vy/esaigEbCVhJIarHJ+fdpjv9Fzb29fW2jHPukH3svXsLwZQCzpZNYQ3fQ=;e9pM8y/u2r0AJk2+ySg8WQ=="

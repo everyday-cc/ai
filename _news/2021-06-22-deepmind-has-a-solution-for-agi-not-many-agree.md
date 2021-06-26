@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AGI paper adds urgency to ethical AI"
+    excerpt: "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI)."
+    publishedDateTime: 2021-06-26T13:50:00Z
+    webUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 123
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind uses AI to tackle neglected deadly diseases"
     excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
     publishedDateTime: 2021-06-23T13:51:00Z

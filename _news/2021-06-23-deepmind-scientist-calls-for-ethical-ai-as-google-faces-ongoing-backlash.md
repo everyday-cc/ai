@@ -24,6 +24,22 @@ topics:
   - AI Ethics
 
 related:
+  - title: "DeepMind AGI paper adds urgency to ethical AI"
+    excerpt: "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI)."
+    publishedDateTime: 2021-06-26T13:50:00Z
+    webUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 123
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind uses AI to tackle neglected deadly diseases"
     excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
     publishedDateTime: 2021-06-23T13:51:00Z
@@ -85,6 +101,6 @@ related:
         height: 900
         isCached: true
 
-secured: "5pVkWlXBxtXGGg7nS06FvwV/tGG54d+VEP8lylSezwJYOSHE0A8i5OKjVOxBoWd6avUJKzy+Kb57rm2iL17sfMlllBDfANZYbhAzHvm2ITdcJnvBPFqW9MHHJL8Alicg73KMqS/fBo/fm6citJGCbPih2xebKq0B20AhJyAz3zp3RtPdzDzFxjowv/gxeIMnAQymOVjrCe3RKIGm5nzllSbtMf1wstLT/luOaT3BTo21J+BJSmUcLjoZVFsxjZMRrfYdNwZ2ho0CC7YagjQ9ZYd8HhbnEinoqSyUdx3m93wSi43JfAvxlU7xHBAyl0VQ2ZHDqVmhmeRiuM25E2wVw7Jo3Rl5phGPDhWTGSvq+Og=;Hb4v3d5kZQsYP0es7Ye8/A=="
+secured: "MKqsM4erM1VVkKRRq29bPIVyz4sYWh0NzNIMIvh9KaLA9k/jB0mOGikX/+22d5nAzTwfJ/EMhQ9qkrdKJVkSvM1nE+d/M6GrJZyYK87Jeso4m1Pun/f8jAWbOs7Ag/n/zv2CCFHYQ74P8ajzZqf4tbBjci6C+xRJJubrJ7FUv2FUJSEhxyxYPH26cX8ga9Y2eWyqO58+ufCJqkanMO6TzxjaJHjSMXRa5jYq1cqoXKBfAcxuYQkj61ybHXDZMrVQUtgdD0jL9CaXVLyw8VdUB1ROs0y5rzKSpR16BWLk8/HQZH33rerrBtID2satj38Md8AjC6qX86JYZRc9ech+gPINGQRsvqO7LXdPpHq01bo=;Szl9UjhRUSLeIHR01Ih4cw=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Exclusive - Toyota-backed self-driving startup Pony.ai considers going public"
+title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
 excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
-publishedDateTime: 2021-06-25T22:10:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/exclusive---toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091256"
-webUrl: "https://www.channelnewsasia.com/news/business/exclusive---toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091256"
+publishedDateTime: 2021-06-25T22:15:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/exclusive--toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091266"
+webUrl: "https://www.channelnewsasia.com/news/business/exclusive--toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091266"
 type: article
 quality: 36
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091254/16x9/991/557/6b0707479b9a39c21c651fb00b3419d/hI/logo-of-the-autonomous-driving-technology-startup-pony-ai-is-seen-on-a-screen--in-beijing-3.jpg"
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091302/16x9/991/557/ba62d8a31ab1d2cf87e7acadd4a4cfc7/gZ/a-screen-showing-traffic-and-other-objects-is-seen-inside-a-vehicle-equipped-with-pony-ai-s-self-driving-technology-during-a-demonstration-in-fremont-4.jpg"
     width: 991
     height: 557
     isCached: true
@@ -290,6 +290,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "JU0QrJjmaJWv1MtuA6B0B1r4wL5jiEU2sYshWLESPOn1pbny3CIGnlzwFbxA+2pSmfMoRBrZmuKlSGM6M7lafSeWYNlFl1SFUnXN/1f9slfR1xqau+8fmGKFXs+YL3pIoTXwqBhVtMzGlmplqawa5siK1lasUf21xqnr6jETtOzFvYzS5dST14NApNMhiLC3CuHz5I+gbRvpptPD4dLSmaxV8ilmXAmaicxsDHRQNUEhBu2GuLOSjBk5yqR3eBgIt16jTXsJG7RVFXWohyO/zbBuly/bMYLQ5WbizKmrZchyTvYQgZm0naZeVhcHwiz1Sxu3bVshd0v6CC+HR56/GGFS0e8KzbW8De3OhzmUzmo=;mGFwD4O6d7Na6lf23Pbf8A=="
+secured: "LOMgpFXydaYzFhpoeNyPxZqmGlDzliU/4MgncYLpnHps1rzLkgt4WbtxWP0eh1Mjav2zlDbPB9lF97BYhEgaReEeA5o1H5NCoFUXIcS3vtbTheKW40sJUAfhtN0fwG252Yj3Fvsja075oXazAN17sFIHgshd7yxdCpscawdTt73TpLrAh32zLOXNDi1m2/mn2Lt+FScA5s8Iw91XN2PfzmL5QbJJnRYoQuhFtCXQf2xRGtRsSvM6e7apSzCdPGJXVstISCT475LR7beBybnsRgpEqr5RD09wlbokiwDhOs4/hy/IRfuCPC6Jtzu4BN9rsNd0u0GE1IdMkKBGJ8ig+tE8NPqQfJNwZJK09UDWrzk=;3HXymC3+YvZ61SYCaYdtAg=="
 ---
 
