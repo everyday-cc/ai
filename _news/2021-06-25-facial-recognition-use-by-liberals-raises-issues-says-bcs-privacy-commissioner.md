@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.h
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
 quality: 68
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U625924396_g.jpg"
         width: 660
         height: 300
-        isCached: true
-  - title: "Use of live facial recognition in public spaces is 'deeply concerning'"
-    excerpt: "UK Information Commissioner Elizabeth Denham, has said she is 'deeply concerned' about live facial recognition (LFR) technology, and it has the potential to be used inappropriately, excessively or even recklessly."
-    publishedDateTime: 2021-06-21T09:29:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/use-of-live-facial-recognition-in-public-spaces-is-deeply-concerning"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1624267612/widgetdocs/facial-recognition_f8jukk_yutkw7.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "ITL launches USB device for facial recognition, age verification"
     excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."

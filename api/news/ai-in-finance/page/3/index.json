@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-19-ai-driving-game-changing-competitive-differentiation.md",
+      "title": "AI Driving Game-Changing Competitive Differentiation",
+      "excerpt": "Banks leveraging AI are poised to realize game changing differentiation. Over the past three years, AI in corporate banking has moved from",
+      "sourceUrl": null,
+      "webUrl": "https://www.celent.com/insights/563621451",
+      "originalUrl": "https://www.celent.com/insights/563621451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.celent.com/system/insights/logos/563/621/451/large/379341462.jpg?1621459448",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Celent",
+        "domain": "celent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-fintech-startup-vise-raises-65-million-in-series-c-led-by-ribbit-capital.md",
       "title": "Fintech startup Vise raises $65 million in Series C led by Ribbit Capital",
       "excerpt": "Vise today announced a $65 million Series C financing round led by Ribbit Capital, with participation from existing investors including Sequoia. The startup launched on the Disrupt Startup Battlefield stage in 2019 and has since raised upwards of $125 million.",

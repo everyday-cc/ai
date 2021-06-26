@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
+    excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
+    publishedDateTime: 2021-06-21T17:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2021-2027-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."

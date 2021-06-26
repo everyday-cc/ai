@@ -33,19 +33,19 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio"
-    excerpt: "Gain more insights into the global trends impacting the future of the artificial intelligence-based cybersecurity market, Request Free Sample @ https://www.technavio.com/talk-to-us?report=IRTNTR44001 Amazon.com Inc.: The company offers AWS. It is a cloud ..."
-    publishedDateTime: 2021-06-21T10:31:00Z
-    webUrl: "https://www.troyrecord.com/news/national/artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio/article_6b0a1a03-06ec-515e-acaa-2d5d41b42a38.html"
+  - title: "Getting smarter and faster – Artificial intelligence and cybersecurity"
+    excerpt: "Artificial intelligences (AIs) are getting smarter, fast. That’s creating tricky questions that we can’t answer right now. AIs don’t have human-level abilities yet, and they might never have them. But there are questions of responsibility;"
+    publishedDateTime: 2021-06-26T03:45:00Z
+    webUrl: "https://www.fijitimes.com/getting-smarter-and-faster-artificial-intelligence-and-cybersecurity/"
     type: article
     provider:
-      name: Troy Record
-      domain: troyrecord.com
-    quality: 24
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/8/1b/81bc13a3-3d69-565c-8a14-b0c2e46a2458/60d071d846571.image.jpg?resize=1200%2C585"
-        width: 1200
-        height: 585
+      - url: "https://www.fijitimes.com/wp-content/uploads/2021/06/Artificial-intelligence.jpg"
+        width: 1539
+        height: 731
         isCached: true
   - title: "Cybersecurity Researchers Develop Technology That Lures and Traps Hackers In an Artificial World"
     excerpt: "Scientists have created a cybersecurity technology called Shadow Figment that is designed to lure hackers into an artificial world, then stop them from doing damage by feeding them illusory tidbits of success."

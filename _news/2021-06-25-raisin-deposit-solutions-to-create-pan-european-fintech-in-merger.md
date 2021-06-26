@@ -57,6 +57,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
+    excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
+    publishedDateTime: 2021-06-21T17:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2021-2027-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Banks Keep Biz Cards, Modernization At The Top Of Their FinTech Collab Agendas"
     excerpt: "This week's look at the latest in bank-FinTech collaboration finds commercial card enhancements and an overall push towards digitization remain key priorities."
     publishedDateTime: 2021-06-22T12:00:00Z

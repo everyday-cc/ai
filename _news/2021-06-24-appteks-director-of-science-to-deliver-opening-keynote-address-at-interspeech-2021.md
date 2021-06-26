@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AppTek's Director of Science to deliver opening keynote address at INTERSPEECH 2021"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
-publishedDateTime: 2021-06-24T12:33:00Z
-originalUrl: "https://www.insidenova.com/news/state/appteks-director-of-science-to-deliver-opening-keynote-address-at-interspeech-2021/article_ef9e392a-7daa-51ff-a708-ac155b4efac0.html"
-webUrl: "https://www.insidenova.com/news/state/appteks-director-of-science-to-deliver-opening-keynote-address-at-interspeech-2021/article_ef9e392a-7daa-51ff-a708-ac155b4efac0.html"
+excerpt: "INTERSPEECH is the world's largest and most comprehensive conference on the science and technology of spoken language processing. It is hosted annually by the International Speech Communication Association (ISCA),"
+publishedDateTime: 2021-06-24T12:37:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-appteks-director-science-deliver-opening-keynote-address-interspeech-/2021/06/24/9397159.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-appteks-director-science-deliver-opening-keynote-address-interspeech-/2021/06/24/9397159.htm"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: INSIDENOVA.COM
-  domain: insidenova.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/f/f2/ff2c2cd2-4f32-5382-ba7b-69674c2d2c8c/60d47e6f046fb.image.jpg?resize=592%2C630"
-    width: 592
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1549918/1.jpg"
+    width: 376
+    height: 400
     isCached: true
 
-secured: "Cx9x9zoZTFGCi7CWKodHYmOMWigkf366D8MV3NaRzrJXSaqW96M832cfUrOa2I1OvtV9B99YmUqZusJuFZuC2l/LG1v8iyIL6yksMGSqiMAdTx75jaU36aEBXmtZP76MkeDZVuYfdUOjfmKemGAmDz1mCSY0e2JKgUAJGZLsxymWh3lpVky1GpiENFP0PdPuA2M0f1qMf3bqYFLPsLXJ+RPq6FMWSq6l4D8YwnsGoDqmXjl+XBPHvJlmUm5AF7dsbzyB1v4iLbVcRgg1DgGgeiS5VGklaWrKLTFZZ/6fZqbPQ9oOzNKBSeiQHr+Woln1f5Wnndcb+fLmXh64KAFfWsdXuJqu7InZIWeqhR5K8w8=;4F39jTMljO+F5VpVXXDyTA=="
+secured: "HXt+a9l1OXzi2kzSkbQ1kJiFbHLCm0Dolo9AQ/SyJSkOizYzG0Z1X16sbDVF0SsEHeuu62t2WAVi5TGVwu+/b7z6b6ZYItPrf22ozER1xuOQh21YgbNSymx4h8h85POYGDqF1okLh4gFrOhm0nLNWThwcOoX/2mdgcj+R/kgKlOk+IAClqzyFy8ZZo9Gcb+cuNS5a7jytwR4MdIdzXXiJx1KIhAqKkXhPmgyY+qppZO3v4djpSwfIA43vKK/I7kvEgkxLdUWYrXM0wFEPBNPTuzEdhbiiArCIkasP4c0sb25WmTM1ff5goB/zeHPRI0sCUJ3reMUVUnqTHCdXIcP/Iv5yl0A3FO5+k9ndNHabZA=;5BU9KIP5BCFAWDsa61aVkA=="
 ---
 

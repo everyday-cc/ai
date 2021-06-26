@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 151
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella unveils two new AI chip families for 4K security cameras"
-    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.Read MoreRead more on"
-    publishedDateTime: 2021-06-21T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras-10258322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "AnyVision AI facial recognition software available on Ambarella chips"
     excerpt: "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition."
     publishedDateTime: 2021-06-23T16:40:00Z
@@ -83,15 +74,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
-    excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
-    publishedDateTime: 2021-06-21T09:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "K2G3oP5H15ZCgRKMedChnfPXL+4zMe6B3W+XUzpWNLEJfF4NVg4l5tOa+5OGixz6kFhhL54TMxKZdJh8HrXk5g1kSJJKkbBCpSd+v1jxhU3wMJEyg5tvI1nYev+Bh/QR0FCg6Cuj8WMeoZbEpBUdjacq6DYmE3UsYvBuroZvVis7sVkR3vu+u6vTNZwUaVusJC+xhHL/RM3tm/SJj1gfPAADd7Vcc0hK07HEUT7DPbxXtn2Y+jgbxlz9Hh+RdSiXukDoC5q7VxlWXW6rJ+JcAop61cWRTQZCGX0zKytMwwwUc5pxQAk/PLCj+5lhAb2wZKG/gGT5ZICuXmLYOP6OKdZnzsN1SS8D0z3llVeQ6Cc1zb4urwWF2m/uAaUKcMC4PIbDyWbs+lfiks0xLYkxTK/91kAzn3XcuKlWVezt0lD5XAC8gcFW8NFGl5/MwmPtGAyvcekVUN7wnpE8MG93NK9P3UvYH6jgQKHlNechHSj8/W/VNK4vLSq7PlTI5zRRjZD0jKtskyOqxncHNdBEGw==;UKAYp+gNOqED8MRat4UI/Q=="
 ---

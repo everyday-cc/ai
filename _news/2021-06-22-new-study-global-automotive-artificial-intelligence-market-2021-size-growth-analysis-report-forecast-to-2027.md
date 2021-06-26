@@ -162,17 +162,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
-    excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
-    publishedDateTime: 2021-06-21T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2309745/artificial-intelligence-platform-market-share-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
     excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
     publishedDateTime: 2021-06-22T08:17:00Z

@@ -157,17 +157,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Share, Demand Analysis, Growth, Trends and Forecast - 2027"
-    excerpt: "Artificial Intelligence Platform market size is projected to reach US 166520 million by 2027 from US 14490 million in 2020 at a CAGR of 39 during 2021 2027 Artificial Intelligence Platform Market is thoroughly accurate and comprehensively assessed in a"
-    publishedDateTime: 2021-06-21T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2309745/artificial-intelligence-platform-market-share-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2309745/artificial-intelligence-platform-market-share-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
   - title: "New Study: Global Automotive Artificial Intelligence Market 2021 Size, Growth Analysis Report, Forecast to 2027"
     excerpt: "The size of AI in the automotive market exceeded USD 1 billion in 2019 and is projected to grow at a CAGR of over 35 between 2020 and 2026 One of the major industries using AI the automotive industry is"
     publishedDateTime: 2021-06-22T14:55:00Z

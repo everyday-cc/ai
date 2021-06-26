@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-26-which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019.md",
+      "title": "Which new trends are likely to be seen in AI in IoT market in 2019?",
+      "excerpt": "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
+      "originalUrl": "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U626874997_g.jpg",
+          "width": 660,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019",
+      "publishedDateTime": "2021-06-25T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias.md",
       "title": "AI Weekly: NIST proposes ways to identify and address AI bias",
       "excerpt": "The U.S. National Institute of Standards and Technology (NIST) is proposing ways to identify and address bias in AI systems.",
@@ -803,7 +846,7 @@
       "originalUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -960,7 +1003,7 @@
       "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1199,48 +1242,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nwtc-trains-next-generation-at-artificial-intelligence-bootcamp.md",
-      "title": "NWTC trains next generation at Artificial Intelligence Bootcamp",
-      "excerpt": "Have you ever wondered how Siri recognizes your voice? Green Bay high school students are getting a hands-on lesson in Artificial Intelligence. Northeast Wisconsin",
-      "sourceUrl": null,
-      "webUrl": "https://www.wearegreenbay.com/from-the-local-5-digital-desk/nwtc-trains-next-generation-at-artificial-intelligence-bootcamp/",
-      "originalUrl": "https://www.wearegreenbay.com/from-the-local-5-digital-desk/nwtc-trains-next-generation-at-artificial-intelligence-bootcamp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2021/06/AI-BOOTCAMP.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wearegreenbay.com/from-the-local-5-digital-desk/nwtc-trains-next-generation-at-artificial-intelligence-bootcamp/amp/",
-      "cdnAmpWebUrl": "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/from-the-local-5-digital-desk/nwtc-trains-next-generation-at-artificial-intelligence-bootcamp/amp/",
-      "publishedDateTime": "2021-06-24T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "We Are Green Bay",
-        "domain": "wearegreenbay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

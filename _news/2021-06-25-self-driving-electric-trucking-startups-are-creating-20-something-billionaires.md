@@ -172,6 +172,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Exclusive - Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
+    publishedDateTime: 2021-06-25T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive---toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091256"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091254/16x9/991/557/6b0707479b9a39c21c651fb00b3419d/hI/logo-of-the-autonomous-driving-technology-startup-pony-ai-is-seen-on-a-screen--in-beijing-3.jpg"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
     excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T11:29:00Z

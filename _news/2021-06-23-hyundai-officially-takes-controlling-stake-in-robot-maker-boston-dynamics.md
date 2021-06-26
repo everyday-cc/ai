@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-con
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
 type: article
 quality: 103
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/Press%20photo1.jpg?itok=w20kdBfv"
         width: 3131
         height: 2009
-        isCached: true
-  - title: "Hyundai acquires majority stake in robot maker"
-    excerpt: "Boston Dynamics, and SoftBank Group today announced the completion of the HMG acquisition of a controlling...Read"
-    publishedDateTime: 2021-06-21T10:39:00Z
-    webUrl: "https://www.just-auto.com/news/hyundai-acquires-majority-stake-in-robot-maker/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/06/Hyundai-Boston-Dynamics-robot.jpg"
-        width: 400
-        height: 257
         isCached: true
   - title: "Hyundai buys robot maker"
     excerpt: "Boston Dynamics makes plastic pals who are fun to be withBoston Dynamics has been purchased by Hyundai in a deal valued at $1.1 billion. According to Motherboard, the deal \"sees Hyundai assume an 80 per cent controlling stake in the robot company."

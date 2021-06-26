@@ -55,6 +55,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
+    excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
+    publishedDateTime: 2021-06-21T17:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2021-2027-2021-06-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
     excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
     publishedDateTime: 2021-06-25T01:58:00Z
@@ -228,6 +242,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "VtIx17fEkIuMemjZIZnGuLMnLWkq+DF+Z7o3U1zZhGvDoAHkpD5Zfn2cAKtvaqcpYKO6tTrmRCimFgsgorPwf0iZmxe20mMNnsiNjQATudsjQpiYHoorj6H42SBHAo/GNK3w3NtBC6MIiaCVtVbkgWH+J/Tjy6rxf+nKBhAkuHtzhA8VSj2h8S6rKBIxaCXIkV3Z9DgqQGIwYy+xCH4wLwskCZ7luaYvJmZhhkmIkmWCck9DCSNl8nih5Zd6SinPyOwj3uY+olfwRMoqDVYvUkCIVhZroFhCRVVQh0fYjxgKrv8O940T9eh+GI0wF10bUK10dqdL2t198nEitzpnBoPmXOhImpAmubJNR1DmYaw=;9EjoDMlc/uNZMLdbzlsP+w=="
+secured: "VBmJWkDC1MFIxWTfn0PaYlupQOc+5uFYCsHk+RDBtzHzIi331wFdQfqfvQ9IG5SJ2xJaO1AGnzi2N/2hqL3lWWRpahKYwJZcqiw1SOKcEAdChaWVVZJOLnh5O6yO9zRmQaFvdIQONbUZZcnYoBuUwvMA+5BujVBPKJTOOvDseLzecM2mYitXIpmrEUKGO0zhJ039Hj2j7blHhwrmusNovdBgPepo1r6o+4I1BfwRw6Cpebuj+vlij74iNLlABcyfP0MGRoxyjdO2g5zzjrj/SQfi6i/C0EafjYBcxfUp3WY1Uf5CxnkNsXyZgzyXsSfyCJVqcXiyILqpddr3MpK6qwDmndjQpAByLa3HFNnxCQ/b0K0imlIx63n4F/J3nPT2OS80Lo1oDkHJP7J9Kd9eJtcNM5we/Nj68Ccb5EDaxts07G+elDWzmSItSkDTFdPB6HwCkGGzyo86RJa+GNhJE2BK9cykBbbF/bnZKpPGHapG4G7BI5JYgSFraoRybNA1CLAw02UVyA8qpMhuE78d/Q==;4JhVDqMcd5/82FhfdNPwHQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
 type: article
 quality: 73
-heat: 253
+heat: 263
 published: true
 
 provider:
@@ -173,6 +173,20 @@ related:
     quality: 36
     images:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091302/16x9/991/557/ba62d8a31ab1d2cf87e7acadd4a4cfc7/gZ/a-screen-showing-traffic-and-other-objects-is-seen-inside-a-vehicle-equipped-with-pony-ai-s-self-driving-technology-during-a-demonstration-in-fremont-4.jpg"
+        width: 991
+        height: 557
+        isCached: true
+  - title: "Exclusive - Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
+    publishedDateTime: 2021-06-25T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive---toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091256"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091254/16x9/991/557/6b0707479b9a39c21c651fb00b3419d/hI/logo-of-the-autonomous-driving-technology-startup-pony-ai-is-seen-on-a-screen--in-beijing-3.jpg"
         width: 991
         height: 557
         isCached: true

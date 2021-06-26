@@ -73,20 +73,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
-    excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
-    publishedDateTime: 2021-06-21T10:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-likely-to-boost-future-growth-with-google-baidu-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 63
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Wood-framed_house-CC-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "qmn7uCJmDXtFfv3BDdyBZhK+L//TEnM8NZtNhEHMc7EnmUQC8vm68+9sMSQO+5fFaRSTXbjlriXYLep5gwOuS+TCHmsIq7lJhBQhJyK5wisjlcicG3WmYxB26PViHhEzMOzub7TCZ4JsNffhNkwyXCcTCcKnxGqXkeoE0QS/KWDsWlLsqgzjrMNh2yMISaQhe+g2qCXuOSuh6DOhVC4DCKM/TQ5BOYThDV0MAXavS2+K6FSo2ZMy4HT5eLq2jA9GA1olBEwz9uablkKLS4cAAMKkLkEMNyxLeUdHg13hjamNJfXmOSvHttvB2rWKn8FqvwGop/iijgOlyfDQGBtnRHwsD2xeeVIpwHQcgUvEbDw=;cTHHMsXEe6oTchNCTOAo1Q=="
 ---

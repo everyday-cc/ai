@@ -80,20 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Players To Be Pitted Against AI As Battle Of Polytopia Becomes Part Of DeepMind’s AndroidEnv"
-    excerpt: "Popular strategy game, The Battle of Polytopia, is now all set to become part of DeepMind’s open-ended platform AndroidEnv."
-    publishedDateTime: 2021-06-21T09:55:00Z
-    webUrl: "https://analyticsindiamag.com/players-to-be-pitted-against-ai-as-battle-of-polytopia-becomes-part-of-deepminds-androidenv/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/DeepMind_AIM.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "DQ2zsAER8A/F+bnFopnMaLMLtKpwz6KE7wLX/+SPka/hUkxud7wlYwjHX8Pe10QjWtHEijGIYq9AHiKCifQhofJELLy6o3PgNXMes9QGmMp75LmQUGggHQWfu1AJkp7u66W9SCUn7t0TnAeim6aZzqYXu/3Oy+C4kOHSX4bvn9LpY4U0KL50W5U+a/hrs0AMUdV0dkIEx1nmE6wjXh8pqkvFLoTC+jccw5MLzaEtP9gG/WDlxlKFLC17fzaP7LhBRUK88RphTFW08pArAEyT7lVouwDbcwkxMGbEUKSuTDuXXEOmDJJmunqm7+RqpOkXmj63I/n9S9W4WPrqDySpZYppCj+JLe44TVkRvXKG8OaknyTnfhamtY7h5RVX159xhP74FIAsOBr3eNkP98CJSY9EwVpr/dAf1kh8cI8WG5gMfi5rGOxwOWXPQI0opVdKvGTNWloB4pzSiixA5dfcYNwV5bTLMydi5UDcHhpGWRYsYnwoPdU/yH6YcFkQwiY6IL5eGXJPUzHoaNruHtoUQg==;YNDJxi154YnW54HpNWToRw=="
 ---

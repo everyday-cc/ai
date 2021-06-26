@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Ambarella unveils two new AI chip families for 4K security cameras"
-    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.Read MoreRead more on"
-    publishedDateTime: 2021-06-21T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras-10258322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "Ambarella Launches New Edge AI Computer Vision Chips, Boasts of Major Performance Gains"
     excerpt: "The company's two new parts come with some impressive performance claims, including a fourfold boost in AI compute."
     publishedDateTime: 2021-06-22T16:47:00Z
@@ -79,15 +70,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
-    excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
-    publishedDateTime: 2021-06-21T09:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "QGukLhwW1xFvBKOJ2ucvOS+OnzPZcRXEXSQ5UIO7zLdFPO11vGsCBVp4RarvGiTvLM3DOXqi1FEmK9p5AM1kGHI9QvrTKnB4nVZ/gMVZr1uIWCyCQFqZxRqwr7qo5Gf7Q0MJWkKb434Q76xyfwK7mdMAfV9uzQUDw8DgTLjmvFtrUFHCLoYxuyUjuYid64VG7AX/kWFPpiYMVldyPR5zdPGvkG6XEbzd6+ZlGazZOQ0UDkyStWhT3KuUoBbQyF7QLjHqpyMt6JTPSFUDZI4pPM+rQZXhMVJCHP4h2IXPvgs7Nt9UKf7GTjScHeB0hp1KhFlOHw8oVz9vlvVQOLyArZmEqpiRn+OGtJo5sUyf92/ofq37xGa67KgDLoaSCbFm3lTZ+vZx41OZexNTo4rBjvj/T/RledgSVWwwrwZFYd/070HerqGjNFenuwCtbHSGa3q0r5ATq9lqWHLVQGAEts/4Zz9BU9zv1cp5a6GmpOV9mgpfuAF+3qzlrk1ycr6G89WG7nMJJfECtjl2NwHj5Q==;g0tFeZt5oPj2ZkYgMhGhvQ=="
 ---

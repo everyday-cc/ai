@@ -59,20 +59,6 @@ related:
         width: 660
         height: 300
         isCached: true
-  - title: "Use of live facial recognition in public spaces is 'deeply concerning'"
-    excerpt: "UK Information Commissioner Elizabeth Denham, has said she is 'deeply concerned' about live facial recognition (LFR) technology, and it has the potential to be used inappropriately, excessively or even recklessly."
-    publishedDateTime: 2021-06-21T09:29:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/use-of-live-facial-recognition-in-public-spaces-is-deeply-concerning"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1624267612/widgetdocs/facial-recognition_f8jukk_yutkw7.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "ITL launches USB device for facial recognition, age verification"
     excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."
     publishedDateTime: 2021-06-24T20:25:00Z
@@ -143,6 +129,6 @@ related:
         height: 720
         isCached: true
 
-secured: "PKBnMCIzjM2/dj/Q1C5L7iVoQnxNANJlZmtIJuQ+YfIKNxISk1NZGgOZxMpFp9zvuiwUUaMuKQ7nJHF0yyOhZ3bRSLJ/PGsb+m8eL/l9ynJE8hRraXYSMbbatj//KgX5TUfS/FRbSQ5jPv3XWne7khzSgjk7AM2oeFIqP52y9GLXBvv1OFdv1ric8sgn0+yG51pjbKIVtu90aMF36wTf60v/aoOJflypATGrBCFrl5EMovJaSiRusrXeaXJYDMAofhmJhmSwvt7X4Pfj3Lnl6NjYT3rQSgXLWUmpkfWKHaU0eGJktCUeVAcA2mf+j3JhKVjJJsecnrPi0xt96OnPDLbhHToH8wzpxs4/f2iYWZo=;iQ/b64+M0fZwgmMgEK+ZmQ=="
+secured: "CWDsvOAD456iXU1gcV2MG/2M//UyJCn9mCc40xBzxF/qX75I8nK5Bt1VcDWS5Ym2DPHLaMV50L9eghPB2rgJN8cOBcUvQKKve0Q/Ck+9jsKGB8UoR2Mf8CXRB0ER5jKyGEZqt/16SF+oDh6/9XR1lEytfOz4GlcDQ1zXMZHEA/FHRexnIOWZJdDeDu/fA7np2kjdZXfbJeYecJq1pIOK4L5rf+GhCxqsATbgsqefMjvMAfxP7cSaPgKehCNGLTn7n6V3ls2zXaKje2aw5LzcNWENT4/wFVhsadFK2llrlrcKZy3CrY2oW8DreJGJV10uCkVAdeQtky0NqYrVKk9I3i+0dOTiafQ4We6pZqPAshOjsjDk/IqQa8gWGNRyIpNUiz3NNdplZXfgCu0qokGnSb+nq5kqMYKcCxkQnv7giOR0YmMhzwDisfrROcmoZU264c3Z/3MgWgDpaALCEmf/TPmJRB2qb0yNbwur3QhOdSto2nJcXHZrlRZ8ZAZhX2b3LWRuikn+mMZ3gWNnesZJOA==;rQll2c4yPHXn7x+ccWDnkg=="
 ---
 

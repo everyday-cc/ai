@@ -117,20 +117,6 @@ related:
         width: 3131
         height: 2009
         isCached: true
-  - title: "Hyundai acquires majority stake in robot maker"
-    excerpt: "Boston Dynamics, and SoftBank Group today announced the completion of the HMG acquisition of a controlling...Read"
-    publishedDateTime: 2021-06-21T10:39:00Z
-    webUrl: "https://www.just-auto.com/news/hyundai-acquires-majority-stake-in-robot-maker/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/06/Hyundai-Boston-Dynamics-robot.jpg"
-        width: 400
-        height: 257
-        isCached: true
   - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
     excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."
     publishedDateTime: 2021-06-22T15:29:00Z

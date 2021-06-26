@@ -24,17 +24,6 @@ images:
     height: 313
     isCached: true
 
-related:
-  - title: "Honeywell's Experion Operator Advisor Incorporates Advanced Machine Learning To Measure And Improve Operator Performance"
-    excerpt: "Honeywell (Nasdaq: HON) announced today the addition of Operator Advisor to its Experion® Highly Augmented Lookahead Operations (HALO) suite. This powerful software solution enables plant owners to objectively measure gaps and drive operator effectiveness to the next level."
-    publishedDateTime: 2021-06-21T09:30:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210621ny17160/honeywells-experion-operator-advisor-incorporates-advanced-machine-learning-to-measure-and-improve-operator-performance"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "kZ58rqglMWNp4f5xLokCwm0+kPv7rHzDAWSqBGzOtJEqMrWPzvWCfb3CNehdeSQQWLENnaJVl8dgs23YPvSEGS8geDM4gi0GfKl3YoLA39Gecc5dtXSanP9P9AVThw7RFYAMZ7LDcrjeJt3CTNJUe9Z3rMFEqm0vlzi7dpFwrdG+GJmoa5F3b4DCWh5jbMLboCFzLTj/AvvPUJcC3srSZKALYDoO8Ekme/1eQJmHX3xGLFIgw0T/2txoecPUfAklvodGjR+yjN/eNn7xzeOKAyDmbMxyyvzF/A8pPxg7Pf9zaKZV6wYfWFtpnoXr4tREQRBtOX6egR1njz3Cd7RO1a0C/0hQo6abJ7MxhN7nXw4x5WTz2caFB42bBrYyaFU0u5qHgMWRmpn8BWd3BfbBy4m5O75ToU8LWmmAntuZ7DHCfPDgspYimYRCV9cBqmY8SwHvrdI4BTIceQmPWf348wePkRY3pfuPmTN51TVka93El6lFpezCHtJ2b3202os/O+QNh26u0WQfdTbLbSLdpQ==;HT1eF/KfBPXyWMV2bvRCIQ=="
 ---
 

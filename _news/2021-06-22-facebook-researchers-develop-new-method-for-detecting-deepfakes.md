@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for
 webUrl: "https://sdtimes.com/ai/facebook-researchers-develop-new-method-for-detecting-deepfakes/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/6099c700-bedc-4709-8348-6abc782687a5-test.jpg?auto=webp&crop=208,117,x0,y36&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook AI Reverse Engineers Deepfake Attacks"
-    excerpt: "Facebook’s initiative, led by MSUs Vishal Asnani, attempts to solve the deepfake problem using reverse engineering"
-    publishedDateTime: 2021-06-21T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-ai-reverse-engineers-deepfake-attacks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/FB_AIM-1.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "New AI Model From Facebook, Michigan State Detects & Attributes Deepfakes"
     excerpt: "Deepfake technology allows for the easy digital transplant or manipulation of real faces, enabling users to depict, for instance, politicians saying"

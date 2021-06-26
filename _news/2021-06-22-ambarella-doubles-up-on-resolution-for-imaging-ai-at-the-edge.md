@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Ambarella unveils two new AI chip families for 4K security cameras"
-    excerpt: "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.Read MoreRead more on"
-    publishedDateTime: 2021-06-21T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras-10258322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "AnyVision AI facial recognition software available on Ambarella chips"
     excerpt: "The software will help extract actionable data from video feeds for biometric identification capabilities such as facial recognition."
     publishedDateTime: 2021-06-23T16:40:00Z
@@ -78,15 +69,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Ambarella Expands Security AI Vision SoC Portfolio With Two New Families; Doubles Resolution to 32MP30 for 4K Multi-Imager Cameras With Advanced AI"
-    excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced the expansion of its AI vision SoC portfolio with the new CV5S and CV52S security families. Based on the CVflow ® architecture and advanced 5nm process technology,"
-    publishedDateTime: 2021-06-21T09:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9393715.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "O4oqIL2kKPaRlTzPKsd1qHDCNkEO3dh+0ROgtH3qqqye5m/lOYd03AwXk1uuH0NdNf1SdoNh7kDs7vjveeHL6mC33VBUl1gXvMWMjNfm5XotwkGB79YCMxqZLY1nXL7ax4XToI+NmgjGEXmJNO5d/NrQpCjcLgPm3vpQoxF/uQNUafOrO4mdFM4gmrvEErF1+vRZxb26Qe5dqsvJhtc7kizsYuJHjDMWBF/+3n2CtMJAoqSWwqckHRgmS2BGhnGvMHAcYIkY7a9PzZB17PxEp6CpDtN6rTDejsSrfH4NwMdmhNvoJK5e4Qli2KAkaxtmhYL6Dhn2Jiz0cUpud9suI8ykHsio2R6RNJpEb2cRp2sKD/Y7wQ8A8X7dsu/p8STBs1vM/ZuZSWUNc4myY4g6QzNqAOeDPCNcug2YATMnC5HowNocza836z+2I+xIjoOZA7v762Tihda55TbwxLH9ufis0dOkM7H9OFVfZqXf1Peo25tvgoFMKDtVjy5X767JJPj6JiGDSLGZaeM3P1czkw==;yMDGkAkuwiKL+cAGqIahcQ=="
 ---

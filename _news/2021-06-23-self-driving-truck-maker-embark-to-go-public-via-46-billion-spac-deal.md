@@ -184,6 +184,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Exclusive - Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
+    publishedDateTime: 2021-06-25T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive---toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091256"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091254/16x9/991/557/6b0707479b9a39c21c651fb00b3419d/hI/logo-of-the-autonomous-driving-technology-startup-pony-ai-is-seen-on-a-screen--in-beijing-3.jpg"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
     excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
     publishedDateTime: 2021-06-22T20:54:00Z

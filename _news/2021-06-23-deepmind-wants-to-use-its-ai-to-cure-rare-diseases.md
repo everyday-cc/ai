@@ -66,20 +66,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Players To Be Pitted Against AI As Battle Of Polytopia Becomes Part Of DeepMind’s AndroidEnv"
-    excerpt: "Popular strategy game, The Battle of Polytopia, is now all set to become part of DeepMind’s open-ended platform AndroidEnv."
-    publishedDateTime: 2021-06-21T09:55:00Z
-    webUrl: "https://analyticsindiamag.com/players-to-be-pitted-against-ai-as-battle-of-polytopia-becomes-part-of-deepminds-androidenv/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/DeepMind_AIM.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "DeepMind Has A Solution For AGI. Not Many Agree"
     excerpt: "In a paper titled, \"Reward is enough\" authors propose a hypothesis on why maximising a reward function is enough for intelligence to emerge"
     publishedDateTime: 2021-06-22T06:30:00Z

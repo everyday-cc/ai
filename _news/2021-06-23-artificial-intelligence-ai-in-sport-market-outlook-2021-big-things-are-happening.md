@@ -59,20 +59,6 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Market Likely To Boost Future Growth with Google, Baidu, Microsoft"
-    excerpt: "The latest independent research document on Global Artificial Intelligence examines investment in Market. The market Study is segmented by key a region that is accelerating the marketization. The Artificial Intelligence study eludes very useful reviews & strategic assessment including the generic market trends,"
-    publishedDateTime: 2021-06-21T10:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-likely-to-boost-future-growth-with-google-baidu-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 63
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Wood-framed_house-CC-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in BFSI Market to See Booming Growth with Avaamo, Google, Microsoft"
     excerpt: "AI in banking refers to the development of operating banking operations by highly automatic techniques. Banking industries particularly applying artificial intelligence to offer personalized banking,"
     publishedDateTime: 2021-06-24T13:36:00Z

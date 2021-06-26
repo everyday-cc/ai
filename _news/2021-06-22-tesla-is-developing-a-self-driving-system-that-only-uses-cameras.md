@@ -29,21 +29,97 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows"
-    excerpt: "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time."
-    publishedDateTime: 2021-06-25T15:15:00Z
-    webUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/"
-    ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
+  - title: "Tesla backs vision-only approach to autonomy using powerful supercomputer"
+    excerpt: "Tesla CEO Elon Musk has been teasing a neural network training computer called ‘Dojo’ since at least 2019. Musk says Dojo will be able to process vast amounts of video data to achieve vision-only autonomous driving."
+    publishedDateTime: 2021-06-22T02:10:00Z
+    webUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/"
+    ampWebUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-22-at-12.57.01-pm.png?w=1024"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
+    excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
+    publishedDateTime: 2021-06-21T14:59:00Z
+    webUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/"
+    ampWebUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 69
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/06/Tesla-Supercomputer-for-Self-driving-AI.jpg"
         width: 1200
-        height: 628
+        height: 675
+        isCached: true
+  - title: "Tesla Launches World’s Fifth Most Powerful Computer For AI Training Ahead Of Dojo Project"
+    excerpt: "Tesla just launched the world’s fifth most powerful computer responsible for neural network AI training ahead of the anticipated Dojo supercomputer debut. Tesla seemingly does not run out of new features to unveil for its followers."
+    publishedDateTime: 2021-06-23T12:37:00Z
+    webUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271"
+    ampWebUrl: "https://www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-launches-worlds-fifth-most-powerful-computer-ai-training-ahead-dojo-project-3232271?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/07/tesla-has-backtacked-on-the-idea-of-an.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
+    excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
+    publishedDateTime: 2021-06-22T17:28:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-supercomputer-self-driving"
+    ampWebUrl: "https://futurism.com/tesla-supercomputer-self-driving/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-supercomputer-self-driving/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 63
+    images:
+      - url: "https://wp-assets.futurism.com/2021/06/tesla-built-powerufl-supercomputer-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Tesla unveils supercomputer used to train self-driving AI – report"
+    excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
+    publishedDateTime: 2021-06-23T14:01:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
+    excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
+    publishedDateTime: 2021-06-23T11:16:00Z
+    webUrl: "https://www.extremetech.com/extreme/324025-tesla-built-a-supercomputer-to-develop-camera-only-self-driving-tech"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/TESLA_2120x920_MS-RedGrill.jpg"
+        width: 1344
+        height: 743
         isCached: true
 
 secured: "xjEXxoFzxPglIfdjGFZ1uUgIxOhyFg6ZFEH2WvNrsCLp0CzeVvp4iT5EBM7HRhshwfeKHBGBigYZuAWaNS6boiGSzrq0/bZISbw19zEfqiG8eG/LNzhS186M+xP/yUM2+Dkxo+ZjjZA37ORUiSmCjzYrECg3xcGUG/F7X6j44JjZWrB0fJhsPwywwpUkc9QrTjRZSTThfq5uD2LI39IzQO9cS/CSqcXrNWX4YFCvh5AB8L3VMbrMh3OHCr6xpqRT1TV+kilmK1PN65d8qcEhT6nr+hF616ZXPP5Ks8No5Chnu5QDcLk5V4pUCX5K+FkrzQkSgOtUtvNmUIzeO34uWHUDLrzl8dlz7QrTHzo/ITI=;UBkSzFLJww0BW3z/Fld6ZA=="

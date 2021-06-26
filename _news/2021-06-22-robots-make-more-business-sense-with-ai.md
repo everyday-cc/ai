@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Business Reporter: How AIoT and conversational AI takes artificial intelligence two steps further"
-    excerpt: "Two videos have been published on Business Reporter by US-based IT technology services company Virtusa. The two interviewees Senthilkumar Ravindran, Executive Vice President & Head of Digital & Cloud Transformation,"
-    publishedDateTime: 2021-06-21T10:13:00Z
-    webUrl: "https://www.wboc.com/story/44140772/business-reporter-how-aiot-and-conversational-ai-takes-artificial-intelligence-two-steps-further"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 41
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "Zt0aU7BqVLYccRIfRAXdgU256Ah9Gioc2y7LCgx1aavpTyeOCrjbf/6HAHiS8OLGDxAFCP2lQRysg9MEGrImSShNbZLonELzq4rXle0OEhzxaqFjKk5oEwtIjeeqsyXanP59UezzqS+FlECP3OJdpWiKOe/xOSaJmI38RhM83LoVzSPJEO0zB1YnxA83agkKXTuJQd2xaX33ixMCqQu1VQHDtSlJSzqnaOrd2UJgwMbuPk1zfgPjWFSYwu82U4DNecfSl54EWlWVWlOLyXz/k2+hegksK3VQRyBRbogIv/WgtFR4JGWkIKdaRe3A5VLp+cxYYJJzP/coo1poirwpijl2BjsIj1tWa2WjeDLevR1BwrlCQ/zeQMV9HlrMmt5NiVDKc+e6H1cMvfsVvJvKvLKAiYEOBJGMXLcbzZzM40Y3zMOKlo3bb3ERX7SSVAhi4iE4ZW1jp7UGG7P1xq53MgnTyA5mhpdWsqwR08FUZVF4oovCF+cAqPgcifMRbLVe1ZNJ+WzBTg5qiKmo8ce8Yg==;o2F1Rg1mJZRoj9Bxn2ByEg=="
 ---

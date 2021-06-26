@@ -172,6 +172,20 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Exclusive - Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
+    publishedDateTime: 2021-06-25T22:10:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive---toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091256"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091254/16x9/991/557/6b0707479b9a39c21c651fb00b3419d/hI/logo-of-the-autonomous-driving-technology-startup-pony-ai-is-seen-on-a-screen--in-beijing-3.jpg"
+        width: 991
+        height: 557
+        isCached: true
   - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
     excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T11:29:00Z
@@ -275,6 +289,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "aJ+PWnJ0NNFwghisepO+y9piIFOUY+4IK6z4MX3bMog/AMG9rtgtIqNJyr+VCFQwYjS069WeTxkiGSn0pLjc9DiNWjUQtXyek1RltyZCv6o+gNZoRYsDtUJmzo9w5dlvud2OGAA/U6Ral8CortS4nOFDsbXrwoOoJ+Ip4+a8311fQcAwBC/be6ExI/iqF7bz/PeBYoxfLcSsgUXzclybKOD8dM70ZA0hTHZf9zzqakkRXmfiuYtrJDa40JXWLalMoFWrJhgqtdkHCwW0+EEYIGfgIHQx9/8rewQPfJTrFbSKWcizf0v9grIE3IVdyUBGQl/dPMrVk7ZU4BmgFtqv+Ob2WrrG35bJdhvLv1MotYc=;Z+qznRKiavqvrituvIrHnw=="
+secured: "9SYFq2MT5UoVPS8rta3GvCLgfWL2S6i/QYwm8uVGOvonqt6bB68Rx7IHiwfhwRRDY42CzMAF0rmbUzxhhPMebNxYvMoC0bVcrKD46TGHgBEX7LIHNoHneZBJyNAftQhpZZAsG6bOz4OD2QG21ZLyWPNNsO9lcp9tmFB90bbGviQQgn584GRx0JvRd81ywmDY2morsBzBDYrQgJpyXuVR3/EIlLb8ogihWLj+iVrkW7vElovO5xm/MWrxoWLQSuxe9M2f9ya0MjLH43WdXxsx1kiqTRSvDGbPINujG7uqg6eo+iwgQWSYgw9hvWFC9zi1qvWtizJ3RaW9lROQAiXcEDP5AfC3z1i5uie1qfX1VtoZAXAxRxYM6rv1Dl1c5iSvHpj+NIsXfvy7zjblTbK8x/aVDJutxB1NO6H57nrvxDAFx+8rJGdMfbhzFoSAjD9RtUomn+KsbZK/AEu6JYFZfZTx0/8ri1W9mUFXzMZX5sVHj7Psv4ZhD+VabR2xnhd73Dg+KjVy6N+hCGVI/vvvrw==;Ol/tZfpKgWW8qI9wMrqLgQ=="
 ---
 

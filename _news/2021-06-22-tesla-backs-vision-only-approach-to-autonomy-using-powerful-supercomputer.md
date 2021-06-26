@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/21/tesla-backs-vision-only-approach-to-autonomy-using-powerful-supercomputer/amp/"
 type: article
 quality: 90
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: TechCrunch
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla unveils its new supercomputer (5th most powerful in the world) to train self-driving AI"
-    excerpt: "Tesla has unveiled its new supercomputer, which is already the 5th most powerful in the world and it’s going to be the predecessor of Tesla’s upcoming new ‘Dojo’ supercomputer. It is being used to train the neural nets powering Tesla’s Autopilot and upcoming self-driving AI."
-    publishedDateTime: 2021-06-21T10:30:00Z
-    webUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/"
-    ampWebUrl: "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 93
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/06/Tesla-Supercomputer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
     excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
     publishedDateTime: 2021-06-21T14:59:00Z
@@ -61,6 +45,20 @@ related:
     quality: 69
     images:
       - url: "https://fossbytes.com/wp-content/uploads/2021/06/Tesla-Supercomputer-for-Self-driving-AI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
+    excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
+    publishedDateTime: 2021-06-22T14:49:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -124,15 +122,6 @@ related:
         width: 1344
         height: 743
         isCached: true
-  - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
-    excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."
-    publishedDateTime: 2021-06-22T14:45:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/22/a-top-tesla-attorney-jumps-to-plus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "nOoA+VJGc+GItKGxjKfC9+vBxIlRwrPLYhg2gf0gv4jCRtD4iPGcL+2t3Mq2+OnNh4iT9KYEow0SuER+cMEyykUVvk1+EaK5+eY03kh/tC+DCHpy5UBiDG/KJh2+LQAnMuGxFloEbSIBwKgU0s5W86O28La0hrujm3dctD9B6dSLJqXICNIhKaWWArt7U15BP7NqWvFd5qpR7O+bOW1jgM52yf4BBAA7ZvXwDAhLwbLRBupUn5pyBw/Xc1hjBvhqkYFNxWfNrp20tuba63hmZKN11cNi/nQOSZRjhiRUa+Qo0T/z1VZTwFKY4Vw0WHyUd4q2rc+v4mOQoqehNTM9rUrkMaY3E+0CpfImdCMG4DWf0SnCFXfgJXZwTLL6F2l4dg3gtI2itTkGV08VaqVbLV6LwBHVMi0uC0OvxBRQOTkrUC2cYJvyQJWMMZP2aJ8075w/iMu33y0qLtEWBDrgUtixYL/c8Sw9Tbqnul3ZkclKrLpW7nKXV+OpHsAbJOfWXxQFhZCtdTcMA7VLqV2g8A==;XyIMdRvNjujx02JThWSIuQ=="
 ---
