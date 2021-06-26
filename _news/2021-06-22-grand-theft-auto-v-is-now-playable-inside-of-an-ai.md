@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-in
 cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: GamesRadar
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Creates Its Own Playable Version Of Grand Theft Auto V"
+    excerpt: "Artificial intelligence has created a playable version of Grand Theft Auto V using Nvidia’s GameGAN technology. Grand Theft Auto V has been an incredible success since its release, having been ported over three generations of consoles."
+    publishedDateTime: 2021-06-26T16:26:00Z
+    webUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 55
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F06%2Faigta.jpg"
+        width: 1200
+        height: 619
+        isCached: true
   - title: "Artificial Intelligence for Education"
     excerpt: "What learning, teaching, and education will be in the next future is an open question. Nevertheless, believing that an increasing prevalence of AI may not influence the education field seems objectively unlikely."
     publishedDateTime: 2021-06-23T04:23:00Z

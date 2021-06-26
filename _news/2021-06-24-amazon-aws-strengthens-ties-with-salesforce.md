@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Amazon AWS Strengthens Ties with Salesforce"
-excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer applications. The two have also strengthened ties to enable the sharing of data and workflows across their platforms."
-publishedDateTime: 2021-06-24T07:43:00Z
-originalUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
-webUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
-ampWebUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
+excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
+publishedDateTime: 2021-06-24T11:40:00Z
+originalUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
+webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
+ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
+cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Smarter Analyst
+  domain: smarteranalyst.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/05/Amazon-750x406-1.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
+    width: 750
+    height: 406
+    isCached: true
 
 related:
   - title: "Salesforce (CRM) Expands AWS Partnership to Enhance App Development"
@@ -162,6 +168,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "Lb7xsQKN7Z9iowiDWgn9kd7/Q3SAVEeCJ2zlRO/idKUGMvOxEAqVG+Hffqeyk1IEx276hHMCktS1cR2a/ImzW+A0FAAIiWSx5Yer7purIAmcElIRfzIdhKtuBczfhfkwz7OQZnblzw3LltPHqKF90Zn4l4qlsaVRlS/ChOCVUYrXgW2NHAdd31OzHxivYrgyiOkPflKPilR6e/isvkHAbXamQzdpPBuhznoQFDuKwwqPc1DIIKXqAiC21X7qsCxUQHNH7zxHMHJU0sbw/nTDMBkOtnO8NRULk/dJ+OEgMGv4HVsH4vIr1kP125Lc6owUoWlwHPe6icj28CL4DKtVWSq8utPL0aGsT/X13E0UVfY=;7HLwEMlKk4rXAk2SuRU+pw=="
+secured: "nMQ83tEXcqj9auB0yqUprLQDwWmMbiPPsJFpgYVn3vmlW5feYfrGMVc2MI1dMxG9ADsaHkN1PuUwzW9LiYzmgM1hAkh0QXKb/LZKHW830TN03w2UreCIxQdG62yvXjDOzSvz3zkmAqzncPU/EmmCUB8KNq1OlCdiWepTFQLJzjGOV3rOiYnRQgJMBUu+RpPPnzQ6YQ7AVomZPZiMLAR0ngF1DnWCoyXj7dkCqBelVMrcx0j5ZCB3r7lX7AFhWPCoyiqtlEZl2I+ICzYw68KGlXWfvt0yEGKFiVU+gRleGisxv3DAgLVWwmAbgfzGWGIDLv7pmf7X6alYYdmjUcsJSOiwcAViQY+9BK67tkyaae8=;6vZiF+1sghK+C0oMx+3ngQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-06-artificial-intelligence-fusion.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-artificial-intelligence-fusion.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "PPPL: Artificial Intelligence Speeds Forecasts To Control Fusion Experiments"
+    excerpt: "Machine learning, a technique used in the artificial intelligence (AI) software behind self-driving cars and digital assistants, now enables scientists to address key challenges to harvesting on Earth"
+    publishedDateTime: 2021-06-26T12:13:00Z
+    webUrl: "https://indiaeducationdiary.in/pppl-artificial-intelligence-speeds-forecasts-to-control-fusion-experiments/"
+    ampWebUrl: "https://indiaeducationdiary.in/pppl-artificial-intelligence-speeds-forecasts-to-control-fusion-experiments/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/pppl-artificial-intelligence-speeds-forecasts-to-control-fusion-experiments/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 56
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/01/PPPL-LOGO-FNL-158-Y-GRADIENT-KW-LMC_TRANSPARENT-2-1024x565.png"
+        width: 1024
+        height: 565
+        isCached: true
   - title: "Artificial intelligence speeds forecasts to control fusion experiments"
     excerpt: "Machine learning, a technique used in the artificial intelligence (AI) software behind self-driving cars and digital assistants, now enables"
     publishedDateTime: 2021-06-24T14:50:00Z

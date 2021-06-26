@@ -63,31 +63,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "EU agencies call for ban on AI facial recognition in public spaces"
-    excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
-    publishedDateTime: 2021-06-22T00:30:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-  - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
-    excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
-    publishedDateTime: 2021-06-21T23:07:00Z
-    webUrl: "https://www.biometricupdate.com/202106/ambarella-doubles-up-on-resolution-for-imaging-ai-at-the-edge"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "cXKfayPs1dcduxAM2n/etkNINtT7It7xhgJ2/WtFcMs2xTgFJDqeQrlYx5Ssgkg308Sy1hHVO1JZWvfoISYEf4mhrCaQllCPJfOMd7FfDT17QWwf5oZ8lJ6/XVoe1MEHS4E8cOexKv8vg5N9qoI+wB7DruF4qMHnAYaLekf/inYmEZUD8on1w+0eaZDmeH+tCgU9WH93Hpn5q5oS5immhf3cgtNqs6QFkaAkrKpVI3jPWhWXz7anN7xX/gFvollKqpBrmnpQoyvR+RT9t2qYmj4+1aLbRjYTuL4XywqaZH2bZ2d+WGeCq27VkAe9bXDLuX5xRbEl4nvinqAic3n3Lxk5VS6r7oM/sHSvQHDYQhdF4D7WHqVDg0qByA11jXJ+jhkkTSEC1q/Y74m/lW5k4zKCaM8EZOF1hSSkJNON79fWqK6meap8++huwWiARB65JAZ9uBOSRwKVZ0OgQcpSXEcwJEW6GwOBpI4+lZEHZjAe0wMus7mWJu6lVd3iF1dZ3yoAmNKGLgLvto/7lhy8EQ==;e65b1H9IEzZXCXnN709RgQ=="
 ---

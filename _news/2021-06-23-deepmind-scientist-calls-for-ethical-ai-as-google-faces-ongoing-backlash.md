@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 123
+    quality: 125
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
         width: 1200
@@ -101,6 +101,6 @@ related:
         height: 900
         isCached: true
 
-secured: "MKqsM4erM1VVkKRRq29bPIVyz4sYWh0NzNIMIvh9KaLA9k/jB0mOGikX/+22d5nAzTwfJ/EMhQ9qkrdKJVkSvM1nE+d/M6GrJZyYK87Jeso4m1Pun/f8jAWbOs7Ag/n/zv2CCFHYQ74P8ajzZqf4tbBjci6C+xRJJubrJ7FUv2FUJSEhxyxYPH26cX8ga9Y2eWyqO58+ufCJqkanMO6TzxjaJHjSMXRa5jYq1cqoXKBfAcxuYQkj61ybHXDZMrVQUtgdD0jL9CaXVLyw8VdUB1ROs0y5rzKSpR16BWLk8/HQZH33rerrBtID2satj38Md8AjC6qX86JYZRc9ech+gPINGQRsvqO7LXdPpHq01bo=;Szl9UjhRUSLeIHR01Ih4cw=="
+secured: "rHUW4G6klENWNTOp4Zy2XORIMpK6+l79xphGqXUdT9z9yo6cSDbeZ/wLx9kK5xLJU6DSoO7t/SU3T703nvTIj/gBFtjC2TTAVe9PoCN+in92pB9iuC1kzrDJ611bCpq27sRtSfaI1iQ13detHoHckA+ECaakWpD5NLMfNl659p7faBlFSuscEqlIjb8cyTKJchXcLy/3CbyMvQdv8Vnq7vcbAjXXWfEip+l8h7kajqlBeTw4Nkux+it/HkATdwMRUyA4O1o/UQfKPnne8uSsjJFLBlVDWTkztrF4bR5W709zEFoFefNNWwHIqv+JwHcEg3X0LvCb9/a8/r6MmzF44WSKRCVQp1+BWmIwMcIGB8U=;ZOI7Zv2uRKriUQBXa75DJA=="
 ---
 

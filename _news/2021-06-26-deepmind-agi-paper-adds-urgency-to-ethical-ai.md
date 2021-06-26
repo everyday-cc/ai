@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-e
 ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
 type: article
-quality: 123
-heat: 173
+quality: 125
+heat: 175
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AI Ethics
   - Google AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
@@ -103,6 +104,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Hcu6Mn8tBhIM2WoQL4Oij7p/GhP6snBdC9hNNnWr4qJiNvVYuztbBpmm71aNiaBo2Md8JQDQUYZtR3JTE50wRrz8fql0ceo/OSYMzD4LqhPDVRZPPnxQxIfB8FtFUTh8rGDKDu9da9PWYHTZEkGAVLZIp5ISQq3md2S1TGOzPFhWAt6NfLw+MYO67J0rL/GxWHtNxDdkqzxzAh+86IllzQhxNhpMJnnyH8R9lqnA82beQ4FT18boZvBuRKw/MA8Eyikh6qfYLFpnvX3bhBcbHHCWOK7v2vU/G5OrT22lOG0YFqsgdWciGM+NsQ1Utygsf/SMzk6QNsti6rrRNm9BbZerrgaPiizzqv6ZSbDMpKI=;w6aFgu3WzAcqdFbPEVosQg=="
+secured: "hGMABwhxq8IWYyOGtH6MMNyzFgnN1L3fUk4rdOnkvSSjo3Wj+2NU+6vVISuijVq0nbLqjR6TJiDguvFEF8O3cLqmTApY+MliF8iPfNfcaqMs4K93DsQCu9uR6+DBrJKheAZT4GgOWBFyX14i79cmqqG7eO1ja93nmt49XPy64fAw5oMNzVggc/29nzwpIanqeNbeeXi+MWOo9gYSYq7PvWsSrx34DBUTsPURt0XFXAChVty4jrzvmnm4130xAjA+tNiV7BQ4ZmkH8mpKH8kVeTnBMZr1w51t2VZFFeBjPR4nufR49ihLehQuFZ3Z+5I4zkBDx/HVMyLA0/sahB4Ztd1fRPK0FpCUVoR8ydOdsQpq5NGndaeh9oWrdwbccSPsT97FDZimfbjcpysS1Q9ygvS/UcT9k3UK6MtCC7gkKMTCDsL9kgh8pdUdjhxvDzF7P+ykMIUvMNKGuRb2PPDqsnx1u9mMtojr544gXrZ0VjQzFqoORvEUxDU887JkMKJ0IjH9Arcsf9+g+XjEgW3AUA==;4V3fp7jdiocHhaJJs3szhA=="
 ---
 

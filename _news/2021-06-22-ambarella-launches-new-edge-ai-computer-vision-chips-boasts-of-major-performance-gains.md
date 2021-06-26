@@ -54,17 +54,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "EU agencies call for ban on AI facial recognition in public spaces"
-    excerpt: "The European Commission in April proposed rules on artificial intelligence, including a ban on most surveillance, in a bid to set global standards for a key technology dominated by China and the United States."
-    publishedDateTime: 2021-06-22T00:30:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/articleshow/83733132.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/news/world/eu-agencies-call-for-ban-on-ai-facial-recognition-in-public-spaces/amp_articleshow/83733132.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
   - title: "EU data regulators call for a ban on AI-based facial recognition software"
     excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
     publishedDateTime: 2021-06-23T04:14:00Z
@@ -76,20 +65,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 53
-  - title: "Ambarella doubles up on resolution for imaging, AI at the edge"
-    excerpt: "The chips will help the company expand in existing markets while offering opportunities in biometric identification such as Smart City and retail applications."
-    publishedDateTime: 2021-06-21T23:07:00Z
-    webUrl: "https://www.biometricupdate.com/202106/ambarella-doubles-up-on-resolution-for-imaging-ai-at-the-edge"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/16125722/facial-recognition-surveillance-crowds-small.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "FnyII56ljAJlIvBJoZBzFGMdqXLD1uKDW6nHNKA2pCFSlbG/ShQ3NNj8p4mCKtkCSBsO33SdXfgONP8U2KTljyFasVUeL8o3EnvfjCo1NyrVwYwRAPYjPhWnMMSwjONhelLv/UJCbYCSb57AR2KF90MKM+k1rtCIhK6t+K6g0NFPs2BWksC32s09YhR9g9fjdTUdZAforTJM49EMU/StSvwiOfaCaVD3x8d4hr1+bQ/iNESb+kFZCZQ1+nh+oyRs5tDhdnwB771xBCOI2VGTTASq+3dUUw24W5tZLqDlwLMCrMD4N4wQg5AiGVF0fVREV3lX87KnOTsAr93YXAUjCFy2YVWeB7Y1labsXm09YpAXtl7hD/6MEyMuynYjRZlrHXkBdD+6BWT8m+i5BlyJKfTmqHPszL6OD6fq+TiMkWSqC6MGNEcIr9kNRmTAdO5DewhcCNqqB7Nhqtsw6DNo+0spzYy1UShXdV6TESWJOly2YuxRLkoSVxMIzrVEPLFC+EAue+xtdDKSCP1GUFQcNg==;Q/ZUAfAYb2ZTFGnGQvU2Jw=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Artificial Intelligence Creates Its Own Playable Version Of Grand Theft Auto V"
+    excerpt: "Artificial intelligence has created a playable version of Grand Theft Auto V using Nvidia’s GameGAN technology. Grand Theft Auto V has been an incredible success since its release, having been ported over three generations of consoles."
+    publishedDateTime: 2021-06-26T16:26:00Z
+    webUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 55
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F06%2Faigta.jpg"
+        width: 1200
+        height: 619
+        isCached: true
 
 secured: "eemYftj+tNP0opjJY4rFB6sKFUIerTx2HtVbrUBgRRpYcY8BvlmL6QbgMEF2Yg+kAiJEf5TGTRWXjmL+0QpVdaPJScPZ7WGnI7E3qD5f/e5Og7c0XWn6kjOMgLeKq84LPcKv9ABCnz6JRgJZzdDReh414TWxvek9tPcyUrhVoKrVVPelUhH4ppNYm1L1ITsxHRiQO4rI3ca0qaUEaRaZjjaRUhQyTp1F+B67ZGjYPoO19HE6/zT3sqFBMfLYqoww5GpOOcP9uoh9unFYEkXkgP0fxJVrluWpCcE8EQGx6OiSvpP4oR2Dd6kSG0omC5a4gxaMdYPt1ZER722ltgqU0bzEvJf0sCJPHH9sU1s566k=;Lw655O82iAeKvszH1+Hzgg=="
 ---

@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Aqua Security Launches on AWS CloudFormation Public Registry for IaC Automation"
-    excerpt: "Aqua Security, the pure-play cloud native security leader, today announced its participation in the launch of the AWS CloudFormation Public Registry, with a published listing to enable customers to easily discover,"
-    publishedDateTime: 2021-06-21T23:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19867139.html"
+  - title: "Dynatrace Enhances Application Security With AI-Powered Vulnerability Prioritization"
+    excerpt: "Software intelligence company Dynatrace has unveiled its new Davis Security Advisor, an AI-powered enhancement to the Dynatrace application security module that automatically surfaces, prioritizes, and details the software libraries and open source packages representing the greatest risk to an organization."
+    publishedDateTime: 2021-06-22T19:42:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Dynatrace-Enhances-Application-Security-With-AI-Powered-Vulnerability-Prioritization-147618.aspx"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 52
+      name: dbta.com
+      domain: dbta.com
+    quality: 47
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "VDMA Robotics + Automation, GO2automation partnership drives global access to automation"
-    excerpt: "Under the GO2automation platform, small- and medium-sized firms will receive data-driven access to automation and a range of experts."
-    publishedDateTime: 2021-06-24T13:00:00Z
-    webUrl: "https://www.compositesworld.com/news/vdma-robotics-automation-go2automation-partnership-drives-global-access-to-automation"
-    type: article
-    provider:
-      name: CompositesWorld
-      domain: compositesworld.com
-    quality: 45
-    images:
-      - url: "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2021-cw/0621-cw-news-go2automation-platform1.jpg;maxWidth=1200"
-        width: 1103
-        height: 734
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7YQ/994SDnRUt29G2OyEoGr7URbsLU2hx1MgApS5HE3U4Bmpw9cERfX+cEoCCSnb/F3pEKQtCNTRPLve3y156TABoeop7hpUoq9drjOZigJSB+WLtqTFTv+zJzQgpieoMWQdwKHSkPo/hoW7LH56uSsld/1sWG3DVxKt+c8aRCNPh/fYGLjvBvCPLKHdWqYgLH+J1ZAqxaB7m6UihHIUVDuBw6odV58cZPpKMumtkMTROKz8ANHHrxQcgheHXSvsNxjreR1SGCVPk3oj+UqklVi6fLWSC1NafVQA84D0mLSjHmaqsDIe7FPpJwlSZjGvubLLPVebxViiHLpkrcq54oMgRmPmMIuipu5HP44eXfg=;Tp505aCS4t6+dxP3bjBrpQ=="

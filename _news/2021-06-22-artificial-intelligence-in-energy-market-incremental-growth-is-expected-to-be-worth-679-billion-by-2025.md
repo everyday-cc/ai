@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-excerpt: "The Artificial Intelligence in Energy Market report has been added to Technavio's offering. With over 500 specialized analysts, Technavio's report library consists of more than 17,000 reports and counting,"
-publishedDateTime: 2021-06-21T22:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21656569/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion-b"
-ampWebUrl: "https://www.benzinga.com/amp/content/21656569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21656569"
+excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
+publishedDateTime: 2021-06-21T22:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -23,6 +21,6 @@ images:
     height: 226
     isCached: true
 
-secured: "39jf0tnjSmAB1HSEAdcyBpddwgyEqgzBX9c7wKoAinVV67zFFp6XiIluJNwrkXXUF9iEnynNG0A2OX9dmW4K9p5sEA3t8Jx9y0a5oaooa08Tc5kbMr8X1ZrlC/GcH9HbCbV02s2j+9zhbdqLmqfnY/dkNN5teH5sORde7d01dX8UkxTRV7ansmymVAWd4kIpDGoyIuuNK9ftEPEMNwUyywZVqbkoaKVQGdLYllnBl8VtoxX3wEoOLjyrlZOnF6ekxSwSOyRAn+AgHqDEOOfbd5daSJ+SeKRR0SM+Hcpe9m1J93B8LpwpdpZHj1T7VNKIG1v0HrfecNct06N4CU85t2kfKN+ahsn767TWCmSAeYw=;To2H4Bdbxce9ZP6/A/j8jA=="
+secured: "CHYTIlMHI5elnAZo/3VaFNhYTUOO+fRJRwNMuvK0fQaotc6DbRP3cTwVQDwuT8yq5WJps8tpu+4hx6ieyCO+3bsG/A6G4k5fAUpghTBDLTOfoDoR1Nr2MounihcSc/M3aalUo/F5J558b8ou0cWe2Mw/q1refq+M5qwMiN1PZf8GZKZXSztnNoIpJcCOj8yCaDu09gUWp9pL+4aF2ED3lhkNOuvw7cGurVgikkFAtQMvJOSQ/4ttjtFTZ/XR8wsHAFI09QveUnxuhj/L2pW6fACxydLjO7WgN40Kwm+HiPWT2Xx4V3ANV5LujXYdzeZtcw064R+8k6ks+PYz1ThEHrQ0j1bKdCZBGRJ5Jx2vovs=;n585mmw8lAsgNL9a5dhfCQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Max Kelsen revs up ML system for car share platform"
-excerpt: "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour."
-publishedDateTime: 2021-06-22T06:01:00Z
-originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
-webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
+excerpt: "Utilising Amazon Web Services (AWS) tech like managed ML service Amazon SageMaker, Max Kelsen built a machine learning application to assist Car Next Door’s investigations team to flag ‘bad ..."
+publishedDateTime: 2021-06-22T05:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
+webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
 type: article
 quality: 41
 heat: 41
@@ -55,6 +55,6 @@ related:
         height: 900
         isCached: true
 
-secured: "PO/iAJ3yevtWG98BZkGadQ9MZy8QzT5kfMrq7jur9okRr82Ml0EjCrEwiJYagYE5WcW2LGjsgaiQMOi3JZh05eqhA0h6qZccC6870PahLjxT4d7/etCnFLYtWVXUc8/aJ1fs+87yEvsT6o440pSmaxj/rpWyCVoSO+N3bJcoBfrSdKDNRAJBo5nKx08pLiU4G/dWVSnD7ZFv3yvRp0k3dfwy0x8nCX8xPPi0sPPtYpOo1QhrBFKPQZH8jawI4TEbfiKTbTaRIEwY4J3qXbaAp2tuiSv1FwZeBJronQxg/ijU13VYhc2JVUzeDa2kK32kJEH5HJQre2EjQZSaqXQ7kFo8TaMEDDzWN5YVB/Xzgp0=;KV1YE/mjSe+MvMnRajq9uA=="
+secured: "wh1vZeZvncTKyPKOfhJGYk0KmzVqC7gkwzqTbRltev0rXDgshm3E4q10gSb4jXfxjkJjxiQy7k79pNk+RWA7CsPF3In9fS/97v0OxyNmKyjTYCuTdTXNHgrbwlE4yzNL1a1yjKTx8m2F9UGJb161myczmiWDK9wrSMW9pxX1/d5oNqorVOqhhXDD3Ngk9cWKTIx5Am22DRDiJlkhvBj/4R7ERDk20ioDq473SxqZ7MAgWZwmAfBeieKpuQ0rgjMhjNvWRNuzZz27YlTKTonH7zNRZ5VRtcjyXWz+cZmyL2+0/ndKbLV4tTEoLQgetHha8dXOXwWaCxMySnHzhenuOuTbqmBf8j9OR9bX8Zr/z1M=;6LPaLmcxDJ6mgIDA60s+EQ=="
 ---
 

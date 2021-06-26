@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Max Kelsen revs up ML system for car share platform"
-    excerpt: "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour."
-    publishedDateTime: 2021-06-22T06:01:00Z
-    webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
+    excerpt: "Utilising Amazon Web Services (AWS) tech like managed ML service Amazon SageMaker, Max Kelsen built a machine learning application to assist Car Next Door’s investigations team to flag ‘bad ..."
+    publishedDateTime: 2021-06-22T05:43:00Z
+    webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
     type: article
     provider:
       name: ARN

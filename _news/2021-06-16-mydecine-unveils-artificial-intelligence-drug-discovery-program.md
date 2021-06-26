@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Mydecine Unveils Artificial Intelligence Drug Discovery Program"
-excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine's choosing."
-publishedDateTime: 2021-06-16T11:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16"
-webUrl: "https://www.marketwatch.com/press-release/mydecine-unveils-artificial-intelligence-drug-discovery-program-2021-06-16"
+excerpt: "Led by top computer-aided drug development expert, Dr. Khaled Barakat, the program is focused on developing artificial intelligence/machine learning (AI/ML) supported drug screenings, including both the ability to build drugs from the receptor up and assess drugs around the receptors of Mydecine’s choosing."
+publishedDateTime: 2021-06-16T11:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mydecine-unveils-artificial-intelligence-drug-discovery-program-/2021/06/16/9391456.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "2ge7A2CxrbrrLw7pUnM94GKP/KPJLvT4UJEExKwc26QO7+XPyYIpNMgZu/1ibt0mZPwu0Vjc9mU4Zor4D3tTKyVKsGiF5eM/Kj7D5Bpu8z2sH7gmnsiScFbTwEEiixPJlyuh6+JEsLuxz3LrHkpUsyVOkZfLsiigcXWJaX4iSNyoNl19V105FAtKaK9AhPmdkM/ng3e7oYRRDhtTe/PeV1gLzDSUUR7I/zCQYVfvdxGVM8Xy8sYFuJlDWy/KZ83EvymP1PhaRKwtaE+2OviXMFhtV7N3islNVmIGQZ0rQb1qitgCcjyZlDmsaVNB+45BftaYMbZ5oqfpDffDQlGjo7N8M/rj/HPrFk6HVP+O1ns=;5fhRKZmLqFzB8T8KNbNVPQ=="
+secured: "wfTDvoV78XP8IpByIgoX0QmMLpVrxZmMxoRkyeGmVZdZNhH2249vsoe8U+/WL5QogjOKcbLLsZxhikvdYsblRUqYWEnQYDtfcT6FTrEj0JvEVC4OYgtVLuwHacKgOW6Xu+flHyL0AfhckGykiLe0zOJGTjm3DBWnr4HaOE4tN+5N4Vs2YMffIDrOO15kk765JSMa6RmbLpgQ4mJmu/LN0ZI4IwGZKmgHX4WdDwgqa8xycnRDVFIR3qQpVauy5tk/BDx1Q2chmSC6JJJZD3Xw3btMptuZtx91qF5BeBVWn5eE+z0B1XXoraa/XJKXxJns1zIa4IMt7oBkmvOOEkzwoYJC3UUU+GEdSbKlHPK38t4=;Lxk8Q+kyCOn7bJmKkg4gqw=="
 ---
 
