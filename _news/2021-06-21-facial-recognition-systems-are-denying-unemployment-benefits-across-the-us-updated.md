@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/facial-recognition-failures-id-me-unemplo
 webUrl: "https://www.engadget.com/facial-recognition-failures-id-me-unemployment-benefits-172654494.html"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Engadget
@@ -27,6 +27,22 @@ images:
     width: 7952
     height: 5304
     isCached: true
+
+related:
+  - title: "Facial Recognition Problems Denying US Workers Unemployment Lifeline"
+    excerpt: "Lucy* (not her real name), a 29-year-old grocery delivery worker and mother of two in the US city of Houston, Texas, was under enormous financial strain when we interviewed her in May. She said her income had dropped steeply during the pandemic;"
+    publishedDateTime: 2021-06-25T17:55:00Z
+    webUrl: "https://www.hrw.org/news/2021/06/25/facial-recognition-problems-denying-us-workers-unemployment-lifeline"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2021/06/202105us_texas_unemployment_facial_recognition.jpg"
+        width: 2016
+        height: 1512
+        isCached: true
 
 secured: "jYwhSTxs6xCz1YyI4HJTpykl8d7oqlukSd1n3kLam/8/APT82yx4kM7R241mdsGx5TJPV+Q0rRdCc9NWjofyGYhaiyyMAUjxKdkbXSfV/omyZlsh9R9+OakFZ0k3OGVCwq7k+jzcY0c5vF7Anmf9K0YGO1GmxPtLRQMfzxLTjsA5lZWQbCa1Q+6HIHSV4fdPDFtrOI2a82v6rwGBwVFKUoGNab5+DfHh4DEpGMqG5/lz9dFnaJh4I96CuWLo04qiZfRAmD4ULQDDRqNGHmozTJlxNhLJGmI9ZKSqZ1XK5iOcC+m9sw7IkLvE4NEKI02ibPLFOwnY8db/RQxCeTCW/c1O3VnHxt6HNzQN8zF2es4=;eHNde4wl961bAbbFHHpGuw=="
 ---

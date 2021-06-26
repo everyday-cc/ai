@@ -84,6 +84,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Walmart enlists artificial intelligence for online grocery substitutions"
+    excerpt: "Walmart is putting artificial intelligence (AI) to work in making sure customers get what they like in online grocery orders. Srini Venkatesan, executive vice president at Walmart Global Tech, said in a blog post yesterday that the company has developed AI-based technology to help its personal shoppers and customers make smarter substitutions for out-of-stock products."
+    publishedDateTime: 2021-06-25T20:40:00Z
+    webUrl: "https://www.supermarketnews.com/technology/walmart-enlists-artificial-intelligence-online-grocery-substitutions"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 36
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart_personal_shopper-grocery_aisle_0.png"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "dGzv9pFGKpnN6NJ6suZUO6qzrJd5dM6xj9yc4GTHteEyZD1EW1vvxKio07icXLo1EyvFo0Et6Mxn9vzMRDCcKgxGvIrmVR2TW0F7YeUR3QL794raPGg2a21hNOSYz6g6x840r/HSzXALOI5ydMmhZLEcZKhZNcut9tmPhZ8mQ7aCY4uTq6zY7QYBpfhUG++TEj6Dx9j4nwjQ8TivNHal4t4Exw/LwmtVHA8GzpkgwBSfxnIr4VszQM0LgzDoaQShi+TlYGHH7MOrexTuL9ZAYYRXelPpYUtRXhG9rGC6g6+g+8Q8PGiIFQqu9G1wgscGoj1FMgZxoE7hdNt7J4GObbveev6s4l5gRYtg1kNLMgg=;ZSo8HL0aNMCXE8fY/giRYw=="
 ---

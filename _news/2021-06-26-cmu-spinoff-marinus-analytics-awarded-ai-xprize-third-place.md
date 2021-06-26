@@ -41,6 +41,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "How AI is changing the nature of analytics"
+    excerpt: "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context."
+    publishedDateTime: 2021-06-25T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/"
+    ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
     excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
     publishedDateTime: 2021-06-22T14:25:00Z
@@ -128,17 +144,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Redstor adds AI, analytics to smart data management service"
-    excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
-    publishedDateTime: 2021-06-21T06:32:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDYaJpvbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
   - title: "Making it Work: AI is the future for deep data start-up Altum Analytics"
     excerpt: "Less than a year after its establishment, Altum Analytics, the Belarus-founded, Dublin-headquartered software company, has already raised €500,000 in funding and is readying itself for an expansion drive."
     publishedDateTime: 2021-06-24T09:15:00Z
@@ -209,6 +214,6 @@ related:
       domain: businesswireindia.com
     quality: 0
 
-secured: "192fZmHjMzUbwq08O4Gz8n072H3GPxez/6Niw2/k0akMuMiNT9R4Nu6Oszv5ex1W9wVSPK+S8mTRUqczyjthvFDBnvUGRfCyk2Oq5C/8jIq0thN1UKGZ5Tf+RXnqJ/PBLQLJcmTcal0EHGEzyZv7q4CYCefQ7GyXQ7bRNW+gKFaSjaIr8DioDuKfNWKanCBvY4AMrKr4QEjBzocLWc4F2K3mYVjHAC8ycq3rbavqy2I/00ovmPqITHaJiiU2/4IHs9vglzSN53ON2hon0p1ITQiVvIMurV38JAt4qGIUD/2tWrnrgzpxtoaojUKTjn4sWa28UKGe46qa008nzlpoYyA505AA6HmSzAQFAS2iTaY=;ScxFZVx1oIFibadQ6ZdDZw=="
+secured: "1TPjZdMDBFh0aTc9nUDSBT+fEqvYYWWr3ZOKRAiL7dHtjTiaufhY4rFTCmSNPzp6KV+3uUdHxFMFS51yKCmdha8BdowvUmHZIWEQ8QhxZDFTkk1Rkzu4HhTr+9kD9g/EAgTyU+5Zo98gMPvbbZcBAeNIxIP/r8no2I+U9DNTe93zbyPHwA0khty0jEv6SauGIdXk/vXi64dnWxWHZZkwNgad3BhPv+qFuTU3S0WiaiT4HwOSBXArQEG4n8i40HA/KyqF1edkwkIjyJRRZf4eR9w29jS01mmwdGrY7G2niyli+fnYWpDSXRdu9kZA66gzWAzw5GYQHNqa/QnSOm/81DgHIVg1ZSUORni9759WH0kkh7X4Q/+v5+oDRMx+QMdhLy97DqcS+z/azQ+GIzmOTVrpTU37exB6+ht0MHSQPjRf5EZTxJgjqs55rUiIigAgI3EWU1RnuwOnWAlirPYExoOFi5Sb3+TO7EOoH6tQjmMtbwzjZW4yi8/Mwh95J6XXeZ4B2fZNLSS/h9Jt8RPOTg==;pqMYVgCzlJELS0PQzmY5bQ=="
 ---
 

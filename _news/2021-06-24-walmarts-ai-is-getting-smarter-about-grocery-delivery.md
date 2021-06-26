@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-abo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/walmart-.jpg?ve=1&tl=1"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Walmart enlists artificial intelligence for online grocery substitutions"
+    excerpt: "Walmart is putting artificial intelligence (AI) to work in making sure customers get what they like in online grocery orders. Srini Venkatesan, executive vice president at Walmart Global Tech, said in a blog post yesterday that the company has developed AI-based technology to help its personal shoppers and customers make smarter substitutions for out-of-stock products."
+    publishedDateTime: 2021-06-25T20:40:00Z
+    webUrl: "https://www.supermarketnews.com/technology/walmart-enlists-artificial-intelligence-online-grocery-substitutions"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 36
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart_personal_shopper-grocery_aisle_0.png"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "23VuzMDG/1JZQcn8sDGYh468UhHaXfOOpQUqb53ZFBEW1q+C3e4UE+U58XgNaBsrs+/MA4xbFrF0+ATclUXTafQXnSb2WZgcwd0Ia5KJ2u8/fjn9EoAE4/hd9R2km8QgOQD7dNswWA3A2Mfc0hADUg1oDS1jjhBnhg+H65QXxVkqOcHptdUZU0ERIbpcitK44fWUoFnPEzIW8Ble6lKNgXPDhHdVP5FTsPS6PdLdIx5WPhwFAvdfIFa4hDhFDcn0iWHmt6NaYiJnI2+a0GplyaU3gb0OZeAfzQg1dyXI/SVa8sgqLAk9e8CmvN1GPnYJ2JxhUXSLbKIj3kCfiLrUmd9fvTBNdWL0Iqd/5+N9TgDeltuL4BEw0QRgdEkneE8tm0L/lWNmmN0qnQ50K0KbkB7yBjuH1ah41hqXyx+S53qcVNcx5s/fBxuPnu7153ZNzYZt53Zs3ttqpSdEoS07pOQTJN4zafSVAC4qwJJHSWWPbdVSlldLpxVbNvsZQ+Eq2/W3Ein5ACxPdbPsP+OwMQ==;FzlGL0YG6Gg//w88ryzKDw=="

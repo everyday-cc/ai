@@ -38,6 +38,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "How AI is changing the nature of analytics"
+    excerpt: "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context."
+    publishedDateTime: 2021-06-25T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/"
+    ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Sebi bets on AI machine learning, plans data analytics project to track market manipulations"
     excerpt: "Markets regulator Sebi is looking to engage an agency to implement a 'data analytics project' to track possible market manipulations like insider trading and front running"
     publishedDateTime: 2021-06-23T12:47:00Z
@@ -114,17 +130,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Redstor adds AI, analytics to smart data management service"
-    excerpt: "Redstor has expanded the reach and capability of its smart, cloud-native, data management and protection platform, providing partners and their end-users with a unified view of data residing on infrastructure,"
-    publishedDateTime: 2021-06-21T06:32:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDYaJpvbznQ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/8OKdWqDYaJpvbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 39
   - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
     excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
     publishedDateTime: 2021-06-25T18:56:00Z

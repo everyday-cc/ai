@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/23/natural-language-processing-tech-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/natural-language-processing-tech-startup-primer-raises-110m/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

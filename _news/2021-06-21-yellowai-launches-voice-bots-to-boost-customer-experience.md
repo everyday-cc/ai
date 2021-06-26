@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Yellow Messenger rebrands to yellow.ai; launches voice bots"
-    excerpt: "The company can now automate customer experience across over 100 languages through its enterprise chat and voice bots, across over 35 channels like Google Assistant, Alexa, Web, WhatsApp, Instagram and Facebook,"
-    publishedDateTime: 2021-06-21T05:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/yellow-messenger-rebrands-to-yellow-ai-launches-voice-bots/articleshow/83707906.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/yellow-messenger-rebrands-to-yellow-ai-launches-voice-bots/amp_articleshow/83707906.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/yellow-messenger-rebrands-to-yellow-ai-launches-voice-bots/amp_articleshow/83707906.cms"
+  - title: "Genesys Launches New Capabilities to Enable Rapid Innovation for AI-Driven Customer Experiences"
+    excerpt: "Genesys®, a global cloud leader in customer experience orchestration, has announced new tools that enable businesses to easily build and orchestrate their own bot experiences, integrate third party messaging applications,"
+    publishedDateTime: 2021-06-23T12:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-launches-new-capabilities-to-enable-rapid-innovation-for-ai-driven-customer-experiences-1030546527"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-633696,msid-83707888/how-conversational-ai-will-shape-future-workplace-interactions.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "vwZWZcVfNARwA8LAgo77DOy1g8JjYGw+k6pnErbrNgpCA0C1vEA6ZaXaGx8TkDQ9zjpAVNHk/Z59/1cP6Q6CVzCTRohiKuGkmdZV3sW1NU5zULZTOZwTcUTjWhQ/YqjIzQGUpJO2tEvWtfAjJuBOO+SHevUgqe2adfZ2tcwH9nD2J93bsds1YBnwBe50ZjOXmlKYsaaoYOfO1os+qHRqHtOUwA5iM+zbmDFhh4hEt1Dv8NmngVcEAp0vmefZtrEX/KK2Xs/xZQJ3xUWicoIcvV2O7trufUis9Ob1T//hN2odlVlZL9jRv3xPCJfFnb6CXNPIg5Q4tUrh6VmLY62ion3ExjYRHiBKtOneqV2pcAw=;q+6z4kfB8N02HOBAbgJpSg=="
 ---

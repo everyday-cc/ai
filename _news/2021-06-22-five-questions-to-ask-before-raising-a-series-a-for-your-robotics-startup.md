@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-q
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/22/five-questions-to-ask-before-raising-a-series-a-for-your-robotics-startup/amp/"
 type: article
 quality: 118
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 966
     height: 543
     isCached: true
-
-related:
-  - title: "Why We Don’t See More Robotics Startups"
-    excerpt: "San Francisco-based robotics startup Anki shut shop after filing for bankruptcy. In the nine years of its existence, the company had developed popular robotic toys such as Overdrive, Cozmo, and Vector."
-    publishedDateTime: 2021-06-21T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-we-dont-see-more-robotics-startups/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Robotics_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "UAszijmyvJtTvOB8AITcKHfN3BtomaN7PXzz/3dot97GWnco+nAspKowwRiSOVdB1d9KJEJouaT/oYdrhZ7b0FPh+jv8u3EJCXLmsNtiGxjFp9EKABWK32INpom1CIm8JW/ypnKx9TF+wdnJZkEN00StWU21OC3IGhDY2jQBPENidKuHtyZk1i9RPjK0weVbzONYLtannwk7/jdBZsY0cupcM0vP7Kia+IvNKb/rP2Q/yJias75iemAXA6uvvrbyQ/seCifEYJC3AZYGq8o+WphP+msl7GvSjDUb4w/Ee21XZJ/wSLI4TP6Y+UZH909mvGNdbYtGfjyU0dgCs8YrNbCHl4tvgQXCxeFwpo/qb2IufLgG2cCivsk+XMmlZlZWqXb4T545VnFxlmC9fdRFTGY0+KKm9kuxYVaNQxhCOhUmIePdClW11XqTIlSsXUOxqVREWgxGSvANA23pELp+D9bxnTw3/nDE8uMEn6IZoUvBcUjnGB6MGhblPE6BKtf7xkvxx4DD9HLr9uCrRGePMA==;TxGuFhsS5EXQD9Lb8Ye3Jw=="
 ---

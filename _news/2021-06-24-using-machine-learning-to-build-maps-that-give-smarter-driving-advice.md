@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2021/06/23/1026653/using-machine-le
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Remote learning, working causing computer vision syndrome"
+    excerpt: "She said people like remote workers and learners tend to spend over 13 hours a day using their digital devices. This causes visual strain. Computer vision syndrome has symptoms such as headache, pain around the eyes,"
+    publishedDateTime: 2021-06-25T22:15:00Z
+    webUrl: "https://www.kbtx.com/2021/06/25/remote-learning-working-causing-computer-vision-syndrome/"
+    type: article
+    provider:
+      name: KBTX
+      domain: kbtx.com
+    quality: 39
+    images:
+      - url: "https://gray-kbtx-prod.cdn.arcpublishing.com/resizer/_KqbqfH3gZ-e5Y2swfjltBqXZdQ=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MDHMDCXJYFCZVJKDZAI5DZKGNI.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Dynamic Games for Social Model Training Service Market via Federated Learning Approach"
     excerpt: "In recent years, an increasing amount of new social applications have been emerging and developing with the profound success of deep learning technologies, which have been significantly reshaping our daily life,"
     publishedDateTime: 2021-06-24T02:39:00Z

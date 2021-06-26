@@ -39,21 +39,16 @@ related:
       domain: nasdaq.com
     quality: 101
   - title: "Amazon AWS Strengthens Ties with Salesforce"
-    excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
-    publishedDateTime: 2021-06-24T11:40:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
+    excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer applications. The two have also strengthened ties to enable the sharing of data and workflows across their platforms."
+    publishedDateTime: 2021-06-24T07:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-aws-strengthens-ties-with-salesforce-2021-06-24?amp"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 59
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/05/Amazon-750x406-1.jpg"
-        width: 750
-        height: 406
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "AWS and Salesforce Announce Expansive Partnership to Unify Developer Experiences and Launch New Intelligent Applications"
     excerpt: "(NASDAQ: AMZN), and Salesforce (NYSE: CRM), today announced a significant expansion of their global strategic partnership that will make it easy for customers to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-23T14:00:00Z

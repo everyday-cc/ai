@@ -24,17 +24,6 @@ images:
     height: 662
     isCached: true
 
-related:
-  - title: "Sensome Receives FDA “Breakthrough Device Designation” for its AI-powered Stroke Guidewire"
-    excerpt: "Sensome, the company pioneering the connected medical device revolution with the world’s smallest biological tissue sensor, announced today that it has been granted a Breakthrough Device designation by the Center of Devices and Radiological Health (CDRH) of the Food and Drug Administration (FDA) for its Clotild ® Smart Guidewire System designed to improve the treatment of ischemic stroke patients."
-    publishedDateTime: 2021-06-21T06:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210620005074/en/Sensome-Receives-FDA-“Breakthrough-Device-Designation”-for-its-AI-powered-Stroke-Guidewire"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
-
 secured: "DrdIIoPkKcXm/fIQ4ymvWgy3gcHfBpWal6Il73KJSXm7e5Ts9agYkQ6moJdDrrMAQV5XzT98QLSspkbHLOLeeaFe7PFHmAMO7Fo6FJb/6fCpTXVItZQwoqSRCCWk4Qq6hSCQtvD0FWJYTi+iJ1mlkw8ItyXZnP11ttANe7rwOAY8aqIzzt93/Zn0o0lbIjRo5Bruol44MQhba5hzqsHJ61eupWb00HsdiJri5DL5DEr7HH3nclorAZeVfkQENbk8pzcT+pBFqf1orheOKFcqRPXFG3phdlj+aGgkT7bGSKMH+xR6G+WkdjR7f5+3FGmabxJSDNXBPgKvNk4L63umKN7j3A6EHqdOtr10PdFPWZ5r282benaI+3ArcyDH1afYI6L3+PZnhxBrVWCJWMIbhy/3LUPHJeGbUQbJSPUHq7sy7Ss+jRYDbb+Tu/gHRwuTtL6PdRfhQjg8YQ95brXrVD5YF5pwYFN/I/TJK5RrR2r++hy0puALyompTezBqIWspRV0TXnX2xpOZ4+pkiow2Q==;KqkFD1xmxYuEOb3G1qQnhw=="
 ---
 

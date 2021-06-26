@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-25T20:15:00Z
 originalUrl: "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias/"
 webUrl: "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1195223774-e1624499731437.jpg?w=1200&#038;strip=all"
@@ -43,6 +44,6 @@ related:
         height: 1407
         isCached: true
 
-secured: "GMTJqgMcpTslWuqwe13No5By6pyu1ribRI+advlDGYinWi8al9S754OCw4vQpybhvftOAAHpPGByM0K04zbURcgAtRiME9bR5pTN8QnMxjqII11YibWNGy56lITSnqeGaYwYt7RrKRN9/PcMFasbqIbh4oaqUf3M6UhE2IK8kmnyuAHm81jxHkdRn7OJ9KEEs8AWpU6oYm4OhJIE0n9Z4CMhADe/gMU/XPFygDl5+R/0Ropm0FQt+2KCj9nRbqGTSXAhzo366haADU9mFIDDSAxe/DemMEjQADz3bizC2X2duzhKtpq1W6e9jYSNPXn2oKApUPklHDdVxNXEUomS87ofWIK5Ezoq8vrSX1+hdyI=;nZz+xvgX8XD6nuUQU6X8qg=="
+secured: "B/DzPJChB4T7DEGXOgIIpH4i6b0srT41A8jBAZdAsQKWFT+PrmOUEK8dgRnJhkwhsNEKZ+/rJ37eBYTr4QL40maTGIWoyFS2DGi8auCIDrNQmmoCq7RYQ8NQfikCxPWqKZTHs5n5WVDuJKV1YQEJHTGBf6JFkWECsU4EL/CdU9r1xNM9e+kTqte7SIT85vfxdmsuGh9Qnz2SLfW1iSXpm8vjKvE90n0iQFB+dfNlGQQZXVj/x1unpszhY0KUFonKDmCz79eW6uZYC14ADAocfTu2zwHQxqLJRyhoQXDf8gsRW+5URB2TF70QoIrYcI7d0J5XHiXzkpB1VQK09wCdmHJVvFtNHFFOZzwKSsTiKrB8+nS2NBzFyWXtT7bIRRPVvFE7j5UGxvRiPJlhzoElmf72EUGpTAyE093gb1Wvfr9MxaaGzp6orMEmpZOS0JuZEcXWxzrnwX3OdYWubD0ofGaE6oSkB94Di8YhEbibkfY8XrYp3NjesdwzhIf0F22900RlVroQnqaFZalqextQyQ==;Pi1iDwe9+aOnEiLEc+sOyg=="
 ---
 

@@ -65,6 +65,15 @@ related:
         width: 1080
         height: 540
         isCached: true
+  - title: "Toyota-backed self-driving tech unicorn Pony.ai hires CFO, mulls going public"
+    excerpt: "Pony.ai hires former JPMorgan banker Lawrence Steyn as CFO, saying he will help drive the company's next phase of growth."
+    publishedDateTime: 2021-06-25T22:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/25/ponyai-hires-cfo-mulls-doing-an-ipo.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "0VwBDxVkg9DWGHGaOHbiuccTI43vCmZ08fySmp0xVljkJ1bg4wbGmMsJQxtlcMjXTEuW2xFmU8hYL5XLymb/rcGM6zx6UyAY7TW3wbxsXgwJz2hY1HTcntgfdV6NzXrDTmXGRqRQeJ58X0GeevBIRfNtK6DxtWCQXXBN1N8o0uZYP04YU1FAkas11LLkFKGxKNeeaQy1zLrxIyf+ZjfAjzyByWILyRSe/eDYrqJaBsvtNqdkTAS1h8E7/y+f4qQqXjrT8Y9laMXbUEdGTpS1rmjENsTCNNdcE2hBlHuR63hknmjk+D5PqjJyFNgIiRyl5D0doEjmvhShlKrmI36SDWG41pL8vQcNVjRBHcKUTtNu+AnTqU2SzwjeS69oCn3MbPyJIec9F9jXhVqpct+Fo5IacED/drmVKyg6ILOlsXn6Hww3V+WAsqyO0xbTlsKV/HV14ziAIVn+Qg6iBw+TbhGQ6D0PzGUo67BVpCcuMZdxmyPdlpfdiIDT7vV9v9kg2TFfhvMRRxUxxy0daq0AsQ==;VF8/F9Q0YxRahrVFeSWzBw=="
 ---

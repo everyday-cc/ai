@@ -41,6 +41,20 @@ related:
         width: 1020
         height: 575
         isCached: true
+  - title: "Britain's Information Commissioner issues warning over facial recognition"
+    excerpt: "Elizabeth Denham, the head of the UK's Information Commissioner's Office (ICO), says she is \"deeply concerned\" about the inappropriate and reckless use of live facial recognition (LFR) technologies in public spaces."
+    publishedDateTime: 2021-06-21T07:43:00Z
+    webUrl: "https://www.computing.co.uk/news/4033149/information-commissioner-warning-facial-recognition"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 53
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/843344f/4c5182c5-5994-4830-97e7-0bcdb98a8643/6/live-facial-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Facial Recognition Market: Investigation, Consumption, Revenue (Mn USD), Share Forecast To 2026"
     excerpt: "The information mentioned in the Global Facial Recognition Market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the technological developments and the product launches and their consequences on the Global Facial Recognition Market."
     publishedDateTime: 2021-06-25T04:41:00Z
@@ -56,6 +70,20 @@ related:
       - url: "https://cdn.openpr.com/U/6/U625924396_g.jpg"
         width: 660
         height: 300
+        isCached: true
+  - title: "Use of live facial recognition in public spaces is 'deeply concerning'"
+    excerpt: "UK Information Commissioner Elizabeth Denham, has said she is 'deeply concerned' about live facial recognition (LFR) technology, and it has the potential to be used inappropriately, excessively or even recklessly."
+    publishedDateTime: 2021-06-21T09:29:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/use-of-live-facial-recognition-in-public-spaces-is-deeply-concerning"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1624267612/widgetdocs/facial-recognition_f8jukk_yutkw7.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "ITL launches USB device for facial recognition, age verification"
     excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."

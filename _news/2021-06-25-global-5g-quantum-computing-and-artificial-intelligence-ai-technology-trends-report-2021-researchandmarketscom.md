@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-25T16:17:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
 webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-technology-f2ab205085644de89315df74e95d62bf"
 type: article
-quality: 29
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

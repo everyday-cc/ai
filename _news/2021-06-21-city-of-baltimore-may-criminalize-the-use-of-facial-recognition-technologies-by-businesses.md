@@ -26,6 +26,22 @@ images:
     height: 808
     isCached: true
 
+related:
+  - title: "How Facial Recognition Technology Can Benefit in the Workplace"
+    excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
+    publishedDateTime: 2021-06-24T04:59:00Z
+    webUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-can-benefit-in-the-workplace-nid-33902-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/ticpr.cas.jpg"
+        width: 410
+        height: 237
+        isCached: true
+
 secured: "i3d5m35fyIrbDSdEL5zW/Gy1Q1oIYr/eLAbgK0E+o/AikDKEA5zj/T6hLW86QuX9a4f6TblCNF6k7X46X3SoFtPpSTvspTbx7rNqS/XMcyhT+wl5WcuwvDXhY8oqJT7l4yLWXj+EwaaeA1b+2sJX91VClNmi03TC8+x3YYAlznqiY7gZa8jcd/9ac4Zk2X3bJHefF89kYxhrzaQS3g5IKFkjkyW3WYzAcG3IVMwciX266zOt6+567Hy8lsl9GDFFk3hgShUSFUM0AxWDTiHIHMF3tPXN8oSPbcD9hTGsW1c2uacv3CDnIow1xMzqcMbdUNPZ3fP816Ugbw85zb2uMLnkKzE0mPQA3QdQTICyeAk=;SonNfXFydt5+uEsrX0h22g=="
 ---
 

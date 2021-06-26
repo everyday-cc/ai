@@ -35,7 +35,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/drone_shutterstock_orodenkoff.jpg"
         width: 1000

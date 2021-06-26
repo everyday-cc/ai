@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "CampusLogic's VirtualAdvisor Honored with Two SIIA CODiE Awards for Best Overall EdTech Solution and Best Use of Artificial Intelligence in EdTech"
+    excerpt: "CampusLogic’s VirtualAdvisor won two SIIA CODiE Awards for Best Overall Ed Tech Solution and Best Use of Artificial Intelligence in EdTech"
+    publishedDateTime: 2021-06-25T18:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210625005295/en/CampusLogics-VirtualAdvisor-Honored-with-Two-SIIA-CODiE-Awards-for-Best-Overall-EdTech-Solution-and-Best-Use-of-Artificial-Intelligence-in-EdTech"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "ROpjIkLsCIy4mQH8ll1sv0oE/VlfK/6EDrCTs/EGTxBN4meXflJ9pt3wm9LjQXXfup6KA6xaAJX2eCzVIyR8nt0KsmI9NZdsuLWwSLZt7HYvvjD27/swmVGoXcdGGkWcVYCHDns9p4H9KAPTzktYZWb1WPzPPMafSTjREwxy2+Y+lN1TIrjLkWllBGOzCOuKb/Tgix/bMBWWpZzWpC7cFHzW6C8FWEm9vXfZfTId0yXi1k/LEMh5GJbfA9lrbFz/XjWr81nRtp19I5J9Ys77rpKaZILkDwMDzGdQon7pPjREc/7iAdYVIYdIstzTJDnPKJ7B9yNO9zZIhkJCGqfwQA73dUNnbXlL/UHr8WpTsRI=;g+S92jjjoLszeGekBF5GnA=="
 ---
 
