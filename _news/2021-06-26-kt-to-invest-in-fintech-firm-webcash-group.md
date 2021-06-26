@@ -55,6 +55,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors"
+    excerpt: "Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment."
+    publishedDateTime: 2021-06-26T06:58:00Z
+    webUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/"
+    ampWebUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 71
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-172169309.jpg?w=1024"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
     excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
     publishedDateTime: 2021-06-21T17:36:00Z
@@ -177,20 +193,6 @@ related:
         width: 1728
         height: 905
         isCached: true
-  - title: "Edinburgh fintech seals seven-figure investment to launch AI tool for vulnerable customers"
-    excerpt: "Scottish fintech company Aveni has secured an investment of £1.1 million to launch a ground-breaking Artificial Intelligence (AI) platform which is leading the way in a new era for speech analytics in business."
-    publishedDateTime: 2021-06-21T13:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88175/edinburgh-fintech-seals-seven-figure-investment-to-launch-ai-tool-for-vulnerable-customers"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 31
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "The world of Fintech jobs"
     excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
     publishedDateTime: 2021-06-24T14:38:00Z
@@ -223,6 +225,20 @@ related:
       name: Infosys
       domain: infosys.com
     quality: 19
+  - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
+    excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
+    publishedDateTime: 2021-06-26T07:00:00Z
+    webUrl: "https://bestgamingpro.com/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 15
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/8-founders-leaders-highlight-fintech-and-deep-tech-as-Bristols.jpg"
+        width: 602
+        height: 400
+        isCached: true
   - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
     excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
     publishedDateTime: 2021-06-23T11:13:00Z

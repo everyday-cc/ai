@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
-excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
-publishedDateTime: 2021-06-25T01:58:00Z
-originalUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
-webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
-ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
+excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
+publishedDateTime: 2021-06-26T07:00:00Z
+originalUrl: "https://bestgamingpro.com/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors-techcrunch/"
+webUrl: "https://bestgamingpro.com/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors-techcrunch/"
 type: article
-quality: 59
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: bestgamingpro
+  domain: bestgamingpro.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
-    width: 457
-    height: 274
+  - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/8-founders-leaders-highlight-fintech-and-deep-tech-as-Bristols.jpg"
+    width: 602
+    height: 400
     isCached: true
 
 related:
@@ -86,6 +84,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
+    excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
+    publishedDateTime: 2021-06-25T01:58:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Banks Keep Biz Cards, Modernization At The Top Of Their FinTech Collab Agendas"
     excerpt: "This week's look at the latest in bank-FinTech collaboration finds commercial card enhancements and an overall push towards digitization remain key priorities."
@@ -225,20 +239,6 @@ related:
       name: Infosys
       domain: infosys.com
     quality: 19
-  - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
-    excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
-    publishedDateTime: 2021-06-26T07:00:00Z
-    webUrl: "https://bestgamingpro.com/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 15
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/8-founders-leaders-highlight-fintech-and-deep-tech-as-Bristols.jpg"
-        width: 602
-        height: 400
-        isCached: true
   - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
     excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories . VANCOUVER, BC,  /CNW/ -- Boast.AI ®"
     publishedDateTime: 2021-06-23T11:13:00Z
@@ -258,6 +258,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "0krf6Hp5YYaXcF07WaW1UNa0Eoz62FY2eipgUnhU6USRqVm9ZiFYnKKBeQ6KWuDCN4uA6IdFfYAwjtgbrjeEqWDEMSa25eE5/A7R/6xHcaDNk/aTkkugOPIit672a0xER3Xfb1ZkKf+LCppAYIeBVAa9LVXneWXd1K3x60UCXVWxGtQgLM6bJ0Clae7QPTupNlLvAqQfAdPBDxR8TNXmw03OtrxiII9g7w3XKUwO0g2ryUTWtU7B/zGscU/WY6ygCtcp4fZRYw+pMacMvifF9YZxbQWzaZGIY7n2FWqb6XZ1kWSKoF8jLxAega7E/Lq0/EYQjEiYR+mbH6jeFSSWd8Lg+v1KRC+NPqIxw8NykbEv4WtAykhfxDs33e6sBFq9+MKaPK7IELrlgOWmgsIzzbGf+CKTQPLzU4lyzgWjM0lxsivdaIb89y6wj65m/4tLumemXsRLCoN1vUCw0gdWtat3m5ovZ+VOgtHPPL5Bxu0jDyhba2LgN2KIcormM62MMJ5WvB608pCiM1v2L1ptyA==;Mf/0otSqOYbU9gkphj1JJQ=="
+secured: "R/EWq+HliacFGG8a1AMSiOvmTKNhvYRn0ezOHZu4owG9E7SK8nEt/XzVUYuMQXhppQdEtgNmDotfSMABqAuHpEZZUubfB/ALLcEKAJl78dl4SZ5rUjdEG1uk9GxUOK8IQUo8rlV9QXjHucqdhKrcDV8LdixM8PWB2Vs9ddFD1jrg6mUjzKD8gVkYbVWmR4fV1msFz949VijI0mMeNZdmSwbF72SikwpnilDzIYpGkGab/jKGEQQmzxPPwRZ9wMY0A02eMoUc1Zhv7DhKcTEvaptdbVJ4mWdBlqDlqKSuoGXFL6uXo9vr/GhQ3yvVGckO9vUB/R+vdOa4Sl9kBp5GLbUXTbIndmUWQMbrkbs2tyM=;jAClpyVBjMCSrUmClhR6ow=="
 ---
 

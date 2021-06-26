@@ -27,8 +27,8 @@ images:
 related:
   - title: "How AI Is Taking Over Our Gadgets"
     excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
-    publishedDateTime: 2021-06-26T04:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004"
+    publishedDateTime: 2021-06-26T03:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004?mod=hp_lead_pos8"
     ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
     type: article

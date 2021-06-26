@@ -50,15 +50,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Ferrari Selects AWS for Graviton-based Instances for HPC, AI"
-    excerpt: "Amazon Web Services, Inc. (AWS) has been selected by Ferrari S.p.A.’s for cloud-based machine learning, HPC and artificial intelligence. Ferrari said it will utilize AWS’s analytics, machine learning compute,"
-    publishedDateTime: 2021-06-21T13:25:00Z
-    webUrl: "https://insidehpc.com/2021/06/ferrari-selects-aws-for-graviton-based-instances-for-hpc-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
 
 secured: "auj+rJ25+oGr9F8Ai2Rb9gWLjyFY0dkcHCyW+tMm93tXnnNRuZEHCUR57oPKicS7w1OWNfx4187bWw5wvzmHuu7HTnLp+QhH6dJt1N/JCBRHziuoLJnmQs3ZYhpA6LxemR5Lw3x9MFo1mwMfxMdrGQETQyQGlt9dZ/qnnWQXto/YLXikukNZFNwBRgyo9/r1nH0yawmVzKP5wWa/7PEUpH+tTsNRYF3aHIIBHn+YNFqjGVUMoL9VoAS37DHnHQxD/5NqpvTXWgRniGPbljO8OhmwlKkowrOYVdhqFI4qkdJPjA2hy+cY429re7cNLz21HSL1DPCccAxspHitFveD2a9XPte68WUUxybDWtSMlAx/6OOb9aVx9PJ7JV5LzOMdgCrXZYxmgvpN473w6He8NOHjAnybJJ+Hfs1og3Z21NyQ2I3fUBQKexqBZhnVETBIE4T0ggkV6KqqAXvieEtU3dpxfKmzvmISeCmqVulSoEryuG+rOya9zIirTQs3vNfA7IxxR1dfmnv3dHbrZGr2Kg==;myO48pxLhyh9LOufWkY1tw=="
 ---

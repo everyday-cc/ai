@@ -37,34 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Amazon in Talks to Buy Stake in AI Truck-Driving Startup Plus"
-    excerpt: "Amazon .com Inc. has placed an order for 1,000 autonomous driving systems from self-driving truck technology startup Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter."
-    publishedDateTime: 2021-06-21T14:45:00Z
-    webUrl: "https://www.ttnews.com/articles/amazon-talks-buy-stake-ai-truck-driving-startup-plus"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/plus-automated-truck-1200_1.jpg?itok=MG-kALv_"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Amazon Is in Talks to Buy Stake in AI Truck-Driving Startup Plus"
-    excerpt: "Plus and is in talks to buy a stake of as much as 20%, according to a person familiar with the matter. The deal would give Amazon the right to buy preferred shares of Plus via a warrant at a price of $0."
-    publishedDateTime: 2021-06-21T13:45:00Z
-    webUrl: "https://www.bloombergquint.com/business/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aSxCmFVzR8/v0/560x-1.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "This is Why Miners are Investing in Artificial Intelligence"
     excerpt: "In addition, “The mining industry is seeing an increase in artificial intelligence (AI) investment across several key metrics, according to an analysis of GlobalData data,” as noted by Mining Technology."
     publishedDateTime: 2021-06-23T15:56:00Z

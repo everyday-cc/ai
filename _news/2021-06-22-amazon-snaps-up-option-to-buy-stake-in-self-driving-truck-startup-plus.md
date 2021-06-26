@@ -63,6 +63,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
+    publishedDateTime: 2021-06-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
   - title: "Amazon to buy 1,000 self-driving trucks"
     excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
     publishedDateTime: 2021-06-25T13:12:00Z

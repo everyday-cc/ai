@@ -35,15 +35,6 @@ related:
         width: 678
         height: 448
         isCached: true
-  - title: "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research"
-    excerpt: "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\","
-    publishedDateTime: 2021-06-21T13:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538739"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
     excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
     publishedDateTime: 2021-06-24T04:00:00Z

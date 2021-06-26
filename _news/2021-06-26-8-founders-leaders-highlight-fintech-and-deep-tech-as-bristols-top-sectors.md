@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
-excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
-publishedDateTime: 2021-06-25T01:58:00Z
-originalUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
-webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
-ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors"
+excerpt: "Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment."
+publishedDateTime: 2021-06-26T06:58:00Z
+originalUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/"
+webUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/"
+ampWebUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
 type: article
-quality: 59
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
-    width: 457
-    height: 274
+  - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-172169309.jpg?w=1024"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -57,22 +61,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors"
-    excerpt: "Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment."
-    publishedDateTime: 2021-06-26T06:58:00Z
-    webUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/"
-    ampWebUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-172169309.jpg?w=1024"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Cloud AI in Fintech Market Size Competitive Strategies, Forecasts Research Report 2021-2027"
     excerpt: "The report titled Global Cloud AI in Fintech Market showcases an in-depth analysis of the overall Cloud AI in Fintech market in terms of market size, segmentation for Cloud AI in Fintech providers, end-users,"
     publishedDateTime: 2021-06-21T17:36:00Z
@@ -86,6 +74,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
+    excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
+    publishedDateTime: 2021-06-25T01:58:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Banks Keep Biz Cards, Modernization At The Top Of Their FinTech Collab Agendas"
     excerpt: "This week's look at the latest in bank-FinTech collaboration finds commercial card enhancements and an overall push towards digitization remain key priorities."
@@ -258,6 +262,6 @@ related:
       domain: manometcurrent.com
     quality: 7
 
-secured: "0krf6Hp5YYaXcF07WaW1UNa0Eoz62FY2eipgUnhU6USRqVm9ZiFYnKKBeQ6KWuDCN4uA6IdFfYAwjtgbrjeEqWDEMSa25eE5/A7R/6xHcaDNk/aTkkugOPIit672a0xER3Xfb1ZkKf+LCppAYIeBVAa9LVXneWXd1K3x60UCXVWxGtQgLM6bJ0Clae7QPTupNlLvAqQfAdPBDxR8TNXmw03OtrxiII9g7w3XKUwO0g2ryUTWtU7B/zGscU/WY6ygCtcp4fZRYw+pMacMvifF9YZxbQWzaZGIY7n2FWqb6XZ1kWSKoF8jLxAega7E/Lq0/EYQjEiYR+mbH6jeFSSWd8Lg+v1KRC+NPqIxw8NykbEv4WtAykhfxDs33e6sBFq9+MKaPK7IELrlgOWmgsIzzbGf+CKTQPLzU4lyzgWjM0lxsivdaIb89y6wj65m/4tLumemXsRLCoN1vUCw0gdWtat3m5ovZ+VOgtHPPL5Bxu0jDyhba2LgN2KIcormM62MMJ5WvB608pCiM1v2L1ptyA==;Mf/0otSqOYbU9gkphj1JJQ=="
+secured: "1MRzlbYatpaYohDF/Vo3XOcBAhAf7qqFkqpA9ROZIv6YlGld7j/dToQrwyf/FiQWWfUEkeACKua3ulB2CFXqpV8KA4eJqzFeH7Hyh4TX53DQphdyKyxsOS6SOOy3NjAiYnKrerIRHo51bs99qraBHIWy+8rmoLTltfahX3U8JLuDIFK9HA8aSt+y1sziXntDoBDr2OfOD36wzro0CjuYlreaHprVjzT+A4l/3yBa+z1t8RVofMMFvgU7PZ/4i6sotCnHcBW0BhYstF5GTkiGNORE89HWc0ea0HKpHqLrayY8DQVmIW4cGiwuaqcs015Fg7kT2IvHM4lGlzrrvYlxx3T2t5H+z3BM6QIT/h8EQL8=;rjyAyQw2CoINn7VtkvJdOg=="
 ---
 

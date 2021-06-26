@@ -44,22 +44,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
-    excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
-    publishedDateTime: 2021-06-21T14:59:00Z
-    webUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/"
-    ampWebUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 69
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/06/Tesla-Supercomputer-for-Self-driving-AI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
     excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
     publishedDateTime: 2021-06-22T14:49:00Z

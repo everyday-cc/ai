@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-aws-picked-by-ferrari-bolsters-client-base-2021-06-21?amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Ferrari Selects AWS for Graviton-based Instances for HPC, AI"
-    excerpt: "Amazon Web Services, Inc. (AWS) has been selected by Ferrari S.p.A.’s for cloud-based machine learning, HPC and artificial intelligence. Ferrari said it will utilize AWS’s analytics, machine learning compute,"
-    publishedDateTime: 2021-06-21T13:25:00Z
-    webUrl: "https://insidehpc.com/2021/06/ferrari-selects-aws-for-graviton-based-instances-for-hpc-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
 
 secured: "1EyDX1pPNTV52mUyL4Pvxg8Pw0kWS0oWSF+vByt+RPTABt7SLoiZBNMF1IRSsTlXlozA7qWRYamVS6ga731HD0i9ODz7TzPCuLZXnvxBIOcMsWcCLX4B1+FWEiDUSJCIL7r3WwCfY3yYwIBcyg4N8TCplPS2J8UNuiDxQKGIQvFGSGvmiBM2HobgPFd2T4zY6570D/nktSassFPqslftKdIz8tSiSCnJFqPCkBVkUm7EZ25Rt0MF9Af47cb+VqD7KzJWB674oroorFQZizRmd1sUcrNy4PbSk7c/QL0q0QWidE8gNvce/W/XpnRKLbijuhIovmLUyfEACHloIjEcBUdnM7D44npWIYrxW5KA6iI=;b14c/RIreRchRyO8l3MHfQ=="
 ---

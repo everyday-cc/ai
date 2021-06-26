@@ -1,21 +1,23 @@
 ---
 category: news
-title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
-excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
-publishedDateTime: 2021-06-21T18:28:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2021/06/21/amazon-has-option-to-buy-20-stake-in-plus.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/21/amazon-has-option-to-buy-20-stake-in-plus.html"
+title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
+publishedDateTime: 2021-06-26T07:23:00Z
+originalUrl: "https://www.openpr.com/news/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+webUrl: "https://www.openpr.com/news/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+ampWebUrl: "https://www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
 type: article
-quality: 0
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - AI in Autos
+  - Natural Language Processing
   - AI
 
 related:
@@ -57,17 +59,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
-  - title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
-    excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
-    publishedDateTime: 2021-06-26T07:23:00Z
-    webUrl: "https://www.openpr.com/news/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
     excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
     publishedDateTime: 2021-06-22T11:08:00Z
@@ -109,7 +100,16 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
+  - title: "Amazon has the option to buy a 20% stake in Plus, the self-driving truck startup"
+    excerpt: "Self-driving truck developer PlusAI Corp. has secured a big order and a potential investment from Amazon.com. In January, the e-commerce giant ordered 1,000 autonomous driving systems from Plus, according to a regulatory document made public Monday."
+    publishedDateTime: 2021-06-21T18:28:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/21/amazon-has-option-to-buy-20-stake-in-plus.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "H/naKKtNNpvSni+GwhBkKijvajpppUuA+aueGIjF0Ja8FBCKWNOvrvOau9eVuvnGKdVEkzOuuyznFJHHL4plXpo315rXXpGWfdnZUJPf4Tiz1Q0uEJETHE5rutuMY+ixTdbF5PXlCzbrGFg3QBsAG27bHFM8B2OSr0wchi2WuiLLr/ErxidzxVPURElXn862iwrz1XzTJaESEUBPJ6duPlEaVGwUTBnmmtmfLW4aP7gdq0i65Xk3F5WY8zN6aVTB488ARQfuUgWxQiJ7qXbyXP1XI4PvPqnfcMZXANIYdHjw4QY1qufwrGZTruBxRqOhqoUt7BCOPycaPTtVAXNoEcvVI+S1G8Q9giyQ5EocEsinB5um1Mqcwey6Pam18yWpLxiAR0H0Fp7s4jojHbIeOlHv3lGO/XO87KnD1f6waydAokw9cq777GKqFloiMNaDu5NNMaM1pkDeBQmIe1/TTsbPsUGP71ehV82+VQjvowX2bfelCC1sld8d1K8i9wfVzHKx2mtc0192mIRJGNAEjA==;8xlFqoMafYmUzmnKGgCrow=="
+secured: "FRTSaogKM12Tlmoy37ClN1w3I1uDXBixH/Evzd8dx4DhnTkxjUC5wfVASgn8DlAfZKGGrh3E91qNDyzk3HPRtjQHcjTvNjWDAWM6RmvFakisxPMUDwILPr/RGzrGyLthljjNIYEU3lXxCVjHA84eSvktWnZwUm3FJKI+fetfQEIBL1BUf9q2O88a/6rf/U73DnTju6FjDius8I5YzL4pKk3rRARXK2C4zEb8vl56UaaRIlkUHeNKGxC5s+n12x3ultvbwSDHd/eNENXZFVGIyGaXpc09wRFO1lTWecFGwOohvX25CmrJd3Yj6eFs8Cnh+/MeXTxLBP2YufKGSyrE+Zmoc+ZgaPyA8doi8FjPUDs=;+azbBTu1H46UPC1tJhwYGQ=="
 ---
 

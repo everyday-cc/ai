@@ -45,22 +45,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Tesla Reveals World’s Fifth Most Powerful Supercomputer For Its Self Driving Tech"
-    excerpt: "Tesla showcased its new supercomputer which is being claimed as the fifth most powerful computer in the world. The Silicon Valley-based EV maker is using this supercomputer to power its advanced driving assistance system,"
-    publishedDateTime: 2021-06-21T14:59:00Z
-    webUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/"
-    ampWebUrl: "https://fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-fifth-powerful-supercomputer-self-driving-tech/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 69
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/06/Tesla-Supercomputer-for-Self-driving-AI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Launches World’s Fifth Most Powerful Computer For AI Training Ahead Of Dojo Project"
     excerpt: "Tesla just launched the world’s fifth most powerful computer responsible for neural network AI training ahead of the anticipated Dojo supercomputer debut. Tesla seemingly does not run out of new features to unveil for its followers."
     publishedDateTime: 2021-06-23T12:37:00Z

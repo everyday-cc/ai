@@ -2,57 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-26-how-ai-is-taking-over-our-gadgets.md",
-      "title": "How AI Is Taking Over Our Gadgets",
-      "excerpt": "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-359618/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
-      "publishedDateTime": "2021-06-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-26-which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019.md",
       "title": "Which new trends are likely to be seen in AI in IoT market in 2019?",
       "excerpt": "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of",
@@ -92,6 +41,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-how-ai-is-taking-over-our-gadgets.md",
+      "title": "How AI Is Taking Over Our Gadgets",
+      "excerpt": "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004?mod=hp_lead_pos8",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-is-taking-over-our-gadgets-11624680004?mod=hp_lead_pos8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-359618/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004",
+      "publishedDateTime": "2021-06-25T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

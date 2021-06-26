@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/new-google-cloud-tool-could-help-busines
 webUrl: "https://bestgamingpro.com/new-google-cloud-tool-could-help-businesses-leverage-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Radically oversimplified AI skin-tone tool could be out at Google"
-    excerpt: "Attendees at a 2020 DHS-sponsored biometrics gathering, the International Face Performance Conference, said the FST gradient should be replaced."
-    publishedDateTime: 2021-06-21T14:53:00Z
-    webUrl: "https://www.biometricupdate.com/202106/radically-oversimplified-ai-skin-tone-tool-could-be-out-at-google"
+  - title: "Lawyers Leveraging AI For Trial Prepration Due to Growing Court Backlogs"
+    excerpt: "The perfect storm of unprecedented court backlogs and a flood of new filings has forced the courts to speed cases through, leaving traditional methods of case preparation harder, more costly and in many cases too slow for current conditions."
+    publishedDateTime: 2021-06-23T12:14:00Z
+    webUrl: "https://www.lelezard.com/en/news-19870750.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 38
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/21114131/google.jpg"
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "7 smart ways even small businesses can leverage the power of AI"
+    excerpt: "Existing tools and low-code platforms make tapping into the power of AI an achievable goal for businesses of any size and expertise. And you might be surprised at AI’s flexibility—there’s much more AI can do for your business beyond powering a website chatbot."
+    publishedDateTime: 2021-06-22T17:00:00Z
+    webUrl: "https://www.fastcompany.com/90648920/7-smart-ways-even-small-businesses-can-leverage-the-power-of-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/06/FCEB-7up-EP-power-of-AI.jpg"
         width: 1280
-        height: 725
+        height: 720
+        isCached: true
+  - title: "China Daily: Businesses encouraged to embrace AI"
+    excerpt: "The online event, themed “The Future of AI in Manufacturing Industries”, was jointly organized by the Tianjin Municipal People’s Government Information Office, China Daily, and Asia News Network. “People have doubted that AI could go this far,"
+    publishedDateTime: 2021-06-25T17:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/china-business-technology-34ba539578b663039cc38b005e424dd3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ImEsXr6n/hOBWSqXBVZAciaLqNJC8uUc2l2cC1S+5ikm7okGQJyoFWkXXrTrygriEdb5rSmodViQABEquvtjKeOoeQNlFn9U9AW89/SjAZlVY2/CdihZZD60EBrdNZ/4s5B21RyS6ID93EIwhF6Q74J+q9ZBB86zTP9adMPxnL+Jm56ICBEO7C3iSF6oYsHMeUnvZvgGRBa1Alq4Gn+UQJjn2ODl4MtOE6Cp+iaFMTHgaz+bvqB8AFPN4jJTQ5h3Wr4f2w+zGG1RfqFWYvRort3ao+co+KVzf8KtyKNJpvJcnyv/ke3J5p8/LoHH72C/6ymzhWvmq5XzKVUELdNZ1hqmcKZtoR5B1fBQNHgtf23nZcxmvuOETHcjtXo12GxKsMOI6LOtJiHSEcYng/uY4i/1gaHbHwugrtXhmvjyo5LlnnQIByM5KLZHc8tElDusk9ckFJNiFWat7min3+AJuwYuFwTzwI1yI25hsMuzt+Bh65gMUUu41mcz+KyBxAc5LzR9JgCfqdgqkkZbtng+3A==;MsROaODwDoLZWJywFY6vZg=="

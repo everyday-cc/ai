@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
-    excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
-    publishedDateTime: 2021-06-21T14:40:00Z
-    webUrl: "https://www.techdigest.tv/2021/06/hyundai-acquires-controlling-stake-in-robotics-firm-boston-dynamics.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 69
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/Hyundai-Boston-Dynamics-1024x569-1.png"
-        width: 1024
-        height: 569
-        isCached: true
   - title: "Hyundai buys robot maker"
     excerpt: "Boston Dynamics makes plastic pals who are fun to be withBoston Dynamics has been purchased by Hyundai in a deal valued at $1.1 billion. According to Motherboard, the deal \"sees Hyundai assume an 80 per cent controlling stake in the robot company."
     publishedDateTime: 2021-06-22T10:13:00Z

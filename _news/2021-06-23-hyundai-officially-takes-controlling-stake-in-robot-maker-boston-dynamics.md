@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-con
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-boston-dynamics-spot-1592330458.jpg?crop=1.00xw:0.959xh;0,0.0276xh&resize=1200:*"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Hyundai acquires controlling stake in robotics firm Boston Dynamics"
-    excerpt: "South Korean car manufacturer Hyundai has bought a controlling stake in robotic firm Boston Dynamics from SoftBank."
-    publishedDateTime: 2021-06-21T14:40:00Z
-    webUrl: "https://www.techdigest.tv/2021/06/hyundai-acquires-controlling-stake-in-robotics-firm-boston-dynamics.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 69
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/06/Hyundai-Boston-Dynamics-1024x569-1.png"
-        width: 1024
-        height: 569
         isCached: true
   - title: "Robotics: Hyundai Acquires Boston Dynamics for US$1.1bn"
     excerpt: "Hyundai Motor Group’s Strategic Transformation. Valued at US$1.1bn, Hyundai Motor Group (Hyundai) has closed its controlling acquisition of Boston Dynamics - a mobile robotics c"
