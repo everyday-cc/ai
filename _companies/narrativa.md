@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NarrativaAI"
   url: "https://twitter.com/NarrativaAI"
-  followers: 941
+  followers: 942
 
 size: 2-10 employees
 yearFounded: 2015
