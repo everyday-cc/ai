@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-20-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19.md",
+      "title": "Artificial intelligence has been of little use for diagnosing covid-19",
+      "excerpt": "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/",
+      "originalUrl": "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/",
+      "publishedDateTime": "2021-05-19T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-artificial-intelligence-in-healthcare-market-globally-expected-to-drive-growth-through-2021-2027-intel-ibm-google-microsoft-general-vision.md",
       "title": "Artificial Intelligence in Healthcare Market Globally Expected to Drive Growth through 2021-2027 | Intel, IBM, Google, Microsoft, General Vision",
       "excerpt": "The Global Artificial Intelligence in Healthcare Market size is expected to grow from USD 4.9 billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period.",
@@ -1288,49 +1331,6 @@
       "provider": {
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-a-possible-novel-migraine-therapy.md",
-      "title": "A Possible Novel Migraine Therapy",
-      "excerpt": "Findings suggest developing HDAC6 inhibitors could be a novel new therapeutic avenue for the treatment of migraines.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/",
-      "originalUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2021/05/novel-migraine-therapy-neurosciences-public.jpeg",
-          "width": 770,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/hdac6-inhibitor-migraine-18358/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/hdac6-inhibitor-migraine-18358/amp/",
-      "publishedDateTime": "2021-05-05T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Samsung launches pre-order for Jet Bot AI+ Robot Vacuum with LiDAR and object recognition"
+    excerpt: "For those looking to possibly get their hands on the Jet Bot AI+ Robot Vacuum that Samsung originally announced during CES 2021, the chance has now arrived. The new robot vacuum has entered its pre-order phase on Samsung’s website where you’ll be able to reserve one of the first models rolling out when they begin shipping shortly."
+    publishedDateTime: 2021-06-27T18:44:00Z
+    webUrl: "https://www.pocnetwork.net/technology-news/samsung-launches-pre-order-for-jet-bot-ai-robot-vacuum-with-lidar-and-object-recognition/"
+    type: article
+    provider:
+      name: Poc Network
+      domain: pocnetwork.net
+    quality: 62
+    images:
+      - url: "https://www.pocnetwork.net/wp-content/zuploads/2021/06/Samsung-Jet-Bot-AI-Robot-Vacuum-with-Object-Recognition.jpg"
+        width: 773
+        height: 370
+        isCached: true
 
 secured: "J6yPCeNaEXnJsuQKH84W11o/tntpNxhVB2KhHNClFrqWsNVhN3NT2xAgaYTTzFkBHFGRl3aeDrFVxwrieYCCko0/xTt9UZJYq8J/8JHgTZxY+8YY2fq9AqdYMvbQbl1CrFCXIUCiQdP/YuAkekb86sUeamcoRckyfvCQORMVpUhDC75aAH8Q5HzKWJsGad5XkOOLczR3b8Mujl11pWYI96UzuRWm+B8XrRJQOw/y1OvgQMjwIsV+cd0W0ERoVcNjk9WxYytnFAY1+tyu1HuwJG434LcSGn93I1rJ/iewJi2M15oIVLQThaPMfe81U8h1oNzAi9J2yu88LksMkQXBMa0aum8FL2GnclPlI/B5KuP6A85JW25+Dsm3S2uYYI6XB6bfRmOnk8BiCw1z9BRTHdz1icchorUeDYV1bJosWODUp8qr6kVXiW0llQIL4YVxIa6fNbfViCvT406dCFMJRZPSvMpdyR/p2paWV3opld8HziUNLbkZ4Yw+dzjwtX0Ix/Bat169tsPzPMnJhulkEg==;MK7n+AkuQ6Ljm1gE5Qmwkg=="
 ---

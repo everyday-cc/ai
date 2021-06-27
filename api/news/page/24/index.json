@@ -2,6 +2,59 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-06-08-overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024.md",
+      "title": "Overview of Healthcare Artificial Intelligence Market Sales, Supply & Demand Analysis 2024",
+      "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024-2021-06-08?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024-2021-06-08?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-razer-sets-its-sights-on-saving-the-seven-seas-with-smart-robots.md",
       "title": "Razer sets its sights on saving the seven seas with smart robots",
       "excerpt": "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters.",
@@ -1067,40 +1120,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision.md",
-      "title": "Prospera Technologies Named a Cool Vendor in the 2021 Gartner Cool Vendors in AI for Computer Vision",
-      "excerpt": "Prospera Technologies, an agricultural technology company recently acquired by Valmont® Industries Inc. (NYSE: VMI), announced today that Gartner has recognized the company in its report, “Cool Vendors in AI for Computer Vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
-      "originalUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

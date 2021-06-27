@@ -2,6 +2,40 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-06-07-prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision.md",
+      "title": "Prospera Technologies Named a Cool Vendor in the 2021 Gartner Cool Vendors in AI for Computer Vision",
+      "excerpt": "Prospera Technologies, an agricultural technology company recently acquired by Valmont® Industries Inc. (NYSE: VMI), announced today that Gartner has recognized the company in its report, “Cool Vendors in AI for Computer Vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
+      "originalUrl": "https://www.financialbuzz.com/prospera-technologies-named-a-cool-vendor-in-the-2021-gartner-cool-vendors-in-ai-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-study-shows-ai-generated-fake-reports-fool-experts.md",
       "title": "Study shows AI-generated fake reports fool experts",
       "excerpt": "Takeaways · AIs can generate fake reports that are convincing enough to trick cybersecurity experts. · If widely used, these AIs could hinder efforts to defen",
@@ -1104,58 +1138,6 @@
         "name": "The Times of Israel",
         "domain": "timesofisrael.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027.md",
-      "title": "Artificial Intelligence (AI) in Precision Farming Market [ PDF ] To Witness Significant Growth By 2021-2027",
-      "excerpt": "The Top Key Market Players for Artificial Intelligence (AI) in Precision Farming Market Listed are :-, Microsoft, IBM, Intel, SAP, Agribotix, The Climate Corporation, Taranis, aWhere, Precision Hawk, DTN, Resson, Vision Robotics, CropX, John Deere ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-farming-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-06T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

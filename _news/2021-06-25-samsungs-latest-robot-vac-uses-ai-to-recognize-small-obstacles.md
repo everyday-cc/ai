@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-v
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung launches pre-order for Jet Bot AI+ Robot Vacuum with LiDAR and object recognition"
+    excerpt: "For those looking to possibly get their hands on the Jet Bot AI+ Robot Vacuum that Samsung originally announced during CES 2021, the chance has now arrived. The new robot vacuum has entered its pre-order phase on Samsung’s website where you’ll be able to reserve one of the first models rolling out when they begin shipping shortly."
+    publishedDateTime: 2021-06-27T18:44:00Z
+    webUrl: "https://www.pocnetwork.net/technology-news/samsung-launches-pre-order-for-jet-bot-ai-robot-vacuum-with-lidar-and-object-recognition/"
+    type: article
+    provider:
+      name: Poc Network
+      domain: pocnetwork.net
+    quality: 62
+    images:
+      - url: "https://www.pocnetwork.net/wp-content/zuploads/2021/06/Samsung-Jet-Bot-AI-Robot-Vacuum-with-Object-Recognition.jpg"
+        width: 773
+        height: 370
+        isCached: true
   - title: "Samsung Jet Bot AI+ robot vacuum cleaner launched globally"
     excerpt: "The new Samsung Jet Bot AI+ robot vacuum cleaner is launching globally and launches in the USA and Europe this month, more countries soon."
     publishedDateTime: 2021-06-25T11:10:00Z

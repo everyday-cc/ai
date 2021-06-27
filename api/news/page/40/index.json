@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-05-26-the-worlds-smallest-fruit-picker-controlled-by-artificial-intelligence.md",
+      "title": "The world's smallest fruit picker controlled by artificial intelligence",
+      "excerpt": "Inspired by insects that suck nutrients directly from plant veins, physicists have studied whether valuable chemical substances can be harvested directly from the cells of plants. Using a harvester measuring only a few microns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/05/210526115531.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/05/210526115531.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-maine-may-limit-use-of-facial-recognition-tech-by-police.md",
       "title": "Maine May Limit Use of Facial Recognition Tech by Police",
       "excerpt": "Portland, would allow for the use of the digital technology in the investigation of only the most serious crimes, including rape and murder.",
@@ -1089,50 +1132,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-laser-driven-ion-acceleration-with-deep-learning.md",
-      "title": "Laser-driven ion acceleration with deep learning",
-      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
-      "originalUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/laser-driven-ion-accel.jpg",
-          "width": 1358,
-          "height": 1210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-05-laser-driven-ion-deep.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-laser-driven-ion-deep.amp",
-      "publishedDateTime": "2021-05-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

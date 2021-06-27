@@ -2,6 +2,59 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-06-12-deepmind-researchers-say-reinforcement-learning-is-the-key-to-cracking-general-ai.md",
+      "title": "DeepMind researchers say reinforcement learning is the key to cracking general AI",
+      "excerpt": "DeepMind scientist suggest that reward maximization and trial-and-error experience are enough to lead to the development of artificial general intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-12T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-the-hard-truth-why-we-push-back-on-ai-when-discussing-diversity-and-recruitment.md",
       "title": "The Hard Truth - Why We Push Back On AI When Discussing Diversity And Recruitment",
       "excerpt": "The processes around recruitment are continuously scrutinized as organizations consciously implement interventions to minimize biases; for example, blind CVs and unconscious bias training for individuals on interview panels are two of the most common examples.",
@@ -1154,50 +1207,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-save-275-on-the-ecovacs-deebot-t8-aivi-robot-vacuum-today-only.md",
-      "title": "Save $275 On The ECOVACS Deebot T8 AIVI Robot Vacuum – Today Only!",
-      "excerpt": "Amazon has the ECOVACS Deebot T8 AIVI Robot Vacuum on sale today in its Gold Box Deal of the Day for just $524.99. That's going to save you $275 off of",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
-      "originalUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-11-at-7.46.28-AM.png",
-          "width": 879,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/buy-ecovacs-deebot-t8-aivi-robot-vacuum-sale/amp",
-      "publishedDateTime": "2021-06-11T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

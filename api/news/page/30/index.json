@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-06-03-how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic.md",
+      "title": "How Healthcare Will Continue To Rely On AI To Save Lives During This Pandemic",
+      "excerpt": "When we work alongside our customers on strategies to help them employ AI algorithms within their health care operations, we see industry leaders ensuring they have a solid data strategy in place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/03/how-healthcare-will-continue-to-rely-on-ai-to-save-lives-during-this-pandemic/amp/",
+      "publishedDateTime": "2021-06-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-digital-realty-announces-availability-of-aws-direct-connect-100g-dedicated-connections-on-platformdigital-in-seattle-and-dublin.md",
       "title": "Digital Realty Announces Availability of AWS Direct Connect 100G Dedicated Connections on PlatformDIGITAL® in Seattle and Dublin",
       "excerpt": "As organizations bring on new technologies and solutions such as artificial intelligence (AI ... and more expensive to move. The new AWS Direct Connect 100Gbps is tailored to providing easy ...",
@@ -1059,49 +1111,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study.md",
-      "title": "Machine learning could help with early diagnosis of pancreatic cancer – study",
-      "excerpt": "Scientists developed an algorithm that distinguished between patients who went on to develop pancreatic cancer and those who did not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/K6Y5WP32JE87E9UUDSCM.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/machine-learning-could-help-with-early-diagnosis-of-pancreatic-cancer-study-32449/",
-      "publishedDateTime": "2021-06-02T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

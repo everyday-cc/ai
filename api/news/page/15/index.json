@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-06-15-global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation.md",
+      "title": "Global Artificial Intelligence Service Market 2021 Forecast to 2027: Finest Companies in Market, Trends and Growth Factors and Market Segmentation",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent.md",
       "title": "Speakeasy AI Receives USPTO Technology Patent for \"Speech To Intent\"",
       "excerpt": "Speakeasy AI, award-winning provider of conversational AI solutions across omnichannel self-service and live agent care , announced today the grant of patent",
@@ -1123,57 +1175,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-how-to-make-sure-that-diversity-in-ai-works.md",
-      "title": "How To Make Sure That Diversity In AI Works",
-      "excerpt": "Transparency around talent pipelines, hiring practices and publishing compensation bands are table stakes D&I initiatives that can go a long way toward establishing diversity in the field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1124741602%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/how-to-make-sure-that-diversity-in-ai-works/amp/",
-      "publishedDateTime": "2021-06-14T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

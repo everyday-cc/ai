@@ -2,6 +2,57 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-05-06-how-ai-is-helping-nvidia-improve-us-postal-service-delivery.md",
+      "title": "How AI is helping Nvidia improve U.S. Postal Service delivery",
+      "excerpt": "Nvidia says it's helping the U.S. Postal Service to expedite and improve the reliability of mail delivery using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
+      "originalUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Postal-worker-e1620240510105.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/how-ai-is-helping-nvidia-improve-u-s-postal-service-delivery/amp/",
+      "publishedDateTime": "2021-05-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-global-chip-shortage-wont-ease-soon.md",
       "title": "The Global Chip Shortage Won’t Ease Soon",
       "excerpt": "The world is suffering from a systemic shortage of chips. What is causing these shortages, and when will it improve? Answers to those questions are included here.",
@@ -1098,49 +1149,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-the-dangers-of-driverless-cars.md",
-      "title": "The Dangers of Driverless Cars",
-      "excerpt": "The concept of driverless cars is here to stay. America is competing in a global race to make driverless cars the norm, and as predicted, nearly all major car manufactures currently offer vehicle",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/dangers-driverless-cars",
-      "originalUrl": "https://www.natlawreview.com/article/dangers-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/dangers-driverless-cars?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/dangers-driverless-cars?amp",
-      "publishedDateTime": "2021-05-05T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
