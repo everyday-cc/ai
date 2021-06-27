@@ -43,15 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Perfect Corp. Adds Facebook Integration to Expand AR-Powered Social Commerce"
-    excerpt: "Perfect Corp ., the leading artificial intelligence (AI) and augmented reality (AR) beauty tech solutions provider, is pleased to announce its integration with Facebook for the expansion of AR virtual beauty try-on and shopping experiences across Instagram and Facebook."
-    publishedDateTime: 2021-06-22T20:41:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210622006072/perfect-corp-adds-facebook-integration-to-expand-ar-powered-social-commerce"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 1
 
 secured: "YjyOUvkOUiLaHwqNocwoIrro493WdqzlkfVwKvSQxUW12SUBZW/RUQVyTUlLbIvlSXtKiZXwNHtgErPcVtNOqUufK+T46gV19HwMtpdFFePMOkYHJHaborzi7Qpsuikj/bx1Qf73STL64kMibn2kxa1cEWs76sZw/X0Yavs6j349/4oSAdn/Oh/ErYnqnGBantY7542IZxi2hFWA7r6xWQmK7+hCYWRY2sDMyvRxMqvWxnwjWKKUC9n2SwsQRI94leHniEpHRASxoqU7jWDSl2TqApK49QzHGq9HOWdTPJ3uoc9J6Sbs+ZEX65nz7QTdpAdD9TsWy7SFOlQTIIkV+RYrsKFlLQdIKX6H49NZUIzFkPwRCRAdK5YyJQCGO+kAP+lWVk+vNkOL4K89SJeleoFTMWQymdGf+TX6r+CDI3iItpOXpwteJqh2wMboUGAFxPdUfGDIvsT27W1/xcVnfWksWfham2Paijh12p21QmCuyBPBm3oIXcjtwwyNkVhzS5rq9vWo7OUpugPaRmXRTA==;b9baxBnr++DSR9YmEZxNfg=="
 ---

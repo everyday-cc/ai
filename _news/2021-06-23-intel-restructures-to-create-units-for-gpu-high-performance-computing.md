@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/22/intel-restructures-to-create-unit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Intel Restructuring: Navin Shenoy Out; New Software, GPU Units"
-    excerpt: "Intel CEO Pat Gelsinger announced that top data center executive Navin Shenoy is leaving as the company restructures the Data Platform Group into two business units and forms two new divisions."
-    publishedDateTime: 2021-06-22T20:51:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-restructuring-navin-shenoy-out-new-software-gpu-units"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026a-12954e303468-43c4f61a124c-1000/navin-shenoy-intel.jpg"
-        width: 610
-        height: 457
-        isCached: true
 
 secured: "g/UsI7C9wzKn/ncDkUyRZ8+joxkJUZRNFc59NPsb5kRc1E74xFqBILAdUnzl/kURxz+aPIebRDkmnlA6H8TNVaY34UqAjAlIUBEBHPG+znyBP4Zt3RKkI/86AxpLgLSwLoHFAUkJoohUMLPxNWH7i1wbbvecjxjYX6mWlv4ARYxC9FpC1l6h9P8kQrBFSzIgH9g+3NihyrzlxxPQGacW1gTm6Vl2jppF3E5A0QKBQr8CvdxRhFwAHYTTxJ7mKEoKdSzGEeS6OENJZLiXR1UiMWYSORW9zeD1oh+AcxT67qoyNp3Ni5WQfHVivKUAA5DkaJJxTv8EGDm9HlPBrHxt6E9V5Ww786n82Lcams5g0zZfVXcpx1E707scohgJnFrztucXUkxOATJyyval06HqaTljoXwbP+wvS7xNe6ovrrECFUxzt59KJKF+kRFrd6lez+PQ232myVDaYEhtkiUsSNFc8kjnLi+OGS9jzW1V7pLnNt4xbmPkTQGdvcGo/FJwGPL89Ni4Y4O174gCKrVdKw==;HX2zeEDlnCGeHDj0ALWeJg=="
 ---

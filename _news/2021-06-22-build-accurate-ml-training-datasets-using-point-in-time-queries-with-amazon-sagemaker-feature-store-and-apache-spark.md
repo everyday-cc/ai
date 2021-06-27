@@ -58,20 +58,6 @@ related:
         width: 800
         height: 479
         isCached: true
-  - title: "Create a large-scale video driving dataset with detailed attributes using Amazon SageMaker Ground Truth"
-    excerpt: "Do you ever wonder what goes behind bringing various levels of autonomy to vehicles? What the vehicle sees (perception) and how the vehicle predicts the actions of different agents in the scene (behavior prediction) are the first two steps in autonomous systems. In order for these steps to be successful,"
-    publishedDateTime: 2021-06-22T19:57:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/2-3859.jpg"
-        width: 800
-        height: 564
-        isCached: true
 
 secured: "bYkdAxWNxOuTbaRAHCvaX3oSSgeheZY6PoUG6Dns4ODtksFjz7br08MTMtXGiMJSpbwG4lv91b4rHzD4dc0tVqcBcxUliIzGPBW3tZOBBOUJ26nks/mQFBRUHkvmV7ro89pWdH3cAgSjpJ1anE4BVbAQ8qe2mYn+4HQbSwU675LUm/dkU/h2nUHbyTnqMbud2irTF23mcYfisTye8R5JN0mnvvcGsu0SuikC4GE9X85DcbsNGIvPqlHAA/gbaiOyFoPbRF4gcPN43s5KUBsIwTbgxmOBTgIsEdbApOgCifqHYPoV7U5pBQP8X7tGAFtVsLQpyTVcz//KHThjh2U9f524nFmiuyDpaCs0U3q+fRs=;4O+JPExYvRU6ixBuqq1OPA=="
 ---

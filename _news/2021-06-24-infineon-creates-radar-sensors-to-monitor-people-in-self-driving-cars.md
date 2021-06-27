@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/infineon-creates-radar-sensors-to-monitor-people-in-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford exec discusses the future of self-driving cars and autonomous ridesharing services"
-    excerpt: "It is poised to disrupt how we move around and between cities in the next decade as self-driving technology rolls out, according to Megan Prichard, global head of autonomous ridesharing at Ford Motor Co."
-    publishedDateTime: 2021-06-22T19:26:00Z
-    webUrl: "https://www.techrepublic.com/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ford-exec-discusses-the-future-of-self-driving-cars-and-autonomous-ridesharing-services/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 66
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/22/cb76eea0-7b93-4c17-b0c7-63be07fae3dc/resize/1200x/81bafa833ff62c463c854cf1bca87437/autonomous-vehicle.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "University of Waterloo researchers create self-driving shuttle bus"
     excerpt: "A team of researchers at the University of Waterloo have created a self-driving shuttle bus to travel along the campus' ring road starting this fall."
     publishedDateTime: 2021-06-24T23:19:00Z

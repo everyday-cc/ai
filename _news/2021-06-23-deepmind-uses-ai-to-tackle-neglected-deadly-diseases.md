@@ -93,6 +93,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DeepMind to use AI to tackle deadly parasitic diseases"
+    excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
+    publishedDateTime: 2021-06-27T13:22:00Z
+    webUrl: "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases"
+    ampWebUrl: "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
 
 secured: "QyudwvXLdAlnhD/gCyhn5XEYxsSQ1RkcNo5U9OuGANRKfjBQ91nQ/gdf5VW53bG4nmzxZ4qh/K9K3IszA8vaCEid814eSZ0weLY9f6xWzGE8jzG28pqt++fufWrGl91sQUQvjjsYzHgKbRZsi63G5bhIBUS6X2leSTctVYWC0B0OyDVgGNbxVcv1moJyG91FtUW31Znv4mhk1uTLaSNSJaFCPhnv6ZgsF13wmWMhGfZzoBX8faIrpVpoe0BzXpxQ2EckT84mYTVe0kM8DcrY8OneERhnCQxkRO7EqhAV/lb64/sDL14SzO3LPSG45zXUuZHnKWLrcYdL7CSNmqbz8/afe6eGZKLnSSnDj4c0MDWUAOdtO+GqudzYyWgwbIbBDRvmxx00R85ivZ3nJPuPAPNYcGfc4D/pImnABK2Vz3VU+kQA/b5bkDTPzlMaxIq/X2LP+SGGsL/OIwJND16SJZFMHTnjbgmCfbSRPXYNK4bwTj7/68vcP21ktLXVmnC5u8sVq53gPoTh5UP+4qCiXA==;WYvIl/dR3bdt1IxYY1JcAA=="
 ---

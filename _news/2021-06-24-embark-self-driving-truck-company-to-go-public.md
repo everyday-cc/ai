@@ -207,20 +207,6 @@ related:
         width: 1080
         height: 540
         isCached: true
-  - title: "Former Tesla Litigation Head Joins Self-Driving Truck Startup as GC Ahead of Going Public"
-    excerpt: "Lynn Miller joins Plus shortly after the company’s announcement of an upcoming SPAC listing via merger with Hennessy Capital."
-    publishedDateTime: 2021-06-22T20:54:00Z
-    webUrl: "https://www.law.com/corpcounsel/2021/06/22/former-tesla-litigation-head-joins-self-driving-truck-startup-as-gc-ahead-of-going-public/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 30
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/PLUS-Headquarters-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Embark Trucks Going Public, Ready to Commercialize Class 8 Self-Driving Technology"
     excerpt: "Embark Trucks Inc., a developer of autonomous software technology for the trucking industry, and Northern Genesis Acquisition Corp. II, a special-purpose"
     publishedDateTime: 2021-06-23T17:18:00Z

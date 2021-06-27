@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-visio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/"
 type: article
 quality: 128
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         width: 768
         height: 385
-        isCached: true
-  - title: "Create a large-scale video driving dataset with detailed attributes using Amazon SageMaker Ground Truth"
-    excerpt: "Do you ever wonder what goes behind bringing various levels of autonomy to vehicles? What the vehicle sees (perception) and how the vehicle predicts the actions of different agents in the scene (behavior prediction) are the first two steps in autonomous systems. In order for these steps to be successful,"
-    publishedDateTime: 2021-06-22T19:57:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-a-large-scale-video-driving-dataset-with-detailed-attributes-using-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/08/2-3859.jpg"
-        width: 800
-        height: 564
         isCached: true
 
 secured: "8CIuXYzJX642FThLt9hs2yM5G4FqKvUY4d6oIFs3jRhykTD3Un/aoTWO5HEJLHZq+zsQPknul5VjJWTjnry621yiFaNDGQ9ZYZU2DUFyyQ0Mnm99HrHOxoDSWfxqbima3UFreK/9mbk427WKmbvZUX6lg7lH+OUqXb/Rg8n8xPcBy1g46bvIjG1MYBrhyD2GqZo3sI2t0A27HGL6Az+iyFXC4fVFpuRvPj0TH+PPZ73xQE9G2n4d5N4Dp/JdQqMl/wPw9fvuBga/uqZJ+Wax11plemsswFpJ4PBRBJs4CUtrJ7vgxrTfElaEHMXxooKRTLvxt1WBtyZCmc81l0Xcv4OqcK327ONKVIq0z7ll8yI=;oFU1vc7DiMGr0JdnU79poA=="

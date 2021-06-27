@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/cio-briefing/2021/06/deputy-defense-secret
 webUrl: "https://www.nextgov.com/cio-briefing/2021/06/deputy-defense-secretary-says-us-needs-defend-its-artificial-intelligence-better/174892/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "US Needs to Defend Its Artificial Intelligence Better, Says Pentagon No. 2"
-    excerpt: "AI safety is often overlooked in the private sector, but Deputy Secretary Kathleen Hicks wants the Defense Department to lead a cultural change."
-    publishedDateTime: 2021-06-22T19:58:00Z
-    webUrl: "https://www.defenseone.com/technology/2021/06/us-needs-defend-its-artificial-intelligence-better-says-pentagon-no-2/174876/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/06/22/GettyImages_1156450227/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "ChP/G5v/xe5dEWiMdCMWGqN6+F6sISStYfF/txpimCFCbx4QCai2y5vGUrwiBnyMRgpXQrbgFwUlvhPJmpGq4JLJaayTar1/LQ+0sGtBRM2btI7q8fazWXd1y/580GgXQUXQEPdtAKOfkQrgnqV1tzKWCRzHeR9rS15Lud1rYZnczXVwiZdj1oQftROIRAoy3qVkRyTWGN9fcd2zkoj1owNo2Uususr6NLcE7QQ1Z7trbgP4zUkFFdycUauQGcdeih8bFOVyXFTIkQRceBM+toWdpQPQpvcuXYJEuJkN9vy659XnBsJeSaXp4Uv7AVPJTlt57EQEEm06lfxYXsH9yTQ7zJTn++uwrBeag14eJTD+HcgkQ/MVkKYI75cv4ypFO0lHHdLAh35OATz6OItCmDbkUCHyxi+jAOghItHMfmJrl5EUiKbPU0XeTpX/2xTaEd6+7BBPd5aYkin5BDtH2hj2UuHY78NuXmc/R58ZM9TIMNf+0QP0JXC5zYVYcBtqAIRs74Ocb0U5jM5zuZGzRg==;pe9pVE+29e0/5HnqjQf6lw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/press-release/judi-ai-pledges-1-of-equit
 webUrl: "https://www.cuinsight.com/press-release/judi-ai-pledges-1-of-equity-to-vancity-community-foundation"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 792
     height: 266
     isCached: true
-
-related:
-  - title: "JUDI.AI Pledges 1% of Equity to Vancity Community Foundation"
-    excerpt: "Small business lending fintech finds an innovative way to help build healthy communities VANCOUVER, British Columbia (PRWEB) JUDI.AI, a fintech leader in"
-    publishedDateTime: 2021-06-22T21:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/p21675002/judi-ai-pledges-1-of-equity-to-vancity-community-foundation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21675002"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21675002"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "F9xZlk14Z3hpQZ+Ixj4UEp5trFbDkYHKBDC/5Rvvqv6eRhKgoVb+wJHHLZzY61LCTRzp7eVrCY3n9CCYvmHEmSvZ08JdsQFJPDs+CUUn7w4YGrNTE8c+yQINeUOZd+iDv/NxjZ02czTQokQie9S8ES5dmvoQs9RgDb/LSHeb1H1iyWQpTYti9vvnbyaLVV2iWfEDQGcoz5L8yiCYzSmKMf/MdK6xAI3C/Ai7vjuuRpk5Ibp6BL7tYyVQbUx86yzsqes6+dQ5AXnYfpT1h4qlMD1ubgTyTEpvB/OUumoq+orYTAIJfNEXZTWeaOMT2DgWU8swtHYgCzFB3zM1mkXPW45QqaaKukWYktR6WzpzN3w=;h1C7SCoC6h7kRujJTbV7xQ=="
 ---

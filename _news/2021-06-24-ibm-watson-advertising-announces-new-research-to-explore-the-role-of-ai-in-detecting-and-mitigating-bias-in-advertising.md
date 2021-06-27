@@ -1,27 +1,31 @@
 ---
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
-publishedDateTime: 2021-06-24T11:04:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
+publishedDateTime: 2021-06-24T11:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
 type: article
-quality: 30
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -76,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 39
 
-secured: "ZxrvcwlK9nuBArYRVZXjFRZaERadYajnYPrJWEeO+uBxsdiX7ltZYCS2uWUz1P32nbcWzL+tsAEWxt4BGe6GiWNcjUKA+ZLxBh1yZlI8S7udT+CwvKgKs+6jOPAtPH5XutBzTIKBQN1XwUpp6+4X+785TRIBCNwNdJrU5Zdy0cdYaM/MVD+qnCiGh8hCjx9BfXnOCOCYCsBabZeu93lbSbc3saMvFVD8y8JTXSmUkXChNcvsigBVBdrfbVrLxXOhrzeHtN5SY8Gt6QFQPW9+VaCUaTL+qsHWB5Fi2m7HY20+0ORIu5xinhituTPSXB6t20Zc/h6nxDnMcPjsno7fxoVcyMUzrQSuhFrdm3lgOwU=;pP8XlopfdO3sM3hcv5Qhlw=="
+secured: "JFGffI3l+TJQXeZxofxvr5OQq8ExmDrn0s+wcT+JobOdrpuCdMjCfOt9CQeLOj+5JnBM41PTYZQRP04+El6gBe5T7eQkDbo5SfKVYwTL5xfiDhXQHDeb+pKT0eMWF0HnilR38tj3YySmgbvj1aBfOnZhMhlkEPVunOYiGIK9N6/eGAaK8w88E7LTf7Bi5mA9WmEUNcI/Kc3MIQrn2Xpvl/esaWbM4x5dRDCAi5vq+N+ggMa4KQsumigCOYKX70G8AP2T5MyqPPWN6pANubdWAm/OdgD+YKiGqDzjTU45NI2/Ol7XzQ/9yaTTb3zjQHubFD3zghniSbrg7oS2pq1nPleR2XfYYLa8slqZ5bg/Mc4=;AEztAs06DmQWriYUGSKutw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
 type: article
 quality: 125
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -96,6 +96,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DeepMind to use AI to tackle deadly parasitic diseases"
+    excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
+    publishedDateTime: 2021-06-27T13:22:00Z
+    webUrl: "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases"
+    ampWebUrl: "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
 
 secured: "hGMABwhxq8IWYyOGtH6MMNyzFgnN1L3fUk4rdOnkvSSjo3Wj+2NU+6vVISuijVq0nbLqjR6TJiDguvFEF8O3cLqmTApY+MliF8iPfNfcaqMs4K93DsQCu9uR6+DBrJKheAZT4GgOWBFyX14i79cmqqG7eO1ja93nmt49XPy64fAw5oMNzVggc/29nzwpIanqeNbeeXi+MWOo9gYSYq7PvWsSrx34DBUTsPURt0XFXAChVty4jrzvmnm4130xAjA+tNiV7BQ4ZmkH8mpKH8kVeTnBMZr1w51t2VZFFeBjPR4nufR49ihLehQuFZ3Z+5I4zkBDx/HVMyLA0/sahB4Ztd1fRPK0FpCUVoR8ydOdsQpq5NGndaeh9oWrdwbccSPsT97FDZimfbjcpysS1Q9ygvS/UcT9k3UK6MtCC7gkKMTCDsL9kgh8pdUdjhxvDzF7P+ykMIUvMNKGuRb2PPDqsnx1u9mMtojr544gXrZ0VjQzFqoORvEUxDU887JkMKJ0IjH9Arcsf9+g+XjEgW3AUA==;4V3fp7jdiocHhaJJs3szhA=="
 ---
