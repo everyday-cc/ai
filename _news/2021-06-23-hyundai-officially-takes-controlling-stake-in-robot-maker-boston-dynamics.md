@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-con
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts-based robot maker Boston Dynamics acquired by Hyundai Motor Group"
-    excerpt: "Controlling interest in the Waltham-based company that makes those unnerving animal-like robots now belongs to the international car company."
-    publishedDateTime: 2021-06-22T14:22:00Z
-    webUrl: "https://www.wcvb.com/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
-    ampWebUrl: "https://www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 70
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-boston-dynamics-spot-1592330458.jpg?crop=1.00xw:0.959xh;0,0.0276xh&resize=1200:*"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
     excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."
     publishedDateTime: 2021-06-22T15:29:00Z

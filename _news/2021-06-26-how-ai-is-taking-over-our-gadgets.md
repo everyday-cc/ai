@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
 type: article
 quality: 87
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
-    excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
-    publishedDateTime: 2021-06-22T13:40:00Z
-    webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "How AI-powered pricing is shaping the customer experience"
     excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
     publishedDateTime: 2021-06-24T06:47:00Z
@@ -89,20 +75,6 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
         width: 417
         height: 450
-        isCached: true
-  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
-    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
-    publishedDateTime: 2021-06-22T13:55:00Z
-    webUrl: "https://www.lelezard.com/en/news-19868775.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "sUXAMvR/G7y2JzyxmZj3F7ZL7HN5gjUw5og03Zp6wPVmCDSrmyleLPzHfXVkp0M/p/2/Yty3RKNCjVi1Mp4xaGhN8IKa0/WkFR8PH/NkLS9rwny9rjD1zFSO/uVr14HxI+BE89D6/P0tx2l3A22ne1HMIQXIkdRM9Sy6HAJ2EKO1zqW5YneeP57ds6q2hapQes8oLbnCO2NXmzpy4FVx+ndtZWUwkFtktW5jX4fo1CoOMsXX4xV7HeeYOr4jkq64ylsDqWR4vhop7xdrlh8QyKkO1YPUbeNHZ4yqdqc/U2bURnqqB8bFqRxeyfkyOJFf5KLjLpIfDtJ7rH6OND7Lsp2xcAVByPiYDEGKS1Pc2IID6t7jTVnmn3TthTFFLdGnqq5cQh3f1GcR9psb+P4j2rYuSl73X60sPnnG1DrRoaS6i8lqd/KbO56x/24wMnpZZfhLvJuaS8VJenrNntPsJc7xevMoelkM4ryMe0lkNfrHRYFhHZyy1/1uegDpIB4b34+LHW3lKVCsaYY1n8zdig==;LcXbDxr/CQpQD/8oeJN1mw=="

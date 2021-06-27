@@ -47,22 +47,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Google’s Visual Inspection AI spots defects in manufactured goods"
-    excerpt: "Powered by GCP’s computer vision technology, Visual Inspection AI aims to automate quality assurance workflows, enabling companies to identify and correct defects before product"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/22/googles-visual-inspection-ai-identifies-defects-in-manufactured-goods/"
-    ampWebUrl: "https://venturebeat.com/2021/06/22/googles-visual-inspection-ai-identifies-defects-in-manufactured-goods/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/googles-visual-inspection-ai-identifies-defects-in-manufactured-goods/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud.jpg?w=1200&strip=all"
-        width: 1024
-        height: 671
-        isCached: true
   - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
     excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ..."
     publishedDateTime: 2021-06-22T15:06:00Z
@@ -74,20 +58,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
-    excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/22/googles-vision-inspection-ai-tool-automates-quality-control-manufacturing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GC1016-VIAI-Sizzle-640x480.gif"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "zC9vusS4tmexurPF3imk2/Ln0idOnJZ559lDhrtqmbrU1ZpVAIOZBSo1eaAkwysMbS21q8cCJqbc2toX0lSQHonM8psZl5FNOXdo92iinib3OarBqab3cfJkz+yn2DnfKygcl51zLPKPKcAJNjLSl5zITr9hTFaOGwMIsvy3r5QJL0QipiqdJH9EVLE2Is2Zjjgoo3dUBrltee054ubr7w9qT/9ONGVskBI28MqsY7szxz8tQmnKbg0QtpQNqk5k1wZa5sajLVM2KctXtJznR936EO/7BlfoB0uxMqwI8aS8EXJyXW8tiUaIUKxFYxdCp/6Cp0oI2vO1cxr1hUeqkMRDoccTZXEkHIdAt+IebSI=;q+bvAr4mXNJCKGssbER6jw=="
 ---

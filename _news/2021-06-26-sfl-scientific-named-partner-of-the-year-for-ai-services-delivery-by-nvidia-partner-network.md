@@ -2,21 +2,27 @@
 category: news
 title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA Partner Network"
 excerpt: "SFL Scientific announced today that it has been selected by the NVIDIA Partner Network (NPN) as the 2020 Service Delivery Partner of the Year for the Americas. This is the third consecutive year that SFL Scientific has been honored with this award."
-publishedDateTime: 2021-06-25T20:01:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sfl-scientific-named-partner-the-year-ai-services-/2021/06/25/9398251.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sfl-scientific-named-partner-the-year-ai-services-/2021/06/25/9398251.htm"
+publishedDateTime: 2021-06-25T19:59:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes"
@@ -126,6 +132,6 @@ related:
         height: 680
         isCached: true
 
-secured: "cel7lDdSX0pQmmG60PIPd+kVe1+6Wap8ioOsK/7ITIhmOJ/9WUHpTSkCJ2OnUQksRuDarRjXFOwawk9yd6h8p/VWJdV9YWPIiu2HOql/4Q/lumCannU+7MzbraCWKeViHMypwz3YsQDMKHR8fB7SlH3+HzIyezmkyfEX/v6mGlUi6jN+iOFImKNMxgEw4Vl1ZinCzvbOvqR2qKbU6eN4tCZ43PLOCjYpPg4eJhQ1paqaQby8aamdQA8zawWPTPw1R96KgPbcpUZk3fetRaGLBdgjeWTKJYn8N+i3QNhr3oyPSsHAbMB5tnm0uywDlqo7kuJjRX4eco79xEfjv0ydoH27Yu5XmhixFhy0COBibbg=;gVok7f4q4nCrAoejqPBdFg=="
+secured: "YnZXanDJwfD6qMmSJ2iDfU4/XBkfjknBxHgOha5qJ3JZq3fa6X+f+A2q18PejDq49D3T4BYk0Qpe9ZNqGxuaEOwE+D+hjEt5MluTSvON3keTYtVfcSjvosJtaYXCYS6h2u4ZBvK4ciZyEMqS8LtfhlBkdrblB+KtPZCtibdi5iXrXQkopKHMHn22KEc4HXOmoUiAByaa26q3kGM1u7lKPTYAoYhoS54xu4O4evBVNq/wVqr303yycMtyrlbt9xP55P+ufM4jDYWj482AbVW6+Chd//SpxjbKpgTP6LFABaP23zwfJrRU8Sz/assP5KIzi1GdeEQFBN+YVna52g7/flH1xoVAN3tvVRAExpOFfkY=;cDG9DxnTxrbshr99EkmBrQ=="
 ---
 

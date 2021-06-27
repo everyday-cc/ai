@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
-    excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
-    publishedDateTime: 2021-06-22T14:49:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Built One of the World’s Most Powerful Supercomputers to Train Its Self-Driving System"
     excerpt: "Tesla just showed off its massive new supercomputer — and according to the figures it’s released, Electrek reports, it may be the fifth most powerful unit in the world. The car company says it’s using its newly gained computing power to train its vehicles’ Autopilot feature,"
     publishedDateTime: 2021-06-22T17:28:00Z
@@ -99,15 +85,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
-    excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."
-    publishedDateTime: 2021-06-22T14:45:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/22/a-top-tesla-attorney-jumps-to-plus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "yE3eX4vFYQsmn7t0O8WczvTI/Y8W1zkGCgi70kSxmdie/Nc3emaXvH48vc50Fehqc8xqnmpvFfUsiGdnjUpmS9T3hmsYqIhmLkLGncyrfSw5rQC4Mcnq6E8xlfl2M0JTeyuQKSMXBIllaYrs2twDtA2ZonXp+1NHe0hK54AxGj6LESeUhxtPTB/U2crwX1GKYm6XObn8FLSG2vCxndQkomxF698I0P6tKBLXOhsUslRzVXEuQIu2LvVwhg7p8ciXybEu+Y8hGzFWn+UnkY4B1MrU9I/Tc3+U+2RGTCxxoyMI5Qfixcc57eTtkbjXqCfy4yWkQR1vhNmSKhtK3HphVsL6yoNxtaQXCFQ99ztbnt2LdP2K85CTYjky+rzU6Omg3TQkz4E7z57JE4yhfYVcYWSj5FTgRJzOxR7Mbvs0E65qNEvMRRDX1sJC16ZRhB3kEBTUBflExk2Wb7XE1qAZIeO+6yswaxkV+ukfn6nwum97dccw0yxXakNwreF9z0l8CgUM+2vNA5UCGfCy7o8t+A==;etCVjtFkrx1dZR5rXrBPQA=="
 ---

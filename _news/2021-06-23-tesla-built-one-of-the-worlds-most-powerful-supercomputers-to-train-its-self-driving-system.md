@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Is Developing a Self-Driving System That Only Uses Cameras"
-    excerpt: "Self-driving vehicles currently rely on a mix of cameras, radar, and LiDAR to ensure they have all the data they need to safely navigate. However, Tesla intends to rely solely on cameras eventually by using a neural network to achieve vision-only autonomous driving."
-    publishedDateTime: 2021-06-22T14:49:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/134069/tesla-is-developing-a-self-driving-system-that-only-uses-cameras"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-is-d/tesla-is-developing-a-self-driving-system-that-only-uses-cam_vge5.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla unveils supercomputer used to train self-driving AI – report"
     excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
     publishedDateTime: 2021-06-23T14:01:00Z
@@ -99,15 +85,6 @@ related:
         width: 1344
         height: 743
         isCached: true
-  - title: "A top Tesla attorney has left to join self-driving truck maker Plus"
-    excerpt: "A top attorney at Tesla Inc. has left the company to join PlusAI Corp. as its general counsel as the self-driving truck company prepares to go public. Lynn Miller was Tesla's deputy general counsel prior to joining Plus."
-    publishedDateTime: 2021-06-22T14:45:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/22/a-top-tesla-attorney-jumps-to-plus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "k3SNMlYogzVesJaEf8nJVyYeWUngsvFDec2H5H5ofQCM2O/CSJFNJVCuGrXm93AFqXsGKBYRW7DsHB0TcgOxUokti9srUKHmpmgdOkFASTklkzVy6bR7WE+D7SkvhopGxL4VHzlf3z1Q46CcNmpcX74D+Py5qXHb+/d0iGwDa6Ng1pedHjUh7oRy6Kn6AUMkkE6O96gFF5Mv10HVeO2AWrYqIBDHszwD+/yvGnSlie71P8hDN3gU6G48BrLHBM1nEU97A5ci2QA48YP443yNwE9goL2mPQOPn8wVaAQvVXU61ZiP21LQfIBNbShia4uttQR7jWxWRfPcHJz3iXtRXI/P+LnonJfGyvBnDqYQHnjGgnfbSvt6o6scz1oZtcfx7gk8kI03/Xpxz2wB5smrer+cIFU74GeoipnnwU6iksm0XnSz5UibW+QrVjPDf5e4pN6DFrGgtkU4Uwvg1u95jxgfX5iQPy4+GoIaa/a5DTQwi6NkxbLw21HNGn5dxLPGfHzioVr+v5Z75/6RWqNhxA==;H0Bg7l0nY+L/+0Z0wVJeZQ=="
 ---

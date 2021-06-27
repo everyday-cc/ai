@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.h
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
 quality: 68
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U625924396_g.jpg"
         width: 660
         height: 300
-        isCached: true
-  - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
-    excerpt: "European privacy watchdogs have called for a ban on the use of facial recognition in public spaces, pointing to the “extremely high” risks to privacy. The joint recommendation, which comes from the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS),"
-    publishedDateTime: 2021-06-22T14:56:00Z
-    webUrl: "https://www.techcentral.ie/eu-privacy-watchdogs-call-for-facial-recognition-ban-in-public-spaces/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2013/12/Surveillance_IDG.jpg"
-        width: 620
-        height: 350
         isCached: true
   - title: "ITL launches USB device for facial recognition, age verification"
     excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."

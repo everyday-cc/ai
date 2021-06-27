@@ -43,20 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Facebook Says It Can Now Detect And Track Down Deepfakes"
-    excerpt: "Advertisement Deepfakes have been jolting the media for quite some time now and creating unnecessary stirs in the international world. For instance, the picture shown here displays Barrack Obama’s tailored video shows signs of facial mapping."
-    publishedDateTime: 2021-06-22T14:59:00Z
-    webUrl: "https://wonderfulengineering.com/facebook-says-it-can-now-detect-and-track-down-deepfakes/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 24
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/06/deep-fake-img-1.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "Xm/HOnAI+dADh1jzdbyYj7544/k7ojVu8hvsWl35OQxYEm+ErvOw8RgvaQWYHT/VFX1rKHRC4R/En15S0UtzKPe+CB1nn1YNaeLZtx1NKM80uLSD1wtt+xExssmP0jV32o6ZeVV31NWls2R4ObCD/x4qKGGkWkS/uPlUromMYFcbMmghjhXPcAQxqL3WdCUZOgfDJnReRP4l4u0gXVmqtns5G4RGG28LvoE9RYe2JPCeOddIisTVriIViqj9DqzlUN3LBYZfhPD15nZXCF1oIgO+fcQRDoHvJMSbEzh4NqxzkkkMPnx43DYxvDZBZZP21EBKHOZ54T6QhHOPMGcsl04Kjr4s74pG8A1L/IG1SHKEXa54UNX5ZJRA6GI8LUgea9HEqdchahjtpkfsRKY/SfPfz/v+KeyGVFI0plz5pHdFwENC+6Z++q9e+Y7kAh/oy+XCpinMpoPsR/OiqsWQeUGOBSekley2wPYq3BVHG0Ieo3Fm2dKRHDOz7oeJOmmD/Cbcy/ZSNHm+xAyRO+FUmw==;d1Eh+zpPBjDVcKuYdroK6Q=="
 ---

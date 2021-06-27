@@ -43,20 +43,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
-    publishedDateTime: 2021-06-22T14:24:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/06/22/isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 26
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/Z840xHq2aUb5EUOwS5yQttAyhYM2Cy2qXGXI7JJ8.jpeg?w=940&h=430&fit=crop-50-48&s=3cd34e04e63ba8cbc2a30bf20a3a2724"
-        width: 940
-        height: 430
-        isCached: true
   - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
     excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
     publishedDateTime: 2021-06-24T12:38:00Z

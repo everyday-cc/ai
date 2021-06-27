@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Commerce.AI Launches AI-Generated Market Reports"
-    excerpt: "I has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/commerce-ai-launches-ai-generated-market-reports/article_7b36e43d-ff4f-5bb3-bf19-c1b53cdc1788.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/f1/4f139823-c29f-50e0-a7b4-a5bdc5d7e1e6/60d1fc1e4ef8a.image.jpg?resize=1200%2C624"
-        width: 1200
-        height: 624
-        isCached: true
 
 secured: "LIeIexJKGwdbAsSPUzAA+20mJ5XWSgQfR9JB9hoYGIOZIU+GUeTm72WLgwwVSMzGP1NXLzwBEeWIPe+hFcWWNvhpu2Od0BG4BCa0oX2ufK/vt7z3DSh3Jb4zF809cU3tQRqsLePecDRDd78iAa7O4jXbNW2r443ob8AfABmRTdfzXD6/+VyF1NqAV+0cYUj9grmDWKrfL5qTsv1zbzuzpICS5j0497AgW63ebYq0gNAfI8Lcr9yaJjgMHSFsliedmJCBin3Mu90oXaTkFesKReObFi9+58SyvxBvKoK3yvwFUEByMpoLiCFXlcONDUL7cf7HqVZa4OXZ10HoI7lXTKXv+XshrEgwam37g7q9zPhzQ8BzmfnAoh8PCBNGXR09FAc0d5/EwtSup0ooOGkkVhAl4sgsQdQFd1f0NhFC5oOi2qQSgWBY/1LSAMopvJ0h0kRKcF/54SW1Mi+eoySfwZaVRhO3VbGLCi5D0ct7TmqD/LpHFR6uLccp4s3ly9iUIvBHERyUAEwLhiUxenEkNw==;osk6Vv/BNylcDwr0ncP5vA=="
 ---

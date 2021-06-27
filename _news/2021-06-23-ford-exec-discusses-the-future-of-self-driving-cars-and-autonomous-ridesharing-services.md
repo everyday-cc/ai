@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why passengers might actually feel safe in Zoox self-driving cars"
-    excerpt: "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features."
-    publishedDateTime: 2021-06-22T14:00:00Z
-    webUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/"
-    ampWebUrl: "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Infineon creates radar sensors to monitor people in self-driving cars"
     excerpt: "Infineon Technologies has radar sensors that can monitor the well being of drivers and passengers in self-driving cars."
     publishedDateTime: 2021-06-24T09:00:00Z
@@ -63,21 +47,35 @@ related:
         width: 1200
         height: 592
         isCached: true
-  - title: "How Amazon-owned Zoox designed its self-driving vehicles to prevent crashes and protect if they do"
-    excerpt: "The hubbub surrounding the autonomous vehicle industry often focuses on venture capital rounds, speculation about IPOs and acquisitions. But the industry’s future also hinges on the high-stakes task of proving the technology can operate safer than human drivers do today and gaining the"
-    publishedDateTime: 2021-06-22T19:33:00Z
-    webUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/"
-    ampWebUrl: "https://techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/how-amazon-owned-zoox-designed-its-self-driving-vehicles-to-prevent-crashes-and-protect-if-they-do/amp/"
+  - title: "University of Waterloo researchers create self-driving shuttle bus"
+    excerpt: "A team of researchers at the University of Waterloo have created a self-driving shuttle bus to travel along the campus' ring road starting this fall."
+    publishedDateTime: 2021-06-24T23:19:00Z
+    webUrl: "https://kitchener.ctvnews.ca/university-of-waterloo-researchers-create-self-driving-shuttle-bus-1.5484758"
+    ampWebUrl: "https://beta.ctvnews.ca/local/kitchener/2021/6/24/1_5484758.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2021/6/24/1_5484758.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 60
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Zoox-in-SF.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2021/6/24/2229360/_jcr_content/renditions/videothumbnail.1624576771608.jpg"
+        width: 616
+        height: 347
+        isCached: true
+  - title: "A Third of New Vehicle Buyers Want a Self-Driving Car in Next 10 Years"
+    excerpt: "The ongoing will-they-or-won’t-they when it comes to consumer acceptance keeps inching its way toward “they will” as consumers begin to come to terms with self-driving technology. A new study by CarGurus."
+    publishedDateTime: 2021-06-24T13:00:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/06/a-third-of-new-vehicle-buyers-want-a-self-driving-car-in-next-10-years/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 24
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2020/12/Uber-ATG.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "hIsZMfMJ5nqVt6vFxNg7DZbDuO1YxDZaXJAb5ehbeAMmKukyfwwyiLI1ll9ipGF/fbHBfJJCj8qvElPJO6eHL28kk5HAx6nZD3isEEuZ0WaK+ItHVryDk/vxgkqd+d6GRGKC1+bsfKXcCIA2uWfgtjkNtjWkesebWYdt8ymOfefPmWibmZGT99oS3CwvF+m5ORZCWpZXHorUQ0YCSN4dlFqqXl/LBwAnboQMJnk8g+kAU22bBgOwxE3vbFScdumpJ4RdEr5CuxzpNsQAIdeSZQBO0UtCGNuAbZev099Zwps7xcfOKI32iSyr4z+ts5AFMYmPHCPRBGOxoEOMoMiuXdCc+zO1PVjW6/wb2qx/SEQ=;rIj7exZdG6n9wiqovokAnQ=="

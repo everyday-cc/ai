@@ -72,34 +72,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "5 Factors Steering the Power of Artificial Intelligence in 2021"
-    excerpt: "The power of Artificial Intelligence is thriving due to multiple factors in 2021. Almost every industry is motivated to adopt machine learning models with artificial neural networks. Computer vision is integrating data management tools for higher ROI."
-    publishedDateTime: 2021-06-22T13:40:00Z
-    webUrl: "https://www.analyticsinsight.net/5-factors-steering-the-power-of-artificial-intelligence-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/3-Factors-Accelerating-The-Growth-of-Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "AVer Europe: How Artificial Intelligence Is Enhancing the Business Meeting Experience"
-    excerpt: "Rene Buhay, VP of Sales and Marketing at AVer Europe, the award-winning provider of video collaboration systems, discusses how AI is helping to make business meetings more effective. Artificial intelligence (AI) isn't limited to sci-fi movies"
-    publishedDateTime: 2021-06-22T13:55:00Z
-    webUrl: "https://www.lelezard.com/en/news-19868775.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "RYREE5sUja5UPcO3Z1UJ1zsMT9Esr6cl8Bgma3IFbcQMjE0SdD5eXsf/16LRVLaqdIMGpt9gcw9VXvrH+qLx3Hfsepm14ZUajKQajekRNHqYB1Ba5AZtoWaXlLBm0fFgjJ3pNDBqvWIJ8I+030eDtcZ7qAkFclHyNTNKqSEGS2RFR9TZHWmtbKpkpPVm5yFRNICdrVbuRf17FwRXu5dNfQpNypy0umY8MRaM0lncF/ZoLfktCMjUV5sX285c8/z4Jizpy4vrS0CD5C4uEZmQS0s9+GHgd9Cnhxf9PqWxFrcuwoeVD7nYVzbl/Zeg7OTcKaEZUM0QZJQEO0du1FDdu33NNGqX6zdbDUYFcfY5wUA=;QYI6V0oRvYGlmFhfPsLQDA=="
 ---

@@ -51,21 +51,7 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "İşbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in… | International | Finance | Technology | Banking | Fintech | Te"
-    publishedDateTime: 2021-06-22T14:24:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/06/22/isbank-selects-driverless-ai-platform-from-h2oai-for-income-prediction-cash-forecasting-check-default-prediction-applications"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 26
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/Z840xHq2aUb5EUOwS5yQttAyhYM2Cy2qXGXI7JJ8.jpeg?w=940&h=430&fit=crop-50-48&s=3cd34e04e63ba8cbc2a30bf20a3a2724"
-        width: 940
-        height: 430
-        isCached: true
 
-secured: "aWzPPa/bBWUHBJndPFfNrq60tTWnJy9N2L7B6yat2xpBMMQpIrgcrXGxy9o5wYwUoJIQ6FtfPdJWU+yzGFcWozKG0xw7fKA3Selp0IXSLQfigU9BnI26eY5VZNfS/JVcURbvh46yevwGiKRdrMRHkZuL/PBxhCTgPlfOZ6OuOvGRa7sAwpJeZVaf2PAxpvtn9nTi4/FKHbXZCcPsbQX5zPL2L7aDLogg2WlRT9+i6+cjPyoyZvhQdvAb+oa2G/XGHTl674Be0HnPquOFoS03xkWBzeDiMm5rJ671PZ4POCZuQIMZEejpmyJL38SCY0r/F4HbVw4pAkS1obtUgsOVGAAGK9M7gyg62qAQxtID3/g=;eAOoZx7TQiUK8VynOmscWA=="
+secured: "zJWq2Li+r86j4yEsyJxfkjmJiVws3dsPRZAnWaYnnmrpV/ajAevhfne7s0ryAqTQ62vJY2L0jQSdoJq0qK+9pWDT/KTVn3M9CSypkOLK7xBh68zIUFen35TOPrJij3v6uRxTQZztVJaHrtusKmNvdA7Ewb64jL3o0XSdoY7KQmvKWBiLdGFtH+kO4a6BICXffbHQgxbikqALtlErl4Z7EEXoZkTDP1YvqeHyRwrjuSWm4GDrxlOUIVOGBnT/I/nDB6d643kP10uJM/OMeEf8snw7Xj3HwkEos/pkzGEjAuESV8KVn5epn9kafoQOHLNmHYdAGvTTjkEOivh44SA3zK4y+60oSmhX3MxbxCR8990=;6gMh6gp8nTl8aaVUsaXUKw=="
 ---
 

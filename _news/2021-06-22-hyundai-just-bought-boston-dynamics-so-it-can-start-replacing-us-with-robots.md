@@ -41,22 +41,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Massachusetts-based robot maker Boston Dynamics acquired by Hyundai Motor Group"
-    excerpt: "Controlling interest in the Waltham-based company that makes those unnerving animal-like robots now belongs to the international car company."
-    publishedDateTime: 2021-06-22T14:22:00Z
-    webUrl: "https://www.wcvb.com/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
-    ampWebUrl: "https://www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/hyundai-acquires-massachusetts-robot-maker-boston-dynamics/36801872"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 70
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-boston-dynamics-spot-1592330458.jpg?crop=1.00xw:0.959xh;0,0.0276xh&resize=1200:*"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "s335t6tZ51HgrlusY2uGvM5LMiH+Hn2hdSVt2IFSOTh8Zf8ELwBEFP4cjTEhedCC+sj3F85PExP0rdNBYPkKDfAmkUEvat8LubvJOp7SBuJI0s24VkyqYBt8yMddeqoSHSCykmTkE/vajoSWcKhN7x95zdWahvE4Q2nhqqXGjzq8AYB/6Zxnn54+IT1eZ8/xhoCxThEXLhCKFgSct1OrFz1VZSUZT0z1wkFm9rCL+7kR+d+wZJ5mY1oXEI4uO3x2KQdlFvMUFA+e1yiwA+kI1WwknNkYZ+IAy2ans30/XOAQKwYzOWUSoSuPylGhHGWfxn8NE7ySpqaTUa5HVZQk1Hg0W3UvkFkso+Z9uVyK3Wub2VwdQgpN9Xe2n1pyCAZB/8VVPIkbyH+mqCIxiOQpdam0vUUwUsbt/86b/chRdzlXeQbVX2qd1DRjVToLf5UOF+X6BB7Fxi7PEif4n52R5OhFc4GvFiaW9n6Gp46uYffFjtskryNtrBINcIVJFgPpnt/2QnSjLwDk4HZS+Ss2jA==;Xf7j9+cI6N46LBkZv7zNLg=="
 ---

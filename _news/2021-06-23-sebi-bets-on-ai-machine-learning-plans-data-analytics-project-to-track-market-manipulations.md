@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google says AI and analytics can take its cloud to the next level"
-    excerpt: "Google believes that artificial intelligence ( AI) and data analytics are the key technologies that will be the impetus behind their cloud computing business going forward. In an interview on the sidelines of the Qatar Economic Forum,"
-    publishedDateTime: 2021-06-22T14:30:00Z
-    webUrl: "https://www.techradar.com/in/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/google-says-ai-and-analytics-will-help-take-its-cloud-to-the-next-level"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "How AI is changing the nature of analytics"
     excerpt: "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context."
     publishedDateTime: 2021-06-25T23:40:00Z
@@ -59,17 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives"
-    excerpt: "N etApp has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure investments. The financial terms of"
-    publishedDateTime: 2021-06-22T14:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives-2021-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 65
   - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
     excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
     publishedDateTime: 2021-06-23T14:05:00Z
@@ -156,15 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Olea Edge Analytics Hires Former Home Depot Data Scientist Wariya Erez as Director of AI & Analytics"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the addition of Wariya Erez as Director of"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210622005240/en/Olea-Edge-Analytics-Hires-Former-Home-Depot-Data-Scientist-Wariya-Erez-as-Director-of-AI-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 4
   - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
     excerpt: "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... of NetApp's Public Cloud Services business unit."
     publishedDateTime: 2021-06-23T11:48:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-17-the-future-through-artificial-intelligence.md",
+      "title": "The future through Artificial Intelligence",
+      "excerpt": "ARTIFICIAL Intelligence (AI ... On a bigger spectrum, from self-driving cars to voice-initiated mobile phones and computer-controlled robots, the presence of AI is seen and felt almost everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/metro/metro-news/2020/03/28/the-future-through-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/03/28/622672.jpg",
+          "width": 1048,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-tesla-driver-who-died-in-crash-praised-full-self-driving-in-tiktok-videos.md",
       "title": "Tesla driver who died in crash praised ‘full self-driving’ in TikTok videos",
       "excerpt": "Tesla driver Steven Hendrickson praised the company's Autopilot feature in TikTok videos before dying in a car crash.",
@@ -1328,49 +1371,6 @@
       "provider": {
         "name": "Reseller News",
         "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-china-tech-giants-bet-us19bil-on-global-electric-car-frenzy.md",
-      "title": "China tech giants bet US$19bil on global electric car frenzy",
-      "excerpt": "SHANGHAI: China is shaping up to be the first real test of Big Tech’s ambitions in the world of carmaking, with giants from Huawei Technologies Co. to Baidu Inc. plowing almost US$19 billion (RM78bil) into electric and self-driving vehicle ventures widely seen as the future of transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carsifu.my/news/china-tech-giants-bet-us19bil-on-global-electric-car-frenzy",
-      "originalUrl": "https://www.carsifu.my/news/china-tech-giants-bet-us19bil-on-global-electric-car-frenzy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2021/05/2021_Shanghai_Auto_Show.jpeg",
-          "width": 964,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CarSifu",
-        "domain": "carsifu.my",
         "images": null,
         "publishers": null,
         "authors": null

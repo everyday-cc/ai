@@ -73,20 +73,6 @@ related:
         width: 660
         height: 300
         isCached: true
-  - title: "EU privacy watchdogs call for facial recognition ban in public spaces"
-    excerpt: "European privacy watchdogs have called for a ban on the use of facial recognition in public spaces, pointing to the “extremely high” risks to privacy. The joint recommendation, which comes from the European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS),"
-    publishedDateTime: 2021-06-22T14:56:00Z
-    webUrl: "https://www.techcentral.ie/eu-privacy-watchdogs-call-for-facial-recognition-ban-in-public-spaces/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2013/12/Surveillance_IDG.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "ITL launches USB device for facial recognition, age verification"
     excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."
     publishedDateTime: 2021-06-24T20:25:00Z

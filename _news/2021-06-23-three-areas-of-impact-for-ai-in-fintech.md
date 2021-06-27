@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -185,15 +185,6 @@ related:
       name: Retail Dive
       domain: retaildive.com
     quality: 20
-  - title: "AI Trustworthiness in Aerospace, Fintech, Automotive, and Health Care"
-    excerpt: "But not all AI projects are equal. In highly regulated industries, such as aerospace, fintech, autonomous vehicles, and health care, the barriers to adoption can be formidable. Regulatory structures are rapidly evolving to address AI concerns about data security,"
-    publishedDateTime: 2021-06-22T14:21:00Z
-    webUrl: "https://www.infosys.com/insights/ai-automation/trustworthiness-aerospace.html"
-    type: article
-    provider:
-      name: Infosys
-      domain: infosys.com
-    quality: 19
   - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
     excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
     publishedDateTime: 2021-06-26T07:00:00Z

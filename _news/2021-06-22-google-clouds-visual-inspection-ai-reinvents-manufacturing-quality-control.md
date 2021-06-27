@@ -53,37 +53,7 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Google’s Visual Inspection AI spots defects in manufactured goods"
-    excerpt: "Powered by GCP’s computer vision technology, Visual Inspection AI aims to automate quality assurance workflows, enabling companies to identify and correct defects before product"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/22/googles-visual-inspection-ai-identifies-defects-in-manufactured-goods/"
-    ampWebUrl: "https://venturebeat.com/2021/06/22/googles-visual-inspection-ai-identifies-defects-in-manufactured-goods/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/googles-visual-inspection-ai-identifies-defects-in-manufactured-goods/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud.jpg?w=1200&strip=all"
-        width: 1024
-        height: 671
-        isCached: true
-  - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
-    excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/22/googles-vision-inspection-ai-tool-automates-quality-control-manufacturing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GC1016-VIAI-Sizzle-640x480.gif"
-        width: 640
-        height: 360
-        isCached: true
 
-secured: "mIgC48MMrLyebYAtt6d9Nim1DJXEzq/6yNYOKZH3PrKMlrRowiLzkH+nVXi08+2ZcSquhlMht+1RNnRa2z5zv/w9f39YYJnKbmU3KmpV06c6CqzyxiFwAP8NZJnji4ur402QBX9+xSpLMf2iyzOLCxob7M8B2ax+ZzzqBCFYzBsOBuR12xZ/DphlqIuDEnh+7cwMaj4WffjIsMfdFsaYuSOky1sTKs0nkNZWiBcv8YaaXzWYGgXD1nQb5AmoWiKjswGUsxRqQIQCaCxHpyojc8eKL4QJCeFmO82fE/08XM1Bp91EZTNdFFusdAzmgbS3klk1WKf/3AY/lDwUmQQQ45Ii6BPqCl4QPFt9akYW+6c=;grjBEs++bZdi9SBOFizwhA=="
+secured: "nAjNAR1VlG1vEGActZjFwP/KRheJNe5lMvwJvYfiWNuBfvXm77cSPrgJrWPlHqtvlmgsQeUsB5N1rkGEog52AI8u0NwCCn2sVEK21fYJvKbK16v8iPH+jgZpGovfCKU8thY34GcLOHsoctP7gIq8bSnhncskNGTDSYsbZdFPfby7DnstPI6887DAlG1KW5R3HG+vr4gytn49ErmZuNVdGcy4aeHvC1qWJsTqog45jjqQ7wUNVvHLCYhOsdGNbQclREE8TnDbwvVM9z3PSzmxcZ9kgDjl+aKBWrvJT6VRhvoYfCgnM4APKJ9C/avr+1kvXYdr/3gYOXilPirr8M3E+vXWU/vMfBIuJRlO2MlR1NI=;l4cnVaFprTKUedq7iC0uWA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-s
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://edge.alluremedia.com.au/uploads/businessinsider/2021/06/GettyImages-163842036.jpg"
         width: 2159
         height: 1388
-        isCached: true
-  - title: "Commerce.AI Launches AI-Generated Market Reports"
-    excerpt: "I has released a new AI-generated market reports feature, which delivers market intelligence insights across thousands of market categories. Market reports are accessible"
-    publishedDateTime: 2021-06-22T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/commerce-ai-launches-ai-generated-market-reports/article_7b36e43d-ff4f-5bb3-bf19-c1b53cdc1788.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/f1/4f139823-c29f-50e0-a7b4-a5bdc5d7e1e6/60d1fc1e4ef8a.image.jpg?resize=1200%2C624"
-        width: 1200
-        height: 624
         isCached: true
 
 secured: "yRKiCG/yNZPbo4WRp7gTIKp43n4WJ5TSatFIOfMGeVt3m5IYwoQR2TeLVpntDe8nYdB0+t2Hz0jRvBP7AQ79U9za3X1iFXFLGfPlig0kPnnE781Uf/63EXMByf0oVtJSd6a4ZtpMvW8bg75P+k1aKY9AQgo/kJtl17kLoxR39j7yF+Nin5aKkcf173W+kTqq9KAQh7P+wgdEU0jMpO2gUZA3cX4TBNLO6bXJ7AD9ED2/SpSuQx7GzNSEfxLoGf955YNVfVcjJcRJWzlmFna5t/tq9/HUzEaCYs6QYG7IEIPflJoKEtg6QOanrs1cKIbbU89SOK6b+uIxbmiLw36KGrBUkKUowMd3z1vksvdwXKDghC3JBSIeqafjwxjA1ii/6ODoSRsXwjQc0UY7pG9gFicISC+N47mZPxtjmhLr6lA3K+Sofj5syt1KLHgP5Tb4Nnfm7N6DorkHN29BrI8PPvOZQJZwta/CZYU49hEBgLUPQ5xPc7eZHSHQpjYUnJTu6RyJv8WcR9oMqcJ5MrjdBQ==;2HfGlMqDGXR4+A7uWeX+lw=="
