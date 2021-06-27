@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-05-03-artificial-intelligence-market-valuable-applications-for-host-of.md",
+      "title": "Artificial Intelligence Market: Valuable Applications for host of",
+      "excerpt": "Seeming relatively new, the conception of artificial intelligence (AI) dates back to 1955 which was founded as an academic discipline. Since then, course of the technology has been a like that of a rollercoaster,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-valuable-applications-host-functions-across-/2021/05/03/9359840.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-valuable-applications-host-functions-across-/2021/05/03/9359840.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-03T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-the-art-of-balancing-two-forces-ai-and-human-nature.md",
       "title": "The Art Of Balancing Two Forces: AI And Human Nature",
       "excerpt": "Our natural approach to problem-solving is additive: stir in more data, layer in more sophisticated modeling, think through solving the problem for every contingency. While that’s the first instinct,",
@@ -1148,58 +1191,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-intel-will-invest-35-billion-in-new-mexico-chip-factory.md",
-      "title": "Intel will invest $3.5 billion in New Mexico chip factory",
-      "excerpt": "Intel said on Sunday that it will spend $3.5 billion on an upgrade for its factory in New Mexico as part of a plan to expand manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
-      "originalUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-factory.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/02/intel-will-invest-3-5-billion-in-new-mexico-chip-factory/amp/",
-      "publishedDateTime": "2021-05-02T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

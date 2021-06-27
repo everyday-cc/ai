@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Three use cases — how AI is helping improve the healthcare experience"
-    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
-    publishedDateTime: 2021-06-22T10:01:00Z
-    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 58
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
-        width: 1080
-        height: 592
-        isCached: true
   - title: "The AI Explosion is Coming"
     excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"
     publishedDateTime: 2021-06-24T21:26:00Z

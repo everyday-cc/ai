@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificia
 webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Aerospace Robotics Market Statistical Data with Revenue Growth $5,687 million by 2022 | Allied Market Research"
+    excerpt: "Aerospace Robotics Market Report, published by Allied Market Research, projects that the global aerospace robotics market is expected to reach $5,687 million by 2022, growing at a CAGR of 17.2% from 2016 to 2022."
+    publishedDateTime: 2021-06-26T03:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/business-robotics-technology-4bd14c11289258292f569c184f3c5db6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
     excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
     publishedDateTime: 2021-06-23T15:30:00Z

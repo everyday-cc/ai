@@ -43,22 +43,6 @@ related:
         width: 1020
         height: 575
         isCached: true
-  - title: "EU bodies call for facial recognition ban in public"
-    excerpt: "Two EU regulatory bodies lobbied for a ban on the use of facial recognition in public spaces, warning AI technologies raised severe privacy issues."
-    publishedDateTime: 2021-06-22T10:45:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 61
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/09/MWL_facial_recognition_biometrics_650-e1624358480805.jpg"
-        width: 635
-        height: 390
-        isCached: true
   - title: "Facial Recognition Market: Investigation, Consumption, Revenue (Mn USD), Share Forecast To 2026"
     excerpt: "The information mentioned in the Global Facial Recognition Market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the technological developments and the product launches and their consequences on the Global Facial Recognition Market."
     publishedDateTime: 2021-06-25T04:41:00Z

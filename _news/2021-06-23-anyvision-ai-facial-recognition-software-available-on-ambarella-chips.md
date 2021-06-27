@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recogni
 webUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://hackster.imgix.net/uploads/attachments/1315388/_qXo3HpKWIL.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
         width: 600
         height: 450
-        isCached: true
-  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
-    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
-    publishedDateTime: 2021-06-22T09:50:00Z
-    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 56
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "EU data regulators call for a ban on AI-based facial recognition software"
     excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"

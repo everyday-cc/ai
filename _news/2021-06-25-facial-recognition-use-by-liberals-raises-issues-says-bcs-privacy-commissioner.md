@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.h
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
 quality: 68
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU bodies call for facial recognition ban in public"
-    excerpt: "Two EU regulatory bodies lobbied for a ban on the use of facial recognition in public spaces, warning AI technologies raised severe privacy issues."
-    publishedDateTime: 2021-06-22T10:45:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/eu-facial-recognition/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 61
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2019/09/MWL_facial_recognition_biometrics_650-e1624358480805.jpg"
-        width: 635
-        height: 390
-        isCached: true
   - title: "Facial recognition use by federal Liberal party raises issues here, says B.C.'s privacy commissioner"
     excerpt: "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia."
     publishedDateTime: 2021-06-25T23:57:00Z

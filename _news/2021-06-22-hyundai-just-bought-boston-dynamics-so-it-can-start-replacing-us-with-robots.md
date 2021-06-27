@@ -87,20 +87,6 @@ related:
         width: 3131
         height: 2009
         isCached: true
-  - title: "Hyundai buys robot maker"
-    excerpt: "Boston Dynamics makes plastic pals who are fun to be withBoston Dynamics has been purchased by Hyundai in a deal valued at $1.1 billion. According to Motherboard, the deal \"sees Hyundai assume an 80 per cent controlling stake in the robot company."
-    publishedDateTime: 2021-06-22T10:13:00Z
-    webUrl: "https://www.fudzilla.com/news/53088-hyundai-buys-robot-maker"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/02da3fd7be606c0da6e86cc9773b8d03_L.jpg"
-        width: 620
-        height: 451
-        isCached: true
 
 secured: "s335t6tZ51HgrlusY2uGvM5LMiH+Hn2hdSVt2IFSOTh8Zf8ELwBEFP4cjTEhedCC+sj3F85PExP0rdNBYPkKDfAmkUEvat8LubvJOp7SBuJI0s24VkyqYBt8yMddeqoSHSCykmTkE/vajoSWcKhN7x95zdWahvE4Q2nhqqXGjzq8AYB/6Zxnn54+IT1eZ8/xhoCxThEXLhCKFgSct1OrFz1VZSUZT0z1wkFm9rCL+7kR+d+wZJ5mY1oXEI4uO3x2KQdlFvMUFA+e1yiwA+kI1WwknNkYZ+IAy2ans30/XOAQKwYzOWUSoSuPylGhHGWfxn8NE7ySpqaTUa5HVZQk1Hg0W3UvkFkso+Z9uVyK3Wub2VwdQgpN9Xe2n1pyCAZB/8VVPIkbyH+mqCIxiOQpdam0vUUwUsbt/86b/chRdzlXeQbVX2qd1DRjVToLf5UOF+X6BB7Fxi7PEif4n52R5OhFc4GvFiaW9n6Gp46uYffFjtskryNtrBINcIVJFgPpnt/2QnSjLwDk4HZS+Ss2jA==;Xf7j9+cI6N46LBkZv7zNLg=="
 ---

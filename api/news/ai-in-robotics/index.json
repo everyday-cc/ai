@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-26-aerospace-robotics-market-professional-industry-research-report-2027.md",
-      "title": "Aerospace Robotics Market Professional Industry Research Report 2027",
-      "excerpt": "Aerospace Robotics Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Aerospace Robotics Market currently leading in Europe,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
-      "originalUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png",
-          "width": 772,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-samsungs-latest-robot-vac-uses-ai-to-recognize-small-obstacles.md",
       "title": "Samsung's latest robot vac uses AI to recognize small obstacles",
       "excerpt": "Samsung is claiming a few world firsts with its latest robot vacuum cleaner, which was originally launched at CES 2021 back in January. The Jet Bot AI+ is said to be the first to feature an active stereo-type 3D sensor for object detection,",
@@ -400,7 +357,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -533,7 +490,7 @@
       "originalUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -631,10 +588,10 @@
     {
       "path": "_news/2021-06-22-miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry.md",
       "title": "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry",
-      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -651,14 +608,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21659429",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659429",
-      "publishedDateTime": "2021-06-22T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1404,6 +1370,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-the-reality-behind-the-ai-illusion.md",
+      "title": "The Reality Behind The AI Illusion",
+      "excerpt": "Being actively involved in the global AI community, I've noticed that many people still associate AI with sci-fi Hollywood movies displaying the distant future powered by intelligent robots and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e786d0bca97dcd24fb25a%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D1404%26cropY1%3D0%26cropY2%3D672",
+          "width": 1195,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/16/the-reality-behind-the-ai-illusion/amp/",
+      "publishedDateTime": "2021-06-16T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

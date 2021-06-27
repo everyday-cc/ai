@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
 type: article
 quality: 87
-heat: 137
+heat: 138
 published: true
 
 provider:

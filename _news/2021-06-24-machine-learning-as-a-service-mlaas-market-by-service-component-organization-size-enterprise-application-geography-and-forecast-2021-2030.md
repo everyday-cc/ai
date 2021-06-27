@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Technology Market Positive Demand and Development Approaches through 2021-2026"
-    excerpt: "MarketQuest.biz has announced a new research study on Global Speech and Voice Recognition Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which comprises the most up-to-date market insights and analysis performed."
-    publishedDateTime: 2021-06-22T09:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-speech-and-voice-recognition-technology-market-positive-demand-and-development-approaches-through-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 2
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/antivirus-john-mcafee-AFP-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "W+K7Qiltq76j01YepV83K8DgbZGvJ7QbVIlNnBS6iQOE47bu5Rh1GGMNScLAdgehnNTvrDD1aFx+D5pK+PFviHh2vP/TL60ql/9x/wkE80mqq70yyq0MGbVnpPyu8ZoZmhfKz49VqsBoe6ZKQ6ADxB6iQXLySPAfNYMm+MpbnrMX91IDPleJy9uMS0zaEyLbCgjSQlaDq0pqCL0kwkvY3iAW4qzD5M+Xfx2SxIFwQpAsTN0SQoKTYAeNuujcQr9t3ijTyrKIPZOjkYx9qQJnonH7HsRGh9hha8u5CEXZaR8I+3Fn4CKD8cCA+AX6bz3JfKyKY494DIoK5sPCPGCJXf/GUCpF16Kc6Murxa6Gw3A=;Oiie3WkN6/XwL7rQk6rlJw=="
 ---

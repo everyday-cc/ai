@@ -22,47 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "AI drug discovery platform Insilico Medicine announces $255 million in Series C funding"
-    excerpt: "Insilico Medicine, an A.I-based platform for drug development and discovery announced $255 million in Series C financing on Tuesday. The massive round is reflective of a recent breakthrough for the company: proof that it’s A."
-    publishedDateTime: 2021-06-22T10:30:00Z
-    webUrl: "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/a-i-drug-discovery-platform-insilico-medicine-announces-255-million-in-series-c-funding/amp/"
+  - title: "AI Powered Lender for Merchants Myos Raises $30 Million Series A Round"
+    excerpt: "Myos has raised $30 million in Series A funding led by Fasanara Capital and Xploration Capital. Tomahawk.VC and a group of new and existing investors also participated in the funding round, according to the company."
+    publishedDateTime: 2021-06-22T13:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024"
-        width: 1024
-        height: 482
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/markus-spiske-Berlin-Germany-Greetings-Card-Love-copy-300x292.jpg"
+        width: 300
+        height: 292
         isCached: true
-  - title: "AI drug discovery start-up Insilico raises more than $255m"
-    excerpt: "Hong Kong-based platform has 16 programmes in development including potential cancer and Covid treatmentsRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-06-22T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
+  - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
+    excerpt: "Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing. The round, led by Zebra Ventures and Pelion Venture Partners,"
+    publishedDateTime: 2021-06-24T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neurala-raises-12-million-scale-artificial-intelligence-industrial-/2021/06/24/9397228.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Asian biotech startup Insilico is disrupting the pharmaceutical industry using Artificial Intelligence"
-    excerpt: "HK-based Insilico Medicine recently raised US$ 255m, and is disrupting the pharma industry with its novel use of deep learning and AI."
-    publishedDateTime: 2021-06-25T04:50:00Z
-    webUrl: "https://techwireasia.com/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 45
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Image-by-Gerd-Altmann-from-Pixabay--450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "VU1ds7RMxdq+wcaVNBRgAizbUzmWbxFqOd6jy2bUZ1t4uUNVVW+6yBIk7LyDOJDhFRVu6uQ5b/y7UKw9Ul3OrxNBLjMm6WJ/EtxtaCY4ybcAtqNQahjDVte7jIV9+uzYRc1xHVJdBn60ZcGTY+3EzKeqdI08HLmU1Wxpq4cF6nz71LuIH1hcYNZ5Shi/phTKkJccfZMCJKi3aIUG02vTgUB4sNdaztFaDOOhntsCXtoL7/iUGwWRSibTjKxQbiMxH/GYC6QHfZe0uN2849m+KltHLyglBco7G2R/rmX1K9L7MNzQGMlhn2lvMbl5QBu04uH3+6yGbRbwVIr9D6bkf6BBVYaQsTIG1irEbPhnjV/q3L3E7FQlbc39byQkQ+pZ8zJFqzwlR47C5HhbttNj2vqcxn6/5KmGHBIz6ez5vOQv5tJUyRr6DnrK7jW6Bh6DDN+N8p9ABMTrDfKB1aIdrfu7k9u7Y5ITCq/ltXLKHJDsOte0Oo6ZLJrNyZGs18v+yoUpFZrNkss/IyEe/RlNbQ==;FPC4duXVqvo6sJyZ4VsP8Q=="
 ---

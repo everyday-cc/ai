@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-05-18-machine-learning-ai-accurately-predicts-cardiac-arrest-risk.md",
+      "title": "Machine learning (AI) accurately predicts cardiac arrest risk",
+      "excerpt": "A branch of artificial intelligence (AI), called machine learning, can accurately predict the risk of an out of hospital cardiac arrest—when the heart suddenly stops beating—using a combination of timing and weather data,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-cardiac.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-05-machine-ai-accurately-cardiac.amp",
+      "publishedDateTime": "2021-05-18T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-logitech-intros-ai-powered-whiteboard-camera-scribe.md",
       "title": "Logitech intros AI-powered whiteboard camera Scribe",
       "excerpt": "PC accessories and peripherals maker Logitech on Tuesday introduced Scribe, a new AI-powered whiteboard camera product for hybrid offices and classrooms.  Scribe is Logitech's answer for mimicking whiteboarding sessions virtually for dispersed teams.",
@@ -1110,57 +1153,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-provectus-cto-on-how-enterprises-can-boost-ai-implementation.md",
-      "title": "Provectus CTO on how enterprises can boost AI implementation",
-      "excerpt": "Provectus, a consulting firm that helps enterprises navigate AI adoption, is adding new tools via a Tecton partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
-      "originalUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data.GettyImages-1173239901.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/17/provectus-cto-on-how-enterprises-can-boost-ai-implementation/amp/",
-      "publishedDateTime": "2021-05-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

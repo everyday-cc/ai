@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry"
-excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its"
-publishedDateTime: 2021-06-22T09:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic"
-ampWebUrl: "https://www.benzinga.com/amp/content/21659429"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659429"
+excerpt: "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,"
+publishedDateTime: 2021-06-22T09:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
+webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -23,6 +25,6 @@ images:
     height: 286
     isCached: true
 
-secured: "q1HKj8MherKLuJrMjdInA8O2QpMu4u5FOXbfnMxhQl+6ZZCi4gizLZ6/cYFw61hgt4pxvWCOyanvyoxv+Vm5kXDaYQ+apQD+U/qzDxr/df+oZb5LnuT2uoTS3I8cIooxAe4SJIh5+qePxPoCNCUexMahANr+MmMb7qXjoERlvSNXKGV4C5ezvKjgx+Ly0p92mXnltPUUBZxFMGZJNxFFw1thvJcS8hclJZ6Hl+20me4Nz+9S+ZoUiqPrWIt3UCLdpvOA5kQgrvdrgnbKh+6pf1XAf/fx0X2pDKpIatQRhfoyx1QMoH9p4B2W6jboIdmTi4dCX9qDLEj3fdBhDNLQYB0H1QM9gTXsei8PvlbbeoE=;ds9EAyFFYQ3A176QQ2uXdQ=="
+secured: "Q9EWFeHqUOZFzt2i4Lprjwk7VEiOxrHRWeWDIsPYhF0it6SwG/M0lQ56e1Bncmo8srq/BjUNCrXk8tEUdy3YFmO1xCn1QnWp1CZI+LrlsM+WRsZ45cbM6vKYTyqeYMlgh+84Gen43tHwnwZQkOHgeXGTokf01nMzi/1Ny1yBAbG6HmgoONJA65D14El4+pThNmCbFAnQew+foZETzX2/SlW3HUO/ZwmLkmwug7441rvIMVGPpXR855qws8oRxISe1MPaE9DWZStWUs+xhkC7pr7v/28JOS2wP9HRd4TQsZiDnD13oIcEB+clHX/4UjwZRb1uPEmiBrYE3XtYYTCOjD2hYe5rVeZAAhlx0/A3IwI=;GWnGgmdVRzvoPLsAb3700A=="
 ---
 

@@ -19,37 +19,19 @@ topics:
   - AI in Education
 
 related:
-  - title: "Grand Theft Auto V is now playable inside of an AI"
-    excerpt: "A portion of GTA V has been recreated inside of an AI in a fascinating project involving a neural mind. AI is a term that is often used when talking about video games, but what it usually refers to is a behavioral set of rules that are reacting to the player."
-    publishedDateTime: 2021-06-22T10:41:00Z
-    webUrl: "https://www.gamesradar.com/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
-    ampWebUrl: "https://www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
-    cdnAmpWebUrl: "https://www-gamesradar-com.cdn.ampproject.org/c/s/www.gamesradar.com/amp/grand-theft-auto-v-is-now-playable-inside-of-an-ai/"
+  - title: "At a National Laboratory, AI Tackles Misinformation & More"
+    excerpt: "In a world that is slowly recovering from the COVID-19 pandemic and a country that is slowly recovering from the 2020 election, misinformation is an"
+    publishedDateTime: 2021-06-24T22:13:00Z
+    webUrl: "https://www.datanami.com/2021/06/24/at-a-national-laboratory-ai-tackles-misinformation-more/"
     type: article
     provider:
-      name: GamesRadar
-      domain: gamesradar.com
-    quality: 57
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Usdru3W58p6g8NGpxzUfyi-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Artificial Intelligence Creates Its Own Playable Version Of Grand Theft Auto V"
-    excerpt: "Artificial intelligence has created a playable version of Grand Theft Auto V using Nvidia’s GameGAN technology. Grand Theft Auto V has been an incredible success since its release, having been ported over three generations of consoles."
-    publishedDateTime: 2021-06-26T16:26:00Z
-    webUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 55
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=cover,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F06%2Faigta.jpg"
-        width: 1200
-        height: 619
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_tweeting.jpg"
+        width: 1000
+        height: 615
         isCached: true
 
 secured: "eemYftj+tNP0opjJY4rFB6sKFUIerTx2HtVbrUBgRRpYcY8BvlmL6QbgMEF2Yg+kAiJEf5TGTRWXjmL+0QpVdaPJScPZ7WGnI7E3qD5f/e5Og7c0XWn6kjOMgLeKq84LPcKv9ABCnz6JRgJZzdDReh414TWxvek9tPcyUrhVoKrVVPelUhH4ppNYm1L1ITsxHRiQO4rI3ca0qaUEaRaZjjaRUhQyTp1F+B67ZGjYPoO19HE6/zT3sqFBMfLYqoww5GpOOcP9uoh9unFYEkXkgP0fxJVrluWpCcE8EQGx6OiSvpP4oR2Dd6kSG0omC5a4gxaMdYPt1ZER722ltgqU0bzEvJf0sCJPHH9sU1s566k=;Lw655O82iAeKvszH1+Hzgg=="

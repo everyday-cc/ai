@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-updat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
 type: article
 quality: 78
-heat: 138
+heat: 139
 published: true
 
 provider:

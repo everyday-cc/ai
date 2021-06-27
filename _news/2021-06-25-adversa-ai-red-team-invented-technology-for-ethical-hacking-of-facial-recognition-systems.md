@@ -51,20 +51,6 @@ related:
         width: 798
         height: 419
         isCached: true
-  - title: "Auddia Inc. Announces Major Technology Advancements in Artificial Intelligence ..."
-    excerpt: "New approach increases overall accuracy by 170% and reduces processing time by a minimum of 5X while virtually eliminating most hard costs as it scales to thousands of stationsReconfirms guidance for full national launch in second half of 2021BOULDER,"
-    publishedDateTime: 2021-06-22T11:01:00Z
-    webUrl: "https://www.pr-inside.com/auddia-inc-announces-major-technology-advancements-in-artificial-intelligence-r4835876.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 31
-    images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "csEEdiMUlDlgk5Jq3c+Z9ktpK1HFAzuj0PpvFmUhiGe+fsaNUrXAg2udK63bNwZnaPNWFMn4r6lbmVoJemx52aJp/kxEJ/oexT/wQtXPsmLlRaswbOoSq4Y/GHG/Q0r0Tz6KtMc2AMRTAjCGjL9F+Fhw2ncUk7jcIJw/qvMrFj+0Fh18edakxmftkywDkdYdThrOR7NC9WY1mMzcyUT4RPeUcEfr8bMoSohyrMyAAPzMDby3ulEWG6ekygxcQwfPUgBiDfWEGT8rpy+f1JnxaxBuNCL4M/yOvvESb3Pl750eNWGv8dyUQaYYZsAah9PvzAdrNXPjaFoCFEZPiiVAfXV+9LG0wlbnmnk8hnh1TdM3BDwhZb1kYZOMRAtQSoa8xjwbsfO45EW6aGxG/ipa8IZM9u6JbMc7Vbz/c+0PjAc3ApnjsEv2Q5StRdhdMmxpYNfUnZxa5mfNzLlGTjNEsqcJLueBI8TyUx4vtH5ul2TInqdng4l4/1JwLafpMUwWOFWcExj2wJVuzO5d/jyx7A==;6oxrZ53GfvzBoafcrPbzSw=="
 ---

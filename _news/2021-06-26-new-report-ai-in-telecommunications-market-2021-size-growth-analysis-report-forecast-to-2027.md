@@ -37,17 +37,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Amazon to Buy Stake in Self-Driving Truck Technology Startup Plus – Report"
-    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed an order for autonomous driving systems from the startup,"
-    publishedDateTime: 2021-06-22T09:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
   - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
     excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
     publishedDateTime: 2021-06-22T11:08:00Z

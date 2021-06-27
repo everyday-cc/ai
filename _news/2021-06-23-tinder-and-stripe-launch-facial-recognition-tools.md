@@ -7,7 +7,7 @@ originalUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-
 webUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-tools/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026"
+    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,"
+    publishedDateTime: 2021-06-22T19:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Facial Recognition Technology Can Benefit in the Workplace"
     excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
     publishedDateTime: 2021-06-24T04:59:00Z

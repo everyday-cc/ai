@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Three use cases — how AI is helping improve the healthcare experience"
-    excerpt: "With more data being generated in healthcare, how can organisations leverage this using AI to improve the care experience for patients?"
-    publishedDateTime: 2021-06-22T10:01:00Z
-    webUrl: "https://www.information-age.com/three-use-cases-how-ai-is-helping-improve-the-healthcare-experience-123494858/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 58
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/04/leveraging-data-and-ai-to-improve-the-care-experience-in-healthcare.jpeg"
-        width: 1080
-        height: 592
-        isCached: true
   - title: "How AI is levelling the playing field when it comes to gender and healthcare"
     excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
     publishedDateTime: 2021-06-24T13:16:00Z
@@ -90,6 +76,6 @@ related:
       domain: benzinga.com
     quality: 39
 
-secured: "y9WXzSCVRXNdjEYyRnlHLLpFHx/Grml91nE/C6Y1jAJpRHOupvwKZ5MqjUyp+/NAEy4TDW+dxTDPgmOX6ARrkYd6xg0N46dnuoEL3bb7Wc0HK3dxYy8NK0J5kzokd6tkgXvGV5ffr1Y09TSNYD0OCLwlAvctUWdQAMj0gXwHMsSpsXcF5ta6BpQ0i8L51ZjlSctCZn3tgrp+jJD+EQYB2RLkbUfk3iMHwHpl/p0pfXFXWN93Ub2/HtyEH4y5mIRyqJGl9H44afN7eViLut4IEUic1Zyw0raA/hT9ycNpGzji6Ra0qEC8+YYUFVpYjtz8eLk48N2AiJElq0w7eMBYqPxPRJmWwnUDWp/BD+fT+io=;2pCtzf4H7p8uZR0rtp8JlQ=="
+secured: "HruBG4k1NOrCoL87EJeJejPwwaNw3RVbRw5V4qk8jW8sevUBuZbe7JLbLBnLQj94JnsFdDAL+YJNjU4r87eLQvEUnrmCRuwPmcs76Fe2vG+fo7lZ+s+ryAYTAQxqBT5kXcKLb3WSg9FiKtCTdQWI45jr+2/mlfx2cvjPRCBlEvMA5VGLy8tqjjd+eMEdxNuba2s7pONdwA0osSh+nkQPcVl7v/xuzRMtc+I+o0vwIXlqIdhEtw8fPCXHMGq2WBj98bb0XZ+6KH6Fa6ZL5JV0OjTnEnyXcvtVxlLO1uvKX2qwdeRqCQ147/rxJ1xZOgRxFiXpf4b3RPSg60IdpS785IXBxV14R69NeqzBznN5WGs=;Okd5SrbvC7rt4h+m+VNpvg=="
 ---
 

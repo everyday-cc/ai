@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026"
+    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,"
+    publishedDateTime: 2021-06-22T19:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tinder And Stripe Launch Facial Recognition Tools"
     excerpt: "Tinder is now requiring users to submit to facial recognition to validate their identity. This news comes right on the heels of Stripe"
     publishedDateTime: 2021-06-22T17:14:00Z

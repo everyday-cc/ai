@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-fo
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon to Buy Stake in Self-Driving Truck Technology Startup Plus – Report"
-    excerpt: "Amazon (AMZN) is in talks to acquire a 20% stake in the self-driving truck technology startup, Plus. Bloomberg reports that the tech giant has also placed an order for autonomous driving systems from the startup,"
-    publishedDateTime: 2021-06-22T09:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-buy-stake-in-self-driving-truck-technology-startup-plus-report-2021-06-22?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
   - title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
     excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
     publishedDateTime: 2021-06-26T07:23:00Z

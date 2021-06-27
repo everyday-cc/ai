@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-17-baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know.md",
+      "title": "Baidu's Low-Cost Robotaxi Apollo Moon Launches: What You Need To Know",
+      "excerpt": "Chinese search engine Baidu, Inc.'s (NASDAQ: BIDU) Apollo self-driving unit has launched a new low-cost robotaxi. What Happened: Baidu, in partnership with BAIC Group's electric vehicle brand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know",
+      "originalUrl": "https://www.benzinga.com/news/21/06/21601949/baidus-low-cost-robotaxi-apollo-moon-launches-what-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/e-hs3_b31ecce.jpg",
+          "width": 3021,
+          "height": 1320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21601949",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21601949",
+      "publishedDateTime": "2021-06-17T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-amazons-appstore-lowers-its-cut-of-developer-revenue-for-small-businesses-adds-aws-credits.md",
       "title": "Amazon’s Appstore lowers its cut of developer revenue for small businesses, adds AWS credits",
       "excerpt": "Amazon is following in the footsteps of app store giants, Apple and Google, with this week’s introduction of its Amazon Appstore Small Business Accelerator Program. The new program will reduce the commissions Amazon takes on app developer revenues for qualifying smaller businesses.",
@@ -1134,57 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-insurtech-ai-startup-akur8-closes-30m-series-b.md",
-      "title": "Insurtech AI startup Akur8 closes $30M Series B",
-      "excerpt": "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Akur8-team.jpg?w=738",
-          "width": 738,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
-      "publishedDateTime": "2021-06-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -49,20 +49,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Data watchdogs want EU-wide ban on AI facial recognition"
-    excerpt: "Europe has had enough of the data privacy concerns surrounding AI in controversial facial recognition systems. The EU's data protection agencies this week"
-    publishedDateTime: 2021-06-22T09:50:00Z
-    webUrl: "https://techhq.com/2021/06/eu-wide-ban-on-ai-facial-recognition/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 56
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/06/000_1A94PB.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "cXKfayPs1dcduxAM2n/etkNINtT7It7xhgJ2/WtFcMs2xTgFJDqeQrlYx5Ssgkg308Sy1hHVO1JZWvfoISYEf4mhrCaQllCPJfOMd7FfDT17QWwf5oZ8lJ6/XVoe1MEHS4E8cOexKv8vg5N9qoI+wB7DruF4qMHnAYaLekf/inYmEZUD8on1w+0eaZDmeH+tCgU9WH93Hpn5q5oS5immhf3cgtNqs6QFkaAkrKpVI3jPWhWXz7anN7xX/gFvollKqpBrmnpQoyvR+RT9t2qYmj4+1aLbRjYTuL4XywqaZH2bZ2d+WGeCq27VkAe9bXDLuX5xRbEl4nvinqAic3n3Lxk5VS6r7oM/sHSvQHDYQhdF4D7WHqVDg0qByA11jXJ+jhkkTSEC1q/Y74m/lW5k4zKCaM8EZOF1hSSkJNON79fWqK6meap8++huwWiARB65JAZ9uBOSRwKVZ0OgQcpSXEcwJEW6GwOBpI4+lZEHZjAe0wMus7mWJu6lVd3iF1dZ3yoAmNKGLgLvto/7lhy8EQ==;e65b1H9IEzZXCXnN709RgQ=="
 ---

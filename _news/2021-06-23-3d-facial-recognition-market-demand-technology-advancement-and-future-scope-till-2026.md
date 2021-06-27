@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Cognitive Computing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-publishedDateTime: 2021-06-24T12:50:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
-webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
+title: "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026"
+excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,"
+publishedDateTime: 2021-06-22T19:31:00Z
+originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22"
+webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 61
+heat: 91
+published: true
 
 provider:
   name: MarketWatch
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - Computer Vision
   - AI
 
 images:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026"
-    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,"
-    publishedDateTime: 2021-06-22T19:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22"
+  - title: "Cognitive Computing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
+    excerpt: "The global “Cognitive Computing Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-06-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,6 +72,6 @@ related:
         height: 237
         isCached: true
 
-secured: "iV/mjvZsQ3O7jF9dOb7L0q4UW/xL9plrlAbtoaw53iLwMO7LjroBJmxn+dwO9iaii7x9euuKNnn62Oo6HZiFy592s7Hv1Iw6WGfUeLfsf1v99eOi2iCfcgwUjjOxD9ISm2Z5ePk5S1qVvwvYdaOS/pTJiBQZzm6f3+vI6cDxo0875ZyNle0HPR8UUpWY0JkEum5qPdnXXOJEnitzifn+EPbytaGGOHjvYcZponddXq1ThJ5LJewMa2D1C5qhM7+9O3Ik1eWC2UB8GgLfUEumj1FsALyySngk+58va1CJPoR/AcIhBIZYAA/jkNwbH63yW+WMM+nB2jvi7ZXTHuqEolhSz9CZSaom5/oF6z7SvSE=;Td+9OytcGtmYw9ulcjywhA=="
+secured: "iYEXGAzDnZVm4vTxyQ+KccSUN9wYUOTAk8SS165aOvKBGfbxYcOAqOjnWUD0EpM419hayE2aMr94/IfdcTsnXnc3mzGGxkKO851BVplXF0AvG45OE7xPuJEzoK6UCnGzB2TVO82i25DkrYHlpYcsJ3wQwCHWDU1Aia+cWYv4/atZAT/tIcXnRj7zRt9+Cl8zR5lUNqwGNYBWK74/CVygdyhYoDl0nIl8qbCHXPu3/dxur3AX5QbHRebbr2otiNZj83RFPZzJvJdvWCNG+GVBLeRsyFhyVnVImSNKqAYHxRWLeWY1m9ri90YPBRdCiAZPQLUf/aYjHE+TNfB+ASsm/f4UwV0ojseaz4QDdIAsmd4=;GFPVa/TME58RkI0KerFlhw=="
 ---
 

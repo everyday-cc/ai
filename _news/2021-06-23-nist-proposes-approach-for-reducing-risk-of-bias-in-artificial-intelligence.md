@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 586
         isCached: true
+  - title: "NIST Proposes Approach for Reducing Risk of Bias in Artificial Intelligence"
+    excerpt: "In an effort to counter the often pernicious effect of biases in artificial intelligence (AI) that can damage people’s lives and public trust in AI, the National Institute of Standards and Technology (NIST) is advancing an approach for identifying and managing these biases — and  is requesting the public’s help in improving it."
+    publishedDateTime: 2021-06-26T15:58:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/nist-proposes-approach-for-reducing-risk-of-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 35
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "yA8qJzS0Ri3XGjARHOQvWyrUeuzW6bhYZI8zKt2jUIlPK5xpvYu7tlQG3AtIDnYs+Pnb+1ja2oAIZ2uO1Cb+GB09L1EmRNmngWOSPHqKiyC6ZcfyidjvQJJ8l+f8ssZx9cELv9K56XXJZtgObTt+u/oT64iFsYJneHqxGxmCPdOQPsJE39psdFUuq3BWRFDvnqDt6ufjnY8H9+VqAuRbbXzz4J//swk5LOVfTshWW9YFfhJNYr7mEaOjs09Hq1Mt/Iw/TlJsNgxqzilgOfma038G+axy3gp4Jf/gTC/I6idWAS+tCJx5x3KQfRqgYgAcTHG4MwpNFSezy42sUPNP9nj/0u0Aq0YK/AA0YXpzAjTeqas1imCGGPuY9vZ+Ricun1rdmf7ksWB7OHq4PzPhlPa9DaZFqtCHtEstmyny9AyNJ1YKlbB08yZe/Ww+qc+NdWjbnCJByfJSMCOXSCu87c0QD2DScmERx/hyvFcaWeoe12UDVtqbzSNb5So6NVYUJVj0fsQ6nL1B8eLPZXnCyg==;qfZYOohSI42/oRFMcF83pA=="
 ---

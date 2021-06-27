@@ -475,10 +475,10 @@
     {
       "path": "_news/2021-06-22-miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry.md",
       "title": "Miso Robotics Partners with Lancer Worldwide to Bring Automated Beverage Dispenser to Quick-Service Restaurant Industry",
-      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its",
+      "excerpt": "Today, Miso Robotics – the startup transforming the foodservice industry with Intelligent Automation – announced its partnership with Lancer Worldwide – a global beverage dispenser manufacturer trusted by the world's top food and beverage brands – to build an intelligence backed,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21659429/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-servic",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-partners-with-lancer-worldwide-to-bring-automated-beverage-dispenser-to-quick-service-restaurant-industry-1030541869",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -495,14 +495,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21659429",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659429",
-      "publishedDateTime": "2021-06-22T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

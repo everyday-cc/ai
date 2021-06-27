@@ -44,6 +44,22 @@ related:
         width: 660
         height: 300
         isCached: true
+  - title: "Artificial Intelligence in Banking Market - Forecast to 2026"
+    excerpt: "As per the research conducted by GME the Global Artificial Intelligence in Banking Market is projected to grow at a CAGR value of 24 5 during the forecast period of 2021 to 2026 Browse 151 Market Data Tables and 111"
+    publishedDateTime: 2021-06-22T14:34:00Z
+    webUrl: "https://www.openpr.com/news/2311056/artificial-intelligence-in-banking-market-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2311056/artificial-intelligence-in-banking-market-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311056/artificial-intelligence-in-banking-market-forecast-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/6/U622760666_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
     publishedDateTime: 2021-06-23T06:41:00Z
@@ -55,6 +71,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 34
+  - title: "New Study: Global Automotive Artificial Intelligence Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The size of AI in the automotive market exceeded USD 1 billion in 2019 and is projected to grow at a CAGR of over 35 between 2020 and 2026 One of the major industries using AI the automotive industry is"
+    publishedDateTime: 2021-06-22T14:55:00Z
+    webUrl: "https://www.openpr.com/news/2311082/new-study-global-automotive-artificial-intelligence-market"
+    ampWebUrl: "https://www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311082/new-study-global-automotive-artificial-intelligence-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "BHiFEeG7bXnC7pKg50OZTbs+tqiKZJCzHVOvM6CsQoMOA9W7xyhE9xRefopZiisrf6GynR7ETILedxlOF4YIeLbQtNbcxSgKin/v+uONhsC6fiPmUxZWyMymkxOZfviCVinvC5DhOGvKn9b0rmuK6ppytOIjpxw4QHavkqAwrhweA+42USnJD0AmU/viJZSlJDWh0wltis6pueh6xcQfp7Sokg3i+jcB5CY2Z/AfQSzB7O5CV6loCnkVp0sXTalMH71bc4MPiRPxDOz83IKXDpU3mJv+v+BRhoME1VFnIRIpksXptz9ByByTdhJuGYL2htxRxhSAnSg+SVGMOer6+qoDv76k74hpv5x/2Dc3FK7xIPZ5ar0f2OUvDhqeCHTxhV+WffvKwoqR3+1f4/DL52STES+rIfQyhWFN5R+zehu3nv75nsVOl/bFFlVQegk2PLCn7tgikLw4KKSE7sOIFc2IklO0yJ+OCOLwuomRQJHS3i0Z4I+UPxapLoNRc9SEIKv7mTCnoDEgrpl+tuD+Xw==;2Z13DBCzTXHrukdHstToVw=="
 ---

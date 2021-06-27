@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New hospitality management Certificate in Artificial Intelligence launched by higher education partners Les Roches and aivancity"
-    excerpt: "Les Roches, one of the world’s leading hospitality business schools, and aivancity, the Grande École of Artificial Intelligence, have come together to launch the first Certificate in Artificial Intelligence (AI) applied to hospitality management."
-    publishedDateTime: 2021-06-22T09:44:00Z
-    webUrl: "https://www.fenews.co.uk/press-releases/71025-new-hospitality-management-certificate-in-artificial-intelligence-launched-by-higher-education-partners-les-roches-and-aivancity"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 44
-    images:
-      - url: "https://www.fenews.co.uk/images/user_images/Phil_Smith/A_new_Certificate_in_Artificial_Intelligence_launches_in_September_2021a.jpeg"
-        width: 2448
-        height: 1633
-        isCached: true
   - title: "JUDI.AI Pledges 1% of Equity to Vancity Community Foundation"
     excerpt: "Small business lending fintech finds an innovative way to help build healthy communities VANCOUVER, British Columbia (PRWEB) JUDI.AI, a fintech leader in"
     publishedDateTime: 2021-06-22T21:00:00Z

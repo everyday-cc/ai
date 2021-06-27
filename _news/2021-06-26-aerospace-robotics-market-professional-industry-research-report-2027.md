@@ -7,8 +7,8 @@ originalUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-
 webUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: manometcurrent.com
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Applicant Tracking Systems Market 2021-2025: Emergence of Artificial Intelligence (AI)-related Services - ResearchAndMarkets.com"
-    excerpt: "The \"Global Applicant Tracking Systems Market 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The applicant tracking systems market is"
-    publishedDateTime: 2021-06-22T09:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/b21659796/global-applicant-tracking-systems-market-2021-2025-emergence-of-artificial-intelligence-ai-related"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GCC Agricultural Robots Market 2020 Professional Survey, Growth Factors, Size, Shares, Opportunity Analysis and Forecast to 2027"
     excerpt: "By incorporating advanced technologies such as agricultural robots, Big Data, and artificial intelligence in cloud ... systems ranging from UAVs to driverless cars. Agricultural robots minimize ..."
     publishedDateTime: 2021-06-23T14:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/21675002"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21675002"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "New hospitality management Certificate in Artificial Intelligence launched by higher education partners Les Roches and aivancity"
-    excerpt: "Les Roches, one of the world’s leading hospitality business schools, and aivancity, the Grande École of Artificial Intelligence, have come together to launch the first Certificate in Artificial Intelligence (AI) applied to hospitality management."
-    publishedDateTime: 2021-06-22T09:44:00Z
-    webUrl: "https://www.fenews.co.uk/press-releases/71025-new-hospitality-management-certificate-in-artificial-intelligence-launched-by-higher-education-partners-les-roches-and-aivancity"
-    type: article
-    provider:
-      name: fenews.co.uk
-      domain: fenews.co.uk
-    quality: 44
-    images:
-      - url: "https://www.fenews.co.uk/images/user_images/Phil_Smith/A_new_Certificate_in_Artificial_Intelligence_launches_in_September_2021a.jpeg"
-        width: 2448
-        height: 1633
-        isCached: true
   - title: "JUDI.AI pledges 1% of equity to Vancity Community Foundation"
     excerpt: "JUDI.AI, a fintech leader in small business lending and growth analytics, is immensely proud to announce they have pledged 1% of their equity to Vancity Community Foundation. This donation will be made through The Upside Foundation of Canada upon a successful liquidity event."
     publishedDateTime: 2021-06-24T13:52:00Z

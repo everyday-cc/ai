@@ -221,17 +221,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "MBTA officials considering self-driving subway cars"
-    excerpt: "MBTA officials are looking at making some Blue Line cars driverless in order to cut positions and salaries, officials said Monday.The"
-    publishedDateTime: 2021-06-22T09:52:00Z
-    webUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/"
-    ampWebUrl: "https://whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/mbta-officials-considering-self-driving-subway-cars/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 24
   - title: "Embark Trucks Going Public, Ready to Commercialize Class 8 Self-Driving Technology"
     excerpt: "Embark Trucks Inc., a developer of autonomous software technology for the trucking industry, and Northern Genesis Acquisition Corp. II, a special-purpose"
     publishedDateTime: 2021-06-23T17:18:00Z

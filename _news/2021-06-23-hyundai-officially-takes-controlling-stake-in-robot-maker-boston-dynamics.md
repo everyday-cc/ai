@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-con
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
 type: article
 quality: 103
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/Press%20photo1.jpg?itok=w20kdBfv"
         width: 3131
         height: 2009
-        isCached: true
-  - title: "Hyundai buys robot maker"
-    excerpt: "Boston Dynamics makes plastic pals who are fun to be withBoston Dynamics has been purchased by Hyundai in a deal valued at $1.1 billion. According to Motherboard, the deal \"sees Hyundai assume an 80 per cent controlling stake in the robot company."
-    publishedDateTime: 2021-06-22T10:13:00Z
-    webUrl: "https://www.fudzilla.com/news/53088-hyundai-buys-robot-maker"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/02da3fd7be606c0da6e86cc9773b8d03_L.jpg"
-        width: 620
-        height: 451
         isCached: true
   - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
     excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."

@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine
 webUrl: "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 550
         height: 504
         isCached: true
+  - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
+    excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."
+    publishedDateTime: 2021-06-22T19:15:00Z
+    webUrl: "https://www.bizjournals.com/houston/news/2021/06/22/hpe-determined-ai-high-perfomance-computing.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Evaxion Develops Method to Enhance AI Drug Development with Deep Probabilistic Programming"
     excerpt: "The paper is entitled “Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model”, and was written and developed by Evaxion personnel in collaboration with Assoc. Prof. Thomas Hamelryck’s probabilistic programming group at the University of Copenhagen."
     publishedDateTime: 2021-06-25T11:32:00Z
