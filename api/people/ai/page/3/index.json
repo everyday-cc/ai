@@ -4,6 +4,32 @@
   "page": 3,
   "value": [
     {
+      "path": "_people/john-giannandrea.md",
+      "title": "John Giannandrea",
+      "excerpt": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-giannandrea/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-giannandrea/",
+      "type": "profile",
+      "name": "John Giannandrea",
+      "bio": "John Giannandrea is Apple's senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for artificial intelligence and machine learning across the company and development of Core ML and Siri technologies.",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/johngiannandrea/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Giannandrea"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Apple",
+        "domain": "apple.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "content": "\r\n"
+    },
+    {
       "path": "_people/jonathan-hays.md",
       "title": "Jonathan Hays",
       "excerpt": "Queen Mary University of London",
@@ -428,7 +454,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27979
+        "followers": 27978
       },
       "topics": [
         "AI"
@@ -862,7 +888,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1523734
+        "followers": 1523737
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -909,7 +935,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 244446
+        "followers": 244444
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
