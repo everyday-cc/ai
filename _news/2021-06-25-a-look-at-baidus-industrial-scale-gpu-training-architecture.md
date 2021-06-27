@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

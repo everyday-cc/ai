@@ -132,6 +132,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
+    excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
+    publishedDateTime: 2021-06-24T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/bfsi-artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2026-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
     excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
     publishedDateTime: 2021-06-25T15:41:00Z
@@ -150,6 +164,17 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 14
+  - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
+    excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
+    publishedDateTime: 2021-06-22T08:17:00Z
+    webUrl: "https://www.openpr.com/news/2310582/computer-vision-market-size-share-analysis-applications"
+    ampWebUrl: "https://www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "VAoU+BArPG75ISA9hjw8GlxfKZfGiRnQouv33tlJupmbK7x0NwwJ7NOEey0muVSjw7e9GPSoQDFs6idk6gr7RY7PEhfovARbo3leH4cLkjjXD8gLINDWAVGzpTcj6FpDgjmUu4uM2L3RbuNyp/eToJfOyKSKu2FCgO3CYzICPYrtt0/rLs2EnnRrIsMoytmoqM9IBDyVbL0QBaB36Lw18Z+vBYUxuJWZRy5oN1ZviXlG/5MWpHWVQ7ZT4SeiLVtdkkRGJSAXT2SekVc+d0IvWYJpG0C+auKK327KQzRdg6vz7KBsc8roBrCwfbWeaBjTFKY2LEQZj41lKKy7VARAyqqPLXNei6sKqDk9ylcU2ww=;LdOgseJkHsoUFIiuSisoDw=="
 ---

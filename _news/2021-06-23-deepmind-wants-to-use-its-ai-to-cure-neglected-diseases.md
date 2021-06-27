@@ -82,20 +82,6 @@ related:
         width: 5335
         height: 3557
         isCached: true
-  - title: "DeepMind Has A Solution For AGI. Not Many Agree"
-    excerpt: "In a paper titled, \"Reward is enough\" authors propose a hypothesis on why maximising a reward function is enough for intelligence to emerge"
-    publishedDateTime: 2021-06-22T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-has-a-solution-for-agi-not-many-agree/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AGI_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Y/4gwkt3VUbtfF+nq2azg0bkCAy2NPivsD8XzOkNE7wXMQCHLxU1BqKBYuqDpXZ/Ad+lJFFSeSWkusS3ZAsRiryAUkWHaFdeJoFLuoSctFVkis2VuESIn+IQJJsvwGSmHtMzhVW9Bw61eFvxGiX93eBM7dHIS+gbCIrFpz9rfyHixZto0ElLNpLXbHIEbdLxvbdyqJAeEwF6uhtqTk83rnWc1j0QMUg35whLdHABZHYPeS2SETIdoaVS+fnAEECkRX9xsPIXXiQAe4Rtw07uCer5nPfMCCIAEVko121V3YHCZY8twyexnBraPAj4a99C928UL3b7Egar9U+7m6aRBYoNd82fAhtAu8gRtbQawRo=;N/1BrdEGsiepsl7F13LOhw=="
 ---

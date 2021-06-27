@@ -32,17 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in the Global Food & Beverages Market to Reach a Valuation of $29.94 Billion by 2026"
-    excerpt: "The \"Artificial Intelligence (AI) in Food & Beverages Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 -"
-    publishedDateTime: 2021-06-22T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21670399/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion-by-2026"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21670399"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21670399"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
   - title: "ePharmacy Market Size Worth US$370 Million by 2031:"
     excerpt: "Visiongain has published a new report on Global ePharmacy Market Report Forecast 2021-2031. Forecasts by Product (Prescription Medicine (Rx) and Over-The-Counter (OTC)). PLUS Profiles of Leading ePharmacy Companies and Regional and Leading National Market Analysis."
     publishedDateTime: 2021-06-26T12:16:00Z
@@ -56,20 +45,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7436"
         width: 375
         height: 249
-        isCached: true
-  - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
-    excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
-    publishedDateTime: 2021-06-22T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-based-on-covid-19-impact-analysis-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
     excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."

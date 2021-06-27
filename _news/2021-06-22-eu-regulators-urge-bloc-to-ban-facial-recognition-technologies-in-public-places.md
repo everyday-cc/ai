@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU watchdogs call for public ban on automated facial-recognition"
-    excerpt: "EU data protection authorities on Monday called for a ban on the use of artificial intelligence (AI) for automated recognition of human features such as faces, fingerprints or voices, in public spaces and in any context."
-    publishedDateTime: 2021-06-22T05:04:00Z
-    webUrl: "https://euobserver.com/tickers/152208"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 24
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "How regtech is improving efficiency in the financial services industry"
     excerpt: "Regulatory technology, or RegTech, was developed in the wake of the FinTech revolution and has been continuously expanding since the financial crisis of 2008. Experts predict it will rapidly advance the regulatory landscape by offering technological compliance solutions for the highly regulated financial services industry."
     publishedDateTime: 2021-06-22T18:00:00Z

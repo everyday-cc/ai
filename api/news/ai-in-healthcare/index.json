@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-24-ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled.md",
-      "title": "‘AI for a better normal’: PH’s COVID-19 Artificial Intelligence technologies unveiled",
-      "excerpt": "The technology which seeks to determine whether a patient caught coronavirus disease (COVID-19) or simply a viral pneumonia, known as CHERISH App, and the gender-responsive COVID-19 Cases Monitor (CCM",
-      "sourceUrl": null,
-      "webUrl": "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/",
-      "originalUrl": "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mb.com.ph/wp-content/uploads/2021/06/13686.jpeg",
-          "width": 331,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/?amp",
-      "cdnAmpWebUrl": "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/?amp",
-      "publishedDateTime": "2021-06-24T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manila Bulletin",
-        "domain": "mb.com.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025.md",
       "title": "At CAGR of 45.4% Artificial Intelligence Chip Market Size is Projected to Reach $91.19 Billion by 2025",
       "excerpt": "Heavy inflow of investments in AI startups, rise in demand for smart cities & smart homes, and emergence of quantum computing would propel the growth of the global artificial intelligence chip market Allied Market Research published a report,",
@@ -273,7 +230,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027-2021-06-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1301,6 +1258,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024.md",
+      "title": "Overview of Healthcare Artificial Intelligence Market Sales, Supply & Demand Analysis 2024",
+      "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024-2021-06-08?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/overview-of-healthcare-artificial-intelligence-market-sales-supply-demand-analysis-2024-2021-06-08?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

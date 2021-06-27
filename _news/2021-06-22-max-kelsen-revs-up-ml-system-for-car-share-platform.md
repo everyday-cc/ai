@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Max Kelsen revs up ML system for car share platform"
-excerpt: "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour."
-publishedDateTime: 2021-06-22T06:01:00Z
-originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
-webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
+excerpt: "Utilising Amazon Web Services (AWS) tech like managed ML service Amazon SageMaker, Max Kelsen built a machine learning application to assist Car Next Door’s investigations team to flag ‘bad ..."
+publishedDateTime: 2021-06-22T05:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
+webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
   name: ARN
@@ -25,6 +22,6 @@ images:
     height: 500
     isCached: true
 
-secured: "v6SNjMXzRnDytHyarnEzKqZ/71wEpwl7JsCyqVXrOmySX5OyPNdY6EE4KQ4BG3yrB2xJ3YcQ7MFdnhwOz5BX6IpwqNt4OLFpohCfNhiaIa8261bQ7xpuTRl2cPEPCu4r54hfeLGUZTk9adGR1jyZ+eMmHH3AuMnNAJSnGTfv1A80A2CNMV4MwtkILyqoBHBzDz2+c+09Qmt0DswMGx3o1YoOpdhKaISkzxlaAu56XfMM5ERhQbEnY5mjuTPcAO92PsLlb6hZ5yScXmqz/G7bfiM5JL+r+OLWxhvMtuYpwORkh7LKDpZBdH2w9jcOf6B/qzMcF7dwhDjw1V3QWjmOPnBP+HzSFFwMvJowrfWiAqqJswC5b9wX9Qb29xeHpDewPB0bU4y8cLRt7oDM2e9fA8jh73hSIiodx26X0mYqoQ+nSSwEms1+ReMKr2R4H7j4GE+gdmtZA2Mgo0Ds30GmdFQJYV7FNLlSsZ5csoDZyyuDFp5G3Dnntta5x3/PqVs7sIT68VbhnKIZQhZLZ1w5bA==;McEdA9w8gqCZP9VvP6116w=="
+secured: "km6o8Sq4PzhCAEhNd4lICk4xM6++pASoqVOE5Wl5WiBiXoD5FvigobJZv0Y8z7nK+b99suLD1tOQXIqAmav3VVT99pG42nBM2uEQXVvYgo9Wpex3vTAFfpbRTSs5oHo7nSd+0iDKuqfqOHmhuNF4dLV5wO8TFz8QcVJJr5TO4cBEJEkVTDUNl029Hbv040ExyW6s4fHMi9R0j2cN1bMp+ljWBHenuoEFyWYoT0lVybpfJZKjw1MX+zi3pPJkwJuHCZhYwfZxk36+hZeP4rqU+bwZk7t5PFw2ehk3UrURqQd8dy6AvYTKKajnTtNGVYPD/bDy+5exjA6QNw0QqhKaJel1+WZh+NMk9W2DzjjOZB8=;W9XYGDpNsmCj2CcJf7UlqA=="
 ---
 

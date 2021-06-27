@@ -9,8 +9,8 @@ ampWebUrl: "https://mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-art
 cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/06/24/ai-for-a-better-normal-phs-covid-19-artificial-intelligence-technologies-unveiled/?amp"
 type: article
 quality: 67
-heat: 79
-published: true
+heat: 67
+published: false
 
 provider:
   name: Manila Bulletin
@@ -25,22 +25,6 @@ images:
     width: 331
     height: 400
     isCached: true
-
-related:
-  - title: "COVID-19 Slowed Law Libraries' AI Initiatives. But the Technology Isn’t Going Away."
-    excerpt: "According to a report released today by the American Association of Law Libraries (AALL), fewer law libraries have and are launching AI initiatives. But many may be using AI more than they think."
-    publishedDateTime: 2021-06-22T06:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/06/22/covid-19-slowed-law-libraries-ai-initiatives-but-the-technology-isnt-going-away/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/06/Library-Software-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "4F23Ueuh4UwfNZUQhKUjOskn9Fdq4eW9x7fgBsLbtsstERlrMnDa5lQ6Scyx3O2fiModBXOvxLdymk8ufNaaz+KHZyk6RBFmyVvP+qj8EGsfBVw/MU5GSkkH3cDRtCJq5UIdrzt8olqRv106rBEeZOleKgsYmcBi2SpWWluelI5zsAiiZR5xoBXa9sHZtapoCRN4jk9jDXJlKW1MlzfnvRr8sdp//H3PqoIUerP5WVVWyfHqbGZ+1e6AUsm8qaW4SnXxtTI3OW8b35tLgI4e9yaCDnBD538nr39AgZ+6KJsyGhGotBSVR8HIEyg58TfO6nKGTgaqU4LtxpRSM9vi73sBHJHboGOvMtuoPxumrDUkUa9lIsiT30KD8+XWAi0VI0npz7fwHZ8VtutQLwd3vj6uLrp2eYOylPNiaNbWlGbkK0P9r+8s+Cw6+MxgjFRAhUMMgGyUO06Rk0NaY7p1X5NKjVJyexv9pVQD07Uq+BGdPMR7jn2QV/W72D7Gh3DCPCmojsNtrHAuULJmCWDAAg==;NAyQAi7CdrAPBs30VxMScQ=="
 ---

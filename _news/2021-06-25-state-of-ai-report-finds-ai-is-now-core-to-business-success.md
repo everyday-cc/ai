@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -43,17 +43,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
-    publishedDateTime: 2021-06-23T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "TsX3cO9OiVcbBNczzCPrSJ8T2AeyldBps4DyzIHJ75xavg22H9d0iMnjkHRaI6VtDEhVDOX4B6eoTyltJs6kxGl11z7613Ww2SNFDZsDgG70LRAQs64s5ZPzWDRn7owmWZJmg5W7CmFBPD1SU4eU2tjaaedQfVAh63c3HFU3UhZVtmAhUm3yFexTNbVgSo6pOCfPqbDMrIJ3ZPqvnPQTIro90LQaUzkZfwxszLdmx9c0BzgIpUB6aM0Hltf4y/SI009GYAFCRmSXluJix16c4mM6eWe/XHwiGLacvkchLipxQLOTQa5RwF4ud8+GUN+Akz4qF5O1smByoJr30rLhrjP5OZXFbQ79ypQIVceGaRBzpV+2F3jY8ycSe9fNhsRAeIDP8FrdPAZlELiQIdGbNZ5tQRONJObSkfmzpPr3dHbDd9AESyPncHwXQNSWv3Pn8+pYcGan0LRqyVUwfAxYb3E4bHzOkzDnZtT6Lq90UuUvS0BmOAjkNu18kKFDml0BZvk4WuCxqtckvNwfyY44GQ==;ktx/qTZ+H8HFtTc6Huw+xw=="
 ---

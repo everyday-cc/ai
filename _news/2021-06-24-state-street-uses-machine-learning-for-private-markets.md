@@ -51,13 +51,13 @@ related:
         height: 512
         isCached: true
   - title: "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence"
-    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu"
-    publishedDateTime: 2021-06-22T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence"
+    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s partnership with Canoe Intelligence (“Canoe”),"
+    publishedDateTime: 2021-06-22T12:30:00Z
+    webUrl: "https://www.financialbuzz.com/state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "cDb0879W6rQUU+umefxhLjEYafF2G3ui3LCnWFKRQ6gLtonm+LvAGy0hnTWR8yPhOxlJQybNWQtZSavoBpDzDY6B+F6wFvSTH259r1w3K0UiFBAfcBTKvCPwbtGgVf1IKlJp8ETB+cvuYkww+7GFDk+tALkq3iHsPa7a53LrOOMnEjuQrxzVWTchPmCXOMdkC/HTAdCyeoCuJY9WukHpwO91Laze4Xx5djS+TeySDmPkejj6/pM133hC68mMG37OXuxyKAlX90q6oWQv3PwpS2b34ESLUfQDL3eL5Snyzi33yqLSeam/aeir9/h5+wUIKJro/ClZvRu000DjEjz12FfLGRgM/758yIAFDfUqdyo53oCWfNVTReP97GuBiKzWIDCvWDyV/FvdUXtoQE6fkYGul2ZYlPg66ulALfl1eyWtwLJib5X4Zj5QNkxr39jvqE0WiUEjPlTpOxajV1HKM2uMxmXBN+lyfxvIg7c3vtU8+R3gWgF5mZARLWdN5WTbdBlBk545WkYnSKvM7CWaYw==;A2Q3JTrckJ99o3FZYkLWEg=="

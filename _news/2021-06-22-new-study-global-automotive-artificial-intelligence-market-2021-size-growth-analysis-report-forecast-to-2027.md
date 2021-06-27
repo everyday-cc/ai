@@ -20,50 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double"
-    publishedDateTime: 2021-06-22T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Service Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "The global service robotics market was valued US$ 20.4 Billion in 2020 and is expected to show significant growth during"
-    publishedDateTime: 2021-06-22T05:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Modular Robotics Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis"
-    excerpt: "From 9 32 trillion in 2009 the manufacturing output value added rose sharply to 13 672 trillion in 2019 as per the World Bank This reflects both the burgeoning demand for every type of product on account of the booming"
-    publishedDateTime: 2021-06-24T14:07:00Z
-    webUrl: "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/U/6/U624416484_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Deep Learning Chip Market Forecast, Trend Analysis & Competition Tracking – Global Market Insights 2020 to 2028"
     excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a"
     publishedDateTime: 2021-06-22T08:03:00Z
@@ -78,109 +34,134 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Share Growth, Size Value, Trends, Rigonal outlook by 2028"
-    excerpt: "Cognitive computing represents the third era of computing, we started from computers that could tabulate sums (1900s) to programmable systems (1950s), and now to cognitive systems. Even though computers are better for data processing and making calculations,"
-    publishedDateTime: 2021-06-22T17:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-share-growth-size-value-trends-rigonal-outlook-by-2028-2021-06-22"
+  - title: "Machine Learning Market – Game-changing Insights on Customer Behavior Benefit Retailers and Telecom Companies"
+    excerpt: "Transparency Market Research delivers key insights on the global machine learning market. In terms of revenue, the global machine learning market is estimated to expand at a CAGR of ~27% during the forecast period 2020-2030,"
+    publishedDateTime: 2021-06-23T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-game-changing-insights-on-customer-behavior-benefit-retailers-and-telecom-companies-2021-06-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Artificial Intelligence."
-    publishedDateTime: 2021-06-23T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-23"
+  - title: "Global Telecoms Cloud Market Forecast to 2026: AWS, BT, Oracle and Verizon Dominate"
+    excerpt: "The global telecom cloud market size is expected to grow from USD 19.8 Billion in 2021 to USD 52.3 Billion by 2026, at a Compound Annual Growth Rate (CAGR) of 21.4% during the forecast period. Data stored on a public cloud platform is generally regarded as safe from most hazards."
+    publishedDateTime: 2021-06-22T10:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-telecoms-cloud-market-forecast-to-2026-aws-bt-oracle-and-verizon-dominate-2021-06-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report contains market size and forecasts of Artificial Intelligence in Global, including the following market information: Global Artificial Intelligence Market Revenue, 2016-2021, 2022-2027, ($ millions) Global top five companies in 2020 (%) The global Artificial Intelligence market was valued at 1315."
-    publishedDateTime: 2021-06-25T15:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+  - title: "Artificial Intelligence in Banking Market - Forecast to 2026"
+    excerpt: "As per the research conducted by GME the Global Artificial Intelligence in Banking Market is projected to grow at a CAGR value of 24 5 during the forecast period of 2021 to 2026 Browse 151 Market Data Tables and 111"
+    publishedDateTime: 2021-06-22T14:34:00Z
+    webUrl: "https://www.openpr.com/news/2311056/artificial-intelligence-in-banking-market-forecast-to-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2311056/artificial-intelligence-in-banking-market-forecast-to-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311056/artificial-intelligence-in-banking-market-forecast-to-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/6/U622760666_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application, Geography and Forecast 2021-2030"
+    excerpt: "Acumen Research and Consulting has announced the addition of the \"Global Machine Learning as a Service (MLaaS) Market : Global Industry Size, Share, Trends and Forecast, 2021-2030\" report to their offering."
+    publishedDateTime: 2021-06-24T14:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-geography-and-forecast-2021-2030-2021-06-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
+    publishedDateTime: 2021-06-23T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Speech Recognition Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "Automatic speech recognition (ASR) is the use of computer hardware and software-based techniques to identify and"
-    publishedDateTime: 2021-06-25T08:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+  - title: "AI in the Global Food & Beverages Market to Reach a Valuation of $29.94 Billion by 2026"
+    excerpt: "The \"Artificial Intelligence (AI) in Food & Beverages Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 -"
+    publishedDateTime: 2021-06-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21670399/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion-by-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21670399"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21670399"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
-    excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
-    publishedDateTime: 2021-06-24T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bfsi-artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2026-2021-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 31
+  - title: "Technologies of Voice Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027 (Based on COVID-19 Impact Analysis)"
+    excerpt: "Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Technologies of Voice Recognition Market This"
+    publishedDateTime: 2021-06-22T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/technologies-of-voice-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-based-on-covid-19-impact-analysis-2021-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
-    excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
-    publishedDateTime: 2021-06-22T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2310582/computer-vision-market-size-share-analysis-applications"
-    ampWebUrl: "https://www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
+  - title: "Global Speech and Voice Recognition Technology Market Positive Demand and Development Approaches through 2021-2026"
+    excerpt: "MarketQuest.biz has announced a new research study on Global Speech and Voice Recognition Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026 which comprises the most up-to-date market insights and analysis performed."
+    publishedDateTime: 2021-06-22T09:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-speech-and-voice-recognition-technology-market-positive-demand-and-development-approaches-through-2021-2026"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
-  - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
-    publishedDateTime: 2021-06-25T14:13:00Z
-    webUrl: "https://www.openpr.com/news/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "Far Field Speech Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 22 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with machines using"
-    publishedDateTime: 2021-06-25T11:16:00Z
-    webUrl: "https://www.openpr.com/news/2314046/far-field-speech-voice-recognition-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/antivirus-john-mcafee-AFP-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Precision Medicine Software Market Report 2021-2028: Opportunities in Emerging Economies & Artificial Intelligence in Precision Medicine"
+    excerpt: "The global precision medicine software market is expected to grow at a CAGR of 11.2% from 2021 to 2028 to reach 2.55 billion by 2028. The growth in the precision medicine software market is mainly attributed to the paradigm shift in treatment,"
+    publishedDateTime: 2021-06-22T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-precision-medicine-software-market-report-2021-2028-/2021/06/22/9395457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
+    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
+    publishedDateTime: 2021-06-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "8v6js0cLukfNNKBHYeusXC+woMqqCG/SMWIXc2po379EDbxoCjFqdnhJbv5WkpE/DNOSCAjhYtFMVWktQyXpzyBp7IfQCCTV8Ab/cOJIK6d/JOTS4xI9stpBPC8pYk854rO0tsHJo3z5THaZ9zKN9DrxGT3KFidYirtK9JaZ3W/ovCoqeDJpdBVIXMl4RMpubXadYqX61uxThQ2A2t45JX6zT4lAr57gYoXfwZ63rJgKZ1RFh0858Ld3G1N4ddvTHwtlAdfFjlmY8v57w4vPfRcio/m/laDBCyBvLCBKCicSP47YhzYpO+j029Xy+F1V5FFpViVZfc9cll0xI37ciB2h2NVUCn7Hc345qgifOZ4=;4ETQW55px1YMHpmx+WLbzA=="
 ---

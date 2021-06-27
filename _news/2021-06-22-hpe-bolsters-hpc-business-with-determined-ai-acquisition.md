@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/3
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "HPE picks up ML model training pace with Determined AI buy"
-    excerpt: "HPE is set to bolster its high performance computing and artificial intelligence stack with machine learning model training tech from Determined AI, which it has acquired."
-    publishedDateTime: 2021-06-22T05:32:00Z
-    webUrl: "https://www.arnnet.com.au/article/689239/hpe-picks-up-ml-model-training-pace-determined-ai-buy/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/justin-hotard.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
     excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia makes Fleet Command generally available with AI Launchpad coming soon"
-    excerpt: "Subscription AI management platform exits early access, while a DGX and EGX server renting service called AI LaunchPad will appear soon."
-    publishedDateTime: 2021-06-22T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-makes-fleet-command-generally-available-with-ai-launchpad-coming-soon/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-makes-fleet-command-generally-available-with-ai-launchpad-coming-soon/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-fleet-command-generally-available-with-ai-launchpad-coming-soon/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/22/1c51274a-ad4a-4c85-91e8-a6db0dc6dae2/nvidia-fleet-command.jpg"
-        width: 2000
-        height: 1260
-        isCached: true
   - title: "Nvidia’s Canvas AI painting tool instantly turns blobs into realistic landscapes"
     excerpt: "AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest,"
     publishedDateTime: 2021-06-23T21:18:00Z

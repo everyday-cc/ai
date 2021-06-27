@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
 type: article
 quality: 125
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "DeepMind Has A Solution For AGI. Not Many Agree"
-    excerpt: "In a paper titled, \"Reward is enough\" authors propose a hypothesis on why maximising a reward function is enough for intelligence to emerge"
-    publishedDateTime: 2021-06-22T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-has-a-solution-for-agi-not-many-agree/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/AGI_AIM.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "hGMABwhxq8IWYyOGtH6MMNyzFgnN1L3fUk4rdOnkvSSjo3Wj+2NU+6vVISuijVq0nbLqjR6TJiDguvFEF8O3cLqmTApY+MliF8iPfNfcaqMs4K93DsQCu9uR6+DBrJKheAZT4GgOWBFyX14i79cmqqG7eO1ja93nmt49XPy64fAw5oMNzVggc/29nzwpIanqeNbeeXi+MWOo9gYSYq7PvWsSrx34DBUTsPURt0XFXAChVty4jrzvmnm4130xAjA+tNiV7BQ4ZmkH8mpKH8kVeTnBMZr1w51t2VZFFeBjPR4nufR49ihLehQuFZ3Z+5I4zkBDx/HVMyLA0/sahB4Ztd1fRPK0FpCUVoR8ydOdsQpq5NGndaeh9oWrdwbccSPsT97FDZimfbjcpysS1Q9ygvS/UcT9k3UK6MtCC7gkKMTCDsL9kgh8pdUdjhxvDzF7P+ykMIUvMNKGuRb2PPDqsnx1u9mMtojr544gXrZ0VjQzFqoORvEUxDU887JkMKJ0IjH9Arcsf9+g+XjEgW3AUA==;4V3fp7jdiocHhaJJs3szhA=="

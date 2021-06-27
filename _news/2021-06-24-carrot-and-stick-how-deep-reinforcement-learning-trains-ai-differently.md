@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/24/carrot-and-stick-how-deep-reinforcement-learning-trains-ai-differently/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "HPE Acquires Deep Learning Training Platform Determined AI"
-    excerpt: "Hewlett Packard Enterprise has acquired deep learning training platform Determined AI for an undisclosed amount. The latter will work with HPE to boost high-performance computing"
-    publishedDateTime: 2021-06-22T06:29:00Z
-    webUrl: "https://analyticsindiamag.com/hpe-acquires-deep-learning-training-platform-determined-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/HPE.gif"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "+aaVL5oOPhhPX5Y4TIxW4a0SpZL973bK7Fkld10+cL4V3svw3/4Ras3i2vuA+vNyUuaccaf03sSNrkly26BNcu1Mk5tAp2Iw4B7uBRDN0POQsAVJPFu+MXcPXRPZD4ndfIhlMUOuXiMOAPSbAdS+oodGCAyM0p0jqn4YsWT46oyl7m+RUiSOVxCzXpw7pnbgfyN01tOmahL9CHnB6ui0IZW4UpMY+/QTnc6i35NFV/BQJFiXsAQW9PktpKvlOIGrMEpPlVv+dAbxAeN5B9HXeH75VinZQHI+Ptj1ADINsvi2bxvcN6bBCyfIrmZ7twFsPIbb4yjpYHADspVkm+yJvVCEyvUUJWcJOOi9Mo/8P2gBxdFeQnL0OncIJcT6dt8kzP3yY2ImOOTIKyHiWN3VMArDaezaACGQseLx81ft9BAZRIBSsqiD5SJItcMKA89k88hCz6vK3PvgEX44GDYoCYNHQ5ZIIc3rB1zSIzu62BDKosdRBcdbtCuh1xXwpqC883/W3cB2n5ZamDQvmdgt2A==;cKCcOOpsbOrppK9voHyKDw=="
 ---

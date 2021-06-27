@@ -60,22 +60,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Nvidia makes Fleet Command generally available with AI Launchpad coming soon"
-    excerpt: "Subscription AI management platform exits early access, while a DGX and EGX server renting service called AI LaunchPad will appear soon."
-    publishedDateTime: 2021-06-22T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-makes-fleet-command-generally-available-with-ai-launchpad-coming-soon/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-makes-fleet-command-generally-available-with-ai-launchpad-coming-soon/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-fleet-command-generally-available-with-ai-launchpad-coming-soon/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/06/22/1c51274a-ad4a-4c85-91e8-a6db0dc6dae2/nvidia-fleet-command.jpg"
-        width: 2000
-        height: 1260
-        isCached: true
   - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
     excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
     publishedDateTime: 2021-06-22T23:31:00Z

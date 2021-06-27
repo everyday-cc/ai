@@ -18,17 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Telecommunications Growth Opportunities"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Artificial Intelligence in Telecommunications Growth"
-    publishedDateTime: 2021-06-24T09:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21698914/global-artificial-intelligence-in-telecommunications-growth-opportunities"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21698914"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21698914"
+  - title: "Modular Robotics Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis"
+    excerpt: "From 9 32 trillion in 2009 the manufacturing output value added rose sharply to 13 672 trillion in 2019 as per the World Bank This reflects both the burgeoning demand for every type of product on account of the booming"
+    publishedDateTime: 2021-06-24T14:07:00Z
+    webUrl: "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/U/6/U624416484_g.jpg"
+        width: 800
+        height: 464
+        isCached: true
 
 secured: "07TzYZ4iYh+PcJnz3EmNB0CBUOkGRxyhnIWcoivnaRnMID1pfe1Wm2auGDqBhOLzpIS3VtZrXKqNMccz9nV1lSevxUGJkFoO6mjSiiVy2w/Myb/ejM5B/zv0ck4Hj+MXuhzsDsrPRLZDH29GIlNqDRfLDNzM6Dke3myHqsHHOMwBBomYXkpuOXu3iRb9dGjx87diUwkuqyIbhnxFbiD9WZiZWeS/BJhjgf2gDRzoXlqVz1XE1tzGXqZYt+xJ0JiDQSdw33CNjrhcyqABvZF5DSY+B6gtAOCLMkHcVwfy9q/2wqyd/shjikezqfmq3w6xmabPifjUBXrrh0KIVC6/26uCl+Q2Zmj32poHgj8YLDY=;Apza6cfbrZwcIelMIuLATA=="
 ---
