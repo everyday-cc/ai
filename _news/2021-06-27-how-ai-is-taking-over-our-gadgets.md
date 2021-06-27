@@ -1,14 +1,14 @@
 ---
 category: news
 title: "How AI Is taking over our gadgets"
-excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls"
-publishedDateTime: 2021-06-26T19:29:00Z
-originalUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
-webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
-ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
+excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
+publishedDateTime: 2021-06-27T15:15:00Z
+originalUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624806291279.html"
+webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624806291279.html"
+ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,14 +17,13 @@ provider:
   domain: livemint.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
+  - url: "https://images.livemint.com/img/2021/06/27/600x338/371939990_0-5_1624806727936_1624806748698.jpg"
     width: 600
-    height: 338
+    height: 337
     isCached: true
 
 related:
@@ -75,6 +74,6 @@ related:
         height: 450
         isCached: true
 
-secured: "t8sudLb8qA1xsvuIA6+Xfq2BkHe9Zuqj/SJWVa0ZuE82uYr+NFZUoQMkc1guW7laSPb4kDoKI0DtjehDJetAUNzH9Xc0knn9tA3xm/sMFPoecnloLSkwX6CWbOzVKKszOa3wPhtzTWcz7raC6KZptD7qi9JZG4Yk9/rZ8YezMi7T/x5hTrkGVAPZAjwSPfzWomRgUr3BzMt5SOFBJ1+BNShi2PcEextJ6f4jJwPgTmAPQpR5lkn5i853qe7ZNJCnEG93zVBbq2bRvaNzdZVwdRXHY3MELxS61pjcTkinGRWJsRF5MEFhpwnXCQKFJ3lPxMk7a51a3Kb9GlIZGxVoIIekrC0n4JEvYMdjVKvglwVXcbI4YxtLu/6ItLB/sUq2M0G91EdokLHCKogpdbXJ1aAOWPENomExHaTeLtZyKg4EcGuf8N0Bizt8zV0wUT5Ld9THoGF+Gu4PPNpWdY+52MOrJ00HH85/u8E39+oporSicVOG4hQCY7YnfxxaQP4Xg60cvLMmUrFxVEleZMwWRg==;a3a8O/T0yVifSQ0a9hfsgA=="
+secured: "GT6ZaWj06dYSUBVCWUQVQqKJ8f0CScjV7L7jDHOBnxYQAO9hr/YetshZtJ5MEt+wzCrPlNsGMtHQzKq6XEQoUgd/MmM8f84+h3JbHy2nX7MScRyvwQnMH/va8kgv2h6WItdz92yFPeQtvh2l2oW0rrsZBbcQaQw0DR+IrJth2RuUCataW6VAoSGfM92+cgYRViZB5pKuZy+vhP2/xoRzJmWPLrL2JnpMZy9XY7Qe/BIY1a7uV45QmvPjipw18MlhhLatoGRLUrxPzoFR6QrHyiKGRHeReqZXvS1QRE/XcB5+BLNzLrIFnOZB2gxYDJoseOCY6t4/A3z69t/zdlgdECxZK9fHgi2G2xzhyou+Scs=;Ca+U+WDXet9sHM89A46cVQ=="
 ---
 

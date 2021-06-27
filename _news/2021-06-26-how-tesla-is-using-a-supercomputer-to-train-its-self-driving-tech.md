@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla’s Full Self-Driving v9 Beta And FSD Subscription Model Delayed Yet Again"
+    excerpt: "Those waiting for their full self-driving Tesla are going to have to wait a little bit longer after Elon Musk once more pushed the release back."
+    publishedDateTime: 2021-06-25T20:23:00Z
+    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-v9-beta-and-fsd-subscription-model-delayed-yet-again/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 50
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/tesla-model-3-1200px.jpg"
+        width: 1200
+        height: 640
+        isCached: true
   - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
     excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
     publishedDateTime: 2021-06-23T11:16:00Z

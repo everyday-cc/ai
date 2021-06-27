@@ -44,20 +44,20 @@ related:
         height: 640
         isCached: true
   - title: "How AI Is taking over our gadgets"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls"
-    publishedDateTime: 2021-06-26T19:29:00Z
-    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624693853701.html"
-    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624693853701.html"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
+    publishedDateTime: 2021-06-27T15:15:00Z
+    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624806291279.html"
+    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
     type: article
     provider:
       name: Mint
       domain: livemint.com
-    quality: 61
+    quality: 59
     images:
-      - url: "https://images.livemint.com/img/2021/06/26/600x338/2021-04-29T135354Z_3_LYNXMPEH3S0AO_RTROPTP_3_GLOBAL-SMARTPHONES_1624694261803_1624694278927.JPG"
+      - url: "https://images.livemint.com/img/2021/06/27/600x338/371939990_0-5_1624806727936_1624806748698.jpg"
         width: 600
-        height: 338
+        height: 337
         isCached: true
   - title: "How AI-powered pricing is shaping the customer experience"
     excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"

@@ -44,20 +44,6 @@ related:
         width: 800
         height: 303
         isCached: true
-  - title: "Build accurate ML training datasets using point-in-time queries with Amazon SageMaker Feature Store and Apache Spark"
-    excerpt: "This post is co-written with Raphey Holmes, Software Engineering Manager, and Jason Mackay, Principal Software Development Engineer, at GoDaddy. GoDaddy is the world’s largest services platform for entrepreneurs around the globe, empowering their worldwide community of over 20 million customers—and entrepreneurs"
-    publishedDateTime: 2021-06-22T22:54:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-accurate-ml-training-datasets-using-point-in-time-queries-with-amazon-sagemaker-feature-store-and-apache-spark/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "LOouNhZCE44JNmmbpD8G8Vwckyu5JFG3703vPwQZWR3ItcN9tdxrQaW1X8gpQQmVESMZGlU1oZlc7IFVrot9Luacsrnt0ub9xDR5K2gZWvVqlixXWUnjedSl5BIf+STsxVDx2f7wJn29+L5gAjJLMR7v8HvVHd5Vqr8YUVxwk0jPFqB2krNLX/G5Az1ytTYEMWH6ShP49KMJ83LHPkdY5xF/9d8lfk7gWQheSU/rqe8tzXXxLPcDYk6l6NlI1x+08k2rA2d7qopWjAJj+v0fkEEnlY8gq+CkpLneCiuGW836cauQZywzo2TKQeHqGmloVH5nUKLHrxAcy/QUqrkQJP7lKn+WQFMQhV3jJbiSqNw=;36ciueoe4TYRkLwYy456oQ=="
 ---

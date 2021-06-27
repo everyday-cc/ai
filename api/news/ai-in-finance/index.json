@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-27-lendbuzz-raises-60m-using-ai-to-finance-car-loans.md",
+      "title": "Lendbuzz raises $60M using AI to finance car loans",
+      "excerpt": "Lendbuzz, which was founded by Israeli entrepreneurs in Boston and recently opened an R&D center in Israel, scores $60M in equity and another $300M in debt",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
+      "originalUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/06/Lendbuzz-company-picture-1624437960-2048x1365.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
+      "publishedDateTime": "2021-06-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-why-machine-learning-projects-fail-and-how-to-make-sure-they-dont.md",
       "title": "Why Machine Learning Projects Fail – and How to Make Sure They Don’t",
       "excerpt": "The first step to a successful ML project is to understand that these projects require different processes, terminology, workflows, and tools than those needed by traditional development.",
@@ -1286,49 +1329,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-analysis-as-ai-based-loan-apps-boom-in-india-some-borrowers-miss-out.md",
-      "title": "ANALYSIS-As AI-based loan apps boom in India, some borrowers miss out",
-      "excerpt": "As the founder of a consumer rights non-profit in India, Karnav Shah is used to seeing sharp practices and disgruntled customers. But even he has been surprised by the sheer volume of complaints against digital lenders in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
-      "originalUrl": "https://www.reuters.com/article/india-tech-financing-idUSL5N2NK4XL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL5N2NK4XL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL5N2NK4XL",
-      "publishedDateTime": "2021-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

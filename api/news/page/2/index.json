@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-25-state-of-ai-report-finds-ai-is-now-core-to-business-success.md",
+      "title": "State of AI report finds AI is now core to business success",
+      "excerpt": "Appen survey of business leaders and data scientists indicates that AI initiatives are delivering business value but challenges still exist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
+      "originalUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html",
+      "publishedDateTime": "2021-06-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public.md",
       "title": "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public",
       "excerpt": "Self-driving tech company Pony.ai, backed by Toyota Motor Corp (7203.T), is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services, its chief executive told Reuters.",
@@ -1151,49 +1203,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-appzen-launches-finance-ai-appstore.md",
-      "title": "AppZen Launches Finance AI AppStore",
-      "excerpt": "AppZen, a modern finance AI software platform, announced the launch of the AppZen AppStore Thursday. What Happened: The development comes as AppZen looks to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
-      "originalUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/pexels-andrea-piacquadio-3774903_0.jpg",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21696443",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21696443",
-      "publishedDateTime": "2021-06-24T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

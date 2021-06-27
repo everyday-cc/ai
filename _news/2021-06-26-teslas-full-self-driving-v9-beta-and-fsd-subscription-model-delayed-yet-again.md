@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla unveils supercomputer used to train self-driving AI – report"
-excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
-publishedDateTime: 2021-06-23T14:01:00Z
-originalUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
-webUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
+title: "Tesla’s Full Self-Driving v9 Beta And FSD Subscription Model Delayed Yet Again"
+excerpt: "Those waiting for their full self-driving Tesla are going to have to wait a little bit longer after Elon Musk once more pushed the release back."
+publishedDateTime: 2021-06-25T20:23:00Z
+originalUrl: "https://www.redmondpie.com/teslas-full-self-driving-v9-beta-and-fsd-subscription-model-delayed-yet-again/"
+webUrl: "https://www.redmondpie.com/teslas-full-self-driving-v9-beta-and-fsd-subscription-model-delayed-yet-again/"
 type: article
-quality: 54
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Drive.com.au
-  domain: drive.com.au
+  name: Redmond Pie
+  domain: redmondpie.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
-    width: 1280
-    height: 720
+  - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/tesla-model-3-1200px.jpg"
+    width: 1200
+    height: 640
     isCached: true
 
 related:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla unveils supercomputer used to train self-driving AI – report"
+    excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
+    publishedDateTime: 2021-06-23T14:01:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Tesla is using a supercomputer to train its self-driving tech"
     excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
     publishedDateTime: 2021-06-26T09:00:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "Tesla’s Full Self-Driving v9 Beta And FSD Subscription Model Delayed Yet Again"
-    excerpt: "Those waiting for their full self-driving Tesla are going to have to wait a little bit longer after Elon Musk once more pushed the release back."
-    publishedDateTime: 2021-06-25T20:23:00Z
-    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-v9-beta-and-fsd-subscription-model-delayed-yet-again/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 50
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/tesla-model-3-1200px.jpg"
-        width: 1200
-        height: 640
         isCached: true
   - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
     excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
@@ -84,6 +84,6 @@ related:
         height: 743
         isCached: true
 
-secured: "dKJqbRHintI7CDUzqciCxst2ynU/bKn9unEcGouA/TunJv1Nwl4x7VfxKDNPOK3Qau5fyLejX0jL3xe4L21oUNv8HTPhpNHgj18kYEov1Cq4ydcisIj9I8+KVfgbEqW8aj4qNeBRcSKZgDJaPuixOSD5hIem9FgJ5BYKVMiVnHRRgwWpPqQElzPjf55KKWvMlvM4P06KjmKfzwgg3CeBz/nFWNxjtNQOkCo4LTk5uLlor/3LbHw2rDMcLaOL+6WHlHLGQS1PuBOa17wbsINzsb+DZpJ0vbypwHnNmol1m0U/fj2WazEV4kOEniOhDPzrKyfcsxvWHOno4EBIlre64abiKvGfrmriIAKQiDS1HkoSEGXrz6BVL8p2jPxYZNLsjk0rLuDBIl5NaBZ1cupWRH6EXaFa1HZqHLppAe1OFX4XUZGeOb1spp4P0aDxutrPfA36iI38Wb3JZnVgWiHW9aDuOk6bN1p3uyUXuMvyApkQBEEWl1rRoF0FIx/yiUcM4rWpCYIbefU07JSLFWBOJg==;6VGGtErRpXYYNAv7pF5U5w=="
+secured: "G8ZDj+ITXeNMMkQwELslfOjF+TKoc3JeHUceGtug1UWamzuRDoKaRwi+suriGEQIrXnJtd3XP68jscGvwE5EmeLGJLmOC9d5BZh+zpRkrmyuH3ftovEJ0TgvwfVBHMxyno3OU0TWQoTrulyg4sWg7y2MvsgHcvvgoThMa/IhA69Rw1Z5ADj9u/2Lm8tEmgHF4lbVghdtWlftQ5mJRe1CM5j5Kcg96httCXOlNr3edzVtTtSkYIwTOdznwr6G2TcOaN0VR5Kb2suYDzLmnLCc34tKQe36V2lo7t8ecTrGn/Gx/LT1dB2g6jukZB5RasftMpRoWfq4lZxE5tjIRc4VnufF9CIFQB3+pc9yGF1NaAY=;o7OeVG8koJv99wkO6D51SQ=="
 ---
 

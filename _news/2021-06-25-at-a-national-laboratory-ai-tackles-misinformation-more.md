@@ -24,6 +24,17 @@ images:
     height: 615
     isCached: true
 
+related:
+  - title: "Artificial Intelligence for Education"
+    excerpt: "What learning, teaching, and education will be in the next future is an open question. Nevertheless, believing that an increasing prevalence of AI may not influence the education field seems objectively unlikely."
+    publishedDateTime: 2021-06-23T04:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/23372/artificial-intelligence-for-education"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 34
+
 secured: "PgL5gLJG18voXBtJgQX8vhv52lRn9Qdb1OhiyB5Bxokh8GCFuDlAEZv8YhUyu6Q09qOhLnAC+GfcjtcOaE8UI30UZhJ9c3R4VarmjnasT08oTeqdRrvh/3gc2PT0PsuHvXdaZSGCUsRZApDg9QJPDi7uj4x2wITHOu060C2PwP7fF1xY1s9qmO3JViD4qY5mfqycXTLFYTqWupi9GWzS3QjgrQusaKs9O8AjbrvltX6XQeOMYDR4LkQC11Yk34S/ObFKybOg24rFfzl9RvUQ86sIO8qiS+AyTkTfHyJw0Xli3OuH3/3cBpVQyC6jCR4L+NC0vkDCGR4u+35VdJYZaI49EVQCkMYnDu9BPsK+kGlLJnFX+wQIqeBVMyUgQt2wh1mzDivkNO5ryAEXVglsaoGNNLFcgg4OGiwoYwbFUgUGX1t7RDFW/5mQQ75AQi3xe6FKYz91o+KFqO3GPMcCWyQ4/9gCXf8LihSY1HWhBEIdM7Jb+81UFJ/j/jypb9iCoxERh0W6cbiUC6jGpXDZjA==;gQMB7qNKpPLlt4gQxcE8Jg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-24-appzen-launches-finance-ai-appstore.md",
+      "title": "AppZen Launches Finance AI AppStore",
+      "excerpt": "AppZen, a modern finance AI software platform, announced the launch of the AppZen AppStore Thursday. What Happened: The development comes as AppZen looks to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "originalUrl": "https://www.benzinga.com/fintech/21/06/21696443/appzen-launches-finance-ai-appstore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/pexels-andrea-piacquadio-3774903_0.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21696443",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21696443",
+      "publishedDateTime": "2021-06-24T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-c3-ai-stock-is-a-buy-on-partnerships-and-a-likely-sales-pop.md",
       "title": "C3 AI Stock Is a Buy on Partnerships and a Likely Sales Pop",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Growth stocks have seemed to stop their descent as risk appetite has slowly",
@@ -930,48 +973,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-dod-teams-to-streamline-data-at-combatant-commands-in-ai-initiative.md",
-      "title": "DoD teams to streamline data at combatant commands in AI initiative",
-      "excerpt": "Deputy Defense Director Kathleen Hicks announced the formation of units to help U.S. combatant commands better deal with data and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
-      "originalUrl": "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/8161624464536/2021/1/16244650918862/v1.5/DoD-teams-to-streamline-data-at-combatant-commands-in-AI-initiative.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
-      "publishedDateTime": "2021-06-23T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

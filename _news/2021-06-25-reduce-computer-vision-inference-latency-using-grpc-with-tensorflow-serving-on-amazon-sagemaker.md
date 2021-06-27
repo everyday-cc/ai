@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-visio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/"
 type: article
 quality: 128
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/27/1-3547-Architecture.jpg"
         width: 800
         height: 479
-        isCached: true
-  - title: "Build accurate ML training datasets using point-in-time queries with Amazon SageMaker Feature Store and Apache Spark"
-    excerpt: "This post is co-written with Raphey Holmes, Software Engineering Manager, and Jason Mackay, Principal Software Development Engineer, at GoDaddy. GoDaddy is the world’s largest services platform for entrepreneurs around the globe, empowering their worldwide community of over 20 million customers—and entrepreneurs"
-    publishedDateTime: 2021-06-22T22:54:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-accurate-ml-training-datasets-using-point-in-time-queries-with-amazon-sagemaker-feature-store-and-apache-spark/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
         isCached: true
 
 secured: "8CIuXYzJX642FThLt9hs2yM5G4FqKvUY4d6oIFs3jRhykTD3Un/aoTWO5HEJLHZq+zsQPknul5VjJWTjnry621yiFaNDGQ9ZYZU2DUFyyQ0Mnm99HrHOxoDSWfxqbima3UFreK/9mbk427WKmbvZUX6lg7lH+OUqXb/Rg8n8xPcBy1g46bvIjG1MYBrhyD2GqZo3sI2t0A27HGL6Az+iyFXC4fVFpuRvPj0TH+PPZ73xQE9G2n4d5N4Dp/JdQqMl/wPw9fvuBga/uqZJ+Wax11plemsswFpJ4PBRBJs4CUtrJ7vgxrTfElaEHMXxooKRTLvxt1WBtyZCmc81l0Xcv4OqcK327ONKVIq0z7ll8yI=;oFU1vc7DiMGr0JdnU79poA=="

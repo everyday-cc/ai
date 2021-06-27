@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-da
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: UPI.com
@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+  - title: "Good data is a key component to AI innovation and machine learning"
+    excerpt: "They recognize the importance and they’re pushing for more development in the field by making good data available. So data is a very key component of AI and machine learning-based methods. Manocha said AI is as old as the field,"
+    publishedDateTime: 2021-06-24T22:07:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-is-a-key-component-to-ai-innovation-and-machine-learning/"
     type: article
     provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 54
     images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
-        isCached: true
-  - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
-    excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
-    publishedDateTime: 2021-06-22T22:13:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 30
-    images:
-      - url: "https://www.armytimes.com/resizer/VhwPC1AWLt6BV1bUhNwXBXDPKAc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
-        width: 1024
-        height: 681
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg"
+        width: 2246
+        height: 1335
         isCached: true
 
 secured: "dp06SG+b/NO1enJCFbgsaQT6EnXfOsuMYSOAqY4PdP8AaBQwWNSrporF4z3OgUNDmQ34oMPTv6joT5p8HeCNw2R3yBehnCoQeThOLiNujOg5hQhXYnUYD3iMApQHEoLycICEPOmwTNGt/zJflpq4CML12jSXhnLZXSYqAzQHg7bhTaJpZkDcN8Agz8HMWXjEvvX0ISldY/R8VGXuBaEw1r7U+CLiMWd6SwDp3lm6kYJQA6L0jsMBlxkTghGjtP+twK/uecnSdVVv2rrPcgWbTmFPnuWqgYI/zKhqO3Wn+Kf11KbMgwL3U9bvJPw9OK+oq8GB0z13rkGhnIQVmksxw0w6RVIahWcjGIEpoHp2bUGXnhf0HOm0IZRmsg5o9lVpfSl0H0rQWTQWJTwvwPR2vtm31QAaRTVX6t108/gd4lWEcE3hXhYBlSAHj5PQ19+K+1McU3rCMVMitj9PGr91/RNp4MscHZ8if3TETAoWkiphD/ALSDzlwjlLGqqwsjkNS+Lln+DITYy30wcoN/H9IA==;VCrxEZzAPXoa0odLtwPvmg=="

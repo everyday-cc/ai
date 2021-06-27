@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-updat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
 type: article
 quality: 78
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Tesla’s Full Self-Driving v9 Beta And FSD Subscription Model Delayed Yet Again"
+    excerpt: "Those waiting for their full self-driving Tesla are going to have to wait a little bit longer after Elon Musk once more pushed the release back."
+    publishedDateTime: 2021-06-25T20:23:00Z
+    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-v9-beta-and-fsd-subscription-model-delayed-yet-again/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 50
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/tesla-model-3-1200px.jpg"
+        width: 1200
+        height: 640
         isCached: true
   - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
     excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
