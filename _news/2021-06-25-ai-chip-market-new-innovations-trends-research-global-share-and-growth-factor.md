@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innov
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25"
 type: article
 quality: 80
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
-    excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
-    publishedDateTime: 2021-06-23T04:42:00Z
-    webUrl: "https://www.openpr.com/news/2311364/outlook-of-global-emotional-intelligence-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
-        width: 620
-        height: 350
         isCached: true
   - title: "Global 5G, Quantum Computing and Artificial Intelligence (AI) Technology Trends Report 2021 - ResearchAndMarkets.com"
     excerpt: "The “Technology Themes 2021 - Tracking Development of 3 Key Trends, 5G, Quantum Computing and Artificial Intelligence (AI)” report has been added to ResearchAndMarkets.com’s offering. 5G, Quantum Computing and AI have been discussed at length for a number of years and the hype that surrounds them can lessen the understanding of real world impacts these themes are already having."

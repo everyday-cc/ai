@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/trend-analyzing-ai-predicts-n
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/trend-analyzing-ai-predicts-next-big-thing-tech/?amp"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

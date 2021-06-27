@@ -1,53 +1,54 @@
 ---
 category: news
-title: "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public"
-excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp (7203.T), is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services, its chief executive told Reuters."
-publishedDateTime: 2021-06-25T09:00:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
-webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
+title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
+excerpt: "The company is merging with a special-purpose acquisition company to go public, becoming the latest self-driving truck firm to tap public markets in recent months."
+publishedDateTime: 2021-06-23T18:58:00Z
+originalUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400?mod=markets_lead_pos2"
+webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400?mod=markets_lead_pos2"
+ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
 type: article
-quality: 165
-heat: 335
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg"
-    width: 1200
-    height: 628
+  - url: "https://images.wsj.net/im-357324/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
+  - title: "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp (7203.T), is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services, its chief executive told Reuters."
+    publishedDateTime: 2021-06-25T09:00:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 165
+    images:
+      - url: "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
     excerpt: "The company is the latest self-driving truck firm to tap public markets in recent months, joining Plus and TuSimple."
     publishedDateTime: 2021-06-23T09:00:00Z
     webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 73
-    images:
-      - url: "https://images.wsj.net/im-357324/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
-    excerpt: "The company is merging with a special-purpose acquisition company to go public, becoming the latest self-driving truck firm to tap public markets in recent months."
-    publishedDateTime: 2021-06-23T18:58:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400?mod=markets_lead_pos2"
     ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
     type: article
@@ -268,6 +269,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "rV7tMcJJrKMDdFRDw76eNNZzjrrPkfhgEqTtiEgwXBmXhGahAagh9EacJjube28H9FwgWt1qsCEdKZscWSnYelSlMw+R7FjlodRgGWdYtJ9hQWKjN8zFJgriwIw3Gz40AiZkUWmZP+JecSXv9b122xsMQpKt+m+5HCL+OeNIzoA+HCwW+G0GGTpemq7uo357oIeooHCZnscOI4l/3FiVD9zJ8ndY9SuufWct2y65g5hHG2Yrxxc0UWESXHI/n12Gk0ipxLDAxS7NF1RyEEFX3O9fzpsjsJNmntxfRhy6W1ny7Q4zeuy+89gvrVoH8MOlphOLcrzMN2jvESewuLt3Nufchb8ex+2AMfhB0U7IDF7OiS5wZ2Hgqw5dobXU9IU9bWLC/99gXGDVw8qMZXTFnqVfeiYp8wkM+7tSpclscOQFvFjtpyZ5MKSZvt/0C2XRukcgvg3vYeuANYKkvyOQAJGJ++EBd90w4hztLzDyULPEGWyHeDSEMVGFEHYARVwgg2BtocSja7smPhb7bl0Iy1EJD2bjQE+gJojYiwrjkkQ=;gPjbQN2lNtgjKxgJYBECZA=="
+secured: "1flkBoOzgPxkGwLeSk6/Le/F5ZgG2niM1VTVv1tdTdgTdwRxF+hZw8+dg3EZgWBJofPrvo5V+mo2V2Mpm4g7S8iTpUfGVAVBC9djrwQ0edQyRDYwBWestK0BUxtHw0s9p+NLT2joingRifHEa5kLdEKcAM7cbjeUK43pzc5cNUpsIQ4lZbptBeYi/UnbWFN9A//cgh5U/HrtitsyqHqRBCfQnjv88sTE3mEKzGt7Uhx1kwuYcgPQCeQzVWKHx1q+73X2aY3IEZqfIzs+tqfi7CtYNYl12VBY8H7fwnry9HPqlLHkEA2Nw0fMKIYu+Vy4oqO7NMXRPqrGjcDBUTHm0RB4BMkIJwy/tfwFp/i5jOA=;o4rUJ/0Z8JhxxvuSAOb/JQ=="
 ---
 

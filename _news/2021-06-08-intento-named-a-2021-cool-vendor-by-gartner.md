@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Intento Named a 2021 Cool Vendor by Gartner"
-excerpt: "Intento, a leading AI integration platform, has been recognized as a Cool Vendor in the 2021 Gartner report: \"Cool Vendors in Conversational and Natural Language Technologies\" .* Intento is trusted by the global enterprise to help select,"
-publishedDateTime: 2021-06-07T18:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intento-named-2021-cool-vendor-gartner-/2021/06/07/9385267.htm"
+excerpt: "The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems. Launched in 2017 ..."
+publishedDateTime: 2021-06-07T18:12:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/intento-named-a-2021-cool-vendor-by-gartner-301307035.html"
+webUrl: "https://www.prnewswire.com/news-releases/intento-named-a-2021-cool-vendor-by-gartner-301307035.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "J0HBad0ZS/WeCl87trYNlKSH0Nkk3JnZ+5GDztxx7QzkS38sJkBRqDNSqFNPp+t4d5nF/6WBLAeiqbzRdWpKWNlnQ6evoHH8QbuP6tG6r5b2j/Rp/f7fzb+4W4SXVJZbqxg51t8/4wVH3PKPbymLNK54VsvMMi2LynJZL+Q+P0rYEUlmINcpueZF+h/lGIZ1MVx4VVqfRoA/948RCd9UxiycK6TvquJUgkBEiyddj+IJRyxFJsnILc57EjrGNLbmb4MVltPzlgifgJzbjqfJhTsTrQY3F+sD/BhOV47RYLE5gz0l6gL6nR7QZiCK565hWFj3HTFZBPagsccmIdLCo9lRejAblGYjsjbMdtHJat4=;289tdFNuP5xyWRRKg8DIlA=="
+secured: "BPrPxi+5VcriMIkEBv293NMcmKg8TPN8VKcHCy/ndPU5TDw7zQqcbPNcfG0TRMK92lpo/qcJTh54MIY6mRzWWxgE+X0G8VSq87/kwZuZB5EGVjjUPcdICEYnZnLdDCJzniMgqrhi7PJQqIaOigkMkCWK4dG+tSL9HCbYZJLnQeWcyxaHJu4P1+cFvz0B0Dpel02BWG3wyKWQQGYF8dgdVQNjY+eiG15SEO8UpCn7DySj/3t2UgAJe/Wk4FHpUka+OpFZPFI2DE9mqMXDNdBsuFcChjvq0cOOHFdGVknkFRBdXbzHswc+zNeiacgdu8I6BYoC3ge76wMFD32yCeRtvGROjVdjC42wx+j3SsP8GA0=;xOIP9wbY4oSJzHGxLKU4uQ=="
 ---
 

@@ -64,36 +64,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "DeepMind wants to use its AI to cure rare diseases"
-    excerpt: "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases"
-    publishedDateTime: 2021-06-23T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases"
-    ampWebUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp"
-    cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 74
-    images:
-      - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg"
-        width: 5335
-        height: 3557
-        isCached: true
-  - title: "DeepMind wants to use its AI to cure neglected diseases"
-    excerpt: "DeepMind solved one of biology’s biggest challenges. Now it’s working on using its AI to find drugs to target neglected diseases"
-    publishedDateTime: 2021-06-23T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter&utm_social-type=owned"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "DeepMind to use AI to tackle deadly parasitic diseases"
     excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
     publishedDateTime: 2021-06-27T13:22:00Z
@@ -106,6 +76,6 @@ related:
       domain: itp.net
     quality: 54
 
-secured: "X/gCxM+FNJjpEFT8cB+KrwVnxDkyEueeMR+1bvH5AS2cNb12cW3oU0j1UEoCDQXwALeDEFRTMgrMdGNQiz+aW0+qeCKKN7Of+qKDH3teZF4dKbejFtZ0oQXzH6JcNeumQ6gLhb3qQauOqQjfqef/tnZUvQJ4yD5Pn/FTLSdZsCIgvkhNND7cYq9lE65q7x5YzygB0MPL8yMd4vXLT1v4g9DE7vUdTL5I+CJ/W8mGtmZYTPOuFq/5JW8BYn/3dPxbbLxLcwNfC25dEX7+4tYUV1CaqTDsZpy5e7SDq356VxJCDmobEUfyuqPFsJL058UD3dkgEh0olFQiBidyaQXTt4zIhuJ/AUA8pacvtmFbIaXdyvl1EW4+5qS0xodUB8x/Y+5hejGUeDUl24n5r7iV5OdErtXloZsD5j22tFEyb4wCWgMbP7sqs/QsKLLwL97q9fcFvtonC9jGq7uZIr57TvoxN4LNoX9+L+cpiP0VKOkr+Gz/Z5pDwgXjrBbBlLV2tuX2TLyFafO1aVkJLdGJow==;sbhRK596Dh9NeeuRGeE1cw=="
+secured: "y/9sxfrjoJpgu1FHRcwcBCuTxifRJe2rm5bxrTUmC6eACZSKeNIJd3QBw6w2D+ZzIlp3VThIr98axYeynvg2DRmTlHo/OUiyJD89qBTBqgXOKTAaTjSD41U2us+ucFOkDE9/+WV9HyaEKQMTdXZziyZHGf40tBgB8xNNdK+wpDkkmtUFd7eCpwUVFYyN/9AcsI0IqTzm0bGFeWRbtx5M1PLJytEVKhDutnVGeGXtchAENbOE6TU3Wt61O9mQKyKU37Mxfpw+4JQhYgCquv9SWbKbNq4txm8EA88QxGGSIm1JievQajJK922mvQ4fgZi5P3JNaeU8TfRgbgIHoxMPZP6yOzSKOoRvNOgU/QTvZEs=;nQzWbX8fa9SU4NgQIAaP/w=="
 ---
 

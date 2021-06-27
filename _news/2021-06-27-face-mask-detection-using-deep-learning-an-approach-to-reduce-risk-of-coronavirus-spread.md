@@ -28,20 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Machine learning aids earthquake risk prediction"
-    excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
-    publishedDateTime: 2021-06-23T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uota-mla062321.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/268742_web.jpg"
-        width: 1440
-        height: 970
-        isCached: true
 
 secured: "tO6sxh8MfgFaeBor490vpmuEgDe9iKHYQf/tEdYaCrNEYasnosRtREXHPrz8AOYZR5Iiz7TT3CD+pgIO8Jp/Vwn0s9qz7OVvlwruI/RN90i9bLacDar2sMQoyyoGhfKP8Be2HaEoLY5qluNRFYwlBk7FLQPvLDS00N+lQb9mSe/aTkScSnl0ZBhVFZKTNj7AvssqVldk9WZSr5tdn4Dl57m2mdZ9bPSKDW5244DpsVJ/cGvhXZVWvgITHX49R594/E76mq7EDCxPZHiNXqM3pov1W73/PxKMNQZgwlEDX3qrKqUAkxnsf4BHeYRI15T2Rekb84A7FJuutdhy2nnGpD4BHhdqnLgScPcwBQx3lHc=;75OXRYhdVD4YY0yaVHFtNg=="
 ---

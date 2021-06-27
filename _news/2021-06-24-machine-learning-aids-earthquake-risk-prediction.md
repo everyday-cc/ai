@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/06/210623130649.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/06/210623130649.htm"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning aids earthquake risk prediction"
-    excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
-    publishedDateTime: 2021-06-23T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uota-mla062321.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/268742_web.jpg"
-        width: 1440
-        height: 970
-        isCached: true
   - title: "Face Mask Detection using Deep Learning: An Approach to Reduce Risk of Coronavirus Spread."
     excerpt: "Wearing a mask is among the non-pharmaceutical intervention measures that can be used to cut the primary source of SARS-CoV2 droplets expelled by an infected individual. Regardless of discourse on medical resources and diversities in masks,"
     publishedDateTime: 2021-06-27T04:58:00Z

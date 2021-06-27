@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
-    excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
-    publishedDateTime: 2021-06-23T04:42:00Z
-    webUrl: "https://www.openpr.com/news/2311364/outlook-of-global-emotional-intelligence-market-research"
-    ampWebUrl: "https://www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311364/outlook-of-global-emotional-intelligence-market-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
     excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
     publishedDateTime: 2021-06-24T19:07:00Z
