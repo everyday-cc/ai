@@ -48,14 +48,21 @@ related:
         height: 600
         isCached: true
   - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
-    publishedDateTime: 2021-06-23T07:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
+    excerpt: "Take our AI survey to find out. Raia Hadsell, a research scientist at Google DeepMind, believes “responsible AI is a job for all.” That was her thesis during a talk today at the virtual ..."
+    publishedDateTime: 2021-06-23T09:02:00Z
+    webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
+    ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 120
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "DeepMind wants to use its AI to cure rare diseases"
     excerpt: "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases"
     publishedDateTime: 2021-06-23T05:00:00Z

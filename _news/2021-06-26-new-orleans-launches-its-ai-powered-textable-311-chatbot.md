@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/computing/new-orleans-launches-its-ai-powere
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/new-orleans-launches-its-ai-powered-textable-311-chatbot?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "AI Chatbots without Programming"
-    excerpt: "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ..."
-    publishedDateTime: 2021-06-22T18:05:00Z
-    webUrl: "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+2T2021_verified"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "tNYHxNiBf7pGRX2K+F/KOkmtjcAE9g9udzr44VteUlF2NVfM7B9w+Nkkv3jweKsi4sGKjsON/UY6I1Fr3OkRHmqG6K8m3j7GDhvCrc4/NPsmNOP60QcGxTKpVdcLQCNZA8Tc06GMQOHrtz/JP5J8EDfiTpQTlMS6qU4Sbz0IjSLy4DT+FfImMogk8Uzb+dDa07HrypdApkns42T0cigx0OnFTh0icvfNBaip4sL+Lwe7ldFywzS+B9GnOkQ+A+o9njNFK6SKm3txxn2tikGhPV74ClccMavLMMhL3zKVkFzqcvPEDZh1jH4H27yLfMwg4S2WmwsaHONvMZqAURD0lm9/hX2lK5cJ7PLVOHd5Wnvfrzu8pEC3Rc4ai2CRAO4PWZyUeA4eiae2fR5kMPAGqjenqiJjT63hfYezWRWFR6fqZI0wqlzWHXdowhaq/hoJn6sD4LP5+q126xf0vpIXK0p5r97oQ2APlIhH4QrD47Ubfwazb8cH8M1NS6m5LXWTPwVsaxi3ZXwwJ+tGjZ4ULg==;SY3lnfTkLD/8zp4Wtnv6Ag=="
 ---

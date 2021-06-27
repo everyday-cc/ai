@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automatic Speech Recognition Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "Automatic speech recognition (ASR) is the use of computer hardware and software-based techniques to identify and"
+    publishedDateTime: 2021-06-25T08:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Assistant Market Size USD 7.30 Billion by 2025, Registering a 24.32% CAGR - Report by Market Research Future (MRFR)"
     excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Voice Assistant Market - Information by Technology, Hardware and Application - Forecast till 2025\" the market valuation stood at USD 1."
     publishedDateTime: 2021-06-23T16:10:00Z

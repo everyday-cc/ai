@@ -68,6 +68,28 @@ related:
       name: PR-Inside
       domain: pr-inside.com
     quality: 26
+  - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
+    publishedDateTime: 2021-06-25T14:13:00Z
+    webUrl: "https://www.openpr.com/news/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 5
+  - title: "Far Field Speech Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 22 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with machines using"
+    publishedDateTime: 2021-06-25T11:16:00Z
+    webUrl: "https://www.openpr.com/news/2314046/far-field-speech-voice-recognition-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
 
 secured: "07TzYZ4iYh+PcJnz3EmNB0CBUOkGRxyhnIWcoivnaRnMID1pfe1Wm2auGDqBhOLzpIS3VtZrXKqNMccz9nV1lSevxUGJkFoO6mjSiiVy2w/Myb/ejM5B/zv0ck4Hj+MXuhzsDsrPRLZDH29GIlNqDRfLDNzM6Dke3myHqsHHOMwBBomYXkpuOXu3iRb9dGjx87diUwkuqyIbhnxFbiD9WZiZWeS/BJhjgf2gDRzoXlqVz1XE1tzGXqZYt+xJ0JiDQSdw33CNjrhcyqABvZF5DSY+B6gtAOCLMkHcVwfy9q/2wqyd/shjikezqfmq3w6xmabPifjUBXrrh0KIVC6/26uCl+Q2Zmj32poHgj8YLDY=;Apza6cfbrZwcIelMIuLATA=="
 ---

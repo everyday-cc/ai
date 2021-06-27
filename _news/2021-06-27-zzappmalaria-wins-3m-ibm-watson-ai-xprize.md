@@ -1,23 +1,28 @@
 ---
 category: news
-title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
-publishedDateTime: 2021-06-23T12:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
-webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
+excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
+publishedDateTime: 2021-06-27T11:47:00Z
+originalUrl: "https://www.israel21c.org/zzappmalaria-wins-3m-ibm-watson-ai-xprize/"
+webUrl: "https://www.israel21c.org/zzappmalaria-wins-3m-ibm-watson-ai-xprize/"
 type: article
-quality: 36
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Israel21c
+  domain: israel21c.org
 
 topics:
   - IBM AI
   - AI
-  - AI Ethics
+
+images:
+  - url: "https://www.israel21c.org/wp-content/uploads/2021/06/zzapp.jpg"
+    width: 1598
+    height: 900
+    isCached: true
 
 related:
   - title: "Meet The Winners Of IBM Watson AI XPRIZE"
@@ -46,20 +51,6 @@ related:
     images:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg"
         width: 1200
-        height: 900
-        isCached: true
-  - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
-    excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
-    publishedDateTime: 2021-06-27T11:47:00Z
-    webUrl: "https://www.israel21c.org/zzappmalaria-wins-3m-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 54
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/06/zzapp.jpg"
-        width: 1598
         height: 900
         isCached: true
   - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
@@ -119,6 +110,15 @@ related:
         height: 700
         isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
+    publishedDateTime: 2021-06-23T12:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 36
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
     publishedDateTime: 2021-06-24T09:12:00Z
     webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
@@ -142,6 +142,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "6xzCSUFSrNTocGJQ5LnxguG8oSA1c9eztoVKuLKkVYBvI95cWjtiJrSUHV3Wn0vfUsHdeFgKnzXT3b0w8yOJzLgTAlOlGrpIk6YvI2eLy/VOCnTICUffopqs2YhqEWSB0pSO8QH7QXQ09D+p0rsp0GGajCkXUgm7GDX+J3tyRXY2Ph7Aph7XqK4bBUA2umfW72FmBOhSMvVG3kaSEldh2rpLrRoFnI5qr6Vfq2K0nGWH1ZzLIqGu9nrn9gPnyQYs045w09NT6rg3YrAHigqc07FMEE65NGqkT04oeddF4dUGYSxHiDEZUXjC8QC34Ka/wMrVtBfVZhxXq0dY+sZtkot7Ab9236lYngAnT7Mu+y8=;LDraBrERWHYVWPjoGU8mqA=="
+secured: "B6n4whhM8d0b/RRoebduQ/08WmntBlSJu9YSAOY+abOV5OF9Mt8a5iX3arAlt23ln6pSc8dGlzoaZ3vc1NcFGZ9OfLCCn/Az7K/YAtjUei4IX0ZXasT6+O8wfBF9ReMvcHb0B/450Jrjk9kKpQ9xOqO4yH+YDO8lF9hDwlmAmb3LuqF/wggJzhQaEmatfxdje4ALnniRfwPdIipBPcU/XIjpgUYiCW8sBM1C4ZWyqcfOK6OZgRQLr6soLdCm2X4cs4eohoYDqbY+Nw08O2VBrsegQzAcE+nz4tl5uqm9lnw9ap1cG6EXn1D4tCuqI3vMHBZNXx+ikir1koh8o5w3TiBHwWvuKX4JkLMvID5DlwI=;rVcSaXM64uEXooB+l03Q5w=="
 ---
 

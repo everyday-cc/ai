@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tinder And Stripe Launch Facial Recognition Tools"
-    excerpt: "Tinder is now requiring users to submit to facial recognition to validate their identity. This news comes right on the heels of Stripe"
-    publishedDateTime: 2021-06-22T17:14:00Z
-    webUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-tools/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 39
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
-        width: 1280
-        height: 1066
-        isCached: true
 
 secured: "KiLT3xUdDH9WGyGBuzUXlmdRC5leyDjqv0xOT6HZ4eTMKUVJMbC+osfUA30QMkgePb7UcOw3B1SXhSy3UVDPUdCDqhdC5GsCSc1z+OHmIFsx89g10T6Ug7lsBM6nKVV6QR1/s4KNQwg4kifgBWGwKSO4SY1wdrbtG9q3f7nur2G/mBo9aqUyxb15YreqJxU9NE9UcFcYQSJ/JsV4ahxYZ2dkCNyFvFY8gXlENtNEgtZd56u0BetnHGOUlV2OHR5zQK0jcKOPBunLxmntsN6XkRs87wepCTJKYIQ2tWlpmkkQWDO1XANwWRqsuff4rFkM46GG4us4jl4kIsMFbhhdtE8FMnM786TY+UiTXjv3ZNkhTP3X0JE7gVoJWJebUIWZcvemdIkvp1ebIeWSSMhvqnW0s7SPe1GXIqVCLDLWqrSbvciRhY02G/H3FtnYI3g3st4sVpQI6D/AlqxYFHJGFhfLNFE8N3xNk1iXpJgGm50O044NlkxB7t+6x+KfP5xhn59k5Zu+9EItjXXNG/bAzQ==;TadgNUoYBojkvCUg3VhDUQ=="
 ---

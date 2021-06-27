@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 683
         isCached: true
+  - title: "Big Tech wants drivers' eyes on screens instead of on the road"
+    excerpt: "Apple, Google and others are pushing into autonomous driving for a reason: to free up hours behind the wheel and precious screen time."
+    publishedDateTime: 2021-06-27T10:24:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/big-tech-wants-drivers-eyes-on-screens-instead-of-on-the-road-71624789297554.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/big-tech-wants-drivers-eyes-on-screens-instead-of-on-the-road-71624789297554.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/big-tech-wants-drivers-eyes-on-screens-instead-of-on-the-road-71624789297554.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/06/27/1600x900/hussam-abd-Zp5UpUuCtqI-unsplash_1623055351161_1624789431353.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Apple’s car obsession is all about taking eyes off the road"
     excerpt: "At first glance, the forays Apple Inc, Google and other technology giants are making into the world of cars don’t appear to be particularly lucrative."
     publishedDateTime: 2021-06-25T08:20:00Z

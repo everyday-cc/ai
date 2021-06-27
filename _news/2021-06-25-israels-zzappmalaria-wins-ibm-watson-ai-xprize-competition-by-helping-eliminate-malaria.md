@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
+    excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
+    publishedDateTime: 2021-06-27T11:47:00Z
+    webUrl: "https://www.israel21c.org/zzappmalaria-wins-3m-ibm-watson-ai-xprize/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 54
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/06/zzapp.jpg"
+        width: 1598
+        height: 900
+        isCached: true
   - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
     excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
     publishedDateTime: 2021-06-23T16:42:00Z

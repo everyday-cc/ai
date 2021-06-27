@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tinder And Stripe Launch Facial Recognition Tools"
-    excerpt: "Tinder is now requiring users to submit to facial recognition to validate their identity. This news comes right on the heels of Stripe"
-    publishedDateTime: 2021-06-22T17:14:00Z
-    webUrl: "https://www.valuewalk.com/tinder-stripe-launch-facial-recognition-tools/"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 39
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
-        width: 1280
-        height: 1066
-        isCached: true
   - title: "How Facial Recognition Technology Can Benefit in the Workplace"
     excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
     publishedDateTime: 2021-06-24T04:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to
 webUrl: "https://venturebeat.com/2021/06/25/ai-weekly-nist-proposes-ways-to-identify-and-address-ai-bias/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "NIST Proposes Approach for Reducing Risk of Bias in Artificial Intelligence"
-    excerpt: "In an effort to counter the often pernicious effect of biases in artificial intelligence (AI) that can damage people’s lives and public trust in AI, the Nati"
-    publishedDateTime: 2021-06-22T17:46:00Z
-    webUrl: "https://www.nist.gov/news-events/news/2021/06/nist-proposes-approach-reducing-risk-bias-artificial-intelligence"
-    type: article
-    provider:
-      name: National Institute of Standards & Technology
-      domain: nist.gov
-    quality: 35
-    images:
-      - url: "https://www.nist.gov/sites/default/files/images/2021/06/22/bias-ai.png"
-        width: 1466
-        height: 1407
-        isCached: true
   - title: "NIST Proposes Approach for Reducing Risk of Bias in Artificial Intelligence"
     excerpt: "In an effort to counter the often pernicious effect of biases in artificial intelligence (AI) that can damage people’s lives and public trust in AI, the National Institute of Standards and Technology (NIST) is advancing an approach for identifying and managing these biases — and  is requesting the public’s help in improving it."
     publishedDateTime: 2021-06-26T15:58:00Z

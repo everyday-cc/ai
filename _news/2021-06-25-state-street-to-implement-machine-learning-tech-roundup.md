@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-ma
 cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "State Street turns to cloud-based machine learning tech"
-    excerpt: "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management."
-    publishedDateTime: 2021-06-22T17:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88218/state-street-turns-to-cloud-based-machine-learning-tech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 41
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "State Street Uses Machine Learning for Private Markets"
     excerpt: "State Street Corporation announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s p (“Canoe”), allocators and managers in the private markets sector will have an integrated experience where traditionally onerous and manual alternative investment workflows will be automated and streamlined,"
     publishedDateTime: 2021-06-24T12:21:00Z

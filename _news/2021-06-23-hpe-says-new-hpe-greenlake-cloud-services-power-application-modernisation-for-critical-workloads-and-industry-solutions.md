@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "New HPE GreenLake Cloud Services Power Application Modernization for Critical Workloads and Industry Solutions"
-    excerpt: "Today, at HPE Discover 2021, Hewlett Packard Enterprise (NYSE: HPE) announced new vertically optimized HPE GreenLake cloud services designed to delive"
-    publishedDateTime: 2021-06-22T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210622005370/en/New-HPE-GreenLake-Cloud-Services-Power-Application-Modernization-for-Critical-Workloads-and-Industry-Solutions"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "jqwvVIoPRqicoun1N2DTQajVW7YF7XDui/IBG+xnEj8IfjapODLZyaSps75Rkv+LOWricZASBiCjddTnIa/+4UWren+JmYhv3c9Vm7p4OnqejeCuPIIDU1g9Q+g3btaxtPDVCu/IfsAwqhy28lUQxSJvylugEqLMicHqY3x/WQYe+b3tNkxrQHXM3mIgiTLtEJH98F2Ig68aaE+vaYjjCAjRCWGjgs+k00x4B7TjhD+WvhM2+9k+ENteP9m3v4P4jfjIeLiREyth08xX8DPqBTd2iLIaDcC1M3Rxx/qXnGuWsXiWf+4yE74d959YtmByLMhubMT7mLDjzkXwBbNA0wjqKXdPDJu1Gtt/m1IL1ig=;v63ZQWcqK++tWvIAZYVhyw=="
 ---
 
