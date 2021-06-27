@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10394220
+  followers: 10394942
 
 size: 10,001+ employees
 yearFounded: 2003
