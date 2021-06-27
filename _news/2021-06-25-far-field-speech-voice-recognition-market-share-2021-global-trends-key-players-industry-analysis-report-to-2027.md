@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Asia-Pacific Artificial Intelligence (AI) Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Asia Pacific artificial intelligence market is projected to grow significantly at a CAGR of 36 during the forecast period The main countries contributing to the market are China India and Japan China is the largest market for AI Artificial"
-    publishedDateTime: 2021-06-22T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2311086/asia-pacific-artificial-intelligence-ai-market-share-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2311086/asia-pacific-artificial-intelligence-ai-market-share-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311086/asia-pacific-artificial-intelligence-ai-market-share-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
   - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
     publishedDateTime: 2021-06-25T14:13:00Z

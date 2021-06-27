@@ -2,27 +2,21 @@
 category: news
 title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA Partner Network"
 excerpt: "SFL Scientific announced today that it has been selected by the NVIDIA Partner Network (NPN) as the 2020 Service Delivery Partner of the Year for the Americas. This is the third consecutive year that SFL Scientific has been honored with this award."
-publishedDateTime: 2021-06-25T19:59:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
+publishedDateTime: 2021-06-25T20:01:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sfl-scientific-named-partner-the-year-ai-services-/2021/06/25/9398251.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sfl-scientific-named-partner-the-year-ai-services-/2021/06/25/9398251.htm"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Nvidia’s AI turns your shaky brush strokes into beautiful landscapes"
@@ -103,20 +97,6 @@ related:
         width: 590
         height: 330
         isCached: true
-  - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
-    excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
-    publishedDateTime: 2021-06-22T15:21:00Z
-    webUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
     excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
     publishedDateTime: 2021-06-24T23:00:00Z
@@ -132,6 +112,6 @@ related:
         height: 680
         isCached: true
 
-secured: "YnZXanDJwfD6qMmSJ2iDfU4/XBkfjknBxHgOha5qJ3JZq3fa6X+f+A2q18PejDq49D3T4BYk0Qpe9ZNqGxuaEOwE+D+hjEt5MluTSvON3keTYtVfcSjvosJtaYXCYS6h2u4ZBvK4ciZyEMqS8LtfhlBkdrblB+KtPZCtibdi5iXrXQkopKHMHn22KEc4HXOmoUiAByaa26q3kGM1u7lKPTYAoYhoS54xu4O4evBVNq/wVqr303yycMtyrlbt9xP55P+ufM4jDYWj482AbVW6+Chd//SpxjbKpgTP6LFABaP23zwfJrRU8Sz/assP5KIzi1GdeEQFBN+YVna52g7/flH1xoVAN3tvVRAExpOFfkY=;cDG9DxnTxrbshr99EkmBrQ=="
+secured: "VElpHjcwBPnJd5rKXGrOJJ7koNuF5EcaPMj0VpH2JknVwPJDtIXa8qAgaIRGP4ydWRbsPUmuC7W/GrVCZxnh8YNJAMNrChhvTrz4i0TVbU+6s6VVpB8+lpftsVYMmdHED7PGpj9eawdc1Rd/a++0M93JwB1nUbGhdNtDAn+bwk8FfSAGkvfO9K8o2FkMFx8Yt8ML2xfcWVdgP5t3ZCV6lMkyj+M3wCvbrCxq/VgGfxP2O/5vZZhmgmWkSm6XmMyo3BT2pwU2DycnqDgrber2UpiyzSe9JINttI5rnw9fNjQfJ993ZsuA0yWMmMsUuGn9vUdVqJELReFAXbzgZ9yTDEBaG528nY4QOLvTUQ/SeGw=;VwY+sOf8c7fDKoLPKuAbZQ=="
 ---
 

@@ -2,6 +2,41 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-01-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2021-05-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-making-ai-sing-an-interview-with-verphoria-on-the-use-of-artificial-intelligence-within-the-music-industry.md",
       "title": "Making AI Sing: An Interview With Verphoria On The Use Of Artificial Intelligence Within The Music Industry",
       "excerpt": "At the cutting edge of the music industry, innovators like Verphoria are continuously pushing the boundaries of human/machine collaboration in creation as well as business.",
@@ -1071,49 +1106,6 @@
       "provider": {
         "name": "The Standard Digital",
         "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
-      "title": "Technical University of Munich: Experience key players from robotics and AI live",
-      "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "originalUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-Logo_of_the_Technical_University_of_Munich.svg-1024x783.png",
-          "width": 1024,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "publishedDateTime": "2021-05-30T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
         "images": null,
         "publishers": null,
         "authors": null

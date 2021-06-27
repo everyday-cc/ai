@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-24-walmarts-ai-is-getting-smarter-about-grocery-delivery.md",
-      "title": "Walmart’s AI is getting smarter about grocery delivery",
-      "excerpt": "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
-      "originalUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.53.02-AM.png?w=680",
-          "width": 680,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
-      "publishedDateTime": "2021-06-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics.md",
       "title": "BMW i Ventures invests in autonomous truck technology company Kodiak Robotics",
       "excerpt": "BMW’s Silicon Valley-based venture capital arm is investing in Kodiak Robotics, a company that develops autonomous trucking technology.  Kodiak will use the funds to build out a safety case for its self-driving tech stack so it can more quickly commercialize.",
@@ -319,7 +268,7 @@
       "originalUrl": "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-tool",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -370,7 +319,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -898,7 +847,7 @@
       "originalUrl": "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -983,7 +932,7 @@
       "originalUrl": "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1189,6 +1138,57 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-ecoenergy-insights-wins-2021-artificial-intelligence-breakthrough-award-for-the-cortix-platform.md",
+      "title": "EcoEnergy Insights Wins 2021 Artificial Intelligence Breakthrough Award for the CORTIX™ platform",
+      "excerpt": "AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that EcoEnergy Insights,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ecoenergy-insights-wins-2021-artificial-intelligence-breakthrough-award-for-the-cortixtm-platform-2021-06-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/ecoenergy-insights-wins-2021-artificial-intelligence-breakthrough-award-for-the-cortixtm-platform-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

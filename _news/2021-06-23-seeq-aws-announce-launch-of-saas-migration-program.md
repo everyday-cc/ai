@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/51457-seeq-aws-announce-launch
 webUrl: "https://www.dcvelocity.com/articles/51457-seeq-aws-announce-launch-of-saas-migration-program"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Seeq & AWS Announce Launch of SaaS Migration Program"
-    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, today announces the launch of a new program, the Seeq SaaS Workshop. In collaboration with Amazon Web Services (AWS),"
-    publishedDateTime: 2021-06-22T16:54:00Z
-    webUrl: "https://www.automation.com/en-us/products/june-2021/seeq-aws-announce-launch-saas-migration-program"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
-    images:
-      - url: "https://www.automation.com/getmedia/47dad696-9c32-48ee-8c10-66ea38da153e/Seeq-prod-June-22-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "3P73Gt18L/njoZaVQ/TcV56Pv4PUV8WEQrnGkm6EgF02nGeNjCPe9IdhxBjyb8HB1pPkFvKKjlTiiPzTGhDB8iM2sj30NnnC1tvWF/a6NGxD+nO3bbxMKED9SthTLQEE5eFdrXTEL8CzhNr2ZwJWLAoOuLPCtC2t7QcxSKjqn0z+vGINvC3TY2Nd2EWJKLWbcJ3BwUHaxSjEFlLThuy4tIvjS3bA2dR79503BvpcnY8+hj+950FjIrD7Z5sICrXHWxTwPimKseFv2oZBYAe+WDWXxh0I9/W7ReXA/H6wgx2RcEWAYKgkkhjOiUy4EoX7YJYpGv4Teyv96AaU7r0XJTUkin5Uen6bmaNwBL+coaej1uXrf6cNmmO/18ea0MP6LU5UFmAsUxyldVCdxB9c9QSFkC8NWn/yI8GO7cPj8LWOgZioCgCv87Kn+WpyZhxcPeXC7Lhe76sN+cI0o5JxR0k9EyYtP6KxsadztAESKG47lHYAXE/1eFMqkYoF833179zNZSBxm9q2T0vhaJC2zg==;VGOJcoUD3KbO8Df7Nfka+g=="
 ---

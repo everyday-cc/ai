@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-05-22-fintech-jobs-for-mba-msba-grads.md",
+      "title": "FinTech Jobs for MBA & MSBA Grads",
+      "excerpt": "FinTech is not just a fancy new buzzword that bankers use—this burgeoning industry is exploding with innovative ideas, groundbreaking technology, and a hugely promising future. Since the 2008 financial crash that saw millions of citizens around the world lose their trust in traditional banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattleu.edu/business/online/albers/blog/fintech-jobs-for-mba-msba-grads",
+      "originalUrl": "https://www.seattleu.edu/business/online/albers/blog/fintech-jobs-for-mba-msba-grads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.everspringpartners.com/dims4/default/2c5917d/2147483647/strip/true/crop/476x250+62+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Feverspring-brightspot.s3.amazonaws.com%2F94%2Fd5%2Fe84145c5445bb1d0f37db9e014c8%2Ffintech.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle University School of Law",
+        "domain": "seattleu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-mental-health-app-wysa-raises-55m-for-emotionally-intelligent-ai.md",
       "title": "Mental health app Wysa raises $5.5M for ’emotionally intelligent’ AI",
       "excerpt": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence.",
@@ -1133,57 +1176,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping.md",
-      "title": "Transforming Retail With Augmented And Virtual Reality, Powered By Artificial Intelligence: The Case Of Eyewear Shopping",
-      "excerpt": "Want a better way to get an eye exam and shop for the perfect pair of glasses? Thanks to augmented reality and virtual reality, the entire process of buying glasses is getting a much-needed makeover.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a738051be92449464708cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/21/transforming-retail-with-augmented-and-virtual-reality-powered-by-artificial-intelligence-the-case-of-eyewear-shopping/amp/",
-      "publishedDateTime": "2021-05-20T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

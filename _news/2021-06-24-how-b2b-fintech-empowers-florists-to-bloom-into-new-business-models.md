@@ -89,22 +89,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "5 solutions for Fintech companies to stay cyber aware in 2021"
-    excerpt: "By Neville Louzado, Head of Sales, Hyve Managed Hosting Cybersecurity continues to be a top priority across industries – as financial institutions are responsible for storing and handling sensitive data from millions of users,"
-    publishedDateTime: 2021-06-22T15:51:00Z
-    webUrl: "https://www.globalbankingandfinance.com/5-solutions-for-fintech-companies-to-stay-cyber-aware-in-2021/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/5-solutions-for-fintech-companies-to-stay-cyber-aware-in-2021/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/5-solutions-for-fintech-companies-to-stay-cyber-aware-in-2021/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/06/internet-background-e1624376706695.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "MTN Partners Fintech to Drive Universal Health Coverage"
     excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"
     publishedDateTime: 2021-06-23T23:46:00Z

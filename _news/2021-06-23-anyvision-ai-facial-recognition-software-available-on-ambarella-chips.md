@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recogni
 webUrl: "https://www.biometricupdate.com/202106/anyvision-ai-facial-recognition-software-available-on-ambarella-chips"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella Launches New Edge AI Computer Vision Chips, Boasts of Major Performance Gains"
-    excerpt: "The company's two new parts come with some impressive performance claims, including a fourfold boost in AI compute."
-    publishedDateTime: 2021-06-22T16:47:00Z
-    webUrl: "https://www.hackster.io/news/ambarella-launches-new-edge-ai-computer-vision-chips-boasts-of-major-performance-gains-4e84770e94f5"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 63
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1315388/_qXo3HpKWIL.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
-        isCached: true
   - title: "EU data regulators call for a ban on AI-based facial recognition software"
     excerpt: "EU’s data protection agencies call for a ban on practices that include recognition of faces, gait, fingerprints, and more as a threat to privacy"
     publishedDateTime: 2021-06-23T04:14:00Z

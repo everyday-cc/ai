@@ -2,21 +2,29 @@
 category: news
 title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
 excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
-publishedDateTime: 2021-06-24T12:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
-webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
+publishedDateTime: 2021-06-24T13:01:00Z
+originalUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
+webUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
+ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
 type: article
-quality: 0
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "The road to driverless cars is looking hopeless"
@@ -52,6 +60,6 @@ related:
         height: 450
         isCached: true
 
-secured: "zJWq2Li+r86j4yEsyJxfkjmJiVws3dsPRZAnWaYnnmrpV/ajAevhfne7s0ryAqTQ62vJY2L0jQSdoJq0qK+9pWDT/KTVn3M9CSypkOLK7xBh68zIUFen35TOPrJij3v6uRxTQZztVJaHrtusKmNvdA7Ewb64jL3o0XSdoY7KQmvKWBiLdGFtH+kO4a6BICXffbHQgxbikqALtlErl4Z7EEXoZkTDP1YvqeHyRwrjuSWm4GDrxlOUIVOGBnT/I/nDB6d643kP10uJM/OMeEf8snw7Xj3HwkEos/pkzGEjAuESV8KVn5epn9kafoQOHLNmHYdAGvTTjkEOivh44SA3zK4y+60oSmhX3MxbxCR8990=;6gMh6gp8nTl8aaVUsaXUKw=="
+secured: "RUeQLpNTnWZ4aykYc9RgnK/acha87l/RukBXbvJHktrhwJCe+uL+ECHxUqFM3hct5F6pdcrxDUr3vCdKgH8srEeGkb1Mr2Hv6i6T5mB0BMzm0eQhWik7SJYbc6JT67qFNAiZVmtAuP4841W7TPvRTyMNOvAIDevd6I33wYvDsKcYO2mGffA0AOXWf7bSUydCLG2d5Xny8qhz4xw4Mzondki5plUaBXXTG0aOSSUJ+VNxjVg6W6kPWyZ/+MCSsnod6K7jVZMfkXpqGIx0WqxW9kA2EV0tRsgzKzGseWOFT7Astt0B+IiRmu9aG6e7pvvUfq7O1xcBdaXg9aYStrK1/d/r7/R953AOx1Fami1TOlU=;Zpc4UmKXQCPuN9u62AUvXg=="
 ---
 

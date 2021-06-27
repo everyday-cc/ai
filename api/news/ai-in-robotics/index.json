@@ -150,49 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-global-service-robotics-market-to-reach-1104-billion-by-2026.md",
-      "title": "Global Service Robotics Market to Reach $110.4 Billion by 2026",
-      "excerpt": "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Service Robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a2/0a2fd92a-dc2e-5dc4-89b4-5d29314f0bdf/60d5dedf20d09.image.jpg?resize=1101%2C630",
-          "width": 1101,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-attention-it-professionals-robots-are-not-trying-to-steal-your-jobs.md",
       "title": "Attention, IT Professionals: Robots Are Not Trying To Steal Your Jobs",
       "excerpt": "The reality is intelligent automation is more about eliminating manual tasks than it is about replacing human workers.",
@@ -490,7 +447,7 @@
       "originalUrl": "https://www.techspot.com/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1422,6 +1379,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-construction-robotics-firm-dusty-raises-165m.md",
+      "title": "Construction robotics firm Dusty raises $16.5M",
+      "excerpt": "It certainly follows then that some leading construction robotics companies are able to strike while the iron is hot with some healthy raises. Today, Bay Area-based Dusty Robotics announced a $16.5 million Series A.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/",
+      "originalUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8zE4X06fly8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/construction-robotics-firm-dusty-raises-16-5m/amp/",
+      "publishedDateTime": "2021-06-15T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

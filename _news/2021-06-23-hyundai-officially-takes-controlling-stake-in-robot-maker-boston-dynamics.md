@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/90154-hyundai-officially-takes-con
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90154-hyundai-officially-takes-controlling-stake-robot-maker-boston.html"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 560
     isCached: true
-
-related:
-  - title: "Hyundai just bought Boston Dynamics so it can start replacing us with robots"
-    excerpt: "Boston Dynamics, the company that develops dystopian robot dogs to unleash on the world, has been bought by Hyundai. Earlier this week, Hyundai purchased 80% of Boston Dynamics from Softbank, valuing the company at $1."
-    publishedDateTime: 2021-06-22T15:29:00Z
-    webUrl: "https://knowtechie.com/hyundai-just-bought-boston-dynamics-so-it-can-start-replacing-us-with-robots/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 51
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/06/boston-dynamics-hyundai-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "5ADruQ0Py25+/66Ro/NrniaGHiKGAvzi+IPMWY+SnUwjs6CSdck63MzKWojEjTcYkf0OClxCOL1JedMmwCQs31BV90eU9W3pxYGFZ0kfMkwA5Ex4WZz3jTSdkFOJYW+1yjwhUhMzzYKXTtnzM/lh/7onZ/Qy2KiSiyoJYnFr1j4vgCIjhQbkO+QaVm0v8CUMmfOg2h/IPYKszyPdHcV9YZRkba1CXzVEjpSn4qeUThJCPb1fUJkn4257z/9rc0u07ZhaaGfoikQY3l2MLK3zrzxjVaGYrD0EzhHdwd8+MlraTNy71M5cBTuExcgzKCjTOnmNyrrWHlvZwtq1uXu6pOnAybupvBNFMU2XBkrJQv+mzzNG7SqutAKkxQohasfOBUux4p8GSN3kgMFeM4vqwwgCicGSMXkzlrYpjTjKLzaS+NR/BHEs2bOCs1vIdoC9XV06PRLBoaTvotteImJaS1RQE9j7BeAxNik9dNeMH78z0+SyKM8uHbFejORCmIWshDHRyEf9TlN0eDNrLKBhlg==;0OUJt5H4sqUzEN0nLZtrQg=="
 ---

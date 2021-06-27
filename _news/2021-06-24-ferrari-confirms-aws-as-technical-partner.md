@@ -24,22 +24,6 @@ images:
     height: 506
     isCached: true
 
-related:
-  - title: "Ferrari eyes road and track innovation with AWS as its official cloud provider"
-    excerpt: "The car manufacturer will leverage AWS machine learning, analytics and compute capabilities to accelerate innovation across its full range of businesses."
-    publishedDateTime: 2021-06-22T15:21:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/jun/22/ferrari-eyes-road-and-track-innovation-with-aws-as-its-official-cloud-provider/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 35
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/06/dino-240937_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-
 secured: "XFyKn+nzqxT/fHKq8ZpynRhNJs+q0TZp//GvYkrt/wHuKZByor2H8d8v1dqVyCW6yFto+HEBUBw2msnfD4K6VuTQ8iLxNXM+hFeswEgicP2YBpc2G0ncf1Z0XfTPvCa55DjvDio0ATgrZiGC+PXqjArQ3HNiSH5LHleOaaSaQXd+362MwRU00GEgKiG2013O8t8ZHYfFKjtX+jM0Xf8MtYULbcZ//HR1tIcP2SIlihL/xXmh2w2Uax68VFWmpESQHpfvq2y4HZSkZD/1cZxM91X1d/eQsacAntnfkAMLqW81Aa5qOOPXKlyoW28P9B89xdnJKZDF8XUOM0Yn887jkvyaJe7HHAGvuxeY99wneXU=;NvHXCBjXi2unuwT7HrUc7Q=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -393,7 +393,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -724,7 +724,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-share-trends-industry-overview-2021-to-2026-2021-06-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -755,6 +755,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control.md",
+      "title": "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control",
+      "excerpt": "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/n21668304/google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21668304",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21668304",
+      "publishedDateTime": "2021-06-22T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1369,58 +1403,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo.md",
-      "title": "Researchers develop a deep learning method able to animate portions of a photo",
-      "excerpt": "Typically, that perceived motion is just a trick of our minds. Researchers at the University of Washington have developed a new deep learning method that can animate certain portions of a photograph, turning it into a video. The UW deep learning method can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "originalUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/waterfall.jpg",
-          "width": 1280,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo-17678725/amp/",
-      "publishedDateTime": "2021-06-17T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-05-19-is-that-tom-hanks-speaking-in-japanese-no-its-just-ai.md",
+      "title": "Is That Tom Hanks Speaking in Japanese? No, It's Just AI",
+      "excerpt": "Bad lip-syncing in dubbing and subtitles can put off audiences and hurt box office takings of foreign films. AI may be about to change all that. Start-up Flawless AI, co-founded by film director Scott Mann,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-05-19/is-that-tom-hanks-speaking-in-japanese-no-its-just-ai?context=amp",
+      "publishedDateTime": "2021-05-19T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-californias-dmv-taking-tesla-to-task-over-misleading-self-driving-claims.md",
       "title": "California’s DMV taking Tesla to task over misleading ‘self-driving’ claims",
       "excerpt": "California's DMV reviews Tesla to establish if the company is using misleading advertising regarding its \"Full Self-Driving\" package.",
@@ -1111,58 +1154,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-robot-artist-ai-da-self-portraits-go-on-display.md",
-      "title": "Robot artist Ai-Da self-portraits go on display",
-      "excerpt": "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p09hz0cy.jpg",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

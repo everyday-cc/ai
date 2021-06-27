@@ -88,20 +88,6 @@ related:
         width: 590
         height: 330
         isCached: true
-  - title: "NVIDIA Launches AI LaunchPad: AI Enterprise Infrastructure"
-    excerpt: "NVIDIA today unveiled NVIDIA AI LaunchPad, a program delivered through hybrid-cloud providers designed to give enterprises access to NVIDIA-powered AI infrastructure and software. Digital infrastructure company Equinix will be the first in the AI LaunchPad program,"
-    publishedDateTime: 2021-06-22T15:21:00Z
-    webUrl: "https://insidehpc.com/2021/06/nvidia-launches-ai-launchpad-ai-enterprise-infrastructure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
     excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
     publishedDateTime: 2021-06-24T23:00:00Z
@@ -118,18 +104,13 @@ related:
         isCached: true
   - title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA Partner Network"
     excerpt: "SFL Scientific announced today that it has been selected by the NVIDIA Partner Network (NPN) as the 2020 Service Delivery Partner of the Year for the Americas. This is the third consecutive year that SFL Scientific has been honored with this award."
-    publishedDateTime: 2021-06-25T19:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
+    publishedDateTime: 2021-06-25T20:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sfl-scientific-named-partner-the-year-ai-services-/2021/06/25/9398251.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "xLUu8VG2ETm0nQYjaQAwQgFcAczVOBwRqwNJvbYgSKPgEYBjdmLx5fyEUIB1YSOz9Ijhcb6ZU3bv00U721aAdlKPfndBQigmFXjaiSR/klKQLxju7m2e5QCu9Bv0bQdu1pfx2UfAnTA6oOZVWyLncNU4j4nRZhC/zu9tDUSgL/vkxqCB03VWYVq9DRNbEndjLWM1VER/iZu7qa+fCj6N9fkgGu8SR8hdrdF0YoKCyrZK/MzzYE/PU1s2iNAFosd3DY3vwlMGeHssYMyWpZfcbOTMFY+t5E4LhZA3JfChEfgZDGCfe/Zj1jbiieY60/YDwsUavmdlEmcY/OldzTRtEBIYF762TPidtFuRgnpLWTXQ2u22TlQdnFR4wMo+3yJRJa8fpmWZF+Oqt33t7P8YePEIfILIw3x5F5PTi398lRibc6IMuSIEWzoY49N8BIqbpBg59LMBTHvFNJPesxlUkA5OsZxTTxk/UQd6HovPTF9LkV0RBnuoHIsh+EkDe/J8r2MiUJLNVfd+EPpxohIRfg==;x0/iOChQm2sgzH52pp6iiw=="
 ---

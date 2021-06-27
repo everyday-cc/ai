@@ -40,20 +40,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "BREAKING: Pentagon Launches New AI Data Initiative"
-    excerpt: "The Pentagon is kicking off a new artificial intelligence initiative aimed at better curating and managing data, Deputy Secretary of Defense Kathleen Hicks announced June 22. The effort — known as the DoD AI and Data Acceleration initiative,"
-    publishedDateTime: 2021-06-22T15:24:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2021/6/22/pentagon-launches-new-ai-data-initiative"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 37
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/06/istock-1058616412.ashx?h=500&w=878&la=en&hash=BE906264D1949BEBC5DE0388F18A5B94"
-        width: 878
-        height: 500
-        isCached: true
   - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
     excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
     publishedDateTime: 2021-06-22T22:13:00Z

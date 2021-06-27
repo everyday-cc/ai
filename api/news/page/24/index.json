@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-06-08-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
+      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
+      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
+          "width": 1314,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-using-watson-to-diagnose-skin-cancer-interview-with-ibm-computer-vision-scientist-noel-codella.md",
       "title": "Using Watson to Diagnose Skin Cancer: Interview with IBM Computer Vision Scientist, Noel Codella",
       "excerpt": "Thankfully, researchers at IBM have been studying how to take ... our own experimentation on using machine learning and artificial intelligence to see how well we can get this system to recognize ...",
@@ -1076,50 +1119,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-best-ai-based-cyber-security-tools-for-improved-safety.md",
-      "title": "Best AI-Based Cyber Security tools for Improved Safety",
-      "excerpt": "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
-      "originalUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg",
-          "width": 1200,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
-      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
-      "publishedDateTime": "2021-06-07T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technotification.com",
-        "domain": "technotification.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-05-15-heres-what-the-dreams-of-googles-artificial-intelligence-look-like.md",
+      "title": "Here’s What the “Dreams” of Google’s Artificial Intelligence Look Like",
+      "excerpt": "Google’s Artificial Intelligence can dream in reality. Its innovative DeepDream software is turning AI neural networks inside out to comprehend how computers think.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/heres-what-the-dreams-of-googles-artificial-intelligence-look-like/",
+      "originalUrl": "https://www.analyticsinsight.net/heres-what-the-dreams-of-googles-artificial-intelligence-look-like/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/05/Artificial-Intelligence-10.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-ai-weekly-how-to-implement-ai-responsibly.md",
       "title": "AI Weekly: How to implement AI responsibly",
       "excerpt": "Implementing AI responsibly requires involving all stakeholders in the development, design, deployment, and maintenance phases.",
@@ -1148,49 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
-      "title": "Infosys collaborates with RXR Realty to develop smart office platform running on Microsoft Azure for safe return to work",
-      "excerpt": "It major, Infosys said that company has collaborated with RXR Realty to build and deploy a comprehensive, award-winning smart building health and wellness solution running on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
-      "originalUrl": "https://www.uniindia.com/~/infosys-collaborates-with-rxr-realty-to-develop-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work/Business Economy/news/2395131.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.uniindia.com/cms/gall_content/2021/5/2021_5$largeimg14_May_2021_120833073.jpg",
-          "width": 595,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United News of India",
-        "domain": "uniindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-05-26-mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals.md",
+      "title": "Mumbai: Railway cops to have a facial recognition app to identify criminals",
+      "excerpt": "The Government Railway Police (GRP) is on the verge of developing an in house software to identify criminal with the previous criminal records. The software would have a facial recognition system which will enable the police to go through previous criminal history of a person with just a click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2019-10/3cadeda3-d9ee-48f8-9d87-f4165d72dc90/MUMBAI_GRP.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/mumbai-railway-cops-to-have-a-facial-recognition-app-to-identify-criminals/262b4f4b-9307-487b-b792-3b4d8aaf9dab",
+      "publishedDateTime": "2021-05-26T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-rock-picking-robotics-startup-terraclear-raises-25-million.md",
       "title": "Rock picking robotics startup TerraClear raises $25 million",
       "excerpt": "Rock picking is probably not the first thing you think about when you think agricultural robotics. Understandably so. There are a number of companies out there looking to automate aspects like fruit and vegetable picking,",
@@ -1049,57 +1092,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-betterhalfai-raises-3-mn-in-pre-series-a-round.md",
-      "title": "Betterhalf.ai Raises $3 Mn In Pre-Series A Round",
-      "excerpt": "The company plans to utilize the funds to boost user engagement on the app, adding monetization features, and increasing product discovery across organic channels",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/372905",
-      "originalUrl": "https://www.entrepreneur.com/article/372905",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1622020333-Betterhalf-team.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372905",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372905",
-      "publishedDateTime": "2021-05-26T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
