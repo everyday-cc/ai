@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
-    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
-    publishedDateTime: 2021-06-22T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Outlook of Global Emotional Intelligence Market: Research Report during 2021-2029."
     excerpt: "Global Emotional Intelligence Market will grow to US 64 134 7 Mn by 2027 at CAGR of 24 9 Erudite analysis study of report titled Emotional Intelligence Market has published by Absolute Markets Insights The report provides statistical analysis thus"
     publishedDateTime: 2021-06-23T04:42:00Z
@@ -99,20 +85,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U623549372_g.jpg"
         width: 620
         height: 350
-        isCached: true
-  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
-    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
-    publishedDateTime: 2021-06-22T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global 5G, Quantum Computing and Artificial Intelligence (AI) Technology Trends Report 2021 - ResearchAndMarkets.com"
     excerpt: "The “Technology Themes 2021 - Tracking Development of 3 Key Trends, 5G, Quantum Computing and Artificial Intelligence (AI)” report has been added to ResearchAndMarkets.com’s offering. 5G, Quantum Computing and AI have been discussed at length for a number of years and the hype that surrounds them can lessen the understanding of real world impacts these themes are already having."
@@ -160,17 +132,6 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 14
-  - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
-    excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
-    publishedDateTime: 2021-06-22T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2310582/computer-vision-market-size-share-analysis-applications"
-    ampWebUrl: "https://www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Worldwide Artificial Intelligence (AI) Market in Manufacturing Industry to 2025 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence (AI) Market in Manufacturing Industry 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is ..."
     publishedDateTime: 2021-06-24T09:28:00Z

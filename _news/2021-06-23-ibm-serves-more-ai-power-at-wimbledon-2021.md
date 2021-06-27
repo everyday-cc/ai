@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
-    excerpt: "To help answer these questions, for the first time this year, the AELTC will leverage IBM Power Rankings with Watson, an AI-powered analysis of player performance presented as a leaderboard ..."
-    publishedDateTime: 2021-06-23T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-creates-new-ai-and-cloud-powered-fan-experiences-ahead-of-return-to-live-tennis-with-the-championships-wimbledon-2021-1030547188"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
-        width: 400
-        height: 292
-        isCached: true
   - title: "IBM serves up player tracking tools for Wimbledon fans"
     excerpt: "IBM has announced a set of new AI-based fan experiences for this year's Wimbledon Tennis Championships, which are set to start on Monday. The tech giant has a 30-year history with the competition, providing innovative features through its Watson AI service."
     publishedDateTime: 2021-06-24T13:40:00Z
@@ -65,6 +51,20 @@ related:
       - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2019/07/ballshutterstock_372900823.jpg"
         width: 1000
         height: 669
+        isCached: true
+  - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
+    excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
+    publishedDateTime: 2021-06-23T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ibm-creates-new-ai-cloud-powered-fan-experiences-/2021/06/23/9396212.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1549787/Wimbledon_Sign_2021.jpg"
+        width: 400
+        height: 292
         isCached: true
 
 secured: "U7ot6fiMb9OkGXA3j9TlvV4hRNI7n7VrYgz5RDiujIbNauP66tJ7d2gd/H5kaGxnHacTUVeMxm/DvEOnYokMfkl2lXlhWOGe0mWCFgpSa067rvuvgNlrws9NXpJbB42x9ivm889u9ZyuOKCcSUUPVxf5qorSYVIOTyEWW1oQ+uXCqDWNXkaL54i4Ti/P/VyphyptZtfwKLC3YDugPmu7lE6PKnmvDaVwISIMZaeuCvbbEZpbsnKgNOepJ4GJY7W+1IsfhJQQr4meOObAR9B41fQaFQ6ezquXoVxhSzHghhOgQr+U0/II9sJ9H+Z52A8lhuch10jSF5eJjkHNF9mia/oZ2yBmLHqaH9YqJ26SAQbrEUZ1qMdywgZvPC2E6KkHuvrDPg1DPjIwF5D/iTctK94nKbvepQXLkgr6y8Fy27fevqDU3bkHvUtWewPvPJsoz91lHtmpw/ae+0bqz9S+B3cX0ttL0Kmy8hdCifOOVFI5JeHdi1jpjEWcU566XjNWHZFt+x501T0mefJx4uuX7Q==;mKxS8lJ5xVME66bBGRKDcQ=="

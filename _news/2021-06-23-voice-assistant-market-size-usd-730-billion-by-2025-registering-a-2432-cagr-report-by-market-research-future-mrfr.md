@@ -21,61 +21,45 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Military Market Size valuation to cross USD 14 billion by 2027"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Military Market Size study, by Application, by Technology, by Platform and Regional Forecasts 2021-2027',"
-    publishedDateTime: 2021-06-22T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027-2021-06-22"
+  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Artificial Intelligence."
+    publishedDateTime: 2021-06-23T07:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "ePharmacy Market Size Worth US$370 Million by 2031:"
-    excerpt: "Visiongain has published a new report on Global ePharmacy Market Report Forecast 2021-2031. Forecasts by Product (Prescription Medicine (Rx) and Over-The-Counter (OTC)). PLUS Profiles of Leading ePharmacy Companies and Regional and Leading National Market Analysis."
-    publishedDateTime: 2021-06-26T12:16:00Z
-    webUrl: "https://menafn.com/1102346055/ePharmacy-Market-Size-Worth-US370-Million-by-2031"
+  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "This report contains market size and forecasts of Artificial Intelligence in Global, including the following market information: Global Artificial Intelligence Market Revenue, 2016-2021, 2022-2027, ($ millions) Global top five companies in 2020 (%) The global Artificial Intelligence market was valued at 1315."
+    publishedDateTime: 2021-06-25T15:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7436"
-        width: 375
-        height: 249
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
-    excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."
-    publishedDateTime: 2021-06-23T09:12:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142407/europe-artificial-intelligence-chipsets-market/"
+  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
+    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
+    publishedDateTime: 2021-06-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 10
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
-    publishedDateTime: 2021-06-22T15:56:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
-    publishedDateTime: 2021-06-22T17:02:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "wg+mpCLkjMqwgZZjT3PsN3UOOSqOl0jmsPYCMHg60xcXKi76at5+IUjJqeE4L202jkK6aVpq2JrEqv02h93QdEyetP3holT76tzusDxIaLYYWa9896oi/wVsjZxNaWFrtem1+IxOjhhQGURAttlYX+Q5G0S30hXwCq2zd9XMntXCDu5XUDkrqPVSZfaZ0ZWOeE0I/uXG6yHYvboRReozJFvqn4XK9vOhujtrh0ESWk8xO8v8Txxn0N09ZKPPEybR0cQFc2PaCPGskWymJ81KBUdK2VNdjCByfjHikwhXlY49nwKe9HInFlIlrejLa4JHTrRvhD2Blw/M3e13heH09wqP2Yf3FZbUH19AjKGsiqk=;PjqdGVb+htkjZcg/frF/Ww=="
 ---

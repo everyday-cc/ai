@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Convergence of Artificial Intelligence and Internet of Things in Smart Healthcare: A Case Study of Voice Pathology Detection"
+    excerpt: "The integration of artificial intelligence (AI) and the Internet of Things (IoT) has a great prospect in smart healthcare. The advancement of AI in the form of deep learning brought a revolution in automatic classification or detection systems."
+    publishedDateTime: 2021-06-23T13:33:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9458291"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 9
   - title: "OMRON Healthcare and Kyoto University Collaborative Research Program “Healthcare Medical AI” to Prevent the Events of Cardiovascular Diseases With AI and Home Measurement Data"
     excerpt: "OMRON Healthcare Co., Ltd. (Head Office: Muko-city, Kyoto, Japan, President & CEO: Isao Ogino) and Kyoto University (Sakyo-ku, Kyoto-city Kyoto, J"
     publishedDateTime: 2021-06-24T14:00:00Z

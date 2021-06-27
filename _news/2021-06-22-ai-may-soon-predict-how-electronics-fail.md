@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-06-ai-electronics.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-ai-electronics.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may predict heart disease risk on chest x-ray"
-    excerpt: "Can chest x-rays be used to detect unsuspected coronary artery diseases? An artificial intelligence (AI) program has shown it's more than possible, according to research published June 17 in Radiology: Cardiothoracic Imaging."
-    publishedDateTime: 2021-06-22T07:37:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=132723"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_06_18_22_19_3004_2021_06_22_heat_map_chest_x-ray_AI_read_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "LG Electronics unveils AI-equipped digital X-ray detector"
     excerpt: "LG Electronics Inc. on Tuesday unveiled a digital X-ray detector (DXD) with artificial intelligence (AI) solutions as the South Korean tech giant eyes to expand its presence in the medical equipment field."
     publishedDateTime: 2021-06-22T09:55:00Z

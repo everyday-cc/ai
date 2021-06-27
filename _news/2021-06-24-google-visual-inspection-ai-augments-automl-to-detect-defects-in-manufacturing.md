@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1024
         height: 671
         isCached: true
-  - title: "Google rolls out AI-powered visual inspection tool for manufacturers"
-    excerpt: "Manufacturers have for years used AutoML Google's general purpose AI product, for quality control, but Visual Inspection AI is more accurate and efficient."
-    publishedDateTime: 2021-06-22T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-rolls-out-ai-powered-visual-inspection-tool-for-manufacturers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-rolls-out-ai-powered-visual-inspection-tool-for-manufacturers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-ai-powered-visual-inspection-tool-for-manufacturers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control"
     excerpt: "SUNNYVALE, Calif., June 22, 2021 /PRNewswire/ -- Google Cloud today launched Visual Inspection AI, a new purpose-built solution to help manufacturers, consumer packaged goods companies, and other ..."
     publishedDateTime: 2021-06-22T15:06:00Z

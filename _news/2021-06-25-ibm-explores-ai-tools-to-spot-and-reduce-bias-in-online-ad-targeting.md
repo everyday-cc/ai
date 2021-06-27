@@ -75,20 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Creating An AI Text-to-Speech Using IBM Watson"
-    excerpt: "Text-to-Speech is a form of Speech Synthesis where the algorithm converts language into human speech and that too to generate natural-sounds."
-    publishedDateTime: 2021-06-22T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/creating-an-ai-text-to-speech-using-ibm-watson/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/1-1.png"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
     excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."
     publishedDateTime: 2021-06-24T10:16:00Z

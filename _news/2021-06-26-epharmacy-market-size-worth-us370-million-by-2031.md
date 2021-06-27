@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102346055/ePharmacy-Market-Size-Worth-US370-Mi
 webUrl: "https://menafn.com/1102346055/ePharmacy-Market-Size-Worth-US370-Million-by-2031"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,60 +23,6 @@ images:
     width: 375
     height: 249
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Military Market Size valuation to cross USD 14 billion by 2027"
-    excerpt: "Selbyville, Delaware, According to the research report titled 'Global Artificial Intelligence in Military Market Size study, by Application, by Technology, by Platform and Regional Forecasts 2021-2027',"
-    publishedDateTime: 2021-06-22T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-valuation-to-cross-usd-14-billion-by-2027-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe Artificial Intelligence Chipsets Market Size to Surpass US$ 9 Billion By 2026"
-    excerpt: "Artificial Intelligence (AI) chipsets market in Europe will reportedly showcase substantial growth during the forecast period of 2020-2026. In fact, this market is set to cross $9.0 billion by 2026, according to market experts."
-    publishedDateTime: 2021-06-23T09:12:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142407/europe-artificial-intelligence-chipsets-market/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 10
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
-    publishedDateTime: 2021-06-22T15:56:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "Global Artificial Intelligence in Military Market to reach USD 14.82 billion by 2027.Global Artificial Intelligence in Military Market is valued approximately USD 6.3 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 13 % ..."
-    publishedDateTime: 2021-06-22T17:02:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 8
-  - title: "Voice Assistant Market Size USD 7.30 Billion by 2025, Registering a 24.32% CAGR - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Voice Assistant Market - Information by Technology, Hardware and Application - Forecast till 2025\" the market valuation stood at USD 1."
-    publishedDateTime: 2021-06-23T16:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21688759/voice-assistant-market-size-usd-7-30-billion-by-2025-registering-a-24-32-cagr-report-by-market-res"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21688759"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21688759"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "PwsM5wOQB3tjMHza5LiDoQ3GT2DXxokPdfQRcKc16aLc/8D8HUsw7uyHvfAjBxmn0o3CufSOxacrJfUisn+JH6L245aPC2KR35t5e4ucAXw/Lhw7IHvrIEzUJqCKHv9B4VILZC/iEowYlxKLA65feTQbFZUbg5LaoB7o9cKeRLZ7GK5cPNTX9/KUABKum1h+5XcIIj6Da8JkpyCavDFx2Xyfe9Ti0j48Zev0O/odMN8ZLAhLL/j7ZIeGk6N0fmTZdSNWbU597aUzU4Y34+yWtulsXBPAbsRqCeLdw0yP1JXfji6VlgiYaYwqgtPnH77OKKdM9LUbxTejM/57kAoIgTZ/LLkVx+C88kBXP4GvDIc=;8tIQaGKJVtKUHLiObkG6jQ=="
 ---

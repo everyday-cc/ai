@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Energy Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2028"
-    excerpt: "A new market assessment report on Artificial Intelligence in Energy market brings to light a detailed statistics on"
-    publishedDateTime: 2021-06-22T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2028-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Aviation Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
     excerpt: "Market.us has to return up with a brand new report specifically Global Artificial Intelligence in Aviation Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."
     publishedDateTime: 2021-06-24T09:03:00Z
@@ -92,20 +78,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Growth, Key Players, CAGR of 12%, Share, Size, Trend, Segmentation, Region, and Forecast Global Expansion by 2024"
-    excerpt: "Global \"Facial Recognition Market\"report overview provides the growth scenarios and market potential with maximum"
-    publishedDateTime: 2021-06-22T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-key-players-cagr-of-12-share-size-trend-segmentation-region-and-forecast-global-expansion-by-2024-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -157,17 +129,6 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 14
-  - title: "Computer Vision Market Size, Share, Analysis, Applications, Growth Insight, Trends, Leaders, Services and Future Forecast - 2027"
-    excerpt: "The Global Computer Vision Market size was valued at USD 10 6 billion in 2019 and is expected to grow at a compound annual growth rate CAGR of 7 from 2021 to 2027 Computer vision systems collect process and analyze"
-    publishedDateTime: 2021-06-22T08:17:00Z
-    webUrl: "https://www.openpr.com/news/2310582/computer-vision-market-size-share-analysis-applications"
-    ampWebUrl: "https://www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2310582/computer-vision-market-size-share-analysis-applications"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Worldwide Artificial Intelligence (AI) Market in Manufacturing Industry to 2025 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence (AI) Market in Manufacturing Industry 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is ..."
     publishedDateTime: 2021-06-24T09:28:00Z

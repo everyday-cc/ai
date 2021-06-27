@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine
 webUrl: "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: SiliconRepublic
@@ -26,42 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "HPE bolsters HPC business with Determined AI acquisition"
-    excerpt: "Hewlett Packard Enterprise (HPE) has acquired open source artificial intelligence (AI) startup Determined AI. The four-year-old company, which only brought its product to market in 2020, specialises in machine learning (ML),"
-    publishedDateTime: 2021-06-22T07:46:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
+  - title: "Lip-Reading AI is Under Development, Under Watchful Eyes"
+    excerpt: "Visual speech recognition (VSR), which trains AI to read lips without any audio input, is seen posing an ethical dilemma."
+    publishedDateTime: 2021-06-24T14:47:00Z
+    webUrl: "https://www.aitrends.com/image-recognition/lip-reading-ai-is-under-development-under-watchful-eyes/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
+      name: aitrends
+      domain: aitrends.com
+    quality: 37
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1580816268/HPE.jpg"
-        width: 1260
-        height: 710
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-25AILipReading-2.jpeg"
+        width: 550
+        height: 504
         isCached: true
-  - title: "Hewlett Packard (HPE) Scoops Up Determined AI, Boosts HPC Offerings"
-    excerpt: "Hewlett Packard Enterprise HPE recently announced the acquisition of software provider — Determined AI — for an undisclosed amount. The acquisition is expected to boost Hewlett Packard’s portfolio of AI and high-performance computing (HPC) solutions by enabling machine learning (ML) professionals to implement ML models seamlessly to generate more precise insights from data."
-    publishedDateTime: 2021-06-22T10:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
+  - title: "Evaxion Develops Method to Enhance AI Drug Development with Deep Probabilistic Programming"
+    excerpt: "The paper is entitled “Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model”, and was written and developed by Evaxion personnel in collaboration with Assoc. Prof. Thomas Hamelryck’s probabilistic programming group at the University of Copenhagen."
+    publishedDateTime: 2021-06-25T11:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/europe-business-technology-health-coronavirus-pandemic-8b6faa4a1cf62044cd1178993dd57ee6"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
-    excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."
-    publishedDateTime: 2021-06-22T19:15:00Z
-    webUrl: "https://www.bizjournals.com/houston/news/2021/06/22/hpe-determined-ai-high-perfomance-computing.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FbHmBAA1PjEn7alDXBAfKaMSgr5qG3DK8mKukypDpTO4aHS9a7sncHJKdrx8B4puFD7iE6ADygnfr8kZXtvQVneyJZp+RokFLNy/h4YU8vDtAuXK0zOscSSt+SwTKRyhvaxpzzylphTLV3gy++DsXBtg6mOXzh08WQ2Qa3vk4/rItVls2yq1j6tcesgFyvhXSNW0Zq+MJ4ZHxXDOhJ9ikN+yIqyxcxOKUt/XDmmc67DhD3nBa+h9yxnzlPr6X0uHhbvAsPf+ao8xfbAz6YydKclg+UjkWjS5Xov7OdecoON2JUGYzBJBKMYAAosNOEYFJ7wSvQCwXW/tWCLHBmRVZfEgshfIiatOJ5W6LBKnc3bphUSTJlnEME+K8UpqECcIYnIXIlAMh47yP+D9iTNdT6O03K4SqxkguOr4WNv0VgMhn9TQxht5nJh4RikNvQIiMV7vtE+8ZUTynN7Wpr5MVTqbuySnspMLU5jsTAA47fzCQ2pOZ1C/RmWUwY67ZqNGDlaWF8sKEB4YJPkJcGenEg==;AxFdRtQM2Bd2IrZDDZiQIA=="
 ---

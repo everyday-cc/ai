@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/06/210623130649.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/06/210623130649.htm"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Viral Infections Predicted by Microscopy Deep Learning"
-    excerpt: "Researchers have shown for the first time that a machine-learning algorithm can recognize cells infected with herpes or adenoviruses based solely on the fluorescence of the cell nucleus."
-    publishedDateTime: 2021-06-22T08:26:00Z
-    webUrl: "https://www.technologynetworks.com/immunology/news/viral-infections-predicted-by-microscopy-deep-learning-350038"
-    ampWebUrl: "https://www.technologynetworks.com/immunology/news/amp/viral-infections-predicted-by-microscopy-deep-learning-350038"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/immunology/news/amp/viral-infections-predicted-by-microscopy-deep-learning-350038"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
-        width: 389
-        height: 389
-        isCached: true
   - title: "Machine learning aids earthquake risk prediction"
     excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
     publishedDateTime: 2021-06-23T04:00:00Z

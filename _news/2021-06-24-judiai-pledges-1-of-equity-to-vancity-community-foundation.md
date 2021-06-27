@@ -50,17 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Artificial intelligence at the service of hospitality management, a joint Certificate launched by Les Roches and aivancity Paris-Cachan"
-    excerpt: "CRANS-MONTANA, Switzerland and PARIS, June 22, 2021 /PRNewswire-PRWeb/ -- The hospitality sector is an extremely propitious terrain for the use of AI as it generates large"
-    publishedDateTime: 2021-06-22T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21659082/artificial-intelligence-at-the-service-of-hospitality-management-a-joint-certificate-launched-by-l"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21659082"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21659082"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "F9xZlk14Z3hpQZ+Ixj4UEp5trFbDkYHKBDC/5Rvvqv6eRhKgoVb+wJHHLZzY61LCTRzp7eVrCY3n9CCYvmHEmSvZ08JdsQFJPDs+CUUn7w4YGrNTE8c+yQINeUOZd+iDv/NxjZ02czTQokQie9S8ES5dmvoQs9RgDb/LSHeb1H1iyWQpTYti9vvnbyaLVV2iWfEDQGcoz5L8yiCYzSmKMf/MdK6xAI3C/Ai7vjuuRpk5Ibp6BL7tYyVQbUx86yzsqes6+dQ5AXnYfpT1h4qlMD1ubgTyTEpvB/OUumoq+orYTAIJfNEXZTWeaOMT2DgWU8swtHYgCzFB3zM1mkXPW45QqaaKukWYktR6WzpzN3w=;h1C7SCoC6h7kRujJTbV7xQ=="
 ---

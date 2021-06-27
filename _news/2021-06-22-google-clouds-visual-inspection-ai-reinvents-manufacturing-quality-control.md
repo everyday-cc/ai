@@ -69,17 +69,6 @@ related:
         width: 1024
         height: 671
         isCached: true
-  - title: "Google rolls out AI-powered visual inspection tool for manufacturers"
-    excerpt: "Manufacturers have for years used AutoML Google's general purpose AI product, for quality control, but Visual Inspection AI is more accurate and efficient."
-    publishedDateTime: 2021-06-22T08:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-rolls-out-ai-powered-visual-inspection-tool-for-manufacturers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-rolls-out-ai-powered-visual-inspection-tool-for-manufacturers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-ai-powered-visual-inspection-tool-for-manufacturers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Google’s Vision Inspection AI tool automates quality control in manufacturing"
     excerpt: "Google LLC is catering to the growing demand for industrial automation with the launch of its new Vision Inspection AI tool. As the name suggests, Vision Inspection AI (pictured) is an artificial intelligence service that relies on computer vision technology to automate quality control processes in manufacturing operations."
     publishedDateTime: 2021-06-22T15:00:00Z
@@ -95,6 +84,6 @@ related:
         height: 360
         isCached: true
 
-secured: "7IpZDGIuBbXluar7gAIa0/deymZ+JSvca+A+vKdKjPJxJRr6ipPmhqCJqId24SNyZA6uYm1kUpp/PFv0ITn064O0o+S8rGmwX0clWywPtyxZc+BAZK8BlsC0cGAfOq8ELU7WA50yHR+rAj4MWSCHbMd3phLPotmzjXx2DEig0YpPcC9//dufq8B8EyseIzfgPkonsLUAj/1dhZgSXNbeodxtWck+GQDyjVciKDk9zmpz+3SAmIlmygpwhUWaUkXV0+4MEUvzJoaF99DuLVyk76Y7OL1CZQtwNCLhctOctaTO5O4R/FzBllfBpke9QaaTtg0UqjdrKiI2iOCl29jJw6Lz2mIgHpfabl77ZwIs1f0=;xbZ4yJ5JibziTm9m2JRyew=="
+secured: "JwcvEq833YJKD3YdmJUFt6n0kOoq9kmx5Y9fryDKTolNowPto8KTB1yqJMVCxc4+LpR4EiBHAD/byVE9d7kXP+KxGqrb26bsVNllaMBFMRrbhB3EsfzXk7ZjRzS1wwv/eBoVDtff+JnF7fjsHqc/2f26gottWGIB8Qsd6/vaJsOeezVprTIJOBb9MuaWWudi/UiBIFOfh3JYDVnL4iVKtKwNClzNK8MxiJneWm81qJ+9x0jx6EmpU98DXSxuNMAW8A753fipLOjvh7b98lNeuRM06G1Mi/aqMA/YR/m4r9X7Yt7k18WdILv+SGjC6vZjpME3NF9nJ/ZV3TAAK76XMAxXRru6mvQjhEbUySf+9bQ=;CeGx85nSkQnWZKfGSVy6vQ=="
 ---
 

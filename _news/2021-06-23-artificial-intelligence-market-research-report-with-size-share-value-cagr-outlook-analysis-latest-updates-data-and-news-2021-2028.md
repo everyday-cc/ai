@@ -43,6 +43,28 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Assistant Market Size USD 7.30 Billion by 2025, Registering a 24.32% CAGR - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Voice Assistant Market - Information by Technology, Hardware and Application - Forecast till 2025\" the market valuation stood at USD 1."
+    publishedDateTime: 2021-06-23T16:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21688759/voice-assistant-market-size-usd-7-30-billion-by-2025-registering-a-24-32-cagr-report-by-market-res"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21688759"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21688759"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
+    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
+    publishedDateTime: 2021-06-24T10:45:00Z
+    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "b9EcPvYxncw11xoxFE+k24eK0YrHHhnWO0C5bUzq8+ltUA2SlSu//2dNq5efrUiLsJrt1vpZ8ZCrO+QDFY2SxCYNa2NqmJbiaNZ4T6O9BufnEv2ak2QE9kVog0ThXDDqJ102+i5HrtlSC8ydB5aESzW0C5BwqrYy2m8KAIarUA6EACqP0e1SKIN171sH9fJMIXjh4fFvIg3yHVqlc7u89MLrbw3jzscg7Qs/1uzfBEGCsrNdqBZKwexPplNYDWeXq4uFFf2uozn1TpGv0KqNFK4jlC6Ts6uGOz6kaZS1j9mFh/Buxk7cESn+wCnnw4W6iQjKxCgwoAsyXcz+FSUUF8o6/sqC+22tHo5RihtEEno=;f1DfLkFf5jRPJG2IFW3OXQ=="
 ---

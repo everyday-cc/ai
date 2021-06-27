@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-14-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
+      "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
+      "excerpt": "These advanced analytics are the result of the new partnership announced in February 2021 when AWS was named the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs/article_a3794eec-019b-59e3-ad57-6d0c310ed792.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-aws-and-the-nhl-to-debut-advanced-stats-during-the-2021-stanley-cup-playoffs.md",
       "title": "AWS and the NHL to Debut Advanced Stats During the 2021 Stanley Cup Playoffs",
       "excerpt": "(NASDAQ: AMZN), and the National Hockey League (NHL) announced they will debut two new advanced analytics during the 2021 Stanley Cup Playoffs. These new stats powered by AWS will appear as on-screen graphics and data visualizations during NHL games and give fans a better understanding and deeper appreciation of how their favorite players and teams perform during crucial moments.",

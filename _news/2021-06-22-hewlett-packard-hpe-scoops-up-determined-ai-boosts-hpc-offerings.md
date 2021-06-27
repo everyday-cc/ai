@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determ
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hewlett-packard-hpe-scoops-up-determined-ai-boosts-hpc-offerings-2021-06-22?amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Nasdaq
@@ -20,35 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "HPE bolsters HPC business with Determined AI acquisition"
-    excerpt: "Hewlett Packard Enterprise (HPE) has acquired open source artificial intelligence (AI) startup Determined AI. The four-year-old company, which only brought its product to market in 2020, specialises in machine learning (ML),"
-    publishedDateTime: 2021-06-22T07:46:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/359947/hpe-bolsters-ai-portfolio-with-open-source?amp"
+  - title: "Hewlett Packard Acquires AI Company Co-founded by Machine Learning Professor"
+    excerpt: "A machine learning technology company co-founded by Ameet Talwalkar, an assistant professor in the Machine Learning Department at Carnegie Mellon University's School of Computer Science, will join Hewlett Packard Enterprise (HPE)."
+    publishedDateTime: 2021-06-22T18:08:00Z
+    webUrl: "https://www.cs.cmu.edu/news/hewlett-packard-acquires-ai-company-co-founded-machine-learning-professor"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 51
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1580816268/HPE.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "HPE acquires Determined AI to ramp up machine learning development"
-    excerpt: "The deal will see HPE merge Determined AI’s machine learning platform with its high-performance computing services."
-    publishedDateTime: 2021-06-22T13:36:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/hpe-determined-ai-machine-learning"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/07/HPE-Interxion.jpeg"
-        width: 800
-        height: 600
+      - url: "https://www.cs.cmu.edu/sites/default/files/DeterminedAI.png"
+        width: 5860
+        height: 4147
         isCached: true
   - title: "Hewlett Packard Enterprise acquires machine learning firm Determined AI"
     excerpt: "Recent Houston transplant Hewlett Packard Enterprise plans to expand its machine learning capabilities with a new acquisition."

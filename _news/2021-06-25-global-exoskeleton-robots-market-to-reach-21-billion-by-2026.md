@@ -35,6 +35,17 @@ related:
         width: 1101
         height: 630
         isCached: true
+  - title: "AI in the Global Food & Beverages Market to Reach a Valuation of $29.94 Billion by 2026"
+    excerpt: "The \"Artificial Intelligence (AI) in Food & Beverages Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 -"
+    publishedDateTime: 2021-06-22T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21670399/ai-in-the-global-food-beverages-market-to-reach-a-valuation-of-29-94-billion-by-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21670399"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21670399"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
 
 secured: "ayHRNLrE9EqCrlcjB5+X7V2vWB4lRXbXkOVFanrZt5Am3EIZ6WwxCqP5/L5adydswWj9ecfEKX0MYPfKZ1HBdbZZmzret1ZZ2j5S526dJOP05mTI/HiLAVKMU5Z7LnJE9aolYx7QL1XmAUwqUEAFbRXoupLZPw9DsNM7WHEZrSUUzxvn7iLAVTR7fxKGvhbeVYLA0OhHG/V1uI6mIrtAhHKmmRUDZVccCcldcGg1QH78GwTT01yCoev18mWe6pKaBzPwstUsGK9xvWgsMm1jLP0LzgWubCSp9doCPYxi0mExVfCePU0S6xY1w3ezRZtrQ7mim46TSlQ/z/CluL3m7Y1gep8H2MMTT0ghoTnHLTM=;KABArel1pCV0qZ8gPbUtmg=="
 ---

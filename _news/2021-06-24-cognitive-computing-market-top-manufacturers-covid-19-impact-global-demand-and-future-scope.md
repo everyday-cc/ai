@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-24"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Natural Language Processing Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-    excerpt: "The global “ Natural Language Processing Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-06-22T08:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-    excerpt: "The global “Speech and Voice Recognition Market” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-06-22T08:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iV/mjvZsQ3O7jF9dOb7L0q4UW/xL9plrlAbtoaw53iLwMO7LjroBJmxn+dwO9iaii7x9euuKNnn62Oo6HZiFy592s7Hv1Iw6WGfUeLfsf1v99eOi2iCfcgwUjjOxD9ISm2Z5ePk5S1qVvwvYdaOS/pTJiBQZzm6f3+vI6cDxo0875ZyNle0HPR8UUpWY0JkEum5qPdnXXOJEnitzifn+EPbytaGGOHjvYcZponddXq1ThJ5LJewMa2D1C5qhM7+9O3Ik1eWC2UB8GgLfUEumj1FsALyySngk+58va1CJPoR/AcIhBIZYAA/jkNwbH63yW+WMM+nB2jvi7ZXTHuqEolhSz9CZSaom5/oF6z7SvSE=;Td+9OytcGtmYw9ulcjywhA=="
 ---

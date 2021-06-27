@@ -34,6 +34,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
+    publishedDateTime: 2021-06-22T15:56:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "Q2Tx3mRxTFQ3RGrlSvrLD6i4X72bNnz6ZfbEd4rSUaIMTa5Rbyn8aR+OiF84yZSkemn6ye4A/bU7HCSLXHFcxjFM++Q/XhuoqkQbmMxdbGay4/MrV6WkKYW6yb/8frHyjPl9TKMOrXfwwftZBqtWJfzem2nbrGzNOH4TTP4MO3ErZ/co0QzeE2/M/vIsEhwIXOHu6ajmLurPMS181/Pz6Y1tpn7dOSli7u5Zvq9bg+9UsmH72NVtKxxkPPGsAJdpPnsAd3QFHSqm2nQeJgt5phohb3ObQUqzBaAIKYtplAUhPXC2Tb993hnZn6vgvKo3a390N9aGxwIGlPDWfhiBg03mASiuoe++tDj6SLmdO8E=;JqPwA1PtYXNGOquUpZRVLA=="
 ---

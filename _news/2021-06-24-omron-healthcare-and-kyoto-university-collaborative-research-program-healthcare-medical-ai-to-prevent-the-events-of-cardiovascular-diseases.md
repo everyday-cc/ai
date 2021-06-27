@@ -39,6 +39,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 17
+  - title: "Convergence of Artificial Intelligence and Internet of Things in Smart Healthcare: A Case Study of Voice Pathology Detection"
+    excerpt: "The integration of artificial intelligence (AI) and the Internet of Things (IoT) has a great prospect in smart healthcare. The advancement of AI in the form of deep learning brought a revolution in automatic classification or detection systems."
+    publishedDateTime: 2021-06-23T13:33:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9458291"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 9
 
 secured: "MTr7KcvPltqIzNi6SWMWOVD7gnltPtniAF6wL/VoZGVDWL3hnUpNdJO1XQgv8avfUZE7Z8KvElOXAxaitoH6Yc553xNJ4L1zquXvdYBqokepvXpc37ajsPxAxYv3ki4olDIqN5Oy7nobPZvwY7VOYj7PM084a9F0CA6KzHj51HM7lC8+8MEGBXvaHHRx40Ju2TAknOuhIbxS1o5ukGk03y5PxRiPoP0t+hAAnnFzotLoRq3pLTI5PemrTEmTY6rZ0vLqwstZBbS+07CB56oSx8fuCShL0+lraRPCzrn6/aQbZ0U2szzhe+KUw9C3nCQ7Xkhz+tjGoNSzW6G1SU0yED7L2ZB9mfU9zT3oeydcfUExzFFyUrRokuhJGohjDbeoC7JFPklo3GuPtaNxF4vTO7bh7ZjLhhGdzwZfDZddB+Z0Bz8f4fNFMygZaLlX3NjhZy215TzL3rcw7mY5jPCB2kezfTcLaMthSeqV561ICxuDvOuWykGGTBht697Zicf8DrHh92hIzpp0I01Je9QP3A==;v+T3BJI5xOkiyujAAn7kbQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Hyundai acquires robotics company to develop autonomous driving"
-    excerpt: "Hyundai Motor Group completes the acquisition of Boston Dynamics to develop technologies such as autonomous driving and artificial intelligence (AI)."
-    publishedDateTime: 2021-06-22T07:33:00Z
-    webUrl: "https://philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752"
-    ampWebUrl: "https://philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752/amp"
-    cdnAmpWebUrl: "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-and-boston-dynamics-collaboration-10752/amp"
-    type: article
-    provider:
-      name: Philkotse
-      domain: philkotse.com
-    quality: 89
-    images:
-      - url: "https://img.philkotse.com/2021/06/22/KjJYY7r3/hyundai-2-1-0916.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Massachusetts-based robot maker Boston Dynamics acquired by Hyundai Motor Group"
     excerpt: "Controlling interest in the Waltham-based company that makes those unnerving animal-like robots now belongs to the international car company."
     publishedDateTime: 2021-06-22T14:22:00Z
