@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Artificial Intelligence."
-    publishedDateTime: 2021-06-23T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Assistant Market Size USD 7.30 Billion by 2025, Registering a 24.32% CAGR - Report by Market Research Future (MRFR)"
     excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Voice Assistant Market - Information by Technology, Hardware and Application - Forecast till 2025\" the market valuation stood at USD 1."
     publishedDateTime: 2021-06-23T16:10:00Z

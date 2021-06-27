@@ -21,45 +21,36 @@ topics:
   - AI
 
 related:
-  - title: "Report: Amazon Orders Self-Driving Tech for 1,000 Trucks"
-    excerpt: "As Bloomberg reports, Amazon has ordered 1,000 autonomous driving systems from the company Plus, which upgrades trucks to drive themselves. Amazon is clearly confident Plus' technology works as it has also acquired the right to purchase preferred shares in the company which amounts to a 20% stake."
-    publishedDateTime: 2021-06-22T12:29:00Z
-    webUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks"
-    ampWebUrl: "https://www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-amazon-orders-self-driving-tech-for-1000-trucks?amp=true"
+  - title: "Aerospace Robotics Market Professional Industry Research Report 2027"
+    excerpt: "Aerospace Robotics Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Aerospace Robotics Market currently leading in Europe,"
+    publishedDateTime: 2021-06-25T19:42:00Z
+    webUrl: "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 54
     images:
-      - url: "https://i.pcmag.com/imagery/articles/02UIOQFAdvtwaBZrBPDJ3IQ-1.1624364549.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
+      - url: "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png"
+        width: 772
+        height: 270
         isCached: true
-  - title: "Amazon snaps up option to buy stake in self-driving truck startup Plus"
-    excerpt: "Amazon has the right to buy preferred shares of Plus via a warrant at a price of $0.46647 per share, the filing shows. That amounts to a roughly 20 percent stake based on Plus’s shares outstanding before its planned merger with special purpose acquisition company Hennessy Capital Investment Corp."
-    publishedDateTime: 2021-06-22T11:08:00Z
-    webUrl: "https://www.autonews.com/mobility-report/amazon-snaps-option-buy-stake-self-driving-truck-startup-plus"
+  - title: "GCC Agricultural Robots Market 2020 Professional Survey, Growth Factors, Size, Shares, Opportunity Analysis and Forecast to 2027"
+    excerpt: "By incorporating advanced technologies such as agricultural robots, Big Data, and artificial intelligence in cloud ... systems ranging from UAVs to driverless cars. Agricultural robots minimize ..."
+    publishedDateTime: 2021-06-23T14:38:00Z
+    webUrl: "https://www.openpr.com/news/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    ampWebUrl: "https://www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: openpr.com
+      domain: openpr.com
+    quality: 15
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/amazon.jpg"
+      - url: "https://cdn.openpr.com/U/6/U623283900_g.jpg"
         width: 800
-        height: 600
+        height: 533
         isCached: true
-  - title: "Amazon to develop 1,000 self-driving trucks"
-    excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
-    publishedDateTime: 2021-06-25T18:52:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-develop-1-000-self-driving-trucks"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "FRTSaogKM12Tlmoy37ClN1w3I1uDXBixH/Evzd8dx4DhnTkxjUC5wfVASgn8DlAfZKGGrh3E91qNDyzk3HPRtjQHcjTvNjWDAWM6RmvFakisxPMUDwILPr/RGzrGyLthljjNIYEU3lXxCVjHA84eSvktWnZwUm3FJKI+fetfQEIBL1BUf9q2O88a/6rf/U73DnTju6FjDius8I5YzL4pKk3rRARXK2C4zEb8vl56UaaRIlkUHeNKGxC5s+n12x3ultvbwSDHd/eNENXZFVGIyGaXpc09wRFO1lTWecFGwOohvX25CmrJd3Yj6eFs8Cnh+/MeXTxLBP2YufKGSyrE+Zmoc+ZgaPyA8doi8FjPUDs=;+azbBTu1H46UPC1tJhwYGQ=="
 ---

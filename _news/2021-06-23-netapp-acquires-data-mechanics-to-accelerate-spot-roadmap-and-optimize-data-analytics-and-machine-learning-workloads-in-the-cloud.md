@@ -174,15 +174,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 4
-  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
-    excerpt: "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform pr"
-    publishedDateTime: 2021-06-22T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210622005442/en/NetApp-Acquires-Data-Mechanics-to-Accelerate-Spot-Roadmap-and-Optimize-Data-Analytics-and-Machine-Learning-Workloads-in-the-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "PQJGmp4zuwxluW0s2uaFcFoM+F1s0rfF9LIkNch/bXFfRiIzcHElHCQ31R48uv4eBd2N5O6IAoYXHu7xdXVeqDfiO4T7nAGoNFFAEajk24jhSKYyDM8ENvcknXmcGI1EeZpH7I0UnziYDeUpTqVpaz6ugjdDm1L7R6XPSVbPfY15501p1QrYQu5SfZCQVRzHZ1g95z2vNr3pynzvYl0y4toYtdi/I6QmjEoGixyQUCsezLd/lVqbdaqT0NLL7N3ipS5fPcUHrqEFellsJ6HtsRzKc2yZk4TWH0Vonn1AkV38ADHjWSD2btLWQtlVulfoSpjn+GsLOlT7Sihhw2mLqs2qNwgU0qSINFq+PddCXq0=;iKsdMFFUfOFgJ3pcsfB+AA=="
 ---

@@ -2,29 +2,21 @@
 category: news
 title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
 excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
-publishedDateTime: 2021-06-24T13:01:00Z
-originalUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
-webUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
-ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
+publishedDateTime: 2021-06-24T12:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
+webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
 type: article
-quality: 38
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM"
-    width: 763
-    height: 509
-    isCached: true
 
 related:
   - title: "The road to driverless cars is looking hopeless"
@@ -73,25 +65,7 @@ related:
         width: 940
         height: 430
         isCached: true
-  - title: "Turkish Bank, bank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
-    publishedDateTime: 2021-06-22T12:00:00Z
-    webUrl: "https://www.financialbuzz.com/turkish-bank-bank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 15
-  - title: "Turkish Bank, Isbank, Selects Driverless AI Platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction Applications"
-    excerpt: "Ümit Bilik, Chief Data Officer, Head of Data Management Artificial Intelligence at Isbank ... \"The decision by Isbank to use Driverless AI is another shining example of how a progressive-thinking ..."
-    publishedDateTime: 2021-06-22T12:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214974-turkish-bank-isbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 14
 
-secured: "njLqY6enlYvJ7eBzTP173kqTN7BcrffeEqtKXq3UlDjQn81p7tPNGyo/uF3kh/6T4NuxBdFDL03htgxqTpEafpGfCfNrZlF1g9wbZYRHcSsJwaKRaWiloX+HPmDEUQNIOXVHjGlfW6qfUv3wVlBE0T7MwiShG+bvnABqH/MOTSr6fK4VGFZS0kjTyPY5o+KwNGanJA944KLVTslyKr/PKQQptKkvQAXwoCos8hcyogSKg/pSNrfiguUKejfPhv+eu92z8UGDZmy3+cGNCr2qV4GQ2PSkRjmzsUtfLi4GZk8kaCSlY1H1m9G/AWV66euUhXfrU4yPabuBV5IeGa/6eq5A2lf10XzYZQK9R6ergNc=;w64QYkMbE9rf/UfW/UJwhQ=="
+secured: "aWzPPa/bBWUHBJndPFfNrq60tTWnJy9N2L7B6yat2xpBMMQpIrgcrXGxy9o5wYwUoJIQ6FtfPdJWU+yzGFcWozKG0xw7fKA3Selp0IXSLQfigU9BnI26eY5VZNfS/JVcURbvh46yevwGiKRdrMRHkZuL/PBxhCTgPlfOZ6OuOvGRa7sAwpJeZVaf2PAxpvtn9nTi4/FKHbXZCcPsbQX5zPL2L7aDLogg2WlRT9+i6+cjPyoyZvhQdvAb+oa2G/XGHTl674Be0HnPquOFoS03xkWBzeDiMm5rJ671PZ4POCZuQIMZEejpmyJL38SCY0r/F4HbVw4pAkS1obtUgsOVGAAGK9M7gyg62qAQxtID3/g=;eAOoZx7TQiUK8VynOmscWA=="
 ---
 

@@ -41,6 +41,17 @@ related:
         width: 772
         height: 270
         isCached: true
+  - title: "New Report: AI In Telecommunications Market 2021 Size, Growth Analysis Report, Forecast to 2027"
+    excerpt: "The global artificial intelligence in telecommunication market size was valued at USD 679 0 million in 2019 and is expected to grow at a compound annual growth rate CAGR of 38 from 2021 to 2027 Artificial intelligence allows the telecom"
+    publishedDateTime: 2021-06-26T07:23:00Z
+    webUrl: "https://www.openpr.com/news/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314521/new-report-ai-in-telecommunications-market-2021-size-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
 
 secured: "8fhML8Ja7Fx8/2uo7ZBQGUz0jx4aZHs8nbd2eA+TDvatCerU1gAyEwgvj6X4IfDc3InxKYwVspcWHfQxr0lBhtI8ngDUHDmpyBJeG2MrX91+zjtIMC+us9JjSeAgSjZWj4nz+uyCNYp+bpa9XIhJ21GsHIoJZrrIWUYvt93l2PqCQEBmBCg5Qx7iaoJRADS7SfJsgtMIW3jZfebWD/GbygqHZXAea38f9GbnakorRQLfslgr6hV4IKna33Lw3DvGau2zZuzN3AJS65Q4852QUixc5inlIOqbfxgkzfeVnw4xj3cggur0yVF+/UaS/z2zUBhzst4Bj0A1D1g0z6WmUxVlNCXtzJGelhgpU/NQ9vA=;LwciQYKafG8CV8gDcyv8lA=="
 ---

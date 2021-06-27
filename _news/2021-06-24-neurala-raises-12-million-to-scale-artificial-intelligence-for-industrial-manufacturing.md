@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Powered Lender for Merchants Myos Raises $30 Million Series A Round"
-    excerpt: "Myos has raised $30 million in Series A funding led by Fasanara Capital and Xploration Capital. Tomahawk.VC and a group of new and existing investors also participated in the funding round, according to the company."
-    publishedDateTime: 2021-06-22T13:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/"
+  - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
+    excerpt: "New funding will accelerate the development and commercialization of easy-to-use AI for industrial quality inspections."
+    publishedDateTime: 2021-06-25T21:25:00Z
+    webUrl: "https://www.automation.com/en-us/articles/june-2021/neurala-raises-12-million-artificial-intelligence"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
+      name: Automation
+      domain: automation.com
+    quality: 43
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/markus-spiske-Berlin-Germany-Greetings-Card-Love-copy-300x292.jpg"
-        width: 300
-        height: 292
+      - url: "https://www.automation.com/getmedia/7ae382b3-1e70-4eed-ba57-a78747a30d60/Neurala-news-June-25-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "xCures raises $12.69 million in Series A funding for their AI-powered precision oncology platform"
     excerpt: "PRNewswire/ -- xCures Inc., the leader in the patient-centric use of artificial intelligence (AI) and predictive"

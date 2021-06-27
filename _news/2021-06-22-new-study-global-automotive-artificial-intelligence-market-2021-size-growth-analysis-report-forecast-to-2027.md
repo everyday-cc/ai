@@ -68,17 +68,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
-    publishedDateTime: 2021-06-23T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
 
 secured: "8v6js0cLukfNNKBHYeusXC+woMqqCG/SMWIXc2po379EDbxoCjFqdnhJbv5WkpE/DNOSCAjhYtFMVWktQyXpzyBp7IfQCCTV8Ab/cOJIK6d/JOTS4xI9stpBPC8pYk854rO0tsHJo3z5THaZ9zKN9DrxGT3KFidYirtK9JaZ3W/ovCoqeDJpdBVIXMl4RMpubXadYqX61uxThQ2A2t45JX6zT4lAr57gYoXfwZ63rJgKZ1RFh0858Ld3G1N4ddvTHwtlAdfFjlmY8v57w4vPfRcio/m/laDBCyBvLCBKCicSP47YhzYpO+j029Xy+F1V5FFpViVZfc9cll0xI37ciB2h2NVUCn7Hc345qgifOZ4=;4ETQW55px1YMHpmx+WLbzA=="
 ---

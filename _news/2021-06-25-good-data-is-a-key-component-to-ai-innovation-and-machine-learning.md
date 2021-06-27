@@ -25,50 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "DoD teams to streamline data at combatant commands in AI initiative"
-    excerpt: "Deputy Defense Director Kathleen Hicks announced the formation of units to help U.S. combatant commands better deal with data and artificial intelligence."
-    publishedDateTime: 2021-06-23T17:28:00Z
-    webUrl: "https://www.upi.com/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
-    ampWebUrl: "https://www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/06/23/hicks-dod-ai-aida-data/8161624464536/"
+  - title: "How AI Powers Mobile Innovation"
+    excerpt: "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level."
+    publishedDateTime: 2021-06-22T21:44:00Z
+    webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 57
+      name: CNET
+      domain: cnet.com
+    quality: 67
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/8161624464536/2021/1/16244650918862/v1.5/DoD-teams-to-streamline-data-at-combatant-commands-in-AI-initiative.jpg"
-        width: 800
-        height: 532
+      - url: "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "BREAKING: Pentagon Launches New AI Data Initiative"
-    excerpt: "The Pentagon is kicking off a new artificial intelligence initiative aimed at better curating and managing data, Deputy Secretary of Defense Kathleen Hicks announced June 22. The effort — known as the DoD AI and Data Acceleration initiative,"
-    publishedDateTime: 2021-06-22T15:24:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2021/6/22/pentagon-launches-new-ai-data-initiative"
+  - title: "Chip designers must rethink low power for AI"
+    excerpt: "Implementing AI introduces new power challenges due to smaller, denser and more novel architectures and manufacturing processes."
+    publishedDateTime: 2021-06-23T13:03:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/chip-designers-must-rethink-low-power-for-ai"
     type: article
     provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 37
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 54
     images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/06/istock-1058616412.ashx?h=500&w=878&la=en&hash=BE906264D1949BEBC5DE0388F18A5B94"
-        width: 878
-        height: 500
+      - url: "https://qtxasset.com/fierceelectronics/1624453713/low%20power%20module%20illo.jpg?EfgVUgwSLnc8spXRONnd.saE_wdQc9Yw"
+        width: 712
+        height: 462
         isCached: true
-  - title: "Pentagon launches artificial intelligence effort to prep combatant commands for JADC2"
-    excerpt: "A initiative announced by the deputy secretary of defense will send technical data and AI experts to combatant commands to learn more about their needs for JADC2."
-    publishedDateTime: 2021-06-22T22:13:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/06/22/pentagon-launches-artificial-intelligence-effort-to-prep-combatant-commands-for-jadc2/"
+  - title: "Artificial Intelligence for Education"
+    excerpt: "What learning, teaching, and education will be in the next future is an open question. Nevertheless, believing that an increasing prevalence of AI may not influence the education field seems objectively unlikely."
+    publishedDateTime: 2021-06-23T04:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/23372/artificial-intelligence-for-education"
     type: article
     provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 30
-    images:
-      - url: "https://www.armytimes.com/resizer/VhwPC1AWLt6BV1bUhNwXBXDPKAc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
-        width: 1024
-        height: 681
-        isCached: true
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 34
 
 secured: "CfpKWH8IdlWO9ilf9keg5KP1OxgGNcNij4S/mJcfrrl1pfCFIn9svlH4QvJPYKeXrpFXLrSvRxOzKHuK0z9pC1YD3NGP6dY+XVnAHvGAahFcGnR4Cpxiyp3mGtWPGxLYdtArJyHnNPi05KoK1nVOmXXIeYeeSTVu9fNj7FzxLDdF0rEV5SFOda8tcCy2FuY5Y+TfO0mrIGNOajLvjorzUYhL5cKIXJhVNFAKPTkCAZYONZrRjtEAcgmu2CMkcXoE6TtIKzyaR/Q6q3YhIBNNFPQzPUz+LoJnNZytxfEfaljaICzo7gbZYd+MT6AlaB2JbzValdXLiDvGH2y9FphK9nB29ljTOl3XwB7WrWWDI1A=;v9NLm99LUneSkvOx1gjJJQ=="
 ---

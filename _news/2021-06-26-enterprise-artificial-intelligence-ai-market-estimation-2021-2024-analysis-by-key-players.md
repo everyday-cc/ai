@@ -20,29 +20,56 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence (AI) Market to grow by $ 7.87 Billion in Manufacturing Industry 2021-2025 | Technavio"
-    excerpt: "The artificial intelligence (AI) market in the manufacturing industry is expected to grow by USD 7.87 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence (AI) market in the manufacturing industry in optimistic,"
-    publishedDateTime: 2021-06-22T12:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-market-grow-787-billion-manufacturing-/2021/06/22/9394911.htm"
+  - title: "Artificial Intelligence (AI) in Sport Market Outlook 2021: Big Things are Happening"
+    excerpt: "Artificial AI in Sport Thematic Research is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-06-23T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
     images:
-      - url: "https://mma.prnewswire.com/media/1536590/IRTNTR70613.jpg"
-        width: 400
-        height: 225
+      - url: "https://cdn.openpr.com/U/6/U623836113_g.jpg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
-    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
-    publishedDateTime: 2021-06-22T15:56:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "This report elaborates the market size, market characteristics, and market growth of the Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Artificial Intelligence."
+    publishedDateTime: 2021-06-23T07:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-23"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "Artificial Intelligence in Manufacturing Market is projected to reach USD 18 8 billion by 2027 at a CAGR of 41 over the forecast period 2021 2027 Emerging Industry 4 0 growing large and complex data sets increasing adoption of industrial"
+    publishedDateTime: 2021-06-23T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311494/artificial-intelligence-ai-in-manufacturing-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
+    excerpt: "This study elucidates how the Automotive Artificial Intelligence (AI) market Sizewill perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-06-24T17:53:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/142647/automotive-artificial-intelligence-ai-market-with/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
 
 secured: "Q2Tx3mRxTFQ3RGrlSvrLD6i4X72bNnz6ZfbEd4rSUaIMTa5Rbyn8aR+OiF84yZSkemn6ye4A/bU7HCSLXHFcxjFM++Q/XhuoqkQbmMxdbGay4/MrV6WkKYW6yb/8frHyjPl9TKMOrXfwwftZBqtWJfzem2nbrGzNOH4TTP4MO3ErZ/co0QzeE2/M/vIsEhwIXOHu6ajmLurPMS181/Pz6Y1tpn7dOSli7u5Zvq9bg+9UsmH72NVtKxxkPPGsAJdpPnsAd3QFHSqm2nQeJgt5phohb3ObQUqzBaAIKYtplAUhPXC2Tb993hnZn6vgvKo3a390N9aGxwIGlPDWfhiBg03mASiuoe++tDj6SLmdO8E=;JqPwA1PtYXNGOquUpZRVLA=="
 ---

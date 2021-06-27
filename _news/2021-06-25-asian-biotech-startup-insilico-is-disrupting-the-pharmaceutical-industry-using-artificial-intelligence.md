@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-dis
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/hk-biotech-startup-insilico-disrupting-pharma-industry-with-ai/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "AI drug discovery start-up Insilico raises more than $255m"
-    excerpt: "Hong Kong-based platform has 16 programmes in development including potential cancer and Covid treatmentsRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-06-22T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-drug-discovery-start-up-insilico-raises-more-than-$255m-10262430"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "Lxt/hMCUrJKM6GrIvbSeXMj0tizcQl1kIGXg84WgRRgHvQlJInwESzz7Zi09X/EVObJM13pEx2IsQJqad8Qe6Tavgi0dRs2K+ca6KTXdpVHsIGgbdV0COfI1oksMi6Y/+lW14j4PhcfUuUhVLpVMr4yXpqRDpNXigXoCHhgHqOdQJI9fqulSVLYx1GI3w7xXoJBcgMHWkd0Y+EEV6Oc4bhUukOLmsN80PD8mzUFzGTKPmGJ6NrX7jfsqBZZ6NOBusW57apj1+SWfs4XpDY35Zgb5LHvJHgWqVzare1P1dUpKLfLotIjEa3uXT67+DssNzxP1ePKT4mGldlRl8qTHrnf3KT3y4RwaKTWdkTVkYX8f3M+Pp57GZA92nBourylbNqxvoJYvj8y29JanTf56PmewwrMC58tSIVF8z3pZ9P15yQdSMbcvrR1jRzdfJt9erasrP588VtBukkHToDNUoli7TN46779EJotesvL1RbVRlQVCJhOBvdQBrzf5V/2DH3axYzJ15vjULpXPHOKCSw==;2DQMfSyPyp3vc9xbitp5/A=="
 ---

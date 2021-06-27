@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia launches AI edge and hybrid cloud services to support enterprise workloads"
-    excerpt: "Nvidia is rolling out new services aimed at enabling datacenter and hybrid cloud workloads, particularly those involving AI."
-    publishedDateTime: 2021-06-22T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybrid-cloud-services-to-support-enterprise-workloads/"
-    ampWebUrl: "https://venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybrid-cloud-services-to-support-enterprise-workloads/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/nvidia-launches-ai-edge-and-hybrid-cloud-services-to-support-enterprise-workloads/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1588214925726.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Nvidia’s Canvas AI painting tool instantly turns blobs into realistic landscapes"
     excerpt: "AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest,"
     publishedDateTime: 2021-06-23T21:18:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
         width: 500
         height: 281
-        isCached: true
-  - title: "Nvidia’s LaunchPad delivers instant AI infrastructure in the cloud"
-    excerpt: "AI infrastructure in the cloud and at the network edge. Announced today, the new Nvidia AI LaunchPad program provides customers with instant access to the entire spectrum of Nvidia’s AI computing resources,"
-    publishedDateTime: 2021-06-22T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/22/nvidias-launchpad-delivers-instant-ai-infrastructure-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/NVIDIA-AI-LaunchPad.jpg"
-        width: 2000
-        height: 1260
         isCached: true
   - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
     excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."

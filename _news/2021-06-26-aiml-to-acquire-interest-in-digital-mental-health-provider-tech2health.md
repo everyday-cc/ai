@@ -26,38 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI/ML's Health Gauge Partners with Lenica Research"
-    excerpt: "AI/ML Innovations Inc. (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-06-22T11:40:00Z
-    webUrl: "https://www.lelezard.com/en/news-19867800.html"
+  - title: "Providence-backed Tegria acquires healthcare AI company"
+    excerpt: "Providence's health tech investment portfolio Tegria on June 24 acquired KenSci, a company that provides artificial intelligence platforms and tools to healthcare providers, payers and medical device companies."
+    publishedDateTime: 2021-06-24T14:57:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/providence-backed-tegria-acquires-healthcare-ai-company.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 56
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "AI/ML Innovations Inc.: AI/ML's Health Gauge Partners with Lenica Research"
-    excerpt: "Health Gauge's health information capture technology deploys with Lenica's commercial launch -- Lenica Research is partnered with Microsoft, HTC and more -TORONTO, ON / ACCESSWIRE / June 22, 2021 / AI"
-    publishedDateTime: 2021-06-22T11:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214472-ai-ml-innovations-inc-ai-ml-s-health-gauge-partners-with-lenica-research-200.htm"
+  - title: "Tegria Acquires KenSci to Help Healthcare Organizations Derive New Insights from Data"
+    excerpt: "Tegria today announced the acquisition of KenSci, a leader in artificial intelligence platforms and applications for healthcare, with roots in Microsoft's Azure4Research program and"
+    publishedDateTime: 2021-06-24T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/tegria-acquires-kensci-to-help-healthcare-organizations-derive-new-insights-from-data/article_b74f9345-edb8-57ac-8463-423ce6e57aa3.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 34
-  - title: "AI/ML Innovations Inc.: AI/ML to Acquire Interest in Digital Mental Health Provider, Tech2Health"
-    excerpt: "Tech2Health is well positioned to provide support for the current mental health pandemic, utilizing a unique blend of proprietary digital assets, remote live counselling, and a physical wellness center."
-    publishedDateTime: 2021-06-25T21:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53255234-ai-ml-innovations-inc-ai-ml-to-acquire-interest-in-digital-mental-health-provider-tech2health-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 23
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 12
 
 secured: "5CvgHxm0+dhOJGwzlCJudxCuRUkyC2nbqW41DB45t2xcxtCkaAoZ6UB3Ih+LS34YJF5YQJ1F92MWCwyc473LkcD+EnoO3zzsseCIqecvfD4vN+vzuDpl3LNBUu13mfaqdQmXNH2YyjNrKg0ehCUvsfYKx+6tgYkpfX5dnVIPo4xaFB0OGz2tMOr1ZD3GyVOoKlY+VyOMwOG2Sl8GPsmGQ/w5PvqdtjrgagZUnPKlyY4Dnix4jjMGdE3YvfxKZS55lsPMMBBE76vE1+/ekIcoYj9vorJ1sXluehTR26LXEiTVVFRtz/TtAjNO6M9vtP3LhRwG7N/iHkeuJ4kwaKRxn09wIjIsITFop8w66jBJdWg=;6x3/ObfvZJhGXNOA6pN5Pg=="
 ---

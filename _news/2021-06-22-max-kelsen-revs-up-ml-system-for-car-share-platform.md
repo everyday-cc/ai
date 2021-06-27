@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Max Kelsen revs up ML system for car share platform"
-excerpt: "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour."
-publishedDateTime: 2021-06-22T06:01:00Z
-originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
-webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/"
+excerpt: "Utilising Amazon Web Services (AWS) tech like managed ML service Amazon SageMaker, Max Kelsen built a machine learning application to assist Car Next Door’s investigations team to flag ‘bad ..."
+publishedDateTime: 2021-06-22T05:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
+webUrl: "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-for-car-share-platform/"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 500
     isCached: true
 
-secured: "vKTn/4veTXHnaQWP70T59CKgmAz/wvV1ntOSkYSbGqrJMSxT52kHGloPNNOU5atonlSZx4wyCnJtnKibPeIuOy2OOruSxrk3M5zfbQp6rIcOPlMbueswQX3i2ZrmEAcdNjehNvf/T8BX0R9bbGg4pCqHthHh8lSo5fQ0R9vxDXHb/ErcKKpFJRyBGiOCVzoWv+UDgvEr9A1rRTP4pvZET89djSL1bjTKR72CShZ5MVR+HKg+KGIuKZ5MoF4ezi2kN4L4u1w2S3rikSnb1swZD9u9Pg1+rLsX97W7kMNeEMPSSUaZhUruutrAt/Z5Wmt8P67urXthmJJeXLV3Y/vTvYXfmOGHO2gQY0DKi+KuHsigTpZTo6jML7gv3BO2PMfG4ELdDfGfRKFsFvL6reuocek+/RcXSy/NH+vf2JfD4Su8uoLu3ACG2SYMjI9t/WtPwTdbsxEtz8uEOYqsqtJ5vQQR1B0PVejb6w8FXxmRMMdbRS+9UER37gsKPO73m9j2Lg+Sx+Fm7nw61EjVR2gmPQ==;3tAWj5S3bwiXeaUOpIIJig=="
+secured: "dzGEk7s09m+/U6kK6rSaiBA/Z00LCTHb9QKOiuIi63KsKvefU0OBQKgOy/AJ10Z6o2kKonKmR5Wat3V+OWfpTdO6o7NVQW/rnM9VSR0ClZX7HXPgpJLPGMfIeDRxyxHwg45x0FSY+Jkl8RjsHNKlA3GTVbChnrg6ocMHvEe+4+Qg9vXLqH/OEyDNR8ujFJ16B3gEQJ7BI5EpDt+sW80j5i2kfrdLaFcnHfcOE/sqkWvqNdpGVu4lkqP8EBtdcNGOcB88jQS8CW7HRkddjDJAXDIfLbog8oYQbI7H7a6JLDbJUgUDqKgqyCBBEBQlpFCw4p48oiUASjX2gi6j7sKEOV4L9esZHw3UtvlHO4TGIa8=;TeBDHYyC/bec3dDnQLWyVA=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innova
 webUrl: "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: CNET
@@ -28,36 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help With Your Digital Workflow Transformation Initiatives"
-    excerpt: "If organizations want to get further down the road (faster) in their digital transformation journey, they’re going to need fuel. And not just any type will cut it: They need artificial intelligence. Over the last few years,"
-    publishedDateTime: 2021-06-22T11:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/22/how-ai-can-help-with-your-digital-workflow-transformation-initiatives/amp/"
+  - title: "Chip designers must rethink low power for AI"
+    excerpt: "Implementing AI introduces new power challenges due to smaller, denser and more novel architectures and manufacturing processes."
+    publishedDateTime: 2021-06-23T13:03:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/chip-designers-must-rethink-low-power-for-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d0a4b2ce6895e22530f024%2F0x0.jpg"
-        width: 1200
-        height: 838
+      - url: "https://qtxasset.com/fierceelectronics/1624453713/low%20power%20module%20illo.jpg?EfgVUgwSLnc8spXRONnd.saE_wdQc9Yw"
+        width: 712
+        height: 462
         isCached: true
-  - title: "Hicks Announces New Artificial Intelligence Initiative"
-    excerpt: "The integration of artificial intelligence technology is about trust, and a responsible AI ecosystem is the foundation for that trust, Deputy Defense Secretary Kathleen H. Hicks said."
-    publishedDateTime: 2021-06-22T21:52:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2667212/hicks-announces-new-artificial-intelligence-initiative/"
+  - title: "Good data is a key component to AI innovation and machine learning"
+    excerpt: "They recognize the importance and they’re pushing for more development in the field by making good data available. So data is a very key component of AI and machine learning-based methods. Manocha said AI is as old as the field,"
+    publishedDateTime: 2021-06-24T22:07:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-is-a-key-component-to-ai-innovation-and-machine-learning/"
     type: article
     provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 54
     images:
-      - url: "https://media.defense.gov/2021/Jun/22/2002747251/1280/1280/0/201208-N-PG340-1059.JPG"
-        width: 1280
-        height: 851
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg"
+        width: 2246
+        height: 1335
         isCached: true
+  - title: "Artificial Intelligence for Education"
+    excerpt: "What learning, teaching, and education will be in the next future is an open question. Nevertheless, believing that an increasing prevalence of AI may not influence the education field seems objectively unlikely."
+    publishedDateTime: 2021-06-23T04:23:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/23372/artificial-intelligence-for-education"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 34
 
 secured: "SwfJ4hNW0MGCSOAFnNG7TC4DmbnMS/yjJgRXCFopGCSsg2p3MWgowneCdK1TP7GZjZHCUxC87PhFlYC3yD6ziJ8mchNTPZ4vqYEbxZm1SzJNmQxf/Y0LshHhZeWyt4K170c3NUqtunsqafALrIy4B0Ce0J1S2IXyLgCWLWj/TO15qJhbrp/eZpo4zgUqEltmphpj6hZWiPzPNuJdkdaRqd5C+4W94UYZ0u29wPeABUq3D+uDp2qXPQItSqDD5/3frya2rdKvbPpL+cGKhcRTTqd/4GDJlWgnS061+XahqACo5KDGC+M+XG4dEEtJ6/FR3onWsvxb7W/wYboPV0ptcyckd8kwGHfraZOEfpmKeawJ1BDzD6dE0qiXGZSe8upDaKBJGegeP6WE9sFQnZJzKD73S6yr7wzX5DM8MkaAqNNEbZIMv9/pLLHQmdMjgJ2cRyvJhfmEjSori+WhKAC8JbWSrSuH4jqnUqRMECBg9vwQXEY6VhvZbxsr8dEAXX/rrbAMRu1LDXHn0ezaCev5CQ==;Yxxrij9Bc63xU+BCBDn/Hg=="
 ---

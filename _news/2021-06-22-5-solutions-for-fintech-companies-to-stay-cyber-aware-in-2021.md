@@ -89,22 +89,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Banks Keep Biz Cards, Modernization At The Top Of Their FinTech Collab Agendas"
-    excerpt: "This week's look at the latest in bank-FinTech collaboration finds commercial card enhancements and an overall push towards digitization remain key priorities."
-    publishedDateTime: 2021-06-22T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/bank-fintech-collaboration-card-modernization/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/bank-fintech-collaboration-card-modernization/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/bank-fintech-collaboration-card-modernization/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 55
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/digital-banking-funding-fintech-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
     excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
     publishedDateTime: 2021-06-24T12:00:00Z

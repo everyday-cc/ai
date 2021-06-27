@@ -41,22 +41,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Hyundai Completes Acquisition Of Boston Dynamics As It Enters The World Of Robotics"
-    excerpt: "Hyundai Motor Group has completed its acquisition of a controlling interest in leading robotics company Boston Dynamics in a deal that values the firm at $1.1 billion. Through the deal, Hyundai now owns an 80 per cent stake in Boston Dynamics while SoftBank owns the remaining 20 per cent through one of its affiliates."
-    publishedDateTime: 2021-06-22T11:57:00Z
-    webUrl: "https://www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/"
-    ampWebUrl: "https://www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/06/hyundai-completes-acquisition-of-boston-dynamics-as-it-enters-the-world-of-robotics/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 83
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/06/Hyundai-Boston-Dynamics-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Massachusetts-based robot maker Boston Dynamics acquired by Hyundai Motor Group"
     excerpt: "Controlling interest in the Waltham-based company that makes those unnerving animal-like robots now belongs to the international car company."
     publishedDateTime: 2021-06-22T14:22:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-boston-dynamics-spot-1592330458.jpg?crop=1.00xw:0.959xh;0,0.0276xh&resize=1200:*"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Robotics: Hyundai Acquires Boston Dynamics for US$1.1bn"
-    excerpt: "Hyundai Motor Group’s Strategic Transformation. Valued at US$1.1bn, Hyundai Motor Group (Hyundai) has closed its controlling acquisition of Boston Dynamics - a mobile robotics c"
-    publishedDateTime: 2021-06-22T11:45:00Z
-    webUrl: "https://manufacturingglobal.com/ai-and-automation/robotics-hyundai-acquires-boston-dynamics-usdollar11bn"
-    type: article
-    provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 69
-    images:
-      - url: "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/Press%20photo1.jpg?itok=w20kdBfv"
-        width: 3131
-        height: 2009
         isCached: true
 
 secured: "s335t6tZ51HgrlusY2uGvM5LMiH+Hn2hdSVt2IFSOTh8Zf8ELwBEFP4cjTEhedCC+sj3F85PExP0rdNBYPkKDfAmkUEvat8LubvJOp7SBuJI0s24VkyqYBt8yMddeqoSHSCykmTkE/vajoSWcKhN7x95zdWahvE4Q2nhqqXGjzq8AYB/6Zxnn54+IT1eZ8/xhoCxThEXLhCKFgSct1OrFz1VZSUZT0z1wkFm9rCL+7kR+d+wZJ5mY1oXEI4uO3x2KQdlFvMUFA+e1yiwA+kI1WwknNkYZ+IAy2ans30/XOAQKwYzOWUSoSuPylGhHGWfxn8NE7ySpqaTUa5HVZQk1Hg0W3UvkFkso+Z9uVyK3Wub2VwdQgpN9Xe2n1pyCAZB/8VVPIkbyH+mqCIxiOQpdam0vUUwUsbt/86b/chRdzlXeQbVX2qd1DRjVToLf5UOF+X6BB7Fxi7PEif4n52R5OhFc4GvFiaW9n6Gp46uYffFjtskryNtrBINcIVJFgPpnt/2QnSjLwDk4HZS+Ss2jA==;Xf7j9+cI6N46LBkZv7zNLg=="

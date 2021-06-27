@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/one-way-to-deploy-ai
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/one-way-to-deploy-ai-based-no-code-and-low-code-apps/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Memory.ai, the startup behind time-tracking app Timely, raises $14M to build more AI-based productivity apps"
-    excerpt: "Time is your most valuable asset — as the saying goes — and today a startup called Memory.ai, which is building AI-based productivity tools to help you with your own time management, is announcing some funding to double down on its ambitions: it wants not only to help manage your time,"
-    publishedDateTime: 2021-06-22T12:41:00Z
-    webUrl: "https://techcrunch.com/2021/06/22/memory-ai-the-startup-behind-time-tracking-app-timely-raises-14m-to-build-more-ai-based-productivity-apps/"
-    ampWebUrl: "https://techcrunch.com/2021/06/22/memory-ai-the-startup-behind-time-tracking-app-timely-raises-14m-to-build-more-ai-based-productivity-apps/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/22/memory-ai-the-startup-behind-time-tracking-app-timely-raises-14m-to-build-more-ai-based-productivity-apps/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/03_product.png?w=1024"
-        width: 1024
-        height: 625
-        isCached: true
   - title: "Now Apple Introduces A No-Code AI Platform"
     excerpt: "Trinity is composed of data pipelines, an experiment management system, a user interface, and a containerised deep learning kernel."
     publishedDateTime: 2021-06-26T05:30:00Z

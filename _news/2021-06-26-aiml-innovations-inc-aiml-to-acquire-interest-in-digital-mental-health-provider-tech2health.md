@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53255234-ai-m
 webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53255234-ai-ml-innovations-inc-ai-ml-to-acquire-interest-in-digital-mental-health-provider-tech2health-200.htm"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -18,45 +18,6 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
-
-related:
-  - title: "AI/ML's Health Gauge Partners with Lenica Research"
-    excerpt: "AI/ML Innovations Inc. (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2021-06-22T11:40:00Z
-    webUrl: "https://www.lelezard.com/en/news-19867800.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 56
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "AI/ML to Acquire Interest in Digital Mental Health Provider, Tech2Health"
-    excerpt: "Tech2Health is well positioned to provide support for the current mental health pandemic, utilizing a unique blend of proprietary digital assets, remote live counselling, and a physical wellness center."
-    publishedDateTime: 2021-06-25T20:46:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/europe-mental-health-health-coronavirus-pandemic-technology-2d24016a524a6d1bc5b653a46816a694"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI/ML Innovations Inc.: AI/ML's Health Gauge Partners with Lenica Research"
-    excerpt: "Health Gauge's health information capture technology deploys with Lenica's commercial launch -- Lenica Research is partnered with Microsoft, HTC and more -TORONTO, ON / ACCESSWIRE / June 22, 2021 / AI"
-    publishedDateTime: 2021-06-22T11:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53214472-ai-ml-innovations-inc-ai-ml-s-health-gauge-partners-with-lenica-research-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 34
 
 secured: "Lus/gCRWZW/Q0LRQM5clE260+lZFCxnaTGc9YjdmGWkAeYis62UQNuK5OYW5q+NlWrHf7vepm0iVGYrW81vb8SecffX9U9t9wDpcuekWcqbmCzjdRJAweU+hZ9rw99lXYVAYeB7hAGRghVBWKlCvc4XaIGrbqd43j8k4mbnoD56yrBPCmhPYVLA5jYvzO6htaI1rW9VMZ/wKIvR996+mX+ZpUEOfGHJ1ugdu4V5qnc2S26GfwI8+IQOsek09T3wp4vA0n9dVuyODyLX+xVY2KiVOw6M5UkDL4ymQXqsNKBSvrvy80Cdt+Q3jipp4E0IcjM3nIgO1LbrI41dTWr5EvTIqB9MxotyptJ6Gy4LF5Ok=;DcaL6Wh1SM6lV2hvY64inQ=="
 ---

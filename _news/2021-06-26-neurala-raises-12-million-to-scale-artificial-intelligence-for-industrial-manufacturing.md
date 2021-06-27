@@ -23,6 +23,26 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "xCures raises $12.69 million in Series A funding for their AI-powered precision oncology platform"
+    excerpt: "PRNewswire/ -- xCures Inc., the leader in the patient-centric use of artificial intelligence (AI) and predictive"
+    publishedDateTime: 2021-06-23T15:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/xcures-raises-12-69-million-in-series-a-funding-for-their-ai-powered-precision-oncology-platform-1030547822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
+    excerpt: "Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing. The round, led by Zebra Ventures and Pelion Venture Partners,"
+    publishedDateTime: 2021-06-24T13:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-neurala-raises-12-million-scale-artificial-intelligence-industrial-/2021/06/24/9397228.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+
 secured: "C+RZuGwmcVR+DYMD5GyYN0EOM80MFVCOqyVLQfFxEY5vIN2WBHwpVQDzqvwbZRjFav8c2mddFwP5uiijnwvd0ueezR95+t9F5wHirD6epVPbY3Csqz9jAnPd90mq0f0BFcM/jM3lLyiGj+lIUDV9HMVwTBhSJs4Mdf6YuX5FaL3gV2GC9qqTVrnZgtA9/VqFB9GKoc3jkNPFVV4QFYCk9jRsJ2el5Kg+6pDXixCC8bGJDhfLzi965NAOijELKs2oCniaQOcxAzM23RRAgEMAzwFYVz11iNAw1HnWKwM8fy5L9d4tb4UhInCKLR1+2ZS6HeOenDa8lSdCUfMQvn152PWIDKNdPN3Q6RSJGGkyX3EKIUTUyLGVbfrq+R8jsYMIL/RKpb98IiYbUBHxwxq3Ve3xxKVSUdvf7oLPiveybVeWQqi0qufBVSfk2c9flG82TpBtK5JUpEJAVKcfKDV8r0VUYl97TDjs26FzSXap+S7yHBiR2rCA63ZAw3z/gyk0TBbVKtug/gHeWSqoFW4Zbw==;k8cf5zHA7TeIpb23SuHXmA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelli
 webUrl: "https://www.reseller.co.nz/mediareleases/142322/artificial-intelligence-in-military-market/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence in Military Market expected to grow by US$ 14.82 billion by 2027"
+    excerpt: "The research report on ‘Artificial Intelligence in Military market’ scrutinizes the current industry scenario to predict market size, market share, and projects valuation for different segmentations of the industry over 2021-2027."
+    publishedDateTime: 2021-06-22T15:56:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/142322/artificial-intelligence-in-military-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "gG/Y4igpkVvgf0K9wmOOlOyRnVsFnQdxDkxPoz7xaa9enIifGFn5CQuKBed8YI5QSq2ze5kGn7OlQwndwxpSoCKyZOsNy+ClkfsUz8MnD7oLNrB077wYwWqD03alAZiouU+/4j/F7fdR7TUJiNy7GlqcSeV11CiGGFJDmRLgljIHaO+pB2ec0iwtKb2FHcBnLbDVME40VMsUexuuQu6HjKR8VROCyRhclJGgdvxyVTpimhPWUTFyqZ5yhWsSFkSN5/TMf96kDc++/lLceybuJsSJYEFY52wQzM6x+UmYrlMlHa855XIF9rjceeaoieR1SoVlU5u3M05zz3ifmJvaVNUQNNbIh0h8PHMTk1B6oQk=;ju8zjhgwQX7P3BIr8WritQ=="
 ---
