@@ -3,8 +3,8 @@ category: news
 title: "AppTek's Director of Science to deliver opening keynote address at INTERSPEECH 2021"
 excerpt: "INTERSPEECH is the world's largest and most comprehensive conference on the science and technology of spoken language processing. It is hosted annually by the International Speech Communication Association (ISCA),"
 publishedDateTime: 2021-06-24T12:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397159.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397159.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-appteks-director-science-deliver-opening-keynote-address-interspeech-/2021/06/24/9397159.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-appteks-director-science-deliver-opening-keynote-address-interspeech-/2021/06/24/9397159.htm"
 type: article
 quality: 18
 heat: 18
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "brAzg+DadnH5ZXZZbotHn01QSMg07s0/BHX7fWyemmhf4gYdjrGwnyeTuzIGLYkDDYFrRU2Bw052zNCwk77Su1JVlQWBDQF6J/quIhKMkYDRP/ILb6+alpsV/1VivoAyMwq/l7TYJbv0l9XSvtHm+VYQ8roRqCZuFsZXsHYImkcw6W+WEjaucTwM05wPzYDBtIUAFVIsBSZxrAaBRvCmXBrW6WD/j1Fo6RSezIqvUJumCkFtdudc3LLUT/qDaneSdCsgT+Wvl786kHHQ10zrzLjBNWz4ku17x2ZABaqOtaV+4gisNzgrKz8vRJSERL1c0bwX2JSASoATNh2p8id8NA+88vrjNWJzrZS28QY1QzYSRI90pQYOFh1XG0xlMBfJEPlY2mSDgbrspWKKcQHXt1rKyYQOgDZiEgemJMqJI9MX+TA7hpjj5NHhPmC4Sx2ido/0aDIyHBZXShMqEI8Wk+g4iv5zcfb8M1BvtAAVpCSSOQ+Nsf+cIIMrNd5BBfpsGWyHsPMyJ/uKfdpMStm5Nw==;Qm5PWRkoD6Sr937p46ibIQ=="
+secured: "c2HdRlh/x5SmC86FXr0cHu8k6hDXtvOjsL5tDKQtwqn57tC8rEnAV45FC7J3J1cfWRCpA2XZY7n7CMTsAl7jAwnsdTP+Gbr0hzZ/MCA+R7iKZ2IX+On/kPY9j9fB8To7VupSL6CPefBBY2cZP08xbHisaoL7xaNpj/bNs2FgYYI5pTVv878WYuyabxygG032fHM5ba7cRSRi6+xTm9dJP0Ami9sVofmoqUAL6L0XOBEMyJoRD2ytC19UYZtUN4WRAMpDHvMjPPN397ibg9ZXdc98TwvSWjEgTIyCEs6dYelEtbKNRvLrSMboHcL1Ek1NUxID7zNGpZ1bUUnXLS+GWwWxXpyGIb3G9df7eCy7mmI=;BWaLQJbGn2Xe8E0ZLSXeuQ=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
+    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
+    publishedDateTime: 2021-06-27T15:05:00Z
+    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
+        width: 665
+        height: 435
+        isCached: true
   - title: "Voice Assistant Market Size USD 7.30 Billion by 2025, Registering a 24.32% CAGR - Report by Market Research Future (MRFR)"
     excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Voice Assistant Market - Information by Technology, Hardware and Application - Forecast till 2025\" the market valuation stood at USD 1."
     publishedDateTime: 2021-06-23T16:10:00Z

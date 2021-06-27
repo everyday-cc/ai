@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Is taking over our gadgets"
+    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
+    publishedDateTime: 2021-06-27T15:15:00Z
+    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624806291279.html"
+    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://images.livemint.com/img/2021/06/27/600x338/371939990_0-5_1624806727936_1624806748698.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "3 ways AI is being used for good"
     excerpt: "As health providers increasingly come to rely on AI systems during this pandemic and into the future, and governments across the globe consider way.."
     publishedDateTime: 2021-06-23T07:40:00Z
@@ -45,22 +61,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-83772714,imgsize-77735,width-800,height-434,overlay-etcio/3-ways-ai-is-being-used-for-good.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "How AI Is taking over our gadgets"
-    excerpt: "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
-    publishedDateTime: 2021-06-27T15:15:00Z
-    webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets-11624806291279.html"
-    ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/06/27/600x338/371939990_0-5_1624806727936_1624806748698.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "How AI-powered pricing is shaping the customer experience"
     excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"

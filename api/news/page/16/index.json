@@ -2,6 +2,91 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-14-14-ways-ai-could-become-a-detriment-to-society.md",
+      "title": "14 Ways AI Could Become A Detriment To Society",
+      "excerpt": "While AI is an incredibly useful tool, it’s important for governments, businesses and the public at large to be aware of what can happen if AI is used indiscriminately or without diligent human oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3d534fbe0931473b4012e%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/14/14-ways-ai-could-become-a-detriment-to-society/amp/",
+      "publishedDateTime": "2021-06-14T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-techx-appoints-dr-john-henderson-as-coo-and-chris-lafrance-as-product-manager-to-strengthen-its-position-as-a-global-fintech-leader.md",
+      "title": "TechX Appoints Dr. John Henderson as COO and Chris Lafrance as Product Manager to Strengthen its Position as a Global Fintech Leader",
+      "excerpt": "Dr. John Henderson - COO, TechX Technologies Inc. Dr. Henderson's career in institutional equity sales and corporate finance began at PI Financial, Jennings Capital and Intrynsyc Capital. John was responsible for analyzing and financing technology based venture level companies and it sparked a lifelong pursuit in innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-techx-appoints-dr-john-henderson-as-coo-chris-/2021/06/14/9389406.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-techx-appoints-dr-john-henderson-as-coo-chris-/2021/06/14/9389406.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-building-stronger-teams-with-human-and-machine-intelligence.md",
       "title": "Building Stronger Teams With Human And Machine Intelligence",
       "excerpt": "Stay away from solutions that make it difficult to communicate across teams and collaborate with individuals and teams outside the organization.",
@@ -1042,100 +1127,6 @@
         "Google AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-the-hard-truth-why-we-push-back-on-ai-when-discussing-diversity-and-recruitment.md",
-      "title": "The Hard Truth - Why We Push Back On AI When Discussing Diversity And Recruitment",
-      "excerpt": "The processes around recruitment are continuously scrutinized as organizations consciously implement interventions to minimize biases; for example, blind CVs and unconscious bias training for individuals on interview panels are two of the most common examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c47dead5a2f25eacb4012e%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "publishedDateTime": "2021-06-12T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
-      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
-      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
-          "width": 720,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "publishedDateTime": "2021-06-12T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-06-17-fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry.md",
+      "title": "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry",
+      "excerpt": "Financial technology leader FIS ® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to help capital markets firms tap into the power of their organizational data to increase efficiency and better manage regulatory compliance and risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/",
+      "originalUrl": "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-researchers-develop-a-deep-learning-method-able-to-animate-portions-of-a-photo.md",
       "title": "Researchers develop a deep learning method able to animate portions of a photo",
       "excerpt": "Typically, that perceived motion is just a trick of our minds. Researchers at the University of Washington have developed a new deep learning method that can animate certain portions of a photograph, turning it into a video. The UW deep learning method can ...",
@@ -1136,57 +1170,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-andrew-ng-launches-a-campaign-for-data-centric-ai.md",
-      "title": "Andrew Ng Launches A Campaign For Data-Centric AI",
-      "excerpt": "Data is eating the world so Andrew Ng wants to make sure we radically improve its quality. “Data is food for AI,” says Ng, and he is launching a campaign to shift the focus of AI practitioners from model/algorithm development to the quality of the data they use to train the models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca126ba855f33fa414d23f%2F0x0.jpg",
-          "width": 1200,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/amp/",
-      "publishedDateTime": "2021-06-16T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

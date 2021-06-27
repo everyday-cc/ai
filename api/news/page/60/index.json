@@ -2,6 +2,109 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-05-13-chef-robotics-raises-77m-to-help-automate-kitchens.md",
+      "title": "Chef Robotics raises $7.7M to help automate kitchens",
+      "excerpt": "A year and a half’s worth of global pandemic has had a profound impact on virtually every sector of the workforce. When it comes to future automation food prep isn’t quite at the top of the list (that distinction likely goes to warehouse fulfillment,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
+      "originalUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-913931820.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/13/chef-robotics-raises-7-7m-to-help-automate-kitchens/amp/",
+      "publishedDateTime": "2021-05-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40.md",
+      "title": "These noise-cancelling earbuds use AI to protect you out in the world. And they’re under $40.",
+      "excerpt": "Sponsored Deals Thankfully, the bar on that process has been raised with the xFyro Active Noise Cancelling AI-Powered Wireless Earbuds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
+      "originalUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/sale_226505_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/13/these-noise-cancelling-earbuds-use-ai-to-protect-you-out-in-the-world-and-theyre-under-40/amp/",
+      "publishedDateTime": "2021-05-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-infosys-collaborates-with-rxr-realty-to-develop-a-smart-office-platform-running-on-microsoft-azure-for-safe-return-to-work.md",
       "title": "Infosys Collaborates with RXR Realty to Develop a Smart Office Platform Running on Microsoft Azure for Safe Return to Work",
       "excerpt": "Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting, has collaborated with RXR Realty to build and deploy a comprehensive,",
@@ -1040,110 +1143,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-dell-jumps-head-first-into-consumption-based-computing-with-apex.md",
-      "title": "Dell Jumps Head First Into Consumption-Based Computing With APEX",
-      "excerpt": "Senior Analyst, Servers Matt Kimball dives deeper as Dell Tech World came and went last night. Front and center was APEX, the company's consumption-based offering that enables companies of all sizes to consume IT infrastructure and solutions in a cloud-like fashion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609cae73e264b28942d29957%2F0x0.jpg",
-          "width": 1199,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/05/13/dell-jumps-head-first-into-consumption-based-computing-with-apex/amp/",
-      "publishedDateTime": "2021-05-12T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-samsung-raises-spending-in-logic-chip-businesses-to-151-billion.md",
-      "title": "Samsung raises spending in logic chip businesses to $151 billion",
-      "excerpt": "Samsung is adding another 38 trillion won, around $33.5 billion, to its prior commitment to inject 133 trillion won into its logic business in a bid to become the world leader in that space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
-      "originalUrl": "https://www.zdnet.com/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2020/05/21/8398c9a5-4f60-4ea8-b3ff-142a685d34cd/2.jpg",
-          "width": 2077,
-          "height": 1427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-raises-spending-in-logic-chip-businesses-to-151-billion/",
-      "publishedDateTime": "2021-05-12T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

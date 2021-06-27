@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-27-artificial-intelligence-is-taking-over-android-app-development.md",
+      "title": "Artificial Intelligence is Taking Over Android App Development",
+      "excerpt": "AI in app development is having a huge impact. Read on to see some of the ways AI is changing Android app development.",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/",
+      "originalUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techbooky.com/wp-content/uploads/2021/05/ai-android-app-devt.jpeg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/artificial-intelligence-is-taking-over-android-app-development/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/artificial-intelligence-is-taking-over-android-app-development/?amp=1",
+      "publishedDateTime": "2021-05-27T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-artificial-intelligence-in-security-market-trends-2021-major-manufacturers-share-and-competitive-landscape-forecast-to-2030.md",
       "title": "Artificial Intelligence in Security Market: Trends 2021: Major Manufacturers, Share and Competitive Landscape Forecast to 2030",
       "excerpt": "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Security",
@@ -1262,41 +1305,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-artificial-intelligence-in-healthcare-market-globally-expected-to-drive-growth-through-2021-2027-intel-ibm-google-microsoft-general-vision.md",
-      "title": "Artificial Intelligence in Healthcare Market Globally Expected to Drive Growth through 2021-2027 | Intel, IBM, Google, Microsoft, General Vision",
-      "excerpt": "The Global Artificial Intelligence in Healthcare Market size is expected to grow from USD 4.9 billion in 2020 and reach USD 45.2 billion by 2027; it is projected to grow at a CAGR of 44.9% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/18/artificial-intelligence-in-healthcare-market-globally-expected-to-drive-growth-through-2021-2027-intel-ibm-google-microsoft-general-vision/",
-      "originalUrl": "https://ksusentinel.com/2021/05/18/artificial-intelligence-in-healthcare-market-globally-expected-to-drive-growth-through-2021-2027-intel-ibm-google-microsoft-general-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

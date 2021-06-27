@@ -2,6 +2,101 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-06-04-china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model.md",
+      "title": "China outstrips GPT-3 with even more ambitious AI language model",
+      "excerpt": "A Chinese AI institute has unveiled a new natural language processing ( NLP) model that is even more sophisticated than those created by both Google and OpenAI. The WuDao 2.0 model was created by the Beijing Academy of Artificial Intelligence (BAAI) and developed with the help of over 100 scientists from multiple organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
+      "originalUrl": "https://www.techradar.com/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/o32fPtrBni3aBQR3wyWqqE-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/china-outstrips-gpt-3-with-even-more-ambitious-ai-language-model",
+      "publishedDateTime": "2021-06-03T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic.md",
+      "title": "LGBT+ conversion therapy: banned on Facebook, but thriving in Arabic",
+      "excerpt": "When he was growing up in a small Egyptian town outside Cairo, Omar began feeling sexually attracted to other men. Too afraid to talk to family or friends, he turned to Facebook for help,",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic",
+      "originalUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technology.inquirer.net/files/2021/06/facebook-lgbt-620x413.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/110053/lgbt-conversion-therapy-banned-on-facebook-but-thriving-in-arabic/amp",
+      "publishedDateTime": "2021-06-03T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-an-update-on-our-racial-justice-efforts.md",
       "title": "An update on our racial justice efforts",
       "excerpt": "To help combat racism and advance racial equity, we've made donations to organisations that support Black communities in the AI/ML space.",
@@ -1089,111 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-machine-learning-as-a-service-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027.md",
-      "title": "Machine Learning as a Service Market Industry: A Latest Research Report to Share Market Insights and Dynamics 2021-2027",
-      "excerpt": "The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report Here:  The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-06-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-industry-a-latest-research-report-to-share-market-insights-and-dynamics-2021-2027-2021-06-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-foundations-of-trustworthy-ai-how-to-conduct-trustworthy-ai-assessment-and-mitigation.md",
-      "title": "Foundations of trustworthy AI: How to conduct trustworthy AI assessment and mitigation",
-      "excerpt": "The ability of artificial intelligence to perform important business tasks has grown by leaps and bounds in recent years. As AI has progressed from a proof of concept to powering critical enterprise workflows, it has become increasingly apparent that this general-purpose technology must be assessed in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/trustworthy-ai-assessment-mitigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/blog_assess-risk_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T09:30:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

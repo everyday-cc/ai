@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-g
 ampWebUrl: "https://www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/how-ai-is-taking-over-our-gadgets/amp-11624806291279.html"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.livemint.com/img/2021/06/27/600x338/371939990_0-5_1624806727936_1624806748698.jpg"
@@ -74,6 +75,6 @@ related:
         height: 450
         isCached: true
 
-secured: "GT6ZaWj06dYSUBVCWUQVQqKJ8f0CScjV7L7jDHOBnxYQAO9hr/YetshZtJ5MEt+wzCrPlNsGMtHQzKq6XEQoUgd/MmM8f84+h3JbHy2nX7MScRyvwQnMH/va8kgv2h6WItdz92yFPeQtvh2l2oW0rrsZBbcQaQw0DR+IrJth2RuUCataW6VAoSGfM92+cgYRViZB5pKuZy+vhP2/xoRzJmWPLrL2JnpMZy9XY7Qe/BIY1a7uV45QmvPjipw18MlhhLatoGRLUrxPzoFR6QrHyiKGRHeReqZXvS1QRE/XcB5+BLNzLrIFnOZB2gxYDJoseOCY6t4/A3z69t/zdlgdECxZK9fHgi2G2xzhyou+Scs=;Ca+U+WDXet9sHM89A46cVQ=="
+secured: "vvjUwxk4sX5g3FhdVcKcT47/gmCtBqCOkYpPnMhB+y01HbyjA6PvUoaixh7HK+yLUtsCrZwTaFv47mE2h7Rw+RMvZHNVYRoVT8zYk+RV/iBgjDVD0fvVrr9q8sDGOu+XbkCz97bzMhz339+ElBqcqSZRQET2u+aBYO4KTci8GkX0PuXWJI0FdeLtEAJEiEsyerCrK7CuTs4IQOPEueEhMC2EKXh3mlXgPpev1LNhE7InRLzNWjp46xXmBe5TplKUMFXvlZhSETC98Phs2fhaZZianhV0J+lISrk3t4+U5/OPSrIe/K0QQJ6Ph/bXp7cJ/6IO23cfXjETduduVO5Y7KjRgwSQgR0lee+z1WCdH3/ZWSDR7S/JkScw9yUHcbTCSelIpY8ysqir1CijVJq91C9BjusBOy2X5CP7Q0lXe1q4WtE7/DeVj+4H3JyuaRzCOGjPNhwHKPyF/8jpd8xQaZDfR6G+k0ha10B5fZXjiE6KuXkSfTmc3wsrg2eHnGVjmLbWcJ59Kw/kmeQN0QlEiQ==;Xg1kpaNvZwc5I+czYDFWsg=="
 ---
 

@@ -2,6 +2,83 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-06-11-kontron-launches-smarc-fa3399-with-arm-rockchip-processor-for-ai-based-pos-applications.md",
+      "title": "Kontron Launches SMARC-fA3399 with Arm® Rockchip Processor for AI-based PoS-applications",
+      "excerpt": "Kontron, a leading global provider of IoT/Embedded Computing Technology (ECT), launches the new SMARC module fA3399 with Arm® processor Rockchip RK3399K. In the benchmark of Arm®-based modules, the new Kontron module has the highest performance compared to its price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
+      "originalUrl": "https://www.newswiretoday.com/news/175579/Kontron-Launches-SMARC-fA3399-with-Arm-Rockchip-Processor-for-AI-based-PoS-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-artificial-intelligence-startup-datarobot-seeks-to-raise-500-mln-sources.md",
+      "title": "Artificial intelligence startup DataRobot seeks to raise $500 mln-sources",
+      "excerpt": "DataRobot is in advanced discussions to raise fresh capital of about $500 million in a funding round that could value the machine learning startup at more than $7 billion, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
+      "originalUrl": "https://www.reuters.com/article/datarobot-funding-idUSL2N2NR1QC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2NR1QC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2NR1QC",
+      "publishedDateTime": "2021-06-10T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-fix-the-use-of-dna-data-and-facial-recognition-software-not-ban-it-commentary.md",
       "title": "Fix the use of DNA data and facial recognition software, not ban it | COMMENTARY",
       "excerpt": "The use of facial recognition technology needs fixing. There’s no doubt about. Let’s fix it rather than throw it out the door.",
@@ -1082,110 +1159,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-microsoft-says-cryptomining-attacks-are-targeting-kubernetes.md",
-      "title": "Microsoft says cryptomining attacks are targeting Kubernetes",
-      "excerpt": "Cybersecurity experts at Microsoft have shared details about a new campaign that is attacking Kubeflow workloads to deploy malicious pods in Kubernetes clusters that are then used for mining cryptocurrency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "originalUrl": "https://www.techradar.com/in/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yaTc7yRkfydWWSj2tD8dGH-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-says-cryptomining-attacks-are-targeting-kubernetes",
-      "publishedDateTime": "2021-06-10T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-ai-startup-eightfold-valued-at-21b-in-softbank-led-220m-funding.md",
-      "title": "AI startup Eightfold valued at $2.1B in SoftBank-led $220M funding",
-      "excerpt": "Eightfold AI, a startup which uses deep learning and artificial intelligence to help companies find, recruit and retain workers, said on Thursday it has raised $220 million in a new round as it looks to accelerate its growth.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/",
-      "originalUrl": "https://techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Eightfold_Building.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/ai-startup-eightfold-valued-at-2-1b-in-softbank-led-220m-funding/amp/",
-      "publishedDateTime": "2021-06-10T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

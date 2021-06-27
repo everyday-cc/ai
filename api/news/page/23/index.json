@@ -2,6 +2,91 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-06-08-el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology.md",
+      "title": "El Camino Health is First in California to Offer Cancer Patients Innovative Ethos™ Adaptive Intelligence™ Radiation Technology",
+      "excerpt": "El Camino Health is now one of just five in the U.S. and the first health system in the state of California to offer cancer patients",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/el-camino-health-is-first-in-california-to-offer-cancer-patients-innovative-ethos-adaptive-intelligence-radiation-technology-301307471.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-08-why-is-artificial-intelligence-the-fastest-growing-industry.md",
+      "title": "Why is Artificial Intelligence the fastest growing industry?",
+      "excerpt": "In recent years, Artificial Intelligence has become the industry with the highest growth in the world and, consequently, it has transformed our way of living, producing and relating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/373983",
+      "originalUrl": "https://www.entrepreneur.com/article/373983",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1623160707-inteligencia-artificial.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/373983",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/373983",
+      "publishedDateTime": "2021-06-08T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-snowflake-previews-data-marketplace-governance-tools-management-features.md",
       "title": "Snowflake previews data marketplace, governance tools, management features",
       "excerpt": "Snowflake today previewed a slew of capabilities for its cloud platform to address data monetization, governance, and performance.",
@@ -1088,100 +1173,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-razer-sets-its-sights-on-saving-the-seven-seas-with-smart-robots.md",
-      "title": "Razer sets its sights on saving the seven seas with smart robots",
-      "excerpt": "ClearBot is a Hong Kong-based startup that, with Razer's help ... \"The newly designed and fully automated robot is armed with cutting-edge AI and machine learning capabilities that can detect marine plastics within two meters in rough waters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "originalUrl": "https://www.pcgamer.com/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ArX5GiV6iXsKD7fnbtaKY6-480-80.png",
-          "width": 480,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/razer-sustainability-clearbot-ocean-clean-startup-green-fund/",
-      "publishedDateTime": "2021-06-07T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-video-chat-apps-tout-inclusive-ai-features.md",
-      "title": "Video chat apps tout ‘inclusive’ AI features",
-      "excerpt": "Video conferencing services such as Google and Cisco are increasingly relying on AI to improve the chat user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1224957012.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/07/video-chat-apps-tout-inclusive-ai-features/amp/",
-      "publishedDateTime": "2021-06-07T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

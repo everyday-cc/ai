@@ -39,6 +39,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Quickens Process of Stem Cell Therapy"
+    excerpt: "Stem cell therapy has exploded in popularity within the last few years given its incredible ability to act as a regenerative medicine. However, researchers and clinicians have traditionally had to evaluate stem cell quality by observing each individual cell under a microscope,"
+    publishedDateTime: 2021-06-26T19:36:00Z
+    webUrl: "https://www.unite.ai/ai-quickens-process-of-stem-cell-therapy/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-3a3RPmBh/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/06/molecule-2082634_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI spots healthy stem cells quickly and accurately"
     excerpt: "Stem cell therapy is at the cutting edge of regenerative medicine, but until now researchers and clinicians have had to painstakingly evaluate stem cell quality by looking at each cell individually under a microscope."
     publishedDateTime: 2021-06-23T15:25:00Z

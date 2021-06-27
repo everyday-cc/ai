@@ -49,38 +49,6 @@ related:
         width: 700
         height: 337
         isCached: true
-  - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
-    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
-    publishedDateTime: 2021-06-22T23:31:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
-  - title: "Nvidia Expands AI Stack, Stretches From Cloud To Co-Location"
-    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
-    publishedDateTime: 2021-06-22T23:33:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
   - title: "NVIDIA Canvas is an AI-powered tool that turns your sketches into photorealistic scenes"
     excerpt: "NVIDIA showed off a new AI project, GauGAN. The tool turned sketches and doodles into photorealistic scenes. Now known as NVIDIA Canvas, the tool is ready for the public, and it promises impressive results."
     publishedDateTime: 2021-06-24T18:42:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
+      "title": "Technical University of Munich: Experience key players from robotics and AI live",
+      "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "originalUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-Logo_of_the_Technical_University_of_Munich.svg-1024x783.png",
+          "width": 1024,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
+      "publishedDateTime": "2021-05-30T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-29-mind-controlled-robot-arm-allows-paralyzed-man-to-drink-beer-like-a-boss.md",
       "title": "Mind-controlled robot arm allows paralyzed man to drink beer like a boss",
       "excerpt": "Featured Video Hide Just ask Erik G. Sorto, who hasn’t had the use of his limbs for 12 years: Thanks to a new prosthetic robot arm that he actually controls with his mind, dude can now kick ...",
@@ -1345,49 +1388,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-21-human-like-robot-creates-creepy-self-portraits.md",
-      "title": "Human-like robot creates creepy self-portraits",
-      "excerpt": "Da's new self-portraits are a combination of constantly updated AI, inbuilt programming and advanced robotics. The eyes are actually cameras that allow the robot to \"look\" at what she is painting or sculpting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
-      "originalUrl": "https://www.livescience.com/robot-artist-self-portraits.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BWaS5TwUQjXyzM3UTETud6-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livescience.com/amp/robot-artist-self-portraits.html",
-      "cdnAmpWebUrl": "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/robot-artist-self-portraits.html",
-      "publishedDateTime": "2021-05-21T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Live Science",
-        "domain": "livescience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

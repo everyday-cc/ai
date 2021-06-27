@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-06-18-liveperson-wins-30-million-from-247ai-in-trade-secret-verdict.md",
+      "title": "LivePerson wins $30 million from [24]7.ai in trade-secret verdict",
+      "excerpt": "A jury in an Oakland federal court awarded conversation software company LivePerson Inc more than $30 million on Thursday for competitor 247.ai Inc's misuse of trade secrets related to LivePerson's clients Optus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/asJmFhVXURwCCvxfEe7Pllnhks8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MNJ43JOA5K6LKK6NGX6HTFRGI.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
       "title": "Ethical AI will not see broad adoption by 2030, study suggests",
       "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
@@ -1161,40 +1212,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry.md",
-      "title": "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry",
-      "excerpt": "Financial technology leader FIS ® (NYSE: FIS) today announced the first in a new series of solutions developed in partnership with C3 AI (NYSE: AI) to help capital markets firms tap into the power of their organizational data to increase efficiency and better manage regulatory compliance and risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/",
-      "originalUrl": "https://www.financialbuzz.com/fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -24,24 +24,6 @@ images:
     height: 246
     isCached: true
 
-related:
-  - title: "Partnership announced to improve health care for patients while increasing workforce development"
-    excerpt: "Employment data shows the skilled trade labor shortage is growing. However, leaders with Prisma Health are working with a medical technology company to not only train skilled workers but also"
-    publishedDateTime: 2021-06-23T00:04:00Z
-    webUrl: "https://www.wspa.com/news/partnership-announced-to-improve-health-care-for-patients-while-increasing-workforce-development/"
-    ampWebUrl: "https://www.wspa.com/news/partnership-announced-to-improve-health-care-for-patients-while-increasing-workforce-development/amp/"
-    cdnAmpWebUrl: "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/partnership-announced-to-improve-health-care-for-patients-while-increasing-workforce-development/amp/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 31
-    images:
-      - url: "https://www.wspa.com/wp-content/uploads/sites/53/2021/06/Capture-12.png?w=1280"
-        width: 546
-        height: 304
-        isCached: true
-
 secured: "+kjy61yAbiAVjzhjCQjuNzRqyNO8+Ngpgyg/0nTVyOWrVujRz8gcXqKA/1DA+Fuc7Hw9Gklm3JGHbXbaTIwLawKylhBSTqAtANhK40eSC3AA1aqGM7tLIzofVO/5/GO0kvmf6/h/MUNHsaFgtStIyN7ZYfticeSl2ozUZsChMkZmnkT/LmFN7Tf1aigH+Kb00KNlIKlh7w6Bk95utQNI0E0UNY0AUSd/wtAvjCuQY4FzBY/98+2fAfY6+U8iS9NI+YUQUBVje8B5cKsbB5+duqkOXWX6ux6IZoxVacKF7b2rEck7DsN9RfIKMTvHenKQy+oCZmb1iE5bTks3jsv/IlcJyqtmlghWGqTTUn0X+VncT26IL/+CfBKcWg69lrlKazg7yPGKutQaEZz8QTNKXi/zpL/5I86JYm0Bh244/7ju/P6ACii3Cg1srMMsmtHBNmJuqCDiws5dP3/gFD3yDzkeYRx1Y2VpSKFReP9DOqjLxJOV027jsUxaG+9zxMAS+xSLuolJLonxwLTiBEjPPQ==;lzs7ab2GT5Vq1zRqHs5uZA=="
 ---
 

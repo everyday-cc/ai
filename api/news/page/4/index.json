@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-23-imaginary-and-wiselywise-partner-for-artificial-intelligence-training.md",
+      "title": "IMAGINARY and WiselyWise partner for Artificial Intelligence Training",
+      "excerpt": "Artificial Intelligence is impacting society in multiple ways and requires new Skills to manage the impact IMAGINARY an award winning non profit from Germany and WiselyWise a leading Global EdTech from Singapore today announced their partnership",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "originalUrl": "https://www.openpr.com/news/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U623323287_g.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "publishedDateTime": "2021-06-23T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
       "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
       "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
@@ -1155,57 +1197,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-techsees-ai-can-recognize-devices-and-guide-users-through-setup.md",
-      "title": "TechSee’s AI can recognize devices and guide users through setup",
-      "excerpt": "TechSee's new Eve Cortex platform leverages AI, machine learning, and augmented reality to help users set up new devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/techsees-ai-platform-learns-to-recognize-and-guide-users-through-devices-setups/amp/",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

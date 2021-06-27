@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-06-artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027.md",
+      "title": "Artificial Intelligence for Edge Devices Market [ PDF ] To Witness Significant Growth By 2021-2027",
+      "excerpt": "New Analysis Of Artificial Intelligence for Edge Devices Market overview, spend analysis, imports, segmentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-pdf-to-witness-significant-growth-by-2021-2027-2021-06-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-06T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-06-elon-musk-hails-israeli-startup-as-the-robot-future.md",
       "title": "Elon Musk hails Israeli startup as the ‘robot future’",
       "excerpt": "Fast-growing BionicHIVE transforms warehouses into automated hubs, with robots scaling shelves to retrieve and distribute packages",
@@ -1386,49 +1438,6 @@
       "provider": {
         "name": "The Standard Digital",
         "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-30-technical-university-of-munich-experience-key-players-from-robotics-and-ai-live.md",
-      "title": "Technical University of Munich: Experience key players from robotics and AI live",
-      "excerpt": "Automatica sprint is an independent offshoot of automatica, the world’s leading marketplace for automated smart production, usually held every two years at the Messe München trade fair facility. Due to the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "originalUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/1200px-Logo_of_the_Technical_University_of_Munich.svg-1024x783.png",
-          "width": 1024,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-experience-key-players-from-robotics-and-ai-live/",
-      "publishedDateTime": "2021-05-30T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
         "images": null,
         "publishers": null,
         "authors": null

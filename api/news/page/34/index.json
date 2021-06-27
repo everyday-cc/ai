@@ -2,6 +2,110 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-06-01-something-bothering-you-tell-it-to-woebot.md",
+      "title": "Something Bothering You? Tell It to Woebot.",
+      "excerpt": "But Woebot, which was introduced in 2017, is one of only a handful of apps that use artificial intelligence to deploy the principles of cognitive behavioral therapy, a common technique used to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/01/science/01SCI-WOEBOT/01SCI-WOEBOT-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.amp.html",
+      "publishedDateTime": "2021-05-31T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-azure-arc-bringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments.md",
+      "title": "Azure Arc - Bringing The Best Of The Public Cloud To Hybrid And Multi-Cloud Environments",
+      "excerpt": "Microsoft is one of the first companies to exploit Kubernetes as the foundation for its hybrid and multi-cloud strategy. In just two years, it ported a dozen managed services to Kubernetes, branding them as Arc-enabled services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b5c3a5b8ac6ccbc84c9ae8%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/01/azure-arcbringing-the-best-of-the-public-cloud-to-hybrid-and-multi-cloud-environments/amp/",
+      "publishedDateTime": "2021-05-31T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-udacity-issues-a-two-month-free-course-on-aws-machine-learning-foundation.md",
       "title": "Udacity Issues a Two-Month Free Course on AWS Machine Learning Foundation",
       "excerpt": "Udacity announced last week the launch of a new version of its AWS Machine Learning Foundations course with AWS (Amazon Web Services). It’s two months, free course for beginners with little to no experience in the area.",
@@ -1022,82 +1126,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-dawinks-korean-fintech-company-becoming-the-flagbearer-of-digital-foreign-remittance-atm-and-pos-in-the-world.md",
-      "title": "DAWINKS: Korean Fintech Company becoming the flagbearer of Digital Foreign Remittance, ATM, and POS in the world",
-      "excerpt": "When the world is witnessing the peak of digitization in times of pandemic, DAWINKS has been successful in shaking up fintech technology. For the past 16 years, the company has already established a significant market for its KYC and adult authentication service based on its patented technology for detecting ID cards and passport-related frauds/forgery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-dawinks-korean-fintech-company-becoming-flagbearer-digital-foreign-/2021/05/31/9380566.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-dawinks-korean-fintech-company-becoming-flagbearer-digital-foreign-/2021/05/31/9380566.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-31-why-ai-transformations-should-start-with-pricing.md",
-      "title": "Why AI Transformations Should Start with Pricing",
-      "excerpt": "Many companies want to apply AI to improve their processes. Those that focus first on pricing tend to get better results faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bcg.com/publications/2021/ai-pricing-tranformations",
-      "originalUrl": "https://www.bcg.com/publications/2021/ai-pricing-tranformations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://web-assets.bcg.com/dims4/default/ba82f0f/2147483647/strip/true/crop/2880x1512+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Ff4%2Ff6%2F9b32cba34911a899dc4566f5b0d7%2Fai-pricing-rectangle.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-31T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BCG",
-        "domain": "bcg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

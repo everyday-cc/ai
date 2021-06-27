@@ -57,38 +57,6 @@ related:
         width: 700
         height: 337
         isCached: true
-  - title: "Nvidia Expands AI Stack, Expands From Cloud To Co-Lo"
-    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
-    publishedDateTime: 2021-06-22T23:31:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
-  - title: "Nvidia Expands AI Stack, Stretches From Cloud To Co-Location"
-    excerpt: "Everybody wants to build a platform, hence the name of this publication. When it comes to AI, some organizations want to cobble together their own"
-    publishedDateTime: 2021-06-22T23:33:00Z
-    webUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/"
-    ampWebUrl: "https://www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/06/22/nvidia-expands-ai-stack-expands-from-cloud-to-co-lo/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
   - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
     excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
     publishedDateTime: 2021-06-24T23:00:00Z
