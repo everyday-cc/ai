@@ -1,7 +1,7 @@
 ---
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-excerpt: "IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising,"
+excerpt: "This work aligns with IBM Watson Advertising's overarching mission to make AI the catalyst for improving solutions, services and trust in the advertising ecosystem, and builds upon IBM's ..."
 publishedDateTime: 2021-06-24T11:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
@@ -112,6 +112,6 @@ related:
       domain: benzinga.com
     quality: 39
 
-secured: "vD+53sGPI77RmDbsGEHMHEWOsA1XqAPynxs2Ac2DS67VbpaOgCdWQx1RcYWHCD4yTphJZZxM91JwvAapiW7pXM3H/bsiYC+zg7SAfltP+49QuhcTtts51MwhImkAFzjSzXCXNy0P81YSYEEin3cW4PsPYKHFhKpytD3EPD7aaiXTsejt0x7zN4on/ncjKmsjrO5LhyFZOdBxnSEY5UrOb/6Nk1GrHLFpnxrMjddjcOiYHBUcQrA+OH8z/foTpHIez1vOIHzx5nmZhVkcTsqtIkmawZ3/8r/uSBB8AB/xxdBWoNq8DP+7Sy+U6PXnNlQX1wkhf1tPefY7Vj9ovTnifmzCrMrEmpnwOA5+UBzJCFwhoHmwYygiMcX/IDdyAaXMWHKa+rIFlMyhKssns4ShZbVH/AgKJeJzc+HCvB1juFjc9F/FLBaVGiIn/gXdBFXtYA91esKwn0AQgEC7Zoij++X8wwnFr2dc7IFzGyuq2Pb/PG0oETtOzOAEvgmNVHQg83OxatOG6RAX0HVmuqL/KA==;gvEK/GaG4Ga3EcpJRv9I7w=="
+secured: "XI8DoqgAAtzeO87rH/brUOjUpaaINvJyjj+dqscWpFHdhvNI+dr/bJxd1NaS5rWvIaDK5joAYHYVT1uD5uh4EI4j8+YdaDupFmKtdOhgQljXl5SmW0qAXHc8KtUr5tefG5m06p6BRB6dbLuJAIAjxrfUZPINU+O6ChDLKLVuK7M1kDSK23L+WK/W4hI+CnOmF+h8TdbPMy7vowdZ7+Qw/Bs6etiaLwrxneXYF1f0aZYw3qMTxIyd1bjPliBvJVSPu1y+BaA/NPEmt5adOsArdj70zPoxbDjC7oKJ3CMGDLkLYwtygy04yCwllPvSxKF5ZLaCSUy0Tgi4vD9mvcp1x+0pj9u6EsxqKtx2UUD4/4Y=;rTLSY29CC+CVo2P6PoS7PA=="
 ---
 

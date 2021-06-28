@@ -137,22 +137,6 @@ related:
         width: 740
         height: 415
         isCached: true
-  - title: "Embark Joins Convoy Of Self-Driving Truckers Going Public With $5.2B Deal"
-    excerpt: "Embark Trucks, a self-driving vehicle company, is set to go public in a deal valued at about $5.2 billion. The San Francisco-based startup is merging with a special-purpose acquisition company (SPAC), Northern Genesis Acquisition Corp., a press release said."
-    publishedDateTime: 2021-06-23T16:27:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 43
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/autonomous-trucks-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
     excerpt: "Last month, self-driving technology company TuSimple shipped a truckload of watermelons across the state of Texas ten hours faster than normal… They did this by using their automated driving system for over 900 miles of the journey."
     publishedDateTime: 2021-06-25T13:00:00Z

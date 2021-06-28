@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-28T07:29:00Z
 originalUrl: "https://siliconangle.com/2021/06/28/nvidia-soups-hgx-ai-supercomputer-platform-faster-chips-bandwidth-direct-memory-access/"
 webUrl: "https://siliconangle.com/2021/06/28/nvidia-soups-hgx-ai-supercomputer-platform-faster-chips-bandwidth-direct-memory-access/"
 type: article
-quality: 18
-heat: 18
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Image-NVIDIA-HGX-Platform.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1260
     isCached: true
 
-secured: "Xo9b1PNEFROr+VQBFoEKHgrgwXO3VwWGaXcpnPL3wNOmItGfIhFtcVwfrd2TqJOh6MndhBQezFYqaB+7v10NWx23T+qmBr22mAmi6CGKgibKDRwUQmTQRiQO4Vj4zDCoH2EU4/0U6WbSlqFKD2AaLAExvxinw54l1Br9NDDJTx1SglhmEDczf+wle0hwdIckxwmWrxStbK3AwWwtwQnCKeX7Udy8567BkL+j558xXJvIXkzqOHDmSSaTJUQQVWriWtgGDI4Kgfa9PV9wvj+q2Vx6mCAhGG69zsndv7w59Dtve1wd5yMiLTUziqNXX/Aahr4U32O8gu1KZeElvHI2Vt9o2RgvBqEW0LXAGs7pc3U=;l8rTTCzGoynginHh26aFxA=="
+secured: "T1uLrfkhk1vkjf56uCp/Og4zWcQqJn8U0jMbKcfCCcnVFVcU0v+FP7oN0L9L65Yx/5r19oktHxmZZZnIM8Pswob8Jiiu3BjlkfpL5Ov5DKRH9vH4GYWY2Cy91+G7yo3IUUQqUL9EOrRLlyLXIklc0uNiutyrOdLowF48QIckFxm8O4SgEs/vfRFo4v7GvmXSm/fXoUOCVwsBvHca555AJOEB3+G3QYlvMM1uZnACLn58S0XX1w3iZnS4zjRbDqGNr0/4YyTpaHIxLR3fQDw4zHk3SwDRGNL5+eUwvq8NuY1eM9QJWmNc9woFGPwdD8P8YcfS+7aKYAfywMzgj63XMZcl3f8Ywt/i4vnnRAmbXCM9A5E4Wu9SzlwZPQYbyipe43ahVi07QIITktmKOiBvJzgla9Da8c7HuhR89+6QoTt5sQxr23GPZTYms0zD2X12NjE/kfFPLUcabL9fOqhNxSaUnH1nDcqz2F4AzhFPha44I8NtYwpcbkvOTZiXrGmIdzSZYkqzsjFNZCnuX24G0g==;8Sy0oETUoZSkgJYo1N6qyw=="
 ---
 

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Ferrari Selects AWS as its Official Cloud Provider to Power Innovation on the Road and Track"
-excerpt: "Ferrari selects AWS as its official cloud provider to power innovation on the road and track, leveraging AWS machine learning, analytics and compute."
+excerpt: "(NASDAQ: AMZN), announced that it has entered into an agreement with Ferrari S.p.A. to become their Official Cloud, Machine Learning, and Artificial Intelligence Provider. Together, the companies will accelerate the pace of innovation across the entire Ferrari organization,"
 publishedDateTime: 2021-06-18T06:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
-webUrl: "https://www.businesswire.com/news/home/20210617005933/en/Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track"
+originalUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
+webUrl: "https://www.financialbuzz.com/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "nDm5r7+8tKzk8zQreppyb7r1ofXOSp1ffRItSsNf3ryDUSqZ3gHKQCnBeCCBqaZs4e1zBViNrDTn+aawPqR+cRVFJ+7wc0V18Ce1fDvMpF8ouJ1X8AdxtMorzxjvvnyg5KXtx1Wkq1eQXkvYR0GXRUpRh0MK/BYL0g6bcPD+Kbbc9Y/D/BiDqBeOgD22P0OGYrOO6avV4ac62VBh4cAyfNXuKfDQjd3kRPzWLCbDyoue95mOK+AnuCJHqXMBbGe+XYVMzM2nqSG4zUuH4y6Slu4QKfBMfTifZCoAPCBD40iyUKv/XcvnW3iAaqM9S76KVSX9YHjsPTFRI1BAmfVIpbpXty8p184jmyhOESlaWKHZE/k12zMTYLKnwxaY/K8uvflmBurscks5QCdOEJVxbpHLJasKOg1gf5HF7IvSCseO/0IssR48sODMBZg0m8rLOOIkEnkkL/F+NE5tLhMmqMAWeSdlUWHUqn3OhnXHEKBWmJenCe2o7Twf/oMESKw/d7XYeq8B0VjOS/4j0qvKzg==;XaIAPa42V3aYfffSAf2/GQ=="
+secured: "Bm9yC8JzYuiA2917EBqq9YhKqA+/7DCqf0aInmMR8Zx7kyL2GzAc31dqG49DzUMxiJrvA8jfedAXiD0xraHL2HAwkyKGXQcgnXfO+On1az9vNHWYRXAykw0uYs6+hiD0dIQnY6dO337sttCJ1cJnHdVQbQIPRXwhHZwfGe9g/GmHIyBdCOAI3i8ffWaUCcPQJ5l5vKnicYppxGywdY8IH+2cBAZbkMqu7cGWrQnx4vEBsdhI4MoVIaKWhA0bhVG3lgInoQUlgcUhn5LvLkjIJBScVDsyO6Dz7BwGxiGCki+BSWv/6QYgLI6NsoY+9539h4kKQcGmp5ZsnqiwrbvQoLr2fjDuM2fwlXohuDxxgH9KuNNUHOmT5dl2QevSegKgkUeEAKc0doGWoxmrK1s5wM+7N7r6vjHpWZ8OM9+eXtMJDitV2w7OJMFmsY+hLJSbJjimngkpB4cigpSWJ9iij23+0E0KCZhYfA8tFq9zEBxoU32ymD7ckW2LPck/a2lI88qwRmEmYkZy5sM1HLXQtA==;T6CLTtZRRu8uwN/dbVcOXA=="
 ---
 

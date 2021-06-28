@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/ii
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students"
+    excerpt: "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation"
+    publishedDateTime: 2021-06-28T08:09:00Z
+    webUrl: "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/"
+    ampWebUrl: "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 52
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "IIIT Hyderabad Launches Online Course In Modern Machine Learning"
     excerpt: "The iHub-Data at IIITH has launched a 50-week foundational course (online) in machine learning for engineering students"
     publishedDateTime: 2021-06-25T06:48:00Z

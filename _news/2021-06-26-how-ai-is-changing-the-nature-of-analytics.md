@@ -44,19 +44,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "GRAX Launches DataOps Solution that Streamlines Critical Cloud Data into Analytics and Operations Systems"
-    excerpt: "GRAX, Inc., a leading SaaS Data Value Platform, is offering a new platform, dubbed History Stream, that allows users to effortlessly stream native SaaS app data stored in their own AWS or Azure cloud data lake into industry-standard tools."
-    publishedDateTime: 2021-06-23T15:28:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/GRAX-Launches-DataOps-Solution-that-Streamlines-Critical-Cloud-Data-into-Analytics-and-Operations-Systems-147634.aspx"
+  - title: "Analytics and AI helps Experian help its customers"
+    excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
+    publishedDateTime: 2021-06-28T09:00:00Z
+    webUrl: "https://www.cio.com/article/3622709/analytics-and-ai-helps-experian-help-its-customers.html"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 7
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
+      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "z1sMGtvdGjFNIlBVFc/wjx280iKz5F1I/AHwkmGIcJgTRZO9lxLvJXtR9k9Z4Vh93x4m40Euq/0EhBXk+Z/7Pe3WM6a/t9ZN5sc8EWDXJhxorWCFvTuvYDKGcpbJ4P8rsmXwLXwrH//CEKWt7OX+pEzEuQJEZSskSnhP/iQ2cxcwNT4yvZwYAOqBcNDW8Q8w4Tkr0M61BrHPrDkFPY5dWRFJyOHoaG4lYTlByMa3QN46ND/m2v14+RI4H3+T/f+V25UkQv+cS+YvfzeQIHiPCBVLxF7+BlEkkLDaSA7NCM4s6EsXIW4th1WcVLtciCOV7B5/5Dw1CajFz0MpkcDde3F26Oc1JNbBp87FIrQMC/OACDO1xZ2SUUe4iHk0l/3avn+8b9BpXYhKi5M+3hDH70rYNLtUo+hHb4tapu04ENznsFeFELh8siHqGK5/DYtq47Y7dEZq1HRYwnusBuUf0mycxKHPmSg8GmA1XfsNW5zL7WImgWu371olvYyPM2LItvMOOglDy/lHN2nvwPBx7w==;S8WZYOvkN4lf6Lywt8GwCA=="

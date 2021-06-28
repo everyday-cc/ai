@@ -40,19 +40,19 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "GRAX Launches DataOps Solution that Streamlines Critical Cloud Data into Analytics and Operations Systems"
-    excerpt: "GRAX, Inc., a leading SaaS Data Value Platform, is offering a new platform, dubbed History Stream, that allows users to effortlessly stream native SaaS app data stored in their own AWS or Azure cloud data lake into industry-standard tools."
-    publishedDateTime: 2021-06-23T15:28:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/GRAX-Launches-DataOps-Solution-that-Streamlines-Critical-Cloud-Data-into-Analytics-and-Operations-Systems-147634.aspx"
+  - title: "Analytics and AI helps Experian help its customers"
+    excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
+    publishedDateTime: 2021-06-28T09:00:00Z
+    webUrl: "https://www.cio.com/article/3622709/analytics-and-ai-helps-experian-help-its-customers.html"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 7
+      name: CIO
+      domain: cio.com
+    quality: 37
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
+      - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
 
 secured: "r4Dy7k8Z3vsVrmh44paUYxzGJ0K52Y35nffB5hwX54Auonw4h0T/78cJAeZny7BXaLSsYJH5oi3GgY3fH6KkngyBzsV7NpPh/WehUzmeqLL99Po8kSJM+8csNp3ymEMNwXBevxAzBFD5zJiuCr1t9bLl2vOsWUXUCvymJjZp2D7qk4Yec5aoNibWANQfej0IV1cm0c3TWh3t/8oGQm1QJWRl9VO+dPeRFes5MhnGwACQjU+/tYET1cSHyjF0ZFBteC89EJoRv4xanoUUHdm55MX4Jt/HKG9eBi0Ch7Byg1shSAoKnzMvHoCChnrbsJgN0XKf2vSXPBLxGvF+01X3IJCoEIggqTMJfqdElAsra7c=;weh1aKOvZU347TQtLTUujA=="

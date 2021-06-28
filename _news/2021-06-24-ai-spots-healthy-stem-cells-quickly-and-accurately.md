@@ -53,20 +53,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AI spots healthy stem cells quickly and accurately"
-    excerpt: "Stem cell therapy is at the cutting edge of regenerative medicine, but until now researchers and clinicians have had to painstakingly evaluate stem cell quality by looking at each cell individually under a microscope."
-    publishedDateTime: 2021-06-23T15:25:00Z
-    webUrl: "https://phys.org/news/2021-06-ai-healthy-stem-cells-quickly.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-spots-healthy-stem.jpg"
-        width: 1440
-        height: 1440
-        isCached: true
 
 secured: "a7jUO9lbnXmm8f7NzN076/rR925vHtV8ZZLyz1LrpjbwlV4EQbeHvmqzeydn7OuCkfGRF2+OW+R5AtvH5L/MCXZc0RyV/+Eosxy18XsKQDV+B9oP4YeuS3P6pIQZgjOwraEc+fCHRx5Rum5bbCswOxOO1z47edtWwYKQosWIjx8tYhCUSRZ/JWG9/kTTY+SrsnM0G/SNhALyG0u0PZNEjtuznfylWsXGXFHoTFDs24daunan+UIrBa8rYrVJInH8R1nSnsmmn2L+bs8X0pM1fY9fWpgW3cVwo1E+Q6RUcllME5C4ZOaJ/6KzE5ReP+2WFBUCvm/y6CHJhnLnR3GTunzDRfYyhamGfQX2GETnLcY=;XMNuQj5Q9L8fe7FEsn097Q=="
 ---

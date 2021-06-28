@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "xCures raises $12.69 million in Series A funding for their AI-powered precision oncology platform"
-    excerpt: "PRNewswire/ -- xCures Inc., the leader in the patient-centric use of artificial intelligence (AI) and predictive"
-    publishedDateTime: 2021-06-23T15:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/xcures-raises-12-69-million-in-series-a-funding-for-their-ai-powered-precision-oncology-platform-1030547822"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing"
     excerpt: "Neurala, the leader in vision AI software, announced that it has raised $12 million in funding to advance the development of vision AI for manufacturing. The round, led by Zebra Ventures and Pelion Venture Partners,"
     publishedDateTime: 2021-06-24T13:11:00Z

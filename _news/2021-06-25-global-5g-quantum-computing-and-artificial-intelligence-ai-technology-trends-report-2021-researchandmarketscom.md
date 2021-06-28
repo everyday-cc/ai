@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
+    excerpt: "The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from 2019-2025. The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025."
+    publishedDateTime: 2021-06-25T08:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2025-2021-06-25-4197938"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Types, Recent Trends, Future Growth Analysis, Industry Analysis and Forecasts 2027"
     excerpt: "The global Artificial Intelligence in the Education Sector market research is carried out at the different stages of"
     publishedDateTime: 2021-06-25T07:38:00Z
@@ -68,6 +82,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
+    publishedDateTime: 2021-06-28T08:21:00Z
+    webUrl: "https://www.openpr.com/news/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
   - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
     excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
     publishedDateTime: 2021-06-24T19:07:00Z
@@ -100,6 +125,17 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 14
+  - title: "COVID-19 Impact on Artificial Intelligence Chipsets Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-06-28T09:08:00Z
+    webUrl: "https://www.openpr.com/news/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    ampWebUrl: "https://www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315091/covid-19-impact-on-artificial-intelligence-chipsets-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "Worldwide Artificial Intelligence (AI) Market in Manufacturing Industry to 2025 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence (AI) Market in Manufacturing Industry 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is ..."
     publishedDateTime: 2021-06-24T09:28:00Z

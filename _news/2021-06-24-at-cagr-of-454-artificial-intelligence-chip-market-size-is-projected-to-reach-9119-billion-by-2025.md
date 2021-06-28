@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificia
 webUrl: "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
-    publishedDateTime: 2021-06-23T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "6comS4og7SDW+WWCOss0NwGHTqUWG21CMHD3NXiTzccUF13bvx7yNOUNBpqn3m5tyLeHtkbR6MXOJWCrJLkbFSSM9U7HGitpFXS4RHb7pWEtjHtNC3OBugZLUoS9FQHVLeQZ2JBvhsEmz7DxgLJpSEoVlU5B6b2Tb3IMjtUw1gaMF4JTsmtx9ryXm2C5fj5BU3AWbqhScgNy0uqVz4qJl05frm4IDMMyfzhEi3BDpRK4oShw9NDlyLL+etUtyPms2YkizkgBTP2Qdh/SfkMp975wu2THhExGubgBFyop0vw+cYFpad4ttSYOl9U75WjIOEBlGxmu6yW2Mtcd7CKYrXCHAC/UeyRXUJnNYdcEusE=;KDEFmkZ4y5s/1Nxz+VsC4w=="

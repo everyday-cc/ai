@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "XCures raises $12.7M funding round to help cancer patients using AI"
-    excerpt: "XCures Inc., an artificial intelligence-assisted cancer patient treatment insights platform, today announced that it raised $12.69 million in an early-stage funding round. The Series A round was led by science-focused Boehringer Ingelheim Venture Fund and joined by Vanedge Capital,"
-    publishedDateTime: 2021-06-23T16:56:00Z
-    webUrl: "https://siliconangle.com/2021/06/23/xcures-raises-12-7m-funding-help-cancer-patients-using-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/07/doctor-1228627_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "1Kqueml2T8BM+Vwfy93PAfHPP4E/hNRS/sHYHoqYChMEFjpeZl+YEDzs+n4TkChw0gQToyFI0Lo2Cx64EOTnsSYvdEAUU1tk95RM6tNBB2/pq/S0tCZ8+GRFv45Uimv2h4/bebPiZNg9WH7KfCxMQjpM9hJngPXXG3ecqg/yMfRmt1V9yjOeErk1hVr3xDMawWTIgROpt+TqygaBrjPiAVxFpJ35mXsFZ68i8b1VYUIb01ZwWVzqemrt7qHXv8wxvzWyLw42f8+ZF+RDtCUy5zKCwOKHqng8oQYxoN+O0YnlgIPwXFsyju979Uf23lRpgNoIHZ5nx66XDIiusLWiIJUbKipSDxzTshAWXG4Nvvs=;CK1rMpT4g1XCWpvinf1eSA=="
 ---

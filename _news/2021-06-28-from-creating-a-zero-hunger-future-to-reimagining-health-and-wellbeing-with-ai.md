@@ -1,23 +1,31 @@
 ---
 category: news
 title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off CeremoniesHONG KONG SAR - Media OutReach - 28 June 2021 -"
-publishedDateTime: 2021-06-27T21:10:00Z
-originalUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
-webUrl: "https://www.macaubusiness.com/from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/"
+excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
+publishedDateTime: 2021-06-28T05:10:00Z
+originalUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "nZ8w4odsrXBOfd64K/3mQe4ks/e8Xl9Nnj4HK4W8lJicHZd11J6cdVYhXk6PDwRflnEyHYX6BA4W99cHxWPLqifPAzj9jSWaTmgkun72mhry/20RWL38JWznnSanLFGb7QDP8SHN4xD6xGzgkwSj8V+VBJmXqHm8D1W8786/cZ4RP5VB6aH8/Cs3yIgzSidHyEis1nqNBNlLJMYhmRBr9nwAVHJdVINK1z9KIJIwOzqr5Soaq5lu3MA/hf6fhW41nsEftdF3hObXLTh02CgJqbU2rk//GB+ZyFjJ3QgCidhg3eIs3MOkbKvMroDtZfpTxct1vcHq0T5zELqTQ16B/K4dJxN/zXmRm1n1DszTtRictoNupt9zUGpjMDzhHrz0DnoVyZcxl3HwVsjkX1//Q23B2i3ButgXJdjECrmu+Rgk0Xyz+XfWy54ndkUBwcC/5KkxcQxj3Bp1Woj7jHWfQwaXyDehikTndtyYgqwO3oiPuJrtQJ1fkgMAQY2s1d4CI1B90B4CHz6x8uPgFgrJ9A==;7Xbke+uofMfOnZPLHELriA=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "fBDB6zSM3FtX8PmwpTPFXj8dM5/WpDL8eePcOWHy6Q5koyV4I5DpcYQFwPCQHDXh0LLMxP5cs/OB4FuRUJRZa/ceFZ663WMh9OTbysCSFtpo7drO+T4m4EbwccK0stHksCTpsgtfxmp1eqYvGFoh+YzHfWmqjqHFH1zZtegards4jAj7x/6xMVc1jiHHBdT4hz6g3Bfwd0Fm5byWiYCUXJirda7tli9+Y+/8ZzDRHpb87uzvdN1Wwcxqx3rBoZMis6JLU1ZNTM02o2A/38G0RuDAwyBr+SmyJxH+6IkJDB5oboTLw+lUwzgL/3/QGFo+8DVjNYb4BG+guaB7T7ZRTdBmV97ERWsTz4W+KiLktIs=;Ejw/QvFslhYk18YQX/URww=="
 ---
 

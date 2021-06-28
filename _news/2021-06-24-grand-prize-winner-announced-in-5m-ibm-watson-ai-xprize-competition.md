@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-publishedDateTime: 2021-06-23T21:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
-webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
+publishedDateTime: 2021-06-24T09:12:00Z
+originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
 type: article
 quality: 34
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
   - IBM AI
@@ -92,20 +92,6 @@ related:
       - url: "https://www.israel21c.org/wp-content/uploads/2021/06/zzapp.jpg"
         width: 1598
         height: 900
-        isCached: true
-  - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
-    excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
-    publishedDateTime: 2021-06-23T16:42:00Z
-    webUrl: "https://www.miragenews.com/d3-backed-aifred-health-takes-second-place-in-583549/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 45
-    images:
-      - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
-        width: 768
-        height: 613
         isCached: true
   - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
     excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
@@ -192,6 +178,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "eej7ciKsMriXn66nFn3cewq5hTSZKvj/asWgRQ0lHvcBoYogLzMd+SXHJepkgFvHsAACXMz4jvu6dIb7qCnsk5F40LsF8lbCqAhW5YWW6ODpmJsUa+uzmOr+k7bKShTzp32/mzCs3Cui24Yq79EmXoKfuBjP1k4gCMfkXkNxtj2+Oe5aVu+jhhDBceuZL7S9AUFH8A4A40ccSPEEr43eph1NHPi+078KO7BnNnrwjTbimniUSSrHZKL8L1W12zN9mBMRnukRs6LWKjMMDecivx+RuYPYokewC+DMTotxx/FzRW9/Tk48M/GK8sqkrLotnbu1wfdWNOO07LQomn7EgIEhbf4vsckBXDbsa5diydU=;HoHpfPb4EoJKdgX7Y3q7EQ=="
+secured: "8MVuHeNC0iasA43lI5I7npVh7qH8S5aSU+7R/LDuQKzu8s+r8lgPUloLKFe7B8LAOWfkGlp1/zpahlGxVBYpQjVxVOE3YtlhB+xVLtUbMJ6Whwntb7ucM1rplCdq16zMumefq1tVcTdXrk7t88c6hIxsFDmW/+hBeu5OmdBT+v8PrzUBnBdAdyxdcW+FR8qzuk1+tMPhxX1jdl+jrp3/OQ5x/zONNAeky3ZVeyGkEeDTtGBreFOOCRi7G1BnMcX2T/UnnxYxEhaHYtAvUaqZ9txOczvyyRD9m2+kBSVmfwsaK4uB/KzyvOzz8p2TGIkbQPCeXVLHLfVU2b9nehwhSTQjIi1W3XNXE74hvLC84LE=;8WTyNdD2X7XZFC6loFZAeA=="
 ---
 

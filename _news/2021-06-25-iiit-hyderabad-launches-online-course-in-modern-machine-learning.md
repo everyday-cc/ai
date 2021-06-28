@@ -41,6 +41,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students"
+    excerpt: "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation"
+    publishedDateTime: 2021-06-28T08:09:00Z
+    webUrl: "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/"
+    ampWebUrl: "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 52
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "IITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "In keeping with its objective of enhancing the quality of education in Artificial Intelligence (AI), iHub-Data at IIITH has launched a"
     publishedDateTime: 2021-06-24T17:59:00Z

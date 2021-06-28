@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "D3-backed Aifred Health takes second place in IBM Watson AI XPRIZE competition – and $1M"
-    excerpt: "The startup received vital support from Concordia's District 3 Innovation Hub on the road to a top 2 finish in the 5-year global contest Aifred"
-    publishedDateTime: 2021-06-23T16:42:00Z
-    webUrl: "https://www.miragenews.com/d3-backed-aifred-health-takes-second-place-in-583549/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 45
-    images:
-      - url: "https://www.concordia.ca/content/shared/en/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.img.png/1624469208457.jpg"
-        width: 768
-        height: 613
-        isCached: true
   - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
     excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
     publishedDateTime: 2021-06-25T13:47:00Z
@@ -170,13 +156,13 @@ related:
         height: 331
         isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
-    publishedDateTime: 2021-06-23T21:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+    excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
+    publishedDateTime: 2021-06-24T09:12:00Z
+    webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
     type: article
     provider:
       name: Business Wire
-      domain: businesswire.com
+      domain: businesswireindia.com
     quality: 34
   - title: "Startups using AI to tackle malaria, mental health and human trafficking take top awards, and cash, from IBM XPrize"
     excerpt: "An Israeli startup that uses artificial intelligence and other tech tools to wipe out  A digital health company focused on clinical decision support in mental health and a startup using AI to help law enforcement battle human trafficking also took home top prizes."

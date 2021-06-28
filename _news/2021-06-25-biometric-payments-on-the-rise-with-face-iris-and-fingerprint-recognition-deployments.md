@@ -39,20 +39,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "More sanctions knock Belarus face biometrics firm off center"
-    excerpt: "Synesis' Kipod tools enables operators to feed in face photographs that are biometrically matched against digital video of people."
-    publishedDateTime: 2021-06-23T16:12:00Z
-    webUrl: "https://www.biometricupdate.com/202106/more-sanctions-knock-belarus-face-biometrics-firm-off-center"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Innovatrics updates face biometrics and OCR tools to expand reach"
     excerpt: "Innovatrics expands the compatibility of its SmartFace biometric solution to run on Linux and Nvidia Jetson and also upgrades its Digital Onboarding Toolkit."
     publishedDateTime: 2021-06-23T18:46:00Z

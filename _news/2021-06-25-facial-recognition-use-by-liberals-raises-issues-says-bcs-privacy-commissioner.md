@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.h
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: National Post
       domain: nationalpost.com
     quality: 36
-  - title: "Civil liberties group urges Liberal Party to stop using facial recognition technology"
-    excerpt: "In a letter obtained by The Globe and Mail on Wednesday, the association calls on the Liberal Party of Canada to “cease and desist using it” to verify the identity of people voting in candidate nomina"
-    publishedDateTime: 2021-06-23T16:04:00Z
-    webUrl: "https://www.theglobeandmail.com/politics/article-civil-liberties-group-urges-liberal-party-to-stop-using-facial/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/nj5_Fane0STgEM8VWaLc4E-1hek=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/EIFYUZQ6QZPW7FQV6YMGKIYNA4.jpg"
-        width: 1200
-        height: 845
-        isCached: true
   - title: "B.C. privacy commissioner considering investigation of Liberal Party use of facial-recognition technology"
     excerpt: "B.C.’s privacy commissioner says the use of facial recognition by the Liberal Party of Canada raises privacy concerns and he is considering launching an investigation"
     publishedDateTime: 2021-06-24T20:22:00Z

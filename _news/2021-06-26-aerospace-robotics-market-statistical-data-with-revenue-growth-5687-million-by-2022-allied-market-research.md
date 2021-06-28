@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide AI in Computer Vision Industry is Expected to Reach $51.3 Billion by 2026 at a CAGR of 26.3% from 2021"
-    excerpt: "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,"
-    publishedDateTime: 2021-06-23T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-51-3-billion-by-2026-at-a-cagr-of-26-3-from-2021--301318435.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "6nRaHfJMcRTNdyC71XGOGDJzJpJq7CRWGOi70FcV/azZxAqvNqSNPBek6cvLHpllnk7uSwOfdolec41mIL8hic3P9qIyYAguTtcXKwN77u0c+zZWqLCnSTgkRcbFveNBvXY1iJectHbnoij8vEaxy5PQGE3MBAOPjf5JIqOVv5tsLWl89eWc45+N+nECwdPesQar5J33lKh3EvRHOvRzGEgiuE90FEpVFl+bi9aQu70JoE7QwHX++iKzaaVTj6WUUEay7EA2tdX7M2dRkuKcUT6TZGMMF5HjKXfLfR4SfR3/7z36bEUPpi7z8k2wRf9MIXKL1BJv/kOcTwgO9DJU4kblbwvdbluohZCtlXEoV8Y=;xhJVkO9NaR7xfKVgnLRRcg=="
 ---

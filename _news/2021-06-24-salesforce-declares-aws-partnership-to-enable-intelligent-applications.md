@@ -64,20 +64,6 @@ related:
         width: 770
         height: 434
         isCached: true
-  - title: "Salesforce Expands Partnership with AWS"
-    excerpt: "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms."
-    publishedDateTime: 2021-06-23T16:36:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Expands-Partnership-with-AWS-147639.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138301-0621_CCInnovations_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "AWS and Salesforce launch integration partnership"
     excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce’s SaaS-based services into solutions running on the AWS cloud."
     publishedDateTime: 2021-06-24T13:57:00Z

@@ -65,17 +65,6 @@ related:
         width: 665
         height: 435
         isCached: true
-  - title: "Voice Assistant Market Size USD 7.30 Billion by 2025, Registering a 24.32% CAGR - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Voice Assistant Market - Information by Technology, Hardware and Application - Forecast till 2025\" the market valuation stood at USD 1."
-    publishedDateTime: 2021-06-23T16:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21688759/voice-assistant-market-size-usd-7-30-billion-by-2025-registering-a-24-32-cagr-report-by-market-res"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21688759"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21688759"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "MvoXqFlvIFqMob5YrGqipeXwBcEq6bi8z8KFpWZtDPUlxkRpFIRsnExWENWHXuZUf9/WoRB2ED6dErva3TODTSsnIyTncCHGE5hqJvt6SVAJtmrp9VNXxXyAvIWnjovra+Dn1wRX3XVCXYH30j1cmHkWE2Y/tqMRVU9tCWaSjSffa2bbzQ5MJ6+DEK0cYV2me+BZyy+m+2u9+RPKKqGwxFSCGzJhBo9ZOdCZS0A+ugoPThTEwvcefOXBvd540Yg0/m7YedT8KiPWaPP8AoR3Ba41z6y+f9e38fME4NzD9y5ok8O3rH/fzirj5q7gaTyq3qzqlRsSemwvxs8FjQB/IKHnwUHH/ejT1pF91AznB6U=;kXppziupiWX13PzD6SZ6aQ=="
 ---

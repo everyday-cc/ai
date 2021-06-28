@@ -135,22 +135,6 @@ related:
         width: 740
         height: 415
         isCached: true
-  - title: "Embark Joins Convoy Of Self-Driving Truckers Going Public With $5.2B Deal"
-    excerpt: "Embark Trucks, a self-driving vehicle company, is set to go public in a deal valued at about $5.2 billion. The San Francisco-based startup is merging with a special-purpose acquisition company (SPAC), Northern Genesis Acquisition Corp., a press release said."
-    publishedDateTime: 2021-06-23T16:27:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/embark-self-driving-trucks-going-public-via-spac/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 43
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/autonomous-trucks-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Kettering students develop award-winning self-driving vehicle technology in Flint"
     excerpt: "After a four-year competition aimed at studying, designing and testing self-driving car technology, a team of Kettering students walked away"
     publishedDateTime: 2021-06-26T10:11:00Z
