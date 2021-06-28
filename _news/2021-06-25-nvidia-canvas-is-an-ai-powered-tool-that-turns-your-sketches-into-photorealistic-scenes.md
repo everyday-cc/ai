@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia’s Canvas AI painting tool instantly turns blobs into realistic landscapes"
-    excerpt: "AI has been filling in the gaps for illustrators and photographers for years now — literally, it intelligently fills gaps with visual content. But the latest tools are aimed at letting an AI give artists a hand from the earliest,"
-    publishedDateTime: 2021-06-23T21:18:00Z
-    webUrl: "https://techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/"
-    ampWebUrl: "https://techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/23/nvidias-canvas-ai-painting-tool-instantly-turns-blobs-into-realistic-landscapes/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/canvas-1.gif"
-        width: 700
-        height: 337
-        isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
     publishedDateTime: 2021-06-28T07:01:00Z

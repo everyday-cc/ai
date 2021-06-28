@@ -24,6 +24,17 @@ images:
     height: 615
     isCached: true
 
+related:
+  - title: "Atos International: Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications"
+    excerpt: "Press Release Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications Paris (France) June 28, 2021 - Atos today launches ThinkAI, its secure"
+    publishedDateTime: 2021-06-28T15:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53267931-atos-international-atos-launches-thinkai-a-complete-solution-to-power-high-performance-artificial-intelligence-applications-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 3
+
 secured: "PgL5gLJG18voXBtJgQX8vhv52lRn9Qdb1OhiyB5Bxokh8GCFuDlAEZv8YhUyu6Q09qOhLnAC+GfcjtcOaE8UI30UZhJ9c3R4VarmjnasT08oTeqdRrvh/3gc2PT0PsuHvXdaZSGCUsRZApDg9QJPDi7uj4x2wITHOu060C2PwP7fF1xY1s9qmO3JViD4qY5mfqycXTLFYTqWupi9GWzS3QjgrQusaKs9O8AjbrvltX6XQeOMYDR4LkQC11Yk34S/ObFKybOg24rFfzl9RvUQ86sIO8qiS+AyTkTfHyJw0Xli3OuH3/3cBpVQyC6jCR4L+NC0vkDCGR4u+35VdJYZaI49EVQCkMYnDu9BPsK+kGlLJnFX+wQIqeBVMyUgQt2wh1mzDivkNO5ryAEXVglsaoGNNLFcgg4OGiwoYwbFUgUGX1t7RDFW/5mQQ75AQi3xe6FKYz91o+KFqO3GPMcCWyQ4/9gCXf8LihSY1HWhBEIdM7Jb+81UFJ/j/jypb9iCoxERh0W6cbiUC6jGpXDZjA==;gQMB7qNKpPLlt4gQxcE8Jg=="
 ---
 

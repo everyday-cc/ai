@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm's New Snapdragon 888+ Chip Cranks 3GHz And Big AI Gains For Flagship 5G Phones"
+    excerpt: "This time around, the prime Kryo CPU core is clocked at up to 3GHz (2.995GHz to be exact), compared to 2.84GHz."
+    publishedDateTime: 2021-06-28T13:18:00Z
+    webUrl: "https://hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
+    ampWebUrl: "https://amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55523/content/snapdragon_888_plus.jpg"
+        width: 708
+        height: 473
+        isCached: true
   - title: "Qualcomm announces Snapdragon 888 Plus with 3 GHz CPU, better AI engine"
     excerpt: "The San Diego chip company announced the Snapdragon 888 Plus chipset with a 3GHz prime CPU core and improved AI Engine, which now performs 20% better. The chipset is pretty much the same as its non-Plus sibling,"
     publishedDateTime: 2021-06-28T10:59:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-Announced-with-CPU-and-AI-Upgrades-2.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Snapdragon 888 Plus Brings Improvements To AI & Performance"
-    excerpt: "Qualcomm has just officially announced its new flagship processor, the Snapdragon 888 Plus. It has become a custom for Qualcomm to announce a ‘Plus’"
-    publishedDateTime: 2021-06-28T10:51:00Z
-    webUrl: "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/06/qualcomm-snapdragon-888-plus-official-specs-features.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Qualcomm-Snapdragon-AH-NS-02.jpg"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Qualcomm has unveiled its next flagship chip: the Snapdragon 888 Plus"
     excerpt: "Qualcomm has officially announced the follow up to its flagship Snapdragon 888 platform: the Snapdragon 888 Plus"

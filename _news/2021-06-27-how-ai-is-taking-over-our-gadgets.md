@@ -72,6 +72,15 @@ related:
         width: 417
         height: 450
         isCached: true
+  - title: "How AI Is Taking Over Our Gadgets"
+    excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
+    publishedDateTime: 2021-06-28T14:47:00Z
+    webUrl: "https://cacm.acm.org/news/253614-how-ai-is-taking-over-our-gadgets/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "vvjUwxk4sX5g3FhdVcKcT47/gmCtBqCOkYpPnMhB+y01HbyjA6PvUoaixh7HK+yLUtsCrZwTaFv47mE2h7Rw+RMvZHNVYRoVT8zYk+RV/iBgjDVD0fvVrr9q8sDGOu+XbkCz97bzMhz339+ElBqcqSZRQET2u+aBYO4KTci8GkX0PuXWJI0FdeLtEAJEiEsyerCrK7CuTs4IQOPEueEhMC2EKXh3mlXgPpev1LNhE7InRLzNWjp46xXmBe5TplKUMFXvlZhSETC98Phs2fhaZZianhV0J+lISrk3t4+U5/OPSrIe/K0QQJ6Ph/bXp7cJ/6IO23cfXjETduduVO5Y7KjRgwSQgR0lee+z1WCdH3/ZWSDR7S/JkScw9yUHcbTCSelIpY8ysqir1CijVJq91C9BjusBOy2X5CP7Q0lXe1q4WtE7/DeVj+4H3JyuaRzCOGjPNhwHKPyF/8jpd8xQaZDfR6G+k0ha10B5fZXjiE6KuXkSfTmc3wsrg2eHnGVjmLbWcJ59Kw/kmeQN0QlEiQ==;Xg1kpaNvZwc5I+czYDFWsg=="
 ---

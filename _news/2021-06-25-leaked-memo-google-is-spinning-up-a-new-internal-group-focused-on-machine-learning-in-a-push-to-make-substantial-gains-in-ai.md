@@ -13,6 +13,10 @@ published: true
 provider:
   name: businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6
   domain: businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -24,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "2ob9wYXhfr2AVnToZSJwPTeEGNtlANDMEiz1A2ZdGi6uw78s/G7mXE+x41vfSZhjhAVVRhScoPqc2h/R4btdG1+4nbBkUktSFWfoKt6nGEJBZH8qAOQhyRBoWYkW3+K6gBHw/gwgaxoByCVAek3fPMPnJfrWnKATZZ05YuVXws6rbhfW0F2oAA9+QHfP9LRcyS2FcoToS/Qg2OkrCZHyRS6UCW3PsO6Xo9Fwh4la88fs0XCMe1iQGA4MHvNRzqGC/hrYFFiaPNkhOL0C1DyMeIr7HHsonOkE53q+R3g2pygG4hf4X4seTs9S6NITubwewoJKkm6qbK7nZB5a5jt6NTyl9phM4uoxuAaJM0CjGz9pfu3sS14WA7dQ0uRyU0TSTrvrOHERhoIKGHFJghZrSjrnS536ghvrlSWpZkQ+1swthSD7Cc43tU7rjfBaeL2MmE7b/3ohfh4NrUdh1H+MsZUVdunT8ziW+1Fqy9JiGOQDHFB9+aLdp+JijvehPaGLDrL4x+b1hjdWffeW1TpfuYNGEYShuxO5wuwBnKWVD0Q=;UHozw8NwMb/Z7X7/Cbu9hQ=="
+secured: "fqo/Z/p1ZZSDzAiFWhsL97Rmdb2nIdv7i8KaRnlb1O37NdIoCVVu8xCBiVvCfRmwfMJh1LFH+/nkVv73WmEU/XQ9xfYbiTX8FFh8UzdlJ+9KDHvHdioValjv4q2jKHh85ra6dT6v5WWpi4d1L/hNl02QPF9fFq2v6vSTG4dM20nm3Q0QvMm0xKsuLX+CfkQt5iZOHFW8TOh5HyDErvVZdXkGZiJPmg7MsOSbH+L1EacgSjNB0jTkECvpAW0YSRi4QTDxr4FESX9YCR+bp0fy+Ppywhuag6kKozLfLwjc74EarxuPHq+DJk+AKC0muvdEdBc4nnNtMPkRbHCwTXNngtcE62uK/8PaV1fsAx0eqeJ9JeuEgobMS3jFwYMqU265AhuKFf8FLlqLhBgSxQB81WiIA3NsWVpew/yku5WpeJwyHMbZDQyOMsg1RX3NnF/AP84wBQLbrWr527cr6V91tOvfz7W1/dnFyyI/+qfz/1vlEcBYfxImDdvPG0V2A+Qa6WioEB5BeOjAlmQo2j33HMJJrCDY4Czi2q8oaRoVhcA=;KU33KiMRe8tas6BGb5v83A=="
 ---
 

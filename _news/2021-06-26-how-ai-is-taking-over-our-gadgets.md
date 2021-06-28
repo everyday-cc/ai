@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
 type: article
 quality: 87
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 417
         height: 450
         isCached: true
+  - title: "How AI Is Taking Over Our Gadgets"
+    excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
+    publishedDateTime: 2021-06-28T14:47:00Z
+    webUrl: "https://cacm.acm.org/news/253614-how-ai-is-taking-over-our-gadgets/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "sUXAMvR/G7y2JzyxmZj3F7ZL7HN5gjUw5og03Zp6wPVmCDSrmyleLPzHfXVkp0M/p/2/Yty3RKNCjVi1Mp4xaGhN8IKa0/WkFR8PH/NkLS9rwny9rjD1zFSO/uVr14HxI+BE89D6/P0tx2l3A22ne1HMIQXIkdRM9Sy6HAJ2EKO1zqW5YneeP57ds6q2hapQes8oLbnCO2NXmzpy4FVx+ndtZWUwkFtktW5jX4fo1CoOMsXX4xV7HeeYOr4jkq64ylsDqWR4vhop7xdrlh8QyKkO1YPUbeNHZ4yqdqc/U2bURnqqB8bFqRxeyfkyOJFf5KLjLpIfDtJ7rH6OND7Lsp2xcAVByPiYDEGKS1Pc2IID6t7jTVnmn3TthTFFLdGnqq5cQh3f1GcR9psb+P4j2rYuSl73X60sPnnG1DrRoaS6i8lqd/KbO56x/24wMnpZZfhLvJuaS8VJenrNntPsJc7xevMoelkM4ryMe0lkNfrHRYFhHZyy1/1uegDpIB4b34+LHW3lKVCsaYY1n8zdig==;LcXbDxr/CQpQD/8oeJN1mw=="
 ---

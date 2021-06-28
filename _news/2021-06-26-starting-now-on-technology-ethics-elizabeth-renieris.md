@@ -7,7 +7,7 @@ originalUrl: "https://cyber.harvard.edu/story/2021-06/starting-now-technology-et
 webUrl: "https://cyber.harvard.edu/story/2021-06/starting-now-technology-ethics-elizabeth-renieris"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1000
     height: 500
     isCached: true
+
+related:
+  - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By making imperceptible"
+    publishedDateTime: 2021-06-25T12:38:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems/article_accf6c97-9b11-5b02-9230-dca51727b07b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 62
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/ad/dad4680b-753f-50fd-9e08-d27135bf9c60/60d5cfe838e52.image.jpg?resize=800%2C400"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Adversa AI Red Team Invented Technology for Ethical Hacking of Facial Recognition Systems"
+    excerpt: "Adversa AI, the leading Trusted AI Research startup, has demonstrated a new attack method on AI facial recognition applications. By"
+    publishedDateTime: 2021-06-25T19:38:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/adversa-ai-red-team-invented-technology-for-ethical-hacking-of-facial-recognition-systems-301319745.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1551025/octopus.jpg?p=facebook"
+        width: 798
+        height: 419
+        isCached: true
 
 secured: "CLhvBSzPcLqXDI7gpfnGWwHGFbbdluZIHbuuxf774nX5ne6tasafIJIGND9jQU/DB5eV/ZXuC/6qroGHK9y24fLiuzERSBefmwQjHrGrXScMToNn6vpz863ovxCc6n+C7U5hBk/rmXtYY44gEkMVY03UmXhs/XKvWb0Aa7OuLvK7ztkVKeIPy7jrYaktSPX4Qc19WxQPeOqcyMkrtuAgebybH2tYE1/uoYRT12+nm+4dVU9rRfsaTYpf8WQg7tThdyYNm6gXl6avKEmRO6qlGaDMU9RRpEpLnCMaHhjGLzLtKj2UeKZzxhduJMZKwR+VBBo46F44s6Bdj1s9plscTW+/WTtKgPOqehljJX5IX+c=;kY89zqH9fZzqK56i7rcaLg=="
 ---

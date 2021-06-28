@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Tokyo-based AI Startup Attuned Launches Writer Fellowship on Substack"
-excerpt: "Attuned, a Tokyo-based tech startup that uses psychology and AI to track intrinsic motivation and boost employee engagement,"
+excerpt: "Today Attuned, a Tokyo-based tech startup that uses psychology and AI to track intrinsic motivation and boost employee engagement, is announcing the launch of a global writing competition on digital newsletter-publishing platform Substack with a top prize of $50,"
 publishedDateTime: 2021-06-28T09:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tokyo-based-ai-startup-attuned-launches-writer-fellowship-on-substack-301320821.html"
-webUrl: "https://www.prnewswire.com/news-releases/tokyo-based-ai-startup-attuned-launches-writer-fellowship-on-substack-301320821.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/3b14e94734c7ba5055b6de09387d881c"
+webUrl: "https://apnews.com/press-release/pr-newswire/3b14e94734c7ba5055b6de09387d881c"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "pmkItTzq5v8Epq5YREzPuzhNP8B6Gu2Akk0zdugNTJcWoDmqW2soCc7jM0Nim49NhPG+nUVGdYxTTJaoNYocFxxsBzTCYImPFr3sQhzhGHjp+gtCHdVBMOYt6K+duRwrh4pDcRDMdYKd8zZK7PgBDqRSr9IO1HoFm+xX6voUXMTjxWNW8OBQ/uaaSlD9N5/EsgrSgUYdIlSUpcnv79mkwjgkieSUSL809I8MwYAJWfxQIuX0i99F2H6pF6D+/wAtr47zixoqusojDaN4MqgO3cm9v+7O+v0mEX+Pb6Tw1IdCfFOinhubEcMocSHJC4VNYrn1++OOEaxQlsBoAee233/pYaOY+aofWpgBQScO4CY=;FjRLXvXIQeM3I56cLqinzg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "/60I1VMi24RV+I4SyXUbgqjyICRL+GY4++tS+ARwlPRAUn9uid7KtaPd3T6Xf7wOMwY2RLP7s3n1rB9c/dcelUNynY9XQsxibu3HLBqzp8MUN7yiQ47nIcBPkNXMKD6CBmEPgcTGBzRbNDql96ij0y+BsToYS8P8KrSl2vZH0UTo721D9je87H6cR+isan5osLXk/hUDn2LMMWqZ40KCckFvbmxxNwTq8+HjpsvqMdbesKaoM6Xomg3yTm7+TeLYMdJh2ghtHcmW2baUckUtG6xd8d9VdBeNTuxNXwBRecySYia4OTtg2RJJOa5SKx0oPPxRXeZ/2mpwblfUtAQ81JRstLz1nk46T6mCJlj9a7M=;cqbt+xCLlZzynk8lRwAp3g=="
 ---
 

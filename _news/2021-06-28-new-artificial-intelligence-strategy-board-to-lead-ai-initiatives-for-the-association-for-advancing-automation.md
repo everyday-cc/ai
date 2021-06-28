@@ -1,22 +1,28 @@
 ---
 category: news
 title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
-excerpt: "The Association for Advancing Automation (A3) has created a new Artificial Intelligence (AI) Technology Strategy Board of leading AI experts, part of a major initiative to promote education and adoption of the applications of artificial intelligence in automation industries."
-publishedDateTime: 2021-06-28T12:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-artificial-intelligence-strategy-board-lead-ai-initiatives-/2021/06/28/9398608.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-artificial-intelligence-strategy-board-lead-ai-initiatives-/2021/06/28/9398608.htm"
+excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
+publishedDateTime: 2021-06-28T15:44:00Z
+originalUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
+webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Automation
+  domain: automation.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://www.automation.com/getmedia/822abcb4-a88c-498d-b96f-f6ec34d06266/A3-strategy-news-June-28-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
 
 related:
   - title: "Why Do Board Directors And CEO’s Need To Value Quality Education Leveraging AI for Advancing The UN’s Sustainability Goals?"
@@ -34,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "sPLpES+MnQCK+/Kt/HsiSy8DcpTK5+hx+i7N8WLIke931/m5fexGFSZd3elAEm1Ogf88uivBis1LbMS2YhWTm1AjatB2cnZPObIlU4rSsnPjRq+dW9dYEHrWcD8NWAXVwxV++Txgv708WHxk7xhXQABrYeGRt7u03m79UI6lxLy28nKNFSGlZiWNcv4KVwcJGmawnu2biwJqI0uM1l51iNnAAmD2KqWdNqAVz6fOzW9JRMlU+2mtDTCCnrMI6DNPoor4HqXSybVG3NRc8MK0MSVoO7/Qf/jc1tTuBez4iKAXTdcU2X3//P4qkp6ZSe+UOnurwYugAVxFA7Xdq9MW2W+zOcLuq4FcQ3KOeGPNn5s=;8hWpfG1U7GWcwX42lRYELg=="
+secured: "mSdfx6uL/SNS7q4GnkfLHkc/0wVkcAKs/BgX0JNPLLfQrKsrKoSa257SDM8Nav0cocGVyNwAgsSrVBkmrx6QaEsJ3XCW0TIYvWCdI7MQMyKpVp2jl1DGKKCkPI3+7Ylbm8m6zfLUn594RlWwkBThIesybMxLNa3O6T3dRA1VW5MxehA6vdBklYN7xZ1+x+SPHNqK/v74PMAK0ef7zcCdBQT1zUEWvNhs2l6Vm3wxiOd/tNbG4pFoBBN7L5oJLfFJTegboFrwjdqhNbqBA18lWSLV3UB5QEYsJjYnPAjd7Uun5Cg1DvFN7jDApI4FSPelKvq5UV194DyIs+TLcbcTYJguIkRIeTxZlO5p85AFESE=;pRH6DRrltgW786dn7GdUfg=="
 ---
 

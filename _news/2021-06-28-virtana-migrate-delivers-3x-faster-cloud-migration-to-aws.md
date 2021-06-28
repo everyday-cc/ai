@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS"
-excerpt: "The Virtana Migrate module within Virtana Platform brought the insight this insurance company needed to rightsize, de-risk, and accelerate their migration. The company leveraged Virtana Migrate to optimize and right-size workloads for migration,"
-publishedDateTime: 2021-06-28T13:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-virtana-migrate-delivers-3x-faster-cloud-migration-aws-/2021/06/28/9398790.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-virtana-migrate-delivers-3x-faster-cloud-migration-aws-/2021/06/28/9398790.htm"
+excerpt: "Virtana, the AIOps observability company for hybrid cloud, announces the momentum of Virtana Platform, with successful customer and partner use cases for"
+publishedDateTime: 2021-06-28T13:17:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1552810/Virtana_AWS_Migration.jpg"
-    width: 400
-    height: 246
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/03/f03f332d-513b-51a1-a054-036cd721ca33/6050c91088e37.image.jpg?resize=864%2C288"
+    width: 864
+    height: 288
     isCached: true
 
-secured: "02sVbKMEETSsApksGbjKGpdpth8I6kQVD6Vko7bUkUyKjRjjPYVjrIoVnnrxqk7lmiP3dgBRqYRlBxtHmxhqs/FC7yE3lvmUjS3LOR7wW4q2liNH1/rPZvrYYYJnlj8NFrS1A7DbfXtEAPMpjDZarmaQy16q1oiZQBbLzEcU2I0s9gzGuvCmWEVF79oyoGRhEa4j3rAU6MGEnv0RDXcViJJFXuLd7PODza5Rr8MFTXkY0AzWzBNpwkAlZcDasGuL1uvB682hlhS5e01bEqWa0mG6mfqmPnQYdcxeiSluU/s6QgwAbQ3O/E9y8ztKghtRxo5dgGm2btRE2cDOt9P888k3zLtgsA734TbTkCaDdZ0=;mVvXGNP++39I+VAeetuW5A=="
+secured: "NGS4OvdgVTxjI83gSNZ8eV0WJqIP9B1W0mRO9yZVCaf1c2G6ja1wXGBwAzAfx5cXVtvbCyPEAYZa8XoLoDSU1lz4hAaV1G/I/go0+Slozeb+hxKHfSsRTf3b6g/9v4f/zAoD3m7TqVwmcUUrYkf9Dv5a9rAv3uf8Xq0DjvOhiJH3p+bThbzEYUgGuKFkVlctVccRAoSQCVEwPWd/0q8pIsp7FvBzmdjCDqvA8Ai9w5jdnv6mKYgxlZiJrBhT1UbyVVOPYxpanP1RkjUz0Zgr3Zwzb8gbkLUo7YkUGa/Uq0T5pzxZ53covKob/3b0ec80rb7dRRhL2GEFsR5ylkr5Zcx58K24JRb+ifKp6PybJ5E=;7IX5URJMSIvHEeMmoDkClw=="
 ---
 

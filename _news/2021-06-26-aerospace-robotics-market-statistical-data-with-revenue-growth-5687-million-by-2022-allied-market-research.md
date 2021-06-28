@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market Size 2021 Rise at 35.6% CAGR, Will Grow to USD 299.64 Billion by 2026: Facts & Factors"
+    excerpt: "\"According to the recent research report, the demand of global Artificial Intelligence Market size & share expected to reach to USD 299.64 Billion by 2026 from USD 29.86 Billion in 2020, at a compound annual growth rate (CAGR) of 35."
+    publishedDateTime: 2021-06-28T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-2021-rise-at-356-cagr-will-grow-to-usd-29964-billion-by-2026-facts-factors-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6nRaHfJMcRTNdyC71XGOGDJzJpJq7CRWGOi70FcV/azZxAqvNqSNPBek6cvLHpllnk7uSwOfdolec41mIL8hic3P9qIyYAguTtcXKwN77u0c+zZWqLCnSTgkRcbFveNBvXY1iJectHbnoij8vEaxy5PQGE3MBAOPjf5JIqOVv5tsLWl89eWc45+N+nECwdPesQar5J33lKh3EvRHOvRzGEgiuE90FEpVFl+bi9aQu70JoE7QwHX++iKzaaVTj6WUUEay7EA2tdX7M2dRkuKcUT6TZGMMF5HjKXfLfR4SfR3/7z36bEUPpi7z8k2wRf9MIXKL1BJv/kOcTwgO9DJU4kblbwvdbluohZCtlXEoV8Y=;xhJVkO9NaR7xfKVgnLRRcg=="
 ---

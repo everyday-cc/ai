@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-rac
 webUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-race-suffers-major-traffic-2021-06-24/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Reuters
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Latham, Husch Blackwell steer self-driving truck tech firm's SPAC tie-up"
-    excerpt: "Latham & Watkins and Husch Blackwell are steering self-driving truck technology maker Embark Trucks Inc’s plans to go public through a nearly $5.2 billion merger with a special purpose acquisition company."
-    publishedDateTime: 2021-06-23T21:24:00Z
-    webUrl: "https://www.reuters.com/article/us-m-a-embark-power-spac/latham-husch-blackwell-steer-self-driving-truck-tech-firms-spac-tie-up-idUSKCN2DZ2P6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/T-73-Ze86FCm-Kf9HEzIJe-G100=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E4INHPFZ3FNXZPKSXDGU22IO7Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Amazon to develop 1,000 self-driving trucks"
     excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
     publishedDateTime: 2021-06-25T18:52:00Z

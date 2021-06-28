@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-28-qualcomm-announces-snapdragon-888-plus-with-3-ghz-cpu-better-ai-engine.md",
-      "title": "Qualcomm announces Snapdragon 888 Plus with 3 GHz CPU, better AI engine",
-      "excerpt": "The San Diego chip company announced the Snapdragon 888 Plus chipset with a 3GHz prime CPU core and improved AI Engine, which now performs 20% better. The chipset is pretty much the same as its non-Plus sibling,",
+      "path": "_news/2021-06-28-qualcomms-new-snapdragon-888-chip-cranks-3ghz-and-big-ai-gains-for-flagship-5g-phones.md",
+      "title": "Qualcomm's New Snapdragon 888+ Chip Cranks 3GHz And Big AI Gains For Flagship 5G Phones",
+      "excerpt": "This time around, the prime Kryo CPU core is clocked at up to 3GHz (2.995GHz to be exact), compared to 2.84GHz.",
       "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/qualcomm_announces_snapdragon_888_plus_with_3_ghz_cpu-news-49778.php",
-      "originalUrl": "https://www.gsmarena.com/qualcomm_announces_snapdragon_888_plus_with_3_ghz_cpu-news-49778.php",
+      "webUrl": "https://hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones",
+      "originalUrl": "https://hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/06/snapdragon-888-plus-specs-detailed/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
+          "url": "https://images.hothardware.com/contentimages/newsitem/55523/content/snapdragon_888_plus.jpg",
+          "width": 708,
+          "height": 473,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/qualcomm_announces_snapdragon_888_plus_with_3_ghz_cpu-amp-49778.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/qualcomm_announces_snapdragon_888_plus_with_3_ghz_cpu-amp-49778.php",
-      "publishedDateTime": "2021-06-28T03:59:00-07:00",
+      "ampWebUrl": "https://amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones",
+      "publishedDateTime": "2021-06-28T06:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
+        "name": "HotHardware",
+        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -307,7 +307,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/at-cagr-of-454-artificial-intelligence-chip-market-size-is-projected-to-reach-9119-billion-by-2025-2021-06-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -573,33 +573,24 @@
     {
       "path": "_news/2021-06-23-tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021.md",
       "title": "TYAN to Bring AI and HPC Optimized Server Platforms at ISC 2021",
-      "excerpt": "TYAN ®, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary, continues its strong presence at ISC 2021 and joins the “ #ISC21 ” platform from June 24 th to July 2 nd to exhibit its latest AI and HPC server platforms for data centers and enterprises.",
+      "excerpt": "TYAN exhibits its latest AI and HPC server platforms for data centers and enterprises at ISC21 Digital from June 24th to July 2nd",
       "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021/article_a8b9a8ff-c8ea-5806-9736-2ad271e84b87.html",
-      "originalUrl": "https://www.register-herald.com/region/tyan-to-bring-ai-and-hpc-optimized-server-platforms-at-isc-2021/article_a8b9a8ff-c8ea-5806-9736-2ad271e84b87.html",
+      "webUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
+      "originalUrl": "https://www.businesswire.com/news/home/20210623005008/en/TYAN-to-Bring-AI-and-HPC-Optimized-Server-Platforms-at-ISC-2021",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/7/a7/7a7b6035-e824-5ab2-acdc-0f9cf9582cad/60d2dfd57583d.image.jpg?resize=1200%2C550",
-          "width": 1200,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:02:00-07:00",
+      "publishedDateTime": "2021-06-23T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

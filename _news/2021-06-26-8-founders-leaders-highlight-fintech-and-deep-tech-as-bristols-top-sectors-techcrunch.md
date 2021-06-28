@@ -84,6 +84,20 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 35
+  - title: "Qatar FinTech Hub preps demo day"
+    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
+    publishedDateTime: 2021-06-28T14:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88314/qatar-fintech-hub-preps-demo-day"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "TfTx1gjyyZMETVxAS8ziWG8V0UMjT/1jf5l1VibozATUS+DlVHIQfo5SUcEZTWwishy4NSuiZyvTNUbuBi2W56nkgWWMBiv9QdLpH5BBTOh4FHcPZqbK7h07TGrkbQT04GjpIIkGhYieEURC242YM518GTi7teYXEuoPin+VThB6v9WvNaozZbifj1bjuefRQwRn7xYDn1bbebkdv2nKPw3T0e6p1DRgNZ17f6NdqQVg6VXx7T8qda6iHRkYhmRP/sbrD9S07NuhCuwFt0zdCuQ3zigUCFOYoFUfDgzpiSRjt4gNBAYY2VccAuDlgbtfFV2ASUgXoF0p0uDW2c9YSrV48hiaUQNTCMLR/lmzYTgZGyZ1vZLXz3GrCtZeLHNwDyhKsKumIazPlU5ELovTmM4Y3XssjbSdCDra1BP8LswVSGDfwzmuuJ5Ti07snT8iDPnDdCqO6SjREbCXcacdnWLqnfoBCToqamDkkRoYoWgDbZE4pV9xMEXw0l4MJ32hgrnBcuMJlKXMDQtnKKuObQ==;WyNCNW0XeLh77FdGaaP1ig=="
 ---

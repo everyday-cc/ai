@@ -30,14 +30,19 @@ images:
 
 related:
   - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
-    excerpt: "The Association for Advancing Automation (A3) has created a new Artificial Intelligence (AI) Technology Strategy Board of leading AI experts, part of a major initiative to promote education and adoption of the applications of artificial intelligence in automation industries."
-    publishedDateTime: 2021-06-28T12:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-artificial-intelligence-strategy-board-lead-ai-initiatives-/2021/06/28/9398608.htm"
+    excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
+    publishedDateTime: 2021-06-28T15:44:00Z
+    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: Automation
+      domain: automation.com
+    quality: 34
+    images:
+      - url: "https://www.automation.com/getmedia/822abcb4-a88c-498d-b96f-f6ec34d06266/A3-strategy-news-June-28-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "/ddaZt2XHC/dJtkekSa6U6zU4oRZorKAbFVwa59zQBNNnczaZGu8L2DeErGHv0WANp9sSZfqTVqo44AAXOYNtIAmcPhCdee6MIqVfAb1eGfTWuQ9KHfky1TclRJGV0/e7LAhsQrU2MNeXdW8p13Ka1UFPAX1kMm6yONC6p/z3ZfMtuAfilex/h1VwpBAZyoBmVonW6loW9V8jZ4HkdtZZAFXELrPdAOX+ldwLcJ+tOKrnbCyuQwkA3TP/Vo1/r77igcVbTONW5s4WXylFqIig5xvRwe5x3LVZKiwbwhnEZkBFNnkP0Ds/phNe8ADg3iJAIzlPWZ1MrH2O5rEix0GPJMy8xjnN35D+3M0/QFrBExIVRXXII6NlX5805zfW0fXuQPcmRKnWfNdIgr5EOG67C1VLmH/4EtDHX3t5NozgSPNYvw64hLjc5T343fvPht9gouTFegq0RufxilbQpKbfw2AeKYiyaQJVJQLiHyKbHds5ZwnPe3PtQ4T/r0sNgxfZB4ZNubfIMSYdOJXdGuYkQ==;TA8okwMYJQ9U8mQvmWC1EQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-22-mind-written-couplets-add-technology-to-chinas-cny.md",
+      "title": "'Mind-written' couplets add technology to China's CNY",
+      "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" Prof Xu said. The mind-controlled writing system allows two people to work on a character ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny",
+      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/039mind-written039-couplets-add-technology-to-china039s-cny",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/02/08/1037355.jpg",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-sense-of-touch-improves-control-of-robotic-arm.md",
       "title": "Sense of Touch Improves Control of Robotic Arm",
       "excerpt": "Adding a BCI that evokes tactile sensations makes it easier for users to manipulate and use robotic arm prosthetics.",
@@ -1327,58 +1370,6 @@
         "name": "Los Angeles Business Journal",
         "domain": "labusinessjournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-how-crocs-used-robots-to-rule-the-comfort-economy.md",
-      "title": "How Crocs used robots to rule the comfort economy",
-      "excerpt": "Crocs emerged as a stay-at-home comfort essential and experienced unprecedented demand. As a result, the company quickly outgrew their distribution center and",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
-      "originalUrl": "https://www.zdnet.com/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/17/f87144b9-b649-47ca-8d43-9a8a2d6c8c0c/crocs.jpg",
-          "width": 960,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-crocs-used-robots-to-lead-the-comfort-economy/",
-      "publishedDateTime": "2021-05-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

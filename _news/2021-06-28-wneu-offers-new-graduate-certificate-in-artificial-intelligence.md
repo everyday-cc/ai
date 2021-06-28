@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-28T13:03:00Z
 originalUrl: "https://businesswest.com/blog/wneu-offers-new-graduate-certificate-in-artificial-intelligence/"
 webUrl: "https://businesswest.com/blog/wneu-offers-new-graduate-certificate-in-artificial-intelligence/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://businesswest.com/wp-content/uploads/2021/05/EEE_324071_MAC_I_General_300x250.gif"

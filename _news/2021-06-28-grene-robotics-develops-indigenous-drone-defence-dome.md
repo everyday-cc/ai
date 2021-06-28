@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/grene-robotics-develo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

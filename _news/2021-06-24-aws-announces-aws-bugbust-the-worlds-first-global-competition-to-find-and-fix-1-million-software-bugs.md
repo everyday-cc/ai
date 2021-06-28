@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
+    excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
+    publishedDateTime: 2021-06-28T14:22:00Z
+    webUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/"
+    ampWebUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
+    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 59
+    images:
+      - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
+        width: 800
+        height: 498
+        isCached: true
   - title: "AWS Announces AWS BugBust—the World’s First Global Competition to Find and Fix 1 Million Software Bugs"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the AWS BugBust Challenge, the world’s first global comp"
     publishedDateTime: 2021-06-24T19:00:00Z

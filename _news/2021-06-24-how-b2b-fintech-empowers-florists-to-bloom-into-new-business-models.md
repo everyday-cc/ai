@@ -70,6 +70,20 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 35
+  - title: "Qatar FinTech Hub preps demo day"
+    excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
+    publishedDateTime: 2021-06-28T14:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88314/qatar-fintech-hub-preps-demo-day"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
     excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
     publishedDateTime: 2021-06-26T07:00:00Z

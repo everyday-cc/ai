@@ -105,6 +105,22 @@ related:
         width: 3072
         height: 2154
         isCached: true
+  - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
+    excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
+    publishedDateTime: 2021-06-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/28/that-hacked-electronic-roadside-display-in-brooklyn-said-cars-are-bad-which-startlingly-brings-up-questions-about-the-advent-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/28/that-hacked-electronic-roadside-display-in-brooklyn-said-cars-are-bad-which-startlingly-brings-up-questions-about-the-advent-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/28/that-hacked-electronic-roadside-display-in-brooklyn-said-cars-are-bad-which-startlingly-brings-up-questions-about-the-advent-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d7a0696b4de7c0b6de383e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1617%26cropY1%3D37%26cropY2%3D947"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
     excerpt: "Last month, self-driving technology company TuSimple shipped a truckload of watermelons across the state of Texas ten hours faster than normal… They did this by using their automated driving system for over 900 miles of the journey."
     publishedDateTime: 2021-06-25T13:00:00Z

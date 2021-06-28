@@ -101,6 +101,6 @@ related:
       domain: nasdaq.com
     quality: 49
 
-secured: "yoCmCtyx4wMr5yYb13Vg4/4wVc1bfLQGy0I8uy3+o4pIQpMyQBdEgnED43tk1MpU9ZJnYu9bs9Uj5uxQ02g4L+D2H+Q7imvjk3ldyN7NhK4zcQr/gDPK3GicJDqQAzefqC6LkqBCNtx8MhVfP0E/Rm8KbgWhUlchI0rxscMAvpRKDQejQqUXox/SqL9K0VAi3SylwpqQB/fPqv1XlZFFD7XeOxYdWbPaPimCdmtp+uyrSV82s4C+KpLRIWZwTk/bK3naWQ9hRtmuIz5ZbF7e75ueoNv1xkazdfUGAkUgY1Foe85SN0Gkucd5FCoBs3Ul6KqGmgiPlSx8lhBCnIoT5vNfLZ/87j+98GrGXDJyhfk=;08U2oKIsve+Z6fnDmim1IA=="
+secured: "LDyolL62hOTM7j+JnOVM/uc3ifR0gqBRm5Sq9e7icNQL4nq8AjJBiQQNjs+IWqEN49hjvea0Xz/oIXm2Fp+F+AhsceiViOcbQsiJd0aN+6Us1iRD8g1njnknY9qXKtVu9XGOWNPiGYi4daWtsEI9MnVhpzCM2bvxwdjtVX5QxHw+4VgpaJcGqmLeVLieuPxDVA/V5zp97EzwV+NJ7jkm52UI/ymv8/fmGLQPAn9sloB0ntodXmpplEej4k52fhdurOZidN83FSsN9gdpcZWld2A7xr1mA5UKqTc4CSTfQiQ39u84YlrFkmEpkg/tGlpOORZykesGbdUFwg9JP/o0OF5e1b8ILJWGsDbOJFNf+c8=;5vL4+TKym0UCCUScSQjpiQ=="
 ---
 

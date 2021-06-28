@@ -1,45 +1,26 @@
 ---
 category: news
 title: "The Linux Foundation Tackles Safe Open Standards for AI Voice Assistants"
-excerpt: "The Open Voice Network is dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
+excerpt: "The Linux Foundation on Tuesday announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems. Organizations are beginning to develop,"
 publishedDateTime: 2021-06-22T15:15:00Z
-originalUrl: "https://linuxinsider.com/story/the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants-87173.html"
-webUrl: "https://linuxinsider.com/story/the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants-87173.html"
+originalUrl: "https://www.technewsworld.com/story/87173.html"
+webUrl: "https://www.technewsworld.com/story/87173.html"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
-  name: LinuxInsider
-  domain: linuxinsider.com
+  name: TechNewsWorld
+  domain: technewsworld.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://c6w8h3d4.rocketcdn.me/wp-content/uploads/sites/2/2021/06/voice-assistant.jpg"
-    width: 1000
-    height: 520
+  - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-voice-assistant-1.jpg"
+    width: 620
+    height: 360
     isCached: true
 
-related:
-  - title: "The Linux Foundation Launches the Open Voice Network, Promises Privacy at the Heart of Its Standards"
-    excerpt: "An official Foundation project, the Open Voice Network aims to encourage the development and adoption of open standards."
-    publishedDateTime: 2021-06-24T01:20:00Z
-    webUrl: "https://www.hackster.io/news/the-linux-foundation-launches-the-open-voice-network-promises-privacy-at-the-heart-of-its-standards-7e4797f4581c"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 9
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1315771/_KXgG7ulmbq.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
-        isCached: true
-
-secured: "Rr9QmpzPZaYIfc5dEyUWY+cbTqcCUALn6NTPf5fmr/D/HEo3wzGib8Z9JD8V3aeWmBxFnYAN7dFABQKH3y8NzMTOwwf1jmzmlkm2XKt9PJRug6Br68QRDeXrjMKXVYLSlaVYpSBoSX8KwcNnV92n09MzMiJ7GAHGxLlKu6FzBVhPquuBITdS2G9lTk9T2pN6m7FujNzUCi4+KrmhCP0R79+H/3C78r7061lHFJSc6DY/DzzJdp9aKAcI/AvQ0U+wTf/H2Lvv8N3CMz7CWa6F+q1n5zwQWAVr7uOf2Cuv6Z8RKfrvjIe087GJYOMKE+6+jlCHeQl2evj/xDC9NlxguuufPBEHMBOWVKwIuK/AgWo=;+SaOs1bEF/BU/mogFwjwGg=="
+secured: "FlCK+KA9UVjTFgnVFNwwDrbWGXtCpds7Q95WX8mMyQ4ugxsBOTBsNaDJIzl2zErI49+b+LSrwfJqkHo4h/ObnmlpFlZS8UykpSq4tLZuxy/2MNaTz+UAKpTSByjHkeAs0TocUhiLlnlXbuiOwHgk+2oYwEXithD0dLL6nMspDsx5Glilrwzsk1s4bQiRQJrO95S9O+6uOtbbhTuNQu5cFDwOuC99ughPbvZUR0tRo8uOIwmOYJi1+/K1hukPpEJszG3vEQcBeJ/ENp6XjdUbqXhxUMGTJWUSF7xWGWVz7zI7KwyVzQ6re8KCT9KQsVwZof71RoYz5yBmhrVB/rNV9aHUspW2yg5TFm4+zoYMZzU=;9bgxqkvKYLvkOmQpubJpaw=="
 ---
 
