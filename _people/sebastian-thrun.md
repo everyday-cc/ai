@@ -21,7 +21,7 @@ website: https://t.co/rlrjbh9s51
 twitter:
   username: SebastianThrun
   url: https://twitter.com/SebastianThrun
-  followers: 77148
+  followers: 77147
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7K34d7cAAAAJ
