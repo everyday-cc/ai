@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -101,17 +101,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
-    publishedDateTime: 2021-06-23T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "5xXbODUePaujfd4iVjQFGQAdfUzrk8OxhBUR5/Fn/aiVE0X8fKxWxR8vuI1Nj2X+u0jWUQwzC8Ch56cXJMhx3BvDr4T3cfaOP4SHfF5qLbvm6dnZAT6c12NGG8MtvzUE29VNtcA8Tt8poYTAWmIPIY5L27VnNIVtBS+emGMuN1g72mzl+ZAA2tf2tUmFiW+n2vP679HdsR6x8q7l6D/FFy+q3hm6qGb3S+Mp/bn2B+p9JUOzVeLRnjlwCD0u3hA99WHRYrVKgDGnbt5ZG/8hgOl0sId3dCORP8GDMABtFs85/A4Pw4bxyM8QH/QoSV5moCmoDVwM2ULSeeWrVJa8DUVQFh6q3kraCge7kQbjjuxQKxSVyUBSKK4E5dkFxiSoPyf/yauiZiOS2PyNil5SbHpFF8ydd/XySAuU0HKPoi935d1xa7kpVWd9oy/VJDx562iNbttDFmhoeEvYWzyyG/csY47JjclnxMnx6bGMih8XjUE5OyQfl2KOQGjhRIgv7AviqdW4jS8OIpokDVcQ6Q==;at646+TLy8tLEvq/KXol8w=="
 ---

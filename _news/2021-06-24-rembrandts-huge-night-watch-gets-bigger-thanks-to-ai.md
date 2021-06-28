@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night
 cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: WTNH
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
-    excerpt: "Rembrandt is now complete after centuries of disfigurement, thanks in part to artificial intelligence. Seventy years after Rembrandt painted “The Night Watch,” edges of the 16-foot-wide piece were chopped off in order to fit Amsterdam’s Town Hall;"
-    publishedDateTime: 2021-06-23T20:30:00Z
-    webUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725"
-    ampWebUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/df69ca278ec88a399e30d9e38572b138.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI helps return Rembrandt’s The Night Watch to original size"
     excerpt: "Rijksmuseum reproduces the work in all its glory, 300 years after it was cut to fit between doors"
     publishedDateTime: 2021-06-23T22:05:00Z

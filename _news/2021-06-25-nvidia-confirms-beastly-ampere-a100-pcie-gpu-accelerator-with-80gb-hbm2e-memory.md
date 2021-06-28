@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-confirms-ampere-a100-pcie-gp
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-confirms-ampere-a100-pcie-gpu-accelerator-80gb-hbm2e"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 708
     height: 446
     isCached: true
+
+related:
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing"
+    publishedDateTime: 2021-06-28T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-301320686.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1552381/Supermicro_ISC.jpg?p=facebook"
+        width: 1430
+        height: 749
+        isCached: true
 
 secured: "BN27yJouZ45ODt7pQZcUlYACKcfAcedjhX7/FfVQ7IaaIwt4Vr4Sj8P1wWa5eCOz2UoW8IUN0KApuzrM4W14i9diE63oOOdJYaskCzSsRjZ5z29fTa3M61+euO29OKd5qjOCjmgQ7nrmNbxuQsqDrKiELT15uQsg+eiVAPqZf5maxgE8o1WTx4ylUYkQ2VHUXQPUFkvtAbNAeVGE10/JhPDRTkOjWZgdD2DHKI4rE47Y8MrNikmTtNoYZjo4kDfae5w9u6FH6FEMfJgC4/B0ZrL83uo1dH7RoqV37XdNXHDK4V28JraJjm/cpwlxEMcisVO5KiHSZNpmjfI2RW62tcjj7w917/qz2OrqanvXbiPgBX39R5Ekv5cVK/gzaHvZZDtuhqmRKKemrZ1ZgzHm5S6YB5OJO2srgYL81v8jiHCkpJIWgc37uxMHLHzSMODn4d8hW9DZcfnF317AXwCjYWi7h/f2apFg/6wtJY56PL6krZ69FAZNwbIoOsujBEeMpXXTBNWJrGjeDlaM2v8pzQ==;I14eyPoUj4h7XbF7DPRR+A=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Helps Restore the Missing Pieces of a Chopped-Up Rembrandt"
-    excerpt: "Rembrandt is now complete after centuries of disfigurement, thanks in part to artificial intelligence. Seventy years after Rembrandt painted “The Night Watch,” edges of the 16-foot-wide piece were chopped off in order to fit Amsterdam’s Town Hall;"
-    publishedDateTime: 2021-06-23T20:30:00Z
-    webUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725"
-    ampWebUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/df69ca278ec88a399e30d9e38572b138.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
     excerpt: "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate"
     publishedDateTime: 2021-06-24T12:19:00Z

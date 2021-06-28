@@ -52,15 +52,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "The Funded: Self-driving truck maker Embark Trucks plans to go public in a $5.2B SPAC merger"
-    excerpt: "Self-driving truck startup Embark Trucks Inc. announced plans Wednesday to go public in a blank-check merger that would peg its value at $5.2 billion. The San Francisco company plans to merge with Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T19:19:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/23/self-driving-embark-trucks-plans-52b-spac-merger.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "xxNWwHa7scBBVEP1jydhiskRqQQMPk5GrpkNWscVejpS3bW9e9yvR63uAzRB2YymM/q6FmVMUYtuu0ahTrCFiRVwZjJiPxIM76pAQMso9DeefsJkS2zMtLnMzIk/M5wppFBJrroVJzlKQ3wAocy1tDrejQjeFe3l+Ivo1OjwrYjcj3ehywrSW6VHPsm9wg1S6utS4hlfSVlJ+MTN24s9v4SRcZv2I1EIh7DNgFFA6VAXhm2rZX1rn83ORoPSggi5yYhjTQy2JdWfT5rJBhaRR+0Xsil+HxNJzA6Q+QGjFw71UsbYryll1A9rKA/RVrnJ21RGd6Gq9YFoNHQ8YxIFeRXEaOD2SGze7AQrxJENPrs=;qSDyhuxVDz9O9bRsO6qeIw=="
 ---

@@ -95,17 +95,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
-    publishedDateTime: 2021-06-23T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "7P2UPXQUbiFgvNHNmPwZv5f7lyuWLQuIeReFKQW8E2JHkpRdsIyWIQN1CNT4j+lT4K66GfN5YzyTAJ31aJ5Qorvae/3fz5Djeadn+kMHRiFe0jD81KXZwYgcgrRcQNSW25psut/S+VMIzverRDMihjw9O6luIi2IPEniO7UNypTkdMra7L7YRbACNtDvtTjoNsgRAdrezcApAgNHESqWvZB2eppXs4lYRbg4Z4H37biedaNWx/fNuGRZZOWJ2Tza62kRMNRihF481uIAoGfY1UNdoH4Mm499yDbPVZ0dlbF2RuJXLS9mUK6A7PJjFcrmAzD2h59cgZ9KT4+kTBpEG9rHDMCF6uI4UpMCz2lqLck=;tkVWsvYqs6k7yfEUyt66Jg=="
 ---

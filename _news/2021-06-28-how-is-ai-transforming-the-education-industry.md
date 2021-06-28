@@ -96,17 +96,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "The Evolution of Vision AI and The Company Seeing It Into The Future"
-    excerpt: "Plainsight, previously Sixgill LLC, today introduced its new name, brand and position as a proven leader in faster,"
-    publishedDateTime: 2021-06-23T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21693433/the-evolution-of-vision-ai-and-the-company-seeing-it-into-the-future"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21693433"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21693433"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "QNHgkWjAVe6R2BdkPSbvf+O38O/B0fmv24ZVAPHAeNRBa7lZGdYjSNdecE+PNaNvHzOIUlrt4w1r8YDzYk+9QVF4jbmYxUKoLllr6q+3SxTL5fl2P9UzavAZky/+kHGDODD/EvAoQMkDT0r/dAX3FlSgi02GeP9iK6DijplcbMLDol/CbLnwoKD069L2SW0Ky9iuipvuhwdHT0ND8IN2JBnLg9s7iz26m3btGvAjIrQ6ElLrD25b5E6D9iRCGYSpd3q4T7DvLnjCbhDmf6sfoK5nIRUBeBu++kD7zRmnekIK4BtJ5uUo8RyCo6/ICXvqUFbKujxF4qZtspw1a3kBIqfBQ2kMcfr7MoI3iaSzLqE=;g0o6Ixgb2mfYALhN97gQAw=="
 ---

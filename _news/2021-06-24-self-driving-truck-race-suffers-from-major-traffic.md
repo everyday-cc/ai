@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-rac
 webUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-race-suffers-major-traffic-2021-06-24/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "The Funded: Self-driving truck maker Embark Trucks plans to go public in a $5.2B SPAC merger"
-    excerpt: "Self-driving truck startup Embark Trucks Inc. announced plans Wednesday to go public in a blank-check merger that would peg its value at $5.2 billion. The San Francisco company plans to merge with Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T19:19:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/23/self-driving-embark-trucks-plans-52b-spac-merger.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "u37qWNudg6rcvk2uZzY92FdpLnI1iq1KqcqgGHXX8uaWBeTeg5YxnO5crJUMa0eRQQTpALF134qzKWu/XoSQ4ek43bGt4RA1hJhSYQRIJn9TvzYin82BE0MIrXflLVE3baSxoDXEWsgznpg9220ejh25IoaoSzyAL7sWwstrR907WmNPrkU0x0+GwL2N6th+oaK10Rg95akWMyBr2BD4mzuPKCW9c4IVItxXAxf/sW1E7KLjBVySqDz6NZdhEoBbpPOwgtfAb6vCH97MWu9lAt6SbwO6okLM0CAP8JYdsgukKN3lnwiMKGBcAYJ2TOeHVnVv/2y55SV/hgJSEZMfzt9ZDDd5N8HOAkhKe8Id4bbt1Ad1uWLdwOndAYWX6yyDhA1vX2JH85d8xvm8KS4GS8wxY2GJnAElJV5bFa1aLb8oF6DpJ1apg0fO9r9VZ+mtxFTdceQgPmLMKBZ43s6+hpctHnkmDXOheGqiXvJMIYtcIGccaTWk69beNIThaR9jMPb3A3u+5Halih1cYCmLLA==;DDT+06AMZgdpSa24DZfAxA=="
 ---

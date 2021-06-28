@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2021/06/27/why-do-board-d
 webUrl: "https://www.forbes.com/sites/cindygordon/2021/06/27/why-do-board-directors-and-ceos-need-to-value-sustainability-and-ai-relevance/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
+    excerpt: "The Association for Advancing Automation (A3) has created a new Artificial Intelligence (AI) Technology Strategy Board of leading AI experts, part of a major initiative to promote education and adoption of the applications of artificial intelligence in automation industries."
+    publishedDateTime: 2021-06-28T12:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-artificial-intelligence-strategy-board-lead-ai-initiatives-/2021/06/28/9398608.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "/ddaZt2XHC/dJtkekSa6U6zU4oRZorKAbFVwa59zQBNNnczaZGu8L2DeErGHv0WANp9sSZfqTVqo44AAXOYNtIAmcPhCdee6MIqVfAb1eGfTWuQ9KHfky1TclRJGV0/e7LAhsQrU2MNeXdW8p13Ka1UFPAX1kMm6yONC6p/z3ZfMtuAfilex/h1VwpBAZyoBmVonW6loW9V8jZ4HkdtZZAFXELrPdAOX+ldwLcJ+tOKrnbCyuQwkA3TP/Vo1/r77igcVbTONW5s4WXylFqIig5xvRwe5x3LVZKiwbwhnEZkBFNnkP0Ds/phNe8ADg3iJAIzlPWZ1MrH2O5rEix0GPJMy8xjnN35D+3M0/QFrBExIVRXXII6NlX5805zfW0fXuQPcmRKnWfNdIgr5EOG67C1VLmH/4EtDHX3t5NozgSPNYvw64hLjc5T343fvPht9gouTFegq0RufxilbQpKbfw2AeKYiyaQJVJQLiHyKbHds5ZwnPe3PtQ4T/r0sNgxfZB4ZNubfIMSYdOJXdGuYkQ==;TA8okwMYJQ9U8mQvmWC1EQ=="
 ---

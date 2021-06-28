@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-ma
 webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://biz-file.com/c/2106/616382.jpg?2"
         width: 639
         height: 503
+        isCached: true
+  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
+    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
+    publishedDateTime: 2021-06-28T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=491730"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "er99n9IFkPBjisZWIEiO18Jh+3stsugTQOp+2LRI4YoowDZU2ZN7FcZ4oOmiL5Wef8dEEvDNtRIeKsO4qY+4csWcqD0KPh2O1t+r7HSaiAwrfCsWOj8+XaoVJZcmFrhPCs1rq16ACnb2wGiZWErIlU0/FoD0YNtCV+qK5DOQzW3mvvtgoaFslU0J6K6iWBWJk7lBvd/XYdNWqFrdVoV1HsLqxOIEkiKc7fTsoZotubT1kMCpLKjeCRj0T4os6PAY7CNPwx7O1Dc7QpphLY1kc7B0WATtZuk45wSRJmHya2en5sWHjfDCcRDDTJbclQb0T/msEqHpClSwO71udac9ugFUQDuUahCQhPnE3xq2r9qCfJxwagIOgp+xr2vhRUFRX89KXzhzDy8QukaPgcRCDBowdyYDOhejOapWxqxQOrugpHj1xr2WipJLFkmjJ3Cw39bS/pT722fXbf8bRtyPwO1wmyUTEcb4csjEanp82rm7r6GfYD9+kJ/p1WJKBWlp+j/Mpyu+inZ/DPkKjlWi4A==;G3pnDiz9fADfcMa5Hl4s2g=="

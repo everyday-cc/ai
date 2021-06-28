@@ -53,6 +53,20 @@ related:
         width: 639
         height: 503
         isCached: true
+  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
+    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
+    publishedDateTime: 2021-06-28T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=491730"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "MUI2EKf2PyLs5DUoXI5361Q8Jq6Y9LgT4MluNeIO4wKsM6pF3ZEKsAqACHs01UrNGNZL68DNbLegwGBqGVQd5sQnCjG3LSbiCyMDqN/ZmboteEUlQv8vfsohMAGBwEhmdkg/AfZYw/a/WIchvfWIHHJ25ru4qinH9OK/nZFvdvgeLD+T57ZXWlNBzmX7i5oGm1tREUkCudM4iiyJzks1ji/XvI/AuAFsmjjU/dtKgAgvsaR1TrwrNtEVzE5TNNKfSK6Xi6VXT2tLLkMug1+ObU8my/dOvFHbvBEb6VIuCsKjNu68I6SO7Ur3yzf84eqrfwlhuKAzd17rbd9EmgPpSPc8xjkJ99/3zBEPyCRO23jX+GpTLfMxPg5twLfM+UvHm3p7YLO9oc7rV2uXf597cpt2uLTdHCkb3kXuQJXeBKJkCsPGfgTnO2vsJ0KfM1pWXyEIVU5Fq4NxgzDTU0mOJa+vhubTz8LC6StayMCTeb0d5edjYkIdpV1GBqFMIESNnAid3QSedvZrdvCj8uqo6g==;fR2wikCHj0kjCE0DeAoDkg=="
 ---

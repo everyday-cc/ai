@@ -19,15 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning aids earthquake risk prediction"
-    excerpt: "Soil liquefaction was a major feature of the 2011 Christchurch, New Zealand earthquake that killed 185 people. Researchers developed a machine learning model to predict the amount of lateral movement that can be expected from liquefaction during a natural hazard event."
-    publishedDateTime: 2021-06-23T19:49:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/06/210623130649.htm"
+  - title: "State Street to Implement Machine Learning: Tech Roundup"
+    excerpt: "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,"
+    publishedDateTime: 2021-06-24T17:31:00Z
+    webUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/"
+    ampWebUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
+    cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 61
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Technology_Social_Media_Shutter_640x640.jpg"
+        width: 640
+        height: 640
+        isCached: true
+  - title: "State Street Uses Machine Learning for Private Markets"
+    excerpt: "State Street Corporation announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s p (“Canoe”), allocators and managers in the private markets sector will have an integrated experience where traditionally onerous and manual alternative investment workflows will be automated and streamlined,"
+    publishedDateTime: 2021-06-24T12:21:00Z
+    webUrl: "https://www.tradersmagazine.com/am/state-street-uses-machine-learning-for-private-markets/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 21
 
 secured: "tO6sxh8MfgFaeBor490vpmuEgDe9iKHYQf/tEdYaCrNEYasnosRtREXHPrz8AOYZR5Iiz7TT3CD+pgIO8Jp/Vwn0s9qz7OVvlwruI/RN90i9bLacDar2sMQoyyoGhfKP8Be2HaEoLY5qluNRFYwlBk7FLQPvLDS00N+lQb9mSe/aTkScSnl0ZBhVFZKTNj7AvssqVldk9WZSr5tdn4Dl57m2mdZ9bPSKDW5244DpsVJ/cGvhXZVWvgITHX49R594/E76mq7EDCxPZHiNXqM3pov1W73/PxKMNQZgwlEDX3qrKqUAkxnsf4BHeYRI15T2Rekb84A7FJuutdhy2nnGpD4BHhdqnLgScPcwBQx3lHc=;75OXRYhdVD4YY0yaVHFtNg=="
 ---

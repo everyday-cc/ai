@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AppTek's Director of Science to deliver opening keynote address at INTERSPEECH 2021"
-excerpt: "INTERSPEECH is the world's largest and most comprehensive conference on the science and technology of spoken language processing. It is hosted annually by the International Speech Communication Association (ISCA),"
-publishedDateTime: 2021-06-24T12:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397159.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397159.htm"
+excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) solutions for automatic speech recognition (ASR), neural machine translation (NMT), natural language processing ..."
+publishedDateTime: 2021-06-24T12:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-director-of-science-to-deliver-opening-keynote-address-at-interspeech-2021-1030551014"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-s-director-of-science-to-deliver-opening-keynote-address-at-interspeech-2021-1030551014"
 type: article
-quality: 18
-heat: 18
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -24,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "BGUv7nGu5iYwewVDTJ77hS5YS5Cx8FK3tc+ec5I/Eglw3NriPjuME9ss1PK7voynyIipYnpR0I+QZrWsSPPsCnmeb87jqSphkkGRlp2JeII2kjkixYkXlMk8c143koDww/YJeDFyjDQ3HmU5vF7/4RNbYnRuQIW3W1few2cOMv/iGPwf7dpaCvlxSgs5a+ekFiXSO2QjrzZ58BdGT1Wkt4IJjE6Sassr43xCco36F+ALLsGM1Ty0xy8xA7MHpsXtmxCGQaKYRit36DxyFbBgiooXPqJjMyr18nZ7bhzCPg7Nbg4mMXm74kKU18EvqtIXFYvJ/dd8bkEyzVlLBgxKhhusBqYRTg5lsByM9xntZkQ=;Bzl+0BwK30TTxBrpLLueDQ=="
+secured: "1QVOd1NZQeEN/kx2UBx8uG0WO5D0f2O+dEYIU+HNw2ftoECtkaRxGVZNTPXXr95eLW8mhj/QPn5FguHf+cTUEsc77LHx0GYdwKiyo5uBEOk1ItCSBJ/Yf2r/wAFkSOm/DAego8MszTXkIqDJBvPi3um9YOwk9cXyLoqIaXwiop6UMTSVDbaLbCXPRYcoODm7r6gKsrQMaV/qeSZPcowD+Z9MrOb9rne2Bprm9ZJZZwndqHSHw7XhFRoHk7MOcJwSkcal9+1EIuYRrhAGkulMjIvcsFeeRVKj8HqRe8s+9KcWSghnvQ1u9dbDczXlz0KWdVt6Vcmz8/fgF7NL5UXCeH0k4eXlIh0cPP6NlmQZcV4=;hH6Cy3sIAV4TXN5Hu7ZBLA=="
 ---
 

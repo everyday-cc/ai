@@ -107,20 +107,6 @@ related:
         width: 720
         height: 360
         isCached: true
-  - title: "Montréal’s Aifred Health wins second place at IBM AI XPRIZE competition"
-    excerpt: "Montréal-based healthtech and artificial intelligence startup Aifred Health today won second place at the final round of the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-23T20:06:00Z
-    webUrl: "https://betakit.com/montreals-aifred-health-wins-second-place-at-ibm-ai-xprize-competition/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 41
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/Aifred-Health.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
     excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
     publishedDateTime: 2021-06-24T18:35:00Z
@@ -164,6 +150,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "14AGOWhZWhr29gNmGz3OVMSSbeaOP55570K8ldccJLo2yt5eKDxQoDOrmgqMZDKBGZV84Olh92MEO4JncZKqDgvvMq7285QfNbAHoBe6M6bjDuTpKgtCM8lYcONkZUKfRK5LgqL6MeufnztP08gVDhRPV2191AsI76hLiBLEMm4zksJaflJnj/xNC9Q2vkSpObgbDorVoajRaXvTbX/W+gbE8bocLlpaZC7bD2756pqPu5hvkX6OH/e2tNxO0y7g7fD1EK0N6aB5OFUg2RZn7t1PDZgk5cR4yhQGK2vE2JLCrhadzP2RAQLmDr57Wv+PJC1j2QzwNcYkPf3SPmh+J7LG3cD5OBkfXorT7T/LrPw=;MfKQUphqb3DjS7dNno3YSg=="
+secured: "urwy/TblrtJbnG8CeViuiwV64I0D+Vh7hxXuICNaKy4jOd/GZPM5SoVKSkB3Gyw2vg19NxfLixiXb/r0LYEUf1Eo6X4oIB//pT/DRNbQhJDhkp0flYPQkNgBpJnw83SBMVa/kDZbvlagszKyIZJUGkeX/aJpq1/1zz+qOamKiFLDLEaAIwYIhagq6k4rr0ODCh3CiyXh2WWGRAiwYXMhVxpOfjIIYF0zbnyiQmUfX3UyqSJVOznbXkv29AzGj19Wd53FL0v1jvf15qJXwPewX0HriUzQB6pUUytT7w3miyUIG5Z04CDnmCBanEtko9uD54ybf/4srr4NljtY6KPYezUlB2Wfu7l2en7D9KS2qzQ=;GtSz9gS2+UaXJTnQZIOCsA=="
 ---
 
