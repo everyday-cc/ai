@@ -53,22 +53,6 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "MTN Partners Fintech to Drive Universal Health Coverage"
-    excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"
-    publishedDateTime: 2021-06-23T23:46:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/d0eb8d23-mtn-nigeria.jpg"
-        width: 1280
-        height: 721
-        isCached: true
   - title: "Qatar FinTech Hub preps demo day"
     excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
     publishedDateTime: 2021-06-28T14:04:00Z

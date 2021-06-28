@@ -40,6 +40,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
+    excerpt: "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware."
+    publishedDateTime: 2021-06-28T16:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/"
+    ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Making it Work: AI is the future for deep data start-up Altum Analytics"
     excerpt: "Less than a year after its establishment, Altum Analytics, the Belarus-founded, Dublin-headquartered software company, has already raised €500,000 in funding and is readying itself for an expansion drive."
     publishedDateTime: 2021-06-24T09:15:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPWNlMmRkYWQ3LWMxOGMtNWFlYS04ZTlkLWE0ZTcyNDQyNjNkMiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjY2OS41ODg5OTA4MjU3JndpZHRoPTQ3MzEmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA4ODA3MzM5NDQ5NTQxMjg1JmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgyNzUyMjkyNTc3OTgyXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImY4NjQxN2M0MGJhNjYxNWNkMGI1ZjBhYzUyNGEwNjZkY2EyYzMzNTkifQ==/making-it-work-ai-is-the-future-for-deep-data-start-up-altum-analytics.82752292577982"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Finalytics.ai Report on Digital Experience at Top 50 Credit Unions Points to Critical Challenges Across the Industry"
+    excerpt: "Finalytics.ai, the creator of the first journey orchestration platform purpose-built for community financial institutions, has published a new report on the digital experience at the top 50 credit unions."
+    publishedDateTime: 2021-06-28T17:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/credit-unions-business-technology-398d975ad28948c3b04ac816f66c2528"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Khrc3lXh5FiuyLM0CrrKbpusacMkOdoscJQR6RvXSFEEv018inVhBtbqOQNDrHUPNsJ0gFdy+hsHT9cn1bV/LuBdtGbmAeQdqcB/k1FdQLsBEyHmKeHK7O3UiI6xx4rN8GnbSY9PNhmWgXfob9ebkEQh0v2CbzzXW5hCDWYBRR6kZIekqBbgEHYyxpewsKVr1pmiuuNTp74uhzy/m+B2IWQL7NE3EHOlzqncIKboEzmTy0Y6UtLljsxPhpNpCMqIuUsG8oMJvLvIXtgkq2d4qSpjqlGOglx3kFIU8mM/jpqfuUj2SRdDWe06PIaKHsFgOz6GMFqcbVc9j1xOv72qwm+dqWfGTnhskFWAtulJ6OM=;Je1J0VrjrqwsG5e2P/SrhA=="

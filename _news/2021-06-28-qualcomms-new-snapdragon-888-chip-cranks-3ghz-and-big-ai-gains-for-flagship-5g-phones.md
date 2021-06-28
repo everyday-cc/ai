@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/qualcomm-launches-snapdragon-888-pl
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-launches-snapdragon-888-plus-5g-chip-clocked-at-3ghz-for-flagship-phones"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -87,7 +87,21 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Qualcomm Snapdragon 888 Plus announced with higher clock speed, improved AI engine"
+    excerpt: "The Mobile World Congress (MWC) is starting up strong with the introduction of a new flagship chipset from Qualcomm. Here we have an amped-up version of its current top-tier processor, the Qualcomm Snapdragon 888 Plus."
+    publishedDateTime: 2021-06-28T16:41:00Z
+    webUrl: "https://www.noypigeeks.com/smartphones/qualcomm-snapdragon-888-plus/"
+    type: article
+    provider:
+      name: NoypiGeeks
+      domain: noypigeeks.com
+    quality: 33
+    images:
+      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-NoypiGeeks.jpg"
+        width: 900
+        height: 503
+        isCached: true
 
-secured: "q0pLsgutAgtRCLklfAogr6S2iehXllo3hpMQKSt0pinVIcuyZsP5MWuf8n1AMRtJWvl9kaL5NTW0eyBBzoVHo+vCoxRWBJQrA5fzcVUsYEj57VdyBVOkZNUwPEE92S3kAqcNzfOh6/PZWXUdGiNzaPqePxFYjj20u60GUBP2tk+dghfWEqhU4RRPmfQawV3bnODLu5vi+DsnpvGICVTTb9JhXDg5vkNRK6tMZFHEd0/jOkM7YXgCG7bG7h0D59hGB/NTJjplgMBuGMT42nhbsM2a4XCMh3ZWvGxE7pfzmmZBhmcdJNwYsIStbp1N+Asv7RvmPNwZuAkQN3lXitkRI21baJi5zoCYrr5sXg65Af0=;PjfYFHixUphYlKpyK8/+LA=="
+secured: "mN0nnWb8ybShNxlMLmdf99/RmVGyLb8ZrOSLDgt/TKET4HcVVzdiFtZaaH/9RBi1o7B0aiIE8ecG6tz+pJ5QXp2es0P9UFLLXn7DYSJXLunjYfC7grAOiV81wc6a9rCg6mGWL35hfjG48mIZ6s8kI58enm5LStpXpYwQ+nGZh/2nBQFZnIf1MNi+WNfc/rrjnUr6xB9Xai0IN0YW9EJ5bmlkJfiO97FMhQ99nNa/vVtNUh4VFRI2qotVhXLdiZQMBBnqI/CFYBQoB2zGOHu6IxFn4+HZavGqMgFsPxPUrgECLmsIYU2vwSW4J9tfq4jMaTrcWwO9t9hEUg02EcsGqO4Q22/HJgbXJ3WOLs6///RMO2Tqv2nfoK2hPuCOOxNahAmfRJ7AOy/d138onKj0chBNOE30CVphM5NtSKvpJLMopb1q6T8s+j2IF9GFMTyrujJQWb0EIyLXilZ3FNdmKVqaMK+QsDdBwzBHIjhAMWiuQcrHYHvFbi8c+rjiT4n/gm55S2uEjxwYFnUBaJly2g==;TEO8iCuV+4YzfcbUFf0rJQ=="
 ---
 

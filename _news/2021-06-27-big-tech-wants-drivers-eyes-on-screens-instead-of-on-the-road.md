@@ -71,6 +71,20 @@ related:
         width: 1240
         height: 868
         isCached: true
+  - title: "Apple’s car obsession is all about taking eyes off the road"
+    excerpt: "At first glance, the forays Apple, Google and other technology giants are making into the world of cars do not appear to be particularly lucrative. Building automobiles requires factories, equipment and an army of people to design and assemble large hunks of steel,"
+    publishedDateTime: 2021-06-28T16:00:00Z
+    webUrl: "https://taipeitimes.com/News/editorials/archives/2021/06/29/2003759981"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "7rHcwCryxGU89lwfjCoTHu0foZUYZnXGc/TWU93qRahljeaDJs3ErHEQrseUNYjr+hZa6ojs6nIv5Xvtm2pU5xggJ2nHnBoyEyt2fVb/iZlcGqHd43SsFJZvqau9eEQrsx5wriXoMF6cbN/QHkl4EAoFgYyPpNe8bOgheIcbFn67jpIWO+Z2R5eDEiAZOYZm5Rq3ivqg7DhYbIx7fmdcn2rhDtVrYMw/K2ZT44gSmcUJgsM7Pw5dChY/Y5CQsh/1cob05CsioH8v84jX0WOD169Pzz+X3qMLwA7XE9GtdlareBrJHuHKmb8zQBezaBRv+RG6gQxtEOkMvYddfiKbZpxCuX0XTQjPDW21rq+yakshZOV0wNSCm3WVm2spUFRXVvJ2FkLKglt7NXyFTGeDGRYkN1iUlBzniXnt22KOGIeuv9A3BKERua8pPjt/FM8BjjKv9UkvJTnEljhv2fl3vu7ed6r0ZoLfEVFmsihhZNxwXlUCerQ45VX9F13tDtpQlnEuZ5blqLa7VXpXKTqEmw==;un0izVKuc3RsXtaYWHGf8w=="
 ---

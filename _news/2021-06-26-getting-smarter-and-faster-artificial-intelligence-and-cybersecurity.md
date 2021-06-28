@@ -7,7 +7,7 @@ originalUrl: "https://www.fijitimes.com/getting-smarter-and-faster-artificial-in
 webUrl: "https://www.fijitimes.com/getting-smarter-and-faster-artificial-intelligence-and-cybersecurity/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1539
     height: 731
     isCached: true
+
+related:
+  - title: "Autonomous Cybersecurity Startup SentinelOne Ups IPO Price"
+    excerpt: "Autonomous cybersecurity platform SentinelOne has amended the offering for its initial public offering (IPO) to reflect a price increase."
+    publishedDateTime: 2021-06-28T15:50:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/cybersecurity-SentinelOne-IPO-price-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "v3P+4fCgYvFPWkBqAd4kx96vsXSAvcHZ3G3h17M4YpYTMwPvdrAoDkuFg++f9/hHoYTAL3Hpmp5Z5uh6lBKWp7HhOa+PMzFlcUDT2SSjSrH69fxgMbX7PF3Dbp8UY66IlkDlmlgKy6SzJU4ISH+Ny8FYks2yT6TDT6BzgEC9NMVbHcnKTq3CLb/aJ4iBGq2/KT/qndn90LeIne5NjsM3t5PCbGRVrqPiiezy2CVeJ9yxWPAMPqO3va3xxyzuCYsvVYM7cgP9ViRcFoS6K3cN/jBepUZE+kNfQEovsiPrH5BmDIPeG/chIG4Nv16+rAUVnA0MSS4g3k3h4617z9MW/poyQ9aDp4rm9HRQbmQLnhA=;Yoc0Sdl/2+Og/Jzkv55u4A=="
 ---

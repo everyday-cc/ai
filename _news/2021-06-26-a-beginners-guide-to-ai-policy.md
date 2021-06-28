@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/beginners-guide-to-artificial-intellig
 webUrl: "https://thenextweb.com/news/beginners-guide-to-artificial-intelligence-policy"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The origin story"
+    excerpt: "The Mavericks Who Brought AI to Google, Facebook and the World"
+    publishedDateTime: 2021-06-28T17:45:00Z
+    webUrl: "https://www.business-standard.com/article/beyond-business/ai-the-origin-story-121062801528_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/beyond-business/ai-the-origin-story-121062801528_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/beyond-business/ai-the-origin-story-121062801528_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/28/full/1624901981-6879.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "The rise of AI: Let the journey begin"
     excerpt: "As you determine your best next steps on the journey to adopting AI solutions, investing in modern infrastructure building blocks is necessary to store, protect and execute against the valuable data t"
     publishedDateTime: 2021-06-28T07:52:00Z

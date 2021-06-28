@@ -72,14 +72,14 @@ related:
         height: 900
         isCached: true
   - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-    excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
+    excerpt: "IBM Cloud Pak for Network Automation is designed to help communications service providers improve networking and deliver new services in days,"
     publishedDateTime: 2021-06-28T04:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557180"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 58
+    quality: 56
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
@@ -99,6 +99,17 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "IBM to Use AI to Detect Bias in Advertising"
+    excerpt: "IBM Watson Advertising has announced a six month research initiative that will use open source AI technology and campaign data from the Ad Council to better understand unwanted bias in advertising, with the goal of laying the foundation for avoiding those biases."
+    publishedDateTime: 2021-06-28T16:53:00Z
+    webUrl: "https://www.tvtechnology.com/news/ibm-to-use-ai-to-detect-bias-in-advertising"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
 
 secured: "ATlM6qjEmwUCByeD6xp7FG5OD0J4zMhgeG6Auj8qvuAAzAbtLrvYPQoNV6o2ox8GQt5NTbvdhj0umB2J6AnmWq3WwylNAN/90ow70AvGpd02H0khEE/TiWvdejNZzNaDTFbnAnYIQJzeGftdDqKUxTmwX65DOq6s94eB9Gg/BDj6yptmRIW0vr1/Qq8nwVruXbXGo69t4H/nsaRl14yUea3VMRQ0rjDeJE3x4+sy+O0axiN8EAhGadbKyBldmh0zt2kBmxKm07cEVgjjcjOV5XJxoohmVw7Z+c8HUoZv/ei8OqI08Pwp2IuoQ2/hIv6V5uhQ1m1zFmxVe4KjKUKFB9iIoFIv0cQY1xvEoPGLIow+XpYVG4bbgx7Kws0JHsXDjdh/Gt2MIoz6LE7hk7W6xglWtiZUrKeslNMLPOmlzkj7EVBg/zc8DL4xgGr8zZjFe+BXUdXFXId1sc/K4Zqc/vQE8rP1alqjLTo7is4YUB5L+0bAQ8b3/POaUCjZ/OVMOy82QdaIftYlMVoSj0B9Dg==;N856BwZcQc/u428nh7Rysg=="
 ---

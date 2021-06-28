@@ -40,6 +40,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
+    excerpt: "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware."
+    publishedDateTime: 2021-06-28T16:20:00Z
+    webUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/"
+    ampWebUrl: "https://venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/dell-releases-open-source-suite-omnia-to-manage-ai-analytics-workloads/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Analytics and AI helps Experian help its customers"
     excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
     publishedDateTime: 2021-06-28T09:00:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/08/artificial-intelligence-concept-picture-id1160995648-100855293-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Finalytics.ai Report on Digital Experience at Top 50 Credit Unions Points to Critical Challenges Across the Industry"
+    excerpt: "Finalytics.ai, the creator of the first journey orchestration platform purpose-built for community financial institutions, has published a new report on the digital experience at the top 50 credit unions."
+    publishedDateTime: 2021-06-28T17:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/credit-unions-business-technology-398d975ad28948c3b04ac816f66c2528"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "r4Dy7k8Z3vsVrmh44paUYxzGJ0K52Y35nffB5hwX54Auonw4h0T/78cJAeZny7BXaLSsYJH5oi3GgY3fH6KkngyBzsV7NpPh/WehUzmeqLL99Po8kSJM+8csNp3ymEMNwXBevxAzBFD5zJiuCr1t9bLl2vOsWUXUCvymJjZp2D7qk4Yec5aoNibWANQfej0IV1cm0c3TWh3t/8oGQm1QJWRl9VO+dPeRFes5MhnGwACQjU+/tYET1cSHyjF0ZFBteC89EJoRv4xanoUUHdm55MX4Jt/HKG9eBi0Ch7Byg1shSAoKnzMvHoCChnrbsJgN0XKf2vSXPBLxGvF+01X3IJCoEIggqTMJfqdElAsra7c=;weh1aKOvZU347TQtLTUujA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/ai-quickens-process-of-stem-cell-therapy/"
 webUrl: "https://www.unite.ai/ai-quickens-process-of-stem-cell-therapy/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "AI system can rapidly identify healthy, productive skin stem cells"
-    excerpt: "Stem cell therapy is at the cutting edge of regenerative medicine, but until now researchers and clinicians have had to painstakingly evaluate stem cell quality by looking at each cell individually under a microscope."
-    publishedDateTime: 2021-06-23T23:24:00Z
-    webUrl: "https://www.news-medical.net/news/20210623/AI-system-can-rapidly-identify-healthy-productive-skin-stem-cells.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210623/AI-system-can-rapidly-identify-healthy-productive-skin-stem-cells.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210623/AI-system-can-rapidly-identify-healthy-productive-skin-stem-cells.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/shutterstock_499282837_f18bafe030744de991560feceed98d20-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "jmtdJ3gkco3wEp3oc+t1E+qK14/hj334v50WYWb/1RLtJrXE6RDAuD2WEtWp1vGyKM2hyj76tUEDGGb3V0hilnk5ygsmjCH+l1G5ykTAJwJeuw7KIR1GXJzSt0CpvWrRahqGtlV3UZn6lX8cC3XsO/fmyNuMrEthGEKBQ7O0tO1dLB0hsWmNeE3uYv30kvcc9Z4L45Z2W3kY0VDGwgkH7SaumL+sMnu03w+kRlbMRTV0UeV+F3V65eja3ymrSFCDYIp6zKI6qFbfKl05cS65SsR7uknaAmuXSfeIxGN4TSElXwl7lEi+a/TEdle0s9qVK7aIwnjazBjqApnLoBRZE8mPglUD3blJJeizygN8tUH4Cn9tf7+hahSrLE4f5YKABKR0hWXWli4oXi5Orv/U2SKLduNF5sBVD94yeY2f5Wmdwje0FqLF11lQjo/7AEBKiQj+baOBVQEYiIZQJKzJqeW5Zs56+3WMcdEJB64ZgFVsC2ckJKdKhkYayqZ7iFB9enGLQ4Pe6aymtjTBNvpguA==;s8anRrBY6Ubc/YneunHJ+g=="
 ---

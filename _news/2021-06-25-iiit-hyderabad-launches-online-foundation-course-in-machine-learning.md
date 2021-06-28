@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/ii
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
         width: 2398
         height: 1257
+        isCached: true
+  - title: "AVER LAUNCHES ADVANCED 4K AI ALL-IN-ONE DISTANCE LEARNING COLLABORATION SOLUTION"
+    excerpt: "AVer Information Inc., the award-winning provider of video collaboration solutions and education technology solutions, announced today the launch of the"
+    publishedDateTime: 2021-06-28T17:36:00Z
+    webUrl: "https://www.eschoolnews.com/2021/06/28/aver-launches-advanced-4k-ai-all-in-one-distance-learning-collaboration-solution/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 32
+    images:
+      - url: "https://www.eschoolnews.com/files/2021/06/AVER-VB130-Camera.jpg"
+        width: 768
+        height: 507
         isCached: true
   - title: "IITH Announces Online Course On Foundations Of Machine Learning"
     excerpt: "The online course is open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology, Electronics Engineering, Electrical Engineering or other allied branches from any technical institution in India."

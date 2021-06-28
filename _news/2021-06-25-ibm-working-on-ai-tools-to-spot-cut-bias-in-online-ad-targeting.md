@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -65,14 +65,14 @@ related:
         height: 900
         isCached: true
   - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-    excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
+    excerpt: "IBM Cloud Pak for Network Automation is designed to help communications service providers improve networking and deliver new services in days,"
     publishedDateTime: 2021-06-28T04:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557180"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 58
+    quality: 56
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
@@ -101,6 +101,17 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "IBM to Use AI to Detect Bias in Advertising"
+    excerpt: "IBM Watson Advertising has announced a six month research initiative that will use open source AI technology and campaign data from the Ad Council to better understand unwanted bias in advertising, with the goal of laying the foundation for avoiding those biases."
+    publishedDateTime: 2021-06-28T16:53:00Z
+    webUrl: "https://www.tvtechnology.com/news/ibm-to-use-ai-to-detect-bias-in-advertising"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ibm-to-use-ai-to-detect-bias-in-advertising"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
 
 secured: "/yxZvUWPkZhiUW6wfahvdkpq8KUnM1MdZnwupxV4X/38j9vnwxJ3icZ4OxmBZOjOry3Zz6duYb3adqo2aeuVgFkYVS+Tg2FGC2L/a13cQeXt9PAUIxE+GFJUrfppZg89StfVwFK5+5ygqe5bBwTh//INGfT83NiGaKp/hmiNeSJEyC1IQRzeVFQS9u/o4RrBqZ/0vnGZO9e/Re3VOXBiHVVS9SeoQJhgkJa7XSH3aK3qSOx4FBPYtz66zsYAFaSzHdN0FHR7rEHlnAlJZNBRbdX4xR5ZOWxfdmIrmKztvMyVkYYZYWGGbRuEoVee4cg7C50nB6VILurSlGDsv1BNQR1q3mNocS87nCzrNCiMI68jRx0mcGfb4jQwv4GJ92RgQKKrLLgSuh8IvTiOKaf3k98IMVSBnUqrmrz/4UQIZtbtcHrmxi2Uy93mgn4IwWaRRU9nTgWkY4sL1UXGlMD1c+cCQ4f9tMAwSESwzMLeI8Mg5sCTaK6I1ZapSU2OBVldfOKUApfig33EJtXmimPIhw==;XXhqGAyC2ieMwkMAXd/HXg=="
 ---

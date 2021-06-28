@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-finte
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/10/First-American-PFS-Florist-Ecommerce-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "MTN Partners Fintech to Drive Universal Health Coverage"
-    excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"
-    publishedDateTime: 2021-06-23T23:46:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/d0eb8d23-mtn-nigeria.jpg"
-        width: 1280
-        height: 721
         isCached: true
   - title: "University of Bristol: Bristol Robotics Laboratory hosts virtual conference to showcase cutting-edge research"
     excerpt: "The conference brings together leading robotics researchers and business leaders to explore how robotics, smart automation, AI and machine learning can benefit organisations, from start-ups to large corporations."
