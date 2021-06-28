@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-c
 webUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-can-benefit-in-the-workplace-nid-33902-cid-189.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 410
     height: 237
     isCached: true
+
+related:
+  - title: "Facial recognition tech for bears aims to keep humans safe"
+    excerpt: "A town in Japan is planning to use facial recognition on local brown bears as part of efforts to reduce the number of bear attacks."
+    publishedDateTime: 2021-06-28T03:30:00Z
+    webUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/"
+    ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 104
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg"
+        width: 1130
+        height: 756
+        isCached: true
 
 secured: "KiLT3xUdDH9WGyGBuzUXlmdRC5leyDjqv0xOT6HZ4eTMKUVJMbC+osfUA30QMkgePb7UcOw3B1SXhSy3UVDPUdCDqhdC5GsCSc1z+OHmIFsx89g10T6Ug7lsBM6nKVV6QR1/s4KNQwg4kifgBWGwKSO4SY1wdrbtG9q3f7nur2G/mBo9aqUyxb15YreqJxU9NE9UcFcYQSJ/JsV4ahxYZ2dkCNyFvFY8gXlENtNEgtZd56u0BetnHGOUlV2OHR5zQK0jcKOPBunLxmntsN6XkRs87wepCTJKYIQ2tWlpmkkQWDO1XANwWRqsuff4rFkM46GG4us4jl4kIsMFbhhdtE8FMnM786TY+UiTXjv3ZNkhTP3X0JE7gVoJWJebUIWZcvemdIkvp1ebIeWSSMhvqnW0s7SPe1GXIqVCLDLWqrSbvciRhY02G/H3FtnYI3g3st4sVpQI6D/AlqxYFHJGFhfLNFE8N3xNk1iXpJgGm50O044NlkxB7t+6x+KfP5xhn59k5Zu+9EItjXXNG/bAzQ==;TadgNUoYBojkvCUg3VhDUQ=="
 ---

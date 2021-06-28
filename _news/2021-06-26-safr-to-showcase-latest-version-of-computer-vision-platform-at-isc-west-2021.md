@@ -28,7 +28,7 @@ related:
   - title: "SAFR from RealNetworks, Inc. to showcase latest version of computer vision platform at ISC West 2021"
     excerpt: "At ISC West 2021, in booth #11109, SAFR from RealNetworks, Inc., the premier facial recognition platform for live video, will showcase the latest version of its high-performance computer"
     publishedDateTime: 2021-06-25T10:36:00Z
-    webUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html?ref=nav"
+    webUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
     type: article

@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck tech firm Embark to go public via $5.2 bln SPAC deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck technology developer backed by private equity firm Tiger Global Management, will merge with a blank-check firm in a deal valuing the equity of the combined company at about $5."
-    publishedDateTime: 2021-06-23T10:17:00Z
-    webUrl: "https://www.reuters.com/technology/self-driving-truck-maker-embark-go-public-via-46-bln-spac-deal-2021-06-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/_GxqhbO7hNui7x2yUeWS5EQnDlc=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UA65RJGP6RKCRP3TUCHDUA2YXM.jpg"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Self-driving truck race suffers from major traffic"
     excerpt: "The race to create self-driving trucks, as well as public companies to invest in them, is getting crowded. Embark Trucks is the latest to merge with a blank check firm in a $5.2 billion deal. It has built up some speed."
     publishedDateTime: 2021-06-24T04:56:00Z
@@ -72,6 +58,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Self Driving Truck Software Company Goes SPAC Route, Gets Support from Public Funds"
+    excerpt: "Northern Genesis Acquisition Corp. II (NYSE: NGAB) (“Northern Genesis 2”), a publicly-traded special purpose acquisition company, jointly announced that they have entered into a definitive business combination agreement that will result in Embark becoming a publicly listed company."
+    publishedDateTime: 2021-06-27T19:04:00Z
+    webUrl: "https://www.swfinstitute.org/news/87188/self-driving-truck-software-company-goes-spac-route-gets-support-from-public-funds"
+    ampWebUrl: "https://www.swfinstitute.org/news/87188/self-driving-truck-software-company-goes-spac-route-gets-support-from-public-funds/amp"
+    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/87188/self-driving-truck-software-company-goes-spac-route-gets-support-from-public-funds/amp"
+    type: article
+    provider:
+      name: Sovereign Wealth Fund Institute
+      domain: swfinstitute.org
+    quality: 33
   - title: "Self-Driving Truck Startup Embark to Launch IPO in a $5.2 Billion SPAC Deal"
     excerpt: "San Francisco-based autonomous truck startup Embark Trucks Inc. plans to launch an IPO this year in a merger with special purpose acquisition company (SPAC) Northern Genesis Acquisition Corp. II (Northern Genesis 2),"
     publishedDateTime: 2021-06-23T17:15:00Z

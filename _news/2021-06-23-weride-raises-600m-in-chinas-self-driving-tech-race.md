@@ -39,15 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Self-driving startup WeRide deepens ties with Nissan"
-    excerpt: "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor on autonomous driving technology for the China market as it raised $310 million at a $3."
-    publishedDateTime: 2021-06-23T09:41:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDq8YjQBOmovhxyDY9UkJuao%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 4
 
 secured: "cE9sNfRIT2MqxkiZQqV5XobSruFAVtCTfvKXuoW5TTepDX64J+tMvvNnVa2HbeEUlbFYosXsyyWIexC7EbGKzPiubL8WeKRvbSXs8blmg/dwvjNVmajnM3/+1WspBUO+HUwhOMdLOvuJAO/QY3FPpP8GvKwyhDxo4gjQns1DP9v7qXx+wTbUKuL3WnSCtDqsmDvzj4rwmhMIltzCjIPQVejAxJnkYxwAdiDgPXhqnVcBjutFACZNM7+hkYKu9Xb0GDd90gThPPX0Mjl+PKcu6xGoOt//XlGHW/GfJ+/jjRag8OLMK5c4//KDBaDJ8r2Fb5DFSToKZPnmewE8Hc33rPSBm4/ug1VIFNv1uTwS7Sov/96hs2J+tB2RVBlIAkbpK4tq31fAjrYTfjgiraesfTu2IGQOZ5S1P/saS1pDSC0GL4Xbe0y7OVI2G2z1Penhqt6cZ/m87K8Bw8yISXoD4vmJDgxfteHfiFQjp3ppcr7anJgr5Ru8LYG2MTPUMAQXW7eZqrT9KvEVUIt13EaPrQ==;8keALICvtrRYcm5TlRWncA=="
 ---
