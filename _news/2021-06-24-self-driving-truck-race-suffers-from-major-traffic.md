@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-rac
 webUrl: "https://www.reuters.com/legal/transactional/self-driving-truck-race-suffers-major-traffic-2021-06-24/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.reuters.com/resizer/T-73-Ze86FCm-Kf9HEzIJe-G100=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E4INHPFZ3FNXZPKSXDGU22IO7Q.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Self-Driving Truck Startup Embark to Launch IPO in a $5.2 Billion SPAC Deal"
-    excerpt: "San Francisco-based autonomous truck startup Embark Trucks Inc. plans to launch an IPO this year in a merger with special purpose acquisition company (SPAC) Northern Genesis Acquisition Corp. II (Northern Genesis 2),"
-    publishedDateTime: 2021-06-23T17:15:00Z
-    webUrl: "https://www.futurecar.com/4700/Self-Driving-Truck-Startup-Embark-to-Launch-IPO-in-a-$5.2-Billion-SPAC-Deal"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 22
-    images:
-      - url: "https://img.futurecar.com/202106/23/l_60d3707aa79a4.jpeg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Amazon to develop 1,000 self-driving trucks"
     excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."

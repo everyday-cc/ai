@@ -7,7 +7,7 @@ originalUrl: "https://www.kbtx.com/2021/06/25/remote-learning-working-causing-co
 webUrl: "https://www.kbtx.com/2021/06/25/remote-learning-working-causing-computer-vision-syndrome/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Using machine learning to build maps that give smarter driving advice"
-    excerpt: "Mapping services built for the developed world fail in fast-growing regions. The solution could be an AI-based routing system fed by real-time vehicle data."
-    publishedDateTime: 2021-06-23T17:10:00Z
-    webUrl: "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/"
-    ampWebUrl: "https://www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/23/1026653/using-machine-learning-to-build-maps-that-give-smarter-driving-advice/amp/"
+  - title: "Machine Learning to Bring a Revolutionary Transformation in Software Testing"
+    excerpt: "Machine Learning to Bring a Revolutionary Transformation in Software Testing  - The test automation effort will continue to accelerate. Surprisingly, a lot of businesses do have manual checks in"
+    publishedDateTime: 2021-06-24T07:27:00Z
+    webUrl: "https://www.cioreview.com/news/machine-learning-to-bring-a-revolutionary-transformation-in-software-testing-nid-33911-cid-112.html"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: CIOReview
+      domain: cioreview.com
+    quality: 36
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/05/Stanojevic-Episode-Page-Header.png?w=1920"
-        width: 1920
-        height: 1005
+      - url: "https://www.cioreview.com/newsimages/705x485_57Bl192I.jpg"
+        width: 705
+        height: 485
         isCached: true
-  - title: "Dynamic Games for Social Model Training Service Market via Federated Learning Approach"
-    excerpt: "In recent years, an increasing amount of new social applications have been emerging and developing with the profound success of deep learning technologies, which have been significantly reshaping our daily life,"
-    publishedDateTime: 2021-06-24T02:39:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9462832"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
 
 secured: "pH+ayEL0jkxaqwgZHcXpQvf/KScf7PLjjmzNalC1QLwoB7GU3vZ9dU/YAZpfdvjZr4drV4mXsvyD35PxCTT+pgEn3DHuNbboXtLsyXnM+mmrLFWOKHxqsM1X/HNaUzgHrPkPy04NrSQSAJaUVw+C7IZvFoLco43gkuD6ocf/hmg78wCNnHm1Bc2i8h21VQw2H6e22VpPEncXreJrDKCho2w0x0DcbVQI/AEdLJsW+CGFYwCl9XO0VJtx1rGvk5pnbyjP6/Pi/p/OC9wgHgMX2rcKDbTs0m211x+6IiNkJv5Zax5wrxhsPINzd8Ko5dz9q/90Dw61+8zzpEJKefnwORpA9dIuKKhS/s01mlztNCGzjobpIfnxuP+u0cIB8GMInKAg1D5xbxKRL67Yd5RChVRtvcnH59Ik2Df79+oEsrlbG3zdUCrEJ1Kb8m6c+oc1TyTtBFg/up85zxrjdQXRCP5TIMW2VllVjfSALegiVh2KIXWQnUqKCWZFV0c5j5lYzuzReYjmHipCRt81Aip+Kw==;zgVnNQS0pmdWYsfkMBwNQg=="
 ---

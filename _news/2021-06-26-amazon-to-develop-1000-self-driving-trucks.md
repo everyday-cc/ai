@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-Driving Truck Startup Embark to Launch IPO in a $5.2 Billion SPAC Deal"
-    excerpt: "San Francisco-based autonomous truck startup Embark Trucks Inc. plans to launch an IPO this year in a merger with special purpose acquisition company (SPAC) Northern Genesis Acquisition Corp. II (Northern Genesis 2),"
-    publishedDateTime: 2021-06-23T17:15:00Z
-    webUrl: "https://www.futurecar.com/4700/Self-Driving-Truck-Startup-Embark-to-Launch-IPO-in-a-$5.2-Billion-SPAC-Deal"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 22
-    images:
-      - url: "https://img.futurecar.com/202106/23/l_60d3707aa79a4.jpeg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "The Funded: Self-driving truck maker Embark Trucks plans to go public in a $5.2B SPAC merger"
     excerpt: "Self-driving truck startup Embark Trucks Inc. announced plans Wednesday to go public in a blank-check merger that would peg its value at $5.2 billion. The San Francisco company plans to merge with Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T19:19:00Z

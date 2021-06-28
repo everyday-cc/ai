@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innov
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-market-new-innovations-trends-research-global-share-and-growth-factor-2021-06-25"
 type: article
 quality: 80
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -56,6 +56,33 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
+    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
+    publishedDateTime: 2021-06-28T11:20:00Z
+    webUrl: "https://www.openpr.com/news/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
+    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
+    publishedDateTime: 2021-06-28T10:54:00Z
+    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Artificial Intelligence In Aviation Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
     excerpt: "Market.us has to return up with a brand new report specifically Global Artificial Intelligence in Aviation Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."

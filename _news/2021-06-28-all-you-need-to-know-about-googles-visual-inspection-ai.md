@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-28T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/all-you-need-to-know-about-googles-visual-inspection-ai/"
 webUrl: "https://analyticsindiamag.com/all-you-need-to-know-about-googles-visual-inspection-ai/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/pasted-image-0.png"

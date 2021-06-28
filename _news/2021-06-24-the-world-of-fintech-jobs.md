@@ -39,6 +39,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Fintech benefits consumers and intermediaries"
+    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
+    publishedDateTime: 2021-06-28T10:59:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 24
+    images:
+      - url: "https://biz-file.com/c/2106/616382.jpg?2"
+        width: 639
+        height: 503
+        isCached: true
 
 secured: "MUI2EKf2PyLs5DUoXI5361Q8Jq6Y9LgT4MluNeIO4wKsM6pF3ZEKsAqACHs01UrNGNZL68DNbLegwGBqGVQd5sQnCjG3LSbiCyMDqN/ZmboteEUlQv8vfsohMAGBwEhmdkg/AfZYw/a/WIchvfWIHHJ25ru4qinH9OK/nZFvdvgeLD+T57ZXWlNBzmX7i5oGm1tREUkCudM4iiyJzks1ji/XvI/AuAFsmjjU/dtKgAgvsaR1TrwrNtEVzE5TNNKfSK6Xi6VXT2tLLkMug1+ObU8my/dOvFHbvBEb6VIuCsKjNu68I6SO7Ur3yzf84eqrfwlhuKAzd17rbd9EmgPpSPc8xjkJ99/3zBEPyCRO23jX+GpTLfMxPg5twLfM+UvHm3p7YLO9oc7rV2uXf597cpt2uLTdHCkb3kXuQJXeBKJkCsPGfgTnO2vsJ0KfM1pWXyEIVU5Fq4NxgzDTU0mOJa+vhubTz8LC6StayMCTeb0d5edjYkIdpV1GBqFMIESNnAid3QSedvZrdvCj8uqo6g==;fR2wikCHj0kjCE0DeAoDkg=="
 ---

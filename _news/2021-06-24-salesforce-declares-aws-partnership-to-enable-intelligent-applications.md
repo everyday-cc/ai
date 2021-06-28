@@ -48,22 +48,6 @@ related:
         width: 750
         height: 406
         isCached: true
-  - title: "AWS, Salesforce announce expansive partnership to unify developer experiences, launch new applications"
-    excerpt: "Amazon Web Services (AWS) and Salesforce on Wednesday announced a significant expansion of their global strategic partnership. The partnership will make it easy for customers of the two companies to use the full set of Salesforce and AWS capabilities together to quickly build and deploy new business applications that accelerate digital transformation."
-    publishedDateTime: 2021-06-23T17:44:00Z
-    webUrl: "https://www.freepressjournal.in/business/aws-salesforce-announce-expansive-partnership-to-unify-developer-experiences-launch-new-applications"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/aws-salesforce-announce-expansive-partnership-to-unify-developer-experiences-launch-new-applications/7893e7f9-fbee-478d-a7c0-b5b10f50aaa8"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/aws-salesforce-announce-expansive-partnership-to-unify-developer-experiences-launch-new-applications/7893e7f9-fbee-478d-a7c0-b5b10f50aaa8"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 43
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-06/0b95327e-69e5-4b9c-9f58-0707255f2c69/aws_salesforce_rc.jpg"
-        width: 770
-        height: 434
-        isCached: true
   - title: "AWS and Salesforce launch integration partnership"
     excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce’s SaaS-based services into solutions running on the AWS cloud."
     publishedDateTime: 2021-06-24T13:57:00Z
@@ -105,20 +89,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/handshake-business2_5.jpg"
         width: 800
         height: 527
-        isCached: true
-  - title: "AWS and Salesforce are integrating their clouds to simplify application projects"
-    excerpt: "One is to make it easier for enterprise developers to build applications that use both AWS and Salesforce services under the hood. Another objective is to enhance Salesforce’s Industry Cloud product portfolio,"
-    publishedDateTime: 2021-06-23T17:15:00Z
-    webUrl: "https://siliconangle.com/2021/06/23/aws-salesforce-integrating-clouds-simplify-application-projects/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Image.jpg"
-        width: 770
-        height: 432
         isCached: true
   - title: "AWS, Salesforce partnership to unify developer experiences"
     excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."

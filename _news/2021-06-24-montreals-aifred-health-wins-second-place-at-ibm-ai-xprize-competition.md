@@ -114,20 +114,6 @@ related:
         width: 720
         height: 360
         isCached: true
-  - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
-    excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
-    publishedDateTime: 2021-06-23T18:14:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html?c=/research"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 43
-    images:
-      - url: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m/_jcr_content/top-image.img.768.medium.jpg/1624462106264.jpg"
-        width: 768
-        height: 384
-        isCached: true
   - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
     excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
     publishedDateTime: 2021-06-24T18:35:00Z

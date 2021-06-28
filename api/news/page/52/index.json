@@ -2,6 +2,280 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-05-20-saas-application-delivering-ai-enhanced-customer-experience.md",
+      "title": "SaaS Application Delivering AI-Enhanced Customer Experience",
+      "excerpt": "Many people don''t realize the true extent to which artificial intelligence (AI) and machine learning have on their lives and the choices they make every day. Whenever YouTube recommends a new video,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/topics/articles/2021/05/19/448930-saas-application-delivering-ai-enhanced-customer-experience.htm",
+      "originalUrl": "https://www.tmcnet.com/topics/articles/2021/05/19/448930-saas-application-delivering-ai-enhanced-customer-experience.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-this-ai-makes-robert-de-niro-perform-lines-in-flawless-german.md",
+      "title": "This AI Makes Robert De Niro Perform Lines in Flawless German",
+      "excerpt": "When films are dubbed in another language, an actor’s facial movements may clash with his lines. Technology related to deepfakes can help smooth things over.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/",
+      "originalUrl": "https://www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60a45d53c4c56a005b6967e0/master/pass/business_deniro_496534616.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-makes-de-niro-perform-lines-flawless-german/amp",
+      "publishedDateTime": "2021-05-19T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-watch-for-digital-ai-to-increase-in-the-mortgage-biz-podcast.md",
+      "title": "Watch for Digital, AI to Increase in the Mortgage Biz (Podcast)",
+      "excerpt": "Joe Tyrrell, president of ICE Mortgage Technology, tells Bloomberg Radio's Denise Pellegrini that the shift to digital in applying and processing residential mortgages, is here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2021-05-19/watch-for-digital-ai-to-increase-in-the-mortgage-biz-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2021-05-19/watch-for-digital-ai-to-increase-in-the-mortgage-biz-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-everything-google-announced-today-android-ai-holograms.md",
+      "title": "Everything Google Announced Today: Android, AI, Holograms",
+      "excerpt": "Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-io-2021-highlights/",
+      "originalUrl": "https://www.wired.com/story/google-io-2021-highlights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-io-2021-highlights/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-io-2021-highlights/amp",
+      "publishedDateTime": "2021-05-19T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-pharma-40-must-focus-on-manufacturing-not-just-data-says-ai-firm.md",
+      "title": "Pharma 4.0 must focus on manufacturing, not just data, says AI firm",
+      "excerpt": "Vitalie’s firm specializes in this area using AWS cloud. The science of artificial intelligence in life sciences is ripe for exploiting, the entrepreneur reckons. “If you look at manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
+      "originalUrl": "https://siliconangle.com/2021/05/19/pharma-4-0-must-focus-on-manufacturing-not-just-data-says-ai-firm-awsshowcase2q21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/05/John-Vitalie-CC-AWS-Startup-Showcase-2021.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19.md",
+      "title": "Artificial intelligence has been of little use for diagnosing covid-19",
+      "excerpt": "Attempts to use artificial intelligence to diagnose and predict covid-19 have so far been unsuccessful, says Michael Roberts",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/",
+      "originalUrl": "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/05/19134030/finalweb-14.5.21.jpg?width=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg25033350-100-artificial-intelligence-has-been-of-little-use-for-diagnosing-covid-19/amp/",
+      "publishedDateTime": "2021-05-19T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-amazon-halts-polices-use-of-facial-recognition-software-reuters.md",
       "title": "Amazon Halts Police's Use Of Facial Recognition Software: Reuters",
       "excerpt": "Amazon.com Inc (NASDAQ: AMZN) indefinitely extended the halt since June 2020 on the police use of its facial recognition software, Reuters reports. The nationwide backlash against police brutality towards non-Whites intensified by the murder of African-American George Floyd by a white policeman led to the initial halt.",
@@ -919,284 +1193,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-114-milestones-in-the-history-of-artificial-intelligence-ai.md",
-      "title": "114 Milestones In The History Of Artificial Intelligence (AI)",
-      "excerpt": "The evolution of AI from theoretical concepts to machine logic to expert systems to machine learning to artificial neural networks and big data-based deep learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60a46f458055cee11c70a746%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1429%26cropY1%3D174%26cropY2%3D1245",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/05/19/114-milestones-in-the-history-of-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "IBM AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-alteryx-expands-analytics-automation-platform-with-new-ml-features.md",
-      "title": "Alteryx expands analytics automation platform with new ML features",
-      "excerpt": "Alteryx embraces open source AutoML framework to make AI more accessible to business analysts, domain experts, and data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "originalUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/Alteryx-Machine-Learning-Animated-Correlation.gif?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/19/alteryx-expands-analytics-automation-platform-with-new-ml-features/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-unbounce-snags-snazzyai-to-add-automated-copywriting-to-platform.md",
-      "title": "Unbounce snags Snazzy.ai to add automated copywriting to platform",
-      "excerpt": "Unbounce, a Vancouver startup best known for helping marketers create automated landing pages, added a new wrinkle this morning when it announced it has acquired Snazzy.ai, an early stage automated copywriting startup.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
-      "originalUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1032165070.jpg?w=1024",
-          "width": 1024,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/19/unbounce-snags-snazzy-ai-to-add-automated-copywriting-to-platform/amp/",
-      "publishedDateTime": "2021-05-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam.md",
-      "title": "STMicroelectronics acquires Edge AI software specialist Cartesiam",
-      "excerpt": "Geneva, Switzerland May 19, 2021 - STMicroelectronics (NYSE:STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today announced a transaction ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/05/g21190036/stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/05/g21190036/stmicroelectronics-acquires-edge-ai-software-specialist-cartesiam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/21190036",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/21190036",
-      "publishedDateTime": "2021-05-19T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-hiring-troubles-prompt-some-employers-to-eye-automation-and-machines.md",
-      "title": "Hiring troubles prompt some employers to eye automation and machines",
-      "excerpt": "Automation may also get a lift from President Biden’s infrastructure plan, which will encourage domestic investment in cutting-edge factories, according to Bank of America. Employers’ embrace of automation has survived the economy’s move from recession to rebound and is getting new life now that many companies are struggling to attract enough workers to meet surging demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/05/19/automation-labor-economy/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/05/19/automation-labor-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3H7UQIVXJEI6XPCKMKCJZ5WMVE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/05/19/automation-labor-economy/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/05/19/automation-labor-economy/?outputType=amp",
-      "publishedDateTime": "2021-05-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan.md",
-      "title": "AI Robotics Startup Mech-Mind Completes Series C Funding Led by Tech Giant Meituan",
-      "excerpt": "Fast-growing Chinese AI industrial robotics startup, Mech-Mind Robotics (\"Mech-Mind\") has recently completed Series C funding led by tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-301293375.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ai-robotics-startup-mech-mind-completes-series-c-funding-led-by-tech-giant-meituan-301293375.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1511621/image_1.jpg?p=facebook",
-          "width": 3104,
-          "height": 1625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

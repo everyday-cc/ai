@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Jet Bot AI+ robotic vacuum cleaner has a 3D active stereo-type sensor and AI"
+    excerpt: "During CES 2021, back in January, Samsung Electronics announced a new robotic vacuum cleaner with some interesting features called the Jet Bot AI+. Samsung has now confirmed the global launch of"
+    publishedDateTime: 2021-06-28T11:39:00Z
+    webUrl: "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/"
+    ampWebUrl: "https://www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/jet-bot-ai-robotic-vacuum-cleaner-has-a-3d-active-stereo-type-sensor-and-ai-28680192/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/samsung-vacuum.jpg"
+        width: 1280
+        height: 825
+        isCached: true
   - title: "Samsung Jet Bot AI+ robot vacuum cleaner launched globally"
     excerpt: "The new Samsung Jet Bot AI+ robot vacuum cleaner is launching globally and launches in the USA and Europe this month, more countries soon."
     publishedDateTime: 2021-06-25T11:10:00Z

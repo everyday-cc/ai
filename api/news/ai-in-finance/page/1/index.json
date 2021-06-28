@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-28-artificial-intelligence-is-reimagining-finance-value-chain.md",
+      "title": "Artificial Intelligence is Reimagining Finance Value Chain",
+      "excerpt": "Technology is disrupting the finance function, and artificial intelligence plays a big part in it. Artificial Intelligence and Machine Learning have been the buzzwords in the IT industry for the last few years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wipro.com/business-process/artificial-intelligence-is-reimagining-finance-value-chain/",
+      "originalUrl": "https://www.wipro.com/business-process/artificial-intelligence-is-reimagining-finance-value-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/images/og-artificial-intelligence-is-reimagining-finance-value-chain-i-1311213493-502x263.png",
+          "width": 502,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wipro",
+        "domain": "wipro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-lendbuzz-raises-60m-using-ai-to-finance-car-loans.md",
       "title": "Lendbuzz raises $60M using AI to finance car loans",
       "excerpt": "Lendbuzz, which was founded by Israeli entrepreneurs in Boston and recently opened an R&D center in Israel, scores $60M in equity and another $300M in debt",
@@ -148,7 +191,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1283,41 +1326,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-bmo-financial-group-selects-aws-as-its-preferred-cloud-provider.md",
-      "title": "BMO Financial Group Selects AWS as Its Preferred Cloud Provider",
-      "excerpt": "One of Canada's largest financial institutions is leveraging AWS to modernize its banking platforms and power its digital transformation into a cloud-first organization",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21504437/bmo-financial-group-selects-aws-as-its-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21504437/bmo-financial-group-selects-aws-as-its-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21504437",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21504437",
-      "publishedDateTime": "2021-06-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

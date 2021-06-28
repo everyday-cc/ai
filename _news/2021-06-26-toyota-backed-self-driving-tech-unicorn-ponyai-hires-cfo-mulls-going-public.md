@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
-    excerpt: "The company is merging with a special-purpose acquisition company to go public, becoming the latest self-driving truck firm to tap public markets in recent months."
-    publishedDateTime: 2021-06-23T18:58:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400?mod=markets_lead_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 73
-    images:
-      - url: "https://images.wsj.net/im-357324/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Self-Driving Tech Company Pony.ai Considers Going Public"
     excerpt: "Pony.ai, a self-driving tech firm backed by Toyota, is mulling going public to help finance its goal of commercializing driverless ride-hailing."
     publishedDateTime: 2021-06-25T16:26:00Z
@@ -159,6 +143,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Self-Driving Startup Pony.ai Eyes U.S. IPO in Intensifying Funding Race"
+    excerpt: "Pony.ai is mulling a U.S. IPO as it seeks more funds to support R&D and the commercialization of its autonomous vehicle services. That was CEO James Peng’s message in a recent interview with Reuters,"
+    publishedDateTime: 2021-06-28T10:19:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-28/self-driving-startup-ponyai-eyes-us-ipo-in-intensifying-funding-race-101732851.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-28/1624875462282569_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
     publishedDateTime: 2021-06-25T22:15:00Z
@@ -186,34 +184,6 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg"
         width: 1080
         height: 540
-        isCached: true
-  - title: "Embark Self-Driving Truck Company to Go Public"
-    excerpt: "Embark Trucks, America’s longest-running self-driving truck program, plans to go public through a merger with Northern Genesis Acquisition Corp. II."
-    publishedDateTime: 2021-06-23T17:14:00Z
-    webUrl: "https://www.forconstructionpros.com/equipment-management/fleet-news/news/21521362/embark-embark-selfdriving-truck-company-to-go-public"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 24
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/06/16x9/Embark_trucks.60d3693f313df.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "Embark Trucks Going Public, Ready to Commercialize Class 8 Self-Driving Technology"
-    excerpt: "Embark Trucks Inc., a developer of autonomous software technology for the trucking industry, and Northern Genesis Acquisition Corp. II, a special-purpose"
-    publishedDateTime: 2021-06-23T17:18:00Z
-    webUrl: "https://ngtnews.com/embark-trucks-going-public-ready-to-commercialize-class-8-self-driving-technology"
-    type: article
-    provider:
-      name: Next-Gen Transportation News
-      domain: ngtnews.com
-    quality: 18
-    images:
-      - url: "https://ngtnews.com/wp-content/uploads/2021/06/co-founders@2x.jpg"
-        width: 2320
-        height: 998
         isCached: true
   - title: "Amazon to buy 1,000 self-driving trucks"
     excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."

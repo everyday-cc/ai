@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://www.algemeiner.com/wp-content/uploads/2021/06/Red_blood_cells_infected_with_malaria-1.jpg"
         width: 720
         height: 360
-        isCached: true
-  - title: "D3-backed Aifred Health takes second place in the IBM Watson AI XPRIZE competition — and $1M"
-    excerpt: "Aifred Health, a Montreal-based startup that uses machine learning to treat depression, has earned second spot and $1 million from the IBM Watson AI XPRIZE competition. At the start of the international event five years ago,"
-    publishedDateTime: 2021-06-23T18:14:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m.html?c=/research"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 43
-    images:
-      - url: "https://www.concordia.ca/news/stories/2021/06/23/d3-backed-aifred-health-takes-second-place-in-the-ibm-watson-ai-x-prize-competition-and-1m/_jcr_content/top-image.img.768.medium.jpg/1624462106264.jpg"
-        width: 768
-        height: 384
         isCached: true
   - title: "Montréal’s Aifred Health wins second place at IBM AI XPRIZE competition"
     excerpt: "Montréal-based healthtech and artificial intelligence startup Aifred Health today won second place at the final round of the IBM Watson AI XPRIZE competition."

@@ -2,19 +2,31 @@
 category: news
 title: "Baidu and BAIC's ARCFOX Team Up to Mass Produce Robotaxis"
 excerpt: "Baidu Inc. is teaming up with BAIC Group to mass produce self-driving \"robotaxis\" at a fraction of the cost it takes to make a fully autonomous vehicle, the Chinese tech giant said Thursday."
-publishedDateTime: 2021-06-17T10:13:00Z
-originalUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
-webUrl: "https://www.morningstar.com/news/dow-jones/202106173165/baidu-and-baics-arcfox-team-up-to-mass-produce-robotaxis"
+publishedDateTime: 2021-06-17T09:44:00Z
+originalUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+webUrl: "https://www.marketwatch.com/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-and-baic-s-arcfox-team-up-to-mass-produce-robotaxis-271623922950"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "f934nQfsbiO3fbcECGThIP6vtb2csmvSRapJe/w52asjoz70RBuQ68ogbcEC8EeQux+qKZr7i1q0aoPx7CaLtvW3HqfJ35TiMME9TRPaYyUAE9CKNtwAWYIaxUOFQ9pgXcpldS1I+m+2aMMG0pWBJHvDIvkYsnhRNydGAS8BG6tscs9Bb/oJQzqPNibSFeVn2ZIr7Z2dKYrQSkEh/gH7YeHoK4AvIA8ue40JkodzUpmTpyEj/TX6rMXpzFk67fIPPD/4Q/pY8WHfkKJ5WysADs1+NMpnW7sQyy++ZBPMu4IdnSl8+DMbBABgXYqHrBmtBWer8xyJZ8JLuvlN56sLtSyl1G8JGHSIeqdlo6HrI/U=;HZFYniu+x9iT7bkey9joRQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "NG2oNpM9DqU5AEUNKUEOfVkRSdkv8jIvIaejs1XPnH/Ns3Jf59pFxoDE43y8BkLKfmqsN3NKPvL7OvoTTXo1feOrVE5HhiHZvigg5GNalzmPLR9RXOsO1qCYWft9WUdbSbeyDOsiFZggkzbUlJca9uxOOkb2iNCWywTYcnnlL8PrpwdKROBjWVWMRAEwG2XM3khAynfPpKE9xpOmRzwf+dhdNbqwvgBlotYebz5ossmdGEetFhBE7+21rEcZZjY96cO+WWQby6HJrKOtBb5u2trWIR9xPfQUzQ8DD/ujkYXz17JwLHuhNIIRPVBxozHCOlCPcTh5rpaKyczXc7wwaOirW6NaQ7lxg3RmbIWY/8E=;4ZWUEtiGtfpbbQOpEWiIDg=="
 ---
 

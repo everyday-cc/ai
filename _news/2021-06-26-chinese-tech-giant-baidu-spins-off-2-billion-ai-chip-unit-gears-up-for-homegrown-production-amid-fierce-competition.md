@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202106/1227121.shtml"
 webUrl: "https://www.globaltimes.cn/page/202106/1227121.shtml"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 480
     isCached: true
+
+related:
+  - title: "China's Baidu spins off semiconductor unit Kunlun Chip"
+    excerpt: "Chinese search and cloud giant Baidu has spun out its semiconductor design business into an independent company. Kunlun Chip (Beijing) Technology Company has formed as its own company, and in March raised money from CITIC Private Equity Funds Management,"
+    publishedDateTime: 2021-06-28T10:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/chinas-baidu-spins-off-semiconductor-unit-kunlun-chip/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Baidu_headquarters.2e16d0ba.fill-1200x630.jpg"
+        width: 400
+        height: 211
+        isCached: true
 
 secured: "CkCo+mn3GX76zejFDkuy579IY5Pvv097OIF50YhM46DkJ25X+Oi5fIrm10bbfLSr2Dv/bwaa5vwID5x9mNyU3eUAzteUhANrImADTqNP6b/Qm3VY5j+dAUj9ocatuTHHYelCMU/wkRIbWRy8gOblvao+RJrPhHZ2a2LKoTkBGiCyGPQEzwMQWJMxUxYrKR7vWCE5i2fcBj1B2srAECmd34DGaGXhYObxocQmX8V/qzpS38TA22lXGvEAvmOqclrZ+HtFkp+JPXn96VLHDnjWKGEj5GeZdT0rP1H2HngXikkig/cce33GodcptCz27R0O1UIwRrjAT8lbi6e9EOATNiM3X+xzyxpD+1Lrk7h0ax6FCR2nW6jGLfFMJiK9qkww2ILxZ2/f5TcD6y7gDjCWPML4+IHrHeXVuCB+DqQAwVR4tKXmOorSX0NhEptP15PXZWrSZLw8aRKo2Znbv87+l5EqiD55McvDnAUqRIVJ3yXNvv5QVJakHP7ongTJBhIqPmX0wNOs7GIshcoK086Eog==;8OJaLBP80R3SguTbfg3BXg=="
 ---

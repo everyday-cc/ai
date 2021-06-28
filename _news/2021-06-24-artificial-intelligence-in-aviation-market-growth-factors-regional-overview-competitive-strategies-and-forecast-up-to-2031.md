@@ -70,6 +70,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
+    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
+    publishedDateTime: 2021-06-28T11:20:00Z
+    webUrl: "https://www.openpr.com/news/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+  - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
+    excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
+    publishedDateTime: 2021-06-28T10:54:00Z
+    webUrl: "https://www.openpr.com/news/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315215/voice-recognition-market-growth-rate-and-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/6/U628741252_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
     excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
     publishedDateTime: 2021-06-28T08:21:00Z
