@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hop
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM serves more AI power at Wimbledon 2021"
-    excerpt: "Wimbledon tennis championship is an event IBM uses to showcase the insights possible using Watson-based artificial intelligence applications."
-    publishedDateTime: 2021-06-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021"
-    ampWebUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "IBM serves up player tracking tools for Wimbledon fans"
     excerpt: "IBM has announced a set of new AI-based fan experiences for this year's Wimbledon Tennis Championships, which are set to start on Monday. The tech giant has a 30-year history with the competition, providing innovative features through its Watson AI service."
     publishedDateTime: 2021-06-24T13:40:00Z

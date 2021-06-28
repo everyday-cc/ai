@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Politics/International-relations/The-first
 webUrl: "https://asia.nikkei.com/Politics/International-relations/The-first-AI-conflict-Israel-s-Gaza-operation-gives-glimpse-of-future"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Israel is Using Robots with Machine Guns to Patrol Gaza Border"
+    excerpt: "The Jaguar's role in a border patrol and possibly anti-riot capacity will likely continue to receive scrutiny as public security services across the world explore deploying unmanned systems with offensive capabilities."
+    publishedDateTime: 2021-06-27T23:00:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/israel-using-robots-machine-guns-patrol-gaza-border-188602"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/Flickr_-_Israel_Defense_Forces_-_Becoming_A_Soldier_of_the_Caracal_Battalion_%2859%29%20%281%29_0.jpg"
+        width: 1222
+        height: 813
+        isCached: true
 
 secured: "GKshh3242Rz8+TDrkDBlrqwkS03R1IDTZvXxi/MsP84C/Isa/Mx5TdRQTOpCm+gheJ5uP7AjtrIUcmJTWWm+8Nx1nnYWIVuEwNjDWLVlHSu1d+nbDuCAmhgZI6Rkn4OKc3zmGvMgqm3TEaG75c2EbdqhMBn2tvgR/KwTap7lnDuCdmT7/xVxqU8Y/82evyl924MTfr5uRzMkpqYHUBFLS+m5uGcLrl/jwsev0ieBQrwN1G9qm7IJKG2XPLrdEQh3G10ITZ7kJFpROMMvS5ugskXA3oWjk7UZnl4fjQUIVVi3l2xJLLGjEbLqjonJSFLqVaOV74iBQLxUwHFDWxxp0HMkv6wZbyfMHcnD4p9HzQI=;v4+62X1XrczKBFShT83DnA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "SAFR from RealNetworks, Inc. to showcase latest version of computer vision platform at ISC West 2021"
 excerpt: "At ISC West 2021, in booth #11109, SAFR from RealNetworks, Inc., the premier facial recognition platform for live video, will showcase the latest version of its high-performance computer"
 publishedDateTime: 2021-06-25T10:36:00Z
-originalUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
-webUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
+originalUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Wynl8+k77sCwiJfQYYOvff5PCU1/mlMbGq/OV1m+mJk5FvgV24g5EoeFx3EweGhb0lyaWNulOxWWxfFY322qkJ9K4IQRnul/h/F99RFuszICJ8ysA+S5bdpSbKBB2BSMwuzA2OErB7nv9eikIMTCLCosclqg1g8iq1twNk1RZRuAx+mAp4Cy45CrsSSxdk78ZWq20n/IV3saWw7G8xBH+7Kf4ji7AKJmLcUXihmUlWs5iq3r6D+vSrRo0qUhqnLiuSmQSEK1roq0QVbZERH33EL8PyuomJapbZM8bCRPfF4AJPhH/knk55EWJhxghQp/VkIo7pdnHlIkGcr2zosa+X6Edd3Ca9INnquWeIufMXevsjT5+pFNYqsIBc7LTA8MZTfL4SkXxeCTON2GqIYt7uk3pPUSgV5lNjd0jYnWb8I27EWrsv4YPklWUrm9o9pLL2MqGGZnY6osmnqbqZTYDUWxCQB/RqRW7+lHb+We6p8dyBfeJG8GOLLUphf2y/96cI20bbLfhq7CkRFBBFM6FA==;67l1Q6F4VxFTl20XCgnP8A=="
+secured: "aqbdLZ+pgwK1OZTut7PyFiKe1/BdCsJ/ekoeMIyAC6qyVUJ1xG183eG2PtKq34UbAe+mEK4GPw8UjoqNnPaobl/gjJpOFWUDmlK6COZBOtFPbFcabHchMEcxgjrA4IQ4ue5WhjaIMUcH5+2uR12TBBkU5lcXJ4ekYLhwCNqskdCA5GlRHpcSGfkq4NIf4qD3/APkjZjOQKMNfEHZKgrXV9vd2bW2qoE0WOK9lYOMFuKoNHj5GE97JmOvd7PnJ09jTEPo5UeEmQ9zU0bB6b+AN9GNmJ1F1lwv+NpY6HEK1VAp1Uzc9QdfnIqk46szohZHUb6YwceHFOAA+LWGBEFWOXHKgf6uKpmPyYfgh2DSn7s=;0aque39TkGcuvKdnF8ARZQ=="
 ---
 

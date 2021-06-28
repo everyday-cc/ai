@@ -39,34 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Chinese self-driving startup WeRide deepens ties with Nissan"
-    excerpt: "WeRide, a China-based autonomous-driving startup, said on Wednesday that it would deepen development with Nissan on autonomous technology for the China market as it raised further funding on top of $310 million it received in January."
-    publishedDateTime: 2021-06-23T08:43:00Z
-    webUrl: "https://europe.autonews.com/automakers/chinese-self-driving-startup-weride-deepens-ties-nissan"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/WeRide%20robotaxis%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Nissan deepens ties with Chinese self-driving startup WeRide"
-    excerpt: "WeRide, a China-based autonomous-driving startup, said on Wednesday that it would deepen development with Nissan on autonomous technology for the China market as it raised further funding on top of $310 million it received in January."
-    publishedDateTime: 2021-06-23T08:43:00Z
-    webUrl: "https://europe.autonews.com/automakers/nissan-deepens-ties-chinese-self-driving-startup-weride"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/WeRide%20robotaxis%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Self-driving startup WeRide deepens ties with Nissan"
     excerpt: "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor on autonomous driving technology for the China market as it raised $310 million at a $3."
     publishedDateTime: 2021-06-23T09:41:00Z

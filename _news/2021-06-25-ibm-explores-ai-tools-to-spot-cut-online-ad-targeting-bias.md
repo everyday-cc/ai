@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM Watson’s new research explores how AI can mitigate bias in advertising"
-    excerpt: "IBM Watson Advertising announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
-    publishedDateTime: 2021-06-25T09:54:00Z
-    webUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/"
-    ampWebUrl: "https://www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-watsons-new-research-explores-ai-can-mitigate-bias-advertising/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 72
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/05/human-simulation-main_opt.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "IBM explores AI tools to spot, and reduce bias in online ad targeting"
     excerpt: "Th tools would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy"
     publishedDateTime: 2021-06-25T07:35:00Z

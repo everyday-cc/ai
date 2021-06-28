@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -61,34 +61,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163364,msid-83776925/upskill-to-the-cloud-all-are-moving-there.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
-    excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-24T18:35:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2021/june/marinus-analytics-xprize.html"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 41
-    images:
-      - url: "http://www.cmu.edu/news/stories/archives/2021/june/images/xprize_finalists_900x600-min.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
-    excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-25T18:56:00Z
-    webUrl: "https://www.cs.cmu.edu/news/cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 39
-    images:
-      - url: "https://www.cs.cmu.edu/sites/default/files/web_Traffic%20Jam%20Visual.jpg"
-        width: 600
-        height: 331
         isCached: true
   - title: "Making it Work: AI is the future for deep data start-up Altum Analytics"
     excerpt: "Less than a year after its establishment, Altum Analytics, the Belarus-founded, Dublin-headquartered software company, has already raised €500,000 in funding and is readying itself for an expansion drive."

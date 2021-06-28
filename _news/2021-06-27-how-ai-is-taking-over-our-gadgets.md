@@ -44,21 +44,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "3 ways AI is being used for good"
-    excerpt: "As health providers increasingly come to rely on AI systems during this pandemic and into the future, and governments across the globe consider way.."
-    publishedDateTime: 2021-06-23T07:40:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/3-ways-ai-is-being-used-for-good/83772714"
+  - title: "How Artificial Intelligence Is Taking Over Our Gadgets"
+    excerpt: "We're now witnessing a turning point for artificial intelligence, as more of it comes down from the clouds and into our smartphones and automobiles. While it's fair to say that AI that lives on the \"edge\" -- where you and I are -- is still far less powerful than its datacenter-based counterpart,"
+    publishedDateTime: 2021-06-28T00:04:00Z
+    webUrl: "https://www.bangkokpost.com/business/2139475/how-artificial-intelligence-is-taking-over-our-gadgets"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-83772714,imgsize-77735,width-800,height-434,overlay-etcio/3-ways-ai-is-being-used-for-good.jpg"
-        width: 800
-        height: 434
+      - url: "https://static.bangkokpost.com/media/content/dcx/2021/06/28/4014459_700.jpg"
+        width: 700
+        height: 481
         isCached: true
   - title: "How AI-powered pricing is shaping the customer experience"
     excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"

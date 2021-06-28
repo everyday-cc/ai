@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
 type: article
 quality: 125
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
-    publishedDateTime: 2021-06-23T07:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
   - title: "DeepMind to use AI to tackle deadly parasitic diseases"
     excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
     publishedDateTime: 2021-06-27T13:22:00Z

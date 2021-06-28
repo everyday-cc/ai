@@ -1,41 +1,36 @@
 ---
 category: news
-title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
-publishedDateTime: 2021-06-23T12:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
-webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+title: "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition"
+excerpt: "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,"
+publishedDateTime: 2021-06-28T01:22:00Z
+originalUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/"
+webUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/"
+ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 97
+heat: 227
+published: true
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
-  - AI Ethics
+  - IBM AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg"
+    width: 1024
+    height: 640
+    isCached: true
 
 related:
-  - title: "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition"
-    excerpt: "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,"
-    publishedDateTime: 2021-06-28T01:22:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "IBM Watson’s new research explores how AI can mitigate bias in advertising"
     excerpt: "IBM Watson Advertising announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent unwanted bias is in advertising, while simultaneously laying the foundation for potential mitigation."
     publishedDateTime: 2021-06-25T09:54:00Z
@@ -179,6 +174,15 @@ related:
         height: 331
         isCached: true
   - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
+    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
+    publishedDateTime: 2021-06-23T12:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 36
+  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
     excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
     publishedDateTime: 2021-06-24T09:12:00Z
     webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
@@ -202,6 +206,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "6xzCSUFSrNTocGJQ5LnxguG8oSA1c9eztoVKuLKkVYBvI95cWjtiJrSUHV3Wn0vfUsHdeFgKnzXT3b0w8yOJzLgTAlOlGrpIk6YvI2eLy/VOCnTICUffopqs2YhqEWSB0pSO8QH7QXQ09D+p0rsp0GGajCkXUgm7GDX+J3tyRXY2Ph7Aph7XqK4bBUA2umfW72FmBOhSMvVG3kaSEldh2rpLrRoFnI5qr6Vfq2K0nGWH1ZzLIqGu9nrn9gPnyQYs045w09NT6rg3YrAHigqc07FMEE65NGqkT04oeddF4dUGYSxHiDEZUXjC8QC34Ka/wMrVtBfVZhxXq0dY+sZtkot7Ab9236lYngAnT7Mu+y8=;LDraBrERWHYVWPjoGU8mqA=="
+secured: "TookXKvHd8e5VKQVR536q3FAna7UTpmhLluVlVOSrKyTj7rXheLYT5HlCXyYvOIvWgEayVfOJBXwB0E91tQ6yh+a8XfXW3H4aHRCI23OggpZGpOKilm5s3QPqNRXqkU5NGKEgzFXFLCnVSylcBlQN8CIY0m7uGDZV7c1FjPpG7MiOv2XTg7VsW8maxn5ydN2YRl7DIniT3W4H/Qqw5nVT2JpCYkJ2srcao8rwCpFf3S1i5MvhfP34NZYnaQqfYjNONBb6sYz5qpnTEgrvay0qO+GlTbKfxPLDIb4jkXT4ql8JZ4fKvMlKqvljXYbazvlR2ZHLINxf25qiP/RXC+bAcDZ1xjuZ4kc58+mneYZE7A=;ZeetcJAJmQH4ceUE6/uFuA=="
 ---
 

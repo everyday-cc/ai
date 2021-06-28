@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM serves more AI power at Wimbledon 2021"
-    excerpt: "Wimbledon tennis championship is an event IBM uses to showcase the insights possible using Watson-based artificial intelligence applications."
-    publishedDateTime: 2021-06-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021"
-    ampWebUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "IBM Creates New AI and Cloud Powered Fan Experiences Ahead of Return to Live Tennis with The Championships, Wimbledon 2021"
     excerpt: "Today IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) are announcing new technologies to enhance the highly-personalised, fan exp"
     publishedDateTime: 2021-06-23T13:05:00Z

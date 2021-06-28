@@ -53,15 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
-    publishedDateTime: 2021-06-23T07:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
 
 secured: "yYM0X/x8X4U9ujofCgKIV0zfBL75X3LtXCXl1Mk4iNdu8H3NkIZrLWD1civawX7N7gg0SKbRIGwK2snC19jYRsPeGyu7jUvcQVP/UYsjcVJMfgluxzWfAeXp9so2YNrdDFedQNvC9MQUsH8pRgF1ypcDkiGxl6Foyl/KclQui59BaMMomiCu1IqoKBntKGDNywnXrqGPGzuLjYSbDe9JXN6F7ckWXlwjnPsCGVJBDYR0PyXBvvi2MK+9/1TcsMTXycJRcjOxM35yoK9X8DsVD2lM2K1WtmSZ1LwzAcWOaJ/iRTZvDvTf2XrO6vHP/ftwADq0GEdaJosxCzkAUufNcSKYxviulQvcaEqWUDbdf6Y=;AKjc1pPB6duD9SZ7p7N2Ig=="
 ---

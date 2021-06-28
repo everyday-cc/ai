@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-f
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/06/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-47/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: syncedreview
@@ -26,22 +26,6 @@ images:
     width: 790
     height: 320
     isCached: true
-
-related:
-  - title: "Facebook advances shopping features through AI"
-    excerpt: "Facebook is sharing details on how the company improved AI and expanded GrokNet, to power shopping features on Facebook, like product tagging"
-    publishedDateTime: 2021-06-23T08:23:00Z
-    webUrl: "https://www.socialsamosa.com/2021/06/facebook-shopping-features-ai/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 39
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2021/06/14-30.jpg"
-        width: 803
-        height: 419
-        isCached: true
 
 secured: "DNE1Xi/xqxmGbUmFz1hx8MNvSvYN0EZoEAsbxfaIRXrMeQjy/7yCjXTO7iv2vXMF0KhGOxspI1U7Q579T60N00DBuEtaH4AHFEhSAROl0hjzHQxaAAcEQJsBM1ZcQubb9OrijeAkaQRq8boDKYRo6Kv31tLF3qQ/Qqxgro3W+ROsK6LS4XbogZt/6uN6xXBnZbb+FzXT4c84Ywz8RyAeBaGIM+BmnDsjcDrMqK7QYcqJzpzIoBWsM2fkZgwvXRYGDNgVOQ9tXxU6czdGoV29kIkEqkTKTTrihpGCVttmRVseOkU9Ar3a6H2OSj2gy8qe1WJfl0//uUhRhLaErLyq8dUTdrKJNkW21shuJm89O/qK1jtJVChCYzIp9xJK23GamY6VvFYkXBzA3mQTA3+PLDdopH+p1U5mknRQdjov6wLLh8pRrLmKzDta0ZBbJf2ji2Z4qljSmDXu/GA/HuLfx2uR3xDbtzWDaJon72Ty0QghCf/ng5kHafSC1iekeiSNsPtBbEeytGY5dlRwtatXxQ==;NJDCh2dYEceDmUOxP4J6mQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/opinion/2021/6/23/22537081/road-to-driverless-cars-is-looking-hopeless-tesla-semi-autonomous-dangerous"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,13 +45,34 @@ related:
         isCached: true
   - title: "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper"
     excerpt: "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ..."
-    publishedDateTime: 2021-06-24T12:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper-301318985.html"
+    publishedDateTime: 2021-06-24T13:01:00Z
+    webUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous"
+    ampWebUrl: "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Autonomous or Driverless Cars Market Size is expected to grow at a magnificent CAGR over the forecast period 2021-2026 with Top 20 Countries Data"
+    excerpt: "Short Description About Autonomous or Driverless Cars Market : Autonomous/Driverless Cars is a vehicle that uses"
+    publishedDateTime: 2021-06-25T00:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-or-driverless-cars-market-size-is-expected-to-grow-at-a-magnificent-cagr-over-the-forecast-period-2021-2026-with-top-20-countries-data-2021-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QN1ZNjyWBJ1OofyI/9VzBwzq54oAXwzRlFqNaYu55lWLqymuDuV+jYK+Ne4G8mWSAK2uWdt2ummY8+ZREk5mWC3fBHGNErLAQG06GeemJNsK3foSYqaRB2KC3uvG0tZeUL5XE4eFEcIhvyN40HUuOBT8g06dhcA5yuo9DKJKF87dKUmr7s7yVNCg4OhEj0bOVPVKCGLh51wERwDf8G5SMCMxe/5AnYlJFlmLXMm6U0KlpkH25KOGLJzgn5uaFGiqzokQrSWjNb/mq9a9pB8h0b/ygb72fsORXDbjA0NDtlf5AcfhvfpHEoUxXjmcmrcF0kx0gfWRvWGh3XU5xIXskBI/UhF6OFRsh4RB7etvydM=;05XGO4rtxfI9gMcVZnP1cQ=="
 ---

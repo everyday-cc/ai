@@ -1,26 +1,27 @@
 ---
 category: news
-title: "How AI-powered pricing is shaping the customer experience"
-excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
-publishedDateTime: 2021-06-24T06:47:00Z
-originalUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
-webUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
+title: "How Artificial Intelligence Is Taking Over Our Gadgets"
+excerpt: "We're now witnessing a turning point for artificial intelligence, as more of it comes down from the clouds and into our smartphones and automobiles. While it's fair to say that AI that lives on the \"edge\" -- where you and I are -- is still far less powerful than its datacenter-based counterpart,"
+publishedDateTime: 2021-06-28T00:04:00Z
+originalUrl: "https://www.bangkokpost.com/business/2139475/how-artificial-intelligence-is-taking-over-our-gadgets"
+webUrl: "https://www.bangkokpost.com/business/2139475/how-artificial-intelligence-is-taking-over-our-gadgets"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CustomerThink
-  domain: customerthink.com
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
-    width: 417
-    height: 450
+  - url: "https://static.bangkokpost.com/media/content/dcx/2021/06/28/4014459_700.jpg"
+    width: 700
+    height: 481
     isCached: true
 
 related:
@@ -56,21 +57,21 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "How Artificial Intelligence Is Taking Over Our Gadgets"
-    excerpt: "We're now witnessing a turning point for artificial intelligence, as more of it comes down from the clouds and into our smartphones and automobiles. While it's fair to say that AI that lives on the \"edge\" -- where you and I are -- is still far less powerful than its datacenter-based counterpart,"
-    publishedDateTime: 2021-06-28T00:04:00Z
-    webUrl: "https://www.bangkokpost.com/business/2139475/how-artificial-intelligence-is-taking-over-our-gadgets"
+  - title: "How AI-powered pricing is shaping the customer experience"
+    excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
+    publishedDateTime: 2021-06-24T06:47:00Z
+    webUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
     images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2021/06/28/4014459_700.jpg"
-        width: 700
-        height: 481
+      - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
+        width: 417
+        height: 450
         isCached: true
 
-secured: "RYREE5sUja5UPcO3Z1UJ1zsMT9Esr6cl8Bgma3IFbcQMjE0SdD5eXsf/16LRVLaqdIMGpt9gcw9VXvrH+qLx3Hfsepm14ZUajKQajekRNHqYB1Ba5AZtoWaXlLBm0fFgjJ3pNDBqvWIJ8I+030eDtcZ7qAkFclHyNTNKqSEGS2RFR9TZHWmtbKpkpPVm5yFRNICdrVbuRf17FwRXu5dNfQpNypy0umY8MRaM0lncF/ZoLfktCMjUV5sX285c8/z4Jizpy4vrS0CD5C4uEZmQS0s9+GHgd9Cnhxf9PqWxFrcuwoeVD7nYVzbl/Zeg7OTcKaEZUM0QZJQEO0du1FDdu33NNGqX6zdbDUYFcfY5wUA=;QYI6V0oRvYGlmFhfPsLQDA=="
+secured: "A9bF7bVcskDwP1FhCEsczGMpXc6mcZdguUW7VL+ZZRqjqD5hibVfteRj8mcphHFoJWhQ0rlqHOCpyYXNHjPLmkAJn+GNhfcDyH3iMAd20f096CpuYH8jJAf+5yHVt/zICPH6bJbncN+Nzupid3RE5tEdieLMmMwr5Y747MZn0K12GEKpq/cMBvg9cJsWLl3cL1BSPN0RzV5VFCtDErzqftGf6EMtzjZsybq/ywegJub6gwX0x52Vi0uAXUHVPe0v6XRgNt0WyP/AKj4/uAfUIQC+mgzcPPnb+AhEesF2l5zcjDNOINMSqAjNcv0i/8vxAqLblBz0iPXVZHM3AveEhDnzpT3sL7MPd0xLrJaLoIs=;IIUfZ8G0cW2H9ZlIhRFCNg=="
 ---
 

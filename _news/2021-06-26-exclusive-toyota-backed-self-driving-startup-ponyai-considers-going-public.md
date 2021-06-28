@@ -40,22 +40,6 @@ related:
         height: 628
         isCached: true
   - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
-    excerpt: "The company is the latest self-driving truck firm to tap public markets in recent months, joining Plus and TuSimple."
-    publishedDateTime: 2021-06-23T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 73
-    images:
-      - url: "https://images.wsj.net/im-357324/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Self-Driving Truck Startup Embark to Go Public in $5.2 Billion SPAC Deal"
     excerpt: "The company is merging with a special-purpose acquisition company to go public, becoming the latest self-driving truck firm to tap public markets in recent months."
     publishedDateTime: 2021-06-23T18:58:00Z
     webUrl: "https://www.wsj.com/articles/self-driving-truck-startup-embark-to-go-public-in-5-2-billion-spac-deal-11624442400?mod=markets_lead_pos2"

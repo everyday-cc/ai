@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM serves more AI power at Wimbledon 2021"
-    excerpt: "Wimbledon tennis championship is an event IBM uses to showcase the insights possible using Watson-based artificial intelligence applications."
-    publishedDateTime: 2021-06-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021"
-    ampWebUrl: "https://www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502891/IBM-adds-more-AI-power-to-Wimbledon-2021?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "IBM serves up player tracking tools for Wimbledon fans"
     excerpt: "IBM has announced a set of new AI-based fan experiences for this year's Wimbledon Tennis Championships, which are set to start on Monday. The tech giant has a 30-year history with the competition, providing innovative features through its Watson AI service."
     publishedDateTime: 2021-06-24T13:40:00Z
@@ -67,6 +56,6 @@ related:
         height: 669
         isCached: true
 
-secured: "YTbUTxCHnczb009gYKpS81+nH3TSrYfP4swFGVtWF0cz4HvSmbrDEag8F3cgj/aZkPR2yUrVuNYQWITcBvb4VAOBp7x1zPZNXzxOdoivi7MKT1jSEkDhl6yHzs/1IRlG0BcN4v0cPbJREz4e1r6bZgCB2JlbWy0nep2/ChrGigoW6foX2xp7IbCf34fYPjgAtVawmwFE/GnxcZzHPa/+mTqn2CntX6lZ3fja9KJTPbMVpSKEvWXkoZRZRn/jjGpCZJqwm7vG+g4C5r1oa/V9J0BS+keyQs87lAT0PXDwGzxTZRI2D1pTK9WgXt04G8ocaxen+c6mdlrlj1DM0/Sxht5MPb0zvtJrW5a7QDdxONc=;mqzCP7XllWLzklhY3+AUnw=="
+secured: "SsDgVxcbC593iQOT8Np9ubRWHExxmJoEEr1coB2/qnzBD64QBtvDLtzKp12GWbYa0REI4uGyf0NOGxPEZJQX748NW8Xqv4G5pFijAJYIddhY43xgYe4PMlGPaE3RW1+ZKqCM4JVVBhjXGlv+/M/9ofjdw14gcv9UImzxnpfJnGwdH+D9XgIkL+h0BJycM5JiBNDicrymXfN0WbVJsCCeEVIMMfI9/CZeWho8p9Achvzp2hCE/zAMeBhVgRe25kajbRcnSA0CgwiSfzj19TwaF+6fKbsX4bd2pEJ21lh3fi03+vtICrD0Y1UEtWp1agzlDK6L9tnZdIBAeSYtgD/cJ4XPblTKPGG7tTc4itjyhm8=;FaKt+qwElfod8v6Omn3v3Q=="
 ---
 
