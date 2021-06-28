@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deep machine learning completes information about the bioactivity of one million molecules"
+    excerpt: "A newly developed tool predicts the biological activity of chemical compounds, key information to evaluate their therapeutic potential. Using artificial neural networks, scientists have inferred experimental data for a million compounds and have developed a package of programs to make estimates for any type of molecule."
+    publishedDateTime: 2021-06-28T18:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210628132154.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
   - title: "Deep machine learning completes information about one million bioactive molecules"
     excerpt: "The Structural Bioinformatics and Network Biology laboratory, led by ICREA Researcher Dr. Patrick Aloy, has completed the bioactivity information for a million molecules using deep machine-learning computational models."
     publishedDateTime: 2021-06-28T12:19:00Z

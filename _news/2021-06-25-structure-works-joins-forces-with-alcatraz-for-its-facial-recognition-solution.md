@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/structure-works-joins-forces
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/structure-works-joins-forces-alcatraz-facial-co-10493-ga-co-1599641358-ga.1624602680.html"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 612
     height: 355
     isCached: true
-
-related:
-  - title: "Market for Emotion Recognition Projected to Grow as Some Question Science"
-    excerpt: "Emotion recognition software is growing in use and is being questioned for its scientific foundation at the same time."
-    publishedDateTime: 2021-06-24T15:12:00Z
-    webUrl: "https://www.aitrends.com/emotion-recognition/market-for-emotion-recognition-projected-to-grow-as-some-question-science/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 23
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-25EmotionRecognition-2.jpeg"
-        width: 550
-        height: 237
-        isCached: true
 
 secured: "/L5juvebmKaO9KINTD7bl+Ez7JCKyJ+9GA5flBvJ4Rrv6dnCPzhqXeRBoOeHBNTN4Hw49U67MCvmp6dxlej5j68D5n0VG0iRfxCPodzn0hh0zIFgAE+uVadRr8azrgsNJFs8w1jFPcBESZ1FT2JHY/J1za9HWqcvzJeYNtijUU/tKAnYktjAjvXKGd9pzCvHymfP+dlZ/Bn964IuDT8XP67n08j3RG6Fks/XJmTrcRF3lREnuPLaPWiQLlNLecgHHv5o6QxhIrT1Q5qDlVhI691wOgxSJMpeJb1oqd3T2d+kc0FS5UEs8FdifqXauiXZYFT5/nzeK3+q08eIztbpomin0IU5b6GPQWoekb2GEMY=;OIeXTQi2ujERNsIdsJLGqw=="
 ---

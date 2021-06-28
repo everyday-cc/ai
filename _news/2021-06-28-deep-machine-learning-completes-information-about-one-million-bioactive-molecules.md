@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2021-06-deep-machine-million-bioactive-molec
 webUrl: "https://phys.org/news/2021-06-deep-machine-million-bioactive-molecules.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deep machine learning completes information about the bioactivity of one million molecules"
+    excerpt: "A newly developed tool predicts the biological activity of chemical compounds, key information to evaluate their therapeutic potential. Using artificial neural networks, scientists have inferred experimental data for a million compounds and have developed a package of programs to make estimates for any type of molecule."
+    publishedDateTime: 2021-06-28T18:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/06/210628132154.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
   - title: "Deep machine learning completes information about the bioactivity of one million molecules"
     excerpt: "A tool developed by the Structural Bioinformatics and Network Biology lab at IRB Barcelona predicts the biological activity of chemical compounds,"
     publishedDateTime: 2021-06-28T09:09:00Z

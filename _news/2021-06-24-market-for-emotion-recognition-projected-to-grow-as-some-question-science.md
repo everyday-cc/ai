@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Structure Works joins forces with Alcatraz for its facial recognition solution"
-    excerpt: "International security integrator Structure Works is proud to join forces with Alcatraz AI to offer the Alcatraz Rock facial authentication solution to its growing customer base.This new"
-    publishedDateTime: 2021-06-25T08:50:00Z
-    webUrl: "https://www.sourcesecurity.com/news/structure-works-joins-forces-alcatraz-facial-co-10493-ga-co-1599641358-ga.1624602680.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/structure-works-joins-forces-alcatraz-facial-co-10493-ga-co-1599641358-ga.1624602680.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/structure-works-joins-forces-alcatraz-facial-co-10493-ga-co-1599641358-ga.1624602680.html"
+  - title: "The Linux Foundation is working to improve voice recognition ethics"
+    excerpt: "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,"
+    publishedDateTime: 2021-06-28T18:31:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 55
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 71
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/alcatraz-and-channeltivity-partner-to-deliver-channel-management-solutions-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-970156432-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
 
 secured: "rcjwJSWiWKwTQVwmXiV0byz640PCkW3BlxIyUJcY9KQoLY3+ptfDBRIXyj2EKLPhyhFFp7s8zTN/QONQaZznnHV6FciTN1GH0dfj2l178Fa/oxVGSaTBQgtK5Tk0E7GxKagKeojARhI16kOcqyW7816OMRD2Hea0yMxGD8CgSjIc+iYTiEB5eSHdzoXBbqrOfl2g9XG81Hb4Gg66NJOkPhfzCgv8haMnAb3yqCtMnh730t05eZ16TS+QEOWGlsMClbt6v///MqAMW4SVuE6TkyfDvAUJTsUip9KpJKvxyJ3Mo6B2HNl+L7ZEy5cxZQhSaAf5R13eJoc+Ne0kukkJdDz2xAwWMSpznfqGg43xzLD9ViT9eJz2L0vbd7a/MoBjEqZQwfXuI3yOpjauQ8WQKo/BEKkk3iH6gInpSN6+ejz/TnjWg8yIWEfRkRUPocaFDU9BBJwB9QU65OZc3X0cSKPCQqMlxdFRw6WTESBSqNDeIXYDYSgpQmSUMGRzxWcD8i8CB0YOcr3Y7H4ux7echw==;uPV6bvV/dTlYk3HXZZiiyQ=="

@@ -3,8 +3,8 @@ category: news
 title: "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS"
 excerpt: "The Virtana Migrate module within Virtana Platform brought the insight this insurance company needed to rightsize, de-risk, and accelerate their migration. The company leveraged Virtana Migrate to optimize and right-size workloads for migration,"
 publishedDateTime: 2021-06-28T13:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398790.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398790.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-virtana-migrate-delivers-3x-faster-cloud-migration-aws-/2021/06/28/9398790.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-virtana-migrate-delivers-3x-faster-cloud-migration-aws-/2021/06/28/9398790.htm"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 246
     isCached: true
 
-secured: "HhVZgNjy3WDJb6iHgeU7AGpNPHbGEbVq588iXG0B4bMZcULZRPgtZKCOuIIOz9KBTkEDyVJK+2Iq2R3lWZ3N2O7tVGmZmpcuKVC8waFJ/OJtiM+ea8Ob2QmYlfXm1vDbk+hk0eGcuSV7ywe6drazBkYqChOsbC6kufcvG6psa8yoRsXOS2nhaChEZadVNkYjB2MgU5jhMFDmtyBYBUdAQE7hbKlVwHoxf71tgM3Bk+1ybTxMQ5t+S1s/tPwYXVwGhO1ndd0ygGGuw1pz9dLc/oQCAYaJo7lemdBFMm1tUjOP0rlof8enpYPUTvQJCwY+WrbJXX497588TYVxf7Vh8IZkuU+Ef0BQuf/++UGaqwQ=;63eMiN72dHTXkLLSxZTjNQ=="
+secured: "DMbiKNJIRzhzj5u7hK7GcDPbWTislquuotIhVSXRr8kttdsvBqKWvmd0/WDy9OPt47O8TeKiSC11UeYEKRmxVbhFZ7MzxZ5IbBus2ECEuokZyruX84Wv4pV/DXyNFbuGybR+q97l0+PEy3N8t8A5BTPGjw3eNcYhhH5eBn245yEcwobAdd2AQnyHalMERulbipYXac2lUPSeKjVCUCea4dBQcx/Q4x3cYbJ7t+dwAbmQa7mTGePsb7R85/IJAiJj5MdqvrHkrNxKKfp5KH/UO2BT/K346d0wH5d8CgFsCIrDYVx9olDy9vtQMI6AWRGMwHNlxoT65VJw5Gd18l4PnHBMv9D5RZc3FDbh6hKLMIU=;1oNegy1NuqdE+LH12CUfmg=="
 ---
 

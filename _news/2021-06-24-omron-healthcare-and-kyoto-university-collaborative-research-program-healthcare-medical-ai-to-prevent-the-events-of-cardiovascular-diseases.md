@@ -27,7 +27,7 @@ related:
     provider:
       name: Armed robbery in Revesby
       domain: miragenews.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
         width: 771

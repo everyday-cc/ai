@@ -7,7 +7,7 @@ originalUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-i
 webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-is-a-key-component-to-ai-innovation-and-machine-learning/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2246
     height: 1335
     isCached: true
+
+related:
+  - title: "This AI-based startup wants to connect teachers and investors for education innovation"
+    excerpt: "Center for Education Reform and Global Silicon Valley, is looking to raise $60K via crowdfunding to launch its edtech networking tool."
+    publishedDateTime: 2021-06-28T18:47:00Z
+    webUrl: "https://technical.ly/dc/2021/06/28/this-ai-based-startup-wants-to-connect-teachers-and-investors-for-education-innovation/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 46
+    images:
+      - url: "https://technical.ly/dc/wp-content/uploads/sites/5/2021/06/Capture.png"
+        width: 1063
+        height: 482
+        isCached: true
 
 secured: "CfpKWH8IdlWO9ilf9keg5KP1OxgGNcNij4S/mJcfrrl1pfCFIn9svlH4QvJPYKeXrpFXLrSvRxOzKHuK0z9pC1YD3NGP6dY+XVnAHvGAahFcGnR4Cpxiyp3mGtWPGxLYdtArJyHnNPi05KoK1nVOmXXIeYeeSTVu9fNj7FzxLDdF0rEV5SFOda8tcCy2FuY5Y+TfO0mrIGNOajLvjorzUYhL5cKIXJhVNFAKPTkCAZYONZrRjtEAcgmu2CMkcXoE6TtIKzyaR/Q6q3YhIBNNFPQzPUz+LoJnNZytxfEfaljaICzo7gbZYd+MT6AlaB2JbzValdXLiDvGH2y9FphK9nB29ljTOl3XwB7WrWWDI1A=;v9NLm99LUneSkvOx1gjJJQ=="
 ---

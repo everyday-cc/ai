@@ -77,20 +77,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
-    excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
-    publishedDateTime: 2021-06-24T01:40:00Z
-    webUrl: "https://www.crn.com/news/cloud/tighter-aws-salesforce-integration-an-enabler-for-partners"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-11a630a261cb-195ea8a3f3b5-1000/aws-sign.jpg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "AWS, Salesforce partnership to unify developer experiences"
     excerpt: "Amazon Web Services on Thursday expanded its partnership with Salesforce making it easy for users to use the full set of Salesforce and AWS capabilities together to quickly build and deploy powerful new business applications that accelerate digital transformation."
     publishedDateTime: 2021-06-24T15:28:00Z

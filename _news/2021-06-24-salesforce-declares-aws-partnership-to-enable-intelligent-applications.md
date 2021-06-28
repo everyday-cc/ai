@@ -62,20 +62,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Tighter AWS-Salesforce Integration An ‘Enabler’ For Partners"
-    excerpt: "Greater integration between Amazon Web Services and Salesforce will be an “enabler” for both technology companies’ partners that’ll reduce the need for custom coding, cut costs and hasten their time t"
-    publishedDateTime: 2021-06-24T01:40:00Z
-    webUrl: "https://www.crn.com/news/cloud/tighter-aws-salesforce-integration-an-enabler-for-partners"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0266-11a630a261cb-195ea8a3f3b5-1000/aws-sign.jpg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "AWS and Salesforce expand partnership for product integration"
     excerpt: "Amazon Web Services and Salesforce have expanded their global strategic partnership with a focus on streamlining integration between products from the two companies."
     publishedDateTime: 2021-06-25T03:55:00Z

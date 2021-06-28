@@ -1,25 +1,23 @@
 ---
 category: news
 title: "New Intel XPU Innovations Target HPC and AI"
-excerpt: "Sapphire Rapids with built-in HBM raises performance bar; Intel's GPU, networking and storage capabilities enhance HPC toolbox. NEWS HIGHLIGHTS Latest 3rd Gen"
+excerpt: "At ISC, Intel showcases how it is extending its lead in high performance computing with technology disclosures, partnerships and customer adoptions."
 publishedDateTime: 2021-06-28T16:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/b21749065/new-intel-xpu-innovations-target-hpc-and-ai"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/b21749065/new-intel-xpu-innovations-target-hpc-and-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/21749065"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21749065"
+originalUrl: "https://www.businesswire.com/news/home/20210628005138/en/New-Intel-XPU-Innovations-Target-HPC-and-AI"
+webUrl: "https://www.businesswire.com/news/home/20210628005138/en/New-Intel-XPU-Innovations-Target-HPC-and-AI"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "MtKkz/3tTqXg+M8cJxRCeb9rJjAH2H1UiQKNRdVtpFZ1lSndJwReXa2pyLATFcy4G1dXAidNllBBB0f52wRCTMIn3H3ocZZKL1xOacUPAFnGYpwXhtcbe3naeBA/6o8n7IxE9aGEOG10cSm7QdJcH4GHh5NxOZ46yP31lw17wHxp1QWoydNa1MtUMGN2SbpQxW+7gduiycSSk/zxzngSvU8tH2znZNw7+bOTeOXETlv7YwZMNCbjasi0vXS1/0Oi1RbqC0ZrsJKaEXe3WF69mjfC6QkVDPPlsR288oFjvI8a8rtnWRoD5PM7pNr6DcLgQp/XbRuKJOV5oOMFhE6k5cqIvCm3LkXEdkfjMhRSeJs=;0QRdMd0Azri0BcMJIaE1sg=="
+secured: "WDlgEwqhraEbWtKZt8JI7BfW8RNCOuCQF2h2g6oBKu2y6JmhtqoRSL2hx0qCINd9QmdEV8lPDjUQFJVDB9pNVgMOcKvRPbcbE4Glb2IJI34s0rt5uE3tKfpHFywLYw8Aqa1N/3MDM5sVwdUypuIRjTK/BF89yxglr8vRILiA1OSHSEOYIMo/f3GRcVYZ/AemMBBiXY6vuNQEpHyqIFYzAGhA2eyh3a+gEMtcEvsZds9k/huxN57bb/FqGf6DoNeIrEwYzDCo/3wF+M1CDac3H1CDN9rs56j2tJN8AqGD6vbaBJayFZuihhf4IvWVm8BddbTfpdsVFg4WI/H9XVO1INtiwP9kN4EKW3W+XA6KeAhVaJyiihecCc6htSrjxMCw/FuR8EMRW8kuUKYo3LfFuVvV1DR0A/ODrPqS2HTeUCHTMR2jX2QkdwxjZpzNvzrhV6aFcrcKyon0L85Akk6uC2MT7Lz0/Ym5lRXCLq9nzDFxvzolz1f+6/EjtBzVk2Tui7nmcRowJKNxTP2DuBDI1w==;RYLElEp6BC8X9GjcmYSjsQ=="
 ---
 

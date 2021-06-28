@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-28T14:50:00Z
 originalUrl: "https://www.miragenews.com/who-guidance-on-artificial-intelligence-to-586291/"
 webUrl: "https://www.miragenews.com/who-guidance-on-artificial-intelligence-to-586291/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
@@ -63,6 +64,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ba/YsX9yxWiJzOCZ7IWpzaxqO8PKp3v2Hpp11q+y7Xi1DH1dUWOzqPDHKlkXQNxoWT5MTs6iN5kf2iv7KegOFmfJJEWhCoPYFwDTZzQBgtUietrCZ2rVIyOSWlU8ez1vv0z3uf9Pu9G5B9VEDgPAwgJkX/CwwS1kfiDsdZpz9RS++iRKyjbuGy9m9l5ePFhqWUtEGRoYc+s1jHUWGLf62zACwADGm5AuB0KXcKxShWH++JpJI4YBlW8ngx+WlGdHG+1mLKkMCAb8YhPrGhGBF3PM4LYhuEmWKuOrnobxOJ/3qhEGpkaGBdxzwutmLERPYR+z2C9wq5/M36wtyDdDTqgocx353mMGWgUEdXbQvhM=;XZVj2S3EPyE5eyaeH5xqUw=="
+secured: "rqauiccAU00UxiUhnrOu00iS9cmbDkY26DCWvOEVyoiDGsh1xdX1IJnx4QJyfZiJwzatMK1M1DO8j6weZiIgytqvAZjwHJugYpK4/tGEqr2OVuxngl3Brw1A6H1gsH+1uWZYd/ugP9szo+EgDSR/jAIN0/Tz7mhJMCma0Np5UJg0C8Oy/BlAh1K13R90B4tWuse8wzMZVA3B8aFBfDw2o9sn1FT9H1kJeiWzET/c2XffvI54VELuYEn2Eh3P4JS5IyLMGrGcMhCO3hOn11kn8IWaNsrYNklVR29sLilFBnb8yraywof9xym2OI9xAvVdnCOAaLK4MHrY7FfZWtGqOXJiJMgqrFrJVmjP5qFbf2cBBeseJIwuYQRlRBdH7ad0F6f9uzZWgwFK2WJ7zSzubO8ZO8rDWDQFmuFg3+HFVAqVTU6JwoX05+FAE4D7vW+DpjvYfbsrBsItf9CoDANWAhpTaxKErQbup6IUpb8/Sah4VC956jGdY0GFnaJxtNmHV8+YZym4YlO4YP/vW0JoTA==;TVVIjhJHZQkbX4t96c53JQ=="
 ---
 

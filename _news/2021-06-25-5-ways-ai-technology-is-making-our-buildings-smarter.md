@@ -70,6 +70,22 @@ related:
         width: 770
         height: 363
         isCached: true
+  - title: "Walmart AI Tool Helps Pickers Find the Right Product Substitutions, Improving CX"
+    excerpt: "Walmart is responding to the unique challenges out-of-stocks create in grocery ecommerce through the application of AI. While shoppers can’t choose their own substitutes when an item in an online order is unavailable,"
+    publishedDateTime: 2021-06-28T15:26:00Z
+    webUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/walmart-ai-tool-helps-pickers-find-the-right-product-substitutions-improving-cx"
+    ampWebUrl: "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/walmart-ai-tool-helps-pickers-find-the-right-product-substitutions-improving-cx/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/walmart-ai-tool-helps-pickers-find-the-right-product-substitutions-improving-cx/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 52
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/09/walmart-associate.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Walmart's new AI predicts grocery substitutes for shoppers"
     excerpt: "Big-box retailer Walmart is using artificial intelligence to aid customers and personal shoppers and better handle still-surging online demand for groceries amidst the COVID-19 pandemic."
     publishedDateTime: 2021-06-25T14:49:00Z
