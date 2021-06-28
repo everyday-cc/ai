@@ -38,6 +38,20 @@ related:
         width: 1222
         height: 813
         isCached: true
+  - title: "Israel, Breaking Ground in Artificial Intelligence"
+    excerpt: "Popularly known as the startup nation, Israel is a pioneer in technology and artificial intelligence at large. In plain terms, artificial intelligence is said to be the conventional name for intelligence exhibited by machines,"
+    publishedDateTime: 2021-06-28T21:19:00Z
+    webUrl: "https://blogs.timesofisrael.com/israel-breaking-ground-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 39
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2021/06/pexels-tara-winstead-8386422-1.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "GKshh3242Rz8+TDrkDBlrqwkS03R1IDTZvXxi/MsP84C/Isa/Mx5TdRQTOpCm+gheJ5uP7AjtrIUcmJTWWm+8Nx1nnYWIVuEwNjDWLVlHSu1d+nbDuCAmhgZI6Rkn4OKc3zmGvMgqm3TEaG75c2EbdqhMBn2tvgR/KwTap7lnDuCdmT7/xVxqU8Y/82evyl924MTfr5uRzMkpqYHUBFLS+m5uGcLrl/jwsev0ieBQrwN1G9qm7IJKG2XPLrdEQh3G10ITZ7kJFpROMMvS5ugskXA3oWjk7UZnl4fjQUIVVi3l2xJLLGjEbLqjonJSFLqVaOV74iBQLxUwHFDWxxp0HMkv6wZbyfMHcnD4p9HzQI=;v4+62X1XrczKBFShT83DnA=="
 ---

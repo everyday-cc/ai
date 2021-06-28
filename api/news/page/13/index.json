@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
+      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
+      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "publishedDateTime": "2021-06-17T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-insurtech-ai-startup-akur8-closes-30m-series-b.md",
       "title": "Insurtech AI startup Akur8 closes $30M Series B",
       "excerpt": "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,",
@@ -1110,58 +1153,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed.md",
-      "title": "Before the next pandemic: Lessons learned, and those still to be absorbed",
-      "excerpt": "The post Before the next pandemic: Lessons learned, and those still to be absorbed appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/features/before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed/",
-      "originalUrl": "https://news.microsoft.com/features/before-the-next-pandemic-lessons-learned-and-those-still-to-be-absorbed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2021/06/Next-Pandemic-1-1024x539.jpg",
-          "width": 1024,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T09:05:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

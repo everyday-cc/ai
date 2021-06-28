@@ -40,20 +40,6 @@ related:
         width: 400
         height: 231
         isCached: true
-  - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights"
-    publishedDateTime: 2021-06-28T07:12:00Z
-    webUrl: "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 26
-    images:
-      - url: "https://www.kaust.edu.sa/PublishingImages/news/NIRVANA%20Kit%20-%202.jpg?renditionId=16"
-        width: 711
-        height: 450
-        isCached: true
   - title: "OMRON Healthcare and Kyoto University Collaborative Research Program “Healthcare Medical AI” to Prevent the Events of Cardiovascular Diseases With AI and Home Measurement Data"
     excerpt: "OMRON Healthcare Co., Ltd. (Head Office: Muko-city, Kyoto, Japan, President & CEO: Isao Ogino) and Kyoto University (Sakyo-ku, Kyoto-city Kyoto, J"
     publishedDateTime: 2021-06-24T14:00:00Z

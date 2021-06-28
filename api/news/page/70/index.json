@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-05-07-how-the-usps-uses-nvidia-gpus-and-ai-to-track-missing-mail.md",
+      "title": "How the USPS uses Nvidia GPUs and A.I. to track missing mail",
+      "excerpt": "You've got mail! But where is it? The USPS is leaning on A.I. at the edge and GPU-accelerated computing to help track and locate missing mail and packages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
+      "originalUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/united-states-postal-service-truck-2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
+      "publishedDateTime": "2021-05-06T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-states-push-back-against-use-of-facial-recognition-technology-by-police.md",
       "title": "States push back against use of facial recognition technology by police",
       "excerpt": "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights.",
@@ -1118,49 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards.md",
-      "title": "Eko Recognized for Artificial Intelligence Innovation in Healthcare with 2021 MedTech Breakthrough Awards",
-      "excerpt": "Eko, a cardiopulmonary digital health company, today announced that it has been selected as the winner of the “Best Use of Artificial Intelligence in Healthcare” award in the fifth annual MedTech Breakthrough Awards program conducted by MedTech Breakthrough,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8231302/eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8231302/eko-recognized-for-artificial-intelligence-innovation-in-healthcare-with-2021-medtech-breakthrough-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/media/e661fd3e-dcdd-4d95-8b84-30762b88237b/medium/best-use-of-artificial-intelligence-in-healthcare.png",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

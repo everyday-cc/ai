@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-29-the-first-who-report-on-ai-in-healthcare-is-a-mixed-bag-of-horror-and-delight.md",
+      "title": "The first WHO report on AI in healthcare is a mixed bag of horror and delight",
+      "excerpt": "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight",
+      "originalUrl": "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-the-linux-foundation-is-working-to-improve-voice-recognition-ethics.md",
       "title": "The Linux Foundation is working to improve voice recognition ethics",
       "excerpt": "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,",
@@ -406,7 +458,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/companies/grene-robotics-develops-indigenous-drone-defence-dome/article35018981.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -698,7 +750,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -733,58 +785,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc.md",
-      "title": "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC",
-      "excerpt": "To accelerate the new era of industrial AI and HPC, NVIDIA has added three key technologies to its HGX platform: the NVIDIA (R) A100 80GB PCIe GPU, NVIDIA NDR 400G InfiniBand networking, and NVIDIA Magnum IO (TM) GPUDirect (TM) Storage software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-28-nvidia-eyes-arm-roadmap-for-ai-5g-integration-from-server-to-card-to-chip.md",
       "title": "Nvidia eyes ARM roadmap for AI, 5G integration from server to card to chip",
       "excerpt": "First use cases of AI on 5G will be enterprise computer vision apps that need 5G bandwidth, such as to a shop floor.",
@@ -793,7 +793,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-extends-5g-server-support-to-arm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -845,7 +845,7 @@
       "originalUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -898,7 +898,7 @@
       "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1130,7 +1130,7 @@
       "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {

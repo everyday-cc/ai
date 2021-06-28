@@ -2,6 +2,51 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-04-30-ic-and-software-solutions-enable-machine-learning.md",
+      "title": "IC and Software Solutions Enable Machine Learning",
+      "excerpt": "Machine learning has a narrower definition than AI. While there are many definitions of AI, the fundamental idea is about enabling a computing system to think, to make decisions equally as well or better than a human can.",
+      "sourceUrl": null,
+      "webUrl": "https://circuitcellar.com/cc-blog/ic-and-software-solutions-enable-machine-learning/",
+      "originalUrl": "https://circuitcellar.com/cc-blog/ic-and-software-solutions-enable-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://circuitcellar.com/wp-content/uploads/2021/01/365_Jeff_SF_Lead.jpg",
+          "width": 800,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-30T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Circuit Cellar",
+        "domain": "circuitcellar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-ibm-is-acquiring-turbonomic-to-advance-aiops-agenda.md",
       "title": "IBM is acquiring Turbonomic to advance AIOps agenda",
       "excerpt": "IBM is acquiring Turbonomic to extend the scope of its AIOps portfolio. This follows a series of acquisitions over the last several months.",
@@ -1134,50 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-cifar-10-image-classification-in-tensorflow.md",
-      "title": "CIFAR-10 Image Classification in TensorFlow",
-      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/",
-      "originalUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20210423164753/2.jpg",
-          "width": 527,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/amp/",
-      "publishedDateTime": "2021-04-29T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

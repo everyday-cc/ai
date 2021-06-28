@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-28T18:16:00Z
 originalUrl: "https://www.wrcbtv.com/story/44198905/what-are-the-ways-artificial-intelligence-can-help-you-grow-your-business"
 webUrl: "https://www.wrcbtv.com/story/44198905/what-are-the-ways-artificial-intelligence-can-help-you-grow-your-business"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20955229_G.jpg?lastEditedDate=1624889811000"
@@ -41,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "NQQycLk63IWMWia440HuIHm+WFTwyOUOohkZIeyYmZYq1ztXn2G9T35u4UO6MC+SbZeuw76XZf/N8lfTxFQNmhQS6aJpNj17oKJhyaDb81O1NZXL432cT1RBYbWyUBxbOyRI/DbQmncZeNCq4hKmBCYjKy+6UfFj9u8JbO6KB8uimo5sSqk7cHORFn1LZJBuVmPIkF2F4vME5mWf5E/3WhIPD+WPa0aEzbPRe2x9sDfZX1pGVy6xiO5auORkRl3899gLDIwpaIrk9zXrBn3fg4Xm0UTnX7mbANsnLfkjiG+xzkfaSRXkzwc1dznZVTrWfBHsZTUuvfjiaJRwUCHzPSH25FgRQKn5RKL/VtkrCgk=;yrDjBjJjDeg1KdFP+PhFsA=="
+secured: "0CrdtrG37Xu3cdST7ceFXcOfd1SdijY2CV+ACAYqFLItZRv0rTaWSqtwRszrLGlLIZ9ApBlgHi5o6z/THKXwaZE6YuhhnoplMpsgCVqJ4Z2Xb6SHa6LrVxzTUZVqdsVw0oSxZrrUcu+4Rp81kSypxhJjMdPdMBjPh3VdVU6p6gdu3oMIBr1r9ugbV96FcGJ5mbpLH6zfLZeC/uf1zCMLzsORYzj4XLu623+09uudZQmxn3VWjPciYAFcrV8W7o0o06nNK7qXZrVaYspHhs2XIlmxUYrQcZssi7mIqZmTuChllUb/XRj79S7z7tCz7ewGgNW8vINkAiZekj9sEEHpEFqvDvBjqXRmMDVU/gPb+9wEbFc8AlkwENgBp+SPrC60HHPnXdrTNEwfM6EbJGug3m5Id5nLqqJ5nQcSZOTKycE3iEje5tHFfC0PsBR5cm1T7QPhV/Ep+/aZ5EFehbtvUOt6Iz1RaWd49Nooe5kCzEHM9o6VWANlSFF1CmHvVKLIEXM4yk0EVZU+ChbGwuJKcg==;vV+9HHNoPv+ZQdKyKeCKhg=="
 ---
 

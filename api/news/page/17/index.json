@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-06-15-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
+      "title": "Google team uses AI to create next-gen chips faster than humans",
+      "excerpt": "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "originalUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg",
+          "width": 700,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "publishedDateTime": "2021-06-14T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028.md",
       "title": "Artificial Intelligence Market Analysis Growth Challenges, Opportunities and Future Developments to 2028",
       "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Artificial Intelligence Market and dominate the market share. The report also provides information on the market revenue of the key players.",
@@ -1113,57 +1156,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-palantir-vs-c3ai-which-is-the-better-artificial-intelligence-stock.md",
-      "title": "Palantir vs. C3.ai: Which Is the Better Artificial Intelligence Stock?",
-      "excerpt": "Palantir and C3.ai both help organizations and companies crunch data with AI-powered tools. Palantir, which generates more than half its revenue from government contracts, wants i",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "originalUrl": "https://www.fool.com/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630124%2Fgettyimages-1223301957.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/13/palantir-vs-c3ai-which-is-the-better-artificial-in/",
-      "publishedDateTime": "2021-06-13T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

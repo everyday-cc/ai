@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-deepens-its-presence-in-healthcare-a-timeline.html"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 42
+  - title: "7 big ideas in healthcare innovation"
+    excerpt: "From their thoughts on artificial intelligence's potential to transform healthcare to how to better engage patients digitally to what the hospital room of the future will look like, here are seven quotes about the role of innovation in healthcare that hospital and health system executives shared with Becker's Hospital Review in June: D."
+    publishedDateTime: 2021-06-28T19:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/7-big-ideas-in-healthcare-innovation-2.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
     excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
     publishedDateTime: 2021-06-28T16:53:00Z

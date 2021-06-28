@@ -47,20 +47,6 @@ related:
         width: 400
         height: 231
         isCached: true
-  - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
-    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights"
-    publishedDateTime: 2021-06-28T07:12:00Z
-    webUrl: "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 26
-    images:
-      - url: "https://www.kaust.edu.sa/PublishingImages/news/NIRVANA%20Kit%20-%202.jpg?renditionId=16"
-        width: 711
-        height: 450
-        isCached: true
 
 secured: "MTr7KcvPltqIzNi6SWMWOVD7gnltPtniAF6wL/VoZGVDWL3hnUpNdJO1XQgv8avfUZE7Z8KvElOXAxaitoH6Yc553xNJ4L1zquXvdYBqokepvXpc37ajsPxAxYv3ki4olDIqN5Oy7nobPZvwY7VOYj7PM084a9F0CA6KzHj51HM7lC8+8MEGBXvaHHRx40Ju2TAknOuhIbxS1o5ukGk03y5PxRiPoP0t+hAAnnFzotLoRq3pLTI5PemrTEmTY6rZ0vLqwstZBbS+07CB56oSx8fuCShL0+lraRPCzrn6/aQbZ0U2szzhe+KUw9C3nCQ7Xkhz+tjGoNSzW6G1SU0yED7L2ZB9mfU9zT3oeydcfUExzFFyUrRokuhJGohjDbeoC7JFPklo3GuPtaNxF4vTO7bh7ZjLhhGdzwZfDZddB+Z0Bz8f4fNFMygZaLlX3NjhZy215TzL3rcw7mY5jPCB2kezfTcLaMthSeqV561ICxuDvOuWykGGTBht697Zicf8DrHh92hIzpp0I01Je9QP3A==;v+T3BJI5xOkiyujAAn7kbQ=="
 ---

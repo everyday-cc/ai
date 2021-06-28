@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "A Machine Learning Powered Guest Experience Platform is Helping This Emerging Brand Grow"
+    excerpt: "While restaurants have turned to technology to streamline these initiatives, finding all the resources they need in one platform has traditionally been difficult, especially for small to mid-sized brands."
+    publishedDateTime: 2021-06-28T21:09:00Z
+    webUrl: "https://www.qsrmagazine.com/sponsored/machine-learning-powered-guest-experience-platform-helping-emerging-brand-grow"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 30
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-06/QSR%20Header%20-%20Incentivio.jpg?itok=NZmhEjhA"
+        width: 765
+        height: 510
+        isCached: true
   - title: "Creating a learning culture for the digital age"
     excerpt: "DBS Bank successfully transformed itself from a traditional organisation to the world's best bank by leveraging digitisation over just four years. This amazi"
     publishedDateTime: 2021-06-28T07:00:00Z

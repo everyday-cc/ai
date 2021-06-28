@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough
 webUrl: "https://phys.org/news/2021-06-artificial-intelligence-breakthrough-longer-advance.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence breakthrough gives longer advance warning of ozone issues"
-    excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in advance, a remarkable improvement over current systems that can accurately predict ozone levels only three days ahead."
-    publishedDateTime: 2021-06-24T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-06/uoh-aib062421.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/268991_web.jpg"
-        width: 720
-        height: 540
-        isCached: true
   - title: "University Of Houston: Artificial Intelligence Breakthrough Gives Longer Advance Warning Of Ozone Issues"
     excerpt: "Ozone levels in the earth's troposphere (the lowest level of our atmosphere) can now be forecasted with accuracy up to two weeks in adva"
     publishedDateTime: 2021-06-25T17:36:00Z

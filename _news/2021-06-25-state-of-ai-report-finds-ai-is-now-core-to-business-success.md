@@ -39,7 +39,7 @@ related:
     provider:
       name: WRCB
       domain: wrcbtv.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://PRSUBMITPRESSLIFESTYLE.images.worldnow.com/images/20955229_G.jpg?lastEditedDate=1624889811000"
         width: 1600

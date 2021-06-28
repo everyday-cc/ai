@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-05-04-cms-announces-winner-of-artificial-intelligence-challenge.md",
+      "title": "CMS Announces Winner of Artificial Intelligence Challenge",
+      "excerpt": "ClosedLoop.ai was the winner and Geisinger was the runner-up in CMS's Artificial Intelligence Health Outcomes Challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge",
+      "originalUrl": "https://healthitanalytics.com/news/cms-announces-winners-of-artificial-intelligence-challenge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-942954932.jpg",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-genpact-and-fast-company-partner-to-digitally-transform-a-world-changing-ideas-honoree.md",
       "title": "Genpact and Fast Company Partner to Digitally Transform a World Changing Ideas Honoree",
       "excerpt": "Genpact(NYSE: G), a global professional services firm focused on delivering digital transformation, today announced a partnership with Fast C",
@@ -1092,58 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-missouri-woman-discovers-wwii-military-device-in-her-backyard.md",
-      "title": "Missouri woman discovers WWII military device in her backyard",
-      "excerpt": "(CNN)A Missouri woman found more than weeds poking out of the soil in her yard this weekend. Pamela Coffey told CNN that she was just about to take lunch break from doing yard work on Saturday when she spotted a small metal object jutting out from the soil under her feet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
-      "originalUrl": "https://www.cnn.com/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503200638-01-mortar-found-in-yard-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/us/wwii-style-mortar-found-in-missouri-yard-trd/index.html",
-      "publishedDateTime": "2021-05-03T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

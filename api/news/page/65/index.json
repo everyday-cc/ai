@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-05-12-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
+      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
+      "excerpt": "Avenda Health said its focal therapy system uses artificial intelligence to treat localized prostate cancer in a urologist’s office under local anesthesia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-ai-fiori-expands-with-its-sky-terrace.md",
       "title": "Ai Fiori Expands With Its Sky Terrace",
       "excerpt": "An airy restaurant in the Rockaway Hotel, a brick-and-mortar location for King David Tacos, and more restaurant news.",
@@ -1140,57 +1183,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-nvidia-3050-laptops-bring-rtx-for-less-prices-start-at-799.md",
-      "title": "NVIDIA 3050 laptops bring RTX for less: Prices start at $799",
-      "excerpt": "NVIDIA revealed their new laptop gaming graphics processors and a series of notebooks that’ll house them. These laptops have the ability to deliver DLSS and RT Gaming, 60FPS+",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-rtx-3050-laptops-bring-rtx-for-less-prices-starting-at-799-usd-11672174/",
-      "originalUrl": "https://www.slashgear.com/nvidia-rtx-3050-laptops-bring-rtx-for-less-prices-starting-at-799-usd-11672174/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/rtxt243t2.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-rtx-3050-laptops-bring-rtx-for-less-prices-starting-at-799-usd-11672174/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3050-laptops-bring-rtx-for-less-prices-starting-at-799-usd-11672174/amp/",
-      "publishedDateTime": "2021-05-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

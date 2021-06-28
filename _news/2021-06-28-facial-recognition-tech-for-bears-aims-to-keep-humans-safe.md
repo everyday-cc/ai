@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
 type: article
 quality: 106
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/07/18/PGUA/eee12e18-b990-4312-89db-b43879696ed2-Airport_terminal_2.JPG?auto=webp&crop=4271,2403,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Facial Recognition Technology Can Benefit in the Workplace"
-    excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
-    publishedDateTime: 2021-06-24T04:59:00Z
-    webUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-can-benefit-in-the-workplace-nid-33902-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/companyimages/ticpr.cas.jpg"
-        width: 410
-        height: 237
         isCached: true
 
 secured: "e+wYVJBChJzzB+nzpqNGqYdFazU2C7q4tO8nndAbcMJA1P8CUEiH90H7xiE/I+BZ82W5E7LxwzR64t3fGkqvgKqm1N9aIZhldDcSIYJadnJ/l7sk8GP+IRphqRj5KE/xMl7JTom7J46Jgf7yup+jK9Hr4G0LpODA+DJJG/q6mg0LXREMpHSDXFfgzOedJ9i++pes2hZZU+s4l9LXk62kZ3UEW8kHE7JMAw60G6dhonFILSizAagYQtAyxjmPkEx/ZbR+KKohPKcwRPJK1AMXI2TJ7Ay7C2M4x7zebhwl13+LnGbScWpTh3ffoWnJ67wIU1qmE2oMoJrMGzJ/C1wnQG2kFAxTVEUSXq1U1L2VbGNbzKOQhtF7N4CdiojyM3dj3/0j86HofJmsK2R3t7eWUFF/ERHRqamZPyl80L3xTkMXu6SReHFA4NSNT1EychPh5U9w4GTTdObMgoBe6sWhHVoc5mIaCRrNHu2kQys1fh7F6i/qcXJ6047bHLmbObbTrLRrOYm5hmYhPryHEaOdFw==;HOcxV5RtW1gDPjsQwRnmsQ=="

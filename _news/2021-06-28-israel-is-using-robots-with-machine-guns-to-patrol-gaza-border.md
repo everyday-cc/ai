@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israel, Breaking Ground in Artificial Intelligence"
+    excerpt: "Popularly known as the startup nation, Israel is a pioneer in technology and artificial intelligence at large. In plain terms, artificial intelligence is said to be the conventional name for intelligence exhibited by machines,"
+    publishedDateTime: 2021-06-28T21:19:00Z
+    webUrl: "https://blogs.timesofisrael.com/israel-breaking-ground-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 39
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2021/06/pexels-tara-winstead-8386422-1.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "The first AI conflict? Israel's Gaza operation gives glimpse of future"
     excerpt: "Israeli military action last month in Palestinian-controlled Gaza has been described as the first artificial intelligence war, imparting a glimpse of future conflicts in the 21st century. \"This is the first time [AI] was used broadly across an operation."
     publishedDateTime: 2021-06-27T20:05:00Z

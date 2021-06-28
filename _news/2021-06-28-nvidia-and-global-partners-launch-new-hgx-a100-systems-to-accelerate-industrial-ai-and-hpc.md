@@ -1,32 +1,23 @@
 ---
 category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-excerpt: "To accelerate the new era of industrial AI and HPC, NVIDIA has added three key technologies to its HGX platform: the NVIDIA (R) A100 80GB PCIe GPU, NVIDIA NDR 400G InfiniBand networking, and NVIDIA Magnum IO (TM) GPUDirect (TM) Storage software."
-publishedDateTime: 2021-06-28T07:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
+excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
+publishedDateTime: 2021-06-28T07:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
 type: article
-quality: 59
-heat: 89
-published: true
+quality: 11
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI Hardware
 
 related:
   - title: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access"
@@ -43,30 +34,16 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+  - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
+    excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
+    publishedDateTime: 2021-06-28T21:01:00Z
+    webUrl: "https://insidehpc.com/2021/06/nvidia-and-partners-launch-hgx-a100-systems-for-industrial-ai-and-hpc/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
-    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
-    publishedDateTime: 2021-06-28T11:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
 
-secured: "iQI/Ot4uVU0A0r5SCiGi6DuYBcbM1ZsqcXUds5licK4MNT6kDLNOGDQWV9TO4XCmew0V2dab09EiHcfOATx1Ds/vsagFot4Dso7/VYfpZMk7OEqfgDKQ4DihfZPCAIK1grc8OXZJlMwC4rmrIXy9RBWBlSUL/qxQXxV3kUspu1SrM3NicPi4xE4jdnk4nKjokr0td8udsS2Pvbt16VTj+sgZgcZJGSt0tc+bFLCBsD6JIXgu+lS98zcPIbL7RP5MRIfowiXjjpELNgRhGJ1OYnlDonxqAPw14BCiMw3+MA4skHvhz38r81jiQWP5cKNl67WQc+89OVht9tLPCuC90EUedUmAgom4ltvz3iF+20E=;R3g1TCuKxlVDQ6hbfGpx2g=="
+secured: "nuNY4A2zoCDAXgr8XIwrp/zF3FZCs2REjWVVsI5QQ9+rO8jl/cCdi7XSxEr/ZkB7Cjf5OPMbUI1tOCu2asUYDstwaqkavTHvjzJM0HJ+WK7XHkzDYeK7TdgzCMXsQrZhfR0/JRFiwRnnEcJrxp/rs0V+bkkz9xAQxHsAbeiudOHw0iLzxF3gi9bIAUYHTnDIipB1xLREe6UW5SFAeEEn51jB2i/E8VpsAzXbZlTbmF4V5rUwwntOlh1U23GpY8QrWB62qqo4lz9JPTSB13RC5h0EZGdyr/xy8iNLNhQWPRO6fxSCxvY/9mc/qTJRb+sb5ZjrXR0PksfalFcCpLqAL5jA8j3wk2Qb22uugxzG1hM=;+dDx1TbExZnBESKwR3VJaQ=="
 ---
 

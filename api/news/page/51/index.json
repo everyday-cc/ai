@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-05-20-11-ways-were-innovating-with-ai.md",
+      "title": "11 ways we're innovating with AI",
+      "excerpt": "AI is integral to so much of the work we do at Google. Fundamental advances in computing are helping us confront some of the greatest challenges of this century, like climate change. Meanwhile, AI is also powering updates across our products, including Search, Maps and Photos — demonstrating how machine",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "originalUrl": "https://blog.google/technology/ai/innovating-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO_2021_heroes_3.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/innovating-with-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/innovating-with-ai/amp/",
+      "publishedDateTime": "2021-05-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-deep-learning-enables-dual-screening-for-cancer-and-cardiovascular-disease.md",
       "title": "Deep learning enables dual screening for cancer and cardiovascular disease",
       "excerpt": "Heart disease and cancer are the leading causes of death in the United States, and it's increasingly understood that they share common risk factors, including tobacco use, diet, blood pressure, and obesity.",
@@ -1083,41 +1135,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce.md",
-      "title": "Artificial Intelligence in IoT Market Size and Growth 2021-2027 | Top Companies – IBM, Microsoft, Google, PTC, AWS, Oracle, GE, Salesforce",
-      "excerpt": "Verified market reports recently published a research report on the Artificial Intelligence in IoT Market that provides an in-depth analysis of the key factors that can help well-known companies in the industry formulate appropriate future action plans.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "originalUrl": "https://ksusentinel.com/2021/05/20/artificial-intelligence-in-iot-market-size-and-growth-2021-2027-top-companies-ibm-microsoft-google-ptc-aws-oracle-ge-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

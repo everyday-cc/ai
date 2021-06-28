@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Presto the Future of Open Data Analytics, Foundation Says"
+    excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
+    publishedDateTime: 2021-06-28T20:36:00Z
+    webUrl: "https://www.datanami.com/2021/06/28/presto-the-future-of-open-data-analytics-foundation-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/magic_hat_shutterstock_vchal.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "eKE5cL9oFM2Nn53nSoNpU1WZu5tzL9s7Eogb1i3gMKK5CnwTPGMQYBYv+iiDVZ7rQvEWj8yR3sE1q5mO/u934Rxw1k/RyJFHraoHPVLAHbz518FDoaf+O8hHtwsV93tsTANveLnLu/hoPmcQ/AblFuX+bpN+taJlvhsrhh1B1cJfwHCbSWTn+ga+N3+4B5TDakYlJ2+KRjGWbW6z85Uqyvj+GTJLGg5We1kPc81HoJKm6DSCCvRTGdk9cUnb4Mxo5kOo5mZiDBSFxRlh31gyDpyvDmbX3JalLxxAlpPZSmz62DxBuCCVmP12hWn4x5xX44J+L46Rvup8MdxftsyjluPVRITL/ZfufOiHMJTZcew=;T2IiZ1AXyPumVx2YCQ7yag=="
 ---
