@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "LoveKairos"
   url: "https://twitter.com/LoveKairos"
-  followers: 4490
+  followers: 4491
 
 size: 11-50 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "BOSm8XdBxZjuYeNACJ+jmuxaNUdSBGlw6vhdSoLE1FUJd0f37QUWQWGOrRqNVoKdHhkHw/6WzHs0l2bE71/8vPx819Yp9UqQrshoo1mrnsKbFV1SsugMvj2C7Q57fblWXvRwq5WiBI6DMZuPD5x7KjuyUQud5LKhr7XJT95dJggx5eAcvrCnDH24ZaLVsC46GNNUDTsGV1LNl3zq3Q/jHysU1x2MX7ZWNOTIVUPNOwppXOzuTH89guiTDivZboagOGWez1ySZVTBTx7VvvVGYDzhYlBt8L+ED6a0q7FoQyRG1qG9ZLaIsaHtNKMmhd42A/w7GcjeYc6h2OOLNwjRxTsGLyhAw2mX4TlUTKHEAazCcKeejisg1pAdeK5aeP7eXTm938ImQRbkpuhud0NWfUjlsSMM8KWmFpSPvSY9Y/Q=;A6pDGcHUbctmSoOlmrG2+g=="
+secured: "bCHKe3oYwgW5o3wJbAm2EtP+fm3puFV8BDKQ/6gogs2oUQulCXJkNpSb5e1J86TsXXJHkRaNVduyPjbi4luIZIGpqDM5VpV8UVzxDxXORHXQJQB1R+D/6GWYmcxUQQcFquPW3qYI9JGAvZTEGJvzsmDg1eS6Qaty54oDCLeiWWcKE2XLLuiBkNItPW4AAktN2GOdw24FkfyudNbu3tmCnbjkHJPalG52W3mgsHWJNuHylV9dmaeME8RsgPE2sfyyMyfC7VvYct0eDywOFJcz0MJTEQrqu1S80KrNnscqQa7QRMHFwqepD3UOkIbMBClYEHniQ5IDMLa9bHy9mZ2I7bhnsxGUzV1VHqAFQtAE6pKu/yp6LoNGFxD1fgRrfa5gx+rb8tyVmWsYSMh/pq27UYQ+J1mPYA0NnmarJ15wKaA=;0WYxMSlq0rsqdY2C7BrqiA=="
 ---
 

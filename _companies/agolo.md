@@ -2,7 +2,7 @@
 name: "Agolo"
 overview: "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information."
 type: "profile"
-heat: 57
+heat: 50
 
 website: http://www.agolo.com/
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=rijPqvv1xSc"
 
-secured: "6URGhMiDGsFYQEPDOK/fzam06O40e/0zTdzQr4EZYVIl012svtnZXaXkqDXGAsEn6cuD48DKJh2ib5ncqQetaleKXkApYmzkG9l94ZyVCtws7OeE4kORjahXFlZ1eGjdhvsS4EIGxLzJEnep0+3/gRN5bxpWloDiKb+HhIo2xFE1+WaXIay4/Q8iiYjOO74M9YShGST1h7bmbf/LSMLyYyukgGqBY5iVO1MrNsKZknNzF4T9NAemhJ3dBNllJZ/UpliJjVFSjlETjAtGKl8vXYv3myDEsM9e9wXCaso5fY6THAKQE70Kxvb9tijk42SzRuaZ6U5jsajzdsvK5y1L5km748ff7Q3EHf1DpZGASwwnm+F+QO+l/Z1x73UnZwkp6bmf4MFR6JQdbGaQfj8Qmw==;gLqLvHrHb9NfN1ryZWZwBA=="
+secured: "U/Wa/wA4+yU6UKYGBQ7UhdlMqmvzpbOp8FDw70JXZw3BABax3/M9GMsSuWDsInDHsN097+aIGWj5OEieYNwWVZ9WcYf4EqsnxZFoR1z13wtPjmznkvIfieIKPaFIM8Qn3f6oOEfE+CUzhLw08P5AI0aStQX4wOHl/5j28kjizKmQWa/r2E1bSlDqT1S0h8q0BtJsp/JShRWQ6PUcRfLsGKU65o2PDf1oECFowG5BtiTn1Gu1emcgajL4f+UshCezno/P7lMvrJsQgjD4HLIG0kbpyrew9sm+V7BCVj2+ALmrOSlRkhw6PbENDFSTnpHh7QewoKBQADvDKrYPeJV6idNzLgt+WHfBMPvHCbMeycfjFXri5+oJMruTquo2BE9D1UN12Jy/GABIl62+XZPibw==;2OQwpcmtQFxBDly6nahj3A=="
 ---
 
