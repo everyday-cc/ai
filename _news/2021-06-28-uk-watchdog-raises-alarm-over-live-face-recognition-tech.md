@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-rai
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

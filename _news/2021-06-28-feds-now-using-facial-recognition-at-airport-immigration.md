@@ -1,0 +1,63 @@
+---
+category: news
+title: "Feds now using facial recognition at airport immigration"
+excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
+publishedDateTime: 2021-06-28T05:32:00Z
+originalUrl: "https://www.guampdn.com/story/news/2021/06/28/feds-now-using-facial-recognition-airport-immigration/5369053001/"
+webUrl: "https://www.guampdn.com/story/news/2021/06/28/feds-now-using-facial-recognition-airport-immigration/5369053001/"
+ampWebUrl: "https://amp.guampdn.com/amp/5369053001"
+cdnAmpWebUrl: "https://amp-guampdn-com.cdn.ampproject.org/c/s/amp.guampdn.com/amp/5369053001"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: Pacific Daily News
+  domain: guampdn.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2019/07/18/PGUA/eee12e18-b990-4312-89db-b43879696ed2-Airport_terminal_2.JPG?auto=webp&crop=4271,2403,x0,y283&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Facial recognition tech for bears aims to keep humans safe"
+    excerpt: "A town in Japan is planning to use facial recognition on local brown bears as part of efforts to reduce the number of bear attacks."
+    publishedDateTime: 2021-06-28T03:30:00Z
+    webUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/"
+    ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 106
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg"
+        width: 1130
+        height: 756
+        isCached: true
+  - title: "How Facial Recognition Technology Can Benefit in the Workplace"
+    excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
+    publishedDateTime: 2021-06-24T04:59:00Z
+    webUrl: "https://www.cioreview.com/news/how-facial-recognition-technology-can-benefit-in-the-workplace-nid-33902-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/ticpr.cas.jpg"
+        width: 410
+        height: 237
+        isCached: true
+
+secured: "vUEwWYI0oNs28V4unh4Na2pEJkvtwiNT9eAGzTFKm6ScaBNo6RAlmJ9kipORPxLF3tgmzBy0SFXbb1UAOHYdvYQ/GPG3YCymsRqfMPInQULwMwuOfi1AkCMl82w/4YLXas4Sb+Xzj3joPGjtKNj3mehYKIiKqIwyMcqoO36D2XYxhcG/QYSVzKQcFXUqF5f9PCZAGIXkhxZtOfn97kvRL0Lcd+iUUOFVOjxVm8aLGgShgYvTgBA/AUhDppb3R/nu91ES9EpM15/nlYSl+uhuUin8RRlwP2MaflQgmnwkLFKlNy4So/5RIPKTWwax/Vcll4ZFHEQ5xpqHfLJX0TXFbmCssJD7fCjIxFZ17Nnm43Y=;gBmUvMowhHkvrb6+hAskuw=="
+---
+

@@ -71,6 +71,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
+    excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
+    publishedDateTime: 2021-06-28T04:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
     excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
     publishedDateTime: 2021-06-24T22:20:00Z

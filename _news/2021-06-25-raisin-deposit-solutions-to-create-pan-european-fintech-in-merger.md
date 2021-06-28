@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-de
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -27,120 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Three Areas Of Impact For AI In Fintech"
-    excerpt: "With the ability to quickly analyze massive quantities of data to derive important insights and information, AI is used by businesses to create efficiencies and recognize patterns that can improve decision making."
-    publishedDateTime: 2021-06-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d254faaf7245e73967c3cf%2F0x0.jpg"
-        width: 1199
-        height: 799
-        isCached: true
-  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
-    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
-    publishedDateTime: 2021-06-25T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors"
-    excerpt: "Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment."
-    publishedDateTime: 2021-06-26T06:58:00Z
-    webUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/"
-    ampWebUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 71
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-172169309.jpg?w=1024"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
-    excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
-    publishedDateTime: 2021-06-24T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
+  - title: "Germany Showcases Europe’s B2B FinTech Funding Strengths"
+    excerpt: "With Europe's startup funding ecosystem booming, this week's B2B FinTech venture capital roundup finds Germany taking the lead."
+    publishedDateTime: 2021-06-25T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/fintech-funding-germany-supply-chain/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/fintech-funding-germany-supply-chain/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/fintech-funding-germany-supply-chain/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
     quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/10/First-American-PFS-Florist-Ecommerce-457x305.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/supply-chain-2-457x274.jpg"
         width: 457
-        height: 305
-        isCached: true
-  - title: "MTN Partners Fintech to Drive Universal Health Coverage"
-    excerpt: "Vanessa Obioha Leading telecommunications company, MTN Nigeria (MTNN) recently signed a partnership agreement with health fintech company, CarePay Nigeria to jointly grow health insurance coverage"
-    publishedDateTime: 2021-06-23T23:46:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/06/24/mtn-partners-fintech-to-drive-universal-health-coverage/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/11/d0eb8d23-mtn-nigeria.jpg"
-        width: 1280
-        height: 721
-        isCached: true
-  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
-    publishedDateTime: 2021-06-23T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-    excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
-    publishedDateTime: 2021-06-23T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1539335/CognitiveScale_Tagline_Logo.jpg?p=facebook"
-        width: 1728
-        height: 905
-        isCached: true
-  - title: "The world of Fintech jobs"
-    excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
-    publishedDateTime: 2021-06-24T14:38:00Z
-    webUrl: "https://jerseyeveningpost.com/news/business/2021/06/24/the-world-of-fintech-jobs/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 24
-    images:
-      - url: "https://jerseyeveningpost.com/resizer/YRq00TcjgC4kfKOWW48YdVQ8ntU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/42EDBNDLZJHO5IFFSAFCMFETVM.jpg"
-        width: 1200
-        height: 1380
+        height: 274
         isCached: true
   - title: "KT to Invest in Fintech Firm Webcash Group"
     excerpt: "KT, the second largest telecom business in South Korea, recently announced that it will invest KRW 23.6billion in Webcash group"
@@ -155,29 +56,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/9b76e213e703da5228b1cb41f1440af1.jpg?t=20210626_011745"
         width: 752
         height: 408
-        isCached: true
-  - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-    excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
-    publishedDateTime: 2021-06-23T17:13:00Z
-    webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 20
-  - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
-    excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
-    publishedDateTime: 2021-06-26T07:00:00Z
-    webUrl: "https://bestgamingpro.com/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors-techcrunch/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 15
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/8-founders-leaders-highlight-fintech-and-deep-tech-as-Bristols.jpg"
-        width: 602
-        height: 400
         isCached: true
 
 secured: "0krf6Hp5YYaXcF07WaW1UNa0Eoz62FY2eipgUnhU6USRqVm9ZiFYnKKBeQ6KWuDCN4uA6IdFfYAwjtgbrjeEqWDEMSa25eE5/A7R/6xHcaDNk/aTkkugOPIit672a0xER3Xfb1ZkKf+LCppAYIeBVAa9LVXneWXd1K3x60UCXVWxGtQgLM6bJ0Clae7QPTupNlLvAqQfAdPBDxR8TNXmw03OtrxiII9g7w3XKUwO0g2ryUTWtU7B/zGscU/WY6ygCtcp4fZRYw+pMacMvifF9YZxbQWzaZGIY7n2FWqb6XZ1kWSKoF8jLxAega7E/Lq0/EYQjEiYR+mbH6jeFSSWd8Lg+v1KRC+NPqIxw8NykbEv4WtAykhfxDs33e6sBFq9+MKaPK7IELrlgOWmgsIzzbGf+CKTQPLzU4lyzgWjM0lxsivdaIb89y6wj65m/4tLumemXsRLCoN1vUCw0gdWtat3m5ovZ+VOgtHPPL5Bxu0jDyhba2LgN2KIcormM62MMJ5WvB608pCiM1v2L1ptyA==;Mf/0otSqOYbU9gkphj1JJQ=="

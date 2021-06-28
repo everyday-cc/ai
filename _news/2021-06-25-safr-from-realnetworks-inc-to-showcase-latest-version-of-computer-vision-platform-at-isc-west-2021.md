@@ -3,8 +3,8 @@ category: news
 title: "SAFR from RealNetworks, Inc. to showcase latest version of computer vision platform at ISC West 2021"
 excerpt: "At ISC West 2021, in booth #11109, SAFR from RealNetworks, Inc., the premier facial recognition platform for live video, will showcase the latest version of its high-performance computer"
 publishedDateTime: 2021-06-25T10:36:00Z
-originalUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
-webUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
+originalUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-realnetworks-computer-vision-platform-isc-west-2021-co-227-ga-co-2566-ga-co-1554987129-ga-co-1617794190-ga.1624614249.html"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "6DwzxkUq5X0jlExNgBWis+a3P69m7NAMhOAbyBZDFwH00V5NRoHCixzl/E/x/AmugS+i/quMWtSB40cdXIEzW1o5WdBUGQl5VsSa0vSOfYk5r/orPdzrK5nLE6h4A/P6dWcmbhemOVqGcKPLF/JPP5hYfjEP+J15EVUrvThLETFui6z33G/xcw2U+1ihTBYzrqvc/atRSXfIme7ZETW31lYtgNGD5OhoVaSfjdcamg+L76s0ZNBXXbgKmQkPfSU4cLC8cGzpX7MhgEHl3Ft9pNgtHemP7nXSFCWPq6SJdYpR/H7q/BdBGMaFYt2+cj3zCyko9/pF6x7i8YYbirrYLZlEqisrRjaei5L+MtUX5IY=;d4pT3v/xz6QDDYeXcX56XA=="
+secured: "B20eG5DVL3263g9OHBbK9TEyGWLoq26/tWu71j/Hu7iLGEX1oz62aMH8isHjq6iMf44xFiedAp9wyPEI09h69XV0rJadihS6nExYUmVHerHsL2xUns5VuHeUEz9upnF87uqMYVu2cSG+AYjT9vBN7n6MOFroTW8DNSnRIa3GJIETD7pQ40XdKGrBaT/Fctg2cEd2ntdv0lLnZEvWxskMn9gvXEq03UFtpOF/tP9wosSu+i7s7cugTxRwOX3dL+Glj8Vl77baXSmRhYgX7U00Hn9fW2FKDeBJSGkuEaxDfDMFdRVeWNI7q7TFPFDKGxA98u1/E2OfoA49wCo7L8iQtSpMOhDkRhf3uih8Z2L/cr4=;Dt31I0lxO0Uwi6hodoNogA=="
 ---
 

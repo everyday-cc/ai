@@ -7,7 +7,7 @@ originalUrl: "https://www.bristol.ac.uk/news/2021/june/brl-conference-2021.html"
 webUrl: "https://www.bristol.ac.uk/news/2021/june/brl-conference-2021.html"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "University of Bristol: Bristol Robotics Laboratory hosts virtual conference to showcase cutting-edge research"
-    excerpt: "The conference brings together leading robotics researchers and business leaders to explore how robotics, smart automation, AI and machine learning can benefit organisations, from start-ups to large corporations."
-    publishedDateTime: 2021-06-25T06:06:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 35
 
 secured: "vdstvuUrirRQ9HMToPknisyyopp0zdGGFNHX0vE2YKSGXil21uxladF+baVjWKJar5Tx2VXrFXBh1j9Bnzfc7eV8jn++KSPH/NVQOtvTFHUIXfbtm9zLC4ySb0IJ53w/eFin+OaEYTedGR1KbZRKcjCaFxoARMdUillS52FvX9b31k7tmAfDTwcK/ScP4eQrP4eYSpSB87hwoOphZ3Szt3Kdb2A+JjiaVeIj9RYG3asgr0D3dm+VI/I8+/EhBl9QLpRC+MLsEQAp+mqHJVXKG6hhdOT78BfndN8bdo/HX4Vzzjb535okEX7zSgfIJkC5HwJYzQS2Bhsi1wcNOnFHf4Z+APwawwnCHisGXpkjuow=;WphyIRpXN3vWYweYP5RTqg=="
 ---

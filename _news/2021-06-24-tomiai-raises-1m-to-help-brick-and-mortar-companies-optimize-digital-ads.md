@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/23/tomi-ai-raises-1m-to-help-brick-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/23/tomi-ai-raises-1m-to-help-brick-and-mortar-companies-optimize-digital-ads/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 999
         height: 816
         isCached: true
-  - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
-    excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the inve"
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005195/en/Hawk-AI-Raises-10M-USD-in-Series-A-Led-by-BlackFin-Capital-Partners-to-Fuel-Global-Expansion-for-Its-AI-Based-AML-Platform"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "7tnHkewOfbvmNO1YSkAKNeGoy6Of6cte12IiDgNzRGbtvpEIlUfjy6yxWQqbj7p4pIq/nHj2lC/Ga1fG3pVWl4fjJ69yia5ncOpkNBtSGFTMEywPq4X21Cb7TfK1/z44EdEEN/UPf2wDyuNcv1AbAH3PAY8wWK3acY34IcG9jWEl6zaByfM9GsJr7nlo5ZPH6hqCMfYyW4S872oN+txLYcUMk4aqg2r7CFNhsq3tbKN9eQrNf0NdfhBnBL8TrtLduBM8+Glg749BErj1U2SarkED2DitUEoG2Hb3FdAcJ3DlxApmZnPEZwm0OMe1W/FJXxRWYHCnAh4KpBr8yY+bP7Gi1tsa88sF3n/9j1uWqvHyWexJgbcuc5+xnXLI8Hl2Au4GEfkW8uqFoRrAAB0KRARPopVIPlwbfGiRio70otsMxROwP+gn4oOafqA2Kn26Z0T1EDIQMeOd6MyrLVMTy3oCr8oM4Uf3NGBrq9RCKTFrvniORjqRDvWhD7XxhVvBRzx3VyHj2+UNgcFwRm+VPg==;uyzMEn+b9p7wTZjK+wHt/g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/24/google-visual-inspection-ai-augments-automl-to-detect-defects-in-manufacturing/amp/"
 type: article
 quality: 100
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1000
     height: 666
     isCached: true
+
+related:
+  - title: "All You Need To Know About Google’s Visual Inspection AI"
+    excerpt: "Powered by Google Cloud’s computer vision technology, Visual Inspection AI will help businesses to reduce quality control costs."
+    publishedDateTime: 2021-06-28T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-you-need-to-know-about-googles-visual-inspection-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/pasted-image-0.png"
+        width: 1600
+        height: 800
+        isCached: true
 
 secured: "DHOmB5y0kG1MLl9VJqHpC5xravyYn35VTznlkKF5Kgzqo0HLn+N5p0d0Relk7BGcbDaJ8kifEI/rI/QrK+gJLZ2hr38qDxw1uzoskS3HUYNjj7yeH8oD/DK/MDqgz/fcYjvdVoM6Ym2jfdTaKhCwFpmuDWixAPJmPNLSRIq4AUZpgIFd+Y1xMwUAvOwLeSUSMxhHRfpQ9NcW1u6tAnA20mxqgmqFvVP8WPkrlZB36QrlxzGuebG2A4b7VuXxkJAPu+7Vc6WJ2zTWPfI9QC2LhuScfBu/Hv/8NObALwTG1XKYmJrhK9t+rW8L/oHC80eidkWJZPqKI/dH0YzrRQVKYcWXyWQOgmnRlF0tmwYRp4ANCMxMdGy7g/6QNHaz/HvjWfSccAFWEipUgwfi15jY3BHVIRmkf9tTJ8vz1ll+WA6aAFAlhL+BAw8GzRh7ioson/IJlNTn1XrTOvnGIml/aWnWwLkHQTGyQx9Umz+n4m1TYoFC5gD3M2+fa60S0haB9KS/PAih7tZgXzgXFl+cHw==;b0FWYzOLuivZ3QrPERpQmA=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Oracle launches AI-powered HR skills identification and classification solution"
-    excerpt: "Dynamic Skills helps leaders identify skills gaps, know what skills their employees have and foster career development, the company said."
-    publishedDateTime: 2021-06-23T12:57:00Z
-    webUrl: "https://www.techrepublic.com/article/oracle-launches-ai-powered-hr-skills-identification-and-classification-solution/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/oracle-launches-ai-powered-hr-skills-identification-and-classification-solution/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/oracle-launches-ai-powered-hr-skills-identification-and-classification-solution/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2019/02/07/42a3186e-cc62-467d-8871-d17594a5f412/resize/1200x/5dd13b0e0ccb6881ac38179fda28c108/image-3.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "AWS Announces AWS BugBust—the World’s First Global Competition to Find and Fix 1 Million Software Bugs"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the AWS BugBust Challenge, the world’s first global comp"
     publishedDateTime: 2021-06-24T19:00:00Z

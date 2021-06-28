@@ -21,31 +21,38 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Sport Market Outlook 2021: Big Things are Happening"
-    excerpt: "Artificial AI in Sport Thematic Research is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
-    publishedDateTime: 2021-06-23T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
-    ampWebUrl: "https://www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big"
+  - title: "Which new trends are likely to be seen in AI in IoT market in 2019?"
+    excerpt: "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of"
+    publishedDateTime: 2021-06-26T03:51:00Z
+    webUrl: "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
+    ampWebUrl: "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 68
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/6/U623836113_g.jpg"
-        width: 450
+      - url: "https://cdn.openpr.com/U/6/U626874997_g.jpg"
+        width: 660
         height: 300
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Estimation 2021-2024 Analysis by Key Players"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning,"
-    publishedDateTime: 2021-06-25T19:00:00Z
-    webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-estimation-2021-2024-analysis-by-key-players-r4836495.htm"
+  - title: "Artificial Intelligence In Healthcare Service Market to Witness Huge Growth by 2027 | IBM, Microsoft, Enlitic, Arterys, Atomwise, Freenome"
+    excerpt: "Artificial Intelligence In Healthcare Service Market is growing at a 40 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The primary"
+    publishedDateTime: 2021-06-25T14:10:00Z
+    webUrl: "https://www.openpr.com/news/2314278/artificial-intelligence-in-healthcare-service-market"
+    ampWebUrl: "https://www.openpr.com/amp/2314278/artificial-intelligence-in-healthcare-service-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314278/artificial-intelligence-in-healthcare-service-market"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 26
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/6/U625924287_g.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Far Field Speech Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 22 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with machines using"
     publishedDateTime: 2021-06-25T11:16:00Z
@@ -57,15 +64,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Automotive Artificial Intelligence (AI) Market with Report In Depth Industry Analysis on Trends, Growth, Opportunities and Forecast till 2025"
-    excerpt: "This study elucidates how the Automotive Artificial Intelligence (AI) market Sizewill perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
-    publishedDateTime: 2021-06-24T17:53:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/142647/automotive-artificial-intelligence-ai-market-with/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 0
 
 secured: "5Yjb0QBeIkzkkiYqAwtKoIZ/qJmSFC4dqi8Q7dJ5S/LHYD0Y9PU0HYkka07VV0HLD01mkzSbew9Eh54FbHuCLDBM1ByOgsIpwnWN+onMRYny74CaCbL0+bYFQQPSEL8WOteAZy/mpnZkKtNOzISbBYRkFkTgTroTqeLWVc4+iivEQIRb/9zzqhsk8sWEdY1zUvVl4VRxOiXOAMldkZjOxDKL1lY01/dbl9vHQ+l1E5L2ufP03JNOSwYVVuRTs7AUiR2s45LewCjpzt0A9o3t6POiZ0KE9mh2e9Sq3nKT8B7COb8IAztHZ3nsH6DXATcWkV8Gu9VzX7FqwJpHuSnkkGckYA/mP0T9h2KjOWDoZWQ=;7kAqXKrN/XzmfKzAKOgMCg=="
 ---

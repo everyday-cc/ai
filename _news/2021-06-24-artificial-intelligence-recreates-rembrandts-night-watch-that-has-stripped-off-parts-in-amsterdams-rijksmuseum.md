@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rembrandt's huge \"Night Watch\" gets bigger thanks to AI"
+    excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, on Wednesday, June 23. Right above Dibbits,"
+    publishedDateTime: 2021-06-28T02:01:00Z
+    webUrl: "https://www.wyomingnews.com/rawlinstimes/news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/article_5ff83f8e-1e7a-5595-9af3-6bcdf4699c35.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/3/d4/3d4ebd79-9175-5b90-a75d-9ca46e16c704/60d5eb7753e57.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
   - title: "Lost Edges of Rembrandt’s ‘Night Watch’ Are Restored Using Artificial Intelligence"
     excerpt: "Now, researchers have restored the work to its original size using A.I. As Mike Corder reports for the Associated Press (AP), experts used a combination of scanners, X-rays and 528 digital exposures to recreate and print the missing portions of the canvas during “Operation Night Watch,"
     publishedDateTime: 2021-06-25T10:30:00Z

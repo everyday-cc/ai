@@ -54,15 +54,6 @@ related:
         width: 999
         height: 816
         isCached: true
-  - title: "Hawk AI Raises $10M USD in Series A Led by BlackFin Capital Partners to Fuel Global Expansion for Its AI-Based AML Platform"
-    excerpt: "Hawk AI announced today that it has raised $10 million USD in its Series A funding, with fintech specialist BlackFin Capital Partners leading the inve"
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210623005195/en/Hawk-AI-Raises-10M-USD-in-Series-A-Led-by-BlackFin-Capital-Partners-to-Fuel-Global-Expansion-for-Its-AI-Based-AML-Platform"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "B5tYvKiw/iegB/7KOdf1ZrhCZxX0cZrUbBwopLk5iYQYq8uhXd+IjbYlTI2bJvm/hHKEVbvf/aTyECsxJMxR5VqIgcuoc3PFnwCZq6/+ItRSPQUQR7I9ebefeVjHAiA8Y3kkGu5J5fdfMy17Go2kYf7KizAC3ToNgiDk0HQvrSqzglOY91XFq2edOI1LzR/GuBKimdhwwQtF7fJfW+in3L193f+B3ML7I2AK7XrANB+JlDd3qrf488nkjOc55Ko+DAK207ZF7FPeLGprdzecm0MT+ekx2j34v0Ip4v3TFx4Zwdt+juJnGCHkjSle0pbEIrA9LFjf7nfXo4HQTxVhsJQGk2akAY+U1YAs9ankso8=;NKKG8rntOyExHG8Ip9QqrA=="
 ---

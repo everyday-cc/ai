@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Three Areas Of Impact For AI In Fintech"
-    excerpt: "With the ability to quickly analyze massive quantities of data to derive important insights and information, AI is used by businesses to create efficiencies and recognize patterns that can improve decision making."
-    publishedDateTime: 2021-06-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/06/23/three-areas-of-impact-for-ai-in-fintech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d254faaf7245e73967c3cf%2F0x0.jpg"
-        width: 1199
-        height: 799
-        isCached: true
-  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
-    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
-    publishedDateTime: 2021-06-25T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors"
     excerpt: "Bristol proved especially popular among tech investors last year — local businesses raked in an impressive $414 million in 2020, making it the third-largest U.K. city for tech investment."
     publishedDateTime: 2021-06-26T06:58:00Z
@@ -70,22 +40,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-172169309.jpg?w=1024"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Raisin, Deposit Solutions To Create Pan-European FinTech In Merger"
-    excerpt: "Two large German FinTechs, Raisin and Deposit Solutions, will be merging into a new pan-European group, a Financial Times (FT) report says. The combined company is to be called Raisin DS. It will be headquartered in Berlin and will have around 400 banking partners as well as over 500 employees."
-    publishedDateTime: 2021-06-25T01:58:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/raisin-deposit-solutions-to-create-pan-european-fintech-in-merger/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1475723714-1-4-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
     excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
@@ -119,66 +73,17 @@ related:
         width: 1280
         height: 721
         isCached: true
-  - title: "Boast.AI Named Finalist in Two Categories of BC Tech's 2021 Technology Impact Awards"
-    excerpt: "Innovative tax credit software company named as finalist in both Excellence in Technology and Company of the Year Categories VANCOUVER, BC,"
-    publishedDateTime: 2021-06-23T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/boast-ai-named-finalist-in-two-categories-of-bc-tech-s-2021-technology-impact-awards-1030546321"
+  - title: "University of Bristol: Bristol Robotics Laboratory hosts virtual conference to showcase cutting-edge research"
+    excerpt: "The conference brings together leading robotics researchers and business leaders to explore how robotics, smart automation, AI and machine learning can benefit organisations, from start-ups to large corporations."
+    publishedDateTime: 2021-06-25T06:06:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-    excerpt: "CognitiveScale, the enterprise AI company that helps organizations win with intelligent, transparent, and trusted AI powered digital"
-    publishedDateTime: 2021-06-23T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-healthcare-fintech-and-ecommerce-301317969.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1539335/CognitiveScale_Tagline_Logo.jpg?p=facebook"
-        width: 1728
-        height: 905
-        isCached: true
-  - title: "The world of Fintech jobs"
-    excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
-    publishedDateTime: 2021-06-24T14:38:00Z
-    webUrl: "https://jerseyeveningpost.com/news/business/2021/06/24/the-world-of-fintech-jobs/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 24
-    images:
-      - url: "https://jerseyeveningpost.com/resizer/YRq00TcjgC4kfKOWW48YdVQ8ntU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/42EDBNDLZJHO5IFFSAFCMFETVM.jpg"
-        width: 1200
-        height: 1380
-        isCached: true
-  - title: "KT to Invest in Fintech Firm Webcash Group"
-    excerpt: "KT, the second largest telecom business in South Korea, recently announced that it will invest KRW 23.6billion in Webcash group"
-    publishedDateTime: 2021-06-26T01:19:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/20070-kt-to-invest-in-fintech-firm-webcash-group"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/9b76e213e703da5228b1cb41f1440af1.jpg?t=20210626_011745"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce"
-    excerpt: "CognitiveScale and Ascendum To Accelerate Trusted AI Deployments for Healthcare, Fintech and eCommerce. Partnership Brings Together People, Process and Trust for"
-    publishedDateTime: 2021-06-23T17:13:00Z
-    webUrl: "https://www.retaildive.com/press-release/20210623-cognitivescale-and-ascendum-to-accelerate-trusted-ai-deployments-for-health/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 20
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 35
 
 secured: "TfTx1gjyyZMETVxAS8ziWG8V0UMjT/1jf5l1VibozATUS+DlVHIQfo5SUcEZTWwishy4NSuiZyvTNUbuBi2W56nkgWWMBiv9QdLpH5BBTOh4FHcPZqbK7h07TGrkbQT04GjpIIkGhYieEURC242YM518GTi7teYXEuoPin+VThB6v9WvNaozZbifj1bjuefRQwRn7xYDn1bbebkdv2nKPw3T0e6p1DRgNZ17f6NdqQVg6VXx7T8qda6iHRkYhmRP/sbrD9S07NuhCuwFt0zdCuQ3zigUCFOYoFUfDgzpiSRjt4gNBAYY2VccAuDlgbtfFV2ASUgXoF0p0uDW2c9YSrV48hiaUQNTCMLR/lmzYTgZGyZ1vZLXz3GrCtZeLHNwDyhKsKumIazPlU5ELovTmM4Y3XssjbSdCDra1BP8LswVSGDfwzmuuJ5Ti07snT8iDPnDdCqO6SjREbCXcacdnWLqnfoBCToqamDkkRoYoWgDbZE4pV9xMEXw0l4MJ32hgrnBcuMJlKXMDQtnKKuObQ==;WyNCNW0XeLh77FdGaaP1ig=="
 ---

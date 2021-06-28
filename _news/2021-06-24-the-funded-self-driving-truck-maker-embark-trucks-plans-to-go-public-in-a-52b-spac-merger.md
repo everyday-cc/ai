@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T11:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Self-driving truck race suffers from major traffic"
     excerpt: "The race to create self-driving trucks, as well as public companies to invest in them, is getting crowded. Embark Trucks is the latest to merge with a blank check firm in a $5.2 billion deal. It has built up some speed."
     publishedDateTime: 2021-06-24T04:56:00Z
@@ -58,26 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-Driving Truck Maker Embark to Go Public Via $4.6 Billion SPAC Deal"
-    excerpt: "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T11:29:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/self-driving-truck-maker-embark-to-go-public-via-46-billion-spac-deal"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
-  - title: "Self Driving Truck Software Company Goes SPAC Route, Gets Support from Public Funds"
-    excerpt: "Northern Genesis Acquisition Corp. II (NYSE: NGAB) (“Northern Genesis 2”), a publicly-traded special purpose acquisition company, jointly announced that they have entered into a definitive business combination agreement that will result in Embark becoming a publicly listed company."
-    publishedDateTime: 2021-06-27T19:04:00Z
-    webUrl: "https://www.swfinstitute.org/news/87188/self-driving-truck-software-company-goes-spac-route-gets-support-from-public-funds"
-    ampWebUrl: "https://www.swfinstitute.org/news/87188/self-driving-truck-software-company-goes-spac-route-gets-support-from-public-funds/amp"
-    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/87188/self-driving-truck-software-company-goes-spac-route-gets-support-from-public-funds/amp"
-    type: article
-    provider:
-      name: Sovereign Wealth Fund Institute
-      domain: swfinstitute.org
-    quality: 33
   - title: "Self-Driving Truck Startup Embark to Launch IPO in a $5.2 Billion SPAC Deal"
     excerpt: "San Francisco-based autonomous truck startup Embark Trucks Inc. plans to launch an IPO this year in a merger with special purpose acquisition company (SPAC) Northern Genesis Acquisition Corp. II (Northern Genesis 2),"
     publishedDateTime: 2021-06-23T17:15:00Z
@@ -92,20 +61,15 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Self-driving truck tech firm Embark to go public with $614 million SPAC deal"
-    excerpt: "Embark Trucks Inc. said on Wednesday it will merge with a blank-check firm, in a deal that will give the self-driving truck technology developer a market capitalization of $5.2 billion. The deal with Northern Genesis Acquisition Corp."
-    publishedDateTime: 2021-06-23T12:46:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-tech-firm-embark-go-public-614-million-spac-deal"
+  - title: "Amazon to develop 1,000 self-driving trucks"
+    excerpt: "Amazon has placed an order for hardware/software packages from Plus, a self-driving freight startup, to develop 1,000 autonomous trucks. Additionally, according to Bloomberg, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
+    publishedDateTime: 2021-06-25T18:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-develop-1-000-self-driving-trucks"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/NUembark.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "A+a+aVkjr2i6hOa94CgaZAi0XxaKm1c0+sU0U8lBpxCzZSh4dRPlIiZODW/N95dGfTXCyUVy7ARTcr1Ff2DZpD7v1H952lcPnKz5hWcgPOVJLYWEMTQrbe0rAzPApDrOma4pmvarmsfHkj/deLOHxVOqRH1JrVK3w7uLHElXatGmMISyBGCMdb/TLVwCsDNqZyPIQnOKglYdU6RAXBm509qUxbI4JGpngVS0+IRMx+D6zbumqghHc1Kc4GuuOB0xQ0TH0J/l3WquSa6h5T6Y9zDlgNLs0wXGK5yak5LEOB9XX7yuVxer+GhL2DR8PFtWF42ogV3ajH7pq71rq4TqTgu25TpA6kQ5+yWvM/qidVLfM4De0HELXlMbMw0aWT0VggFGnn4Oy5bzRuvlY8frDcet7kr5ZN1I2AFJmUckl7dblKGvQvsKqUNhWP1eihno86Iy37cXb6ZhCPuJkTLCDRWs7o9R4KCSA1nYtqyhb5ny6gZuYfwaVxwX3sNDsI5ImzvK0yIskUf1HeJvVgq5Ag==;rrGG4t8SIKeHl12n7R/w1Q=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-ai
 ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 127
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg"
@@ -31,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Feds now using facial recognition at airport immigration"
+    excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
+    publishedDateTime: 2021-06-28T05:32:00Z
+    webUrl: "https://www.guampdn.com/story/news/2021/06/28/feds-now-using-facial-recognition-airport-immigration/5369053001/"
+    ampWebUrl: "https://amp.guampdn.com/amp/5369053001"
+    cdnAmpWebUrl: "https://amp-guampdn-com.cdn.ampproject.org/c/s/amp.guampdn.com/amp/5369053001"
+    type: article
+    provider:
+      name: Pacific Daily News
+      domain: guampdn.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/18/PGUA/eee12e18-b990-4312-89db-b43879696ed2-Airport_terminal_2.JPG?auto=webp&crop=4271,2403,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Facial Recognition Technology Can Benefit in the Workplace"
     excerpt: "How Facial Recognition Technology Can Benefit in the Workplace  - When used in conjunction with time and attendance, facial recognition technology benefits both the employee and the"
     publishedDateTime: 2021-06-24T04:59:00Z
@@ -46,6 +63,6 @@ related:
         height: 237
         isCached: true
 
-secured: "Ez6KH/ySGfW88I13OQZlvHf7+aR0LzbEUp38gwN/RjbMARYW3YDHWEhzqTcn5iwRaWRDqTFsrOLt2E/hJy+ebntCZk2JhyXgx4WcPUesD5A48Bf2oTzNHpFNDR/g+NsXTmMs/gFqo7YtBHuA+13LXnbA7QOXGM+/76ZhR3+rwD6bqIHaOeLPCwhGCkw56VLtsOccj2Y3ZEh+gvwGZV2d1p25ngo48F8xqEd5Gr6RhWy+aii2lDh1eppotwULVLGvYEyYzCqqbw8SSp3dr+/7Go4Yx61Nml1EU6WJovRoJWdVbJFeoURCUAuEfTT2+WEaPkcQEzLxaNiTwgJ0Cz495Dh9Fq54EN2BbS+K5vIfkgM=;pXRCSLw0+zuxlQFdcnCr/g=="
+secured: "e+wYVJBChJzzB+nzpqNGqYdFazU2C7q4tO8nndAbcMJA1P8CUEiH90H7xiE/I+BZ82W5E7LxwzR64t3fGkqvgKqm1N9aIZhldDcSIYJadnJ/l7sk8GP+IRphqRj5KE/xMl7JTom7J46Jgf7yup+jK9Hr4G0LpODA+DJJG/q6mg0LXREMpHSDXFfgzOedJ9i++pes2hZZU+s4l9LXk62kZ3UEW8kHE7JMAw60G6dhonFILSizAagYQtAyxjmPkEx/ZbR+KKohPKcwRPJK1AMXI2TJ7Ay7C2M4x7zebhwl13+LnGbScWpTh3ffoWnJ67wIU1qmE2oMoJrMGzJ/C1wnQG2kFAxTVEUSXq1U1L2VbGNbzKOQhtF7N4CdiojyM3dj3/0j86HofJmsK2R3t7eWUFF/ERHRqamZPyl80L3xTkMXu6SReHFA4NSNT1EychPh5U9w4GTTdObMgoBe6sWhHVoc5mIaCRrNHu2kQys1fh7F6i/qcXJ6047bHLmbObbTrLRrOYm5hmYhPryHEaOdFw==;HOcxV5RtW1gDPjsQwRnmsQ=="
 ---
 

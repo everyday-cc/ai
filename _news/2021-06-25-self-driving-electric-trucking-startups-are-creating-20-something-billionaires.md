@@ -105,20 +105,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Third Self-Driving Truck Startup to Tap Public Markets"
-    excerpt: "Self-driving truck startup Embark is going public by merging with a SPAC in a deal that values Embark at about $5.2 billion, the companies said. Embark joins competitors PlusAI and TuSimple Holdings in raising cash—about $615 million expected in this case—and going public."
-    publishedDateTime: 2021-06-23T12:20:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-news-live-updates-062321/card/jJhJbQBLFdhgsqkEt6xq"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-358301/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Funding is pouring in to companies trying to crack self-driving tech"
     excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
     publishedDateTime: 2021-06-25T00:30:00Z
@@ -164,6 +150,22 @@ related:
       - url: "https://awaken.com/wp-content/uploads/2021/06/waymo2.jpg"
         width: 520
         height: 280
+        isCached: true
+  - title: "Kettering students develop award-winning self-driving vehicle technology in Flint"
+    excerpt: "After a four-year competition aimed at studying, designing and testing self-driving car technology, a team of Kettering students walked away"
+    publishedDateTime: 2021-06-26T10:11:00Z
+    webUrl: "https://flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
+    ampWebUrl: "https://flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
+    cdnAmpWebUrl: "https://flintbeat-com.cdn.ampproject.org/c/s/flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
+    type: article
+    provider:
+      name: Flint Beat
+      domain: flintbeat.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/flintbeat.com/wp-content/uploads/2021/06/rfaKT-1-1.jpg?fit=2000%2C1333&ssl=1"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"

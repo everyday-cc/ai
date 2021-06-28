@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sebi bets on AI machine learning, plans data analytics project to track market manipulations"
-    excerpt: "Markets regulator Sebi is looking to engage an agency to implement a 'data analytics project' to track possible market manipulations like insider trading and front running"
-    publishedDateTime: 2021-06-23T12:47:00Z
-    webUrl: "https://www.livemint.com/market/stock-market-news/sebi-bets-on-ai-machine-learning-plans-data-analytics-project-to-track-market-manipulations-11624451681928.html"
-    ampWebUrl: "https://www.livemint.com/market/stock-market-news/sebi-bets-on-ai-machine-learning-plans-data-analytics-project-to-track-market-manipulations/amp-11624451681928.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/sebi-bets-on-ai-machine-learning-plans-data-analytics-project-to-track-market-manipulations/amp-11624451681928.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 63
-    images:
-      - url: "https://images.livemint.com/img/2021/06/23/600x338/f6602b5c-b1a5-11eb-8e1b-80b8ec5f5986_1624025960818_1624452098948.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
     excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
     publishedDateTime: 2021-06-23T14:05:00Z
@@ -76,20 +60,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Skai Named \"Best Overall AI-based Analytics Company\" in 2021 Artificial Intelligence Breakthrough Awards Program"
-    excerpt: "Skai, a go-to-market engine that powers brand decisions and execution with full-circle intelligence, today announces that it has been selected as the winner"
-    publishedDateTime: 2021-06-23T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/skai-named-best-overall-ai-based-analytics-company-in-2021-artificial-intelligence-breakthrough-awards-program/article_f691f383-cad2-54ca-a1cf-7fa3b2bc01ba.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/17/b174e2eb-fcfe-5a64-8ee1-baaaa2f05397/60bf6a56cc164.image.jpg?resize=1200%2C542"
-        width: 1200
-        height: 542
-        isCached: true
   - title: "GRAX Launches DataOps Solution that Streamlines Critical Cloud Data into Analytics and Operations Systems"
     excerpt: "GRAX, Inc., a leading SaaS Data Value Platform, is offering a new platform, dubbed History Stream, that allows users to effortlessly stream native SaaS app data stored in their own AWS or Azure cloud data lake into industry-standard tools."
     publishedDateTime: 2021-06-23T15:28:00Z
@@ -104,15 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud"
-    excerpt: "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... of NetApp's Public Cloud Services business unit."
-    publishedDateTime: 2021-06-23T11:48:00Z
-    webUrl: "https://www.businesswireindia.com/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud-73631.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
 
 secured: "z1sMGtvdGjFNIlBVFc/wjx280iKz5F1I/AHwkmGIcJgTRZO9lxLvJXtR9k9Z4Vh93x4m40Euq/0EhBXk+Z/7Pe3WM6a/t9ZN5sc8EWDXJhxorWCFvTuvYDKGcpbJ4P8rsmXwLXwrH//CEKWt7OX+pEzEuQJEZSskSnhP/iQ2cxcwNT4yvZwYAOqBcNDW8Q8w4Tkr0M61BrHPrDkFPY5dWRFJyOHoaG4lYTlByMa3QN46ND/m2v14+RI4H3+T/f+V25UkQv+cS+YvfzeQIHiPCBVLxF7+BlEkkLDaSA7NCM4s6EsXIW4th1WcVLtciCOV7B5/5Dw1CajFz0MpkcDde3F26Oc1JNbBp87FIrQMC/OACDO1xZ2SUUe4iHk0l/3avn+8b9BpXYhKi5M+3hDH70rYNLtUo+hHb4tapu04ENznsFeFELh8siHqGK5/DYtq47Y7dEZq1HRYwnusBuUf0mycxKHPmSg8GmA1XfsNW5zL7WImgWu371olvYyPM2LItvMOOglDy/lHN2nvwPBx7w==;S8WZYOvkN4lf6Lywt8GwCA=="
 ---

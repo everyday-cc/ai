@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-helps-restore-the-missing-pieces-of-a-chopped-up-rem-1847159725/amp"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
     images:
       - url: "https://i.guim.co.uk/img/media/6c8bb35b8506b436b0b1889355d25d76e43ac7ae/108_203_3299_1978/master/3299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02320d3c2fed82f460a8089b4aeb031f"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "Rembrandt's huge \"Night Watch\" gets bigger thanks to AI"
+    excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, on Wednesday, June 23. Right above Dibbits,"
+    publishedDateTime: 2021-06-28T02:01:00Z
+    webUrl: "https://www.wyomingnews.com/rawlinstimes/news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/article_5ff83f8e-1e7a-5595-9af3-6bcdf4699c35.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/3/d4/3d4ebd79-9175-5b90-a75d-9ca46e16c704/60d5eb7753e57.image.jpg?crop=1567%2C1175%2C98%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
         height: 630
         isCached: true
   - title: "Artificial intelligence recreates Rembrandt's Night Watch that has stripped off parts, in Amsterdam’s Rijksmuseum"

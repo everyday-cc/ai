@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 640
         isCached: true
-  - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
-    excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
-    publishedDateTime: 2021-06-23T11:16:00Z
-    webUrl: "https://www.extremetech.com/extreme/324025-tesla-built-a-supercomputer-to-develop-camera-only-self-driving-tech"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/TESLA_2120x920_MS-RedGrill.jpg"
-        width: 1344
-        height: 743
-        isCached: true
 
 secured: "dKJqbRHintI7CDUzqciCxst2ynU/bKn9unEcGouA/TunJv1Nwl4x7VfxKDNPOK3Qau5fyLejX0jL3xe4L21oUNv8HTPhpNHgj18kYEov1Cq4ydcisIj9I8+KVfgbEqW8aj4qNeBRcSKZgDJaPuixOSD5hIem9FgJ5BYKVMiVnHRRgwWpPqQElzPjf55KKWvMlvM4P06KjmKfzwgg3CeBz/nFWNxjtNQOkCo4LTk5uLlor/3LbHw2rDMcLaOL+6WHlHLGQS1PuBOa17wbsINzsb+DZpJ0vbypwHnNmol1m0U/fj2WazEV4kOEniOhDPzrKyfcsxvWHOno4EBIlre64abiKvGfrmriIAKQiDS1HkoSEGXrz6BVL8p2jPxYZNLsjk0rLuDBIl5NaBZ1cupWRH6EXaFa1HZqHLppAe1OFX4XUZGeOb1spp4P0aDxutrPfA36iI38Wb3JZnVgWiHW9aDuOk6bN1p3uyUXuMvyApkQBEEWl1rRoF0FIx/yiUcM4rWpCYIbefU07JSLFWBOJg==;6VGGtErRpXYYNAv7pF5U5w=="
 ---

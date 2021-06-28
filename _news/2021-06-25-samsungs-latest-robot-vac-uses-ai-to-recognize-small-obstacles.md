@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-v
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:

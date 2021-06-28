@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
         width: 1600
         height: 900
+        isCached: true
+  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
+    excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
+    publishedDateTime: 2021-06-28T04:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "IBM Explores AI Tools to Spot, Cut Bias in Online Ad Targeting"
     excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy people, aiming to address discrimination concerns that have drawn industrywide scrutiny."

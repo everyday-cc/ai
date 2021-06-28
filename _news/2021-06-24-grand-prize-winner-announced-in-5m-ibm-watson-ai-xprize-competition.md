@@ -177,15 +177,6 @@ related:
         width: 600
         height: 331
         isCached: true
-  - title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-    excerpt: "Winning technology from Zzapp Malaria will demonstrate how humans can work with AI to tackle global challenges \"After five years of hard work and dedication, XPRIZE is thrilled to announce Zzapp Malaria as the grand prize winner of IBM Watson AI XPRIZE,"
-    publishedDateTime: 2021-06-23T12:30:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210623005848/grand-prize-winner-announced-in-5m-ibm-watson-ai-xprize-competition"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 36
   - title: "Startups using AI to tackle malaria, mental health and human trafficking take top awards, and cash, from IBM XPrize"
     excerpt: "An Israeli startup that uses artificial intelligence and other tech tools to wipe out  A digital health company focused on clinical decision support in mental health and a startup using AI to help law enforcement battle human trafficking also took home top prizes."
     publishedDateTime: 2021-06-24T19:20:00Z
@@ -201,6 +192,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "2ZnM+Kjdd7BX0jsvMWM+Lb8azyWub+V+ko5lxG7QJ37hpaPSL2Fr8V975xRulsh0oo43qnotSO7/7I6QEGWBseI4823VjoPYqA1ukkSZfgg2KgVOwILqPHAztZy374bULc2d9q9Ue0tchc5O89H33jQLxz2XR2UQuAgm4R1F2d/nZeFjQauw+ovEa5cnbG7r3ucExtBChZbbrdVuxsHnS8wsaxBW6QFWDGiFTZ7leM0ONRdXyHvWfIQu0PV80ouJLUjDiim2S57EvFWyV0+YvGGFBDW8oVC9R2hoPGXqNlRK3YNvSqko+j2Z10fdhNHkLSehGnt231yg70nUD6tmELSL0IxGlrixSTSvHJGJ2Fk=;cBGgF5mrKNYOJ6IAM2mvxw=="
+secured: "sLH4LDWe5orehUbJJKT+3IPh/+C5WRvgM7tv0wYyuw0QulyiIstcrlRMogbLMUI61ZIygaoouuvwWq1f4toSzIS4jGaJaVLhTYO1AUWKqlR/nLJugKPl0SGfysxlfFy1pBwDsQtminojYYI6OEPxHPcbytfyyPl9Jm14Dj9pIXTugpCK4LnZsaCfU4+p9M71Hvh70VDEd5Sv5Go1KDzZwb6eKIBtQdQv4a0iijaNSv09t9DjbOzGtuCJXdDsJUC5ie50jUSb54UjWHnMO6TjSflibJi99fxPvnH6K25jgWmTJ+OZyFbq5qKf8Tk189OYyMd5ZatB4JtSDUptsAnEN2xklaAiLUVJTFJIv7nsPgE=;3pjaQaxddfRmrPrsQLw/CA=="
 ---
 

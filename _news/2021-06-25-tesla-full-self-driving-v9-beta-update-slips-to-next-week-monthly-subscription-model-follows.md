@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-updat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
 type: article
 quality: 78
-heat: 120
+heat: 111
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/tesla-model-3-1200px.jpg"
         width: 1200
         height: 640
-        isCached: true
-  - title: "Tesla Built a Supercomputer to Develop Camera-Only Self-Driving Tech"
-    excerpt: "Tesla is talking about what it sees as the next leap in autonomous driving that could do away with lidar and radar, leaving self-driving cars to get around with regular optical cameras only."
-    publishedDateTime: 2021-06-23T11:16:00Z
-    webUrl: "https://www.extremetech.com/extreme/324025-tesla-built-a-supercomputer-to-develop-camera-only-self-driving-tech"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2019/09/TESLA_2120x920_MS-RedGrill.jpg"
-        width: 1344
-        height: 743
         isCached: true
 
 secured: "oGCqjzpF2I09/w/bNr2Mk4lsekvRnjFQf+sSeGI2AdITK/wvYJB2XdSc35iT3RVFmx+44JTgpAKhKrsYZNrYYWI2V5eS39TTVA97aqsfFr6bOmyZqX6aHHhArne0j1ok9qweif5oSnNbZAj3NSbCbAxooaQDT1adoY7Pyj/XDnaQXRrmADx8PyKBMUkdecGvLkbxFr6QhZwpyeHCjdJZc1oRg5k9nEk48iEu65Hg857ktqm1C1fU1WiP739hkhpixeC073OjCnEGBmBfn8ieFOon1jRxzp3mNLRJ7DoF6Sg3AEWD2r588vzN5ys+h58CWqQPnDucboEDHNG971B5y5ZZrYh9H1xGGTT7b5ewTeyPvm5hj5vO/MnkoyYPv6fMP/MzxQbRAAWkcSwc68h0sRgJp9I59EaTVrlvPq1l/p95Ky47JRjiYSh9ChkxtyvUVBV2o4X0CRLNUsphL+TZV6yzanDZMG05DDlP/StNmLGgVg9naKXQ0qSquPMtmr4HZZ+eyoWmIlcozXPg+nZNbA==;xQ9vtcRehvS5l5a+/WrXEA=="
