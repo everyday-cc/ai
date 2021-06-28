@@ -1,22 +1,20 @@
 ---
 category: news
 title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-excerpt: "Take our AI survey to find out. Raia Hadsell, a research scientist at Google DeepMind, believes “responsible AI is a job for all.” That was her thesis during a talk today at the virtual ..."
-publishedDateTime: 2021-06-23T09:02:00Z
-originalUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
+publishedDateTime: 2021-06-23T07:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
 type: article
-quality: 120
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +22,6 @@ topics:
   - Google AI
   - AI
   - AI Ethics
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "DeepMind AGI paper adds urgency to ethical AI"
@@ -76,6 +68,6 @@ related:
       domain: itp.net
     quality: 54
 
-secured: "y/9sxfrjoJpgu1FHRcwcBCuTxifRJe2rm5bxrTUmC6eACZSKeNIJd3QBw6w2D+ZzIlp3VThIr98axYeynvg2DRmTlHo/OUiyJD89qBTBqgXOKTAaTjSD41U2us+ucFOkDE9/+WV9HyaEKQMTdXZziyZHGf40tBgB8xNNdK+wpDkkmtUFd7eCpwUVFYyN/9AcsI0IqTzm0bGFeWRbtx5M1PLJytEVKhDutnVGeGXtchAENbOE6TU3Wt61O9mQKyKU37Mxfpw+4JQhYgCquv9SWbKbNq4txm8EA88QxGGSIm1JievQajJK922mvQ4fgZi5P3JNaeU8TfRgbgIHoxMPZP6yOzSKOoRvNOgU/QTvZEs=;nQzWbX8fa9SU4NgQIAaP/w=="
+secured: "fKgAMgWMVVE1WWENksbMMslVRuXRxxZWYbHQXxI4iSlGqlJA8+k2kgxvjtN78rRZ29fdxkmkuVD6eKjl4QFz/5EKrJKCn1QsDnU0Bei4G/cpAS0eAA4YYpc4HWcoJ57qDXe2bOYdaE8QWVuyhToIgjjLKXxPCMJ9gQzAh63NDrBoctZi909DHzBmWWxwy40ZaXmRCmaQSsn9/rK/PQ2+b7ixxhxlppS+z0ywF2PSUvQgI0w9emq6yinhj5Sd+MqDJytaFcqbydlNqaEPBdnih+wSDNBvYFDDEC60C0V/y22xfhMmIZgn8NxIFvyaX4Axw3C6WWn9dUl/zq9LLpbove8NgylA5kUPBeqWvBdAFZQ=;gkSM6+hBfO1BC4TQEvKxPw=="
 ---
 

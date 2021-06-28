@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-    excerpt: "Take our AI survey to find out. Raia Hadsell, a research scientist at Google DeepMind, believes “responsible AI is a job for all.” That was her thesis during a talk today at the virtual ..."
-    publishedDateTime: 2021-06-23T09:02:00Z
-    webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-    ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 120
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind uses AI to tackle neglected deadly diseases"
     excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
     publishedDateTime: 2021-06-23T13:51:00Z
@@ -69,6 +53,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
+    publishedDateTime: 2021-06-23T07:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
 
 secured: "yYM0X/x8X4U9ujofCgKIV0zfBL75X3LtXCXl1Mk4iNdu8H3NkIZrLWD1civawX7N7gg0SKbRIGwK2snC19jYRsPeGyu7jUvcQVP/UYsjcVJMfgluxzWfAeXp9so2YNrdDFedQNvC9MQUsH8pRgF1ypcDkiGxl6Foyl/KclQui59BaMMomiCu1IqoKBntKGDNywnXrqGPGzuLjYSbDe9JXN6F7ckWXlwjnPsCGVJBDYR0PyXBvvi2MK+9/1TcsMTXycJRcjOxM35yoK9X8DsVD2lM2K1WtmSZ1LwzAcWOaJ/iRTZvDvTf2XrO6vHP/ftwADq0GEdaJosxCzkAUufNcSKYxviulQvcaEqWUDbdf6Y=;AKjc1pPB6duD9SZ7p7N2Ig=="
 ---

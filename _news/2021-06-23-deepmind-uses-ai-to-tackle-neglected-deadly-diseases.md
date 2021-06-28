@@ -48,21 +48,14 @@ related:
         height: 600
         isCached: true
   - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-    excerpt: "Take our AI survey to find out. Raia Hadsell, a research scientist at Google DeepMind, believes “responsible AI is a job for all.” That was her thesis during a talk today at the virtual ..."
-    publishedDateTime: 2021-06-23T09:02:00Z
-    webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-    ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ..."
+    publishedDateTime: 2021-06-23T07:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 120
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
   - title: "DeepMind to use AI to tackle deadly parasitic diseases"
     excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
     publishedDateTime: 2021-06-27T13:22:00Z

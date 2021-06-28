@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/international/2021/south-korean-start-up
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/south-korean-start-up-tosses-its-hat-into-the-super-app-ring/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "SoftBank’s early-stage VC arm joins $27m round of South Korean AI startup"
-    excerpt: "SoftBank Ventures Asia, the early-stage VC arm of SoftBank Group, announced that it has participated in the US$27 million series A round of South Korea-based artificial intelligence startup VoyagerX."
-    publishedDateTime: 2021-06-23T05:30:00Z
-    webUrl: "https://www.techinasia.com/softbank-ventures-asia-joins-27m-series-a-round-south-korean-ai-firms-voyagerx"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
 
 secured: "1UYk30cvCV+1PJGrMR30Dud5H8Wkmfbywb7rH8cl6AWubSpfy4XfnW8iAvp0kncr+LwXHvYn7nX+TtVBPkJ+0U5H2QqLuguIxue/byCo9+EgtyyZ/sQauGC9GswU9rqrxOFm1Za7+vtJQH8MPql0HNDr5t67GgR5Soy28N4xeNsArP+cgj2VS7kjOiusfw/nL1cijX87T7xmXNKXwMUjn2tvR9jJGRpnzZl/2zKQL7XRtdV9CGQyweAc1BK1GG1szw6I6M0uwWTVxDOlRV1FS4l/f+/T0mDhgOnLEDouTj8eFy1iq1raJN5VGv9qgBkZo8uxRxhsYhrwL7AXFpernD09LM5VuT4gOiuUmqYWC5IH/qx/S70InyV5sEwl5Hcxwz+tjlBk4qDcWBO8KwTtnDCsmZ+KIZx3jTnu39GKmZG991PCvxX4lOWO9rrKgcIsVyS/SzeNytkxaGB33zjiqI9BBbRcjhaLwRhM9p42svRajNvI0sc+g74ViU+bTKzw2z8Z2HnQTiooeSKvQP/uaQ==;gYSZEQf/mN+J/lbZtojkTg=="
 ---

@@ -87,20 +87,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "Self-driving car tech firm Quanergy in China-backed SPAC deal to go public"
-    excerpt: "REUTERS: Quanergy Systems Inc, a supplier of self-driving car technology, said on Tuesday it will go public through a merger with Chinese"
-    publishedDateTime: 2021-06-23T05:50:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/self-driving-car-tech-firm-quanergy-in-china-backed-spac-deal-to-go-public-15069566"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 22
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
-        width: 991
-        height: 557
-        isCached: true
   - title: "Self-driving truck tech firm Embark to go public with $614 million SPAC deal"
     excerpt: "Embark Trucks Inc. said on Wednesday it will merge with a blank-check firm, in a deal that will give the self-driving truck technology developer a market capitalization of $5.2 billion. The deal with Northern Genesis Acquisition Corp."
     publishedDateTime: 2021-06-23T12:46:00Z
