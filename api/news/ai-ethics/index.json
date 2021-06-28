@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-28-gdpr-20-what-do-europes-new-ai-rules-mean-for-businesses.md",
+      "title": "GDPR 2.0: What do Europe’s new AI rules mean for businesses",
+      "excerpt": "To sign up to receive each new issue in your inbox, click here. In April, the European Commission (EC) unveiled plans to regulate artificial intelligence (AI). The first-of-its-kind rulebook includes bans on practices that “manipulate persons through subliminal techniques beyond their consciousness”,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/359986/gdpr-20-what-do-europes-new-ai-rules-mean-for-businesses",
+      "originalUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/359986/gdpr-20-what-do-europes-new-ai-rules-mean-for-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1624543723/itpro/Margrethe__Vestager_Thierry_Breton_EU_AI_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/359986/gdpr-20-what-do-europes-new-ai-rules-mean-for-businesses?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/it-regulation/359986/gdpr-20-what-do-europes-new-ai-rules-mean-for-businesses?amp",
+      "publishedDateTime": "2021-06-28T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
       "title": "DeepMind AGI paper adds urgency to ethical AI",
       "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
@@ -1426,58 +1478,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds.md",
-      "title": "Government and business can develop an ethical AI future together, KPMG study finds",
-      "excerpt": "Industry leaders believe the Biden administration will help advance AI adoption, and also believe it has an essential role in regulating AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1143065746.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/08/government-and-business-can-develop-an-ethical-ai-future-together-kpmg-study-finds/amp/",
-      "publishedDateTime": "2021-06-08T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

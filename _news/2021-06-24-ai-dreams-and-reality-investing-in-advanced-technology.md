@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-i
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-dreams-and-reality%3A-investing-in-advanced-technology-2021-06-23?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
         width: 798
         height: 419
         isCached: true
+  - title: "This is Why Miners are Investing in Artificial Intelligence"
+    excerpt: "In addition, “The mining industry is seeing an increase in artificial intelligence (AI) investment across several key metrics, according to an analysis of GlobalData data,” as noted by Mining Technology."
+    publishedDateTime: 2021-06-23T15:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/06/23/this-is-why-miners-are-investing-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "mECIxYO5pr3jL8IClhIE+ells8576tHfYBfquVZbcnznPch40oRHOuuN2kMywfgtwnjLXoRHcTo85uSYPP4kkBmbLI3qiqDHVRkS8ucG88lHuZpU9UYxA3F/hgqnx3n60zBLFbtVQxmK4OLls0T7+DlhUnoKKW1Td2JQ23/HDinp5f496D4WtpN2f/LjOZKlyulzsLIPSQIWHLowiGzAhu9eujX/6YJD9iIxhtuU8YhfvsJSsGsveU60c9EvtSvJsak/G6VJqEUwDqcpqm/NStJA3kqgQWfILubhgE/ICGL1GEhALd8whsXtnwUtoUXSoJKEb0cqrjrzWLJPbSLDv3jC7v/KInxqjRgwU2WHP2k=;krEKjjFPpt3WqWXAP12Vow=="
 ---

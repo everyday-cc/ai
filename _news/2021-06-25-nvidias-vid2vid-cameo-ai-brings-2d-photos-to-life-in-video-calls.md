@@ -70,6 +70,20 @@ related:
         width: 590
         height: 330
         isCached: true
+  - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
+    excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
+    publishedDateTime: 2021-06-28T07:01:00Z
+    webUrl: "https://www.fierceelectronics.com/iot-wireless/nvidia-google-to-open-ai-5g-test-lab"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1624848049/Image%20-%20NVIDIA%20AI-on-5G%20Roadmap.jpg?0NgCCQOP_5M.TJh60bFGIq1SXoElCKYx"
+        width: 2000
+        height: 1260
+        isCached: true
   - title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA Partner Network"
     excerpt: "SFL Scientific announced today that it has been selected by the NVIDIA Partner Network (NPN) as the 2020 Service Delivery Partner of the Year for the Americas. This is the third consecutive year that SFL Scientific has been honored with this award."
     publishedDateTime: 2021-06-25T20:01:00Z

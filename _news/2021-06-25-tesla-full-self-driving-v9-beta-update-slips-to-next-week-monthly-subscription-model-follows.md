@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-updat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
 type: article
 quality: 78
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla unveils supercomputer used to train self-driving AI – report"
-    excerpt: "Tesla lays claim to having the world's fifth most powerful supercomputer, which it's using to create self-driving systems."
-    publishedDateTime: 2021-06-23T14:01:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-unveils-supercomputer-used-to-train-self-driving-ai-report/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 54
-    images:
-      - url: "https://res.cloudinary.com/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/rfhfhsHORuW7lz6uFicu"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How Tesla is using a supercomputer to train its self-driving tech"
     excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
     publishedDateTime: 2021-06-26T09:00:00Z

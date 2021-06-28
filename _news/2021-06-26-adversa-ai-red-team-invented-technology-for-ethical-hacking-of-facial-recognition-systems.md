@@ -51,6 +51,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "This is Why Miners are Investing in Artificial Intelligence"
+    excerpt: "In addition, “The mining industry is seeing an increase in artificial intelligence (AI) investment across several key metrics, according to an analysis of GlobalData data,” as noted by Mining Technology."
+    publishedDateTime: 2021-06-23T15:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/06/23/this-is-why-miners-are-investing-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "evw1Vo+lFX5nnZiTiaDNznKs3/LOf2bN20qcerOEbp15LFiIvUrtd/ttNQD04GVBbOwIMW4obFr3X4xLEC/vrv75Nvv0ooqlGKyEncHFhOkgKRmFGl6rKPv24CjZzBNuzPq7mXRuWLuhdM6R5NgWbBdIOLsUb5x+mZm08jUWaZ++lDpWS60WTNAOe4B8CQzs7St37d6BW6NN9J6lHQHFY8wC1OQTnutxjKxLqGrAHKUX/znP6KI9Kj5jDxRNvFKla30D73GfmS5HwzdeqaDNIaQGMUvRMZKfVwJc7ESTRNx+wNkxPo8gSS9vW80tPgTK3er/BmpMhpb0x0GGCftRvWJ897yJKgennFRpsbGiNOY3nPrq5I4yGKF+5LQ2yUt8e9/z1NXyagy16SlqvYACwp5btyk4bzqWNv6I16DpQo8FwOGhgnxB4F9B0orstCj7YXBHemQR0Q7b/J5lcrZHY0IUJuKDhoMtNitjuIprBTBnrZA8y1IHCydGEU0GhebqMILj4g3kJBYBu4/crbmdLw==;90p65XX+/2BOH9vND+BlUQ=="
 ---

@@ -46,17 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Rembrandt's 'Night Watch' on Display With Missing Figures Restored by AI"
-    excerpt: "Watch' on Display With Missing Figures Restored by AI AMSTERDAM (Reuters) - For the first time in 300 years, Rembrandt's famed \"The Night Watch\" is back on display in what researchers say is its original size,"
-    publishedDateTime: 2021-06-23T13:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-06-23/rembrandts-night-watch-on-display-with-missing-figures-restored-by-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 66
   - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
     excerpt: "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate"
     publishedDateTime: 2021-06-24T12:19:00Z
@@ -72,22 +61,6 @@ related:
       - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2021/06/9d7ff698457b4ed9aa62bd42cf9eaf1b.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Rembrandt's huge 'Night Watch' gets bigger thanks to AI"
-    excerpt: "\"And what it taught us is that Rembrandt never does what you expect.” The museum always knew the original, uncut, painting was bigger, in part thanks to a far smaller copy painted at the same time that is attributed to Gerrit Lundens."
-    publishedDateTime: 2021-06-23T13:03:00Z
-    webUrl: "https://www.chron.com/entertainment/article/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
-    ampWebUrl: "https://www.chron.com/entertainment/amp/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/entertainment/amp/Rembrandt-s-huge-Night-Watch-gets-bigger-thanks-16267244.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Rembrandt's huge \"Night Watch\" gets bigger thanks to AI"
     excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, on Wednesday, June 23. Right above Dibbits,"

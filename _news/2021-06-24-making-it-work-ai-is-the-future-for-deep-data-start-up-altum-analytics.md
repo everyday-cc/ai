@@ -40,22 +40,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
-    excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
-    publishedDateTime: 2021-06-23T14:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/articleshow/83776937.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 47
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163364,msid-83776925/upskill-to-the-cloud-all-are-moving-there.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "GRAX Launches DataOps Solution that Streamlines Critical Cloud Data into Analytics and Operations Systems"
     excerpt: "GRAX, Inc., a leading SaaS Data Value Platform, is offering a new platform, dubbed History Stream, that allows users to effortlessly stream native SaaS app data stored in their own AWS or Azure cloud data lake into industry-standard tools."
     publishedDateTime: 2021-06-23T15:28:00Z

@@ -39,20 +39,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Will the proposed EU AI rules become the GDPR for biometrics?"
-    excerpt: "As new regulations governing AI and biometrics technology come into effect, explainability and comprehensibility will become the standard."
-    publishedDateTime: 2021-06-25T16:44:00Z
-    webUrl: "https://www.biometricupdate.com/202106/will-the-proposed-eu-ai-rules-become-the-gdpr-for-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "More sanctions knock Belarus face biometrics firm off center"
     excerpt: "Synesis' Kipod tools enables operators to feed in face photographs that are biometrically matched against digital video of people."
     publishedDateTime: 2021-06-23T16:12:00Z

@@ -23,6 +23,17 @@ images:
     height: 873
     isCached: true
 
+related:
+  - title: "Pooling Society’s Collective Intelligence Helped Fight COVID – It must Help Fight Future Crises too"
+    excerpt: "Aleks Berditchevskaia and Kathy Peach argue that collective intelligence can help us respond to crises with greater confidence, clarity and cooperation. A Global Pandemic Radar is to be created to detect new COVID variants and other emerging diseases."
+    publishedDateTime: 2021-06-28T07:36:00Z
+    webUrl: "https://globalpolicyjournal.com/blog/28/06/2021/pooling-societys-collective-intelligence-helped-fight-covid-it-must-help-fight"
+    type: article
+    provider:
+      name: Global Policy
+      domain: globalpolicyjournal.com
+    quality: 0
+
 secured: "U4yhTgILwEngEyJ1u7uTIyANpZ4u+EFb+eff2rwP/vFAc/wcHG215aEpGn0EDFkKk5a9q2PRxrjlykUBH2/dU/tjKLRR3m2aDPZ0I4i0xq39hQ+2rQfROWhzcO6fgx4+8o21DGxVixiQB9vBVT5DaUdV6Z+SBhhumUltD3OHot5wcfJBerme1DTJNCV3YrPYwcSokIxQR5vCjUjEe939X1KB4q10NzNHP9/Mn9MOvJxI5rn3PDpYJZM2H1B1GGNeGGnTrqD7Itx4+B9OBSDetfDO5wqIohDlK1TUe3ULwoBbtK6aLR+WekuAOJkopJ8jdOCl7FJMhx4qrnVdjEiAmm67fv8oZ9D0YtBhRYt+sYw=;XcH0haeGlCaLjGg/rzI+ww=="
 ---
 

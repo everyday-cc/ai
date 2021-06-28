@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210624005436/en/OMRON-Hea
 webUrl: "https://www.businesswire.com/news/home/20210624005436/en/OMRON-Healthcare-and-Kyoto-University-Collaborative-Research-Program-“Healthcare-Medical-AI”-to-Prevent-the-Events-of-Cardiovascular-Diseases-With-AI-and-Home-Measurement-Data"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,37 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy"
-    excerpt: "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,"
-    publishedDateTime: 2021-06-23T13:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "This is Why Miners are Investing in Artificial Intelligence"
-    excerpt: "In addition, “The mining industry is seeing an increase in artificial intelligence (AI) investment across several key metrics, according to an analysis of GlobalData data,” as noted by Mining Technology."
-    publishedDateTime: 2021-06-23T15:56:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/06/23/this-is-why-miners-are-investing-in-artificial-intelligence"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
-  - title: "Convergence of Artificial Intelligence and Internet of Things in Smart Healthcare: A Case Study of Voice Pathology Detection"
-    excerpt: "The integration of artificial intelligence (AI) and the Internet of Things (IoT) has a great prospect in smart healthcare. The advancement of AI in the form of deep learning brought a revolution in automatic classification or detection systems."
-    publishedDateTime: 2021-06-23T13:33:00Z
-    webUrl: "https://ieeexplore.ieee.org/abstract/document/9458291"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 9
 
 secured: "MTr7KcvPltqIzNi6SWMWOVD7gnltPtniAF6wL/VoZGVDWL3hnUpNdJO1XQgv8avfUZE7Z8KvElOXAxaitoH6Yc553xNJ4L1zquXvdYBqokepvXpc37ajsPxAxYv3ki4olDIqN5Oy7nobPZvwY7VOYj7PM084a9F0CA6KzHj51HM7lC8+8MEGBXvaHHRx40Ju2TAknOuhIbxS1o5ukGk03y5PxRiPoP0t+hAAnnFzotLoRq3pLTI5PemrTEmTY6rZ0vLqwstZBbS+07CB56oSx8fuCShL0+lraRPCzrn6/aQbZ0U2szzhe+KUw9C3nCQ7Xkhz+tjGoNSzW6G1SU0yED7L2ZB9mfU9zT3oeydcfUExzFFyUrRokuhJGohjDbeoC7JFPklo3GuPtaNxF4vTO7bh7ZjLhhGdzwZfDZddB+Z0Bz8f4fNFMygZaLlX3NjhZy215TzL3rcw7mY5jPCB2kezfTcLaMthSeqV561ICxuDvOuWykGGTBht697Zicf8DrHh92hIzpp0I01Je9QP3A==;v+T3BJI5xOkiyujAAn7kbQ=="
 ---

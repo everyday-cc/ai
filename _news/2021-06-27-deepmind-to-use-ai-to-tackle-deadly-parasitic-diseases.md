@@ -37,21 +37,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
-    publishedDateTime: 2021-06-23T13:51:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
+  - title: "DeepMind Taps Into AI To Speed Up Drug Discovery Process"
+    excerpt: "However, drug discovery and development for the disease has been slow for reasons including lack of capital, the complexity of the procedure, and the time taken to determine the protein structure of pathogens."
+    publishedDateTime: 2021-06-28T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-taps-into-ai-to-speed-up-drug-discovery-process/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
-        width: 1024
-        height: 576
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/DeepMind.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "yYM0X/x8X4U9ujofCgKIV0zfBL75X3LtXCXl1Mk4iNdu8H3NkIZrLWD1civawX7N7gg0SKbRIGwK2snC19jYRsPeGyu7jUvcQVP/UYsjcVJMfgluxzWfAeXp9so2YNrdDFedQNvC9MQUsH8pRgF1ypcDkiGxl6Foyl/KclQui59BaMMomiCu1IqoKBntKGDNywnXrqGPGzuLjYSbDe9JXN6F7ckWXlwjnPsCGVJBDYR0PyXBvvi2MK+9/1TcsMTXycJRcjOxM35yoK9X8DsVD2lM2K1WtmSZ1LwzAcWOaJ/iRTZvDvTf2XrO6vHP/ftwADq0GEdaJosxCzkAUufNcSKYxviulQvcaEqWUDbdf6Y=;AKjc1pPB6duD9SZ7p7N2Ig=="

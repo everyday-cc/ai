@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/nvidia-ai-canvas-painting-landscape-to
 webUrl: "https://www.nvidia.com/en-us/studio/canvas/"
 type: article
 quality: 167
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/1092164536/nvidia-canvas-2.jpeg"
         width: 590
         height: 330
+        isCached: true
+  - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
+    excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
+    publishedDateTime: 2021-06-28T07:01:00Z
+    webUrl: "https://www.fierceelectronics.com/iot-wireless/nvidia-google-to-open-ai-5g-test-lab"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1624848049/Image%20-%20NVIDIA%20AI-on-5G%20Roadmap.jpg?0NgCCQOP_5M.TJh60bFGIq1SXoElCKYx"
+        width: 2000
+        height: 1260
         isCached: true
   - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
     excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."

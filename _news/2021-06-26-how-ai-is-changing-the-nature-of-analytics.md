@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Professionals upskilling themselves in data science, AI, cloud, programming, analytics: Report"
-    excerpt: "The top four courses opted for by professionals include data science and AI, cloud, programming, and analytics. The majority of courses have been opted for by people from metro cities. The report covers professionals from the age group 24-38 years."
-    publishedDateTime: 2021-06-23T14:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/articleshow/83776937.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/professionals-upskilling-themselves-in-data-science-ai-cloud-programming-analytics-report/amp_articleshow/83776937.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 47
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163364,msid-83776925/upskill-to-the-cloud-all-are-moving-there.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Making it Work: AI is the future for deep data start-up Altum Analytics"
     excerpt: "Less than a year after its establishment, Altum Analytics, the Belarus-founded, Dublin-headquartered software company, has already raised €500,000 in funding and is readying itself for an expansion drive."
     publishedDateTime: 2021-06-24T09:15:00Z

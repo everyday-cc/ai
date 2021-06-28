@@ -35,22 +35,6 @@ related:
         width: 772
         height: 270
         isCached: true
-  - title: "GCC Agricultural Robots Market 2020 Professional Survey, Growth Factors, Size, Shares, Opportunity Analysis and Forecast to 2027"
-    excerpt: "By incorporating advanced technologies such as agricultural robots, Big Data, and artificial intelligence in cloud ... systems ranging from UAVs to driverless cars. Agricultural robots minimize ..."
-    publishedDateTime: 2021-06-23T14:38:00Z
-    webUrl: "https://www.openpr.com/news/2312231/gcc-agricultural-robots-market-2020-professional-survey"
-    ampWebUrl: "https://www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312231/gcc-agricultural-robots-market-2020-professional-survey"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 15
-    images:
-      - url: "https://cdn.openpr.com/U/6/U623283900_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "FRTSaogKM12Tlmoy37ClN1w3I1uDXBixH/Evzd8dx4DhnTkxjUC5wfVASgn8DlAfZKGGrh3E91qNDyzk3HPRtjQHcjTvNjWDAWM6RmvFakisxPMUDwILPr/RGzrGyLthljjNIYEU3lXxCVjHA84eSvktWnZwUm3FJKI+fetfQEIBL1BUf9q2O88a/6rf/U73DnTju6FjDius8I5YzL4pKk3rRARXK2C4zEb8vl56UaaRIlkUHeNKGxC5s+n12x3ultvbwSDHd/eNENXZFVGIyGaXpc09wRFO1lTWecFGwOohvX25CmrJd3Yj6eFs8Cnh+/MeXTxLBP2YufKGSyrE+Zmoc+ZgaPyA8doi8FjPUDs=;+azbBTu1H46UPC1tJhwYGQ=="
 ---

@@ -34,22 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
-    publishedDateTime: 2021-06-23T13:51:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeepMind to use AI to tackle deadly parasitic diseases"
     excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
     publishedDateTime: 2021-06-27T13:22:00Z
@@ -61,6 +45,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 54
+  - title: "DeepMind Taps Into AI To Speed Up Drug Discovery Process"
+    excerpt: "However, drug discovery and development for the disease has been slow for reasons including lack of capital, the complexity of the procedure, and the time taken to determine the protein structure of pathogens."
+    publishedDateTime: 2021-06-28T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-taps-into-ai-to-speed-up-drug-discovery-process/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/DeepMind.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "hGMABwhxq8IWYyOGtH6MMNyzFgnN1L3fUk4rdOnkvSSjo3Wj+2NU+6vVISuijVq0nbLqjR6TJiDguvFEF8O3cLqmTApY+MliF8iPfNfcaqMs4K93DsQCu9uR6+DBrJKheAZT4GgOWBFyX14i79cmqqG7eO1ja93nmt49XPy64fAw5oMNzVggc/29nzwpIanqeNbeeXi+MWOo9gYSYq7PvWsSrx34DBUTsPURt0XFXAChVty4jrzvmnm4130xAjA+tNiV7BQ4ZmkH8mpKH8kVeTnBMZr1w51t2VZFFeBjPR4nufR49ihLehQuFZ3Z+5I4zkBDx/HVMyLA0/sahB4Ztd1fRPK0FpCUVoR8ydOdsQpq5NGndaeh9oWrdwbccSPsT97FDZimfbjcpysS1Q9ygvS/UcT9k3UK6MtCC7gkKMTCDsL9kgh8pdUdjhxvDzF7P+ykMIUvMNKGuRb2PPDqsnx1u9mMtojr544gXrZ0VjQzFqoORvEUxDU887JkMKJ0IjH9Arcsf9+g+XjEgW3AUA==;4V3fp7jdiocHhaJJs3szhA=="
 ---
