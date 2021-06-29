@@ -1,29 +1,23 @@
 ---
 category: news
 title: "ArkX Labs’ Voice Technology Solutions Gains Asia-Pacific Distribution Deal With LENA LTD"
-excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice-capture technology for voice-enabled devices and products, has appointed LENA LTD as a key distributor for its EveryWord™ portfolio of voice solutions in the Asia-Pacific market,"
-publishedDateTime: 2021-06-28T23:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-d43219c588ef43d8a6e181bd460a3b53"
-webUrl: "https://apnews.com/press-release/business-wire/technology-d43219c588ef43d8a6e181bd460a3b53"
+excerpt: "ArkX Laboratories appoints LENA LTD as a key distributor for its EveryWord™ portfolio of far-field voice capture solutions in the Asia-Pacific market."
+publishedDateTime: 2021-06-29T03:02:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210628005018/en/ArkX-Labs’-Voice-Technology-Solutions-Gains-Asia-Pacific-Distribution-Deal-With-LENA-LTD"
+webUrl: "https://www.businesswire.com/news/home/20210628005018/en/ArkX-Labs’-Voice-Technology-Solutions-Gains-Asia-Pacific-Distribution-Deal-With-LENA-LTD"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ecaNCpeiQfH65p4hre2v+ZwoGsZBe+SfU5BUJoBIinS4aI+LYSN/IV8mK8/dzNWWNnDUXua4mR6JdYMOerlJppwtsuEqmquZUReF+h0TdYGMpBWQNz00ZkTeSnF0eEmyLdotUc4TI3gdfNT6z19EngoASotpzP0mdZZC8tUfhFMxB3pEg8nKlJEogBlQ1AgBcoDJ55JwK2JVXUl57t46fwcu24osnJrSDENvH2NECOxpPNOu2Sv4ljfT1t38fbzytA7MGNR+Al3a1fpmHjFyjfvX4JSKsXqb4RoPSRPWAPUk5i53VEsWAtvopHm6dIFUCm8pwpxKP9oOdFkUzr8Vp4Y80p4Z9qDxRcnUOZYPM20=;/DpszYPzBpXZeblOM0Twtg=="
+secured: "+ukkNPBgDCpBeA8N6V7jJe5w4EZ8dxRTbZXxbJFw6cucfJ9T9NakDN6TCYcR7WXoQp2PVl45pAG43T2OqWHUEBci0GUrgEPUJLXK7qwgqhz/p47hnXzj1QhMwX3xgDTLXHq9ILVeLtiP9vnXc9AcGSYqbE1lTbrtdrm4y6YrVVUt8svGGWKYAcREPFWhfg0CklbH0e7LyjccOHl5kFnGqc4hM66FC0P+R75vqqJEOXGsMgicZXeFNUYGNMTpf5D6RpX7Vk9jdYEmmH3DfVVWELo+YlRkpP+wB73Gj9xcwmQO2VhGLRUyVjYKB9zE5zPdtXsIO+gciV+rBy3fZSfM1vU5CwCUnv9NFAynrUyCXSfuwrNq0YcoclheizSXVmwDbtS0DG+FQpQq2ARlJkW56rmCjOsADTzU2jjbzpFUrVxi+vL7R7qB1RHD9DlRrnTYROpmp95JUOJwTl3FjPJ/U1HZhvWx3g2ViO/X77c1NPBsdXsetl2ls2NmAlUqoRCt+xxoSgoWpgw44uV+YkBeHQ==;AeRHBXB8xVZ8ZFJPkIbpUA=="
 ---
 

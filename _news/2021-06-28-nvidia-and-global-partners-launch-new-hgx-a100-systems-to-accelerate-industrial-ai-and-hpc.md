@@ -2,22 +2,20 @@
 category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
 excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-publishedDateTime: 2021-06-28T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
-ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
+publishedDateTime: 2021-06-28T07:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
 
 related:
@@ -45,6 +43,6 @@ related:
       domain: insidehpc.com
     quality: 21
 
-secured: "L/6IG+P1da/J+e9Lv6kxdLUBBT99H2jTxWTbJDbWVOyZvziW/HI/EChQihlclqPSh6Kf4qpBl1hnRSC7X/LLOm/cIbT8OHOV0N0KkN4IQGwZJZzIsxJE/A7NKr6DHnsKvu7UQPG0hNMdP/IDOt/Ng6OwaAPSUZugyD7UrfV3nQYSA2kUkpNTWJfV7FAxVVDIGWVBTKX+l/6eX3HB7gXHFbjfqpllkmaSx03GFfYBOx+QOAPkNLlgFknSSts1FFd+JUgyf1VUYh5hgVUv1lN9xFg7VF422pBGBp1TalryYJEE3bB6Onnsd08SoIoW7s5fRjm69kiKTTHVh4Es9O0dlfbrB21SCz7bwryRkS9EU2g=;C8NxcgmtlwyR0GwcaPLdWg=="
+secured: "WWpB+x5HHVUf4693U4+8F96+w3F5XXqPXm+8RNFolCjfWBEjFbR1BoUtB6VjJQkvp+4gTJI5cA4rd8+rrhEPrUmxcuNGEFqkp60Xc4o0lkX6I5xAANYMpIUpezX8APme2t/oF68USyxRUWwqg5xj57awhsWLQ9B16MDY/WrN8lAqwU/ZpsIx4Nhgp62/42Q01LFYUp1TngmMaZ52psro4uBL3FGMZlxuJsIWycP68XSiXA3/lafxsByv7mjxOgrysCeHRvhdWA31Oznv7lmnIBWFD8DBYhDtl/IldWOk7cS+y70M0/vBsiz3Ryj6TRen8AD6mkFS9rFaIvFQZ/83B0w5RBMYi2pUSwDfMGZwPSA=;R3FEAddnMnvgqCVRdJmZYA=="
 ---
 

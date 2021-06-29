@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The Future of Computer Vision, Machine Learning and Artificial Intelligence in Mortgage Industry"
-    excerpt: "Mortgage industry is instigated to adopt Computer Vision, Artificial Intelligence and Machine Learning algorithms to utilise intelligent data capture technology and TF-IDF for information retrieval efficiently."
-    publishedDateTime: 2021-06-24T10:45:00Z
-    webUrl: "https://www.analyticsinsight.net/the-future-of-computer-vision-machine-learning-and-artificial-intelligence-in-mortgage-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 58
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/The-Future-of-Computer-Vision-Machine-Learning-and-Artificial-Intelligencein-Mortgage-Industry.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "aBssBzduegBQzIEVdSWcp3RXWLRep4VQ+F9EMKHXTFnNw3qkhkrSFucAqRf2lbh8QlTOwj6SpHY46q6W8VDjwWW/CYQ7KIhWXBh/HVUB+pGKO4lqQTqCh9VkoM/VHV1hSL9y2zc0E0hBBxtgAdkGnFyudBUqaDgiYYlofSfdMmeKtVYCTVvP3aPdsvlohGrlrcWclXTVpbUAzz9tLCX7zkBXRnVnHndb/fgHQGrh3hKtmlfFEDLUtgPYR65Hmof72E9WWq0K0ue6ml6ZX7a7yll/kjUtSTdV0O7V5vAc3d0NCfRU/PE7GcqyRAELKahw+bgq8+pXSFhI6jHgQV+KdUAtQx5Dcx3EDYdELsEduJ3uHVVWIWEuE46itD6jpFLQVP8c0QpJTfDEA4J1CTI3LlNeGOgdAiJXyY7LyajuIMUt7ojZANxeLxtUyBRlhNONQapl4a4K7ErUy6GQ/dPHuoV4WB4bM1GaY9RghqCP0t1V/85GTRLPRN7UlvZpUmr22IINRP40fCJMTygI8xxB2Q==;N2bxms15UqfiItHo4mKEpA=="
 ---

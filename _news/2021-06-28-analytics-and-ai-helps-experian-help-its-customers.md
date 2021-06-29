@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Making it Work: AI is the future for deep data start-up Altum Analytics"
-    excerpt: "Less than a year after its establishment, Altum Analytics, the Belarus-founded, Dublin-headquartered software company, has already raised €500,000 in funding and is readying itself for an expansion drive."
-    publishedDateTime: 2021-06-24T09:15:00Z
-    webUrl: "https://www.businesspost.ie/making-it-work/making-it-work-ai-is-the-future-for-deep-data-start-up-altum-analytics-382af2e3"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 37
-    images:
-      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPWNlMmRkYWQ3LWMxOGMtNWFlYS04ZTlkLWE0ZTcyNDQyNjNkMiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjY2OS41ODg5OTA4MjU3JndpZHRoPTQ3MzEmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA4ODA3MzM5NDQ5NTQxMjg1JmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgyNzUyMjkyNTc3OTgyXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImY4NjQxN2M0MGJhNjYxNWNkMGI1ZjBhYzUyNGEwNjZkY2EyYzMzNTkifQ==/making-it-work-ai-is-the-future-for-deep-data-start-up-altum-analytics.82752292577982"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Presto the Future of Open Data Analytics, Foundation Says"
     excerpt: "The openness of Presto, its adherence to standard SQL, and the ubiquity and performance of modern cloud storage have combined to put Presto in the"
     publishedDateTime: 2021-06-28T20:36:00Z

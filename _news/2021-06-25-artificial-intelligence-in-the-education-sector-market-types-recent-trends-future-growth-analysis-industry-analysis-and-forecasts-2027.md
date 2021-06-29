@@ -84,20 +84,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Artificial Intelligence In Aviation Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
-    excerpt: "Market.us has to return up with a brand new report specifically Global Artificial Intelligence in Aviation Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years."
-    publishedDateTime: 2021-06-24T09:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
     excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
     publishedDateTime: 2021-06-28T08:21:00Z
@@ -166,15 +152,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
-  - title: "Worldwide Artificial Intelligence (AI) Market in Manufacturing Industry to 2025 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Intelligence (AI) Market in Manufacturing Industry 2021-2025\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is ..."
-    publishedDateTime: 2021-06-24T09:28:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210624005703/worldwide-artificial-intelligence-ai-market-in-manufacturing-industry-to-2025-key-drivers-challenges-and-trends-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "pCg5uQN890UgqSZZJ7mzFiqtIbrDyRidAAx7FIfpZUVC+c8qotgdC9hNwEwiJn0p3BkC2fkrhu0HANCfrCgC6EreXyaAABa+7z945VCabAX34CbiLUiaS1LBvmy31A2HPjACZUR2pOEkZY/jkgKyrWSQ93q03nk3LfmWtzzr4KkWUX0lNu2c7ASwmg6cIgwDDFxb94v8mtAUg3D/aLswyELmololTZ+MqMYYC8A/YGKwIKRrvK7OsOceRhtNv5LsfkWwiZuWRfVFE6JY+RMWhaIH5mnzNhytXZ8nfgzsxjkusqBFJMdGZ3NEP1EcSlzcud/3wHkmFC1w6BhbXgou2IW35wtUtyKq86WnDcBsBmo=;LrUoA4/fKREE8ZkPj9YX9A=="
 ---

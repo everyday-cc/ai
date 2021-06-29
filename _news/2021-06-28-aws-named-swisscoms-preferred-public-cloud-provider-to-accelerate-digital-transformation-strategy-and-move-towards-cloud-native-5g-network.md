@@ -3,8 +3,8 @@ category: news
 title: "AWS Named Swisscom’s Preferred Public Cloud Provider to Accelerate Digital Transformation Strategy and Move Towards Cloud-Native 5G Network"
 excerpt: "(NASDAQ: AMZN), announced that Swisscom (SMI: SCMN) has selected AWS as its preferred public cloud provider for its enterprise IT. Swisscom is pursuing a cloud-first strategy and will use AWS to increase IT agility,"
 publishedDateTime: 2021-06-28T09:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4?topic=machine+learning"
-webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4?topic=machine+learning"
+originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4"
+webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4"
 type: article
 quality: 5
 heat: 5
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "4S77oLwRecblU1CdgZayRPgKTKMs7QhLmFURpPXitD03qTGv7Xz7vn7rIWA2eTeBNTaUS+RR8cnJcs1M6ayUFW1hiOoB1ixhXD8C9vM35I7wj22kymCQCtUsNZvbUZIPcI2DCy/4MA3viAfhuaavrsWewKIIhhG4MFdOLztHZ7gz2PYdpFPmk0DML6gqbntSvUl8Nzc79abqOhRJi0wRhIzJ/HbP2S4cit0twhkMqKJ29lK8rDf1F5zrMXgkKBZGrKQHzhEKnE9pMyp4lp9mvdG3qKMXpnZ3wUz1GqLQhmHzU1S41fiFA01lYybmyCO55c2ut22KMerWmMj53DMITWPvnW9LI00FIh1iGLahyaw=;dzX50m81d9IokTyLl92B+w=="
+secured: "N0QDzQCap3JOL85S75BwqfqTrQeVbJ3H0OHnqlEE4Tf7anJyiOoCi9sicoCDC0t9uaNrF4G2eNrPrB8tDZ6JSeOewxgc0fV+Tio/2w/2hyv6fyyeYEqyxoPRy8lEcX7zUqcvasvnC2+ukmX0MVxo1bmPzietx1G1D5IogjGg7yIU1LYbR7pnS5y+xOqPIehhA0NLmIhzTBTiYGKqXK2v1OKrCJrVp1wGIeWqS8onNWj6c2B/DuUOmz/x9tlweldZmb4VpDJIvWs/mArJ0uzBBNbBcOCuuTPvrhc1j9wrVx9N/qub5VaORv8fup8L6qlDTKc2nzBss7VA8KPpAREpRAuZ9a/Xa1L82zTZpwk2zC8=;PKK0ItFDFmjkngJZsCsB7A=="
 ---
 

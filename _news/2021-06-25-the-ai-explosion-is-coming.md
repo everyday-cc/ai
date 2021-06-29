@@ -83,17 +83,17 @@ related:
         isCached: true
   - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
     excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
-    publishedDateTime: 2021-06-24T11:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+    publishedDateTime: 2021-06-24T11:24:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and/article_4c6e6fd9-f34c-5ef4-9c84-1d43813f2df6.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "7P2UPXQUbiFgvNHNmPwZv5f7lyuWLQuIeReFKQW8E2JHkpRdsIyWIQN1CNT4j+lT4K66GfN5YzyTAJ31aJ5Qorvae/3fz5Djeadn+kMHRiFe0jD81KXZwYgcgrRcQNSW25psut/S+VMIzverRDMihjw9O6luIi2IPEniO7UNypTkdMra7L7YRbACNtDvtTjoNsgRAdrezcApAgNHESqWvZB2eppXs4lYRbg4Z4H37biedaNWx/fNuGRZZOWJ2Tza62kRMNRihF481uIAoGfY1UNdoH4Mm499yDbPVZ0dlbF2RuJXLS9mUK6A7PJjFcrmAzD2h59cgZ9KT4+kTBpEG9rHDMCF6uI4UpMCz2lqLck=;tkVWsvYqs6k7yfEUyt66Jg=="

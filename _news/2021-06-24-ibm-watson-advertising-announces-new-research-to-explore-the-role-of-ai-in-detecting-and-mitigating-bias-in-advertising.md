@@ -2,26 +2,26 @@
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
 excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
-publishedDateTime: 2021-06-24T11:04:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+publishedDateTime: 2021-06-24T11:24:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and/article_4c6e6fd9-f34c-5ef4-9c84-1d43813f2df6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and/article_4c6e6fd9-f34c-5ef4-9c84-1d43813f2df6.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
       domain: nasdaq.com
     quality: 49
 
-secured: "6FRNEWY6wRwOU10WqFI92yF0EQQoBZFnQ+Ia/gTOhWrByJKrD5gqu59JjDmpzyoe7qiKfzk7zHz19pXFcxz8939Cp90/zRnJm8R66syZSRJChMfHq69TxhoXRW4C7NkYfz/krRouWxf5kmRU47wyOOeYY0l0RTJl5lHrB9pY7amOiwE85rIiciBaPph2CKRdMQfx77vQ040MFvWyv7kyyiluq9W+7mibl0ZS5XIIgIyKGYqYwtnfZP9d31c/l48R2TTsDuaow8YzPjJL8+yBMmfYscqj8CTMmGUCD5GN6EQnzw6NHgv9PukvFVKN9mZ1YyKIDlc4A4EQ/+WVqs1Fkutc4uLNwmAMX9V0yUpJIlo=;/Te+2Z0GXXtmEm3egTY4kA=="
+secured: "3VVzIt3He++5BxlAOWsgFCTM3w9d1/bvozZY9rINH30Y69F41m4T8/pYTTLu4f8ryy7V6Wy1YDAPbaQepkT3VBXBLQlnHozDtgLWn2AKVrUM7NS70C6s1LlM2nUISZIcT1SX55rjSHN/Tr70rYkaWUdh78RtVTwRQXroNGVT5IRaZiqNj+Q3IUP7Bnwd/sMBeKC0fYFhNNtgbH3MrOTVgLcdiwVGVc4nBiml/42g7hxMqpxxoksSCsBWltdf12esLy2M536qt2ZHq3eYLyqNhLkJ+7pU0ZSPRuxR+xq74DewfnF66e/eU6F+ofVHoItzsEBeurIIV2AyT4VU66VQgVfvDIRmcemIAKxVhBQeojQ=;+EM/GT3QIBe8GTNdAlx6KQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/future-ai-policy-wargame-war-china-aut
 webUrl: "https://thenextweb.com/news/future-ai-policy-wargame-war-china-autonomous"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Computer Vision, Machine Learning and Artificial Intelligence in Mortgage Industry"
-    excerpt: "Mortgage industry is instigated to adopt Computer Vision, Artificial Intelligence and Machine Learning algorithms to utilise intelligent data capture technology and TF-IDF for information retrieval efficiently."
-    publishedDateTime: 2021-06-24T10:45:00Z
-    webUrl: "https://www.analyticsinsight.net/the-future-of-computer-vision-machine-learning-and-artificial-intelligence-in-mortgage-industry/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 58
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/The-Future-of-Computer-Vision-Machine-Learning-and-Artificial-Intelligencein-Mortgage-Industry.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Banking on AI: The Opportunities and Limitations of Artificial Intelligence in the Fight Against Financial Crime and Money Laundering"
     excerpt: "Financial crime has thrived during the pandemic. It seems obvious that the increase in digital banking, as people were forced to stay inside for months on end, would correlate with a sharp rise in money laundering (ML) and other nefarious activity,"
     publishedDateTime: 2021-06-25T08:31:00Z
