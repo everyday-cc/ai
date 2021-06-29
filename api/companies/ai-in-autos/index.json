@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10411904
+        "followers": 10412660
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 579,
+      "heat": 592,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1054400
+        "followers": 1054411
       },
       "yearFounded": 0,
       "locations": [
@@ -85,13 +85,63 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 321,
+      "heat": 305,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Uber",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/didi-chuxing.md",
+      "title": "Didi Chuxing",
+      "excerpt": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/didi-chuxing/index.json",
+      "webUrl": "https://everyday.cc/ai/company/didi-chuxing/",
+      "type": "profile",
+      "name": "Didi Chuxing",
+      "otherNames": [
+        "Didi Kuaidi",
+        "Didi",
+        "滴滴出行",
+        "滴滴"
+      ],
+      "overview": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
+      "website": "https://www.didiglobal.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/didi-chuxing/",
+        "followers": 0
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/didi-dache"
+      },
+      "twitter": {
+        "username": "DidiGlobal",
+        "url": "https://twitter.com/DidiGlobal",
+        "followers": 3159
+      },
+      "size": "5,001-10,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Beijing, China",
+        "海淀区, Beijing Shi"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 227,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Didi Chuxing",
           "isCached": true
         }
       ],
@@ -117,7 +167,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 73306
+        "followers": 73311
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -134,7 +184,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 200,
+      "heat": 216,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -149,6 +199,69 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1594857600&v=beta&t=Oind1GcEBma7VBWb3WzNUERBP78P-pelw0U8HIiRZj8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cruise.md",
+      "title": "Cruise",
+      "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cruise/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cruise/",
+      "type": "profile",
+      "name": "Cruise",
+      "overview": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
+      "website": "http://www.getcruise.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/getcruise/",
+        "followers": 33127
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cruise"
+      },
+      "twitter": {
+        "username": "cruise",
+        "url": "https://twitter.com/cruise",
+        "followers": 22820
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=4lYNckVMys4"
+        }
+      ],
+      "heat": 165,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1228190173243961344/WymFcFVK_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Cruise",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeMRk0ZPGOMg/company-logo_200_200/0?e=1594857600&v=beta&t=uI3Q5e06ECZMGvb_FCOmryqEYCz4WQSyxkpgLYb-Gac",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -181,7 +294,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 66785
+        "followers": 66789
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -195,7 +308,7 @@
         "AI in Autos",
         "Google AI"
       ],
-      "heat": 180,
+      "heat": 156,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
@@ -210,56 +323,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/didi-chuxing.md",
-      "title": "Didi Chuxing",
-      "excerpt": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/didi-chuxing/index.json",
-      "webUrl": "https://everyday.cc/ai/company/didi-chuxing/",
-      "type": "profile",
-      "name": "Didi Chuxing",
-      "otherNames": [
-        "Didi Kuaidi",
-        "Didi",
-        "滴滴出行",
-        "滴滴"
-      ],
-      "overview": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
-      "website": "https://www.didiglobal.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/didi-chuxing/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/didi-dache"
-      },
-      "twitter": {
-        "username": "DidiGlobal",
-        "url": "https://twitter.com/DidiGlobal",
-        "followers": 3150
-      },
-      "size": "5,001-10,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Beijing, China",
-        "海淀区, Beijing Shi"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Didi Chuxing",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -284,7 +347,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 17877
+        "followers": 17876
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -300,7 +363,7 @@
         "AI in Autos",
         "AI in Robotics"
       ],
-      "heat": 118,
+      "heat": 130,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -342,7 +405,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 5958
+        "followers": 5956
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -354,7 +417,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 108,
+      "heat": 114,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -365,232 +428,6 @@
           "height": 400,
           "title": "Argo AI",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cruise.md",
-      "title": "Cruise",
-      "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cruise/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cruise/",
-      "type": "profile",
-      "name": "Cruise",
-      "overview": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
-      "website": "http://www.getcruise.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/getcruise/",
-        "followers": 33127
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cruise"
-      },
-      "twitter": {
-        "username": "cruise",
-        "url": "https://twitter.com/cruise",
-        "followers": 22819
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=4lYNckVMys4"
-        }
-      ],
-      "heat": 108,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1228190173243961344/WymFcFVK_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Cruise",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeMRk0ZPGOMg/company-logo_200_200/0?e=1594857600&v=beta&t=uI3Q5e06ECZMGvb_FCOmryqEYCz4WQSyxkpgLYb-Gac",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/starship.xyz.md",
-      "title": "Starship Technologies",
-      "excerpt": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/starship.xyz/index.json",
-      "webUrl": "https://everyday.cc/ai/company/starship.xyz/",
-      "type": "profile",
-      "name": "Starship Technologies",
-      "overview": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
-      "website": "https://www.starship.xyz/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/starshiptechnologies/",
-        "followers": 7181
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/starship-technologies"
-      },
-      "twitter": {
-        "username": "StarshipRobots",
-        "url": "https://twitter.com/StarshipRobots",
-        "followers": 10613
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ],
-      "heat": 96,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1361342237032914947/TWWEcUbD_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Starship Technologies",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1594857600&v=beta&t=7BXWvzxajwGYusLrhXJnBwisK8JNKlwAsnakP8ngDr0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/navya.tech.md",
-      "title": "NAVYA",
-      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/navya.tech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/navya.tech/",
-      "type": "profile",
-      "name": "NAVYA",
-      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "website": "https://navya.tech",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/navya_group/",
-        "followers": 15758
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/navya-technology"
-      },
-      "twitter": {
-        "username": "NAVYA_Group",
-        "url": "https://twitter.com/NAVYA_Group",
-        "followers": 9101
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "VILLEURBANNE, Auvergne Rhône-Alpes"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
-        }
-      ],
-      "heat": 92,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "NAVYA",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/pony.ai.md",
-      "title": "Pony.ai",
-      "excerpt": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pony.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/pony.ai/",
-      "type": "profile",
-      "name": "Pony.ai",
-      "overview": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
-      "website": "https://www.pony.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/pony-ai/",
-        "followers": 7911
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/pony-ai"
-      },
-      "twitter": {
-        "username": "PonyAI_tech",
-        "url": "https://twitter.com/PonyAI_tech",
-        "followers": 1255
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Fremont, CA",
-        "Fremont, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 87,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Pony.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQETvNK0jzsxDQ/company-logo_200_200/0?e=1594857600&v=beta&t=MidEOPuGZvQhEd3gxL909WdTCA7wzg3FYtvCr9_0ejo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -615,7 +452,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 10409
+        "followers": 10408
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -635,7 +472,7 @@
           "url": "https://www.youtube.com/watch?v=4J742uB60NY"
         }
       ],
-      "heat": 82,
+      "heat": 102,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -689,7 +526,7 @@
           "url": "https://www.youtube.com/watch?v=XKXbacNQGI8"
         }
       ],
-      "heat": 82,
+      "heat": 102,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -703,211 +540,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17278
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/preferred-networks.jp.md",
-      "title": "Preferred Networks",
-      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/preferred-networks.jp/index.json",
-      "webUrl": "https://everyday.cc/ai/company/preferred-networks.jp/",
-      "type": "profile",
-      "name": "Preferred Networks",
-      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "website": "https://www.preferred-networks.jp/en/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
-        "followers": 1435
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/preferred-networks"
-      },
-      "twitter": {
-        "username": "preferrednet",
-        "url": "https://twitter.com/preferrednet",
-        "followers": 5669
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Tokyo, Japan",
-        "Chiyoda-ku, Tokyo"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
-        }
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Preferred Networks",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/voyage.auto.md",
-      "title": "Voyage",
-      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
-      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
-      "type": "profile",
-      "name": "Voyage",
-      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "website": "https://voyage.auto/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/18078448",
-        "followers": 4537
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voyage"
-      },
-      "twitter": {
-        "username": "voyage",
-        "url": "https://twitter.com/voyage",
-        "followers": 10208
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
-        }
-      ],
-      "heat": 77,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Voyage",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tusimple.ai.md",
-      "title": "TuSimple",
-      "excerpt": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tusimple.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tusimple.ai/",
-      "type": "profile",
-      "name": "TuSimple",
-      "otherNames": [
-        "图森未来"
-      ],
-      "overview": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "website": "https://www.tusimple.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/tusimple/",
-        "followers": 7150
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tusimple-llc"
-      },
-      "twitter": {
-        "username": "tusimpleai",
-        "url": "https://twitter.com/tusimpleai",
-        "followers": 3710
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Diego , CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1242299407015370752/INroGsOX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "TuSimple",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -943,7 +575,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 50,
+          "heat": 83,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
@@ -989,7 +621,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 108,
+          "heat": 114,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399695897261453314/EKSte7XG_400x400.jpg",
@@ -1025,7 +657,7 @@
         }
       ],
       "size": 26,
-      "heat": 60,
+      "heat": 99,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
@@ -1033,6 +665,414 @@
           "height": 400,
           "title": "AEYE",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aeye.ai.md",
+      "title": "AEYE",
+      "excerpt": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aeye.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aeye.ai/",
+      "type": "profile",
+      "name": "AEYE",
+      "overview": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
+      "website": "https://aeye.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aeye-inc.",
+        "followers": 2947
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aeye-inc"
+      },
+      "twitter": {
+        "username": "AEyeInc",
+        "url": "https://twitter.com/AEyeInc",
+        "followers": 1166
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Pleasanton, CA",
+        "Pleasanton, California"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=L7OeqXiQdkI"
+        }
+      ],
+      "heat": 83,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "AEYE",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tusimple.ai.md",
+      "title": "TuSimple",
+      "excerpt": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tusimple.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tusimple.ai/",
+      "type": "profile",
+      "name": "TuSimple",
+      "otherNames": [
+        "图森未来"
+      ],
+      "overview": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
+      "website": "https://www.tusimple.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tusimple/",
+        "followers": 7150
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tusimple-llc"
+      },
+      "twitter": {
+        "username": "tusimpleai",
+        "url": "https://twitter.com/tusimpleai",
+        "followers": 3711
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Diego , CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1242299407015370752/INroGsOX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "TuSimple",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aptiv.md",
+      "title": "Aptiv",
+      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aptiv/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aptiv/",
+      "type": "profile",
+      "name": "Aptiv",
+      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
+      "website": "https://www.aptiv.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aptiv"
+      },
+      "twitter": {
+        "username": "Aptiv",
+        "url": "https://twitter.com/Aptiv",
+        "followers": 17278
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aptiv",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gatik.ai.md",
+      "title": "Gatik",
+      "excerpt": "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gatik.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gatik.ai/",
+      "type": "profile",
+      "name": "Gatik",
+      "overview": "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations.",
+      "website": "http://www.gatik.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gatik_ai/",
+        "followers": 712
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gatik-ai"
+      },
+      "twitter": {
+        "username": "gatik_ai",
+        "url": "https://twitter.com/gatik_ai",
+        "followers": 680
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Palo Alto, CA",
+        "Palo Alto, California"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 65,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1258570166067032065/0toyO4-y_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Gatik",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/isee.ai.md",
+      "title": "ISEE",
+      "excerpt": "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/isee.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/isee.ai/",
+      "type": "profile",
+      "name": "ISEE",
+      "overview": "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives.",
+      "website": "https://www.isee.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/isee-ai/",
+        "followers": 529
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/isee-c0f5"
+      },
+      "twitter": {
+        "username": "isee_ai",
+        "url": "https://twitter.com/isee_ai",
+        "followers": 190
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Cambridge, MA",
+        "Cambridge, Massachusetts"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 65,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1376600738491666436/zWT9Q4o5_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ISEE",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/navya.tech.md",
+      "title": "NAVYA",
+      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/navya.tech/index.json",
+      "webUrl": "https://everyday.cc/ai/company/navya.tech/",
+      "type": "profile",
+      "name": "NAVYA",
+      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
+      "website": "https://navya.tech",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/navya_group/",
+        "followers": 15758
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/navya-technology"
+      },
+      "twitter": {
+        "username": "NAVYA_Group",
+        "url": "https://twitter.com/NAVYA_Group",
+        "followers": 9101
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "VILLEURBANNE, Auvergne Rhône-Alpes"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
+        }
+      ],
+      "heat": 65,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "NAVYA",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/preferred-networks.jp.md",
+      "title": "Preferred Networks",
+      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/preferred-networks.jp/index.json",
+      "webUrl": "https://everyday.cc/ai/company/preferred-networks.jp/",
+      "type": "profile",
+      "name": "Preferred Networks",
+      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "website": "https://www.preferred-networks.jp/en/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
+        "followers": 1435
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/preferred-networks"
+      },
+      "twitter": {
+        "username": "preferrednet",
+        "url": "https://twitter.com/preferrednet",
+        "followers": 5669
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Tokyo, Japan",
+        "Chiyoda-ku, Tokyo"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
+        }
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Preferred Networks",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zendrive.md",
+      "title": "Zendrive",
+      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zendrive/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zendrive/",
+      "type": "profile",
+      "name": "Zendrive",
+      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "website": "http://www.zendrive.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zendrive/",
+        "followers": 8236
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zendrive"
+      },
+      "twitter": {
+        "username": "zendrive",
+        "url": "https://twitter.com/zendrive",
+        "followers": 2102
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Zendrive",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1071,7 +1111,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 57,
+      "heat": 58,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -1125,7 +1165,7 @@
           "url": "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
         }
       ],
-      "heat": 57,
+      "heat": 58,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -1175,7 +1215,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 57,
+      "heat": 58,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -1198,53 +1238,171 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aeye.ai.md",
-      "title": "AEYE",
-      "excerpt": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aeye.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aeye.ai/",
+      "path": "_companies/mighty.ai.md",
+      "title": "Mighty AI",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mighty.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mighty.ai/",
       "type": "profile",
-      "name": "AEYE",
-      "overview": "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors.",
-      "website": "https://aeye.ai/",
+      "name": "Mighty AI",
+      "otherNames": [
+        "Spare5"
+      ],
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "website": "https://mighty.ai",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/aeye-inc.",
-        "followers": 2947
+        "url": "https://www.linkedin.com/company/mightyai/",
+        "followers": 2029
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aeye-inc"
+        "url": "https://www.crunchbase.com/organization/spare5"
       },
       "twitter": {
-        "username": "AEyeInc",
-        "url": "https://twitter.com/AEyeInc",
-        "followers": 1165
+        "username": "mighty_ai",
+        "url": "https://twitter.com/mighty_ai",
+        "followers": 1757
       },
-      "size": "11-50 employees",
-      "yearFounded": 2013,
+      "size": "51-200 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Pleasanton, CA",
-        "Pleasanton, California"
+        "Seattle, WA",
+        "Seattle, Washington"
       ],
+      "funding": {
+        "status": "M&A"
+      },
       "topics": [
         "AI",
         "AI in Autos"
       ],
-      "videos": [
+      "heat": 58,
+      "images": [
         {
-          "url": "https://www.youtube.com/watch?v=L7OeqXiQdkI"
+          "url": "https://pbs.twimg.com/profile_images/1029849217693405184/RWvJ3wHK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mighty AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_200_200/0?e=1594857600&v=beta&t=9Yc5quyJcAQ8vkvPIXlhOD1hIs3qUHyXygadAO8rC9E",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
-      "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/pony.ai.md",
+      "title": "Pony.ai",
+      "excerpt": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pony.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/pony.ai/",
+      "type": "profile",
+      "name": "Pony.ai",
+      "overview": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
+      "website": "https://www.pony.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/pony-ai/",
+        "followers": 7911
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/pony-ai"
+      },
+      "twitter": {
+        "username": "PonyAI_tech",
+        "url": "https://twitter.com/PonyAI_tech",
+        "followers": 1255
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Fremont, CA",
+        "Fremont, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1016791203247882240/M7FlXnlJ_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "AEYE",
+          "title": "Pony.ai",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQETvNK0jzsxDQ/company-logo_200_200/0?e=1594857600&v=beta&t=MidEOPuGZvQhEd3gxL909WdTCA7wzg3FYtvCr9_0ejo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/wayve.ai.md",
+      "title": "Wayve",
+      "excerpt": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wayve.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/wayve.ai/",
+      "type": "profile",
+      "name": "Wayve",
+      "overview": "Wayve is pioneering artificial intelligence software for self-driving cars. Our unique end-to-end machine learning approach learns to drive in new places more efficiently than competing technology. Our headquarters are in Cambridge, United Kingdom.",
+      "website": "https://wayve.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wayve-technologies/",
+        "followers": 1777
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/wayve-9739"
+      },
+      "twitter": {
+        "username": "wayve_ai",
+        "url": "https://twitter.com/wayve_ai",
+        "followers": 2451
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Cambridge, United Kingdom"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/969232018109292544/nRtAcIv0_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Wayve",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYCX2Cqc8QVA/company-logo_200_200/0?e=1594857600&v=beta&t=dM19s3wgkc5aaj2Llif0yHl9BJiizO8R1Zb-0z51yu8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1347,52 +1505,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/cognitive.ru.md",
-      "title": "Cognitive Technologies",
-      "excerpt": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cognitive.ru/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cognitive.ru/",
-      "type": "profile",
-      "name": "Cognitive Technologies",
-      "overview": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
-      "website": "https://www.cognitive.ru/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cognitive-technologies"
-      },
-      "twitter": {
-        "username": "CognitivePilot",
-        "url": "https://twitter.com/CognitivePilot",
-        "followers": 1210
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Tel Aviv-Yafo, Israel"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1250883994868158465/SlWcqB4z_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cognitive Technologies",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cortica.md",
       "title": "Cortica",
       "excerpt": "Cortica is an Israeli company founded in 2007 with leading AI technology for autonomous platforms. The company’s Autonomous AI is based upon proprietary brain research and utilizes unsupervised-learning methodologies backed by more than 200 patents. The Cortica AI understands the visual world on a human level – thereby significantly exceeding the capabilities of the industry.",
@@ -1448,157 +1560,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/drive.ai.md",
-      "title": "Drive.ai",
-      "excerpt": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/drive.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/drive.ai/",
-      "type": "profile",
-      "name": "Drive.ai",
-      "overview": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
-      "website": "https://www.drive.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/drive.ai/",
-        "followers": 10509
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/drive-ai"
-      },
-      "twitter": {
-        "username": "driveai_",
-        "url": "https://twitter.com/driveai_",
-        "followers": 9044
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=YJe8ELIU7_E"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/770501816685441024/X-rJxsyj_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Drive.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gatik.ai.md",
-      "title": "Gatik",
-      "excerpt": "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gatik.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gatik.ai/",
-      "type": "profile",
-      "name": "Gatik",
-      "overview": "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations.",
-      "website": "http://www.gatik.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gatik_ai/",
-        "followers": 712
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gatik-ai"
-      },
-      "twitter": {
-        "username": "gatik_ai",
-        "url": "https://twitter.com/gatik_ai",
-        "followers": 680
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1258570166067032065/0toyO4-y_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Gatik",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/isee.ai.md",
-      "title": "ISEE",
-      "excerpt": "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/isee.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/isee.ai/",
-      "type": "profile",
-      "name": "ISEE",
-      "overview": "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives.",
-      "website": "https://www.isee.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isee-ai/",
-        "followers": 529
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isee-c0f5"
-      },
-      "twitter": {
-        "username": "isee_ai",
-        "url": "https://twitter.com/isee_ai",
-        "followers": 190
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Cambridge, MA",
-        "Cambridge, Massachusetts"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1376600738491666436/zWT9Q4o5_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ISEE",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/kodiak.ai.md",
       "title": "Kodiak Robotics",
       "excerpt": "Kodiak Robotics is an autonomous technology company redefining the long-haul trucking industry.",
@@ -1640,6 +1601,65 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxiRCeA68X4Q/company-logo_200_200/0?e=1594857600&v=beta&t=N0l6Sg5BK9RwrHg3zOe-RkHTvwKYOhcBy1INhqclYTE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/neurala.md",
+      "title": "Neurala",
+      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/neurala/index.json",
+      "webUrl": "https://everyday.cc/ai/company/neurala/",
+      "type": "profile",
+      "name": "Neurala",
+      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "website": "https://www.neurala.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/neurala/",
+        "followers": 3462
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/neurala"
+      },
+      "twitter": {
+        "username": "neurala",
+        "url": "https://twitter.com/neurala",
+        "followers": 2072
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2006,
+      "locations": [
+        "Boston, MA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Neurala",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
           "width": 400,
           "height": 400,
           "title": "logo",

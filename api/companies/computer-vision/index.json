@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 579427
+        "followers": 579543
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -37,7 +37,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 272,
+      "heat": 334,
       "tags": [
         "Non-profit"
       ],
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 73306
+        "followers": 73311
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -89,7 +89,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 200,
+      "heat": 216,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -143,7 +143,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 147,
+      "heat": 143,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -188,7 +188,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 10160
+        "followers": 10162
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -204,7 +204,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 118,
+      "heat": 124,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
@@ -231,58 +231,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/orcam.md",
-      "title": "OrCam Technologies",
-      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/orcam/index.json",
-      "webUrl": "https://everyday.cc/ai/company/orcam/",
-      "type": "profile",
-      "name": "OrCam Technologies",
-      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "website": "https://www.orcam.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/orcam",
-        "followers": 4818
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/orcam-technologies"
-      },
-      "twitter": {
-        "username": "OrCam",
-        "url": "https://twitter.com/OrCam",
-        "followers": 10519
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Jerusalem, Jerusalem Region"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
-        }
-      ],
-      "heat": 87,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "OrCam Technologies",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/slyce.it.md",
       "title": "Slyce",
       "excerpt": "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment.",
@@ -302,7 +250,7 @@
       "twitter": {
         "username": "slyceit",
         "url": "https://twitter.com/slyceit",
-        "followers": 1294
+        "followers": 1295
       },
       "angelList": {
         "url": "https://angel.co/company/slyce"
@@ -320,7 +268,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 77,
+      "heat": 102,
       "tags": [
         "Image Recognition"
       ],
@@ -334,6 +282,62 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHoj57sto9tZQ/company-logo_200_200/0?e=1594857600&v=beta&t=tCfcFRWuvhrzWBxIhkR3vyjqjdbIwQvSR9C_dkopBIA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/intel.md",
+      "title": "Intel",
+      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/intel/index.json",
+      "webUrl": "https://everyday.cc/ai/company/intel/",
+      "type": "profile",
+      "name": "Intel",
+      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
+      "website": "https://www.intel.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/intel-corporation/",
+        "followers": 1659869
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/intel"
+      },
+      "twitter": {
+        "username": "IntelAI",
+        "url": "https://twitter.com/IntelAI",
+        "followers": 25860
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1968,
+      "locations": [
+        "Santa Clara, CA",
+        "Santa Clara, California"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ],
+      "heat": 93,
+      "tags": [
+        "Autonomous Vehicles",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Intel",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -382,7 +386,7 @@
         "AI in Healthcare",
         "Machine Learning"
       ],
-      "heat": 64,
+      "heat": 72,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
@@ -402,182 +406,69 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gumgum.md",
-      "title": "GumGum",
-      "excerpt": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gumgum/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gumgum/",
+      "path": "_companies/sensetime.md",
+      "title": "SenseTime",
+      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sensetime/",
       "type": "profile",
-      "name": "GumGum",
-      "overview": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
-      "website": "https://gumgum.com/",
+      "name": "SenseTime",
+      "otherNames": [
+        "商汤科技",
+        "商汤",
+        "Shangtang Keji"
+      ],
+      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "website": "https://www.sensetime.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/gumgum/",
-        "followers": 12380
+        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
+        "followers": 27507
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gumgum"
+        "url": "https://www.crunchbase.com/organization/sensetime"
       },
       "twitter": {
-        "username": "GumGum",
-        "url": "https://twitter.com/GumGum",
-        "followers": 3529
+        "username": "sensetime_ai",
+        "url": "https://twitter.com/sensetime_ai",
+        "followers": 1408
       },
-      "size": "201-500 employees",
-      "yearFounded": 2007,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2018,
       "locations": [
-        "Santa Monica, CA",
-        "Santa Monica, California"
+        "Hong Kong, Hong Kong"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
+        "Machine Learning",
         "Computer Vision"
       ],
       "videos": [
         {
-          "url": "https://vimeo.com/179087754",
-          "thumbnail": {
-            "url": "https://i.vimeocdn.com/video/586908314_640.jpg",
-            "width": 640,
-            "height": 360,
-            "title": "GumGum",
-            "isCached": false
-          }
+          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 64,
+      "heat": 65,
       "tags": [
+        "Facial Recognition",
         "Image Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1400120943725400065/imeNFL67_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "GumGum",
+          "title": "SenseTime",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/intel.md",
-      "title": "Intel",
-      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/intel/index.json",
-      "webUrl": "https://everyday.cc/ai/company/intel/",
-      "type": "profile",
-      "name": "Intel",
-      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "website": "https://www.intel.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/intel-corporation/",
-        "followers": 1659869
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/intel"
-      },
-      "twitter": {
-        "username": "IntelAI",
-        "url": "https://twitter.com/IntelAI",
-        "followers": 25858
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1968,
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision"
-      ],
-      "heat": 64,
-      "tags": [
-        "Autonomous Vehicles",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Intel",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrative.md",
-      "title": "Narrative",
-      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrative/index.json",
-      "webUrl": "https://everyday.cc/ai/company/narrative/",
-      "type": "profile",
-      "name": "Narrative",
-      "otherNames": [
-        "Third Dot AB",
-        "memoto",
-        "Narrative AB",
-        "Narrative Clip"
-      ],
-      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
-      "website": "http://getnarrative.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
-        "followers": 469
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative"
-      },
-      "twitter": {
-        "username": "getnarrative",
-        "url": "https://twitter.com/getnarrative",
-        "followers": 23673
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Stockholm"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 64,
-      "tags": [
-        "Image Recognition",
-        "Wearables"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Narrative",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -609,7 +500,7 @@
             "AI",
             "Computer Vision"
           ],
-          "heat": 32,
+          "heat": 41,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg",
@@ -634,7 +525,7 @@
             "Computer Vision",
             "Natural Language Processing"
           ],
-          "heat": 20,
+          "heat": 58,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
@@ -694,7 +585,7 @@
             "AI",
             "Computer Vision"
           ],
-          "heat": 64,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1400120943725400065/imeNFL67_400x400.jpg",
@@ -722,6 +613,66 @@
           "height": 400,
           "title": "Clarifai",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/enlitic.md",
+      "title": "Enlitic",
+      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
+      "webUrl": "https://everyday.cc/ai/company/enlitic/",
+      "type": "profile",
+      "name": "Enlitic",
+      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
+      "website": "https://www.enlitic.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/enlitic/",
+        "followers": 3397
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/enlitic"
+      },
+      "twitter": {
+        "username": "enlitic",
+        "url": "https://twitter.com/enlitic",
+        "followers": 4698
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Computer Vision",
+        "Natural Language Processing"
+      ],
+      "heat": 58,
+      "tags": [
+        "Image Recognition",
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Enlitic",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -834,36 +785,51 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/kairos.md",
-      "title": "Kairos AR",
-      "excerpt": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kairos/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kairos/",
+      "path": "_companies/gumgum.md",
+      "title": "GumGum",
+      "excerpt": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gumgum/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gumgum/",
       "type": "profile",
-      "name": "Kairos AR",
-      "overview": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "website": "https://www.kairos.com",
+      "name": "GumGum",
+      "overview": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
+      "website": "https://gumgum.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kairos-ar-inc-/",
-        "followers": 1759
+        "url": "https://www.linkedin.com/company/gumgum/",
+        "followers": 12380
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kairos-ar"
+        "url": "https://www.crunchbase.com/organization/gumgum"
       },
       "twitter": {
-        "username": "LoveKairos",
-        "url": "https://twitter.com/LoveKairos",
-        "followers": 4490
+        "username": "GumGum",
+        "url": "https://twitter.com/GumGum",
+        "followers": 3530
       },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
+      "size": "201-500 employees",
+      "yearFounded": 2007,
       "locations": [
-        "Miami, FL",
-        "Miami, Florida"
+        "Santa Monica, CA",
+        "Santa Monica, California"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
         "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://vimeo.com/179087754",
+          "thumbnail": {
+            "url": "https://i.vimeocdn.com/video/586908314_640.jpg",
+            "width": 640,
+            "height": 360,
+            "title": "GumGum",
+            "isCached": false
+          }
+        }
       ],
       "heat": 50,
       "tags": [
@@ -871,14 +837,14 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1400120943725400065/imeNFL67_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kairos AR",
+          "title": "GumGum",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_200_200/0?e=1594857600&v=beta&t=IqLGUTXpEX1kxuQDjgzd2EH85UuboYiYnyeizEzRPMQ",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -939,78 +905,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_200_200/0?e=1594857600&v=beta&t=HJGSbtHkQ96lltHaq5UQmJjmIj74dzicBz5Ra8ozpp8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/megvii.md",
-      "title": "Megvii",
-      "excerpt": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/megvii/index.json",
-      "webUrl": "https://everyday.cc/ai/company/megvii/",
-      "type": "profile",
-      "name": "Megvii",
-      "otherNames": [
-        "Face++",
-        "FacePlusPlus",
-        "Megvii Technology",
-        "北京旷视科技有限公司",
-        "旷视",
-        "Kuangshi Keji"
-      ],
-      "overview": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
-      "website": "http://www.megvii.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/",
-        "followers": 9533
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/megvii-technology"
-      },
-      "twitter": {
-        "username": "faceplusplus",
-        "url": "https://twitter.com/faceplusplus",
-        "followers": 880
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Beijing, China",
-        "海淀区, 北京市"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=sbsCwlkSlp0"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Megvii",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1316,7 +1210,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 32,
+      "heat": 41,
       "tags": [
         "Image Recognition",
         "Facial Recognition"
@@ -1333,36 +1227,94 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sensetime.md",
-      "title": "SenseTime",
-      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sensetime/",
+      "path": "_companies/kairos.md",
+      "title": "Kairos AR",
+      "excerpt": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kairos/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kairos/",
       "type": "profile",
-      "name": "SenseTime",
-      "otherNames": [
-        "商汤科技",
-        "商汤",
-        "Shangtang Keji"
-      ],
-      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "website": "https://www.sensetime.com/",
+      "name": "Kairos AR",
+      "overview": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
+      "website": "https://www.kairos.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
-        "followers": 27507
+        "url": "https://www.linkedin.com/company/kairos-ar-inc-/",
+        "followers": 1759
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sensetime"
+        "url": "https://www.crunchbase.com/organization/kairos-ar"
       },
       "twitter": {
-        "username": "sensetime_ai",
-        "url": "https://twitter.com/sensetime_ai",
-        "followers": 1408
+        "username": "LoveKairos",
+        "url": "https://twitter.com/LoveKairos",
+        "followers": 4490
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Miami, FL",
+        "Miami, Florida"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 41,
+      "tags": [
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kairos AR",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_200_200/0?e=1594857600&v=beta&t=IqLGUTXpEX1kxuQDjgzd2EH85UuboYiYnyeizEzRPMQ",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/megvii.md",
+      "title": "Megvii",
+      "excerpt": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/megvii/index.json",
+      "webUrl": "https://everyday.cc/ai/company/megvii/",
+      "type": "profile",
+      "name": "Megvii",
+      "otherNames": [
+        "Face++",
+        "FacePlusPlus",
+        "Megvii Technology",
+        "北京旷视科技有限公司",
+        "旷视",
+        "Kuangshi Keji"
+      ],
+      "overview": "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole.",
+      "website": "http://www.megvii.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/megvii%E6%97%B7%E8%A7%86/",
+        "followers": 9533
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/megvii-technology"
+      },
+      "twitter": {
+        "username": "faceplusplus",
+        "url": "https://twitter.com/faceplusplus",
+        "followers": 880
       },
       "size": "1,001-5,000 employees",
-      "yearFounded": 2018,
+      "yearFounded": 2011,
       "locations": [
-        "Hong Kong, Hong Kong"
+        "Beijing, China",
+        "海淀区, 北京市"
       ],
       "funding": {
         "status": "Late Stage Venture"
@@ -1374,24 +1326,24 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
+          "url": "https://www.youtube.com/watch?v=sbsCwlkSlp0"
         }
       ],
-      "heat": 32,
+      "heat": 41,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SenseTime",
+          "title": "Megvii",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1401,61 +1353,109 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
+      "path": "_companies/narrative.md",
+      "title": "Narrative",
+      "excerpt": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrative/index.json",
+      "webUrl": "https://everyday.cc/ai/company/narrative/",
       "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
+      "name": "Narrative",
+      "otherNames": [
+        "Third Dot AB",
+        "memoto",
+        "Narrative AB",
+        "Narrative Clip"
+      ],
+      "overview": "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you.",
+      "website": "http://getnarrative.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
+        "url": "https://www.linkedin.com/company/narrative-ab-narrative-clip-/",
+        "followers": 469
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
+        "url": "https://www.crunchbase.com/organization/narrative"
       },
       "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4698
+        "username": "getnarrative",
+        "url": "https://twitter.com/getnarrative",
+        "followers": 23673
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2012,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Stockholm"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
-        "Computer Vision",
-        "Natural Language Processing"
+        "Computer Vision"
       ],
-      "heat": 20,
+      "heat": 31,
       "tags": [
         "Image Recognition",
-        "Cancer"
+        "Wearables"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/378800000542288111/9f0de099c28730e017ddaf26b60a048a_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Enlitic",
+          "title": "Narrative",
           "isCached": true
-        },
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/orcam.md",
+      "title": "OrCam Technologies",
+      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/orcam/index.json",
+      "webUrl": "https://everyday.cc/ai/company/orcam/",
+      "type": "profile",
+      "name": "OrCam Technologies",
+      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
+      "website": "https://www.orcam.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/orcam",
+        "followers": 4818
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/orcam-technologies"
+      },
+      "twitter": {
+        "username": "OrCam",
+        "url": "https://twitter.com/OrCam",
+        "followers": 10519
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Jerusalem, Jerusalem Region"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "videos": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
+        }
+      ],
+      "heat": 31,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "OrCam Technologies",
+          "isCached": true
         }
       ],
       "content": "\r\n"

@@ -2,7 +2,7 @@
 name: "SparkCognition"
 overview: "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance."
 type: "profile"
-heat: 6
+heat: 65
 
 website: https://www.sparkcognition.com
 
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "SparkCognition"
 
-secured: "Vi9I+n14eXDH7amizhhvbU9aXcqZHujgVQqXuL6ZZMcf59SgSZsTV/x7HdYKwGVjQM0PUwp7wMskhTOh5EMh9RZmzlACQOrMNGZWIykwAjnkkRYx8d+XOFzbtOEZ4kW6foI0e5+cT9swO+Imav8OjtTSY7Erx6v+p/UwYJXdmrk+21XqDmzClLKmuXcegmgf2n9W35W9ryPyZopoVT9pSUh7int014pbOgPOUqiZ2xD8/3sro8dA9QmtjH7Hnqa6tPurbOpsf9qgK1fIbNQD0mC9ns7hvXH4xSm7mrs40WFlsWKgvREsoWMeOQEUfHRCe5Oi+iy4pXVIekKT2oJu2wBbzI8ZxFPzWFomf55CQPvsM0G97eYKcALBMkgM5AjZ9sOGymJIPeB57fkZA5MKJpXBBxzEueNPWXVOC8diCGY=;7MBSJY+CNKie7jomUdO7iQ=="
+secured: "HRbA19Am+nEkfvmU8xW1ssrF0Xa2hy5gV8/GeGApxjnd76dkKkuSgVmS5ELqPm4ATANRNO8InZHZ6wDTQqsnrurWpnk8oarF86SvToWbRP//09J+MU7xicaMZxBmO3s42STH498kXM19CI0DcZ/9ZL0IflkFQIj+pQ/U4dfYsr7NH7FILBCWHKF1IY+nfwmhrD5BAMCyIGiuM8x5qRtx3Ru/d7XOsRQ+YaSEbgZ1FWDw+CA+x9s/nQuL5X5dmsxNOOY0HdmV9veJpBT1Uf99iFlD6eKbC57dN3ul1ns/53qxo6lKH9AdWaMv84u8sD1vyO8I4Auazi0mjyrRUW4O0Zu8tUayhD8EldFBbgq+mEjn9np1peiGxHjeiVFwQXJoI+UjTHLck9CCcsDNzJy5v8+wVw0xT/5ppsMf8zuld60=;AqYyVeFMIxvePWC/Y3kK8A=="
 ---
 
