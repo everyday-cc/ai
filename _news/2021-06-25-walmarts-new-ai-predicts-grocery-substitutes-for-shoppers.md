@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart’s AI is getting smarter about grocery delivery"
-    excerpt: "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,"
-    publishedDateTime: 2021-06-24T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/"
-    ampWebUrl: "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.53.02-AM.png?w=680"
-        width: 680
-        height: 377
-        isCached: true
   - title: "Walmart Uses Predictive AI To Avoid E-Grocery Substitution Shame"
     excerpt: "The retail giant will offer the ability for shoppers to use artificial intelligence to more accurately fulfill orders when requested items are out of stock."
     publishedDateTime: 2021-06-25T15:30:00Z
@@ -85,20 +69,6 @@ related:
       - url: "https://retailtouchpoints.com/wp-content/uploads/2020/09/walmart-associate.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "5 Ways AI Technology is Making Our Buildings Smarter"
-    excerpt: "Smart technology has led to the most notable changes in our lifestyle. For more than a year now, millions of people have been working from home and life has been led largely online. During the pandemic,"
-    publishedDateTime: 2021-06-24T18:50:00Z
-    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Technology-is-Making-Our-Buildings-16272048.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/57/05/21164368/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Walmart enlists artificial intelligence for online grocery substitutions"
     excerpt: "Walmart is putting artificial intelligence (AI) to work in making sure customers get what they like in online grocery orders. Srini Venkatesan, executive vice president at Walmart Global Tech, said in a blog post yesterday that the company has developed AI-based technology to help its personal shoppers and customers make smarter substitutions for out-of-stock products."

@@ -37,22 +37,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
-    excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
-    publishedDateTime: 2021-06-24T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/10/First-American-PFS-Florist-Ecommerce-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "Qatar FinTech Hub preps demo day"
     excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
     publishedDateTime: 2021-06-28T14:04:00Z

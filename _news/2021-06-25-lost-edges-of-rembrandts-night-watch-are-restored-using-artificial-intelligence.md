@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-    excerpt: "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate"
-    publishedDateTime: 2021-06-24T12:19:00Z
-    webUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
-    ampWebUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 59
-    images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2021/06/9d7ff698457b4ed9aa62bd42cf9eaf1b.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Rembrandt's huge \"Night Watch\" gets bigger thanks to AI"
     excerpt: "Museum director Taco Dibbits explains how Rembrandt's biggest painting the Night Watch just got bigger with the help of artificial intelligence in Amsterdam, Netherlands, on Wednesday, June 23. Right above Dibbits,"
     publishedDateTime: 2021-06-28T02:01:00Z

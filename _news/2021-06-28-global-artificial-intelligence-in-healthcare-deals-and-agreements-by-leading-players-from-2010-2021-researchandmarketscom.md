@@ -3,8 +3,8 @@ category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
 excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
 publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+originalUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 quality: 27
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -63,6 +63,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hZsfR8DPWgAgy6BNVhSqvlLYF3/F+FvRcPwP437qlD31D4xZneXOEN48lt8cyU0/5G0A1a5rgfubv8iMbMcvaFrH5bX/ndxwnqr0EAERcelaY5FyLfTaRboNJwLdAyqR2wxrNj6IQQ/s3DfC0xr55gaYSonlnDcQhxML6sPUymVZ27b0/DmxZ9jDmTQ64qTAb+ODBWeslvuo7QsEqw3of71gC3+fYcFq3IvNNE6T0tacVt/m1Ie1eC42H2yw7h/DdcS9D39uqbtgLolp4ut9mFT1oMhKVLs50zfjVWxaDeQer1pDOGErV90Ou6d6eMHvdqtW8uHbFUxDKsr0+AnV0yQdplcgqhDhabDlY+Sca5A=;g4SELOwzWOED2Vo5RFjEvw=="
+secured: "oE+grCD25MrpxXoPN/5WqphhmdJ4qINctr4hMqczRI2rgIyM5FEnFP6TmZVcBYQMnQZVytJR3/+i983NSsKMPyvt/r4+16Bg1fXITX194GFo+z3dagws7Og2lrAOINq2lIKHqXQEUIXooSFd5c/LsccxhetQNb1hHSd9bdN69O7xLBL7YLIQD3eGxGUNgn9jYi76jMQeSR3r4WPk2pKwqzLLDvGyeNiwWegNrO3dfd1lMyMHWsc1nN4TIlWxqROemIa8/ADZRf767UkfwhrlEmRdhWbNGbiBPZTrHaX5SynSiWZqUESEh3qt1e6+mMSjWzfBNxZm08mW67lpdHFeqoMF+j+F83ND+bF36CDKtJs=;K4E552M4Z5GV4NAsOwAJgA=="
 ---
 

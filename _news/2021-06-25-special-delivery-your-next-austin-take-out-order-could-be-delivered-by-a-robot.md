@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Austin Cyclists Split On Sharing Bike Lanes With Pizza Delivery Robots"
-    excerpt: "Some Austin cyclists are not happy about the robots using bike lanes, while others are optimistic that sharing their path will lead to good things down the road."
-    publishedDateTime: 2021-06-24T12:20:00Z
-    webUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/"
-    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/"
-    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 59
-    images:
-      - url: "https://cdn.hpm.io/wp-content/uploads/2021/06/24071823/download-7.jpg"
-        width: 880
-        height: 587
-        isCached: true
   - title: "Robots Have Arrived In Austin, And They’re Delivering Pizza"
     excerpt: "In a narrow glimpse of the increasingly automated future awaiting humanity, 10 silver robots shaped like ice-cream carts are delivering Southside Flying Pizza to hungry Austinites in Travis Heights and the Central Business District."
     publishedDateTime: 2021-06-24T14:09:00Z

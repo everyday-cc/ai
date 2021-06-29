@@ -113,6 +113,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "IBM Watson Embarks On Project To Reduce Bias In Advertising"
+    excerpt: "The research will rely on IBM's open-source AI technology and use campaign performance data from the Ad Council, IBM's initial partner."
+    publishedDateTime: 2021-06-25T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/364551/ibm-watson-embarks-on-project-to-reduce-bias-in-ad.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/06/25/screen-shot-2021-06-25-at-35916-pm_zezLbll.png"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Startups using AI to tackle malaria, mental health and human trafficking take top awards, and cash, from IBM XPrize"
     excerpt: "An Israeli startup that uses artificial intelligence and other tech tools to wipe out  A digital health company focused on clinical decision support in mental health and a startup using AI to help law enforcement battle human trafficking also took home top prizes."
     publishedDateTime: 2021-06-24T19:20:00Z

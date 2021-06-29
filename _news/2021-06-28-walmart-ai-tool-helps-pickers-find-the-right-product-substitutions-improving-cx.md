@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart’s AI is getting smarter about grocery delivery"
-    excerpt: "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,"
-    publishedDateTime: 2021-06-24T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/"
-    ampWebUrl: "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.53.02-AM.png?w=680"
-        width: 680
-        height: 377
-        isCached: true
   - title: "Walmart Uses Predictive AI To Avoid E-Grocery Substitution Shame"
     excerpt: "The retail giant will offer the ability for shoppers to use artificial intelligence to more accurately fulfill orders when requested items are out of stock."
     publishedDateTime: 2021-06-25T15:30:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://www.grocerydive.com/user_media/cache/b2/ab/b2ab94966a2f1240de0604e5249a8ee9.jpg"
         width: 770
         height: 363
-        isCached: true
-  - title: "5 Ways AI Technology is Making Our Buildings Smarter"
-    excerpt: "Smart technology has led to the most notable changes in our lifestyle. For more than a year now, millions of people have been working from home and life has been led largely online. During the pandemic,"
-    publishedDateTime: 2021-06-24T18:50:00Z
-    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Technology-is-Making-Our-Buildings-16272048.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/57/05/21164368/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Walmart's new AI predicts grocery substitutes for shoppers"
     excerpt: "Big-box retailer Walmart is using artificial intelligence to aid customers and personal shoppers and better handle still-surging online demand for groceries amidst the COVID-19 pandemic."

@@ -30,22 +30,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Amazon AWS Strengthens Ties with Salesforce"
-    excerpt: "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer"
-    publishedDateTime: 2021-06-24T11:40:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 59
-    images:
-      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2021/05/Amazon-750x406-1.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
-        width: 750
-        height: 406
-        isCached: true
   - title: "AWS and Salesforce launch integration partnership"
     excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce’s SaaS-based services into solutions running on the AWS cloud."
     publishedDateTime: 2021-06-24T13:57:00Z

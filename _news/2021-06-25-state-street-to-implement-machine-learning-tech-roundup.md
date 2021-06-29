@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-ma
 cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "State Street Uses Machine Learning for Private Markets"
-    excerpt: "State Street Corporation announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s p (“Canoe”), allocators and managers in the private markets sector will have an integrated experience where traditionally onerous and manual alternative investment workflows will be automated and streamlined,"
-    publishedDateTime: 2021-06-24T12:21:00Z
-    webUrl: "https://www.tradersmagazine.com/am/state-street-uses-machine-learning-for-private-markets/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 21
   - title: "Face Mask Detection using Deep Learning: An Approach to Reduce Risk of Coronavirus Spread."
     excerpt: "Wearing a mask is among the non-pharmaceutical intervention measures that can be used to cut the primary source of SARS-CoV2 droplets expelled by an infected individual. Regardless of discourse on medical resources and diversities in masks,"
     publishedDateTime: 2021-06-27T04:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-finte
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How B2B FinTech Empowers Florists To Bloom Into New Business Models"
-    excerpt: "Curate discusses B2B FinTech taking an industry-specific approach to helping florists manage operations, supply chains and expand business models."
-    publishedDateTime: 2021-06-24T12:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/curate-florist-business-models/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/10/First-American-PFS-Florist-Ecommerce-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "University of Bristol: Bristol Robotics Laboratory hosts virtual conference to showcase cutting-edge research"
     excerpt: "The conference brings together leading robotics researchers and business leaders to explore how robotics, smart automation, AI and machine learning can benefit organisations, from start-ups to large corporations."
     publishedDateTime: 2021-06-25T06:06:00Z

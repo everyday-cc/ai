@@ -7,7 +7,7 @@ originalUrl: "https://www.wyomingnews.com/rawlinstimes/news/rembrandts-huge-nigh
 webUrl: "https://www.wyomingnews.com/rawlinstimes/news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/article_5ff83f8e-1e7a-5595-9af3-6bcdf4699c35.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI"
-    excerpt: "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate"
-    publishedDateTime: 2021-06-24T12:19:00Z
-    webUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/"
-    ampWebUrl: "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/"
-    type: article
-    provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 59
-    images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2021/06/9d7ff698457b4ed9aa62bd42cf9eaf1b.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Lost Edges of Rembrandt’s ‘Night Watch’ Are Restored Using Artificial Intelligence"
     excerpt: "Now, researchers have restored the work to its original size using A.I. As Mike Corder reports for the Associated Press (AP), experts used a combination of scanners, X-rays and 528 digital exposures to recreate and print the missing portions of the canvas during “Operation Night Watch,"
     publishedDateTime: 2021-06-25T10:30:00Z

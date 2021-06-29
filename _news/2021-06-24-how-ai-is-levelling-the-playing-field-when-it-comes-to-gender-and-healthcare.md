@@ -82,20 +82,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-    excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
-    publishedDateTime: 2021-06-24T11:24:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and/article_4c6e6fd9-f34c-5ef4-9c84-1d43813f2df6.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60a40f03131f1.image.jpg?resize=1200%2C627"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "kH0LU2nVmXeZuR4rieYHNtLI7M2Zz8bMuSpSpnlHK7SvPnI3M8LBR+I4vnpidbL1JX5bNwo1pmziQRzdIGnk4HwzVXjzg7B32EOPkavRNjuD7D42hkxSttFwH9mcGNOd4UbQCe3CUwAj0IZkzhFbhPgk9BpjZAoPHERo5zlOToUmr7wWG1GByNS1LDdNWxX4vIRXdPEeFlO71Ms8DVU2+gjV2vCFxBt/moKUNUZOPk1JzBOVvEx3pVZ55M6x3/3+uXYgkXvGlwtKXdFezaLMpFUu4R0KavrJqsvsoHlgtOWXUV1jQjd9ohy6M1F5Ti+Vv4AJntfhdczcha/3k2gQW9jF9V/2n4JXNSf/tDxAAFa9qCMY/FQJW7vySnub+3RAFQQ0MkkB4c36mAj4oqGw0KQaZRwg25dYvxzoHCy7ya4lcIjiGFS7zRrJKZJXmCYjpIyeAWDYRW6IWkC+RRK8VI5XfpZTz9PxQggk1fOAiJq7V2bR+vYLzqeT4eNt04tTht3E09ui01nzHv/NNvExbQ==;MNrpUuLtsoWeRznFTWtl2Q=="
 ---

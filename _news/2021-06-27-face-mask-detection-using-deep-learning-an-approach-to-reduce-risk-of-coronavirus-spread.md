@@ -35,15 +35,6 @@ related:
         width: 640
         height: 640
         isCached: true
-  - title: "State Street Uses Machine Learning for Private Markets"
-    excerpt: "State Street Corporation announced it will implement a cloud-based, machine learning technology to transform private markets processing and document management. Through State Street’s p (“Canoe”), allocators and managers in the private markets sector will have an integrated experience where traditionally onerous and manual alternative investment workflows will be automated and streamlined,"
-    publishedDateTime: 2021-06-24T12:21:00Z
-    webUrl: "https://www.tradersmagazine.com/am/state-street-uses-machine-learning-for-private-markets/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 21
 
 secured: "tO6sxh8MfgFaeBor490vpmuEgDe9iKHYQf/tEdYaCrNEYasnosRtREXHPrz8AOYZR5Iiz7TT3CD+pgIO8Jp/Vwn0s9qz7OVvlwruI/RN90i9bLacDar2sMQoyyoGhfKP8Be2HaEoLY5qluNRFYwlBk7FLQPvLDS00N+lQb9mSe/aTkScSnl0ZBhVFZKTNj7AvssqVldk9WZSr5tdn4Dl57m2mdZ9bPSKDW5244DpsVJ/cGvhXZVWvgITHX49R594/E76mq7EDCxPZHiNXqM3pov1W73/PxKMNQZgwlEDX3qrKqUAkxnsf4BHeYRI15T2Rekb84A7FJuutdhy2nnGpD4BHhdqnLgScPcwBQx3lHc=;75OXRYhdVD4YY0yaVHFtNg=="
 ---

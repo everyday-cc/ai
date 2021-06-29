@@ -54,15 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Tegria Acquires KenSci to Help Healthcare Organizations Derive New Insights from Data"
-    excerpt: "Tegria today announced the acquisition of KenSci, a leader in artificial intelligence platforms and applications for healthcare, with roots in Microsoft's Azure4Research program and"
-    publishedDateTime: 2021-06-24T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/tegria-acquires-kensci-to-help-healthcare-organizations-derive-new-insights-from-data/article_b74f9345-edb8-57ac-8463-423ce6e57aa3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
 
 secured: "J7iUG+ttJuvDzUnT5diW+wigpcoVGkrPM6uL990kPNLRJ9sX+O4zkXpSgjjHGHJ6F8ETBfd8NTO9I0BycovvrmW+GoecZZ8Jsb0BaKJHPCdsZQSFlX4PVUOfrTrDWIJ0CwB9kzLS2RRUtHkcmNAil3KYtigVgAc7CdxSbTE6c1tPCMUgMwvHVnpwNR+sXR+j0lA+75nk54YSCQ/3JDBTvtHJk2uf7Pc6kqlOtSUnKYcmggR+VvQKSdnpmgd1rlQZyiuVT7ln3HGHRiW0x0BiUZiBkKBL2+b1ojxs66p9jbn5arqc4+H3MmDSOwytFOnhJU6LsW/4yBwE3L9OmsxD7obJ+gGnoW9e4OfQ3elRMtE=;VE5mHK2EgSfOZgOU9kne3A=="
 ---

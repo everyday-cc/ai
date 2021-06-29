@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Austin Cyclists Split On Sharing Bike Lanes With Pizza Delivery Robots"
-    excerpt: "Some Austin cyclists are not happy about the robots using bike lanes, while others are optimistic that sharing their path will lead to good things down the road."
-    publishedDateTime: 2021-06-24T12:20:00Z
-    webUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/"
-    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/"
-    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/transportation/2021/06/24/401460/austin-cyclists-split-on-sharing-bike-lanes-with-pizza-delivery-robots/amp/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 59
-    images:
-      - url: "https://cdn.hpm.io/wp-content/uploads/2021/06/24071823/download-7.jpg"
-        width: 880
-        height: 587
-        isCached: true
   - title: "Special delivery: Your next Austin take-out order could be delivered by a robot"
     excerpt: "Refraction AI, which makes AI-powered delivery robots, is operating a fleet of 10 robots in the South Congress area to deliver take-out and groceries."
     publishedDateTime: 2021-06-25T14:00:00Z
