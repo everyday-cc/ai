@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Students from SP Jain’s inaugural Bachelor of Data Science cohort secure jobs in Australia, India and Vietnam"
-excerpt: "The inaugural cohort of SP Jain School of Global Management’s Bachelor of Data Science (BDS) program has had excellent placement outcomes validating the skills shortage in this fast-growing field. The School reported that over 80 per cent of the students who stayed back in Australia upon completing their course requirements have found Australian jobs."
-publishedDateTime: 2021-06-29T03:51:00Z
-originalUrl: "https://theprint.in/ani-press-releases/students-from-sp-jains-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam/686317/"
-webUrl: "https://theprint.in/ani-press-releases/students-from-sp-jains-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam/686317/"
-ampWebUrl: "https://theprint.in/ani-press-releases/students-from-sp-jains-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam/686317/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/students-from-sp-jains-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam/686317/?amp"
+title: "Students from SP Jain's inaugural Bachelor of Data Science cohort secure jobs in Australia, India and Vietnam"
+excerpt: "The inaugural cohort of SP Jain School of Global Management's Bachelor of Data Science (BDS) program has had excellent placement outcomes validating the skills shortage in this"
+publishedDateTime: 2021-06-29T06:01:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/students-from-sp-jain-s-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam-121062900593_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/students-from-sp-jain-s-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam-121062900593_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/students-from-sp-jain-s-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam-121062900593_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/students-from-sp-jain-s-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam-121062900593_1.html"
 type: article
 quality: 40
 heat: 40
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2021/06/students-from-sp-jains-inaugural-bachelor-of-data-science-cohort-secure-jobs-in-australia-india-and-vietnam.jpg"
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/20210629095107.jpg"
     width: 600
     height: 450
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: businesswireindia.com
     quality: 0
 
-secured: "Q3dzgYKbgP/y4LQracs2Pe/4iTnB5buyPOzTjgcrdavCH1uRzF3n5TYuz/mf7mt0U5+ssXX0yoObadgPpx6tnlnyZXjYBbQcXRfdFx0SYLF0r25A2n6C744rfdwAgDdyYXDPQcc17zLuFdFqlqrUb487l2Q9gkn2xCwlVr1gndHHMBLIREv1iv4x/b+hrV1sHn6mzfZBFLN/L5qBOF7KKhihiscG08N22gci8NBRt5NFoiaVrUyscutRoEkvhSiZbaOGWd+LRXRQDfAN8JNhK4Daf06kXVAFmjIHMcAfBFhLgK76N3so4yxVzpZ7/QbFS+g9BG+ii76loEilBo0vfaFGSmxdh6AiRlb1PtDbuaQ=;qHAh64YNbZljs8w1N9IuFg=="
+secured: "wvd4rKMPiFLrfdPDRXg1Dq0cnmrylNQ2qPzXhbtpgWh0esd/uL80HGAQzumbxDqo9WfQJYODddLt5KlGgId2BWRtUyV3w8bKCVIw5upA0MpH2fQiX/oNKM7m2oH/WD+nX4jTMtaDS1UkSkJRY5bNy2b/crcqWhaWK5iXE+JYodXRsU1AeoLI7KzMBmCQPhzsn6VxEYfTvtSw3kdCuQXQfT2ecMlY+9qsb23pUOSPgZ8NbN1uXqSEnodGhX8bPetE2kHzuebuXNyFeOYKkjfeKLXNdETBHYdh0aXgR1DmioJIWjdBvIAToka63LV5dJk7FSgeb0IGucFXdPaSugI/R8hCpDbvVKHwYKZox9K20VY=;OKRY4Tqf8zTrMHtyPXFyWw=="
 ---
 

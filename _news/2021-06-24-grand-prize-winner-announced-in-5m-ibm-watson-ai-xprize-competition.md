@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Grand Prize Winner Announced in $5M IBM Watson AI XPRIZE Competition"
-excerpt: "and IBM Watson, IBM’s AI technology for business, today announced the Grand Prize Winner in the $5M IBM Watson AI XPRIZE Challenge. First launched in 2016, the five-year global competition ..."
-publishedDateTime: 2021-06-24T09:12:00Z
-originalUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
-webUrl: "https://www.businesswireindia.com/grand-prize-winner-announced-in-usd5m-ibm-watson-ai-xprize-competition-73669.html"
+excerpt: "XPRIZE, the world’s leader in designing and operating incentive competitions to solve humanity’s grand challenges, and IBM Watson, IBM’s AI technology"
+publishedDateTime: 2021-06-23T21:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
+webUrl: "https://www.businesswire.com/news/home/20210623005848/en/Grand-Prize-Winner-Announced-in-5M-IBM-Watson-AI-XPRIZE-Competition"
 type: article
 
 provider:
   name: Business Wire
-  domain: businesswireindia.com
+  domain: businesswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "scWlQlrGM7FLyBhbN8xtF8VOwCxE8ZLOPSTs6urWCQr72ppn5SmFtvD0heCUHUepn7A03v5+EAH51+ywqfxeWpBK3pCnLTpcTq1v2wB/9yK0rINhwBLh828FLPHXMFLoYvl3s7e1Fs8XxbHedpQSn5xlVZirk5FQikxDf6IT/OTIfirQqvfCRMRXuBXiLYJtjqCD7Md8k62jdEbfQ9c0k1ZlDGoAUYu5H6bXQdBwJm2BmuTX1vu5o5xNxooNFz1a2rx44/NyphR0TLP/upOBPSX2b733QD/0BLtvpes+P6R1YaX76w9/YgmapSn0PQPsSMwN2SgACbhV9nzjarODMC2QEKfLLAlg7NiLwpg4WDU=;5annihBIc0BXZll8CzXCBA=="
+secured: "TFMz8d/1+4G4gk2FOJZ/COa/3J3+VNgI8Yt0GpNqpi1mhSPulCpj0CJYOnLrpj8ZvbyIVxsy5zYGjBDrElGr8TogX+nEnLdbWz6nVs4iMNuIyUKYs7aM9odX5Cxl2ycScI/KFGO2qrL+Ns3OKx9x3xOIdnTZMz1hBB01nPdKvCeLwRyzizu88O8FGgUh4wi8n3W97XIgbjSuvqa1b2QuEFm3+DuBTp4QCMG3t1U5a8XJoQlE0lxVUrjXuMo42/UXDisnKmq0EVsNekvGy/lUzWqG67JwyQHqboRg8acYpVKYxW8F2vS3Ucjr8tgyEevp25Cnqejw1Spf3YYQzSi0cwMSzmCuBNYbRoe33M21G8s=;H+0SLncb+Rg1P+xk6P4/DQ=="
 ---
 

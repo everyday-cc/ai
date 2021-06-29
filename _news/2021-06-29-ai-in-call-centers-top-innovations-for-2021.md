@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-29T05:18:00Z
 originalUrl: "https://customerthink.com/ai-in-call-centers-top-innovations-for-2021/"
 webUrl: "https://customerthink.com/ai-in-call-centers-top-innovations-for-2021/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-166139079-ctmedia.jpg"

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm Snapdragon 888+ Mobile Chipset Announced; Gets Overclocked CPU And GPU"
+    excerpt: "Qualcomm has officially launched its newest flagship mobile processor -- the Snapdragon 888+ SoC, which comes with an overclocked primary CPU core with up to 3GHz clock speed and several other performance improvements,"
+    publishedDateTime: 2021-06-29T07:18:00Z
+    webUrl: "https://www.gizbot.com/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 70
+    images:
+      - url: "https://www.gizbot.com/img/2021/06/qualcomm-snapdragon-888-plus-1624950750.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Qualcomm's New Snapdragon 888+ Chip Cranks 3GHz And Big AI Gains For Flagship 5G Phones"
     excerpt: "This time around, the prime Kryo CPU core is clocked at up to 3GHz (2.995GHz to be exact), compared to 2.84GHz."
     publishedDateTime: 2021-06-28T13:18:00Z

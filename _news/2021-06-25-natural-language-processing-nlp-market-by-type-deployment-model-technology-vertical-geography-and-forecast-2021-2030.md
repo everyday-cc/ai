@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-by-type-deployment-model-technology-vertical-geography-and-forecast-2021-2030-2021-06-25"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Machine Learning as a Service (MLaaS) Market By Service, Component, Organization Size, Enterprise Application, Geography and Forecast 2021-2030"
-    excerpt: "Acumen Research and Consulting has announced the addition of the \"Global Machine Learning as a Service (MLaaS) Market : Global Industry Size, Share, Trends and Forecast, 2021-2030\" report to their offering."
-    publishedDateTime: 2021-06-24T14:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-service-component-organization-size-enterprise-application-geography-and-forecast-2021-2030-2021-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6DwlZ2H+FM5UnkewMCe/1pJhv1dxQyD4NQFqNOD0aPg9LBwDKWJhHj5OOvrov+jtH4NfKT5F6gHglUpcyMF8kUHPOjAAgl5iThrPMie5Z9yyGaCTynj9HveBqNXwAIPk6L8l+Kts/zCZOLAbf+eCmh2w8RMYGQ4/v6b6GyPQVbz6AWCSSbD2gphudxuTQdetdFiFEckQy1MluYrnU+4YHS5VXYBFEqSPM6pH2wscvKqzRVyufUM7EyxW6q0S7VmDteej3V/ah0eAYCbiLqN2d6ENz65cFLZcWu/WpGcOG4OOydXxjF1P5E5MWfgWMpleeqGIIwzH2s60EJnbBOX85P8E+PApepBTYNJurD38Np4=;fCw+WiPBtW2wXO0JpUh3Vg=="
 ---

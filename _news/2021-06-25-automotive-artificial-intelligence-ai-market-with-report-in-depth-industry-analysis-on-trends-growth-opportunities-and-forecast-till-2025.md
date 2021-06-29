@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Modular Robotics Market Provides Detailed Insight by Trends, Challenges, Opportunities, and Competitive Analysis"
-    excerpt: "From 9 32 trillion in 2009 the manufacturing output value added rose sharply to 13 672 trillion in 2019 as per the World Bank This reflects both the burgeoning demand for every type of product on account of the booming"
-    publishedDateTime: 2021-06-24T14:07:00Z
-    webUrl: "https://www.openpr.com/news/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313241/modular-robotics-market-provides-detailed-insight-by-trends"
+  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
+    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
+    publishedDateTime: 2021-06-27T15:05:00Z
+    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 68
+    quality: 33
     images:
-      - url: "https://cdn.openpr.com/U/6/U624416484_g.jpg"
-        width: 800
-        height: 464
+      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
+        width: 665
+        height: 435
         isCached: true
 
 secured: "07TzYZ4iYh+PcJnz3EmNB0CBUOkGRxyhnIWcoivnaRnMID1pfe1Wm2auGDqBhOLzpIS3VtZrXKqNMccz9nV1lSevxUGJkFoO6mjSiiVy2w/Myb/ejM5B/zv0ck4Hj+MXuhzsDsrPRLZDH29GIlNqDRfLDNzM6Dke3myHqsHHOMwBBomYXkpuOXu3iRb9dGjx87diUwkuqyIbhnxFbiD9WZiZWeS/BJhjgf2gDRzoXlqVz1XE1tzGXqZYt+xJ0JiDQSdw33CNjrhcyqABvZF5DSY+B6gtAOCLMkHcVwfy9q/2wqyd/shjikezqfmq3w6xmabPifjUBXrrh0KIVC6/26uCl+Q2Zmj32poHgj8YLDY=;Apza6cfbrZwcIelMIuLATA=="

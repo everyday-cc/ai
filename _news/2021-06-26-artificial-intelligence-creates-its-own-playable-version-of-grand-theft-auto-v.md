@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/artificial-intelligence-creates-
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-creates-its-own-playable-version-of-grand-theft-auto-v/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 619
     isCached: true
-
-related:
-  - title: "Automation Group Creates AI Strategy Board"
-    excerpt: "The A3 in Ann Arbor has created a new AI Technology Strategy Board comprised of leading experts to promote education and adoption."
-    publishedDateTime: 2021-06-28T15:48:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/automation-group-creates-ai-strategy-board/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 37
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/06/Automation-800.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "vyCaPKin7DSo/uTbPWINVK5FdpaYJOzskn34+cb8zFwRn7BqPX8HUC6bFDBNchSIkRv9v2NkZ4NKa8OAiHZ+/p9cY+bS0v73jXehFNeyzvmtIK4kP61Rf2S7qf1Wv7FvmAx0S5JPVVlxcz0KI0mk0Gfhuc5+L71GulmjQH5eWZNDdnOuzFTiPNb/s0YuCsL10Uzg4/Xsky3sojAOAWFTp0Du/jncd+7rpHr8RKUAakYa2noPouyybpfLfO8ZngPT+lpBxJces7meGpaKf5XWqcnVjdpgFS+2SBotBh8KwhsoBRWwYf5/tU7am08Z661Lt0++wSsjogo3iDqdQ/Gov1HOaUsf/9UmUIGQACce3PA4VNiLrom2AbSMjEaEOOaWMuf1IoyZz4jwQR7k8hayHyNA9HPt3BBS+7FpNnyWy7kY8VHwCp0joDoMElrsPfLTyPGvCDCuiL4k0Gxa+dz4dsdyp2I+mlZAr8d+mZWYVCMVvSQKiAdcVj6BizsUW9LR4SG6q+k1owS6QsG2MNJwUw==;G6BO1ld+X/yQMLagb8xERQ=="
 ---

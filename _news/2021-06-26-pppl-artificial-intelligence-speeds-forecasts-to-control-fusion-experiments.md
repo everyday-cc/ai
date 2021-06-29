@@ -43,20 +43,6 @@ related:
         width: 406
         height: 275
         isCached: true
-  - title: "Artificial intelligence speeds forecasts to control fusion experiments"
-    excerpt: "Machine learning, a technique used in the artificial intelligence (AI) software behind self-driving cars and digital assistants, now enables"
-    publishedDateTime: 2021-06-24T14:50:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-speeds-forecasts-to-584460/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.pppl.gov/sites/pppl/files/styles/highlighted-related-image/public/article/highlighted-related-image/300%20Boyer_MachineLearning.png?itok=bXx2Lrag&#038;qv7q7j"
-        width: 406
-        height: 275
-        isCached: true
 
 secured: "rOJ0LL7nMn9NUxGKBP9BVXKlJFBHfrPx6kfiA8IarpOiHhkB0tyCG689mfc2nK0Yfl6JrilXUITo2MrBjnz/sbeS+lO5eN/BBkrJXjAaZ0wHVgOqAU8PwKSdefCztg2P7lvOX+CH/IMCqMLBfYQTB5bujRBO/JZnLLSXIevM0Ncyydh9mWZOQQ7kqPoC+yIDWSBugfzX0GUElpbyRxdmNp+LWnMEZpFu/ScPq6PR9W+t7n+LZjNeFzg0G9lFMrLUPho2CGFo4uNHvXjSsRK37+sZRH3umGxFi5S5jvdBoctKanhJszArrsU3TSXP3WdyVwD0MZCbQ94AInrjCLuKiRMW8rIzaTP7sr0ZEqHM9I4lu8wcFnthETQr7o+d5GdSD1m9X9ApLRNkdpMT+DPeEM4AwSqFI3fgjr+3y3SzkWsfrm17D0PdInltozchrh7LccDruTK1avdSVTp1BHwCjb0LNRCk/WmdqYT7vDS8Y+Gcj8aafJ7jK3e2VQTjlLgSIINApZptkfmFJfEP8bcuig==;ZbEEAo3bHcrHcG9DT/PJuQ=="
 ---

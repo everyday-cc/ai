@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt.jpg"
         width: 850
         height: 519
-        isCached: true
-  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
-    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
-    publishedDateTime: 2021-06-24T13:16:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 51
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "The AI Explosion is Coming"
     excerpt: "But what’s coming this decade will be even more extraordinary. On that note, here’s our hypergrowth and technology expert, Luke Lango: Make no mistake. This decades-in-the-making “ AI Revolution ” is just getting"

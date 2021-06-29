@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com"
+    excerpt: "ResearchAndMarkets.com Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com The “Growth Opportunities in AI, Deep Learning, and Embedded Device Security” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-06-29T06:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-6e856ebc135348bf897917d8eaaf9a4b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
     excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
     publishedDateTime: 2021-06-28T11:20:00Z

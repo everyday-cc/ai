@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/these-cute-robots-deliver-pizza-across
 webUrl: "https://thenextweb.com/news/these-cute-robots-deliver-pizza-across-austin-texas-syndication"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/23/NAAS/234502da-4d06-487d-b6bd-95c5840b01df-RBB_Robot_delivery_034086.jpg?auto=webp&crop=1999,1125,x0,y97&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Robots Have Arrived In Austin, And They’re Delivering Pizza"
-    excerpt: "In a narrow glimpse of the increasingly automated future awaiting humanity, 10 silver robots shaped like ice-cream carts are delivering Southside Flying Pizza to hungry Austinites in Travis Heights and the Central Business District."
-    publishedDateTime: 2021-06-24T14:09:00Z
-    webUrl: "https://www.texasstandard.org/stories/robots-have-arrived-in-austin-and-theyre-delivering-pizza/"
-    type: article
-    provider:
-      name: Texas Standard
-      domain: texasstandard.org
-    quality: 39
-    images:
-      - url: "https://www.texasstandard.org/wp-content/uploads/2021/06/austin_bikes_robots-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "fdIYk9U2kmItaz2+5ZyBD4Gfe17oB+uQG4tb1sRc81fCJ0pwwDJ+oIQqplgLrbq/VYybTtjHvm6Hjp2TB9uIcqAyVBiWcgu5YU3+ES0wWw7Zdcty3+3MjeFVWCiopX1as1kx1ZAU9RS4YpedFmBJDmzmf4bSDV7qEO4umN4vOTjF/u7hmpkm8QCTFrJ8fXHywYMwxkVVaa8lZMKiaTG+7gk1bEI+VjlUY870Bo/R1SwSAwl8IiTIurmHRsB3LnL/caSZYLLVtt9RH+h3xRP+N/7r8Rn/GhxP0yTLHV2clS8Rp2RGRBq9WTac3SxmtP0HR3tcYM9p/tcep3eLYgzVh2oFKU5RltysVyErSVBxorgDbh99e6xMYlQozbgthIfxiMQQY4QVYKN8PhOipdRlcdfrENmFEPNDZ+yFzpAXHZ6Lnv3gGN9DW7gHGqpHAmLserOOTZ+rV61tFq8zxtaHgXSBvGuhvcJlHez8xdJC6aVHwprL0Uo+/dURlYpmohHj08MV/hp98HrkXV7ZQqEqSQ==;AkELlMPX+B25QjLUsMzCWw=="

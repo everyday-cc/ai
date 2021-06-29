@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The world of Fintech jobs"
-    excerpt: "Among the popular jobs in fintech we are recognising are analysts and technical support engineers. These include programmers, Java developers and system/software engineers. Marketing and asset managers looking for investors are also key,"
-    publishedDateTime: 2021-06-24T14:38:00Z
-    webUrl: "https://jerseyeveningpost.com/news/business/2021/06/24/the-world-of-fintech-jobs/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 24
-    images:
-      - url: "https://jerseyeveningpost.com/resizer/YRq00TcjgC4kfKOWW48YdVQ8ntU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/42EDBNDLZJHO5IFFSAFCMFETVM.jpg"
-        width: 1200
-        height: 1380
-        isCached: true
   - title: "Fintech benefits consumers and intermediaries"
     excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
     publishedDateTime: 2021-06-28T10:59:00Z
@@ -56,6 +42,20 @@ related:
       - url: "https://biz-file.com/c/2106/616382.jpg?2"
         width: 639
         height: 503
+        isCached: true
+  - title: "Top 5 Fintech Cities in the USA"
+    excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
+    publishedDateTime: 2021-06-29T07:00:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/top-5-fintech-cities-in-the-usa/46318/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
+        width: 2048
+        height: 1136
         isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"

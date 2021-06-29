@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/270092660/machine-learning-in-
 webUrl: "https://www.bignewsnetwork.com/news/270092660/machine-learning-in-iot-market-to-see-huge-growth-by-2026--microsoft-ibm-google-bigml"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.openpr.com/U/6/U625924287_g.jpg"
         width: 640
         height: 400
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market to See Booming Growth with Avaamo, Google, Microsoft"
-    excerpt: "AI in banking refers to the development of operating banking operations by highly automatic techniques. Banking industries particularly applying artificial intelligence to offer personalized banking,"
-    publishedDateTime: 2021-06-24T13:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-to-see-booming-growth-with-avaamo-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 44
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/3a7ac440a23bb569779cd2de162d8de81db17bd8-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "cgO/Z4bQLF3fMEnaVHRTYpRNPrR3DbA/X9BUDTgrTNGMG24pmzYlm1PhtDYBMzeJbYNB1r1j/mMX9yWhDcBL/qDODqMD+2RICm84c/SsPhMZ3a6DNtVSYoxCCLVJY0sPikvTOnqRozh+lwZ9uDPrislFqEX+9ma8PHfqfWFO5A5JBg8k7cbzAkMIXJzidC7S1XeMCVl36z/VS/34eVzO0mj3SgndtdXnnGfIuP8b9bvd1DScVvDIxmttUuOn6yxLDohtN7VQiJmz/U7m72itcCByBXxepRzKSkcGv8RruzyrIOPYFGBwsA4A/TAV27BR8rA/zFz2vmaODjWBq/z0Oh22CTwZmeHSCYnDJErJoxA=;dgE/nrt5SSS0euzoWh6j6g=="

@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Health/20210628/3778666
 webUrl: "https://news.webindia123.com/news/Articles/Health/20210628/3778666.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics"
+    publishedDateTime: 2021-06-28T12:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/maximise-benefits-of-ai-for-health-minimise-risks-who"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/63a85dd6735270f10a5cb0b17b285dfd-3.jpg"
+        width: 400
+        height: 231
+        isCached: true
 
 secured: "LuZqX6s54/ZzkVjVICfKCYWQbzfwv/eW+Jiwe9RyKgQKc1OC1Q7r1Yf5k5ZE59Oo2GVrKHJIFDu/499l8/e3S6xyd3kKPaeK2zR/oRbJsvl3KQTMnAmRwFQQerdkyWYXvH1T/b45osCi5y+q+jTZV/3FsUP3dY1zAdEm8d7otySV2eS0t7HRzQLNUjj204He5nsjqzPsYhHw3hRqZ+XbjCxNF4G1XiWyfuXjTxQ+czazFYOgymTG9RQt6IWTntcQvlmwo+J668QRcz12zchy3Pp5fQSnOCw7tHqk3ASsdUsVn/xXGV3/JufuGp8hXBwTH5gvLIFiLDB1DXkqj2vu0/LTlxYknv+RIDQPtUvyp5A=;W+hEHpzZBlsXASMH87WPgg=="
 ---

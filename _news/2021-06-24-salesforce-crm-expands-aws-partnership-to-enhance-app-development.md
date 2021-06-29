@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/salesforce-crm-expands-aws-partnersh
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/salesforce-crm-expands-aws-partnership-to-enhance-app-development-2021-06-24?amp"
 type: article
 quality: 101
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -22,31 +22,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "AWS and Salesforce launch integration partnership"
-    excerpt: "Amazon Web Services (AWS) and Salesforce have extended their partnership with code integrations that enable developers to integrate their services more efficiently. The two companies have tied data and workflows from Salesforce’s SaaS-based services into solutions running on the AWS cloud."
-    publishedDateTime: 2021-06-24T13:57:00Z
-    webUrl: "https://www.techcentral.ie/aws-and-salesforce-launch-integration-partnership/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/05/AWS_Dennis.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Salesforce declares AWS partnership to enable intelligent applications"
-    excerpt: "Salesforce and Amazon Web Services have declared a ‘strategic partnership’ that is claimed to enable the easier creation of artificial intelligence-infused applications."
-    publishedDateTime: 2021-06-24T14:58:00Z
-    webUrl: "https://www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications"
-    ampWebUrl: "https://www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252502973/Salesforce-declares-AWS-partnership-to-enable-intelligent-applications?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "AWS and Salesforce expand partnership for product integration"
     excerpt: "Amazon Web Services and Salesforce have expanded their global strategic partnership with a focus on streamlining integration between products from the two companies."
     publishedDateTime: 2021-06-25T03:55:00Z

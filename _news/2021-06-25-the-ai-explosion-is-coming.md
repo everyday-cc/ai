@@ -67,20 +67,6 @@ related:
         width: 850
         height: 519
         isCached: true
-  - title: "How AI is levelling the playing field when it comes to gender and healthcare"
-    excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
-    publishedDateTime: 2021-06-24T13:16:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-levelling-gender-and-healthcare/113871/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 51
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/06/dreamstime_xl_85214524-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "7P2UPXQUbiFgvNHNmPwZv5f7lyuWLQuIeReFKQW8E2JHkpRdsIyWIQN1CNT4j+lT4K66GfN5YzyTAJ31aJ5Qorvae/3fz5Djeadn+kMHRiFe0jD81KXZwYgcgrRcQNSW25psut/S+VMIzverRDMihjw9O6luIi2IPEniO7UNypTkdMra7L7YRbACNtDvtTjoNsgRAdrezcApAgNHESqWvZB2eppXs4lYRbg4Z4H37biedaNWx/fNuGRZZOWJ2Tza62kRMNRihF481uIAoGfY1UNdoH4Mm499yDbPVZ0dlbF2RuJXLS9mUK6A7PJjFcrmAzD2h59cgZ9KT4+kTBpEG9rHDMCF6uI4UpMCz2lqLck=;tkVWsvYqs6k7yfEUyt66Jg=="
 ---

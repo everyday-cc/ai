@@ -25,20 +25,20 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-    excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to the"
-    publishedDateTime: 2021-06-29T01:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio/article_f4068c0b-2256-52e6-b5b8-dfa09b7d1234.html"
+    excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
+    publishedDateTime: 2021-06-29T01:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 42
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/99/f993a8a3-a989-5a41-a81d-372ee04d25fc/60da7b7987aad.image.jpg?resize=1200%2C585"
-        width: 1200
-        height: 585
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
-secured: "JYx6RAKnhXzQ6yuOfPkBnYoLZp9j1gLAZw/Yjp2pSebbOBlr9KjyXPGA9LaQeA4dHLxpo2I/+TiU37/1X0URLwo81lVD0+H8YziBCj4vzd274QSm686A2zgN8bfJPRkTxHlq5zzkwuzLaemFAZyKnFktM8RUtisz8c/tslRFEoATufbeNFbpeXyblawO9G3JnflhUTy5CeRnmr3svDodW3Ziaq+KaHRkTzLrmEZ1E0954P4w4kVuEYVuRo87uyCl8xfUYDDFs3UiYhwudg0hErzROz5K7/dovAX6WvZg/LuxH4bvTPs4U4TB6is9j1PHhAw54j9ntp35PhP0w8LE34J/YYC831DB0rUfEC7Jpxk=;SsTkSzgF744RDlBede8EaQ=="
+secured: "o76LI599mZb1KX0KzGtBMNkdcPVQO7otiSOWk6Cdth7Pg+JW2pxp7dU1LxOyYLI3KjG83nLmF88qrpBGbwTZRtc9/MjQbJ7ROSMxhDcnrM3/aKwidbUfzEq6ZuCFDZYFAaG9Q9uSesXWhDxJ6fNEc9niKK6ft+6Y/EcpMzWgaYYtsI9eDbsDlE1bnOlT5fi+iXu3wMj3c9HIh27FLN+9w+5i2wVCfh4Lgm0BKT0+5AcIbzeppBdyGHwu3cf48Vi0Uz94AE8y6/pnuBQRDlUKWaXGg4gRzeHj964F+k7vTdfGQiC4uoyq3EEeuazpUE2W583bVm3WybMfxXl+JPV1XGFB37HIn2vzFSEznZP9oK2P+5eJtlcOpVw+zXUDGG+2H/dgT+kbguSq5wbHzXNBf1tVdUk12kZc7sdg+h/ZTvZeSRhoSU4BdEXcFjoxZTEpQjTlagJelxS2EZtj37Kjm3T0wpMo8FMmN0AM0oFPqpUv46GdNATtTX2N541LUrlSVfRx/Ee0b4O8euBdvIHwiA==;d0UBm301AXpwCNg0RFaXUQ=="
 ---
 

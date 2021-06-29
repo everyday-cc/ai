@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Virtana Migrate Delivers 3x Faster Cloud Migration to AWS"
-excerpt: "Virtana, the AIOps observability company for hybrid cloud, announces the momentum of Virtana Platform, with successful customer and partner use cases for"
-publishedDateTime: 2021-06-28T13:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/virtana-migrate-delivers-3x-faster-cloud-migration-to-aws/article_c79c0c74-8524-58d9-9ccc-a395876d246b.html"
+excerpt: "The Virtana Migrate module within Virtana Platform brought the insight this insurance company needed to rightsize, de-risk, and accelerate their migration. The company leveraged Virtana Migrate to optimize and right-size workloads for migration,"
+publishedDateTime: 2021-06-28T13:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398790.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398790.htm"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/03/f03f332d-513b-51a1-a054-036cd721ca33/6050c91088e37.image.jpg?resize=864%2C288"
-    width: 864
-    height: 288
+  - url: "https://mma.prnewswire.com/media/1552810/Virtana_AWS_Migration.jpg"
+    width: 400
+    height: 246
     isCached: true
 
-secured: "VyugIVPXb0pOSWDyXRrJz2LvuUFByR9nR49VdIXpOFWyDjmCZD8FzRuG7c0oQJmkbZjo9i9wKCA8qAZWIQHlOvsNyMKjoKgmh6KkmuKW+OXnlmUeGa4YaPfxafsUZ51Tgci/Z1WeeQDEarF45Y5kxDymN5q65B9M+G/wgk8vgVAsjODAlYlL7geqwl7MzZ42SvtjMubcs3myeyMdWdqZL8f3i7MeE7QtLltI/x0Zm/XxN8KDdV+2BuCCIOYMImQa3XFRABC94okFNl5PCt8J3CwPG2gev9jmH8qOf0iDU/Z1pCpDi/D/mfpl2+LYK145E9yVkCpbvuEGGgD6ZzwNfeNvK1D1i/KhHe4ifvP4wsg=;PqnkVa2lW3VNk/HAKz6rPw=="
+secured: "ZKROIWF9YT8MP/dHySa8lQZJfpfRled5Iz7LIMrvJ7L9BSIMGWF21Ubd8N7rNkfrpS7u5O+n1oM+iQCW3JpEirB4a5MK9/msMJMUooR9vD01SjPaHpRQm0Y2StmXeeKgxRBB58TNx9LUos+HDTUwXSmYu/0AW6N21CSBjas2S08DYe/PaveDivcr8YuHaGqla9w2jtFR3nQPbWyEARurQs4BhbJFL9hKRYZqWvTAxDwD44o8reoeJroP1doDFyrf0pqqh/jh/D7+EmlF3zdA/jHq27fxugq0udIrN+hViMkXf7ORutaYrHX1k301EjdGjXB5zu6uJUYt5uJx79neSapWIUi051wzyGMGBaiVBb4=;YWBg7KOuy4WXzp6cJFNFFw=="
 ---
 

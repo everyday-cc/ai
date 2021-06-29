@@ -1,32 +1,24 @@
 ---
 category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-excerpt: "To accelerate the new era of industrial AI and HPC, NVIDIA has added three key technologies to its HGX platform: the NVIDIA (R) A100 80GB PCIe GPU, NVIDIA NDR 400G InfiniBand networking, and NVIDIA Magnum IO (TM) GPUDirect (TM) Storage software."
+excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
 publishedDateTime: 2021-06-28T07:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
 type: article
-quality: 59
-heat: 99
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access"
@@ -43,20 +35,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -66,16 +44,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 21
-  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
-    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
-    publishedDateTime: 2021-06-28T11:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
-secured: "xvFja1HUrtscAw1G0b8bZ1fI7O4LMkBfD/diUaPfCMsH+g0kgGI+R40Kec/gHPn/otzOD/sG//NuqKOVyOBw2kQ8TCNtpMYBPPiAeJyzgxjIRaEXfmkcS7CxV7xSWjEx0oaQ4PLo+y3aq5F3b5672x2xVChGLQm00a/Qwd1mDi5jVFoJsW6O+TvKfN+OECoRHr389ijtMomgP6giuVQ8E2fd65PPdvIrk4NgTrjKDTg9wosm/h/Jrgr2h5Lk4RwX3oDGgK6g8WvUAT+9Jyt44NFx1AEMWeDDzVm3pSA7CesHi5uWxOUSW0y25smZeVKGJaTTs8L0WcwZSGUdE24tON2tFiWoRSPqc8LrrsOC1FU=;eT9DspFBDLngPyzUrz/9Mw=="
+secured: "yoXAADjkTakSX+/MBtsoucAQEEAikaDzLnDlZHBVc34yuQAsVsWIawqYSjj6Tt3mgqmqf5d/4ndSGeY2vefoplKVRzTxyavcMgWR66NcOqbniKw8kpGJzhdWCmvdXHM+xTbEJybhzdsan7D9nQGltOU70x7zOErNKLRfz5FeLlNx3A3vlIPIsq9wFYgAh4o5jsBsqNQqjuAudOyw2c9Ab5nURjLqz7SKjMXYJyXFtTX+Nw05mg9DczZUfxp1UIo3bqVfzMPfQ7SAQlgnNofgyswzWWvpvvaQyrCAlTGq/C6xQtqGruf0TYRRPJtqazQNk9ZzMPL0o1dshjRxL42t0k0BjDXKkt3VNwWWFBzZsTM=;pvsEJh3PO8qVBa22wPGp1A=="
 ---
 

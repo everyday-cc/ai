@@ -20,20 +20,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-    excerpt: "To accelerate the new era of industrial AI and HPC, NVIDIA has added three key technologies to its HGX platform: the NVIDIA (R) A100 80GB PCIe GPU, NVIDIA NDR 400G InfiniBand networking, and NVIDIA Magnum IO (TM) GPUDirect (TM) Storage software."
-    publishedDateTime: 2021-06-28T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc-2021-06-28-3184141"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access"
     excerpt: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access - SiliconANGLE"
     publishedDateTime: 2021-06-28T07:29:00Z
@@ -48,29 +34,17 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
+    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
+    publishedDateTime: 2021-06-28T07:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
-    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
-    publishedDateTime: 2021-06-28T11:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
 
 secured: "wCArFK0ykySTIFSswZ8cowuA//iDLU/nHuWDWbEvmHpj320SjpSrWQKJrWKDLj5BQYxqgCA+5MH6U7YkRyPzcOTZXnpTPHS+FWwSvQ0qEkjQTL1dHWhmeOx/cM7Yr2MhzVVumjKB2JUCpgC1WGxim259IgwcTPlzmrVDPgFqBwcBWws5n/8v3GV1kayWsipzcBa1dhzqcwXECf9yMNs0P/HUOoJiRZ8GWNuy9YtyJcNip4c7SnlYdfH4w+747Vlo9jBgq2a56byKbj3l6lVqHuzLDB1SPhG1rdRq6NokztKGH/qPYT2AzqpTvDFcXLRKoCF8TT+Yb0MjUxYZqgNoVpwWlWYGyVWIK72iHTP3rvY=;rw9eKv/sUypnxvwbprVygw=="
 ---

@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon launches AWS BugBust to spur adoption of AI-powered coding tools"
-    excerpt: "Amazon's new global competition, AWS BugBust, aims to realize $100 million in cost savings from 1 million busted bugs."
-    publishedDateTime: 2021-06-24T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/06/24/amazon-launches-aws-bugbust-to-spur-adoption-of-ai-powered-coding-tools/"
-    ampWebUrl: "https://venturebeat.com/2021/06/24/amazon-launches-aws-bugbust-to-spur-adoption-of-ai-powered-coding-tools/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/amazon-launches-aws-bugbust-to-spur-adoption-of-ai-powered-coding-tools/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/11/AWS-Thomas-Cloer-Flickr-e1622196885720.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
-    excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
-    publishedDateTime: 2021-06-28T14:22:00Z
-    webUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/"
-    ampWebUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
-        width: 800
-        height: 498
-        isCached: true
   - title: "AWS Announces AWS BugBust-the World's First Global Competition to Find and Fix 1 Million Software Bugs"
     excerpt: "(NASDAQ: AMZN), announced the AWS BugBust Challenge, the world’s first global competition for developers to collectively eliminate one million software bugs. With just a few clicks, developers from around the world can join the challenge by creating an AWS BugBust event for their organization in the Amazon CodeGuru console—and compete for prizes and prestige by identifying and fixing bugs in their applications."
     publishedDateTime: 2021-06-24T15:53:00Z
