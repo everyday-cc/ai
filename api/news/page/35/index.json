@@ -2,6 +2,421 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-06-02-private-clouds-hybrid-clouds-the-next-evolution-of-cloud.md",
+      "title": "Private clouds, hybrid clouds the next evolution of cloud",
+      "excerpt": "while MultiChoice South Africa answers customers’ inquiries faster than ever with an AI-powered virtual agent – an IBM Watson assistant – to support its call centre agents and help to ensure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
+      "originalUrl": "https://www.itweb.co.za/content/mQwkoq6P66z73r9A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/F1jHlpMWiZyeC9pL8iCHT__UcV1svOvTv_H3Zk-rjONPXrMte8n5ef_MMIWrMJ2M6morHJ_j9Gw-LaZBzySEA5XhCo-246bqfTxXmA=w816-h428",
+          "width": 764,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6P66z73r9A",
+      "publishedDateTime": "2021-06-02T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition.md",
+      "title": "Pangiam Acquires Trueface, a Leader in Artificial Intelligence, Computer Vision and Facial Recognition",
+      "excerpt": "Pangiam, a technology-based security and travel services provider, announced today that it has acquired Trueface, a U.S.-based leader in computer vision focused",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pangiam-acquires-trueface-a-leader-in-artificial-intelligence-computer-vision-and-facial-recognition/article_09d570b9-0b5b-5559-bd89-18dd67c56118.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues.md",
+      "title": "TruEra launches tool for spotting and contextualizing AI bias, other issues",
+      "excerpt": "AI startup TruEra lanched an enterprise tool for monitoring and diagnosing issues in machine learning models, including bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
+      "originalUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/Monitoring-Illustration-20210601.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/02/truera-launches-tool-for-spotting-and-contextualizing-ai-bias-other-issues/amp/",
+      "publishedDateTime": "2021-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-uks-ai-startup-scene-has-grown-600-percent-over-past-decade.md",
+      "title": "UK's AI startup scene has grown 600 percent over past decade",
+      "excerpt": "The country's £32.76 billion AI sector brought in £2.41 billion worth of investment in 2020 alone, according to Tech Nation",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622627477/itpro/AI_UnionJack_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/startups/359742/uks-ai-startup-ecosystem-600-percent-growth-over-decade?amp",
+      "publishedDateTime": "2021-06-02T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-catching-up-on-build-2021-ai-and-arm.md",
+      "title": "Catching up on Build 2021: AI and Arm",
+      "excerpt": "What were the key announcements at Build this year? I’ve already looked at the Azure data platform updates, so it’s worth a quick dive into what I think are the most important pieces of news for anyone building applications on Microsoft platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
+      "originalUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/programmer_graduate_certification_megaphone_announcement_bull-horn-100787980-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3620653/catching-up-on-build-2021-ai-and-arm.amp.html",
+      "publishedDateTime": "2021-06-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
+      "title": "NVIDIA pivots to AI for enterprises",
+      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
+          "width": 1124,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "publishedDateTime": "2021-06-02T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-self-driving-cars.md",
+      "title": "Hacking and loss of driving skills are major consumer concerns for self-driving cars",
+      "excerpt": "The following perceptions, gained through qualitative interviews and quantitative surveys, are key to consumer decision making around autonomous vehicles. The three key perceived risks for autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/news_business/hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-selfdriving-cars",
+      "originalUrl": "https://www.poandpo.com/news_business/hacking-and-loss-of-driving-skills-are-major-consumer-concerns-for-selfdriving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/stocfiles/image/fetch/https://www.histerius.com/hs0621/autonomous_vehicles.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-field-deployable-computer-vision-wood-identification-of-peruvian-timbers.md",
+      "title": "Field-Deployable Computer Vision Wood Identification of Peruvian Timbers",
+      "excerpt": "Illegal logging is a major threat to forests in Peru, in the Amazon more broadly, and in the tropics globally. In Peru alone, more than two thirds of logging concessions showed unauthorized tree harvesting in natural protected areas and indigenous territories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
+      "originalUrl": "https://www.frontiersin.org/articles/10.3389/fpls.2021.647515/full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.frontiersin.org/files/MyHome%20Article%20Library/647515/647515_Thumb_400.jpg",
+          "width": 400,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Frontiers",
+        "domain": "frontiersin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-02-singaporean-ai-startup-sqreem-acquires-programmatic-ad-solutions-firm.md",
+      "title": "Singaporean AI startup Sqreem acquires programmatic ad solutions firm",
+      "excerpt": "Sqreem Technologies, a Singapore-based artificial intelligence solutions startup, announced that it will be acquiring programmatic advertising solutions platform Gamma SSP. The deal will initially see Gamma becoming a fully owned subsidiary of Sqreem before its supply-side platform (SSP) gets merged with the AI firm’s tech stack,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/singaporean-ai-startup-sqreem-acquires-programmatic-ad-solutions-gamma-ssp",
+      "originalUrl": "https://www.techinasia.com/singaporean-ai-startup-sqreem-acquires-programmatic-ad-solutions-gamma-ssp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ai-driven-platform-to-facilitate-early-covid-intervention-over-whatsapp.md",
       "title": "AI-driven platform to facilitate early Covid intervention over WhatsApp",
       "excerpt": "Xray Setu is quick and easy to use and can facilitate detection in rural areas A Bengaluru-based startup has developed an Artificial Intelligence (AI)-driven platform to identify Covid positive patients even from low-resolution chest X-ray images sent over WhatsApp,",
@@ -735,429 +1150,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-alphabet-inc-goog-presents-at-deutsche-bank-global-financial-services-conference-transcript.md",
-      "title": "Alphabet Inc. (GOOG) Presents at Deutsche Bank Global Financial Services Conference (Transcript)",
-      "excerpt": "And we have also been testing Google's AI and machine learning capabilities ... this reflects my core belief that the future of financial services will not be based on let's say integrated ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4432460-alphabet-inc-goog-presents-deutsche-bank-global-financial-services-conference-transcript",
-      "publishedDateTime": "2021-06-01T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-can-artificial-intelligence-machine-learning-enable-robot-empathy.md",
-      "title": "Can Artificial Intelligence Machine Learning Enable Robot Empathy?",
-      "excerpt": "Artificial intelligence (AI) machine learning is fueling the current commercial boom in automation, and robots are becoming increasingly more sophisticated. In a step forward in endowing robots with human-like behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
-      "originalUrl": "https://www.bbntimes.com/technology/can-artificial-intelligence-machine-learning-enable-robot-empathy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/society/Robot_Empathy.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-researchers-discover-gene-linked-to-bone-cancer-in-children-id-potential-novel-therapy.md",
-      "title": "Researchers discover gene linked to bone cancer in children, ID potential novel therapy",
-      "excerpt": "Researchers have discovered a gene, OTUD7A, that impacts the development of Ewing sarcoma, a bone cancer that occurs",
-      "sourceUrl": null,
-      "webUrl": "https://www.miragenews.com/researchers-discover-gene-linked-to-bone-cancer-569768/",
-      "originalUrl": "https://www.miragenews.com/researchers-discover-gene-linked-to-bone-cancer-569768/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baylor.edu/content/imglib/3/7/7/0/377022_640.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent.md",
-      "title": "Can Finance Companies Trust AI? Interview With Sravan Kasarla, CDO, Thrivent",
-      "excerpt": "Understanding business success is not simply about transactions or policies, but about establishing and strengthening long term relationships with the customers. Can finance companies trust AI to help manage customer relationships and enhance trust?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/06/01/can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/06/01/can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6788f9613bb13814c9ae8%2F0x0.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/06/01/can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/06/01/can-finance-companies-trust-ai-interview-with-sravan-kasarla-cdo-thrivent/amp/",
-      "publishedDateTime": "2021-06-01T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-the-potential-of-artificial-intelligence-to-bring-equity-in-health-care.md",
-      "title": "The potential of artificial intelligence to bring equity in health care",
-      "excerpt": "Nearly 1,400 joined MIT's AI for Health Care Equity Conference that explored new artificial intelligence technologies as a platform for change.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
-      "originalUrl": "https://news.mit.edu/2021/potential-artificial-intelligence-bring-equity-health-care-0601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202105/AI-Health-Care-Equity.png",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-this-ai-robot-mimics-human-expressions-to-build-trust-with-users.md",
-      "title": "This AI robot mimics human expressions to build trust with users",
-      "excerpt": "Scientists at Columbia University have developed a robot that mimics the facial expressions of humans to gain their trust.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-robot-mimics-human-expressions-to-gain-trust-improve-human-robot-interactions",
-      "originalUrl": "https://thenextweb.com/news/ai-robot-mimics-human-expressions-to-gain-trust-improve-human-robot-interactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-1.jpg&signature=21dadec32dbd41d259ca788731dca24c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce.md",
-      "title": "Abstracting Amazon? Fakespot Layers AI-Based Trust Over Digital Commerce",
-      "excerpt": "Now there’s a layer on top of Amazon. And it’s one that will eventually rest on Walmart, eBay, Best Buy, Sephora, and probably other stores as well. Fakespot is launching “the world’s first secure shopping browser” in a new app,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b66eee7598cefe4a7dd31d%2F0x0.jpg",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/06/01/abstracting-amazon-fakespot-layers-ai-based-trust-over-digital-commerce/amp/",
-      "publishedDateTime": "2021-06-01T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-moleculeone-grows-its-drug-synthesis-ai-platform-with-a-46m-seed-round.md",
-      "title": "Molecule.one grows its drug synthesis AI platform with a $4.6M seed round",
-      "excerpt": "Polish computational chemistry outfit Molecule.one has raised $4.6M to expand its quest to bring theoretical drug molecules to reality. Its machine learning systems predict the best ways to synthesize potentially valuable molecules,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/",
-      "originalUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/molecule-one-header.png?w=1024",
-          "width": 1024,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/amp/",
-      "publishedDateTime": "2021-06-01T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-dataiku-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Dataiku Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Dataiku, one of the world’s leading AI and machine learning platforms, announced today that it is now available through the Microsoft Azure Marketplac",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://www.businesswire.com/news/home/20210601005063/en/Dataiku-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

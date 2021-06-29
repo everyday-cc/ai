@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-mana
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in asset management, part 2"
+    excerpt: "A good example of unused or discarded information is the asset management data discussed last month ( in part 1 of this story) that's stranded in devices. Image transmittal is another bandwidth-intensive operation for which artificial intelligence (AI) can provide useful information by edge processing and transmitting only relevant changes in state."
+    publishedDateTime: 2021-06-29T14:21:00Z
+    webUrl: "https://www.controlglobal.com/articles/2021/ai-in-asset-management-part-2/"
+    type: article
+    provider:
+      name: Control Global
+      domain: controlglobal.com
+    quality: 19
   - title: "Artificial intelligence for disaster management: that’s how we stand"
     excerpt: "Smart and timely decisions are needed to manage all kinds of risks. The use of artificial intelligence (AI) in the decision-making process has shown tremendous promise."
     publishedDateTime: 2021-06-29T10:25:00Z

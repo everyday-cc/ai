@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/24/6d6d7271-f006-43ab-b8df-5881412a186f/ask-data-for-salesforce-2.png"
         width: 4098
         height: 2700
+        isCached: true
+  - title: "The Future of Retail and AI"
+    excerpt: "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere."
+    publishedDateTime: 2021-06-29T15:35:00Z
+    webUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai"
+    ampWebUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 59
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg"
+        width: 830
+        height: 571
         isCached: true
   - title: "Analytics and AI helps Experian help its customers"
     excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."

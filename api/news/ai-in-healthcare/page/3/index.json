@@ -2,92 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-29-new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients.md",
-      "title": "New AI tool to help doctors assess severity of COVID in patients",
-      "excerpt": "Toronto: Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "originalUrl": "https://english.madhyamam.com/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2021/05/29/1025379-6b0c2967-5c1a-4b2a-961f-5b571be88f13.jpg",
-          "width": 600,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/new-ai-tool-to-help-doctors-assess-severity-of-covid-in-patients-803903",
-      "publishedDateTime": "2021-05-29T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-28-telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.md",
-      "title": "Telcos back Artificial Intelligence, Internet of Things for 5G in India",
-      "excerpt": "Delhi-based COAI represents incumbent telcos as well as multinational next-generation technology vendors such as Nokia, Ericsson, Huawei, ZTE, Cisco, ..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83032108,imgsize-30418,width-800,height-434,overlay-ettelecom/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/telcos-back-artificial-intelligence-internet-of-things-for-5g-in-india/83032108",
-      "publishedDateTime": "2021-05-28T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-artificial-intelligence-can-help-doctors-manage-covid-19.md",
       "title": "Artificial Intelligence Can Help Doctors Manage COVID-19",
       "excerpt": "Artificial intelligence (AI) technology developed by researchers at the University of Waterloo is capable of assessing the severity of COVID-19 cases with a promising degree of accuracy. A study, which is part of the COVID-Net open-source initiative launched more than a year ago,",
@@ -1293,6 +1207,83 @@
       "provider": {
         "name": "Le Lézard",
         "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-harvard-medtech-names-monica-mohring-as-vice-president-of-market-partnerships.md",
+      "title": "Harvard MedTech Names Monica Mohring as Vice President of Market Partnerships",
+      "excerpt": "Harvard MedTech, a breakthrough digital health company dedicated to healing trauma through a proprietary blend of virtual reality, artificial intelligence and behavioral interventions, announced today the appointment of Monica Mohring as Vice President of Market Partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9374005.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/05/20/9374005.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum-japan-monstar-screen-2-trial.md",
+      "title": "Caris Life Sciences and National Cancer Center Japan Announce Exclusive Collaboration to Launch The SCRUM-Japan MONSTAR-SCREEN-2 Trial",
+      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine, announced today they",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
+      "originalUrl": "https://www.inforney.com/texas/caris-life-sciences-and-national-cancer-center-japan-announce-exclusive-collaboration-to-launch-the-scrum/article_bc80c773-5645-5d88-9c25-c4dc46619f58.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/inforney.com/content/tncms/assets/v3/editorial/5/ff/5ffcd25b-7333-518e-bb6a-6f66d5176c83/606c3c27ea886.image.jpg?resize=703%2C630",
+          "width": 703,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-20T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News in Forney",
+        "domain": "inforney.com",
         "images": null,
         "publishers": null,
         "authors": null

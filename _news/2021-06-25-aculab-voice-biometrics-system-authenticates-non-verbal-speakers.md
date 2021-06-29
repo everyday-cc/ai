@@ -67,20 +67,6 @@ related:
         width: 748
         height: 499
         isCached: true
-  - title: "Biometric payments on the rise, with face, iris, and fingerprint recognition deployments"
-    excerpt: "Several companies have released new biometric payment platforms or unveiled new projects and data this week. Veritran unveiled a new digital payment service using facial recognition in Brazil, PayEye announced the first cinema in Poland (and the world) with an iris payment system,"
-    publishedDateTime: 2021-06-24T21:28:00Z
-    webUrl: "https://www.biometricupdate.com/202106/biometric-payments-on-the-rise-with-face-iris-and-fingerprint-recognition-deployments"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
-        width: 1720
-        height: 1032
-        isCached: true
 
 secured: "FZW6Ms2DlJ4H2FnrqNkad0M8ZIy3O+aYhq5wvCdmoNb4LaXtqwQBiqjKxOv/U4JeiyBfAX8E/Pj+G2LBxxUL2W0LdNTfH7QQ4u65OB/0mVQ91mIsn162TQTDJe4n3nYuvhTbA3CciuFSIZWngj4rsRysBDjfuuQxb73KFS7olnSYScwMkAzbZh4YJ1r4PIylSLrlDznFt7s7STzcEFAO+Wya5WQl3vf/H1rg8VAc8wXSbTS/3QeAgKvbykryRPFJZylaS7tW6Ksxn1iTOS+YJF10cTa+lsO5HHqkhu1UE0UoG7aOvCodK5d4frS/zXcBO3956uIiAEG6irgFXlmbvIeX2/GMawFvzC+PmjMFMnBCxrkv5+5FgMM6bX5gTErCdLDHJFIxDBXJ4cMDtyIJxU00rxPUB85hqA45Flr6/ZU/xB/P9hlVENbCM7cALm7DdmgE7HUaTxiTJ0Fg9evFpcGacoBfcl4QWild9Orck1qjsaqmQ38so2yGS18SYcLf2qEKC8qZGrl14NEEEdoAOw==;YUctKYuj/miIZPZobqYz0Q=="
 ---

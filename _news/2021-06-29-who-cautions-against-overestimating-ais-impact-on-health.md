@@ -3,8 +3,8 @@ category: news
 title: "WHO cautions against overestimating AI’s impact on health"
 excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
 publishedDateTime: 2021-06-29T09:22:00Z
-originalUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/"
-webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/"
+originalUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/?_scpsug=crawled,2139,en_21f55ef6f0e7a2ca233dbbaae88bd3b86bf9e04cbc50c8851fb52a10b69b6a75"
+webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/?_scpsug=crawled,2139,en_21f55ef6f0e7a2ca233dbbaae88bd3b86bf9e04cbc50c8851fb52a10b69b6a75"
 type: article
 quality: 39
 heat: -1
@@ -151,6 +151,6 @@ related:
         height: 450
         isCached: true
 
-secured: "IG4tvQhNONPcctzRf0ySF0q0Im1NJ4s1Gf/Dz7NGo3uaWBq3ognpfwIlixo1keDiHREbPAO8a0CTLrmj4sxEu17fCpmR0Ad//KWo/lVfQw3L/HlBp4JyFI91mY8968prfleyi5f4/gV+/VRNC7+2Q2SjdLhtl5vsLUdZKM6+NtM6XozO8N7ieqsipvMvHE/1c3aJ/THhVz610tIEDjVfHtCHZZIe7E++Q9SscxXJF7CLrht8x/5iZT3AIi6oYY7UmZyo+MuvGJDzLgFfgG8BDng/ETqrTGQ9L1XAYXW2BvUKvm5Wb7hxWlu+u+VA+jy48L32i99n+2fJzP8U85eOKsW/KGlljbyndcqyVmzWOGGtH13oJSyVR7Rv4s3FlZxES1MrmmqKeMwptW9FcrBYcLPABnDq+6jkj0HNqlNdrrRENEEqIERqVkKZsdsRUz0KH7ynsFaDxSgEJPSKmt7cGmocy6Xu4nW+wCBeE8qCmm/jvqjwI3GD5Lji3icNbQmr8ZtkGnM6dWANmDEl804gbw==;X4PpIrBHhpnxIgcqjwPsOg=="
+secured: "YLbUspMTn/EjpRvZO3qnPd7JGHh/yLDFDDuHiXYgaVKnNAqho4TdJOQn1Zx9F9h+6MmFA8EXnMyPWjidullaRlWyyrYmFdnukWzlY/QF7CWDljceMA8wlcFzkljaJqlGxBGQCmBouWFoo6HFH9pYdLT66uQfXS7UnAlQRc2UgqtOSfkmGsKbLs/hCSEQ0/xSbdOytW4J4jrXYoJ9nAmea09/dYaijYao40PwULMTVI0Q+xyT24RT9wlscnoqxDO2wOWASL4FGkzxTqxkH9vOGR86fay3tOx5utSiwPrYPqtEuBrw/5pTl6DJLRRwUaI3UhqdO0M6A01aFp0kTApZ+YAsB/L+Cuqe2RKTYdFn584=;wPjwAAGE/1Hzl/+rZOPGTQ=="
 ---
 

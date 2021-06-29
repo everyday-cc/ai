@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/28/1c102c45-d50e-40bd-b886-ba81441d0b3c/nvidia-ai-on-5g-roadmap-june-2021.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+    publishedDateTime: 2021-06-28T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
@@ -92,34 +106,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
-    excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
-    publishedDateTime: 2021-06-24T23:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/24/nvidias-vid2vid-cameo-ai-brings-2d-photos-life-video-calls/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/EMBARGOED-Vid2Vid-Cameo-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -141,13 +127,13 @@ related:
   - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
     excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
 
-secured: "mKQX+Avg8h3bZM9xipN5/56JUt87khnbSZZrc9bc42KxLO+V33A8LqpVbw50EPhaG0iMranFVQZAuIYfayiPztnxuo2CwL1kVfVXUTWfF1kQpHo8cQ0xJB+SAVb6WzYtq8A9/w8iFWLtqspAuTPF+m5UctyfSEj1Zk+P5uQz0DTS7HrIKlwx5b1egH+nyFAJHQIpFTlrr9CCA3dpveA/zQRRFOz/5w8MywcVM65ex7oXs/Xb8cNcjq3bTzGmZWLu97VmJ2i8TB+ZMNhfmXaSmEiVlU0nt3+WmMRDMLxLhihe3tt4XXIPIrbxjBH0HFK14IGjSzIzs0SZ00b651cbkuc1JXYhWHg7WoL9QIEb3rI=;G5f8UVHyKxxuM18gv84OlA=="
+secured: "YpL3UgwO+m7381+5xRxuuwTeI3wyXX0jPfU8i2j0yxQqKP+MQfj74ZHIMBInFaJOr2Psfu0PABhxhoV1FnSSypxFOtnwbpzoSLrr/ZGYcCLngp7WT2dZREb0oeZXKroHDhm5ZYTqNYbt01XUcaVXWq2hnp9ooHynH0jzP4Za+4d/WEHKwhHNc47/ChHj0lWufsh2t/Wqcug6s4r7nIVanFqeqQxu1QLevEKXN/gIU1FGyoEDslUxhhru4RSdyzZQZWPuwncEhsmcJPuqFNAySRfA3X+u+AbqwM6w2rwOiVrHVPmS2uGBW2l/6O9ix4nLVplDV9cvoLTPGhsjx8a8EiLoo+p4oNVWyLgMU+TUPJJ0imetAXWFb45UxU6fiDbK4Px9Ja72JynrKoEH/Q9ws5uvVrpschxhGHKhS0y+PCQOl0zHTXHmFxQyZwhzg+eHuuh+KvQrpb6W9Dk8NDQvjBobt54V2E70NjtLF2/oiZio+fOl8gSnV+2Hi96bNTJxx1hTnMSwGRpsv40ND8RY6w==;bQirOc4Q45n0VAVXZTKv6A=="
 ---
 

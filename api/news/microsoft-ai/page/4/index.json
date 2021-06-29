@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-05-26-google-uses-io-to-flex-its-ai-prowess.md",
-      "title": "Google uses I/O to flex its AI prowess",
-      "excerpt": "AI announcements at Google I/O last week trigger discussion of Google’s position vis-a-vis AI services at other cloud platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
-      "originalUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2020-03/shutterstock-Merydolla-395593495.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
-      "publishedDateTime": "2021-05-26T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
       "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
       "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
@@ -1407,6 +1363,40 @@
       "provider": {
         "name": "ChannelVision Magazine",
         "domain": "channelvisionmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine-a-new-era-in-sports.md",
+      "title": "LaLiga teams up with Microsoft to digitally transform football globally and reimagine a new era in sports",
+      "excerpt": "LaLiga, Spain's premier football association, and Microsoft Corp. on Wednesday announced an expansion of their partnership focused on digitally transforming the sports experience globally. LaLiga will offer new experiences such as augmented reality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine",
+      "originalUrl": "https://www.nasdaq.com/press-release/laliga-teams-up-with-microsoft-to-digitally-transform-football-globally-and-reimagine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

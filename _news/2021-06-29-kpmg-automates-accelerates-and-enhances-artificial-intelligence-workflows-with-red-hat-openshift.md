@@ -1,18 +1,18 @@
 ---
 category: news
 title: "KPMG Automates, Accelerates and Enhances Artificial Intelligence Workflows with Red Hat OpenShift"
-excerpt: "Red Hat (News - Alert) and KPMG LLP today announced an ongoing collaboration to augment the KPMG Ignite AI platform with Red Hat OpenShift as a foundational technology. Building on Red Hat OpenShift,"
-publishedDateTime: 2021-06-29T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kpmg-automates-accelerates-enhances-artificial-intelligence-workflows-with-/2021/06/29/9399768.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kpmg-automates-accelerates-enhances-artificial-intelligence-workflows-with-/2021/06/29/9399768.htm"
+excerpt: "RALEIGH, N.C. & NEW YORK--(BUSINESS WIRE)--Red Hat and KPMG LLP today announced an ongoing collaboration to augment the KPMG Ignite AI platform with Red Hat OpenShift as a foundational technology. Building on Red Hat OpenShift, KPMG Ignite provides the ..."
+publishedDateTime: 2021-06-29T13:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210629005158/en/KPMG-Automates-Accelerates-and-Enhances-Artificial-Intelligence-Workflows-with-Red-Hat-OpenShift"
+webUrl: "https://www.businesswire.com/news/home/20210629005158/en/KPMG-Automates-Accelerates-and-Enhances-Artificial-Intelligence-Workflows-with-Red-Hat-OpenShift"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
@@ -35,6 +35,6 @@ related:
         height: 600
         isCached: true
 
-secured: "7zAv0s+Fnwc2YFoPSeQRXFzmYYwtQhE5Ds68P0UMhbLY/tdHL5ZqGGQf6ED6xa3AAr/j85223MxWJE3844Knz9lEREOdLvvg5+lIASiKOQIVt9yx4wE08Skx9kxVlHWu0btdxPLe9IjvpJ954wyos4E8nJh7e+tu1not1N7mK3EyK9iXysHqJL3IqqA+fKlVbsVbU1K2rpNTv4iwhOhfy1zqpXIj8MFGJPMocDEX+zCcN1h+3H+jh2UMs6domBDzlqju656hP8ZG1RL/MatFZh6lKzC9cDL6D3f96QcFbfOf48U1m1JtzvjxW2661eLo+36j40GdeFHfIqUlOuCxuaj1QppmDJTyRHxwLez7Mdo=;ehJV/nciD+GMR8BAGJK1vA=="
+secured: "BqnLe5hxMRWnAl9SvNSWb+lW+iCzQJbc7VwC0bOwCkEe3T2XzPmi6ns6EUACGJiMR/CfmqjNVgMvEyaQtAOgi2RlEzlwEt/lka+vRZAaocu2jLtFBGH3/ZQgqNDTMqcli4ONRYEC7fOb9HyF0fw9H68JNDLSbUEpUA+XlCoZy/PRQuYo68FrCZRfWPmBau7lr85GWDSkLLnKIvvXdQW1RSBRlF97az4VTUogtix6TPRO4SXRabPq98dJv/yMKRCWt6/8CKtZBW7O2iaa1C/EEIB3ujPbR0mptPXnGfkHakcyBNvO0EXr6c1XS7PypC40AGdpJaVo0vejZ2XmUIGEVwL08zG5BJZZ8zGE3SLnbfDV36rTmi7KQwgCLRZq+q86BG/DIFdeA3Rr3T5805bN3XWupuhDo7kSoDqCV0AiuIopmUq6FxWKVzBHpWaaBA7H+dVnAX/Vu36AakTDp8syiRYbD0ed09xiKNZGgousvmyQQ/7/VQ3l3chh7+QNq9QZP/pihfzObeA/P54VdKn1bA==;HthYZouZIo1sXdwuQsylXA=="
 ---
 

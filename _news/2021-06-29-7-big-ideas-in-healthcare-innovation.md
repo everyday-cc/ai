@@ -39,15 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
-    publishedDateTime: 2021-06-28T12:47:00Z
-    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
-    type: article
-    provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 42
 
 secured: "zgyoB6QdhuVnHPovmgsozpXVf65sZs47/eQMv4MUsq470YFZ5kq2utCC2aLYOajiSUPWdRqisEWPEvbBzYbqJwvIedoBMXkdWd6HwyHMCkqz3oo2gqit1Yz7tEZ8mxameYRfFaJHQ5KmuhsHj2JmbqDEvt3MNd7nQz6YYZEs+s73pI889q+DGNZyK3IyR4lMI8Ng1mLyo5HdDZB3MLJKfs91H25yB4ZWjPriTbB6Zhrktupul5bh8q3NYVxCb1YnJ9jMWXNtPY2SrnoxDp0uIGTVrkwZh//+6tdS2Abp9ScNA2HIphKfBsakO9Mw6J10x92GpTgW/XESa1OOA0jBhAO+HWZd7zD8q8IaENeUMu8=;tEe7tlo8IpTbGgqlUtE4pA=="
 ---

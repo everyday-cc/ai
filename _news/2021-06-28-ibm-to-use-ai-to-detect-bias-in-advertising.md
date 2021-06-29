@@ -97,20 +97,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM explores AI tools to spot, cut bias in online ad targeting"
-    excerpt: "IBM Corp is developing tools that would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men"
-    publishedDateTime: 2021-06-24T22:20:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/ibm-explores-ai-tools-to-spot--cut-bias-in-online-ad-targeting-15083268"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15083266/16x9/991/557/5dec68c4f8c2be9dca58c5d88d316cd9/hl/file-photo--a-man-stands-near-an-ibm-logo-at-the-mobile-world-congress-in-barcelona-3.jpg"
-        width: 991
-        height: 557
-        isCached: true
   - title: "MWC 2021: IBM brings AI-powered automation software to networking"
     excerpt: "Cloud Pak for Network Automation is designed to help service providers improve networking and deliver new services quickly"
     publishedDateTime: 2021-06-29T12:45:00Z

@@ -31,13 +31,13 @@ images:
 
 related:
   - title: "KPMG Automates, Accelerates and Enhances Artificial Intelligence Workflows with Red Hat OpenShift"
-    excerpt: "Red Hat (News - Alert) and KPMG LLP today announced an ongoing collaboration to augment the KPMG Ignite AI platform with Red Hat OpenShift as a foundational technology. Building on Red Hat OpenShift,"
-    publishedDateTime: 2021-06-29T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kpmg-automates-accelerates-enhances-artificial-intelligence-workflows-with-/2021/06/29/9399768.htm"
+    excerpt: "RALEIGH, N.C. & NEW YORK--(BUSINESS WIRE)--Red Hat and KPMG LLP today announced an ongoing collaboration to augment the KPMG Ignite AI platform with Red Hat OpenShift as a foundational technology. Building on Red Hat OpenShift, KPMG Ignite provides the ..."
+    publishedDateTime: 2021-06-29T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210629005158/en/KPMG-Automates-Accelerates-and-Enhances-Artificial-Intelligence-Workflows-with-Red-Hat-OpenShift"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 4
 
 secured: "xn9UPO5w9AKRoBsltaaDRhraOXrDZpDwcwbnFtaTr0T9ibwdywwLjkxcli0zjQEnnzos4fOSROrApGyZYp/aAsNJMPeTOonOmDoty1qtAPwzAG4AL9/u7+j36AGVmwIBtIEUyercxiY8/vcDNyvj2eKRxBCHAMpRTFx8lKHlZjeYM8UNeA0wjch+hdUCAStHIwKhrxPjYZn3hrbGuP0bAig1BmIVq/GeLJs982+au4bC/WRATTRTeYk8FIJ9UQXWZNUZxu09w1JmBEqoE7AHQnW9tGXaXsegoRj91hpENt7G4WfH8dTpeiJcITzaRnGqFrKnTT8wCBZMSPFLsBTWBdjybmVAPSxJJo/a2WGsl50=;vDjKy3P1i1L4Dv+wQ7EYdA=="

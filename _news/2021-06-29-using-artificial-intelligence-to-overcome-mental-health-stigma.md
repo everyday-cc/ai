@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Using artificial intelligence to overcome mental health stigma"
-excerpt: "Researchers from University of Tsukuba have developed an artificial intelligence system that identified signs of mental distress in workers using"
-publishedDateTime: 2021-06-29T07:39:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/209990"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/209990"
+excerpt: "Depression is a worldwide problem, with serious consequences for individual health and the economy, and rapid and effective screening tools are thus urgently needed to counteract its increasing prevalence."
+publishedDateTime: 2021-06-29T14:31:00Z
+originalUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html"
+webUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 87
+published: true
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
-    width: 400
-    height: 217
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/mentaldistre.jpg"
+    width: 1500
+    height: 1158
     isCached: true
 
 related:
@@ -52,16 +54,21 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI/ML Innovations Inc.: AI/ML to Acquire Interest in Digital Mental Health Provider, Tech2Health"
-    excerpt: "Tech2Health is well positioned to provide support for the current mental health pandemic, utilizing a unique blend of proprietary digital assets, remote live counselling, and a physical wellness center."
-    publishedDateTime: 2021-06-25T21:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53255234-ai-ml-innovations-inc-ai-ml-to-acquire-interest-in-digital-mental-health-provider-tech2health-200.htm"
+  - title: "RingCentral Attacks Robocalls with AI-Powered Solution and STIR/SHAKEN Implementation"
+    excerpt: "RingCentral , a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that the company is taking steps to protect customers from the increasing problem of"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19878808.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 23
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "era6s2ydwbHClGEBAQ1K3oQI6paAg7fAmP1s7OjuJLvA5JzdFxvZdx9qClSjJoeXBZktfaCwpb4RMa48EZtkZucnstPrCnnMB6OaK8dmsS9YnCK8SoZY/ZFnZ8WzodptTlMlaLnCRagjuCxoag0Amv4IH/z4Sj9aaa2rWTRrG898hW1TBry6UPFebyFMW0fFCOzhKEnLxPbgX/E1mstQE0QG4AGJLc7ldiNC1SysDYGfjJ0Oa8niRDPv/wHxzLmcp3F1xKX2ALLTrQS+bdW2dDsIdwHRh2ItmHyOZZo7bWspf5tGO6RGPOzr0pIsTUQyAFrhWi+fpATm8tWaj8G2pqpZUqFNxCcTMN3uKzj+LOU=;MYKEB6UnzzJstnDmhTRN2A=="
+secured: "/Oli/tAtEcqa8yFtKxOhbhNgblvcnQXFDz1k82Njsb4KxHFijwXHnOZxaKTYIeDwsvc+4ZnqPEBrth1cX2gsgZNRzWUmlObLUF6fNDxHk2rT/4r5pMzR+zcQeo+h6C3mUunMD3XZSJ6dUeRKcl9lWRLfkRLATb3pcfd4hAl9ZGipeLTHJZvMRCT9xEAn0WIuTvaD6Yso8n0IHLD23QKrbS2n61pSFWFHRf7HQVTka3W+EZmFQtQa0y3OzCWiIb9JRG+FvlRhHAtiX+DM8/oqlR1iExnVO7/VhQBLfVtpGvYB5+SZvYWpX0nGCTzX/QZW4267C3WvtYAs7vWMtsba8XAxWRNajxmKotjfwVUm+Jw=;47tP5kuAEsXbbphvvUhgTw=="
 ---
 

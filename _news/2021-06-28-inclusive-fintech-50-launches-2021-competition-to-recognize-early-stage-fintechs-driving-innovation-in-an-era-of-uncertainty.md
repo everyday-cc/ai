@@ -95,6 +95,22 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Identity Verification Service iDenfy Partners Fintech ClearShift, which Offers Currency Exchange, Global Transfer Services"
+    excerpt: "iDenfy leverages advanced AI and biometric technologies to address compliance requirements ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. Dalmore Group welcomes ARK7, a newplayer in the rapidly expanding RegA+ series issuer ..."
+    publishedDateTime: 2021-06-29T14:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 18
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/05/Digital-ID-Identity-Identification-iPhone-600x518.jpg"
+        width: 600
+        height: 518
+        isCached: true
   - title: "Symphony Communication Services, LLC: Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
     excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Sa"
     publishedDateTime: 2021-06-29T12:10:00Z

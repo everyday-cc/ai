@@ -7,8 +7,8 @@ originalUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
 webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
 type: article
 quality: 79
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoQ
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches Azure Arc-enabled SQL in general availability"
+    excerpt: "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances."
+    publishedDateTime: 2021-06-29T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Predicting the Outcome of UEFA EURO 2020 with Microsoft Azure Machine Learning"
+    excerpt: "At Codit we are always looking for fun, challenging and interesting internal projects we can use to train our colleagues in new technologies. With the UEFA Euro 2020 football tournament coming up, the idea was born to replace the age-old tradition of using Microsoft Excel to register and track people’s predictions for the games with an application in Azure."
+    publishedDateTime: 2021-06-25T13:46:00Z
+    webUrl: "https://executive-people.nl/676193/predicting-the-outcome-of-uefa-euro-with-microsoft-azure-machine-learning.html"
+    type: article
+    provider:
+      name: executive-people
+      domain: executive-people.nl
+    quality: 67
+    images:
+      - url: "https://executive-people.nl/676193/predicting-the-outcome-of-uefa-euro-with-microsoft-azure-machine-learning.html?field=Binary1&maxwidth=1200&maxheight=627&force=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "HKT launches Managed Security Services powered by Microsoft Azure Sentinel"
     excerpt: "HKT has partnered with Microsoft Hong Kong to expand its offering of Managed Security Services for enterprises deploying Microsoft cloud services. As Microsoft's Managed Security Services Provider in Hong Kong,"
     publishedDateTime: 2021-06-25T09:14:00Z
@@ -35,6 +65,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 49
+  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
+    excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
+    publishedDateTime: 2021-06-28T12:47:00Z
+    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+    type: article
+    provider:
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 42
 
 secured: "LVRwCRnShDoZrrPMIkztF6QQXsEQppZ4IcEdcgjX5ktcJiEQZNv1IIY2QDxFtHRy60HLvpNdd7bUwcDyMUAUf+0FQBvPHrhCK5kTZmdCDX2FKinuEzGWYqZMqnpSETc1l9zaHLWixSWVl6pyqslqdthDKIRGKLmGf3x8X/zum6xPKCIQoRGY9xJ0MXp6cMzBsuU74QiQ0AO6sGxHqDw8Wx2oIs/C055TbLVJoW7WhWyeawowLjrnI6IoDbp4IzekrJhFuV+WFdD7a4NkwbSvhRMRW4Q6pslGV7ysecN+eRiGyeAORNc9sknokDaZ3pSQr/fk4VIbpnfCG2fWU9OdXd5+Yn4Mf2XAcg7vw9L6c4EABzkauW0xdyNEv7mXxaGqELQ5r6IaRBXrQrS5RJb7UilxKyDwwO0ssPJ1ndKqColly85De30hVD2EfA5WzWbi24nvzCpO4u/owZVGnAm4CToPducr0k1iaYloQa+8B6t+DsC/YjgMnXnPUnWOCE13pv+HCjy4aTeyjhnlZi2CnA==;AHVBT6jPdbduEcMiR3MUYA=="
 ---

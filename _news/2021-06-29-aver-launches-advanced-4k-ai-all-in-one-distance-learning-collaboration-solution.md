@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "At a National Laboratory, AI Tackles Misinformation & More"
-    excerpt: "In a world that is slowly recovering from the COVID-19 pandemic and a country that is slowly recovering from the 2020 election, misinformation is an"
-    publishedDateTime: 2021-06-24T22:13:00Z
-    webUrl: "https://www.datanami.com/2021/06/24/at-a-national-laboratory-ai-tackles-misinformation-more/"
+  - title: "Tokyo-based AI Startup Attuned Launches Writer Fellowship on Substack"
+    excerpt: "Today Attuned, a Tokyo-based tech startup that uses psychology and AI to track intrinsic motivation and boost employee engagement, is announcing the launch of a global writing competition on digital newsletter-publishing platform Substack with a top prize of $50,"
+    publishedDateTime: 2021-06-28T09:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/3b14e94734c7ba5055b6de09387d881c"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_tweeting.jpg"
-        width: 1000
-        height: 615
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Atos International: Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications"
-    excerpt: "Press Release Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications Paris (France) June 28, 2021 - Atos today launches ThinkAI, its secure"
-    publishedDateTime: 2021-06-28T15:09:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53267931-atos-international-atos-launches-thinkai-a-complete-solution-to-power-high-performance-artificial-intelligence-applications-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 3
 
 secured: "p4YG0yF61KVXDPImF4pny4Bm4xJumGAzcbln/VRcBz+N2/o6hLFyzvjAtyhoefi+shvf8QHpNXT6JiXTbBn2TNAhIjZlpbkyUNt7P1zQj+tre0Vg0u7CWbIgtVRfSqvzsJMNovn4QTz2JNAQF6m51JUYu36a0CmG+xHkj+8L0dV/WjiCRViW6WMjI9l2rvphVkC3nuvM/MSkkdv/hsN+e2wvZm733aq9m571VSoJkObsilxi/TKT4N3hEe+d1CcvZa6nxOhbzvQTuf6jSfT14cbb342eDeCwYL+fGBB5KXWVl26Rb1UogXJm3963SMo+udljt50t8VcLul2/4E6wLtX06xnQdguwVpBd8SMaNaQ=;5d9iZ9aJgSwKEoQdjTp1bw=="
 ---

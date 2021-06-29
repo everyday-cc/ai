@@ -1,33 +1,29 @@
 ---
 category: news
-title: "AWS Named Swisscom's Preferred Public Cloud Provider to Accelerate Digital Transformation Strategy and Move Towards Cloud-Native 5G Network"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Swisscom (SMI: SCMN) has selected AWS as its"
-publishedDateTime: 2021-06-28T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-named-swisscoms-preferred-public-cloud-provider-to-accelerate-digital-transformation-strategy-and-move-towards-cloud-native-5g-network-2021-06-28-5159010"
-webUrl: "https://www.marketwatch.com/press-release/aws-named-swisscoms-preferred-public-cloud-provider-to-accelerate-digital-transformation-strategy-and-move-towards-cloud-native-5g-network-2021-06-28-5159010"
+title: "AWS Named Swisscom’s Preferred Public Cloud Provider to Accelerate Digital Transformation Strategy and Move Towards Cloud-Native 5G Network"
+excerpt: "(NASDAQ: AMZN), announced that Swisscom (SMI: SCMN) has selected AWS as its preferred public cloud provider for its enterprise IT. Swisscom is pursuing a cloud-first strategy and will use AWS to increase IT agility,"
+publishedDateTime: 2021-06-28T09:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4"
+webUrl: "https://apnews.com/press-release/business-wire/amazoncom-inc-europe-technology-business-971d6f5dc4984b03b6e15a7dc45883f4"
 type: article
-quality: 35
-heat: 35
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "FOrVckqgsKgx6u7jk2X9UQ36AIQjL7rjPUzSeuBo69BM9baG+M8myY4oscrzpFXGLZNTVvO/9MtGwZhN4fExNbFrLqTeouXwp1HtZLCpoc2WWARf66mrikQyiV4IrCy1X253ZQlS9TktTONfsR0pAGYzMACqPf5cfi8TGVkdxLySGNZOifc2RBBymiNtbZi38dD21Oip1rK5bu/QugfsTrT6Xb8MBl7eaw0RhsaGSxsh/+6x1z6pn6XdL8sLnLFE4kfWFWFeOhqKQlngjAezrO1dvj0/fAwzEcYiA3SgvqfOv76FCub6Uw8Ki/RlVWC9f26AqiLE3z4FBpg0QYc+etKV6h6FHrD36aJAJkVeGGo=;Ode6L7520iD+cbMPe8vwEQ=="
+secured: "u93LHVlWEl3JsYPZAdox5TjfpzAnbT5EiKkb8n+zvDTTPt4uOxhABGYH8zR2LZ0rtH9hwVeSDOeHfFE6qJ6cDurGOICxx98Y5SXsyTucWuBHJP+X+KrPXy4HQ69/i2Ba+3ouNXiLWLC94j4zwQ+tYz3AMY+kxqoZiImkYohBnW4OFSxxMFlf8myGqqfnGdHmirjz19jCNL3rhDdYKZO6N2Q0Dhbn/bdQP7Vkz2yyqsJ/Pu1sn2djtDEAz1HtOQi6Eb5TiLDvHskkJeIdABM6xSJrCwND5lVLs4+LZ/mz8FshE8VOZcsg+k2wt2UQs1siVKqeHahy1LtrWh4trv14w6IYpm6v/38S10zzG4iG23Y=;rKEHhpIJiM0AIj+qC2L0Dg=="
 ---
 

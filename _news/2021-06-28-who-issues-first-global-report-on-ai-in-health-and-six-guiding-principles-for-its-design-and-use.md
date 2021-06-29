@@ -109,7 +109,7 @@ related:
   - title: "WHO cautions against overestimating AI’s impact on health"
     excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
     publishedDateTime: 2021-06-29T09:22:00Z
-    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/"
+    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/?_scpsug=crawled,2139,en_21f55ef6f0e7a2ca233dbbaae88bd3b86bf9e04cbc50c8851fb52a10b69b6a75"
     type: article
     provider:
       name: pharmaphorum.com

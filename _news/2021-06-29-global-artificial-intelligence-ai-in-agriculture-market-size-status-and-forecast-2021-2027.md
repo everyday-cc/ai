@@ -19,15 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "Enterprise Artificial Intelligence (AI) Market Estimation 2021-2024 Analysis by Key Players"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning,"
-    publishedDateTime: 2021-06-25T19:00:00Z
-    webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-estimation-2021-2024-analysis-by-key-players-r4836495.htm"
+  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
+    publishedDateTime: 2021-06-29T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "This report contains market size and forecasts of Artificial Intelligence in Global, including the following market information: Global Artificial Intelligence Market Revenue, 2016-2021, 2022-2027, ($ millions) Global top five companies in 2020 (%) The global Artificial Intelligence market was valued at 1315."
+    publishedDateTime: 2021-06-25T15:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "Automatic speech recognition (ASR) is the use of computer hardware and software-based techniques to identify and"
+    publishedDateTime: 2021-06-25T08:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OTa7Tmx/EwdNRMQh8kDyoJ3+W6Qzo3l3gB2ot3MYFLOfk46nwirS1au0h33wczLy8GyE40v8ef1Hvm8RcSE9yfsF6PgrJxDc0IJcjZ5XWBLJGJRW5HSItQJnln5t4vkb2SMFEfTDX/TxiBjaxSDuiIvMCXd2hSUPz+w3PU4LY7n0C0QMupEPJ+PaA0mRQE7qeYkeKkdCbG9DgeUePwJdlDQAMmYk1FSyqz92k9RaNC0vMDMBG8mfIHw2Qv1zlXQ13kRS7m6EwfBfTowXhCIMn5QoGYBo5JDfgw6vrJdPg0LAxXAepQ1L0t63uPFre5JonrANxlYH7dIC/0MYIIaiRppjPFIU0/f9keepGlFBU1k=;hdfxm3dqsZp6BHU3WOMWnQ=="
 ---

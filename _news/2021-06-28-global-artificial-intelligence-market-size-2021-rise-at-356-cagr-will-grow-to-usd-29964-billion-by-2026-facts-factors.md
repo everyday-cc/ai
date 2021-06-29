@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-2021-rise-at-356-cagr-will-grow-to-usd-29964-billion-by-2026-facts-factors-2021-06-28"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Social Media Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The report forecast global AI in Social Media market to grow to reach xx Million USD in 2021 with a CAGR of during the"
-    publishedDateTime: 2021-06-29T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-29"
+  - title: "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027"
+    excerpt: "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,"
+    publishedDateTime: 2021-06-29T12:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report contains market size and forecasts of Artificial Intelligence in Global, including the following market information: Global Artificial Intelligence Market Revenue, 2016-2021, 2022-2027, ($ millions) Global top five companies in 2020 (%) The global Artificial Intelligence market was valued at 1315."
-    publishedDateTime: 2021-06-25T15:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

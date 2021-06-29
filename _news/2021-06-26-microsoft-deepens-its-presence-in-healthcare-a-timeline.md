@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-deepens-its-presence-in-healthcare-a-timeline.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
-    publishedDateTime: 2021-06-28T12:47:00Z
-    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
-    type: article
-    provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 42
   - title: "7 big ideas in healthcare innovation"
     excerpt: "From their thoughts on artificial intelligence's potential to transform healthcare to how to better engage patients digitally to what the hospital room of the future will look like, here are seven quotes about the role of innovation in healthcare that hospital and health system executives shared with Becker's Hospital Review in June: D."
     publishedDateTime: 2021-06-28T19:53:00Z

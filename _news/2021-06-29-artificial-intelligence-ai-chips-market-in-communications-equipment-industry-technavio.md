@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
-publishedDateTime: 2021-06-29T01:49:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
+publishedDateTime: 2021-06-29T01:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21757779/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/n21757779/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio"
+ampWebUrl: "https://www.benzinga.com/amp/content/21757779"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21757779"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
 
 related:
   - title: "Artificial Intelligence-as-a-Service (AIaaS) Market in Application Software Industry | Technavio"
@@ -39,6 +35,6 @@ related:
         height: 585
         isCached: true
 
-secured: "/gJ7SbQWPkIekJJ6Gb6oT7Evm96sXtyZ+dlP7h7Yetcam/aq6OQ6TwIAJsmZGZanCLeAfTfXq9N+NZuhK02pue4DYAWYz9iSNdZF56wJUlA3ZFGIhtsoBPKWF91JLQ3MlZwCJF3PdfuoUN9l0/pzV7/Chp8BdiUENnVUKBkGECTJ3x+vTKMb93/lNOKbnVfXguVsv/Y7U9JxDUaIeH806jZZF3x9SbL7ClRBh/ycD+t5exhWTxpj4/6FqooGTsdRWPoo9UJ/eBjrFOePbbL3rwypJ5wum/YRCloUwOmi2HoAvvprF7jR29spYZvR9yX8b+HsIbN4uXbR3us1kj5pT8S1kskz5drtaSfkkL7yfqE=;v6SPm3gBPeRiSh0VREpgRw=="
+secured: "MZEDBBVF0JhxM08lrfCjn/S4kZGQF4u7IrpwD4rLXaGFxDZAAiLm1TbqsKGG8CD5+78AuuGM59zrBOP8YtRGhKKa8+y2DLhvpULENm5raVMiVqoEJwwiwcWia8Ar6nDXefoRpKwjOgMtAmEu/rXr6q9qpY/6YJ8N5fgoCehCOb7ORmESYR8SjDQaQDvNNmbt8ZVaZIQdv4s9E73Q1xN+x+IxN05DzTwMWeMqw1Ia7r+iDR04LWIvZKrZ5DvgQEJbXdin4edFkiz17s0Q5OB/3KJ5I4CpoCJPSrWGmeSUKbSN5H3qG3TNwD9PQnJ5d0pTkb76VpcaZPfYjtJXV1/YVZtDbxub0FTERpotDenyKBu0tqgoFVFWw0sYRatH3dyvTx+TgvDRXrdD+4gs6TCzSXv87oJ8rZWQAkETR+z8KJ32xTCcP9oigBTtoGZBn/wis3Qn12hwtfumuOhRgWOi/64ZEFefp7bCc961UjbaR4jqOUXnFJR46BtM6pTaAPW7KTH0vsMTHo59yUngReqEyg==;RrMTs8vOQOh3vI4iYwuEog=="
 ---
 

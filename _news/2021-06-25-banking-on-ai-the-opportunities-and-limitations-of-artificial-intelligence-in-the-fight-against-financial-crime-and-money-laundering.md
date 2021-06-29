@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The future of US AI policy may hinge on a pretend war against a fictional China"
-    excerpt: "War is coming. Later this year the US military will fight its most advanced war campaign ever as it faces off against a fictionalized version of China. The battles will be fake, but the results ..."
-    publishedDateTime: 2021-06-24T21:30:00Z
-    webUrl: "https://thenextweb.com/news/future-ai-policy-wargame-war-china-autonomous"
+  - title: "How federal and state agencies are meeting the mission with AI"
+    excerpt: "The past year has been a testbed for AI innovation in the public sector. Technology evangelist Alexis Bonnell shares those use cases that stood out to her the most."
+    publishedDateTime: 2021-06-25T16:59:00Z
+    webUrl: "https://www.fedscoop.com/radio/how-federal-and-state-agencies-are-meeting-the-mission-with-ai/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fplayagame.jpg&signature=bab8499891cbf24af0d70358bd722647"
-        width: 1280
-        height: 640
+      - url: "https://www.fedscoop.com/wp-content/uploads/2021/06/GoogleCloud_AI_Header.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "aBssBzduegBQzIEVdSWcp3RXWLRep4VQ+F9EMKHXTFnNw3qkhkrSFucAqRf2lbh8QlTOwj6SpHY46q6W8VDjwWW/CYQ7KIhWXBh/HVUB+pGKO4lqQTqCh9VkoM/VHV1hSL9y2zc0E0hBBxtgAdkGnFyudBUqaDgiYYlofSfdMmeKtVYCTVvP3aPdsvlohGrlrcWclXTVpbUAzz9tLCX7zkBXRnVnHndb/fgHQGrh3hKtmlfFEDLUtgPYR65Hmof72E9WWq0K0ue6ml6ZX7a7yll/kjUtSTdV0O7V5vAc3d0NCfRU/PE7GcqyRAELKahw+bgq8+pXSFhI6jHgQV+KdUAtQx5Dcx3EDYdELsEduJ3uHVVWIWEuE46itD6jpFLQVP8c0QpJTfDEA4J1CTI3LlNeGOgdAiJXyY7LyajuIMUt7ojZANxeLxtUyBRlhNONQapl4a4K7ErUy6GQ/dPHuoV4WB4bM1GaY9RghqCP0t1V/85GTRLPRN7UlvZpUmr22IINRP40fCJMTygI8xxB2Q==;N2bxms15UqfiItHo4mKEpA=="

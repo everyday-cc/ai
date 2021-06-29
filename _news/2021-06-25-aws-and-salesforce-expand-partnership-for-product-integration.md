@@ -24,17 +24,6 @@ images:
     height: 527
     isCached: true
 
-related:
-  - title: "AWS, Salesforce strengthen cloud partnership amid steeper competition"
-    excerpt: "AWS said the move is an effort to \"integrate\" the products of both companies. The extended partnership is also a response to competitors such as Microsoft and Google."
-    publishedDateTime: 2021-06-24T21:53:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/06/24/amazon-salesforce-partnership-cloud.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-
 secured: "tRfbhKLBwfhPY4/WzgesYMx3hOSAnhRAnmTfPWqXk+TGgPJBc4mRBdLP/nm/m4l2oDV9PURt0OL/YWIMs1XgpgA81TrARxC/w47BPa2p3fNzHqA6EUOlFR8klkACFPGF9zyZflre7e33gLVIH9rHNoxFSXH95ZLu9cpsdMWVQlzRyWqlUTpsA3HBxCb5EAJXy+AAYgEoFxVJLQrY9xc34EeS8X0jl+FId455ALtCyV/QwXpucaNzton29vVGhJ71ZWdZbCBdk6zfwHn7svspg2BUacUfDaJWSMmiIoIASyQm2vgtF0K+Fy3U2rcbyvvpt11Xg7VLG2khN7auI+HAuHiR10PC7zv5Cr5VSnmnwqaCOOcAdg8qIE8sP+rs4PVNLnJ/9JILyIW5mHkrE2/lDoFGkEFQ+VdbUpbgcd9GUzh6n+VaAv8Of9QKi0GXqGJbkBPwZsG6yJa+Es8E4QLv1nqh1oByKoBHecYrvZoOGqhOCminn54Hzd+IOId64BcIZt7c+U51xgKpmeodPy1j+g==;FtIq07XKg4aGLwJkUFeSSQ=="
 ---
 

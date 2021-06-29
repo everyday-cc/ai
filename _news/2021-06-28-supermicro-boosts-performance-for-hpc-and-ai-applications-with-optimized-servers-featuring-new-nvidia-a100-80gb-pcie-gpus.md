@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-publishedDateTime: 2021-06-28T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+publishedDateTime: 2021-06-28T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -101,20 +105,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
-    excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
-    publishedDateTime: 2021-06-24T23:00:00Z
-    webUrl: "https://siliconangle.com/2021/06/24/nvidias-vid2vid-cameo-ai-brings-2d-photos-life-video-calls/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/EMBARGOED-Vid2Vid-Cameo-Image.jpg"
-        width: 1280
-        height: 680
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -136,13 +126,13 @@ related:
   - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
     excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
 
-secured: "JkahdJN/7XO40raFjx6aYs/CpCmEHKI9th2m5f03LmUT/hInEjh7QFn1lbMB5e/09euaafy6tz3khamuHeEi7U4z9tbvYyU8LnOo2wuShis9SKuRuai/lJ+Rd7JGA1+wJII6W8cyywU9I0LyQ36oyMQFDpQBL18DCmOh2h/uTkIwhTia4S5z8VwA3G6Oua2O/4KdmXyJKJICJFZvBAZtJe7o0z6ltfG0Zo0X9eIJqYfR3/ZN++x9EcrVrvxs5Uv9eKEOpINYhNCQuApHIx3tP2hWySYWkg0GhuUVunCIGPRojuzeMZzhLmUG7dKpUWqdSUHMU+c0HRxjssE0b5B4Ou2kza1+Dzl1wGkidoBcX1Y=;xSndsMyY/cKwYKPR8Cwmng=="
+secured: "TaTjaa+sfrMqj8lUjKKC+Y79mNBQqwp4pR6oivXG5S/b3fwwxmlB/SmwCpc5/fmCz+m656oMWhCR8NAZnCFfPD8OrTi+/7xSUcXPvXIMtqBgZGq6RwhVbloz5parw2jerSFHNZoKkPvPgl1SRQgqGjD+pqajrfj3gf/JptqZo8zGG5q4gi5tjEzRRa606uA6XqpRcCSq6wfSO+lHaihYT8POCatBSDyZL3W9sFRcFprQAfIJ89yPPjkvCWCl0SImMpKuQFf4RtU5+qsIV3SZr4+lvRo686g2BTK9b9v5IrNw2RRVr+ULdsN72QS8igf8JzUPJKhR94Uwdz4EahnLp0pNnzTVPdu1rtePsL50zXs=;YWokE2VyK8d2AoNqsU1jJg=="
 ---
 

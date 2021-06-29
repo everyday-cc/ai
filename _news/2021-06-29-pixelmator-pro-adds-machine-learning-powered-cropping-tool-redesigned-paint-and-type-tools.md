@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 714
         isCached: true
+  - title: "Pixelmator Pro 2.1 Coral Released With Machine Learning Crop, Redesigned Type Tool, More"
+    excerpt: "Pixelmator Pro 2.1 Coral has been released bringing a new ML Crop and Redesigned Crop Tool, Quick Fill, redesigned Paint Tool, improved Type tool, and more."
+    publishedDateTime: 2021-06-29T14:40:00Z
+    webUrl: "https://www.iclarified.com/81571/pixelmator-pro-21-coral-released-with-machine-learning-crop-redesigned-type-tool-more"
+    ampWebUrl: "https://www.iclarified.com/81571/pixelmator-pro-21-coral-released-with-machine-learning-crop-redesigned-type-tool-more/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/81571/pixelmator-pro-21-coral-released-with-machine-learning-crop-redesigned-type-tool-more/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 50
+    images:
+      - url: "https://www.iclarified.com/images/news/81571/81571/81571-640.jpg"
+        width: 640
+        height: 354
+        isCached: true
 
 secured: "5An9Y9jlucS+5tGky9YtKJj6g8oIO2t7keIMoDNWlb47xLiTVVW5PIPSD3mv4SEcI/mcsMLUrsEkZnti8EkQjDB5wZ6dm4oVbegxL0/O3Y1psVn3zsWBPhVV4EtJzdppWH2KOYoAmCmOd6TcxnmMRdMIs/idspw9tbEYQA1RsLFElxs1gE5rDHDVKv6VenjXXHWTACJ9PHOB3YrDND6Y17ZNJHw3H6Q4dV06T798CHdj8tEa9DgpXf91wJkZSdYtEA3iraOytQRoD2sLtX4tymw6iEzJl3xJaLfn7mjs+sJzpfJPgMc+P50AzW0OXajjOokmUxpFcyMizif5MdsDAfkqE+ZwEdiKQ2GIw7w/Xh/GoW+RgxJEGZ3IvV6LI9/PFGKeSUvM7tKNGFbLhX1tKpztFHPYO+gQdEFqRIKK9q+l3UyO4Fys1B/P7n/4oeV73hPjvRI4af4R4pgwUaHOS0h6iKm+icKA/iLRAE5Fe5wzhnOHmfwVyPHe4dUjnR5ZZUaBiAwxwNTlblXHB/zYVQ==;WWHah3TkJcGTY1XdrGWIBQ=="
 ---

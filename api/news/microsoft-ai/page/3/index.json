@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-04-usaf-and-industry-research-cognitive-algorithms-for-contested-environments.md",
-      "title": "USAF and industry research cognitive algorithms for contested environments",
-      "excerpt": "The USAF Research Laboratory has picked Black River Systems as its industry partner to research and develop prototype software and hardware for the Cognitive Algorithms for SIGINT Contested and Degraded Environments (CASCADE) initiative. Work on the $11.97 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
-      "originalUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.shephardmedia.com/live/default/media/cache/images/images/article/USAF_ISR/9d427340395e3be5e6716eea9605f135.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-04T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shephard Media",
-        "domain": "shephardmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-04-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-already-are.md",
       "title": "Microsoft tasked with making Messi and Hazard even better than they already are",
       "excerpt": "Azure Machine learning will enable an enhanced OTT streaming platform that features personalised recommendations and enhanced experiences with relevant content, games and services. The Microsoft ...",
@@ -1335,6 +1292,50 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-google-uses-io-to-flex-its-ai-prowess.md",
+      "title": "Google uses I/O to flex its AI prowess",
+      "excerpt": "AI announcements at Google I/O last week trigger discussion of Google’s position vis-a-vis AI services at other cloud platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
+      "originalUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://diginomica.com/sites/default/files/images/2020-03/shutterstock-Merydolla-395593495.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
+      "publishedDateTime": "2021-05-26T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

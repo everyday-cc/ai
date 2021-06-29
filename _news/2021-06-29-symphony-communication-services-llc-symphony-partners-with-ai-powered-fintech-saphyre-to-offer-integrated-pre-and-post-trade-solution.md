@@ -89,6 +89,22 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Identity Verification Service iDenfy Partners Fintech ClearShift, which Offers Currency Exchange, Global Transfer Services"
+    excerpt: "iDenfy leverages advanced AI and biometric technologies to address compliance requirements ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. Dalmore Group welcomes ARK7, a newplayer in the rapidly expanding RegA+ series issuer ..."
+    publishedDateTime: 2021-06-29T14:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 18
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/05/Digital-ID-Identity-Identification-iPhone-600x518.jpg"
+        width: 600
+        height: 518
+        isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
     publishedDateTime: 2021-06-28T13:00:00Z
