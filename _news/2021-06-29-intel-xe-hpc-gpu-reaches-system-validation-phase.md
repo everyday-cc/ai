@@ -7,7 +7,7 @@ originalUrl: "https://hexus.net/tech/news/graphics/148037-intel-xe-hpc-gpu-reach
 webUrl: "https://hexus.net/tech/news/graphics/148037-intel-xe-hpc-gpu-reaches-system-validation-phase/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Sapphire Rapids 10nm Xeons And Ponte Vecchio Xe-HPC GPU Prepare For EPYC Battle"
-    excerpt: "The next generation of Intel's Xeon Scalable processors codenamed Sapphire Rapids will feature high bandwidth memory (HBM), the company confirmed at the 2021 International Supercomputing Conference (ISC)."
-    publishedDateTime: 2021-06-28T16:00:00Z
-    webUrl: "https://hothardware.com/news/intel-3rd-gen-xeon-scalable-sapphire-rapids-ponte-vecchio"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-3rd-gen-xeon-scalable-sapphire-rapids-ponte-vecchio"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-3rd-gen-xeon-scalable-sapphire-rapids-ponte-vecchio"
+  - title: "New Intel XPU Innovations Target HPC and AI"
+    excerpt: "At ISC, Intel showcases how it is extending its lead in high performance computing with technology disclosures, partnerships and customer adoptions."
+    publishedDateTime: 2021-06-28T16:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210628005138/en/New-Intel-XPU-Innovations-Target-HPC-and-AI"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 52
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55521/content/Intel_3rd_Gen_Xeon.jpg"
-        width: 708
-        height: 502
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "BWszN+q7vzD776mnTDX4Y0oIHf1JfooCsMMENptQ/okYvk4e8SeqoRyWq9w8sWKlcKhtb7eTnNsgYi8rMsHZ8oy/PjmFje9+a7UYtrNI4jAIu07AAuXm7TIrB5aBzk+XQQFN31a7MC9lKhCvQYT4KC1WXSA3MPLKlH3mgTpeS9y3g4g4otwHOgtzl1+6uGzpnw9WMosJVQPd3yfqU8tqRefx4QMuS1WYL9N9VhsQyOrXltxFvnAw2MxnJAtFE8hdHwnfX2aZYoVOZ6hsUPSZbldhhmszu3YDiabe3+QocKjbN6xoOVOqgDI6el30wGP9fUCXR79EK+pOI4eRjbEgbzjeZcmODTBsHBn1W+uQ8Y4=;nJkeH39ZV8N0ahM0K0NjWw=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "EXCLUSIVE-Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving startups such as Alphabet Inc’s Waymo and General ... Pony.ai, founded by former Google and Baidu Inc engineers Peng and Lou Tiancheng in 2016, has so far raised more than $1 billion, including $462 million from Toyota, valuing the startup ..."
+    publishedDateTime: 2021-06-28T09:06:00Z
+    webUrl: "https://cn.reuters.com/article/autonomous-ponyai-ipo-idCNL3N2O70X9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL3N2O70X9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2O70X9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566947948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O0G8"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Self-Driving Tech Company Pony.ai Considers Going Public"
     excerpt: "Pony.ai, a self-driving tech firm backed by Toyota, is mulling going public to help finance its goal of commercializing driverless ride-hailing."
     publishedDateTime: 2021-06-25T16:26:00Z
@@ -162,6 +178,20 @@ related:
       - url: "https://img.caixin.com/2021-06-28/1624875462282569_560_373.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "Startup Using AI to Improve Animal Breeding"
+    excerpt: "A startup in Hancock County is using artificial intelligence technology to help livestock farmers improve their animal breeding efforts. Verility LLC has developed a device called Fertile-Eyez, which"
+    publishedDateTime: 2021-06-29T17:54:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44208575/startup-using-ai-to-improve-animal-breeding"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20962823_G.jpg?lastEditedDate=1624973444000"
+        width: 960
+        height: 540
         isCached: true
   - title: "Toyota-backed self-driving startup Pony.ai considers going public in the US"
     excerpt: "The startup has also tapped Lawrence Steyn, vice chairman of investment banking at JPMorgan Chase & Co, as chief financial officer."

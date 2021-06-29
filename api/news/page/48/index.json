@@ -2,6 +2,282 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-05-25-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
+      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
+      "excerpt": "The result is the modern epidemic of low emotional intelligence: in many cases, we do not know how to read others, we do not know when to listen, or we do not know how to communicate with people who are different from us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
+      "originalUrl": "https://www.chron.com/business/article/The-Missing-Vaccine-in-the-Pandemic-How-the-16198963.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/16/70/21032496/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-baidu-beatdown-is-overdone-so-nows-the-time-to-jump-in.md",
+      "title": "Baidu Beatdown Is Overdone, So Now’s the Time to Jump In",
+      "excerpt": "It’s a sign that Baidu’s serious about self-driving tech – and the bears should reconsider their positions on BIDU stock. Apparently, investors just aren’t ready to give Baidu a break ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
+      "originalUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/05/bidu-stock-beatdown-is-overdone-so-nows-the-time-to-jump-in/amp/",
+      "publishedDateTime": "2021-05-24T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-firefliesai-puts-14m-into-its-ai-videoconferencing-assistant.md",
+      "title": "Fireflies.ai puts $14M into its AI videoconferencing assistant",
+      "excerpt": "Fireflies.ai, an AI-powered videoconference note-taking tool, has raised $14 million in a series A funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
+      "originalUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Copy-of-FoundersPicJ219-1.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/fireflies-ai-puts-14m-into-its-ai-videoconferencing-assistant/amp/",
+      "publishedDateTime": "2021-05-24T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-kiromic-announces-fda-ind-submission-first-in-human-ai-derived-off-the-shelf-isomesothelin-gamma-delta-car-t-cell-therapy-30-days-before-the.md",
+      "title": "Kiromic Announces FDA IND Submission First-In-Human, AI derived Off-The-Shelf IsoMesothelin Gamma Delta CAR T-cell Therapy, 30 Days Before the End of the Second Quarter",
+      "excerpt": "Kiromic achieves key milestone for this first-in-human Phase 1 clinical trial with a target derived by Kiromic’s AI platform. HOUSTON-- ( BUSINESS WIRE )--Kiromic Biopharma, Inc. (Nasdaq: KRBP), an immuno-oncology target discovery and gene-editing company with a proprietary artificial intelligence neural network platform (Diamond AI) that is used to develop novel oncology therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter",
+      "originalUrl": "https://www.businesswire.com/news/home/20210524005256/en/Kiromic-Announces-FDA-IND-Submission-First-In-Human-AI-derived-Off-The-Shelf-IsoMesothelin-Gamma-Delta-CAR-T-cell-Therapy-30-Days-Before-the-End-of-the-Second-Quarter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
+      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
+      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
+      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
+      "publishedDateTime": "2021-05-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-the-missing-vaccine-in-the-pandemic-how-the-shortage-of-emotional-intelligence-is-driving-everyone-crazy.md",
+      "title": "The Missing Vaccine in the Pandemic: How the Shortage of Emotional Intelligence is Driving Everyone Crazy",
+      "excerpt": "Learn to develop self-leadership and to govern your emotions in the face of situations that are happening at full speed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/372732",
+      "originalUrl": "https://www.entrepreneur.com/article/372732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1621869982-Depositphotos-160926830-l-2015.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/372732",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/372732",
+      "publishedDateTime": "2021-05-24T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-24-bridging-the-stem-divide-ai-hackathon-helps-young-women-excel-in-computer-science.md",
       "title": "Bridging the STEM divide: AI hackathon helps young women excel in computer science",
       "excerpt": "The post Bridging the STEM divide: AI hackathon helps young women excel in computer science appeared first on The AI Blog.\n",
@@ -890,308 +1166,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning.md",
-      "title": "Request for Information and Comment on Financial Institutions' Use of Artificial Intelligence, Including Machine Learning",
-      "excerpt": "Agency: \"Board of Governors of the Federal Reserve System (Board), Bureau of Consumer Financial Protection (Bureau), Federal Deposit Insurance Corporation (FDIC), National Credit Union ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/request-for-information-and-comment-on-financial-institutions-use-of-artificial-intelligence-including-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy.md",
-      "title": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy",
-      "excerpt": "Google AI Unit DeepMind Tried and Failed to Gain More Autonomy For years, senior managers at Google's DeepMind artificial-intelligence unit sought to negotiate more independence from the parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
-      "originalUrl": "https://www.wsj.com/podcasts/tech-news-briefing/google-ai-unit-deepmind-tried-and-failed-to-gain-more-autonomy/8238426b-fbc3-4cbb-89af-fb2ec3c6dc81?mod=error_page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-29358?width=400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-mayhill-facial-recognition-technology-used-after-swansea-disorder.md",
-      "title": "Mayhill: Facial recognition technology used after Swansea disorder",
-      "excerpt": "More arrests are due to be made this week and facial recognition will be used to trace others following violent disorder in Swansea, police have said. Seven arrests have already been made after cars were burnt out and windows smash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3EF3/production/_118651161_ethan1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-57213543.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-57213543.amp",
-      "publishedDateTime": "2021-05-23T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-british-ai-startup-faculty-raises-425m-growth-round-led-by-apax-digital-fund.md",
-      "title": "British AI startup Faculty raises $42.5M growth round led by Apax Digital Fund",
-      "excerpt": "British artificial intelligence (AI) company, Faculty has raised £30 million ($42.5. million) in growth funding from the Apax Digital Fund (ADF). The startup has now raised a total of £40 million ($56.",
-      "sourceUrl": null,
-      "webUrl": "https://faculty.ai/",
-      "originalUrl": "https://techcrunch.com/2021/05/23/british-ai-startup-faculty-raises-42-5m-growth-round-led-by-apax-digital-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://faculty.ai/wp-content/uploads/2019/01/faculty-logo.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-from-driverless-cars-to-robotic-warehouses-china-looks-to-automation-to-solve-population-issues.md",
-      "title": "From driverless cars to robotic warehouses, China looks to automation to solve population issues",
-      "excerpt": "China's labor market faces a number of challenges such as an aging population. Automation could be one way to help solve some of the issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "originalUrl": "https://www.cnbc.com/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106887024-1621820914756-WeRide_Robobus.jpeg?v=1621821127",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/24/china-looks-to-automation-to-solve-population-issues.html",
-      "publishedDateTime": "2021-05-23T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence.md",
-      "title": "The New Global AI Arms Race: How Nations Must Compete On Artificial Intelligence",
-      "excerpt": "As governments race to unlock AI’s potential within their countries, who is leading the pack, and who is falling behind? Get the latest research and advice about what it takes to get an advantage in the global AI arms race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ab281ca1b0ba2e75b5b640%2F0x0.jpg",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/05/24/the-new-global-ai-arms-race-how-nations-must-compete-on-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-05-23T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

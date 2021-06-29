@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
+      "title": "AI safety tools can help mitigate bias in algorithms",
+      "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/bigdata.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/",
+      "publishedDateTime": "2021-06-29T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-douglas-coupland-fuses-ai-and-art-to-inspire-students.md",
       "title": "Douglas Coupland fuses AI and art to inspire students",
       "excerpt": "Have you ever noticed that the word art is embedded in the phrase artificial intelligence? Neither did we, but when the opportunity presented itself to explore how artificial intelligence (AI) inspires artistic expression — with the help of internationally renowned Canadian artist Douglas Coupland —",
@@ -216,6 +268,50 @@
       ]
     },
     {
+      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
+      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
       "title": "DeepMind wants to use its AI to cure neglected diseases",
       "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
@@ -256,59 +352,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
-      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
-      "excerpt": "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
-      "publishedDateTime": "2021-06-22T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
       ]
     },
     {
@@ -1440,51 +1483,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
-      "title": "NVIDIA pivots to AI for enterprises",
-      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
-          "width": 1124,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
-      "publishedDateTime": "2021-06-02T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

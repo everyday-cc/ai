@@ -25,22 +25,6 @@ images:
     height: 495
     isCached: true
 
-related:
-  - title: "AVER LAUNCHES ADVANCED 4K AI ALL-IN-ONE DISTANCE LEARNING COLLABORATION SOLUTION"
-    excerpt: "AVer Information Inc., the award-winning provider of video collaboration solutions and education technology solutions, announced today the launch of the"
-    publishedDateTime: 2021-06-28T17:36:00Z
-    webUrl: "https://www.eschoolnews.com/2021/06/28/aver-launches-advanced-4k-ai-all-in-one-distance-learning-collaboration-solution/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 32
-    images:
-      - url: "https://www.eschoolnews.com/files/2021/06/AVER-VB130-Camera.jpg"
-        width: 768
-        height: 507
-        isCached: true
-
-secured: "C+NfVaFyQxyFI4AlfMThaLz5ihoYvCyvQzugCXZQx7rqoZf16YIltNQ8ZHD60w+K37WIWhhGcH10m/lLNU7Z7ZG4LKgADdzDCQ3TrBwYp/aI2aEhkLImxMoYb7MSUXSimmSdqS7Brr6knqhFfP8tYxZdZUgBKXwxauo6NtljNhhA8DohnbjkEftnIb4d/5DLRhadObxCuQI0fqev8vqGWdgu4UZVvTqrqnxiCM2Iat/zPzdzpfjsrHk+ocTbrMbHyXQlvM4ODo2UUTU6wCJ8fVKqyCglkLfyzBVmaWe3kB63Ow276JrUux7/gI0llUv3pcHbSP9HqRYqSQE9imUAv19J2lNT+8qV3jnbOKkpngQ=;hf/NYKZ+uOfgaMqYsGhCWg=="
+secured: "VOT0yIzDqtEl1rz76puPFqvbZgyB0o3KD5JBRL4PTJ8VBxgLWoK8I783qROFCqjdmoPmtGp4jGoE72aIbZL7v0PbatU2YmlFwXwZthkmdq3Le2QbOCGD/W/gqrVDF1/TU+nIm1hrYrskxyIKbY3Bri7yF/BQxL3agKZcU4xBVQpfX49CgfiDWDxA4pyGLCH+BHVSsGF9C7Xbnf+63yXlJpKZQFfr540iUn9vs0DRFWvkkDRbW0Er1uQGvc8oStF7ldYhUCYpMlupem4ek+38qqD6RkE0dHqb+5ZxcasnnoeGZEhgPGzD+zK026ghfHM1ZG3yJzFiju3cHI73+ytmEqZB0L4vNxg2FiiKcILV0ZsTQAzypM1hLwzVx1SkNkHfFQmqGZ3dfY7pLI2qlwL7pIZLifLi6GFR/yVZMsttoNSr2eim7S+fc5GZqk/gn9AKCHWyjYqhAHOb15xJaadl29tlzv5vbg6rbKqkXPBEvWoirJeoWJFXGuEW36CUFOwlTGJCV3ac891eIscEvT/UnA==;un5OjEEUiccZF1KiS1Cttw=="
 ---
 

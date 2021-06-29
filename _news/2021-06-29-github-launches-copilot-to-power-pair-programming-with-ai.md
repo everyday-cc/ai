@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-power-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/github-launches-copilot-to-power-pair-programming-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
+    publishedDateTime: 2021-06-29T19:56:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
   - title: "GitHub previews new AI tool that makes coding suggestions"
     excerpt: "GitHub has unveiled a new product that leverages artificial intelligence to help you write code more efficiently. Named GitHub Copilot, today’s new product can suggest lines of code and even sometimes entire functions."
     publishedDateTime: 2021-06-29T15:53:00Z
@@ -54,7 +70,7 @@ related:
     provider:
       name: Visual Studio Magazine
       domain: visualstudiomagazine.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
         width: 647

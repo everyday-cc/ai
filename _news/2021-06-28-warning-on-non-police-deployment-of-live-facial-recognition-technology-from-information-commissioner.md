@@ -43,6 +43,22 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
+    excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
+    publishedDateTime: 2021-06-29T18:47:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 42
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSYOA6S7JEI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 803
+        isCached: true
 
 secured: "wkWutVHHcmT1IIXCSs14HFfsCHXBPC3UqXZZ2tjHhDv3qOGjki/ZM0vtZUs4Z6tzNWAfyyxYv3Z2MtppZjqF8aad3YgXWjfgvyRtH6+T5A2FJMk0PI3MGmWhE+T+cwXEi3xAK2IdIeinZz7bs4L6H98QAGukQDQxTdOaSrgg+iJR6z62v9IVrSUbPgYvOZMnelWV0SleMmkZvZH+iDr4MRd8fNFCbvLcWd2nRa3pEFvK3stFQ92K3byFYvjWtLXog1/Kw1wQRoEyedDT7hweAPk3bqtdaDLnZj+qsUIKx8IFEri3sCpa0Z7SDZrt+n2ko5ThWxNK22bBrhkC3UA5iQttsNlfroKbIKgvsSrrJmOofKZJIdBrTHM+0AB39nYaYcj7Ojy569wtGbHyQW85sf6oe/e1OmmNeCmFbOqXxZ9qAlNxVq2F13p5pH04DqWdv85Z/UQHLapoKghzn5X+I+4PWf+PUA9kRRChuymBEc6RARGD+Q5nU7MMLSPTpXrJdsxeAYRVmnTy+61W55nbHg==;8h6yDHokth+9pHIaPN92zQ=="
 ---

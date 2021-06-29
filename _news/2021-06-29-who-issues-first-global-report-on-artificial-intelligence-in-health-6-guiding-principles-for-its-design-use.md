@@ -4,9 +4,9 @@ title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 G
 excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
 publishedDateTime: 2021-06-29T14:29:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
-webUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
+webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
 type: article
-quality: 22
+quality: 98
 heat: -1
 published: false
 
@@ -15,15 +15,7 @@ provider:
   domain: insurancenewsnet.com
 
 topics:
-  - AI Ethics
   - AI
-  - AI in Healthcare
-
-images:
-  - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
@@ -166,6 +158,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4i6/gwiM13NaR0gSnfOMhyO+RZL3I0YvHbr0bI9Ssglo7KUIien+PMetLu3zZ7tPrGZfldEProGV9dERdUXs7XsOJgFIMaK1dJzbzpt8838ZrOnbv8Md3oqBj3M/4PMev3WKCPuZQ+ngdXy/8DfoLkgVpgnuGng6CP7WdZAGkk4PbjCCs2GlhqLmnZrcOsgBIImURGk37Tqu/ms4LXhTF/A4wJk4yyGTV2KEpZdKRMBlntd9/4HfTMBEbynvk+8Fcx3TsvPHrB8VQY4a4jaNEFT1YY7ghghK6EeLXS1ej9ZuP4bsHi/7vxG9GFrX7uPMuUaChgcSTdZtdg3jD3zDcaiKl/lTZDIHYQAicJCUszo=;fudNrMvo3n4x8/peG6GRlw=="
+secured: "6nO34Vxu8dOtxTiOo09a1Y7u1MrBDylqlmOe6VXDE6jOquVB8/L5zjJAhDlU/EQqTGTpaL/EGdBfiIhCxcsqmLbZX6qqM+/NoF/RmmMyTwhUxoWTZQ2SPyb89t7FFMuEIPKdo9GbkJEhU7ert6F3qoK374rUrI3+mOtKx/eZ214faL+q6J3qk3KrJ4Yu01nXHMDdbp0QL3pGBu+ARZxsm6uUpDYmjoq/Poz/5YgGOvKeJBECuYim01uq9xRrfXgU2TbtQs6WoIFL+6u9uWsJw4kqbyJNBlQBUYNXnauWoqzFflopNsV7fjvinMx+saV+/OI8p88w87nSxV4SzAfQowW69Yp7rT5CwR3JG++vWi4=;35eb4EHluvTdrne9OBSCJg=="
 ---
 

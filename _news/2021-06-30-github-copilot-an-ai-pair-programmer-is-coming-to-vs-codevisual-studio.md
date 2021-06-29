@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-29T17:49:00Z
 originalUrl: "https://visualstudiomagazine.com/articles/2021/06/29/github-copilot.aspx"
 webUrl: "https://visualstudiomagazine.com/articles/2021/06/29/github-copilot.aspx"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
@@ -24,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
+    publishedDateTime: 2021-06-29T19:56:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
   - title: "GitHub launches Copilot to power pair programming with AI"
     excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
     publishedDateTime: 2021-06-29T15:00:00Z
@@ -57,6 +74,6 @@ related:
         height: 576
         isCached: true
 
-secured: "v1PCxKB+MYUgcBwuZP/F1P8YG8DRKTAMq2XmyOE32788knDpWe1Eo8aa28F3LNj7At/oAwDblGDBpUhCrt879sHrupb170ZvUPPv1D5aCbGnHuH/3zt2sCdkFE5qkNiJnEQMpRA3TtZ9Wws25wuFMPNJgLTqe1Jsvx3NbFBlh94nihSMZPzZSku2hwO2R0TYHrVkw3BT7YxJnMJ8UpQOkfoZspCGjNe7llihrH1JzGa/wzG48BrVHwW+C36GAzsvL6eBgEYX6GuwEjRRNyf+VU6e3PG/b0aPuxIQd906ieDzcPDVPNKjnEuTYpRSWVy7TmVBVpLM+5lT6LjztGmOP3/vCAVbTyW+48/rMGB51Pw=;C+Fu0Y3nPWBDVdEWXmrcJA=="
+secured: "ZM1xogO6LMGgmXAghhS1MFYxY7eqZNpi7X3Z+qZdJPUwh+9mF2eBgAc/JBbJ1/PRyyDAjXwXWDwTSRfYTdU4NKy6/Z9cF3/b0Jza98U1Y9MlSbzu/uaWTBlQVvMJDCkdj/ZwHuEJiYaUzB769J2mGjg1R8hmh0L9n/CQIVq5Pg+qd1FSvn/QN3OorUH/pwY3eruWZ27qVbQWUF/cyuZqVPxZWCkL+hm5JFzflzZaKYm/Vydrz87xiJr5td8fDA0SRDzBsNl93tb9pZ8nZIbxSYqCsnq3gM6+NPklt1FxZDKv+ED5xRNARVe+vjnKYNlpo2S6uSrfu05En9F0Dlxs1tlOc0+sXmQZ7K+1DOJTkqTp80VLVQkGbVwuTsPapI0p9Wn2ULwKi8rgToHk3t5006Q8nyiNKLvlWyTiLhOqQT2yxAckXk1zi/RMfhJP26RvLU8jdc2QJxVTSSHSi2l2gjrb9lc+fdB1sEeOEGkiD7Lqy6eqSZBOHH5PtFtnTaf5IBXTz1zVpSv6KSXeRZXB7w==;gHPk3vmtJaYiSpUTuFO2rA=="
 ---
 

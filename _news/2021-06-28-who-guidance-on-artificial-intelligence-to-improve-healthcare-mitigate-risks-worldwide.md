@@ -35,6 +35,15 @@ related:
       name: Armed robbery in Revesby
       domain: miragenews.com
     quality: 104
+  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
+    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
+    publishedDateTime: 2021-06-29T14:29:00Z
+    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 98
   - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
     excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
     publishedDateTime: 2021-06-28T20:10:00Z
@@ -150,20 +159,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
-    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
-    publishedDateTime: 2021-06-29T14:29:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 22
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "rqauiccAU00UxiUhnrOu00iS9cmbDkY26DCWvOEVyoiDGsh1xdX1IJnx4QJyfZiJwzatMK1M1DO8j6weZiIgytqvAZjwHJugYpK4/tGEqr2OVuxngl3Brw1A6H1gsH+1uWZYd/ugP9szo+EgDSR/jAIN0/Tz7mhJMCma0Np5UJg0C8Oy/BlAh1K13R90B4tWuse8wzMZVA3B8aFBfDw2o9sn1FT9H1kJeiWzET/c2XffvI54VELuYEn2Eh3P4JS5IyLMGrGcMhCO3hOn11kn8IWaNsrYNklVR29sLilFBnb8yraywof9xym2OI9xAvVdnCOAaLK4MHrY7FfZWtGqOXJiJMgqrFrJVmjP5qFbf2cBBeseJIwuYQRlRBdH7ad0F6f9uzZWgwFK2WJ7zSzubO8ZO8rDWDQFmuFg3+HFVAqVTU6JwoX05+FAE4D7vW+DpjvYfbsrBsItf9CoDANWAhpTaxKErQbup6IUpb8/Sah4VC956jGdY0GFnaJxtNmHV8+YZym4YlO4YP/vW0JoTA==;TVVIjhJHZQkbX4t96c53JQ=="

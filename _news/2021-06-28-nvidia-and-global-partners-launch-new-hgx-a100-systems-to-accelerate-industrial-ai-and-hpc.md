@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
 excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
 publishedDateTime: 2021-06-28T07:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
 type: article
 quality: 9
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
 
 related:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/28/1c102c45-d50e-40bd-b886-ba81441d0b3c/nvidia-ai-on-5g-roadmap-june-2021.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+    publishedDateTime: 2021-06-28T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
@@ -95,20 +109,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -128,6 +128,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "vszx7IJXG7+IEqcZcyGuPay6KKT5tWwIU8hMK+J/VOXZAQtOSDnnUvlXgEawEYyv4PQegmwdtNK1njXs0wTiYbMAaSgahYtAVm8bE8Fq0pmttEsx2ki+f81oZdVlccncAclimeAmKvlV66QTjr4qF/TJwyC2+0S3lgQ3NTDZf76YDL9jqLU7R7sQgOE7sc+DBLDX+kMH9k98dP4cr5z/p8SoqcCl8pgnv0pmZ3rjiPWkd5+Glyedj8k5I9fXPeIHwJ/aeU9eIQHUw2Yj8Gjm2XWk29UnA87HmakNVjf7RIjJo+2SeBvyM8ReFuF4Di0eKctkFuXrpif8P0tz5Or/wWYlT7al59pVlLvG8HfBM20=;Dj0zIjHPM//yIvg2/cN0gg=="
+secured: "DRZ28/77I0rMIv6hjX5mVWwsZXGK+iBnzynQK9d5b3ogGxn4GWxmx/M39Y2yHuA2aurqMAn+Hs85ogthoBJ1ILihjsre8IqRbrp469M6eY1fCPDTTSbaX5AjeCnL6moRMFVb9W6oviAUe9VYpn82NkcKIA+UL/SJ1Wm+zrv/ZA7B34zt3rddV0ir3Xl6g1yzBUnizPEc0d3o9O1dFO7HoUQjYrCjsbRtAeRzlJ1I/ikdFDU+bvH8HqC8xQvZrX5ZXluhJBN+bWSMHY8pD7EYkcgW75FHiNWQ8Er4I7om/kNLHZPJpAOL3oTzfhS4PBuJIeOHZMdM5QDCkXpy53NhE5NF5Hxv5fezi5+qMJoTRDs=;P7zMSfLizeFfwCGe4fi3AA=="
 ---
 

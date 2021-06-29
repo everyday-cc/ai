@@ -2,6 +2,230 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-28-ai-and-computer-vision-remove-the-need-for-cell-biopsy-in-testing-embryos.md",
+      "title": "AI and computer vision remove the need for cell biopsy in testing embryos",
+      "excerpt": "Despite continuing controversies over its value in improving birth rates in IVF, testing embryos for their chromosomal content has become routine in many fertility clinics. Embryos with a normal complement of chromosomes (known as \"euploid\") are known to have a good chance of implanting in the uterus to become a pregnancy,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-embryo.jpg",
+          "width": 1920,
+          "height": 1542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
+      "publishedDateTime": "2021-06-28T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
+      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
+      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
+      "publishedDateTime": "2021-06-28T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.md",
+      "title": "WHO issues first global report on AI in health and six guiding principles for its design and use",
+      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights",
+      "sourceUrl": null,
+      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
+      "originalUrl": "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armed robbery in Revesby",
+        "domain": "miragenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
+      "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
+      "excerpt": "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-facial-recognition-tech-for-bears-aims-to-keep-humans-safe.md",
+      "title": "Facial recognition tech for bears aims to keep humans safe",
+      "excerpt": "A town in Japan is planning to use facial recognition on local brown bears as part of efforts to reduce the number of bear attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
+      "originalUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg",
+          "width": 1130,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
+      "publishedDateTime": "2021-06-27T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
       "title": "Artificial intelligence at the service of the company",
       "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
@@ -53,7 +277,7 @@
       "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -636,7 +860,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -731,7 +955,7 @@
       "originalUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -960,253 +1184,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-aerospace-robotics-market-professional-industry-research-report-2027.md",
-      "title": "Aerospace Robotics Market Professional Industry Research Report 2027",
-      "excerpt": "Aerospace Robotics Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Aerospace Robotics Market currently leading in Europe,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
-      "originalUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png",
-          "width": 772,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-kellogg-exec-on-ai-uses-cases-implementation-and-culture-change.md",
-      "title": "Kellogg exec on AI uses cases, implementation, and ‘culture change’",
-      "excerpt": "Kellogg is among the many companies embracing AI and automation as the pandemic presents new challenges -- and opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/",
-      "originalUrl": "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/kellogg-exec-on-ai-uses-cases-implementation-and-culture-change/amp/",
-      "publishedDateTime": "2021-06-25T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-reduce-computer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker.md",
-      "title": "Reduce computer vision inference latency using gRPC with TensorFlow serving on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly using computer vision (CV) models for improved efficiency and an enhanced user experience. For example, a live broadcast of sports can be processed in real time to detect specific events automatically and provide additional insights to viewers at low latency. Inventory",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/15/1-3850.jpg",
-          "width": 800,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T10:37:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm.md",
-      "title": "Black box ploy to fool face biometrics announced by AI security firm",
-      "excerpt": "Adding a little calculated noise to digital photos of a face can convince some facial recognition systems that they are looking at another person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm",
-      "originalUrl": "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg",
-          "width": 640,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more.md",
-      "title": "Ag tech is working to improve farming with the help of AI, IoT, computer vision and more",
-      "excerpt": "These leading technologies will play pivotal roles in transforming farming practices to help feed a growing world population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/25/22b8a7b9-529b-4243-92a0-490a432fb750/resize/1200x/1bdbc397c8c1c5c174bbf20591edd38e/smart-farming.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/",
-      "publishedDateTime": "2021-06-25T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

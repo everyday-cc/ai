@@ -25,101 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration"
-    excerpt: "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market."
-    publishedDateTime: 2021-06-25T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration-1030553356"
+  - title: "FinTech Goes Niche With Slice’s Pizzeria Payment Platform"
+    excerpt: "As restaurants grow more digital, with more solutions providers emerging each month to meet their evolving needs, restaurant technology is growing more granular."
+    publishedDateTime: 2021-06-28T16:44:00Z
+    webUrl: "https://www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/"
+    ampWebUrl: "https://www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/fintech-goes-niche-with-slice-pizzeria-payment-platform/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1538623/AIZEN.jpg"
-        width: 400
-        height: 225
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/slice-pizza-payment-platform-457x274.png"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
-    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
-    publishedDateTime: 2021-06-29T12:57:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270099831/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre--and-post-trade-solution"
+  - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
+    excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
+    publishedDateTime: 2021-06-29T12:38:00Z
+    webUrl: "https://www.cnbctv18.com/startup/uk-sme-fintech-platform-tide-forays-into-india-commits-100-million-investment-9818381.htm"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 25
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 20
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1624852505538.jpg"
-        width: 630
-        height: 420
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/10/2018-10-10T041821Z_1_LYNXNPEE9909D_RTROPTP_4_INDIA-ECONOMY-RATES-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
-  - title: "Fintech benefits consumers and intermediaries"
-    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
-    publishedDateTime: 2021-06-28T10:59:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 24
-    images:
-      - url: "https://biz-file.com/c/2106/616382.jpg?2"
-        width: 639
-        height: 503
-        isCached: true
-  - title: "Top 5 Fintech Cities in the USA"
-    excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
-    publishedDateTime: 2021-06-29T07:00:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/top-5-fintech-cities-in-the-usa/46318/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
-  - title: "Identity Verification Service iDenfy Partners Fintech ClearShift, which Offers Currency Exchange, Global Transfer Services"
-    excerpt: "iDenfy leverages advanced AI and biometric technologies to address compliance requirements ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. Dalmore Group welcomes ARK7, a newplayer in the rapidly expanding RegA+ series issuer ..."
-    publishedDateTime: 2021-06-29T14:44:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/177229-identity-verification-service-idenfy-partners-fintech-clearshift-which-offers-currency-exchange-global-transfer-services/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 18
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/05/Digital-ID-Identity-Identification-iPhone-600x518.jpg"
-        width: 600
-        height: 518
-        isCached: true
-  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
-    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
-    publishedDateTime: 2021-06-28T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=491730"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Symphony Communication Services, LLC: Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
-    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Sa"
-    publishedDateTime: 2021-06-29T12:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53277826-symphony-communication-services-llc-symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre-and-post-trade-solution-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "KNVCAMIvMTN8WnotJ8O8B5STABIri5j8UTi38wPMhaN9yaXLgwOQMb3+NJzgZxi+slAGUvkdUA8J05iuu/uJgLDCHchvhntpxhwnTdY7ozEvW56krY+M/SVte168qXQ/dNpRtek7wpRl1AfH7pK39oMzpJhNQdthLlQ1w+ro7uEs3WDMogk91tNIbU5LwrOcnyH6sh8ZLheJtvvEJNg9/r9ekHpT5LSf9cWvBWIAChshANXSG2tXeiwkiC3rJIgEp6cdpFYmMtgVD10wDkDWVTVoc5ZFeDxJQvgOLDWVD25WLIjW2PnbOnrvrpHxGSfTM495pGJnhU1SgmXSg9PMGfkCmnBGVXXGfwLjYfSC6Po=;LQB3H1tLgDFWu5iXBZNDpw=="
 ---

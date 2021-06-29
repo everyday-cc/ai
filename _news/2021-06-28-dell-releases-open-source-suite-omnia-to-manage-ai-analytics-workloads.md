@@ -121,13 +121,13 @@ related:
         height: 450
         isCached: true
   - title: "Net Health's Tissue Analytics First to Receive the EU Class I(m) CE Mark For Mobile Wound Care Imaging and Analytics"
-    excerpt: "Establishing itself as a global provider of artificial intelligence (AI)-based technology for wound care, Tissue Analytics, a Net Health company, announced today that it had been awarded The European Union (EU) Class I (m) CE Mark."
-    publishedDateTime: 2021-06-29T11:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-net-healths-tissue-analytics-first-receive-eu-class-/2021/06/29/9399334.htm"
+    excerpt: "Establishing itself as a global provider of artificial intelligence (AI)-based technology for wound care, Tissue Analytics, a Net Health company, announced today that it"
+    publishedDateTime: 2021-06-29T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-healths-tissue-analytics-first-to-receive-the-eu-class-i-m-ce-mark-for/article_1bd1aa9c-f45b-510c-abbd-8e70c2db6a55.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
 
 secured: "vbheP83Tz73uxfJW+DCrajsYL2mmUEBGoDuJ2q46VSgQjktdtmKJ3a4lUzFIoflg1lwMI1UvGfVSnoABJKhYBajk6HAOQ/hPRgY4opKZcTbGQS9aCrL5ez2vvWqPW3U57gcd4S2CQaypoWJ8N2TzsjuHrAY7tcmTJzZiEarWh5OCkRggI6L1awM4cQ7FJYiDtsKphEbDLSwuSSirtodSJ0crF8QOrpzm++Od4cbFVeVyRLqH8VgzpC2tu9R/hxrsJ7pq2CeKdurnPLXS2h/5eb9XgIV1+nU3wwu+A268x/+f4hv85e0/XUTTPDG2zaVCCLwCUy+Xf5BxlJRM6z6InUC1RHvcpXiG7oJCD0mw/skoRdQPSEVb/M3138XyeLLNsAjg44dNGgnvSc9VjLh9W5AQbXDf/OZS9MMau2qQMIR8HcUesJRbukX6xwGIBZ8Y2IEmrpYUuLtdR8EYXRgZ3exmbUPc46t88FHLUCC0rHBIYxA3MWSTaX+7cj56cuGuCGICWEN49Ipt1xmN2Vv0Qw==;T326WSo9jx5ipjRAznKSoA=="

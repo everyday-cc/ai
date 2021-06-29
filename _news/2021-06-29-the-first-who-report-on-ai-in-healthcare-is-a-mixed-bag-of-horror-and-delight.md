@@ -38,6 +38,15 @@ related:
       name: Armed robbery in Revesby
       domain: miragenews.com
     quality: 104
+  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
+    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
+    publishedDateTime: 2021-06-29T14:29:00Z
+    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 98
   - title: "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO"
     excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide."
     publishedDateTime: 2021-06-29T07:44:00Z
@@ -153,20 +162,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
-    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
-    publishedDateTime: 2021-06-29T14:29:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 22
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "XqXtw3CHpCByo9c2/DAYM3FBZgvIO2jikSODtrk28JujxZxuf3wkL0mUv47gbYqDr36/r2KW6SY2bjD6kt9K4LGaSLyD9vVgec+uweTOofUz/YoGv7D0oYk+5KcAYIbO/bSzCyfuyfSlJMJSbkE9CW1vA4UMEgqgWmfUm4B9NTHRh3LI6IOmQCWUyzqh+v+GF5jqGUxNvMf30ECHrYXedqZlectkDporkUggy81ULpOoPEPEoNcSwecicKIBWtd9Brui5lLfO3VvbJVKCQA7l5bP1IspU2dBXBu+ofP8vTLExwB893vImRqPtOURKstJEltW1UEsRDlQS0ZKrcgvsBY/ZHQfkyp3NiiV35AwJmE8krGFHgE/VhJ+sd2yhOafd7tbQ3MAvh79BTM2iayNt1OYmLqXoJd5D6TlISEZQSm1qiF3433dycgne7iu71pSwRj/Nd3k9glR3DbO5rz3WZmhBqZjJVH2N+aHmZ3SVYmTHClu2aLCuk0SvL6DkDbyuZ8EzFL44WXNB/eqthWUFQ==;9VKtcDz6ovyZvKBaefm+aw=="

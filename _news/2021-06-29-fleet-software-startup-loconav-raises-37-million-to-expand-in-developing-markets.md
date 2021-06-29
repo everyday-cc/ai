@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/28/fleet-software-startup-loconav-rai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/28/fleet-software-startup-loconav-raises-37-million-to-expand-in-developing-markets/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

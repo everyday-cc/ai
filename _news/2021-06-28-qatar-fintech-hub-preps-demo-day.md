@@ -52,6 +52,34 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 35
+  - title: "Fintech benefits consumers and intermediaries"
+    excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
+    publishedDateTime: 2021-06-28T10:59:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/751/217327.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 24
+    images:
+      - url: "https://biz-file.com/c/2106/616382.jpg?2"
+        width: 639
+        height: 503
+        isCached: true
+  - title: "Top 5 Fintech Cities in the USA"
+    excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
+    publishedDateTime: 2021-06-29T07:00:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/top-5-fintech-cities-in-the-usa/46318/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/06/Top-5-Fintech-Cities-in-the-USA.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
     excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
     publishedDateTime: 2021-06-26T07:00:00Z
@@ -65,6 +93,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/06/8-founders-leaders-highlight-fintech-and-deep-tech-as-Bristols.jpg"
         width: 602
         height: 400
+        isCached: true
+  - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
+    excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
+    publishedDateTime: 2021-06-28T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=491730"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "jpd8DsX+eb9qL6or57y/3laXbgoDnJyZwINtd2tNlgEHVPFK6K76a6sId/AYEZO1nx1H7d4pOOKIkaF21Vbku+FOiG0sF8lCnerXCw1kDrga+rdrT4a6IzDadoXcJOowG5sy82AG9xsnMZnVnBXVqi21QbzyYLla7dyPS/E5yIpK6GVgKzzne7s3XcJqVvl+juQckHrqTDcbB4sfnefBAz75EJ3jwuUcI/rw/hvm53IswIVMm9aHc/TiIBiXSNqkTfGxmYVcOcE2RIEwD2s0p5xV60XlGLHUrZbCBvkKtyqpUfoA2NKwdjpYqXwpnTOwkkcHt03p7dsx2Fn8XXhCi8L2P+xSy7e+teymfGTzCVA=;+NeeIFRI9bJF0AtiSpYqtw=="

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Net Health's Tissue Analytics First to Receive the EU Class I(m) CE Mark For Mobile Wound Care Imaging and Analytics"
-excerpt: "Establishing itself as a global provider of artificial intelligence (AI)-based technology for wound care, Tissue Analytics, a Net Health company, announced today that it had been awarded The European Union (EU) Class I (m) CE Mark."
-publishedDateTime: 2021-06-29T11:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-net-healths-tissue-analytics-first-receive-eu-class-/2021/06/29/9399334.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-net-healths-tissue-analytics-first-receive-eu-class-/2021/06/29/9399334.htm"
+excerpt: "Establishing itself as a global provider of artificial intelligence (AI)-based technology for wound care, Tissue Analytics, a Net Health company, announced today that it"
+publishedDateTime: 2021-06-29T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-healths-tissue-analytics-first-to-receive-the-eu-class-i-m-ce-mark-for/article_1bd1aa9c-f45b-510c-abbd-8e70c2db6a55.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-healths-tissue-analytics-first-to-receive-the-eu-class-i-m-ce-mark-for/article_1bd1aa9c-f45b-510c-abbd-8e70c2db6a55.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
@@ -126,6 +126,6 @@ related:
         height: 450
         isCached: true
 
-secured: "qtl+vNMfIDlqXQ4neqK3IWlqIALhiuoh+B4/TnnTJQYSTUwmeTP26ibzceJJW0jsKJ8rtacZNQMLKyUgXB0XiEvQ+1ow6G7YQ6/Ao9OZKGP9/sbOFNAGyFGhG/fiSh1B7bKVOo2gzMIsy8NLCi+NGMQYF1tQwLLImDgtG62BCAp5jNSAEEBlwl03g0Cu9ga7EN9JflYmS3RC1Xstl+gQ0H6CME1bvtu4urg6lJhDDwXcvsKRJXTYvuFrcwI3GVSh0M4XMzwKPCVhWlujBzJtt4wDXxxvS5vu/9UeFoLSQbOq2t9GA+/fyaPP22bCKtW3EQRGJW4krUpc+oal2KprBLBAqexyWxjBFtEel9e8a28=;4HRCb63EcYd97F8d7bVEOw=="
+secured: "BdzP5bPK6bEgtCQtksuN25OCJO554VcECd9adIu1QoYBzpTRUztESgDJZ2GBKeC6SgUwiZJbTdGzAZFvtcwgBCJGy7k0+zCH/MDKuMXiLqbW05vdVt9jFF3IE+tukRWekS1TQCiSiphQUEYCMUtSKvE9yH3jqdgd94S1O7nHkV9szSQsBTKSf8Bdm7TBn6CfisJ8RmahKhn+y0Z63ypL6obWafwf4slxoaGikbbs0b6NfGXtYkkKyH2ZOzn6kxU1eSVpQDTlBMARhBUiau170Ap3YMLEK3VPTHYVosuEl1bDDDYKUAQ9NiIdzlau59RMz25/RILReRIqRNxImqMTeXxCYOl716JXzkmT7hABz9E=;Cnao8s3uqiOvGGHKd0OT9g=="
 ---
 

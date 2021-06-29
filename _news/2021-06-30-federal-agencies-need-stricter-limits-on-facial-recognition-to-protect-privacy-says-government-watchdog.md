@@ -1,0 +1,65 @@
+---
+category: news
+title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
+excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
+publishedDateTime: 2021-06-29T18:47:00Z
+originalUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
+webUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
+ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSYOA6S7JEI6XILXO5S7FGUVEQ.jpg&w=1440"
+    width: 1440
+    height: 803
+    isCached: true
+
+related:
+  - title: "UK watchdog raises alarm over live face recognition tech"
+    excerpt: "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places."
+    publishedDateTime: 2021-06-28T01:44:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "Warning on non-police deployment of live facial recognition technology from Information Commissioner"
+    excerpt: "The ICO emphasises the need to follow data protection legislation and best practice when it comes to live facial recognition systems."
+    publishedDateTime: 2021-06-28T08:47:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/"
+    ampWebUrl: "https://www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/amp/"
+    cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/video-surveillance/warning-non-police-deployment-live-facial-recognition-information-commissioner/amp/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 44
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/01/facial-recongition-office-building-e1547817740963.jpeg"
+        width: 389
+        height: 300
+        isCached: true
+
+secured: "5jfMKttbtcHHso99XzjWh2mk0BrMzN1jvFQ2SrlCSx1npxK2kyka71OtRo46/+eqSrQFHDJEpvJdmuizHKmOrCHh6+ur+X2z2EMPheesX4+sB929Exi5qGO1ara7NXYCgxpo+4QoQkDc9cojt4Rcr6hR6hsbQxAKQKhpvjj2o6Yu8Uuj2jcYwLomEBgPOAG84EbkdkqAtSAbOougt+deNnpC/ruGA/upy6Y8DG7lvX9Bwl11bkm/np/+WFalOOHIuZ/+ev1iuuaAgXMhmW7Eclk3uu2rG99E8M5Ylgo/SMm8qpjEJVUV8+NVAm6UBzlN10u0NaCZoNoUXjDB6anLK7tboJxxlJmbNfTJLmfLnEs=;C/3lI09uTYjbtig9Jqdffg=="
+---
+

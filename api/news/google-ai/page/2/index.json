@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
+      "title": "NVIDIA pivots to AI for enterprises",
+      "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "originalUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://diginomica.com/sites/default/files/images/2021-06/Screenshot%202021-06-02%20at%2010.42.32.png",
+          "width": 1124,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nvidia-pivots-ai-enterprises?amp",
+      "publishedDateTime": "2021-06-02T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-01-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
       "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
       "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
@@ -1365,58 +1410,6 @@
       "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
       "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-tackling-tuberculosis-screening-with-ai.md",
-      "title": "Tackling tuberculosis screening with AI",
-      "excerpt": "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
-      "originalUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tb-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/tuberculosis-screening-ai-io-2021/amp/",
-      "publishedDateTime": "2021-05-18T11:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

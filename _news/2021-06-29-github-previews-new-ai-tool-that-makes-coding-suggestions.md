@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
+    publishedDateTime: 2021-06-29T19:56:00Z
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
   - title: "GitHub launches Copilot to power pair programming with AI"
     excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
     publishedDateTime: 2021-06-29T15:00:00Z
@@ -54,13 +70,13 @@ related:
     provider:
       name: Visual Studio Magazine
       domain: visualstudiomagazine.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
         width: 647
         height: 450
         isCached: true
 
-secured: "QUpDkvmSirITFjCm/FOcQgOxmImE9Ouc2/XJirB4cKMwZVtRCvV7ahqkb4Ro8VbrkSD2mIRn1xTKIo+5I0EI/b5+rmgBRIWY97dU77xBK6nEGEwbZzfAhrJZHrCvzppCkT1wmZ5a/pp7ta0zN9zPq9N/r4WKb250Y5OgKLDhIluoO7FOeFWpHhEl9kdC3qHDVMoSd1ErcgL7FnrA3qBeeqtUjyuazMAxJbZdWriRc0XmbVt72gA5YMVxDbsU9Pj03zYeAVb1H+uoyS33cqcO2OmaGqBlWQPCUZtBUIU2DGGH9o7RqoU/kmcFDttb7/KwKIP5p7lTjn/8PZ9vec28tCDvP7/l9sQlWsUsM6MsJ8Q=;rfw6XQkuuYsbttgMlbY61g=="
+secured: "Enz8kjoTRDhWvkGk/FY9rLgMoVO3MErHYS8hJWf5ei7WU/TQmQrmcEu31yGFmFKhHMrLofBdIORCEkSEjsuf85uvm7WHXeHQ5hScfA9xVL0/NMq0lqgXHqa1pNdYtsr5JuARCaw3UvIq/U/8RMwmr3wHqR7HToQXFQsOinr9plbzHKOuGjOFO2rjAmXBLpMuUtSlCnRWcXxXNd5Qc4XmSRSXtd44WN3Yx6fh18kS79nIwbbEwWTSxHXMCXDEa+s3WvTpTnseVz8teMwXrCM1wt8mdYteMNFe19FNfHDAI8nJSszOAhW1pHDRGATAMZH7/V4m5Uirtk2QQpoWeUti9Bw4sCl2GzdYX+YfS6taHT/p1HtJHoWmnTKF3d/DS1UwCoXaH+VocbDYQV+B/8/EefmHstCNTM1CgOFT+gc7AH/WwCG8UUYwTN/lJRXJuBrulszVLjcTsvWooybt7hoWzob9vvQ0otB73zALUWJYhzPPJhBy9LvYmAlNe11BDFI4cyYPhRnk24c9HiVNZrjNAQ==;svBv87M2DldaF8Xclpdwrg=="
 ---
 

@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
+    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
+    publishedDateTime: 2021-06-29T14:29:00Z
+    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 98
   - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
     excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
     publishedDateTime: 2021-06-28T20:10:00Z
@@ -147,20 +156,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
-    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
-    publishedDateTime: 2021-06-29T14:29:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 22
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "UCRFTcdvQ5x2AWcXQTTBuoSVn2252GjvHlNZVknZVl5vyQlooD3YtJR1hqTm0IPpV8yD52MYDAXuNcjCvwaqa+lPXvLnYK9eulCeriLiM2e9QRNI74yF442+kS1w/NDmrs0k6jNElX7rP3nUYDmQnbfxvYJff4AVIRLwZOC8covR4PqUDTjy1duM0uQAw6AZKQxHCjabgmgoVfIZRZJuziiQQzrtcf9KKPghayktYRGt1uWx3l4LlEwE+rBV1jsgZGtA4ETRf9T/JMw8xJp5YMRa/pIUmPBHHndhbb/6LduhCzGT3DoDnysli6NR+QdF7a7DWwhEsl+IUXxUpbwu1UOQC83M+FaEU8tG8kyDq5g=;bZ3b8v7Atk8eNeUdXOLCkQ=="

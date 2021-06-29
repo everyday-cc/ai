@@ -41,6 +41,20 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "KT to Invest in Fintech Firm Webcash Group"
+    excerpt: "KT, the second largest telecom business in South Korea, recently announced that it will invest KRW 23.6billion in Webcash group"
+    publishedDateTime: 2021-06-26T01:19:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/20070-kt-to-invest-in-fintech-firm-webcash-group"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/9b76e213e703da5228b1cb41f1440af1.jpg?t=20210626_011745"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "IT5KEHiZWTDjSS8kBqhpuoVv3DONYWV9yipueB34gGsOU7a95d8WScbwjF4avbAC2sl37Ky8htW0PUk9p6TpZZhwlSfhUrI4IkR7Uk8igPK3uKbGlEI3gXGN/88kNnvJM288J/X/D6iCnEaGGu9ep7IAbR9X/kbpxjU/UWrUs39aux7vITgnJuOjv6O8VTGBKY0c+nUFVxOE79bGXYwI+iKGNggD3+V4/UjUPqO+oKProN7eK2lezCUF0H3EPKM0sYUtUOfeG0eqhb09zW04ok81TrwPbb0a4ig6NUBELK3Bh/ZtLQa7SbOOOuKtvgz1lI+hevk6fQgPAihR5e3P/DBE+ISUI3Q70U6x4R0b9yh2hhzbpPY79bR1DDzepDzIrnJYTwJ8bwRhHhUFf9JawMEffcWItxZz1mDpq0QKoIRLYxJAFaN/y6lnH2rqds9dSDI7K/CTNZ+dsFTyyvJoCgtsvqOMkCkfX2pWsSWncIcjJq9wcls/UK42OCaEDRafmn5Vx2KhO3kvE3EsEZ6Zog==;89XYl3scVyigxXVBS0O7Jw=="
 ---

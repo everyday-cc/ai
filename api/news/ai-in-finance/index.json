@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-28-in-the-push-against-cash-cannabis-fintech-meets-the-industry-where-it-is.md",
+      "title": "In The Push Against Cash, Cannabis FinTech Meets The Industry Where It Is",
+      "excerpt": "Dama Financial discusses the importance of offering cannabis businesses a choice between preserving cash processes and graduating to electronic payments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2019/12/cannabis-business-457x305.jpg",
+          "width": 457,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/",
+      "publishedDateTime": "2021-06-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-artificial-intelligence-is-reimagining-finance-value-chain.md",
       "title": "Artificial Intelligence is Reimagining Finance Value Chain",
       "excerpt": "Technology is disrupting the finance function, and artificial intelligence plays a big part in it. Artificial Intelligence and Machine Learning have been the buzzwords in the IT industry for the last few years.",
@@ -148,7 +191,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1273,50 +1316,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-enterprise-machine-learning-guide.md",
-      "title": "Enterprise Machine Learning Guide",
-      "excerpt": "AWS has the broadest and deepest set of machine learning (ML) and AI services, and is focused on ... handling customer feedback to more advanced financial forecasting: the advantages will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/resources/219987/enterprise-machine-learning-guide",
-      "originalUrl": "https://www.cio.com/resources/219987/enterprise-machine-learning-guide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

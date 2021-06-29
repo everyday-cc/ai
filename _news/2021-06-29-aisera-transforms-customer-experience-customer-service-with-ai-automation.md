@@ -1,23 +1,23 @@
 ---
 category: news
 title: "AISERA Transforms Customer Experience & Customer Service with AI & Automation"
-excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it"
-publishedDateTime: 2021-06-29T14:14:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aisera-transforms-customer-experience--customer-service-with-ai--automation-301322139.html"
-webUrl: "https://www.prnewswire.com/news-releases/aisera-transforms-customer-experience--customer-service-with-ai--automation-301322139.html"
+excerpt: "Aisera, the world's first AI Customer service that automates tasks, actions, and workflows for all organizations, announced today that it has significantly enhanced its Customer Service & Customer Experience (CX) solutions."
+publishedDateTime: 2021-06-29T14:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aisera-transforms-customer-experience-customer-service-with-ai-/2021/06/29/9400029.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aisera-transforms-customer-experience-customer-service-with-ai-/2021/06/29/9400029.htm"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "DHtf/EftzBPTt2rAz12yEO0YNucuURlWZizBPxh8rPs5vEDS6bSY1FZpKbDIeM33Q1CaTSZDzuzAmG8V/ld/Y8HLZN3iIB+NtaVCZbOd267Bo30qkmrcBfKnEDSubIR146uQKP6uwaVMJLNXqGZgRo8Yp4xkHcNY8P4uOg9uTspu8fIeRWzhNgAF+sehq87n+UW4FP8dyHJeJHI2DTaE4PDFYqSXE3MgQubY+a6Yh/cpzCEqmCbDEF39vPamFmf58oC/EVzX4TfGet7WzXiZ/2pVgmbLDqaJrBpD3I6NMODtPZ4yESQNAWYEiVGxZ+jG/TAA1Zi/xrSq9jWFAQZYcwOAcTLXPV7ZqtnmQvvoyZY=;csYJAwrpHW8Ap4H0xvgoTQ=="
+secured: "JBi+hfTUjEJJf194weqVtlofgv2mHypbUzr4Zqec79ddMCM2LBbYh2l9Ahskp09AlJ0bFSCSM1Fn94bIF93QthIW/yp7fEb0JSj1lRn+dpoknHvlg810lVoPWpLxHMGUWEHhgrpfBIBLY3c+/RmdaFRyz9Yu1Pnl+RX/e6zs2YZnF3u8IBYIkOVWGDkgwluK0a2w4TXjcdgsEk+LukBcXz7m891qfzyj7m2z8vZxP28zIqCeDo8BP1VSO6gpsMxwBOyPAcd1gUST9LIO/1FALBwR4fJh7P+BvCT+SxC4b6NGztXMMEYN3GOxgx1YglfoZOt9yIUuBNxMZ0yEvNxNBPlubtPKonqT3SNJBQPklq0=;vD7n6C1UCxwsQ1uai8SHIA=="
 ---
 

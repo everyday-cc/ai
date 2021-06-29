@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-29T16:14:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/06/210629101157.htm"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence"

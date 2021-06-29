@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-rai
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://s33644.pcdn.co/wp-content/uploads/2019/01/facial-recongition-office-building-e1547817740963.jpeg"
         width: 389
         height: 300
+        isCached: true
+  - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
+    excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
+    publishedDateTime: 2021-06-29T18:47:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/gao-facial-recognition-blm/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 42
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSYOA6S7JEI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 803
         isCached: true
 
 secured: "WoI6lTDJewPQuzCPe/UHJH1u6ZeFoJIEPJjrKdv1fwTBUzdRi4/+kDn//oKqcSu1gWGs/wXTzoQ6VMyTxjZYP2KbcsbIsjYJZM7saSd6aoeOsnivR3xP6PYSfARdX9f6vZxA36eqvDFWbBzhVVJS5oPqBQ9bxxh6FGrxuiGBztqPf/kOXkW4rr/AdAUBMDNgKM2VGZiMAkyTRDu/XDZJDyS30v2OMT2S6vPuetSNMDYw//XJNUFmw5g/D9mUm5zLVen1JW6FGADmCozz6a7euKrPrkFR/63c3gx5OshpOCJB9DvVx3TSC3Bdmu2o/kiTz0PTQ6FiPKIKjkdh0Ru2ZJFF2g2KIjUlQdaKWccPvtJReINSx4cEyCg9kMBuC/4WPajfICIkHtTd2GArKKfu53FbX5JydkTxA3VH7kb//m1EMdv+EiNy2sKh62rx0/egzrDVo5ovS646H14i/M0mCiYFmCwu/Ig050EGw9pzBqWu6N2qezng5IygmqZD6OM/+SWP2MsBTyeTatbfBLv6PA==;SkDZJ53jQ+X5vkFLY0bl8A=="

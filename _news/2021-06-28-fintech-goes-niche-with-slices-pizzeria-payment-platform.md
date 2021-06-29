@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:00:00Z
+    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
     excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
     publishedDateTime: 2021-06-29T12:38:00Z

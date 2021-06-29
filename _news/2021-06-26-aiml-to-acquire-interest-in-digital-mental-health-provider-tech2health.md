@@ -56,20 +56,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "RingCentral Attacks Robocalls with AI-Powered Solution and STIR/SHAKEN Implementation"
-    excerpt: "RingCentral , a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that the company is taking steps to protect customers from the increasing problem of"
-    publishedDateTime: 2021-06-29T11:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19878808.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "5CvgHxm0+dhOJGwzlCJudxCuRUkyC2nbqW41DB45t2xcxtCkaAoZ6UB3Ih+LS34YJF5YQJ1F92MWCwyc473LkcD+EnoO3zzsseCIqecvfD4vN+vzuDpl3LNBUu13mfaqdQmXNH2YyjNrKg0ehCUvsfYKx+6tgYkpfX5dnVIPo4xaFB0OGz2tMOr1ZD3GyVOoKlY+VyOMwOG2Sl8GPsmGQ/w5PvqdtjrgagZUnPKlyY4Dnix4jjMGdE3YvfxKZS55lsPMMBBE76vE1+/ekIcoYj9vorJ1sXluehTR26LXEiTVVFRtz/TtAjNO6M9vtP3LhRwG7N/iHkeuJ4kwaKRxn09wIjIsITFop8w66jBJdWg=;6x3/ObfvZJhGXNOA6pN5Pg=="
 ---

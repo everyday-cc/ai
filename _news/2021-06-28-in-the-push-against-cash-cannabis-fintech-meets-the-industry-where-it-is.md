@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabi
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: pymnts.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "KT to Invest in Fintech Firm Webcash Group"
+    excerpt: "KT, the second largest telecom business in South Korea, recently announced that it will invest KRW 23.6billion in Webcash group"
+    publishedDateTime: 2021-06-26T01:19:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/20070-kt-to-invest-in-fintech-firm-webcash-group"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/9b76e213e703da5228b1cb41f1440af1.jpg?t=20210626_011745"
+        width: 752
+        height: 408
+        isCached: true
   - title: "F|T: The FinTech Times – FinTech SPAC attack"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
     publishedDateTime: 2021-06-28T09:30:00Z

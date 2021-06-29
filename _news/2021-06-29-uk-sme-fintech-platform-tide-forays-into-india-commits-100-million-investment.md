@@ -41,6 +41,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:00:00Z
+    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "BqmlG97W6jrR+ieebbJnOcmsmajplRrS/IcCW+xq1sYv1bM/+2LBTLPcnWW7kNXBpen4VVkn5KRnVAchSWHYTlIGodmWQOIlGE3ajbcyg2Q8Krsx316nHAxqBMASebYFn1icEfkgKUduNyqiV4RZlWGNXjYNMdMGpdaLgQB9C7vQxHU16WGVR/nG8Z+56Fpq1MOUnQ0P15/zcMNgSc0ZgyLFSOSlfUvqPZwbqtaQ9UPRpdieyofsi4fA5pMo08B97B2RE6dD43qedJWOriSU15CbBZVryNQ04pb8/q67pw5zgCjkPD6ZakgRVRTVyNcrZIDHL2zXCH8Dgk2pzIVHhPRid3um9eOzTvX1YBXMdsc9AaNM8ZKMe5s36OTV6NzsW9uTWsXl4aBU42bjmVcQAUAkH1ICok66JohxABJ/UU9+TLqUk0lQLVgthSAz8cnTHBR3LzzHLg2bBznfdbzoJL3wUj59dVAimyHhlh7N+mW0GUk3qj99E1TjOnnwV+9OvDj2W8kTzKBuIRAwdZDIrw==;bPB0iOxFFSU/bogo4MyRKQ=="
 ---
