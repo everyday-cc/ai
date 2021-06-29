@@ -49,6 +49,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI-based Clinical Trials Solution Provider Market Size To Reach $5.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand"
+    publishedDateTime: 2021-06-29T08:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-clinical-trials-solution-provider-market-size-to-reach-5-2-billion-by-2028/article_4ba20737-af23-5dcf-9ce7-60a749b3d27e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "ayHRNLrE9EqCrlcjB5+X7V2vWB4lRXbXkOVFanrZt5Am3EIZ6WwxCqP5/L5adydswWj9ecfEKX0MYPfKZ1HBdbZZmzret1ZZ2j5S526dJOP05mTI/HiLAVKMU5Z7LnJE9aolYx7QL1XmAUwqUEAFbRXoupLZPw9DsNM7WHEZrSUUzxvn7iLAVTR7fxKGvhbeVYLA0OhHG/V1uI6mIrtAhHKmmRUDZVccCcldcGg1QH78GwTT01yCoev18mWe6pKaBzPwstUsGK9xvWgsMm1jLP0LzgWubCSp9doCPYxi0mExVfCePU0S6xY1w3ezRZtrQ7mim46TSlQ/z/CluL3m7Y1gep8H2MMTT0ghoTnHLTM=;KABArel1pCV0qZ8gPbUtmg=="
 ---

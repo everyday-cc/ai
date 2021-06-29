@@ -42,6 +42,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Artificial intelligence-enabled surveillance system at warship manufacturer GRSE"
+    excerpt: "\"Adopting the latest technology with respect to the security of infrastructure and other assets, defence PSU GRSE has commenced an artificial intelligence-enabled high-end CCTV network across its five units in Kolkata at a cost of Rs 12."
+    publishedDateTime: 2021-06-29T09:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-enabled-surveillance-system-at-warship-manufacturer-grse/articleshow/83949844.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/artificial-intelligence-enabled-surveillance-system-at-warship-manufacturer-grse/amp_articleshow/83949844.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/artificial-intelligence-enabled-surveillance-system-at-warship-manufacturer-grse/amp_articleshow/83949844.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-160755,msid-83949869/grse.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "7Gt6ymGOCJtqNXIvSaOmWwthfGFKQjQprWqcNLDNhIm6qlq36HT3XEUVL2ouPi11F0Hud9VoP4kuU2c1HRHRSMx7sTG3NhNbgGadeiAqZCLVtqMuh2TZxHXx5WJC/fbdLpXfPloku1thXG80Du3/Dbw63rPiUMtjTunjOFyIBb4GBeVJS2IaUu5gYnUwNhbwjfc9g/rJX26eDDcCfJa/3XIMbKRaJSdjN+d/CD39uHnnujCdq5hj3x1e8FHXhDXVTKbqtCLzCgp65I17U+NaWEEXcBnzqv9jQIfCiCDVCZSKItmyyWyS1uAW8mptaAfg6wSpLRxLT61AMynWxsVCH5UicBT8NldCkTAVgHs9/XE=;W3MJN9VmS3oJ/XoC0Re5Dw=="
 ---

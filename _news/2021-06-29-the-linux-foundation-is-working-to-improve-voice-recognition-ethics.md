@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-wo
 webUrl: "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Market for Emotion Recognition Projected to Grow as Some Question Science"
-    excerpt: "Emotion recognition software is growing in use and is being questioned for its scientific foundation at the same time."
-    publishedDateTime: 2021-06-24T15:12:00Z
-    webUrl: "https://www.aitrends.com/emotion-recognition/market-for-emotion-recognition-projected-to-grow-as-some-question-science/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 23
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/06/6-25EmotionRecognition-2.jpeg"
-        width: 550
-        height: 237
-        isCached: true
 
 secured: "4ArkbmK3I3haCh7xyKlf/IutnZ3JpzRCWvubklpwrFSSn2kHbrwdK+7MuTuFBVL4UMgJxLhBgJ6HuiGvF52dzZGOx2mdAohbk13XQe9hNu6jEPZFcMrvGFAbmlfkPNeALH3GIEbCP+RVgwMNUNZ8SoCpL2WlFHeZFnHvsgFYSpNKQRrtSK57/dHmKSpH0TDdJ8f4rVYAHjn2xXIQscp+yUd+TagwMfvLczXGbg9BeIe2UcVPw/vfIBal/VghvCN4t0muWCYX/Qe3kaA6Dz5LHFGYn9gIqc6ryxGUvobtqolwgInCw51Ad1jfBgKTC4SFf9JMb8Rb1Eh8kDZENXflgeQ36QGVDNKdcPkKFThIA7o=;VKiilEqp1GaCH4B2/2pbQA=="
 ---

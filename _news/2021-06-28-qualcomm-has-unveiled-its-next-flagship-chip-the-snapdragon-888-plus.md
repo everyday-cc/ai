@@ -89,6 +89,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Snapdragon 888+ is Official With 3GHz CPU and Improved AI"
+    excerpt: "The Mobile World Congress (MWC) 2021 kicked off this week and Qualcomm was the first to make a major announcement."
+    publishedDateTime: 2021-06-29T09:45:00Z
+    webUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/"
+    ampWebUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2021/06/Snapdragon-e1624949683332.jpg"
+        width: 1000
+        height: 565
+        isCached: true
   - title: "Qualcomm Snapdragon 888+ boosts CPU and AI performance"
     excerpt: "Qualcomm newest flagship smartphone processor is a small spec bump to the Snapdragon 888 chip that first hit the streets about half a year ago. The key differences are that the new Qualcomm Snapdragon 888+ can hit top speeds up to nearly 3 GHz* (up from 2."
     publishedDateTime: 2021-06-28T10:15:00Z

@@ -97,59 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-reinforcement-learning-could-be-the-link-between-ai-and-human-level-intelligence.md",
-      "title": "Reinforcement learning could be the link between AI and human-level intelligence",
-      "excerpt": "We may be able to achieve a level of compute power that will make it possible to reach general intelligence through pure reward and reinforcement learning.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/reinforcement-learning-link-ai-general-level-intelligence-syndication",
-      "originalUrl": "https://thenextweb.com/news/reinforcement-learning-link-ai-general-level-intelligence-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FEvolutionHed1.jpg&signature=eb72505783d019cc290d3a2602b93fd4",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-06-28-grene-robotics-develops-indigenous-drone-defence-dome.md",
       "title": "Grene Robotics develops indigenous drone defence dome",
       "excerpt": "The autonomous defence weapon system uses Artificial Intelligence, cybersecurity and robotics to identify and counter threats",
@@ -332,6 +279,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-26-i-learnt-how-cool-it-is-to-train-a-robot-with-ai.md",
+      "title": "I learnt how cool it is to train a robot with AI",
+      "excerpt": "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,",
+      "sourceUrl": null,
+      "webUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
+      "originalUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.mothership.sg/1/2021/06/dog.jpeg",
+          "width": 478,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot//amp",
+      "cdnAmpWebUrl": "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp",
+      "publishedDateTime": "2021-06-25T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mothership.sg",
+        "domain": "mothership.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-aerospace-robotics-market-professional-industry-research-report-2027.md",
       "title": "Aerospace Robotics Market Professional Industry Research Report 2027",
       "excerpt": "Aerospace Robotics Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Aerospace Robotics Market currently leading in Europe,",
@@ -436,7 +426,7 @@
       "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1015,8 +1005,8 @@
       "title": "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025",
       "excerpt": "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/21/9394447.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/21/9394447.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/globa
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI-based Clinical Trials Solution Provider Market Size To Reach $5.2 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global AI-based clinical trials solution provider market size is expected to reach USD 5.2 billion by 2028 and is expected to expand"
+    publishedDateTime: 2021-06-29T08:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-clinical-trials-solution-provider-market-size-to-reach-5-2-billion-by-2028/article_4ba20737-af23-5dcf-9ce7-60a749b3d27e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "pooecVrt8MMuQlM3R5vbFf0ZGB/glPRM6yLFfeXGCfWNuXDKoVakPe0yy2vwM7QkAEi5xYgZXsGSWRiGNr1birGht/zaL9eWQl6GJYpodfLg+AJCNYMy2EkR5xc+5PM8K3bRSprkeMbfArIGE5MUhdkV+N1TMPDj6zvC+ag8JuQOdFHB3MNEQXncOUH++sZc4eR/SFc6d71L5yQZVVsZIF/vJME5bWegQpY1uCkzy5BE3G75Xl/v0pnlqCVgjuaN4NzR8yONGIKa+Z4yp92/QpT7rHC7PVVjqVElsQuhLGQXaluvXRbxtw75JRLNFtG+3yK63tXy2ZLbSoJGKCiZ94FfQ0y3u6jSPWxHpzhSNvy+Jn5lG00Ldn/wZa9Q7HXihHNRy0bjayPSUt9xrPG5Fw77dbpb3qlnJB89KZMjwEP/CPc+N8pgRtH/Mk2iztsvdR8vZdWKqsi79CBwXY088DDu3vjX3trrF10p8SMAxZbHFF076yiEAt4T0LdPdM8+IOggzNIwy92yM6QmwArZJw==;op6aKU7FCMugM7hszWPaVA=="
 ---

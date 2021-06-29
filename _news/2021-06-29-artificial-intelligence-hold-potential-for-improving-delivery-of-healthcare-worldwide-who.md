@@ -8,8 +8,8 @@ webUrl: "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hol
 ampWebUrl: "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
 cdnAmpWebUrl: "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
 type: article
-quality: 64
-heat: 74
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640"
@@ -42,6 +43,6 @@ related:
         height: 420
         isCached: true
 
-secured: "MCQJW1nEgJ8rnIg5B04fyXfYRmZZ/UGgPsLKETLcvcf8BZ+vGM8AtSY6bOGa+NM7lCsQ6jG6sETrSUPs4Kcoa+KgmOXJplDwn9v0gwEyNz2IKCNwrPBdYkhXfG1HQm5tlqaOSoHujZ0xvmN14safPt18vQWvkx0J8+Rb0nB4y6SZV1D0I9wHgudrFh3/xokSdMbQYGsPByYD7dw0pt0a7cn3SWM0aq01F1FOnoZeb+19r6euuU//lKF3Hsu3XsG79eTuriMtY674ADZdH6YunQj3fmRmUyrKr67IfQpphjHbQ4pPJVc8yA/omxgdFqccxIt40e7jeSjRgz7n/xnxY4souGzFj0h0MHDSFj0NAIs=;DalI6WQ/BiX2sOQxp1PaPQ=="
+secured: "wOG4zNbOpozWR2hIEoN8s/2zigo5VoXDC97uiaJY3GS0SuO/wEu7iA2BpdhaZVQCJYQKZBzX4CPUBnJeX5qy1BUabYThdTzvk7X7v1ZbNHWn6/rrWtlYaXCohgNQX9wPAXIdedhpOdTAukhc2iaWTBudUbY6vsEYxDZ9rrKNwgtownB1nZorkodImBpthvHk94qwmJrvW17CUzZp+aNPxA9RbQAuGHffe8xPYtBKohSnn/vrzjtfTe2smPHkfClfqnHgSlzDz4bEpTnW/HCRNSfproXkuqTL84Y5X/pFfm3oWsoUL6UhbFfC05vFOL4qS5Wv26a1mxPeh3pnKBZgslJx8OcrLkzmP1B5x9OhhlvCNvoPbpegdETFz4PkFJRs9r3uVC0W/ErtazHZtP45IuH6iC6UQ0d5xa7o8jXAjl57TVx3/QCgHK9y1xzjxoYcEBcmTDd3L6zvHtcQ7+9yxHS2358gtER9nkaa9hLeFHGjhnYuiQ9WwkXs47IBLeCOvu/yFAkVjkRkhF/pDzFYeA==;kbiiG9n89ovPlYafxqdvTg=="
 ---
 

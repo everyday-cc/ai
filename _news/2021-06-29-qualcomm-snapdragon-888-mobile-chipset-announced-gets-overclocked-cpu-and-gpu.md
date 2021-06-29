@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-p
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/mobile/news/qualcomm-snapdragon-888-plus-mobile-chipset-announced-gets-overclocked-cpu-and-gpu-075158.html"
 type: article
 quality: 70
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/06/Qualcomm-Snapdragon-888-Plus-Announced-with-CPU-and-AI-Upgrades-2.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Snapdragon 888+ is Official With 3GHz CPU and Improved AI"
+    excerpt: "The Mobile World Congress (MWC) 2021 kicked off this week and Qualcomm was the first to make a major announcement."
+    publishedDateTime: 2021-06-29T09:45:00Z
+    webUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/"
+    ampWebUrl: "https://propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/06/29/snapdragon-888-is-official-with-3ghz-cpu-and-improved-ai/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2021/06/Snapdragon-e1624949683332.jpg"
+        width: 1000
+        height: 565
         isCached: true
   - title: "Qualcomm has unveiled its next flagship chip: the Snapdragon 888 Plus"
     excerpt: "Qualcomm has officially announced the follow up to its flagship Snapdragon 888 platform: the Snapdragon 888 Plus"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-by-type-deployment-model-technology-vertical-geography-and-forecast-2021-2030-2021-06-25"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
 
 secured: "6DwlZ2H+FM5UnkewMCe/1pJhv1dxQyD4NQFqNOD0aPg9LBwDKWJhHj5OOvrov+jtH4NfKT5F6gHglUpcyMF8kUHPOjAAgl5iThrPMie5Z9yyGaCTynj9HveBqNXwAIPk6L8l+Kts/zCZOLAbf+eCmh2w8RMYGQ4/v6b6GyPQVbz6AWCSSbD2gphudxuTQdetdFiFEckQy1MluYrnU+4YHS5VXYBFEqSPM6pH2wscvKqzRVyufUM7EyxW6q0S7VmDteej3V/ah0eAYCbiLqN2d6ENz65cFLZcWu/WpGcOG4OOydXxjF1P5E5MWfgWMpleeqGIIwzH2s60EJnbBOX85P8E+PApepBTYNJurD38Np4=;fCw+WiPBtW2wXO0JpUh3Vg=="
 ---

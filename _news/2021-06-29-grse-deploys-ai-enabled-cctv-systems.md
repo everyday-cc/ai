@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/grse-deploys-a
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/grse-deploys-ai-enabled-cctv-systems/83945288"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.trendhunterstatic.com/thumbs/adaptive-music.jpeg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Artificial intelligence-enabled surveillance system at warship manufacturer GRSE"
+    excerpt: "\"Adopting the latest technology with respect to the security of infrastructure and other assets, defence PSU GRSE has commenced an artificial intelligence-enabled high-end CCTV network across its five units in Kolkata at a cost of Rs 12."
+    publishedDateTime: 2021-06-29T09:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-enabled-surveillance-system-at-warship-manufacturer-grse/articleshow/83949844.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/artificial-intelligence-enabled-surveillance-system-at-warship-manufacturer-grse/amp_articleshow/83949844.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/artificial-intelligence-enabled-surveillance-system-at-warship-manufacturer-grse/amp_articleshow/83949844.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-160755,msid-83949869/grse.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "5DW5353LNDrlagfBumVJXhOJ54EfN9wibSUsOiznynRvP3RaeqWktmHEz/C2vZmCfEV1lbfJU56HYnUiHwBE1bK2qgIkNfY1+BOz/6hcpwGoMkdAnlfTikq3zGdpT2SZ6X2J1jx88tGihSqEJ8JfRl4fLBgggAVeUqA1u2R14tMLXSAJH0+nIrBWsrTGOB3mQ4FLhtW/y73tLmtTdaTyZT4fR5cm3cUS/zGhvOBzVT/x76tGuOddWweI1FfRhlVEULWPY7pCJRWmtTh7Z6g163U8dNg6+Dc+1gze8GnzGz2bQ7B60C6mJBa9wdYZSLbMKz2AYbkMfBvcGxQ9VKtJHZKTYp98pHquVQ7+YI7JfPg=;3f4qcbOTYmIh8cRAzB+liQ=="

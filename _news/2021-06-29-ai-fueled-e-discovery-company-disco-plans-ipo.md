@@ -3,8 +3,8 @@ category: news
 title: "AI-fueled e-discovery company DISCO plans IPO"
 excerpt: "E-discovery company CS Disco Inc is planning an initial public offering, becoming the latest legal technology company in recent weeks to signal an intention to go public."
 publishedDateTime: 2021-06-28T21:11:00Z
-originalUrl: "https://www.reuters.com/legal/transactional/ai-fueled-e-discovery-company-disco-plans-ipo-2021-06-28/"
-webUrl: "https://www.reuters.com/legal/transactional/ai-fueled-e-discovery-company-disco-plans-ipo-2021-06-28/"
+originalUrl: "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO"
+webUrl: "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 628
     isCached: true
 
-secured: "6WNxf0DnTdT672lLDnQFt4YL6YRtkHii99XrU6bcvqfcV2SCaKlF2afBcYBU9s4f/fBPrMecN5OkNYGFuJKLBGVXodX8xeqt36VD0nuupMibFNWG6DrZeS2CHcyliNaJTrQvlYlmjJWiidbJWjuMIrk7cr1gSdmFJpkf9vGJ/XHfLmRj/LsuZS23GyHFlMPkDk2BuNF40Utldr+Dz3egxUWdJJepRNU5b9APUg0GlSRDSj8VYeIBSzSw7hl9dTsohpGK1GFOUl8BiFWRtwipftIskdn2a/w87K3PaQb5wGXUuqISO9Y7qrGgMVSyaXdMr0BhP6tOwS7EFEhb7E4v/XcT0w4Q/UqaSOxX2mDyItRb0PTsLweoekQRoISJwaMtHymI3vB3ELX5Q0mJ381BLvFNlSWMOfsSyAL2b9X9Ex6pLfTFG5zj19vYRfUKM6lXvMwFMSOpRtqWkWJzqzr2MgqHX+wY4ZY4/OfGxb8Hi6HaCmNnsx8JohOH7aADsi8dotLVWpT28cDDADwOzlCT1w==;wQ4IQ7uUJEgwkQLKHrCQkw=="
+secured: "AHsRjhvL0vGjRs49+OT3uCv4dhOebIUJiZbgQutWl4Dup53WmYw16TCIwB6KDuFuLM+r3bjUZlMB4ShrItE9GEewJBdi0MYToKt3clnES8IhrVgGIT6guArPskL9kNYffWlSvIHqjelxDsulKY/lq2aFsA+LxSW+J17L1ZPJSST15tdqrQVLmFo7k35zCZiHkBJnM1E9EdLcof+jbaG1F1xVmG5yznbxTgvyzzySq0AhL/EgcJfVdrySwA/pcDCHibOL1foAi8Xl6ap93t4klwRfy0y/cKgWkEQmEw+S5QBGeOUL1rDsTcYSif8/oIF+8JnPgKEIvjIxv09abHzDbOZ5QnkysVyQkX08wcWH2uU=;ucqm3cdKt5CO37VeYz0ptg=="
 ---
 

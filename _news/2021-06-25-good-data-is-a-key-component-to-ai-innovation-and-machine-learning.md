@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Reinforcement learning could be the link between AI and human-level intelligence"
-    excerpt: "We may be able to achieve a level of compute power that will make it possible to reach general intelligence through pure reward and reinforcement learning."
-    publishedDateTime: 2021-06-28T14:10:00Z
-    webUrl: "https://thenextweb.com/news/reinforcement-learning-link-ai-general-level-intelligence-syndication"
+  - title: "I learnt how cool it is to train a robot with AI"
+    excerpt: "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,"
+    publishedDateTime: 2021-06-26T03:03:00Z
+    webUrl: "https://mothership.sg/2021/06/dsta-brainhack-robot/"
+    ampWebUrl: "https://mothership.sg/2021/06/dsta-brainhack-robot//amp"
+    cdnAmpWebUrl: "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FEvolutionHed1.jpg&signature=eb72505783d019cc290d3a2602b93fd4"
-        width: 1280
-        height: 640
+      - url: "https://static.mothership.sg/1/2021/06/dog.jpeg"
+        width: 478
+        height: 250
         isCached: true
 
 secured: "CfpKWH8IdlWO9ilf9keg5KP1OxgGNcNij4S/mJcfrrl1pfCFIn9svlH4QvJPYKeXrpFXLrSvRxOzKHuK0z9pC1YD3NGP6dY+XVnAHvGAahFcGnR4Cpxiyp3mGtWPGxLYdtArJyHnNPi05KoK1nVOmXXIeYeeSTVu9fNj7FzxLDdF0rEV5SFOda8tcCy2FuY5Y+TfO0mrIGNOajLvjorzUYhL5cKIXJhVNFAKPTkCAZYONZrRjtEAcgmu2CMkcXoE6TtIKzyaR/Q6q3YhIBNNFPQzPUz+LoJnNZytxfEfaljaICzo7gbZYd+MT6AlaB2JbzValdXLiDvGH2y9FphK9nB29ljTOl3XwB7WrWWDI1A=;v9NLm99LUneSkvOx1gjJJQ=="

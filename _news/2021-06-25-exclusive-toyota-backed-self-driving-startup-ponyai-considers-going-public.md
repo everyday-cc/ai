@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/exclusive-to
 webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
 type: article
 quality: 165
-heat: 305
+heat: 315
 published: true
 
 provider:
@@ -222,6 +222,15 @@ related:
     provider:
       name: Engineering360 News
       domain: globalspec.com
+    quality: 4
+  - title: "Toyota chief personally invests ¥5 bil in self-driving smart city"
+    excerpt: "NAGOYA: Toyota Motor President Akio Toyoda has invested ¥ 5 billion of his own money into a group unit building a smart city dominated by self-driving vehicles. The investment in Woven Planet Holdings during the last fiscal year ended March was revealed in its annual securities report filed Thursday."
+    publishedDateTime: 2021-06-29T09:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/06/29/toyota-chief-personally-invests-¥5-bil-in-self-driving-smart-city/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 4
 
 secured: "rV7tMcJJrKMDdFRDw76eNNZzjrrPkfhgEqTtiEgwXBmXhGahAagh9EacJjube28H9FwgWt1qsCEdKZscWSnYelSlMw+R7FjlodRgGWdYtJ9hQWKjN8zFJgriwIw3Gz40AiZkUWmZP+JecSXv9b122xsMQpKt+m+5HCL+OeNIzoA+HCwW+G0GGTpemq7uo357oIeooHCZnscOI4l/3FiVD9zJ8ndY9SuufWct2y65g5hHG2Yrxxc0UWESXHI/n12Gk0ipxLDAxS7NF1RyEEFX3O9fzpsjsJNmntxfRhy6W1ny7Q4zeuy+89gvrVoH8MOlphOLcrzMN2jvESewuLt3Nufchb8ex+2AMfhB0U7IDF7OiS5wZ2Hgqw5dobXU9IU9bWLC/99gXGDVw8qMZXTFnqVfeiYp8wkM+7tSpclscOQFvFjtpyZ5MKSZvt/0C2XRukcgvg3vYeuANYKkvyOQAJGJ++EBd90w4hztLzDyULPEGWyHeDSEMVGFEHYARVwgg2BtocSja7smPhb7bl0Iy1EJD2bjQE+gJojYiwrjkkQ=;gPjbQN2lNtgjKxgJYBECZA=="

@@ -220,6 +220,15 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
+  - title: "Toyota chief personally invests ¥5 bil in self-driving smart city"
+    excerpt: "NAGOYA: Toyota Motor President Akio Toyoda has invested ¥ 5 billion of his own money into a group unit building a smart city dominated by self-driving vehicles. The investment in Woven Planet Holdings during the last fiscal year ended March was revealed in its annual securities report filed Thursday."
+    publishedDateTime: 2021-06-29T09:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/06/29/toyota-chief-personally-invests-¥5-bil-in-self-driving-smart-city/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "lY3HRSpyyFIJJMxCB9IjaOzRQqtvbId41XAOwCMu0p/w6ZeAAYP5rpdg/r54kOKj/ZwASV7hdGYB84z3gfxv0uOwb+JxBuY90pMbtPwUR5nka3fKvDfNgPFOKuBQwOSlYfMHGauWC9C9tAewhTMJWXM/DK6zw4gLJvnotBp6EmFgS931KlZ2dWDgHOO/RsLBIHQQHUF1EwViyxTDGOAT9PiTuSlr/eCPokpi3Z8sJ61gS1evdtWdIjYd7EnRBmg0h1HU+HGppGs8bzjEoB5lQQNxkbUsUEieGDjHcflpKBmqPsmVttHJd3efd5pLeEW02yEaVT+8kYjUS2QHqwfoYdrK7v65juoPjGn8ziI8xpywmu+12+tD0gdaT1vBgcK3IGMxOTtkp+vZDc+FQqJyEg5EMPRj0z7CV8hMYwiwhv4ae6YZtadIDxr5HdahO8ZanFJKhQ76NOjhbqom8syUSUlfaEqLFgpKQYqMRDCJlWBSQiPgv7bR3VNf82YI5Qw1AqI1oFTCmo4Z57zmOqe5QA==;zTEJ9v7Um2xzGWCOdqzE0w=="
 ---

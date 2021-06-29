@@ -36,7 +36,7 @@ related:
     provider:
       name: medcom
       domain: medcom.id
-    quality: 64
+    quality: 66
     images:
       - url: "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640"
         width: 577

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/reinforcement-learning-link-ai-general
 webUrl: "https://thenextweb.com/news/reinforcement-learning-link-ai-general-level-intelligence-syndication"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Next Web
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Good data is a key component to AI innovation and machine learning"
-    excerpt: "They recognize the importance and they’re pushing for more development in the field by making good data available. So data is a very key component of AI and machine learning-based methods. Manocha said AI is as old as the field,"
-    publishedDateTime: 2021-06-24T22:07:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2021/06/good-data-is-a-key-component-to-ai-innovation-and-machine-learning/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg"
-        width: 2246
-        height: 1335
-        isCached: true
 
 secured: "+7XsEqYUd7etfXEt+tjNTip3ZD8HjCQu0xatqjMH++ByMYguGmTgp2ffVlqSP7gBkwrJc5tfXzJuiTy33BzeiU4ENAUV+2JEWaAXDesZrAmxANCCkLvYFFLShT8Th2N2ZjlZ2UYDyzlqc/t3droPk/DDVdQoWqZxfFcUWTrJWPme7OYPD6hdT+0IWQRu0ZJ+5RAiaoZ6BV843a1gFha6PWfhzMVgfcAY8ds3FgoCOR0B0EB+hckPaLBDRaI+xBjHmFwXkvzimYZwrxFH62l7x8uxriwI/3u5IwezgSh7ripjHMe8cdO3BcNcjBST/OqnBf5dLLBN2iRuuSu+fM9nTF22EklnDX2ltlAk/MlJmzz5WGSyZH/3Sqvaa4urk+0MtOpoP6PpaproybKD566WuB5ON3BJWSlxWN/1NFiUbftAHuzn6urF4+cgw9x/cpz5mJjYPubrWrEMXfk10j9qjH1Vm0TBQAdmXf+KPgf7yWNFCPj6wDR7Bn4CaJW6XtadzWfOwoNBBwtO5dMN2zZubQ==;L/tsTF74ps427xdlnfcRsg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
 excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
 publishedDateTime: 2021-06-21T22:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9394447.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/21/9394447.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 226
     isCached: true
 
-secured: "GmDK6RqHvvpLEdrGNlQ1m308szHy6GhNwm5nTgSrZq+FmuW438KeH9VBcxYJSEpDZjnmdFSy8BJsADRJE7ejAcVijbJChJN5tW+7/qlk9+3JfPpBNA8iBnuBGtUYfEg/X0sjZ9mGWIT6LNS8uauFu4VcduXl3sROcDNu23eWzwHLwZr+vYzqHanC/p9WI4J4VxwF9uBMGWNxLPawJzSMp6y/d1TQJ1N2gBK5/IpRti/Pe7fIGpRM7VTlDu7OWRYawDfhYQc5v8SpsMOsEBcvGJ1rrBy+sR0/WobN+xDPqD3+NVzm5z/LhFygoSBD5JTYuIfor5fnfko257IfulTpORVghI6oB0VQ9y+EeQjFMXA=;YTbcYO4nrFAkT9SwQYF7qA=="
+secured: "HDSp/g4TFuxgN7WI6mpXSyFVoYFfu05y1rNmCm/aOoFpxQHs4G3CC5LC84qTHMPH8R3cja7fwpbMWXUTQnbsTSdMod36R/lTmDcFJZbPJRrVpiFivT/tlUeDDGXm8uyL3897NrpvckbIFrUbGhXiLLUko5IhnC/4fzGkA4TI+xD177VpZaxK1qleWijA5TWuxf7MAfpsf2MPUqUoz1tmGHZNOw3YqSkemT/Uqc3+duV3CToTPH6O2CNiEV3kfWqbAw+W/C5NuuKTiY7+LrH5fP93uAfdcNx9l+StuVFifIGS8gff5lIZDqcs2Mw9Sb+FjFPE9/nEN1w6azN/+n41zmL2WXZMY5feaX+QjR68NSs=;5fPT1Mp9BuR2f34GYJakqQ=="
 ---
 

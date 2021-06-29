@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com"
-excerpt: "ResearchAndMarkets.com Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com The “Growth Opportunities in AI, Deep Learning, and Embedded Device Security” report has been added to ResearchAndMarkets."
-publishedDateTime: 2021-06-29T06:55:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-6e856ebc135348bf897917d8eaaf9a4b"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-6e856ebc135348bf897917d8eaaf9a4b"
+excerpt: "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot on emerging cyber security solutions powered by innovations based on artificial intelligence,"
+publishedDateTime: 2021-06-29T08:15:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210628005906/en/"
+webUrl: "https://www.businesswire.com/news/home/20210628005906/en/"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
   - AI in Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AI Chip Market New Innovations Trends, Research, Global Share and Growth Factor"
@@ -143,6 +137,15 @@ related:
       name: Reseller News
       domain: reseller.co.nz
     quality: 23
+  - title: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI Audio and Video Chip market report provides"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4622241-global-ai-audio-and-video-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 15
   - title: "Global GPU Database Market Size, Share Valuation to Reach USD 279 million By 2025"
     excerpt: "The report GPU Database Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report provides GPU Database Market Growth and information corresponding to market segments such as geographies,"
     publishedDateTime: 2021-06-25T09:42:00Z
@@ -164,6 +167,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "FLSivBjhlM/lp1dg29B1XyXOgdTf7jTHO85r+5x5Rl06Cer/AIrfZo94pPA536PqMz33fyxjfkjbPUYTJEOaIR4bxjUOtqT0z7/vCxhnyxL5LVTEhAVeuM+p2LcFc8+o3k7kw8OS+ALFu8Sk9l0DoCdAnOsiVMKvLOySZqBx+wcKggQq8ZYKN0QpyOMvLawPKdEhnOz2YOZ8hUelKguzCqhIiEkO5p0hvCuiHtDeNYROt+WbsxRHDGNxmkuRq3vR0ojC2Z5DOT7Cxjq+fBFEoKJOPqty1iOPH15a+a5msCXZmRBaj7IUSMH6uwM0NWmwi/H8qh7mVDtmwiPSxD1sxRahMOaBZ8c+XCnt+gu8UIo=;rnzCY47ym5IDksOlwOwO2w=="
+secured: "zokfZCNosStOhk9kCYNiSmsz//gHVFV8STrFt6TxRaQd8sFk/5nbe10fFPn3oiEzWmbpoEShh6kncZ7CopqCkYTIUlNAUl4CnaPSdnOAWfbyXFE35AbxTbAxL83q3FltBzdOVYuaP5pru/iFqmB7cbI4uOOAqVwsgBVp8Juo0ZSQnfvqZrwcYewI0+NnFGHLENFsc5VPo1in2VqqWbGiC7046hKbaRrcnJTohroMjohdMhGvM69ZsYL6shIaEtHJIRyui5eT0Zcf6yTy9xk22oiiKEBACvGN+MOVN7KwY0AGBua/9/alsPQMtOkc3hbdfvQI6MaKxqTVe8p7b/xvLMrlUTPIKaBr1B2kMvXE0sA=;aO+nEoqz4uRs79Cum1EHsg=="
 ---
 
