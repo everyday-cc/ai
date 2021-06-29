@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/25/nis-america-is-making-fan-transla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/nis-america-is-making-fan-translations-official-with-trails-from-zero-and-trails-to-azure/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "LKQ North America Partners with Tractable to Accelerate Auto Parts Recycling and Distribution with Artificial Intelligence"
+    excerpt: "LKQ North America, the leading provider of alternative vehicle parts, is now using Tractable's Artificial Intelligence (\"AI\") to accelerate"
+    publishedDateTime: 2021-06-29T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/lkq-north-america-partners-with-tractable-to-accelerate-auto-parts-recycling-and-distribution-with-artificial-intelligence-301321545.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/970730/tractable_Logo.jpg?p=facebook"
+        width: 678
+        height: 355
+        isCached: true
 
 secured: "ZLKYZBqMka18ZqM7chfphDvbccrA/HDNR4yfpSqsSkcNk8Lm/45K5Ui7DTKH+Tvzg95ZQ3tmuC+MjSPbydJ+kk9cs48yYG7FFHy9EEi8+EOX4uNWaiC8JRtUvNuvYzWyfSrgjq+s91g0dQS4h0NxffzCawBhMESMbZBWRDP1O4yrWT4o5CijzZPT5LgwZtJzsul7KRRPBW/BZxsuprWL3NFhLW3iecDBEsZocvPQls2nuo3nmwUa+hDIq+ota6HqNarima1m/BRGBLjKb8iH8MuLFDca22FjPakpFkEnWtQEQQhss/g0HwwckY3iV8wmQBb035iXl+8wClU7zMz5jLPYwh+8YMUpT4YAKvbiudepyvTP7bsiV4jJvR8nEVhwfjqk1IHUWbCtNUlNCNg/tR0Y3N8a6M6R5ZSFh8L8g9Ivckd4C4EASusbQ3NoYepSaZGRB2fUV4M2MQj4orikqXZXt6TQhcdIRyh/5P7mwBBC0crLM7vQ+QqkJ6PTe5X2dRAK1JsT2JsLeKQHqH3ScA==;2JdYas22YytlrOnahgn3Nw=="
 ---

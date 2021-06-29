@@ -20,19 +20,19 @@ topics:
   - AI in Security
 
 related:
-  - title: "AWS, Microsoft, Alibaba Led IaaS Cloud Services In 2020: Gartner"
-    excerpt: "Amazon Web Services, Microsoft and Alibaba were tops among infrastructure-as-a-service (IaaS) providers in 2020, as the global IaaS public cloud services market increased 40.7 percent"
-    publishedDateTime: 2021-06-28T20:59:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-microsoft-alibaba-led-iaas-cloud-services-in-2020-gartner"
+  - title: "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances"
+    excerpt: "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads."
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
+      name: InfoQ
+      domain: infoq.com
+    quality: 79
     images:
-      - url: "https://www.crn.com/resources/0268-12265fa8501b-d077c26c6b04-1000/clouds-3.jpg"
-        width: 610
-        height: 457
+      - url: "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OX0PgJnA1aJr4GYoAzGYtNh/VRwBgHd0WK+bBWJNvR6L3Qud9PH+EM43/Ro0ux+aUI7iAfyULDSPoCMRfKgFEqYwd6h5n8iWQKmK5qIxujFBqjIPJL6OCttQO9D0XOfbyVOnu3vfTSwul5JO6aX+2wg7aYw1wIv349aOiK3iM5qWzPzB9kmRc7c54lkTynGhILYlFrmuysqKFG65MvkpxeA18iIlyg18RaP7QIV6gVVXGAfkW1c7CQRm8GO69bAXDQgiquc41H9jexpbl61+iThnLXM0xJuktYOww7K5yIylB2aTSn/BNUW622lT8Yw8vvHMBzINzIRmDuMikgB24NCWtS9ea1RHUKeBoAEcJyA=;t0rfRxo66IsgTopNgSERXg=="

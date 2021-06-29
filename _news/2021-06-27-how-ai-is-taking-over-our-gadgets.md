@@ -58,20 +58,6 @@ related:
         width: 700
         height: 481
         isCached: true
-  - title: "5 Ways AI Technology is Making Our Buildings Smarter"
-    excerpt: "Smart technology has led to the most notable changes in our lifestyle. For more than a year now, millions of people have been working from home and life has been led largely online. During the pandemic,"
-    publishedDateTime: 2021-06-24T18:50:00Z
-    webUrl: "https://www.chron.com/business/article/5-Ways-AI-Technology-is-Making-Our-Buildings-16272048.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/57/05/21164368/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How AI Is Taking Over Our Gadgets"
     excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
     publishedDateTime: 2021-06-28T14:47:00Z

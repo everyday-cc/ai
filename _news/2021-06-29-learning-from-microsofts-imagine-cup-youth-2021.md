@@ -48,6 +48,15 @@ related:
         width: 1000
         height: 525
         isCached: true
+  - title: "AI Governance Market Growing Popularity & Emerging Trends | IBM Corporation, Google, Microsoft, Facebook, SAP SE"
+    excerpt: "Global AI governance market is growing at a healthy CAGR of 33.7% during the forecast period of 2019 to 2026. The upcoming market report contains data for historic years 2017, the base year of calculation is 2018 and the forecast period is 2019 to 2026."
+    publishedDateTime: 2021-06-29T11:44:00Z
+    webUrl: "https://manometcurrent.com/ai-governance-market-growing-popularity-emerging-trends-ibm-corporation-google-microsoft-facebook-sap-se/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 15
 
 secured: "zn5VrcohJhpLzl4RCovcPwd12D5/OPkU7CovSV1giSO2xl/D1PcYnpE3ACZE4hmC2SV19U9Nuj6s367CxF2l/vjg1VfNCN1ZZeka+o1aL1BPpNx7OAn7QDPa/vY4R1IZDNHI8DXy+nXFyADhj8Sq+FtYH8lxogFnHye/qiy46ZfSHYUeqYOZ7CRUeCJ3C2JjdKNyyh2v6t51g1efMy00BCM9PU9aq4+9unqW/D9Mw5RqoHP3BPDYNsvVCOHGbh/7QwY8gr4Mk98wJQ81ADwYEutoPam1Q2MOk1csAZqvfGl1qT5IImz85Pzpoy1c/cJBIol1qf3caDpn/O9kvK4eImd8FJXq5i9l51AZQea+L+bLIbVayY1yBZCruZ/OdVGUpvcW3Seb0HDZ476HW9418kQvtCtggK8f5vxniLMI+jNS+VOA7435DYFt8BdnGeKYi1xRQOldwYPG/aoTUurRq7ptk7Ipmu8h+sIqmyH82h1RICtd3M8li/8nwXbuVBUg93Lo/PvG+Cnfyy5IEF7/TQ==;GB5sShGPPUFMR7mso06CEw=="
 ---

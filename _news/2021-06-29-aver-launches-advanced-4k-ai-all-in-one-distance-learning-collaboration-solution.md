@@ -24,75 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "IIIT-Hyderabad launches online foundation course in Machine learning"
-    excerpt: "Hyderabad: The International Institute of Information Technology, Hyderabad (IIIT-H) launched a 50-week online foundation course in Modern Machine Learning for engineering students on Thursday. The online course will be open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology,"
-    publishedDateTime: 2021-06-24T18:45:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html"
+  - title: "At a National Laboratory, AI Tackles Misinformation & More"
+    excerpt: "In a world that is slowly recovering from the COVID-19 pandemic and a country that is slowly recovering from the 2020 election, misinformation is an"
+    publishedDateTime: 2021-06-24T22:13:00Z
+    webUrl: "https://www.datanami.com/2021/06/24/at-a-national-laboratory-ai-tackles-misinformation-more/"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624204626.Medi.jpeg"
-        width: 800
-        height: 448
-        isCached: true
-  - title: "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students"
-    excerpt: "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation"
-    publishedDateTime: 2021-06-28T08:09:00Z
-    webUrl: "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/"
-    ampWebUrl: "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 52
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg"
-        width: 850
-        height: 400
-        isCached: true
-  - title: "IIIT Hyderabad Launches Online Course In Modern Machine Learning"
-    excerpt: "The iHub-Data at IIITH has launched a 50-week foundational course (online) in machine learning for engineering students"
-    publishedDateTime: 2021-06-25T06:48:00Z
-    webUrl: "https://analyticsindiamag.com/iiit-hyderabad-launches-online-course-in-modern-machine-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/Untitled-design4.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/shutterstock_tweeting.jpg"
+        width: 1000
+        height: 615
         isCached: true
-  - title: "IITH Announces Online Course On Foundations Of Machine Learning"
-    excerpt: "In keeping with its objective of enhancing the quality of education in Artificial Intelligence (AI), iHub-Data at IIITH has launched a"
-    publishedDateTime: 2021-06-24T17:59:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/iith-announces-online-course-on-foundations-of-machine-learning-804964352.html"
+  - title: "Atos International: Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications"
+    excerpt: "Press Release Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications Paris (France) June 28, 2021 - Atos today launches ThinkAI, its secure"
+    publishedDateTime: 2021-06-28T15:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53267931-atos-international-atos-launches-thinkai-a-complete-solution-to-power-high-performance-artificial-intelligence-applications-399.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-        width: 2398
-        height: 1257
-        isCached: true
-  - title: "IIITH Announces Online Course On Foundations Of Machine Learning"
-    excerpt: "The online course is open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology, Electronics Engineering, Electrical Engineering or other allied branches from any technical institution in India."
-    publishedDateTime: 2021-06-24T17:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/24/9397647.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 3
 
 secured: "p4YG0yF61KVXDPImF4pny4Bm4xJumGAzcbln/VRcBz+N2/o6hLFyzvjAtyhoefi+shvf8QHpNXT6JiXTbBn2TNAhIjZlpbkyUNt7P1zQj+tre0Vg0u7CWbIgtVRfSqvzsJMNovn4QTz2JNAQF6m51JUYu36a0CmG+xHkj+8L0dV/WjiCRViW6WMjI9l2rvphVkC3nuvM/MSkkdv/hsN+e2wvZm733aq9m571VSoJkObsilxi/TKT4N3hEe+d1CcvZa6nxOhbzvQTuf6jSfT14cbb342eDeCwYL+fGBB5KXWVl26Rb1UogXJm3963SMo+udljt50t8VcLul2/4E6wLtX06xnQdguwVpBd8SMaNaQ=;5d9iZ9aJgSwKEoQdjTp1bw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-mana
 webUrl: "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 2000
     height: 1006
     isCached: true
+
+related:
+  - title: "Artificial intelligence for disaster management: that’s how we stand"
+    excerpt: "Smart and timely decisions are needed to manage all kinds of risks. The use of artificial intelligence (AI) in the decision-making process has shown tremendous promise."
+    publishedDateTime: 2021-06-29T10:25:00Z
+    webUrl: "https://www.preventionweb.net/news/view/78713"
+    type: article
+    provider:
+      name: Prevention Web
+      domain: preventionweb.net
+    quality: 17
 
 secured: "p50av1D8ytnDA3U2ub53t4x2neLJAlQXBg2EmEgJNYDVpW1vvODgX+LVVbxmfk0Ym1mdBVNVt8Ki0OVPbTIkcES6H8hpeYALzxxopC9X2s5DKvkWbAmeSkek5lChg+LHcFDvV1Hl5t0wokcCD74Y4Hq7yoC+05Zmor83+pKXjbWhLy420IUBY7S090PpPmRSoe5J25VR6k3IA649SUPW4mUUTEGsUWJ+r8eeeu+/f6jzKHm2uUV4hmYDXp3b6CQBYcrBatoYDvV6AA3B4tGAu+q9zwd3UPA3auYQSs98BcdpNu9ZF65Dc/mnUETOwUIIeJDMWsKfaQN8lyn5OPFsyYp0LvhD8/6lVYccsBaY500=;KdqAmvs99c85DbNFzJFUig=="
 ---

@@ -85,20 +85,6 @@ related:
         width: 1598
         height: 900
         isCached: true
-  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
-    excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-24T18:35:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2021/june/marinus-analytics-xprize.html"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 41
-    images:
-      - url: "http://www.cmu.edu/news/stories/archives/2021/june/images/xprize_finalists_900x600-min.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "IBM Watson Embarks On Project To Reduce Bias In Advertising"
     excerpt: "The research will rely on IBM's open-source AI technology and use campaign performance data from the Ad Council, IBM's initial partner."
     publishedDateTime: 2021-06-25T04:00:00Z

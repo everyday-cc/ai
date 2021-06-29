@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/intel-3rd-gen-xeon-scalable-sapphir
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-3rd-gen-xeon-scalable-sapphire-rapids-ponte-vecchio"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 708
     height: 502
     isCached: true
+
+related:
+  - title: "Intel Xe-HPC GPU reaches system validation phase"
+    excerpt: "The Intel Graphics segment of the ISC showcase was mostly concerned with the Xe-HPC GPU (Ponte Vecchio), as befits the audience of that show. The latest news regarding this data-centre and AI processing targeted GPU is that the first Xe-HPC GPUs have been powered on,"
+    publishedDateTime: 2021-06-29T11:11:00Z
+    webUrl: "https://hexus.net/tech/news/graphics/148037-intel-xe-hpc-gpu-reaches-system-validation-phase/"
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: "https://hexus.net/media/uploaded/2021/6/e307bff3-775a-4146-9bd7-e526893d121d.jpg"
+        width: 515
+        height: 221
+        isCached: true
 
 secured: "BYyc9P6Fe+f84Jo6RYTAqcrz5ZW3leX1SqEEC6MXQ2lWps46Em5QgFwzl2VQcfkd2ujfvWS9cuK4FEelYG3mckWEK17k/EBTQftRDXEWVOBPrvu3Lj2MhmMXibc1OIFSYYZ5azSQLogNocGnrLjXHTHYzmi34PDzjsOdR/+KOQqviEEvbMtbdK88ID9B8WPxPAnvw8p1w6edOYRjnLjrxN+e9Vg7V9jzLAr29etKXdkKYMxPDYilnhMfQu0paNP4KweQcsAicpyPVEhTwFJ9/KC3FYZvO/0F7N4NreUm7GgVhkU1ya1ei/cbmdqg4cawEMIV28oz7w7GawHGR4QTsYll7+VTdN2ZRUrG3xDffBqpS6nXPNea+pJYs6blHjxK0HpxYnS6YW6lrx4NIppC6hxS6t32Iis0NQpu2bH3vbGAeeTBSYVXDNcTANLOGA3Png26UcVAt9rxk40nKlbiAN9U0PUOktQBLm9qrUe9MIrBgJZwMwN0EuYzpvUySLCrJ2hWO+YT/or9uO8K54sc8w==;YU3BHWfJagFDDUZTKntpaw=="
 ---

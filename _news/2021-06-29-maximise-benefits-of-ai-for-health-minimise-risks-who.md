@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Maximise benefits of AI for health, minimise risks: WHO"
-excerpt: "The report Ethics and governance of artificial intelligence for health, cautions against overestimating the benefits of AI for health, especially when this occurs at the expense of core investments and strategies required to achieve universal health coverage."
-publishedDateTime: 2021-06-28T17:26:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20210628/3778666.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20210628/3778666.html"
+excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
+publishedDateTime: 2021-06-29T11:05:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
+    width: 800
+    height: 434
+    isCached: true
 
 related:
   - title: "Maximise benefits of AI for health, minimise risks: WHO"
@@ -34,6 +42,6 @@ related:
         height: 231
         isCached: true
 
-secured: "LuZqX6s54/ZzkVjVICfKCYWQbzfwv/eW+Jiwe9RyKgQKc1OC1Q7r1Yf5k5ZE59Oo2GVrKHJIFDu/499l8/e3S6xyd3kKPaeK2zR/oRbJsvl3KQTMnAmRwFQQerdkyWYXvH1T/b45osCi5y+q+jTZV/3FsUP3dY1zAdEm8d7otySV2eS0t7HRzQLNUjj204He5nsjqzPsYhHw3hRqZ+XbjCxNF4G1XiWyfuXjTxQ+czazFYOgymTG9RQt6IWTntcQvlmwo+J668QRcz12zchy3Pp5fQSnOCw7tHqk3ASsdUsVn/xXGV3/JufuGp8hXBwTH5gvLIFiLDB1DXkqj2vu0/LTlxYknv+RIDQPtUvyp5A=;W+hEHpzZBlsXASMH87WPgg=="
+secured: "a/beKBsZNt3V5Fqp1vUwy+RKSzkWuNyKkwOKz+dfnIn+MHJfHMStb1Anr5d33ggSCBrlHuyEmKtfrr0gicFCn6tWtUvJHUUbaV3NJratVajIikQ2qKyIH5jn+h78wGKZhVvVMeNMHODJPwm7h4T17CRxozKx/G/oeEB6J2kCmwXrGCdsM8MviYZGCBTEac7K4X2W0SKqEB9vkeE0Iu3W7RaFcJ4a1rUYvxRqg+n2YU7VWI7kVRyZsA2EVwp+ZqdnNE9QtLfgQgJZstxb5mN3Eg90S1rlNgy3sRpYMIhkh0ziV9ZDuAIOUZBSbVpJJuncyFL5Et9JYOWOCufkB/0AV4nVN5jovP3vct3TR97gfds=;FenlSk7M1tZZqdXFK6YdRA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/21/06/29/pixelmator-pro-21-launche
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/06/29/pixelmator-pro-21-launches-with-new-machine-learning-crop-tool/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 714
     isCached: true
 
-secured: "IStatn1rhV485ND3Uep0wY+svHOdlxGNYqiQhtwKiGn5V9lIJWAOPJ79+/IJrCQVk2vR5KUqUmon/YYNMJO24LFN7GZXCPPtKd4cTk99JyyXWG+5VWaWuwUovaLhjr1jAmgO/fHOagJFWQmqaQl03S4oCHZ+mM9JhI2qtCZwiNLfZjEzGFFFycswe+TN5loTYuoYnXZ4p3/9dqEGszw1xyNXc/EHyDhfL+oTEMnTjBc8Atw7kOGcQFeDBxU4EoT91IYM2rp2I07L0ic/cRvqKWE7OelOxqnks28AiGiVPjb7uFbFwyxVq7HDGfcblKsyOdFu9NA6wlg2L84aVBd9TULgiJXKK0KeJg8ovKSRcNM=;eJmya+c+rWG2EiBMLuFUqw=="
+related:
+  - title: "Pixelmator Pro adds machine-learning powered cropping tool, redesigned Paint and Type tools"
+    excerpt: "The Pixelmator team today released the latest free update to its image editor for Mac, Pixelmator Pro. The new update includes an ML Crop feature which automatically suggests a refined framing based on the subject in the canvas."
+    publishedDateTime: 2021-06-29T09:58:00Z
+    webUrl: "https://9to5mac.com/2021/06/29/pixelmator-pro-ml-crop-new-features/"
+    ampWebUrl: "https://9to5mac.com/2021/06/29/pixelmator-pro-ml-crop-new-features/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/pixelmator-pro-ml-crop-new-features/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 49
+    images:
+      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/pixelmator-pro-crop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "+0y58PnWZVeKVseDa5ZAgEBa8wEV7HUWUuaX+aZIYd7RpCEU7gzeS/hZoQPGnfhrw6Lszyd+Yv8EoQTWvV0jIo1kdi3edabEgp0h5qZiz5675fqf9ukWMxAoO444YfS3Fgv1M5SwPpS1D8OfpZ4khu7QNKpWD5v8yuWKNb907c/9NNjB8TFvPlKpISnqQcECysYrAy5QChJd/KwCy2gANQb4NUbDGyi6I7YjDXLfAyzp7ZsaO/w+UbpWzLo+OT3tGtjTQQ7quNbpl81cdEiNG+gx5pMCtYyODkuy1eJ4aTBc9Bc+/0Q8/Id51tKmaTCOU4iIaSo3eE4NPbEdMAEeVpCTDVspifvz8yoWxqMB04qpRLb0+h+pb68ur/cQGvF07sZ0ARLyafJZkJKLLEQEOgs/qGF5GCeErkD1mYKTFFafAg0WG3CqFuhGDx2u3Q5dUI1s2xsN97KsUmV4h8Nf5VDX33tOPoy95YVa7lWc0Ixna5xa+70SPH+X7B21XS6h7Zkrds8V2n8t9AP9LPfxRg==;TBcO8KYojDYrr4o0DAzQtQ=="
 ---
 

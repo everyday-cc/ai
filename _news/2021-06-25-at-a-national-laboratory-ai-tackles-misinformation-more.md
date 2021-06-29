@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AVER LAUNCHES ADVANCED 4K AI ALL-IN-ONE DISTANCE LEARNING COLLABORATION SOLUTION"
+    excerpt: "AVer Information Inc., the award-winning provider of video collaboration solutions and education technology solutions, announced today the launch of the"
+    publishedDateTime: 2021-06-28T17:36:00Z
+    webUrl: "https://www.eschoolnews.com/2021/06/28/aver-launches-advanced-4k-ai-all-in-one-distance-learning-collaboration-solution/"
+    type: article
+    provider:
+      name: eSchool News
+      domain: eschoolnews.com
+    quality: 32
+    images:
+      - url: "https://www.eschoolnews.com/files/2021/06/AVER-VB130-Camera.jpg"
+        width: 768
+        height: 507
+        isCached: true
   - title: "Atos International: Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications"
     excerpt: "Press Release Atos launches 'ThinkAI' - a complete solution to power high-performance Artificial Intelligence applications Paris (France) June 28, 2021 - Atos today launches ThinkAI, its secure"
     publishedDateTime: 2021-06-28T15:09:00Z

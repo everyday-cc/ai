@@ -9,8 +9,8 @@ ampWebUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-in
 cdnAmpWebUrl: "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: La Vanguardia
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI trends that will define the future of data science"
+    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
+    publishedDateTime: 2021-06-29T09:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
   - title: "How AI Enables Companies to Harvest the True Value of Data"
     excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."
     publishedDateTime: 2021-06-29T05:30:00Z

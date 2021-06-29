@@ -2,9 +2,9 @@
 category: news
 title: "Conversational AI platform wants to bring 'surprise and delight' to chatbot interaction"
 excerpt: "Tonya Hall talks to Robert LoCascio, CEO at LivePerson, about the need and the benefits of putting some humanity on AI."
-publishedDateTime: 2021-06-28T13:33:00Z
-originalUrl: "https://www.zdnet.com/video/conversational-ai-platform-wants-to-bring-surprise-and-delight-to-chatbot-interaction/"
-webUrl: "https://www.zdnet.com/video/conversational-ai-platform-wants-to-bring-surprise-and-delight-to-chatbot-interaction/"
+publishedDateTime: 2021-06-28T16:26:00Z
+originalUrl: "https://www.zdnet.com/index.php/video/conversational-ai-platform-wants-to-bring-surprise-and-delight-to-chatbot-interaction/"
+webUrl: "https://www.zdnet.com/index.php/video/conversational-ai-platform-wants-to-bring-surprise-and-delight-to-chatbot-interaction/"
 type: article
 quality: 59
 heat: 59
@@ -27,6 +27,6 @@ images:
     height: 578
     isCached: true
 
-secured: "X59F5ihcSf7XE2zQjZq/0o8Jhvdhd+SydHRUmW4CA+/0KRU87JMgU7CFYZ5dnxNdf8i/fjmT5bnQAI+HA80hZ3N2QPus+MXVPLL8r2gGp+PxBstidp7tpo+Xb6d8qFgGoBWkv5Br0mrZxB+96SGcbx+GwDjk9viYHMmX/kWmA2lBL8FVui2P4cbTTh1wugIpYk999De0UkMVhCvxZuUDAihXQUx6yesqnPO/yr2v1PyGxCdPpg86GNKiZdLDX9Lx1mryj+iVlOUzUpovi9TdBcGWezXVJuO3HKtKKhpBnlkSL8O9+sdyjX2+Cx5oeE90Ndbo0hGdeR5AIbdlWksA/ZSfnKZWHhqlFiEbdb3BAP6NKpy9TxXAcCP9xGm6bsE+EoQORQGrLcJ5rS7M22c+HMdDShnctm8GHL9qAJ9Bxr0DQn84v8BBQ9DyKQ2z1GhG+rEYwcuDZXJ89jS9R2pvmuetNVTG1CwCx05rL2pDk8sp2Y3u8u44vJ9myzNVGaVbVdPl8ribxhzm8ZtNEnCgJA==;BNmdJcipcxr05xk6txLs8A=="
+secured: "WwQ/PiG1X2Jh/wYXJ82+OCTyKhrH5LTpdlohlTEsCngJ7q+Po2h9wD3+M5E8befCy65Vx//fYuiYLgZNmzpoa7MHGzuEXrwnFSae6TCnpBvLl9KupiuJFYtBevhrI+2EPlJxR/5TfatVpYVsCBtH3hikJpkDuNsIvPMS/u1PagSsUeenqlloMi9rB44tO6M2XAl3DLz+0KY4RbQIxQ73SoEuACcvGm1bHxqshxR9AqbIGEI9EOFvtLXNVQZHrOY1HsTSI59JP659Q6QWdb0yiBbj/pV/Pz+XxfpNJNhsFXYYvBi1Yy+Pj4iOfOAp2XL86MRJrRHMqLdSLIl0hc6B68iMLnjajWNZ1dcztE7yV7Y=;9HXrnWP+RnW2P1xijlfTeg=="
 ---
 

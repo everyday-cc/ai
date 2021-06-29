@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Energy Market: Incremental Growth is Expected to be Worth $ 6.79 Billion by 2025"
-excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  Adjust their strategic planning to move ahead once business stability kicks in."
-publishedDateTime: 2021-06-21T22:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-energy-market-incremental-growth-expected-be-/2021/06/21/9394447.htm"
+excerpt: "Artificial intelligence in energy market is expected to grow by USD 6.79 billion during 2021-2025, according to Technavio. Enterprises will go through the Response, Recovery, and Renew phases. Download: Technavio's Analysis on Market Size and Forecast:  More Details:  Want to customize this report?"
+publishedDateTime: 2021-06-21T22:23:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion/article_b35f1e6d-2f40-57a8-b55a-7a4108b14f88.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-energy-market-incremental-growth-is-expected-to-be-worth-6-79-billion/article_b35f1e6d-2f40-57a8-b55a-7a4108b14f88.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1536445/Technavio_market_research_report_1.jpg"
-    width: 400
-    height: 226
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/12/9123fac4-764c-5534-9830-ffe3fa7283dd/60d1137e55ba2.image.jpg?resize=1000%2C564"
+    width: 1000
+    height: 564
     isCached: true
 
-secured: "HDSp/g4TFuxgN7WI6mpXSyFVoYFfu05y1rNmCm/aOoFpxQHs4G3CC5LC84qTHMPH8R3cja7fwpbMWXUTQnbsTSdMod36R/lTmDcFJZbPJRrVpiFivT/tlUeDDGXm8uyL3897NrpvckbIFrUbGhXiLLUko5IhnC/4fzGkA4TI+xD177VpZaxK1qleWijA5TWuxf7MAfpsf2MPUqUoz1tmGHZNOw3YqSkemT/Uqc3+duV3CToTPH6O2CNiEV3kfWqbAw+W/C5NuuKTiY7+LrH5fP93uAfdcNx9l+StuVFifIGS8gff5lIZDqcs2Mw9Sb+FjFPE9/nEN1w6azN/+n41zmL2WXZMY5feaX+QjR68NSs=;5fPT1Mp9BuR2f34GYJakqQ=="
+secured: "WJ5dD91DE7Q0b2IXFLZNEL+1kg6T515se5SDPYY3Q4LO/fKAVamQ8zvc+/K1+utRKy3KdvAWCZcY6UsLLt208p4xwRPUEeM4x4fej5zyyHDdQGaDfrf/tAr+0dtzQyVJEz4AEx5CIpmGKkenprlg/qaHDxgzIptFsBOBDluWCBAlKgJkYAYoszq+auETa9oszMtXVXRpFx1hVYYwaC8vyAPeYSJ8pK0pgjzFQwQJStfqf5WbVxVKqlduVo2iNOHoHbzN2R0p+jenKjtWkpQ/h7Jzq9Yeoyaigjttwj7QPbRhpGeQNOoEVpk0dznK4vMMVFP/IzFYzKRLWJG5eH9AIpZwmyw3lPj1Zp4EvFV0Qx8=;+Y+5NpWWexyec/Dee3eeCQ=="
 ---
 

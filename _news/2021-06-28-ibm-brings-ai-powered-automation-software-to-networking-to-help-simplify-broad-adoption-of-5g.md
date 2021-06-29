@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Staying On Top Of Trends Is Key To Tapping Into The Growing AI Market"
+    excerpt: "The Covid-19 crisis has accelerated the development of the AI industry. It has also spurred adoption of and investment in artificial intelligence technologies not only from large institutions but also small-business owners."
+    publishedDateTime: 2021-06-29T11:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/06/29/staying-on-top-of-trends-is-key-to-tapping-into-the-growing-ai-market/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM explores AI tools to spot, and reduce bias in online ad targeting"
     excerpt: "Th tools would ensure online advertising algorithms do not unfairly show ads to only specific groups such as mostly men or wealthy"
     publishedDateTime: 2021-06-25T07:35:00Z

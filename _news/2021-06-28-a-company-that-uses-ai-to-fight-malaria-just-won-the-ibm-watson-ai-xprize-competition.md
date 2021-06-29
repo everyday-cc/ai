@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.algemeiner.com/wp-content/uploads/2021/06/Red_blood_cells_infected_with_malaria-1.jpg"
         width: 720
         height: 360
-        isCached: true
-  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
-    excerpt: "A Carnegie Mellon University spinoff company, Marinus Analytics, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-24T18:35:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2021/june/marinus-analytics-xprize.html"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 41
-    images:
-      - url: "http://www.cmu.edu/news/stories/archives/2021/june/images/xprize_finalists_900x600-min.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "IBM Watson Embarks On Project To Reduce Bias In Advertising"
     excerpt: "The research will rely on IBM's open-source AI technology and use campaign performance data from the Ad Council, IBM's initial partner."
