@@ -36,13 +36,15 @@ related:
         isCached: true
   - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
     excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+    publishedDateTime: 2021-06-28T07:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
 secured: "wCArFK0ykySTIFSswZ8cowuA//iDLU/nHuWDWbEvmHpj320SjpSrWQKJrWKDLj5BQYxqgCA+5MH6U7YkRyPzcOTZXnpTPHS+FWwSvQ0qEkjQTL1dHWhmeOx/cM7Yr2MhzVVumjKB2JUCpgC1WGxim259IgwcTPlzmrVDPgFqBwcBWws5n/8v3GV1kayWsipzcBa1dhzqcwXECf9yMNs0P/HUOoJiRZ8GWNuy9YtyJcNip4c7SnlYdfH4w+747Vlo9jBgq2a56byKbj3l6lVqHuzLDB1SPhG1rdRq6NokztKGH/qPYT2AzqpTvDFcXLRKoCF8TT+Yb0MjUxYZqgNoVpwWlWYGyVWIK72iHTP3rvY=;rw9eKv/sUypnxvwbprVygw=="
 ---

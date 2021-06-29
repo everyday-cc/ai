@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/security-robo
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

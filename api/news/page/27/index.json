@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-06-07-best-ai-based-cyber-security-tools-for-improved-safety.md",
+      "title": "Best AI-Based Cyber Security tools for Improved Safety",
+      "excerpt": "There are several tools in the market that are making use of artificial intelligence to improve cybersecurity. In this are, I’m going to mention some of the popular tools. 1. X Sophos Intercept Tool Intercept X uses deep learning neural networks which work like the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
+      "originalUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technotification.com/wp-content/uploads/2018/04/IBM-AI-security.jpg",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
+      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2021/06/best-ai-based-cyber-security-tools.html/amp",
+      "publishedDateTime": "2021-06-07T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technotification.com",
+        "domain": "technotification.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-06-07-nsw-police-force-is-using-ai-to-analyse-cctv-footage.md",
       "title": "NSW Police Force is using AI to analyse CCTV footage",
       "excerpt": "Police Force is using artificial intelligence (AI) and machine learning to speed up investigations by automating manual tasks. The force's AI-infused platform, called Insights, gives police access to a wide array of critical information and automates many tasks such as transcribing recordings of audio interviews or poring through petabytes of CCTV footage.",
@@ -1135,50 +1179,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-06-microsofts-low-code-strategy-paints-a-target-on-uipath-and-the-other-rpa-companies.md",
-      "title": "Microsoft's Low-Code Strategy Paints a Target on UIPath and the Other RPA Companies",
-      "excerpt": "Susie Xia discusses the video encoding system used by Netflix, and the tools and techniques used to analyze performance and to improve the system efficiency. In this podcast, John DesJardin, Chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/cloud-vendors-low-code/",
-      "originalUrl": "https://www.infoq.com/articles/cloud-vendors-low-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/cloud-vendors-low-code/en/headerimage/microsoft-low-code-strategy-header-1622198877902.jpg",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-05T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

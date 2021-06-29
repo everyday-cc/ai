@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/health/news/machine-learning-identifies
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

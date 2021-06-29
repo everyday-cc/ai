@@ -65,20 +65,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
-    excerpt: "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population."
-    publishedDateTime: 2021-06-24T05:48:00Z
-    webUrl: "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"
     excerpt: "Israeli startup’s AI platform tailors and monitors location-specific antimalarial strategies; also won the People's Choice Award in the competition."
     publishedDateTime: 2021-06-27T11:47:00Z
@@ -150,6 +136,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "YmMQ3yZg/uzp8Dj4MURjUD5cBlVrXBfnkI5e+Z9ieRFCd522sVnxXYJvHk/Hrds+mhd1te/cxi22mM0njXhDRrkfJCv/bmVYuMxeT/mbBn+4nbDgnmUsDYClNVT7K6mYBGbswYAY01OWF5c7doKaoqy1LzVOSoBzSCsJJiY/wzUn7Zc3sq6hQAuuaQpDefsCYr9i1g0jbjJM5kuw2f3wffxgoTD/xXxs/sd7qz36nJvgeDbeEwDBmpb0opnyw9+CoqMUoqC3Wu1IV7QSFw0VfXBZjLclNl7k1a3obAuCL8ikKfbkQ9+YyKOcYn9oaTiiQmlm8pau2/y6n9/rLTtz6Qu+LrDGwwRobyMe/Nm/SC0=;TWqdtHxCwmKeaTKcS9QZuw=="
+secured: "S1cv3BLUJIAUge/pf3zfbSb0L1ZpWr7eCnam1KTOT1ZXUBInbZQe35zgnyqV6DUQrbFFu5vidYahwKCCJJnYmeuH3xHpeLXPbFuPnVwxVgnKY7Lct7KVOPNOm62cSlg0g6z6MULmZkQ7ebRUJTiRSz1qUSv6gS4FukdfWGQykgE9E0U/ozrPJDU5mtmfvpIAgzMNVKm++xdw/5Vh8o76qq+G6ZcdkR2RtuL06r6brEs0TQbHUH18SWwoHjtL6d4R3F3ytSoEwfpSppRFzajBqH/hd8cZJxKPtEZ7Y1OxOlYjk5YG5/3c/Z/FP4yhtGp++PotwGwyd+gJAMN58ljtQwO4hasupnmHGZi1XvHgCKk=;t3+tGqMfuOkGza9QCN1Udg=="
 ---
 

@@ -23,6 +23,22 @@ images:
     height: 369
     isCached: true
 
-secured: "BbenGmRmpsT+klyYRu4CnOjV3pEQHVHXGhi0bTN/378dR5+bZa935zgwIf4MMArx250BqmOABP8aKwO7fiE7yEU3kVtj3lH7YdhPhZuA8PIDr/w95cuuyiZTbRx8sn3CKNC4YIMWmOjSpdZlT6MMPaSBAxlQVzGD0hoaYAehn0CZw1MvCt2s6/Zs5DGa9RMBNQfkraP9DzL7TmwCz42AITiJiItJDQAWjVnLbXfm0YkfExUMeTzOFw1ADsEuSp5fPVu8rO8QOIoezwI6iJnNkUQfM9BUcCAC50AphHHwUcVxY9Xb9WE40dFYBLu3BLHF1wyrxmRDV151eGfWbottphDEAuORRpYOJMtT9/P/hwU=;eCy5VzR5Cvj3LEJwD+F0wA=="
+related:
+  - title: "As AI Legal Departments Staff Up, Former Broadcom Deputy GC Lands at Startup Cerebras"
+    excerpt: "Rebecca Boyden, former VP and deputy GC at Broadcom, has join Cerebras Systems. The AI and microchip pioneer is the latest to hire an in-house deputy as GC. Startups on the cutting edge of artificial intelligence are scooping up deputy-level in-house lawyers these days,"
+    publishedDateTime: 2021-06-28T21:48:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/06/28/as-ai-legal-departments-staff-up-former-broadcom-deputy-gc-lands-at-startup-cerebras/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/06/Rebecca-Boyden-1.jpg"
+        width: 3196
+        height: 2638
+        isCached: true
+
+secured: "Y0HZyEoAEcmGn+iXQGONCu94WK6fs/el31bLiyiZVCh0iDBIiB5qNIQlzHDSqHM/5W4Bc/z+Osgs2gTQ3seGCcCFtaPU4kfyKWTD68ECMUjwKQTFs9wXJ9OhG6NwlEol5Ts7KxcX8mSAATnpwutHdTO/FahrTYa9U5fZhMdBmUomWoXgBebllghPBEzBD5rEqjNTmnkMLgb4CDfRVEz9LckvqleHuBQB9+zHxKrWHfTAWy04nYCKtWzaRJhZ4VjKL7YhTd56Ua1rM0hLzMS1IuNQOltqgDj+m1RJo9djXdOSXabh+MU8orjDFlIWVl1LNhHBz9lBkVGVaqUEl4sbRit4AwDHIcCp2lEj31M+OOnza15y5+FvHbd/UPGwrNz6x2KrQAxhoZIjU62jSE4PjfX+t09IktOonG1Mv0Ad7CCXcNm4bU22gVHwh03ZGnhQpUwJND3YcOkBSZF2xqf6AOtulkWzntrrE6HmfGznkKofctC3XCoVPe3RM7C+VOCwLNy3PC+WEgNlCf98dFggFQ==;Li7QsJADmAcPr0jh8vOk1A=="
 ---
 

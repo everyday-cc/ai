@@ -2,6 +2,57 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-05-27-how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers.md",
+      "title": "How To Advance Blue-Collar AI: Eight Actions For Citizens, Governments And Employers",
+      "excerpt": "An AI workforce won't materialize overnight, and on our current path, the supply of AI experts will not catch up with demand any time soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff75eecebb93fcb9e68a2ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/05/27/how-to-advance-blue-collar-ai-eight-actions-for-citizens-governments-and-employers/amp/",
+      "publishedDateTime": "2021-05-27T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-improving-computer-vision-for-ai.md",
       "title": "Improving computer vision for AI",
       "excerpt": "Led by Sumit Jha, professor in the Department of Computer Science at UTSA, the team has changed the conventional approach employed in explaining machine learning decisions that relies on a single injection of noise into the input layer of a neural network.",
@@ -1035,49 +1086,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-microsofts-new-cloud-tools-to-empower-developers-and-enterprises.md",
-      "title": "Microsoft's new cloud tools to empower developers and enterprises",
-      "excerpt": "Two new machine learning capabilities were also announced at Build to empower enterprises accelerate deployment of AI models. These include: •Azure Machine Learning managed endpoints – a new capability that helps developers and data scientists build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Microsofts_new_cloud_tools_to_empower_developers_and_enterprises-SNG_213827963/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/Microsofts_new_cloud_tools_to_empower_developers_and_enterprises-SNG_213827963/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/150730032408SELM.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_213827963/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_213827963/",
-      "publishedDateTime": "2021-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

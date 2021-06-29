@@ -7,8 +7,8 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/globa
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: WFMZ-TV
@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Aerospace Robotics Market Statistical Data with Revenue Growth $5,687 million by 2022 | Allied Market Research"
+    excerpt: "Aerospace Robotics Market Report, published by Allied Market Research, projects that the global aerospace robotics market is expected to reach $5,687 million by 2022, growing at a CAGR of 17.2% from 2016 to 2022."
+    publishedDateTime: 2021-06-26T03:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/business-robotics-technology-4bd14c11289258292f569c184f3c5db6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "pooecVrt8MMuQlM3R5vbFf0ZGB/glPRM6yLFfeXGCfWNuXDKoVakPe0yy2vwM7QkAEi5xYgZXsGSWRiGNr1birGht/zaL9eWQl6GJYpodfLg+AJCNYMy2EkR5xc+5PM8K3bRSprkeMbfArIGE5MUhdkV+N1TMPDj6zvC+ag8JuQOdFHB3MNEQXncOUH++sZc4eR/SFc6d71L5yQZVVsZIF/vJME5bWegQpY1uCkzy5BE3G75Xl/v0pnlqCVgjuaN4NzR8yONGIKa+Z4yp92/QpT7rHC7PVVjqVElsQuhLGQXaluvXRbxtw75JRLNFtG+3yK63tXy2ZLbSoJGKCiZ94FfQ0y3u6jSPWxHpzhSNvy+Jn5lG00Ldn/wZa9Q7HXihHNRy0bjayPSUt9xrPG5Fw77dbpb3qlnJB89KZMjwEP/CPc+N8pgRtH/Mk2iztsvdR8vZdWKqsi79CBwXY088DDu3vjX3trrF10p8SMAxZbHFF076yiEAt4T0LdPdM8+IOggzNIwy92yM6QmwArZJw==;op6aKU7FCMugM7hszWPaVA=="
 ---

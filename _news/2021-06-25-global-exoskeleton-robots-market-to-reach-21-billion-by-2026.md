@@ -35,6 +35,20 @@ related:
         width: 1101
         height: 630
         isCached: true
+  - title: "Aerospace Robotics Market Statistical Data with Revenue Growth $5,687 million by 2022 | Allied Market Research"
+    excerpt: "Aerospace Robotics Market Report, published by Allied Market Research, projects that the global aerospace robotics market is expected to reach $5,687 million by 2022, growing at a CAGR of 17.2% from 2016 to 2022."
+    publishedDateTime: 2021-06-26T03:16:00Z
+    webUrl: "https://apnews.com/press-release/MarketersMEDIA/business-robotics-technology-4bd14c11289258292f569c184f3c5db6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ayHRNLrE9EqCrlcjB5+X7V2vWB4lRXbXkOVFanrZt5Am3EIZ6WwxCqP5/L5adydswWj9ecfEKX0MYPfKZ1HBdbZZmzret1ZZ2j5S526dJOP05mTI/HiLAVKMU5Z7LnJE9aolYx7QL1XmAUwqUEAFbRXoupLZPw9DsNM7WHEZrSUUzxvn7iLAVTR7fxKGvhbeVYLA0OhHG/V1uI6mIrtAhHKmmRUDZVccCcldcGg1QH78GwTT01yCoev18mWe6pKaBzPwstUsGK9xvWgsMm1jLP0LzgWubCSp9doCPYxi0mExVfCePU0S6xY1w3ezRZtrQ7mim46TSlQ/z/CluL3m7Y1gep8H2MMTT0ghoTnHLTM=;KABArel1pCV0qZ8gPbUtmg=="
 ---

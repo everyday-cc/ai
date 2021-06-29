@@ -2,22 +2,23 @@
 category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
 excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-publishedDateTime: 2021-06-28T07:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+publishedDateTime: 2021-06-28T07:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
+ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
 type: article
-quality: 11
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI Hardware
 
 related:
   - title: "Nvidia soups up its HGX AI supercomputer platform with faster chips, more bandwidth and direct memory access"
@@ -44,6 +45,6 @@ related:
       domain: insidehpc.com
     quality: 21
 
-secured: "nuNY4A2zoCDAXgr8XIwrp/zF3FZCs2REjWVVsI5QQ9+rO8jl/cCdi7XSxEr/ZkB7Cjf5OPMbUI1tOCu2asUYDstwaqkavTHvjzJM0HJ+WK7XHkzDYeK7TdgzCMXsQrZhfR0/JRFiwRnnEcJrxp/rs0V+bkkz9xAQxHsAbeiudOHw0iLzxF3gi9bIAUYHTnDIipB1xLREe6UW5SFAeEEn51jB2i/E8VpsAzXbZlTbmF4V5rUwwntOlh1U23GpY8QrWB62qqo4lz9JPTSB13RC5h0EZGdyr/xy8iNLNhQWPRO6fxSCxvY/9mc/qTJRb+sb5ZjrXR0PksfalFcCpLqAL5jA8j3wk2Qb22uugxzG1hM=;+dDx1TbExZnBESKwR3VJaQ=="
+secured: "l7BKn8oKfOg4dw6MIZmq7boiiH/lSpSXSljsvbmxlyCbDPSrYMwwOGZhTX+hfGMCg1LNtzcd862hyca779DnSYhDoPHA7dKkufa9P8lXM9j5TZ/MbkPQ5I2fU8xd5ftg6q0CwS0VhRTtC4UcvBRSeuXEw6AJpd+duXlxqkQnGriuc4+NUZkDR9aERz5Ni0baCv6ita+vIVbksW6wEDw6YhRV76WMGZMzBMg3C+Hdaq76Vh7BeefsR8R5YuiMshKrNFxR+9ykSD1IpitXZe1cYP55djL/vmVVgur9sxl+Ynd4OZLTtYaU/1MS1TiXHmwsXUBDgTHklROV9dIpHaZsdrOcz0JsQLOnLdWkGpHuTGE=;l5GUpGKVHHbw8zYOE1G/vQ=="
 ---
 

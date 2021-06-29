@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "This report contains market size and forecasts of Artificial Intelligence in Global, including the following market information: Global Artificial Intelligence Market Revenue, 2016-2021, 2022-2027, ($ millions) Global top five companies in 2020 (%) The global Artificial Intelligence market was valued at 1315."
-    publishedDateTime: 2021-06-25T15:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
     excerpt: "Automatic speech recognition (ASR) is the use of computer hardware and software-based techniques to identify and"
     publishedDateTime: 2021-06-25T08:26:00Z
@@ -48,22 +34,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
-    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
-    publishedDateTime: 2021-06-27T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
-        width: 665
-        height: 435
         isCached: true
 
 secured: "MvoXqFlvIFqMob5YrGqipeXwBcEq6bi8z8KFpWZtDPUlxkRpFIRsnExWENWHXuZUf9/WoRB2ED6dErva3TODTSsnIyTncCHGE5hqJvt6SVAJtmrp9VNXxXyAvIWnjovra+Dn1wRX3XVCXYH30j1cmHkWE2Y/tqMRVU9tCWaSjSffa2bbzQ5MJ6+DEK0cYV2me+BZyy+m+2u9+RPKKqGwxFSCGzJhBo9ZOdCZS0A+ugoPThTEwvcefOXBvd540Yg0/m7YedT8KiPWaPP8AoR3Ba41z6y+f9e38fME4NzD9y5ok8O3rH/fzirj5q7gaTyq3qzqlRsSemwvxs8FjQB/IKHnwUHH/ejT1pF91AznB6U=;kXppziupiWX13PzD6SZ6aQ=="

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
-publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
+publishedDateTime: 2021-06-28T11:53:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "Microsoft deepens its presence in healthcare: A timeline"
@@ -63,6 +57,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8BXZTg4elaGOatZA40EGn6VXIlOqTtFLm9xmUuhLsDLc3wns6JzlC5ke2A+nlT4A6smeFyj4CFR0KLvcqexR1fly2hLW7HYNV1hpxmjSAA5o8FOqNksJLjGnpB9FYSzjv3/RUHiiN4s1B0JdqqdvwFczOrY6udt1Jitq1z9vmGEchsTY3gY5ZMUgS4dcke+azVa8Oh2oxvf3kXaFHnM16maNUcEEAatb57QZFyUOPcUGpKCJKgclNAXjOEXoN21TNlsE+vIM124c9nOnHl2vrXrqP+FMKqFMS/AYNmmf9k7nJ0a+rzE5XGXtSRTuItpNzU3CUEKvtZ19K3soFwuH600k//ARN1N5drtZrNO3UMw=;ySfTT0H/Kn9+Nd4mWfn/IA=="
+secured: "gcxVjxVAA+TY8fm3m1laueOUL5qnMN4JatT/L8UbHken4Lgl8+HSxzEEqflul4ZubHSsBzpCAoY+d17PYDEHQyMaLqf4DYmP/n9on8o3l4Bm0DYWapgj86NSVN1lmnpdzNc/nX/HgeNKZHCB9cc0kd733610i1ZftnwPG7V36T9Y0NKBOrXKusPXr7bjVNeuUdfOPr748UT+rqETJCnQXPksb2SRd++W0tYiIq5R59Jgci2DumN0ABQBUqcrihtsYSNuXtRGhjgtNe6n8BAx2dKGylii2QsHXSS7Vee6HQtW+6gZO0iDy0l2BBdLGiPDdGJpLvXhaT1stJc8hU/eSUgwciY3RrGYcCdRH39eP/4=;13t6WiKEhIoykUoONwzieA=="
 ---
 

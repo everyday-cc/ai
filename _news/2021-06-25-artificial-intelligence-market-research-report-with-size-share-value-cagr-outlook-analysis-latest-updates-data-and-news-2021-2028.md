@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -28,47 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "Automatic speech recognition (ASR) is the use of computer hardware and software-based techniques to identify and"
-    publishedDateTime: 2021-06-25T08:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-06-25"
+  - title: "Global Artificial Intelligence Market Size 2021 Rise at 35.6% CAGR, Will Grow to USD 299.64 Billion by 2026: Facts & Factors"
+    excerpt: "\"According to the recent research report, the demand of global Artificial Intelligence Market size & share expected to reach to USD 299.64 Billion by 2026 from USD 29.86 Billion in 2020, at a compound annual growth rate (CAGR) of 35."
+    publishedDateTime: 2021-06-28T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-2021-rise-at-356-cagr-will-grow-to-usd-29964-billion-by-2026-facts-factors-2021-06-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Recruitment Market Size , Growth, Opportunities during 2021- 2027 | SAP SE, Zoho Corporation, Googl, IBM Corporation"
-    excerpt: "AI Recruitment Market is growing at a 6 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market The growing demand for predictive"
-    publishedDateTime: 2021-06-27T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314807/ai-recruitment-market-size-growth-opportunities-during-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/6/U627356303_g.jpg"
-        width: 665
-        height: 435
-        isCached: true
-  - title: "Automotive Voice Recognition System Market Size Analysis 2021 with Growth Rate, Top Regions, Key Players, and Forecast to 2027"
-    excerpt: "The Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8 during the forecast period 2021 2027 Automotive speech recognition systems consist of monitoring of digital vehicle infotainment devices including communication visual and navigation destination inputs"
-    publishedDateTime: 2021-06-24T10:45:00Z
-    webUrl: "https://www.openpr.com/news/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2312866/automotive-voice-recognition-system-market-size-analysis-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "klsuvX2G6ubxGB0WV89PIWUsTXb6aZFeMDxa6PF45WvEaI1mVzLNDHwC0aHWk1MnAmJlG/ToG+YfU+KLzvhRa+bb1Kae8tdsP1jtfob2vHRMQ7ECCUFiOUceGKYulOcamkaigUWc4iYmWJQCKkqiaEPHsrcN38FiKnYGFR5Fic/Sb0oHj4ZKxCnlj75ynQ1wOrLku916CuqExGHd+lYfh9X18NeZ13d5wBB78SRRF0ogch6I9g7PpoG/+c1gWuDjyihAW1mD8doifxQUZ19RgMB1RMUiiP63HaXRAiSpMmAWupngcy6c0yxnsOvHneAfNcoFnvv2bqgJ/8wPPZROoE8b3oYnkkEze4pjwps4eSk=;zDB32NCSwTND5jNExXE07g=="
 ---

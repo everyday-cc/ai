@@ -3,8 +3,8 @@ category: news
 title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA Partner Network"
 excerpt: "SFL Scientific announced today that it has been selected by the NVIDIA Partner Network (NPN) as the 2020 Service Delivery Partner of the Year for the Americas. This is the third consecutive year that SFL Scientific has been honored with this award."
 publishedDateTime: 2021-06-25T19:59:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
 type: article
 quality: 29
 heat: -1
@@ -84,6 +84,6 @@ related:
         height: 680
         isCached: true
 
-secured: "gH1qd9gvP2NW7wxh+NsDoWtAeIupUDH8VuuxoOG5bTwIwd+X/l1ry4pGXOoaKlbJTY8Wdkm37cnBI1vR6lCgrEBY0m/k9OJP3ByeHfrnzRtl2L8iLiF/Q41ImksnJ8CvpLVQqD2pZRpaWQG+l8cI/rOS6TjDoyou+HLAUinnQWULI0rDdLk9TwCZSgVYL+eyb/dOy3o8WCjCGCOfQ8lCCLA4C0vdXeIHlsuIrWWlr+9wcUqw1DFMAwgvKVU452zXfCrQAWuljRmgbzkU+27Dv9b50N3R0lx2hVDdLjIAMVn9V8iv2TlEB11QURieXzJ70CUEgTQ1kg5Ur2NBt1FhnYGpqPyh1SVzPzVIeYYw2jY=;r++gkI1fGHKvjM+/mfpkdg=="
+secured: "GWYodqiuslkN5UImqmcVRnpr5jORsb0mkU0+QWN8pWMngyZhUxcnD2ZTPeWeDD7Xu3mZ8VFgdmZkvx732X3UjSLEl0G+5RnGn/lcf2TtKMMfrU86OTYRMEiwo6dwpC3o0iWH8yPNuQUUgdysu+XiudaHycmI+NIB0IAVC5nxc9kIv9fbOJV0wqc2Fk1RGWfyImWI+3L9slZRW5BC09lhtEOpNRBaUiPisapfnf3Nd/nDd4fHJio1a+fZ+NzP8Po+RZcrs+wwcAsNTofqn0d7wWctqveTlyq8auPrhCkW8NNyxZ5wCEAJST9wFNFh37XhFIs7EiUqw6NKvbBXb1l7d9bLM+js6pasDK2PENJgkk4=;e2KMXbXyx8f4nvORZGe0gg=="
 ---
 

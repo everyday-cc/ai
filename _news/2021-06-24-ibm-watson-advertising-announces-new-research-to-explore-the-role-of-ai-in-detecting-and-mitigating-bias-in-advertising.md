@@ -1,31 +1,27 @@
 ---
 category: news
 title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-excerpt: "This work aligns with IBM Watson Advertising's overarching mission to make AI the catalyst for improving solutions, services and trust in the advertising ecosystem, and builds upon IBM's ..."
-publishedDateTime: 2021-06-24T11:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
+excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
+publishedDateTime: 2021-06-24T11:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
 type: article
-quality: 60
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -101,6 +97,6 @@ related:
       domain: nasdaq.com
     quality: 49
 
-secured: "mbJo8V+AvwIt2T2Wv3qYrTYKhELDhlyEEVXzJaRRtQSyQ1u1LI8Pu5bMsU8MJzb4q0REmVTALvO1PfrFUsj5D+9CfjdPKB3VoFEOZFkY6qeefZ0zfF8eo2ROm6NPVZgzAC6ggwRYcqmVpO8d9ZeE1aB0brnfATfiXkJW9kkgGemHwyBtxu2Z7MF0L1DTpJbI7NzUJ1efArDT8ismBPtO3UwzHZqCKTOEiXSMwmhucArODYxtIvQnjZFDf1IMfHB+2r5N14imn5G707MyFyFLlxrlNtxspl0KmZH8PIv2TiXkiBQ0CwSxQP4/Pz0WEacQON1aGsHLPUlvaOupThYorwYZEPMsgsymT6HIY+fve6c=;cJC3RmiQHjNl/A99plOYDQ=="
+secured: "sMZg9pD85gxUnkVH+qcgU3BnYJY7YIQBcrZBmEgkuv+tEpW1vvK939lIKL9QqnnfEw1W8Jgrd9NVFSDE1SeooVN9Vle/sBEp1oA1uAHxWF19tZVPj51z5RohNV23A3BBprV0sdaU2risrbhmED4KCEC3R3VC/3brir9kksWYgCb/9JxEjxhGxGeb6RjmY1cd7IUBxD78+6Gs4x9m2fskQVuFdGV34fFrY2N7jyJDqkE9FpCGDU9ybf+AK4f3tDAUfhqHhMjL6z4d3C/+oMk3MiYvpsqPZ52AhO+bRYr7TKh6oqx2H+LTXWrK3B29AsEKf7kXbBkJ3pNEz+fjA1xWiALAo2TR6eDVeqlvynPcaCo=;hsuJqbupvd7sq82fkcVllQ=="
 ---
 

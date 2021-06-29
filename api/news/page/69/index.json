@@ -2,6 +2,48 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-05-07-artificial-intelligence-makes-great-microscopes-better-than-ever.md",
+      "title": "Artificial intelligence makes great microscopes better than ever",
+      "excerpt": "To observe the swift neuronal signals in a fish brain, scientists have started to use a technique called light-field microscopy, which makes it possible to image such fast biological processes in 3D.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html",
+      "originalUrl": "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-05-artificial-intelligence-great-microscopes.amp",
+      "publishedDateTime": "2021-05-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-tesla-is-more-cautious-about-full-self-driving-timeline-with-regulators-than-the-public-based-on-new-memo.md",
       "title": "Tesla is more cautious about Full Self-Driving timeline with regulators than the public, based on new memo",
       "excerpt": "Tesla is being a little more cautious about its Full Self-Driving timeline with regulators than with the public, according to a newly released memo from a meeting between Tesla and the California DMV.",
@@ -1129,59 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-covid-era-education-tech-narrowed-college-learning-gap-for-poor-minorities.md",
-      "title": "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities",
-      "excerpt": "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
-      "originalUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1789945/online-learning-unlv.jpg",
-          "width": 2500,
-          "height": 1729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
-      "publishedDateTime": "2021-05-06T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

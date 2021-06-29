@@ -62,20 +62,6 @@ related:
         width: 850
         height: 519
         isCached: true
-  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
-    excerpt: "This work aligns with IBM Watson Advertising's overarching mission to make AI the catalyst for improving solutions, services and trust in the advertising ecosystem, and builds upon IBM's ..."
-    publishedDateTime: 2021-06-24T11:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-1030550478"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "How AI is levelling the playing field when it comes to gender and healthcare"
     excerpt: "Charles Taylor, Founder and Chief Technology Officer at HeartFlow, explores how AI is helping to fix the gender disparities in healthcare"
     publishedDateTime: 2021-06-24T13:16:00Z
@@ -99,6 +85,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "IBM Watson Advertising Announces New Research to Explore the Role of AI in Detecting and Mitigating Bias in Advertising"
+    excerpt: "2021 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced a research initiative that will apply open-source AI technology, developed by IBM, to better understand how prevalent ..."
+    publishedDateTime: 2021-06-24T11:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-announces-new-research-to-explore-the-role-of-ai-in-detecting-and-mitigating-bias-in-advertising-301319170.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "zsbd7iHLDUhVY9Swcudu4fjw7DwI+HqeM9Tk4IGvqGDbI2fd0Tdk6vQ1wc5HMRlQ6lniO0K8LT8j8kEZQ02S/i8TRN0yQMCuQktrrx2tBlCk/Ib27mJdHOqqJZYHho22hZOfVOuFKWSQ+mS2DmjyB4B011746nmbY5s2riBI6Y4x54TTR2SUaSyqNl1nO6BgKe9w16jcWPg3JIwqYUHEKBP+JHcje2UW1xvKwTmULFHOoBb1ilo1tniXrwi19OYom9TPm6NNhP3YQ3sLwgQSEkRGAhV3njnXwWrNFsFAxn9XKrUr7rE+EJ7Fg65kQxLDQ32cUDRK+Of2wpilLvt8XrLZp09tt+fAwiyDGprfpTSACLXXIA+5WtiZ5OyTkMUItqfvy6+2xqJTcQQyq2GEWYjudTkKMXkxF961jHesXvFR0jj1LC15acPd2TIxiSRKJtnwOj4nEDb4Y5Yxr9jPcf72X3qQ6gNxhHL2sL/0uz+Ly3PSCYVPgWjMtvj1bDRjOyEWLIovkxn+GeS8I8OTxg==;f7O2O+8uPgwCcpIW618bRQ=="
 ---

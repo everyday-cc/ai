@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/06/IBM-WATSON.jpg"
         width: 1600
-        height: 900
-        isCached: true
-  - title: "Malaria-Zapping Israeli Startup ZzappMalaria Wins IBM Watson AI XPRIZE"
-    excerpt: "ZzappMalaria developed a mobile app and dashboard that helps eliminate malaria, a disease that affects nearly half of the world’s population."
-    publishedDateTime: 2021-06-24T05:48:00Z
-    webUrl: "https://nocamels.com/2021/06/israeli-zzapp-malaria-wins-ibm-watson-ai-xprize/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/02/zzappmalaria-water.jpg"
-        width: 1200
         height: 900
         isCached: true
   - title: "ZzappMalaria wins $3m IBM Watson AI XPRIZE"

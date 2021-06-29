@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
 type: article
 quality: 87
-heat: 130
+heat: 117
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://static.bangkokpost.com/media/content/dcx/2021/06/28/4014459_700.jpg"
         width: 700
         height: 481
-        isCached: true
-  - title: "How AI-powered pricing is shaping the customer experience"
-    excerpt: "Whether customers realize it or not, pricing optimization technology is already playing an important role in the online shopping experience, writes , CEO and Co-Founder"
-    publishedDateTime: 2021-06-24T06:47:00Z
-    webUrl: "https://customerthink.com/how-ai-powered-pricing-is-shaping-the-customer-experience/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/9153861_s.jpg"
-        width: 417
-        height: 450
         isCached: true
   - title: "How AI Is Taking Over Our Gadgets"
     excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
