@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingto
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 354
     isCached: true
-
-related:
-  - title: "Lost in Translation: Why Native Language NLP Wins Out Over NLP Built on Machine-Translated Text"
-    excerpt: "Meaning and nuance get lost in translation, particularly when a computer does the translating (twice). Even the best machine translation (MT) services, which do a decent job of the essentials, will struggle with nuance,"
-    publishedDateTime: 2021-06-24T07:03:00Z
-    webUrl: "https://customerthink.com/lost-in-translation-why-native-language-nlp-wins-out-over-nlp-built-on-machine-translated-text/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 44
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/pixabay_technology-2025795_1280-robot-human.jpg"
-        width: 1280
-        height: 851
-        isCached: true
 
 secured: "DQsbQGFF/v6fIU7AmQRHPOiJVV8ADwiaGf0zpJxBVv/xUZLmRGBYRcPTFI25l/6J7AyUzfr6YXyI++7QkiF7RCWcaBlkSR9YDIpypX/KriXbSx0knaZDVFq4GTjf4IuJa5ZhCEGmqLU12CdFPdSOjJxjxJW7drQMMDXiKCQE7knr2Qiu98438nElG5BawBVMEM9TUXWKUWsRvq8WjjccZTytXGojM+iYw3KcDYuwyL9svzwjFAvuaMBvx14PdjkT5pYRdJ8HjG5JCpeA1SbKY5QLizvRPQ0QHhFZp+40xEr5nEN4nQH437vSaw6/eFOCKGPLlXZwIYsvzEtVx3rwAo7fMdRj96ONMa+EoSSzl1E=;/vL/812jieG2x0F9XzYG2Q=="
 ---

@@ -55,36 +55,6 @@ related:
         width: 840
         height: 630
         isCached: true
-  - title: "Artificial intelligence recreates Rembrandt's Night Watch that has stripped off parts, in Amsterdam’s Rijksmuseum"
-    excerpt: "The strips' addition restores to the work the off-centre focal point that that rebellious Golden Age master Rembrandt originally intended."
-    publishedDateTime: 2021-06-24T08:48:00Z
-    webUrl: "https://www.firstpost.com/art-and-culture/artificial-intelligence-recreates-rembrandts-night-watch-that-has-stripped-off-parts-in-amsterdams-rijksmuseum-9748681.html"
-    ampWebUrl: "https://www.firstpost.com/art-and-culture/artificial-intelligence-recreates-rembrandts-night-watch-that-has-stripped-off-parts-in-amsterdams-rijksmuseum-9748681.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/art-and-culture/artificial-intelligence-recreates-rembrandts-night-watch-that-has-stripped-off-parts-in-amsterdams-rijksmuseum-9748681.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 36
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/06/rembrandt640.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Scientists recreate Rembrandt’s masterpiece ‘The Night Watch’ using artificial intelligence"
-    excerpt: "Based on a small 17th century copy of \"The Night Watch\", scientists used artificial intelligence to recreate the missing sections, which have been printed and mounted around the famed artwork."
-    publishedDateTime: 2021-06-24T08:27:00Z
-    webUrl: "https://www.gulftoday.ae/culture/2021/06/24/scientists-recreate-rembrandts-masterpieceusing-artificial-intelligence"
-    type: article
-    provider:
-      name: The Gulf Today
-      domain: gulftoday.ae
-    quality: 27
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2021/6/24/remb1.ashx?h=500&w=750&hash=ABD37963DA214C99841BBDC6EC0B1BC1"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "T9EjhBbASHGf2Zn3h0Zm9gXAW3Kz4ozdWrkM6N/nwWY3lpeWafk9ZM2/9XUkl14xrXEFqX/LNw5zvUxTBeuxxBDJzecCByAWb30tfllF2vP7xy3gC3tUa99iExrgffUAAselZpe4rBxp6cJGDQSg7KpZz8Q88VvADvegfWkXXTgmVQrhTXVJjcXYwTgCTy4KVc75ynCVI/6JmlJg71E33RHbc43jnxP81DkPsFE1qtpSV/KM+fljC58kQy5dEHHdTnrzD0Astz/AcL/Ne69mA9jju3ZSHcA+uqryuYM9HS+iXgjXPzbx9daJwRSsfFpDbfc7g89DcFUoV+OndMAtgvG8DAkBlDwQs9lecsZR3s/SqLggaX3gUqDV/sHBttvMFIqcTi9fLXenLWiklQIcu07Wm5Drc3+u1kL5cIrr6KYFuSwsa36+kEKxqIwioppZhxm/eEHw/xWex7P2mIlJQRHdTA+cw3I7pVj1Vj8zC3Pj7/WGUZFHuFROiTduiBBMGNtaJoWgOjuUWgoW8h+C4A==;sI8CXODA2enMLtZjYWWeOA=="
 ---

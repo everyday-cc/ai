@@ -7,7 +7,7 @@ originalUrl: "https://www.nzherald.co.nz/business/toku-eyes-raises-millions-for-
 webUrl: "https://www.nzherald.co.nz/business/toku-eyes-raises-millions-for-ai-tech-that-helps-stop-diabetes-preventable-blindness/PUFQCE5XZOGONYVW5PLDMP6KGQ/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "A New Zealand startup using AI to detect eye disease raises $3.35 million"
+    excerpt: "New Zealand startup Toku Eyes, which has build an artificial intelligence platform to improve early detection of eye diseases such as macular degeneration, glaucoma and other diseases observable via the eye,"
+    publishedDateTime: 2021-06-29T00:42:00Z
+    webUrl: "https://www.startupdaily.net/2021/06/a-new-zealand-startup-using-ai-to-detect-eye-disease-raises-3-35-million/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 36
+    images:
+      - url: "https://389739-1225869-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Toku-Eyes.jpg"
+        width: 770
+        height: 515
+        isCached: true
 
 secured: "OSsYGk6ndgd8SxF9zuqJ/DTw97BYNogs4OuFM7q4ptDzCZYDOmOjZepvknoG6vqpK4LWTePJMg6q30lQUAL7ZNoYhF5W6UEvhrGta6oqLQrlsDPMETnfVIkoJn9hAJoY8pNyDhm/CAKjsblp0p8SDhVotV4CxD5bJ4TYKSHsQdmRAJs388lvhL7yiJF0MI7I4HlgNZAe38rSRHF8IFqQavYYxGKMYRPa236bsI+0fO9lV/ZbzqNG0urbfkix8+D+fojUIEiefvL8Rddfc0xYTriXjcQOCDo+doHYKcl5hkekWzYv25XmKsPEL6VW/CcytIqWvNGyAu8uaTBbex0CB9d47GW4dgiTuLM7+mv1Y5M=;Johc/HUMOPz19dO9lyzV4A=="
 ---

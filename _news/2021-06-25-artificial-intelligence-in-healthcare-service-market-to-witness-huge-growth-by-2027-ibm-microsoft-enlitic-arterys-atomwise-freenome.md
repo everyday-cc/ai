@@ -28,44 +28,34 @@ images:
     isCached: true
 
 related:
-  - title: "Which new trends are likely to be seen in AI in IoT market in 2019?"
-    excerpt: "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of"
-    publishedDateTime: 2021-06-26T03:51:00Z
-    webUrl: "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
+  - title: "Machine Learning in IoT Market to see Huge Growth by 2026 | Microsoft, IBM, Google, BigML"
+    excerpt: "The latest study released on the Global Machine Learning in IoT Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Learning in IoT market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-06-28T23:59:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270092660/machine-learning-in-iot-market-to-see-huge-growth-by-2026--microsoft-ibm-google-bigml"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 62
     images:
-      - url: "https://cdn.openpr.com/U/6/U626874997_g.jpg"
-        width: 660
-        height: 300
+      - url: "https://cdn.bignewsnetwork.com/cus1624716402900.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Speech and Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Speech and Voice Recognition Market size is expected to grow at an annual average of 18 during 2021 2027 Speech and speech recognition are a small part of biometric systems Provides contactless control of multiple devices and equipment that"
-    publishedDateTime: 2021-06-25T14:13:00Z
-    webUrl: "https://www.openpr.com/news/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314294/speech-and-voice-recognition-market-share-2021-global-trends"
+  - title: "Artificial Intelligence in BFSI Market to See Booming Growth with Avaamo, Google, Microsoft"
+    excerpt: "AI in banking refers to the development of operating banking operations by highly automatic techniques. Banking industries particularly applying artificial intelligence to offer personalized banking,"
+    publishedDateTime: 2021-06-24T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-to-see-booming-growth-with-avaamo-google-microsoft"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
-  - title: "Far Field Speech Voice Recognition Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 22 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with machines using"
-    publishedDateTime: 2021-06-25T11:16:00Z
-    webUrl: "https://www.openpr.com/news/2314046/far-field-speech-voice-recognition-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314046/far-field-speech-voice-recognition-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 2
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/3a7ac440a23bb569779cd2de162d8de81db17bd8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "BHiFEeG7bXnC7pKg50OZTbs+tqiKZJCzHVOvM6CsQoMOA9W7xyhE9xRefopZiisrf6GynR7ETILedxlOF4YIeLbQtNbcxSgKin/v+uONhsC6fiPmUxZWyMymkxOZfviCVinvC5DhOGvKn9b0rmuK6ppytOIjpxw4QHavkqAwrhweA+42USnJD0AmU/viJZSlJDWh0wltis6pueh6xcQfp7Sokg3i+jcB5CY2Z/AfQSzB7O5CV6loCnkVp0sXTalMH71bc4MPiRPxDOz83IKXDpU3mJv+v+BRhoME1VFnIRIpksXptz9ByByTdhJuGYL2htxRxhSAnSg+SVGMOer6+qoDv76k74hpv5x/2Dc3FK7xIPZ5ar0f2OUvDhqeCHTxhV+WffvKwoqR3+1f4/DL52STES+rIfQyhWFN5R+zehu3nv75nsVOl/bFFlVQegk2PLCn7tgikLw4KKSE7sOIFc2IklO0yJ+OCOLwuomRQJHS3i0Z4I+UPxapLoNRc9SEIKv7mTCnoDEgrpl+tuD+Xw==;2Z13DBCzTXHrukdHstToVw=="
 ---

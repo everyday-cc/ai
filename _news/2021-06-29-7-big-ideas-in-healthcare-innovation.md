@@ -49,14 +49,19 @@ related:
       domain: finanztreff.de
     quality: 42
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-    publishedDateTime: 2021-06-28T11:53:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210628005698/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-researchandmarketscom"
+    excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
+    publishedDateTime: 2021-06-28T16:53:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "zgyoB6QdhuVnHPovmgsozpXVf65sZs47/eQMv4MUsq470YFZ5kq2utCC2aLYOajiSUPWdRqisEWPEvbBzYbqJwvIedoBMXkdWd6HwyHMCkqz3oo2gqit1Yz7tEZ8mxameYRfFaJHQ5KmuhsHj2JmbqDEvt3MNd7nQz6YYZEs+s73pI889q+DGNZyK3IyR4lMI8Ng1mLyo5HdDZB3MLJKfs91H25yB4ZWjPriTbB6Zhrktupul5bh8q3NYVxCb1YnJ9jMWXNtPY2SrnoxDp0uIGTVrkwZh//+6tdS2Abp9ScNA2HIphKfBsakO9Mw6J10x92GpTgW/XESa1OOA0jBhAO+HWZd7zD8q8IaENeUMu8=;tEe7tlo8IpTbGgqlUtE4pA=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "RadNet, Inc. and Jefferies to Host a Teach-In on Artificial Intelligence within Diagnostic Imaging"
-excerpt: "RadNet, Inc. (NASDAQ:RDNT), a national leader in providing high-quality, cost-effective diagnostic imaging services through"
-publishedDateTime: 2021-06-28T19:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21752752/radnet-inc-and-jefferies-to-host-a-teach-in-on-artificial-intelligence-within-diagnostic-imaging"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/g21752752/radnet-inc-and-jefferies-to-host-a-teach-in-on-artificial-intelligence-within-diagnostic-imaging"
+excerpt: "RadNet, Inc. (NASDAQ: RDNT ), a national leader in providing high-quality, cost-effective diagnostic imaging services through a network of fully-owned and operated outpatient imaging centers, today announced that Greg Sorensen,"
+publishedDateTime: 2021-06-28T19:22:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/business-health-diagnostic-imaging-technology-artificial-intelligence-e1a84024c6830adc50ca22a4e77b2b77"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/business-health-diagnostic-imaging-technology-artificial-intelligence-e1a84024c6830adc50ca22a4e77b2b77"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "/wKm5iu0tuwKze+j2y5mIEBqI4KdwX/BgpHB3vUA702K93aBTkiT1bGEArGoDRR2mKzO3xCJ8yRNWy1wyMWgf8GmK5bTfHSqh6COa1lzfIItPXItzxkZy7koqpAflI8gkVg7omEvXjVjJCuNZDIGuxNT1jLGeS5FDtjy0FhnqZznpI+RbkMPsixruJwc7jFDLXkCmoZVxEFJSrHC9HytNB0Iw1D59w24xmqFkxQEFnK6l/7TJTXv/7QiXei2LUl2IZdIfQEoqaUwnm+VeUu1CH9Avyr5vNtvJWmnp1ko5HLGrO6dQRt1a+NmdZC1atp2LwrijIt8+C9pHpwtTyibfHnrOWv38548InmU13HASrc=;h0eSIrAhQ5EYy9BZ/T33RA=="
+secured: "l4M/piVx4Mgq6ELBx2xGJwJzn+5NsXDrU7UP0hBl747E7aIXscIlQX/n4uN6QmvnCLzQqnRDhphfw9VOXujssB/oThO1HYYhsRDRxOoTkMyTeyuF+6WKTn0wOl3Fn9vr0TY8suSRFpFKa7mnNJ95l2xj0TvVZ9+QDG+qRLSO9qECE1F7actG8TPiiEfA5Tg5ZnmjZJREwrCJrdA97jaF7wHCkDoB6kxrb8lM+R3Lmjej0k7ciFPRiWl6bJoC9ZIRCx4xvVssXt6TnWv0QP/8lBN2GdLTJcD2xTDjuclxNXp9KlYsjkkGtTbv9lKEKGnRvw6LWAYL2eTzGH/xRMdEKvVZNKx9Y+5h2jLmCysx+Uo=;YY3JiGtB9vYbdbdtY5we/A=="
 ---
 
