@@ -3,8 +3,8 @@ category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
 excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
 publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+originalUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 quality: 27
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -42,7 +42,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 98
+    quality: 102
   - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
     excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
     publishedDateTime: 2021-06-28T20:10:00Z
@@ -160,6 +160,6 @@ related:
         height: 229
         isCached: true
 
-secured: "HnvaUe1XQdLy1QxV7MTHXW9i35pLGcXEXdGE9Aqa9YZ20Hh6wocGnW4AZTBshrajDAnNtWXwI1FG01tQ6RTZVi+z5wpAz0mhn2Uej2XRozsdqPGcnvBqvKS6DFB0XTwKWcszcUEvJ5YAlzXseZ5hlT6Hx9iexJ3cfPM6C7e7yEAwAdIUTgDzMThrvn1iP1PQvmbVInwO2+bI6qeprDjnBynjLK8B+6ii9v0Ag0R0bxb9Qtad0OehsPur+iDYnFwFczdoLfidvnKZoUN2WbPuooRcTjZjmQIq4Tln/Rd6iafqNHf9wi6s16Eo9fYyphwNXvmk5Q31zmvlRQhuRxRaw8E2eYvgv5wRCITzCeUtcmE=;JUCV1DElhmesszd9R0iQTQ=="
+secured: "SAhKUT9ZNQtQh6g3JWyt+2SKOdaURp4OMz0ujno4K4zpfjkBQm3Q4GDwH1C2d7DFNWRoADB3gekJjk0qyepw46LCaUcP9U7bta0t2QNLxlA5qKxEduVgW5udJM7mwZzSStY8BWmbnTvory9DNnonBeBRjJQ8LvbvrmxTyzHfvumwYca3eyavc3H6SlptmfqNzWRyN6RtadF74DNLKc1Z8mlu3iUQ1VKLt+JN2dzeFGq4e0fncGJwMG5R0apSxPjSks1SdglcWuyCYTvXuW/fn0VfPYkHR8z9sIYQucabCqSSBAstZGVybBYthdRwudplael0R3VybF0wsxz3a2CWLJhyymlKR0bt0NqDxnERIdI=;JBNPquKaLEeEmrrShk3Xqg=="
 ---
 

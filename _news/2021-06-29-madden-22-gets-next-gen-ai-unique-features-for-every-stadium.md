@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/madden-22-gets-next-gen-ai-uni
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/madden-22-gets-next-gen-ai-unique-features-for-every-stadium/1100-6493366/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Tableau gets new AI-powered business intelligence features"
+    excerpt: "Tableau today unveiled new AI– and analytics-powered additions to its platform designed to, in the company’s words, “empower more people with the right technology to make smarter and faster decisions."
+    publishedDateTime: 2021-06-29T21:01:00Z
+    webUrl: "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/"
+    ampWebUrl: "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/01/tableau-logo-e1568409911668.png?w=1200&strip=all"
+        width: 1200
+        height: 825
+        isCached: true
 
 secured: "uRbnLIbsC5DISm5hRjyqxVacd4cetE1TUhtvkAv2Rlb/YAN4AZ2X8mBy4sLz4+tUjQrgPsFLGFmQjSCXWaX9Z80LMj2qt0o0iJfVkDf5RTSRCUVnCnuYS8JGNo+AHbaDjvPDt9By4v4osu1JGJ1JR+cr/IvHKPBTTaRWLu9MkWj8CL3WFpOOQwtcDTs6x0pceKatxKCLA24HaON6hdxhue7XeK4fJykEGxG3lUPuO6yj0ShfsqvTtbgtpoo5Oyh7rrITc4RIObkwF+sayMzMvpxoI/kzCH16P+0z1/PpBtxBRO7bTLGR07vo3C1fcq46cQwV5yBeqqSQuvnNcajnnEIWSn+zMirN/VNv5jjJfEA=;YHMl91fkjY5ma1GYSEHIkA=="
 ---

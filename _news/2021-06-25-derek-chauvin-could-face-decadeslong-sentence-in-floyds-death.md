@@ -57,22 +57,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Derek Chauvin sentencing: Ex-cop could face decades in prison for George Floyd's murder"
-    excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd's murder, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
-    publishedDateTime: 2021-06-25T11:52:00Z
-    webUrl: "https://abc13.com/derek-chauvin-could-face-decadeslong-sentence-in-george-floyds-murder/10830155/"
-    ampWebUrl: "https://abc13.com/amp/derek-chauvin-sentencing-george-floyd-murder-trial-sentenced/10830155/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/derek-chauvin-sentencing-george-floyd-murder-trial-sentenced/10830155/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10533768_042121-cc-ap-chauvin-court-file-img.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Chauvin could face decadeslong sentence in Floyd's death"
     excerpt: "Former Minneapolis police Officer Derek Chauvin is set to learn his fate as a Minnesota judge sentences him for murder in the death of George Floyd"
     publishedDateTime: 2021-06-25T17:23:00Z

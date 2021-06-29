@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI-Powered Metrology Boosts Semiconductor Yields"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2021-06-28T21:00:00Z
-originalUrl: "https://www.computerworld.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
-webUrl: "https://www.computerworld.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2021-06-29T12:17:00Z
+originalUrl: "https://www.cio.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
+webUrl: "https://www.cio.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "chNiJqM+f80Hqjb0awINE91QN6h0URCfJY+xYitoPoQU0kypUjDQXZ/AdUN3I4W47P9ut9xQ10t7HAQabs2q7X1vldYnYkNuynDv+tS5k50p95HxIeCHsJCBfdAKtFEfhDXLkll1BuEue2h3DpnRkXCnZmxrLa0LmJnJUmnJE+ko1HtrJOP+g9CPu1eR/jt3K5w5iQ4NMb06goBAaVxV/y5nol0OGym4acsNsWTv8Gmnj55WE6sZlGJm1WjrnI6awFShphuubZfGhwACNE18FTGwGY3DqWiNirc+Y13TBd5uiIUrYX9wjwaXhLkC1eV2kcpjpjXrtjC95Sx9lTUcSYUh4dsc0FqafTIsqc7qVyw=;N8rcpaWUfuESivSO4vfLVQ=="
+secured: "EwheALivFcK2Vou+qfhnQbXgMR5mNfQYum1chtDWXxvGP81UscRhbU81xtwFJ0vJXVP/KNNILYBNZmEEND4BZx88j+SKqDX+8t71nJW+pHdO2GJ7hyL9dvQjFPaXiDs5hcea2zMttfxW2t2QJMQlQWgQjI8JjllvTsuG+kQ+/+BUOcxvFLx3T+Fmcr8Br+u+JtJxHXRKqYRBCEyFKCBTk8E5Sekn6PdQtSLQeu74tYzFn/wFTR6T9tvq98vgPR2Zb3wO1w/02jki6StQP/ASEYBRtJFAaikVJ8c7O4U82L6WCbDRq7WTHVyB2bg3apQ15bCrnAoAZE6qLssT0g5Gjy4/x3n+pGPfuwMluTyLEnM=;dZLDt/wYGxDeMt5RxMoqXA=="
 ---
 

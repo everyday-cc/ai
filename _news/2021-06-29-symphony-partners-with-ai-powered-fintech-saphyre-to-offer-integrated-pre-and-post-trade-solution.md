@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/270099831/symphony-partners-wi
 webUrl: "https://www.bignewsnetwork.com/news/270099831/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre--and-post-trade-solution"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Symphony integrates Saphyre AI tech"
+    excerpt: "Symphony- the leading financial markets’ infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre, Inc. to integrate patented AI technology into pre and post-trade workflows for front,"
+    publishedDateTime: 2021-06-29T20:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88350/symphony-integrates-saphyre-ai-tech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Symphony Communication Services, LLC: Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
     excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Sa"
     publishedDateTime: 2021-06-29T12:10:00Z

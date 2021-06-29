@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The State of AI and Machine Learning"
+    excerpt: "In the 7th edition of its annual State of AI report, Appen continues to explore the strategies  employed by companies large and small in successfully deploying AI. The reports surveys business  leaders and technical practitioners ( referred to as technologists) alike to understand  their priorities,"
+    publishedDateTime: 2021-06-29T21:15:00Z
+    webUrl: "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning-2/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 54
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Appen_State_AI_whitepaper_cover.png"
+        width: 300
+        height: 390
+        isCached: true
   - title: "What are the Ways Artificial Intelligence can Help You Grow Your Business?"
     excerpt: "Artificial Intelligence is an approach to make Machines, Computers, and Robots more Human-Like in their problem-solving. As Human Beings, we are constantly and continuously doing wonders with our inventions,"
     publishedDateTime: 2021-06-28T18:16:00Z

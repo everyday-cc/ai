@@ -110,20 +110,6 @@ related:
         width: 720
         height: 360
         isCached: true
-  - title: "IBM Watson Embarks On Project To Reduce Bias In Advertising"
-    excerpt: "The research will rely on IBM's open-source AI technology and use campaign performance data from the Ad Council, IBM's initial partner."
-    publishedDateTime: 2021-06-25T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/364551/ibm-watson-embarks-on-project-to-reduce-bias-in-ad.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/06/25/screen-shot-2021-06-25-at-35916-pm_zezLbll.png"
-        width: 600
-        height: 375
-        isCached: true
 
 secured: "1TPjZdMDBFh0aTc9nUDSBT+fEqvYYWWr3ZOKRAiL7dHtjTiaufhY4rFTCmSNPzp6KV+3uUdHxFMFS51yKCmdha8BdowvUmHZIWEQ8QhxZDFTkk1Rkzu4HhTr+9kD9g/EAgTyU+5Zo98gMPvbbZcBAeNIxIP/r8no2I+U9DNTe93zbyPHwA0khty0jEv6SauGIdXk/vXi64dnWxWHZZkwNgad3BhPv+qFuTU3S0WiaiT4HwOSBXArQEG4n8i40HA/KyqF1edkwkIjyJRRZf4eR9w29jS01mmwdGrY7G2niyli+fnYWpDSXRdu9kZA66gzWAzw5GYQHNqa/QnSOm/81DgHIVg1ZSUORni9759WH0kkh7X4Q/+v5+oDRMx+QMdhLy97DqcS+z/azQ+GIzmOTVrpTU37exB6+ht0MHSQPjRf5EZTxJgjqs55rUiIigAgI3EWU1RnuwOnWAlirPYExoOFi5Sb3+TO7EOoH6tQjmMtbwzjZW4yi8/Mwh95J6XXeZ4B2fZNLSS/h9Jt8RPOTg==;pqMYVgCzlJELS0PQzmY5bQ=="
 ---

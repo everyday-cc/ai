@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
-publishedDateTime: 2021-06-28T13:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
-webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
+publishedDateTime: 2021-06-28T13:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
 type: article
-quality: 59
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -126,13 +122,13 @@ related:
   - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
     excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
 
-secured: "7DDg9jCkwZPjApAspOX9+n1uyzjE17j+eFuTRkZN5dcwNGwoy0rmoDTLnXgELbwpFeaRl7wB3cWLzP7OVqnCLn/zS4QwPm3iARNQnk6wfrnXKb0KEunm7TknlnB5dHdtudIQL9tIFlhNcFahD9EKLgsuaWYyh3XPoVQOWA1XPEsmSnPLED4tFj8thYHdDfqJDFEe/SafMUxlQDrb8zdNMCHJe5n1HFtFxxzuo1IYRQeMAHpsF+AtOCgN3J1UlbwPhIQtAlQv/ZxtKinvOx0g4RMd28hw24QmyZ5VewQ84yKu8Jm/5LvfVzFuu69cfpCrgjiQxkxcv5cS1MqX3EcQbsE04dHTIinCJO54Vbd5ivA=;xA1irOYzPadPiWKLs06TxA=="
+secured: "BN33x6dSNzftNNdaMag/H2qVyw7Jj9BPmU2Y6yx5ezUH/5YxV586HYYcEetVBPETbVOpcxNAsbRuQc/n6vwWSh63QJOqDa7SWKpU+Klrtf9mUjOSYPsOu4FVZZVqNSvirgi0BeKjmUkP5ybBmU2Of/4ij1NNuDJNzQV9+b5QYzFgvsuJUR18Hxi9DCSLVPNzml+q7VM9Dxwcu6js/tjkQv2vQ2zYd38hujeiYg+Ikj6SRRr9xsMcDR7JrarJ4Qa+5GytjFrJlKPf9POuq8f0WLUsaczn4a4wFF4US10pfYGAMe3rsgiLCl68CFZCHfrF4Tt//tT1sw6pjWAmytQimPteCOHrlEqbEL9jC9oOea4=;+kWnSIO/fDgzFcsiq6ABqw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face
 webUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
         width: 748
         height: 499
+        isCached: true
+  - title: "Phonexia suggests use of voice biometrics to tackle vishing"
+    excerpt: "Pavel Jirik from Phonexia highlights how voice biometrics can be used to mitigate the risks of vishing (voice phishing) attempts."
+    publishedDateTime: 2021-06-29T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202106/phonexia-suggests-use-of-voice-biometrics-to-tackle-vishing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/02125402/android-phone.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "JzIfHtviNPiL540KpAmYr1azWmh2XaLABMDts8tBEgzhC6FE0VsXP/WC4VrZQiGZUBrkYLo7DavRHqKVa3rGA0Z4xIIjETzbdENeMYiccHuHqY0vgR71AzSa2tTt4LSRTpyLTDj1ueUVRKerYP7Q2bQLfmLoEVfTYvPLyf6OhHS9r7z0uRNxznDQO5EAFiD7/pqmpxk21bnlDEqogV/jOvbgPH2MHK62EgjThLixwYfP6snjnUE9oo+aqdg6R6maCE+zqttOt15AYj1602JVSI0mYmjru2Ci0Z9kNLmOoxGPGmgwmVWbKc4WM7A3zNKflHtjqgbwWcBiYiHJZoHD9qHc6cKQGXyKohqb/lmKCJQ=;VmPmB7mM1JrhBzRouNQfKg=="

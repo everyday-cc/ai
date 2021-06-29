@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-29T14:29:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
 webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
 type: article
-quality: 98
+quality: 102
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI Ethics
 
 related:
   - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
@@ -146,7 +148,7 @@ related:
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
     excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
     publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+    webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
     type: article
     provider:
       name: Associated Press
@@ -158,6 +160,6 @@ related:
         height: 450
         isCached: true
 
-secured: "6nO34Vxu8dOtxTiOo09a1Y7u1MrBDylqlmOe6VXDE6jOquVB8/L5zjJAhDlU/EQqTGTpaL/EGdBfiIhCxcsqmLbZX6qqM+/NoF/RmmMyTwhUxoWTZQ2SPyb89t7FFMuEIPKdo9GbkJEhU7ert6F3qoK374rUrI3+mOtKx/eZ214faL+q6J3qk3KrJ4Yu01nXHMDdbp0QL3pGBu+ARZxsm6uUpDYmjoq/Poz/5YgGOvKeJBECuYim01uq9xRrfXgU2TbtQs6WoIFL+6u9uWsJw4kqbyJNBlQBUYNXnauWoqzFflopNsV7fjvinMx+saV+/OI8p88w87nSxV4SzAfQowW69Yp7rT5CwR3JG++vWi4=;35eb4EHluvTdrne9OBSCJg=="
+secured: "tZrASjlJ4zzJK8VPX4EhCUNHN5jz4l6NV5dVPJABCrflPUgI6APfNESt1EB5Kn4neygTCFJadpRJFyPxtOPfeDiqLlXpauAbtwOIXjo9Vb4UIOLbK3YO4G88IlVR5A0NzB2V1pdhH7F8EY2HukxKT2Tmkh31DRo4X3AAd5/pQ9lmgUQmANtFR+LkaWzgK4gLVXYnCheM1E9VbWvM4H28kbKM0rZIXtmQ2cNB++YPAqUDgfc6RS926xYSx/freOr4nNQxNd9YtmLj4iw5lE+4jl6+soeuji/whN+RJJMituGltvt28BwwqJZuY7PJ00fTMQ3voo2MjuTHWzbov5/KDMbDOjuWBO72q6JxMEmFhaNTmVlJk/0F9hzjfMFhHhaV;HIVVwNqQbkqA6d8sZuOQRQ=="
 ---
 

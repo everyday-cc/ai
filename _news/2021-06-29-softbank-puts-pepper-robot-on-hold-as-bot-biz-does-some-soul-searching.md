@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/softbank-pu
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/softbank-puts-pepper-robot-on-hold-as-bot-biz-does-soul-searching/amp/"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,23 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Japan's SoftBank suspends production of chatty robot Pepper"
+  - title: "Japan's SoftBank Suspends Production Of Chatty Robot Pepper"
     excerpt: "Japan's SoftBank has suspended production of its humanoid robot Pepper, a company spokeswoman said Tuesday, seven years after the conglomerate unveiled the signature chatty white android to much fanfare."
-    publishedDateTime: 2021-06-29T07:56:00Z
-    webUrl: "https://techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.html"
-    ampWebUrl: "https://techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.amp"
+    publishedDateTime: 2021-06-29T05:34:00Z
+    webUrl: "https://www.ibtimes.com/japans-softbank-suspends-production-chatty-robot-pepper-3238159"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/when-pepper-was-releas.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/29/when-pepper-was-released-in-2014-it-was.jpg"
         width: 1024
         height: 730
         isCached: true
 
-secured: "Hu0QbmU2xP4jsrVszL2FtC/OVwroUPQRoY/Be0SD/z7nvDi0wSS0VHs+NgUU6jLUom5ci9Nk/Gbxt6risUmsrp67kHxip5NoAJ8q7voc2F53JMrgZGGzbOA0y0xep+6JGQ6tcDvTmdj6C5+wOWzMVG/QSJj+xYnO31fhtLIiN8n/5vtJOahjpCQopuMOgZyCk4sKubp6/4DO9nkG1LG7eIu8pi90CxNS8wsJgZsF5ireP3d6XftguaNvUKUtGxkpbYzpJPG86qlAJUuC0b/zS84EH+1Ix9Wo1eCKnn0ZH3jvziDIIu67hFYsiGP5WOS6VZjmCeeckOL9kcKo0rN6zYuiff2LFCxEKvOVYDz+E98=;Pz8YsZhnnhL/AyTYQmRuYA=="
+secured: "9pEtd4SnLcca/d0YLZk/3iVcfq8egcVWt6ggs6oN7wLs9SSssXL7Cslbm+kzHkd7WchB1RElSeXLb3o1mAT3pu3sIMsC8pJBaFdawFgunyyiMYgyLbZK/9myjlkRpMr5l/wBpz8EcBqN6hO2/ZNDz2as9d3466htVaxpi6W2DHlNdcuXeOMjpyRMeFQdnltwUGzg/nAuMQ4+XqAaSjB2yUod6M71xeIJNTjSWuS19Vj8VZqv124QzvBQo6lY3IcSNuFxE8z/fapCmnfyZ0kDqauwhdCIxJAvDRQ10Ob94ajH9jaXNrQ1bM2tEUvkrJrSL5KveK7/bg+A3JtDAfphEkATGemDZLD7Dmu6j2SevsEBqo1cS8bOuV5fVE6QMWCx8M2wTe/oRvhuiuA0vSgtv31k4ObCXzphYh4JJV21ArA9KaLrIXuv4Eanl+ICR42cozk6ntgoT4AxoWubi1yZ6S5lHW1FZOf7QhykOlsUkRpVLVJuTFwbfH1HC1Ui2b03kqNZtx0zo/2BDOHjFdzS+g==;A6T6uiCghLuH9n8nhurC7Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/science-technology/uk-watchdog-rai
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
+    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
+    publishedDateTime: 2021-06-29T21:06:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 50
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Warning on non-police deployment of live facial recognition technology from Information Commissioner"
     excerpt: "The ICO emphasises the need to follow data protection legislation and best practice when it comes to live facial recognition systems."
     publishedDateTime: 2021-06-28T08:47:00Z

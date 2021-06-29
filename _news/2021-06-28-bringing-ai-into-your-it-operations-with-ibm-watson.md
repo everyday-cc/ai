@@ -95,20 +95,6 @@ related:
         width: 720
         height: 360
         isCached: true
-  - title: "IBM Watson Embarks On Project To Reduce Bias In Advertising"
-    excerpt: "The research will rely on IBM's open-source AI technology and use campaign performance data from the Ad Council, IBM's initial partner."
-    publishedDateTime: 2021-06-25T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/364551/ibm-watson-embarks-on-project-to-reduce-bias-in-ad.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/06/25/screen-shot-2021-06-25-at-35916-pm_zezLbll.png"
-        width: 600
-        height: 375
-        isCached: true
   - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
     excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
     publishedDateTime: 2021-06-25T18:56:00Z

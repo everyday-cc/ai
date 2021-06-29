@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
 type: article
 quality: 104
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI."
+    publishedDateTime: 2021-06-29T11:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
   - title: "GitHub launches Copilot to power pair programming with AI"
     excerpt: "GitHub Copilot is a new AI-powered pair programmer that collaborates with human programmers and suggests new functions or lines of code."
     publishedDateTime: 2021-06-29T15:00:00Z
@@ -62,6 +78,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "GitHub’s new Copilot programming assistant uses AI to generate code"
+    excerpt: "Microsoft Corp.’s GitHub unit today debuted a tool called Copilot that uses an artificial intelligence model based on OpenAI’s powerful GPT-3 algorithm to write software code automatically. Developers write code in specialized editors called integrated development environments that provide many time-saving features."
+    publishedDateTime: 2021-06-29T21:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/29/githubs-new-copilot-programming-assistant-uses-ai-generate-code/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GitHub-Copilot_blog-header.png"
+        width: 1536
+        height: 806
         isCached: true
   - title: "GitHub Copilot, an AI Pair Programmer, Is Coming to VS Code/Visual Studio"
     excerpt: "A new 'AI pair programmer' represents a breakthrough in the third revolution of software development: the use of AI in coding, says GitHub CEO Nat Friedman."

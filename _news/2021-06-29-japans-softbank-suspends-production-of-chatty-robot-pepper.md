@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Japan's SoftBank suspends production of chatty robot Pepper"
+title: "Japan's SoftBank Suspends Production Of Chatty Robot Pepper"
 excerpt: "Japan's SoftBank has suspended production of its humanoid robot Pepper, a company spokeswoman said Tuesday, seven years after the conglomerate unveiled the signature chatty white android to much fanfare."
-publishedDateTime: 2021-06-29T07:56:00Z
-originalUrl: "https://techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.html"
-webUrl: "https://techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.html"
-ampWebUrl: "https://techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-06-japan-softbank-production-chatty-robot.amp"
+publishedDateTime: 2021-06-29T05:34:00Z
+originalUrl: "https://www.ibtimes.com/japans-softbank-suspends-production-chatty-robot-pepper-3238159"
+webUrl: "https://www.ibtimes.com/japans-softbank-suspends-production-chatty-robot-pepper-3238159"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/when-pepper-was-releas.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/29/when-pepper-was-released-in-2014-it-was.jpg"
     width: 1024
     height: 730
     isCached: true
@@ -44,6 +42,6 @@ related:
         height: 274
         isCached: true
 
-secured: "/JkosgUfLSFVTVcGqTBuMAKY65YJ/TWYoj6sfz7FcnWRGPvN6iY0hMdyvoNfEA1ClpzjWmFjFC0KRc0UNW7Hd0yNs7Ve58C0pUm8spJUNWPIk4aZzvdlr+139xWApNk+ijeOPllm/boOCuffXiSivGGyzOmbhLpkXttXSiCgDqMsJ5o8VaWRQ7ieloKPcNK4MNsBXSXNh6EXk6ihyivJoOEyRRW93vbWxuI+PvYrOG6A2w6U9GXi84XmAU9YeX4kqjE00XG3bHfVorb/ruiHxnVoi7Z8Ky4c2Aj7ugHoua9BC1lyumEylunTApbswBX4odvlSJUoKLZFyOumxFqTTYm+WOtLtauMx/Ric13TvEE=;R43iRTsvg8mJCsaty8qJlQ=="
+secured: "HFcJch3jFjeOKPyinBpxF8RERr+y2KwPFuBx1HW0fmaXXAyAE7KypYLffcPoVgnaLBAzj0p7zJJy6bMFkFDomtQf4snq2h2hN6j0aeWko2bIV/jnD2unXjrcMj8lyGIqS1bsJqanv7GKQ/WL3MX+iJhfo3IXtdWl4NQGt8Hmzzxz855xpV8I+TqeKjUckcK1qurug9D1JxxyOS7haMzTazy8VxUSRLFidmXlK2GrhEGZbbybXOSwT2fjiVN9TMpHDg6WiT9choSHqYTODl3sJSPerUmHVFjN0S9jTeXIXPmKSgAZZCln0kXFxvoQyBOFENcZx0u4R75hJ941HUXo5svnAvv9uosApbDdRe64CtU=;JTnJu6OfS7+okmJJX+6u3g=="
 ---
 

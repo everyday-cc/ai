@@ -38,7 +38,7 @@ related:
     provider:
       name: Lab Manager
       domain: labmanager.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26187/aImg/48303/new-research-opens-pathway-to-artificial-intelligence-discoveries-m.jpg"
         width: 800

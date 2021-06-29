@@ -40,20 +40,6 @@ related:
         width: 768
         height: 600
         isCached: true
-  - title: "South Florida Cops Used Facial Recognition in ‘Horrifying’ Scheme to Target Peaceful Protesters: Newspaper"
-    excerpt: "During the George Floyd protests in South Florida, facial-recognition technology was deployed to identify protesters — who had committed no crimes – by the Broward County sheriff, and the Fort Lauderdale and Boca Raton police departments."
-    publishedDateTime: 2021-06-29T12:55:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/south-florida-cops-used-facial-recognition-in-horrifying-scheme-to-target-peaceful-protesters-newspaper/12193/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 21
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
-        isCached: true
 
 secured: "2yqgAgrob5qbsxy1cpYVKfPIRLc0/9yemo6be+lcdW+9nGyYY49nMX9BGW+yEynInKYNs6Rc/5wLGZi1jsne6dKoVkh8LCCvEtVdn+h+LH15vCsYREOP3QjSwHKBRzUzRXm3LRxrvFAFGwtFqdEmjRkEQBNfH7hOte31OY5Re79vYfY2MyqtP214cK/SxceI4iycjTPacaDhqQxIYnE1GvbuO/5p6H3hf9xXy8Li8pqG0sy7LcM3ZzTKq1q75kDBmmzDPm+pw/UNPMAQPM8GmER6sIcMTbCn9fvTmHXNV04C5U8T/o8uChFygYCdDyLQgN3ar3aigppwA+TBQKy+CllIc5kzTvXrllKvsD0rZp+C4w+2v19+zN53J9QiD3hTcCYGGkRjIjRfXoXQur+Yr3xiGq0hZ3ftjD6dr+aRas2/vqAs/3xZWL+x7y+3aVZi5c/6YAsCHsjPacllkQwVOPdFpUDXhAnqV+Jz+bVaVXBy50rVD79z0uFpoaepFqXJjduiIa4ZyhjcoqlNJtFsAA==;iHp4N9pAt4yqYgdlCTfkXg=="
 ---

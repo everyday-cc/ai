@@ -67,6 +67,20 @@ related:
         width: 768
         height: 513
         isCached: true
+  - title: "Phonexia suggests use of voice biometrics to tackle vishing"
+    excerpt: "Pavel Jirik from Phonexia highlights how voice biometrics can be used to mitigate the risks of vishing (voice phishing) attempts."
+    publishedDateTime: 2021-06-29T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202106/phonexia-suggests-use-of-voice-biometrics-to-tackle-vishing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/02125402/android-phone.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "XQOPslAvteguF/Y30xwHo39+l6iA84Hfv4NRdivylCs8/HdgEPnfywmYtLw+leaPeIw9qca/cVJdcIEGrCnWKa40EIl47HKL3BZZuh5TOTsk6dfgpDxXYiliGxfkZHOzOLa8ESvIzqHwjmGmT1/PW2kUG6YVUKqS43Lbd2fltwtjwQ6evYhQ3XIkdOWx2/tRSaSlR9wOiOSiDiMEJ5RGkJzsyWTUzdGeRzJltmF/itByjjM5GOlhpVaVHXplT2ECVqNzPXtT9s8+D1rbQr8Bd6qR1FfSBm6x8dZSZuxBuB6gvrj5AZ3mRdPNMPS3yxnNgc+Vv7DSFWDqkIjv1+fOP0RRppukYk69fTj4gweQdxw=;2gltZGqBPi+vxK0kKyFnxQ=="
 ---

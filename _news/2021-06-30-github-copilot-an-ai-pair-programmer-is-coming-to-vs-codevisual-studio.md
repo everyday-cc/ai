@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
+    excerpt: "Microsoft is making available a technical preview of a new Visual Studio Code extension that is designed to help programmers write code smarter and faster using AI technology from OpenAI."
+    publishedDateTime: 2021-06-29T11:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg"
+        width: 1199
+        height: 478
+        isCached: true
+  - title: "Microsoft brings AI to GitHub to create a smart programing Copilot tool"
     excerpt: "... Azure and codeveloping with MIcrosoft new Azure AI supercomputing technologies. Earlier this year, Microsoft announced plans to make coding \"in plain English\" easier by integrating OpenAI's GPT-3 AI model with Microsoft's PowerFx low code language."
     publishedDateTime: 2021-06-29T19:56:00Z
     webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
@@ -72,6 +88,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "GitHub’s new Copilot programming assistant uses AI to generate code"
+    excerpt: "Microsoft Corp.’s GitHub unit today debuted a tool called Copilot that uses an artificial intelligence model based on OpenAI’s powerful GPT-3 algorithm to write software code automatically. Developers write code in specialized editors called integrated development environments that provide many time-saving features."
+    publishedDateTime: 2021-06-29T21:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/29/githubs-new-copilot-programming-assistant-uses-ai-generate-code/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/GitHub-Copilot_blog-header.png"
+        width: 1536
+        height: 806
         isCached: true
 
 secured: "ZM1xogO6LMGgmXAghhS1MFYxY7eqZNpi7X3Z+qZdJPUwh+9mF2eBgAc/JBbJ1/PRyyDAjXwXWDwTSRfYTdU4NKy6/Z9cF3/b0Jza98U1Y9MlSbzu/uaWTBlQVvMJDCkdj/ZwHuEJiYaUzB769J2mGjg1R8hmh0L9n/CQIVq5Pg+qd1FSvn/QN3OorUH/pwY3eruWZ27qVbQWUF/cyuZqVPxZWCkL+hm5JFzflzZaKYm/Vydrz87xiJr5td8fDA0SRDzBsNl93tb9pZ8nZIbxSYqCsnq3gM6+NPklt1FxZDKv+ED5xRNARVe+vjnKYNlpo2S6uSrfu05En9F0Dlxs1tlOc0+sXmQZ7K+1DOJTkqTp80VLVQkGbVwuTsPapI0p9Wn2ULwKi8rgToHk3t5006Q8nyiNKLvlWyTiLhOqQT2yxAckXk1zi/RMfhJP26RvLU8jdc2QJxVTSSHSi2l2gjrb9lc+fdB1sEeOEGkiD7Lqy6eqSZBOHH5PtFtnTaf5IBXTz1zVpSv6KSXeRZXB7w==;gHPk3vmtJaYiSpUTuFO2rA=="

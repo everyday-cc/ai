@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "South Florida police quietly ran facial recognition scans to identify peaceful protestors. Is that legal?"
-    excerpt: "Police photographed protesters and ran protest-related images through a vast and unregulated facial recognition database, records show. That’s like going through a crowd and asking to see driver’s licenses,"
-    publishedDateTime: 2021-06-26T19:14:00Z
-    webUrl: "https://www.sun-sentinel.com/local/broward/fl-ne-facial-recognition-protests-20210626-7sll5uuaqfbeba32rndlv3xwxi-htmlstory.html"
+  - title: "Watchdog: Six federal agencies used facial recognition software to ID George Floyd protesters"
+    excerpt: "Six federal agencies used facial recognition software to identify protesters who demonstrated in the wake George Floyd's death at the hands of Minneapolis Police last year, according to a government watchdog."
+    publishedDateTime: 2021-06-29T21:20:00Z
+    webUrl: "https://thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george"
+    ampWebUrl: "https://thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george?amp"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 24
+      name: The Hill
+      domain: thehill.com
+    quality: 48
     images:
-      - url: "https://www.sun-sentinel.com/resizer/l8RtXbDLpjMTmBHQChDNle5Et4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4WLGMEU3KNECDFYZN7IOKDKZZA.JPG"
-        width: 1200
-        height: 831
+      - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
+        width: 980
+        height: 680
         isCached: true
-  - title: "South Florida Police Quietly Ran Facial Recognition Scans To Identify Peaceful Protestors. Is That Legal?"
-    excerpt: "Protesters in Boca Raton fell silent, then erupted in cheers, as a line of police officers in riot gear took a knee with them. Such surprising images of solidarity reigned in the usually"
-    publishedDateTime: 2021-06-28T21:06:00Z
-    webUrl: "https://pulitzercenter.org/stories/south-florida-police-quietly-ran-facial-recognition-scans-identify-peaceful-protestors"
+  - title: "Derek Chauvin sentencing: Ex-cop could face decades in prison for George Floyd's murder"
+    excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd's murder, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
+    publishedDateTime: 2021-06-25T11:52:00Z
+    webUrl: "https://abc13.com/derek-chauvin-could-face-decadeslong-sentence-in-george-floyds-murder/10830155/"
+    ampWebUrl: "https://abc13.com/amp/derek-chauvin-sentencing-george-floyd-murder-trial-sentenced/10830155/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/derek-chauvin-sentencing-george-floyd-murder-trial-sentenced/10830155/"
     type: article
     provider:
-      name: Pulitzer Center
-      domain: pulitzercenter.org
-    quality: 24
+      name: abc13.com
+      domain: abc13.com
+    quality: 36
     images:
-      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2021-06/shutterstock_1751242514.jpeg?h=f79de0ee&itok=avQk68q2"
-        width: 768
-        height: 600
+      - url: "https://cdn.abcotvs.com/dip/images/10533768_042121-cc-ap-chauvin-court-file-img.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "PabTnVakivFgchxkfTT6tXzt7tA+XUy9wlwS+IXP4vWMHEEOF3yoGgFkq6iQ6lF759DWq221sDS9QZyzf5a4XUQqvX5BGaxZo7B+SlvAmE6gFfFXDfE09ICzOEl2XKcRXGQG3z2m3rCjCbrdiMkiBz/WmCRvFOAoYQ4nbOOfQWEtVJro7NFJ9o+U6BhrwCQzNq+zVCPKHLSVtpNV43yfAZEYCi4uDn+V6q9z5lto1CHqO9Dnim0tSJ2XiHVaNK2H7022JU4258dhEw32+/Yufkb83KtctaYS5eQn+TGZhaIvyLHTeemBmrA8lrBpyJuZ7sBPSUDP8CjUqrbH/tJTDL6pIG9WcRdTYEoogLR2lJ4=;U9eJoCFjkiyih7mrovV7RA=="

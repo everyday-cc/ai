@@ -43,6 +43,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
+    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
+    publishedDateTime: 2021-06-29T21:06:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 50
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Federal agencies need stricter limits on facial recognition to protect privacy, says government watchdog"
     excerpt: "The use of facial recognition technology is widespread throughout the federal government, and many agencies don’t even know which systems they’re using. That needs to change, said the federal government’s main watchdog in a new report."
     publishedDateTime: 2021-06-29T18:47:00Z

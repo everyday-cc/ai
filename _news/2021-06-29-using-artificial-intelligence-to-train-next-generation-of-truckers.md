@@ -9,7 +9,7 @@ ampWebUrl: "https://www.trucks.com/2021/06/29/artificial-intelligence-can-train-
 cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2021/06/29/artificial-intelligence-can-train-truckers/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vecow Partners with AI Chipmaker Hailo to Launch Next-generation Edge AI Solution"
+    excerpt: "NEW TAIPEI CITY, Taiwan, and TEL AVIV, Israel, June 29, 2021 /PRNewswire/ -- Vecow Co., Ltd., a team of global embedded experts, announced today"
+    publishedDateTime: 2021-06-29T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vecow-partners-with-ai-chipmaker-hailo-to-launch-next-generation-edge-ai-solution-1030564523"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1554303/Vecow_Hailo_8.jpg"
+        width: 400
+        height: 276
         isCached: true
 
 secured: "dnr5wFWc+s/RlccoLMjb3ZovIglwvnV5O8E7W3wCVtUjFabk9gf1jrm0qFpJ4zYVCIvC92oAw94ASaA6SB40X5RuumGnOlocqxK7Kkgu2yCOgJ+SKMkE1JJqnaOb+nCJS6xqXZeJWHfbV33l324b20qcCjlA6XL96+Y4tILu+XlyG4DPQdlFeDFhJHhe4xDOYyAnDdQ2xTYZ7tL88+CZ/Ip8igOKqQucZHi68QNS0TBXYXqckV8q4MQUylhf8OVKLRJMh+88bJ3YU8GlcMd1tNCcX1wfYBhHMG96pzQjkMnBBqHaEugtzLxP4kRoIgw4+UqUH/U+22PZNPE0WYdKjVMSPkOzfbImWNGAS9Zl+RF0uGKt6pGOEqj4FI99neQp2A8atKuHsuG4ld9gqOvx1ng10jVuFyOH+X44vPMCnhzze3M5jlTn35XPLbjKgkJsWb6lrnHsUB0BPQYERu05fsAE5yMUMfz4oTJrcEoMFjqb+Svf/LlN+fOaNqR4o6LaiaYBfI1es+oerTg2PvpTEQ==;G6/C03Htdo5eYplJEWV0ZA=="

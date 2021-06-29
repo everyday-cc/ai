@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning"
-excerpt: "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets."
+excerpt: "The Innotescus platform delivers high-performance annotation tools for image and video, bolstered by robust collaboration and analytics"
 publishedDateTime: 2021-06-29T14:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448"
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563454"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563454"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -28,17 +28,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "Pivotree Updates Machine Learning Platform With Image Recognition Features and Enhanced Data Management Functionality"
-    excerpt: "CNW/ - Pivotree Inc. (TSXV: PVT) (\"Pivotree'' or the \"Company\"), a leading provider of Frictionless Commerce solutions, today announced the next generation of its DIVE Machine Learning platform, a SaaS-based solution that combines machine learning,"
-    publishedDateTime: 2021-06-29T11:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pivotree-updates-machine-learning-platform-with-image-recognition-/2021/06/29/9399321.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "wn1o/0oTXPARmFo1YaMXD9KMSL0/1IGixejFsTf+M575k3tllNPo41EW/EFyyd3Mgm4Ch5cLMs36YuEg6K8Ahg+kZA7f4RxHmamMoKU+1+nCnEvNnkQJpLLQ+SxYWFJHcRhyotQNIwMOfk7K+yAA4x0Cf31cSqOOdFs2IH6EYESrxWDdRXNRIpGkogCAvHxh4/ZDIaTuVLkEEZl2SvdKH2OLarljoY+PohaXAonUJjSC9qXukAM6gSnK+xOZlUjZyUWL2pb+pshkH7spL1A9ZyeBcMz2p03rpkFpweVYyHVZ1m2bXPjR9tODvIDS2tuw7aMO8ltuaAkxfpMeNS3a2qxYMTHpwr0mFQc09scTi95I4ozq4GPdu8bJMPeGZWBIZWq+vcvh881QfeasQ2ANTvgpfqgxPo5Nh6jRRLGgav+N66XVNADDXcx/Wff46alYayOqv7diNojzpUKMbRCcx+InBo7AGVSb5XfrmgncjcxrOAEWtDgqiZi89p8XGWeSikz+p2Hma7gyDXhf0esMew==;UocqspXQ3gRM1mjWWW/khg=="
+secured: "AxWweaUwBXRp4F+u7/dEN//FZpoBMWKroStlqsRnI7l/QyKyCscGKUD38S8dDbWoIEA7CtsSpxmd6Pr7AohUGBXu3qWiDcreebItPq+5N/praPnIXExODKv+FYPRPdwl1rbEfYggWm36EJyp0DFdLKkkfmmN6CTno96uu0o091M7YIBccHha9CQalLPK8iDALdyIRZpm7i/xbCJfAtRTWr0yKHwXnSYyfvO058ez8/vf/W6O4SReq/eE/XxK8nEHxM4PqXeqYbJxrYHWCjApR4T04N9wy9pZQp+6IFlVE1MucwfB8/+DkrY4jUcNttGmMMaeOrt1rMgqY72GL/NlAztbQfN6YII3JmHUyHvXxTs=;52OCDyXQt9myMgJb33KQRQ=="
 ---
 

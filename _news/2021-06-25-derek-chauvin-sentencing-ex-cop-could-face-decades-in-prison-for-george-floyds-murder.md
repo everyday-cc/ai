@@ -27,65 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Chauvin could face decades-long sentence in Floyd’s death"
-    excerpt: "Former Minneapolis police Officer Derek Chauvin is set to learn his fate as a Minnesota judge sentences him for murder in the death of George Floyd."
-    publishedDateTime: 2021-06-25T15:38:00Z
-    webUrl: "https://www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/"
-    ampWebUrl: "https://www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/national/2021/06/25/chauvin-could-face-decadeslong-sentence-in-floyds-death/?outputType=amp"
+  - title: "Watchdog: Six federal agencies used facial recognition software to ID George Floyd protesters"
+    excerpt: "Six federal agencies used facial recognition software to identify protesters who demonstrated in the wake George Floyd's death at the hands of Minneapolis Police last year, according to a government watchdog."
+    publishedDateTime: 2021-06-29T21:20:00Z
+    webUrl: "https://thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george"
+    ampWebUrl: "https://thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/560805-watchdog-6-federal-agencies-used-facial-recognition-software-to-id-george?amp"
     type: article
     provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
+      name: The Hill
+      domain: thehill.com
+    quality: 48
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/AYGCJ3BSIRA4DKFPYXHUTIVN4I.jpg"
-        width: 5419
-        height: 3613
+      - url: "https://thehill.com/sites/default/files/facial_recognition_getty.jpg"
+        width: 980
+        height: 680
         isCached: true
-  - title: "Chauvin could face decadeslong sentence in Floyd's death"
-    excerpt: "Chauvin, 45, faces decades in prison, with several legal experts predicting a sentence of 20 to 25 years. Though Chauvin is widely expected to appeal, he also still faces trial on federal civil rights charges,"
-    publishedDateTime: 2021-06-25T09:51:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Chauvin-could-face-decadeslong-sentence-in-16273197.php"
+  - title: "South Florida Cops Used Facial Recognition in ‘Horrifying’ Scheme to Target Peaceful Protesters: Newspaper"
+    excerpt: "During the George Floyd protests in South Florida, facial-recognition technology was deployed to identify protesters — who had committed no crimes – by the Broward County sheriff, and the Fort Lauderdale and Boca Raton police departments."
+    publishedDateTime: 2021-06-29T12:55:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/south-florida-cops-used-facial-recognition-in-horrifying-scheme-to-target-peaceful-protesters-newspaper/12193/"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 44
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 21
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Derek Chauvin could face decadeslong sentence in Floyd's death"
-    excerpt: "Former Minneapolis police Officer Derek Chauvin learns his sentence Friday for murder in George Floyd' s death, closing a chapter in a case that sparked global outrage and a reckoning on racial disparities in America."
-    publishedDateTime: 2021-06-25T15:22:00Z
-    webUrl: "https://brooklyn.news12.com/derek-chauvin-could-face-decadeslong-sentence-in-floyds-death"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/2a8d5cec-abee-4313-b28f-58f9c449fac6.png?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Chauvin could face decadeslong sentence in Floyd's death"
-    excerpt: "Former Minneapolis police Officer Derek Chauvin is set to learn his fate as a Minnesota judge sentences him for murder in the death of George Floyd"
-    publishedDateTime: 2021-06-25T17:23:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/chauvin-face-decadeslong-sentence-floyds-death-78481097"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 24
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_9d8a51512ea241a1b5e05abed5a410f6_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "aGYXSrdTruJH1NYa/fClDfVGDSdZbH9NY7dDY3oRfcsWX3tjOFf/Vl377UDgZnzwQiFmNQFe1nV9Jrb/am0kkyvM3xAg22E2KStFEpNiO1kFBzb2EpIq7JPpdDhue4LtBb+oAupND8WhDFsDONgNbLbOb0l3A/g3kz13edxSTy8+9DD97XVDvIXElXSEU6brJVBBnIVAV+kTzCMG6YVH0Mao659ghnpYsza2QioqI7ceZIBKFfuSVx+JCkLPYLZxM77ihzxHV8YHiBg8n/g8mlwyKZwTQlTe3pGIZHnrEw4LJmNTn9rcFN29LEDvVlrRqkpMMbUEFpUegbo1LTGuToXTnRdCkll5glyamQ9/22k=;p1VwmA8aWSCrh6GBq9JspA=="

@@ -44,6 +44,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Vecow Partners with AI Chipmaker Hailo to Launch Next-generation Edge AI Solution"
+    excerpt: "NEW TAIPEI CITY, Taiwan, and TEL AVIV, Israel, June 29, 2021 /PRNewswire/ -- Vecow Co., Ltd., a team of global embedded experts, announced today"
+    publishedDateTime: 2021-06-29T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vecow-partners-with-ai-chipmaker-hailo-to-launch-next-generation-edge-ai-solution-1030564523"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1554303/Vecow_Hailo_8.jpg"
+        width: 400
+        height: 276
+        isCached: true
 
 secured: "AyW5QpE/U0SWBytqrXmw7tVmHciuclno8R6RMvg1NjMSBp1bWHkhVvZTHw5rOOUA1usMo3zv6kIgH2rX4voedHMHHEQrqTqaZbQSSaKgeKWLzDyWzkQ4iK+rSTgcXp44TPQTaU2tJY8Ui2mzV6QaZ5hybQ55biGLV1lRKiIHFutvEyWpAoD0rsOAvB0gX0WgQ+KxVmoQ7FbEPRdRosesu65TvPONVN6TIpH/8/riwiFV8wm+VVRO06eOPkNrfaXj82NFaNPGCsE/9PYp6rq3rj1cCpO5I/cgl6lKWPWj5/Vm6uQWyt/c8ZF34BP3ZfJypOcKNOmFD0P90Trfcywn/KPg5WwhnNQ9v97Jl5k0VWMCmT1tH/JhzmegRDEcFmLAcZwR6oUdPot/As/V6EUBD7CQ0GCoOzEG6nizs3MIInk/qyBSGaeEYSNKNtRXpCxdjYVUuHXEt3hbXEH8yILZy7pHcFnVePyFb965LvS2biWKC6Uv/V2Q3u8qY9NzvKTHe9EmDAcxCYGSvon65G8jYQ==;0vV2/e266aRWbfgTSon07g=="
 ---

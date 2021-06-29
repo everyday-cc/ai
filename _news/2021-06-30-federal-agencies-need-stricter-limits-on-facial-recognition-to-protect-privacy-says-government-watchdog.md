@@ -43,6 +43,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
+    excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
+    publishedDateTime: 2021-06-29T21:06:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 50
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/06/29/NGfacialtech20210629/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Warning on non-police deployment of live facial recognition technology from Information Commissioner"
     excerpt: "The ICO emphasises the need to follow data protection legislation and best practice when it comes to live facial recognition systems."
     publishedDateTime: 2021-06-28T08:47:00Z
@@ -60,6 +74,6 @@ related:
         height: 300
         isCached: true
 
-secured: "5jfMKttbtcHHso99XzjWh2mk0BrMzN1jvFQ2SrlCSx1npxK2kyka71OtRo46/+eqSrQFHDJEpvJdmuizHKmOrCHh6+ur+X2z2EMPheesX4+sB929Exi5qGO1ara7NXYCgxpo+4QoQkDc9cojt4Rcr6hR6hsbQxAKQKhpvjj2o6Yu8Uuj2jcYwLomEBgPOAG84EbkdkqAtSAbOougt+deNnpC/ruGA/upy6Y8DG7lvX9Bwl11bkm/np/+WFalOOHIuZ/+ev1iuuaAgXMhmW7Eclk3uu2rG99E8M5Ylgo/SMm8qpjEJVUV8+NVAm6UBzlN10u0NaCZoNoUXjDB6anLK7tboJxxlJmbNfTJLmfLnEs=;C/3lI09uTYjbtig9Jqdffg=="
+secured: "j6UPRXEw+M1Vpkt63mpTFoAWziDXmy6RXo7PMJsqBJSfBDva1SMOkz4tDw7GZnML00DvDM+voUfYowuA/bASxa8HXD+RHqMMKkv1OK9F7c4LRHjW3oySeEQ/ewpYEHPjTUn/Aj5Vm7mDtd/fp4UIXL+sqX18abpd15/PlKpvwSV4P76+biBbT+vfYZwXZ2Xn6oskriufZlhh0SrDp7/ooDO0Dd7V7JQyNM6AhWz2GEEopoctbD2iYDe27OF2kY/jfkbjudMzVLh7IIQUKGdFEs/dLwfwGfI0cy9EmfZECFirDYuHF5GVYTivMkBI6Og3yeTJyIISw/j5otEPa2TC9VamWVxwFiCrhW1RUc85LSr6zJLTxtlcltO50kqznMTau1q79Jen6ABgJ0fIqin6OZov8FVC1/1j+3HplQAwuVJqv6rd/P/W9DqRA65ulAgxVsZTRgnBY58Of9cDITSmMugZdZHF1/U1tAH9Fo1uVGwY75pI0I1Ih/Pe3fmDP8EYtBkDvXk1WCQj2wFy9Md+pQ==;UJWuWBaAUip6YsVg8K3v7g=="
 ---
 
