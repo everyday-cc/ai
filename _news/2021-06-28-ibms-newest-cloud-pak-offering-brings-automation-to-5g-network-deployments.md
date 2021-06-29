@@ -39,6 +39,15 @@ related:
         width: 900
         height: 520
         isCached: true
+  - title: "MYCOM OSI unveils Proof of Concept of Telco Lake enabled AIOps for Intelligent Assurance of 5G Networks"
+    excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to some of the world’s largest Communications Service Providers (CSPs), today announced that it will be showcasing how Telco Lake can enable AIOps driven use cases for Intelligent Assurance of 5G Networks at Mobile World Congress"
+    publishedDateTime: 2021-06-29T17:05:00Z
+    webUrl: "https://www.totaltele.com/510102/MYCOM-OSI-unveils-Proof-of-Concept-of-Telco-Lake-enabled-AIOps-for-Intelligent-Assurance-of-5G-Networks"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 3
 
 secured: "xBCdFrywgkYLG/3sfK++oNmEN6H0WdN+kua1aaPxNimD69aPxdV/oWnJVfnEJshTsM/utde6aMo1f8McKXzM3bDWYZHO/ha0UyTsGMx1bikZOit7RB9N+r6Mzz5ftYAsBY+GO6SByVbmaexK9CE8B89vaqcbO/gOWF8YPeDUTFtgkPsOqUKJtp38TDQfcwUjIx0CFJkGzWhkVVUsRpfMjFdNZE7cbQpmrPHE/V4QwKacUXabQwjGxtJR4PsA2kEz96Ccovn70aySzkktRbdQHgKqzIjeBB00Gt/ylPB7Q5z6iYeFVHB5Rc4de0YWtSnmQt74IKyTVXYbH5B1YwG3YsqT1ppt4YqIYUxIYmSty8cJVCfkZydEZ0E5mnOmBCdoOriWje65xt1OSchzemaCJtb47UPmEzxKe9osaLjU+CQ26YSllRjMLJcUUGmOGZmuUb/qjPHrfJaNGdGhcR3PjP8hrz73ckHjWf1lkGAA2VlmNy/0LOPOFeRuy0qtditOarCnfJiHzVDW5udvP9DWJg==;qXJg+2WOMl06EEJWN2oSmw=="
 ---

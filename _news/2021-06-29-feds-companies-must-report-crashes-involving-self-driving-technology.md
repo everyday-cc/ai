@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Automakers must report crashes involving self-driving and driver-assist systems"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has implemented a new policy that will require car companies to report incidents involving semi- and fully autonomous driving systems within one day of learning of an accident."
+    publishedDateTime: 2021-06-29T17:49:00Z
+    webUrl: "https://www.engadget.com/nhtsa-automated-driving-system-crash-report-174552853.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 50
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2020-01/1e88d580-3edd-11ea-8a57-ce70dbfb73e6"
+        width: 640
+        height: 480
+        isCached: true
   - title: "As Little As 12% Of UK Public Confident In Sharing The Road With Self-Driving Cars"
     excerpt: "A recent survey suggests that the British motoring public may not be comfortable with fully autonomous cars, as 51 percent stated that the technology is still too young to trust it. The research comes from CarGurus,"
     publishedDateTime: 2021-06-26T09:04:00Z
@@ -53,6 +67,6 @@ related:
       domain: carscoops.com
     quality: 18
 
-secured: "p+N8w1reZ/ghVeGE0iQ8VXQSLNUNt2DpBbbhX5QeEw5V6So5aCEBZaYvan7QlKyoRs2iXwlKdP1sMRPdNEI1r65KiG5toigSBBC3a3b/oFehQwo2h4G1J87wLGtkzDqmYJwH1j1Y1Bx/0TjamVqJWoSoLiDH2yjeMw/syJRRKfupV3f9XN/9ofEZxlV7rAg0RMBCwlFVd/rxDs0jWUrciyQjHKHVMe7DDgWuTsYu87MWDJS2gRnG9bZjvkb2OxR0W46jzldgXxZ+fNK0/KhTOuTVsz82RO53a043W5HLLygoW8L81SSHKsiYMiss9FCE6VNnpp59tZ+uQvxvH9IYwKAimEIBv/01JoVuaPFlkXw=;QJ8BvgGhnUYyernkKUyLuw=="
+secured: "jV7FEaFfOhXRzY2Kl8ekcVF1Ooir0zjGlQL7ixqj/2eHUwdhW3AZwBddr12HwMbBEGPW1yMtlBMHPzbPulpw9gDTAV7EO3l7WlzXYt4+ibWCC6cO0KppMs3CEUP2LZcrEA+7S26FQszaZxxhQ6Gy1zH81sxxTr2YN2BaMK26BcoM7opdrOcrykPx9AnU8yhEQIqejzSFlto0q04stEFCe0FfRR+ebQ70wsov28w68kKCuYTuQeGS1Ja/Sx/ULc/w2RbNK1YiUqUMj7363oktwrjJ9hVNrHZJp4NRwbzCreK4rcGJ9ymyXZmo/M1niWeDg/od5ekae/Re9fqmFZJ5piIJC/UspfRiWigTb1i80FZI5BjGWfaMZ00ZhhA9l2c8HkqIBxyWoRVDet5MVaH2U5BJDZ/JuirD67wbBChwT8ZPGbyyokW3Rzigx2csIZtIFlipZiuDvGdINFT3JFJBfDWkrzrtX0kqi5AMVUq25eCRmIrvTHFsMon9mWfDRuY5GjYAGG2Tz+8ULt1ELBN+XA==;PTtD/Jk2uXFAcgScib44uw=="
 ---
 

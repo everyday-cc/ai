@@ -150,7 +150,21 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
+    excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
+    publishedDateTime: 2021-06-29T14:29:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/who-issues-first-global-report-on-artificial-intelligence-in-health-6-guiding-principles-for-its-design-use"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 22
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/06/INN-Social-Share.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "SO6r1Z34OT05hd2Xv8nSOXPe7Sdr6TYaKim8HY4FFSIoNahlBqeBZkLE72idswa4xZyDc6mNGTwYEBnDVYNsF0vsmPu/2RIjIYIm5EYV+UnV1BW8c6BGvLgMPP837e8S7eG5z3s8WpoiNnptlsiYrYrd0ATmSBuordgQLTmPAmkXn9laJL8JrwQHsOtZcTNPKJyJvP9nAsAOL4iy6GB9CLVc+cbawsDb+uLvqC0f+J1Kufxkvggx3M7BN2OUjrL2a/2Omc7BINTWvJkGLBbkouQXqdf2z75kNRDinDThO9L79JX9TL9qiyAsHA6ewW24c8CeJIDLolykkcwOW2FeBad9TdS3TKE6ow2Uc7yr7RA=;37dEASDeuU/+Cq1jJoP9YQ=="
+secured: "HnvaUe1XQdLy1QxV7MTHXW9i35pLGcXEXdGE9Aqa9YZ20Hh6wocGnW4AZTBshrajDAnNtWXwI1FG01tQ6RTZVi+z5wpAz0mhn2Uej2XRozsdqPGcnvBqvKS6DFB0XTwKWcszcUEvJ5YAlzXseZ5hlT6Hx9iexJ3cfPM6C7e7yEAwAdIUTgDzMThrvn1iP1PQvmbVInwO2+bI6qeprDjnBynjLK8B+6ii9v0Ag0R0bxb9Qtad0OehsPur+iDYnFwFczdoLfidvnKZoUN2WbPuooRcTjZjmQIq4Tln/Rd6iafqNHf9wi6s16Eo9fYyphwNXvmk5Q31zmvlRQhuRxRaw8E2eYvgv5wRCITzCeUtcmE=;JUCV1DElhmesszd9R0iQTQ=="
 ---
 

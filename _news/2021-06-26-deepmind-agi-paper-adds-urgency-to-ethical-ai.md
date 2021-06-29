@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
 type: article
 quality: 125
-heat: 157
+heat: 155
 published: true
 
 provider:

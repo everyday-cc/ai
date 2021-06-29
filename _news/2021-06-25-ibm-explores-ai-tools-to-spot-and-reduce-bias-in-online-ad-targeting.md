@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM explores AI tools to spot, cut online ad targeting bias"
-    excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
-    publishedDateTime: 2021-06-25T00:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
     excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
     publishedDateTime: 2021-06-28T04:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-ap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Augtera Networks raises $13M for 'Network AI'"
+    excerpt: "With a total of $18 million in funding so far, this Palo Alto, California-based startup is promising up to a 60% reduction in the time it takes to resolve networking troubles."
+    publishedDateTime: 2021-06-29T16:29:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/augtera-networks-raises-$13m-for-network-ai/d/d-id/770556"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "IbP3jeO322ld7mVNH5mC6mv2FLQGlFOolyXoht3qXzBpsfrAZRpp7gh79jO/RRGmQuJtL++4nl+WhjMKeUoPYJQanIqPCr2OyU02xEQ4NaQD+dpMNsxFHH6gkMHOABj3eAC72CjSfl7RYRts+Y48zjFl4sjNRI01FcVDDw8AsYMS2GQRYKe2gfiekEwXjLNuB4PkXTmBh+ewHlF3Ld+9krbyUfwYsiuF+4VLHJkwlUwZN1TrumB1vmT92/4Jwdz6y4/4bY9SkINsbEebFUjLtV3HnNIXc6V1Zol5YHkB60iiC3ONnaleueDj+xiiIW9u5dxaHkjJr+ni/taC02/jxKJS40l4LW0yxJk1yUZTn1O8CXlNv1baQe4aC8TdJk4xyhbrl6wsB/BOno/MA1fUtezlH3uTRkvWX3ZjNvOBdmCAz1onAHbJXReyzkdkKfrO6sFoWkXWYyAnE0n4uEB696ZuxRpu8AOQ7E4lQ9VstP5KuHUYa7q8XJRUc2V2rbVbxJHdgEHmo+vQuK0euNm22g==;OSNnKrGuQoAFI37IU96FDQ=="
 ---

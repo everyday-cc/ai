@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lavanguardia.com/economia/20210628/7551935/artificial-in
 cdnAmpWebUrl: "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
+  - title: "Debunking the AI Arms Race Theory"
+    excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
+    publishedDateTime: 2021-06-29T17:06:00Z
+    webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 39
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "How AI Enables Companies to Harvest the True Value of Data"
     excerpt: "Digital businesses are in pursuit of new ways to transform data at the speed of business. They rely on AI-enabled technologies to unbolt the true potential of data and leverage the insightful information to make decisions."
     publishedDateTime: 2021-06-29T05:30:00Z

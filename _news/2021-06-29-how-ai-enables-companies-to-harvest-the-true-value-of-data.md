@@ -51,6 +51,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 39
+  - title: "Debunking the AI Arms Race Theory"
+    excerpt: "The so-called AI arms race has become a common feature in news headlines, 4 but the arms race framing fails to match reality. While nations are clearly competing to develop and adopt AI technology for military use,"
+    publishedDateTime: 2021-06-29T17:06:00Z
+    webUrl: "https://www.cnas.org/publications/commentary/debunking-the-ai-arms-race-theory"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 39
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/GettyImages-1198282249-1.jpg?mtime=20210629125925&focal=none"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "6phmXCMMChqX63rQmV+1XvWIGPHr3XRgF1dogHsLaJl/hP03Y3IuJICbicV1XGihc1wfJPz6PvwgodSlthWFU7DBP+G5xAnmyLdH3I8cxa5ZwFJC6qTWKWH/rutFp4cauRZImS6fyeZIHis3lPw7NT2qymrSRgqhFkWP2AFqPDSQm4Y+gworklPe/rKcjlJ5Yy8EPj9LtBDOQbqhHIXfBHoV+BWr2Tb/OHJFeBmPNO7D2HUJHDjTYB9lRlF5AeuRylrD1eVGoAtyKY+G1a+wcAj6xAh3qRNBWVnhFCpcGI4hvV8EN9IBoFh/PZJ1y6JN9Kwfq4BFYk/PELgXA3hN9uVCun/4sI0Tu7DipLvFrOQ=;bPwE4wwrQQB0+H82ZRlj4w=="
 ---

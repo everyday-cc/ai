@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-power-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/github-launches-copilot-to-power-pair-programming-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "GitHub Copilot, an AI Pair Programmer, Is Coming to VS Code/Visual Studio"
+    excerpt: "A new 'AI pair programmer' represents a breakthrough in the third revolution of software development: the use of AI in coding, says GitHub CEO Nat Friedman."
+    publishedDateTime: 2021-06-29T17:49:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2021/06/29/github-copilot.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 36
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+        width: 647
+        height: 450
         isCached: true
 
 secured: "L3blfIQl09oCkAAmiuw8XVP5C/HwJyXolHPZBm/ALpy7eJrV6/FIoC5ihQij1bgqmn90N+KYB5kPC4RkOvxg5LVuccuqydLPi+hci5fQiXVWD4smlvcZefFziIiFyvKQLC6XAHMB7+9xl8u3uqXvOzBTycwC/STi5R0c6OlImma3x1hyn2b2FjkVkG7wQY3WpqgA8ix5IoarUdKUgmx698hMhdKn7H8e3ZbFbnbcOoR30d7h0lY3w9CwEHrzYPzxZvwELNOhjQO4elMFdqRHgpW3jt+t0oxsSE0y4C9CLxJoVXjV5CetGGVB5Evmb/P4cyOhUBqRG+m3pWiuGe/y1bSh3ZgK2/3HIxKciwmV2EU=;brek8LW3LHrWFqlLt8Sw2A=="

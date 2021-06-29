@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner"
-    excerpt: "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada."
-    publishedDateTime: 2021-06-25T00:32:00Z
-    webUrl: "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881"
-    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 68
-    images:
-      - url: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 575
-        isCached: true
   - title: "Facial recognition use by federal Liberal party raises issues here, says B.C.'s privacy commissioner"
     excerpt: "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia."
     publishedDateTime: 2021-06-25T23:57:00Z
@@ -52,22 +36,6 @@ related:
       - url: "https://i.cbc.ca/1.6081061.1624665370!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facebook-privacy-20190425.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Facial Recognition Market: Investigation, Consumption, Revenue (Mn USD), Share Forecast To 2026"
-    excerpt: "The information mentioned in the Global Facial Recognition Market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the technological developments and the product launches and their consequences on the Global Facial Recognition Market."
-    publishedDateTime: 2021-06-25T04:41:00Z
-    webUrl: "https://www.openpr.com/news/2313605/facial-recognition-market-investigation-consumption"
-    ampWebUrl: "https://www.openpr.com/amp/2313605/facial-recognition-market-investigation-consumption"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2313605/facial-recognition-market-investigation-consumption"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
-    images:
-      - url: "https://cdn.openpr.com/U/6/U625924396_g.jpg"
-        width: 660
-        height: 300
         isCached: true
   - title: "NDP highlights concerns with the Liberals use of facial recognition technology in letter to Privacy Commissioner"
     excerpt: "OTTAWA - The NDP’s Critic for Ethics, Charlie Angus (Timmins- James Bay), has sent a letter to the Privacy Commissioner of Canada, it was discovered that the Liberal Party uses facial recognition technology in local nomination meetings."

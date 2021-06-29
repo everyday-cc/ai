@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "GitHub Copilot, an AI Pair Programmer, Is Coming to VS Code/Visual Studio"
+    excerpt: "A new 'AI pair programmer' represents a breakthrough in the third revolution of software development: the use of AI in coding, says GitHub CEO Nat Friedman."
+    publishedDateTime: 2021-06-29T17:49:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2021/06/29/github-copilot.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 36
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "QUpDkvmSirITFjCm/FOcQgOxmImE9Ouc2/XJirB4cKMwZVtRCvV7ahqkb4Ro8VbrkSD2mIRn1xTKIo+5I0EI/b5+rmgBRIWY97dU77xBK6nEGEwbZzfAhrJZHrCvzppCkT1wmZ5a/pp7ta0zN9zPq9N/r4WKb250Y5OgKLDhIluoO7FOeFWpHhEl9kdC3qHDVMoSd1ErcgL7FnrA3qBeeqtUjyuazMAxJbZdWriRc0XmbVt72gA5YMVxDbsU9Pj03zYeAVb1H+uoyS33cqcO2OmaGqBlWQPCUZtBUIU2DGGH9o7RqoU/kmcFDttb7/KwKIP5p7lTjn/8PZ9vec28tCDvP7/l9sQlWsUsM6MsJ8Q=;rfw6XQkuuYsbttgMlbY61g=="
 ---

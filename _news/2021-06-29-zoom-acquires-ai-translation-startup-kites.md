@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup
 ampWebUrl: "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/Zoom-e1618836351406.jpg?w=1200&strip=all"
@@ -31,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zoom to Offer Real-Time Translation for Video Calls After Buying Startup"
+    excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been developing AI ..."
+    publishedDateTime: 2021-06-29T17:22:00Z
+    webUrl: "https://au.pcmag.com/video-conferencing-software/87939/zoom-to-offer-real-time-translation-for-video-calls-after-buying-startup"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 53
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/z/zoom-to-of/zoom-to-offer-real-time-translation-for-video-calls-after-bu_89bz.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "This AI-based startup wants to connect teachers and investors for education innovation"
     excerpt: "Center for Education Reform and Global Silicon Valley, is looking to raise $60K via crowdfunding to launch its edtech networking tool."
     publishedDateTime: 2021-06-28T18:47:00Z
@@ -74,6 +89,6 @@ related:
         height: 533
         isCached: true
 
-secured: "HfRvoj0OF+ZRm9owfb0A1jxYpOMWI5NTL9KqqxO53Dg7VL9iW7nTHRqka8cM4e5miBTBa9pau5Cns3NQxWum/C+5xzNNV3mVzLtZb+B/liU/FDdSif/6U07GB6UAYEDk14WDC90s4E0vwmd7f9GClnE9X2v3hitw3xuZTZb13zzNy4JOLeixAa7rpMyBmQ78zmKrIzHMyFo6OHkRfkD2frfnzjyG143tjtyMvERK86khFVzRyTjUVLmNmoGY7ouGR8LGBRLBXVQvzhqPPM6i5vBpeB78M9EuDWxChV/qyr3YvToA/yDp58nwktatkCV0+8I1Ck5CZ3bvliBbQ/TmxgciF3DRvQW8yR0W+MamILE=;CtobnttCRmLDmzey3D4veQ=="
+secured: "orz0Y+bcKZjWt89wBm1IdvKsqZ6v+RvCnmHpjLi8hCs6Y+YAhui7d9yWf4TtOdPFvVOkHBd9R1TelOVJtl3NcnlOi36vfNoIk0YMeQJcQtAICA33X8/V8nAn5Wnf2gEs4ugAjrTdGlCZ0gUWCVROsF3n49K/IOO6Mc7YBgRxthZ3+qAgztPlckgTN91MnPJBODz16L6fItqPKSrDt3Dsmzb6tPGKmDmzY2v1YfnQqy9e9fKBh+CNmquB/p+WnQpHsToGgY62LAWcOBQvsF7BXWFyPmwaUXdX1f2Gnc8mXiKUdCRzytNcAf8hzCA0p/7jBxpo83rsEqKvoro8e7R28uwvNMn3JusQQfvVGDoJT+jARNvUTZTMt77+iAOerW5gqoQO7NkQZNchvMM2JdhFniOvbeV5kdk/8INDRdDtS4fRk8SNiiivF+pqrtXVAbvw2Z7TF7xJtavQ9V156FGctnJDeAfPO3i1WPbG9Nou9BYb47o96Zju12xE8rxRpq+PDJ47Vk8tpUcWqv5q3dP6qA==;fmBphLu8oP7UQnLbSlhiUA=="
 ---
 

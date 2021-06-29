@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-rep
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Cx9QjVyqdgJWsNe53+QgiRUiwCBV6hbIvpYhV5CC9qbG9ZHQlAeNdvKzb13WFeqk/kmN6IEpPAvMT/hqiD4xFkl0eFk61YfyFt4QLwCalP7ZDR8YESLOyLJSD7Eh1HOJORJ5S7xVx//g5m4w1E/H4iZW6qZegcSyeLlnKTl8szCDKVbArK+8v+P+tMDa2koH6qQ7Q2W3vJIorUwPqlns11MKYcoON7ysfuxXXx8GN+oA57w+kqsySbxV6lT/rFBuHY+DhTSGhIGUvxYxtXHzu4IHqRI8l4VA2qE/ttaUpc3I5P0gUZRGKrpFnv+/FgbkTPHZx70Q7Lemzo73q+P1pubFU0NEG5opfNQrWwn0olc=;t4GDI3oyghrAW2f5D9Y4Ww=="
+secured: "YHMz8cOoSEyo6KYL9fLhHKQJCjkMa7eQeXMMqMAadKnNTdOm1gwnTtI8YkW9MbPo/J6/1R1TpeuI6wmJLrybZYUTQB0TcOfjBnHz3wa4tfkoOnpRpXQpCYvhcceHJIqOZRBrv7p5iESr9Xu+wsCBlwox4+slF1hdp699y9o0nKTHP6+UQT3J0P4VGnxp5YCNb+YQ+1PtzC6r5GuOMZ/bX97afG+PtrjQVdd4XpHcKsV8WNwP84ugD6SCTidaf9KZTVjX7xuNU9ydIZqMHRUF/VK1UtS7+iMkeo4LfM9gCTEUPgxlPd+xZhootzoZP4uCBvayAbqgJ43iml1Q3q0n9pyYFgrzHIXj1Ce3DhfrQpPa1/11K80VQs2Q2R50x8oe+jea5v3Nm7jMcNQjLTWQrlXTANkIgD+odG2YSnYtwx4DmL5zV7N+uTZ8IAAmMsLybtRthasAf3cZm9T9i5SgLx2ou2HRVbHeFC0ZcNsQT5v7VpoijEmzwISSYL2L8mTQOTi3B9DH29c0rLM46XOcbg==;huOJ/a1APnAivx54I4rNJQ=="
 ---
 

@@ -1,0 +1,53 @@
+---
+category: news
+title: "MYCOM OSI unveils Proof of Concept of Telco Lake enabled AIOps for Intelligent Assurance of 5G Networks"
+excerpt: "MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to some of the world’s largest Communications Service Providers (CSPs), today announced that it will be showcasing how Telco Lake can enable AIOps driven use cases for Intelligent Assurance of 5G Networks at Mobile World Congress"
+publishedDateTime: 2021-06-29T17:05:00Z
+originalUrl: "https://www.totaltele.com/510102/MYCOM-OSI-unveils-Proof-of-Concept-of-Telco-Lake-enabled-AIOps-for-Intelligent-Assurance-of-5G-Networks"
+webUrl: "https://www.totaltele.com/510102/MYCOM-OSI-unveils-Proof-of-Concept-of-Telco-Lake-enabled-AIOps-for-Intelligent-Assurance-of-5G-Networks"
+type: article
+quality: 3
+heat: -1
+published: false
+
+provider:
+  name: Total Telecom
+  domain: totaltele.com
+
+topics:
+  - AWS AI
+  - AI
+
+related:
+  - title: "Google joins O-RAN Alliance to help make AI-powered 5G networks a reality"
+    excerpt: "Google LLC today announced that it’s joining the O-RAN Alliance, a consortium of carriers and tech firms working to make the world’s telecommunications infrastructure more efficient. A telecommunications network has multiple elements."
+    publishedDateTime: 2021-06-28T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/06/28/google-joins-o-ran-alliance-help-make-ai-powered-5g-networks-reality/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/google-1.jpg"
+        width: 900
+        height: 520
+        isCached: true
+  - title: "IBM’s newest Cloud Pak offering brings automation to 5G network deployments"
+    excerpt: "G networks faster and more easily. The offering was announced at the Mobile World Congress 2021 event in Barcelona, where IBM also revealed it will partner with some of the world’s leading telecommunications firms in areas relating to 5G,"
+    publishedDateTime: 2021-06-28T04:01:00Z
+    webUrl: "https://siliconangle.com/2021/06/28/ibms-newest-cloud-pak-offering-brings-automation-5g-network-deployments/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/5g-vran-service.jpg"
+        width: 1400
+        height: 788
+        isCached: true
+
+secured: "fcwqWGyp2CodfZA0emkFtlOCsRM4eUWRoe6OvV755C+n6UJylQ3/AoQGbS7RWCHIy0OXXJRRZsX0TuEuarbyuZAYtV3NUJD4wjs+NkP5lWB06yJduL0qhxc7lqrduwlBp4o7d3adLaIZUgxe8Ln8sp2vNiy9ABV9Q+Nip/V/Oh8I0Zww9ODlVahSRxmVmqTNCVTe2SLf4C+hDpjRtRWwTy+M3u5enXkVW+8on9ZcJoVj3zz0qmnKgVO7HWWFCVmKQd7bCb3iiRESxLQ1roohzcIY9EKhxt4t+kYiSaElrv8Z1Mk+mNNjdrEr8G+7dJmBIW/++nVjNx/uchz5KDvgDXqU+Zdp6HpSaCRxRJWtr1w=;j8tDg/9IfIqCfp6Jewf0WA=="
+---
+

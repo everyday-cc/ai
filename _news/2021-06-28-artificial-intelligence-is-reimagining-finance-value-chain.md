@@ -7,7 +7,7 @@ originalUrl: "https://www.wipro.com/business-process/artificial-intelligence-is-
 webUrl: "https://www.wipro.com/business-process/artificial-intelligence-is-reimagining-finance-value-chain/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

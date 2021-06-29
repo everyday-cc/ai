@@ -26,28 +26,19 @@ images:
 
 related:
   - title: "Ambi Robotics selects DWFritz to manufacture AI-powered robotic systems"
-    excerpt: "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions, and DWFritz Automation, a global provider of high-precision automation and metrology solutions,"
-    publishedDateTime: 2021-06-29T15:42:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems"
+    excerpt: "Partnership to build a custom, AI-powered robotic solution for pick-and-pack fulfillment operations {/exp:eehive_hacksaw"
+    publishedDateTime: 2021-06-29T16:05:00Z
+    webUrl: "https://www.scmr.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems"
     type: article
     provider:
-      name: Logistics Management
-      domain: logisticsmgmt.com
+      name: Supply Chain Management Review
+      domain: scmr.com
     quality: 69
     images:
       - url: "https://www.mmh.com/images/2021_article/Ambi_Robotics.jpg"
         width: 1500
         height: 844
         isCached: true
-  - title: "Food Robotics Leader Soft Robotics Raises $10M to Meet Pandemic-induced Demand and Bring its 3D Vision and AI-Powered Solutions to Market"
-    excerpt: "Award-winning food robotics company Soft Robotics Inc. announced today that it has raised a $10M Series B extension, to further expand commercial operations to meet COVID-19 pandemic-fueled demand. The capital will also go towards the company's launch of its SoftAI™ powered robotic solutions."
-    publishedDateTime: 2021-06-29T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/food-robotics-leader-soft-robotics-raises-10m-to-meet-pandemic-induced-demand-and-bring-its-3d-vision-and-ai-powered-solutions-to-market-1030562997"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Ambi Robotics Selects DWFritz To Manufacture AI-Powered Robotic Systems for Global Shippers"
     excerpt: "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions based on simulation-to-reality AI to power highly-dexterous robots, and DWFritz Automation (DWFritz),"
     publishedDateTime: 2021-06-29T11:10:00Z

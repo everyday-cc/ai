@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7790799002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7790799002"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 675
     isCached: true
 
-secured: "RsyBcVlNZ1fJxyhzz1SUj7jG5yWR8DvipxeTe3Xz2dI2dAqYu68TSxqYghloH3GiPUrw4MGSe9+ja1ietYdEC4WAd0LsUnQSyk6If4XTNfvz/X5Zg0Df/QVHLtV51SQSFfYG8cd27XIMTQHfpAk6whNLKNdLGKi37/JEoZhH+Dh/SuHbXmuIWF2v0w9hWWyvBfvDAL7GpJ+g96PY7N6bhfW5SPHtlO4CDJxZYshDkjCpmBbd1jAe302zDb6q6cVDr/l8Sy5/lMH2c34lAWURV+gK245C9cKF2yZ2VkFltH8iZseL7/B4DAyNFX7tup3kxb1X12AveG3gbUx4BVOMGXbXdpA2UKYMVoUbLk9rC/E=;aMjL7Y6B08Gen9V4ODGMnw=="
+related:
+  - title: "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids"
+    excerpt: "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household."
+    publishedDateTime: 2021-06-29T14:00:00Z
+    webUrl: "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/"
+    ampWebUrl: "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 60
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/Reading-Sidekick-Echo-Show-Book-List.png?w=680"
+        width: 680
+        height: 340
+        isCached: true
+
+secured: "EuwdIYPJ+iNE/3xH1lsO+E2bqzvdvVCdA6U6JfoZcvrrFoNRtJ+kllOkiWnpM/i7f3iTgLV41Uuw/kYZIsy2Q5A2MBHsniB9p2+3NbIaau7UBeM8VN1scPY3eGtpMfZvpYLfohYnYMP5M7u5UZhoxH15zHCCcqbLW99kB//OHhRptNBAfLVxxvZeN+f17uGiZVBXl445JHaKbnyoOXOEBJHGetBUUAYI00PqnWaKQGL6xz5za9ZHq6RHpPVcBxHOKlaRGUK6gDVmBZ6XfQHaLoSOrIECAZ2v/qbKc9jdtz8LPgpPoRe7EOX/t/Yyf43Qp2nfcjl3a2sHwbgG5rPfsqHWCK5LrRi1zvAXetRD+jUBRv4jJsltEbxVJvYsO/BuhFAttQjXL8W17SjzLK0cKFeMEnCNcnaH668P5oJkwA1Pr+z8zM8SZBlik2Pb74sYU+//n1tyfMaG54oeHm7RoGaPpVQqoeJvbItQ7sE279uFPdnZ+3e8kYkZar75qJAG3quAnL/5YTHa+gEQ1xF6FA==;/R1prOdr86EAqcbdqjZKVw=="
 ---
 

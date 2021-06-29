@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market 2021 Top Manufacturers, COVID-19 Impact, Global Demand and Future Scope"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-06-28T11:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-top-manufacturers-covid-19-impact-global-demand-and-future-scope-2021-06-28"
+  - title: "Google taps AI to identify COVID-19 vaccine name variations"
+    excerpt: "Google says it's using a multimodal AI model to identify variations in COVID-19 vaccine names around the world."
+    publishedDateTime: 2021-06-29T17:08:00Z
+    webUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/"
+    ampWebUrl: "https://venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/google-taps-ai-to-identify-covid-19-vaccine-name-variations/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "e1qSLqfxJ+0o7XW7QMxmvBUTc6ouIXcIQVbpLy5hyLG+BwPoGhHlELuOEdyGws0n98LwtcDp6Ya6woU23pSqPLZbI1GOC8aGB2YsiF+RD/OscfZY5AcN4Hwf70nayhNKflCZb9U6quoQNVyXapRx+AdIM7PTul3VFVhz4R/KtWv+a/QpzO3jHgWE8vrvgSAEOryJvGYS5t49xi0DO43OYikNeBh5DKr2Xby6xW3ywRReHkA3GwBUnV90n5nM0ML8vZrQrjI8M3ZZ8GYNlfbh3Z6dH9550k9SdvSlhItxHfMvMsqGdZZzEVNcctJGg3NI8o/S2arUmqolqOy6gBURmzkoLnnbKjlzrziN+eJexc4=;oZ6bAIXd7ogkG9NJmzW92A=="

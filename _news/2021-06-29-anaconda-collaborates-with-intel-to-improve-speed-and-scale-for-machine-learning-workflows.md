@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Anaconda Collaborates with Intel to Improve Speed and Scale for Machine Learning Workflows"
-excerpt: "Anaconda today announced further developments in their ongoing collaboration with Intel, as well as plans to continue expanding their strategic partnership for data science into the future. The companies are working together to build critical open-source data science packages,"
-publishedDateTime: 2021-06-29T12:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-anaconda-collaborates-with-intel-improve-speed-scale-machine-/2021/06/29/9399501.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-anaconda-collaborates-with-intel-improve-speed-scale-machine-/2021/06/29/9399501.htm"
+excerpt: "\"We're thrilled to continue our work with Intel to equip data scientists with the tools they need to build and deploy models efficiently,\" said Peter Wang, CEO, and co-founder of Anaconda. \"Data science and machine learning workloads account for a growing portion of business computing costs,"
+publishedDateTime: 2021-06-29T12:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/anaconda-collaborates-with-intel-to-improve-speed-and-scale-for-machine-learning-workflows-2021-06-29"
+webUrl: "https://www.marketwatch.com/press-release/anaconda-collaborates-with-intel-to-improve-speed-and-scale-for-machine-learning-workflows-2021-06-29"
 type: article
-quality: 9
-heat: 9
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "N97hDaDhGpMhaHAlQ2SmJIpYzhU3GbDazv/d4gVJ71dSTR26ulbiH4gQO7NVyxFu4dNxNQt//uIhgdAjf8R01pOGbDvoayFtG5pWnG7FhptmQhLp7t1dUgJSJe62fYzIJVtTmsk2M3EGOjuH3ZbJRxSCGR2jx5exxNzA54KQ8CKeOCFtzUWBmcOR8S4igLEuhX3q4K70URTuiC3Kk9I0brhnC8ThYCmCvhsnlpUiVEalUfkOnUpMlcnBh9ryW+n7EnAPxRhnyECq3lh1HBf3eiX6ssyrDqkLY4yzJuyq8YO15RHZ6TLt6bAFr7+WF0/QN33ncpd56cTSwXyMjAXA1cweICuAvUlRIddQYrPr97Q=;rvHo2gtTmLgX7tq+hEzZ9A=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "NDdorhb2jnCKTJ+FfftQiQTmBqavi5Wu23/Jt7wi/Qgjisu/NvCHBST3yNB3NlaxZKApyuc5hZ9nHepnQLYtMxajryuMTOw+dYlYFmZVv9xffxDzdzIJwDjk1KQs9rHWlPiC9DFUWqOuqeaSKPcpTIUOyVSnazp6ZTbE8vcBGUxBeMd6CUgQ1n6dIhG0ff88elg9m+gs3ckDbO8uywvkpWLGGER+d1EmslocaCqw7auc+wgRec5pLIUBCRxKYhlvwW5MBSp+cNB1wev+K8Dnp4lmsT9YFfoyH9Zu79JhdwcPfPpRr24GVXq9Xct09Yxsx+YnZJ+Z4PSW26sWGG+NzLu7/z6AMNVeBO011kipqXo=;xQbr+kH+k1OfKimReQwDxQ=="
 ---
 

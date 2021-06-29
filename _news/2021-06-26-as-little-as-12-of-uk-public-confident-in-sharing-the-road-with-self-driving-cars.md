@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Automakers must report crashes involving self-driving and driver-assist systems"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) has implemented a new policy that will require car companies to report incidents involving semi- and fully autonomous driving systems within one day of learning of an accident."
+    publishedDateTime: 2021-06-29T17:49:00Z
+    webUrl: "https://www.engadget.com/nhtsa-automated-driving-system-crash-report-174552853.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 50
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2020-01/1e88d580-3edd-11ea-8a57-ce70dbfb73e6"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Feds: Companies must report crashes involving self-driving technology"
     excerpt: "The announcement comes amid 30 ongoing investigations into Tesla crashes and as partially self-driving cars are becoming more commonplace."
     publishedDateTime: 2021-06-29T15:41:00Z

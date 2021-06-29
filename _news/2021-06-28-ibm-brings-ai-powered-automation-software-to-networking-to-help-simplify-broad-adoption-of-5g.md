@@ -75,22 +75,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "IBM explores AI tools to spot, cut online ad targeting bias"
-    excerpt: "Academic researchers and civil rights groups have found for a decade that some audiences including Black people and women can be excluded from seeing jobs, housing, and other ads because of potentially unlawful choices made by advertisers or automated systems they use."
-    publishedDateTime: 2021-06-25T00:18:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ibm-explores-ai-tools-to-spot-cut-bias-in-online-ad-targeting-71624538653004.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/06/24/1600x900/2021-06-24T101608Z_1_LYNXNPEH5N0GY_RTROPTP_3_IBM-RESULTS_1624538703876_1624538718703.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "IBM to Use AI to Detect Bias in Advertising"
     excerpt: "IBM Watson Advertising has announced a six month research initiative that will use open source AI technology and campaign data from the Ad Council to better understand unwanted bias in advertising, with the goal of laying the foundation for avoiding those biases."
     publishedDateTime: 2021-06-28T16:53:00Z

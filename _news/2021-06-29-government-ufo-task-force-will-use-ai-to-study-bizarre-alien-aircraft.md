@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-s
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

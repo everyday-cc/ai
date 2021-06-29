@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/exclusive-to
 webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
 type: article
 quality: 165
-heat: 315
+heat: 305
 published: true
 
 provider:
@@ -107,22 +107,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d7a0696b4de7c0b6de383e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1617%26cropY1%3D37%26cropY2%3D947"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Funding is pouring in to companies trying to crack self-driving tech"
-    excerpt: "\"It’s going to take a large team of engineers working together, and they’re going to require a lot of funding.\""
-    publishedDateTime: 2021-06-25T00:30:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/funding-is-pouring-in-to-companies-trying-to-crack-self-driving-tech?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/Zoox-Autonomous-Vehicle-Two-Vehicle-Coit-Tower-SF.jpg?fit=740%2C415"
-        width: 740
-        height: 415
         isCached: true
   - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
     excerpt: "Last month, self-driving technology company TuSimple shipped a truckload of watermelons across the state of Texas ten hours faster than normal… They did this by using their automated driving system for over 900 miles of the journey."

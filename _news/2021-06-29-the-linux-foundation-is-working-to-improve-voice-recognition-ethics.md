@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-wo
 webUrl: "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

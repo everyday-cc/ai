@@ -24,6 +24,22 @@ images:
     height: 1034
     isCached: true
 
+related:
+  - title: "Connecticut couple gets national recognition for wedding again after Alzheimer's diagnosis"
+    excerpt: "He said ‘that.’ I looked at the TV and it was the couple getting married and I said ‘do you want to get married?’ He said ‘yeah.’ He had this big grin on his face. I said ‘are you asking me to marry you?"
+    publishedDateTime: 2021-06-29T17:22:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/ctpost/article/Connecticut-couple-wedding-Alzheimer-s-diagnosis-16279146.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 29
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/61/64/21175584/3/rawImage.jpg"
+        width: 1600
+        height: 1034
+        isCached: true
+
 secured: "5EoRzfrtB8GlPkz64GcgBKwp7SC/FOkd6LHKrGWYAToL7BsyPFkzJIx1VIaJq8NIPqmLARQfR6NUOKUrbEWsuGb0qMQh3GTdevk1PBoz+XA2guAmvqo97PTZ1D4q+6qnU+gbKbbmfrEegBBvlx9Vsqbaa58eH57U2K4BINXTQYt/VvDRCLA/nAM58R0GoAGrsWcutQU9IZPLc6Alu3KAbQylMarAUPePMJwYFySGOeyN2p30Q2qhXdeoiVUGej9xixXdUEwz0GKoTlJ0EylwtHrjLa0WUR+HHyAeCyhcBsgMytr0IjH3gK40szZiJFuyzPjY37apUVVb/MBb/5BnXs5LMnjzgZ7xRfajOPoIaMg=;82tPrEdwGQBYHESCCU9+2w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face
 webUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm"
 type: article
 quality: 56
-heat: 87
+heat: 86
 published: true
 
 provider:
