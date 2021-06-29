@@ -109,20 +109,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
-    excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
-    publishedDateTime: 2021-06-24T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bfsi-artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2026-2021-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com"
     excerpt: "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE) provides a snapshot on emerging cyber security solutions powered by innovations based on artificial intelligence,"
     publishedDateTime: 2021-06-29T08:15:00Z

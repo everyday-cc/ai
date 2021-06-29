@@ -39,6 +39,34 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:00:00Z
+    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270099831/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre--and-post-trade-solution"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 25
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624852505538.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Top 5 Fintech Cities in the USA"
     excerpt: "We’ve compiled a list of the top five fintech hubs’ in the US, outlining their most distinctive characteristics and features, as well as some of the top fintech companies they’ve created."
     publishedDateTime: 2021-06-29T07:00:00Z
@@ -67,6 +95,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Symphony Communication Services, LLC: Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Sa"
+    publishedDateTime: 2021-06-29T12:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53277826-symphony-communication-services-llc-symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre-and-post-trade-solution-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "9pxlfvbubNMOGqSXpifJsR7xKp935japWDQziNfUbwGyMRsZbhUbNqYzXUCa8X9k0wsA0WjISySGoEuAeXRn1O56OV2nyCz/retPNJRPsPBEl4KtNAvOlGj8WsXjnGOo/9LEaGVZCuNJkW4hbr0rjzv+BS8TjnuLR0lIquSBsEwIsL3VArhIu2h2n3RAviPWfG1CIIqh5v6o+GmisQtH+OsDgV/Wr5GaUf4XcVnKsUYOirgDvCrYwAzl20qFkrONz/8h5PAOZf8ijfemxyY5ELz87gJ601EDnDw4StLJDl2Qg27Ob6FpN9u/O1BZxHMzX1HEbBe3b1CXk5VGfe/+02MikDSGGHqRY4jG5dRWBrwMUrFp3v+WaflDAM285inxDHcv9BKlJBGeBrt8+qJkbi8yAC03fsK+QV5nVhuvDD/ITrAsqdbfzPjRYTljUBUgncdmTi/oFbDBn7ELIvvyha//vVFbRnRBNw8r2Qyn8r8DrNemZd5YWbgh+52WvUldsnkbjcrE6bNhR0NTiClPcg==;7VbxFu+6Sr4vSRL/HJED4g=="
 ---

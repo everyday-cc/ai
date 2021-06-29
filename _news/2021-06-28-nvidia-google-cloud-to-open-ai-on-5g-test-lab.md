@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia’s Aerial Brings GPUs To AI On 5G"
+    excerpt: "Nvidia's telco strategy continues to evolve as the combination of new chips and software will allow it to power software-defined O-RAN compatible 5G network infrastructure equipment that can also power AI-based edge computing applications in a wide variety of environments."
+    publishedDateTime: 2021-06-29T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/"
+    ampWebUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da8a5815d212c0b6570f08%2F0x0.jpg"
+        width: 1200
+        height: 756
+        isCached: true
   - title: "Nvidia eyes ARM roadmap for AI, 5G integration from server to card to chip"
     excerpt: "First use cases of AI on 5G will be enterprise computer vision apps that need 5G bandwidth, such as to a shop floor."
     publishedDateTime: 2021-06-28T06:24:00Z
@@ -57,10 +73,38 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA Partner Network"
-    excerpt: "SFL Scientific announced today that it has been selected by the NVIDIA Partner Network (NPN) as the 2020 Service Delivery Partner of the Year for the Americas. This is the third consecutive year that SFL Scientific has been honored with this award."
-    publishedDateTime: 2021-06-25T19:59:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-science-98a8d0e17c3b4bccac0e7ce4c5f9da55"
+  - title: "Is the Next Ansel Adams Going to Be a NVIDIA GPU?"
+    excerpt: "While this view of the Tetons and Snake River, as made famous by Ansel Adam’s iconic photo, doesn’t have great resolution, there’s a reason for that. One of the biggest changes to photography might start with landscape photos just like this,"
+    publishedDateTime: 2021-06-25T22:00:00Z
+    webUrl: "https://fstoppers.com/landscapes/next-ansel-adams-going-be-nvidia-gpu-568424"
+    type: article
+    provider:
+      name: Fstoppers
+      domain: fstoppers.com
+    quality: 39
+    images:
+      - url: "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2021/06/snakecover.jpg"
+        width: 1185
+        height: 670
+        isCached: true
+  - title: "Nvidia’s Vid2Vid Cameo AI brings 2D photos to life in video calls"
+    excerpt: "Vid2Vid Cameo is a new deep learning model that will soon be available within the Nvidia Maxine software development kit, a pretrained collection of AI models developers can use to create augmented reality effects for their video calling and livestreaming applications."
+    publishedDateTime: 2021-06-24T23:00:00Z
+    webUrl: "https://siliconangle.com/2021/06/24/nvidias-vid2vid-cameo-ai-brings-2d-photos-life-video-calls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/EMBARGOED-Vid2Vid-Cameo-Image.jpg"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
+    publishedDateTime: 2021-06-28T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
     type: article
     provider:
       name: Associated Press
@@ -71,6 +115,33 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
+    excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
+    publishedDateTime: 2021-06-28T21:01:00Z
+    webUrl: "https://insidehpc.com/2021/06/nvidia-and-partners-launch-hgx-a100-systems-for-industrial-ai-and-hpc/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
+  - title: "Inspur Releases Liquid Cooled AI Server With NVIDIA A100 GPUs at ISC High Performance Digital 2021"
+    excerpt: "Today at ISC High Performance 2021 Digital, the event for high performance computing, machine learning, and data analytics, Inspur Information, a leading IT infrastructure solution provider, announces its new liquid cooling AI server,"
+    publishedDateTime: 2021-06-28T11:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210628005273/en/Inspur-Releases-Liquid-Cooled-AI-Server-With-NVIDIA-A100-GPUs-at-ISC-High-Performance-Digital-2021"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
+    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
+    publishedDateTime: 2021-06-28T07:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "fw4q3sMjGMCPIBHs2G8uqyuKrI6ESrn+799yM3aRcXhkzCLWkWBtFK8QcgkDJMPoxahr9COah65P5izFQIDCDRNm9wfUQH4OlZsnCyccxn+L+ILjU85jK2mqgF55ALRnmrEerVEBI3wsmJJ1j/0QYbbwlGhFNBriEJH/DyX62jFBkLl10No1Rejial18R7OuYCRQq2RgaGzow47pYkhhWx8rWqBGAGN5jrGhxGXSKFSrNB6B70Zkq7tRUs5b78J4zgytvXLvpq71wUzBUnP53uF14oV2HEGVkrPIMK8h5TJg5Ra3XEN31JrJJB5KONPck7F5WosyvYrv0zER5DGZlhtwYBMw0LJvrvUuHmqDpMaIiejiG8iB9Q+Fg3FRcjVWEHtGKKWnkQAZaRt4qGfOII0LJMtdX5BDms4SFi690GLP6YqWS+MDoNWKWWfIZ+PfyL5DyDf+b23Bhqd9pU/2ien3RDwFhCEIS0WNOhhACdJoqM4tQApbnORXZT5C/6P0sjl4AxcGcAyOl/bxtw1Exg==;MNDClFlvbos0ZpSouXIY9w=="
 ---

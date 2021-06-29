@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "İşbank selects Driverless AI platform from H2O.ai for Income Prediction, Cash Forecasting & Check Default Prediction applications"
-    excerpt: "H2O.ai, a leading AI technology software company, has announced that İşbank, officially Türkiye İş Bankası, the largest private bank in Turkey, has selected H2O’s Driverless AI platform to upgrade its Income Prediction,"
-    publishedDateTime: 2021-06-24T21:47:00Z
-    webUrl: "https://www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/i̇şbank-selects-driverless-ai-platform-from-h2o-ai-for-income-prediction-cash-forecasting-check-default-prediction-applications/"
+  - title: "Dubai start-up Derq teams up with Motional to steer driverless AI tech in Las Vegas"
+    excerpt: "Dubai-based former in5 start-up Derq and driverless technology firm Motional have entered into a partnership to pilot autonomous vehicles with smart infrastructure in Las Vegas. Derq, a Dubai- and Detroit-based AI company at the forefront of using AI and vehicle-to-everything (V2X) technology,"
+    publishedDateTime: 2021-06-29T12:45:00Z
+    webUrl: "https://www.itp.net/emergent-tech/98601-dubai-start-up-derq-teams-up-with-motional-to-steer-driverless-ai-tech-in-las-vegas"
+    ampWebUrl: "https://www.itp.net/emergent-tech/98601-dubai-start-up-derq-teams-up-with-motional-to-steer-driverless-ai-tech-in-las-vegas?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98601-dubai-start-up-derq-teams-up-with-motional-to-steer-driverless-ai-tech-in-las-vegas?amp"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 45
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/06/lens-flare-effect_zkH5budu.jpg"
-        width: 750
-        height: 450
-        isCached: true
+      name: GDPR fines
+      domain: itp.net
+    quality: 48
 
 secured: "YOOPiBn8OjR80xquaQ4o//ZJ45PE+tiiN4ztz+frewKbvq2yFe8RiaPmPze9myEnRz/OY6Wa/Y2JfkXjRw4nnsfw8wSMi9tEQNEFfT/cYug7SJFvfFK5wjr/h+TMVAhleUijtee1bs65ntBo+gfg4jkss2mlPX3qFuk9p7SlqeA/zeJYfB5JKPji4xdcBRLCRosZZktNesUZ7mt338UPUEfOD5Evntc3d+IwRuuYHv2HwWbGX6N6upTRejDWPRhMs5jd3gh/5zcOPpxALJIDDavu+MG69y1x030MdDSpTQpxZsMFCaOGQs4mtZ8SCYICY7bLxnCON4cPL80Q6ag9uYVyavp6y50cRB4aoUxuwx4lTV+SkkhTUSurt3HGsdJuHkXZItELq+uId5mfpyZeDySebcPp/grpuYPtJbQTtE9tCiCRKyXPwtn1keUCC45e1b3/EAk9yOOMpc1qyQRi0etP3JHYnH/o/7PJDK7xnzjfH0nt1AfwjKX6118fm26W4zBMFdqP1WysptK3/AcdrQ==;piXcRDmnBZ8P3V9iJQFpkw=="
 ---

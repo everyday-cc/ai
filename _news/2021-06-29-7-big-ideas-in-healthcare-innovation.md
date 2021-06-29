@@ -48,20 +48,6 @@ related:
       name: Finanztreff
       domain: finanztreff.de
     quality: 42
-  - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com 's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-    publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-/article_24526b40-ba6d-54a0-91ac-3bb7b0ca1069.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "zgyoB6QdhuVnHPovmgsozpXVf65sZs47/eQMv4MUsq470YFZ5kq2utCC2aLYOajiSUPWdRqisEWPEvbBzYbqJwvIedoBMXkdWd6HwyHMCkqz3oo2gqit1Yz7tEZ8mxameYRfFaJHQ5KmuhsHj2JmbqDEvt3MNd7nQz6YYZEs+s73pI889q+DGNZyK3IyR4lMI8Ng1mLyo5HdDZB3MLJKfs91H25yB4ZWjPriTbB6Zhrktupul5bh8q3NYVxCb1YnJ9jMWXNtPY2SrnoxDp0uIGTVrkwZh//+6tdS2Abp9ScNA2HIphKfBsakO9Mw6J10x92GpTgW/XESa1OOA0jBhAO+HWZd7zD8q8IaENeUMu8=;tEe7tlo8IpTbGgqlUtE4pA=="
 ---

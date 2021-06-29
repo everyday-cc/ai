@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/ibm-working-on-ai-tools-to-spot-cut-bias-in-online-ad-targeting/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -116,6 +116,17 @@ related:
     provider:
       name: TV Technology
       domain: tvtechnology.com
+    quality: 39
+  - title: "MWC 2021: IBM brings AI-powered automation software to networking"
+    excerpt: "Cloud Pak for Network Automation is designed to help service providers improve networking and deliver new services quickly"
+    publishedDateTime: 2021-06-29T12:45:00Z
+    webUrl: "https://www.itp.net/business/98594-mwc-2021-ibm-brings-ai-powered-automation-software-to-networking"
+    ampWebUrl: "https://www.itp.net/business/98594-mwc-2021-ibm-brings-ai-powered-automation-software-to-networking?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/98594-mwc-2021-ibm-brings-ai-powered-automation-software-to-networking?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
     quality: 39
 
 secured: "/yxZvUWPkZhiUW6wfahvdkpq8KUnM1MdZnwupxV4X/38j9vnwxJ3icZ4OxmBZOjOry3Zz6duYb3adqo2aeuVgFkYVS+Tg2FGC2L/a13cQeXt9PAUIxE+GFJUrfppZg89StfVwFK5+5ygqe5bBwTh//INGfT83NiGaKp/hmiNeSJEyC1IQRzeVFQS9u/o4RrBqZ/0vnGZO9e/Re3VOXBiHVVS9SeoQJhgkJa7XSH3aK3qSOx4FBPYtz66zsYAFaSzHdN0FHR7rEHlnAlJZNBRbdX4xR5ZOWxfdmIrmKztvMyVkYYZYWGGbRuEoVee4cg7C50nB6VILurSlGDsv1BNQR1q3mNocS87nCzrNCiMI68jRx0mcGfb4jQwv4GJ92RgQKKrLLgSuh8IvTiOKaf3k98IMVSBnUqrmrz/4UQIZtbtcHrmxi2Uy93mgn4IwWaRRU9nTgWkY4sL1UXGlMD1c+cCQ4f9tMAwSESwzMLeI8Mg5sCTaK6I1ZapSU2OBVldfOKUApfig33EJtXmimPIhw==;XXhqGAyC2ieMwkMAXd/HXg=="

@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
-    excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
-    publishedDateTime: 2021-06-28T14:22:00Z
-    webUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/"
-    ampWebUrl: "https://innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/ibm-ai-powered-automation-software-to-simplify-broad-adoption-of-5g/amp/"
+  - title: "Google joins O-RAN Alliance to help make AI-powered 5G networks a reality"
+    excerpt: "Google LLC today announced that it’s joining the O-RAN Alliance, a consortium of carriers and tech firms working to make the world’s telecommunications infrastructure more efficient. A telecommunications network has multiple elements."
+    publishedDateTime: 2021-06-28T19:11:00Z
+    webUrl: "https://siliconangle.com/2021/06/28/google-joins-o-ran-alliance-help-make-ai-powered-5g-networks-reality/"
     type: article
     provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
     images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
-        width: 800
-        height: 498
-        isCached: true
-  - title: "Automation Group Creates AI Strategy Board"
-    excerpt: "The A3 in Ann Arbor has created a new AI Technology Strategy Board comprised of leading experts to promote education and adoption."
-    publishedDateTime: 2021-06-28T15:48:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/automation-group-creates-ai-strategy-board/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 37
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/06/Automation-800.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
-    excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."
-    publishedDateTime: 2021-06-28T15:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2021/artificial-intelligence-strategy-board-a3"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 34
-    images:
-      - url: "https://www.automation.com/getmedia/822abcb4-a88c-498d-b96f-f6ec34d06266/A3-strategy-news-June-28-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/google-1.jpg"
+        width: 900
+        height: 520
         isCached: true
 
 secured: "xBCdFrywgkYLG/3sfK++oNmEN6H0WdN+kua1aaPxNimD69aPxdV/oWnJVfnEJshTsM/utde6aMo1f8McKXzM3bDWYZHO/ha0UyTsGMx1bikZOit7RB9N+r6Mzz5ftYAsBY+GO6SByVbmaexK9CE8B89vaqcbO/gOWF8YPeDUTFtgkPsOqUKJtp38TDQfcwUjIx0CFJkGzWhkVVUsRpfMjFdNZE7cbQpmrPHE/V4QwKacUXabQwjGxtJR4PsA2kEz96Ccovn70aySzkktRbdQHgKqzIjeBB00Gt/ylPB7Q5z6iYeFVHB5Rc4de0YWtSnmQt74IKyTVXYbH5B1YwG3YsqT1ppt4YqIYUxIYmSty8cJVCfkZydEZ0E5mnOmBCdoOriWje65xt1OSchzemaCJtb47UPmEzxKe9osaLjU+CQ26YSllRjMLJcUUGmOGZmuUb/qjPHrfJaNGdGhcR3PjP8hrz73ckHjWf1lkGAA2VlmNy/0LOPOFeRuy0qtditOarCnfJiHzVDW5udvP9DWJg==;qXJg+2WOMl06EEJWN2oSmw=="

@@ -72,6 +72,17 @@ related:
         width: 1598
         height: 900
         isCached: true
+  - title: "Bringing AI into your IT operations with IBM Watson"
+    excerpt: "Of course, there will still be situations that cannot be prevented and in these situations AI can be used to resolve the issue quickly and reduce the downtime. IBM Watson AIOps uses feeds from a ..."
+    publishedDateTime: 2021-06-28T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/kLgB1Me8AGY759N4"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/kLgB1Me8AGY759N4"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kLgB1Me8AGY759N4"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
   - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
     excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
     publishedDateTime: 2021-06-25T13:47:00Z
@@ -113,20 +124,6 @@ related:
       - url: "https://www.cs.cmu.edu/sites/default/files/web_Traffic%20Jam%20Visual.jpg"
         width: 600
         height: 331
-        isCached: true
-  - title: "Startups using AI to tackle malaria, mental health and human trafficking take top awards, and cash, from IBM XPrize"
-    excerpt: "An Israeli startup that uses artificial intelligence and other tech tools to wipe out  A digital health company focused on clinical decision support in mental health and a startup using AI to help law enforcement battle human trafficking also took home top prizes."
-    publishedDateTime: 2021-06-24T19:20:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/ibm-xprize-startup-winners-using-ai-to-tackle-malaria-mental-health-and-human-trafficking"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 19
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1624551395/ZZapp%20Field%202.jpeg?5Aw.nNraUzH7eq03i3MNs7xOOL4GGhzK"
-        width: 1600
-        height: 1200
         isCached: true
 
 secured: "20dA1yoXZoZpGVH5dHG8mZhLtlVLYCxOJKlZ/XFZVn53uQxF3iti9m09IcFRj/Lt1eSJ2oSRQNKbhjZmO3WYlYt7M7owS88Gz3Ruzmws1gtRZOC3SNHY5MhZuXcXYQA0/qI4ZMCVwz3IhaSrPk0HK2mv4ePxJGLO3mN0W3NeeKtvk2vFb+naPLn0tRrpP8YYNbGjUheavGDm/uUqrlXBadDz3dkQBCX5LUJyQ7hkSA/d9hp9ZmZx0+kEOPcpSfLcZyJdusPDHdy/Q6+gBNyak/QxJzqQRCnOi5h7ijE7J/aoTEWJkCyfuYHL014PBCWEwcxTbJGq8c1WrWF/L+7z1HZODSfkjT3+peJuimNKy0VwaGVdjE4MitQi2Zyp9kkLRBHVObf3NcRMW6aCEMZ3rRgmkIuRNIOMpg+BMsnie2afrF0jxSnkMs5yuA4PRsOIo0JdxzEWkNysfULUSl5KB7SrsK7LKXVMB5v3n17quR/WLU6W2xfIa7E7lRarWcjWeHLAPUEzPCicEN114mwMDg==;3Z+SyIQrIo4KMPTWyoLOOQ=="

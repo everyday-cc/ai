@@ -2,6 +2,126 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-usaf-and-industry-research-cognitive-algorithms-for-contested-environments.md",
+      "title": "USAF and industry research cognitive algorithms for contested environments",
+      "excerpt": "The USAF Research Laboratory has picked Black River Systems as its industry partner to research and develop prototype software and hardware for the Cognitive Algorithms for SIGINT Contested and Degraded Environments (CASCADE) initiative. Work on the $11.97 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
+      "originalUrl": "https://www.shephardmedia.com/news/digital-battlespace/usaf-and-industry-research-cognitive-algorithms-co/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.shephardmedia.com/live/default/media/cache/images/images/article/USAF_ISR/9d427340395e3be5e6716eea9605f135.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shephard Media",
+        "domain": "shephardmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-already-are.md",
+      "title": "Microsoft tasked with making Messi and Hazard even better than they already are",
+      "excerpt": "Azure Machine learning will enable an enhanced OTT streaming platform that features personalised recommendations and enhanced experiences with relevant content, games and services. The Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are",
+      "originalUrl": "https://www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/software/98051-microsoft-tasked-with-making-messi-and-hazard-even-better-than-they-are?amp",
+      "publishedDateTime": "2021-06-04T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-04-beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsofts-time-of-flight-technology-and-azure.md",
+      "title": "BeeVision, a dimensioner provider, adds exceptional accuracy and reliability with Microsoft's Time of Flight technology and Azure",
+      "excerpt": "D depth cameras have recently become the sought after technology for dimensioning systems and solutions that recognize parcels and pallets, yet accuracy remains a key challenge for these solutions. BeeVision,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/beevision-a-dimensioner-provider-adds-exceptional-accuracy-and-reliability-with-microsoft-s-time-of-flight-technology-and-azure-1030494383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
       "title": "From low code to no code: Azure GPT-3 and Microsoft's Power Platform",
       "excerpt": "Microsoft is turning low code into 'don't write code' by taking a description of what you want to do and writing code snippets for you.",
@@ -1215,138 +1335,6 @@
         "Machine Learning",
         "Microsoft AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-google-uses-io-to-flex-its-ai-prowess.md",
-      "title": "Google uses I/O to flex its AI prowess",
-      "excerpt": "AI announcements at Google I/O last week trigger discussion of Google’s position vis-a-vis AI services at other cloud platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
-      "originalUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://diginomica.com/sites/default/files/images/2020-03/shutterstock-Merydolla-395593495.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/google-uses-io-flex-its-ai-prowess?amp",
-      "publishedDateTime": "2021-05-26T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void.md",
-      "title": "One year after Amazon, Microsoft and IBM ended facial recognition sales to police, smaller players fill void",
-      "excerpt": "Dozens of smaller facial recognition companies have taken over for Amazon, IBM and Microsoft in providing police departments with tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "originalUrl": "https://www.zdnet.com/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/one-year-after-amazon-microsoft-and-ibm-ended-facial-recognition-sales-to-police-smaller-players-fill-void/",
-      "publishedDateTime": "2021-05-25T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-microsoft-corporations-msft-management-presents-at-jpmorgan-49th-annual-global-technology-media-and-communications-conference-transcript.md",
-      "title": "Microsoft Corporation's (MSFT) Management Presents at JPMorgan 49th Annual Global Technology, Media and Communications Conference (Transcript)",
-      "excerpt": "JPMorgan 49th Annual Global Technology, Media and Communications Conference May 25, 2021, 02:10 PM ET Company Participants Alysa Taylor - Corporate",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "originalUrl": "https://seekingalpha.com/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4431268-microsoft-corporations-msft-management-presents-jpmorgan-49th-annual-global-technology-media",
-      "publishedDateTime": "2021-05-25T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

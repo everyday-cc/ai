@@ -1,68 +1,156 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com 's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
+excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
 publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-/article_24526b40-ba6d-54a0-91ac-3bb7b0ca1069.html"
-webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-/article_24526b40-ba6d-54a0-91ac-3bb7b0ca1069.html"
+originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "Microsoft deepens its presence in healthcare: A timeline"
-    excerpt: "From acquiring health IT company Nuance for nearly $20 billion to hosting EHR networks on its cloud, Microsoft has deepened its role in healthcare. Here are the tech giant's moves in healthcare in the last year: June 30,"
-    publishedDateTime: 2021-06-25T18:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-deepens-its-presence-in-healthcare-a-timeline.html"
+  - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights"
+    publishedDateTime: 2021-06-28T07:12:00Z
+    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 104
+  - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
+    excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
+    publishedDateTime: 2021-06-28T20:10:00Z
+    webUrl: "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/5.jpg"
-        width: 400
-        height: 300
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
-    publishedDateTime: 2021-06-28T12:47:00Z
-    webUrl: "https://www.finanztreff.de/news/business-wire-oags-flight-info-api-now-available-in-the-microsoft-azure-marketplace/25165648"
+  - title: "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide."
+    publishedDateTime: 2021-06-29T07:44:00Z
+    webUrl: "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
+    ampWebUrl: "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
+    cdnAmpWebUrl: "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who"
     type: article
     provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 42
-  - title: "7 big ideas in healthcare innovation"
-    excerpt: "From their thoughts on artificial intelligence's potential to transform healthcare to how to better engage patients digitally to what the hospital room of the future will look like, here are seven quotes about the role of innovation in healthcare that hospital and health system executives shared with Becker's Hospital Review in June: D."
-    publishedDateTime: 2021-06-28T19:53:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/7-big-ideas-in-healthcare-innovation-2.html"
+      name: medcom
+      domain: medcom.id
+    quality: 66
+    images:
+      - url: "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640"
+        width: 577
+        height: 433
+        isCached: true
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
+    publishedDateTime: 2021-06-29T11:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
+        width: 800
+        height: 434
+        isCached: true
+  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
+    excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
+    publishedDateTime: 2021-06-28T14:50:00Z
+    webUrl: "https://www.miragenews.com/who-guidance-on-artificial-intelligence-to-586291/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 48
+    images:
+      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
+        width: 771
+        height: 420
+        isCached: true
+  - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
+    excerpt: "Artificial Intelligence (AI) holds “enormous potential” for improving the health of millions around the world if ethics and human rights are at the heart of its design, deployment, and use, the head of the UN health agency said on Monday."
+    publishedDateTime: 2021-06-29T10:45:00Z
+    webUrl: "https://www.indiablooms.com/health-details/H/9857/who-guidance-on-artificial-intelligence-to-improve-healthcare-mitigate-risks-worldwide.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 48
+    images:
+      - url: "https://www.indiablooms.com/health_pic/2021/b2ee5bce5a7997227b583979edf5b1bb.jpg"
+        width: 800
+        height: 362
+        isCached: true
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics"
+    publishedDateTime: 2021-06-28T12:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/maximise-benefits-of-ai-for-health-minimise-risks-who"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
     quality: 39
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/63a85dd6735270f10a5cb0b17b285dfd-3.jpg"
+        width: 400
+        height: 231
+        isCached: true
+  - title: "WHO cautions against overestimating AI’s impact on health"
+    excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
+    publishedDateTime: 2021-06-29T09:22:00Z
+    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2018/03/AI-brain-cloud.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "WHO report warns against overestimating benefits of AI in health"
+    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
+    publishedDateTime: 2021-06-29T08:35:00Z
+    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
-secured: "TA/Bkj2gwfW5D6mMnipe/NKlW0Zl9u5YMsg6VCKoGiL1So2T9A9cwiJcwkZ3DwtcvcoQynd/h9yaJKGvHn970jxKKoEMSVbyLd6mivu1EcQ1A3zljzUi/ThkwDBJoIYv79gTVW9ORyCzxuH3Gl/mXAlUPG0P8tv0VAPD3ubobgn8XtZJFJeEi/FDkW0XncBuFot6YsNItl1g0E423ycDV0+vSlWX18Gyi1J7RvuYYCkQMkkJFg9KFgzNY1WkBgS7wqiwY2Ol8LYLzT2bQWnRkxXnz9MZfYv/n3LlGGIvsR6T+BK6JfJmqt1B0MRJ05pe/LDf7X8ZcfQDczctDM6TWLUpWivSqssCvxwm5vUDO2Y=;euo84cbgPr/10wf0rOS2yw=="
+secured: "SO6r1Z34OT05hd2Xv8nSOXPe7Sdr6TYaKim8HY4FFSIoNahlBqeBZkLE72idswa4xZyDc6mNGTwYEBnDVYNsF0vsmPu/2RIjIYIm5EYV+UnV1BW8c6BGvLgMPP837e8S7eG5z3s8WpoiNnptlsiYrYrd0ATmSBuordgQLTmPAmkXn9laJL8JrwQHsOtZcTNPKJyJvP9nAsAOL4iy6GB9CLVc+cbawsDb+uLvqC0f+J1Kufxkvggx3M7BN2OUjrL2a/2Omc7BINTWvJkGLBbkouQXqdf2z75kNRDinDThO9L79JX9TL9qiyAsHA6ewW24c8CeJIDLolykkcwOW2FeBad9TdS3TKE6ow2Uc7yr7RA=;37dEASDeuU/+Cq1jJoP9YQ=="
 ---
 

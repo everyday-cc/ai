@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Google Visual Inspection AI Augments AutoML To Detect Defects In Manufacturing"

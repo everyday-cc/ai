@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Cybersecurity Startup Illumio Raises $225M At $2.75B Valuation"
-    excerpt: "Cybersecurity startup Illumio, which offers Zero Trust products, has hit a valuation of $2.75 billion after reeling in $225 million in a Series F funding round."
-    publishedDateTime: 2021-06-24T20:06:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/cybersecurity-startup-illumio-raises-225-million-dollars/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/Illumio-investments-Zero-Trust-cybersecurity-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "vfZv4NvmFXkZussbYqRUm0pHg5THn85B+cGpMHIyxujwbjor3F5ECRAIa+rVD76GAMaenCXlrAChf1tZcJZiCddhWXjWSN0t46Cll1rx1fESC6FtGnK+DTAUEqqt3XDjgn/yqmurNyHCsbKfxAW9eAYhNw59+b+2OjfzDuNNfW3L/oTY4SoaJnm+uMLGFqDyFID7aTk1SwunEaqvw/JAup/xKskfmNd9eLxVUMG5h8QrxJyVt/LIL3NKN4EzWvkJg8AjNBZFGt0K8Q3JSqggRimaACBdREfg4AaknLryHLVv5OuoyYx6lFZjqB5b6332mWmXtRPdApxlwy9C5JmvIgoHntfRBDaVWPTspX1nGu4Lir1xMsL7FPpspb//iXQUicsI+rjnmeww1AsMfLU5kQk2qO6JEic9G54437er/jvJ8ZXAgAvN1aYn8D8jbBFaT1JBQVX0KknzswI1uDiXIVJDoXVoEkqYFg/gGvhNPNrIgm9GQfMjFMbqCN8Ov8STzpps8WyLC8/gyrgSm3w7+A==;Ws6fcrB1zNSGRBFhFRdRuA=="
 ---

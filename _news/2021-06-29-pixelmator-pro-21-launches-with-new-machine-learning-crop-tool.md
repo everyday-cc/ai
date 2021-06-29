@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/21/06/29/pixelmator-pro-21-launche
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/06/29/pixelmator-pro-21-launches-with-new-machine-learning-crop-tool/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pixelmator Pro gains a crop tool powered by machine learning, and more"
+    excerpt: "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on."
+    publishedDateTime: 2021-06-29T12:57:00Z
+    webUrl: "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more"
+    ampWebUrl: "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 74
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg"
+        width: 800
+        height: 468
+        isCached: true
   - title: "Pixelmator Pro adds machine-learning powered cropping tool, redesigned Paint and Type tools"
     excerpt: "The Pixelmator team today released the latest free update to its image editor for Mac, Pixelmator Pro. The new update includes an ML Crop feature which automatically suggests a refined framing based on the subject in the canvas."
     publishedDateTime: 2021-06-29T09:58:00Z

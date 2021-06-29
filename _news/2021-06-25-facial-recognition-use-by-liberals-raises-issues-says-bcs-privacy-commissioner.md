@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.h
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html"
 type: article
 quality: 68
-heat: 128
+heat: 108
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
         width: 660
         height: 300
         isCached: true
-  - title: "ITL launches USB device for facial recognition, age verification"
-    excerpt: "The edge solution converts any USB camera into a smart camera and is an inexpensive way to realize the advantages of biometric technology."
-    publishedDateTime: 2021-06-24T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202106/itl-launches-usb-device-for-facial-recognition-age-verification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "Corrective to June 24 story on Liberals use of facial recognition technology"
     excerpt: "The Canadian Press erroneously reported on June 24 that the Liberal Party of Canada consulted the federal privacy commissioner on the use of facial recognition technology. In fact, the party says it consulted the public guidance from the commissioner on the appropriate use of the technology."
     publishedDateTime: 2021-06-25T16:43:00Z
@@ -84,22 +70,6 @@ related:
       name: National Post
       domain: nationalpost.com
     quality: 36
-  - title: "B.C. privacy commissioner considering investigation of Liberal Party use of facial-recognition technology"
-    excerpt: "B.C.’s privacy commissioner says the use of facial recognition by the Liberal Party of Canada raises privacy concerns and he is considering launching an investigation"
-    publishedDateTime: 2021-06-24T20:22:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/british-columbia/article-bc-privacy-commissioner-considering-investigation-of-liberal-party-use/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 27
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/gdZLmTqQH5ZX8Bzxt21XRnn0P1Q=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OQSDFMKXJVNDVCJ4XQLDA2GQOQ.jpg"
-        width: 760
-        height: 481
-        isCached: true
   - title: "NDP highlights concerns with the Liberals use of facial recognition technology in letter to Privacy Commissioner"
     excerpt: "OTTAWA - The NDP’s Critic for Ethics, Charlie Angus (Timmins- James Bay), has sent a letter to the Privacy Commissioner of Canada, it was discovered that the Liberal Party uses facial recognition technology in local nomination meetings."
     publishedDateTime: 2021-06-25T18:19:00Z

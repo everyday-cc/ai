@@ -322,6 +322,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-26-aerospace-robotics-market-professional-industry-research-report-2027.md",
+      "title": "Aerospace Robotics Market Professional Industry Research Report 2027",
+      "excerpt": "Aerospace Robotics Industry is going to play an increasingly important role in the coming years, Market Predicts High CAGR between 2020 and 2027. Breaking down the global trend Aerospace Robotics Market currently leading in Europe,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
+      "originalUrl": "https://manometcurrent.com/aerospace-robotics-market-professional-industry-research-report-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstypical.com/wp-content/uploads/2021/06/Request-Full-text-report-sample-copy.png",
+          "width": 772,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-samsungs-latest-robot-vac-uses-ai-to-recognize-small-obstacles.md",
       "title": "Samsung's latest robot vac uses AI to recognize small obstacles",
       "excerpt": "Samsung is claiming a few world firsts with its latest robot vacuum cleaner, which was originally launched at CES 2021 back in January. The Jet Bot AI+ is said to be the first to feature an active stereo-type 3D sensor for object detection,",
@@ -1351,58 +1394,6 @@
         "name": "BCG",
         "domain": "bcg.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
-      "title": "Last-mile, landscaping and leaping robots",
-      "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZtlRVO8fpE0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/robotics-roundup-16/amp/",
-      "publishedDateTime": "2021-06-17T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

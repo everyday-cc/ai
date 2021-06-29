@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/375919"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/375919"
 type: article
 quality: 87
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     width: 2000
     height: 1335
     isCached: true
-
-related:
-  - title: "What government CIOs need for AI to succeed"
-    excerpt: "He currently serves as the government lead for Intelligent automation for KPMG in the U.S. Federal and state government leaders are witnessing the expansion of artificial intelligence all around them."
-    publishedDateTime: 2021-06-24T19:30:00Z
-    webUrl: "https://www.fedscoop.com/what-government-cios-need-for-ai-to-succeed/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2021/06/KPMG_Header.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "WHO report warns against overestimating benefits of AI in health"
-    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
-    publishedDateTime: 2021-06-29T08:35:00Z
-    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "DqN7C5oibfwSDrXidX8EhgzZohRR6mjf2oourPSUnfbNZ4MUBEEnvujTvIlDvCaxQikFjEoUNli6EMZNaPfLvJduIXP94P3YNZZQxsk0aLqfEsXXxZu1nF2NGD5Nob/NGLv0JDBNWG09sT4I5f/uAS6mz2Gv8PapoFm5eIzTz7WKNq1vCRzji1nUNMRLrFRPxPv9qTJoVBrOh+ME9Ti4n/Z1X/bbfc+M3xDsPRB3rsGXzzxIeHBQGPd536QgQK89Jk556Qf7ZH/caP3RZZ40BekNrybpqouT7JIHCihgeA6UAcIfbM7C1nNbu/4mNmUNTm9cJxIrDsowFC/EZrb0kd+XzmeYPPKNETwclBH2MP7C1MG9BlcXHLxzYZcH/NShEpvDW6HCXtlq1M4+wYofLtXn0+4yrMFN9fUPF64TZM/JS+iCVn6dDwulq08CNEZnEiL3OaeDcOwRFWiObVcWY8im8BMM50LMGE09VvI5zZYgwJsGF61qAX64kwwEjUm3VzLsshBe6WJm3hQU5QnVHg==;DtUkDopKTGxX6fVLscQl7Q=="
 ---

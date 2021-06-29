@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Cerebras Systems Makes Boyden First General Counsel"
 excerpt: "Artificial intelligence company Cerebras Systems has named former Broadcom Inc. lawyer Rebecca Boyden as its first vice president and general counsel."
 publishedDateTime: 2021-06-28T20:24:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
+originalUrl: "https://news.bloomberglaw.com/us-law-week/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
+webUrl: "https://news.bloomberglaw.com/us-law-week/ai-startup-cerebras-systems-makes-boyden-first-general-counsel"
 type: article
 quality: 37
 heat: 37
@@ -39,6 +39,6 @@ related:
         height: 2638
         isCached: true
 
-secured: "uixuFpaoJB5Qcdt1JcdEJIs9B515/QTI3MT6/fXsQswBK4K/kPsI5ZtLIPoHGsECsCUbNN9oRDOmvjP13paJfepSOguokX5ila7YH7yMX9/dlhdu3akfolQ2R2AmZtA5IP3xL0bXaJUBQ4BQ2AQ4CQtiCF5WDG3FQD9GJyU7Wwt1DVB7O5lEqAZXZrPWyPkszRhQmnfJrD8jgA1gFRpIipZ8M2f8bDnRKIExynugJM1W2aOZ5RKmpa+ZRw3V2lUbeBa9KCiNf8rTReHPqSxyl3qsiom76s7HoNVHfe4B/a+7qecLdUUFh2tS353/R4cboS2HIIqWxP/prVCRD8J7r9WVk9yVOnTzXezX8y4xMVZzqlbjshcY3dMQOi/Kbh9URvPmzMZCt5A23ExxTOoI9MZT0ttDAuL6Uicf8idMg+rVlaJXV5RT9P4Urfl8520PfoaNKvBC3hoXaaGfyJfdlv8mrF5xS5IbCDhJqDIRrvOfPh8U6BzT4KkJEoi9VuGtjwQls1sYKiAheLkSc70IEA==;Nzb2S3C9ufaa8jAGppqJQA=="
+secured: "Wv4GrOwTzbacsF7SlTGDMm1/QtFQrRffws3/KbMEoMeleWEJcFCCW0FS0NSQUCW3cYG+2+OIu9aaT6vc71mG+FS7lBIA+rFYU8Y+lnDJigMimYlz3CH+J/Fx1JGu7YhZcH/hOsXqrhfLq99TBFdPGShj6UkSoilzbgydIgKyH97VFsANdVhlk/9BDHnymEGg32sMkEgrVZpYmkCTtKDOal4ExUQxhpw1+sZabR5SmdgynhYpGriB+Xvh+G85DrLwMlQASpNuJNX98tMHrvcRfY52V0gJy6gUZs1hYIIbPsHEAqIMHEoarHq4snmbZ51MaXOs0ZNzk/p6CnFe3AQ8c597/458en9Uma3KKcYtIKQ=;hhi1n7Zw27jq5IGmgKPR+A=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeepMind AGI paper adds urgency to ethical AI"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-06-27T09:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "DeepMind to use AI to tackle deadly parasitic diseases"
     excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
     publishedDateTime: 2021-06-27T13:22:00Z

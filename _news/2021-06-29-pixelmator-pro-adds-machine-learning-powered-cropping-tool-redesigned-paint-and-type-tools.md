@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pixelmator Pro gains a crop tool powered by machine learning, and more"
+    excerpt: "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on."
+    publishedDateTime: 2021-06-29T12:57:00Z
+    webUrl: "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more"
+    ampWebUrl: "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 74
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg"
+        width: 800
+        height: 468
+        isCached: true
   - title: "Pixelmator Pro 2.1 launches with new Machine Learning crop tool"
     excerpt: "Mac image editor Pixelmator Pro 2.1 has been released, featuring automatic cropping with Machine Learning, plus Quick Fill options, and a new brushstroke painting feature."
     publishedDateTime: 2021-06-29T09:15:00Z
@@ -44,6 +60,6 @@ related:
         height: 714
         isCached: true
 
-secured: "Y9fpiuB9/VmA9uDEZqoKKQZuV7fPkLSCz2rwGaNKtPiqiEoYtpLEnQDo7H0s0cwO+sV2IJeR1SV2pxvR8dbmQr9ruSyqWqfE/13je3+GH5MnsDg3LJGMMqqfN+z0XXzJrMVznUuWTK3OXB2TZrOPJoNJyO78H6gH6gVFdqLHf8eJ2aeY5GiJsm5v2ODolFtbQx+fPfyVWsu0PtoMIY9QJpdeaMUX1f1dCPbz6yw3jZcsXnw7KJ1ke/n4UuYARLpLlP2f31C4r50N3mGRTHksjb0SR+cxQ/xUNa9sB7YGwQqlrp78mvkNKVVB2ggHIwQIC635vECN+Gb8k0DNHZ7ioqRYPe+YgBbfgB5Y83zfGgU=;LvR7iCsn/I1E5oDCmIaRWg=="
+secured: "5An9Y9jlucS+5tGky9YtKJj6g8oIO2t7keIMoDNWlb47xLiTVVW5PIPSD3mv4SEcI/mcsMLUrsEkZnti8EkQjDB5wZ6dm4oVbegxL0/O3Y1psVn3zsWBPhVV4EtJzdppWH2KOYoAmCmOd6TcxnmMRdMIs/idspw9tbEYQA1RsLFElxs1gE5rDHDVKv6VenjXXHWTACJ9PHOB3YrDND6Y17ZNJHw3H6Q4dV06T798CHdj8tEa9DgpXf91wJkZSdYtEA3iraOytQRoD2sLtX4tymw6iEzJl3xJaLfn7mjs+sJzpfJPgMc+P50AzW0OXajjOokmUxpFcyMizif5MdsDAfkqE+ZwEdiKQ2GIw7w/Xh/GoW+RgxJEGZ3IvV6LI9/PFGKeSUvM7tKNGFbLhX1tKpztFHPYO+gQdEFqRIKK9q+l3UyO4Fys1B/P7n/4oeV73hPjvRI4af4R4pgwUaHOS0h6iKm+icKA/iLRAE5Fe5wzhnOHmfwVyPHe4dUjnR5ZZUaBiAwxwNTlblXHB/zYVQ==;WWHah3TkJcGTY1XdrGWIBQ=="
 ---
 

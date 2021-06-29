@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-deepens-its-presence-in-healthcare-a-timeline.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
         width: 800
-        height: 600
-        isCached: true
-  - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
-    excerpt: "Partnering Terms and Agreements 2010 to 2021\" report has been added to ResearchAndMarkets.com 's offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world's leading healthcare companies."
-    publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://www.register-herald.com/region/global-artificial-intelligence-in-healthcare-deals-and-agreements-by-leading-players-from-2010-2021-/article_24526b40-ba6d-54a0-91ac-3bb7b0ca1069.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600"
-        width: 600
         height: 600
         isCached: true
 

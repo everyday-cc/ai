@@ -26,6 +26,22 @@ images:
     height: 274
     isCached: true
 
+related:
+  - title: "UK SME fintech platform Tide forays into India, commits $100 million investment"
+    excerpt: "Tide on Tuesday announced its entry into India, committing a Rs 1,000-crore investment over the next five years."
+    publishedDateTime: 2021-06-29T12:38:00Z
+    webUrl: "https://www.cnbctv18.com/startup/uk-sme-fintech-platform-tide-forays-into-india-commits-100-million-investment-9818381.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 20
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/10/2018-10-10T041821Z_1_LYNXNPEE9909D_RTROPTP_4_INDIA-ECONOMY-RATES-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+
 secured: "YbHNe1WDItIhroPEgJkieYsw6+ZgQ5MAG6RAG48M2L4pmq960LHNYCkKURaohhWKLAZPYH8mGAn+lmYcM1fXUs9gpqtIsDJ7/UeOJjdXkjTxcWMQlpZ0AUOvMq2sBtyA/JJHwRXR73ZtP0lNjmwo7NT41yyjwyI5AmoJRwhnjlxmWKW3ldwDYhmnx+EZwYuPWyTOpM3P7GDEDbysWEF2l5OUvjVO7Xsws/t8ysQP03wQ4733alJgE/PA5lOrPkda/xV0/d4Nefg6A10v9EEwve1sN5itGFZT2SxYfYMTqK6CrdF8E7MoobRGtS5kvyXZLl4RLg2KQ0KyKpH0r/D9CDHsZngCSZIrzjlbJfklBPWSbhsZz8OWmYrcydnoTem4tst/QcMOclzL9n4o5pZ+vYmjEpdoI2QpNmyX0el5prNN0aX3r5a86vL1aKRlGXf1kdI2O8COjuW4OyQd6mk6jJchnq0vvjgDs+QmP25SjPjNBoeA9oyvzp/nXyL7mkKOUrNVyijgi5/AHlEvwRthiA==;QQgRnLeeUNg++crigSsjCw=="
 ---
 

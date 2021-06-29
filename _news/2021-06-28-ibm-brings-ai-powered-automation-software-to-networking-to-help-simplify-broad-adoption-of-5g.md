@@ -116,6 +116,17 @@ related:
       name: TV Technology
       domain: tvtechnology.com
     quality: 39
+  - title: "MWC 2021: IBM brings AI-powered automation software to networking"
+    excerpt: "Cloud Pak for Network Automation is designed to help service providers improve networking and deliver new services quickly"
+    publishedDateTime: 2021-06-29T12:45:00Z
+    webUrl: "https://www.itp.net/business/98594-mwc-2021-ibm-brings-ai-powered-automation-software-to-networking"
+    ampWebUrl: "https://www.itp.net/business/98594-mwc-2021-ibm-brings-ai-powered-automation-software-to-networking?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/98594-mwc-2021-ibm-brings-ai-powered-automation-software-to-networking?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
 
 secured: "MZa1Cp9CIX0t3H2lmF1XLBM9AM/6nRui6XRV3bVdVqEBLAEa/kXYpUqnL7isRPlfymtzSvH5K5LUUwGfp0ekg70ZToXLvSABb4bslbqSTvlAZA/tgKfhvmCWe2eqjgx4UkdJumTyHk6Vbx/0WbZMDcCsi251jjP3t3srrfp3cOT6qWxVCZCkAfLGH7RY+mz7hGfm9yaE5lxXQ8k4bHV0qnQrXOJeYE2dwCZAZX5w+WDqwjhaTMWUuNjnFLt0AIbeHrmHFdo89gf/jBlp3dfPicRXursmQmul/wkSu/v240pIUq0GjXA0aUFrEXZhNWax8PZfc4h0YhKcsk9AcjgfTpMmQylNVk5vagNd4S4S2xr2ipKDWLGupgbJybdb0Hm/eJBAYaOLMInW/q46AxzXy3GfTXdwpHCRboum7+atiguPCPJZ+Xj3AbU7A6uDapFB9DvuQg0c1nlzqOcneazlDOoC/MHtF/u5ecC9T/o9+slq5IAzMPimTbZHdUBsT5G6jf7rWnpw0xU+DzyOReQPHg==;vGBmlkP/q8V1sl0KSbSPDA=="
 ---

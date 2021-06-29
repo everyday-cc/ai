@@ -39,6 +39,34 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated ..."
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:00:00Z
+    webUrl: "https://www.pr-inside.com/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-r4836839.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Saphyre,"
+    publishedDateTime: 2021-06-29T12:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270099831/symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre--and-post-trade-solution"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 25
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1624852505538.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Fintech benefits consumers and intermediaries"
     excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
     publishedDateTime: 2021-06-28T10:59:00Z
@@ -67,6 +95,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Symphony Communication Services, LLC: Symphony Partners With AI-Powered Fintech Saphyre To Offer Integrated Pre- and Post-Trade Solution"
+    excerpt: "NEW YORK, NY and LONDON, UK / ACCESSWIRE / June 29, 2021 / Symphony, the leading financial markets' infrastructure and technology platform, has established a strategic partnership with fintech firm Sa"
+    publishedDateTime: 2021-06-29T12:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-06/53277826-symphony-communication-services-llc-symphony-partners-with-ai-powered-fintech-saphyre-to-offer-integrated-pre-and-post-trade-solution-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "EN/du4Meih0Ah6MWJGnF87qublqho1tkB1qc49ZHupZim+95uz/HwrvFsY5QX9FqTLfa9qIHnQENM1PsWNqIGx2AQ0ucilUYiRXbIzv77CVxmXaKxoRfw7w8vWDRAEOsfkcb1AIk8vX4BdHAXZZI0YdrQl5bMTPTk6CCd12ivjy0FGbMHoGyRQxn1rcgb6c3UhaP2TacnsmvLplykzaODOP5eY8N9FBdV3PeQnXwYuEWmJ48R58Sje6lgM1CXHZRrXTOnRQl/N+I7SJOqAlCugzP/Aw+BEflBNH44tLt4quSQ26F6TguPEeTWHm0piHsI3YGgAw/aDdveoUimeA/ZuFQUbBC+cofQaJLjBt8ZOA=;e08m/r4RFKySFCCM1Yn95g=="
 ---

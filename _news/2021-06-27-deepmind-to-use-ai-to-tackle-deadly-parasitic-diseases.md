@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeepMind AGI paper adds urgency to ethical AI"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-06-27T09:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "DeepMind Taps Into AI To Speed Up Drug Discovery Process"
     excerpt: "However, drug discovery and development for the disease has been slow for reasons including lack of capital, the complexity of the procedure, and the time taken to determine the protein structure of pathogens."
     publishedDateTime: 2021-06-28T06:30:00Z

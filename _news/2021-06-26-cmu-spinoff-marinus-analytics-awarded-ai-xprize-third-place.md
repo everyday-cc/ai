@@ -85,6 +85,17 @@ related:
         width: 1598
         height: 900
         isCached: true
+  - title: "Bringing AI into your IT operations with IBM Watson"
+    excerpt: "Of course, there will still be situations that cannot be prevented and in these situations AI can be used to resolve the issue quickly and reduce the downtime. IBM Watson AIOps uses feeds from a ..."
+    publishedDateTime: 2021-06-28T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/kLgB1Me8AGY759N4"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/kLgB1Me8AGY759N4"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kLgB1Me8AGY759N4"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
   - title: "Israel’s ZzappMalaria Wins IBM Watson AI XPRIZE Competition by Helping Eliminate Malaria"
     excerpt: "An electron micrograph of red blood cells infected with plasmodium falciparum, the parasite that causes malaria in humans. Photo: Wikimedia"
     publishedDateTime: 2021-06-25T13:47:00Z
@@ -112,20 +123,6 @@ related:
       - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/06/25/screen-shot-2021-06-25-at-35916-pm_zezLbll.png"
         width: 600
         height: 375
-        isCached: true
-  - title: "Startups using AI to tackle malaria, mental health and human trafficking take top awards, and cash, from IBM XPrize"
-    excerpt: "An Israeli startup that uses artificial intelligence and other tech tools to wipe out  A digital health company focused on clinical decision support in mental health and a startup using AI to help law enforcement battle human trafficking also took home top prizes."
-    publishedDateTime: 2021-06-24T19:20:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/ibm-xprize-startup-winners-using-ai-to-tackle-malaria-mental-health-and-human-trafficking"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 19
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1624551395/ZZapp%20Field%202.jpeg?5Aw.nNraUzH7eq03i3MNs7xOOL4GGhzK"
-        width: 1600
-        height: 1200
         isCached: true
 
 secured: "1TPjZdMDBFh0aTc9nUDSBT+fEqvYYWWr3ZOKRAiL7dHtjTiaufhY4rFTCmSNPzp6KV+3uUdHxFMFS51yKCmdha8BdowvUmHZIWEQ8QhxZDFTkk1Rkzu4HhTr+9kD9g/EAgTyU+5Zo98gMPvbbZcBAeNIxIP/r8no2I+U9DNTe93zbyPHwA0khty0jEv6SauGIdXk/vXi64dnWxWHZZkwNgad3BhPv+qFuTU3S0WiaiT4HwOSBXArQEG4n8i40HA/KyqF1edkwkIjyJRRZf4eR9w29jS01mmwdGrY7G2niyli+fnYWpDSXRdu9kZA66gzWAzw5GYQHNqa/QnSOm/81DgHIVg1ZSUORni9759WH0kkh7X4Q/+v5+oDRMx+QMdhLy97DqcS+z/azQ+GIzmOTVrpTU37exB6+ht0MHSQPjRf5EZTxJgjqs55rUiIigAgI3EWU1RnuwOnWAlirPYExoOFi5Sb3+TO7EOoH6tQjmMtbwzjZW4yi8/Mwh95J6XXeZ4B2fZNLSS/h9Jt8RPOTg==;pqMYVgCzlJELS0PQzmY5bQ=="

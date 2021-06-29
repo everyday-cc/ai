@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/pppl-artificial-intelligence-speeds-f
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/pppl-artificial-intelligence-speeds-forecasts-to-control-fusion-experiments/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 565
     isCached: true
-
-related:
-  - title: "Artificial intelligence speeds forecasts to control fusion experiments"
-    excerpt: "Machine learning, a technique used in the artificial intelligence (AI) software behind self-driving cars and digital assistants, now enables scientists to address key challenges to harvesting on Earth the fusion energy that powers the sun and stars."
-    publishedDateTime: 2021-06-24T20:23:00Z
-    webUrl: "https://phys.org/news/2021-06-artificial-intelligence-fusion.html"
-    ampWebUrl: "https://phys.org/news/2021-06-artificial-intelligence-fusion.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-06-artificial-intelligence-fusion.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-13.jpg"
-        width: 406
-        height: 275
-        isCached: true
 
 secured: "rOJ0LL7nMn9NUxGKBP9BVXKlJFBHfrPx6kfiA8IarpOiHhkB0tyCG689mfc2nK0Yfl6JrilXUITo2MrBjnz/sbeS+lO5eN/BBkrJXjAaZ0wHVgOqAU8PwKSdefCztg2P7lvOX+CH/IMCqMLBfYQTB5bujRBO/JZnLLSXIevM0Ncyydh9mWZOQQ7kqPoC+yIDWSBugfzX0GUElpbyRxdmNp+LWnMEZpFu/ScPq6PR9W+t7n+LZjNeFzg0G9lFMrLUPho2CGFo4uNHvXjSsRK37+sZRH3umGxFi5S5jvdBoctKanhJszArrsU3TSXP3WdyVwD0MZCbQ94AInrjCLuKiRMW8rIzaTP7sr0ZEqHM9I4lu8wcFnthETQr7o+d5GdSD1m9X9ApLRNkdpMT+DPeEM4AwSqFI3fgjr+3y3SzkWsfrm17D0PdInltozchrh7LccDruTK1avdSVTp1BHwCjb0LNRCk/WmdqYT7vDS8Y+Gcj8aafJ7jK3e2VQTjlLgSIINApZptkfmFJfEP8bcuig==;ZbEEAo3bHcrHcG9DT/PJuQ=="
 ---

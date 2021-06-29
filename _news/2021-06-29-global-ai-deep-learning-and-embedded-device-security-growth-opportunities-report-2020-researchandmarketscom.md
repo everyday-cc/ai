@@ -114,20 +114,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "BFSI Artificial Intelligence Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2020-2026"
-    excerpt: "The BFSI Artificial Intelligence market report provides a detailed analysis of global market size, regional and"
-    publishedDateTime: 2021-06-24T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bfsi-artificial-intelligence-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2020-2026-2021-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Education Market - Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
     excerpt: "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape, and the market size."
     publishedDateTime: 2021-06-25T15:41:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "The Linux Foundation Tackles Safe Open Standards for AI Voice Assistants"
-excerpt: "The Open Voice Network is dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems."
+excerpt: "The Linux Foundation on Tuesday announced the Open Voice Network, an open source association dedicated to advancing open standards that support the adoption of AI-enabled voice assistance systems. Organizations are beginning to develop,"
 publishedDateTime: 2021-06-22T15:15:00Z
-originalUrl: "https://linuxinsider.com/story/the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants-87173.html"
-webUrl: "https://linuxinsider.com/story/the-linux-foundation-tackles-safe-open-standards-for-ai-voice-assistants-87173.html"
+originalUrl: "https://www.technewsworld.com/story/87173.html"
+webUrl: "https://www.technewsworld.com/story/87173.html"
 type: article
 
 provider:
-  name: LinuxInsider
-  domain: linuxinsider.com
+  name: TechNewsWorld
+  domain: technewsworld.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://c6w8h3d4.rocketcdn.me/wp-content/uploads/sites/2/2021/06/voice-assistant.jpg"
-    width: 1000
-    height: 520
+  - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-voice-assistant-1.jpg"
+    width: 620
+    height: 360
     isCached: true
 
-secured: "SUxVRJULC/DA1dm/Y+w3+5Mn/9UF0CoOo5IcAwLkvQmIuOu0GmOIBQdkgaXIic7CtM36MsSN+3iAarhzpziuBG80+LRJAt5dOLxFjrvW7ZkvTLDW2nMSJBhAg3uMEFg4rp7/SazJsnOxdbT+WAtajVTZ+tklcJOUUxZpZGx+6GzqmPpla884WW5i9FYeY96yCF8BIkRV1ORYnqcS/jlNFcWFc1ZmUHyScKf7G+W8/foYTyZnZtnmVXyI5DTPj46cQup9uVsj3RRuWTqObFCrGZ+UJIIQ+jcCZ6ULv4Bp9gNiLcrwB9c8N2a/3oag93qdYqkOykm6lme6Dd//ayS6SLQvXUZ5cMWFjajFgrl2TyU=;mrI2vKSdb3JnKDccSRMyMg=="
+secured: "9ZIsN6s6xKrKPkIexkJ2cW1WFM9cHLiD3yJSFSvRVk5RY0U+xXYXGiDMyTZ7yiOEexJE6w2xK3S4a+oQmaaaeArEnnYZGQyPvI613FrAgVuTQr6AqWrJ5Nuw3KkkUZ6kilhzPHZxtpPwyKtGqiB4kinff5qYBAMNQ6roY8+MCDLelDRXUz9U4YcOl0GnUwpoXfqukr5JKIeXKUqrJvPe9694xR3qFD9rQIsBf5TlZ0RnBn2vIlAmBid41VcAmeYB9mkAEy92CFUSuLKpais4Y1jqM3pSTcdaHaDx6PffPn4VPxltpVxP0IUN8ld/TRHbX7hfio2ZjDXJfSzu4QKH/n6YY/hKmWfOS3YL9xvSKdA=;12sFB+yJlBZGsyquQbDlXg=="
 ---
 

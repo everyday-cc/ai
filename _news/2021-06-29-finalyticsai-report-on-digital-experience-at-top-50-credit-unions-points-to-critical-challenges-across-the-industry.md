@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "Tableau's latest update aims for AI enhanced augmented analytics, broader access to data"
+    excerpt: "Salesforce's Tableau has more integrations with Salesforce as well as Google Cloud BigQuery and Amazon SageMaker and support for Linux-based containers."
+    publishedDateTime: 2021-06-29T06:01:00Z
+    webUrl: "https://www.zdnet.com/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tableaus-latest-update-aims-for-ai-enhanced-augmented-analytics-broader-access-to-data/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/24/6d6d7271-f006-43ab-b8df-5881412a186f/ask-data-for-salesforce-2.png"
+        width: 4098
+        height: 2700
+        isCached: true
   - title: "Analytics and AI helps Experian help its customers"
     excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
     publishedDateTime: 2021-06-28T09:00:00Z

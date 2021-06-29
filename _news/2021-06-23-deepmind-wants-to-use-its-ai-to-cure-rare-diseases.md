@@ -3,14 +3,9 @@ category: news
 title: "DeepMind wants to use its AI to cure rare diseases"
 excerpt: "DeepMind solved one of biology's biggest challenges. Now it's working on using its AI to find drugs to target rare diseases"
 publishedDateTime: 2021-06-23T05:00:00Z
-originalUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases"
-webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases"
-ampWebUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp"
-cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/deepmind-alphafold-protein-diseases/amp"
+originalUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter"
+webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
   name: Wired UK
@@ -21,86 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/master/pass/GettyImages-1199508481.jpg"
-    width: 5335
-    height: 3557
+  - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-related:
-  - title: "DeepMind AGI paper adds urgency to ethical AI"
-    excerpt: "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI)."
-    publishedDateTime: 2021-06-26T13:50:00Z
-    webUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 125
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepMind scientist calls for ethical AI as Google faces ongoing backlash"
-    excerpt: "Take our AI survey to find out. Raia Hadsell, a research scientist at Google DeepMind, believes “responsible AI is a job for all.” That was her thesis during a talk today at the virtual ..."
-    publishedDateTime: 2021-06-23T09:02:00Z
-    webUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/"
-    ampWebUrl: "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 120
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI) to treat Chagas disease and Leishmaniasis."
-    publishedDateTime: 2021-06-23T13:51:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind wants to use its AI to cure neglected diseases"
-    excerpt: "DeepMind solved one of biology’s biggest challenges. Now it’s working on using its AI to find drugs to target neglected diseases"
-    publishedDateTime: 2021-06-23T05:00:00Z
-    webUrl: "https://www.wired.co.uk/article/deepmind-alphafold-protein-diseases?mbid=social_twitter&utm_social-type=owned"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 54
-    images:
-      - url: "https://media.wired.co.uk/photos/60d22392cbf316665cadeb09/16:9/w_1280,c_limit/GettyImages-1199508481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "DeepMind to use AI to tackle deadly parasitic diseases"
-    excerpt: "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,"
-    publishedDateTime: 2021-06-27T13:22:00Z
-    webUrl: "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases"
-    ampWebUrl: "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
-
-secured: "NeT9lFZXVOxyKN8PKPu9uBYcW6FG2fxCL5tD9nU2hO+B7dbl23keFQr4ihDCUpRTOh8Nr2GA9QMIUO2Q8d1ih2+aqzJiFrphboVm+a9oSQUQRgV8a/ZhzRJ8+YcmW3BGJutdhMY81WaxTptgbPZWzRUEFT9GrRbISvs7MF94LUO9KMf0uKDFOY1UthJA46i4cU8UwQ76M50X5QlzZhXtHyAvduf0BxZMonSRCcrNWszhXRPVQXcS7WqfKLpkG2yMcG76OTwyduOGUAe5AmmEmfR+0XPLIviAeTP8Zu9St0rvvKAvuiicPj1dfX23TCPzCBh80zoZo5Bcx98RaGKBDF/1x8zJIo9wvVW3p9PbHxu62UsQFLu2wpE2CbTHhs8Zbyuv3vkvQ3e3wybjKjYSsPW9rQvfhUnpf2s3TyBpMJLEde/u8bIDBLhzo6ua09AyuF4xZlbiuGvHSIqWO8L08LbV1YevLtHQsmMAaxt5qpDhdHja3LrzoqXyS9nrALgEwU1zMNAt6XogWZTekBUbtw==;wyKE8zwtzQhQIv9CH6XY3w=="
+secured: "uGYTI1C/MpiV/dGkLI4sQcXi4vZdSe+GaH3CGJ5G0/GJ7xCt5Mr5/xQ/8J4kjNBUBtCz+T5Mlt9JTFLh0aoC4OKqW9FYxKXG5SRiYwnd5a++OKSqoJ+ZerHj0toUxKXllZRZM/jiEK+k9VYEAX1I7K9mf9LZi2xYoE/+Mx0LsApzSw1BbAUxebrnCNQRE4wUUlNdg4rX33c160NvtbDJAb238oZfzboIXhmZ3K2lzbiMc7KcLB+mAwecRPXul2tw67hVVnw5Jc4UzII+rgt13Bu8nR+TCy9W8mU5X3YVsuBlkwx+YFmiVOk8oRF5osc1UiV4lKlxOOj7PPjmwpA4AHsZH2KuODDVcpy4Li7HbwU=;6If3IVpJrctiIU5kAqua1g=="
 ---
 

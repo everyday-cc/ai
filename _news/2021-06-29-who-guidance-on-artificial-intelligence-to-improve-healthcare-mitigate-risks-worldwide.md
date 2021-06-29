@@ -26,6 +26,29 @@ images:
     isCached: true
 
 related:
+  - title: "WHO issues first global report on AI in health and six guiding principles for its design and use"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights"
+    publishedDateTime: 2021-06-28T07:12:00Z
+    webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 104
+  - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
+    excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
+    publishedDateTime: 2021-06-28T20:10:00Z
+    webUrl: "https://thenextweb.com/news/who-report-on-ai-in-healthcare-mixed-bag-horror-delight"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fwho-1.jpg&signature=198a5378c62b0948b8ee4ee506cd5719"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO"
     excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide."
     publishedDateTime: 2021-06-29T07:44:00Z
@@ -42,6 +65,22 @@ related:
         width: 577
         height: 433
         isCached: true
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
+    publishedDateTime: 2021-06-29T11:05:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/maximise-benefits-of-ai-for-health-minimise-risks-who/83952033"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
     excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
     publishedDateTime: 2021-06-28T14:50:00Z
@@ -55,6 +94,62 @@ related:
       - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/28-06-2021-Unsplash-robotics.jpg/image770x420cropped.jpg"
         width: 771
         height: 420
+        isCached: true
+  - title: "Maximise benefits of AI for health, minimise risks: WHO"
+    excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics"
+    publishedDateTime: 2021-06-28T12:37:00Z
+    webUrl: "https://www.glamsham.com/world/technology/maximise-benefits-of-ai-for-health-minimise-risks-who"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 39
+    images:
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/06/63a85dd6735270f10a5cb0b17b285dfd-3.jpg"
+        width: 400
+        height: 231
+        isCached: true
+  - title: "WHO cautions against overestimating AI’s impact on health"
+    excerpt: "Report from WHO says that artificial intelligence (AI) has enormous potential for improving health, but only if ethics and human rights are at the heart of its design and use"
+    publishedDateTime: 2021-06-29T09:22:00Z
+    webUrl: "https://pharmaphorum.com/news/who-cautions-against-overestimating-ais-impact-on-health/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2018/03/AI-brain-cloud.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "WHO report warns against overestimating benefits of AI in health"
+    excerpt: "AI can help to bridge the health service access gap in poor countries, but bias, unethical use of data, and poorly trained models are all risks to be overcome"
+    publishedDateTime: 2021-06-29T08:35:00Z
+    webUrl: "https://www.computing.co.uk/news/4033625/report-warns-overestimating-benefits-ai-health"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/14da744/a6f00026-47f9-4b95-a24d-0c5e5e5ff372/5/AI-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
+    excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
+    publishedDateTime: 2021-06-28T16:53:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "qRzN5GAFF9b1R3mI9KMi58Xt5DZBSvXfZ184BapujMeKQiFWbtUh4LwZXSNkbfK28X6Ipqn0BLL3AiN3Ur4mfxqPd6Wgp8/pw/oP5M+hBPRE7fDUwAW7y1iQtyINhmHOtbFJkZXjxjzikYvCm/FFrAdFbpTRy3BP+vfQ175VelFH7KbQjHynJRY5cjxA+hj6ik9nXeRnh9j5teGwUlIk+4eyI8Qcs+rEAAdy0ne1L0mQXwRjj9MUQUXbj8ho23Am0ETQW4THHtOYYqVuJE62CxQydV0mfe83usPglWZij6okewlA+rc5oKr7ElsdK17onMg5QMLnvnqT0G7Xz4RkMIqmZSmz6w920BxzUoWLrgs=;hW4Flw9Sv2AgXoniDtv11A=="
