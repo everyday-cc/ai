@@ -75,6 +75,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
+    excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
+    publishedDateTime: 2021-06-30T21:26:00Z
+    webUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool"
+    ampWebUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
     excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
     publishedDateTime: 2021-06-30T12:39:00Z

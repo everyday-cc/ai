@@ -164,6 +164,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Will AI Replace Developers? GitHub Copilot Revives Existential Threat Angst"
+    excerpt: "Let's see the question we're all wondering ... can this replace our jobs?' said a Reddit reader commenting on the site's thread for GitHub Copilot, an 'AI pair programmer' unveiled as a technical preview this week."
+    publishedDateTime: 2021-06-30T20:38:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2021/06/30/github-copilot-comments.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 37
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/introimages/130903REDPaoliCertDeath.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "kZVPpWJAoWE8/t4KelnCM5GbLZXCdw13JANQawVt/hvUyxOuIt3zJFGd8ajbP3eM6Qyu+E/8bchnp1bl6C2cmVCiiewAN4lBCJycG7ak4SASX6SpD/t4mjWL5BVN2hbJ2eqwnX0Irrut4oN5FL3BU1G6UXo+9TbbdHqHxOnZE69uzr1wL+htck/rrSy7+QSIZULupfU3eKVYRbh3Vm9b6Jx4jmfuUz+SyyMiJcdYQGuih2rIbyV82XxZNwcnm1tOtTYByqXLYzoy08T+mfo30Texifvs6Hyj5yy8uS2wKyoe4BrNFq2pINeEdFJhJJw5PgB/EEA9/8Ft/kTFfMVUtLojPb7cb8Q2A+l9b3I1/xvsldttO7d4fG2hcBDQLsEfS6rHeqsLW5B5Z6KhmpnAwv9tuSnPFkE+1ygyq3Gc0jTA8LE7JIf2tE8yB/XRjAyCmHCpQdMxGvgLW+gvNdJY7qObtmWWMDKl8n+fZvv24tTNfiT+9dbJDMhMcn/PjgJTYOx4FCO782tiCpdcd8bwQA==;830bJLv8xZmCzMjMtVbH1Q=="
 ---

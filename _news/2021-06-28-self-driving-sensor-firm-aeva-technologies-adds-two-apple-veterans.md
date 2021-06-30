@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Tim Cook confirms Apple’s self-driving car plans"
+    excerpt: "Apple CEO Tim Cook has finally spoken out publicly about the company’s secretive autonomous car plans, confirming that it is indeed working on the technology."
+    publishedDateTime: 2021-06-30T20:09:00Z
+    webUrl: "https://www.techshout.com/tim-cook-confirms-apples-self-driving-car-plans/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 24
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2016/07/apple-carplay.jpg"
+        width: 700
+        height: 440
+        isCached: true
+
 secured: "K7e+uqFPjCS78pgG3HgFKdg2e+yEq/v6PvYuXtVcWExQF3DPyncwimiPXN88CY+7olBZAJkx71ksrDfoPzAkdJshgG545WHNRgoXij0aSWR95cXZlYXmOTwUusS6eBb3RCXzS/csmWY09tU90E+GccxxfRI6hZudQgTe2FWUmuI3eHn4y7jdMrTk5P6zi0bP5izADXTgkqYhKhp9+cORFTPQ8mY5zH+60cxH1J9oJwhBIQ9MXxMG+WrfXFW09Ww79CAcqffZ/L4z7HoEbsxA70gaHy8sZGCzhmQtNwudXxqp4drNboIEBl8lXiGpNXgJWk+FaaCHM5Z3PuxACiRPNtpfKYuIf0L9IADjrw7wWwU=;35Os9E+bAnzGJUCR4Ot/yQ=="
 ---
 

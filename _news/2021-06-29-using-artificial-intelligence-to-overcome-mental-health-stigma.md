@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-06-artificial-intelligence-menta
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp"
 type: article
 quality: 57
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -39,6 +39,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "RingCentral Attacks Robocalls with AI-Powered Solution and STIR/SHAKEN Implementation"
+    excerpt: "RingCentral , a leading provider of global enterprise cloud communications, video meetings, collaboration, and contact center solutions, today announced that the company is taking steps to protect customers from the increasing problem of"
+    publishedDateTime: 2021-06-29T11:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19878808.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "KWe3hHskno77vb8U9tF+NrIEOHY1E+2eF4sgIHzEATzRB44OAZeG23EdytIJHHfndZNOfgJiSoamHWZjscUwiogzCowrSdi1G4x1RZyzTWMjp4eRFRimDztkjgLGsfJjZ0tDl4g2h7Bc12Wd/Am5wQ38w6ymTZuNxQRO5+0wHFbG12e/s0XvtWMaPte/ExMMjFGFxUdnZT40zqm93WWyRA+7bDHn6Hlb8hdQzPJzXbElcnGCiu3xA0WQSm7sJJgEOT162U6JIXbXWlYRimSp+WA59S2EwB2m7oEbdX6I2IcuroDzYFZxN5Lm8hHlGLyXHvnxKrCOOqQ1lgUCI+P5NbwHFc5BbpXUHu68/KaKi4rfS+rN1fUlU6TMo9kRRZgKJJ8UryFPALX1zglXYLMvR4py2pXMWKz3UjinFuChqIjmMPgj3kPUZcECbx8ACllvfKRafSDY8LCFAwE32tv1pREl1EPYEUKhiEMCi2URgYZz8j6Gy9YtZ+VnErZkhvWm3J29WldFeJdH8P25FR9yqg==;5omvQwMNN2CoklW+mQ8wUg=="

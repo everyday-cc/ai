@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-maine-regulations/
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-maine-regulations/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/87b08c5/2147483647/strip/true/crop/2016x1242+0+135/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
         width: 880
         height: 542
+        isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
+    publishedDateTime: 2021-06-30T21:42:00Z
+    webUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
     excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."

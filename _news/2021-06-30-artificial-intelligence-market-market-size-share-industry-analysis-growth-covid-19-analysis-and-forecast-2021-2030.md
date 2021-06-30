@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Analysis on Trends, Growth, Opportunities and Forecast 2025"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market analysis mainly introduces the changing market dynamics in terms of covering all details inside analysis and opinion,"
+    publishedDateTime: 2021-06-30T19:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-on-trends-growth-opportunities-and-forecast-2025-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
     excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
     publishedDateTime: 2021-06-28T10:54:00Z

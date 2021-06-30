@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Which new trends are likely to be seen in AI in IoT market in 2019?"
-    excerpt: "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of"
-    publishedDateTime: 2021-06-26T03:51:00Z
-    webUrl: "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/6/U626874997_g.jpg"
-        width: 660
-        height: 300
-        isCached: true
   - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
     excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
     publishedDateTime: 2021-06-28T11:20:00Z
@@ -48,17 +32,28 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "AI in Fintech Market Scope Emerging Trends, Analysis and Forecast 2026"
-    excerpt: "The AI in Fintech Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the AI in Fintech Market and entails the all inclusive analysis and upfront statistics with"
-    publishedDateTime: 2021-06-30T13:01:00Z
-    webUrl: "https://www.openpr.com/news/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317861/ai-in-fintech-market-scope-emerging-trends-analysis"
+  - title: "Artificial Neural Network Market: Size & Trends Shows a Rapid Growth by 2027"
+    excerpt: "The Global Artificial Neural Network Market size to grow from USD 117 million in 2019 to USD 296 million by 2027 at a Compound Annual Growth Rate CAGR of 20 during the forecast period 2021 2027 An artificial neuron network"
+    publishedDateTime: 2021-06-30T08:45:00Z
+    webUrl: "https://www.openpr.com/news/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
+    ampWebUrl: "https://www.openpr.com/amp/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317399/artificial-neural-network-market-size-trends-shows-a-rapid"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 41
+    quality: 38
+  - title: "GPU as a Service Market Analysis of Key Players, End User, Demand and Consumption By 2026"
+    excerpt: "The GPU as a Service Market Global Industry Analysis Size Share Growth Trends and Forecast 2020 2026 report intends to offer a resourceful means to assess the GPU as a Service Market and entails the all inclusive analysis and upfront"
+    publishedDateTime: 2021-06-30T13:01:00Z
+    webUrl: "https://www.openpr.com/news/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317863/gpu-as-a-service-market-analysis-of-key-players-end-user-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "mzj/KkbBDzgFslprfhmyW0ui5MRgq90hUskH2dbEIyWg8mZfz7SNkK63sTSii0AVC1aEp7nMoOmI6AzSCrCQ/C9Ijz27l8ZINPznlPyvLyddCP4TVPDevo3Y77IxVymsxZYanHvLJ+1+hF2NPKaycxukrUPekJYRmosbCvSi3VD6ozcBmJdtF06rYMqnpK9kwe36zJd+/ccp7YD/EZMvy7k7JUir6SzFxa2uIRIWLyKFzQ8Gju2XmSZtAJ0VdcGHUqUYGKsxX2cdmNcArM6cljFs/V6RrC1y9vMrfQW59KhmEZzpqk16l8KLFzcqGhRXgh9RuwFXoosjm2197barBdv9wDcTjVXV8UBB1WKDjnI=;r23+T5atVCs1+r2kRBxQKQ=="
 ---

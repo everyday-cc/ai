@@ -57,6 +57,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
+    publishedDateTime: 2021-06-30T21:42:00Z
+    webUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Calls to stop NSW police trial of national facial recognition system over lack of legal safeguards"
     excerpt: "Passport photos used in state’s criminal investigations despite parliament rejecting legislation on controversial technology"
     publishedDateTime: 2021-06-30T16:32:00Z

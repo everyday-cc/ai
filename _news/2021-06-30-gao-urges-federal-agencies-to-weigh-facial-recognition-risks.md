@@ -41,6 +41,17 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Federal Law Enforcement Is Running Roughshod Over Facial Recognition Privacy, Says GAO"
+    excerpt: "Out of the 86 federal agencies that employ full-time law enforcement officers, the Government Accountability Office (GAO) surveyed 42 of them about whether they either owned and/or used facial recognition technologies from outside suppliers."
+    publishedDateTime: 2021-06-30T19:55:00Z
+    webUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/"
+    ampWebUrl: "https://reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/06/30/federal-law-enforcement-is-running-roughshod-over-facial-recognition-privacy-says-gao/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 31
 
 secured: "G3upIysqWuhjf1bnqqJ2jXOvatE5B1rGYWqU4mMKjPW41i2sFitC1ERg6lU9yjYtMpTBR5rPIBK0vNpk2VuLsid41d31+P2JoVfHQQtPPsL2aoxYLQD2muGGZU5OOPM+jfSLcOToJ+LOr/9C4ITHmcWK/NErPdDIYPSOYrDFsN+NdkeL4MeEQInKsj6H/S8VT2eBArktuYvLCkvUNOblpSBhAKJqKBA/9l0bwLQBV0Dojbro9650lnUV9QW6Ch/qGpkNRWMstHpGZsehOcod0gFsMBKjVbr0oopyYWPzwjwOvI7toD/nOF3uSgz4WWhoqK7OcXJsHGsAOVlQIhdomaZEu4FVUMO7nBvG9z2A8+uu/JRen62KHNWkVOMOFwazw4i8GUoHCFV547046ZumvhQ95eo94sAf+/Z/L1Ei2s09DB80ko7C2mJLZnE/uuBm1f3SZTnEu4Sn42C1kJXqHnwx1PyamJtFPToK0HSz00nhKrRmFBuPzV2AQkVTX/e5x/J6R7Rfrp4naZQcv7Twug==;K3MkMAQqyBRYPoZ9Mr1JVg=="
 ---

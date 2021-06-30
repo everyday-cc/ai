@@ -22,44 +22,45 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Which new trends are likely to be seen in AI in IoT market in 2019?"
-    excerpt: "COVID 19 Impact Analysis on AI in IoT Market The global AI in IoT market is expected to grow at a CAGR of 24 59 during the forecast period 2019 2026 Technologies such as Artificial Intelligence AI and Internet of"
-    publishedDateTime: 2021-06-26T03:51:00Z
-    webUrl: "https://www.openpr.com/news/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2314491/which-new-trends-are-likely-to-be-seen-in-ai-in-iot-market-in-2019"
+  - title: "In The Push Against Cash, Cannabis FinTech Meets The Industry Where It Is"
+    excerpt: "Dama Financial discusses the importance of offering cannabis businesses a choice between preserving cash processes and graduating to electronic payments."
+    publishedDateTime: 2021-06-28T12:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dama-financial-cannabis-cash-fintech-electronic-payments/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 58
     images:
-      - url: "https://cdn.openpr.com/U/6/U626874997_g.jpg"
-        width: 660
-        height: 300
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2019/12/cannabis-business-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
-  - title: "AI In Computer Vision Market: 2021 Analysis, Share, Trends, and Overview 2021-2027"
-    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
-    publishedDateTime: 2021-06-28T11:20:00Z
-    webUrl: "https://www.openpr.com/news/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315283/ai-in-computer-vision-market-2021-analysis-share-trends"
+  - title: "F|T: The FinTech Times – FinTech SPAC attack"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2021-06-28T09:30:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-fintech-spac-attack/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-  - title: "AI In Fintech Market: Size & Trends Shows a Rapid Growth by 2027"
-    excerpt: "The Global AI In Fintech market was estimated at USD 7 91 billion in 2020 and it is expected to reach USD 26 67 billion by 2027 The market is also expected to witness a CAGR of 23 over the"
-    publishedDateTime: 2021-06-28T08:21:00Z
-    webUrl: "https://www.openpr.com/news/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315029/ai-in-fintech-market-size-trends-shows-a-rapid-growth-by-2027"
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/12/Portag3.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
+    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution, the company will empower businesses by enabling them to optimize all aspects of their cash flow life cycle in an easy-to-use,"
+    publishedDateTime: 2021-06-30T10:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-company-centime-launches-cloud-based-platform-control-/2021/06/30/9400542.htm"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "C3NSuQwOD+M9Bz+zfsIYSCbVBOOrvkO3My7nlmOqYg3VfFmpOCC/WTNP9cO0y4yt21CsxFQ+1kE1DZ4jMv27VhhfVMUdKfuVS4v1GvTL4SMqIW3aWqF+9QfSKKMPGQgyCRCABrkJEGyT6Kbze/xPJWSpHmXVez5ilkkq0wm2CWmY+rwjj+DIpT5tAVAMGRTNN+sniMDf/1QA9pVEszGk+W7eBvlsFezvWb5vG3sltqhtopAtFilYIz5zTyjGq0WmgkMpGxLmVIjnPQzHgfavm5vqXXIpeiyXQy3dIjN4+/f+hUcmFrk0Xgzm3QRmDz6yzoS+4AZoXjJ7E9iSj1u07KrzLa2AoOvTJIDJzp/uL44=;QroeOO0jwqmm0Eyx1N2HmA=="
 ---

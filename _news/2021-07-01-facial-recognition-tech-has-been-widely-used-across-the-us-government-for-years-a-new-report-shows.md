@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
+    excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
+    publishedDateTime: 2021-06-30T21:26:00Z
+    webUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool"
+    ampWebUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns"
     excerpt: "A GAO report finds government agencies are using the technology regularly in criminal investigations and to identify travelers, but need stricter management to protect people’s privacy and avoid inacc"
     publishedDateTime: 2021-06-30T12:39:00Z
@@ -114,6 +125,6 @@ related:
       domain: reportsnreports.com
     quality: 2
 
-secured: "N2K0QA1v/iOUyX7Og0bHaT3RHxaa1n1i1SZzWx6Q7aG3pYiDGOLfpToSTQfN4C9GvNpfPZFLIldtmvpPI2rg5+AmuLFUKhafeaahg8JE0MKybArE7oRMJ+lukhDrA60uJo5JNBaATnzZJI3wosh4icq3vtPDYkJTeZ/1LfEKxQrAJO1sj3S9VMzV9KHZ/MklUcrIGDniBMl0sNn9dxcC5ecYElfQ1E+yx5EJYN8y7aOktKM4KgpYkflPToWKcLGvsUsJla5xKaw88BxKr5ofrSIbROZzT0T2FJLtBykPAbPMIvyJyb13VBD7nddCvkhl7Ph+Pazc36IB3rF5mOTo3G/kGeEIDediYhxz72/mKxk=;kVIaEOyYfKziCAxnixGfwQ=="
+secured: "Vlw4OaKXQF0r8544RddQsKyCXQ3uCgBsQSvhvaXymjTqMMbdz1n8HqlUUVbJqcScFXR4PbmA7YQUmnSdRn8tsEO3wJAt87pejtsfIwFWqXUGZkXd+g2XCCVquxYVBG+ZWke20g2aiAYuii3g6LJJrRoscpKdOH30Vjz7/yxuCcLLobbpksawjm7PcAqqFaDke1GHSbB/PWTh8Unitn7tZ/ksTuBYJ7K13jnR2QgqiF+tAsVb+bYRy8xGlQzdbTSGfsGsIXOP8VSi4fGZ7AaSqDyB90FR2XF6U4APTig9vxQWiSbA33NYR/MJ8S0c1ArqE7YtDx8tEdzWa360GJz2zQwOHX/Y7GBLm8vREDQRURMyUy/nEqiFG9E3UgLyYijCSf9K7FBI8cfNCumfi98BATjjBmW/77AkpwPtl+4CnFhWZ/54tjz8xwK+IVCb7xUO/SYrWMAdmUznH8FNsxLD7kPr30qtvGeVW68e5ucbIpJ2BeSL7teYuNWqmDA75SHA5pLSvNnQltVqwR4wU0C0eA==;JHGljOh0/Oh+hFjf0Rm02w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/who-issues-first-global-report-on-ai-in
 webUrl: "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -33,6 +33,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/yVnYYGvgr7fmhLQ6Bq9zPC9Wq6g=/0x0:4000x2661/1400x933/filters:focal(1680x1011:2320x1651):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69524862/1232766338.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "WHO guidance details the benefits and risks of adding AI to healthcare"
+    excerpt: "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges"
+    publishedDateTime: 2021-06-30T21:28:00Z
+    webUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/"
+    ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg"
+        width: 1440
+        height: 800
         isCached: true
   - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
     excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"

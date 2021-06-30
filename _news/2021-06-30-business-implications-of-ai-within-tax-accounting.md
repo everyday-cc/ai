@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 665
         isCached: true
+  - title: "Business implications of AI within tax & accounting"
+    excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
+    publishedDateTime: 2021-06-30T18:48:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/business-implications-ai-within-tax-accounting-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/d_9infXWdH0ZCGL5iNfPeS_tdG0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAAICV2MNP5XCQCEAKLU7LCQA.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "IBM AI-Powered Automation Software to Simplify Broad Adoption of 5G"
     excerpt: "IBM announced new hybrid cloud AI-powered automation software to help deliver on the promise of widespread 5G technology."
     publishedDateTime: 2021-06-28T14:22:00Z
@@ -55,6 +69,22 @@ related:
       - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
         width: 800
         height: 498
+        isCached: true
+  - title: "Why Adopting Artificial Intelligence is Vital for the B2B Industry"
+    excerpt: "AI is rapidly turning into a need for B2B organizations, as it can help convey information driven and significant bits of knowledge to associations. At the point when Artificial Intelligence is used with online business,"
+    publishedDateTime: 2021-06-30T18:30:00Z
+    webUrl: "https://www.business2community.com/b2b-marketing/why-adopting-artificial-intelligence-is-vital-for-the-b2b-industry-02415886"
+    ampWebUrl: "https://www.business2community.com/b2b-marketing/why-adopting-artificial-intelligence-is-vital-for-the-b2b-industry-02415886/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/b2b-marketing/why-adopting-artificial-intelligence-is-vital-for-the-b2b-industry-02415886/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/06/AI.jpg"
+        width: 512
+        height: 342
         isCached: true
   - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
     excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."

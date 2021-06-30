@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Analysis on Trends, Growth, Opportunities and Forecast 2025"
+    excerpt: "Selbyville, Delaware Market Study Report Has Added A New Report On Automotive Artificial Intelligence (AI) Market analysis mainly introduces the changing market dynamics in terms of covering all details inside analysis and opinion,"
+    publishedDateTime: 2021-06-30T19:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-on-trends-growth-opportunities-and-forecast-2025-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence MARKET Market Size, Share, Industry Analysis, Growth COVID-19 Analysis and Forecast 2021-2030"
     excerpt: "In a recent published report, Kenneth Research has updated the Artificial Intelligence MARKET report for for 2021"
     publishedDateTime: 2021-06-30T04:49:00Z

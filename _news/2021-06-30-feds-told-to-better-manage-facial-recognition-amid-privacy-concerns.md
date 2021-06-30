@@ -89,6 +89,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Myrtle Beach Police Use Controversial Facial Recognition Tool"
+    excerpt: "The South Carolina police department has been using the facial recognition software, Clearview AI, for more than a year. Law enforcement officials said that the department has ultimately decided not to use the service."
+    publishedDateTime: 2021-06-30T21:26:00Z
+    webUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool"
+    ampWebUrl: "https://www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/myrtle-beach-police-use-controversial-facial-recognition-tool?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "Global Facial Recognition Market SWOT Analysis, Key Indicators, Forecast 2027 : NEC Corporation, Safran Group, Cognitec Systems GmbH, Keylemon"
     excerpt: "Facial Recognition The report on the Global Facial Recognition Market Research Report Covers Present Data and Deep Analysis And Forecast 2021 2027 market published by Zion Market Research provides a close watch on current market trends opportunities and revenue growth"
     publishedDateTime: 2021-06-29T12:02:00Z

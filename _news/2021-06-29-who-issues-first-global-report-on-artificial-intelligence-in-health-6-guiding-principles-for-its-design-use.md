@@ -45,6 +45,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "WHO guidance details the benefits and risks of adding AI to healthcare"
+    excerpt: "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges"
+    publishedDateTime: 2021-06-30T21:28:00Z
+    webUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/"
+    ampWebUrl: "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg"
+        width: 1440
+        height: 800
+        isCached: true
   - title: "The first WHO report on AI in healthcare is a mixed bag of horror and delight"
     excerpt: "The World Health Organization today released its first-ever report on artificial intelligence in healthcare. There's good news and bad."
     publishedDateTime: 2021-06-28T20:10:00Z

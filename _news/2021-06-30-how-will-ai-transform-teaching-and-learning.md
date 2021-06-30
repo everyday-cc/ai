@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "I learnt how cool it is to train a robot with AI"
-    excerpt: "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,"
-    publishedDateTime: 2021-06-26T03:03:00Z
-    webUrl: "https://mothership.sg/2021/06/dsta-brainhack-robot/"
-    ampWebUrl: "https://mothership.sg/2021/06/dsta-brainhack-robot//amp"
-    cdnAmpWebUrl: "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp"
+  - title: "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI"
+    excerpt: "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia"
+    publishedDateTime: 2021-06-29T02:50:00Z
+    webUrl: "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/"
     type: article
     provider:
-      name: Mothership.sg
-      domain: mothership.sg
-    quality: 74
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 69
     images:
-      - url: "https://static.mothership.sg/1/2021/06/dog.jpeg"
-        width: 478
-        height: 250
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Pomelo-Fashion-4-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
 
 secured: "8e8ZPUjbQJtUCWlXS44MVcBlOjJSXc/4hBclFNRanHcjH2ec2sa1MBVfqylj7dn1RsGtLInGvTuQG8QjpUKF7OjI5u3WaWnEzGSCVuQRO6VEcryjuM2eDJzSVxf7/JTyIkTZ5xsWY21xMXsC0v8lEuVkS3oW3fcynzj0qc9aKlQRAIRINT/jrm5DjjInC+o3zU8pNXVFAVkvnu0NHq14N8FwzHs/2xpSgMWJQi/K9xL6EP1op3sc+W3+c0w8gP0xphMriNFS5agz2o4xtvIOh98/be8OJYP9qCbdWqU5L3Wb0oCmpu6TgmeoY8z+B1KmaV6RJAA3QJUGToJKzu1VMk9EGGh28QwCHMTAyTl/hIs=;llRvxPX4oD7NejMsFuizyQ=="

@@ -43,6 +43,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Maine law restricts facial recognition technology statewide"
+    excerpt: "A bill touted as the country's strictest statewide regulation on the use of facial recognition technology has become law in Maine. While several states regulate facial recognition as a surveillance tool,"
+    publishedDateTime: 2021-06-30T21:42:00Z
+    webUrl: "https://apnews.com/cbf6207f15d13b8e647615e251157774"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Maine Enacts Strongest Statewide Facial Recognition Regulations in the Country"
     excerpt: "Maine has enacted the country’s strongest statewide facial recognition law. Maine’s law prohibits the use of facial recognition technology in most areas of government, including in public schools, and for surveillance purposes."
     publishedDateTime: 2021-06-30T15:14:00Z
@@ -74,6 +88,6 @@ related:
         height: 360
         isCached: true
 
-secured: "r0u9Vof3Swl6rwExWt9YAesF4alTwNHZOwe4gDlFyeK/CQSZdg9NvrjOZ8W3yVvhfUgkG10AUHTp6Xq62QjWpOV9OW/eNaAcS1xYC5VzBh56wAnAHumjttw7ucK38kOEVpJGHER4HBYHJVjySUod+g7d80PxcZ2a2M2Mgd3+pYtkd+ANS01oyefASP7XzyJVZBZSrdVfP0alt/ZyYCgvEYQGyX/HF/SoYxHWdo6vlG9QvqLGQb/2cvNxGLkUR24E18aK/pZsOan1kJJ53dhpGdUjA2XLV7PBSgr1jbz3ZnEj+LAl6rgRm9efO/FDdWwPWrG6cGyEvCNe9cP9nQaqZApdq+5lBs/HOnPVOU8dw0U=;lgv/uVmcvL2OTE880MiC3w=="
+secured: "C733ZSBiplTEGebnNYUfbr3D310oADWnKb19RuBpcDgmasMnd+yUp8hsPYT84m7L4d+6aFNpiz7ISdfaylexIIVgeWr6INNGXL7r9c0yjWzrQF5Wes+0/tDZtCNm6YmMjnl2A80GFL3lbsIpnSVXfFwJ+zoCPDyDtZmLRZdVKuhFsZXTo1i8TRqP7XhUIzzhdTEh0dA3HcMCmpN2ZflAUn8MoC1ulG6cDLd3PfF3ONjmGh7uzdcZ2K2ux8O+tp42UuLym0lSQtEJeqiVyp3e8P7ZSrdPWZb42KEztG2jn+DXUjDynJV5pKl+JQNynn6JzWbNBHa5LhaipHcrPiDFo4o/G7Zfrc19/d5ZIB1JIFKYxp3K3DIkse+ezwotdHrlwDMTIJ1cWWHPZ0QaMQdygBVojNrlZVIRqkkq6St8rooOrb6BTZVovy043WYZacFETiy/RDT346eRh5KWM77H2oh20rAkHso2ckrI+pMRfFOzHnhkvcTWm/oLPP/HO0BrRpuAcwFUEHFpZTJd5l1Cfg==;v1UxpsFTO6onD2apx/iLfQ=="
 ---
 

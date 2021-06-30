@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Are self-driving cars safe? Highway regulator orders industry to cough up the data"
-excerpt: "Manufacturers tout the safety and convenience of automated vehicles, but little useful data have been collected to demonstrate how safe they are."
-publishedDateTime: 2021-06-30T12:32:00Z
-originalUrl: "https://bangordailynews.com/2021/06/30/national-business/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
-webUrl: "https://bangordailynews.com/2021/06/30/national-business/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
+excerpt: "After years of inaction, the federal government will begin collecting crash data on automated vehicles. The National Highway Traffic and Safety Administration on Tuesday ordered dozens of car, truck and technology companies to inform the agency of a serious crash within a day of learning about it,"
+publishedDateTime: 2021-06-30T00:07:00Z
+originalUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
+webUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/"
+ampWebUrl: "https://www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/?outputType=amp"
+cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/06/29/are-self-driving-cars-safe-highway-regulator-orders-industry-to-cough-up-the-data/?outputType=amp"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Bangor Daily News
-  domain: bangordailynews.com
+  name: Tampa Bay Times
+  domain: tampabay.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/pexels-hassan-ouajbir-804128-min-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://www.tampabay.com/resizer/XV7Rc7YqPo9e0ybIc-w7jHyr0Dg=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/GSVUHKEH5M7GC3TLGWK5NBVESE.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "Ym6EfzkpxWKVHhMGd2w49A1kDz+5AaShqPWy6tVRtsGDP1qwOCtk/gtTjbekLc0hYytiXB9EKtU2ZqNxlhbSFzYwsVOgmprWFQyc6bEwFa5DFIDV61M4JQVQJRArEVYRdCmRUwLCnTXjquAL7W+2aqfW+vA6K++fDxM+UiOMom4AkgZxAwtEYzY/yVhRnRmCf9ad7bUqp4YpHDiCfJmsYZMX6taBNG0vGsmzk4zkXws9AC6rl19J0lUB4ClCPAyoKYRg29RfDDt2Oa+WDtCYUXLUzie2TWB9GjydbX2LQOXcUF9hk54r2+9vlkMdqTVDRxAL4zu2QXHcl8LOykk8qEIITHcdPPa+inMoHhSd2vNvdNG/9L4KjYpDqktbqhV9M1Dfkew1/ndPpVs8pjcfgAoJOqSpVIsKTfhRyOGGEjEpu3mnXCk9vu9RXRxaIj99t7jTSorLzNRoOclIvB2c1EkPAWb6xXyRhwBxzgBA17XgSYQLpQmM6LNCvc4hPMs9eFEEqNiTk++DAAWjqfeT5w==;eLIrKHcuo9Kxwg/iYpU50A=="
+secured: "dLXKICMq/8Jwxq2eHq+CwYeVyolphuGjjZeI+4m4yjFOq5Aos898umtMqJ/UoAJIn6uMrrza96MfW3ucrUzSdBWP07is+LcR5ldgGn/Z100xyWjuk8pnIQJ2FPTiTW+kYX4zTk3XqqQPnt5scIMyiTySBnRYQXfOUoMpgwQYfOUzVmfiYfisOAWmRpzwBHvzALZvJp/ciTsIyoXEw6Sy66d+A/S4iHdMEt16I3oGFTdDZ5nQ3uwGx/vT2axqsLtt5Rk6OVww4TdjiGcNkoa1H4hH2AuG67pR7sroC4ygBCobCSKhtYx7CblEZm0e+29ra4BrvOjvsb20WtWbaPc0U7t3yUZaiQT9ecv9ooJqypI=;hREygl5AKk/TE8tepFBFOw=="
 ---
 

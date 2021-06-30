@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-30T16:40:00Z
 originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58366.php"
 webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=58366.php"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.nanowerk.com/nanotechnology-news2/id58366_1.png"

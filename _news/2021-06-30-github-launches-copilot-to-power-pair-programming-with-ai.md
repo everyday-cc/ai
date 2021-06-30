@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/06/29/github-launches-copilot-to-powe
 webUrl: "https://copilot.github.com/"
 type: article
 quality: 167
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
     quality: 38
     images:
       - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Will AI Replace Developers? GitHub Copilot Revives Existential Threat Angst"
+    excerpt: "Let's see the question we're all wondering ... can this replace our jobs?' said a Reddit reader commenting on the site's thread for GitHub Copilot, an 'AI pair programmer' unveiled as a technical preview this week."
+    publishedDateTime: 2021-06-30T20:38:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2021/06/30/github-copilot-comments.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 37
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/introimages/130903REDPaoliCertDeath.jpg"
         width: 647
         height: 450
         isCached: true
