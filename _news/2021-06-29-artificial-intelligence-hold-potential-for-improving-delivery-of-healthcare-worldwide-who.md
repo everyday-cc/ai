@@ -60,6 +60,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "WHO: 6 principles to using AI in healthcare ethically"
+    excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."
+    publishedDateTime: 2021-06-29T21:02:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Maximise benefits of AI for health, minimise risks: WHO"
     excerpt: "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights .."
     publishedDateTime: 2021-06-29T11:05:00Z
@@ -75,20 +89,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-83952033,imgsize-222468,width-800,height-434,overlay-etcio/maximise-benefits-of-ai-for-health-minimise-risks-who.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "WHO: 6 principles to using AI in healthcare ethically"
-    excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."
-    publishedDateTime: 2021-06-29T21:02:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
     excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"

@@ -7,7 +7,7 @@ originalUrl: "https://taipeitimes.com/News/editorials/archives/2021/06/29/200375
 webUrl: "https://taipeitimes.com/News/editorials/archives/2021/06/29/2003759981"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "Apple’s car obsession is all about taking eyes off the road"
-    excerpt: "At first glance, the forays Apple Inc, Google and other technology giants are making into the world of cars don’t appear to be particularly lucrative."
-    publishedDateTime: 2021-06-25T08:20:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/06/25/apples-car-obsession-is-all-about-taking-eyes-off-the-road"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/06/25/1197795.jpeg"
-        width: 1240
-        height: 868
-        isCached: true
 
 secured: "O4J/9P/QevzM1PZpTXHAxSmVk/TXeh7cWmXe6nLiMJdRvtl3CAApS+lW5EmPuFE1HUGs84QYgGRlMr9vI7cxb58aAPs0fySukM8UkBXh/1fW3u/7BFIQEWIWAdro7MpHHtLHndDZmW9EVFVNgyyEgipA7tlNUWWyQdXwJwepg/FMBuu8j/xDp2/swDXJFQchNzmuA/f8LstXgXhEzeFBWUkd0fCYOkB+SAkoDKN8fl5VJPLIwkXCCOQYUPZ/3C58a+6fypnUXcv5QFGlhv312268YDEULbUFS3Y0/RdxW9TJx3HbQDCWG+PpAE8OY6xMFgdcwXWzdjdSlv8FuWUlUfHg6aDwOuu48d23BrLqb+s=;NGJGu8TwaDOGFCkrwVTJZw=="
 ---

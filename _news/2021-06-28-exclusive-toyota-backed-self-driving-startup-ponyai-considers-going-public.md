@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL3N2O70X9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2O70X9"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 187
+published: true
 
 provider:
   name: Reuters
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "EXCLUSIVE Toyota-backed self-driving startup Pony.ai considers going public"
-    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp (7203.T), is considering going public in the United States to help fund its goal of commercializing driverless ride-hailing services, its chief executive told Reuters."
-    publishedDateTime: 2021-06-25T09:00:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/exclusive-toyota-backed-self-driving-startup-ponyai-considers-going-public-2021-06-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 165
-    images:
-      - url: "https://www.reuters.com/resizer/2qSLKwou_uMeOYl9o0cLDFy9k_A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YKRNUSEBRNJLROOHXAMKCUAUOE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-Driving Tech Company Pony.ai Considers Going Public"
     excerpt: "Pony.ai, a self-driving tech firm backed by Toyota, is mulling going public to help finance its goal of commercializing driverless ride-hailing."
     publishedDateTime: 2021-06-25T16:26:00Z
@@ -109,52 +95,6 @@ related:
         width: 3072
         height: 2154
         isCached: true
-  - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
-    excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
-    publishedDateTime: 2021-06-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/28/that-hacked-electronic-roadside-display-in-brooklyn-said-cars-are-bad-which-startlingly-brings-up-questions-about-the-advent-of-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/06/28/that-hacked-electronic-roadside-display-in-brooklyn-said-cars-are-bad-which-startlingly-brings-up-questions-about-the-advent-of-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/28/that-hacked-electronic-roadside-display-in-brooklyn-said-cars-are-bad-which-startlingly-brings-up-questions-about-the-advent-of-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 50
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d7a0696b4de7c0b6de383e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1617%26cropY1%3D37%26cropY2%3D947"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Waymo Self-Driving Trucks Will Soon Start Moving Freight Across Texas"
-    excerpt: "Last month, self-driving technology company TuSimple shipped a truckload of watermelons across the state of Texas ten hours faster than normal… They did this by using their automated driving system for over 900 miles of the journey."
-    publishedDateTime: 2021-06-25T13:00:00Z
-    webUrl: "https://awaken.com/2021/06/waymo-self-driving-trucks-will-soon-start-moving-freight-across-texas/"
-    type: article
-    provider:
-      name: Awaken
-      domain: awaken.com
-    quality: 39
-    images:
-      - url: "https://awaken.com/wp-content/uploads/2021/06/waymo2.jpg"
-        width: 520
-        height: 280
-        isCached: true
-  - title: "Kettering students develop award-winning self-driving vehicle technology in Flint"
-    excerpt: "After a four-year competition aimed at studying, designing and testing self-driving car technology, a team of Kettering students walked away"
-    publishedDateTime: 2021-06-26T10:11:00Z
-    webUrl: "https://flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
-    ampWebUrl: "https://flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
-    cdnAmpWebUrl: "https://flintbeat-com.cdn.ampproject.org/c/s/flintbeat.com/kettering-students-develop-award-winning-self-driving-vehicle-technology-in-flint/"
-    type: article
-    provider:
-      name: Flint Beat
-      domain: flintbeat.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/flintbeat.com/wp-content/uploads/2021/06/rfaKT-1-1.jpg?fit=2000%2C1333&ssl=1"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Self-Driving Startup Pony.ai Eyes U.S. IPO in Intensifying Funding Race"
     excerpt: "Pony.ai is mulling a U.S. IPO as it seeks more funds to support R&D and the commercialization of its autonomous vehicle services. That was CEO James Peng’s message in a recent interview with Reuters,"
     publishedDateTime: 2021-06-28T10:19:00Z
@@ -168,20 +108,6 @@ related:
       - url: "https://img.caixin.com/2021-06-28/1624875462282569_560_373.jpg"
         width: 560
         height: 373
-        isCached: true
-  - title: "Startup Using AI to Improve Animal Breeding"
-    excerpt: "A startup in Hancock County is using artificial intelligence technology to help livestock farmers improve their animal breeding efforts. Verility LLC has developed a device called Fertile-Eyez, which"
-    publishedDateTime: 2021-06-29T17:54:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/44208575/startup-using-ai-to-improve-animal-breeding"
-    type: article
-    provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
-    quality: 37
-    images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20962823_G.jpg?lastEditedDate=1624973444000"
-        width: 960
-        height: 540
         isCached: true
   - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
@@ -220,15 +146,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Amazon to buy 1,000 self-driving trucks"
-    excerpt: "Amazon has placed an order for 1,000 autonomous driving trucks from Plus, a self-driving freight startup. Additionally, according to Bloomberg, Amazon has purchased a 20% stake in Plus, which could allow Amazon to continue to grow its fleet of autonomous vehicles for the future of e-commerce."
-    publishedDateTime: 2021-06-25T13:12:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-buy-1-000-self-driving-trucks"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
   - title: "Amazon to collaborate with self-driving startup Plus"
     excerpt: "Amazon has entered into an agreement with Plus, a self-driving freight startup, to retrofit 1,000 trucks. According to Bloomberg, under the agreement, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
     publishedDateTime: 2021-06-25T20:23:00Z

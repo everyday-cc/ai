@@ -35,34 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2025"
-    excerpt: "The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from 2019-2025. The report on the global computer vision in healthcare market provides qualitative and quantitative analysis for the period from 2017 to 2025."
-    publishedDateTime: 2021-06-25T08:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-global-industry-analysis-trends-market-size-and-forecasts-up-to-2025-2021-06-25-4197938"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Types, Recent Trends, Future Growth Analysis, Industry Analysis and Forecasts 2027"
-    excerpt: "The global Artificial Intelligence in the Education Sector market research is carried out at the different stages of"
-    publishedDateTime: 2021-06-25T07:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-recent-trends-future-growth-analysis-industry-analysis-and-forecasts-2027-2021-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Growth Rate And Industry Analysis 2021-2026"
     excerpt: "Voice Recognition Market offers good growth opportunities during the next five year period ending 2026 In its detailed market assessment report Stratview Research has analysed the Voice Recognition Market emerging trends forecasts competitive landscapes and factors governing the market dynamics"
     publishedDateTime: 2021-06-28T10:54:00Z

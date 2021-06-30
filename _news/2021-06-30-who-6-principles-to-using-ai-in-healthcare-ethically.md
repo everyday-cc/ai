@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-29T21:02:00Z
 originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"

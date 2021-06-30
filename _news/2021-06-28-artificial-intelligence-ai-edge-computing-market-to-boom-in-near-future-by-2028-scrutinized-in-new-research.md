@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2315297/artificial-intelligence-ai-edge-c
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315297/artificial-intelligence-ai-edge-computing-market-to-boom"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 700
     height: 407
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
+    publishedDateTime: 2021-06-29T08:34:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
 
 secured: "EG9waFqH2FNDwuDpon15JVu/sJ8ofJ+e/EW5q05E8gDgwbpg+vAZf/NbkSZWV7Lu9/oBusETCXyjjs32GMgdeY/GlSzO/DGQB7GIoT4AKj//4DLPgO6gQU3R4REPo5/CBNOLCUpFkELvruMvzYFxEPA3CBOBzIrMeIRYIUdW0gSmIdtYe7YpuiEl7RsWOUf8xv72ceb8RoNRG9fHV4p8FmlvBsOtBGDp92CYQ/7wJFMzozL2DNwBcPkHmrFR+1VnDMhANeuteE+MN41Gd+5hS9zOVZPSGVlErMsPq1XfEmAdvnUp58wWi76jJA/T/jmebxoAY+5x/VjNLSlaeEIQT18XxuS4cBxbH4edBIrWkfGObjA/NOuljTSEu1vk76D/NWVWsPDpyeNDrGPUAZGfxSTPMepTHvHhFV/1gHd2y8T2DJF7o+sJ8UerwPW4lBmyn1qLWWXgOX0VxKnere3jFgUzBzAA1ZTSioRg1j/URCMLD9dgknXQ5GdJGnAMLvNHA8vWgdWHmdokJmttHizObw==;rS1OdJzqr+STqCcXJMQc7Q=="
 ---

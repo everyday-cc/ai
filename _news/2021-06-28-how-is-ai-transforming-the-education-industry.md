@@ -75,6 +75,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Startup Using AI to Improve Animal Breeding"
+    excerpt: "A startup in Hancock County is using artificial intelligence technology to help livestock farmers improve their animal breeding efforts. Verility LLC has developed a device called Fertile-Eyez, which"
+    publishedDateTime: 2021-06-29T17:54:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44208575/startup-using-ai-to-improve-animal-breeding"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20962823_G.jpg?lastEditedDate=1624973444000"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "QNHgkWjAVe6R2BdkPSbvf+O38O/B0fmv24ZVAPHAeNRBa7lZGdYjSNdecE+PNaNvHzOIUlrt4w1r8YDzYk+9QVF4jbmYxUKoLllr6q+3SxTL5fl2P9UzavAZky/+kHGDODD/EvAoQMkDT0r/dAX3FlSgi02GeP9iK6DijplcbMLDol/CbLnwoKD069L2SW0Ky9iuipvuhwdHT0ND8IN2JBnLg9s7iz26m3btGvAjIrQ6ElLrD25b5E6D9iRCGYSpd3q4T7DvLnjCbhDmf6sfoK5nIRUBeBu++kD7zRmnekIK4BtJ5uUo8RyCo6/ICXvqUFbKujxF4qZtspw1a3kBIqfBQ2kMcfr7MoI3iaSzLqE=;g0o6Ixgb2mfYALhN97gQAw=="
 ---

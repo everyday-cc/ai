@@ -40,6 +40,38 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Zoom acquires an AI company building real-time translation"
+    excerpt: "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,"
+    publishedDateTime: 2021-06-30T00:40:00Z
+    webUrl: "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Zoom investing in real-time translation following acquisition of AI company"
+    excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"
+    publishedDateTime: 2021-06-30T01:08:00Z
+    webUrl: "https://9to5mac.com/2021/06/29/zoom-investing-in-real-time-translation-following-acquisition-of-ai-company/"
+    ampWebUrl: "https://9to5mac.com/2021/06/29/zoom-investing-in-real-time-translation-following-acquisition-of-ai-company/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/06/29/zoom-investing-in-real-time-translation-following-acquisition-of-ai-company/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 57
+    images:
+      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/Zoom-app-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Zoom to Offer Real-Time Translation for Video Calls After Buying Startup"
     excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been developing AI -powered algorithms to “machine translate” other languages in real-time."
     publishedDateTime: 2021-06-29T17:08:00Z
