@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 54
-  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
-    excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-25T18:56:00Z
-    webUrl: "https://www.cs.cmu.edu/news/cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 39
-    images:
-      - url: "https://www.cs.cmu.edu/sites/default/files/web_Traffic%20Jam%20Visual.jpg"
-        width: 600
-        height: 331
-        isCached: true
 
 secured: "Jr4Sh11OwMYZUZXGWYAR6uQhOIcRAXCVg6HuY2jFs78yCbiQiixIS1wkd1DQ55BVF2iAhOu8Of+iOPAyuxOF8JakZBEmyZtHPavcb+Yt89PggLsZjn45aLF8h7x2w3rmkD1JJA4XO9yy1G1iLdRkCR5cDITAwqfDiVD315S4GRlFp7cGsEWLtM62HBo5arnp+cp3iSoP2d/1TpdZnkxvguwgPh2TtQaMH6uuRdOBUswOn2EqCUQDu5SN6Z40IhQEkLtYFfLTvJaNL5ZwqJxjeXAhw+eZN6o7yjCFGk1IxmCdhiSJazFBvSjJ2TyQl36Pl1zzy04b/uvUlturyCZp1YxHsZN9pHO1PUl9avXi10ZQZrdJ7NXjtY3uzRaYpDoApMuT36nWFvwGVB9HMdz2kzakgh39ZfhWnvd0xGwvVgnqPNKJR0xjk/wjJD1wZ1bpXWDsqahDUPnApXItVrnzNylIDcoHCLOooAwRk9zHLpBAHB7WgSxS8kLmeD1tZkqYllyIQHIOcFo1TAV5RQfDjQ==;G9rCDch5gvEt94v5QbUbsw=="
 ---

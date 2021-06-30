@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-27-uk-surgical-robotics-start-up-cmr-raises-600m-at-3bn-valuation.md",
+      "title": "UK surgical robotics start-up CMR raises $600m at $3bn valuation",
+      "excerpt": "UK robotics start-up CMR Surgical has raised $600m in what it says was a record private financing round for a medical technology company, pushing its total funds raised above $1bn and giving it a $3bn valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
+      "originalUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e047ce0-6272-480b-a275-e2a14c514e09.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
+      "publishedDateTime": "2021-06-27T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-lendbuzz-raises-60m-using-ai-to-finance-car-loans.md",
+      "title": "Lendbuzz raises $60M using AI to finance car loans",
+      "excerpt": "Lendbuzz, which was founded by Israeli entrepreneurs in Boston and recently opened an R&D center in Israel, scores $60M in equity and another $300M in debt",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
+      "originalUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/06/Lendbuzz-company-picture-1624437960-2048x1365.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
+      "publishedDateTime": "2021-06-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-medical-ai-confronts-pesky-problem-people.md",
       "title": "Medical AI Confronts Pesky Problem: People",
       "excerpt": "A statistical measure called “area under the curve” told Mayo Clinic researchers their new artificial intelligence (AI) tool was terrific. Then their doctors threw them a curve ball.",
@@ -301,49 +387,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-26-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech.md",
-      "title": "How Tesla is using a supercomputer to train its self-driving tech",
-      "excerpt": "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/tesla-self-driving-supercomputer/",
-      "originalUrl": "https://www.popsci.com/technology/tesla-self-driving-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-26-how-ai-is-taking-over-our-gadgets.md",
       "title": "How AI Is Taking Over Our Gadgets",
       "excerpt": "AI is moving from data centers to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls.",
@@ -403,7 +446,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/25/8-founders-leaders-highlight-fintech-and-deep-tech-as-bristols-top-sectors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -529,49 +572,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-facial-recognition-use-by-federal-liberal-party-raises-issues-here-says-bcs-privacy-commissioner.md",
-      "title": "Facial recognition use by federal Liberal party raises issues here, says B.C.'s privacy commissioner",
-      "excerpt": "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/british-columbia/facial-recognition-liberals-1.6081006",
-      "originalUrl": "https://www.cbc.ca/news/canada/british-columbia/facial-recognition-liberals-1.6081006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6081061.1624665370!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facebook-privacy-20190425.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6081006",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6081006",
-      "publishedDateTime": "2021-06-25T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

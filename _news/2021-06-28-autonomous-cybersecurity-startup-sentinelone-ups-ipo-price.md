@@ -40,6 +40,20 @@ related:
         width: 1539
         height: 731
         isCached: true
+  - title: "Here's why hedge fund titan Dan Loeb, famous cybersecurity expert Chris Krebs, and Ashton Kutcher are betting big on AI startup SentinelOne's IPO"
+    excerpt: "SentinelOne's IPO may be an opportunity for the firm to pull together cybersecurity, data-management, and AI for government and business, experts say."
+    publishedDateTime: 2021-06-30T10:00:00Z
+    webUrl: "https://www.businessinsider.com/sentinelone-ipo-ceo-chris-krebs-dan-loeb-cybersecurity-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://i.insider.com/60db90eb36cf170019de89e9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "d/XeHbZ7gikDEzv+n067DnyXEe9pCFP56vgrw2waYaf1UqFEsvFwuctgh82mkdOIHW+o7/Y5TcxtzeXDLac6jxtlVYcfxHyxnUd9q3JF5Kbcuq/ms1J91fO/Xs7OtQ0PxBNuZ2tr/isPvrKCVoD3WhtHRiFjvNmSov/XyWVACSBtoDMp2+bQtjVOZ6UdF0wbl9WSEl1l7bxhAjOrynpsuwuOqBU+lOXRzAba5/1r4/8sYhReULYiwOqAds/faKM67PO4Fw5G8YwkBtN9t6cFh6oPpxamPrGltoTDfDnVHsepOMfsGeJr9iX0U3GBMcP21xRtjnY6vqk0UzhZB939EkDjN7aBFsHyPUpWZ3t+JCo=;teg6O37Tto/0fMBtwmOyow=="
 ---

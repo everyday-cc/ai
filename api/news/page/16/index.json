@@ -444,24 +444,33 @@
     {
       "path": "_news/2021-06-17-msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization.md",
       "title": "MSRcosmos Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
-      "excerpt": "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads and managing app services in Azure.",
+      "excerpt": "MSRcosmos ( today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-has-earned-modernization-web-applications-microsoft-azure-/2021/06/16/9392126.htm",
+      "webUrl": "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_868b1889-b9ec-52c6-acd1-0923ab5e18c2.html",
+      "originalUrl": "https://www.dailyrecordnews.com/news/state/msrcosmos-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization/article_868b1889-b9ec-52c6-acd1-0923ab5e18c2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T11:43:00-07:00",
+      "publishedDateTime": "2021-06-16T11:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Ellensburg Daily Record",
+        "domain": "dailyrecordnews.com",
         "images": null,
         "publishers": null,
         "authors": null

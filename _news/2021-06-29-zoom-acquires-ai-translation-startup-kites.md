@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt.jpg"
         width: 850
         height: 519
+        isCached: true
+  - title: "Zoom acquires AI company Kites that develops real-time translation"
+    excerpt: "Zoom has announced that it is acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions) to \"make collaboration frictionless.\""
+    publishedDateTime: 2021-06-30T10:04:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/06/30/1085331-zoom.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Zoom investing in real-time translation following acquisition of AI company"
     excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"

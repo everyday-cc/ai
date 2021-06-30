@@ -55,6 +55,20 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "FinTech Company Centime Launches Cloud-based Platform to Control Cash Flow"
+    excerpt: "Centime, a FinTech company, today announced the launch of its Cloud-based Cash Flow Control solution. With its state-of-art solution,"
+    publishedDateTime: 2021-06-30T10:11:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/fintech-company-centime-launches-cloud-based-platform-to-control-cash-flow-874115442.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1555024/Centime_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "VBmJWkDC1MFIxWTfn0PaYlupQOc+5uFYCsHk+RDBtzHzIi331wFdQfqfvQ9IG5SJ2xJaO1AGnzi2N/2hqL3lWWRpahKYwJZcqiw1SOKcEAdChaWVVZJOLnh5O6yO9zRmQaFvdIQONbUZZcnYoBuUwvMA+5BujVBPKJTOOvDseLzecM2mYitXIpmrEUKGO0zhJ039Hj2j7blHhwrmusNovdBgPepo1r6o+4I1BfwRw6Cpebuj+vlij74iNLlABcyfP0MGRoxyjdO2g5zzjrj/SQfi6i/C0EafjYBcxfUp3WY1Uf5CxnkNsXyZgzyXsSfyCJVqcXiyILqpddr3MpK6qwDmndjQpAByLa3HFNnxCQ/b0K0imlIx63n4F/J3nPT2OS80Lo1oDkHJP7J9Kd9eJtcNM5we/Nj68Ccb5EDaxts07G+elDWzmSItSkDTFdPB6HwCkGGzyo86RJa+GNhJE2BK9cykBbbF/bnZKpPGHapG4G7BI5JYgSFraoRybNA1CLAw02UVyA8qpMhuE78d/Q==;4JhVDqMcd5/82FhfdNPwHQ=="
 ---

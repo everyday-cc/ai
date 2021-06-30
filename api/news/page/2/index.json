@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-29-using-artificial-intelligence-to-overcome-mental-health-stigma.md",
+      "title": "Using artificial intelligence to overcome mental health stigma",
+      "excerpt": "Depression is a worldwide problem, with serious consequences for individual health and the economy, and rapid and effective screening tools are thus urgently needed to counteract its increasing prevalence.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/mentaldistre.jpg",
+          "width": 1500,
+          "height": 1158,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
+      "publishedDateTime": "2021-06-29T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
+      "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
+      "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
+      "originalUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Reading-Sidekick-Echo-Show-Book-List.png?w=680",
+          "width": 680,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
+      "publishedDateTime": "2021-06-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-microsoft-launches-azure-arc-enabled-sql-in-general-availability.md",
       "title": "Microsoft launches Azure Arc-enabled SQL in general availability",
       "excerpt": "Microsoft today announced Azure Arc-enabled SQL, which extends Azure services to edge datacenter or multicloud instances.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -623,7 +717,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1152,111 +1246,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-the-linux-foundation-is-working-to-improve-voice-recognition-ethics.md",
-      "title": "The Linux Foundation is working to improve voice recognition ethics",
-      "excerpt": "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-970156432-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-the-journey-to-fairness-in-ai-qa-with-new-york-times-best-selling-author-abigail-hing-wen.md",
-      "title": "The Journey To Fairness In AI -- Q&A With New York Times Best Selling Author Abigail Hing Wen",
-      "excerpt": "Abigail Hing Wen has a knack for trying and succeeding at new things. A lawyer by trade, Abigail worked in Washington D.C. for the Senate and as a law clerk for a federal judge before moving to Silicon Valley and charting a new course in venture capital and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
-          "width": 400,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
-      "publishedDateTime": "2021-06-28T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-gith
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/06/james-harrison-vpOeXr5wmR4-unsplash.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "GitHub’s new AI tool is like predictive text for programmers"
+    excerpt: "The Microsoft-owned company has teamed up with OpenAI to launching a technical preview of an AI assistant for coders."
+    publishedDateTime: 2021-06-30T10:13:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/github-microsoft-openai-coding"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/Coding.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "GitHub’s new Copilot programming assistant uses AI to generate code"
     excerpt: "Microsoft Corp.’s GitHub unit today debuted a tool called Copilot that uses an artificial intelligence model based on OpenAI’s powerful GPT-3 algorithm to write software code automatically. Developers write code in specialized editors called integrated development environments that provide many time-saving features."

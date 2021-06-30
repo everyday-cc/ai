@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Will a self-driving update send Tesla’s share price higher?"
+    excerpt: "Having had a phenomenal run during 2020, Tesla’s [TSLA] share price has had a sluggish first half of 2021. Will hardware and software developments help push Tesla’s share price higher? Since the start of the year (through 29 June),"
+    publishedDateTime: 2021-06-30T09:15:00Z
+    webUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher"
+    ampWebUrl: "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
+    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 59
+    images:
+      - url: "https://assets.cmcmarkets.com/images/MUSK_2906_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
   - title: "How Tesla is using a supercomputer to train its self-driving tech"
     excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
     publishedDateTime: 2021-06-26T09:00:00Z
@@ -33,29 +49,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Tesla’s Full Self-Driving v9 Beta And FSD Subscription Model Delayed Yet Again"
-    excerpt: "Those waiting for their full self-driving Tesla are going to have to wait a little bit longer after Elon Musk once more pushed the release back."
-    publishedDateTime: 2021-06-25T20:23:00Z
-    webUrl: "https://www.redmondpie.com/teslas-full-self-driving-v9-beta-and-fsd-subscription-model-delayed-yet-again/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 50
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/tesla-model-3-1200px.jpg"
-        width: 1200
-        height: 640
-        isCached: true
-  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
-    excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
-    publishedDateTime: 2021-06-29T16:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deeprouteai-level-4-self-driving-technology-provider-supports-/2021/06/29/9400205.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "L7v+gXWJjUq3J8g75AFK1P6+d6gHhl7ZxEkCmjdLxAVjZFpOv0xiB2tpfMslvDu2VY8NIkkMQ5jPvRf8kK7c5Q3YA1zWvRIkILg2OrN35hTTDzCtfScJhXrIZDp38D8a8zPFUy/XeqCaiTK1ShAWsJl+6aYY7rFVkBdMWr1RRBbDJSxjexf43DuweJm9itMGKAfsy6AbZdUwMCS01s+06uLEVJpXInc0Tq0BP7Zd95VZNVxrZVFHcPa3KwqWtYnikx3lRRyf8r2WV7AGow8zlA2zZHJLjOI/4ko2BOHtirDuY47aWmsw2sflnMtqO4ilJg//+Zjk35RzaVtrBaitPPX8pHWkKEMiEoFXPkUR19L7TzkYFcuNGuXizeRtNVSqY1kKAgsVl60DARthKSEa2nQDuUd5LC+tJUviitHR+p9CiBbloKbissnMFFaqdyN5NfVUlkEKmteAXu9pKX5BeLpA3gW+J8qfhA97hFFMdDPhIYwzGX77BEsITmZkkwIrXnPiwPffFlrSNmdZRLV/NQ==;IWFV2BEybEZQGf9N47Cwaw=="
 ---

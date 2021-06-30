@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-industrial-ai-is-here-but-is-your-organization-ready-for-it.md",
+      "title": "Industrial AI Is Here, But Is Your Organization Ready For It?",
+      "excerpt": "This readiness checklist should be taken as more of a guidepost, rather than a one-size-fits-all prescription for making your organization AI-ready on day one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/amp/",
+      "publishedDateTime": "2021-06-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-industrial-ai-enterprise-detect-technologies-raises-12-mn-funding.md",
+      "title": "Industrial AI Enterprise Detect Technologies Raises $12 Mn Funding",
+      "excerpt": "The company plans to further expand its global footprint to fulfil the accelerating demand for industrial automation",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/376146",
+      "originalUrl": "https://www.entrepreneur.com/article/376146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625050931-DetectTechnologiesFounders11.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376146",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376146",
+      "publishedDateTime": "2021-06-30T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-will-a-self-driving-update-send-teslas-share-price-higher.md",
+      "title": "Will a self-driving update send Tesla’s share price higher?",
+      "excerpt": "Having had a phenomenal run during 2020, Tesla’s [TSLA] share price has had a sluggish first half of 2021. Will hardware and software developments help push Tesla’s share price higher? Since the start of the year (through 29 June),",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/MUSK_2906_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/opto/will-a-self-driving-update-send-teslas-share-price-higher_amp",
+      "publishedDateTime": "2021-06-30T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
       "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
       "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
@@ -229,58 +375,6 @@
         "name": "WRIC",
         "domain": "wric.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
-      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
-      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -606,7 +700,7 @@
       "originalUrl": "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -798,13 +892,13 @@
     {
       "path": "_news/2021-06-29-ambi-robotics-selects-dwfritz-to-manufacture-ai-powered-robotic-systems.md",
       "title": "Ambi Robotics selects DWFritz to manufacture AI-powered robotic systems",
-      "excerpt": "Partnership to build a custom, AI-powered robotic solution for pick-and-pack fulfillment operations {/exp:eehive_hacksaw",
+      "excerpt": "Ambi Robotics, an artificial intelligence (AI) and robotics company that develops advanced supply chain solutions, and DWFritz Automation, a global provider of high-precision automation and metrology solutions,",
       "sourceUrl": null,
-      "webUrl": "https://www.scmr.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
-      "originalUrl": "https://www.scmr.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
+      "webUrl": "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
+      "originalUrl": "https://www.logisticsmgmt.com/article/ambi_robotics_selects_dwfritz_to_manufacture_ai_powered_robotic_systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -820,11 +914,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:05:00-07:00",
+      "publishedDateTime": "2021-06-29T08:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -992,7 +1086,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1120,100 +1214,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-using-artificial-intelligence-to-overcome-mental-health-stigma.md",
-      "title": "Using artificial intelligence to overcome mental health stigma",
-      "excerpt": "Depression is a worldwide problem, with serious consequences for individual health and the economy, and rapid and effective screening tools are thus urgently needed to counteract its increasing prevalence.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/mentaldistre.jpg",
-          "width": 1500,
-          "height": 1158,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
-      "publishedDateTime": "2021-06-29T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
-      "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
-      "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Reading-Sidekick-Echo-Show-Book-List.png?w=680",
-          "width": 680,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids/amp/",
-      "publishedDateTime": "2021-06-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

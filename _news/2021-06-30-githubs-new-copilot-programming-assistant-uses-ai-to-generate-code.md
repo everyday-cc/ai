@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "GitHub’s new AI tool is like predictive text for programmers"
+    excerpt: "The Microsoft-owned company has teamed up with OpenAI to launching a technical preview of an AI assistant for coders."
+    publishedDateTime: 2021-06-30T10:13:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/github-microsoft-openai-coding"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/06/Coding.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "GitHub Copilot, an AI Pair Programmer, Is Coming to VS Code/Visual Studio"
     excerpt: "A new 'AI pair programmer' represents a breakthrough in the third revolution of software development: the use of AI in coding, says GitHub CEO Nat Friedman."
     publishedDateTime: 2021-06-29T17:49:00Z

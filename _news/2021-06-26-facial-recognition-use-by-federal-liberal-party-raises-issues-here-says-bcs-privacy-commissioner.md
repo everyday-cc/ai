@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbc.ca/amp/1.6081006"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6081006"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CBC.ca
@@ -40,20 +40,6 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/4d21995/2147483647/crop/3999x1536%2B0%2B1130/resize/959x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F18%2F0d%2F64c54c824d6fad38cebee40e0236%2Fgettyimages-1147205618.jpg"
         width: 959
         height: 368
-        isCached: true
-  - title: "NDP highlights concerns with the Liberals use of facial recognition technology in letter to Privacy Commissioner"
-    excerpt: "OTTAWA - The NDP’s Critic for Ethics, Charlie Angus (Timmins- James Bay), has sent a letter to the Privacy Commissioner of Canada, it was discovered that the Liberal Party uses facial recognition technology in local nomination meetings."
-    publishedDateTime: 2021-06-25T18:19:00Z
-    webUrl: "https://www.ndp.ca/news/ndp-highlights-concerns-liberals-use-facial-recognition-technology-letter-privacy-commissioner"
-    type: article
-    provider:
-      name: New Democratic Party
-      domain: www.ndp.ca
-    quality: 18
-    images:
-      - url: "https://www.ndp.ca/sites/all/themes/canadandp.themes/canadandp/images/Generic-Scrape-NDP-2021.jpg?1624651312"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "CWDsvOAD456iXU1gcV2MG/2M//UyJCn9mCc40xBzxF/qX75I8nK5Bt1VcDWS5Ym2DPHLaMV50L9eghPB2rgJN8cOBcUvQKKve0Q/Ck+9jsKGB8UoR2Mf8CXRB0ER5jKyGEZqt/16SF+oDh6/9XR1lEytfOz4GlcDQ1zXMZHEA/FHRexnIOWZJdDeDu/fA7np2kjdZXfbJeYecJq1pIOK4L5rf+GhCxqsATbgsqefMjvMAfxP7cSaPgKehCNGLTn7n6V3ls2zXaKje2aw5LzcNWENT4/wFVhsadFK2llrlrcKZy3CrY2oW8DreJGJV10uCkVAdeQtky0NqYrVKk9I3i+0dOTiafQ4We6pZqPAshOjsjDk/IqQa8gWGNRyIpNUiz3NNdplZXfgCu0qokGnSb+nq5kqMYKcCxkQnv7giOR0YmMhzwDisfrROcmoZU264c3Z/3MgWgDpaALCEmf/TPmJRB2qb0yNbwur3QhOdSto2nJcXHZrlRZ8ZAZhX2b3LWRuikn+mMZ3gWNnesZJOA==;rQll2c4yPHXn7x+ccWDnkg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-a
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 70
 published: true
 
 provider:
@@ -26,36 +26,6 @@ images:
     width: 1500
     height: 860
     isCached: true
-
-related:
-  - title: "Black box ploy to fool face biometrics announced by AI security firm"
-    excerpt: "Adding a little calculated noise to digital photos of a face can convince some facial recognition systems that they are looking at another person."
-    publishedDateTime: 2021-06-25T17:03:00Z
-    webUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 56
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "Idemia face biometrics deployed at LAX for international flights"
-    excerpt: "Biometric matches are conducted in the cloud by U.S. Customs and Border Protection (CBP) under the process, which U.S. citizens can opt out of."
-    publishedDateTime: 2021-06-25T18:52:00Z
-    webUrl: "https://www.biometricupdate.com/202106/idemia-face-biometrics-deployed-at-lax-for-international-flights"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
-        width: 748
-        height: 499
-        isCached: true
 
 secured: "c7BGjy8fUXFHxgp8i6fou4RFtNxu8y49w6TO+80VImVVc9yTbnDEJhO+i7ZOHjy5Hl48Ds+irCkniYbRvLOz2MfPGNcoW3TyUPCX57qVENwvpgD7FgjO2BzrbgzwA7xPYdsC2uKwt2mTOTMDyCqAn9dmPKrLa6alefnZfmpebueTEN1t0y62+xr2cth9lhCt6IXCvPcN4JElUx1QYZlYXLc6f1dqUVD4/Qxl8FykpL544YDNwVPXif46YuIG9INCZrCpsZeMsX/iFxEkSjCNNveKoAkO2XoY1IlA3GXhcRHwS1g924BtNc+o3AQb5v6UHfQI8fUVlfwSLVjMFfbcNebRCIJNptQbQNjcROsjS26toDhftpHAiv2QPbAj2ZD8l6N95Z7chE3pd1IkPVS0Wcj9DnpyQ+mZLF9XwF0yjT30Joc1bxYZZPmSVOvUaNUe6C56sJzg8wf5MvKZ/i+AlBpv3KQgCF1/G6BaoE9BpWrGPKqN5Xm42/1aZl+Rzyh3+9r6+gQ30NZfC8ZBRD36iA==;AmWhQ6xgDtBjlpVqTB0sag=="
 ---

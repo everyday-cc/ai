@@ -69,6 +69,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
+    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
+    publishedDateTime: 2021-06-30T11:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "8 founders, leaders highlight fintech and deep tech as Bristol’s top sectors – TechCrunch"
     excerpt: "Bristol proved particularly standard amongst tech traders final 12 months — native companies raked in a formidable $414 million in 2020, making it the third-largest U.Ok. metropolis for tech funding."
     publishedDateTime: 2021-06-26T07:00:00Z

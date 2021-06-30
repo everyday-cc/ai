@@ -75,6 +75,22 @@ related:
         width: 850
         height: 519
         isCached: true
+  - title: "Zoom acquires AI company Kites that develops real-time translation"
+    excerpt: "Zoom has announced that it is acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions) to \"make collaboration frictionless.\""
+    publishedDateTime: 2021-06-30T10:04:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/zoom-acquires-ai-company-kites-that-develops-real-time-translation-693384"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/06/30/1085331-zoom.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Zoom to Offer Real-Time Translation for Video Calls After Buying Startup"
     excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been developing AI -powered algorithms to “machine translate” other languages in real-time."
     publishedDateTime: 2021-06-29T17:08:00Z

@@ -83,6 +83,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "FINBOA Named 2021 TAG FinTech ADVANCE Award Winner"
+    excerpt: "FINBOA, Inc., a leading innovator in digital automation and regulatory compliance for financial institutions, was recently selected as a 2021 TAG FinTech ADVANCE Award winner by the Technology Association of Georgia (TAG),"
+    publishedDateTime: 2021-06-30T11:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-19881675.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Inclusive Fintech 50 launches 2021 competition to recognize early-stage fintechs driving innovation in an era of uncertainty"
     excerpt: "An independent panel of leading fintech experts will select 50 innovative inclusive fintech startups helping communities rebuild from the pandemicWASHINGTON--(BUSINESS WIRE)--#InclusiveFintech50--The Center for Financial Inclusion (CFI) has launched the third year of Inclusive Fintech 50 (IF50),"
     publishedDateTime: 2021-06-28T13:00:00Z

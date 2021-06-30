@@ -3,15 +3,15 @@ category: news
 title: "Facebook wants you to stop fighting in its groups, and a new AI tool might try to calm things down"
 excerpt: "In an effort to cool down what can often become chaotic arguments in Facebook groups, the social network is testing a new tool to spot fights in its many groups so group administrators can step in."
 publishedDateTime: 2021-06-17T01:42:00Z
-originalUrl: "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255"
-webUrl: "https://www.wtae.com/article/facebook-group-fighting-ai-social-media/36746255"
-ampWebUrl: "https://www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
-cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
+originalUrl: "https://www.wmur.com/article/facebook-group-fighting-ai-social-media/36746255"
+webUrl: "https://www.wmur.com/article/facebook-group-fighting-ai-social-media/36746255"
+ampWebUrl: "https://www.wmur.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-group-fighting-ai-social-media/36746255"
 type: article
 
 provider:
-  name: WTAE-TV
-  domain: wtae.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Facebook AI
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "fsQaLmLRgcobJEqRMycOQMdcmmbZHZaD0zJegAROFlhuV68mCavbZYIcI+bEI0xuAxw4lYWiMzqccPaqC9UPG5/N6z58Dc/rrXYg5Mo/Pvrm1GzMLTBOGq2qiY1gHdamhF4gK8De7SyTH3Ch52fB5iG8P44/O+7W4GyQyplu4IZGxpKRiVB55FaG9vkPAO03MVF+gWJGiQ1wOwxb99lk9CrK5f4vMDTxTLYo8Gzce+JCk2e1R7AB+lYGCygzSNVqbD1yPYW1dpT7sLYW9OsFr1+i1eNo3rli5GHWzeXpx22jzmL9221h9NoSdbU39DShmz9BfpB12PUNHPjbb92dKi9UPMCbPiRe1QaZtkkqx5Pn2kqPDSldTTHC3Z/fKCuEwVNh671/xa+jAykyNR85zQxn7m+wdTIhdGdMOezWRtOFZNt6mejAqoQbVLPeIDJFtbJZ39lRE867D+g6+sLmTZ535feijLCZxLNzuEOr11GzePvUyMfdbSb9Na65/7lWkpfJCaBZ/EKXsTJv8bFZAg==;AcMoBgOhJQtqwgkDITfXcA=="
+secured: "Q26FQ2CTbF+9I8UtXxFC2iLbXlENEtdeCQG5yOo3mNStprH/PpJOkfzgnlvLqtyS7BKoll8A+BR7ewekcGvRDq58YoMuz8Ep9nXGR5a1MFBbJZrkC0lRsna2bb21pE4YBCvGcfKHwOsmxkIXEKgQ4xnUIQk1guZKojlN/QaaJfV2h/uvIsEQaA/59mQG5NcLtRFzCGejgR3BxueaLf4hIctrAFqg45VZ8C/HZir6hVUKUSSWe2jva56mrhyrt7IAarfKNIKVd09Ee7/+Wka8Zxert2yrxd4WkkhdFUeDuJH/e6ncqkFjDJzLodVNY9yD2eoHhVcAaCclt1IL9m0KYACyQh7c1Sn9JZQJxrTiIl4=;S1pHb6vgJpDqLAKGc7/6kg=="
 ---
 

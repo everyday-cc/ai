@@ -49,6 +49,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DataDx Version 2.0 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to DataDx 2.0 to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2021-06-28T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=491726"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 69
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "OAG’s Flight Info API now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to the Flight Info API to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategiesLONDON--(BUSINESS WIRE)--OAG,"
+    publishedDateTime: 2021-06-28T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=491635"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 69
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft, SES and GRC demonstrate the power of combining Microsoft’s Azure and secure MilSatCom to bring Artificial Intelligence and Machine Learning to in-theatre operations Operating in both connected and disconnected modes,"
     publishedDateTime: 2021-06-30T07:39:00Z

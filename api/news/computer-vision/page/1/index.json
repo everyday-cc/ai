@@ -116,7 +116,7 @@
       "originalUrl": "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -329,49 +329,6 @@
       "provider": {
         "name": "The Tribune",
         "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-facial-recognition-use-by-federal-liberal-party-raises-issues-here-says-bcs-privacy-commissioner.md",
-      "title": "Facial recognition use by federal Liberal party raises issues here, says B.C.'s privacy commissioner",
-      "excerpt": "The use of facial recognition technology by the Liberal Party of Canada as part of its process to pick candidates in the next federal election could result in a privacy investigation in British Columbia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/british-columbia/facial-recognition-liberals-1.6081006",
-      "originalUrl": "https://www.cbc.ca/news/canada/british-columbia/facial-recognition-liberals-1.6081006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6081061.1624665370!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/facebook-privacy-20190425.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6081006",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6081006",
-      "publishedDateTime": "2021-06-25T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1466,6 +1423,41 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services.md",
+      "title": "Tractable becomes world's first computer vision unicorn for financial services",
+      "excerpt": "The round doubles the total raised by Tractable from $55M to $115M and values the company at $1B – making it the world's first computer vision 'unicorn' for financial services. When drivers get into an accident,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210617ny13940/tractable-becomes-worlds-first-computer-vision-unicorn-for-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

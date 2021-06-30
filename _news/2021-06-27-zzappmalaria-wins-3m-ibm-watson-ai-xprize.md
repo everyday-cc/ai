@@ -52,20 +52,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 54
-  - title: "CMU Spinoff Marinus Analytics Awarded AI XPRIZE Third Place"
-    excerpt: "Marinus Analytics, a Carnegie Mellon University spinoff company, won third place and $500,000 in the IBM Watson AI XPRIZE competition."
-    publishedDateTime: 2021-06-25T18:56:00Z
-    webUrl: "https://www.cs.cmu.edu/news/cmu-spinoff-marinus-analytics-awarded-ai-xprize-third-place"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 39
-    images:
-      - url: "https://www.cs.cmu.edu/sites/default/files/web_Traffic%20Jam%20Visual.jpg"
-        width: 600
-        height: 331
-        isCached: true
 
 secured: "VDroiqrlA/hq+n4ULrZyDD/8oWoZyjb9Wz61Wyqe2YINIPMTiTMe8j2gdxhLUH46poDA1sUx2h3/4AHCuyPNGG/d6RrsFhg0lEoF3nKFPQHin3Z8UjCy4/uoGjm5WKuXOkmApn8tPNZrEQqVf84hhLLi98US11VCvbdmFaWCv56kYKBRr5Uz58p+u8Q3v4lm43yio1GzqUhZcrPUSS1yQSF75j9bkUvhG+gAYKNZpwaGW44IkWgomdE7iKlChSVbgHBy32Qmqh2CqOdoZXidfm80pLTZ8jt/xmHAPmRthGhFzoss6kGIffL2mxHUD2V3AoeFCm8aCa5RHMTaLlMUl6FZlvZVdFH0rB2zuoLR76WHSVnj0tgIc5OBTcZENTVgS+mGTui9mGGTJ5B3gziA9qH9wnoNX+eshmMTjQhX50r6lo8CsvkXmioBNetq4vW9aEXA5xh9Waw31Els285N/o5KcVX6I6UDWeRB+3fwhf2YSIX6VjYO1Nvp8WMmnCUAaJVKBn6jxZxErJkeZyqOvg==;FyRz04ho4Qx26Nog+g8Qfw=="
 ---

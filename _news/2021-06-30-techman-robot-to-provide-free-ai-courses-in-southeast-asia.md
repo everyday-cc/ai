@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Techman Robot to Provide Free AI Courses in Southeast Asia"
-excerpt: "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,"
-publishedDateTime: 2021-06-30T03:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050"
-webUrl: "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050"
+excerpt: "To tackle the challenges brought by the COVID 19 pandemic, the manufacturing industry really has to step up and transform by adopting more standardized, automated and intelligent solutions. Artificial intelligence,"
+publishedDateTime: 2021-06-30T03:00:00Z
+originalUrl: "https://www.ryt9.com/en/anpi/250689"
+webUrl: "https://www.ryt9.com/en/anpi/250689"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 54
+heat: 64
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg"
-    width: 400
-    height: 257
+  - url: "https://www.ryt9.com/img/files/20210630/iqcfa26056eb1f606a0149c06f81655937.jpg"
+    width: 850
+    height: 546
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 546
         isCached: true
 
-secured: "TIGa+OqoYaG/p8cFxY6P3AJ2bpnZJL1vaG0Iyd5NbF+NaTC8LRMHAJhBTd08KYGeBvS0TY+yY/ELtJQEw/F3qXVG59WKozj0pkOws7TBcm2VKMCenHbQr4QtuXOrSd89ZSHukKrfIb+5EdtLzjbMpogAcIwsAvVrL9B2oOBTZ2b1cjJ6GA/X1QMue3dNfjXyS1Cnn6GKmdQxNwb87WlQ/LlHGmXlV4IFjFZ6WK79BirPJx+wnIsQ0TPIA7yWuFnA0XYjcwi2//kd1cpx0ByKPT1nBS6Qh75LbyZ3nMcbtha3oWTd0efir2gayyEhBNlIHp6V9BBDgm0JfQyLaC3uaVAk9L8wSylzqTbbk5BBF+w=;FV97HZMjOpj3YtzsSzjflQ=="
+secured: "XB8KvWirUWW2al5igd3ovXne5iTaLoLlrFaSheCY1pFK4S/Vqx80kk325rfkCyyVm83EM5oy6PKtJOLfz1/C35XgnCIImhGeW1ziFLDojS/3pthIIJaHxRwEgsIcTvpeZ+lfcgmZbP/ZSMcR6Xzs7OEJiOD6oi4P+zkffq8GDelGJ35yMdkHVsiVRE3QdbWv9iAITnYzDg7B/fE7TBK6nMPPCTQQdGx2edehk+YaHOoQnL149mpbZCt+8LOF+tTxlhMfkP4WG1aRYMiBMdx8b3CsAdeQXL8zHsQUCwDGBYTDKf6hVxOeC1jDo2k3mk28psvyRd17Rn6eIaAor8hnsKKVb1lvdNFeoBjOxiDOlGw=;/vJ+iPhpzC4tNr+bivulgA=="
 ---
 
