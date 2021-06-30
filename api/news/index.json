@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
+      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
+      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
+      "publishedDateTime": "2021-06-30T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-an-update-on-our-progress-in-responsible-ai-innovation.md",
       "title": "An update on our progress in responsible AI innovation",
       "excerpt": "Over the past year, responsibly developed AI has transformed health screenings, supportedfact-checking to battle misinformation and save lives, predicted Covid-19 cases to support public health, and protected wildlife after bushfires. Developing AI in a way that gets it right for everyone requires openness,",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.dailydot.com/debug/facial-recognition-maine-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 231,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -211,7 +262,7 @@
       "originalUrl": "https://www.slashgear.com/parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision-30680554/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1199,57 +1250,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes.md",
-      "title": "Lollipop AI launches online grocery marketplace where you can build your own recipes",
-      "excerpt": "As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Founding_Team.jpeg?w=775",
-          "width": 775,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
-      "publishedDateTime": "2021-06-29T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

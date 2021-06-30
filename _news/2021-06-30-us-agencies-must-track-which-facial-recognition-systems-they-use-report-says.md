@@ -47,6 +47,22 @@ related:
         width: 1130
         height: 756
         isCached: true
+  - title: "Facial recognition tech has been widely used across the US government for years, a new report shows"
+    excerpt: "As George Floyd's death sparked protests in cities across the country, six federal agencies turned to facial-recognition software in an effort to identify people in images of the civil unrest, according to a new report from a government agency."
+    publishedDateTime: 2021-06-30T17:15:00Z
+    webUrl: "https://edition.cnn.com/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/tech/government-facial-recognition-use-gao-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 75
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629171548-03-capitol-riot-file-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Feds now using facial recognition at airport immigration"
     excerpt: "When travelers arrive at (the Guam airport) on an international flight, they will pause for a photo at the primary inspection point.\""
     publishedDateTime: 2021-06-28T05:32:00Z

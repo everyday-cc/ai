@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes.md",
+      "title": "Lollipop AI launches online grocery marketplace where you can build your own recipes",
+      "excerpt": "As I’ve taken to online grocery shopping over the pandemic, I’ve always wondered by supermarkets didn’t offer simple ‘recipe’ features would have automatically collected up items for a homemade meal,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
+      "originalUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Founding_Team.jpeg?w=775",
+          "width": 775,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/lollipop-ai-launches-online-grocery-marketplace-where-you-can-build-your-own-recipes/amp/",
+      "publishedDateTime": "2021-06-29T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
       "title": "Machine Learning Aids Insights Into Cows’ Sleep",
       "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
@@ -348,7 +399,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -631,7 +682,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -682,7 +733,7 @@
       "originalUrl": "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 281,
       "tags": null,
       "images": [
         {
@@ -811,100 +862,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-using-artificial-intelligence-to-overcome-mental-health-stigma.md",
-      "title": "Using artificial intelligence to overcome mental health stigma",
-      "excerpt": "Depression is a worldwide problem, with serious consequences for individual health and the economy, and rapid and effective screening tools are thus urgently needed to counteract its increasing prevalence.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/mentaldistre.jpg",
-          "width": 1500,
-          "height": 1158,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
-      "publishedDateTime": "2021-06-29T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
-      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
-      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-amazon-introduces-reading-sidekick-a-kids-reading-companion-for-alexa-and-voice-profiles-for-kids.md",
       "title": "Amazon introduces Reading Sidekick, a kids reading companion for Alexa, and Voice Profiles for Kids",
       "excerpt": "Amazon today announced a new feature that will turn Alexa into a reading companion for children as well as new support for Alexa Voice Profiles for Kids, which personalize the child’s Alexa experience across all Echo devices in the household.",
@@ -965,7 +922,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1121,7 +1078,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1211,6 +1168,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
+      "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
+      "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "originalUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg",
+          "width": 800,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "cdnAmpWebUrl": "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
+      "publishedDateTime": "2021-06-29T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iMore",
+        "domain": "imore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

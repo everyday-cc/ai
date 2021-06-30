@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare"
-    excerpt: "EyeTech Digital Systems' EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual"
-    publishedDateTime: 2021-06-28T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare-301320430.html"
+    excerpt: "EyeTech Digital Systems' EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business"
+    publishedDateTime: 2021-06-28T12:45:00Z
+    webUrl: "https://www.lelezard.com/en/news-19876964.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Le Lézard
+      domain: lelezard.com
     quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/1509178/EyeTech_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Pn1s6m8IFpbzobbXlDMIa1PH1CICYXhFfUcHQgiGyBPHiLIQTuaU2uIU9UeUHZPGyY+srFExWuYHNo6WGt7B2Ch/j3kX+U9Nro+FQ/bsyfa/cqykX+yv5vA5fdNik44DajqJr6n5NlxHDg3I6YgLp9QDYLF0jiWAJrZtZz7wsVddLBIb5rnRJu7CZ6o1ppNzeGXq536KLcz4Gr2AgEGiaEKEyLkoc6dnAWKwJlKeUfJWRRpBV83SGCNg1pKRd9hTGbhGBfMhHHYcgrs/rU7AM2U0fNR7GneoYksKs59v9PyWBsHiZPy9gELk5IOeiZuRs+l/s7QYhscu+Gk9VytCtrSBzpdytKxbmbYjO0/E1t/OnESqZY1v8lIrcFmhwy1PsLF8FDyPbE6rnx7hrwmgXT7VpjZsJR/8mVeQeAZvb4ZfIqyGEFvCV69jxzDLUpcnFEzGpRjxvs/qxh4Qxzpng5fP+vHg1iRA0ydyzahLUm3M5qVO6NxQvuEYib6FiyIiprXt1CbPst9SdDgAsTweJA==;qhhVxqEHPC3Jfwe5TTjAJg=="

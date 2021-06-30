@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings/amp/"
 type: article
 quality: 171
-heat: 271
+heat: 281
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Zoom buys AI company that worked on real-time translation"
+    excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
+    publishedDateTime: 2021-06-30T19:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Zoom acquires Kites for real-time language translation capabilities"
     excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."
     publishedDateTime: 2021-06-29T22:25:00Z
@@ -180,6 +194,6 @@ related:
         height: 493
         isCached: true
 
-secured: "10pP2XKmEwkpQ1ZRNw1n+yfpr0g8HyfJfJ0Vi/jzstNjfkgmwpqiu7hbJ1SL14jj5iEdLcthN7r+z1dPFK/fQnmu7oS2f6z9Sg7N2pWhdFVuNsklhxNC4XWeUWutzobkykCkgkgHFKaPZ7Nxi0JBS4sGEZ7s3NkeJRCbqjaOZVvOOXooGBBq+zyG8GGcdNqh+hRCn7iwzC6qtd5yGFW868epOSqaFIzmmergycMV5UZ4zpDQj9UfPW2HjKLOFxtvIs56+hUVeUsxvmfMt1yBGjw8/UdoIXB0UZLEVif8arVKcOxV6crML/PbmU4iJU9qOjnxaQZkNvExzTANCxnzv30EHyVlAYAgUUxovhMKshQ=;Emhsq5r3En8rASSiIUm9Dw=="
+secured: "kBOUYQqXPzAVWxkkAzjIdmUEW7i8mB3op1ICd8B6HtJE8VE/4dood9oBhU45kwSyKP4Q/Tc0F32myleAcdF6Ydjwxa29zZitfVHliUG4l5aFWD90zrbteLZR/sZoPZ25nmSxNIXRfiHDBMqbJ1UDqiuufwzEfE5hLqWtrS7QarGra+3S/l76dKXN7O0LFVB+FFW8eE5gYAObKttiag2o4MOkn/TGPo6t39gXnr+8tqjT5tetg3AC9hClh9J2tJUEUE5RsIEDNGCay4eamVQ3DUIBkMikUBb8Yke0mOM5U6v+YtXGi5FK2yQUeNpDVdrXy4I2o2m05zIzNggXNdkvlqV5be26a7cZjiwGZ7vhWUo/XEePAz1z+NZNN/9H3uJjmCnitKzgXTlW4TKCzoTZjez7frnE84WRsgq+k4OJ0SpQN2Hj5WGzASOyw1Aidow9nNneQE96gqJYq9LMq3wAyt47lSSQ02TrJ9zc+zJwLWAIvw0eHWOET2sdbsSKErL7AeqEaCTBaz5AaRu2T7nl5tzCgVfFw50kPGNN7MZQWAU=;xJdJBVOZcxBdKKy+TXWOng=="
 ---
 

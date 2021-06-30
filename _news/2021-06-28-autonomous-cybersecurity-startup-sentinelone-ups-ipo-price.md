@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startu
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/autonomous-cybersecurity-startup-sentinelone-ups-ipo-price/amp/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Getting smarter and faster – Artificial intelligence and cybersecurity"
-    excerpt: "Artificial intelligences (AIs) are getting smarter, fast. That’s creating tricky questions that we can’t answer right now. AIs don’t have human-level abilities yet, and they might never have them. But there are questions of responsibility;"
-    publishedDateTime: 2021-06-26T03:45:00Z
-    webUrl: "https://www.fijitimes.com/getting-smarter-and-faster-artificial-intelligence-and-cybersecurity/"
+  - title: "SentinelOne IPO: How The Company Is Riding The AI Wave"
+    excerpt: "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves"
+    publishedDateTime: 2021-06-30T19:14:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/"
     type: article
     provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2021/06/Artificial-intelligence.jpg"
-        width: 1539
-        height: 731
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Here's why hedge fund titan Dan Loeb, famous cybersecurity expert Chris Krebs, and Ashton Kutcher are betting big on AI startup SentinelOne's IPO"
     excerpt: "SentinelOne's IPO may be an opportunity for the firm to pull together cybersecurity, data-management, and AI for government and business, experts say."

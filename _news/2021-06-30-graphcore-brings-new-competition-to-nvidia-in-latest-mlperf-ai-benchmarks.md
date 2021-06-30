@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidi
 ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
@@ -72,7 +73,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg"
         width: 1200
@@ -135,22 +136,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-    excerpt: "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ..."
-    publishedDateTime: 2021-06-28T04:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21737785/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21737785"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737785"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
     publishedDateTime: 2021-06-28T07:01:00Z
@@ -193,6 +178,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "jnTMJMUymIKIruVWj7XEnDcL/X8vJVnCGtRo6LvJE1eL1GRytkAH8Y+EJzRLCrbkGckS3M+K8fy78Lyf++Z88aJ3WzUrE1iQJsMC9TKmNKqzxHiB7HRrkHYYhf1jPJV6WGixSe/+p0/oBK1nEqPFU+uejjxMbQJtFvND+G9S8QicMPkG/qEvEq9DidcvTVVPAF5hIV5tXM7D72aZwmDOx7xZspa3QNUzeoW7o14KZReAwxTYEcHrNiwlmMYSeUHHeMiTRroaoo/zCIfUeyQfeI9tn45NY0me6tE5zJDRcK0kDyY3y6U8+7pZiniID1pmMYL636U6MfyHLOyUmOzBDZIU0hVh+mB3XdMBcWp8ql8=;9moPOsUX5YI/TJd1ey8NKg=="
+secured: "JwW88igeitxfrRwoBgw9EpiY89g8msWN/fMN8ukvHVTk7gYIUSvDqlbEuVeeoxTVv9UAcMYY4OQd4hnLMK2RjlqdcngZwFvZU9zVCSuT+4otwar4O/wafdGJ5DK6utH2MD6Dd0HUIRy94/RlY54T9OAq+Ge8BRWq36SHlfW/vlBBdIAB0+iZGGgxfflKrB51Jb9DvwgFos1YEgqpkr0OHJI/eUYN5j3/aW32t8erqvCZMGv/nMjv+D9Zn++SUMKVFgPUnKtzMOcVfRR4co1eRVm6atRtVkAVBcjdNDglJlR4pfmY6xJNzjJMe144DE746qMxjDkppzUBF9P3fvnG7EpIT7WFhqEUVoQ1WO+kTWArJyNdkKpVC8lu4yqZ5Nvzja7XpYlWJ58JydRPaW/q5tCj8ha1iHU1tVMKYxR7mUqDHLgHqTqI2QZ3jXLIbTFw2UGudUUYuMZsRLpdyDCrZTovFHe/cgJf3JgLqx/EHM9LOcR8Wun3h581EH6cgYs1Cfz6AYhx53ZGaVpiQYBR5g==;bkqDOyxxadIm5mf1k/EVAA=="
 ---
 

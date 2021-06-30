@@ -69,7 +69,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg"
         width: 1200
@@ -85,7 +85,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -131,22 +131,6 @@ related:
       - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/01/2507465e209add3ca495.82472530-Mars-Core-1024x576.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-    excerpt: "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ..."
-    publishedDateTime: 2021-06-28T04:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21737785/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21737785"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737785"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
         isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."

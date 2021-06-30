@@ -46,6 +46,36 @@ related:
         width: 1500
         height: 938
         isCached: true
+  - title: "Parrot’s 4G-connected Anafi Ai drone is the Google Maps car of the skies"
+    excerpt: "Parrot's new 4G-connected Anafi Ai drone has no range limits and a powerful camera for breathtaking photography."
+    publishedDateTime: 2021-06-30T19:25:00Z
+    webUrl: "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/"
+    ampWebUrl: "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 86
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/anafi-ai_lifestyle.jpg"
+        width: 1223
+        height: 790
+        isCached: true
+  - title: "Parrot unveils ANAFI Ai: The first 4G connected robotic UAV"
+    excerpt: "Parrot, a leading European drone group, is pleased to announce ANAFI Ai: a drone that sets new standards and capabilities for professionals. ANAFI Ai is the first drone to use 4G as the main data link between the drone and the operator,"
+    publishedDateTime: 2021-06-30T17:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/parrot-unveils-anafi-ai-the-first-4g-connected-robotic-uav-1030568657"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1555409/Parrot_ANAFI_Ai_Skycontroller_4.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "ZmTYpAUuipHRqKO9GBSGfugpy6xil/hhzbqC17P4YKE+cfct4pJXALcwqMnFldENCluPvoXH+lYv7bsk8Il2TUUQqj4zWyzCBOwxLiO45SrF4ZpqGutCUKAmp8RpmOvxXJbSvA5TB5mjBPdjPnFcQnHfWreSBH2shdY9qjqBnyhvBubkSlaZDfzCTWvzEmE0ULtRBasQYhzuuDTQznUUE8eZeZBwP16Kn1CXdkrgWXuGC7z5M3eLFdE4UOVHVFunovtM8ra8aKxVRUdnYRqCC6IcKdi0UOL7HejoKiAsGnqnOGE5Ba5lBHWLQsYiKpXKAn8cRzBlnFEvkZELgRB1/Gybf32aspRdHKy/5HpRAWZxfOAX0CBXZ7zI8TpvOh7AZdvgB8s1yq1OW6xc+RB4t6G7KGsIHFTks27tOIRjCFjx1yIdfhSlrCgico5NyE/nkVDlDGNnonAYkh1CRIJTvcQn+/uDeZZaQANdLfoNYflb3bAzR763LMuKF00E8fMmRm7BN66mpSB+9EvGoXf2ag==;7PLg+p4viCrsyWpj1GcVjw=="
 ---

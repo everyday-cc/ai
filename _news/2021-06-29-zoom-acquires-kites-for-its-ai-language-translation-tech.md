@@ -162,6 +162,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zoom buys AI company that worked on real-time translation"
+    excerpt: "Proprietary video teleconferencing platform recently announced that it acquiring a company known as Kites short for Karlsruhe Information Technology Solution"
+    publishedDateTime: 2021-06-30T19:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270118590/zoom-buys-ai-company-that-worked-on-real-time-translation"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1625077312.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Zoom acquires Kites for real-time language translation capabilities"
     excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."
     publishedDateTime: 2021-06-29T22:25:00Z

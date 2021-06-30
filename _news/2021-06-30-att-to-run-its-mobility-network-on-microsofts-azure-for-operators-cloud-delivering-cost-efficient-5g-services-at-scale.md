@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network"
-publishedDateTime: 2021-06-30T14:35:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
-webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
+publishedDateTime: 2021-06-30T14:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401145.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401145.htm"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -97,6 +97,20 @@ related:
         width: 624
         height: 416
         isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
   - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
     excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
     publishedDateTime: 2021-06-30T17:11:00Z
@@ -130,6 +144,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "fVI/PB/pCfrCh7e5YVO0WFI099aCGTwUReS9BHIJ4MrLnrI8mzk4+sDwCiVZ7YRqIQRFOW6UgQl7uJWU4id3oxOYFRuPluGcGJ/1rXSc0HB2UmnEVA1719BghhAyB+nfeTC/6YmdIZWTiWUpyQeQN7ZypNu0VIWLWipe2Fdm1oI4P+npp65HrGa3ZIP6ttW6JmyZvihtiE8RHKS0CN8xq915mzGpgw+JHGDkaZFo1RCRqc1oxwlBJL0jpASpskfJSEcNJeTi/hqPa6mF7XjTvDo0zf/Jm2RI67/6OfkA8TU2EsS5r4D7z41k0pVSLdtk7dT/DXz4Z2I0j+DYAUjEhXIi+xsAE0vbEM1lsbqnZA4=;yjZGA/IU2vgq5ij/6uuK5w=="
+secured: "9f5v3kZj75xrUpIACoF0TxRpwX/tCZp9kBfAu6FLjXqvRh9cfZChDREg0Jvt0R96Am5Fjo1fmMH5ErPvKuT3KaV9znu9YKAs8ThVa7nFRdefUxi07t5yMC3VGtylibqqftRMYcQzvzhUHHszFDO1BuMueEpHVLjaXBtwI+CdGvYUaSmzepCTIcNgUZ/geHDcb1NN/P9ScfDEVZ7WSbJaYn9iYtIjUMx06OzD/RbXFnkl6PlISrsmYWHfE5Z1zy9Yq1FlO4l8FPH+ZJLFIVX6sQZRgY5iFan6REYHt6Y7qTXyVFZs0dUF5Wjrr1ANYfdiejZg0g0KNzzIoUc6vnEKLpZIk22da2JxfhJSPiuh7WI=;8AJ2m2rdSgLFz7Lm7VHwRg=="
 ---
 

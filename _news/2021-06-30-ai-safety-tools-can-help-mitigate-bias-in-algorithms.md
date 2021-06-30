@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/ai-safety-tools-can-help-mitigate-bias-in-algorithms/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Bias-Free AI and Algorithms in Healthcare Remain Elusive Goal"
+    excerpt: "Artificial intelligence (AI)–driven healthcare is widely expected to transform medical decision-making and treatment, but AI algorithms must be thoroughly tested and continuously monitored to avoid unintended consequences,"
+    publishedDateTime: 2021-06-30T18:19:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/bias-free-ai-and-algorithms-healthcare-remain-elusive-goal"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/algorithmsshutterstock_184019357.jpg"
+        width: 1280
+        height: 563
+        isCached: true
 
 secured: "lKWGCHomsiqzbnLXHf5/bCtdCrSh+3LJwc50Cs2paccyxFagsFPb7ArzJz82Ut7pRMVrbdphAJyZwIGjl9+CiV7gzkKmegTUcnyY7ahIGex2kGMn2uRhnCLfGxZQ6EC7I+jBgf6SeOazevY9RWQwnIFKusboO//1emY3J96vVDoLfYR95nI9PuPNBqR6QgwyZ+babKQyNEUrVc8PvC/E7mrN+EFeckoyq5mta6fYQNKkcPH170A9sjp9zCimJixVV856KC/OOiF2dpNfqsHUTv+hyKect445TqCzoB3iJ0YNb0hhNA7Ss0AFC1UWYS3dS2lycC52AW4eHJvKZdxdRcEyDNzx72vNQEx/+Z3+9mGtY3cDA1GVk5xYMbPGX013zBk49REfwvVckB8WAQttWuzArXq+GfcJ7jCOvd+y2/TcHcsU1tVKlNJVEkAPP6LI2nseqlAIuW/S+ZcCBWINTlKBaQyJvfOctGqbYT4eTU5/LWAkfx/Y5NG3wZcQlvSNxr4IistuiRr0ga12QKPbCA==;45VwwwoDT759F0Kqqgv9aQ=="
 ---

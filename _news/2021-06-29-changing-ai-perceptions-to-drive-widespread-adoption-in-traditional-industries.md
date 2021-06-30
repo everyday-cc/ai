@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/29/changing-ai-perceptions-to-drive-widespread-adoption-in-traditional-industries/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://innotechtoday.com/wp-content/uploads/2021/06/accessibility-browsing-5g-business-businessman-choosing-1444337-pxhere.com-1.jpg"
         width: 800
         height: 498
+        isCached: true
+  - title: "Business implications of AI within tax & accounting"
+    excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
+    publishedDateTime: 2021-06-30T16:44:00Z
+    webUrl: "https://www.thomsonreuters.com/en-us/posts/tax-and-accounting/ai-implications-tax-accounting/"
+    type: article
+    provider:
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 37
+    images:
+      - url: "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2019/07/blockchain-innovator-940x528-800x450-1.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "New Artificial Intelligence Strategy Board to Lead AI Initiatives for the Association for Advancing Automation"
     excerpt: "Global trade group will promote adoption of AI in industrial automation, focusing on new certifications, standards, education programs and events."

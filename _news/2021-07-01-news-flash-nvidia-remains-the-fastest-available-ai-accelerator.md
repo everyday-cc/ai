@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-re
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg"
@@ -72,7 +73,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
         width: 1600
@@ -135,22 +136,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
-    excerpt: "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ..."
-    publishedDateTime: 2021-06-28T04:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21737785/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21737785"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737785"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
     publishedDateTime: 2021-06-28T07:01:00Z
@@ -193,6 +178,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "Mqrl9ntUgjCmUom0LY9Sq4lhQFf3kS3d/wa1ArZhUENal60BT1v6Ohn6lPH7FngSyWi/WUqRXXjpWkZMZ7EEehOvJdiVoOSPikpi6P4Odq6jujKNfCmf0ZEld42WVVjBCwbeDnWz1NSEaKP7QJu+VDFp2c74GTEECs975kAHrnyuv3/hcF94Xe79BABAZfOzMrirofhxbFl8roP0DdSbp/UBW7ySkCWBo7f9YuIMrR8nh6Qx4kHaTfRJ5Dj3zDJ9JOIDPXB3PpwQsuITc/Q2jHlBoFoFR2fcJspXyVL51gyWScg/lr7o/A6cSrVsfrJCqTkYPjIEg+NJQ6/NEwcYtxgWgvgd9RHCa+kQapsjI8Y=;zZuv5U6/ixbFYe984minog=="
+secured: "4XnEWTO6VO7XE+1INaWtOVUIrrCZxrKvA+QIX/H/kGDB0PUhDNYOL9DqbdeOsV662qxkZiY32cnUNhHrMVRVI5TNZUFoNQ1SAjcz0vxT6d4CP8n5wP7vFFwkEUAPVwFmulnph2M9L1P8Dkn7omkVvBp+WeomL4xXl18czc6oOF4+1GI0Klu51awatLbq4hMN5a9Pig4QacvMBXgZBnu3DrnjRiJSbDef7OvuAvubroq1KzDk36G8VLx9BxZWOBKzHQ4kG4DY4V1HJjNxs//Gj278Q3Egs02cZ1fmYcDCaqA421qNOPOX99M+RFB5nExXftWXUliL54tr13okkww8XJZnu1iGC9dbXU95MtI6iBUEQQsk+UPFe06Q2Wp8XPAzapCkMqlPnSsU4+REEIlxIc9zbDPeJ2bY+tIrVeUP17prIyTvjxVlKb/ZPsGfp3Zpyxldff7IiG9hGI/pAsruPf4Ah6+S/dCXSNeC7glrnFvG0y6Woy//n2uufopPlXHAi0LVy94MDVOUU33PeMDvKQ==;qU//HeKq3hmufQVBgEyOVg=="
 ---
 

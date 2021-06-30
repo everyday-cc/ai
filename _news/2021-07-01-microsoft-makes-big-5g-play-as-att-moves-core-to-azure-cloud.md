@@ -97,6 +97,20 @@ related:
         width: 624
         height: 416
         isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
     publishedDateTime: 2021-06-28T12:47:00Z
@@ -107,18 +121,18 @@ related:
       domain: finanztreff.de
     quality: 42
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
+    publishedDateTime: 2021-06-30T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401145.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("
@@ -130,6 +144,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "7lOAGYj9g4qBTotsyL1OCKVyruHyQZqBfmN7I1NGnrxS9xxmsufuJF/zfq1Hyk5/UtT5h0JAc4k4Q14UXGqt+qiGvLMQhIIFkEBnEzd/7B92HIL9EU7p+T2W/FNwdMRAaKgabyakXQseSOsjbg9Og+P1YbeKdcUjB7iOHrpJrD0NCjDdaucsaVOedLWyOdFkTwgZhyAaa/xhlgm/rSnBDKoNxXBoYVH5AFDTi5syndA6bMawzZbJSA94Y0+fbIrwqz6pJzBHg/07AXUJfMokpFRhRtOALLVOVVcx5K5khQR4xtRRhqKHIoPT+uuH/kEpGnXe/KSPanOwRTvVl+Dlpyz/aSddXWSStg8ff/7Dv+o=;+lHazzcJUuO+SZp+kT69PA=="
+secured: "ZHsodqe1GI5eZrPwLqv97nzeGr1p0lk4qLJUEUyrzQniunXKpN1sbXZyoHSeFuVGJVnSOVtlv2mcZ8ZUJ/myEgSfGVtKadUqidy2TB4ThB3NDEnvmg6QvSuLI1WVZ1qQ3LQ5+xM4PT36vNhKtvS01jHLwknnaZeGW+3KRkQ6ezViAh0vQJhJJqjsCXHe3bEuzuqGNTXmikhOGHzlfymRpUygR1R7p4ig4/koQrMKYfSZCxBkdUeZ9H4vUgEGxRCf2p1waikAG7vZGVsfqeZaQCBw27EwFntZ3mu64/Wj291eXTAU2vW47eFjdKlMLRMiSpYpY4V6Y2l4MZKu5aZ/XJdoch/DBg0lG59B78TaqFvySjNXmrlkPLtq1ZuNC9DA2ujiHKZnqirmi9q5m82G/O4lsMzy8nrhdciRaGMqY9SwEtx9by+5krfNO+mJPv/lWBkV58vRfm+lwVenH97vUXcLFrkBvWF30bGPJk2PZtKzqxzKuZHW09expNfhSqgPSgM9mD2BJxwe95HwwLdA7Q==;NzMVHxSj/SOgOsMeoFFfpA=="
 ---
 

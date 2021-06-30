@@ -91,6 +91,20 @@ related:
         width: 624
         height: 416
         isCached: true
+  - title: "Microsoft, AT&T 5G Deal Gives Azure Telecom Cloud A Boost"
+    excerpt: "Microsoft's Azure for Operators cloud is set to expand with a new deal to acquire AT&T Network Cloud and engineering and lifecycle management software."
+    publishedDateTime: 2021-06-30T17:44:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-at-t-5g-deal-gives-azure-telecom-cloud-a-boost"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026a-12a5232468e4-36b6ef30bd55-1000/microsoft-azure-1.jpg"
+        width: 606
+        height: 456
+        isCached: true
   - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
     excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
     publishedDateTime: 2021-06-30T17:11:00Z
@@ -115,18 +129,18 @@ related:
       domain: finanztreff.de
     quality: 42
   - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network"
-    publishedDateTime: 2021-06-30T14:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T's 5G core,"
+    publishedDateTime: 2021-06-30T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/06/30/9401145.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "Lv+ddt5ouw6Q1njgr73DLjzcYCJAGDR9NRklE8dZOVMzNIf5XkLIoPLv1CFyzMrhyc5a0mNCwH//O2JAXzABg+H4t4SFFBn/DsRazLkekfMIhyJH0fubhTkDAahNUk1PYrEZvMLfNWbm4FTww+770QEITvK+k875rQZmYvNyyjzNT66duCTa+yvYApyjIk2RS3TLJugZ4FRZPuayRQtzw3/CbwEuNYpZm90DinAgxrEYYRRnkN0Pre8BGCbUA8AO3G0fxBwkFtNYoolw5QOJ8Z2ExiNFCyhmmIMCsiVFRIoontfnz8p8wQ9Pa8nm9DMQUrFHlfkkxeK0ATCZgG8z3cis8AQ5hbmhun6/HWHT4IJlDikenuGe/Xo79NJ+FA1Qt/RIswh34JaCkcNSTk2/SKys+A7ZFhzThzRxTmfAu1U13IUf9onG8Y9lpA+YLbYXLdBC53BdBYl4cxLA3esVNFxDVYeo6lq1HjJE0TiWQeW1270P856QOpjxLiFFdWBzXz0QTQDPQ+ce7Lp1RVew+w==;ppx0BoAWi950efsld4B9eA=="

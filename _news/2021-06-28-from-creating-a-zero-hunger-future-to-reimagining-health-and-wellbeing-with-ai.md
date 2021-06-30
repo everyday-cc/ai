@@ -1,24 +1,30 @@
 ---
 category: news
 title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master Code Competition."
-publishedDateTime: 2021-06-28T05:23:00Z
-originalUrl: "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html"
-webUrl: "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html"
-ampWebUrl: "https://m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
-cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
+excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
+publishedDateTime: 2021-06-28T05:10:00Z
+originalUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: vietreader.com
-  domain: vietreader.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
+    width: 763
+    height: 509
+    isCached: true
 
 related:
   - title: "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious"
@@ -94,22 +100,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
-    excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
-    publishedDateTime: 2021-06-26T01:30:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public-41624622848494.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
@@ -225,6 +215,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "67QYnSme/3b+t2gGjAgX1opD3ot/UxsNWLyZwF/vlhXtx3O1Z6vRcCgF8SDXCkNLcqXDRLkBYbXgnCFHWup7Gvo9vk3P6u8D2ECm/dSc6z5i0b5YVlklySDpHMgbgH2XnXbwL/fjT8Ze31csLWtaJAnzR3LN+AfOqRcp+I5UY/lbIH83gQ9cW8lJM/r8Pz0UfvImjjiUNFc6i01E5btGx7/48O1g+TawEkrQDXtn3PZb+hFgCk73JXamlL1rqQ9vAXbBlDIXbRxNPVryMkm09XTfOlGCgSI5umkSomVvncHgr1z//O12NVWBwJxaJJGh4ivqZBsLiyLHaaY2blB2O+HPRDMnzedfadf6lZ+mPFY=;OON1ZHwxvqGoknWgd9h2cg=="
+secured: "CSZDWyClHhjZqHOw+Kqas2+6UWfN802YDBAwUtqv36byoyrahSqP0phtqb7lMhpeiVftkOh/rbGcWxEtOju1OID2x4Or6sr2dyvH1A6MR2pSBMjpcDNMtyxQRSdvcLYSzI/K4DrRYZXASGhok0RFxFOhK6YaSqfXQJjLpDnxdpDe+d+skfVNJ7IFHiLn6VH3Y5Mqs0Fb7iCwSoWxoCVoHavGgZRqAL/GXCVVsqN8cXcqe5XJpZAk7TiNHbRzarABvF2ljpldIsa0RosOTZdtUYnl0S1dVG/FO/VKVdkqsu+FbIIC1Zjvx1mL9PvcrCfs90HChfQwU3wKNkhdc2Ou+I98/5AaXXIC2Fg5NSaSApA=;+9os3awHf1Ll5K9/R+UjxA=="
 ---
 

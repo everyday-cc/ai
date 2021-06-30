@@ -99,21 +99,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
-    excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
-    publishedDateTime: 2021-06-26T01:30:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public-41624622848494.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
+  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
+    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
+    publishedDateTime: 2021-06-28T05:10:00Z
+    webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
+    ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
+      name: Asia One
+      domain: asiaone.com
+    quality: 55
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
-        width: 600
-        height: 338
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
+        width: 763
+        height: 509
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
@@ -191,17 +191,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master Code Competition."
-    publishedDateTime: 2021-06-28T05:23:00Z
-    webUrl: "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html"
-    ampWebUrl: "https://m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 35
   - title: "Poltergeist Attack Targets Self-Driving Cars, Blinding Them Via Audio Signals"
     excerpt: "Poltergeist attack can blur the images perceived by self-driving cars to hide, alter, or create objects, thus affecting the decision-making."
     publishedDateTime: 2021-06-28T08:42:00Z

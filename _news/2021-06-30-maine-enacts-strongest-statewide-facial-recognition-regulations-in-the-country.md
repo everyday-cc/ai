@@ -41,6 +41,38 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Maine Passes Strongest Facial Recognition Restrictions In Country"
+    excerpt: "Maine has enacted the strongest facial recognition law in the country, according to the American Civil Liberties Union of Maine."
+    publishedDateTime: 2021-06-30T19:14:00Z
+    webUrl: "https://www.mainepublic.org/news/2021-06-30/maine-passes-strongest-facial-recognition-restrictions-in-country"
+    ampWebUrl: "https://www.mainepublic.org/news/2021-06-30/maine-passes-strongest-facial-recognition-restrictions-in-country?_amp=true"
+    cdnAmpWebUrl: "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/news/2021-06-30/maine-passes-strongest-facial-recognition-restrictions-in-country?_amp=true"
+    type: article
+    provider:
+      name: Maine Public
+      domain: mainepublic.org
+    quality: 74
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/87b08c5/2147483647/strip/true/crop/2016x1242+0+135/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fd3%2F37222ed14077afac1b02d83a6bf5%2Fap20163038160927.jpg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "Calls to stop NSW police trial of national facial recognition system over lack of legal safeguards"
+    excerpt: "Passport photos used in state’s criminal investigations despite parliament rejecting legislation on controversial technology"
+    publishedDateTime: 2021-06-30T16:32:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2021/jul/01/calls-to-stop-nsw-police-trial-of-national-facial-recognition-system-over-lack-of-legal-safeguards"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
+    images:
+      - url: "https://i.guim.co.uk/img/media/a39cd16da4368de83f7321209e84d4e066e343b3/0_132_5249_3151/master/5249.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b5d8ec74e0bbc9e1cd2b862f8fb606a"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "XGN+fPtcDy0Ij1+7v5PFb64bBtEC1QaI8ubd+Br+9TBmKsBJoFn7HT3qNy9qdP5hEG862p34/ywityftRw0nRGXC+p5K17wCzluh+mnhQ/Qa9yIcNP255wHJg6PtBFhDa58xP5Y5jKoG5e+qgTx9eb4yYPy7jgsZJSu+KxaxgS8j/f/uMJO2aq3F5BIs51LVD1rhfpC+KN4GzFSKFWVbiO4Hq+j1WsOznAoEuBA6i1+eq4R2WI0f/+brwQ048ekBHHrWeDlhShCd35a1L4tT2aFpi7o+dqgtnLhwERfV9VIRJxDZpyqXKdQiqC3wPp8BOevkzRlxDh6EVDCp32ED8MJnpuLoP1NuBBByJxcclVk=;h+6tpcpY/25AAfXp1Va63Q=="
 ---

@@ -97,58 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
-      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
-      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
       "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
       "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
@@ -1424,6 +1372,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-this-nifty-online-guide-compares-aiml-tools-and-platforms.md",
+      "title": "This nifty online guide compares AI/ML tools and platforms",
+      "excerpt": "This Week in Machine Learning isn't just a popular podcast, it's also a one-stop resource for figuring out what ML solutions your team needs.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/twimls-solutions-guide-ai-ml-landscape-map",
+      "originalUrl": "https://thenextweb.com/news/twimls-solutions-guide-ai-ml-landscape-map",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Ftwimlmap.jpg&signature=62642d1c3c56cbe6117febcc78f165e8",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "Machine Learning"
       ]

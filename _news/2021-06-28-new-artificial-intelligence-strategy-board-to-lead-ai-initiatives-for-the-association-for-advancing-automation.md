@@ -57,6 +57,20 @@ related:
         width: 800
         height: 498
         isCached: true
+  - title: "Business implications of AI within tax & accounting"
+    excerpt: "With AI promising the greatest transformation in many industries, including tax & accounting, we need to begin asking what the implications of this will be."
+    publishedDateTime: 2021-06-30T16:44:00Z
+    webUrl: "https://www.thomsonreuters.com/en-us/posts/tax-and-accounting/ai-implications-tax-accounting/"
+    type: article
+    provider:
+      name: Thomson Reuters
+      domain: thomsonreuters.com
+    quality: 37
+    images:
+      - url: "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2019/07/blockchain-innovator-940x528-800x450-1.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Climate change action using AI"
     excerpt: "According to the Forbes article, several emerging AI start-ups help companies decarbonise or reach their net-zero carbon goals. These AI businesses offers services that range from providing climate insurance coverage, carbon offsets and accounting ..."
     publishedDateTime: 2021-06-29T10:33:00Z
