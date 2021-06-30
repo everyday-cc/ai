@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "solvemit"
   url: "https://www.twitter.com/solvemit"
-  followers: 15494
+  followers: 15497
 
 locations:
   - Dubai, United Arab Emirates
