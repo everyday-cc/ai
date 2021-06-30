@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Riiid to lead Artificial Intelligence for education ecosystem track at world's largest AIEd conference"
-excerpt: "Riiid, a leading AI education company and a member of Born2Global Centre, will exclusively lead the AI in Education (AIEd) ecosystem track"
-publishedDateTime: 2021-06-29T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/riiid-to-lead-artificial-intelligence-for-education-ecosystem-track-at-worlds-largest-aied-conference-301321551.html"
-webUrl: "https://www.prnewswire.com/news-releases/riiid-to-lead-artificial-intelligence-for-education-ecosystem-track-at-worlds-largest-aied-conference-301321551.html"
+title: "Riiid to lead Artificial Intelligence for education ecosystem track at world’s largest AIEd conference"
+excerpt: "Riiid to lead Artificial Intelligence for education ecosystem track at world’s largest AIEd conference SEOUL, South Korea, June 29, 2021 /PRNewswire/ -- Riiid, a leading AI education company and a member of Born2Global Centre,"
+publishedDateTime: 2021-06-29T13:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-artificial-intelligence-12bafb8decff0edc00d4b6b1ac540398"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-artificial-intelligence-12bafb8decff0edc00d4b6b1ac540398"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
@@ -20,11 +20,11 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://mma.prnewswire.com/media/1553481/image_1.jpg?p=facebook"
-    width: 1997
-    height: 1047
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "1Uwyn5dzF6DZzB4cc6dK3gntULcZgQE2UxIwkBxjr5hEB1WJz06TRy5f5/XFycNSR6p4CkqD3z4q3w7eQ37cTTOeqIDmSQJ39Zt0EbFAUIWxEd7KtupNdQTl7kko7khJEsOZNOnQ/iwRPhgVAZwN1f9c4lPgcRvURCg3MwIqR/g1YMuXgJhUxsUzQAimZLg/7IHEjs68Y58fWRVHzzkIT+bdwI7Phwe9coFFPv7fhv6pHOGe6VgbVIgynmuhBEipQ466gnQD1NmEwif98fpFIspuHWgJOEgzk+EMHRLzRg/SvhX5pUBIb9uuHA4hjoe6MEWnkuarK/wM+XyIOvDiZGffAU5sRSttzIqSnLQIFbM=;iVB40xFXppply29/vxoBMw=="
+secured: "ZVGqAiHh2xqmJMEBom/nLLDofsMDmJ6pAQfsLW+ypw2z7UVu5zFlrT4mafgWiDs/IUEmioVf3JNs8lhMGWzdNIAjXroXd/BIT19eEwsWwxrdROBo1RRS5x2c/6Q4RbN8FYEXqPrwjDwCPCHlRYuP2cKtU1JLCTWRTBmCiM4yxQ0w8jt2fSOsOlWIxX7vtIWaTLU2sjsyq29PRSWHSyyYw1dZSrKiCftKUsnzPGf7QHeCVp1elg8oO6FMolHqWr+RzCqmsFd6X+YYrA1jFYb9FORfXRrJ4pinoxOAJzWE68VjwPtHmMmV5aw1TC4k5Pt3QJ4Dw3nICp3qieZvGl7KZoLJfK+UiPBESDXYmN3qbB0=;gHsK4ucEHQcUvSKwOQYkFA=="
 ---
 

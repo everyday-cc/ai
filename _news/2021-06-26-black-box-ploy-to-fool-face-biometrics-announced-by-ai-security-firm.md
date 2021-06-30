@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face
 webUrl: "https://www.biometricupdate.com/202106/black-box-ploy-to-fool-face-biometrics-announced-by-ai-security-firm"
 type: article
 quality: 56
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Biometric Companies
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU Privacy Watchdogs Seek AI Biometrics and Facial Recognition Ban in Public Spaces"
+    excerpt: "More than just a facial recognition ban, the proposal calls for automated systems recognizing 'gait, fingerprints, DNA, voice, keystrokes and other biometric or behavioral signals' to be kept out of all of the EU's publicly accessible spaces."
+    publishedDateTime: 2021-06-29T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 70
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/06/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Will the proposed EU AI rules become the GDPR for biometrics?"
     excerpt: "As new regulations governing AI and biometrics technology come into effect, explainability and comprehensibility will become the standard."
     publishedDateTime: 2021-06-25T16:44:00Z
@@ -67,20 +83,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
         width: 748
         height: 499
-        isCached: true
-  - title: "Phonexia suggests use of voice biometrics to tackle vishing"
-    excerpt: "Pavel Jirik from Phonexia highlights how voice biometrics can be used to mitigate the risks of vishing (voice phishing) attempts."
-    publishedDateTime: 2021-06-29T21:21:00Z
-    webUrl: "https://www.biometricupdate.com/202106/phonexia-suggests-use-of-voice-biometrics-to-tackle-vishing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/02125402/android-phone.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "JzIfHtviNPiL540KpAmYr1azWmh2XaLABMDts8tBEgzhC6FE0VsXP/WC4VrZQiGZUBrkYLo7DavRHqKVa3rGA0Z4xIIjETzbdENeMYiccHuHqY0vgR71AzSa2tTt4LSRTpyLTDj1ueUVRKerYP7Q2bQLfmLoEVfTYvPLyf6OhHS9r7z0uRNxznDQO5EAFiD7/pqmpxk21bnlDEqogV/jOvbgPH2MHK62EgjThLixwYfP6snjnUE9oo+aqdg6R6maCE+zqttOt15AYj1602JVSI0mYmjru2Ci0Z9kNLmOoxGPGmgwmVWbKc4WM7A3zNKflHtjqgbwWcBiYiHJZoHD9qHc6cKQGXyKohqb/lmKCJQ=;VmPmB7mM1JrhBzRouNQfKg=="

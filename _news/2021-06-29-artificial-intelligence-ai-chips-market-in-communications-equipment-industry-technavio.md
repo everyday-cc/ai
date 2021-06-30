@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio"
-excerpt: "The artificial intelligence (AI) chips market is expected to grow by USD 73.49 billion at over 51% CAGR during 2021-2025, according to"
-publishedDateTime: 2021-06-29T01:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/n21757779/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/n21757779/artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio"
-ampWebUrl: "https://www.benzinga.com/amp/content/21757779"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21757779"
+excerpt: "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020."
+publishedDateTime: 2021-06-29T01:49:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Artificial Intelligence-as-a-Service (AIaaS) Market in Application Software Industry | Technavio"
@@ -35,6 +39,6 @@ related:
         height: 585
         isCached: true
 
-secured: "HLZnSd9xvpLbiiluM7xt+g47XZZYsKv7JLDOXc5V0uvK0E/ZHacAqqY3UhEgzAKppk0q0iL3cq0fL79Qg9sQoQZTU+Ngyfost1NuBr6wTMBqB/2F6tGc4OEjbmytUGH6DEHwPliFgvVT30MYivj6T+TuHF2zKkzgzPo6kbZUOzLD7yldnUPeHpfUNuncInpaW+nRovHxDzaggtgYorxzc/ZzdnrkoGjRqMyyUJcxIwMm9N4nNjzaBVLyKBK+lZgCi5xiA9/aZHue9z3/LmBlTjo9H2dKwV/JTMFrkFhi6jBbbX885BeX1cjhbFxEnYJDNoRUV+KhKAinK8Isruj4U2+OK5+/D6NHzIicwdgcdZlqsGrVlSbO5yFiUi9uJbfbp8cVL0ElO7/EDF7o9q+FEPskXOtd7qMrDIMQDjQ0LIXJo+ZzYBPuAOwD1tHyfFI/QNmeuWR36+KcZPWSmqupkCFjA19ArwGBToLQcnJ3bvHY2g6WTO38FUijyTF/XcTPQFdLX32QvnMarNilMipW+w==;T5Vsp+3tvRNoyMOlkSh0cg=="
+secured: "sn2KDJZoY9JuIX1+fmK1+nymgWoeYL09nQ6NHkErpvnLyi2o1Mda7fVBwveXmsqtghhseaJngton/lAsBwpz6JHHzaaO+A8yWSvXKPBsRHeN9YrnjWoyAemNvpSLFgoop78p/0MOg5EjtIiyO8+LmfSXyblaQ1Kq3k3JXzDg8rDh7r6w4H7fKAIIZKjmHNL/xWrakTvkXmWRlodkBJ87ZZMziMpZcxntIaVjwVJOun4HYJnP9G06idBRlKkHsO0wqe255FP40ir3xkEB7P3I6pNcCFXc1bxjjvD4TRzcYs+i/L1sbRvyytvK9zr4B/1A7G0m4Ba038IEviFa0btSxy+3Z9veKyJ7lrSvqI/bqh8=;c4QUs/z6lZGCp5X1g01/iQ=="
 ---
 

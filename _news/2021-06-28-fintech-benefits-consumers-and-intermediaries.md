@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "University of Bristol: Bristol Robotics Laboratory hosts virtual conference to showcase cutting-edge research"
-    excerpt: "The conference brings together leading robotics researchers and business leaders to explore how robotics, smart automation, AI and machine learning can benefit organisations, from start-ups to large corporations."
-    publishedDateTime: 2021-06-25T06:06:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 35
   - title: "Qatar FinTech Hub preps demo day"
     excerpt: "Qatar FinTech Hub (QFTH), founded by Qatar Development Bank (QDB) to support the growth of the FinTech industry in Qatar, has announced the Demo Day for Wave 2 of its flagship Incubator and Accelerator Programs which will take place on 1st July 2021,"
     publishedDateTime: 2021-06-28T14:04:00Z

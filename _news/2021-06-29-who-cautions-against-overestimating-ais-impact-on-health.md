@@ -89,6 +89,20 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "WHO: 6 principles to using AI in healthcare ethically"
+    excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."
+    publishedDateTime: 2021-06-29T21:02:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
     excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
     publishedDateTime: 2021-06-28T14:50:00Z
@@ -148,7 +162,7 @@ related:
   - title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
     excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
     publishedDateTime: 2021-06-28T16:53:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+    webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
     type: article
     provider:
       name: Associated Press

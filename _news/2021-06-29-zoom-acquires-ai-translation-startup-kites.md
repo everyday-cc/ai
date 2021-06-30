@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/06/29/zoom-acquires-ai-translation-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/zoom-acquires-ai-translation-startup-kites/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2021/06/Automation-800.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Zoom acquires Kites for real-time language translation capabilities"
+    excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."
+    publishedDateTime: 2021-06-29T22:25:00Z
+    webUrl: "https://www.arnnet.com.au/article/689442/zoom-acquires-kites-real-time-language-translation-capabilities/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/zoom_video_conferencing_online_meeting_remote_workers_one_user_connected_via_laptop_with_a_grid_of_four_participants_on_screen_2400x1600-100837449-orig_1.jpg"
+        width: 740
+        height: 493
         isCached: true
 
 secured: "orz0Y+bcKZjWt89wBm1IdvKsqZ6v+RvCnmHpjLi8hCs6Y+YAhui7d9yWf4TtOdPFvVOkHBd9R1TelOVJtl3NcnlOi36vfNoIk0YMeQJcQtAICA33X8/V8nAn5Wnf2gEs4ugAjrTdGlCZ0gUWCVROsF3n49K/IOO6Mc7YBgRxthZ3+qAgztPlckgTN91MnPJBODz16L6fItqPKSrDt3Dsmzb6tPGKmDmzY2v1YfnQqy9e9fKBh+CNmquB/p+WnQpHsToGgY62LAWcOBQvsF7BXWFyPmwaUXdX1f2Gnc8mXiKUdCRzytNcAf8hzCA0p/7jBxpo83rsEqKvoro8e7R28uwvNMn3JusQQfvVGDoJT+jARNvUTZTMt77+iAOerW5gqoQO7NkQZNchvMM2JdhFniOvbeV5kdk/8INDRdDtS4fRk8SNiiivF+pqrtXVAbvw2Z7TF7xJtavQ9V156FGctnJDeAfPO3i1WPbG9Nou9BYb47o96Zju12xE8rxRpq+PDJ47Vk8tpUcWqv5q3dP6qA==;fmBphLu8oP7UQnLbSlhiUA=="

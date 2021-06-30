@@ -3,8 +3,8 @@ category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
 excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
 publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 quality: 27
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -89,6 +89,20 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "WHO: 6 principles to using AI in healthcare ethically"
+    excerpt: "The World Health Organization released a guide for how to use artificial intelligence in healthcare settings with guidance from ethics, human rights and tech experts, according to a June report. Here are six principles for ethical use of AI: The use of AI shouldn't undermine provider decision-making."
+    publishedDateTime: 2021-06-29T21:02:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/who-6-principles-to-using-ai-in-healthcare-ethically.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "WHO guidance on Artificial Intelligence to improve healthcare, mitigate risks worldwide"
     excerpt: "Artificial Intelligence (AI) holds \"enormous potential\" for improving the health of millions around the world if ethics and human rights are at the"
     publishedDateTime: 2021-06-28T14:50:00Z
@@ -160,6 +174,6 @@ related:
         height: 229
         isCached: true
 
-secured: "SAhKUT9ZNQtQh6g3JWyt+2SKOdaURp4OMz0ujno4K4zpfjkBQm3Q4GDwH1C2d7DFNWRoADB3gekJjk0qyepw46LCaUcP9U7bta0t2QNLxlA5qKxEduVgW5udJM7mwZzSStY8BWmbnTvory9DNnonBeBRjJQ8LvbvrmxTyzHfvumwYca3eyavc3H6SlptmfqNzWRyN6RtadF74DNLKc1Z8mlu3iUQ1VKLt+JN2dzeFGq4e0fncGJwMG5R0apSxPjSks1SdglcWuyCYTvXuW/fn0VfPYkHR8z9sIYQucabCqSSBAstZGVybBYthdRwudplael0R3VybF0wsxz3a2CWLJhyymlKR0bt0NqDxnERIdI=;JBNPquKaLEeEmrrShk3Xqg=="
+secured: "ETft7Fv0zo6BiVIVnJ+w96xKzPLPHI4KNdNy/4aphd/iLFRKTTcNkW/ayHnvCJpCB03rXRUsJvWzWk9y/JQylPGh1sMnaicn/Qbrm0cv6Lyya2TStohmXbYzAnTMq9j2r3rwEdeeY/TanO8rQI6ZuNpwkdO7jVZH0bxi0b1wGsEEGcS/QKTosZatnMpyMkrt9FlNu9t8qi/kPA6HVKYHvD/6A69g9WfQfWpQvLIxRGAuGdIAZeUUZsV0/snb2AgyuGM4aBjRFcNwPNedUVRjNgMhCfRXvpqevIleX/rLpPZsi/T+AVobl1tkNF98h0Nv3m7J5OEb/wF0DkNzKNtUvB6kseR0IgS11Z7qKAwmHuw=;nYKTo/k/MRGydo8BqemCTg=="
 ---
 

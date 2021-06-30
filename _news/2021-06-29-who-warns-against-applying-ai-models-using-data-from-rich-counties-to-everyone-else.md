@@ -2,14 +2,14 @@
 category: news
 title: "WHO warns against applying AI models using data from rich counties to everyone else"
 excerpt: "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions."
-publishedDateTime: 2021-06-29T02:54:00Z
-originalUrl: "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-webUrl: "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
+publishedDateTime: 2021-06-29T09:06:00Z
+originalUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
+webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/"
 type: article
-quality: 63
-heat: 63
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -22,8 +22,7 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
-secured: "4idumgRQhQV16mSG3W3PouWa4kIy6rvFlpu2T/cmpJkSAlP5xm2EbY7H/UaKZWnEKLxNFojL11Zc/ufUJHvyDrbbg5wB1GxL5NC8S4RHUqR2mX4VVd0y9gH2//sJ6aEWr1cWQ0HjXuKqTOGLoDGxoikIpc936fvqa6zqMyqze9qVex5VWQIkmjKzWdNbWrHP8RZ8OgfckKLI6F+hGN5DhwPpVsCxPJdL5j+wwrkQnOaT6oOeQVlGVVRdC+7pNVU0enVLVaxQP1SyrcmQYo72PMF7hCFyqhLhdf3cvVabwRIKidunLrfSGS0KbQM76M13uFmH+mREdD8+lmJ/jZiWCwr74t8/sXDQCucB1uHXpQvM8x8K5dCBnFaWGIgg2jcCzNzS0oNXhvMq3GjY/zMBcjMVDLbUQx+zR5lpC+0LMFmRgGgEbVF/jhkYouW0PuOxO97T6hYjFTT2RqTM5fC5a82AS21UukcKoAFDYdsGj3fT27jKNJ2VIQSBo02YoPGEele57n6YZMZHkAkQarBkqA==;uzGrm9WsnX91BekCYPyLvg=="
+secured: "YZdrMX+j8tVdAhjV+3asWg+rqV+H+mlMPdPD5G34syS1i9X4x1aEI2u7xMvHKaOT9mmO1kdAqQkIMMepJDCJZSaAi/RxQxY3CMarggepSg1j8OtqkEdyqQ/OKuldVw+UaNctdeTJNSJvMmtU3bHl1rOWxekxPwKgVLybUzchLXJbsTnGkLu2hg35211zRIVmH/m/KMtLyHieS8O0VRqSrBWkbLWE8wRqb7ZY7ctxroksEhx/my+75wA0ReqqVmrz1O7Hu18tR9YyShc4qKMtOHOn1K02uc4BCPax6CV4c0Naqkze790Q/+/UYVJmzjwS8dw117ZcjcizF0KL7NNtEZFtIouxfMkAuK4Ky5GI7KevjD46I+UUA4ZmlK8m96WipvkfU/TLkMo9OMoD9JDV4Ly8So0TbgzlQASaaREAVPIfgkbxlw+sgbx8sLwmUfr47zDbjTiBArOL0RbbOKmb9940OGTm65sOYmbTv3O1iz9PGMRtMn0NPmvQXztEaLtMMhtQEtGfWufd//AjKG3v3w==;qWuGrE1HioPV2ilMl3b20Q=="
 ---
 

@@ -87,6 +87,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Zoom acquires Kites for real-time language translation capabilities"
+    excerpt: "Zoom has acquired German start-up Karlsruhe Information Technology Solutions – known as Kites – in a bid to imbue its offering with real-time language translation capabilities."
+    publishedDateTime: 2021-06-29T22:25:00Z
+    webUrl: "https://www.arnnet.com.au/article/689442/zoom-acquires-kites-real-time-language-translation-capabilities/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/zoom_video_conferencing_online_meeting_remote_workers_one_user_connected_via_laptop_with_a_grid_of_four_participants_on_screen_2400x1600-100837449-orig_1.jpg"
+        width: 740
+        height: 493
+        isCached: true
 
 secured: "SboxBRLQpe3XzCrmrF7ZzyiI94PsmrxQIAkxjOoTslaGzL9gGf8rPOmA1R/spQHkUdi27v6+ZASwv+osVLo+pru+7H5Ix+tp+Pv6eUWa/54QV/8V868/7cqqxTlm+WPtarmOVb7okwLGc7Eerkoz/vVIP1fvEKk1/cyqu0RHGiIVEi1th3fexB5Q7gcPD7DJkXjWX2OuDbWuG1xSoWVpNrcUdPuGaw3+76b3Jc4D0pNEVFfklP68JtFpsJKIpFJCzjRCBqPn70eHsiFblbQ5fkVlMyre2lh4y/0YM+U+9hCBZm4o6x6giMnTYJkvr4Rm1Qg26RGdrmAf0DU3UVPn2AhOmHVNzv7dnUOu9qEJfezLSiqS1jsfPFFpRGSXGf9mv/960c39wTOFFM70+QT0hkKoVJ7cdlNDGvU+dVuHNebJLVuRE3mxaj9y1vlbBxmUaqFmDITWsJVStwhXbxrBUAwfVcf07twGqrLihoylAfZuwRMXp9lMAMg5W6Az43V9MhJ60biBaF3VcZ4KC9nEBw==;6BJlo3AnHV9qdcEc/cCtIQ=="
 ---

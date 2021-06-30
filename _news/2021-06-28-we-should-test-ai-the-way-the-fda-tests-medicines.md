@@ -3,8 +3,8 @@ category: news
 title: "We Should Test AI the Way the FDA Tests Medicines"
 excerpt: "To prevent this, we should submit new algorithms to randomized controlled trials, similar to those the FDA supervises when approving new drugs. This would enable us to infer whether an AI is making predictions on the basis of causation."
 publishedDateTime: 2021-06-28T12:35:00Z
-originalUrl: "https://hbr.org/2021/06/we-should-test-ai-the-way-the-fda-tests-medicines"
-webUrl: "https://hbr.org/2021/06/we-should-test-ai-the-way-the-fda-tests-medicines"
+originalUrl: "https://hbr.org/2021/06/we-should-test-ai-the-way-the-fda-tests-medicines?ab=hero-subleft-3"
+webUrl: "https://hbr.org/2021/06/we-should-test-ai-the-way-the-fda-tests-medicines?ab=hero-subleft-3"
 ampWebUrl: "https://hbr.org/amp/2021/06/we-should-test-ai-the-way-the-fda-tests-medicines"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/06/we-should-test-ai-the-way-the-fda-tests-medicines"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "hxwp5n7C1V2MhFk3sRXeXDdhYSZfahSyilf5cSmOBJT9T30eiZ2D9V8SNledFdV8meEzkRaSkHW14Rwr7f2mhLubNfUTBqe5O4bPUmqjASbSqh/n646Q1vygc38eTJZLRU2YUrF+X+EQzk8hq1OolN3QVFt+zl7M410LNJ4mlht/YsXwAQq1jwMZ4i3s6a/HJax86JyCvsOiIBjS+PSAMJhDcyx3hc2viBf59n0CBnTZGYucUiN8kzrhACGyXq0RzXsaEe82aaX69VgSnesoEDJFZl9uRETeKcumW3rCeJJ22LYYO70gElE6/WR6veSomC1ji73b02182Ytfo+gbFfD/QaXT80nutnHmmK6d+gs=;3EB0nL21ukGr3JNSIxDPLg=="
+secured: "IvUPXZ39cOk0eKHPUI25FdNYtnvnDADB74rxo0lU1GrO9FFrItWNC/kxGF3StV06xLcb3RxRoL7rtpRjS+rD+tWbA4WoaFzxWgKTWYx6DgyBh243lJ30BOAyc216p8gUbDYtTCWGKvTPajEEz2vjUiDWFOohkM+WTLKaubaj6DUhbs2u0hoGFp2u6YxJFd8vK2Z5v/0kqcn5J+pUIMk9t+U+PBhtGK1riuhSuqcR98I4xQoJjq6sL8YsLSK6MSlAm6NTFqyn6BppUtHqX6Rl1fOo/BxOj38KV1iyhwoS+xm54Ydr497Vd10jhdyzC49mzqLksgQt0E84nsbIM0qn/BBhGSUgD/dqggDY4a2P+NY=;jUUGrgEPJTyNVS4sPsamwg=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
 excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
 publishedDateTime: 2021-06-28T07:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
 type: article
 quality: 9
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
 
 related:
@@ -50,6 +50,31 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/28/1c102c45-d50e-40bd-b886-ba81441d0b3c/nvidia-ai-on-5g-roadmap-june-2021.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "NVIDIA (NVDA) Makes Key Advancements with AI-on-5G Platform"
+    excerpt: "On the first day of the Mobile World Congress event being held in Barcelona, NVIDIA NVDA made key announcements for the benefit of the 5G ecosystem and expansion of its AI-on-5G platform. NVIDIA announced that it is collaborating with Alphabet’s GOOGL Google Cloud to build an AI-on-5G Innovation Lab as part of their joint vision to accelerate the development of smart cities and smart factories."
+    publishedDateTime: 2021-06-29T22:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-makes-key-advancements-with-ai-on-5g-platform-2021-06-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-makes-key-advancements-with-ai-on-5g-platform-2021-06-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-makes-key-advancements-with-ai-on-5g-platform-2021-06-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
+    excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+    publishedDateTime: 2021-06-28T13:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
@@ -95,20 +120,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-    publishedDateTime: 2021-06-28T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -128,6 +139,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "0waqefMJlvzZIoW7jIF3Fe4BqeoOeNmPEC7DxHh40o2mGzQi5BfF5Lk4Iox55w49TD50YUec4/iu/wXRG9wPJQ38TCvKwy04mq85ic2ijVb+8MYQbXRCa0G834+T0tsNF+k8s2NdbbxEeAUBb61YqKXyOb6kqThkCmbogoZQ+DYQBr7NqKOd9N7AL6KUCnDF8EIkU1ajq6/6cRVfSzk3Qq71hxFtAMF+Ad36bOw1O7YZ0RoQ9DPoFj7AkfwL4plKp+CB6GOw/Fcicbz9cnDNeeGZWdD+jrjK9LdoCx+oUki3FKbXiNolQ9+zjh1rVjeD5vz8EsMc0056T1ttaS65ZmPXjJUCI//P9R73GtoT/8M=;p3JmxZ9YeZcs+BXRZ9KgFg=="
+secured: "vG3O/9YKpwrEMWzvKxKJaUZfti7A9+VaOMMem8nN1QMZ4O054qZKEJlCyi3zMvlsxQKfqAbBprVohWm9v5acVaP0rd5bQw7tu4CvuJO9FJNIA+XSaNB2m8aMRx4fCqNb49tkFn1aTjqitX6ni6PjU3vcL94MLEW9UaD1KAhGQ8L8fUMejUNry7eY93xvCjsS03IvDdClK+D7weSvafLkCvlNcC15FUm1uWiyVot2RNOWjgkmvSanbSDij/Wyv83sAiElq/YfcZDVBQK/atOwJkBDPYAg27AeFhKtbCnpqgvf1SnuJpmvUGHlqUTpJ3XxAx+LOFGYydvuxG4vt8wEQVjoMgxBYyHGJBP6cPWdKY8=;4gJDWv3Dl7qMi8lz2OmSbw=="
 ---
 

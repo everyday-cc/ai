@@ -116,6 +116,17 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "P&R Dental Strategies to Present on Artificial Intelligence and Future of Dental Analytics at NADP CONVERGE 2021"
+    excerpt: "P&R Dental Strategies, LLC (P&R), the premier dental insights company delivering customized, actionable business"
+    publishedDateTime: 2021-06-29T22:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21778246/p-r-dental-strategies-to-present-on-artificial-intelligence-and-future-of-dental-analytics-at-nadp"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21778246"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21778246"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
   - title: "Net Health's Tissue Analytics First to Receive the EU Class I(m) CE Mark For Mobile Wound Care Imaging and Analytics"
     excerpt: "Establishing itself as a global provider of artificial intelligence (AI)-based technology for wound care, Tissue Analytics, a Net Health company, announced today that it"
     publishedDateTime: 2021-06-29T11:00:00Z

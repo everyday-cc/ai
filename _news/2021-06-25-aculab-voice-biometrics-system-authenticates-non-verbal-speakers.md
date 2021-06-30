@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU Privacy Watchdogs Seek AI Biometrics and Facial Recognition Ban in Public Spaces"
+    excerpt: "More than just a facial recognition ban, the proposal calls for automated systems recognizing 'gait, fingerprints, DNA, voice, keystrokes and other biometric or behavioral signals' to be kept out of all of the EU's publicly accessible spaces."
+    publishedDateTime: 2021-06-29T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 70
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/06/eu-privacy-watchdogs-seek-ai-biometrics-and-facial-recognition-ban-in-public-spaces_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Black box ploy to fool face biometrics announced by AI security firm"
     excerpt: "Adding a little calculated noise to digital photos of a face can convince some facial recognition systems that they are looking at another person."
     publishedDateTime: 2021-06-25T17:03:00Z
@@ -66,20 +82,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/10184853/airport-facial-recognition-masks-small.jpg"
         width: 748
         height: 499
-        isCached: true
-  - title: "Phonexia suggests use of voice biometrics to tackle vishing"
-    excerpt: "Pavel Jirik from Phonexia highlights how voice biometrics can be used to mitigate the risks of vishing (voice phishing) attempts."
-    publishedDateTime: 2021-06-29T21:21:00Z
-    webUrl: "https://www.biometricupdate.com/202106/phonexia-suggests-use-of-voice-biometrics-to-tackle-vishing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/02125402/android-phone.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "FZW6Ms2DlJ4H2FnrqNkad0M8ZIy3O+aYhq5wvCdmoNb4LaXtqwQBiqjKxOv/U4JeiyBfAX8E/Pj+G2LBxxUL2W0LdNTfH7QQ4u65OB/0mVQ91mIsn162TQTDJe4n3nYuvhTbA3CciuFSIZWngj4rsRysBDjfuuQxb73KFS7olnSYScwMkAzbZh4YJ1r4PIylSLrlDznFt7s7STzcEFAO+Wya5WQl3vf/H1rg8VAc8wXSbTS/3QeAgKvbykryRPFJZylaS7tW6Ksxn1iTOS+YJF10cTa+lsO5HHqkhu1UE0UoG7aOvCodK5d4frS/zXcBO3956uIiAEG6irgFXlmbvIeX2/GMawFvzC+PmjMFMnBCxrkv5+5FgMM6bX5gTErCdLDHJFIxDBXJ4cMDtyIJxU00rxPUB85hqA45Flr6/ZU/xB/P9hlVENbCM7cALm7DdmgE7HUaTxiTJ0Fg9evFpcGacoBfcl4QWild9Orck1qjsaqmQ38so2yGS18SYcLf2qEKC8qZGrl14NEEEdoAOw==;YUctKYuj/miIZPZobqYz0Q=="

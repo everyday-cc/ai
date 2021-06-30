@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp"
 type: article
 quality: 106
-heat: 127
+heat: 126
 published: true
 
 provider:

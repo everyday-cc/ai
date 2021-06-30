@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "University of Bristol: Bristol Robotics Laboratory hosts virtual conference to showcase cutting-edge research"
-    excerpt: "The conference brings together leading robotics researchers and business leaders to explore how robotics, smart automation, AI and machine learning can benefit organisations, from start-ups to large corporations."
-    publishedDateTime: 2021-06-25T06:06:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-bristol-bristol-robotics-laboratory-hosts-virtual-conference-to-showcase-cutting-edge-research/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 35
   - title: "Fintech benefits consumers and intermediaries"
     excerpt: "The different technologies associated with fintech assist consumers with their decision-making process regarding financial products and enable intermediaries to provide their clients with needs-driven solutions and"
     publishedDateTime: 2021-06-28T10:59:00Z

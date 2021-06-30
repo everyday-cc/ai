@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Supermicro Boosts Performance for HPC and AI Applications with Optimized Servers Featuring New NVIDIA A100 80GB PCIe GPUs"
-excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, announces a wide range of Supermicro servers will support the latest NVIDIA technologies."
-publishedDateTime: 2021-06-28T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-2ba9182c48433cb249695ff719eaa0a5"
+excerpt: "Supermicro servers, designed with a Building Block Solutions ® approach, give Supermicro a first to market advantage when incorporating new technologies. State-of-the-art accelerated computing options can be quickly integrated and tested,"
+publishedDateTime: 2021-06-28T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
+webUrl: "https://www.marketwatch.com/press-release/supermicro-boosts-performance-for-hpc-and-ai-applications-with-optimized-servers-featuring-new-nvidia-a100-80gb-pcie-gpus-2021-06-28"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -57,6 +61,17 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "NVIDIA (NVDA) Makes Key Advancements with AI-on-5G Platform"
+    excerpt: "On the first day of the Mobile World Congress event being held in Barcelona, NVIDIA NVDA made key announcements for the benefit of the 5G ecosystem and expansion of its AI-on-5G platform. NVIDIA announced that it is collaborating with Alphabet’s GOOGL Google Cloud to build an AI-on-5G Innovation Lab as part of their joint vision to accelerate the development of smart cities and smart factories."
+    publishedDateTime: 2021-06-29T22:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-makes-key-advancements-with-ai-on-5g-platform-2021-06-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-makes-key-advancements-with-ai-on-5g-platform-2021-06-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-makes-key-advancements-with-ai-on-5g-platform-2021-06-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Nvidia announces Arm support for AI-on-5G platform and next-gen DPU"
     excerpt: "The next Nvidia DPU iteration will incorporate 16 Arm Cortex-A78 processors and can be deployed in a “fully self-hosted configuration.”"
     publishedDateTime: 2021-06-28T19:59:00Z
@@ -122,13 +137,13 @@ related:
   - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
     excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T07:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/06/28/9398376.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
 
-secured: "BN33x6dSNzftNNdaMag/H2qVyw7Jj9BPmU2Y6yx5ezUH/5YxV586HYYcEetVBPETbVOpcxNAsbRuQc/n6vwWSh63QJOqDa7SWKpU+Klrtf9mUjOSYPsOu4FVZZVqNSvirgi0BeKjmUkP5ybBmU2Of/4ij1NNuDJNzQV9+b5QYzFgvsuJUR18Hxi9DCSLVPNzml+q7VM9Dxwcu6js/tjkQv2vQ2zYd38hujeiYg+Ikj6SRRr9xsMcDR7JrarJ4Qa+5GytjFrJlKPf9POuq8f0WLUsaczn4a4wFF4US10pfYGAMe3rsgiLCl68CFZCHfrF4Tt//tT1sw6pjWAmytQimPteCOHrlEqbEL9jC9oOea4=;+kWnSIO/fDgzFcsiq6ABqw=="
+secured: "FSIGocLxxgI2bXSsDaEfgeXQw3Wj1jvvPqvHBxbe55hg60Vu7KWuAdfuzCiqnarpIPvgH4GdvqcseTe1QmnkqFokimnQzKraP7FuWcnPVSG0bmnjPHtc2fy/6MrfRLE9vQlSwwMsT7q6gbLHZYZc4QnJrSkHfB5UetNEe87u0qf3iXE6VuNlLESfnCF1qG4KeQj/yZ5RIexslQ89SZJgbddhVd1bxiC60fVgy2i72TNdz2OCRJOJvyODCFx1IfJ6HXFU+eg0+PjUmd7jOOln3lsXGfEQoGBHyG/qvvMvQwjiJeb6TCWH2lyKKrsm01wc78/i1LqwBVhJJz9lKCWB2VTXh0f/X5/y2vT559rDWSs=;WtxGNFjKVct8NuB6LXAdUA=="
 ---
 
