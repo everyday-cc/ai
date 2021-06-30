@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-03-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
+      "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
+      "excerpt": "Facebook's AI team is moving all of its machine learning model deployment to the PyTorch framework, and standardizing on the framework for development, the company said Wednesday, during its F8 annual developer event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
+      "publishedDateTime": "2021-06-03T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-nvidia-pivots-to-ai-for-enterprises.md",
       "title": "NVIDIA pivots to AI for enterprises",
       "excerpt": "Some investors think AI is the next Internet gold rush - a look at NVIDIA's latest moves in this space. For more than half a century, innovations in information technology have followed a similar path from the research lab to academics and specialists before evolving into mainstream consumer and enterprise products.",
@@ -1382,58 +1435,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
-      "title": "Google I/O 2021: Being helpful in moments that matter",
-      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
-      "publishedDateTime": "2021-05-18T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

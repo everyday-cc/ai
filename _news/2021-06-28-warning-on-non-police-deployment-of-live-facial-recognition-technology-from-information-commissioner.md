@@ -43,6 +43,22 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Government Watchdog Finds Most U.S. Agencies Don't Even Know Which Face Recognition Systems They Use"
+    excerpt: "Thirteen federal agencies do not have awareness of what non-federal systems with facial recognition technology are used by employees,” the report claims."
+    publishedDateTime: 2021-06-30T17:20:00Z
+    webUrl: "https://gizmodo.com/government-watchdog-finds-most-u-s-agencies-dont-even-1847202064"
+    ampWebUrl: "https://gizmodo.com/government-watchdog-finds-most-u-s-agencies-dont-even-1847202064/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/government-watchdog-finds-most-u-s-agencies-dont-even-1847202064/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/876faa149a1d948194ad5ee553093efc.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech"
     excerpt: "A Government Accountability Office report details how agencies used different versions of the biometric technology during the pandemic and protests."
     publishedDateTime: 2021-06-29T21:06:00Z

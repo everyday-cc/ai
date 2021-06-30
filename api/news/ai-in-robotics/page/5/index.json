@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-25-4-ai-healthcare-stocks-transforming-the-medical-industry.md",
+      "title": "4 AI Healthcare Stocks Transforming the Medical Industry",
+      "excerpt": "An article from the Brookings Institution suggests that “whoever leads in artificial intelligence in 2030 will rule the world until 2100.” This is a big statement and underscores the importance of AI in the coming decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
+      "originalUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-healthcare-stocks-transforming-the-medical-industry-2021-05-25?amp",
+      "publishedDateTime": "2021-05-25T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-taipei-based-computer-vision-startup-eys3d-gets-7m-series-a.md",
+      "title": "Taipei-based computer vision startup eYs3D gets $7M Series A",
+      "excerpt": "Ys3D Microelectronics, a fabless design house that focuses on end-to-end software and hardware systems for computer vision technology, has raised a $7 million Series A. Participants included ARM IoT Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/eYs3D1.png?w=1024",
+          "width": 1024,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/25/taipei-based-computer-vision-startup-eys3d-gets-7m-series-a/amp/",
+      "publishedDateTime": "2021-05-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-researchers-bring-the-sense-of-touch-to-robotic-prosthetics.md",
+      "title": "Researchers bring the sense of touch to robotic prosthetics",
+      "excerpt": "The human sense of touch is critical to being able to perform many activities of daily living. We take our ability to feel how heavy a cup of hot liquid is and make adjustments without thinking",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
+      "originalUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/05/roboarm.jpg",
+          "width": 1500,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-bring-the-sense-of-touch-to-robotic-prosthetics-25674322/amp/",
+      "publishedDateTime": "2021-05-25T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-robotic-arm-sense-of-touch.md",
       "title": "robotic arm sense of touch",
       "excerpt": "Singularity University, Singularity Hub, Singularity Summit, SU Labs, Singularity Labs, Exponential Medicine, Exponential Finance and all associated logos and design elements are trademarks and/or service marks of Singularity Education Group.",
@@ -1204,153 +1345,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-im-not-a-robot-so-why-wont-captchas-believe-me.md",
-      "title": "I’m Not a Robot! So Why Won’t Captchas Believe Me?",
-      "excerpt": "If clicking crosswalks makes your blood boil, you’re not alone. Fortunately, there are some tips that make solving those challenges way less frustrating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/",
-      "originalUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60a433cd350a66847bed9422/master/pass/Sec_Captcha_GettyImages-90404009.jpg",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/im-not-a-robot-why-captchas-hard-to-solve/amp",
-      "publishedDateTime": "2021-05-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-robotics-engineer-develops-cet-drone-to-detect-criminal-hideouts.md",
-      "title": "Robotics Engineer Develops CET Drone To Detect Criminal Hideouts",
-      "excerpt": "\"If this is an indication of a criminal enclave rapidly developing across the country, then it helps us nip the growth in",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/",
-      "originalUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2021/05/Drone.jpg",
-          "width": 1250,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/insecurity-nigerian-robotics-engineer-develops-cet-drone-to-detect-criminals-hideouts/amp/",
-      "publishedDateTime": "2021-05-18T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-robot-artist-ai-da-self-portraits-go-on-display.md",
-      "title": "Robot artist Ai-Da self-portraits go on display",
-      "excerpt": "The robot artist making selfies Up Next. Fabric fantastic: The chemist's made out of felt. Video, 00:03:18Fabric fantastic: The chemist's made out of felt Artists wanted for town's Banksy-style revamp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-57093887",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p09hz0cy.jpg",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-18T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

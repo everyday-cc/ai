@@ -139,16 +139,16 @@ related:
       domain: nasdaq.com
     quality: 54
   - title: "Zoom to Offer Real-Time Translation for Video Calls After Buying Startup"
-    excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been developing AI -powered algorithms to “machine translate” other languages in real-time."
-    publishedDateTime: 2021-06-29T17:08:00Z
-    webUrl: "https://in.pcmag.com/video-conferencing-software/143437/zoom-to-offer-real-time-translation-for-video-calls-after-buying-startup"
+    excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been de"
+    publishedDateTime: 2021-06-29T17:22:00Z
+    webUrl: "https://au.pcmag.com/video-conferencing-software/87939/zoom-to-offer-real-time-translation-for-video-calls-after-buying-startup"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 53
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/z/zoom-to-of/zoom-to-offer-real-time-translation-for-video-calls-after-bu_xtmj.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/z/zoom-to-of/zoom-to-offer-real-time-translation-for-video-calls-after-bu_89bz.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -181,6 +181,6 @@ related:
         height: 493
         isCached: true
 
-secured: "qTl+MqAzE9mR1Ih3AmGyAOXhoEWumCxosHefjVgVGvf7GOB2OE8GO3HUC8+FkfDa5PIMjrWEsnJEvSUVMPYKKYv30qSathbh3BW7nfBNOqoiU9WKQVgDTMKlmE9gixFXm+mTP2TDojOPw9x0263UzJhvbt73O/Ii3SqIDCY38YzWnUzmxp3kKZPAwJN6TWu1Fqrx7CGF1+h23gO0xL9Rsqs//MgJWtG9oNiLekdUDusQ7uQIyQl8BEtpGH9lCmZT5nQS3JSHc2aEv59sTUXCt/vc9Bj7v5JOE/TN1nPGaTvgy6+wmj3hafb0+gog7MCmDQ+eRnuGJZgLN+tzbIgMmpqU1BEyw0GjTtNR7EOCVxQ=;EviciEsp13dM1sm0UnMS5w=="
+secured: "nLB/mOyzHa/Qnhuq5FtqKHM0RR/FAm+se/cjyAo8IpFL1j/fjFolD/7NORPA0BLEYkK7ea3o1wuAEMVNBnQdKSpKz2l6ihhddJ0mAULzhMeb9iiyMSgBUxte+j+pZhzNqOZdczlV+spDRQKjmXexYHFhvvxwkh+/z6hifLfVeqg59123xRcN4K4PwY5N+xl1v2/A/l6DNORajwo6BNvijKhNu35ZZd/ViXwxcgtLUDO8zlrN+4aOX+nxWxvGrNggdjiD3CYULUZaX5EJXxmzUUkPHDHx9RfjLtyfNNjvA6C/xbtHCCOTRL+9SiO+eZNEaHngmkPs3iaSGmCXpyD8pLA7EA4NeRNQpATrnFCQkCJx9Iv9zpxq8Z+0BiE1ljyr1VqMkjpzb2r/CRCh7LkodjMQwLX1k/3ZwSxVYYdiYyzKz2jT7roGzwhnq5ArxVmQsjXbw1N32Jx5AS37vpWUAp82zqzU3Gq6dD6dv9nz5GPllcV7CHqtF2yQg1obQS9cDsjr0czoZKrBtgkCbVFOyA==;16VhwW1WQfs0A+v2YrAAMw=="
 ---
 

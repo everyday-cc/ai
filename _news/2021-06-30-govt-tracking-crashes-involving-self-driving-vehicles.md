@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c07cb6c32656bba197566%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2454%26cropY1%3D168%26cropY2%3D1532"
         width: 1200
@@ -117,22 +117,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
-    publishedDateTime: 2021-06-28T05:10:00Z
-    webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
-    ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 55
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
-        width: 763
-        height: 509
-        isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
     publishedDateTime: 2021-06-28T15:30:00Z
@@ -201,12 +185,23 @@ related:
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.cioapplications.com/newstransfer/upload/3ho8n450308.jpg"
         width: 450
         height: 308
         isCached: true
+  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
+    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master Code Competition."
+    publishedDateTime: 2021-06-28T05:23:00Z
+    webUrl: "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html"
+    ampWebUrl: "https://m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
+    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
+    type: article
+    provider:
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 35
   - title: "Poltergeist Attack Targets Self-Driving Cars, Blinding Them Via Audio Signals"
     excerpt: "Poltergeist attack can blur the images perceived by self-driving cars to hide, alter, or create objects, thus affecting the decision-making."
     publishedDateTime: 2021-06-28T08:42:00Z
@@ -231,6 +226,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "vRVjwLFsDVB0VFPclslBQ/PkUV2099sOgpyctQow5bTgOWXAa3hiPsfGoDvm4oDSc0joFaAXWw2i52m+ypufSTYKlrCOj6FpXlQbm5XGkKi5sByrQhMOKp7W4uJVtwkJRXhy5X/pgl/k7xXEGEr5cHQXtKGk5Y7kM7nH2PSWPaUEpN7XCU57XCY0GkEoz358Vuk4JHIZ7Um0//j5b3FJtFG/SxnfurmVbyogDLuG3oJ4b+C4LK9QC87iESjeyMjoDXqlYh96HuhIYk1JwwS4HJUBPHpW3sJl9eVqiJAEJZBDuiOZX4QH2sgW1CzR3/98RwYjlv8FF2gSS8F2hSwGfiydmeoF+Tc+lMb+C/i7lNs=;LfqxiY8Gfb7iywvL8F/6DQ=="
+secured: "hVMiPOaKKj5IpbY1I1cMlK2XB2bhaP8sG1h2btvXo2rrx+uN3AayD6WcYgws53UYAUg6TNepdkK1QPam6Zwomq1wWQqTqsN2EPI3fe/9Z1dXGeQ2HWSkWEg+7BZ5/jZ7e0TOrOaFm1qNVnqtZbc2xZU4q1h23c0qcd716gUs4UNDnGyzVOwnz7ATnxD9B6r3rbx+WpRxdbnWF+WovtZ5l9Ogc4V7Fr1b+4aKsdF0doqSsE++N/+zMRQCSAQkDlq67gkOhr0FEHN2ucAXcsBEyb/lL9pn4hPMOyJyyhNHqHQTYFrWUNxEUnApnXgyx2RWXwMzJLAjKYHObyYSyrOvkWuWUmNkRmNvyaKbIFsGxNe5orRN+gniCubHhM+vd4AlVuqoVZVJF34+l0eOb0veI4wnJA1mOcBSSOcltbHsybbaKxNXwr9U4bmkd4QPUdTeVxlRnqS5NQzvmdP2/9wdaZXiOikUMwiIlDCUe8c2L92U16u+NmcBsmg23/CviOwKGPs3D0+t4nbDJBHv2LlPQQ==;w67822hePKM4bi87APecvA=="
 ---
 

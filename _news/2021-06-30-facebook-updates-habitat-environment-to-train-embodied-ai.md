@@ -88,13 +88,13 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/habitat-2.0.png"
         width: 1416
         height: 793
         isCached: true
 
-secured: "Hi9asJr0gvRXZbYXpt06ErGwnz74lAzNBbjUxQir/oX1vW8uVWTwH/d0azy0u1XWJwIg5L4+k2qE4aEGHguC2/e93uRizkZHvK9WE/HS5uV/YmM7ZqSVNeIEk6Rr2psQepZ8m2QOkUE2HRTSXIc+ic1R+d4R7LCsipn9TOedoYCG/yVF+XzwuV35legn1kg8wrOuNYo0BILYZnF2IYYXWwV8024NNl2OrAvZsF9n2BR7Jmf61AjS/iMCqT+ls4zBy5+VAPiMUbV/RH5p+YBICRUj+sUYMOeFaT4lm/rhI+8KfUTthKxyee2GgShfCMKTyIjHXBHU9y/PoD5oXDTD5dlXshBiDwO2Ab2Acp5hmnQ=;IVY/e0AMqvCOTnlnH+fdmg=="
+secured: "syDpwjjYWfzwNPZN6NtFQliRJppl7zj1gC1OF5cNaa4ffWYebibZUTe5t8k42iSWIxjTJvpyKIX4zmJIuxsIfSLFtNtU//As+U3vqX4qEll0ZdtYYyP6hisDK9DygwFEbj2soUfjJAunZmzOR+4mMW8c/ltCuWm8/cpI1qhLazuBZ1QEyMXCEXo8qYNwIvmq543h6fK5+3FV7LzyTkTpjc2s4nGHZ4tjFYyIYrAM+RrJ6iypAqsoqCA6pyK3FSA8vRC6es6jxJ16yDbG5DQOfQPuuH4XT1dUiYt04RzHsP+xUD6LIdKq9GrkOi4VzxJ8C1W7F/SByJKl5oI+oaXLJ7KHTsrq6wJdS/QR883oF5HoBJTw8kuJgITJ7Li88e6740Rkj1dwMYGwTcf8i3rzxd+iQNLuHmW+BAcXNviMYUKlcKJ/86bSMW34XyIWvYbKFlRDeREhKJIpLnSmPHS2Aa6JyIf4gXbSyIDpNyH0+gCmKd6GBueAbJoX798eIaKAQuoGrJ6g1FMo4jMEDzAhPw==;ep4C/WGWljm7My13K3NvBw=="
 ---
 

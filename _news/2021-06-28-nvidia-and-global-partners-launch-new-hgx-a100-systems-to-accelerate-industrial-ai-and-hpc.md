@@ -2,22 +2,20 @@
 category: news
 title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
 excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-publishedDateTime: 2021-06-28T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
-webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
-ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
+publishedDateTime: 2021-06-28T07:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
 
 related:
@@ -52,6 +50,38 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/06/28/1c102c45-d50e-40bd-b886-ba81441d0b3c/nvidia-ai-on-5g-roadmap-june-2021.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "News Flash: NVIDIA Remains The Fastest Available AI Accelerator"
+    excerpt: "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park."
+    publishedDateTime: 2021-06-30T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
+    excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
+    publishedDateTime: 2021-06-30T10:00:00Z
+    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
+        width: 1600
+        height: 1069
         isCached: true
   - title: "NVIDIA (NVDA) Makes Key Advancements with AI-on-5G Platform"
     excerpt: "On the first day of the Mobile World Congress event being held in Barcelona, NVIDIA NVDA made key announcements for the benefit of the 5G ecosystem and expansion of its AI-on-5G platform. NVIDIA announced that it is collaborating with Alphabet’s GOOGL Google Cloud to build an AI-on-5G Innovation Lab as part of their joint vision to accelerate the development of smart cities and smart factories."
@@ -110,6 +140,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
+    excerpt: "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ..."
+    publishedDateTime: 2021-06-28T04:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21737785/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21737785"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737785"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
     publishedDateTime: 2021-06-28T07:01:00Z
@@ -143,6 +189,6 @@ related:
       domain: businesswire.com
     quality: 20
 
-secured: "8PgAK5cRJNWszUxiSD8gW+dP9kgpbXtAZr+cU+edLhcSsoZdT4bOWakTu2cXZB5tz+CqtoPy5u/wVfPWfKZT/MXGYXF+NjL4dKvVDWZQ2U/mLTDen/li2EFLz2YIMSNhqS2is8bjhKuvxAHVC9OiPFGUD+OdmegCA1wOvYR7tnYo9ePw3mUM0mGaLwxv6maGF4bDAz8CGOHMV3XN7GEcwSSp/PjE6v1WG9Mx7bvzfRzR3rwKixQuaqTwn3w66x0xncAcJrMoNuIVVqZfk3gQ1wkxvVmzDfFBeB3nqTbTH+dU4mIlrn1QBkbWhDKXv0yUTYcWfhVDMuaNZEm35WvxYH5Wks+i5SIj3fIFEl4OQHs=;hVtydj6UwecTrGbQiDA4Gg=="
+secured: "Q+VTqp99Zb2HvwX7dr62my3ctA5oAgyXoWss/YCboOn+vkY3GALGwo31NH9qqu4pnWZxiJtFe06UbuefR20SKj6PCAxI0ugJ0PDV3l1UsB8hHUV24hhUU/Wj3Sm5qByvHW6Cj3OQ/65JkBCPU2mYMZFsG0afTl2O8Pc17+zEOwyEYyQkNGwvP1L+OxyDrSOLuHES8wco5ZYc/fS7R4hc3U4K0q4jjumMxjXFJASdJ7XDLCmcFYw+mdr89LNc3OSOPb9sH4ekwUrr+kkLTyzRPzTi0XAj56yQUbjO9JJBQP5Sr4/wq3oNhin3Ctxa02AHW4XYJvedvGxT2XCMFMCBT5A+XeBly8cssce1DErdblA=;StyQWy+jBZg1tTN+IN6pjw=="
 ---
 

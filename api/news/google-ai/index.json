@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-an-update-on-our-progress-in-responsible-ai-innovation.md",
+      "title": "An update on our progress in responsible AI innovation",
+      "excerpt": "Over the past year, responsibly developed AI has transformed health screenings, supportedfact-checking to battle misinformation and save lives, predicted Covid-19 cases to support public health, and protected wildlife after bushfires. Developing AI in a way that gets it right for everyone requires openness,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/",
+      "originalUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-our-progress-responsible-ai-innovation/amp/",
+      "publishedDateTime": "2021-06-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-ai-safety-tools-can-help-mitigate-bias-in-algorithms.md",
       "title": "AI safety tools can help mitigate bias in algorithms",
       "excerpt": "A range of tools are available from companies including Microsoft that are designed to address concerns arising from risky AI deployments.",
@@ -268,50 +320,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
-      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash-10265599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-06-23-deepmind-wants-to-use-its-ai-to-cure-neglected-diseases.md",
       "title": "DeepMind wants to use its AI to cure neglected diseases",
       "excerpt": "In November 2020, Alphabet-owned AI firm DeepMind announced that it had cracked one of biology’s trickiest problems. For years the company had been working on an AI called AlphaFold that could ...",
@@ -352,6 +360,59 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash.md",
+      "title": "DeepMind scientist calls for ethical AI as Google faces ongoing backlash",
+      "excerpt": "At the Lesbians Who Tech Pride Summit, DeepMind's Raia Hadsell discussed the duty of researchers to develop AI responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
+      "originalUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/deepmind-scientist-calls-for-ethical-ai-as-google-faces-ongoing-backlash/amp/",
+      "publishedDateTime": "2021-06-22T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1430,59 +1491,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant.md",
-      "title": "Facebook AI’s friendly battle of researchers versus devs finds PyTorch triumphant",
-      "excerpt": "Facebook's AI team is moving all of its machine learning model deployment to the PyTorch framework, and standardizing on the framework for development, the company said Wednesday, during its F8 annual developer event,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-ais-friendly-battle-of-researchers-versus-devs-finds-pytorch-triumphant/",
-      "publishedDateTime": "2021-06-03T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-05-chinese-ai-speech-recognition-chip-startup-secures-new-war-chest.md",
+      "title": "Chinese AI speech recognition chip startup secures new war chest",
+      "excerpt": "ChipIntelli, a maker of AI-based speech recognition chips, recently raised several tens of millions of yuan ($3 million to $5 million) in a new funding round led by Haolan Capital. ChipIntelli, founded in 2015,",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "originalUrl": "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-speech-recognition-chip-startup-secures-new-war-chest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F0%252F9%252F0%252F34550907-3-eng-GB%252FCropped-1622689933%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%25AEAI%25E3%2583%2581%25E3%2583%2583%25E3%2583%2595%25E3%2582%259A%25E3%2583%25A2%25E3%2582%25B7%25E3%2582%2599%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-04T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-apptek-joins-intels-ai-builders-program-to-leverage-ai-enabled-speech-and-language-technology.md",
       "title": "AppTek joins Intel’s AI Builders program to leverage AI-enabled speech and language technology",
       "excerpt": "This partnership inside Intel's AI Builders ecosystem will seek to boost the performance of automatic speech recognition and neural machine translation technologies",
@@ -1303,59 +1347,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness.md",
-      "title": "Facebook’s Dynabench now scores NLP models for metrics like ‘fairness’",
-      "excerpt": "Facebook updated its Dynabench language model evaluation tool with Dynaboard, an 'evaluation-as-a-service' platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "originalUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/24/facebooks-dynabench-now-scores-nlp-models-for-metrics-like-fairness/amp/",
-      "publishedDateTime": "2021-05-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

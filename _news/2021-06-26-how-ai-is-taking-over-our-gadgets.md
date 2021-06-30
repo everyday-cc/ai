@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-is-taking-over-our-gadgets-11624680004"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://static.bangkokpost.com/media/content/dcx/2021/06/28/4014459_700.jpg"
         width: 700
         height: 481
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
+    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
+    publishedDateTime: 2021-06-30T15:45:00Z
+    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
+        width: 720
+        height: 404
         isCached: true
   - title: "How AI Is Taking Over Our Gadgets"
     excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."

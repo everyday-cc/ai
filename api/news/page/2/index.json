@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
+      "title": "Machine Learning Aids Insights Into Cows’ Sleep",
+      "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
+      "publishedDateTime": "2021-06-29T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels.md",
+      "title": "Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels",
+      "excerpt": "There is nothing more exhilarating than getting the keys to your first car or driving off the lot with the car of your dreams. Sadly, that exhilaration can quickly fade to frustration when your car is damaged. Working through the phone calls, emails, and damage reports with your insurance provider can",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/25/3942-Diagram.jpg",
+          "width": 801,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T15:37:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-tesla-vision-powered-active-safety-features-found-to-be-at-least-as-good-as-with-radar-in-new-test.md",
       "title": "Tesla Vision-powered active safety features found to be at least as good as with radar in new test",
       "excerpt": "Tesla’s active safety features powered by its new Tesla Vision computer vision system without radar are proving to be at least as good as with radar in a new independent test. When Tesla announced the transition to its “Tesla Vision” Autopilot without radar,",
@@ -52,6 +148,49 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-tyson-ventures-abb-invest-in-soft-robotics-10-million-funding-round.md",
+      "title": "Tyson Ventures, ABB invest in Soft Robotics $10 million funding round",
+      "excerpt": "Tyson Foods joined ABB Technology Ventures, Tekfen Ventures and three other venture capital firms to invest a combined $10 million into Soft Robotics, to further the tech companies work",
+      "sourceUrl": null,
+      "webUrl": "https://talkbusiness.net/2021/06/tyson-ventures-abb-invest-in-soft-robotics-10-million-funding-round/",
+      "originalUrl": "https://talkbusiness.net/2021/06/tyson-ventures-abb-invest-in-soft-robotics-10-million-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://talkbusiness.net/wp-content/uploads/2021/06/softrobotics-tyson-abb.jpg",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Talk Business & Politics",
+        "domain": "talkbusiness.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -389,6 +528,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-the-future-of-retail-and-ai.md",
+      "title": "The Future of Retail and AI",
+      "excerpt": "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai",
+      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg",
+          "width": 830,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp",
+      "publishedDateTime": "2021-06-29T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-nhtsa-mandates-crash-reports-for-self-driving-cars-driver-assist-systems.md",
       "title": "NHTSA mandates crash reports for self-driving cars, driver-assist systems",
       "excerpt": "If a vehicle equipped with a system like Tesla's Autopilot or GM's Super Cruise is involved in a crash, the agency must get a report within 24 hours.",
@@ -629,6 +811,48 @@
       ]
     },
     {
+      "path": "_news/2021-06-29-using-artificial-intelligence-to-overcome-mental-health-stigma.md",
+      "title": "Using artificial intelligence to overcome mental health stigma",
+      "excerpt": "Depression is a worldwide problem, with serious consequences for individual health and the economy, and rapid and effective screening tools are thus urgently needed to counteract its increasing prevalence.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/mentaldistre.jpg",
+          "width": 1500,
+          "height": 1158,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-artificial-intelligence-mental-health-stigma.amp",
+      "publishedDateTime": "2021-06-29T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
       "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
       "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
@@ -741,7 +965,7 @@
       "originalUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -988,257 +1212,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
-      "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
-      "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
-      "originalUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/05/pixelmator-pro-on-macbook-pro.jpg",
-          "width": 800,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
-      "cdnAmpWebUrl": "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/pixelmator-pro-gains-crop-tool-powered-machine-learning-and-more?amp",
-      "publishedDateTime": "2021-06-29T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iMore",
-        "domain": "imore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
-      "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-nvidias-aerial-brings-gpus-to-ai-on-5g.md",
-      "title": "Nvidia’s Aerial Brings GPUs To AI On 5G",
-      "excerpt": "Nvidia's telco strategy continues to evolve as the combination of new chips and software will allow it to power software-defined O-RAN compatible 5G network infrastructure equipment that can also power AI-based edge computing applications in a wide variety of environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
-      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da8a5815d212c0b6570f08%2F0x0.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-to-win-with-ai-focus-on-our-humanity.md",
-      "title": "To Win With AI, Focus On Our Humanity",
-      "excerpt": "Technology disruptions are not novel and have enabled humanity to evolve and progress. This one is different, though. For the first time in the history of our species, technology seems to take over the very domains where we thought humans excelled: innovation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dacbfc46592b70301378cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1659%26cropY1%3D13%26cropY2%3D946",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/06/29/to-win-with-ai-focus-on-our-humanity/amp/",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-connected-vehicle-data-startup-wejo-partners-with-microsoft-palantir-sompo.md",
-      "title": "Connected vehicle data startup Wejo partners with Microsoft, Palantir, Sompo",
-      "excerpt": "Connected vehicle data startup Wejo has announced partnerships with Microsoft, Palantir and Sompo Holdings to improve its ability to collect, store and analyze data from millions of connected vehicles around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/29/connected-vehicle-data-startup-wejo-partners-with-microsoft-palantir-sompo/",
-      "originalUrl": "https://techcrunch.com/2021/06/29/connected-vehicle-data-startup-wejo-partners-with-microsoft-palantir-sompo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1028297050.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/29/connected-vehicle-data-startup-wejo-partners-with-microsoft-palantir-sompo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/connected-vehicle-data-startup-wejo-partners-with-microsoft-palantir-sompo/amp/",
-      "publishedDateTime": "2021-06-29T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

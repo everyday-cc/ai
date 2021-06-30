@@ -59,6 +59,38 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "News Flash: NVIDIA Remains The Fastest Available AI Accelerator"
+    excerpt: "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park."
+    publishedDateTime: 2021-06-30T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/06/30/news-flash-nvidia-remains-the-fastest-available-ai-accelerator/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db80214c087bb5c6c220d5%2F0x0.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks"
+    excerpt: "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted."
+    publishedDateTime: 2021-06-30T10:00:00Z
+    webUrl: "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg"
+        width: 1600
+        height: 1069
+        isCached: true
   - title: "NVIDIA (NVDA) Makes Key Advancements with AI-on-5G Platform"
     excerpt: "On the first day of the Mobile World Congress event being held in Barcelona, NVIDIA NVDA made key announcements for the benefit of the 5G ecosystem and expansion of its AI-on-5G platform. NVIDIA announced that it is collaborating with Alphabet’s GOOGL Google Cloud to build an AI-on-5G Innovation Lab as part of their joint vision to accelerate the development of smart cities and smart factories."
     publishedDateTime: 2021-06-29T22:04:00Z
@@ -100,6 +132,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
+    excerpt: "\"To help address these growing demands, IBM's new Cloud Pak for Network Automation software uses AI-powered automation ... integration of IBM Cloud Pak for Watson AIOps and edge solutions ..."
+    publishedDateTime: 2021-06-28T04:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/06/n21737785/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g"
+    ampWebUrl: "https://www.benzinga.com/amp/content/21737785"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21737785"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Nvidia, Google Cloud to open AI-on-5G test lab"
     excerpt: "The lab will help developers build applications faster and consistently. By developing on Google Cloud, a developer benefits from access to most Telco SPs instead of building an application unique to each Telco SP."
     publishedDateTime: 2021-06-28T07:01:00Z
@@ -114,17 +162,6 @@ related:
         width: 2000
         height: 1260
         isCached: true
-  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
-    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
-    publishedDateTime: 2021-06-28T07:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/06/g21738390/nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/21738390"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21738390"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "NVIDIA and Partners Launch HGX A100 Systems for Industrial AI and HPC"
     excerpt: "NVIDIA today announced a revamp of its NVIDIA HGX AI supercomputing platform with new technologies that fuse AI with high performance computing, designed to make supercomputing more useful to a growing number of industries."
     publishedDateTime: 2021-06-28T21:01:00Z
@@ -143,6 +180,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 20
+  - title: "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC"
+    excerpt: "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries."
+    publishedDateTime: 2021-06-28T07:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "bEysU7CDkRjeu+fJwXTtQgyrUj0y5btpXL0/WMkkBnusMwQjXLiuXVI1ZWitBDPTBFhKcWBquYLxrCaD/XJxMle/3yWJDk8zdPa2VTrpBWxYoxq8vSKRtBb8w0r3hLHrjuserjuLcdNhj4kAtBB3+2Ry92naUBCBCg7Cmh9+9s1EX3RDgskfCbLfvPZFMU0Oq6fATJc9T7ftgY3rElNFrbNKo9eRY62uzRmTWYYvpryXknaJaCADDJ9WwTTLlSUJtXAayDDcaDOTHuMZYoarzJLLWiTQcN1eNI91UTD+0y7jtAmIrD3WT6ZMsD8MOVw29r6BldHvQF4GhdYtnBp8ZR3ieb3pYIMm/SjpIGMHYKgd9Mp53qZqkALKWZZ6DPQLwTzBfGwfjItSRNf5D+bB4hvsBryunhydm3DZsOFDn3gcoPp1/DIMAY4ch7HR87tati8xYPYxqQVGJYjB9aENKPPz6donCrUbw373x/HGcSoFIdh5KNQk3Mxhv3qcq0TIdIjsQqTPFrizG6XMP3zKJA==;FZ7Vsw0Z5fDfixfeJoimjg=="
 ---

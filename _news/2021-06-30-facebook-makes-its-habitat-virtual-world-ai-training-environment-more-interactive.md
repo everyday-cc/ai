@@ -6,7 +6,7 @@ publishedDateTime: 2021-06-30T14:30:00Z
 originalUrl: "https://siliconangle.com/2021/06/30/facebook-makes-habitat-virtual-world-ai-training-environment-interactive/"
 webUrl: "https://siliconangle.com/2021/06/30/facebook-makes-habitat-virtual-world-ai-training-environment-interactive/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/habitat-2.0.png"
@@ -90,6 +91,6 @@ related:
         height: 274
         isCached: true
 
-secured: "yci5QwBj5Sq8R6H5EkLnFRK9aZkQHDcgG2i+odRCitc1tRGZ8nkkN70Y+s/fmNRK6M1WIAofW0LehICtYdT5gI+BwkL9X1XP85cVw0iswY5MGfPMLQJznBllcHsdvN/H7GfPX/YjIRtgLiwZN5dGh/pz5PvGLYmM6vPpR/L3N3cN6auQJ7TiyRN1vBTq/8Le0fDa+wNsVa6apWqqrfVVl/P/etuQ2R20cRZ01yfW34EghEdOS/bj/Ya4aT6lzix5No7Y2MQBiG7Sxb9EjxZQCh93UpRomqxEsTIRaghj7XLcnTMd4nQWMlrmyhoBXPFtELAgA162+JNwN1kQ57L70rYsvuE7xNvF4WC5fnW1z5E=;jebiXbTFwak1WImV4c7m7A=="
+secured: "ZWwjRaD1qgeoYSbew9ZWrhnw9UYjIvgTcz1keu5eSSYDQVkjUTKx295l674J/5TAtgOgvIqbbUEwgK13V5lI/MaU+GmDtcD0b9WIbyqluxHjegob2SgElShtsZLd30OPl2tQTZFEdFLAnoEaQvXLALmR/3fUXXE1Q2t0p7xU17gz50Vv4EsOpXVpTNshvqVIzJAoGeXaMV7/Euqm4m131wl+A44EOd0GMyzbmrm7eJ4ll2kas2ciENYfZhmtrxRHSalOb29X/GjwIvghS5QmJyZzeFN8xsJB/z9e1lRFVCIPNLzwVPAuhdNnP/kb939623kwReYUzC6Yal4nfeFMxM30CTCDDMxRUlQxr7w3MrzIznVZkMHPs6kPrKPM2/pLC5/MvppAq9I91oiotJFmfslgtgQkKq5uqtMvtf/LEQ23DlxW6Z66s3PwnRHjdUpDR8J7RAOrWPb55JAn42pWYy9677et2SNiNuxjd/u0vdxtP9FctBWCvPT7XP9WSTW7hSUiafGfU7aff7kssXAg5Q==;94nRU+Cbe4vHkvslM42CKg=="
 ---
 

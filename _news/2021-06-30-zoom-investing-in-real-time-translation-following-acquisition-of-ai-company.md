@@ -135,16 +135,16 @@ related:
       domain: nasdaq.com
     quality: 54
   - title: "Zoom to Offer Real-Time Translation for Video Calls After Buying Startup"
-    excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been developing AI -powered algorithms to “machine translate” other languages in real-time."
-    publishedDateTime: 2021-06-29T17:08:00Z
-    webUrl: "https://in.pcmag.com/video-conferencing-software/143437/zoom-to-offer-real-time-translation-for-video-calls-after-buying-startup"
+    excerpt: "Zoom is looking to one day offer real-time translation for video calls spoken in other languages. The company will do so by buying a German startup called Kites, which has been de"
+    publishedDateTime: 2021-06-29T17:22:00Z
+    webUrl: "https://au.pcmag.com/video-conferencing-software/87939/zoom-to-offer-real-time-translation-for-video-calls-after-buying-startup"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 53
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/z/zoom-to-of/zoom-to-offer-real-time-translation-for-video-calls-after-bu_xtmj.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/z/zoom-to-of/zoom-to-offer-real-time-translation-for-video-calls-after-bu_89bz.1200.jpg"
         width: 1200
         height: 675
         isCached: true

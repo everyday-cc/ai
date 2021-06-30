@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/machine-learning-helps-in-predicting-wh
 webUrl: "https://www.miragenews.com/machine-learning-helps-in-predicting-when-588026/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Machine learning helps in predicting when immunotherapy will be effective"
+    excerpt: "When it comes to defense, the body relies on attack thanks to the lymphatic and immune systems. The immune system is like the body's own personal police force as it hunts down and eliminates pathogenic villains."
+    publishedDateTime: 2021-06-30T17:37:00Z
+    webUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-machine-immunotherapy-effective.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 58
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tumor.jpg"
+        width: 1920
+        height: 1920
+        isCached: true
 
 secured: "uxWTXKUZKKnmc96wV/l5bKZcM+5RkVHDBN2/7kNPvSP9IpRmH8yB7TP5dOcpdKDfIYT4RxzUwz2Wc6XobD04RS5Xka3CM/1npeUqdmtZSRrL5CS/kTZ7EK2xAgAnHfvhAoTKcntHk3f3MF4YSITeaAfGduXg89liETLGk/qfPJochQrybq2pQAcxIXb2KlyWCL5TruXbU/BGuymOKwAQRutRkGzqwig4kAKWJy8cP9ZiZiTHZeTLPvUQigoj2hUkM7vgDubcrDg+JaDZ9x8oWARUOPxwwa+OxPaT5yI0q5nA8az1iRmzYzpsD5wwVFYuYjZfB+9gQJXRFTyi5lg/KnZD0qZ+Thl3x2+QOGMI6DE=;0vLiS/X9iQu/LnPCKAu9uw=="
 ---

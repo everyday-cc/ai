@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-18-google-io-2021-being-helpful-in-moments-that-matter.md",
+      "title": "Google I/O 2021: Being helpful in moments that matter",
+      "excerpt": "It’s great to be back hosting our I/O Developers Conference this year. Pulling up to our Mountain View campus this morning, I felt a sense of normalcy for the first time in a long while. Of course, it’s not the same without our developer community here in person. COVID-19 has deeply affected our entire",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/developers/io21-helpful-google/",
+      "originalUrl": "https://blog.google/technology/developers/io21-helpful-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/210518_1004_3S1A4903_B_1_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/developers/io21-helpful-google/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/developers/io21-helpful-google/amp/",
+      "publishedDateTime": "2021-05-18T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-tackling-tuberculosis-screening-with-ai.md",
       "title": "Tackling tuberculosis screening with AI",
       "excerpt": "Today we’re sharing new AI research that aims to improve screening for one of the top causes of death worldwide: tuberculosis (TB). TB infects 10 million people per year and disproportionately affects people in low-to-middle-income countries. Diagnosing TB early is difficult because its symptoms can",

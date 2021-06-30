@@ -77,19 +77,47 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-    excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
-    publishedDateTime: 2021-06-30T15:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
+    publishedDateTime: 2021-06-30T17:03:00Z
+    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 54
+    images:
+      - url: "https://channelvisionmag.com/wp-content/uploads/2021/06/ATT.jpg"
+        width: 624
+        height: 416
+        isCached: true
+  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
+    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
+    publishedDateTime: 2021-06-30T17:11:00Z
+    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
+        width: 716
+        height: 439
+        isCached: true
+  - title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network"
+    publishedDateTime: 2021-06-30T14:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 29
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service"
     excerpt: "Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning ("

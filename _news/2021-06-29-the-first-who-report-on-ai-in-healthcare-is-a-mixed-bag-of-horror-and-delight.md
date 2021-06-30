@@ -38,6 +38,22 @@ related:
       name: Armed robbery in Revesby
       domain: miragenews.com
     quality: 104
+  - title: "WHO outlines principles for ethics in health AI"
+    excerpt: "The World Health Organization released a guidance document outlining six key principles for the ethical use of artificial intelligence in health. Twenty experts spent two years developing the guidance,"
+    publishedDateTime: 2021-06-30T16:50:00Z
+    webUrl: "https://www.theverge.com/2021/6/30/22557119/who-ethics-ai-healthcare"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/30/22557119/who-ethics-ai-healthcare"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 104
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/yVnYYGvgr7fmhLQ6Bq9zPC9Wq6g=/0x0:4000x2661/1400x933/filters:focal(1680x1011:2320x1651):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69524862/1232766338.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "WHO Issues First Global Report on Artificial Intelligence in Health, 6 Guiding Principles for Its Design, Use"
     excerpt: "Artificial Intelligence holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights are put at the heart of its design, deployment, and use,"
     publishedDateTime: 2021-06-29T14:29:00Z

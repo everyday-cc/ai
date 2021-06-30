@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale"
-excerpt: "AT&T to run its mobility network on Microsoft’s Azure for Operators cloud, delivering cost-efficient 5G services at scale DALLAS and REDMOND, Wash., June 30, 2021 /PRNewswire/ -- AT&T will move its 5G mobile network to the Microsoft cloud."
-publishedDateTime: 2021-06-30T15:14:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-86842df143e2d4a16f1a97b01b7f5657"
+title: "AT&T to run its mobility network on Microsoft's Azure for Operators cloud, delivering cost-efficient 5G services at scale"
+excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. This strategic alliance provides a path for all of AT&T's mobile network"
+publishedDateTime: 2021-06-30T14:35:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
+webUrl: "https://www.prnewswire.com/news-releases/att-to-run-its-mobility-network-on-microsofts-azure-for-operators-cloud-delivering-cost-efficient-5g-services-at-scale-301323256.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1554604/ATT_mobility_network_Microsoft_Azure.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
 related:
@@ -83,6 +83,34 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "AT&T to Run Mobility Network on Microsoft’s Azure for Operators"
+    excerpt: "AT&T will move its 5G mobile network to the Microsoft cloud. The strategic alliance provides a path for all of AT&T’s mobile network traffic to be managed using Microsoft Azure technologies. The companies will start with AT&T’s 5G core,"
+    publishedDateTime: 2021-06-30T17:03:00Z
+    webUrl: "https://channelvisionmag.com/att-to-run-mobility-network-on-microsofts-azure-for-operators/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 54
+    images:
+      - url: "https://channelvisionmag.com/wp-content/uploads/2021/06/ATT.jpg"
+        width: 624
+        height: 416
+        isCached: true
+  - title: "Microsoft makes big 5G play as AT&T moves core to Azure cloud"
+    excerpt: "Microsoft VP of 5G Strategy Shawn Hakl told Fierce that the combination of gaining a Tier one anchor tenant, along with IP and expertise to incorporate directly into Azure for Operators, is key and unique to the deal."
+    publishedDateTime: 2021-06-30T17:11:00Z
+    webUrl: "https://www.fiercewireless.com/5g/microsoft-makes-bigger-5g-play-as-at-t-moves-core-to-azure-cloud"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercewireless/1625073696/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png/Screen%20Shot%202020-10-27%20at%209.33.32%20AM.png?SX9t9ysna94JXCELLQtb2nBx_bdHushz"
+        width: 716
+        height: 439
+        isCached: true
   - title: "BUSINESS WIRE: OAG’s Flight Info API Now Available in the Microsoft Azure Marketplace"
     excerpt: "The Azure Marketplace is an online market for buying and selling ... Sordin e Cardo Crew collaborano per creare una nuova generazione di protezioni auricolari intelligenti dedicate ai team dei professionisti mobili 14:10 BUSINESS WIRE: Sordin und Cardo ..."
     publishedDateTime: 2021-06-28T12:47:00Z
@@ -102,6 +130,6 @@ related:
       domain: businesswire.com
     quality: 18
 
-secured: "UuPf/h4HRPj3bCLGDsGgODggaMPCNP26kGpx9tBLjvHncELRahCdE+Dh5iLpYBuYCH0WoSRgtsy12QOaFiSjW4+w8HMuKlFtwb26Ohm7Rze8sA0LtJ3S6QrgOXc6I5h1n9Ivj9ZE4QBdvtLX9J406dUhA4pim0i63GgrBjObBrJnzPVFYOPIL7IIjRqiyqRUoPayvnOl/YAx8xGqRw+I//pALES+VOy8KjrGwsGlqjfjjq6VJ6hIrOOPK8PaW/kI0IkEz3eQXUEmRY3lrQOT1+p8bjyBTQyj8IFUJRz88yDoS3KwrwXDWln1863MjRQnBbgwqWnRwsmZDC+NSg4bkKmoDpMq4qe1tyKOBq/+UT8=;e8mTJV0BVvLHruZEJWmVDA=="
+secured: "fVI/PB/pCfrCh7e5YVO0WFI099aCGTwUReS9BHIJ4MrLnrI8mzk4+sDwCiVZ7YRqIQRFOW6UgQl7uJWU4id3oxOYFRuPluGcGJ/1rXSc0HB2UmnEVA1719BghhAyB+nfeTC/6YmdIZWTiWUpyQeQN7ZypNu0VIWLWipe2Fdm1oI4P+npp65HrGa3ZIP6ttW6JmyZvihtiE8RHKS0CN8xq915mzGpgw+JHGDkaZFo1RCRqc1oxwlBJL0jpASpskfJSEcNJeTi/hqPa6mF7XjTvDo0zf/Jm2RI67/6OfkA8TU2EsS5r4D7z41k0pVSLdtk7dT/DXz4Z2I0j+DYAUjEhXIi+xsAE0vbEM1lsbqnZA4=;yjZGA/IU2vgq5ij/6uuK5w=="
 ---
 

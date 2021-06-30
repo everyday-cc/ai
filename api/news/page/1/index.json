@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-an-update-on-our-progress-in-responsible-ai-innovation.md",
+      "title": "An update on our progress in responsible AI innovation",
+      "excerpt": "Over the past year, responsibly developed AI has transformed health screenings, supportedfact-checking to battle misinformation and save lives, predicted Covid-19 cases to support public health, and protected wildlife after bushfires. Developing AI in a way that gets it right for everyone requires openness,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/",
+      "originalUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/update-our-progress-responsible-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-our-progress-responsible-ai-innovation/amp/",
+      "publishedDateTime": "2021-06-30T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-maine-passes-strongest-facial-recognition-restrictions-in-the-country.md",
       "title": "Maine passes ‘strongest’ facial recognition restrictions in the country",
       "excerpt": "Maine passed regulations surrounding government use of facial recognition that is being hailed as the \"strongest\" statewide rules in the US.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -93,7 +145,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -762,7 +815,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/advancing-safe-deployment-with-aiops-introducing-gandalf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -955,15 +1008,15 @@
       "title": "Japan’s SoftBank says Pepper robot remains ‘alive’ and well",
       "excerpt": "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”",
       "sourceUrl": null,
-      "webUrl": "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/",
-      "originalUrl": "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "webUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "originalUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://www.krqe.com/wp-content/uploads/sites/12/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
           "width": 1280,
           "height": 853,
           "title": null,
@@ -973,14 +1026,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "cdnAmpWebUrl": "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/technology/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
-      "publishedDateTime": "2021-06-29T20:19:00-07:00",
+      "ampWebUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
+      "publishedDateTime": "2021-06-29T20:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KRQE",
-        "domain": "krqe.com",
+        "name": "WRIC",
+        "domain": "wric.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
+      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
+      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
+          "width": 400,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1146,102 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-machine-learning-aids-insights-into-cows-sleep.md",
-      "title": "Machine Learning Aids Insights Into Cows’ Sleep",
-      "excerpt": "Research into the sleep of cows is seen by researchers as one way of assessing their welfare, which is important to farmers and to respond to the growing expectations of global dairy consumers. Although little is known about the sleep needs of cows,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/466351406090186752/Zym_9Hv3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2106/S00071/machine-learning-aids-insights-into-cows-sleep.htm",
-      "publishedDateTime": "2021-06-29T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels.md",
-      "title": "Automate car insurance claims processing with Autonet and Amazon Rekognition Custom Labels",
-      "excerpt": "There is nothing more exhilarating than getting the keys to your first car or driving off the lot with the car of your dreams. Sadly, that exhilaration can quickly fade to frustration when your car is damaged. Working through the phone calls, emails, and damage reports with your insurance provider can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-car-insurance-claims-processing-with-autonet-and-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/25/3942-Diagram.jpg",
-          "width": 801,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T15:37:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -64,6 +64,20 @@ related:
         width: 700
         height: 481
         isCached: true
+  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
+    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
+    publishedDateTime: 2021-06-30T15:45:00Z
+    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
+        width: 720
+        height: 404
+        isCached: true
 
 secured: "QIpY8lyd3TAKYY6Vudv5GseC/zOsTIcCnqqqwtH+kFaDhSLvdEZEQXz7K/IBdkwyhmQlNoYUZuEXNHeUAUHOEFxGvks0MT+wbvNv2hIhms3JwZY7kimzbx8jKxXuAsS/DpkI5YpGJ7XIhXw8WUi1aX1FjS3zdoocZF6Hrqql9XeDuzPBr64ZYrD6Urgkrmiv+1gOKT6DgfZDmjlXgtYcjGLF/Dqji1Tuj8upJr8wCceO/bVoITjKy7TaC8M5BQdnCQzm8RVipcMra+cZFQZM/8tki5GmsyEe72HG3hDN2dJv3Q5663VYbzGA6FbT3BzaNp4vL9ftdjQaZanmML9SbdKZS5V+JyIaTDBFFIDT6lBlYFZ9xjvGAv9wCZ4h0NJ5tAhTDv/Q/MjDAOqKmHcnkGj0TbTfkcEmYmJ2HiYEtsscp4Hd20PQJ6UWHvdkukfTm2lhh389ZwaAWozLZL/Ku/NQnqQDAHi/O6Hd375HY3FM4Q3pSwCDXt77eizn5dWwi+/WSsnOnR2inFIETzpIMg==;baIP3HJiJMdsMZt8jheiOQ=="
 ---

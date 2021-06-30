@@ -2,6 +2,255 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-21-uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places.md",
+      "title": "UK watchdog raises alarm over Live Face Recognition tech in public places",
+      "excerpt": "The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places. F",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places",
+      "originalUrl": "https://www.freepressjournal.in/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/import/2015/08/etc-7th-lead.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/uk-watchdog-raises-alarm-over-live-face-recognition-tech-in-public-places/a978a17a-77e5-419a-857f-5e8be9ea1cf2",
+      "publishedDateTime": "2021-06-20T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-ai-glasses-you-can-try-on-and-try-out-with-ar.md",
+      "title": "AI Glasses You Can Try On And Try Out With AR",
+      "excerpt": "Sports and lifestyle glasses maker Bollé used Artificial Intelligence (AI) to create new state-of-the-art lenses, then launched a transformative marketing campaign that allows customers to not only try their glasses on virtually,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d014bc54b499b7d098b622%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D0%26cropY2%3D1406",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/",
+      "publishedDateTime": "2021-06-20T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-evolution-rewards-and-artificial-intelligence.md",
+      "title": "Evolution, rewards, and artificial intelligence",
+      "excerpt": "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-06-20T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-evaluate-the-utility-companys-ai-maturity-curve-to-determine-next-steps.md",
+      "title": "Evaluate the utility company’s AI maturity curve to determine next steps",
+      "excerpt": "Utilities acknowledge the transformational power of data, but where they are on the AI maturity curve determines how effectively they use it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
+      "originalUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1246715578-e1624227330919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/utility-company-ai-maturity-curve-next-steps/amp/",
+      "publishedDateTime": "2021-06-20T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-these-are-the-startups-applying-ai-to-tackle-climate-change.md",
+      "title": "These Are The Startups Applying AI To Tackle Climate Change",
+      "excerpt": "A group of promising startups has emerged to do just that. Both climate change and artificial intelligence are sprawling, cross-disciplinary fields. Both will transform literally every sector of the economy in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60caac3ad2b1ff3c9b86dc8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2235%26cropY1%3D232%26cropY2%3D1490",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/06/20/these-are-the-startups-applying-ai-to-tackle-climate-change/amp/",
+      "publishedDateTime": "2021-06-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-williams-f1-drives-digital-transformation-in-racing-with-ai-quantum.md",
       "title": "Williams F1 drives digital transformation in racing with AI, quantum",
       "excerpt": "Williams F1 invests in AI to drive data-led digital transformation in auto racing. Quantum computing will likely join the race down the road.",
@@ -916,239 +1165,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws.md",
-      "title": "AI Governance Market to See Huge Growth by 2026 | IBM, Google, Facebook, AWS",
-      "excerpt": "If you are involved in the AI Governance product offering or planning to enter, then this study will provide you comprehensive outlook and consequential analysis of AI Governance companies and trending segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-to-see-huge-growth-by-2026-ibm-google-facebook-aws-2021-06-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-self-driving-cars-are-a-no-go-so-lets-all-pretend-flying-cars-are-coming.md",
-      "title": "Self-driving cars are a no-go, so let’s all pretend flying cars are coming",
-      "excerpt": "The Airspeeder MK3 is the world's first electric flying car, but it actually looks like a reinvented helicopter or just a massive drone.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
-      "originalUrl": "https://thenextweb.com/news/self-driving-cars-are-no-go-lets-all-pretend-flying-cars-are-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FUntitled-design-76.jpg&signature=3e00f7e4ef86c60bfa22e525a485b2e2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-tesla-rival-xpeng-gets-self-driving-parking-assist-but-it-needs-to-be-trained-for-specific-parking-spots.md",
-      "title": "Tesla rival Xpeng gets self-driving parking assist, but it needs to be trained for specific parking spots",
-      "excerpt": "Xpeng’s P7 is getting a software update with Valet Parking Assist as it tries to catch up with rivals like Tesla, whose autonomous summon feature has received regulatory scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/18/7699694b-c909-4b2c-9733-fcfbe357198f_8cb3e1bc.jpg?itok=k6YXIHFB&v=1623999945",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137849/tesla-rival-xpeng-gets-self-driving-parking-assist-it-needs-be",
-      "publishedDateTime": "2021-06-18T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-then-white-house-doctor-said-trump-aced-a-cognitive-test-now-he-and-13-gop-lawmakers-demand-biden-take-one-citing-mental-impairment.md",
-      "title": "Then-White House doctor said Trump aced a cognitive test. Now he and 13 GOP lawmakers demand Biden take one, citing ‘mental impairment.’",
-      "excerpt": "WASHINGTON — In 2018, White House physician Ronny Jackson stood before a room of reporters and praised then-president Trump’s cognitive ... to stories from wire services such as the Associated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/then-white-house-doctor-said-trump-aced-a-cognitive-test-now-hes-demanding-biden-take-one-citing-mental-impairment/?amp=1",
-      "publishedDateTime": "2021-06-18T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ai-powered-mayflower-beset-with-glitch-returns-to-england.md",
-      "title": "AI-powered Mayflower, beset with glitch, returns to England",
-      "excerpt": "The Mayflower had a few false starts before its trailblazing sea voyage to America more than 400 years ago. Now, its artificial intelligence-powered namesake is having some glitches of its own. A sleek robotic trimaran retracing the 1620 journey of the famous English vessel had to turn back Friday to fix a mechanical problem.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_8905fee31e8143a5bc2db66fc7e0ddf6_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-powered-mayflower-beset-glitch-returns-england-78360014",
-      "publishedDateTime": "2021-06-18T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

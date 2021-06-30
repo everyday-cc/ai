@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "House Committee on Financial Services Schedules Hearing on Artificial Intelligence, Central Bank Digital Currencies"
-    excerpt: "The House Committee on Financial Services has distributed its schedule for the month of July. Included on the schedule are several Fintech-related topics. On July 16, commencing at 12 PM ET, the Artif"
-    publishedDateTime: 2021-06-28T20:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/06/177213-house-committee-on-financial-services-schedules-hearing-on-artificial-intelligence-central-bank-digital-currencies/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/06/177213-house-committee-on-financial-services-schedules-hearing-on-artificial-intelligence-central-bank-digital-currencies/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/177213-house-committee-on-financial-services-schedules-hearing-on-artificial-intelligence-central-bank-digital-currencies/amp/"
+  - title: "The Future of Retail and AI"
+    excerpt: "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere."
+    publishedDateTime: 2021-06-29T15:35:00Z
+    webUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai"
+    ampWebUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/04/House-Financial-Services-Committee-300x239.jpg"
-        width: 300
-        height: 239
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg"
+        width: 830
+        height: 571
         isCached: true
+  - title: "AI trends that will define the future of data science"
+    excerpt: "Artificial Intelligence is the new electricity,” rightly said British-born American computer scientist Professor Andrew NG. AI is transforming every industry and creating huge economic value simultaneously."
+    publishedDateTime: 2021-06-29T09:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-that-will-define-the-future-of-data-science/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
 
 secured: "GW5bBAA3EgexYKLBbAkcvHodWnqzn7zhnv19cd1kREE+q7H2cpl36i+o8YAUdGu7GGRI5EyaqWDtO9hnUJwT5JX/iQsT/Q5fheB7/V5+y83DEmhT5O5vMRaCuaTa2K4Gybb2pl4nQtNTOgL0hjcgSsoyDfJgrkfHvVDPvNArMeHbGaK2zcEayQxUz3ZOHY6/ZCYtF3uMts42wxu+OqWJPe8SE0sas2s5Bmi5leRvdJYYmo96ta0/nM+RYreEmCXiueAbX3U3XxA29i7kNQ8rT/oT71EHvi0UyTqrFkFfG52KrI+1zaBtqDpDZ78ghWTbPZt9M4THe9PsayheS0G/pZgeZScBlfERqov/RtYm01femaMkc+wqdIqJgwFUvrgSCzR5o/SahPo9uCrobutJ6my+054bQTgKgXH+2l+Cgsds1680ut03lqjAb50myFeyRlBk7t0nWTFEV/+mP5y9qsUYyZk2E1K8qJZicmJLYTyz6bRWgM2M+Slu6tgEnPTUo9T4ofRH088iGEvDUOLQSQ==;LYWNqaZHX5oShJSWFngVDg=="
 ---

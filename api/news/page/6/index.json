@@ -2,6 +2,248 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-25-facial-recognition-use-by-liberals-raises-issues-says-bcs-privacy-commissioner.md",
+      "title": "Facial recognition use by Liberals raises issues, says B.C.'s privacy commissioner",
+      "excerpt": "British Columbia's information and privacy commissioner says he's considering launching an investigation into the use of facial recognition technology by the Liberal Party of Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
+      "originalUrl": "https://bc.ctvnews.ca/facial-recognition-use-by-liberals-raises-issues-says-b-c-s-privacy-commissioner-1.5484881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/6/24/1_5484881.html",
+      "publishedDateTime": "2021-06-24T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-why-ethical-ai-wont-catch-on-anytime-soon.md",
+      "title": "Why Ethical AI Won't Catch On Anytime Soon",
+      "excerpt": "While there has been a good deal of discussion about the use of AI in enterprises and the possibility of building ethical AI strategies, new research indicates that even 10 years from today, it is unlikely that ethical AI design will be widely adopted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/",
+      "originalUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/0ec4df5f96ba4d2ead37feaffe2c3180.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/why-ethical-ai-wont-catch-on-anytime-soon/amp/",
+      "publishedDateTime": "2021-06-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge.md",
+      "title": "Zero trust startup Illumio raises $225M to protect multicloud and edge",
+      "excerpt": "Zero trust security expert Illumio raised $225 million in a funding round led by Thoma Bravo, others. Channel expansion is among goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
+      "originalUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1182955043-e1619720482359.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
+      "publishedDateTime": "2021-06-24T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
+      "title": "The future of mobility: 5 transportation technologies to watch out for",
+      "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
+      "originalUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/volocopter2.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
+      "publishedDateTime": "2021-06-24T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
+      "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
+      "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/09/3451-Architecture.jpg",
+          "width": 800,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T15:58:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend.md",
       "title": "Is Machine Learning The Key To Unlocking Gen Z Engagement? A Discussion With Jonathan Jadali Of Ascend",
       "excerpt": "The jury is still out on what makes Gen Z’ers tick, but while the research is still ongoing there is much evidence to suggest that a marketing strategy utilizing machine learning is exponentially more effective with the next generation.",
@@ -860,49 +1102,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-tantech-subsidiary-to-accept-customer-orders-in-july-for-its-innovative-driverless-and-autonomous-street-sweeper.md",
-      "title": "Tantech Subsidiary to Accept Customer Orders in July for its Innovative Driverless and Autonomous Street Sweeper",
-      "excerpt": "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous",
-      "originalUrl": "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/pr-newswire_500_4_1578.jpg?itok=rITU-efM",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-accept-customer-orders-july-its-innovative-driverless-and-autonomous?amp",
-      "publishedDateTime": "2021-06-24T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-walmarts-ai-is-getting-smarter-about-grocery-delivery.md",
       "title": "Walmart’s AI is getting smarter about grocery delivery",
       "excerpt": "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,",
@@ -1002,195 +1201,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services.md",
-      "title": "Wimbledon Hopes To Turn Casual Viewers Into Tennis Fanatics With AI-Powered Digital Services",
-      "excerpt": "Wimbledon has long viewed digital as essential to maintaining its status as the most prestigious grand slam. This year, it plans to convert casual fans into experts through its digital applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d47948682dbab47bf2f788%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/24/wimbledon-hopes-to-turn-casual-viewers-into-tennis-fanatics-with-ai-powered-digital-services/amp/",
-      "publishedDateTime": "2021-06-24T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-rembrandts-huge-night-watch-gets-bigger-thanks-to-ai.md",
-      "title": "Rembrandt’s huge ‘Night Watch’ gets bigger thanks to AI",
-      "excerpt": "One of Rembrandt van Rijn’s biggest paintings just got a bit bigger. A marriage of art and artificial intelligence has enabled Amsterdam’s Rijksmuseum to recreate",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/",
-      "originalUrl": "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2021/06/9d7ff698457b4ed9aa62bd42cf9eaf1b.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/unusual-stories-news/rembrandts-huge-night-watch-gets-bigger-thanks-to-ai/amp/",
-      "publishedDateTime": "2021-06-24T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-be-human-first-the-robot-proof-human-trifecta.md",
-      "title": "Be Human First: The Robot-Proof Human Trifecta",
-      "excerpt": "The \"human trifecta\" refers to having a liberal arts foundation and building on it with design thinking and entrepreneurial mindsets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d358a5882e2674341bfd4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/24/be-human-first-the-robot-proof-human-trifecta/amp/",
-      "publishedDateTime": "2021-06-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-amazon-aws-strengthens-ties-with-salesforce.md",
-      "title": "Amazon AWS Strengthens Ties with Salesforce",
-      "excerpt": "Amazon's (AMZN) cloud unit, Amazon Web Services (AWS), and Salesforce (CRM) are partnering to make it easier for developers to build and launch customer",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/",
-      "originalUrl": "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://587710.smushcdn.com/809180/wp-content/uploads/2021/05/Amazon-750x406-1.jpg?size=1024x1024&lossy=0&strip=1&webp=0",
-          "width": 750,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/amazon-aws-strengthens-ties-with-salesforce/amp/",
-      "publishedDateTime": "2021-06-24T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

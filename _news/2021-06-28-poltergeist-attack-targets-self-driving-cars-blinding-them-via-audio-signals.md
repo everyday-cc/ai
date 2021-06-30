@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c07cb6c32656bba197566%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2454%26cropY1%3D168%26cropY2%3D1532"
         width: 1200
@@ -114,22 +114,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
-    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master"
-    publishedDateTime: 2021-06-28T05:10:00Z
-    webUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai"
-    ampWebUrl: "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 55
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE"
-        width: 763
-        height: 509
         isCached: true
   - title: "That Hacked Electronic Roadside Display In Brooklyn Said Cars Are Bad, Which Startlingly Brings Up Questions About The Advent Of AI Self-Driving Cars"
     excerpt: "A hacked electronic roadside display panel had a lot of messages about the badness of today's cars, which indirectly raises interesting questions about the future and the advent of AI-based driverless self-driving cars."
@@ -215,12 +199,23 @@ related:
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.cioapplications.com/newstransfer/upload/3ho8n450308.jpg"
         width: 450
         height: 308
         isCached: true
+  - title: "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI"
+    excerpt: "Students’ Unlimited Creativity Unveiled in ‘Master Code’ Award and Kick-off Ceremonies HONG KONG SAR - Media OutReach - 28 June 2021 - Since 2016, Hong Kong Education City (EdCity) and Microsoft have co-organised the annual Master Code Competition."
+    publishedDateTime: 2021-06-28T05:23:00Z
+    webUrl: "https://vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.html"
+    ampWebUrl: "https://m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
+    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/45762-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai/amp.html"
+    type: article
+    provider:
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 35
   - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
     excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
     publishedDateTime: 2021-06-29T16:49:00Z

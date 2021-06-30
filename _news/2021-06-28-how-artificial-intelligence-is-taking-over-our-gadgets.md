@@ -57,6 +57,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
+    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
+    publishedDateTime: 2021-06-30T15:45:00Z
+    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 39
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
+        width: 720
+        height: 404
+        isCached: true
   - title: "How AI Is Taking Over Our Gadgets"
     excerpt: "AI is moving from data ters to devices, making everything from phones to tractors faster and more private. These newfound smarts also come with pitfalls."
     publishedDateTime: 2021-06-28T14:47:00Z

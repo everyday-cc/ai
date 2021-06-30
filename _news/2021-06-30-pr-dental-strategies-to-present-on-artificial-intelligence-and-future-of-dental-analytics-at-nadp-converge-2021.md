@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI is changing the nature of analytics"
-    excerpt: "At its core, artificial intelligence is an analytics tool. AI is useful because it can parse large amounts of data and add context."
-    publishedDateTime: 2021-06-25T23:40:00Z
-    webUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/"
-    ampWebUrl: "https://venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/25/how-ai-is-changing-the-nature-of-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/06/analytics-e1624650601959.jpg?fit=800%2C600&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Dell releases open source suite Omnia to manage AI, analytics workloads"
     excerpt: "Dell open-sourced Omnia, a software package that aims to simplify the management of compute workloads across different hardware."
     publishedDateTime: 2021-06-28T16:20:00Z
@@ -51,6 +35,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/03/dell.jpg?w=1200&strip=all"
         width: 1200
         height: 850
+        isCached: true
+  - title: "Salesforce's Tableau launches new data analytics suite with AI enhancements"
+    excerpt: "The new Tableau 2021.2 version promises to help users make better business decisions based on AI-powered analytics."
+    publishedDateTime: 2021-06-30T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforces-tableau-launches-new-data-analytics-suite-with-ai-enhancements/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/01/22/70bad262-9a0a-4f59-97b5-674a2f953176/resize/1200x/fd98d1898574cac91f03b02ac442e428/tableau-logo.png"
+        width: 1200
+        height: 613
         isCached: true
   - title: "Tableau's latest update aims for AI enhanced augmented analytics, broader access to data"
     excerpt: "Salesforce's Tableau has more integrations with Salesforce as well as Google Cloud BigQuery and Amazon SageMaker and support for Linux-based containers."
@@ -68,35 +68,19 @@ related:
         width: 4098
         height: 2700
         isCached: true
-  - title: "The Future of Retail and AI"
-    excerpt: "When Amazon Go launched in 2018, critics claimed that it would take more than a decade for autonomous retail to catch on. Fast-forward a couple of years and one global pandemic later, it’s clear that autonomous retail isn’t going anywhere."
-    publishedDateTime: 2021-06-29T15:35:00Z
-    webUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai"
-    ampWebUrl: "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/the-future-of-retail-and-ai/amp"
+  - title: "How to Deploy and Scale AI Analytics Across Your Enterprise"
+    excerpt: "AI analytics unlocks effective bottom-up decision-making ... For example, migrating physical data centers to Microsoft’s Azure Platform helps pave the way for centralized Analytics Centers of Excellence to remain in-step with operational realities ..."
+    publishedDateTime: 2021-06-30T17:58:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/how-to-deploy-and-scale-ai-analytics-across-your-enterprise/"
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 59
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2020/10/aifi.jpg"
-        width: 830
-        height: 571
-        isCached: true
-  - title: "How Artificial Intelligence Is Changing The Advisory Industry"
-    excerpt: "The industry around Artificial Intelligence has become more influential than ever before. People have making jokes about robots and machines stealing jobs"
-    publishedDateTime: 2021-06-30T15:45:00Z
-    webUrl: "https://www.techshout.com/how-artificial-intelligence-is-changing-the-advisory-industry/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence.jpg"
-        width: 720
-        height: 404
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
+        width: 1920
+        height: 1152
         isCached: true
   - title: "Analytics and AI helps Experian help its customers"
     excerpt: "The consumer credit reporting company is leveraging its data and data scientists to create new services for its customers."
@@ -126,29 +110,20 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Finalytics.ai Report on Digital Experience at Top 50 Credit Unions Points to Critical Challenges Across the Industry"
-    excerpt: "Finalytics.ai, the creator of the first journey orchestration platform purpose-built for community financial institutions, has published a new report on the digital experience at the top 50 credit unions."
-    publishedDateTime: 2021-06-28T17:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/credit-unions-business-technology-398d975ad28948c3b04ac816f66c2528"
+  - title: "Dell debuts open-source Omnia software to automate deployment of converged AI, data and HPC workloads"
+    excerpt: "Dell debuts open-source Omnia software to automate deployment of converged AI, data and HPC workloads - SiliconANGLE"
+    publishedDateTime: 2021-06-28T04:01:00Z
+    webUrl: "https://siliconangle.com/2021/06/28/dell-debuts-open-source-omnia-software-automate-deployment-converged-ai-data-hpc-workloads/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/06/Omnia.png"
+        width: 1048
+        height: 541
         isCached: true
-  - title: "Net Health's Tissue Analytics First to Receive the EU Class I(m) CE Mark For Mobile Wound Care Imaging and Analytics"
-    excerpt: "Establishing itself as a global provider of artificial intelligence (AI)-based technology for wound care, Tissue Analytics, a Net Health company, announced today that it"
-    publishedDateTime: 2021-06-29T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/net-healths-tissue-analytics-first-to-receive-the-eu-class-i-m-ce-mark-for/article_1bd1aa9c-f45b-510c-abbd-8e70c2db6a55.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "gs4FJ3m/Nnn/QkkbOgkKfqKKtI0DqqNcgkXefLy2vqQdkrB98LJRIbq1u5o8tHaI86+XKYmx25usttFGlxFGqqWZGVa/GVv+D9mqKiZwwjyHG6SrwrK/nlGk7tKoFcQrPq4bgzjeiiXabTUzjpC4AUS+R/Ob3HzddDIvcmD1AdpoUJNEARZXqKTmkWnn12vYBzgRs7Zt5wVW1gZyQBbsO/zEt7L9PKcSQXRiFY2yX60QpqTxxLIe3MwgU7oxVOA7X7DjHo+qYgRNCRd6Rl4Jo0Fj+yVCHY1qAQ1lnIvjbWfjdwftUS7chniWDYytWK+L6QaLthX7RxN8hANnx76owmQ5C5ICqK2QEG12Qb8Cp70=;5LekgdaZvn0tbztklHe7gA=="
 ---

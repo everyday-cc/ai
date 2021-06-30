@@ -7,8 +7,8 @@ originalUrl: "https://talkbusiness.net/2021/06/tyson-ventures-abb-invest-in-soft
 webUrl: "https://talkbusiness.net/2021/06/tyson-ventures-abb-invest-in-soft-robotics-10-million-funding-round/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Talk Business & Politics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tyson unit betting on new robot tech"
+    excerpt: "Tyson Foods Inc. capital venture arm, Tyson Ventures, has invested in Soft Robotics Inc., a developer of advanced technologies that give industrial robots a dexterity similar to hand-eyed coordination in humans."
+    publishedDateTime: 2021-06-30T16:45:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/jun/30/tyson-unit-betting-new-robot-tech/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2017/02/14/Tyson_Sign_002_t600.JPG?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Robotic solutions firm Soft Robotics secures $10m Series B extension"
     excerpt: "Food robotics company Soft Robotics has raised a $10m Series B extension, as it looks to further expand its commercial operations."
     publishedDateTime: 2021-06-30T12:18:00Z
