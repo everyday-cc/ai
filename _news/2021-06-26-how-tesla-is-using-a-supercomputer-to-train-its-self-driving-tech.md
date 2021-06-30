@@ -7,8 +7,8 @@ originalUrl: "https://www.popsci.com/technology/tesla-self-driving-supercomputer
 webUrl: "https://www.popsci.com/technology/tesla-self-driving-supercomputer/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Popular Science
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows"
-    excerpt: "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time."
-    publishedDateTime: 2021-06-25T15:15:00Z
-    webUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/"
-    ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s Full Self-Driving v9 Beta And FSD Subscription Model Delayed Yet Again"
     excerpt: "Those waiting for their full self-driving Tesla are going to have to wait a little bit longer after Elon Musk once more pushed the release back."
     publishedDateTime: 2021-06-25T20:23:00Z
@@ -64,6 +48,15 @@ related:
       name: acm.org
       domain: acm.org
     quality: 34
+  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
+    excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
+    publishedDateTime: 2021-06-29T16:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deeprouteai-level-4-self-driving-technology-provider-supports-/2021/06/29/9400205.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "IBPICypX5II+IMkr2MfZlkFuPYW5DMsZp57JPChrIu14vl8/eyFigC5Fo49t4+RqQeUChVcWcG4UVAbKLN2Rhaet1ar8/2dLHdxX/MVE2GnazD3bjE00xJfXzPO793CoyA6BEcNbYzWmKNb4x46djx1zPZxu7ZoYmYbGbNjEO0imHyyYf+dP3QJBOJy2BfgXxMw80P6YpVF45Vlqjm/kSdFE2837S0e0cQQOzvxXIb/E3d8XhQwwfdZYUFeSAeWgCEo5wXFVnynIDK/Adt2HaEGC48z6BgVwHJkBoGv+M9UsefMT3D9hhDyCO/da4cv8HIS0nHSgd8gB6vfGlfIx9mh5uZqTwedPyrk0f9ALO6xRz9Fbz2UxbZ0x2QfcrnZZC2jIHD3K14LgLcdq3eRqVoxg45W8qjYaMNRMCQSCBtozfhLIyJKC/NfRTxOvxwLsi0oOI8wD4hi11CSUjK0Fk3Tmtlw+59u87ZDoWz/PdAOI2z4B9N/OOQr4LBDObsK9xXrQIfGgXlulF3F/QhduHA==;9sMO8h2EL/vBcbLtJtPG1w=="
 ---

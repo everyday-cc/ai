@@ -57,6 +57,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "How is AI transforming the education industry"
+    excerpt: "The purpose behind application of AI in education is not to replace teachers, but give them a helping hand in understanding the potential and limitations of each student."
+    publishedDateTime: 2021-06-28T05:38:00Z
+    webUrl: "https://www.dqindia.com/ai-transforming-education-industry/"
+    ampWebUrl: "https://www.dqindia.com/ai-transforming-education-industry/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-transforming-education-industry/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 74
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt.jpg"
+        width: 850
+        height: 519
+        isCached: true
   - title: "Zoom investing in real-time translation following acquisition of AI company"
     excerpt: "Zoom on Tuesday announced the acquisition of Kites (or Karlsruhe Information Technology Solutions), a company focused on artificial intelligence software to transcribe and translate conversations. Following the acquisition,"
     publishedDateTime: 2021-06-30T01:08:00Z

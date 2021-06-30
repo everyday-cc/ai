@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Food Robotics Leader Soft Robotics Raises $10M to Meet Pandemic-induced Demand and Bring its 3D Vision and AI-Powered Solutions to Market"
-excerpt: "Award-winning food robotics company Soft Robotics Inc. announced today that it has raised a $10M Series B extension, to further expand commercial operations"
-publishedDateTime: 2021-06-29T13:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/food-robotics-leader-soft-robotics-raises-10m-to-meet-pandemic-induced-demand-and-bring-its/article_87af7600-1dd9-5ec4-82dd-0f57ba6c1cc9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/food-robotics-leader-soft-robotics-raises-10m-to-meet-pandemic-induced-demand-and-bring-its/article_87af7600-1dd9-5ec4-82dd-0f57ba6c1cc9.html"
+excerpt: "Award-winning food robotics company Soft Robotics Inc. announced today that it has raised a $10M Series B extension, to further expand comme"
+publishedDateTime: 2021-06-29T13:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/food-robotics-leader-soft-robotics-raises-10m-to-meet-pandemic-induced-demand-and-bring-its-3d-vision-and-ai-powered-solutions-to-market-1030562990"
+webUrl: "https://markets.businessinsider.com/news/stocks/food-robotics-leader-soft-robotics-raises-10m-to-meet-pandemic-induced-demand-and-bring-its-3d-vision-and-ai-powered-solutions-to-market-1030562990"
 type: article
-quality: 36
-heat: 36
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/85/785320bd-f978-5277-9a4c-cbac00fed369/6075a095ea799.image.jpg?resize=1200%2C495"
-    width: 1200
-    height: 495
-    isCached: true
-
-secured: "+B69hOBZiwpJA/ST/Dt4ZW+azghv/9Ybz6pndXeU62jfcZGmJFf0LWljEG1OXDDS76Hen8ZwC6PtQstT3YFK3sjSIXnXXeSR16PzcpcmYsUYpp3uasbgxvyYWpUfH92GxFzK1cmr/wqXOnb6qUaJQ1gh7QEZ0HFKFErFrc8g4XM+sHpdf/ycU1N/OezuSeb9/vPKh+w9LxOdAOWnVyD706/f6gWDgmImVwmQIXIJYp3GJOdPlta5O0FxXIfcC9z64Ip6Img82vGNnvcysqn2osePPJlf6zzQoogL1Swg1Yz+AIbSDjFRdZJlmd9AVYOPuyjJfmbmcKBMgdltetEx5olCewyx0k8LGF9q+rDPpaY=;11zy8kCUdJH7sBGI/awvWw=="
+secured: "CqoDiGZtth9UIuIFu3uXjAVpdsp1BX+32UD6TcddGMczdarBPvcPPvfsSyBXa5bhQ+LFuhcKHGEKXD2zcw6FixXDa6AI3EQRB2GCn15O0+1Bht3kSlw1GoW9sKHIJjSLxdSW8bDlfR7PgCbBdBdRa3KIshBjq91kmx/Xt/psz3ppMADPOqxy53CHJ3nf5BcgHj1EvPMs4R7F51XbtFkQr24FgUmYHjS0o5GxX9nj7PTcwn1zhWDc+1hN3FlW9a9aHoNALzxKL/DXzrZDCcLZd+Gd4YdzIYRfm39CncSgs0GNgt7VpkOkSg5gOzahCHOYlHqEiLI//5ew8C6MCGCCzhWGPq5hub6K45SNbbtS4JaaGwUAGnL456PzXtTmdGOo7k1hn9Vdo7tbX+qTF6eCJJ4GbWc9GUN1ybczk9IJhXGLfKyf+XFHB/wWeUPVEiwgXq2YbT+FUTosiKzYom1V9Yto3bsL+HmEn56IxQyBqEcnTY5zM93cahfLv+msznNvMtDAHRn7aT1BSu81wicsNA==;VUXhUofGGOPJxup6H81Mog=="
 ---
 

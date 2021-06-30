@@ -41,22 +41,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Self-Driving Tech Company Pony.ai Considers Going Public"
-    excerpt: "Pony.ai, a self-driving tech firm backed by Toyota, is mulling going public to help finance its goal of commercializing driverless ride-hailing."
-    publishedDateTime: 2021-06-25T16:26:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-tech-company-pony-ai-considers-going-public/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-tech-company-pony-ai-considers-going-public/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-tech-company-pony-ai-considers-going-public/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
     publishedDateTime: 2021-06-26T01:30:00Z
@@ -72,6 +56,20 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Startup Using AI to Improve Animal Breeding"
+    excerpt: "A startup in Hancock County is using artificial intelligence technology to help livestock farmers improve their animal breeding efforts. Verility LLC has developed a device called Fertile-Eyez, which"
+    publishedDateTime: 2021-06-29T17:54:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44208575/startup-using-ai-to-improve-animal-breeding"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20962823_G.jpg?lastEditedDate=1624973444000"
+        width: 960
+        height: 540
         isCached: true
   - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"

@@ -24,70 +24,93 @@ images:
     isCached: true
 
 related:
-  - title: "Ag tech is working to improve farming with the help of AI, IoT, computer vision and more"
-    excerpt: "These leading technologies will play pivotal roles in transforming farming practices to help feed a growing world population."
-    publishedDateTime: 2021-06-25T16:07:00Z
-    webUrl: "https://www.techrepublic.com/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ag-tech-is-working-to-improve-farming-with-the-help-of-ai-iot-computer-vision-and-more/"
+  - title: "EXCLUSIVE-Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving startups such as Alphabet Inc’s Waymo and General ... Pony.ai, founded by former Google and Baidu Inc engineers Peng and Lou Tiancheng in 2016, has so far raised more than $1 billion, including $462 million from Toyota, valuing the startup ..."
+    publishedDateTime: 2021-06-28T09:06:00Z
+    webUrl: "https://cn.reuters.com/article/autonomous-ponyai-ipo-idCNL3N2O70X9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL3N2O70X9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2O70X9"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/06/25/22b8a7b9-529b-4243-92a0-490a432fb750/resize/1200x/1bdbc397c8c1c5c174bbf20591edd38e/smart-farming.jpg"
-        width: 1200
-        height: 900
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566947948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O0G8"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Artificial Intelligence Can Now Taste - Transforming Winemaking With Tastry"
-    excerpt: "Tastry, a sensory science company, has merged AI and advanced chemistry to teach computers to “taste.” Now their technology is helping consumers find great wines, and providing insight to wineries and retailers about the wines people love to drink."
-    publishedDateTime: 2021-06-28T04:23:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/amp/"
+  - title: "Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States..Self-driving startups such as Alphabet Inc's Waymo and General Motors Co's Cruise have been racing to raise capital as the industry prepares to scale up operations."
+    publishedDateTime: 2021-06-26T01:30:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public-41624622848494.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/toyotabacked-self-driving-startup-pony-ai-considers-going-public/amp-41624622848494.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d94e3b36a85016d66b2dfb%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "How is AI transforming the education industry"
-    excerpt: "The purpose behind application of AI in education is not to replace teachers, but give them a helping hand in understanding the potential and limitations of each student."
-    publishedDateTime: 2021-06-28T05:38:00Z
-    webUrl: "https://www.dqindia.com/ai-transforming-education-industry/"
-    ampWebUrl: "https://www.dqindia.com/ai-transforming-education-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-transforming-education-industry/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/edtech-innovations-higher-education_opt.jpg"
-        width: 850
-        height: 519
-        isCached: true
-  - title: "The AI revolution coming to Skyrim and The Witcher 3’s mod scenes"
-    excerpt: "Videogames are uniquely positioned to take advantage of AI at almost every stage of their production. AI is already behind world-building tools for artists, voice filtering in multiplayer, more intelligent bots,"
-    publishedDateTime: 2021-06-29T11:14:00Z
-    webUrl: "https://www.pcgamesn.com/the-elder-scrolls-v-skyrim/ai-mod-witcher-3"
-    ampWebUrl: "https://www.pcgamesn.com/the-elder-scrolls-v-skyrim/ai-mod-witcher-3?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/the-elder-scrolls-v-skyrim/ai-mod-witcher-3?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 59
     images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2021/06/skyrim-mod-with-ai-wyrmstooth-5-900x506.jpg"
-        width: 900
-        height: 506
+      - url: "https://images.hindustantimes.com/auto/img/2021/06/25/600x338/9511e106-3221-11ea-abf9-d6598481f54e_1578554866586_1624622918691.jpg"
+        width: 600
+        height: 338
         isCached: true
+  - title: "Self-Driving Startup Pony.ai Eyes U.S. IPO in Intensifying Funding Race"
+    excerpt: "Pony.ai is mulling a U.S. IPO as it seeks more funds to support R&D and the commercialization of its autonomous vehicle services. That was CEO James Peng’s message in a recent interview with Reuters,"
+    publishedDateTime: 2021-06-28T10:19:00Z
+    webUrl: "https://www.caixinglobal.com/2021-06-28/self-driving-startup-ponyai-eyes-us-ipo-in-intensifying-funding-race-101732851.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2021-06-28/1624875462282569_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
+  - title: "Exclusive: Toyota-backed self-driving startup Pony.ai considers going public"
+    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, is considering going public in the United States to help fund its goal of"
+    publishedDateTime: 2021-06-25T22:15:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/exclusive--toyota-backed-self-driving-startup-pony-ai-considers-going-public-15091266"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15091302/16x9/991/557/ba62d8a31ab1d2cf87e7acadd4a4cfc7/gZ/a-screen-showing-traffic-and-other-objects-is-seen-inside-a-vehicle-equipped-with-pony-ai-s-self-driving-technology-during-a-demonstration-in-fremont-4.jpg"
+        width: 991
+        height: 557
+        isCached: true
+  - title: "Toyota-backed self-driving tech unicorn Pony.ai hires CFO, mulls going public"
+    excerpt: "Pony.ai hires former JPMorgan banker Lawrence Steyn as CFO, saying he will help drive the company's next phase of growth."
+    publishedDateTime: 2021-06-25T22:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/06/25/ponyai-hires-cfo-mulls-doing-an-ipo.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
+  - title: "Amazon to collaborate with self-driving startup Plus"
+    excerpt: "Amazon has entered into an agreement with Plus, a self-driving freight startup, to retrofit 1,000 trucks. According to Bloomberg, under the agreement, Amazon has an option to acquire up to 20% equity stake based on the purchase of up to $150 million of Plus' products."
+    publishedDateTime: 2021-06-25T20:23:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16866/amazon-to-collaborate-with-self-driving-startup-plus"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
+  - title: "Toyota chief personally invests ¥5 bil in self-driving smart city"
+    excerpt: "NAGOYA: Toyota Motor President Akio Toyoda has invested ¥ 5 billion of his own money into a group unit building a smart city dominated by self-driving vehicles. The investment in Woven Planet Holdings during the last fiscal year ended March was revealed in its annual securities report filed Thursday."
+    publishedDateTime: 2021-06-29T09:32:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/06/29/toyota-chief-personally-invests-¥5-bil-in-self-driving-smart-city/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "T37oyGLEzPf5ggNJihVxTcd/Tf4zNGctYISKlcukr6vEPB+DCb0wTKzQxRkCV8H1uSYDEk73mw55R7NRMvcPfK5CYTmnhX6Jq/7q7PBBW+i/ya5tlRmIdugmvOSlBfjB4h6hQGrklIrm41pp7tLnuUg7jN9TNK5Y95mhYoVUbTZMLCkqmml2pBqNYyXcWle4jjN3LWknxZG8Qm0ydB2/sHi1NFANKbJoQl230Y2tNkR5Ys4R2hsYZhzYuVMO3VUvroGo9xzQRfco7I60hn5xomKBZzGvKUkGb42y+RTcomglxqKg5Oaxgn599GMPCvkDvvILuPX0vZsX0DN648yn/AevWzNRSjmPsD4tCUabQkP4D+XjnGxayibggCYOK+RmF5l+uiWBtGFdFrOhLRPft9wu5/M3+myOvl9HpputP9/AixpmZl/UKJqx7Ax+YYiWwnA/vEksRZIm6rf7ircChEHjyjFux9DEmlI/SGGRnlC+XT/HZI5sIUkl6iWfxFUtC+hA28QzzrqU1q8Uhynt4A==;wTGWiRWxHA67xPHDMCJHbw=="
 ---

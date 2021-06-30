@@ -55,34 +55,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Will the proposed EU AI rules become the GDPR for biometrics?"
-    excerpt: "As new regulations governing AI and biometrics technology come into effect, explainability and comprehensibility will become the standard."
-    publishedDateTime: 2021-06-25T16:44:00Z
-    webUrl: "https://www.biometricupdate.com/202106/will-the-proposed-eu-ai-rules-become-the-gdpr-for-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/03/30132833/E7DD10E3-E8ED-483A-B0C2-B2B87A7DEA95.jpeg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Aculab voice biometrics system authenticates non-verbal speakers"
-    excerpt: "Digital analyst Reece Wheeler discusses the importance of developing voice biometrics solutions designed to support non-verbal speech."
-    publishedDateTime: 2021-06-25T16:02:00Z
-    webUrl: "https://www.biometricupdate.com/202106/aculab-voice-biometrics-system-authenticates-non-verbal-speakers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
 
 secured: "XQOPslAvteguF/Y30xwHo39+l6iA84Hfv4NRdivylCs8/HdgEPnfywmYtLw+leaPeIw9qca/cVJdcIEGrCnWKa40EIl47HKL3BZZuh5TOTsk6dfgpDxXYiliGxfkZHOzOLa8ESvIzqHwjmGmT1/PW2kUG6YVUKqS43Lbd2fltwtjwQ6evYhQ3XIkdOWx2/tRSaSlR9wOiOSiDiMEJ5RGkJzsyWTUzdGeRzJltmF/itByjjM5GOlhpVaVHXplT2ECVqNzPXtT9s8+D1rbQr8Bd6qR1FfSBm6x8dZSZuxBuB6gvrj5AZ3mRdPNMPS3yxnNgc+Vv7DSFWDqkIjv1+fOP0RRppukYk69fTj4gweQdxw=;2gltZGqBPi+vxK0kKyFnxQ=="
 ---

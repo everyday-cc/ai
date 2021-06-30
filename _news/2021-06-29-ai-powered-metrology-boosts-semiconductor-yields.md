@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI-Powered Metrology Boosts Semiconductor Yields"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2021-06-29T12:17:00Z
-originalUrl: "https://www.cio.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
-webUrl: "https://www.cio.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2021-06-28T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
+webUrl: "https://www.computerworld.com/resources/220623/ai-powered-metrology-boosts-semiconductor-yields"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "P/FfrwhKHKXUn6PxHxlvxwORWAVWDUqQc39hSPtH3YYjkMJtox9JsSNx3catnb0mQaJIyKDAkl2RCRqZUQR5BOXcyqKCzbxQpfpIQ3KRC1jYCbViQ7Nxx3fDdcrl81J6ZuGf4iJplMf7CN65DvXsNaTo7vVM8Klu4jzNIaQnWa5x8kzcc4Z6TVdpUAj3TTjHjzaBZ/whO3HlaU4uzJ/oVCdc+U3dTl0XjtZ+qnlbhSEoFUgz2pnlLSejlT4ZzPoH3JE4Oc/3pvsDMhk2CQUEtNTFf2FMa5AjaFoVzLYZ3zgiDAh0eBhxZKzU4yJV3YOmvLYghQtXd7HtkEFE9eRIPwzWmt1pq/Kn5MSRIE5Y1UlyYS0CnNh0aWqmQfNumFUui3SFnDv1XXDzsfvt8odyXY1WzQd+q/nMvkGj/w+f6syhLNOPSUiYU6VTUjusm58q6BPDi4Pt0TCWWLzDPjJOpFQM/FnPuRTCNK/XDR2t8VyA87xL3XQYLkow1VTDSIj+m5Rnu4ctFADdn4feBDGbIw==;F3p7mfY+V72OlKOMU3AlvA=="
+secured: "2ZhnJfHI9r6Uz5+i0B313nt5H/fnb+7o4gA6eeWeQBw5nSdo/Tk16tQVMFYY8iQgH5j1xImNvT2Ugw7W2qyXJajW6BfZi9wxV5NWY13zay/Y1Ffkb0j0bEZuCqVelezz/mmckx6AtGExFO6fU3RM3Bh79gDib95TyxNrEnsONy0lIa/6k98NiGb3Lt+P+H9g21wPeQqwXkNKezdSO7wKslANYLAlvD6JwlPIQ/pAZKXiV2CS/t+Ssiam4WwmrkiIPM29SMEu27C4iNb/lL9GqxdvUo6K9ok4HCjY7ejI0x+MIgBLXWGKZ3UhrewY9riOqR5iHdiH4weOijTnhfLZiRNKKOCXwOVrhmEiGchotpE=;3/eFBAm9ZBfxw5ZIBQW05A=="
 ---
 

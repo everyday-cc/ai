@@ -24,17 +24,6 @@ images:
     height: 221
     isCached: true
 
-related:
-  - title: "New Intel XPU Innovations Target HPC and AI"
-    excerpt: "At ISC, Intel showcases how it is extending its lead in high performance computing with technology disclosures, partnerships and customer adoptions."
-    publishedDateTime: 2021-06-28T16:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210628005138/en/New-Intel-XPU-Innovations-Target-HPC-and-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-
 secured: "BWszN+q7vzD776mnTDX4Y0oIHf1JfooCsMMENptQ/okYvk4e8SeqoRyWq9w8sWKlcKhtb7eTnNsgYi8rMsHZ8oy/PjmFje9+a7UYtrNI4jAIu07AAuXm7TIrB5aBzk+XQQFN31a7MC9lKhCvQYT4KC1WXSA3MPLKlH3mgTpeS9y3g4g4otwHOgtzl1+6uGzpnw9WMosJVQPd3yfqU8tqRefx4QMuS1WYL9N9VhsQyOrXltxFvnAw2MxnJAtFE8hdHwnfX2aZYoVOZ6hsUPSZbldhhmszu3YDiabe3+QocKjbN6xoOVOqgDI6el30wGP9fUCXR79EK+pOI4eRjbEgbzjeZcmODTBsHBn1W+uQ8Y4=;nJkeH39ZV8N0ahM0K0NjWw=="
 ---
 

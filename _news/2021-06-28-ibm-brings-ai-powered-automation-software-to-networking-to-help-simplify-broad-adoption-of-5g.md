@@ -2,7 +2,7 @@
 category: news
 title: "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G"
 excerpt: "At Mobile World Congress 2021, IBM (NYSE: IBM) announced new hybrid cloud AI-powered automation software for communications service providers (CSPs) to help deliver on the promise of 5G, including zero-touch operations,"
-publishedDateTime: 2021-06-28T04:14:00Z
+publishedDateTime: 2021-06-28T06:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-1030557176"
 type: article
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - IBM AI
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
@@ -97,6 +97,6 @@ related:
         height: 788
         isCached: true
 
-secured: "MZa1Cp9CIX0t3H2lmF1XLBM9AM/6nRui6XRV3bVdVqEBLAEa/kXYpUqnL7isRPlfymtzSvH5K5LUUwGfp0ekg70ZToXLvSABb4bslbqSTvlAZA/tgKfhvmCWe2eqjgx4UkdJumTyHk6Vbx/0WbZMDcCsi251jjP3t3srrfp3cOT6qWxVCZCkAfLGH7RY+mz7hGfm9yaE5lxXQ8k4bHV0qnQrXOJeYE2dwCZAZX5w+WDqwjhaTMWUuNjnFLt0AIbeHrmHFdo89gf/jBlp3dfPicRXursmQmul/wkSu/v240pIUq0GjXA0aUFrEXZhNWax8PZfc4h0YhKcsk9AcjgfTpMmQylNVk5vagNd4S4S2xr2ipKDWLGupgbJybdb0Hm/eJBAYaOLMInW/q46AxzXy3GfTXdwpHCRboum7+atiguPCPJZ+Xj3AbU7A6uDapFB9DvuQg0c1nlzqOcneazlDOoC/MHtF/u5ecC9T/o9+slq5IAzMPimTbZHdUBsT5G6jf7rWnpw0xU+DzyOReQPHg==;vGBmlkP/q8V1sl0KSbSPDA=="
+secured: "fsHFrrn2w7SlExiV0dHpJKq4EW7sncpnXQZo5ww1ivdfXRrMb/PaYh0bJhcCHsa/d01NDSgIC50zzHwtaBKBprjN6Eg9y8FWjNE5KFFqjIlf/ko64npEfQfIasqu6MevvQpY+3dcMIImRIexo058v0e3Zx0wmFEdZxkY5rZNVfrFVynQfkZGXa+9U8B5yUt5c1KNDmDmhrMfdTxl4aBiGeW75qdxi4zSHXqN8iVTmWXZyVnNRlNV4NVZShZ+PRNlejKC6qaTLa1sGwONPUz9icIntg4noAwL38st+QXkGd+NgAQvLZ3YvPbAJIuv/P3peaaraHPXjSYa2onOCyfA59pXBGxIiT5m+UytGK1j1LE=;OK3sjY1pWM1xq2Pq47KnpQ=="
 ---
 

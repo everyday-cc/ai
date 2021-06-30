@@ -129,6 +129,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 27
+  - title: "Recognition and Touchless Sensing Market Study Reveals Growth Factors, Competitive Outlook for Future and Regional Forecast 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Recognition and Touchless Sensing"
+    publishedDateTime: 2021-06-30T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/recognition-and-touchless-sensing-market-study-reveals-growth-factors-competitive-outlook-for-future-and-regional-forecast-2030-2021-06-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Agriculture Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Artificial Intelligence (AI) in Agriculture Market size is being"
     publishedDateTime: 2021-06-29T07:32:00Z
@@ -214,6 +228,15 @@ related:
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Medical Diagnostics market report"
     publishedDateTime: 2021-06-29T08:34:00Z
     webUrl: "https://www.reportsnreports.com/reports/4621998-global-artificial-intelligence-ai-in-medical-diagnostics-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 2
+  - title: "Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence For IT Operations Platform Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Artificial Intelligence For IT"
+    publishedDateTime: 2021-06-30T07:49:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4624374-global-artificial-intelligence-for-it-operations-platform-market-size-status-and-forecast-2021-2027.html"
     type: article
     provider:
       name: ReportsnReports

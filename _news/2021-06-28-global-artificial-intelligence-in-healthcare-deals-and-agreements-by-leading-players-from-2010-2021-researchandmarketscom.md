@@ -3,8 +3,8 @@ category: news
 title: "Global Artificial Intelligence in Healthcare: Deals and Agreements by Leading Players From 2010-2021 - ResearchAndMarkets.com"
 excerpt: "Partnering Terms and Agreements 2010 to 2021” report has been added to ResearchAndMarkets.com’s offering. The Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2021 report provides an understanding and access to the artificial intelligence partnering deals and agreements entered into by the world’s leading healthcare companies."
 publishedDateTime: 2021-06-28T16:53:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
-webUrl: "https://apnews.com/press-release/BusinessWire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+originalUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
+webUrl: "https://apnews.com/press-release/business-wire/artificial-intelligence-business-technology-c8cf1d7a3c1e49999f2dbe3d728e684e"
 type: article
 quality: 27
 heat: -1
@@ -174,6 +174,6 @@ related:
         height: 229
         isCached: true
 
-secured: "FetHwe9TSqRHwtCp+l5oujOFnziq4PwHU/7GfEL8MQUdVY+TH2KGkzWO6mrNvSTzWGxD6mU8hEqrO3+uQxXsP7g+gkXndyKjHG+wDx0/6xrHWTdCa2aH+28YhTRhjaVpA2KlIM+662E8L28GrDCPwVMd+xWoZD0NNUchcCK29EQjP1zSetla0PM0sBDRtx/PEHRxIuNN1cMzwDYZWgDyJ20dChrZE3Y/Db+J3ii1ZeUh2Hz+2SQqP4HVPnMJAKvCsRFgJSRZBpdyq6T3ZdHbdD+/cc6pxrBAXrgPIWhqKivR6Rj9RvPShM0j3aE0RDU+KhYlLzkuH77/k1L3C+aV/dQN8f5PjPw2WenUVbDd0WI=;n6x6IHvLh163kyZ3Hgt72w=="
+secured: "GSV1qOM8i5KMNBMJP4xZswVlMwJ5PKPZNE1BbRT0hxeW99uzImFYUKjPfL5CtV0nUpP8yXKnn7kHHGyz+65QIUMow+FRJMAfqhuBsSwuSpMx+TwirJ+OEdvB8qUxj90g0pHRyPzdq2hLgQdoDrvkTR8TuOsf1pU/tJDlQIexGvXIUxiqcfCWxp/OMBCNzoTkkAYTtuSIK5DygwvsB8XYllxhw26gkISFxqzOkjc4a0JTdFGhh5tv3rXzXEUOB3CgNRHTMa/q6t26cXPsE0Aj59OhNc7+2jpxyJ+O25GqzceFt2VwAAy5Zd3PzzsmZid0qPtdmNqvq0ZJssEy+j8o8bl9NqwUHtB8LMGqTtcYJAE=;G5TqWHScDKoliDLTENnKHw=="
 ---
 

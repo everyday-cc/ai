@@ -159,49 +159,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-artificial-intelligence-ai-edge-computing-market-to-boom-in-near-future-by-2028-scrutinized-in-new-research.md",
-      "title": "Artificial Intelligence (AI) Edge Computing Market To Boom In Near Future By 2028 Scrutinized In New Research",
-      "excerpt": "The insight Partners Research has recently added a concise research on the Global Artificial Intelligence AI Edge Computing Market Industry Trends and Forecast to 2028 A reliable Global Artificial Intelligence AI Edge Computing Market report contains market data that can",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2315297/artificial-intelligence-ai-edge-computing-market-to-boom",
-      "originalUrl": "https://www.openpr.com/news/2315297/artificial-intelligence-ai-edge-computing-market-to-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U628810608_g.jpg",
-          "width": 700,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2315297/artificial-intelligence-ai-edge-computing-market-to-boom",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2315297/artificial-intelligence-ai-edge-computing-market-to-boom",
-      "publishedDateTime": "2021-06-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-28-hyperdrive-daily-a-car-prang-made-me-reflect-on-self-driving.md",
       "title": "Hyperdrive Daily: A Car Prang Made Me Reflect on Self-Driving",
       "excerpt": "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond.",
@@ -356,6 +313,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-how-tesla-is-using-a-supercomputer-to-train-its-self-driving-tech.md",
+      "title": "How Tesla is using a supercomputer to train its self-driving tech",
+      "excerpt": "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/tesla-self-driving-supercomputer/",
+      "originalUrl": "https://www.popsci.com/technology/tesla-self-driving-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/app/uploads/2021/06/25/ModelSPlaid-2.jpeg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving v9 beta update slips to next week, monthly subscription model follows"
-    excerpt: "Elon Musk is again updating the timeline for Tesla’s new Full Self-Driving v9 beta update, which is apparently now slipping to next week. Tesla’s new FSD subscription model should follow at the same time."
-    publishedDateTime: 2021-06-25T15:15:00Z
-    webUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/"
-    ampWebUrl: "https://electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/06/25/tesla-full-self-driving-v9-beta-update-slips-to-next-week-monthly-subscription-model-follows/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How Tesla is using a supercomputer to train its self-driving tech"
     excerpt: "The automaker's system includes a total of 5,760 GPUs. Tesla needs all that power to fuel its self-driving aspirations."
     publishedDateTime: 2021-06-26T09:00:00Z
@@ -64,6 +48,15 @@ related:
       name: acm.org
       domain: acm.org
     quality: 34
+  - title: "DeepRoute.ai, Level 4 Self-Driving Technology Provider, Supports Shenzhen During COVID-19 Outbreak by Transporting Test Samples"
+    excerpt: "Following a COVID-19 outbreak in China's most populous province, Guangdong, DeepRoute.ai is currently transporting approximately 14,000 COVID-19 test samples per day to local hospitals in Shenzhen for testing through its advanced self-driving technology."
+    publishedDateTime: 2021-06-29T16:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deeprouteai-level-4-self-driving-technology-provider-supports-/2021/06/29/9400205.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "a/DRWIANZj5V428UnvpNM++d+Qf0ctmA3CZ+VVGDZe/qXjAB80jjaC/byk42HSBfPb1iMOLgSn5gTU8hoOZolqvIfllfdodHmWZKLB+X0UP6FwWrD/TaVG00Ca9ZnIelLhpGzAWATzp9biksM5pxWFkL8BquABzWabVkLmnEK+RxrrF8SJgnlDnIsRliuOBrzB9h3g6Y4KkPc/hVOEVQe3uLxEfrpOnGhnLPjw/q5OuygizC1QSjOGuGuvwJWFtQ5yIexOFRE3VTPLoU/EV9gVThNE3jZUi6b+YFUC2Cyq4QlUN5zHPI/M19mGUB7XAXggTGzXf0/oNOTEqgCpVWzwFRg0pkOZxnU81RXhPrRaoYxa2aJwL3Wg/jd65Xel7Q1eLMl7N6dbir82jBsCJjjQs9H9wRugSI25p8xUX4Sr3WPNv9pjwohCSll9q+LWEmpytneN/a5lwVaYvkJsuyeva7oIcrc+pmlfwBCfAXUf/tEWDGUwb+8wNmu6S2tgnlptpQ2A01x8qQfMkpz3/+Yw==;Eq27R3onCbl/asJX7yrSyA=="
 ---

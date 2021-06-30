@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/06/29/nvidias-aerial-brings-gpus-to-ai-on-5g/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       - url: "https://www.rcrwireless.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-28-at-1.46.10-PM-1024x1024.png"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Doom Eternal and Battlefield 2042 get Nvidia RTX GPU upgrades"
+    excerpt: "Nvidia has announced that two big hitting games will be taking advantage of its RTX GPU enhancements. Doom Eternal has been updated to include ray tracing | Trusted Reviews"
+    publishedDateTime: 2021-06-30T09:14:00Z
+    webUrl: "https://www.trustedreviews.com/news/doom-eternal-and-battlefield-2042-get-nvidia-rtx-gpu-upgrades-4148472"
+    ampWebUrl: "https://www.trustedreviews.com/news/doom-eternal-and-battlefield-2042-get-nvidia-rtx-gpu-upgrades-4148472/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/doom-eternal-and-battlefield-2042-get-nvidia-rtx-gpu-upgrades-4148472/amp"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 59
+    images:
+      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/01/2507465e209add3ca495.82472530-Mars-Core-1024x576.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Is the Next Ansel Adams Going to Be a NVIDIA GPU?"
     excerpt: "While this view of the Tetons and Snake River, as made famous by Ansel Adam’s iconic photo, doesn’t have great resolution, there’s a reason for that. One of the biggest changes to photography might start with landscape photos just like this,"
